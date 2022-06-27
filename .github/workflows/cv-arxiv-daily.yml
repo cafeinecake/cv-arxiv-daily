@@ -15,7 +15,8 @@ on:
 
 env:
 
-
+  GITHUB_NAME: cafeinecake
+  GITHUB_EMAIL: cafeinecake@users.noreply.github.com
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
