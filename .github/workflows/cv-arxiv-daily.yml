@@ -46,6 +46,11 @@ jobs:
       - name: Run daily arxiv 
         run: |
           python daily_arxiv.py
+      - name: Commit files
+        run: |
+          git config --local user.email ${{ env.GITHUB_EMAIL }}
+          git config --local user.name ${{ env.GITHUB_NAME }}
+
           
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
