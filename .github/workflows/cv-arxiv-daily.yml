@@ -56,5 +56,5 @@ jobs:
           rebase: 'true'
           force-add: 'true'
           force-push: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
