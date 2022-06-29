@@ -1,7 +1,17 @@
-> Updated on 2022.06.27
+> Updated on 2022.06.29
 
 ## Astrophysics
 
+- 2022-06-28, **Variable Chaplygin Gas: Constraints from Supernovae and Gravitational Wave Merger Events**, Ashley Chraya et.al., Paper: [http://arxiv.org/abs/2206.14192v1](http://arxiv.org/abs/2206.14192v1)
+- 2022-06-28, **Infrared Radiation Feedback Does Not Regulate Star Cluster Formation or Drive Winds**, Shyam H. Menon et.al., Paper: [http://arxiv.org/abs/2206.14190v1](http://arxiv.org/abs/2206.14190v1)
+- 2022-06-28, **Radiative Magnetohydrodynamic Simulation of the Confined Eruption of a Magnetic Flux Rope: Magnetic Structure and Plasma Thermodynamics**, Can Wang et.al., Paper: [http://arxiv.org/abs/2206.14188v1](http://arxiv.org/abs/2206.14188v1)
+- 2022-06-28, **LIMFAST. II. Line Intensity Mapping as a Probe of High-Redshift Galaxy Formation**, Guochao Sun et.al., Paper: [http://arxiv.org/abs/2206.14186v1](http://arxiv.org/abs/2206.14186v1)
+- 2022-06-28, **LIMFAST. I. A Semi-Numerical Tool for Line Intensity Mapping**, Lluís Mas-Ribas et.al., Paper: [http://arxiv.org/abs/2206.14185v1](http://arxiv.org/abs/2206.14185v1)
+- 2022-06-28, **Biased tracers as a probe of beyond-$Λ$CDM cosmologies**, Farbod Hassani et.al., Paper: [http://arxiv.org/abs/2206.14179v1](http://arxiv.org/abs/2206.14179v1)
+- 2022-06-28, **Probing parity-odd bispectra with anisotropies of GW $V$ modes**, Giorgio Orlando et.al., Paper: [http://arxiv.org/abs/2206.14173v1](http://arxiv.org/abs/2206.14173v1)
+- 2022-06-28, **La orientación de las iglesias jesuíticas en América: resultados preliminares**, Adrian Di Paolo et.al., Paper: [http://arxiv.org/abs/2206.14162v1](http://arxiv.org/abs/2206.14162v1)
+- 2022-06-28, **A geometric mechanism of vacuum energy cancellation**, Alessio Belfiglio et.al., Paper: [http://arxiv.org/abs/2206.14158v1](http://arxiv.org/abs/2206.14158v1)
+- 2022-06-28, **Orbital parameters and activity of ZZ Tau -- a low mass young binary with circumbinary disc**, A. Belinski et.al., Paper: [http://arxiv.org/abs/2206.14154v1](http://arxiv.org/abs/2206.14154v1)
 - 2022-06-24, **Predicting the Stability of Hierarchical Triple Systems with Convolutional Neural Networks**, Florian Lalande et.al., Paper: [http://arxiv.org/abs/2206.12402v1](http://arxiv.org/abs/2206.12402v1)
 - 2022-06-24, **Dynamical Stability in presence of non-minimal derivative dependent coupling of $k$-essence field with a relativistic fluid**, Kaushik Bhattacharya et.al., Paper: [http://arxiv.org/abs/2206.12398v1](http://arxiv.org/abs/2206.12398v1)
 - 2022-06-24, **Measuring dark energy with expansion and growth**, Louis Perenon et.al., Paper: [http://arxiv.org/abs/2206.12375v1](http://arxiv.org/abs/2206.12375v1)
@@ -15,6 +25,16 @@
 
 ## AI
 
+- 2022-06-28, **Evaluating Understanding on Conceptual Abstraction Benchmarks**, Victor Vikram Odouard et.al., Paper: [http://arxiv.org/abs/2206.14187v1](http://arxiv.org/abs/2206.14187v1)
+- 2022-06-28, **The NLP Sandbox: an efficient model-to-data system to enable federated and unbiased evaluation of clinical NLP models**, Yao Yan et.al., Paper: [http://arxiv.org/abs/2206.14181v1](http://arxiv.org/abs/2206.14181v1)
+- 2022-06-28, **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**, Sangyun Lee et.al., Paper: [http://arxiv.org/abs/2206.14180v1](http://arxiv.org/abs/2206.14180v1)
+- 2022-06-28, **DayDreamer: World Models for Physical Robot Learning**, Philipp Wu et.al., Paper: [http://arxiv.org/abs/2206.14176v1](http://arxiv.org/abs/2206.14176v1)
+- 2022-06-28, **InvAASTCluster : On Applying Invariant-Based Program Clustering to Introductory Programming Assignments**, Pedro Orvalho et.al., Paper: [http://arxiv.org/abs/2206.14175v1](http://arxiv.org/abs/2206.14175v1)
+- 2022-06-28, **Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**, Mauro Martini et.al., Paper: [http://arxiv.org/abs/2206.14155v1](http://arxiv.org/abs/2206.14155v1)
+- 2022-06-28, **Collective ferromagnetism of artificial square spin ice**, N. S. Bingham et.al., Paper: [http://arxiv.org/abs/2206.14147v1](http://arxiv.org/abs/2206.14147v1)
+- 2022-06-28, **SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving**, Prarthana Bhattacharyya et.al., Paper: [http://arxiv.org/abs/2206.14116v1](http://arxiv.org/abs/2206.14116v1)
+- 2022-06-28, **RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network**, Vitaliy Chiley et.al., Paper: [http://arxiv.org/abs/2206.14098v1](http://arxiv.org/abs/2206.14098v1)
+- 2022-06-28, **Linear programming-based solution methods for constrained POMDPs**, Can Kavaklioglu et.al., Paper: [http://arxiv.org/abs/2206.14081v1](http://arxiv.org/abs/2206.14081v1)
 - 2022-06-24, **A Test for Evaluating Performance in Human-Computer Systems**, Andres Campero et.al., Paper: [http://arxiv.org/abs/2206.12390v1](http://arxiv.org/abs/2206.12390v1)
 - 2022-06-24, **Using BERT Embeddings to Model Word Importance in Conversational Transcripts for Deaf and Hard of Hearing Users**, Akhter Al Amin et.al., Paper: [http://arxiv.org/abs/2206.12368v1](http://arxiv.org/abs/2206.12368v1)
 - 2022-06-24, **Out of distribution robustness with pre-trained Bayesian neural networks**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2206.12361v1](http://arxiv.org/abs/2206.12361v1)
