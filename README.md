@@ -1,3 +1,4 @@
+
 ## Updated on 2022.06.30
 
 ## Astrophysics
@@ -50,3 +51,10 @@
 |**2022-06-24**|**Capture Salient Historical Information: A Fast and Accurate Non-Autoregressive Model for Multi-turn Spoken Language Understanding**|Lizhi Cheng et.al.|[2206.12209v1](http://arxiv.org/abs/2206.12209v1)|null|
 |**2022-06-24**|**MULTI-FLGANs: Multi-Distributed Adversarial Networks for Non-IID distribution**|Akash Amalan et.al.|[2206.12178v1](http://arxiv.org/abs/2206.12178v1)|null|
 
+
+## About the code
+This has been "borrowed" from http://vincentqin.tech/cv-arxiv-daily .
+### TODO 
+- [] Fix link to pdf directly
+- [] move topic to a config file instead of code 
+- [] Figure out the license? 
