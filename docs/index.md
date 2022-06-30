@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-29**|**Discovery of an optical cocoon tail behind the runaway HD 185806**|Z. T. Spetsieri et.al.|[2206.14806v1](http://arxiv.org/abs/2206.14806v1)|null|
+|**2022-06-29**|**Swift J0503.7-2819: A Short-Period Asynchronous Polar or Stream-Fed Intermediate Polar**|J. P. Halpern et.al.|[2206.14770v1](http://arxiv.org/abs/2206.14770v1)|null|
+|**2022-06-29**|**LOFAR discovery of rare large FR-I jets in low-luminosity radio galaxy NGC 5322**|Amitesh Omar et.al.|[2206.14734v1](http://arxiv.org/abs/2206.14734v1)|null|
+|**2022-06-29**|**Probing bumblebee gravity with black hole X-ray data**|Jiale Gu et.al.|[2206.14733v1](http://arxiv.org/abs/2206.14733v1)|null|
+|**2022-06-29**|**Interferometric HI intensity mapping: perturbation theory predictions and foreground removal effects**|Alkistis Pourtsidou et.al.|[2206.14727v1](http://arxiv.org/abs/2206.14727v1)|null|
+|**2022-06-29**|**Large Neutrino Asymmetry from TeV Scale Leptogenesis in the Light of Helium Anomaly**|Debasish Borah et.al.|[2206.14722v1](http://arxiv.org/abs/2206.14722v1)|null|
+|**2022-06-29**|**Gravitational wave production from preheating with trilinear interactions**|Catarina Cosme et.al.|[2206.14721v1](http://arxiv.org/abs/2206.14721v1)|null|
+|**2022-06-29**|**Quasinormal ringing of regular black holes in asymptotically safe gravity: the importance of overtones**|R. A. Konoplya et.al.|[2206.14714v1](http://arxiv.org/abs/2206.14714v1)|null|
+|**2022-06-29**|**Very Large Array Multi-band Radio Imaging of the Triple AGN Candidate SDSS J0849+1114**|Sijia Peng et.al.|[2206.14705v1](http://arxiv.org/abs/2206.14705v1)|null|
+|**2022-06-29**|**Four eccentric mergers increase the evidence that LIGO--Virgo--KAGRA's binary black holes form dynamically**|Isobel M. Romero-Shaw et.al.|[2206.14695v1](http://arxiv.org/abs/2206.14695v1)|null|
 |**2022-06-28**|**Variable Chaplygin Gas: Constraints from Supernovae and Gravitational Wave Merger Events**|Ashley Chraya et.al.|[2206.14192v1](http://arxiv.org/abs/2206.14192v1)|null|
 |**2022-06-28**|**Infrared Radiation Feedback Does Not Regulate Star Cluster Formation or Drive Winds**|Shyam H. Menon et.al.|[2206.14190v1](http://arxiv.org/abs/2206.14190v1)|null|
 |**2022-06-28**|**Radiative Magnetohydrodynamic Simulation of the Confined Eruption of a Magnetic Flux Rope: Magnetic Structure and Plasma Thermodynamics**|Can Wang et.al.|[2206.14188v1](http://arxiv.org/abs/2206.14188v1)|null|
@@ -33,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-29**|**Visual Foresight With a Local Dynamics Model**|Colin Kohler et.al.|[2206.14802v1](http://arxiv.org/abs/2206.14802v1)|null|
+|**2022-06-29**|**On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method**|Zorik Gekhman et.al.|[2206.14796v1](http://arxiv.org/abs/2206.14796v1)|**[link](https://github.com/zorikg/marcqap)**|
+|**2022-06-29**|**System-level Simulation of Reconfigurable Intelligent Surface assisted Wireless Communications System**|Qi Gu et.al.|[2206.14777v1](http://arxiv.org/abs/2206.14777v1)|null|
+|**2022-06-29**|**Modeling Teams Performance Using Deep Representational Learning on Graphs**|Francesco Carli et.al.|[2206.14741v1](http://arxiv.org/abs/2206.14741v1)|null|
+|**2022-06-29**|**longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks**|Venelin Kovatchev et.al.|[2206.14729v1](http://arxiv.org/abs/2206.14729v1)|null|
+|**2022-06-29**|**Trial2Vec: Zero-Shot Clinical Trial Document Similarity Search using Self-Supervision**|Zifeng Wang et.al.|[2206.14719v1](http://arxiv.org/abs/2206.14719v1)|null|
+|**2022-06-29**|**Optimal quantum control via genetic algorithms**|Jonathon Brown et.al.|[2206.14681v1](http://arxiv.org/abs/2206.14681v1)|null|
+|**2022-06-29**|**Is it possible not to cheat on the Turing Test: Exploring the potential and challenges for true natural language 'understanding' by computers**|Lize Alberts et.al.|[2206.14672v1](http://arxiv.org/abs/2206.14672v1)|null|
+|**2022-06-29**|**Towards a Data-Driven Requirements Engineering Approach: Automatic Analysis of User Reviews**|Jialiang Wei et.al.|[2206.14669v1](http://arxiv.org/abs/2206.14669v1)|null|
+|**2022-06-29**|**AI powered, automated discovery of polymer membranes for carbon capture**|Ronaldo Giro et.al.|[2206.14634v1](http://arxiv.org/abs/2206.14634v1)|null|
 |**2022-06-28**|**Evaluating Understanding on Conceptual Abstraction Benchmarks**|Victor Vikram Odouard et.al.|[2206.14187v1](http://arxiv.org/abs/2206.14187v1)|null|
 |**2022-06-28**|**The NLP Sandbox: an efficient model-to-data system to enable federated and unbiased evaluation of clinical NLP models**|Yao Yan et.al.|[2206.14181v1](http://arxiv.org/abs/2206.14181v1)|null|
 |**2022-06-28**|**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**|Sangyun Lee et.al.|[2206.14180v1](http://arxiv.org/abs/2206.14180v1)|**[link](https://github.com/sangyun884/hr-viton)**|
