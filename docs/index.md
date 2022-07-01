@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-30**|**First light of BEaTriX, the new testing facility for the modular X-ray optics of the ATHENA mission**|S. Basso et.al.|[2206.15468v1](http://arxiv.org/abs/2206.15468v1)|null|
+|**2022-06-30**|**Quijote PNG: The information content of the halo power spectrum and bispectrum**|William R Coulton et.al.|[2206.15450v1](http://arxiv.org/abs/2206.15450v1)|null|
+|**2022-06-30**|**Faro: A framework for measuring the scientific performance of petascale Rubin Observatory data products**|Leanne P. Guy et.al.|[2206.15447v1](http://arxiv.org/abs/2206.15447v1)|null|
+|**2022-06-30**|**Inferring dark matter halo properties for HI-selected galaxies**|Tariq Yasin et.al.|[2206.15443v1](http://arxiv.org/abs/2206.15443v1)|null|
+|**2022-06-30**|**Disentangling emission from star-forming regions in the Magellanic Clouds: Linking [OIII]88 micron and 24 micron**|Antigone Lambert-Huyghe et.al.|[2206.15417v1](http://arxiv.org/abs/2206.15417v1)|null|
+|**2022-06-30**|**Inferring the nuclear symmetry energy at supra saturation density from neutrino cooling**|Tuhin Malik et.al.|[2206.15404v1](http://arxiv.org/abs/2206.15404v1)|null|
+|**2022-06-30**|**The star formation history in the last 10 billion years from CIB cross-correlations**|Baptiste Jego et.al.|[2206.15394v1](http://arxiv.org/abs/2206.15394v1)|null|
+|**2022-06-30**|**Compact Binary Coalescences: Astrophysical Processes and Lessons Learned**|Mario Spera et.al.|[2206.15392v1](http://arxiv.org/abs/2206.15392v1)|null|
+|**2022-06-30**|**Constraining white dwarf tides from gravitational waves with LISA**|Sylvia Biscoveanu et.al.|[2206.15390v1](http://arxiv.org/abs/2206.15390v1)|null|
+|**2022-06-30**|**Line-Intensity Mapping: Theory Review**|José Luis Bernal et.al.|[2206.15377v1](http://arxiv.org/abs/2206.15377v1)|**[link](https://github.com/jl-bernal/lim)**|
 |**2022-06-29**|**Discovery of an optical cocoon tail behind the runaway HD 185806**|Z. T. Spetsieri et.al.|[2206.14806v1](http://arxiv.org/abs/2206.14806v1)|null|
 |**2022-06-29**|**Swift J0503.7-2819: A Short-Period Asynchronous Polar or Stream-Fed Intermediate Polar**|J. P. Halpern et.al.|[2206.14770v1](http://arxiv.org/abs/2206.14770v1)|null|
 |**2022-06-29**|**LOFAR discovery of rare large FR-I jets in low-luminosity radio galaxy NGC 5322**|Amitesh Omar et.al.|[2206.14734v1](http://arxiv.org/abs/2206.14734v1)|null|
@@ -43,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-30**|**Denoised MDPs: Learning World Models Better Than the World Itself**|Tongzhou Wang et.al.|[2206.15477v1](http://arxiv.org/abs/2206.15477v1)|**[link](https://github.com/facebookresearch/denoised_mdp)**|
+|**2022-06-30**|**Watch and Match: Supercharging Imitation with Regularized Optimal Transport**|Siddhant Haldar et.al.|[2206.15469v1](http://arxiv.org/abs/2206.15469v1)|null|
+|**2022-06-30**|**Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values**|Zijie J. Wang et.al.|[2206.15465v1](http://arxiv.org/abs/2206.15465v1)|null|
+|**2022-06-30**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
+|**2022-06-30**|**Evaluation of Performance-Trust vs Moral-Trust Violation in 3D Environment**|Maitry Ronakbhai Trivedi et.al.|[2206.15430v1](http://arxiv.org/abs/2206.15430v1)|null|
+|**2022-06-30**|**Sub-8-Bit Quantization Aware Training for 8-Bit Neural Network Accelerator with On-Device Speech Recognition**|Kai Zhen et.al.|[2206.15408v1](http://arxiv.org/abs/2206.15408v1)|null|
+|**2022-06-30**|**Shifts 2.0: Extending The Dataset of Real Distributional Shifts**|Andrey Malinin et.al.|[2206.15407v1](http://arxiv.org/abs/2206.15407v1)|**[link](https://github.com/shifts-project/shifts)**|
+|**2022-06-30**|**Learning Audio-Text Agreement for Open-vocabulary Keyword Spotting**|Hyeon-Kyeong Shin et.al.|[2206.15400v1](http://arxiv.org/abs/2206.15400v1)|null|
+|**2022-06-30**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformer**|Yanqin Jiang et.al.|[2206.15398v1](http://arxiv.org/abs/2206.15398v1)|null|
+|**2022-06-30**|**Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning**|John Nguyen et.al.|[2206.15387v1](http://arxiv.org/abs/2206.15387v1)|null|
 |**2022-06-29**|**Visual Foresight With a Local Dynamics Model**|Colin Kohler et.al.|[2206.14802v1](http://arxiv.org/abs/2206.14802v1)|**[link](https://github.com/colinkohler/localdynamicsmodel)**|
 |**2022-06-29**|**On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method**|Zorik Gekhman et.al.|[2206.14796v1](http://arxiv.org/abs/2206.14796v1)|**[link](https://github.com/zorikg/marcqap)**|
 |**2022-06-29**|**System-level Simulation of Reconfigurable Intelligent Surface assisted Wireless Communications System**|Qi Gu et.al.|[2206.14777v1](http://arxiv.org/abs/2206.14777v1)|null|
