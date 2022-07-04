@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-07-01, **Hard X-ray emission from the eastern jet of SS 433 powering the W50 `Manatee' nebula: Evidence for particle re-acceleration**, Samar Safi-Harb et.al., Paper: [http://arxiv.org/abs/2207.00573v1](http://arxiv.org/abs/2207.00573v1)
+- 2022-07-01, **Characterising the AGB bump and its potential to constrain mixing processes in stellar interiors**, G. Dréau et.al., Paper: [http://arxiv.org/abs/2207.00571v1](http://arxiv.org/abs/2207.00571v1)
+- 2022-07-01, **Catch-Me-If-You-Can: The Overshoot Problem and the Weak/Inflation Hierarchy**, Joseph P. Conlon et.al., Paper: [http://arxiv.org/abs/2207.00567v1](http://arxiv.org/abs/2207.00567v1)
+- 2022-07-01, **AIROPA III: Testing Simulated and On-Sky Data**, Paolo Turri et.al., Paper: [http://arxiv.org/abs/2207.00548v1](http://arxiv.org/abs/2207.00548v1)
+- 2022-07-01, **The infrared [WC] stars**, Albert Zijlstra et.al., Paper: [http://arxiv.org/abs/2207.00547v1](http://arxiv.org/abs/2207.00547v1)
+- 2022-07-01, **The Disordered Heterogeneous Universe: Galaxy Distribution and Clustering Across Length Scales**, Oliver H. E. Philcox et.al., Paper: [http://arxiv.org/abs/2207.00519v1](http://arxiv.org/abs/2207.00519v1)
+- 2022-07-01, **X-Ray Optics for Astrophysics: a historical review**, Finn E. Christensen et.al., Paper: [http://arxiv.org/abs/2207.00512v1](http://arxiv.org/abs/2207.00512v1)
+- 2022-07-01, **New, late-type spectroscopic binaries with X-ray emission**, A. Frasca et.al., Paper: [http://arxiv.org/abs/2207.00505v1](http://arxiv.org/abs/2207.00505v1)
+- 2022-07-01, **Using the polarization properties of double radio relics to probe the turbulent compression scenario**, C. Stuardi et.al., Paper: [http://arxiv.org/abs/2207.00503v1](http://arxiv.org/abs/2207.00503v1)
+- 2022-07-01, **Analysis of Voyager 1 and Voyager 2 in situ CME observations**, Skralan Hosteaux et.al., Paper: [http://arxiv.org/abs/2207.00471v1](http://arxiv.org/abs/2207.00471v1)
 - 2022-06-30, **First light of BEaTriX, the new testing facility for the modular X-ray optics of the ATHENA mission**, S. Basso et.al., Paper: [http://arxiv.org/abs/2206.15468v1](http://arxiv.org/abs/2206.15468v1)
 - 2022-06-30, **Quijote PNG: The information content of the halo power spectrum and bispectrum**, William R Coulton et.al., Paper: [http://arxiv.org/abs/2206.15450v1](http://arxiv.org/abs/2206.15450v1)
 - 2022-06-30, **Faro: A framework for measuring the scientific performance of petascale Rubin Observatory data products**, Leanne P. Guy et.al., Paper: [http://arxiv.org/abs/2206.15447v1](http://arxiv.org/abs/2206.15447v1)
@@ -45,6 +55,16 @@
 
 ## AI
 
+- 2022-07-01, **Single-Crystal Silicon Thermoelectrics by Phonon Engineering**, Thierno-Moussa Bah et.al., Paper: [http://arxiv.org/abs/2207.00535v1](http://arxiv.org/abs/2207.00535v1)
+- 2022-07-01, **Behavioral Player Rating in Competitive Online Shooter Games**, Arman Dehpanah et.al., Paper: [http://arxiv.org/abs/2207.00528v1](http://arxiv.org/abs/2207.00528v1)
+- 2022-07-01, **Training Novices: The Role of Human-AI Collaboration and Knowledge Transfer**, Philipp Spitzer et.al., Paper: [http://arxiv.org/abs/2207.00497v1](http://arxiv.org/abs/2207.00497v1)
+- 2022-07-01, **Personalized Diagnostic Tool for Thyroid Cancer Classification using Multi-view Ultrasound**, Han Huang et.al., Paper: [http://arxiv.org/abs/2207.00496v1](http://arxiv.org/abs/2207.00496v1)
+- 2022-07-01, **Learning Job Titles Similarity from Noisy Skill Labels**, Rabih Zbib et.al., Paper: [http://arxiv.org/abs/2207.00494v1](http://arxiv.org/abs/2207.00494v1)
+- 2022-07-01, **Online Reflective Learning for Robust Medical Image Segmentation**, Yuhao Huang et.al., Paper: [http://arxiv.org/abs/2207.00476v1](http://arxiv.org/abs/2207.00476v1)
+- 2022-07-01, **Agent with Tangent-based Formulation and Anatomical Perception for Standard Plane Localization in 3D Ultrasound**, Yuxin Zou et.al., Paper: [http://arxiv.org/abs/2207.00475v1](http://arxiv.org/abs/2207.00475v1)
+- 2022-07-01, **Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**, Jiamin Liang et.al., Paper: [http://arxiv.org/abs/2207.00474v1](http://arxiv.org/abs/2207.00474v1)
+- 2022-07-01, **Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**, Oliver Lloyd et.al., Paper: [http://arxiv.org/abs/2207.00473v1](http://arxiv.org/abs/2207.00473v1)
+- 2022-07-01, **Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning**, Jingda Wu et.al., Paper: [http://arxiv.org/abs/2207.00448v1](http://arxiv.org/abs/2207.00448v1)
 - 2022-06-30, **Denoised MDPs: Learning World Models Better Than the World Itself**, Tongzhou Wang et.al., Paper: [http://arxiv.org/abs/2206.15477v1](http://arxiv.org/abs/2206.15477v1), Code: **[https://github.com/facebookresearch/denoised_mdp](https://github.com/facebookresearch/denoised_mdp)**
 - 2022-06-30, **Watch and Match: Supercharging Imitation with Regularized Optimal Transport**, Siddhant Haldar et.al., Paper: [http://arxiv.org/abs/2206.15469v1](http://arxiv.org/abs/2206.15469v1)
 - 2022-06-30, **Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values**, Zijie J. Wang et.al., Paper: [http://arxiv.org/abs/2206.15465v1](http://arxiv.org/abs/2206.15465v1)
