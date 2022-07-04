@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.03
+## Updated on 2022.07.04
 
 ## Astrophysics
 
@@ -60,8 +60,8 @@ layout: default
 |**2022-06-30**|**Evaluation of Performance-Trust vs Moral-Trust Violation in 3D Environment**|Maitry Ronakbhai Trivedi et.al.|[2206.15430v1](http://arxiv.org/abs/2206.15430v1)|null|
 |**2022-06-30**|**Sub-8-Bit Quantization Aware Training for 8-Bit Neural Network Accelerator with On-Device Speech Recognition**|Kai Zhen et.al.|[2206.15408v1](http://arxiv.org/abs/2206.15408v1)|null|
 |**2022-06-30**|**Shifts 2.0: Extending The Dataset of Real Distributional Shifts**|Andrey Malinin et.al.|[2206.15407v1](http://arxiv.org/abs/2206.15407v1)|**[link](https://github.com/shifts-project/shifts)**|
-|**2022-06-30**|**Learning Audio-Text Agreement for Open-vocabulary Keyword Spotting**|Hyeon-Kyeong Shin et.al.|[2206.15400v1](http://arxiv.org/abs/2206.15400v1)|null|
-|**2022-06-30**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformer**|Yanqin Jiang et.al.|[2206.15398v1](http://arxiv.org/abs/2206.15398v1)|**[link](https://github.com/fudan-zvg/polarformer)**|
+|**2022-07-01**|**Learning Audio-Text Agreement for Open-vocabulary Keyword Spotting**|Hyeon-Kyeong Shin et.al.|[2206.15400v2](http://arxiv.org/abs/2206.15400v2)|null|
+|**2022-07-01**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformers**|Yanqin Jiang et.al.|[2206.15398v2](http://arxiv.org/abs/2206.15398v2)|**[link](https://github.com/fudan-zvg/polarformer)**|
 |**2022-06-30**|**Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning**|John Nguyen et.al.|[2206.15387v1](http://arxiv.org/abs/2206.15387v1)|null|
 |**2022-06-29**|**Visual Foresight With a Local Dynamics Model**|Colin Kohler et.al.|[2206.14802v1](http://arxiv.org/abs/2206.14802v1)|**[link](https://github.com/colinkohler/localdynamicsmodel)**|
 |**2022-06-29**|**On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method**|Zorik Gekhman et.al.|[2206.14796v1](http://arxiv.org/abs/2206.14796v1)|**[link](https://github.com/zorikg/marcqap)**|
