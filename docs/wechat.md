@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-07-04, **Beyond dark energy Fisher forecasts: how DESI will constrain LCDM and quintessence models**, Samuel Goldstein et.al., Paper: [http://arxiv.org/abs/2207.01612v1](http://arxiv.org/abs/2207.01612v1)
+- 2022-07-04, **Exploring realistic nanohertz gravitational-wave backgrounds**, Bence Bécsy et.al., Paper: [http://arxiv.org/abs/2207.01607v1](http://arxiv.org/abs/2207.01607v1)
+- 2022-07-04, **A new method to correct for host star variability in multi-epoch observations of exoplanet transmission spectra**, Vatsal Panwar et.al., Paper: [http://arxiv.org/abs/2207.01606v1](http://arxiv.org/abs/2207.01606v1)
+- 2022-07-04, **Quasi-simultaneous observations of radio and X-ray variability in three radio-quiet Seyfert galaxies**, Sina Chen et.al., Paper: [http://arxiv.org/abs/2207.01601v1](http://arxiv.org/abs/2207.01601v1)
+- 2022-07-04, **Galaxy number-count dipole and superhorizon fluctuations**, Guillem Domènech et.al., Paper: [http://arxiv.org/abs/2207.01569v1](http://arxiv.org/abs/2207.01569v1)
+- 2022-07-04, **Population properties and multimessenger prospects of neutron star-black hole mergers following GWTC-3**, Sylvia Biscoveanu et.al., Paper: [http://arxiv.org/abs/2207.01568v1](http://arxiv.org/abs/2207.01568v1)
+- 2022-07-04, **Searching for Transit Timing Variations and Fitting a New Ephemeris to Transits of TrES-1 b**, Paige Yeung et.al., Paper: [http://arxiv.org/abs/2207.01559v1](http://arxiv.org/abs/2207.01559v1)
+- 2022-07-04, **Optimized FLUKA cross sections for cosmic-ray propagation studies**, Pedro De la Torre Luque et.al., Paper: [http://arxiv.org/abs/2207.01553v1](http://arxiv.org/abs/2207.01553v1)
+- 2022-07-04, **Restoring cosmological concordance with early dark energy and massive neutrinos?**, Alexander Reeves et.al., Paper: [http://arxiv.org/abs/2207.01501v1](http://arxiv.org/abs/2207.01501v1)
+- 2022-07-04, **Distribution of solids in the rings of the HD 163296 disk: a multiwavelength study**, G. Guidi et.al., Paper: [http://arxiv.org/abs/2207.01496v1](http://arxiv.org/abs/2207.01496v1)
 - 2022-07-01, **Hard X-ray emission from the eastern jet of SS 433 powering the W50 `Manatee' nebula: Evidence for particle re-acceleration**, Samar Safi-Harb et.al., Paper: [http://arxiv.org/abs/2207.00573v1](http://arxiv.org/abs/2207.00573v1)
 - 2022-07-01, **Characterising the AGB bump and its potential to constrain mixing processes in stellar interiors**, G. Dréau et.al., Paper: [http://arxiv.org/abs/2207.00571v1](http://arxiv.org/abs/2207.00571v1)
 - 2022-07-01, **Catch-Me-If-You-Can: The Overshoot Problem and the Weak/Inflation Hierarchy**, Joseph P. Conlon et.al., Paper: [http://arxiv.org/abs/2207.00567v1](http://arxiv.org/abs/2207.00567v1)
@@ -55,6 +65,16 @@
 
 ## AI
 
+- 2022-07-04, **A Framework for Auditing Multilevel Models using Explainability Methods**, Debarati Bhaumik et.al., Paper: [http://arxiv.org/abs/2207.01611v1](http://arxiv.org/abs/2207.01611v1)
+- 2022-07-04, **Invariant and Transportable Representations for Anti-Causal Domain Shifts**, Yibo Jiang et.al., Paper: [http://arxiv.org/abs/2207.01603v1](http://arxiv.org/abs/2207.01603v1), Code: **[https://github.com/ybjiaang/actir](https://github.com/ybjiaang/actir)**
+- 2022-07-04, **Deep Learning for Short-term Instant Energy Consumption Forecasting in the Manufacturing Sector**, Nuno Oliveira et.al., Paper: [http://arxiv.org/abs/2207.01595v1](http://arxiv.org/abs/2207.01595v1)
+- 2022-07-04, **The Dichotomy of Cloud and IoT: Cloud-Assisted IoT From a Security Perspective**, Behrouz Zolfaghari et.al., Paper: [http://arxiv.org/abs/2207.01590v1](http://arxiv.org/abs/2207.01590v1)
+- 2022-07-04, **Interpretable Fusion Analytics Framework for fMRI Connectivity: Self-Attention Mechanism and Latent Space Item-Response Model**, Jeong-Jae Kim et.al., Paper: [http://arxiv.org/abs/2207.01581v1](http://arxiv.org/abs/2207.01581v1)
+- 2022-07-04, **Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks**, Yongming Rao et.al., Paper: [http://arxiv.org/abs/2207.01580v1](http://arxiv.org/abs/2207.01580v1), Code: **[https://github.com/raoyongming/DynamicViT](https://github.com/raoyongming/DynamicViT)**
+- 2022-07-04, **Quantum Neural Network Compression**, Zhirui Hu et.al., Paper: [http://arxiv.org/abs/2207.01578v1](http://arxiv.org/abs/2207.01578v1)
+- 2022-07-04, **Back to MLP: A Simple Baseline for Human Motion Prediction**, Wen Guo et.al., Paper: [http://arxiv.org/abs/2207.01567v1](http://arxiv.org/abs/2207.01567v1), Code: **[https://github.com/dulucas/simlpe](https://github.com/dulucas/simlpe)**
+- 2022-07-04, **Efficient Lung Cancer Image Classification and Segmentation Algorithm Based on Improved Swin Transformer**, Ruina Sun et.al., Paper: [http://arxiv.org/abs/2207.01527v1](http://arxiv.org/abs/2207.01527v1)
+- 2022-07-04, **ViRel: Unsupervised Visual Relations Discovery with Graph-level Analogy**, Daniel Zeng et.al., Paper: [http://arxiv.org/abs/2207.00590v1](http://arxiv.org/abs/2207.00590v1)
 - 2022-07-01, **Single-Crystal Silicon Thermoelectrics by Phonon Engineering**, Thierno-Moussa Bah et.al., Paper: [http://arxiv.org/abs/2207.00535v1](http://arxiv.org/abs/2207.00535v1)
 - 2022-07-01, **Behavioral Player Rating in Competitive Online Shooter Games**, Arman Dehpanah et.al., Paper: [http://arxiv.org/abs/2207.00528v1](http://arxiv.org/abs/2207.00528v1)
 - 2022-07-01, **Training Novices: The Role of Human-AI Collaboration and Knowledge Transfer**, Philipp Spitzer et.al., Paper: [http://arxiv.org/abs/2207.00497v1](http://arxiv.org/abs/2207.00497v1)
