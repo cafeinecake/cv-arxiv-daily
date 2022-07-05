@@ -1,4 +1,4 @@
-## Updated on 2022.07.04
+## Updated on 2022.07.05
 
 ## Astrophysics
 
@@ -67,7 +67,7 @@
 |**2022-07-01**|**Online Reflective Learning for Robust Medical Image Segmentation**|Yuhao Huang et.al.|[2207.00476v1](http://arxiv.org/abs/2207.00476v1)|null|
 |**2022-07-01**|**Agent with Tangent-based Formulation and Anatomical Perception for Standard Plane Localization in 3D Ultrasound**|Yuxin Zou et.al.|[2207.00475v1](http://arxiv.org/abs/2207.00475v1)|null|
 |**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
-|**2022-07-01**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v1](http://arxiv.org/abs/2207.00473v1)|null|
+|**2022-07-04**|**Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality**|Oliver Lloyd et.al.|[2207.00473v2](http://arxiv.org/abs/2207.00473v2)|null|
 |**2022-07-01**|**Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning**|Jingda Wu et.al.|[2207.00448v1](http://arxiv.org/abs/2207.00448v1)|null|
 |**2022-06-30**|**Denoised MDPs: Learning World Models Better Than the World Itself**|Tongzhou Wang et.al.|[2206.15477v1](http://arxiv.org/abs/2206.15477v1)|**[link](https://github.com/facebookresearch/denoised_mdp)**|
 |**2022-06-30**|**Watch and Match: Supercharging Imitation with Regularized Optimal Transport**|Siddhant Haldar et.al.|[2206.15469v1](http://arxiv.org/abs/2206.15469v1)|null|
