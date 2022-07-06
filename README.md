@@ -1,4 +1,4 @@
-## Updated on 2022.07.05
+## Updated on 2022.07.06
 
 ## Astrophysics
 
@@ -75,7 +75,7 @@
 |**2022-07-04**|**The Dichotomy of Cloud and IoT: Cloud-Assisted IoT From a Security Perspective**|Behrouz Zolfaghari et.al.|[2207.01590v1](http://arxiv.org/abs/2207.01590v1)|null|
 |**2022-07-04**|**Interpretable Fusion Analytics Framework for fMRI Connectivity: Self-Attention Mechanism and Latent Space Item-Response Model**|Jeong-Jae Kim et.al.|[2207.01581v1](http://arxiv.org/abs/2207.01581v1)|null|
 |**2022-07-04**|**Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks**|Yongming Rao et.al.|[2207.01580v1](http://arxiv.org/abs/2207.01580v1)|**[link](https://github.com/raoyongming/DynamicViT)**|
-|**2022-07-04**|**Quantum Neural Network Compression**|Zhirui Hu et.al.|[2207.01578v1](http://arxiv.org/abs/2207.01578v1)|null|
+|**2022-07-05**|**Quantum Neural Network Compression**|Zhirui Hu et.al.|[2207.01578v2](http://arxiv.org/abs/2207.01578v2)|null|
 |**2022-07-04**|**Back to MLP: A Simple Baseline for Human Motion Prediction**|Wen Guo et.al.|[2207.01567v1](http://arxiv.org/abs/2207.01567v1)|**[link](https://github.com/dulucas/simlpe)**|
 |**2022-07-04**|**Efficient Lung Cancer Image Classification and Segmentation Algorithm Based on Improved Swin Transformer**|Ruina Sun et.al.|[2207.01527v1](http://arxiv.org/abs/2207.01527v1)|null|
 |**2022-07-04**|**ViRel: Unsupervised Visual Relations Discovery with Graph-level Analogy**|Daniel Zeng et.al.|[2207.00590v1](http://arxiv.org/abs/2207.00590v1)|null|
