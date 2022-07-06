@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-05**|**walter: A Tool for Predicting Resolved Stellar Population Observations with Applications to the Roman Space Telescope**|Lachlan Lancaster et.al.|[2207.02208v1](http://arxiv.org/abs/2207.02208v1)|null|
+|**2022-07-05**|**Primary thermalisation mechanism of Early Universe observed from Faraday-wave scattering on liquid-liquid interfaces**|Vitor S. Barroso et.al.|[2207.02199v1](http://arxiv.org/abs/2207.02199v1)|null|
+|**2022-07-05**|**Observation of S4716 -- a Star with a 4 yr Orbit around Sgr A***|Florian Peißker et.al.|[2207.02142v1](http://arxiv.org/abs/2207.02142v1)|null|
+|**2022-07-05**|**On the effectiveness of null TDI channels as instrument noise monitors in LISA**|Martina Muratore et.al.|[2207.02138v1](http://arxiv.org/abs/2207.02138v1)|null|
+|**2022-07-05**|**Efficiently combining Alpha CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hrs NEAR campaign**|Hervé Le Coroller et.al.|[2207.02137v1](http://arxiv.org/abs/2207.02137v1)|null|
+|**2022-07-05**|**Impact of spatially correlated fluctuations in sunspots on metrics related to magnetic twist**|C. Baumgartner et.al.|[2207.02135v1](http://arxiv.org/abs/2207.02135v1)|null|
+|**2022-07-05**|**Finding the birthplace of HMXBs in the Galaxy using Gaia EDR3: kinematical age determination through orbit integration**|Francis Fortin et.al.|[2207.02114v1](http://arxiv.org/abs/2207.02114v1)|null|
+|**2022-07-05**|**Observational Predictions of LQG Motivated Polymerized Black Holes and Constraints From Sgr A* and M87***|Rahul Kumar Walia et.al.|[2207.02106v1](http://arxiv.org/abs/2207.02106v1)|null|
+|**2022-07-05**|**Second-order corrections to Starobinsky inflation**|G. Rodrigues-da-Silva et.al.|[2207.02103v1](http://arxiv.org/abs/2207.02103v1)|null|
+|**2022-07-05**|**High-energy neutrinos and gamma rays from winds and tori in active galactic nuclei**|Susumu Inoue et.al.|[2207.02097v1](http://arxiv.org/abs/2207.02097v1)|null|
 |**2022-07-04**|**Beyond dark energy Fisher forecasts: how DESI will constrain LCDM and quintessence models**|Samuel Goldstein et.al.|[2207.01612v1](http://arxiv.org/abs/2207.01612v1)|null|
 |**2022-07-04**|**Exploring realistic nanohertz gravitational-wave backgrounds**|Bence Bécsy et.al.|[2207.01607v1](http://arxiv.org/abs/2207.01607v1)|null|
 |**2022-07-04**|**A new method to correct for host star variability in multi-epoch observations of exoplanet transmission spectra**|Vatsal Panwar et.al.|[2207.01606v1](http://arxiv.org/abs/2207.01606v1)|null|
@@ -69,6 +79,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-05**|**Offline RL Policies Should be Trained to be Adaptive**|Dibya Ghosh et.al.|[2207.02200v1](http://arxiv.org/abs/2207.02200v1)|null|
+|**2022-07-05**|**CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations**|Jialu Li et.al.|[2207.02185v1](http://arxiv.org/abs/2207.02185v1)|**[link](https://github.com/jialuli-luka/clear)**|
+|**2022-07-05**|**Activation Template Matching Loss for Explainable Face Recognition**|Huawei Lin et.al.|[2207.02179v1](http://arxiv.org/abs/2207.02179v1)|null|
+|**2022-07-05**|**Tackling Real-World Autonomous Driving using Deep Reinforcement Learning**|Paolo Maramotti et.al.|[2207.02162v1](http://arxiv.org/abs/2207.02162v1)|null|
+|**2022-07-05**|**A Comprehensive Review of Visual-Textual Sentiment Analysis from Social Media Networks**|Israa Khalaf Salman Al-Tameemi et.al.|[2207.02160v1](http://arxiv.org/abs/2207.02160v1)|null|
+|**2022-07-05**|**Deep Learning for Finger Vein Recognition: A Brief Survey of Recent Trend**|Renye Zhang et.al.|[2207.02148v1](http://arxiv.org/abs/2207.02148v1)|null|
+|**2022-07-05**|**Numerical considerations and a new implementation for ICS**|Aurore Archimbaud et.al.|[2207.02131v1](http://arxiv.org/abs/2207.02131v1)|null|
+|**2022-07-05**|**Malware and Ransomware Detection Models**|Benjamin Marais et.al.|[2207.02108v1](http://arxiv.org/abs/2207.02108v1)|null|
+|**2022-07-05**|**Generating Game Levels of Diverse Behaviour Engagement**|Keyuan Zhang et.al.|[2207.02100v1](http://arxiv.org/abs/2207.02100v1)|**[link](https://github.com/sustechgameai/engagementmetrics)**|
+|**2022-07-05**|**Neural Networks and the Chomsky Hierarchy**|Grégoire Delétang et.al.|[2207.02098v1](http://arxiv.org/abs/2207.02098v1)|**[link](https://github.com/deepmind/neural_networks_chomsky_hierarchy)**|
 |**2022-07-04**|**A Framework for Auditing Multilevel Models using Explainability Methods**|Debarati Bhaumik et.al.|[2207.01611v1](http://arxiv.org/abs/2207.01611v1)|null|
 |**2022-07-04**|**Invariant and Transportable Representations for Anti-Causal Domain Shifts**|Yibo Jiang et.al.|[2207.01603v1](http://arxiv.org/abs/2207.01603v1)|**[link](https://github.com/ybjiaang/actir)**|
 |**2022-07-04**|**Deep Learning for Short-term Instant Energy Consumption Forecasting in the Manufacturing Sector**|Nuno Oliveira et.al.|[2207.01595v1](http://arxiv.org/abs/2207.01595v1)|null|
