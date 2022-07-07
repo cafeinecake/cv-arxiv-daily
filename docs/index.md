@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**On the radiative losses in the chromosphere during a C-class flare**|Rahul Yadav et.al.|[2207.02840v1](http://arxiv.org/abs/2207.02840v1)|null|
+|**2022-07-06**|**Characterising the orbit and circumstellar environment of the high-mass binary MWC 166 A**|Sebastian A. Zarrilli et.al.|[2207.02836v1](http://arxiv.org/abs/2207.02836v1)|null|
+|**2022-07-06**|**Bouncing universe dual to the concordance model: Scalar-tensor theories in the Jordan frame**|Dipayan Mukherjee et.al.|[2207.02835v1](http://arxiv.org/abs/2207.02835v1)|null|
+|**2022-07-06**|**An Unsupervised Learning Approach for Quasar Continuum Prediction**|Zechang Sun et.al.|[2207.02788v1](http://arxiv.org/abs/2207.02788v1)|null|
+|**2022-07-06**|**Astroconformer: Inferring Surface Gravity of Stars from Stellar Light Curves with Transformer**|Jiashu Pan et.al.|[2207.02787v1](http://arxiv.org/abs/2207.02787v1)|null|
+|**2022-07-06**|**Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows**|Kwok Sun Tang et.al.|[2207.02786v1](http://arxiv.org/abs/2207.02786v1)|null|
+|**2022-07-06**|**Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows**|Ioana Ciuca et.al.|[2207.02785v1](http://arxiv.org/abs/2207.02785v1)|null|
+|**2022-07-06**|**Atomic diffusion and turbulent mixing in solar-like stars: Impact on the fundamental properties of FG-type stars**|Nuno Moedas et.al.|[2207.02779v1](http://arxiv.org/abs/2207.02779v1)|null|
+|**2022-07-06**|**Don't Pay Attention to the Noise: Learning Self-supervised Representations of Light Curves with a Denoising Time Series Transformer**|Mario Morvan et.al.|[2207.02777v1](http://arxiv.org/abs/2207.02777v1)|**[link](https://github.com/mariomorvan/denoising-time-series-transformer)**|
+|**2022-07-06**|**Forecasting the detection capabilities of third-generation gravitational-wave detectors using $\texttt{GWFAST}$**|Francesco Iacovelli et.al.|[2207.02771v1](http://arxiv.org/abs/2207.02771v1)|**[link](https://github.com/cosmostatgw/gwfast)**|
 |**2022-07-05**|**walter: A Tool for Predicting Resolved Stellar Population Observations with Applications to the Roman Space Telescope**|Lachlan Lancaster et.al.|[2207.02208v1](http://arxiv.org/abs/2207.02208v1)|null|
 |**2022-07-05**|**Primary thermalisation mechanism of Early Universe observed from Faraday-wave scattering on liquid-liquid interfaces**|Vitor S. Barroso et.al.|[2207.02199v1](http://arxiv.org/abs/2207.02199v1)|null|
 |**2022-07-05**|**Observation of S4716 -- a Star with a 4 yr Orbit around Sgr A***|Florian Peißker et.al.|[2207.02142v1](http://arxiv.org/abs/2207.02142v1)|null|
@@ -83,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Distributional neural networks for electricity price forecasting**|Grzegorz Marcjasz et.al.|[2207.02832v1](http://arxiv.org/abs/2207.02832v1)|null|
+|**2022-07-06**|**A multi-task network approach for calculating discrimination-free insurance prices**|Mathias Lindholm et.al.|[2207.02799v1](http://arxiv.org/abs/2207.02799v1)|null|
+|**2022-07-06**|**Open system control of dynamical transitions under the generalized Kruskal-Neishtadt-Henrard theorem**|Diego M. Fieguth et.al.|[2207.02768v1](http://arxiv.org/abs/2207.02768v1)|null|
+|**2022-07-06**|**Graph Trees with Attention**|Maya Bechler-Speicher et.al.|[2207.02760v1](http://arxiv.org/abs/2207.02760v1)|null|
+|**2022-07-06**|**Robust Counterfactual Explanations for Tree-Based Ensembles**|Sanghamitra Dutta et.al.|[2207.02739v1](http://arxiv.org/abs/2207.02739v1)|null|
+|**2022-07-06**|**Real-Time Gesture Recognition with Virtual Glove Markers**|Finlay McKinnon et.al.|[2207.02729v1](http://arxiv.org/abs/2207.02729v1)|null|
+|**2022-07-06**|**Towards the Use of Saliency Maps for Explaining Low-Quality Electrocardiograms to End Users**|Ana Lucic et.al.|[2207.02726v1](http://arxiv.org/abs/2207.02726v1)|null|
+|**2022-07-06**|**Variational Flow Graphical Model**|Shaogang Ren et.al.|[2207.02722v1](http://arxiv.org/abs/2207.02722v1)|null|
+|**2022-07-06**|**Deep Learning approach for Classifying Trusses and Runners of Strawberries**|Jakub Pomykala et.al.|[2207.02721v1](http://arxiv.org/abs/2207.02721v1)|null|
+|**2022-07-06**|**History of ARIES: A premier research institute in the area of observational sciences**|Ram Sagar et.al.|[2207.02710v1](http://arxiv.org/abs/2207.02710v1)|null|
 |**2022-07-05**|**Offline RL Policies Should be Trained to be Adaptive**|Dibya Ghosh et.al.|[2207.02200v1](http://arxiv.org/abs/2207.02200v1)|null|
 |**2022-07-05**|**CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations**|Jialu Li et.al.|[2207.02185v1](http://arxiv.org/abs/2207.02185v1)|**[link](https://github.com/jialuli-luka/clear)**|
 |**2022-07-05**|**Activation Template Matching Loss for Explainable Face Recognition**|Huawei Lin et.al.|[2207.02179v1](http://arxiv.org/abs/2207.02179v1)|null|
