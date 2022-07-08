@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-07**|**ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques**|Chima D. McGruder et.al.|[2207.03479v1](http://arxiv.org/abs/2207.03479v1)|null|
+|**2022-07-07**|**Inferring Structural Parameters of Low-Surface-Brightness-Galaxies with Uncertainty Quantification using Bayesian Neural Networks**|Dimitrios Tanoglidis et.al.|[2207.03471v1](http://arxiv.org/abs/2207.03471v1)|**[link](https://github.com/dtanoglidis/bnn_lsbgs_icml)**|
+|**2022-07-07**|**NICER X-ray Observations of Eta Carinae During its Most Recent Periastron Passage**|David Espinoza-Galeas et.al.|[2207.03457v1](http://arxiv.org/abs/2207.03457v1)|null|
+|**2022-07-07**|**Relativistic distortions in galaxy density-ellipticity correlations: gravitational redshift and peculiar velocity effects**|Shohei Saga et.al.|[2207.03454v1](http://arxiv.org/abs/2207.03454v1)|null|
+|**2022-07-07**|**Centrifugal Barrier and Super-Keplerian Rotation in Protostellar Disk Formation**|Dylan C. Jones et.al.|[2207.03443v1](http://arxiv.org/abs/2207.03443v1)|null|
+|**2022-07-07**|**Robustness of kinetic screening against matter coupling**|Guillermo Lara et.al.|[2207.03437v1](http://arxiv.org/abs/2207.03437v1)|null|
+|**2022-07-07**|**Subtracting glitches from gravitational-wave detector data during the third observing run**|D. Davis et.al.|[2207.03429v1](http://arxiv.org/abs/2207.03429v1)|null|
+|**2022-07-07**|**Millimeter wave spectrum and search for vinyl isocyanate toward Sgr B2(N) with ALMA**|K. Vávra et.al.|[2207.03417v1](http://arxiv.org/abs/2207.03417v1)|null|
+|**2022-07-07**|**Estimation of Galactic Spiral Density Wave Parameters Based on the Velocities of OB2 stars from the Gaia EDR3 Catalogue**|V. V. Bobylev et.al.|[2207.03412v1](http://arxiv.org/abs/2207.03412v1)|null|
+|**2022-07-07**|**On Weak Lensing Response Functions**|D. Munshi et.al.|[2207.03410v1](http://arxiv.org/abs/2207.03410v1)|null|
 |**2022-07-06**|**On the radiative losses in the chromosphere during a C-class flare**|Rahul Yadav et.al.|[2207.02840v1](http://arxiv.org/abs/2207.02840v1)|null|
 |**2022-07-06**|**Characterising the orbit and circumstellar environment of the high-mass binary MWC 166 A**|Sebastian A. Zarrilli et.al.|[2207.02836v1](http://arxiv.org/abs/2207.02836v1)|null|
 |**2022-07-06**|**Bouncing universe dual to the concordance model: Scalar-tensor theories in the Jordan frame**|Dipayan Mukherjee et.al.|[2207.02835v1](http://arxiv.org/abs/2207.02835v1)|null|
@@ -89,6 +99,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-07**|**Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**|Hanoona Rasheed et.al.|[2207.03482v1](http://arxiv.org/abs/2207.03482v1)|**[link](https://github.com/hanoonaR/object-centric-ovd)**|
+|**2022-07-07**|**For Learning in Symmetric Teams, Local Optima are Global Nash Equilibria**|Scott Emmons et.al.|[2207.03470v1](http://arxiv.org/abs/2207.03470v1)|**[link](https://github.com/scottemmons/coordination)**|
+|**2022-07-07**|**Stochastic optimal well control in subsurface reservoirs using reinforcement learning**|Atish Dixit et.al.|[2207.03456v1](http://arxiv.org/abs/2207.03456v1)|null|
+|**2022-07-07**|**Fairness and Bias in Robot Learning**|Laura Londoño et.al.|[2207.03444v1](http://arxiv.org/abs/2207.03444v1)|null|
+|**2022-07-07**|**SC2EGSet: StarCraft II Esport Replay and Game-state Dataset**|Andrzej Białecki et.al.|[2207.03428v1](http://arxiv.org/abs/2207.03428v1)|null|
+|**2022-07-07**|**AsNER -- Annotated Dataset and Baseline for Assamese Named Entity recognition**|Dhrubajyoti Pathak et.al.|[2207.03422v1](http://arxiv.org/abs/2207.03422v1)|null|
+|**2022-07-07**|**VecGAN: Image-to-Image Translation with Interpretable Latent Directions**|Yusuf Dalva et.al.|[2207.03411v1](http://arxiv.org/abs/2207.03411v1)|null|
+|**2022-07-07**|**Diagnosing and Remedying Shot Sensitivity with Cosine Few-Shot Learners**|Davis Wertheimer et.al.|[2207.03398v1](http://arxiv.org/abs/2207.03398v1)|null|
+|**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
+|**2022-07-07**|**Evolution of Popularity Bias: Empirical Study and Debiasing**|Ziwei Zhu et.al.|[2207.03372v1](http://arxiv.org/abs/2207.03372v1)|null|
 |**2022-07-06**|**Distributional neural networks for electricity price forecasting**|Grzegorz Marcjasz et.al.|[2207.02832v1](http://arxiv.org/abs/2207.02832v1)|null|
 |**2022-07-06**|**A multi-task network approach for calculating discrimination-free insurance prices**|Mathias Lindholm et.al.|[2207.02799v1](http://arxiv.org/abs/2207.02799v1)|null|
 |**2022-07-06**|**Open system control of dynamical transitions under the generalized Kruskal-Neishtadt-Henrard theorem**|Diego M. Fieguth et.al.|[2207.02768v1](http://arxiv.org/abs/2207.02768v1)|null|
