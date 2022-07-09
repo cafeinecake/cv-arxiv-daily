@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.08
+## Updated on 2022.07.09
 
 ## Astrophysics
 
@@ -105,14 +105,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-07**|**Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**|Hanoona Rasheed et.al.|[2207.03482v1](http://arxiv.org/abs/2207.03482v1)|**[link](https://github.com/hanoonaR/object-centric-ovd)**|
 |**2022-07-07**|**For Learning in Symmetric Teams, Local Optima are Global Nash Equilibria**|Scott Emmons et.al.|[2207.03470v1](http://arxiv.org/abs/2207.03470v1)|**[link](https://github.com/scottemmons/coordination)**|
-|**2022-07-07**|**Stochastic optimal well control in subsurface reservoirs using reinforcement learning**|Atish Dixit et.al.|[2207.03456v1](http://arxiv.org/abs/2207.03456v1)|null|
+|**2022-07-07**|**Stochastic optimal well control in subsurface reservoirs using reinforcement learning**|Atish Dixit et.al.|[2207.03456v1](http://arxiv.org/abs/2207.03456v1)|**[link](https://github.com/atishdixit16/rl_robust_owc)**|
 |**2022-07-07**|**Fairness and Bias in Robot Learning**|Laura Londoño et.al.|[2207.03444v1](http://arxiv.org/abs/2207.03444v1)|null|
-|**2022-07-07**|**SC2EGSet: StarCraft II Esport Replay and Game-state Dataset**|Andrzej Białecki et.al.|[2207.03428v1](http://arxiv.org/abs/2207.03428v1)|null|
+|**2022-07-07**|**SC2EGSet: StarCraft II Esport Replay and Game-state Dataset**|Andrzej Białecki et.al.|[2207.03428v1](http://arxiv.org/abs/2207.03428v1)|**[link](https://github.com/Kaszanas/SC2EGSet_Dataset)**|
 |**2022-07-07**|**AsNER -- Annotated Dataset and Baseline for Assamese Named Entity recognition**|Dhrubajyoti Pathak et.al.|[2207.03422v1](http://arxiv.org/abs/2207.03422v1)|null|
 |**2022-07-07**|**VecGAN: Image-to-Image Translation with Interpretable Latent Directions**|Yusuf Dalva et.al.|[2207.03411v1](http://arxiv.org/abs/2207.03411v1)|null|
 |**2022-07-07**|**Diagnosing and Remedying Shot Sensitivity with Cosine Few-Shot Learners**|Davis Wertheimer et.al.|[2207.03398v1](http://arxiv.org/abs/2207.03398v1)|null|
 |**2022-07-07**|**Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**|Alexandre Pasquiou et.al.|[2207.03380v1](http://arxiv.org/abs/2207.03380v1)|null|
-|**2022-07-07**|**Evolution of Popularity Bias: Empirical Study and Debiasing**|Ziwei Zhu et.al.|[2207.03372v1](http://arxiv.org/abs/2207.03372v1)|null|
+|**2022-07-07**|**Evolution of Popularity Bias: Empirical Study and Debiasing**|Ziwei Zhu et.al.|[2207.03372v1](http://arxiv.org/abs/2207.03372v1)|**[link](https://github.com/Zziwei/Popularity-Bias-in-Dynamic-Recommendation)**|
 |**2022-07-06**|**Distributional neural networks for electricity price forecasting**|Grzegorz Marcjasz et.al.|[2207.02832v1](http://arxiv.org/abs/2207.02832v1)|null|
 |**2022-07-06**|**A multi-task network approach for calculating discrimination-free insurance prices**|Mathias Lindholm et.al.|[2207.02799v1](http://arxiv.org/abs/2207.02799v1)|null|
 |**2022-07-06**|**Open system control of dynamical transitions under the generalized Kruskal-Neishtadt-Henrard theorem**|Diego M. Fieguth et.al.|[2207.02768v1](http://arxiv.org/abs/2207.02768v1)|null|
