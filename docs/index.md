@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-08**|**The halo bias inside cosmic voids**|Giovanni Verza et.al.|[2207.04039v1](http://arxiv.org/abs/2207.04039v1)|null|
+|**2022-07-08**|**Bayesian model comparison for simulation-based inference**|A. Spurio Mancini et.al.|[2207.04037v1](http://arxiv.org/abs/2207.04037v1)|null|
+|**2022-07-08**|**Thermal instability in radiation hydrodynamics: instability mechanisms, position-dependent S-curves, and attenuation curves**|Daniel Proga et.al.|[2207.04032v1](http://arxiv.org/abs/2207.04032v1)|null|
+|**2022-07-08**|**Chemical Abundances of the Typhon Stellar Stream**|Alexander P. Ji et.al.|[2207.04016v1](http://arxiv.org/abs/2207.04016v1)|null|
+|**2022-07-08**|**The Physics of Pulsar Halos: Research Progress and Prospect**|Ruo-Yu Liu et.al.|[2207.04011v1](http://arxiv.org/abs/2207.04011v1)|null|
+|**2022-07-08**|**Reduced variations in Earth's and Mars' orbital inclination and Earth's obliquity from 58 to 48 Myr ago due to solar system chaos**|Richard E. Zeebe et.al.|[2207.04006v1](http://arxiv.org/abs/2207.04006v1)|null|
+|**2022-07-08**|**On Improving the Performance of Glitch Classification for Gravitational Wave Detection by using Generative Adversarial Networks**|Jianqi Yan et.al.|[2207.04001v1](http://arxiv.org/abs/2207.04001v1)|null|
+|**2022-07-08**|**A direct measurement of galaxy major and minor merger rates and stellar mass accretion histories at $z < 3$ using galaxy pairs in the REFINE survey**|Christopher J. Conselice et.al.|[2207.03984v1](http://arxiv.org/abs/2207.03984v1)|null|
+|**2022-07-08**|**2n-Stream Conservative Scattering**|W. A. van Wijngaarden et.al.|[2207.03978v1](http://arxiv.org/abs/2207.03978v1)|null|
+|**2022-07-08**|**Do minor interactions trigger star formation in galaxy pairs?**|Apashanka Das et.al.|[2207.03968v1](http://arxiv.org/abs/2207.03968v1)|null|
 |**2022-07-07**|**ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques**|Chima D. McGruder et.al.|[2207.03479v1](http://arxiv.org/abs/2207.03479v1)|null|
 |**2022-07-07**|**Inferring Structural Parameters of Low-Surface-Brightness-Galaxies with Uncertainty Quantification using Bayesian Neural Networks**|Dimitrios Tanoglidis et.al.|[2207.03471v1](http://arxiv.org/abs/2207.03471v1)|**[link](https://github.com/dtanoglidis/bnn_lsbgs_icml)**|
 |**2022-07-07**|**NICER X-ray Observations of Eta Carinae During its Most Recent Periastron Passage**|David Espinoza-Galeas et.al.|[2207.03457v1](http://arxiv.org/abs/2207.03457v1)|null|
@@ -103,6 +113,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-08**|**Lessons from Deep Learning applied to Scholarly Information Extraction: What Works, What Doesn't, and Future Directions**|Raquib Bin Yousuf et.al.|[2207.04029v1](http://arxiv.org/abs/2207.04029v1)|null|
+|**2022-07-08**|**CoCAtt: A Cognitive-Conditioned Driver Attention Dataset (Supplementary Material)**|Yuan Shen et.al.|[2207.04028v1](http://arxiv.org/abs/2207.04028v1)|null|
+|**2022-07-08**|**A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection**|Yu Li et.al.|[2207.04027v1](http://arxiv.org/abs/2207.04027v1)|**[link](https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection)**|
+|**2022-07-08**|**MACFE: A Meta-learning and Causality Based Feature Engineering Framework**|Ivan Reyes-Amezcua et.al.|[2207.04010v1](http://arxiv.org/abs/2207.04010v1)|null|
+|**2022-07-08**|**Dreamento: An open-source dream engineering toolbox utilizing sleep wearable**|Mahdad Jafarzadeh Esfahani et.al.|[2207.03977v1](http://arxiv.org/abs/2207.03977v1)|null|
+|**2022-07-08**|**CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**|Hyounghun Kim et.al.|[2207.03961v1](http://arxiv.org/abs/2207.03961v1)|null|
+|**2022-07-08**|**Bistochastic privacy**|Nicolas Ruiz et.al.|[2207.03940v1](http://arxiv.org/abs/2207.03940v1)|null|
+|**2022-07-08**|**An Approach to Ensure Fairness in News Articles**|Shaina Raza et.al.|[2207.03938v1](http://arxiv.org/abs/2207.03938v1)|null|
+|**2022-07-08**|**Active Learning-based Isolation Forest (ALIF): Enhancing Anomaly Detection in Decision Support Systems**|Elisa Marcelli et.al.|[2207.03934v1](http://arxiv.org/abs/2207.03934v1)|null|
+|**2022-07-08**|**Memory-free Online Change-point Detection: A Novel Neural Network Approach**|Zahra Atashgahi et.al.|[2207.03932v1](http://arxiv.org/abs/2207.03932v1)|**[link](https://github.com/zahraatashgahi/alacpd)**|
 |**2022-07-07**|**Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**|Hanoona Rasheed et.al.|[2207.03482v1](http://arxiv.org/abs/2207.03482v1)|**[link](https://github.com/hanoonaR/object-centric-ovd)**|
 |**2022-07-07**|**For Learning in Symmetric Teams, Local Optima are Global Nash Equilibria**|Scott Emmons et.al.|[2207.03470v1](http://arxiv.org/abs/2207.03470v1)|**[link](https://github.com/scottemmons/coordination)**|
 |**2022-07-07**|**Stochastic optimal well control in subsurface reservoirs using reinforcement learning**|Atish Dixit et.al.|[2207.03456v1](http://arxiv.org/abs/2207.03456v1)|**[link](https://github.com/atishdixit16/rl_robust_owc)**|
