@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-11**|**First evidence of a stripped star cluster from the Small Magellanic Cloud**|Andrés E. Piatti et.al.|[2207.05034v1](http://arxiv.org/abs/2207.05034v1)|null|
+|**2022-07-11**|**Magnetogenesis in Higgs-Starobinsky inflation**|R. Durrer et.al.|[2207.05030v1](http://arxiv.org/abs/2207.05030v1)|null|
+|**2022-07-11**|**Modeling the Lyman-$α$ forest with Eulerian and SPH hydrodynamical methods**|Solène Chabanier et.al.|[2207.05023v1](http://arxiv.org/abs/2207.05023v1)|null|
+|**2022-07-11**|**HST strong-lensing model for the first JWST galaxy cluster SMACS J0723.3-7327**|Miriam Golubchik et.al.|[2207.05007v1](http://arxiv.org/abs/2207.05007v1)|null|
+|**2022-07-11**|**Revisiting fundamental properties of TiO$_2$ nanoclusters as condensation seeds in astrophysical environments**|J. P. Sindel et.al.|[2207.04987v1](http://arxiv.org/abs/2207.04987v1)|null|
+|**2022-07-11**|**The mass distribution in the outskirts of clusters of galaxies as a probe of the theory of gravity**|M. Pizzardo et.al.|[2207.04982v1](http://arxiv.org/abs/2207.04982v1)|null|
+|**2022-07-11**|**Hidden Cooling Flows in Clusters of Galaxies**|A. C. Fabian et.al.|[2207.04951v1](http://arxiv.org/abs/2207.04951v1)|null|
+|**2022-07-11**|**Search for Astrophysical Neutrinos from 1FLE Blazars with IceCube**|R. Abbasi et.al.|[2207.04946v1](http://arxiv.org/abs/2207.04946v1)|null|
+|**2022-07-11**|**Wavelet Conditional Renormalization Group**|Tanguy Marchand et.al.|[2207.04941v1](http://arxiv.org/abs/2207.04941v1)|null|
+|**2022-07-11**|**Data Fusion of Total Solar Irradiance Composite Time Series Using 41 Years of Satellite Measurements**|Jean-Philippe Montillet et.al.|[2207.04926v1](http://arxiv.org/abs/2207.04926v1)|null|
 |**2022-07-08**|**The halo bias inside cosmic voids**|Giovanni Verza et.al.|[2207.04039v1](http://arxiv.org/abs/2207.04039v1)|null|
 |**2022-07-08**|**Bayesian model comparison for simulation-based inference**|A. Spurio Mancini et.al.|[2207.04037v1](http://arxiv.org/abs/2207.04037v1)|**[link](https://github.com/astro-informatics/harmonic)**|
 |**2022-07-08**|**Thermal instability in radiation hydrodynamics: instability mechanisms, position-dependent S-curves, and attenuation curves**|Daniel Proga et.al.|[2207.04032v1](http://arxiv.org/abs/2207.04032v1)|null|
@@ -109,6 +119,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-11**|**PSP-HDRI$+$: A Synthetic Dataset Generator for Pre-Training of Human-Centric Computer Vision Models**|Salehe Erfanian Ebadi et.al.|[2207.05025v1](http://arxiv.org/abs/2207.05025v1)|null|
+|**2022-07-11**|**A Learned Radiance-Field Representation for Complex Luminaires**|Jorge Condor et.al.|[2207.05009v1](http://arxiv.org/abs/2207.05009v1)|null|
+|**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|null|
+|**2022-07-11**|**Consistency is the key to further mitigating catastrophic forgetting in continual learning**|Prashant Bhat et.al.|[2207.04998v1](http://arxiv.org/abs/2207.04998v1)|**[link](https://github.com/neurai-lab/consistencycl)**|
+|**2022-07-11**|**Better Collective Decisions via Uncertainty Reduction**|Shiri Alouf-Heffetz et.al.|[2207.04983v1](http://arxiv.org/abs/2207.04983v1)|null|
+|**2022-07-11**|**What AI can do for horse-racing ?**|Pierre Colle et.al.|[2207.04981v1](http://arxiv.org/abs/2207.04981v1)|null|
+|**2022-07-11**|**Start Small, Think Big: On Hyperparameter Optimization for Large-Scale Knowledge Graph Embeddings**|Adrian Kochsiek et.al.|[2207.04979v1](http://arxiv.org/abs/2207.04979v1)|**[link](https://github.com/uma-pi1/grash)**|
+|**2022-07-11**|**Dual Vision Transformer**|Ting Yao et.al.|[2207.04976v1](http://arxiv.org/abs/2207.04976v1)|**[link](https://github.com/yehli/imagenetmodel)**|
+|**2022-07-11**|**From Correlation to Causation: Formalizing Interpretable Machine Learning as a Statistical Process**|Lukas Klein et.al.|[2207.04969v1](http://arxiv.org/abs/2207.04969v1)|null|
+|**2022-07-11**|**On the Stochastic Gradient Descent and Inverse Variance-flatness Relation in Artificial Neural Networks**|Xia Xiong et.al.|[2207.04932v1](http://arxiv.org/abs/2207.04932v1)|null|
 |**2022-07-08**|**Lessons from Deep Learning applied to Scholarly Information Extraction: What Works, What Doesn't, and Future Directions**|Raquib Bin Yousuf et.al.|[2207.04029v1](http://arxiv.org/abs/2207.04029v1)|null|
 |**2022-07-08**|**CoCAtt: A Cognitive-Conditioned Driver Attention Dataset (Supplementary Material)**|Yuan Shen et.al.|[2207.04028v1](http://arxiv.org/abs/2207.04028v1)|null|
 |**2022-07-08**|**A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection**|Yu Li et.al.|[2207.04027v1](http://arxiv.org/abs/2207.04027v1)|**[link](https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection)**|
