@@ -1,9 +1,9 @@
-> Updated on 2022.07.11
+> Updated on 2022.07.12
 
 ## Astrophysics
 
 - 2022-07-08, **The halo bias inside cosmic voids**, Giovanni Verza et.al., Paper: [http://arxiv.org/abs/2207.04039v1](http://arxiv.org/abs/2207.04039v1)
-- 2022-07-08, **Bayesian model comparison for simulation-based inference**, A. Spurio Mancini et.al., Paper: [http://arxiv.org/abs/2207.04037v1](http://arxiv.org/abs/2207.04037v1)
+- 2022-07-08, **Bayesian model comparison for simulation-based inference**, A. Spurio Mancini et.al., Paper: [http://arxiv.org/abs/2207.04037v1](http://arxiv.org/abs/2207.04037v1), Code: **[https://github.com/astro-informatics/harmonic](https://github.com/astro-informatics/harmonic)**
 - 2022-07-08, **Thermal instability in radiation hydrodynamics: instability mechanisms, position-dependent S-curves, and attenuation curves**, Daniel Proga et.al., Paper: [http://arxiv.org/abs/2207.04032v1](http://arxiv.org/abs/2207.04032v1)
 - 2022-07-08, **Chemical Abundances of the Typhon Stellar Stream**, Alexander P. Ji et.al., Paper: [http://arxiv.org/abs/2207.04016v1](http://arxiv.org/abs/2207.04016v1)
 - 2022-07-08, **The Physics of Pulsar Halos: Research Progress and Prospect**, Ruo-Yu Liu et.al., Paper: [http://arxiv.org/abs/2207.04011v1](http://arxiv.org/abs/2207.04011v1)
