@@ -119,7 +119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-11**|**PSP-HDRI$+$: A Synthetic Dataset Generator for Pre-Training of Human-Centric Computer Vision Models**|Salehe Erfanian Ebadi et.al.|[2207.05025v1](http://arxiv.org/abs/2207.05025v1)|null|
+|**2022-07-11**|**PSP-HDRI$+$: A Synthetic Dataset Generator for Pre-Training of Human-Centric Computer Vision Models**|Salehe Erfanian Ebadi et.al.|[2207.05025v1](http://arxiv.org/abs/2207.05025v1)|**[link](https://github.com/unity-technologies/peoplesanspeople)**|
 |**2022-07-11**|**A Learned Radiance-Field Representation for Complex Luminaires**|Jorge Condor et.al.|[2207.05009v1](http://arxiv.org/abs/2207.05009v1)|null|
 |**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|null|
 |**2022-07-11**|**Consistency is the key to further mitigating catastrophic forgetting in continual learning**|Prashant Bhat et.al.|[2207.04998v1](http://arxiv.org/abs/2207.04998v1)|**[link](https://github.com/neurai-lab/consistencycl)**|
