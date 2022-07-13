@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.12
+## Updated on 2022.07.13
 
 ## Astrophysics
 
@@ -125,12 +125,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-11**|**PSP-HDRI$+$: A Synthetic Dataset Generator for Pre-Training of Human-Centric Computer Vision Models**|Salehe Erfanian Ebadi et.al.|[2207.05025v1](http://arxiv.org/abs/2207.05025v1)|**[link](https://github.com/unity-technologies/peoplesanspeople)**|
 |**2022-07-11**|**A Learned Radiance-Field Representation for Complex Luminaires**|Jorge Condor et.al.|[2207.05009v1](http://arxiv.org/abs/2207.05009v1)|null|
-|**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|null|
+|**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|**[link](https://github.com/taskography/taskography)**|
 |**2022-07-11**|**Consistency is the key to further mitigating catastrophic forgetting in continual learning**|Prashant Bhat et.al.|[2207.04998v1](http://arxiv.org/abs/2207.04998v1)|**[link](https://github.com/neurai-lab/consistencycl)**|
 |**2022-07-11**|**Better Collective Decisions via Uncertainty Reduction**|Shiri Alouf-Heffetz et.al.|[2207.04983v1](http://arxiv.org/abs/2207.04983v1)|null|
 |**2022-07-11**|**What AI can do for horse-racing ?**|Pierre Colle et.al.|[2207.04981v1](http://arxiv.org/abs/2207.04981v1)|null|
 |**2022-07-11**|**Start Small, Think Big: On Hyperparameter Optimization for Large-Scale Knowledge Graph Embeddings**|Adrian Kochsiek et.al.|[2207.04979v1](http://arxiv.org/abs/2207.04979v1)|**[link](https://github.com/uma-pi1/grash)**|
-|**2022-07-11**|**Dual Vision Transformer**|Ting Yao et.al.|[2207.04976v1](http://arxiv.org/abs/2207.04976v1)|**[link](https://github.com/yehli/imagenetmodel)**|
+|**2022-07-12**|**Dual Vision Transformer**|Ting Yao et.al.|[2207.04976v2](http://arxiv.org/abs/2207.04976v2)|**[link](https://github.com/yehli/imagenetmodel)**|
 |**2022-07-11**|**From Correlation to Causation: Formalizing Interpretable Machine Learning as a Statistical Process**|Lukas Klein et.al.|[2207.04969v1](http://arxiv.org/abs/2207.04969v1)|null|
 |**2022-07-11**|**On the Stochastic Gradient Descent and Inverse Variance-flatness Relation in Artificial Neural Networks**|Xia Xiong et.al.|[2207.04932v1](http://arxiv.org/abs/2207.04932v1)|null|
 |**2022-07-08**|**Lessons from Deep Learning applied to Scholarly Information Extraction: What Works, What Doesn't, and Future Directions**|Raquib Bin Yousuf et.al.|[2207.04029v1](http://arxiv.org/abs/2207.04029v1)|null|
