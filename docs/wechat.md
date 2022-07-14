@@ -1,4 +1,4 @@
-> Updated on 2022.07.13
+> Updated on 2022.07.14
 
 ## Astrophysics
 
@@ -6,7 +6,7 @@
 - 2022-07-12, **Impact of Radiation Feedback on the Formation of Globular Cluster Candidates during Cloud-Cloud Collisions**, Daniel Han et.al., Paper: [http://arxiv.org/abs/2207.05745v1](http://arxiv.org/abs/2207.05745v1)
 - 2022-07-12, **Relativistic extension of the dynamical friction in stellar systems I: General formalism**, Caterina Chiari et.al., Paper: [http://arxiv.org/abs/2207.05728v1](http://arxiv.org/abs/2207.05728v1)
 - 2022-07-12, **HST-Based Lens Model of the First Extragalactic JWST Science Target, SDSS J1226+2152, in Preparation for TEMPLATES**, Keren Sharon et.al., Paper: [http://arxiv.org/abs/2207.05709v1](http://arxiv.org/abs/2207.05709v1)
-- 2022-07-12, **CosmicNet II: Emulating extended cosmologies with efficient and accurate neural networks**, Sven Günther et.al., Paper: [http://arxiv.org/abs/2207.05707v1](http://arxiv.org/abs/2207.05707v1)
+- 2022-07-12, **CosmicNet II: Emulating extended cosmologies with efficient and accurate neural networks**, Sven Günther et.al., Paper: [http://arxiv.org/abs/2207.05707v1](http://arxiv.org/abs/2207.05707v1), Code: **[https://github.com/lesgourg/class_public](https://github.com/lesgourg/class_public)**
 - 2022-07-12, **Investigating a predicted metallicity [Fe/H] variation in the Type II Globular Cluster NGC 362**, C. Vargas et.al., Paper: [http://arxiv.org/abs/2207.05693v1](http://arxiv.org/abs/2207.05693v1)
 - 2022-07-12, **The Gravitational Afterglow of Boson Stars**, Robin Croft et.al., Paper: [http://arxiv.org/abs/2207.05690v1](http://arxiv.org/abs/2207.05690v1)
 - 2022-07-12, **The Rate and Spatial Distribution of Novae in M31 as Determined by a Twenty-Year Survey**, Travis A. Rector et.al., Paper: [http://arxiv.org/abs/2207.05689v1](http://arxiv.org/abs/2207.05689v1)
@@ -125,7 +125,7 @@
 
 ## AI
 
-- 2022-07-12, **Reactive Exploration to Cope with Non-Stationarity in Lifelong Reinforcement Learning**, Christian Steinparz et.al., Paper: [http://arxiv.org/abs/2207.05742v1](http://arxiv.org/abs/2207.05742v1)
+- 2022-07-12, **Reactive Exploration to Cope with Non-Stationarity in Lifelong Reinforcement Learning**, Christian Steinparz et.al., Paper: [http://arxiv.org/abs/2207.05742v1](http://arxiv.org/abs/2207.05742v1), Code: **[https://github.com/ml-jku/reactive-exploration](https://github.com/ml-jku/reactive-exploration)**
 - 2022-07-12, **Latent Variable Models for Bayesian Causal Discovery**, Jithendaraa Subramanian et.al., Paper: [http://arxiv.org/abs/2207.05723v1](http://arxiv.org/abs/2207.05723v1)
 - 2022-07-12, **DDI Prediction via Heterogeneous Graph Attention Networks**, Farhan Tanvir et.al., Paper: [http://arxiv.org/abs/2207.05672v1](http://arxiv.org/abs/2207.05672v1)
 - 2022-07-12, **Spinless Mirror Chern Insulator from Projective Symmetry Algebra**, L. B. Shao et.al., Paper: [http://arxiv.org/abs/2207.05654v1](http://arxiv.org/abs/2207.05654v1)
@@ -133,8 +133,8 @@
 - 2022-07-12, **Docent: A content-based recommendation system to discover contemporary art**, Antoine Fosset et.al., Paper: [http://arxiv.org/abs/2207.05648v1](http://arxiv.org/abs/2207.05648v1)
 - 2022-07-12, **Backdoor Attacks on Crowd Counting**, Yuhua Sun et.al., Paper: [http://arxiv.org/abs/2207.05641v1](http://arxiv.org/abs/2207.05641v1)
 - 2022-07-12, **DGPO: Discovering Multiple Strategies with Diversity-Guided Policy Optimization**, Wenze Chen et.al., Paper: [http://arxiv.org/abs/2207.05631v1](http://arxiv.org/abs/2207.05631v1), Code: **[https://github.com/tartrl/dgpo](https://github.com/tartrl/dgpo)**
-- 2022-07-12, **LudVision -- Remote Detection of Exotic Invasive Aquatic Floral Species using Drone-Mounted Multispectral Data**, António J. Abreu et.al., Paper: [http://arxiv.org/abs/2207.05620v1](http://arxiv.org/abs/2207.05620v1)
-- 2022-07-12, **Contrastive Learning for Online Semi-Supervised General Continual Learning**, Nicolas Michel et.al., Paper: [http://arxiv.org/abs/2207.05615v1](http://arxiv.org/abs/2207.05615v1)
+- 2022-07-13, **LudVision -- Remote Detection of Exotic Invasive Aquatic Floral Species using Drone-Mounted Multispectral Data**, António J. Abreu et.al., Paper: [http://arxiv.org/abs/2207.05620v2](http://arxiv.org/abs/2207.05620v2)
+- 2022-07-12, **Contrastive Learning for Online Semi-Supervised General Continual Learning**, Nicolas Michel et.al., Paper: [http://arxiv.org/abs/2207.05615v1](http://arxiv.org/abs/2207.05615v1), Code: **[https://github.com/nicolas1203/ossgcl](https://github.com/nicolas1203/ossgcl)**
 - 2022-07-11, **PSP-HDRI$+$: A Synthetic Dataset Generator for Pre-Training of Human-Centric Computer Vision Models**, Salehe Erfanian Ebadi et.al., Paper: [http://arxiv.org/abs/2207.05025v1](http://arxiv.org/abs/2207.05025v1), Code: **[https://github.com/unity-technologies/peoplesanspeople](https://github.com/unity-technologies/peoplesanspeople)**
 - 2022-07-11, **A Learned Radiance-Field Representation for Complex Luminaires**, Jorge Condor et.al., Paper: [http://arxiv.org/abs/2207.05009v1](http://arxiv.org/abs/2207.05009v1)
 - 2022-07-11, **TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**, Christopher Agia et.al., Paper: [http://arxiv.org/abs/2207.05006v1](http://arxiv.org/abs/2207.05006v1), Code: **[https://github.com/taskography/taskography](https://github.com/taskography/taskography)**
