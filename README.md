@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-13**|**A study of the NGC 1193 and NGC 1798 open clusters using CCD UBV photometric and Gaia EDR3 data**|T. Yontan et.al.|[2207.06407v1](http://arxiv.org/abs/2207.06407v1)|null|
+|**2022-07-13**|**A numerical study of stellar discs in galactic nuclei**|Taras Panamarev et.al.|[2207.06398v1](http://arxiv.org/abs/2207.06398v1)|null|
+|**2022-07-13**|**Exploration of 3D wavelet scattering transform coefficients for line-intensity mapping measurements**|Dongwoo T Chung et.al.|[2207.06383v1](http://arxiv.org/abs/2207.06383v1)|null|
+|**2022-07-13**|**Optimization of the storage database for the Monitoring system of the CTA**|Federico Incardona et.al.|[2207.06381v1](http://arxiv.org/abs/2207.06381v1)|null|
+|**2022-07-13**|**The Monitoring Logging and Alarm System of the ASTRI Mini-Array gamma-ray air-Cherenkov experiment at the Observatorio del Teide**|Federico Incardona et.al.|[2207.06372v1](http://arxiv.org/abs/2207.06372v1)|null|
+|**2022-07-13**|**Bayesian hierarchical modelling of the $\mathrm{M_{\star}}$-SFR relation from 1<z<6 in ASTRODEEP**|L. Sandles et.al.|[2207.06322v1](http://arxiv.org/abs/2207.06322v1)|null|
+|**2022-07-13**|**Could "El Gordo" be hinting at primordial quantum diffusion?**|Jose María Ezquiaga et.al.|[2207.06317v1](http://arxiv.org/abs/2207.06317v1)|null|
+|**2022-07-13**|**Transition to turbulence in nonuniform coronal loops driven by torsional Alfvén waves. II. Extended analysis and effect of magnetic twist**|Sergio Díaz-Suárez et.al.|[2207.06315v1](http://arxiv.org/abs/2207.06315v1)|null|
+|**2022-07-13**|**Beginning a journey across the universe: the discovery of extragalactic neutrino factories**|Sara Buson et.al.|[2207.06314v1](http://arxiv.org/abs/2207.06314v1)|null|
+|**2022-07-13**|**Visualizing the pulsar population using graph theory**|C. R. García et.al.|[2207.06311v1](http://arxiv.org/abs/2207.06311v1)|null|
 |**2022-07-12**|**Non-thermal emission from mildly relativistic dynamical ejecta of neutron star mergers**|Gilad Sadeh et.al.|[2207.05746v1](http://arxiv.org/abs/2207.05746v1)|null|
 |**2022-07-12**|**Impact of Radiation Feedback on the Formation of Globular Cluster Candidates during Cloud-Cloud Collisions**|Daniel Han et.al.|[2207.05745v1](http://arxiv.org/abs/2207.05745v1)|null|
 |**2022-07-12**|**Relativistic extension of the dynamical friction in stellar systems I: General formalism**|Caterina Chiari et.al.|[2207.05728v1](http://arxiv.org/abs/2207.05728v1)|null|
@@ -129,6 +139,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-13**|**Masked Autoencoders that Listen**|Po-Yao et.al.|[2207.06405v1](http://arxiv.org/abs/2207.06405v1)|**[link](https://github.com/facebookresearch/audiomae)**|
+|**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
+|**2022-07-13**|**Re2G: Retrieve, Rerank, Generate**|Michael Glass et.al.|[2207.06300v1](http://arxiv.org/abs/2207.06300v1)|**[link](https://github.com/ibm/kgi-slot-filling)**|
+|**2022-07-13**|**Reinforcement Learning Assisted Recursive QAOA**|Yash J. Patel et.al.|[2207.06294v1](http://arxiv.org/abs/2207.06294v1)|null|
+|**2022-07-13**|**DiverGet: A Search-Based Software Testing Approach for Deep Neural Network Quantization Assessment**|Ahmed Haj Yahmed et.al.|[2207.06282v1](http://arxiv.org/abs/2207.06282v1)|null|
+|**2022-07-13**|**ACLNet: An Attention and Clustering-based Cloud Segmentation Network**|Dhruv Makwana et.al.|[2207.06277v1](http://arxiv.org/abs/2207.06277v1)|**[link](https://github.com/ckmvigil/aclnet)**|
+|**2022-07-13**|**Task Agnostic Representation Consolidation: a Self-supervised based Continual Learning Approach**|Prashant Bhat et.al.|[2207.06267v1](http://arxiv.org/abs/2207.06267v1)|**[link](https://github.com/neurai-lab/tarc)**|
+|**2022-07-13**|**A Transfer Learning Based Model for Text Readability Assessment in German**|Salar Mohtaj et.al.|[2207.06265v1](http://arxiv.org/abs/2207.06265v1)|null|
+|**2022-07-13**|**Normalized gradient flow optimization in the training of ReLU artificial neural networks**|Simon Eberle et.al.|[2207.06246v1](http://arxiv.org/abs/2207.06246v1)|null|
+|**2022-07-13**|**Explainable Intrusion Detection Systems (X-IDS): A Survey of Current Methods, Challenges, and Opportunities**|Subash Neupane et.al.|[2207.06236v1](http://arxiv.org/abs/2207.06236v1)|null|
 |**2022-07-12**|**Reactive Exploration to Cope with Non-Stationarity in Lifelong Reinforcement Learning**|Christian Steinparz et.al.|[2207.05742v1](http://arxiv.org/abs/2207.05742v1)|**[link](https://github.com/ml-jku/reactive-exploration)**|
 |**2022-07-12**|**Latent Variable Models for Bayesian Causal Discovery**|Jithendaraa Subramanian et.al.|[2207.05723v1](http://arxiv.org/abs/2207.05723v1)|null|
 |**2022-07-12**|**DDI Prediction via Heterogeneous Graph Attention Networks**|Farhan Tanvir et.al.|[2207.05672v1](http://arxiv.org/abs/2207.05672v1)|null|
