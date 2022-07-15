@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-07-14, **Cosmological constant and equation of state of the quantum vacuum**, Cristian Moreno-Pulido et.al., Paper: [http://arxiv.org/abs/2207.07111v1](http://arxiv.org/abs/2207.07111v1)
+- 2022-07-14, **Unscrambling the lensed galaxies in JWST images behind SMACS0723**, Massimo Pascale et.al., Paper: [http://arxiv.org/abs/2207.07102v1](http://arxiv.org/abs/2207.07102v1)
+- 2022-07-14, **Precision modeling of Webb's first cluster lens SMACSJ\,0723.3$-$7327**, Guillaume Mahler et.al., Paper: [http://arxiv.org/abs/2207.07101v1](http://arxiv.org/abs/2207.07101v1)
+- 2022-07-14, **GBT/MUSTANG-2 9" resolution imaging of the SZ effect in MS0735.6+7421: Confirmation of the SZ Cavities through direct imaging**, John Orlowski-Scherer et.al., Paper: [http://arxiv.org/abs/2207.07100v1](http://arxiv.org/abs/2207.07100v1)
+- 2022-07-14, **Video Observations of Tiny Near-Earth Objects with Tomo-e Gozen**, Jin Beniyama et.al., Paper: [http://arxiv.org/abs/2207.07071v1](http://arxiv.org/abs/2207.07071v1)
+- 2022-07-14, **High-Performance Computing for SKA Transient Search: Use of FPGA based Accelerators -- a brief review**, R. Aafreen et.al., Paper: [http://arxiv.org/abs/2207.07054v1](http://arxiv.org/abs/2207.07054v1)
+- 2022-07-14, **The Simons Observatory: Characterizing the Large Aperture Telescope Receiver with Radio Holography**, Grace E. Chesmore et.al., Paper: [http://arxiv.org/abs/2207.07040v1](http://arxiv.org/abs/2207.07040v1)
+- 2022-07-14, **Diagnostics of non-Maxwellian electron distributions in solar active regions from Fe XII lines observed by Hinode/EIS and IRIS**, G. Del Zanna et.al., Paper: [http://arxiv.org/abs/2207.07026v1](http://arxiv.org/abs/2207.07026v1)
+- 2022-07-14, **Two substellar survivor candidates; one found and one missing**, N. Walters et.al., Paper: [http://arxiv.org/abs/2207.07022v1](http://arxiv.org/abs/2207.07022v1)
+- 2022-07-14, **Recent arrivals to the main asteroid belt**, C. de la Fuente Marcos et.al., Paper: [http://arxiv.org/abs/2207.07013v1](http://arxiv.org/abs/2207.07013v1)
 - 2022-07-13, **A study of the NGC 1193 and NGC 1798 open clusters using CCD UBV photometric and Gaia EDR3 data**, T. Yontan et.al., Paper: [http://arxiv.org/abs/2207.06407v1](http://arxiv.org/abs/2207.06407v1)
 - 2022-07-13, **A numerical study of stellar discs in galactic nuclei**, Taras Panamarev et.al., Paper: [http://arxiv.org/abs/2207.06398v1](http://arxiv.org/abs/2207.06398v1)
 - 2022-07-13, **Exploration of 3D wavelet scattering transform coefficients for line-intensity mapping measurements**, Dongwoo T Chung et.al., Paper: [http://arxiv.org/abs/2207.06383v1](http://arxiv.org/abs/2207.06383v1)
@@ -135,6 +145,16 @@
 
 ## AI
 
+- 2022-07-14, **Fine-grained Few-shot Recognition by Deep Object Parsing**, Pengkai Zhu et.al., Paper: [http://arxiv.org/abs/2207.07110v1](http://arxiv.org/abs/2207.07110v1)
+- 2022-07-14, **ReAct: Temporal Action Detection with Relational Queries**, Dingfeng Shi et.al., Paper: [http://arxiv.org/abs/2207.07097v1](http://arxiv.org/abs/2207.07097v1), Code: **[https://github.com/sssste/react](https://github.com/sssste/react)**
+- 2022-07-14, **Egocentric Scene Understanding via Multimodal Spatial Rectifier**, Tien Do et.al., Paper: [http://arxiv.org/abs/2207.07077v1](http://arxiv.org/abs/2207.07077v1), Code: **[https://github.com/tien-d/EgoDepthNormal](https://github.com/tien-d/EgoDepthNormal)**
+- 2022-07-14, **Semi-Supervised Temporal Action Detection with Proposal-Free Masking**, Sauradip Nag et.al., Paper: [http://arxiv.org/abs/2207.07059v1](http://arxiv.org/abs/2207.07059v1)
+- 2022-07-14, **Language models show human-like content effects on reasoning**, Ishita Dasgupta et.al., Paper: [http://arxiv.org/abs/2207.07051v1](http://arxiv.org/abs/2207.07051v1)
+- 2022-07-14, **Leakage and the Reproducibility Crisis in ML-based Science**, Sayash Kapoor et.al., Paper: [http://arxiv.org/abs/2207.07048v1](http://arxiv.org/abs/2207.07048v1)
+- 2022-07-14, **From Shapley back to Pearson: Hypothesis Testing via the Shapley Value**, Jacopo Teneggi et.al., Paper: [http://arxiv.org/abs/2207.07038v1](http://arxiv.org/abs/2207.07038v1), Code: **[https://github.com/sulam-group/shaplit](https://github.com/sulam-group/shaplit)**
+- 2022-07-14, **A Single Self-Supervised Model for Many Speech Modalities Enables Zero-Shot Modality Transfer**, Wei-Ning Hsu et.al., Paper: [http://arxiv.org/abs/2207.07036v1](http://arxiv.org/abs/2207.07036v1)
+- 2022-07-14, **Developing a Series of AI Challenges for the United States Department of the Air Force**, Vijay Gadepally et.al., Paper: [http://arxiv.org/abs/2207.07033v1](http://arxiv.org/abs/2207.07033v1)
+- 2022-07-14, **Adversarial Attacks on Monocular Pose Estimation**, Hemang Chawla et.al., Paper: [http://arxiv.org/abs/2207.07032v1](http://arxiv.org/abs/2207.07032v1), Code: **[https://github.com/neurai-lab/mono-pose-attack](https://github.com/neurai-lab/mono-pose-attack)**
 - 2022-07-13, **Masked Autoencoders that Listen**, Po-Yao et.al., Paper: [http://arxiv.org/abs/2207.06405v1](http://arxiv.org/abs/2207.06405v1), Code: **[https://github.com/facebookresearch/audiomae](https://github.com/facebookresearch/audiomae)**
 - 2022-07-13, **3D Concept Grounding on Neural Fields**, Yining Hong et.al., Paper: [http://arxiv.org/abs/2207.06403v1](http://arxiv.org/abs/2207.06403v1)
 - 2022-07-13, **Re2G: Retrieve, Rerank, Generate**, Michael Glass et.al., Paper: [http://arxiv.org/abs/2207.06300v1](http://arxiv.org/abs/2207.06300v1), Code: **[https://github.com/ibm/kgi-slot-filling](https://github.com/ibm/kgi-slot-filling)**
