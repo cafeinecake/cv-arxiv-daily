@@ -1,4 +1,4 @@
-## Updated on 2022.07.15
+## Updated on 2022.07.16
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 |**2022-07-14**|**GBT/MUSTANG-2 9" resolution imaging of the SZ effect in MS0735.6+7421: Confirmation of the SZ Cavities through direct imaging**|John Orlowski-Scherer et.al.|[2207.07100v1](http://arxiv.org/abs/2207.07100v1)|null|
 |**2022-07-14**|**Video Observations of Tiny Near-Earth Objects with Tomo-e Gozen**|Jin Beniyama et.al.|[2207.07071v1](http://arxiv.org/abs/2207.07071v1)|null|
 |**2022-07-14**|**High-Performance Computing for SKA Transient Search: Use of FPGA based Accelerators -- a brief review**|R. Aafreen et.al.|[2207.07054v1](http://arxiv.org/abs/2207.07054v1)|null|
-|**2022-07-14**|**The Simons Observatory: Characterizing the Large Aperture Telescope Receiver with Radio Holography**|Grace E. Chesmore et.al.|[2207.07040v1](http://arxiv.org/abs/2207.07040v1)|null|
+|**2022-07-14**|**The Simons Observatory: Characterizing the Large Aperture Telescope Receiver with Radio Holography**|Grace E. Chesmore et.al.|[2207.07040v1](http://arxiv.org/abs/2207.07040v1)|**[link](https://github.com/mcmahoncosmologygroup/solat-optics)**|
 |**2022-07-14**|**Diagnostics of non-Maxwellian electron distributions in solar active regions from Fe XII lines observed by Hinode/EIS and IRIS**|G. Del Zanna et.al.|[2207.07026v1](http://arxiv.org/abs/2207.07026v1)|null|
 |**2022-07-14**|**Two substellar survivor candidates; one found and one missing**|N. Walters et.al.|[2207.07022v1](http://arxiv.org/abs/2207.07022v1)|null|
 |**2022-07-14**|**Recent arrivals to the main asteroid belt**|C. de la Fuente Marcos et.al.|[2207.07013v1](http://arxiv.org/abs/2207.07013v1)|null|
@@ -152,12 +152,12 @@
 |**2022-07-14**|**Fine-grained Few-shot Recognition by Deep Object Parsing**|Pengkai Zhu et.al.|[2207.07110v1](http://arxiv.org/abs/2207.07110v1)|null|
 |**2022-07-14**|**ReAct: Temporal Action Detection with Relational Queries**|Dingfeng Shi et.al.|[2207.07097v1](http://arxiv.org/abs/2207.07097v1)|**[link](https://github.com/sssste/react)**|
 |**2022-07-14**|**Egocentric Scene Understanding via Multimodal Spatial Rectifier**|Tien Do et.al.|[2207.07077v1](http://arxiv.org/abs/2207.07077v1)|**[link](https://github.com/tien-d/EgoDepthNormal)**|
-|**2022-07-14**|**Semi-Supervised Temporal Action Detection with Proposal-Free Masking**|Sauradip Nag et.al.|[2207.07059v1](http://arxiv.org/abs/2207.07059v1)|null|
+|**2022-07-14**|**Semi-Supervised Temporal Action Detection with Proposal-Free Masking**|Sauradip Nag et.al.|[2207.07059v1](http://arxiv.org/abs/2207.07059v1)|**[link](https://github.com/sauradip/spot)**|
 |**2022-07-14**|**Language models show human-like content effects on reasoning**|Ishita Dasgupta et.al.|[2207.07051v1](http://arxiv.org/abs/2207.07051v1)|null|
 |**2022-07-14**|**Leakage and the Reproducibility Crisis in ML-based Science**|Sayash Kapoor et.al.|[2207.07048v1](http://arxiv.org/abs/2207.07048v1)|null|
 |**2022-07-14**|**From Shapley back to Pearson: Hypothesis Testing via the Shapley Value**|Jacopo Teneggi et.al.|[2207.07038v1](http://arxiv.org/abs/2207.07038v1)|**[link](https://github.com/sulam-group/shaplit)**|
 |**2022-07-14**|**A Single Self-Supervised Model for Many Speech Modalities Enables Zero-Shot Modality Transfer**|Wei-Ning Hsu et.al.|[2207.07036v1](http://arxiv.org/abs/2207.07036v1)|null|
-|**2022-07-14**|**Developing a Series of AI Challenges for the United States Department of the Air Force**|Vijay Gadepally et.al.|[2207.07033v1](http://arxiv.org/abs/2207.07033v1)|null|
+|**2022-07-14**|**Developing a Series of AI Challenges for the United States Department of the Air Force**|Vijay Gadepally et.al.|[2207.07033v1](http://arxiv.org/abs/2207.07033v1)|**[link](https://github.com/iapalm/Spoken-ObjectNet)**|
 |**2022-07-14**|**Adversarial Attacks on Monocular Pose Estimation**|Hemang Chawla et.al.|[2207.07032v1](http://arxiv.org/abs/2207.07032v1)|**[link](https://github.com/neurai-lab/mono-pose-attack)**|
 |**2022-07-13**|**Masked Autoencoders that Listen**|Po-Yao et.al.|[2207.06405v1](http://arxiv.org/abs/2207.06405v1)|**[link](https://github.com/facebookresearch/audiomae)**|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
