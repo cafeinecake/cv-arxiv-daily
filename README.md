@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**A Probabilistic Autoencoder for Type Ia Supernovae Spectral Time Series**|George Stein et.al.|[2207.07645v1](http://arxiv.org/abs/2207.07645v1)|**[link](https://github.com/georgestein/supaernova)**|
+|**2022-07-15**|**Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**|Grace E. Lawrence et.al.|[2207.07644v1](http://arxiv.org/abs/2207.07644v1)|null|
+|**2022-07-15**|**Simulating Spectral Kurtosis Mitigation Against Realistic RFI Signals**|Evan T. Smith et.al.|[2207.07642v1](http://arxiv.org/abs/2207.07642v1)|null|
+|**2022-07-15**|**Testing spin-dependent dark matter interactions with lithium aluminate targets in CRESST-III**|G. Angloher et.al.|[2207.07640v1](http://arxiv.org/abs/2207.07640v1)|null|
+|**2022-07-15**|**Hazma Meets HERWIG4DM: Precision Gamma-Ray, Neutrino, and Positron Spectra for Light Dark Matter**|Adam Coogan et.al.|[2207.07634v1](http://arxiv.org/abs/2207.07634v1)|null|
+|**2022-07-15**|**A Bayesian Monte Carlo assessment of orbital stability in the late stages of planetary system formation**|Jassyr Salas et.al.|[2207.07617v1](http://arxiv.org/abs/2207.07617v1)|null|
+|**2022-07-15**|**Numerical simulations of a two-fluid jet at a magnetic null point in a solar arcade**|J. J. González-Avilés et.al.|[2207.07610v1](http://arxiv.org/abs/2207.07610v1)|null|
+|**2022-07-15**|**Infall Profiles for Supercluster-Scale Filaments**|Mary Crone Odekon et.al.|[2207.07600v1](http://arxiv.org/abs/2207.07600v1)|null|
+|**2022-07-15**|**PROTOCALC: an artificial calibrator source for CMB telescopes**|Gabriele Coppi et.al.|[2207.07595v1](http://arxiv.org/abs/2207.07595v1)|null|
+|**2022-07-15**|**Measuring dark matter spikes around primordial black holes with Einstein Telescope and Cosmic Explorer**|Philippa S. Cole et.al.|[2207.07576v1](http://arxiv.org/abs/2207.07576v1)|null|
 |**2022-07-14**|**Cosmological constant and equation of state of the quantum vacuum**|Cristian Moreno-Pulido et.al.|[2207.07111v1](http://arxiv.org/abs/2207.07111v1)|null|
 |**2022-07-15**|**Unscrambling the lensed galaxies in JWST images behind SMACS0723**|Massimo Pascale et.al.|[2207.07102v2](http://arxiv.org/abs/2207.07102v2)|null|
 |**2022-07-14**|**Precision modeling of Webb's first cluster lens SMACSJ\,0723.3$-$7327**|Guillaume Mahler et.al.|[2207.07101v1](http://arxiv.org/abs/2207.07101v1)|null|
@@ -149,6 +159,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**PROTOCALC: an artificial calibrator source for CMB telescopes**|Gabriele Coppi et.al.|[2207.07595v1](http://arxiv.org/abs/2207.07595v1)|null|
+|**2022-07-15**|**Skill-based Model-based Reinforcement Learning**|Lucy Xiaoyang Shi et.al.|[2207.07560v1](http://arxiv.org/abs/2207.07560v1)|null|
+|**2022-07-15**|**Heuristic-free Optimization of Force-Controlled Robot Search Strategies in Stochastic Environments**|Benjamin Alt et.al.|[2207.07524v1](http://arxiv.org/abs/2207.07524v1)|null|
+|**2022-07-15**|**Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation**|Wencan Cheng et.al.|[2207.07522v1](http://arxiv.org/abs/2207.07522v1)|**[link](https://github.com/cwc1260/BiFlow)**|
+|**2022-07-15**|**On the Usefulness of Deep Ensemble Diversity for Out-of-Distribution Detection**|Guoxuan Xia et.al.|[2207.07517v1](http://arxiv.org/abs/2207.07517v1)|null|
+|**2022-07-15**|**Sparse Relational Reasoning with Object-Centric Representations**|Alex F. Spies et.al.|[2207.07512v1](http://arxiv.org/abs/2207.07512v1)|null|
+|**2022-07-15**|**Augmenting Softmax Information for Selective Classification with Out-of-Distribution Data**|Guoxuan Xia et.al.|[2207.07506v1](http://arxiv.org/abs/2207.07506v1)|**[link](https://github.com/guoxoug/sirc)**|
+|**2022-07-15**|**A Systematic Review and Replicability Study of BERT4Rec for Sequential Recommendation**|Aleksandr Petrov et.al.|[2207.07483v1](http://arxiv.org/abs/2207.07483v1)|**[link](https://github.com/asash/bert4rec_repro)**|
+|**2022-07-15**|**Creating an Explainable Intrusion Detection System Using Self Organizing Maps**|Jesse Ables et.al.|[2207.07465v1](http://arxiv.org/abs/2207.07465v1)|null|
+|**2022-07-15**|**A novel Artificial Neural Network-based streamline tracing strategy applied to hypersonic waverider design**|Anagha G Rao et.al.|[2207.07462v1](http://arxiv.org/abs/2207.07462v1)|null|
 |**2022-07-14**|**Fine-grained Few-shot Recognition by Deep Object Parsing**|Pengkai Zhu et.al.|[2207.07110v1](http://arxiv.org/abs/2207.07110v1)|null|
 |**2022-07-14**|**ReAct: Temporal Action Detection with Relational Queries**|Dingfeng Shi et.al.|[2207.07097v1](http://arxiv.org/abs/2207.07097v1)|**[link](https://github.com/sssste/react)**|
 |**2022-07-14**|**Egocentric Scene Understanding via Multimodal Spatial Rectifier**|Tien Do et.al.|[2207.07077v1](http://arxiv.org/abs/2207.07077v1)|**[link](https://github.com/tien-d/EgoDepthNormal)**|
