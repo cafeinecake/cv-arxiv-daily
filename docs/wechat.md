@@ -1,9 +1,9 @@
-> Updated on 2022.07.17
+> Updated on 2022.07.18
 
 ## Astrophysics
 
 - 2022-07-14, **Cosmological constant and equation of state of the quantum vacuum**, Cristian Moreno-Pulido et.al., Paper: [http://arxiv.org/abs/2207.07111v1](http://arxiv.org/abs/2207.07111v1)
-- 2022-07-14, **Unscrambling the lensed galaxies in JWST images behind SMACS0723**, Massimo Pascale et.al., Paper: [http://arxiv.org/abs/2207.07102v1](http://arxiv.org/abs/2207.07102v1)
+- 2022-07-15, **Unscrambling the lensed galaxies in JWST images behind SMACS0723**, Massimo Pascale et.al., Paper: [http://arxiv.org/abs/2207.07102v2](http://arxiv.org/abs/2207.07102v2)
 - 2022-07-14, **Precision modeling of Webb's first cluster lens SMACSJ\,0723.3$-$7327**, Guillaume Mahler et.al., Paper: [http://arxiv.org/abs/2207.07101v1](http://arxiv.org/abs/2207.07101v1)
 - 2022-07-14, **GBT/MUSTANG-2 9" resolution imaging of the SZ effect in MS0735.6+7421: Confirmation of the SZ Cavities through direct imaging**, John Orlowski-Scherer et.al., Paper: [http://arxiv.org/abs/2207.07100v1](http://arxiv.org/abs/2207.07100v1)
 - 2022-07-14, **Video Observations of Tiny Near-Earth Objects with Tomo-e Gozen**, Jin Beniyama et.al., Paper: [http://arxiv.org/abs/2207.07071v1](http://arxiv.org/abs/2207.07071v1)
