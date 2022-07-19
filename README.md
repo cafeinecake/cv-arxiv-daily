@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-18**|**The dust depletion of metals from local to distant galaxies I: Peculiar nucleosynthesis effects and grain growth in the ISM**|Christina Konstantopoulou et.al.|[2207.08804v1](http://arxiv.org/abs/2207.08804v1)|null|
+|**2022-07-18**|**A first look at the SMACS0723 JWST ERO: spectroscopic redshifts, stellar masses and star-formation histories**|A. C. Carnall et.al.|[2207.08778v1](http://arxiv.org/abs/2207.08778v1)|null|
+|**2022-07-18**|**Milky Way-like galaxies: stellar population properties of dynamically defined disks, bulges and stellar halos**|Sara Ortega-Martinez et.al.|[2207.08776v1](http://arxiv.org/abs/2207.08776v1)|null|
+|**2022-07-18**|**Negative polarization properties of regolith simulants -- Systematic experimental evaluation of composition effects**|Stefano Spadaccia et.al.|[2207.08767v1](http://arxiv.org/abs/2207.08767v1)|null|
+|**2022-07-18**|**A Scintillation Arc Survey of 22 Pulsars with Low to Moderate Dispersion Measures**|Dan R. Stinebring et.al.|[2207.08756v1](http://arxiv.org/abs/2207.08756v1)|null|
+|**2022-07-18**|**Sub-stellar Companions of Intermediate-mass Stars with CoRoT: CoRoT-34b, CoRoT-35b, and CoRoT-36b**|D. Sebastian et.al.|[2207.08742v1](http://arxiv.org/abs/2207.08742v1)|null|
+|**2022-07-18**|**Morphology, color-magnitude and scaling relations of galaxies in Abell 426**|Sheeraz A. Khanday et.al.|[2207.08729v1](http://arxiv.org/abs/2207.08729v1)|null|
+|**2022-07-18**|**Creation and direct laser acceleration of positrons in a single stage**|B. Martinez et.al.|[2207.08728v1](http://arxiv.org/abs/2207.08728v1)|null|
+|**2022-07-18**|**Evidence for a Dense, Inhomogeneous Circumstellar Medium in the Type Ia SNR 0519-69.0**|Brian J. Williams et.al.|[2207.08724v1](http://arxiv.org/abs/2207.08724v1)|null|
+|**2022-07-18**|**Measuring chemical abundances in AGN from infrared nebular lines: HII-CHI-Mistry-IR for AGN**|Borja Pérez-Díaz et.al.|[2207.08718v1](http://arxiv.org/abs/2207.08718v1)|null|
 |**2022-07-15**|**A Probabilistic Autoencoder for Type Ia Supernovae Spectral Time Series**|George Stein et.al.|[2207.07645v1](http://arxiv.org/abs/2207.07645v1)|**[link](https://github.com/georgestein/supaernova)**|
 |**2022-07-15**|**Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**|Grace E. Lawrence et.al.|[2207.07644v1](http://arxiv.org/abs/2207.07644v1)|**[link](https://github.com/grace-lawrence/gusts_in_the_headwind-uncertainties_in_direct_dark_matter_detection-supplementary)**|
 |**2022-07-15**|**Simulating Spectral Kurtosis Mitigation Against Realistic RFI Signals**|Evan T. Smith et.al.|[2207.07642v1](http://arxiv.org/abs/2207.07642v1)|null|
@@ -159,6 +169,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-18**|**Rethinking Data Augmentation for Robust Visual Question Answering**|Long Chen et.al.|[2207.08739v1](http://arxiv.org/abs/2207.08739v1)|**[link](https://github.com/itemzheng/kddaug)**|
+|**2022-07-18**|**On stabilizing reinforcement learning without Lyapunov functions**|Pavel Osinenko et.al.|[2207.08730v1](http://arxiv.org/abs/2207.08730v1)|null|
+|**2022-07-18**|**Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation**|Guodong Ding et.al.|[2207.08653v1](http://arxiv.org/abs/2207.08653v1)|null|
+|**2022-07-18**|**Boolean Decision Rules for Reinforcement Learning Policy Summarisation**|James McCarthy et.al.|[2207.08651v1](http://arxiv.org/abs/2207.08651v1)|null|
+|**2022-07-18**|**Active Exploration for Inverse Reinforcement Learning**|David Lindner et.al.|[2207.08645v1](http://arxiv.org/abs/2207.08645v1)|null|
+|**2022-07-18**|**GOAL: Towards Benchmarking Few-Shot Sports Game Summarization**|Jiaan Wang et.al.|[2207.08635v1](http://arxiv.org/abs/2207.08635v1)|**[link](https://github.com/krystalan/goal)**|
+|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v1](http://arxiv.org/abs/2207.08630v1)|**[link](https://github.com/iceli1007/fakeclr)**|
+|**2022-07-18**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**|Chuang Liu et.al.|[2207.08629v1](http://arxiv.org/abs/2207.08629v1)|null|
+|**2022-07-18**|**Abstraction between Structural Causal Models: A Review of Definitions and Properties**|Fabio Massimo Zennaro et.al.|[2207.08603v1](http://arxiv.org/abs/2207.08603v1)|null|
+|**2022-07-18**|**Applying Incremental Answer Set Solving to Product Configuration**|Richard Comploi-Taupe et.al.|[2207.08599v1](http://arxiv.org/abs/2207.08599v1)|null|
 |**2022-07-15**|**PROTOCALC: an artificial calibrator source for CMB telescopes**|Gabriele Coppi et.al.|[2207.07595v1](http://arxiv.org/abs/2207.07595v1)|null|
 |**2022-07-15**|**Skill-based Model-based Reinforcement Learning**|Lucy Xiaoyang Shi et.al.|[2207.07560v1](http://arxiv.org/abs/2207.07560v1)|null|
 |**2022-07-15**|**Heuristic-free Optimization of Force-Controlled Robot Search Strategies in Stochastic Environments**|Benjamin Alt et.al.|[2207.07524v1](http://arxiv.org/abs/2207.07524v1)|null|
