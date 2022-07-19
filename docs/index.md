@@ -2,20 +2,20 @@
 layout: default
 ---
 
-## Updated on 2022.07.18
+## Updated on 2022.07.19
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-15**|**A Probabilistic Autoencoder for Type Ia Supernovae Spectral Time Series**|George Stein et.al.|[2207.07645v1](http://arxiv.org/abs/2207.07645v1)|**[link](https://github.com/georgestein/supaernova)**|
-|**2022-07-15**|**Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**|Grace E. Lawrence et.al.|[2207.07644v1](http://arxiv.org/abs/2207.07644v1)|null|
+|**2022-07-15**|**Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**|Grace E. Lawrence et.al.|[2207.07644v1](http://arxiv.org/abs/2207.07644v1)|**[link](https://github.com/grace-lawrence/gusts_in_the_headwind-uncertainties_in_direct_dark_matter_detection-supplementary)**|
 |**2022-07-15**|**Simulating Spectral Kurtosis Mitigation Against Realistic RFI Signals**|Evan T. Smith et.al.|[2207.07642v1](http://arxiv.org/abs/2207.07642v1)|null|
 |**2022-07-15**|**Testing spin-dependent dark matter interactions with lithium aluminate targets in CRESST-III**|G. Angloher et.al.|[2207.07640v1](http://arxiv.org/abs/2207.07640v1)|null|
 |**2022-07-15**|**Hazma Meets HERWIG4DM: Precision Gamma-Ray, Neutrino, and Positron Spectra for Light Dark Matter**|Adam Coogan et.al.|[2207.07634v1](http://arxiv.org/abs/2207.07634v1)|null|
 |**2022-07-15**|**A Bayesian Monte Carlo assessment of orbital stability in the late stages of planetary system formation**|Jassyr Salas et.al.|[2207.07617v1](http://arxiv.org/abs/2207.07617v1)|null|
 |**2022-07-15**|**Numerical simulations of a two-fluid jet at a magnetic null point in a solar arcade**|J. J. González-Avilés et.al.|[2207.07610v1](http://arxiv.org/abs/2207.07610v1)|null|
-|**2022-07-15**|**Infall Profiles for Supercluster-Scale Filaments**|Mary Crone Odekon et.al.|[2207.07600v1](http://arxiv.org/abs/2207.07600v1)|null|
+|**2022-07-18**|**Infall Profiles for Supercluster-Scale Filaments**|Mary Crone Odekon et.al.|[2207.07600v2](http://arxiv.org/abs/2207.07600v2)|null|
 |**2022-07-15**|**PROTOCALC: an artificial calibrator source for CMB telescopes**|Gabriele Coppi et.al.|[2207.07595v1](http://arxiv.org/abs/2207.07595v1)|null|
 |**2022-07-15**|**Measuring dark matter spikes around primordial black holes with Einstein Telescope and Cosmic Explorer**|Philippa S. Cole et.al.|[2207.07576v1](http://arxiv.org/abs/2207.07576v1)|null|
 |**2022-07-14**|**Cosmological constant and equation of state of the quantum vacuum**|Cristian Moreno-Pulido et.al.|[2207.07111v1](http://arxiv.org/abs/2207.07111v1)|null|
