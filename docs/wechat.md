@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-07-19, **Swampland Bounds on Dark Sectors**, Miguel Montero et.al., Paper: [http://arxiv.org/abs/2207.09448v1](http://arxiv.org/abs/2207.09448v1)
+- 2022-07-19, **A transient ultraluminous X-ray source in NGC 55**, A. Robba et.al., Paper: [http://arxiv.org/abs/2207.09447v1](http://arxiv.org/abs/2207.09447v1)
+- 2022-07-19, **A Convolutional Neural Network Approach to Supernova Time-Series Classification**, Helen Qu et.al., Paper: [http://arxiv.org/abs/2207.09440v1](http://arxiv.org/abs/2207.09440v1)
+- 2022-07-19, **Early results from GLASS-JWST. III: Galaxy candidates at z$\sim$9-15**, Marco Castellano et.al., Paper: [http://arxiv.org/abs/2207.09436v1](http://arxiv.org/abs/2207.09436v1)
+- 2022-07-19, **Two Remarkably Luminous Galaxy Candidates at $z\approx11-13$ Revealed by JWST**, Rohan P. Naidu et.al., Paper: [http://arxiv.org/abs/2207.09434v1](http://arxiv.org/abs/2207.09434v1)
+- 2022-07-19, **Panic! At the Disks: First Rest-frame Optical Observations of Galaxy Structure at $z > 3$ with JWST in the SMACS 0723 Field**, Leonardo Ferreira et.al., Paper: [http://arxiv.org/abs/2207.09428v1](http://arxiv.org/abs/2207.09428v1)
+- 2022-07-19, **Interstellar Complex Organic Molecules in SiO-traced massive outflows**, O. S. Rojas-García et.al., Paper: [http://arxiv.org/abs/2207.09426v1](http://arxiv.org/abs/2207.09426v1)
+- 2022-07-19, **New high-precision strong lensing modeling of Abell 2744. Preparing for JWST observations**, P. Bergamini et.al., Paper: [http://arxiv.org/abs/2207.09416v1](http://arxiv.org/abs/2207.09416v1)
+- 2022-07-19, **LOTUS: A (non-)LTE Optimization Tool for Uniform derivation of Stellar atmospheric parameters**, Yangyang Li et.al., Paper: [http://arxiv.org/abs/2207.09415v1](http://arxiv.org/abs/2207.09415v1)
+- 2022-07-19, **Batchelor, Saffman, and Kazantsev spectra in galactic small-scale dynamos**, Axel Brandenburg et.al., Paper: [http://arxiv.org/abs/2207.09414v1](http://arxiv.org/abs/2207.09414v1)
 - 2022-07-18, **The dust depletion of metals from local to distant galaxies I: Peculiar nucleosynthesis effects and grain growth in the ISM**, Christina Konstantopoulou et.al., Paper: [http://arxiv.org/abs/2207.08804v1](http://arxiv.org/abs/2207.08804v1)
 - 2022-07-18, **A first look at the SMACS0723 JWST ERO: spectroscopic redshifts, stellar masses and star-formation histories**, A. C. Carnall et.al., Paper: [http://arxiv.org/abs/2207.08778v1](http://arxiv.org/abs/2207.08778v1)
 - 2022-07-18, **Milky Way-like galaxies: stellar population properties of dynamically defined disks, bulges and stellar halos**, Sara Ortega-Martinez et.al., Paper: [http://arxiv.org/abs/2207.08776v1](http://arxiv.org/abs/2207.08776v1)
@@ -165,6 +175,16 @@
 
 ## AI
 
+- 2022-07-19, **Human-to-Robot Imitation in the Wild**, Shikhar Bahl et.al., Paper: [http://arxiv.org/abs/2207.09450v1](http://arxiv.org/abs/2207.09450v1)
+- 2022-07-19, **ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model**, Rao Fu et.al., Paper: [http://arxiv.org/abs/2207.09446v1](http://arxiv.org/abs/2207.09446v1)
+- 2022-07-19, **Machine learning approach to genome of two-dimensional materials with flat electronic bands**, Anupam Bhattacharya et.al., Paper: [http://arxiv.org/abs/2207.09444v1](http://arxiv.org/abs/2207.09444v1)
+- 2022-07-19, **SphereFed: Hyperspherical Federated Learning**, Xin Dong et.al., Paper: [http://arxiv.org/abs/2207.09413v1](http://arxiv.org/abs/2207.09413v1)
+- 2022-07-19, **Bounding generalization error with input compression: An empirical study with infinite-width networks**, Angus Galloway et.al., Paper: [http://arxiv.org/abs/2207.09408v1](http://arxiv.org/abs/2207.09408v1)
+- 2022-07-19, **Bayesian Generational Population-Based Training**, Xingchen Wan et.al., Paper: [http://arxiv.org/abs/2207.09405v1](http://arxiv.org/abs/2207.09405v1)
+- 2022-07-19, **Mimetic Models: Ethical Implications of AI that Acts Like You**, Reid McIlroy-Young et.al., Paper: [http://arxiv.org/abs/2207.09394v1](http://arxiv.org/abs/2207.09394v1)
+- 2022-07-19, **Alterfactual Explanations -- The Relevance of Irrelevance for Explaining AI Systems**, Silvan Mertes et.al., Paper: [http://arxiv.org/abs/2207.09374v1](http://arxiv.org/abs/2207.09374v1)
+- 2022-07-19, **On Decentralizing Federated Reinforcement Learning in Multi-Robot Scenarios**, Jayprakash S. Nair et.al., Paper: [http://arxiv.org/abs/2207.09372v1](http://arxiv.org/abs/2207.09372v1)
+- 2022-07-19, **Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications**, Deniz Gunduz et.al., Paper: [http://arxiv.org/abs/2207.09353v1](http://arxiv.org/abs/2207.09353v1)
 - 2022-07-18, **Rethinking Data Augmentation for Robust Visual Question Answering**, Long Chen et.al., Paper: [http://arxiv.org/abs/2207.08739v1](http://arxiv.org/abs/2207.08739v1), Code: **[https://github.com/itemzheng/kddaug](https://github.com/itemzheng/kddaug)**
 - 2022-07-18, **On stabilizing reinforcement learning without Lyapunov functions**, Pavel Osinenko et.al., Paper: [http://arxiv.org/abs/2207.08730v1](http://arxiv.org/abs/2207.08730v1)
 - 2022-07-18, **Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation**, Guodong Ding et.al., Paper: [http://arxiv.org/abs/2207.08653v1](http://arxiv.org/abs/2207.08653v1)
