@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.19
+## Updated on 2022.07.20
 
 ## Astrophysics
 
@@ -179,8 +179,8 @@ layout: default
 |**2022-07-18**|**Boolean Decision Rules for Reinforcement Learning Policy Summarisation**|James McCarthy et.al.|[2207.08651v1](http://arxiv.org/abs/2207.08651v1)|null|
 |**2022-07-18**|**Active Exploration for Inverse Reinforcement Learning**|David Lindner et.al.|[2207.08645v1](http://arxiv.org/abs/2207.08645v1)|null|
 |**2022-07-18**|**GOAL: Towards Benchmarking Few-Shot Sports Game Summarization**|Jiaan Wang et.al.|[2207.08635v1](http://arxiv.org/abs/2207.08635v1)|**[link](https://github.com/krystalan/goal)**|
-|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v1](http://arxiv.org/abs/2207.08630v1)|**[link](https://github.com/iceli1007/fakeclr)**|
-|**2022-07-18**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**|Chuang Liu et.al.|[2207.08629v1](http://arxiv.org/abs/2207.08629v1)|null|
+|**2022-07-19**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v2](http://arxiv.org/abs/2207.08630v2)|**[link](https://github.com/iceli1007/fakeclr)**|
+|**2022-07-19**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**|Chuang Liu et.al.|[2207.08629v2](http://arxiv.org/abs/2207.08629v2)|null|
 |**2022-07-18**|**Abstraction between Structural Causal Models: A Review of Definitions and Properties**|Fabio Massimo Zennaro et.al.|[2207.08603v1](http://arxiv.org/abs/2207.08603v1)|null|
 |**2022-07-18**|**Applying Incremental Answer Set Solving to Product Configuration**|Richard Comploi-Taupe et.al.|[2207.08599v1](http://arxiv.org/abs/2207.08599v1)|null|
 |**2022-07-15**|**PROTOCALC: an artificial calibrator source for CMB telescopes**|Gabriele Coppi et.al.|[2207.07595v1](http://arxiv.org/abs/2207.07595v1)|null|
