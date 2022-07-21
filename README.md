@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-20**|**Automatic Segmentation of Coronal Holes in Solar Images and Solar Prediction Map Classification**|Venkatesh Jatla et.al.|[2207.10070v1](http://arxiv.org/abs/2207.10070v1)|null|
+|**2022-07-20**|**Galaxy cluster photons alter the ionisation state of the nearby warm-hot intergalactic medium**|Lýdia Štofanová et.al.|[2207.10069v1](http://arxiv.org/abs/2207.10069v1)|null|
+|**2022-07-20**|**Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multi-Planet Systems**|Sarah C. Millholland et.al.|[2207.10068v1](http://arxiv.org/abs/2207.10068v1)|null|
+|**2022-07-20**|**Examining temporal variation of Fermi coupling constant using SNe Ia light curves**|Akshay Rana et.al.|[2207.10065v1](http://arxiv.org/abs/2207.10065v1)|null|
+|**2022-07-20**|**The Details of Limb Brightening Reveal the Structure of the Base of the Jet in M\,87 for the First Time**|Brian Punsly et.al.|[2207.10059v1](http://arxiv.org/abs/2207.10059v1)|null|
+|**2022-07-20**|**Primordial black hole dark matter from inflation: the reverse engineering approach**|Gabriele Franciolini et.al.|[2207.10056v1](http://arxiv.org/abs/2207.10056v1)|null|
+|**2022-07-20**|**First look with JWST spectroscopy: $z \sim 8$ galaxies resemble local analogues**|D. Schaerer et.al.|[2207.10034v1](http://arxiv.org/abs/2207.10034v1)|null|
+|**2022-07-20**|**Optical design concept of the CMB-S4 large-aperture telescopes and cameras**|Patricio A. Gallardo et.al.|[2207.10012v1](http://arxiv.org/abs/2207.10012v1)|null|
+|**2022-07-20**|**Search for merger ejecta emission from late time radio observations of short GRBs using GMRT**|Ankur Ghosh et.al.|[2207.10001v1](http://arxiv.org/abs/2207.10001v1)|null|
+|**2022-07-20**|**Euclid: Testing the Copernican principle with next-generation surveys**|D. Camarena et.al.|[2207.09995v1](http://arxiv.org/abs/2207.09995v1)|null|
 |**2022-07-19**|**Swampland Bounds on Dark Sectors**|Miguel Montero et.al.|[2207.09448v1](http://arxiv.org/abs/2207.09448v1)|null|
 |**2022-07-19**|**A transient ultraluminous X-ray source in NGC 55**|A. Robba et.al.|[2207.09447v1](http://arxiv.org/abs/2207.09447v1)|null|
 |**2022-07-19**|**A Convolutional Neural Network Approach to Supernova Time-Series Classification**|Helen Qu et.al.|[2207.09440v1](http://arxiv.org/abs/2207.09440v1)|null|
@@ -179,6 +189,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-20**|**Semantic uncertainty intervals for disentangled latent spaces**|Swami Sankaranarayanan et.al.|[2207.10074v1](http://arxiv.org/abs/2207.10074v1)|null|
+|**2022-07-20**|**Discriminator-Weighted Offline Imitation Learning from Suboptimal Demonstrations**|Haoran Xu et.al.|[2207.10050v1](http://arxiv.org/abs/2207.10050v1)|null|
+|**2022-07-20**|**Pretraining a Neural Network before Knowing Its Architecture**|Boris Knyazev et.al.|[2207.10049v1](http://arxiv.org/abs/2207.10049v1)|**[link](https://github.com/facebookresearch/ppuda)**|
+|**2022-07-20**|**Mitigating Algorithmic Bias with Limited Annotations**|Guanchu Wang et.al.|[2207.10018v1](http://arxiv.org/abs/2207.10018v1)|**[link](https://github.com/guanchuwang/apod-fairness)**|
+|**2022-07-20**|**Predictive Object-Centric Process Monitoring**|Timo Rohrer et.al.|[2207.10017v1](http://arxiv.org/abs/2207.10017v1)|null|
+|**2022-07-20**|**BYEL : Bootstrap on Your Emotion Latent**|Hyungjun Lee et.al.|[2207.10003v1](http://arxiv.org/abs/2207.10003v1)|null|
+|**2022-07-20**|**Overcoming Shortcut Learning in a Target Domain by Generalizing Basic Visual Factors from a Source Domain**|Piyapat Saranrittichai et.al.|[2207.10002v1](http://arxiv.org/abs/2207.10002v1)|**[link](https://github.com/boschresearch/sourcegen)**|
+|**2022-07-20**|**Diffsound: Discrete Diffusion Model for Text-to-sound Generation**|Dongchao Yang et.al.|[2207.09983v1](http://arxiv.org/abs/2207.09983v1)|null|
+|**2022-07-20**|**REFACTOR GNNS: Revisiting Factorisation-based Models from a Message-Passing Perspective**|Yihong Chen et.al.|[2207.09980v1](http://arxiv.org/abs/2207.09980v1)|null|
+|**2022-07-20**|**On a Generalized Framework for Time-Aware Knowledge Graphs**|Franz Krause et.al.|[2207.09964v1](http://arxiv.org/abs/2207.09964v1)|null|
 |**2022-07-19**|**Human-to-Robot Imitation in the Wild**|Shikhar Bahl et.al.|[2207.09450v1](http://arxiv.org/abs/2207.09450v1)|null|
 |**2022-07-19**|**ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model**|Rao Fu et.al.|[2207.09446v1](http://arxiv.org/abs/2207.09446v1)|null|
 |**2022-07-19**|**Machine learning approach to genome of two-dimensional materials with flat electronic bands**|Anupam Bhattacharya et.al.|[2207.09444v1](http://arxiv.org/abs/2207.09444v1)|null|
