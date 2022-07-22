@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-07-21, **Rest-frame near-infrared sizes of galaxies at cosmic noon: objects in JWST's mirror are smaller than they appeared**, Katherine A. Suess et.al., Paper: [http://arxiv.org/abs/2207.10655v1](http://arxiv.org/abs/2207.10655v1)
+- 2022-07-21, **Astrophysical Tests of Dark Matter Self-Interactions**, Susmita Adhikari et.al., Paper: [http://arxiv.org/abs/2207.10638v1](http://arxiv.org/abs/2207.10638v1)
+- 2022-07-21, **Neural Networks for Nuclear Reactions in MAESTROeX**, Duoming Fan et.al., Paper: [http://arxiv.org/abs/2207.10628v1](http://arxiv.org/abs/2207.10628v1)
+- 2022-07-21, **Slipping flows and their breaking**, E. A. Kuznetsov et.al., Paper: [http://arxiv.org/abs/2207.10621v1](http://arxiv.org/abs/2207.10621v1)
+- 2022-07-21, **Frontiers of Quantum Gravity: shared challenges, converging directions**, Jan de Boer et.al., Paper: [http://arxiv.org/abs/2207.10618v1](http://arxiv.org/abs/2207.10618v1)
+- 2022-07-21, **TAROGE-M: Radio Antenna Array on Antarctic High Mountain for Detecting Near-Horizontal Ultra-High Energy Air Showers**, TAROGE Collaboration et.al., Paper: [http://arxiv.org/abs/2207.10616v1](http://arxiv.org/abs/2207.10616v1)
+- 2022-07-21, **The inevitable manifestation of wiggles in the expansion of the late universe**, Ozgur Akarsu et.al., Paper: [http://arxiv.org/abs/2207.10609v1](http://arxiv.org/abs/2207.10609v1)
+- 2022-07-21, **Another look on the connections of Hubble tension with the Heisenberg Uncertainty Principle**, Oem Trivedi et.al., Paper: [http://arxiv.org/abs/2207.10570v1](http://arxiv.org/abs/2207.10570v1)
+- 2022-07-21, **A Global View on Star Formation: The GLOSTAR Galactic Plane Survey V. 6.7 GHz Methanol Maser Catalogue**, H. Nguyen et.al., Paper: [http://arxiv.org/abs/2207.10548v1](http://arxiv.org/abs/2207.10548v1)
+- 2022-07-21, **Multi-line Observations, Models, and Data Needed to Understand the Nature of UV-irradiated Interstellar Matter**, Javier R. Goicoechea et.al., Paper: [http://arxiv.org/abs/2207.10532v1](http://arxiv.org/abs/2207.10532v1)
 - 2022-07-20, **Automatic Segmentation of Coronal Holes in Solar Images and Solar Prediction Map Classification**, Venkatesh Jatla et.al., Paper: [http://arxiv.org/abs/2207.10070v1](http://arxiv.org/abs/2207.10070v1)
 - 2022-07-20, **Galaxy cluster photons alter the ionisation state of the nearby warm-hot intergalactic medium**, Lýdia Štofanová et.al., Paper: [http://arxiv.org/abs/2207.10069v1](http://arxiv.org/abs/2207.10069v1)
 - 2022-07-20, **Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multi-Planet Systems**, Sarah C. Millholland et.al., Paper: [http://arxiv.org/abs/2207.10068v1](http://arxiv.org/abs/2207.10068v1)
@@ -185,6 +195,16 @@
 
 ## AI
 
+- 2022-07-21, **Novel Class Discovery without Forgetting**, K J Joseph et.al., Paper: [http://arxiv.org/abs/2207.10659v1](http://arxiv.org/abs/2207.10659v1)
+- 2022-07-21, **Generative Multiplane Images: Making a 2D GAN 3D-Aware**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2207.10642v1](http://arxiv.org/abs/2207.10642v1), Code: **[https://github.com/apple/ml-gmpi](https://github.com/apple/ml-gmpi)**
+- 2022-07-21, **Approximate Differentiable Rendering with Algebraic Surfaces**, Leonid Keselman et.al., Paper: [http://arxiv.org/abs/2207.10606v1](http://arxiv.org/abs/2207.10606v1)
+- 2022-07-21, **CheckINN: Wide Range Neural Network Verification in Imandra**, Remi Desmartin et.al., Paper: [http://arxiv.org/abs/2207.10562v1](http://arxiv.org/abs/2207.10562v1)
+- 2022-07-21, **The MABe22 Benchmarks for Representation Learning of Multi-Agent Behavior**, Jennifer J. Sun et.al., Paper: [http://arxiv.org/abs/2207.10553v1](http://arxiv.org/abs/2207.10553v1)
+- 2022-07-21, **A Primer on Topological Data Analysis to Support Image Analysis Tasks in Environmental Science**, Lander Ver Hoef et.al., Paper: [http://arxiv.org/abs/2207.10552v1](http://arxiv.org/abs/2207.10552v1), Code: **[https://github.com/zyjux/sffg_tda](https://github.com/zyjux/sffg_tda)**
+- 2022-07-21, **Optimal precision for GANs**, Thibaut Issenhuth et.al., Paper: [http://arxiv.org/abs/2207.10541v1](http://arxiv.org/abs/2207.10541v1)
+- 2022-07-21, **Artificial intelligence enables mobile soil analysis for sustainable agriculture**, Ademir Ferreira da Silva et.al., Paper: [http://arxiv.org/abs/2207.10537v1](http://arxiv.org/abs/2207.10537v1)
+- 2022-07-21, **NusaCrowd: A Call for Open and Reproducible NLP Research in Indonesian Languages**, Samuel Cahyawijaya et.al., Paper: [http://arxiv.org/abs/2207.10524v1](http://arxiv.org/abs/2207.10524v1)
+- 2022-07-21, **MQRetNN: Multi-Horizon Time Series Forecasting with Retrieval Augmentation**, Sitan Yang et.al., Paper: [http://arxiv.org/abs/2207.10517v1](http://arxiv.org/abs/2207.10517v1)
 - 2022-07-20, **Semantic uncertainty intervals for disentangled latent spaces**, Swami Sankaranarayanan et.al., Paper: [http://arxiv.org/abs/2207.10074v1](http://arxiv.org/abs/2207.10074v1)
 - 2022-07-20, **Discriminator-Weighted Offline Imitation Learning from Suboptimal Demonstrations**, Haoran Xu et.al., Paper: [http://arxiv.org/abs/2207.10050v1](http://arxiv.org/abs/2207.10050v1)
 - 2022-07-20, **Pretraining a Neural Network before Knowing Its Architecture**, Boris Knyazev et.al., Paper: [http://arxiv.org/abs/2207.10049v1](http://arxiv.org/abs/2207.10049v1), Code: **[https://github.com/facebookresearch/ppuda](https://github.com/facebookresearch/ppuda)**
