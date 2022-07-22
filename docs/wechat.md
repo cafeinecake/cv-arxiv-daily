@@ -1,4 +1,4 @@
-> Updated on 2022.07.21
+> Updated on 2022.07.22
 
 ## Astrophysics
 
@@ -8,7 +8,7 @@
 - 2022-07-20, **Examining temporal variation of Fermi coupling constant using SNe Ia light curves**, Akshay Rana et.al., Paper: [http://arxiv.org/abs/2207.10065v1](http://arxiv.org/abs/2207.10065v1)
 - 2022-07-20, **The Details of Limb Brightening Reveal the Structure of the Base of the Jet in M\,87 for the First Time**, Brian Punsly et.al., Paper: [http://arxiv.org/abs/2207.10059v1](http://arxiv.org/abs/2207.10059v1)
 - 2022-07-20, **Primordial black hole dark matter from inflation: the reverse engineering approach**, Gabriele Franciolini et.al., Paper: [http://arxiv.org/abs/2207.10056v1](http://arxiv.org/abs/2207.10056v1)
-- 2022-07-20, **First look with JWST spectroscopy: $z \sim 8$ galaxies resemble local analogues**, D. Schaerer et.al., Paper: [http://arxiv.org/abs/2207.10034v1](http://arxiv.org/abs/2207.10034v1)
+- 2022-07-21, **First look with JWST spectroscopy: $z \sim 8$ galaxies resemble local analogues**, D. Schaerer et.al., Paper: [http://arxiv.org/abs/2207.10034v2](http://arxiv.org/abs/2207.10034v2)
 - 2022-07-20, **Optical design concept of the CMB-S4 large-aperture telescopes and cameras**, Patricio A. Gallardo et.al., Paper: [http://arxiv.org/abs/2207.10012v1](http://arxiv.org/abs/2207.10012v1)
 - 2022-07-20, **Search for merger ejecta emission from late time radio observations of short GRBs using GMRT**, Ankur Ghosh et.al., Paper: [http://arxiv.org/abs/2207.10001v1](http://arxiv.org/abs/2207.10001v1)
 - 2022-07-20, **Euclid: Testing the Copernican principle with next-generation surveys**, D. Camarena et.al., Paper: [http://arxiv.org/abs/2207.09995v1](http://arxiv.org/abs/2207.09995v1)
@@ -193,7 +193,7 @@
 - 2022-07-20, **BYEL : Bootstrap on Your Emotion Latent**, Hyungjun Lee et.al., Paper: [http://arxiv.org/abs/2207.10003v1](http://arxiv.org/abs/2207.10003v1)
 - 2022-07-20, **Overcoming Shortcut Learning in a Target Domain by Generalizing Basic Visual Factors from a Source Domain**, Piyapat Saranrittichai et.al., Paper: [http://arxiv.org/abs/2207.10002v1](http://arxiv.org/abs/2207.10002v1), Code: **[https://github.com/boschresearch/sourcegen](https://github.com/boschresearch/sourcegen)**
 - 2022-07-20, **Diffsound: Discrete Diffusion Model for Text-to-sound Generation**, Dongchao Yang et.al., Paper: [http://arxiv.org/abs/2207.09983v1](http://arxiv.org/abs/2207.09983v1)
-- 2022-07-20, **REFACTOR GNNS: Revisiting Factorisation-based Models from a Message-Passing Perspective**, Yihong Chen et.al., Paper: [http://arxiv.org/abs/2207.09980v1](http://arxiv.org/abs/2207.09980v1)
+- 2022-07-21, **ReFactorGNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective**, Yihong Chen et.al., Paper: [http://arxiv.org/abs/2207.09980v2](http://arxiv.org/abs/2207.09980v2)
 - 2022-07-20, **On a Generalized Framework for Time-Aware Knowledge Graphs**, Franz Krause et.al., Paper: [http://arxiv.org/abs/2207.09964v1](http://arxiv.org/abs/2207.09964v1)
 - 2022-07-19, **Human-to-Robot Imitation in the Wild**, Shikhar Bahl et.al., Paper: [http://arxiv.org/abs/2207.09450v1](http://arxiv.org/abs/2207.09450v1)
 - 2022-07-19, **ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model**, Rao Fu et.al., Paper: [http://arxiv.org/abs/2207.09446v1](http://arxiv.org/abs/2207.09446v1)
