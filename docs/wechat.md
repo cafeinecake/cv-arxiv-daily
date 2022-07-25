@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-07-22, **Discovery and properties of ultra-high redshift galaxies ($9<z<12$) in the JWST ERO SMACS 0723 Field**, N. J. Adams et.al., Paper: [http://arxiv.org/abs/2207.11217v1](http://arxiv.org/abs/2207.11217v1)
+- 2022-07-22, **Population synthesis of pulsar wind nebulae and pulsar halos in the Milky Way -- Predicted contributions to the very-high-energy sky**, Pierrick Martin et.al., Paper: [http://arxiv.org/abs/2207.11178v1](http://arxiv.org/abs/2207.11178v1)
+- 2022-07-22, **Dirac-boson stars**, Chen Liang et.al., Paper: [http://arxiv.org/abs/2207.11147v1](http://arxiv.org/abs/2207.11147v1)
+- 2022-07-22, **Early results from GLASS-JWST. X: Rest-frame UV-optical properties of galaxies at 7 < z < 9**, N. Leethochawalit et.al., Paper: [http://arxiv.org/abs/2207.11135v1](http://arxiv.org/abs/2207.11135v1)
+- 2022-07-22, **Globally optimal and scalable $N$-way matching of astronomy catalogs**, Tu Nguyen et.al., Paper: [http://arxiv.org/abs/2207.11125v1](http://arxiv.org/abs/2207.11125v1)
+- 2022-07-22, **Lyα Halos around [O III]-Selected Galaxies in HETDEX**, Maja Lujan Niemeyer et.al., Paper: [http://arxiv.org/abs/2207.11098v1](http://arxiv.org/abs/2207.11098v1)
+- 2022-07-22, **Cannibals in the thick disk II -- Radial-velocity monitoring of the young alpha-rich stars**, P. Jofre et.al., Paper: [http://arxiv.org/abs/2207.11084v1](http://arxiv.org/abs/2207.11084v1)
+- 2022-07-22, **JWST/MIRI coronagraphic performances as measured on-sky**, A. Boccaletti et.al., Paper: [http://arxiv.org/abs/2207.11080v1](http://arxiv.org/abs/2207.11080v1)
+- 2022-07-22, **Distinguishing Dark Matter, Modified Gravity, and Modified Inertia by the Inner and Outer Parts of Galactic Rotation Curves**, Kyu-Hyun Chae et.al., Paper: [http://arxiv.org/abs/2207.11069v1](http://arxiv.org/abs/2207.11069v1)
+- 2022-07-22, **A wind environment and Lorentz factors of tens explain gamma-ray bursts X-ray plateau**, H. Dereli-Bégué et.al., Paper: [http://arxiv.org/abs/2207.11066v1](http://arxiv.org/abs/2207.11066v1)
 - 2022-07-21, **Rest-frame near-infrared sizes of galaxies at cosmic noon: objects in JWST's mirror are smaller than they appeared**, Katherine A. Suess et.al., Paper: [http://arxiv.org/abs/2207.10655v1](http://arxiv.org/abs/2207.10655v1)
 - 2022-07-21, **Astrophysical Tests of Dark Matter Self-Interactions**, Susmita Adhikari et.al., Paper: [http://arxiv.org/abs/2207.10638v1](http://arxiv.org/abs/2207.10638v1)
 - 2022-07-21, **Neural Networks for Nuclear Reactions in MAESTROeX**, Duoming Fan et.al., Paper: [http://arxiv.org/abs/2207.10628v1](http://arxiv.org/abs/2207.10628v1)
@@ -195,6 +205,16 @@
 
 ## AI
 
+- 2022-07-22, **Panoptic Scene Graph Generation**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2207.11247v1](http://arxiv.org/abs/2207.11247v1), Code: **[https://github.com/Jingkang50/OpenPSG](https://github.com/Jingkang50/OpenPSG)**
+- 2022-07-22, **Discrete Key-Value Bottleneck**, Frederik Träuble et.al., Paper: [http://arxiv.org/abs/2207.11240v1](http://arxiv.org/abs/2207.11240v1)
+- 2022-07-22, **Seeing 3D Objects in a Single Image via Self-Supervised Static-Dynamic Disentanglement**, Prafull Sharma et.al., Paper: [http://arxiv.org/abs/2207.11232v1](http://arxiv.org/abs/2207.11232v1)
+- 2022-07-22, **Lagrangian Method for Q-Function Learning (with Applications to Machine Translation)**, Huang Bojun et.al., Paper: [http://arxiv.org/abs/2207.11161v1](http://arxiv.org/abs/2207.11161v1)
+- 2022-07-22, **CQE in OWL 2 QL: A "Longest Honeymoon" Approach (extended version)**, Piero Bonatti et.al., Paper: [http://arxiv.org/abs/2207.11155v1](http://arxiv.org/abs/2207.11155v1)
+- 2022-07-22, **Motion Planning and Control for Multi Vehicle Autonomous Racing at High Speeds**, Ayoub Raji et.al., Paper: [http://arxiv.org/abs/2207.11136v1](http://arxiv.org/abs/2207.11136v1)
+- 2022-07-22, **Near Real-Time Distributed State Estimation via AI/ML-Empowered 5G Networks**, Ognjen Kundacina et.al., Paper: [http://arxiv.org/abs/2207.11117v1](http://arxiv.org/abs/2207.11117v1)
+- 2022-07-22, **Classification via score-based generative modelling**, Yongchao Huang et.al., Paper: [http://arxiv.org/abs/2207.11091v1](http://arxiv.org/abs/2207.11091v1)
+- 2022-07-22, **Do Artificial Intelligence Systems Understand?**, Eduardo C. Garrido-Merchán et.al., Paper: [http://arxiv.org/abs/2207.11089v1](http://arxiv.org/abs/2207.11089v1)
+- 2022-07-22, **Latent Space Unsupervised Semantic Segmentation**, Knut J. Strømmen et.al., Paper: [http://arxiv.org/abs/2207.11067v1](http://arxiv.org/abs/2207.11067v1)
 - 2022-07-21, **Novel Class Discovery without Forgetting**, K J Joseph et.al., Paper: [http://arxiv.org/abs/2207.10659v1](http://arxiv.org/abs/2207.10659v1)
 - 2022-07-21, **Generative Multiplane Images: Making a 2D GAN 3D-Aware**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2207.10642v1](http://arxiv.org/abs/2207.10642v1), Code: **[https://github.com/apple/ml-gmpi](https://github.com/apple/ml-gmpi)**
 - 2022-07-21, **Approximate Differentiable Rendering with Algebraic Surfaces**, Leonid Keselman et.al., Paper: [http://arxiv.org/abs/2207.10606v1](http://arxiv.org/abs/2207.10606v1)
