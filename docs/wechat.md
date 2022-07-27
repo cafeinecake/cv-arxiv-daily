@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-07-26, **3D Hydrodynamics of Pre-supernova Outbursts in Convective Red Supergiant Envelopes**, Benny T. -H. Tsang et.al., Paper: [http://arxiv.org/abs/2207.13090v1](http://arxiv.org/abs/2207.13090v1)
+- 2022-07-26, **Impact Induced Atmosphere-Mantle Exchange Sets the Volatile Elemental Ratios on Primitive Earths**, Howard Chen et.al., Paper: [http://arxiv.org/abs/2207.13087v1](http://arxiv.org/abs/2207.13087v1)
+- 2022-07-26, **Addressing the Hubble and $S_8$ Tensions with a Kinetically Mixed Dark Sector**, Stephon Alexander et.al., Paper: [http://arxiv.org/abs/2207.13086v1](http://arxiv.org/abs/2207.13086v1)
+- 2022-07-26, **Resolving the core of R136 in the optical**, Venu M. Kalari et.al., Paper: [http://arxiv.org/abs/2207.13078v1](http://arxiv.org/abs/2207.13078v1)
+- 2022-07-26, **The JWST Early Release Observations**, Klaus Pontoppidan et.al., Paper: [http://arxiv.org/abs/2207.13067v1](http://arxiv.org/abs/2207.13067v1)
+- 2022-07-26, **Mirror Neutron Stars: How QCD can be used to study dark matter through gravitational waves**, Maurício Hippert et.al., Paper: [http://arxiv.org/abs/2207.13063v1](http://arxiv.org/abs/2207.13063v1)
+- 2022-07-26, **Reaching percolation and conformal limits in neutron stars**, Michał Marczenko et.al., Paper: [http://arxiv.org/abs/2207.13059v1](http://arxiv.org/abs/2207.13059v1)
+- 2022-07-26, **A low-cost ultraviolet-to-infrared absolute quantum efficiency characterization system of detectors**, Ajay S. Gill et.al., Paper: [http://arxiv.org/abs/2207.13052v1](http://arxiv.org/abs/2207.13052v1)
+- 2022-07-26, **Cosmic neutrino flux and spin flavor oscillations in intergalactic medium**, Ashutosh Kumar Alok et.al., Paper: [http://arxiv.org/abs/2207.13034v1](http://arxiv.org/abs/2207.13034v1)
+- 2022-07-26, **Finding Peas in the Early Universe with JWST**, James E. Rhoads et.al., Paper: [http://arxiv.org/abs/2207.13020v1](http://arxiv.org/abs/2207.13020v1)
 - 2022-07-25, **Modeling HI at the field level**, Andrej Obuljen et.al., Paper: [http://arxiv.org/abs/2207.12398v1](http://arxiv.org/abs/2207.12398v1), Code: **[https://github.com/andrejobuljen/hi-fi_mocks](https://github.com/andrejobuljen/hi-fi_mocks)**
 - 2022-07-25, **The Physical Conditions of Emission-Line Galaxies at Cosmic Dawn from JWST/NIRSpec Spectroscopy in the SMACS 0723 Early Release Observations**, Jonathan R. Trump et.al., Paper: [http://arxiv.org/abs/2207.12388v1](http://arxiv.org/abs/2207.12388v1)
 - 2022-07-25, **Wide-angle and Relativistic effects in Fourier-Space Clustering statistics**, Milad Noorikuhani et.al., Paper: [http://arxiv.org/abs/2207.12383v1](http://arxiv.org/abs/2207.12383v1)
@@ -215,6 +225,16 @@
 
 ## AI
 
+- 2022-07-26, **Task Agnostic and Post-hoc Unseen Distribution Detection**, Radhika Dua et.al., Paper: [http://arxiv.org/abs/2207.13083v1](http://arxiv.org/abs/2207.13083v1)
+- 2022-07-26, **Offline Reinforcement Learning at Multiple Frequencies**, Kaylee Burns et.al., Paper: [http://arxiv.org/abs/2207.13082v1](http://arxiv.org/abs/2207.13082v1)
+- 2022-07-26, **Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**, Trisha Mittal et.al., Paper: [http://arxiv.org/abs/2207.13064v1](http://arxiv.org/abs/2207.13064v1)
+- 2022-07-26, **NewsStories: Illustrating articles with visual summaries**, Reuben Tan et.al., Paper: [http://arxiv.org/abs/2207.13061v1](http://arxiv.org/abs/2207.13061v1), Code: **[https://github.com/newsstoriesdata/newsstories.github.io](https://github.com/newsstoriesdata/newsstories.github.io)**
+- 2022-07-26, **From Interpretable Filters to Predictions of Convolutional Neural Networks with Explainable Artificial Intelligence**, Shagufta Henna et.al., Paper: [http://arxiv.org/abs/2207.12958v1](http://arxiv.org/abs/2207.12958v1)
+- 2022-07-26, **Semantic Segmentation for Autonomous Driving: Model Evaluation, Dataset Generation, Perspective Comparison, and Real-Time Capability**, Senay Cakir et.al., Paper: [http://arxiv.org/abs/2207.12939v1](http://arxiv.org/abs/2207.12939v1)
+- 2022-07-26, **LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection**, Zhuo Chen et.al., Paper: [http://arxiv.org/abs/2207.12888v1](http://arxiv.org/abs/2207.12888v1), Code: **[https://github.com/hackerchenzhuo/LaKo](https://github.com/hackerchenzhuo/LaKo)**
+- 2022-07-26, **CFLIT: Coexisting Federated Learning and Information Transfer**, Zehong Lin et.al., Paper: [http://arxiv.org/abs/2207.12884v1](http://arxiv.org/abs/2207.12884v1)
+- 2022-07-26, **Towards Smart City Security: Violence and Weaponized Violence Detection using DCNN**, Toluwani Aremu et.al., Paper: [http://arxiv.org/abs/2207.12850v1](http://arxiv.org/abs/2207.12850v1), Code: **[https://github.com/Ti-Oluwanimi/Violence_Detection](https://github.com/Ti-Oluwanimi/Violence_Detection)**
+- 2022-07-26, **The Global Existence of Martingale Solutions to Stochastic Compressible Navier-Stokes Equations with Density-dependent Viscosity**, Yachun Li et.al., Paper: [http://arxiv.org/abs/2207.12835v1](http://arxiv.org/abs/2207.12835v1)
 - 2022-07-25, **Self-Distilled Vision Transformer for Domain Generalization**, Maryam Sultana et.al., Paper: [http://arxiv.org/abs/2207.12392v1](http://arxiv.org/abs/2207.12392v1), Code: **[https://github.com/maryam089/sdvit](https://github.com/maryam089/sdvit)**
 - 2022-07-25, **SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness**, Jindong Gu et.al., Paper: [http://arxiv.org/abs/2207.12391v1](http://arxiv.org/abs/2207.12391v1)
 - 2022-07-25, **MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**, Tarun Kalluri et.al., Paper: [http://arxiv.org/abs/2207.12389v1](http://arxiv.org/abs/2207.12389v1)
