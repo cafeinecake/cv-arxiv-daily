@@ -1,18 +1,18 @@
-## Updated on 2022.07.26
+## Updated on 2022.07.27
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-25**|**Modeling HI at the field level**|Andrej Obuljen et.al.|[2207.12398v1](http://arxiv.org/abs/2207.12398v1)|null|
+|**2022-07-25**|**Modeling HI at the field level**|Andrej Obuljen et.al.|[2207.12398v1](http://arxiv.org/abs/2207.12398v1)|**[link](https://github.com/andrejobuljen/hi-fi_mocks)**|
 |**2022-07-25**|**The Physical Conditions of Emission-Line Galaxies at Cosmic Dawn from JWST/NIRSpec Spectroscopy in the SMACS 0723 Early Release Observations**|Jonathan R. Trump et.al.|[2207.12388v1](http://arxiv.org/abs/2207.12388v1)|null|
 |**2022-07-25**|**Wide-angle and Relativistic effects in Fourier-Space Clustering statistics**|Milad Noorikuhani et.al.|[2207.12383v1](http://arxiv.org/abs/2207.12383v1)|null|
 |**2022-07-25**|**MIGHTEE: the nature of the radio-loud AGN population**|I. H. Whittam et.al.|[2207.12379v1](http://arxiv.org/abs/2207.12379v1)|null|
-|**2022-07-25**|**The chemical enrichment in the early Universe as probed by JWST via direct metallicity measurements at z~8**|M. Curti et.al.|[2207.12375v1](http://arxiv.org/abs/2207.12375v1)|null|
+|**2022-07-26**|**The chemical enrichment in the early Universe as probed by JWST via direct metallicity measurements at z~8**|M. Curti et.al.|[2207.12375v2](http://arxiv.org/abs/2207.12375v2)|null|
 |**2022-07-25**|**TRAPPIST-1h as an Exo-Titan. I. The Role of Assumptions about Atmospheric Parameters in Understanding an Exoplanet Atmosphere**|Kathleen Mandt et.al.|[2207.12358v1](http://arxiv.org/abs/2207.12358v1)|null|
 |**2022-07-25**|**The evolution of the galaxy UV luminosity function at redshifts z ~ 8-15 from deep JWST and ground-based near-infrared imaging**|C. T. Donnan et.al.|[2207.12356v1](http://arxiv.org/abs/2207.12356v1)|null|
-|**2022-07-25**|**The Mira-Titan Universe IV. High Precision Power Spectrum Emulation**|Kelly R. Moran et.al.|[2207.12345v1](http://arxiv.org/abs/2207.12345v1)|null|
-|**2022-07-25**|**Bistability of the atmospheric circulation on TRAPPIST-1e**|Denis E. Sergeev et.al.|[2207.12342v1](http://arxiv.org/abs/2207.12342v1)|null|
+|**2022-07-25**|**The Mira-Titan Universe IV. High Precision Power Spectrum Emulation**|Kelly R. Moran et.al.|[2207.12345v1](http://arxiv.org/abs/2207.12345v1)|**[link](https://github.com/lanl/CosmicEmu)**|
+|**2022-07-25**|**Bistability of the atmospheric circulation on TRAPPIST-1e**|Denis E. Sergeev et.al.|[2207.12342v1](http://arxiv.org/abs/2207.12342v1)|**[link](https://github.com/dennissergeev/t1e_bistability_code)**|
 |**2022-07-25**|**Revealing Galaxy Candidates out to $z \sim 16$ with JWST Observations of the Lensing Cluster SMACS0723**|Hakim Atek et.al.|[2207.12338v1](http://arxiv.org/abs/2207.12338v1)|null|
 |**2022-07-22**|**Discovery and properties of ultra-high redshift galaxies ($9<z<12$) in the JWST ERO SMACS 0723 Field**|N. J. Adams et.al.|[2207.11217v1](http://arxiv.org/abs/2207.11217v1)|null|
 |**2022-07-22**|**Population synthesis of pulsar wind nebulae and pulsar halos in the Milky Way -- Predicted contributions to the very-high-energy sky**|Pierrick Martin et.al.|[2207.11178v1](http://arxiv.org/abs/2207.11178v1)|null|
@@ -225,7 +225,7 @@
 |**2022-07-25**|**Bessel Speckles**|Vijayakumar Anand et.al.|[2207.12384v1](http://arxiv.org/abs/2207.12384v1)|null|
 |**2022-07-25**|**LightX3ECG: A Lightweight and eXplainable Deep Learning System for 3-lead Electrocardiogram Classification**|Khiem H. Le et.al.|[2207.12381v1](http://arxiv.org/abs/2207.12381v1)|null|
 |**2022-07-25**|**Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA Drug Labeling to Enhance Product-Specific Guidance Assessment**|Yiwen Shi et.al.|[2207.12376v1](http://arxiv.org/abs/2207.12376v1)|null|
-|**2022-07-25**|**OpenRAN Gym: AI/ML Development, Data Collection, and Testing for O-RAN on PAWR Platforms**|Leonardo Bonati et.al.|[2207.12362v1](http://arxiv.org/abs/2207.12362v1)|null|
+|**2022-07-25**|**OpenRAN Gym: AI/ML Development, Data Collection, and Testing for O-RAN on PAWR Platforms**|Leonardo Bonati et.al.|[2207.12362v1](http://arxiv.org/abs/2207.12362v1)|**[link](https://github.com/wineslab/colosseum-near-rt-ric)**|
 |**2022-07-25**|**Technical Report: Assisting Backdoor Federated Learning with Whole Population Knowledge Alignment**|Tian Liu et.al.|[2207.12327v1](http://arxiv.org/abs/2207.12327v1)|null|
 |**2022-07-25**|**Stable Parallel Training of Wasserstein Conditional Generative Adversarial Neural Networks**|Massimiliano Lupo Pasini et.al.|[2207.12315v1](http://arxiv.org/abs/2207.12315v1)|null|
 |**2022-07-25**|**On Binding Objects to Symbols: Learning Physical Concepts to Understand Real from Fake**|Alessandro Achille et.al.|[2207.12186v1](http://arxiv.org/abs/2207.12186v1)|null|
