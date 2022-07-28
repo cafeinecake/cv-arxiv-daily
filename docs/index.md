@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.27
+## Updated on 2022.07.28
 
 ## Astrophysics
 
@@ -235,7 +235,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-26**|**Task Agnostic and Post-hoc Unseen Distribution Detection**|Radhika Dua et.al.|[2207.13083v1](http://arxiv.org/abs/2207.13083v1)|null|
 |**2022-07-26**|**Offline Reinforcement Learning at Multiple Frequencies**|Kaylee Burns et.al.|[2207.13082v1](http://arxiv.org/abs/2207.13082v1)|null|
-|**2022-07-26**|**Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**|Trisha Mittal et.al.|[2207.13064v1](http://arxiv.org/abs/2207.13064v1)|null|
+|**2022-07-27**|**Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**|Trisha Mittal et.al.|[2207.13064v2](http://arxiv.org/abs/2207.13064v2)|null|
 |**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
 |**2022-07-26**|**From Interpretable Filters to Predictions of Convolutional Neural Networks with Explainable Artificial Intelligence**|Shagufta Henna et.al.|[2207.12958v1](http://arxiv.org/abs/2207.12958v1)|null|
 |**2022-07-26**|**Semantic Segmentation for Autonomous Driving: Model Evaluation, Dataset Generation, Perspective Comparison, and Real-Time Capability**|Senay Cakir et.al.|[2207.12939v1](http://arxiv.org/abs/2207.12939v1)|null|
