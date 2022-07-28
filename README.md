@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**First Insights into the ISM at $z>8$ with JWST: Possible Physical Implications of a High [O III]$\mathbf{λ4363}$/[O III]$\mathbf{λ 5007}$**|Harley Katz et.al.|[2207.13693v1](http://arxiv.org/abs/2207.13693v1)|null|
+|**2022-07-27**|**The Role of AGN in Luminous Infrared Galaxies from the Multiwavelength Perspective**|Vivian U et.al.|[2207.13690v1](http://arxiv.org/abs/2207.13690v1)|null|
+|**2022-07-27**|**Extended primordial black hole mass functions with a spike**|Juan Magaña et.al.|[2207.13689v1](http://arxiv.org/abs/2207.13689v1)|null|
+|**2022-07-27**|**On Using Linux Kernel Huge Pages with FLASH, an Astrophysical Simulation Code**|Alan C. Calder et.al.|[2207.13685v1](http://arxiv.org/abs/2207.13685v1)|null|
+|**2022-07-27**|**Dissecting kinetically coupled quintessence: phenomenology and observational tests**|Elsa M. Teixeira et.al.|[2207.13682v1](http://arxiv.org/abs/2207.13682v1)|null|
+|**2022-07-27**|**DEMNUni: comparing nonlinear power spectra prescriptions in the presence of massive neutrinos and dynamical dark energy**|G. Parimbelli et.al.|[2207.13677v1](http://arxiv.org/abs/2207.13677v1)|null|
+|**2022-07-27**|**High frequency study of FRB 20180916B using the 100-m Effelsberg radio telescope**|S. Bethapudi et.al.|[2207.13669v1](http://arxiv.org/abs/2207.13669v1)|null|
+|**2022-07-27**|**Chemical Abundances for 25 JWST Exoplanet Host Stars with KeckSpec**|Alex S. Polanski et.al.|[2207.13662v1](http://arxiv.org/abs/2207.13662v1)|null|
+|**2022-07-27**|**Axion-Like Particle Production at Beam Dump Experiments with Distinct Nuclear Excitation Lines**|Loyd Waites et.al.|[2207.13659v1](http://arxiv.org/abs/2207.13659v1)|null|
+|**2022-07-27**|**Early results from GLASS-JWST. IX: First spectroscopic confirmation of low-mass quiescent galaxies at $z>2$ with NIRISS**|Danilo Marchesini et.al.|[2207.13625v1](http://arxiv.org/abs/2207.13625v1)|null|
 |**2022-07-26**|**3D Hydrodynamics of Pre-supernova Outbursts in Convective Red Supergiant Envelopes**|Benny T. -H. Tsang et.al.|[2207.13090v1](http://arxiv.org/abs/2207.13090v1)|null|
 |**2022-07-26**|**Impact Induced Atmosphere-Mantle Exchange Sets the Volatile Elemental Ratios on Primitive Earths**|Howard Chen et.al.|[2207.13087v1](http://arxiv.org/abs/2207.13087v1)|null|
 |**2022-07-26**|**Addressing the Hubble and $S_8$ Tensions with a Kinetically Mixed Dark Sector**|Stephon Alexander et.al.|[2207.13086v1](http://arxiv.org/abs/2207.13086v1)|null|
@@ -229,6 +239,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Multi-layer Representation Learning for Robust OOD Image Classification**|Aristotelis Ballas et.al.|[2207.13678v1](http://arxiv.org/abs/2207.13678v1)|null|
+|**2022-07-27**|**Causal foundations of bias, disparity and fairness**|V. A. Traag et.al.|[2207.13665v1](http://arxiv.org/abs/2207.13665v1)|null|
+|**2022-07-27**|**Explain My Surprise: Learning Efficient Long-Term Memory by Predicting Uncertain Outcomes**|Artyom Sorokin et.al.|[2207.13649v1](http://arxiv.org/abs/2207.13649v1)|null|
+|**2022-07-27**|**Using Deep Learning to Detecting Deepfakes**|Jacob Mallet et.al.|[2207.13644v1](http://arxiv.org/abs/2207.13644v1)|null|
+|**2022-07-27**|**Encoding Concepts in Graph Neural Networks**|Lucie Charlotte Magister et.al.|[2207.13586v1](http://arxiv.org/abs/2207.13586v1)|null|
+|**2022-07-27**|**Towards the Neuroevolution of Low-level Artificial General Intelligence**|Sidney Pontes-Filho et.al.|[2207.13583v1](http://arxiv.org/abs/2207.13583v1)|**[link](https://github.com/socratesnfr/neat-nagi-python)**|
+|**2022-07-27**|**Membership Inference Attacks via Adversarial Examples**|Hamid Jalalzai et.al.|[2207.13572v1](http://arxiv.org/abs/2207.13572v1)|null|
+|**2022-07-27**|**A Proper Orthogonal Decomposition approach for parameters reduction of Single Shot Detector networks**|Laura Meneghetti et.al.|[2207.13551v1](http://arxiv.org/abs/2207.13551v1)|null|
+|**2022-07-27**|**Abstracting Sketches through Simple Primitives**|Stephan Alaniz et.al.|[2207.13543v1](http://arxiv.org/abs/2207.13543v1)|**[link](https://github.com/explainableml/sketch-primitives)**|
+|**2022-07-27**|**Adapting the Exploration-Exploitation Balance in Heterogeneous Swarms: Tracking Evasive Targets**|Hian Lee Kwa et.al.|[2207.13523v1](http://arxiv.org/abs/2207.13523v1)|null|
 |**2022-07-26**|**Task Agnostic and Post-hoc Unseen Distribution Detection**|Radhika Dua et.al.|[2207.13083v1](http://arxiv.org/abs/2207.13083v1)|null|
 |**2022-07-26**|**Offline Reinforcement Learning at Multiple Frequencies**|Kaylee Burns et.al.|[2207.13082v1](http://arxiv.org/abs/2207.13082v1)|null|
 |**2022-07-27**|**Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**|Trisha Mittal et.al.|[2207.13064v2](http://arxiv.org/abs/2207.13064v2)|null|
