@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Do high-spin high mass X-ray binaries contribute to the population of merging binary black holes?**|Monica Gallegos-Garcia et.al.|[2207.14290v1](http://arxiv.org/abs/2207.14290v1)|null|
+|**2022-07-28**|**Density-clustering of continuous gravitational wave candidates from large surveys**|Benjamin Steltner et.al.|[2207.14286v1](http://arxiv.org/abs/2207.14286v1)|null|
+|**2022-07-28**|**The Large Magellanic Cloud Revealed in Gravitational Waves with LISA**|Michael A. Keim et.al.|[2207.14277v1](http://arxiv.org/abs/2207.14277v1)|null|
+|**2022-07-28**|**Black Hole as a Bound State of Semi-classical Degrees of Freedom**|Yuki Yokokura et.al.|[2207.14274v1](http://arxiv.org/abs/2207.14274v1)|null|
+|**2022-07-28**|**No-go Theorem for Scalar-Trispectrum-Induced Gravitational Waves**|Sebastian Garcia-Saenz et.al.|[2207.14267v1](http://arxiv.org/abs/2207.14267v1)|null|
+|**2022-07-28**|**Seeing sharper and deeper: JWST's first glimpse of the photometric and spectroscopic properties of galaxies in the epoch of reionisation**|James A. A. Trussler et.al.|[2207.14265v1](http://arxiv.org/abs/2207.14265v1)|null|
+|**2022-07-28**|**Geodesic motion and phase-space evolution of massive neutrinos**|Willem Elbers et.al.|[2207.14256v1](http://arxiv.org/abs/2207.14256v1)|null|
+|**2022-07-28**|**Running vacuum versus Holographic dark energy: a cosmographic comparison**|Mehdi Rezaei et.al.|[2207.14250v1](http://arxiv.org/abs/2207.14250v1)|null|
+|**2022-07-28**|**Toward a multidimensional analysis of transmission spectroscopy. Part III: Modelling 2D effects in retrievals with TauREx**|Tiziano Zingales et.al.|[2207.14247v1](http://arxiv.org/abs/2207.14247v1)|null|
+|**2022-07-28**|**Correlating Visual Characteristics and Cryogenic Performance of Superconducting Detectors**|K. R. Ferguson et.al.|[2207.14242v1](http://arxiv.org/abs/2207.14242v1)|null|
 |**2022-07-27**|**First Insights into the ISM at $z>8$ with JWST: Possible Physical Implications of a High [O III]$\mathbf{λ4363}$/[O III]$\mathbf{λ 5007}$**|Harley Katz et.al.|[2207.13693v1](http://arxiv.org/abs/2207.13693v1)|null|
 |**2022-07-27**|**The Role of AGN in Luminous Infrared Galaxies from the Multiwavelength Perspective**|Vivian U et.al.|[2207.13690v1](http://arxiv.org/abs/2207.13690v1)|null|
 |**2022-07-27**|**Extended primordial black hole mass functions with a spike**|Juan Magaña et.al.|[2207.13689v1](http://arxiv.org/abs/2207.13689v1)|null|
@@ -239,6 +249,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Initialization and Alignment for Adversarial Texture Optimization**|Xiaoming Zhao et.al.|[2207.14289v1](http://arxiv.org/abs/2207.14289v1)|null|
+|**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v1](http://arxiv.org/abs/2207.14240v1)|null|
+|**2022-07-28**|**Physics-informed neural networks for diffraction tomography**|Amirhossein Saba et.al.|[2207.14230v1](http://arxiv.org/abs/2207.14230v1)|null|
+|**2022-07-28**|**Regret Minimization and Convergence to Equilibria in General-sum Markov Games**|Liad Erez et.al.|[2207.14211v1](http://arxiv.org/abs/2207.14211v1)|null|
+|**2022-07-28**|**DoRO: Disambiguation of referred object for embodied agents**|Pradip Pramanick et.al.|[2207.14205v1](http://arxiv.org/abs/2207.14205v1)|null|
+|**2022-07-28**|**Optimization of Artificial Neural Networks models applied to the identification of images of asteroids' resonant arguments**|Valerio Carruba et.al.|[2207.14181v1](http://arxiv.org/abs/2207.14181v1)|null|
+|**2022-07-28**|**Bayesian Optimization-Based Beam Alignment for MmWave MIMO Communication Systems**|Songjie Yang et.al.|[2207.14174v1](http://arxiv.org/abs/2207.14174v1)|null|
+|**2022-07-28**|**Playing a 2D Game Indefinitely using NEAT and Reinforcement Learning**|Jerin Paul Selvan et.al.|[2207.14140v1](http://arxiv.org/abs/2207.14140v1)|null|
+|**2022-07-28**|**Towards Robust Ad Hoc Teamwork Agents By Creating Diverse Training Teammates**|Arrasy Rahman et.al.|[2207.14138v1](http://arxiv.org/abs/2207.14138v1)|null|
+|**2022-07-28**|**A Survey of Syntactic Modelling Structures in Biomedical Ontologies**|Christian Kindermann et.al.|[2207.14119v1](http://arxiv.org/abs/2207.14119v1)|null|
 |**2022-07-27**|**Multi-layer Representation Learning for Robust OOD Image Classification**|Aristotelis Ballas et.al.|[2207.13678v1](http://arxiv.org/abs/2207.13678v1)|null|
 |**2022-07-27**|**Causal foundations of bias, disparity and fairness**|V. A. Traag et.al.|[2207.13665v1](http://arxiv.org/abs/2207.13665v1)|null|
 |**2022-07-27**|**Explain My Surprise: Learning Efficient Long-Term Memory by Predicting Uncertain Outcomes**|Artyom Sorokin et.al.|[2207.13649v1](http://arxiv.org/abs/2207.13649v1)|null|
