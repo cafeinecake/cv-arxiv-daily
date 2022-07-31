@@ -254,7 +254,7 @@
 - 2022-07-28, **Bayesian Optimization-Based Beam Alignment for MmWave MIMO Communication Systems**, Songjie Yang et.al., Paper: [http://arxiv.org/abs/2207.14174v1](http://arxiv.org/abs/2207.14174v1)
 - 2022-07-28, **Playing a 2D Game Indefinitely using NEAT and Reinforcement Learning**, Jerin Paul Selvan et.al., Paper: [http://arxiv.org/abs/2207.14140v1](http://arxiv.org/abs/2207.14140v1)
 - 2022-07-28, **Towards Robust Ad Hoc Teamwork Agents By Creating Diverse Training Teammates**, Arrasy Rahman et.al., Paper: [http://arxiv.org/abs/2207.14138v1](http://arxiv.org/abs/2207.14138v1)
-- 2022-07-28, **A Survey of Syntactic Modelling Structures in Biomedical Ontologies**, Christian Kindermann et.al., Paper: [http://arxiv.org/abs/2207.14119v1](http://arxiv.org/abs/2207.14119v1)
+- 2022-07-28, **A Survey of Syntactic Modelling Structures in Biomedical Ontologies**, Christian Kindermann et.al., Paper: [http://arxiv.org/abs/2207.14119v1](http://arxiv.org/abs/2207.14119v1), Code: **[https://github.com/ckindermann/iswc-2022](https://github.com/ckindermann/iswc-2022)**
 - 2022-07-27, **Multi-layer Representation Learning for Robust OOD Image Classification**, Aristotelis Ballas et.al., Paper: [http://arxiv.org/abs/2207.13678v1](http://arxiv.org/abs/2207.13678v1)
 - 2022-07-27, **Causal foundations of bias, disparity and fairness**, V. A. Traag et.al., Paper: [http://arxiv.org/abs/2207.13665v1](http://arxiv.org/abs/2207.13665v1)
 - 2022-07-27, **Explain My Surprise: Learning Efficient Long-Term Memory by Predicting Uncertain Outcomes**, Artyom Sorokin et.al., Paper: [http://arxiv.org/abs/2207.13649v1](http://arxiv.org/abs/2207.13649v1)
