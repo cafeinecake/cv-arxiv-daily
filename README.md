@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**The brightest galaxies at Cosmic Dawn**|Charlotte A. Mason et.al.|[2207.14808v1](http://arxiv.org/abs/2207.14808v1)|null|
+|**2022-07-29**|**A universal model for the evolution of tidally stripped systems**|Nicole E. Drakos et.al.|[2207.14803v1](http://arxiv.org/abs/2207.14803v1)|null|
+|**2022-07-29**|**Early results from GLASS-JWST. XIII. A faint, distant, and cold brown dwarf**|M. Nonino et.al.|[2207.14802v1](http://arxiv.org/abs/2207.14802v1)|null|
+|**2022-07-29**|**Improved Polarization Calibration of the BICEP3 CMB Polarimeter at the South Pole**|J. Cornelison et.al.|[2207.14796v1](http://arxiv.org/abs/2207.14796v1)|null|
+|**2022-07-29**|**Cosmology with the EFTofLSS and BOSS: dark energy constraints and a note on priors**|Pedro Carrilho et.al.|[2207.14784v1](http://arxiv.org/abs/2207.14784v1)|null|
+|**2022-07-29**|**Explaining Mercury via a single giant impact is highly unlikely**|P. Franco et.al.|[2207.14774v1](http://arxiv.org/abs/2207.14774v1)|null|
+|**2022-07-29**|**How To Spin Black Holes Up In High-Mass X-ray Binaries And Not Merge In The Attempt**|Enrique Moreno Méndez et.al.|[2207.14765v1](http://arxiv.org/abs/2207.14765v1)|null|
+|**2022-07-29**|**A multiwavelength study of the flat spectrum radio-quasar NVSS J141922-083830 covering four flaring episodes**|D. A. H. Buckley et.al.|[2207.14762v1](http://arxiv.org/abs/2207.14762v1)|null|
+|**2022-07-29**|**Orbital Acceleration Using Product of Exponentials**|Taylor Yow et.al.|[2207.14758v1](http://arxiv.org/abs/2207.14758v1)|null|
+|**2022-07-29**|**The Gaia-ESO survey: placing constraints on the origin of r-process elements**|M. Van der Swaelmen et.al.|[2207.14747v1](http://arxiv.org/abs/2207.14747v1)|null|
 |**2022-07-28**|**Do high-spin high mass X-ray binaries contribute to the population of merging binary black holes?**|Monica Gallegos-Garcia et.al.|[2207.14290v1](http://arxiv.org/abs/2207.14290v1)|null|
 |**2022-07-28**|**Density-clustering of continuous gravitational wave candidates from large surveys**|Benjamin Steltner et.al.|[2207.14286v1](http://arxiv.org/abs/2207.14286v1)|null|
 |**2022-07-28**|**The Large Magellanic Cloud Revealed in Gravitational Waves with LISA**|Michael A. Keim et.al.|[2207.14277v1](http://arxiv.org/abs/2207.14277v1)|null|
@@ -249,6 +259,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion**|Weng Fei Low et.al.|[2207.14782v1](http://arxiv.org/abs/2207.14782v1)|**[link](https://github.com/low5545/minimal-neural-atlas)**|
+|**2022-07-29**|**Open-radiomics: A Research Protocol to Make Radiomics-based Machine Learning Pipelines Reproducible**|Ernest et.al.|[2207.14776v1](http://arxiv.org/abs/2207.14776v1)|null|
+|**2022-07-29**|**Combining Evolutionary Search with Behaviour Cloning for Procedurally Generated Content**|Nicholas Muir et.al.|[2207.14772v1](http://arxiv.org/abs/2207.14772v1)|null|
+|**2022-07-29**|**SimCURL: Simple Contrastive User Representation Learning from Command Sequences**|Hang Chu et.al.|[2207.14760v1](http://arxiv.org/abs/2207.14760v1)|null|
+|**2022-07-29**|**ALADIN: Distilling Fine-grained Alignment Scores for Efficient Image-Text Matching and Retrieval**|Nicola Messina et.al.|[2207.14757v1](http://arxiv.org/abs/2207.14757v1)|null|
+|**2022-07-29**|**Enhanced Methods for the Weight Constrained Shortest Path Problem: Constrained Path Finding Meets Bi-objective Search**|Saman Ahmadi et.al.|[2207.14744v1](http://arxiv.org/abs/2207.14744v1)|null|
+|**2022-07-29**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v1](http://arxiv.org/abs/2207.14741v1)|null|
+|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
+|**2022-07-29**|**Competency of the Developmental Layer Alters Evolutionary Dynamics in an Artificial Embryogeny Model of Morphogenesis**|Lakshwin Shreesha et.al.|[2207.14729v1](http://arxiv.org/abs/2207.14729v1)|null|
+|**2022-07-29**|**Meta Reinforcement Learning with Successor Feature Based Context**|Xu Han et.al.|[2207.14723v1](http://arxiv.org/abs/2207.14723v1)|null|
 |**2022-07-28**|**Initialization and Alignment for Adversarial Texture Optimization**|Xiaoming Zhao et.al.|[2207.14289v1](http://arxiv.org/abs/2207.14289v1)|null|
 |**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v1](http://arxiv.org/abs/2207.14240v1)|null|
 |**2022-07-28**|**Physics-informed neural networks for diffraction tomography**|Amirhossein Saba et.al.|[2207.14230v1](http://arxiv.org/abs/2207.14230v1)|null|
