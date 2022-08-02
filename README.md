@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-01**|**A data compression and optimal galaxy weights scheme for Dark Energy Spectroscopic Instrument and weak lensing datasets**|Rossana Ruggeri et.al.|[2208.01031v1](http://arxiv.org/abs/2208.01031v1)|null|
+|**2022-08-01**|**PRODIGE -- Envelope to disk with NOEMA I. A 3000 au streamer feeding a Class I protostar**|M. T. Valdivia-Mena et.al.|[2208.01023v1](http://arxiv.org/abs/2208.01023v1)|null|
+|**2022-08-01**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v1](http://arxiv.org/abs/2208.00998v1)|null|
+|**2022-08-01**|**Performance of near-infrared high-contrast imaging methods with JWST from commissioning**|Jens Kammerer et.al.|[2208.00996v1](http://arxiv.org/abs/2208.00996v1)|null|
+|**2022-08-01**|**Constraining Nuclear Symmetry Energy with Multi-messenger Resonant Shattering Flares**|Duncan Neill et.al.|[2208.00994v1](http://arxiv.org/abs/2208.00994v1)|null|
+|**2022-08-01**|**A study on the Clustering Properties of Radio-Selected sources in the Lockman Hole Region at 325 MHz**|Aishrila Mazumder et.al.|[2208.00992v1](http://arxiv.org/abs/2208.00992v1)|null|
+|**2022-08-01**|**A first look at JWST CEERS: massive quiescent galaxies from 3 < z < 5**|A. C. Carnall et.al.|[2208.00986v1](http://arxiv.org/abs/2208.00986v1)|null|
+|**2022-08-01**|**Battle of the Predictive Wavefront Controls: Comparing Data and Model-Driven Predictive Control for High Contrast Imaging**|J. Fowler et.al.|[2208.00984v1](http://arxiv.org/abs/2208.00984v1)|null|
+|**2022-08-01**|**First Light And Reionisation Epoch Simulations (FLARES) VII: The Star Formation and Metal Enrichment Histories of Galaxies in the early Universe**|Stephen M. Wilkins et.al.|[2208.00976v1](http://arxiv.org/abs/2208.00976v1)|null|
+|**2022-08-01**|**Mechanisms for high spin in black-hole neutron-star binaries and kilonova emission: inheritance and accretion**|Nathan Steinle et.al.|[2208.00973v1](http://arxiv.org/abs/2208.00973v1)|null|
 |**2022-07-29**|**The brightest galaxies at Cosmic Dawn**|Charlotte A. Mason et.al.|[2207.14808v1](http://arxiv.org/abs/2207.14808v1)|null|
 |**2022-07-29**|**A universal model for the evolution of tidally stripped systems**|Nicole E. Drakos et.al.|[2207.14803v1](http://arxiv.org/abs/2207.14803v1)|null|
 |**2022-07-29**|**Early results from GLASS-JWST. XIII. A faint, distant, and cold brown dwarf**|M. Nonino et.al.|[2207.14802v1](http://arxiv.org/abs/2207.14802v1)|null|
@@ -259,6 +269,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
+|**2022-08-01**|**Stabilizing discontinuous Galerkin methods using Dafermos' entropy rate criterion**|Simon-Christian Klein et.al.|[2208.00941v1](http://arxiv.org/abs/2208.00941v1)|null|
+|**2022-08-01**|**Effective Gesture Based Framework for Capturing User Input**|Pabbathi Sri Charan et.al.|[2208.00913v1](http://arxiv.org/abs/2208.00913v1)|null|
+|**2022-08-01**|**Retrieval of surgical phase transitions using reinforcement learning**|Yitong Zhang et.al.|[2208.00902v1](http://arxiv.org/abs/2208.00902v1)|null|
+|**2022-08-01**|**Joint covariate-alignment and concept-alignment: a framework for domain generalization**|Thuan Nguyen et.al.|[2208.00898v1](http://arxiv.org/abs/2208.00898v1)|**[link](https://github.com/thuan2412/joint-covariate-alignment-and-concept-alignment-for-domain-generalization)**|
+|**2022-08-01**|**Towards Computing an Optimal Abstraction for Structural Causal Models**|Fabio Massimo Zennaro et.al.|[2208.00894v1](http://arxiv.org/abs/2208.00894v1)|null|
+|**2022-08-01**|**Suggestion Lists vs. Continuous Generation: Interaction Design for Writing with Generative Models on Mobile Devices Affect Text Length, Wording and Perceived Authorship**|Florian Lehmann et.al.|[2208.00870v1](http://arxiv.org/abs/2208.00870v1)|null|
+|**2022-08-01**|**Continuous locomotion mode recognition and gait phase estimation based on a shank-mounted IMU with artificial neural networks**|Florian Weigand et.al.|[2208.00861v1](http://arxiv.org/abs/2208.00861v1)|null|
+|**2022-08-01**|**Relay Hindsight Experience Replay: Continual Reinforcement Learning for Robot Manipulation Tasks with Sparse Rewards**|Yongle Luo et.al.|[2208.00843v1](http://arxiv.org/abs/2208.00843v1)|**[link](https://github.com/kaixindelele/RHER)**|
+|**2022-08-01**|**Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning**|Andrej Orsula et.al.|[2208.00818v1](http://arxiv.org/abs/2208.00818v1)|**[link](https://github.com/andrejorsula/drl_grasping)**|
 |**2022-07-29**|**Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion**|Weng Fei Low et.al.|[2207.14782v1](http://arxiv.org/abs/2207.14782v1)|**[link](https://github.com/low5545/minimal-neural-atlas)**|
 |**2022-07-29**|**Open-radiomics: A Research Protocol to Make Radiomics-based Machine Learning Pipelines Reproducible**|Ernest et.al.|[2207.14776v1](http://arxiv.org/abs/2207.14776v1)|null|
 |**2022-07-29**|**Combining Evolutionary Search with Behaviour Cloning for Procedurally Generated Content**|Nicholas Muir et.al.|[2207.14772v1](http://arxiv.org/abs/2207.14772v1)|null|
