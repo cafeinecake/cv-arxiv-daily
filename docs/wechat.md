@@ -1,4 +1,4 @@
-> Updated on 2022.08.01
+> Updated on 2022.08.02
 
 ## Astrophysics
 
@@ -261,7 +261,7 @@
 - 2022-07-29, **SimCURL: Simple Contrastive User Representation Learning from Command Sequences**, Hang Chu et.al., Paper: [http://arxiv.org/abs/2207.14760v1](http://arxiv.org/abs/2207.14760v1)
 - 2022-07-29, **ALADIN: Distilling Fine-grained Alignment Scores for Efficient Image-Text Matching and Retrieval**, Nicola Messina et.al., Paper: [http://arxiv.org/abs/2207.14757v1](http://arxiv.org/abs/2207.14757v1)
 - 2022-07-29, **Enhanced Methods for the Weight Constrained Shortest Path Problem: Constrained Path Finding Meets Bi-objective Search**, Saman Ahmadi et.al., Paper: [http://arxiv.org/abs/2207.14744v1](http://arxiv.org/abs/2207.14744v1)
-- 2022-07-29, **End-to-end View Synthesis via NeRF Attention**, Zelin Zhao et.al., Paper: [http://arxiv.org/abs/2207.14741v1](http://arxiv.org/abs/2207.14741v1)
+- 2022-08-01, **End-to-end View Synthesis via NeRF Attention**, Zelin Zhao et.al., Paper: [http://arxiv.org/abs/2207.14741v2](http://arxiv.org/abs/2207.14741v2)
 - 2022-07-29, **Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**, Fanqi Meng et.al., Paper: [http://arxiv.org/abs/2207.14740v1](http://arxiv.org/abs/2207.14740v1)
 - 2022-07-29, **Competency of the Developmental Layer Alters Evolutionary Dynamics in an Artificial Embryogeny Model of Morphogenesis**, Lakshwin Shreesha et.al., Paper: [http://arxiv.org/abs/2207.14729v1](http://arxiv.org/abs/2207.14729v1)
 - 2022-07-29, **Meta Reinforcement Learning with Successor Feature Based Context**, Xu Han et.al., Paper: [http://arxiv.org/abs/2207.14723v1](http://arxiv.org/abs/2207.14723v1)
