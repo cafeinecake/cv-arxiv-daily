@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**JWST reveals a population of ultra-red, flattened disk galaxies at 2<z<6 previously missed by HST**|Erica J. Nelson et.al.|[2208.01630v1](http://arxiv.org/abs/2208.01630v1)|null|
+|**2022-08-02**|**XMM-Newton and NuSTAR Observations of an Optically Quiescent Quasar**|Claire Greenwell et.al.|[2208.01627v1](http://arxiv.org/abs/2208.01627v1)|null|
+|**2022-08-02**|**Dust, CO and [CI]: Cross-calibration of molecular gas mass tracers in metal-rich galaxies across cosmic time**|L Dunne et.al.|[2208.01622v1](http://arxiv.org/abs/2208.01622v1)|null|
+|**2022-08-02**|**A Comprehensive Study on Galaxies at z~9-17 Found in the Early JWST Data: UV Luminosity Functions and Cosmic Star-Formation History at the Pre-Reionization Epoch**|Yuichi Harikane et.al.|[2208.01612v1](http://arxiv.org/abs/2208.01612v1)|null|
+|**2022-08-02**|**Stress Testing $Λ$CDM with High-redshift Galaxy Candidates**|Michael Boylan-Kolchin et.al.|[2208.01611v1](http://arxiv.org/abs/2208.01611v1)|null|
+|**2022-08-02**|**Searching for Extremely Blue UV Continuum Slopes at $z=7-11$ in JWST/NIRCam Imaging: Implications for Stellar Metallicity and Ionizing Photon Escape in Early Galaxies**|Michael W. Topping et.al.|[2208.01610v1](http://arxiv.org/abs/2208.01610v1)|null|
+|**2022-08-02**|**Constrained Reference Star Differential Imaging: Enabling High-Fidelity Imagery of Highly Structured Circumstellar Disks**|Kellen Lawson et.al.|[2208.01606v1](http://arxiv.org/abs/2208.01606v1)|null|
+|**2022-08-02**|**Datumless Topography: A Universally Consistent Way to Quantify Relief**|Kai Xu et.al.|[2208.01600v1](http://arxiv.org/abs/2208.01600v1)|null|
+|**2022-08-02**|**On the ages of bright galaxies $\sim 500$ Myr after the Big Bang: insights into star formation activity at $z \gtrsim 15$ with JWST**|Lily Whitler et.al.|[2208.01599v1](http://arxiv.org/abs/2208.01599v1)|null|
+|**2022-08-02**|**Gap Opening and Inner Disk Structure in the Strongly Accreting Transition Disk of DM Tau**|Logan Francis et.al.|[2208.01598v1](http://arxiv.org/abs/2208.01598v1)|null|
 |**2022-08-01**|**A data compression and optimal galaxy weights scheme for Dark Energy Spectroscopic Instrument and weak lensing datasets**|Rossana Ruggeri et.al.|[2208.01031v1](http://arxiv.org/abs/2208.01031v1)|null|
 |**2022-08-01**|**PRODIGE -- Envelope to disk with NOEMA I. A 3000 au streamer feeding a Class I protostar**|M. T. Valdivia-Mena et.al.|[2208.01023v1](http://arxiv.org/abs/2208.01023v1)|null|
 |**2022-08-02**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v2](http://arxiv.org/abs/2208.00998v2)|null|
@@ -273,6 +283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
+|**2022-08-02**|**Optimal Friendly Jamming and Transmit Power Allocation in RIS-assisted Secure Communication**|Burhan Wafai et.al.|[2208.01537v1](http://arxiv.org/abs/2208.01537v1)|null|
+|**2022-08-02**|**CIPCaD-Bench: Continuous Industrial Process datasets for benchmarking Causal Discovery methods**|Giovanni Menegozzo et.al.|[2208.01529v1](http://arxiv.org/abs/2208.01529v1)|**[link](https://github.com/giovannimen/cpcad-bench)**|
+|**2022-08-02**|**MEMO: Coverage-guided Model Generation For Deep Learning Library Testing**|Meiziniu Li et.al.|[2208.01508v1](http://arxiv.org/abs/2208.01508v1)|null|
+|**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
+|**2022-08-02**|**A Secure Dynamic Edge Resource Federation Architecture for Cross-Domain IoT Systems**|Ronghua Xu et.al.|[2208.01466v1](http://arxiv.org/abs/2208.01466v1)|null|
+|**2022-08-02**|**Viskositas: Viscosity Prediction of Multicomponent Chemical Systems**|Patrick dos Anjos et.al.|[2208.01440v1](http://arxiv.org/abs/2208.01440v1)|**[link](https://github.com/patrick21081995/VISKOSITAS)**|
+|**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
+|**2022-08-02**|**BERT4Loc: BERT for Location -- POI Recommender System**|Syed Raza Bashir et.al.|[2208.01375v1](http://arxiv.org/abs/2208.01375v1)|null|
+|**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
 |**2022-08-01**|**Stabilizing discontinuous Galerkin methods using Dafermos' entropy rate criterion**|Simon-Christian Klein et.al.|[2208.00941v1](http://arxiv.org/abs/2208.00941v1)|null|
 |**2022-08-01**|**Effective Gesture Based Framework for Capturing User Input**|Pabbathi Sri Charan et.al.|[2208.00913v1](http://arxiv.org/abs/2208.00913v1)|null|
