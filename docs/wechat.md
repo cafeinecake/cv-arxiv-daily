@@ -1,10 +1,10 @@
-> Updated on 2022.08.02
+> Updated on 2022.08.03
 
 ## Astrophysics
 
 - 2022-08-01, **A data compression and optimal galaxy weights scheme for Dark Energy Spectroscopic Instrument and weak lensing datasets**, Rossana Ruggeri et.al., Paper: [http://arxiv.org/abs/2208.01031v1](http://arxiv.org/abs/2208.01031v1)
 - 2022-08-01, **PRODIGE -- Envelope to disk with NOEMA I. A 3000 au streamer feeding a Class I protostar**, M. T. Valdivia-Mena et.al., Paper: [http://arxiv.org/abs/2208.01023v1](http://arxiv.org/abs/2208.01023v1)
-- 2022-08-01, **JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**, Julien H. Girard et.al., Paper: [http://arxiv.org/abs/2208.00998v1](http://arxiv.org/abs/2208.00998v1)
+- 2022-08-02, **JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**, Julien H. Girard et.al., Paper: [http://arxiv.org/abs/2208.00998v2](http://arxiv.org/abs/2208.00998v2)
 - 2022-08-01, **Performance of near-infrared high-contrast imaging methods with JWST from commissioning**, Jens Kammerer et.al., Paper: [http://arxiv.org/abs/2208.00996v1](http://arxiv.org/abs/2208.00996v1)
 - 2022-08-01, **Constraining Nuclear Symmetry Energy with Multi-messenger Resonant Shattering Flares**, Duncan Neill et.al., Paper: [http://arxiv.org/abs/2208.00994v1](http://arxiv.org/abs/2208.00994v1)
 - 2022-08-01, **A study on the Clustering Properties of Radio-Selected sources in the Lockman Hole Region at 325 MHz**, Aishrila Mazumder et.al., Paper: [http://arxiv.org/abs/2208.00992v1](http://arxiv.org/abs/2208.00992v1)
@@ -270,10 +270,10 @@
 - 2022-08-01, **Effective Gesture Based Framework for Capturing User Input**, Pabbathi Sri Charan et.al., Paper: [http://arxiv.org/abs/2208.00913v1](http://arxiv.org/abs/2208.00913v1)
 - 2022-08-01, **Retrieval of surgical phase transitions using reinforcement learning**, Yitong Zhang et.al., Paper: [http://arxiv.org/abs/2208.00902v1](http://arxiv.org/abs/2208.00902v1)
 - 2022-08-01, **Joint covariate-alignment and concept-alignment: a framework for domain generalization**, Thuan Nguyen et.al., Paper: [http://arxiv.org/abs/2208.00898v1](http://arxiv.org/abs/2208.00898v1), Code: **[https://github.com/thuan2412/joint-covariate-alignment-and-concept-alignment-for-domain-generalization](https://github.com/thuan2412/joint-covariate-alignment-and-concept-alignment-for-domain-generalization)**
-- 2022-08-01, **Towards Computing an Optimal Abstraction for Structural Causal Models**, Fabio Massimo Zennaro et.al., Paper: [http://arxiv.org/abs/2208.00894v1](http://arxiv.org/abs/2208.00894v1)
+- 2022-08-01, **Towards Computing an Optimal Abstraction for Structural Causal Models**, Fabio Massimo Zennaro et.al., Paper: [http://arxiv.org/abs/2208.00894v1](http://arxiv.org/abs/2208.00894v1), Code: **[https://github.com/FMZennaro/CategoricalCausalAbstraction](https://github.com/FMZennaro/CategoricalCausalAbstraction)**
 - 2022-08-01, **Suggestion Lists vs. Continuous Generation: Interaction Design for Writing with Generative Models on Mobile Devices Affect Text Length, Wording and Perceived Authorship**, Florian Lehmann et.al., Paper: [http://arxiv.org/abs/2208.00870v1](http://arxiv.org/abs/2208.00870v1)
 - 2022-08-01, **Continuous locomotion mode recognition and gait phase estimation based on a shank-mounted IMU with artificial neural networks**, Florian Weigand et.al., Paper: [http://arxiv.org/abs/2208.00861v1](http://arxiv.org/abs/2208.00861v1)
-- 2022-08-01, **Relay Hindsight Experience Replay: Continual Reinforcement Learning for Robot Manipulation Tasks with Sparse Rewards**, Yongle Luo et.al., Paper: [http://arxiv.org/abs/2208.00843v1](http://arxiv.org/abs/2208.00843v1), Code: **[https://github.com/kaixindelele/RHER](https://github.com/kaixindelele/RHER)**
+- 2022-08-01, **Relay Hindsight Experience Replay: Continual Reinforcement Learning for Robot Manipulation Tasks with Sparse Rewards**, Yongle Luo et.al., Paper: [http://arxiv.org/abs/2208.00843v1](http://arxiv.org/abs/2208.00843v1)
 - 2022-08-01, **Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning**, Andrej Orsula et.al., Paper: [http://arxiv.org/abs/2208.00818v1](http://arxiv.org/abs/2208.00818v1), Code: **[https://github.com/andrejorsula/drl_grasping](https://github.com/andrejorsula/drl_grasping)**
 - 2022-07-29, **Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion**, Weng Fei Low et.al., Paper: [http://arxiv.org/abs/2207.14782v1](http://arxiv.org/abs/2207.14782v1), Code: **[https://github.com/low5545/minimal-neural-atlas](https://github.com/low5545/minimal-neural-atlas)**
 - 2022-07-29, **Open-radiomics: A Research Protocol to Make Radiomics-based Machine Learning Pipelines Reproducible**, Ernest et.al., Paper: [http://arxiv.org/abs/2207.14776v1](http://arxiv.org/abs/2207.14776v1)
