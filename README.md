@@ -1,4 +1,4 @@
-## Updated on 2022.08.03
+## Updated on 2022.08.04
 
 ## Astrophysics
 
@@ -282,10 +282,10 @@
 |**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
 |**2022-08-02**|**Optimal Friendly Jamming and Transmit Power Allocation in RIS-assisted Secure Communication**|Burhan Wafai et.al.|[2208.01537v1](http://arxiv.org/abs/2208.01537v1)|null|
 |**2022-08-02**|**CIPCaD-Bench: Continuous Industrial Process datasets for benchmarking Causal Discovery methods**|Giovanni Menegozzo et.al.|[2208.01529v1](http://arxiv.org/abs/2208.01529v1)|**[link](https://github.com/giovannimen/cpcad-bench)**|
-|**2022-08-02**|**MEMO: Coverage-guided Model Generation For Deep Learning Library Testing**|Meiziniu Li et.al.|[2208.01508v1](http://arxiv.org/abs/2208.01508v1)|null|
+|**2022-08-02**|**MEMO: Coverage-guided Model Generation For Deep Learning Library Testing**|Meiziniu Li et.al.|[2208.01508v1](http://arxiv.org/abs/2208.01508v1)|**[link](https://github.com/memoase/memo)**|
 |**2022-08-02**|**Unravelling Interlanguage Facts via Explainable Machine Learning**|Barbara Berti et.al.|[2208.01468v1](http://arxiv.org/abs/2208.01468v1)|null|
 |**2022-08-02**|**A Secure Dynamic Edge Resource Federation Architecture for Cross-Domain IoT Systems**|Ronghua Xu et.al.|[2208.01466v1](http://arxiv.org/abs/2208.01466v1)|null|
-|**2022-08-02**|**Viskositas: Viscosity Prediction of Multicomponent Chemical Systems**|Patrick dos Anjos et.al.|[2208.01440v1](http://arxiv.org/abs/2208.01440v1)|**[link](https://github.com/patrick21081995/VISKOSITAS)**|
+|**2022-08-03**|**Viskositas: Viscosity Prediction of Multicomponent Chemical Systems**|Patrick dos Anjos et.al.|[2208.01440v2](http://arxiv.org/abs/2208.01440v2)|**[link](https://github.com/patrick21081995/VISKOSITAS)**|
 |**2022-08-02**|**Active entailment encoding for explanation tree construction using parsimonious generation of hard negatives**|Alex Bogatu et.al.|[2208.01376v1](http://arxiv.org/abs/2208.01376v1)|null|
 |**2022-08-02**|**BERT4Loc: BERT for Location -- POI Recommender System**|Syed Raza Bashir et.al.|[2208.01375v1](http://arxiv.org/abs/2208.01375v1)|null|
 |**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
