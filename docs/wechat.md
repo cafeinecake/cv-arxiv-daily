@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-08-03, **Orbital dynamics landscape near the most distant known trans-Neptunian objects**, Kathryn Volk et.al., Paper: [http://arxiv.org/abs/2208.02248v1](http://arxiv.org/abs/2208.02248v1)
+- 2022-08-03, **$γ$ rays run on time**, Daniel Beltrán Martínez et.al., Paper: [http://arxiv.org/abs/2208.02247v1](http://arxiv.org/abs/2208.02247v1)
+- 2022-08-03, **The Sparkler: Evolved High-Redshift Globular Clusters Captured by JWST**, Lamiya A. Mowla et.al., Paper: [http://arxiv.org/abs/2208.02233v1](http://arxiv.org/abs/2208.02233v1)
+- 2022-08-03, **A simulation suite for readout with SMuRF tone-tracking electronics**, Cyndia Yu et.al., Paper: [http://arxiv.org/abs/2208.02198v1](http://arxiv.org/abs/2208.02198v1)
+- 2022-08-03, **Euclid preparation. XXIV. Calibration of the halo mass function in $Λ(ν)$CDM cosmologies**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2208.02174v1](http://arxiv.org/abs/2208.02174v1)
+- 2022-08-03, **KiDS-1000 Cosmology: Constraints from density split statistics**, Pierre A. Burger et.al., Paper: [http://arxiv.org/abs/2208.02171v1](http://arxiv.org/abs/2208.02171v1)
+- 2022-08-03, **Advances and new ideas for neutron-capture astrophysics experiments at CERN n_TOF**, C. Domingo-Pardo et.al., Paper: [http://arxiv.org/abs/2208.02163v1](http://arxiv.org/abs/2208.02163v1)
+- 2022-08-03, **Decoding the giant extragalactic radio sources**, Pratik Dabhade et.al., Paper: [http://arxiv.org/abs/2208.02130v1](http://arxiv.org/abs/2208.02130v1)
+- 2022-08-03, **Rayleigh scattering from hydrogen atoms including resonances and high photon energies**, René D. Rohrmann et.al., Paper: [http://arxiv.org/abs/2208.02111v1](http://arxiv.org/abs/2208.02111v1)
+- 2022-08-03, **High-order Arbitrary-Lagrangian-Eulerian schemes on crazy moving Voronoi meshes**, Elena Gaburro et.al., Paper: [http://arxiv.org/abs/2208.02092v1](http://arxiv.org/abs/2208.02092v1)
 - 2022-08-02, **JWST reveals a population of ultra-red, flattened disk galaxies at 2<z<6 previously missed by HST**, Erica J. Nelson et.al., Paper: [http://arxiv.org/abs/2208.01630v1](http://arxiv.org/abs/2208.01630v1)
 - 2022-08-02, **XMM-Newton and NuSTAR Observations of an Optically Quiescent Quasar**, Claire Greenwell et.al., Paper: [http://arxiv.org/abs/2208.01627v1](http://arxiv.org/abs/2208.01627v1)
 - 2022-08-02, **Dust, CO and [CI]: Cross-calibration of molecular gas mass tracers in metal-rich galaxies across cosmic time**, L Dunne et.al., Paper: [http://arxiv.org/abs/2208.01622v1](http://arxiv.org/abs/2208.01622v1)
@@ -275,6 +285,16 @@
 
 ## AI
 
+- 2022-08-03, **AdaCat: Adaptive Categorical Discretization for Autoregressive Models**, Qiyang Li et.al., Paper: [http://arxiv.org/abs/2208.02246v1](http://arxiv.org/abs/2208.02246v1), Code: **[https://github.com/colinqiyangli/adacat](https://github.com/colinqiyangli/adacat)**
+- 2022-08-03, **MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**, De-An Huang et.al., Paper: [http://arxiv.org/abs/2208.02245v1](http://arxiv.org/abs/2208.02245v1), Code: **[https://github.com/nvlabs/minvis](https://github.com/nvlabs/minvis)**
+- 2022-08-03, **Magnetic field driven dynamics in twisted bilayer artificial spin ice at superlattice angles**, Rehana Begum Popy et.al., Paper: [http://arxiv.org/abs/2208.02243v1](http://arxiv.org/abs/2208.02243v1)
+- 2022-08-03, **Quantum-Inspired Tensor Neural Networks for Partial Differential Equations**, Raj Patel et.al., Paper: [http://arxiv.org/abs/2208.02235v1](http://arxiv.org/abs/2208.02235v1)
+- 2022-08-03, **Is there evidence for exponential quantum advantage in quantum chemistry?**, Seunghoon Lee et.al., Paper: [http://arxiv.org/abs/2208.02199v1](http://arxiv.org/abs/2208.02199v1)
+- 2022-08-03, **On the independence between phenomenal consciousness and computational intelligence**, Eduardo C. Garrido Merchán et.al., Paper: [http://arxiv.org/abs/2208.02187v1](http://arxiv.org/abs/2208.02187v1)
+- 2022-08-03, **Multimodal sensor fusion in the latent representation space**, Robert J. Piechocki et.al., Paper: [http://arxiv.org/abs/2208.02183v1](http://arxiv.org/abs/2208.02183v1)
+- 2022-08-03, **Empirical Study of Overfitting in Deep FNN Prediction Models for Breast Cancer Metastasis**, Chuhan Xu et.al., Paper: [http://arxiv.org/abs/2208.02150v1](http://arxiv.org/abs/2208.02150v1)
+- 2022-08-03, **KPI-BERT: A Joint Named Entity Recognition and Relation Extraction Model for Financial Reports**, Lars Hillebrand et.al., Paper: [http://arxiv.org/abs/2208.02140v1](http://arxiv.org/abs/2208.02140v1)
+- 2022-08-03, **MTGFlow: Unsupervised Multivariate Time Series Anomaly Detection via Dynamic Graph and Entity-aware Normalizing Flow**, Qihang Zhou et.al., Paper: [http://arxiv.org/abs/2208.02108v1](http://arxiv.org/abs/2208.02108v1)
 - 2022-08-02, **Single chip photonic deep neural network with accelerated training**, Saumil Bandyopadhyay et.al., Paper: [http://arxiv.org/abs/2208.01623v1](http://arxiv.org/abs/2208.01623v1)
 - 2022-08-02, **Optimal Friendly Jamming and Transmit Power Allocation in RIS-assisted Secure Communication**, Burhan Wafai et.al., Paper: [http://arxiv.org/abs/2208.01537v1](http://arxiv.org/abs/2208.01537v1)
 - 2022-08-02, **CIPCaD-Bench: Continuous Industrial Process datasets for benchmarking Causal Discovery methods**, Giovanni Menegozzo et.al., Paper: [http://arxiv.org/abs/2208.01529v1](http://arxiv.org/abs/2208.01529v1), Code: **[https://github.com/giovannimen/cpcad-bench](https://github.com/giovannimen/cpcad-bench)**
