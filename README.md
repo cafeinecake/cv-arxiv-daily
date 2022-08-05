@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**Gravitational wave inference on a numerical-relativity simulation of a black hole merger beyond general relativity**|Maria Okounkova et.al.|[2208.02805v1](http://arxiv.org/abs/2208.02805v1)|null|
+|**2022-08-04**|**Boltzmann equations for astrophysical stochastic gravitational wave backgrounds scattering off of massive objects**|Lorenzo Pizzuti et.al.|[2208.02800v1](http://arxiv.org/abs/2208.02800v1)|null|
+|**2022-08-04**|**Schrodinger's Galaxy Candidate: Puzzlingly Luminous at $z\approx17$, or Dusty/Quenched at $z\approx5$?**|Rohan P. Naidu et.al.|[2208.02794v1](http://arxiv.org/abs/2208.02794v1)|null|
+|**2022-08-04**|**Fast computation of non-linear power spectrum in cosmologies with massive neutrinos**|Hernán E. Noriega et.al.|[2208.02791v1](http://arxiv.org/abs/2208.02791v1)|null|
+|**2022-08-04**|**Developing a New Generation of Integrated Micro-Spec Far Infrared Spectrometers for the EXperiment for Cryogenic Large-Aperture Intensity Mapping (EXCLAIM)**|Carolyn G. Volpert et.al.|[2208.02786v1](http://arxiv.org/abs/2208.02786v1)|null|
+|**2022-08-04**|**Panchromatic evolution of three luminous red novae: Forbidden hugs in pandemic times -- IV**|A. Pastorello et.al.|[2208.02782v1](http://arxiv.org/abs/2208.02782v1)|null|
+|**2022-08-04**|**From Data to Software to Science with the Rubin Observatory LSST**|Katelyn Breivik et.al.|[2208.02781v1](http://arxiv.org/abs/2208.02781v1)|null|
+|**2022-08-04**|**Magnetic thread twisting in a simulated solar atmosphere**|Chloe Sumner et.al.|[2208.02763v1](http://arxiv.org/abs/2208.02763v1)|null|
+|**2022-08-04**|**Normal and Quasinormal Modes of Holographic Multiquark Star**|Supakchai Ponglertsakul et.al.|[2208.02761v1](http://arxiv.org/abs/2208.02761v1)|null|
+|**2022-08-04**|**Thermal Testing for Cryogenic CMB Instrument Optical Design**|D. C. Goldfinger et.al.|[2208.02755v1](http://arxiv.org/abs/2208.02755v1)|null|
 |**2022-08-03**|**Orbital dynamics landscape near the most distant known trans-Neptunian objects**|Kathryn Volk et.al.|[2208.02248v1](http://arxiv.org/abs/2208.02248v1)|null|
 |**2022-08-03**|**$γ$ rays run on time**|Daniel Beltrán Martínez et.al.|[2208.02247v1](http://arxiv.org/abs/2208.02247v1)|null|
 |**2022-08-03**|**The Sparkler: Evolved High-Redshift Globular Clusters Captured by JWST**|Lamiya A. Mowla et.al.|[2208.02233v1](http://arxiv.org/abs/2208.02233v1)|null|
@@ -289,6 +299,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**Occupancy Planes for Single-view RGB-D Human Reconstruction**|Xiaoming Zhao et.al.|[2208.02817v1](http://arxiv.org/abs/2208.02817v1)|null|
+|**2022-08-04**|**Conformal Risk Control**|Anastasios N. Angelopoulos et.al.|[2208.02814v1](http://arxiv.org/abs/2208.02814v1)|null|
+|**2022-08-04**|**Towards Understanding Mixture of Experts in Deep Learning**|Zixiang Chen et.al.|[2208.02813v1](http://arxiv.org/abs/2208.02813v1)|null|
+|**2022-08-04**|**P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**|Ziyi Wang et.al.|[2208.02812v1](http://arxiv.org/abs/2208.02812v1)|**[link](https://github.com/wangzy22/P2P)**|
+|**2022-08-04**|**MAGPIE: Machine Automated General Performance Improvement via Evolution of Software**|Aymeric Blot et.al.|[2208.02811v1](http://arxiv.org/abs/2208.02811v1)|null|
+|**2022-08-04**|**The Role of Environmental Variations in Evolutionary Robotics: Maximizing Performance and Robustness**|Jonata Tyska Carvalho et.al.|[2208.02809v1](http://arxiv.org/abs/2208.02809v1)|null|
+|**2022-08-04**|**Tree stick-breaking priors for covariate-dependent mixture models**|Akira Horiguchi et.al.|[2208.02806v1](http://arxiv.org/abs/2208.02806v1)|null|
+|**2022-08-04**|**Feature selection with gradient descent on two-layer networks in low-rotation regimes**|Matus Telgarsky et.al.|[2208.02789v1](http://arxiv.org/abs/2208.02789v1)|null|
+|**2022-08-04**|**Modular Grammatical Evolution for the Generation of Artificial Neural Networks**|Khabat Soltanian et.al.|[2208.02787v1](http://arxiv.org/abs/2208.02787v1)|null|
+|**2022-08-04**|**Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-power Edge Microcontrollers**|Jingyi Wang et.al.|[2208.02765v1](http://arxiv.org/abs/2208.02765v1)|null|
 |**2022-08-03**|**AdaCat: Adaptive Categorical Discretization for Autoregressive Models**|Qiyang Li et.al.|[2208.02246v1](http://arxiv.org/abs/2208.02246v1)|**[link](https://github.com/colinqiyangli/adacat)**|
 |**2022-08-03**|**MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**|De-An Huang et.al.|[2208.02245v1](http://arxiv.org/abs/2208.02245v1)|**[link](https://github.com/nvlabs/minvis)**|
 |**2022-08-03**|**Magnetic field driven dynamics in twisted bilayer artificial spin ice at superlattice angles**|Rehana Begum Popy et.al.|[2208.02243v1](http://arxiv.org/abs/2208.02243v1)|null|
