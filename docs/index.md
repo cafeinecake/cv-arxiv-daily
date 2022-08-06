@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.05
+## Updated on 2022.08.06
 
 ## Astrophysics
 
@@ -304,15 +304,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-04**|**Occupancy Planes for Single-view RGB-D Human Reconstruction**|Xiaoming Zhao et.al.|[2208.02817v1](http://arxiv.org/abs/2208.02817v1)|null|
-|**2022-08-04**|**Conformal Risk Control**|Anastasios N. Angelopoulos et.al.|[2208.02814v1](http://arxiv.org/abs/2208.02814v1)|null|
+|**2022-08-04**|**Conformal Risk Control**|Anastasios N. Angelopoulos et.al.|[2208.02814v1](http://arxiv.org/abs/2208.02814v1)|**[link](https://github.com/aangelopoulos/conformal-risk)**|
 |**2022-08-04**|**Towards Understanding Mixture of Experts in Deep Learning**|Zixiang Chen et.al.|[2208.02813v1](http://arxiv.org/abs/2208.02813v1)|null|
 |**2022-08-04**|**P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**|Ziyi Wang et.al.|[2208.02812v1](http://arxiv.org/abs/2208.02812v1)|**[link](https://github.com/wangzy22/P2P)**|
-|**2022-08-04**|**MAGPIE: Machine Automated General Performance Improvement via Evolution of Software**|Aymeric Blot et.al.|[2208.02811v1](http://arxiv.org/abs/2208.02811v1)|null|
+|**2022-08-04**|**MAGPIE: Machine Automated General Performance Improvement via Evolution of Software**|Aymeric Blot et.al.|[2208.02811v1](http://arxiv.org/abs/2208.02811v1)|**[link](https://github.com/bloa/magpie)**|
 |**2022-08-04**|**The Role of Environmental Variations in Evolutionary Robotics: Maximizing Performance and Robustness**|Jonata Tyska Carvalho et.al.|[2208.02809v1](http://arxiv.org/abs/2208.02809v1)|null|
 |**2022-08-04**|**Tree stick-breaking priors for covariate-dependent mixture models**|Akira Horiguchi et.al.|[2208.02806v1](http://arxiv.org/abs/2208.02806v1)|null|
 |**2022-08-04**|**Feature selection with gradient descent on two-layer networks in low-rotation regimes**|Matus Telgarsky et.al.|[2208.02789v1](http://arxiv.org/abs/2208.02789v1)|null|
-|**2022-08-04**|**Modular Grammatical Evolution for the Generation of Artificial Neural Networks**|Khabat Soltanian et.al.|[2208.02787v1](http://arxiv.org/abs/2208.02787v1)|null|
-|**2022-08-04**|**Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-power Edge Microcontrollers**|Jingyi Wang et.al.|[2208.02765v1](http://arxiv.org/abs/2208.02765v1)|null|
+|**2022-08-04**|**Modular Grammatical Evolution for the Generation of Artificial Neural Networks**|Khabat Soltanian et.al.|[2208.02787v1](http://arxiv.org/abs/2208.02787v1)|**[link](https://github.com/Khabat/Modular-NeuroEvolution)**|
+|**2022-08-04**|**Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-power Edge Microcontrollers**|Jingyi Wang et.al.|[2208.02765v1](http://arxiv.org/abs/2208.02765v1)|**[link](https://github.com/robobachelor/keyword-spotting-stm32)**|
 |**2022-08-03**|**AdaCat: Adaptive Categorical Discretization for Autoregressive Models**|Qiyang Li et.al.|[2208.02246v1](http://arxiv.org/abs/2208.02246v1)|**[link](https://github.com/colinqiyangli/adacat)**|
 |**2022-08-03**|**MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**|De-An Huang et.al.|[2208.02245v1](http://arxiv.org/abs/2208.02245v1)|**[link](https://github.com/nvlabs/minvis)**|
 |**2022-08-03**|**Magnetic field driven dynamics in twisted bilayer artificial spin ice at superlattice angles**|Rehana Begum Popy et.al.|[2208.02243v1](http://arxiv.org/abs/2208.02243v1)|null|
