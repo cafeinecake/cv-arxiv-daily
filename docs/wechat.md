@@ -1,11 +1,11 @@
-> Updated on 2022.08.06
+> Updated on 2022.08.07
 
 ## Astrophysics
 
-- 2022-08-04, **Gravitational wave inference on a numerical-relativity simulation of a black hole merger beyond general relativity**, Maria Okounkova et.al., Paper: [http://arxiv.org/abs/2208.02805v1](http://arxiv.org/abs/2208.02805v1)
+- 2022-08-04, **Gravitational wave inference on a numerical-relativity simulation of a black hole merger beyond general relativity**, Maria Okounkova et.al., Paper: [http://arxiv.org/abs/2208.02805v1](http://arxiv.org/abs/2208.02805v1), Code: **[https://github.com/mariaokounkova/beyondgranalysis](https://github.com/mariaokounkova/beyondgranalysis)**
 - 2022-08-04, **Boltzmann equations for astrophysical stochastic gravitational wave backgrounds scattering off of massive objects**, Lorenzo Pizzuti et.al., Paper: [http://arxiv.org/abs/2208.02800v1](http://arxiv.org/abs/2208.02800v1)
 - 2022-08-04, **Schrodinger's Galaxy Candidate: Puzzlingly Luminous at $z\approx17$, or Dusty/Quenched at $z\approx5$?**, Rohan P. Naidu et.al., Paper: [http://arxiv.org/abs/2208.02794v1](http://arxiv.org/abs/2208.02794v1)
-- 2022-08-04, **Fast computation of non-linear power spectrum in cosmologies with massive neutrinos**, Hernán E. Noriega et.al., Paper: [http://arxiv.org/abs/2208.02791v1](http://arxiv.org/abs/2208.02791v1)
+- 2022-08-04, **Fast computation of non-linear power spectrum in cosmologies with massive neutrinos**, Hernán E. Noriega et.al., Paper: [http://arxiv.org/abs/2208.02791v1](http://arxiv.org/abs/2208.02791v1), Code: **[https://github.com/henoriega/folps-nu](https://github.com/henoriega/folps-nu)**
 - 2022-08-04, **Developing a New Generation of Integrated Micro-Spec Far Infrared Spectrometers for the EXperiment for Cryogenic Large-Aperture Intensity Mapping (EXCLAIM)**, Carolyn G. Volpert et.al., Paper: [http://arxiv.org/abs/2208.02786v1](http://arxiv.org/abs/2208.02786v1)
 - 2022-08-04, **Panchromatic evolution of three luminous red novae: Forbidden hugs in pandemic times -- IV**, A. Pastorello et.al., Paper: [http://arxiv.org/abs/2208.02782v1](http://arxiv.org/abs/2208.02782v1)
 - 2022-08-04, **From Data to Software to Science with the Rubin Observatory LSST**, Katelyn Breivik et.al., Paper: [http://arxiv.org/abs/2208.02781v1](http://arxiv.org/abs/2208.02781v1)
