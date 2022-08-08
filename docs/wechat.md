@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-08-05, **How do the dynamics of the Milky Way - Large Magellanic Cloud system affect gamma-ray constraints on particle dark matter?**, Christopher Eckner et.al., Paper: [http://arxiv.org/abs/2208.03312v1](http://arxiv.org/abs/2208.03312v1)
+- 2022-08-05, **Analysis of eight magnetic chemically peculiar stars with rotational modulation**, O. Kobzar et.al., Paper: [http://arxiv.org/abs/2208.03301v1](http://arxiv.org/abs/2208.03301v1)
+- 2022-08-05, **Constraining bosonic asymmetric dark matter with neutron star mass-radius measurements**, Nathan Rutherford et.al., Paper: [http://arxiv.org/abs/2208.03282v1](http://arxiv.org/abs/2208.03282v1)
+- 2022-08-05, **JWST NIRCam+NIRSpec: Interstellar medium and stellar populations of young galaxies with rising star formation and evolving gas reservoirs**, Sandro Tacchella et.al., Paper: [http://arxiv.org/abs/2208.03281v1](http://arxiv.org/abs/2208.03281v1)
+- 2022-08-05, **Search for Coincident Gravitational Wave and Long Gamma-Ray Bursts from 4-OGC and the Fermi/Swift Catalog**, Yi-Fan Wang et.al., Paper: [http://arxiv.org/abs/2208.03279v1](http://arxiv.org/abs/2208.03279v1)
+- 2022-08-05, **The ALMA Science Archive Reaches a Major Milestone**, Felix Stoehr et.al., Paper: [http://arxiv.org/abs/2208.03275v1](http://arxiv.org/abs/2208.03275v1)
+- 2022-08-05, **An adaptive algorithm for detecting double stars in astrometric surveys**, Mikhail V. Sazhin et.al., Paper: [http://arxiv.org/abs/2208.03269v1](http://arxiv.org/abs/2208.03269v1)
+- 2022-08-05, **Detection of companion galaxies around hot dust-obscured hyper-luminous galaxy W0410-0913**, M. Ginolfi et.al., Paper: [http://arxiv.org/abs/2208.03248v1](http://arxiv.org/abs/2208.03248v1)
+- 2022-08-05, **A new constraint on primordial lepton flavour asymmetries**, Valerie Domcke et.al., Paper: [http://arxiv.org/abs/2208.03237v1](http://arxiv.org/abs/2208.03237v1)
+- 2022-08-05, **Nature of helicity injection in non-erupting solar active regions**, P. Vemareddy et.al., Paper: [http://arxiv.org/abs/2208.03228v1](http://arxiv.org/abs/2208.03228v1)
 - 2022-08-04, **Gravitational wave inference on a numerical-relativity simulation of a black hole merger beyond general relativity**, Maria Okounkova et.al., Paper: [http://arxiv.org/abs/2208.02805v1](http://arxiv.org/abs/2208.02805v1), Code: **[https://github.com/mariaokounkova/beyondgranalysis](https://github.com/mariaokounkova/beyondgranalysis)**
 - 2022-08-04, **Boltzmann equations for astrophysical stochastic gravitational wave backgrounds scattering off of massive objects**, Lorenzo Pizzuti et.al., Paper: [http://arxiv.org/abs/2208.02800v1](http://arxiv.org/abs/2208.02800v1)
 - 2022-08-04, **Schrodinger's Galaxy Candidate: Puzzlingly Luminous at $z\approx17$, or Dusty/Quenched at $z\approx5$?**, Rohan P. Naidu et.al., Paper: [http://arxiv.org/abs/2208.02794v1](http://arxiv.org/abs/2208.02794v1)
@@ -295,6 +305,16 @@
 
 ## AI
 
+- 2022-08-05, **Lethal Dose Conjecture on Data Poisoning**, Wenxiao Wang et.al., Paper: [http://arxiv.org/abs/2208.03309v1](http://arxiv.org/abs/2208.03309v1)
+- 2022-08-05, **Learning from data in the mixed adversarial non-adversarial case: Finding the helpers and ignoring the trolls**, Da Ju et.al., Paper: [http://arxiv.org/abs/2208.03295v1](http://arxiv.org/abs/2208.03295v1)
+- 2022-08-05, **Convolutional Ensembling based Few-Shot Defect Detection Technique**, Soumyajit Karmakar et.al., Paper: [http://arxiv.org/abs/2208.03288v1](http://arxiv.org/abs/2208.03288v1)
+- 2022-08-05, **End-to-end analysis using image classification**, Adam Aurisano et.al., Paper: [http://arxiv.org/abs/2208.03285v1](http://arxiv.org/abs/2208.03285v1)
+- 2022-08-05, **Interpretable Uncertainty Quantification in AI for HEP**, Thomas Y. Chen et.al., Paper: [http://arxiv.org/abs/2208.03284v1](http://arxiv.org/abs/2208.03284v1)
+- 2022-08-05, **Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**, Jing Xu et.al., Paper: [http://arxiv.org/abs/2208.03270v1](http://arxiv.org/abs/2208.03270v1)
+- 2022-08-05, **Interfacial phase frustration stabilizes unconventional skyrmion crystals**, Narayan Mohanta et.al., Paper: [http://arxiv.org/abs/2208.03255v1](http://arxiv.org/abs/2208.03255v1)
+- 2022-08-05, **Defining Cases and Variants for Object-Centric Event Data**, Jan Niklas Adams et.al., Paper: [http://arxiv.org/abs/2208.03235v1](http://arxiv.org/abs/2208.03235v1)
+- 2022-08-05, **Why Do Networks Need Negative Weights?**, Qingyang Wang et.al., Paper: [http://arxiv.org/abs/2208.03211v1](http://arxiv.org/abs/2208.03211v1)
+- 2022-08-05, **COPER: Continuous Patient State Perceiver**, Vinod Kumar Chauhan et.al., Paper: [http://arxiv.org/abs/2208.03196v1](http://arxiv.org/abs/2208.03196v1)
 - 2022-08-04, **Occupancy Planes for Single-view RGB-D Human Reconstruction**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2208.02817v1](http://arxiv.org/abs/2208.02817v1)
 - 2022-08-04, **Conformal Risk Control**, Anastasios N. Angelopoulos et.al., Paper: [http://arxiv.org/abs/2208.02814v1](http://arxiv.org/abs/2208.02814v1), Code: **[https://github.com/aangelopoulos/conformal-risk](https://github.com/aangelopoulos/conformal-risk)**
 - 2022-08-04, **Towards Understanding Mixture of Experts in Deep Learning**, Zixiang Chen et.al., Paper: [http://arxiv.org/abs/2208.02813v1](http://arxiv.org/abs/2208.02813v1)
