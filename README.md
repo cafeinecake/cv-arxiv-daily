@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**DELIGHT: Deep Learning Identification of Galaxy Hosts of Transients using Multi-resolution Images**|Francisco Förster et.al.|[2208.04310v1](http://arxiv.org/abs/2208.04310v1)|null|
+|**2022-08-08**|**A 2D Model for Coronal Bright Points: Association with Spicules, UV bursts, Surges and EUV Coronal Jets**|D. Nóbrega-Siverio et.al.|[2208.04308v1](http://arxiv.org/abs/2208.04308v1)|null|
+|**2022-08-08**|**Tidal Deformability Doppelgangers: II. Implications of a low-density phase transition in the neutron star equation of state**|Carolyn A. Raithel et.al.|[2208.04295v1](http://arxiv.org/abs/2208.04295v1)|null|
+|**2022-08-08**|**Tidal Deformability Doppelgangers: I. Differentiability of gravitational waveforms for neutron stars with a low-density phase transition**|Carolyn A. Raithel et.al.|[2208.04294v1](http://arxiv.org/abs/2208.04294v1)|null|
+|**2022-08-08**|**Late-time accretion in neutron star mergers: implications for short gamma-ray bursts and kilonovae**|Wenbin Lu et.al.|[2208.04293v1](http://arxiv.org/abs/2208.04293v1)|null|
+|**2022-08-08**|**Early Results From GLASS-JWST. XVII: Building the First Galaxies -- Chapter 1. Star Formation Histories at 5<z < 7**|A. Dressler et.al.|[2208.04292v1](http://arxiv.org/abs/2208.04292v1)|null|
+|**2022-08-08**|**General relativistic moving-mesh hydrodynamics simulations with AREPO and applications to neutron star mergers**|Georgios Lioutas et.al.|[2208.04267v1](http://arxiv.org/abs/2208.04267v1)|null|
+|**2022-08-08**|**Fast neutrino cooling in the accreting neutron star MXB 1659-29**|Melissa Mendes et.al.|[2208.04262v1](http://arxiv.org/abs/2208.04262v1)|null|
+|**2022-08-08**|**Characterization of aerogel scattering filters for astronomical telescopes**|Alyssa Barlis et.al.|[2208.04257v1](http://arxiv.org/abs/2208.04257v1)|null|
+|**2022-08-08**|**Coherent Time-Domain Canceling of Interference for Radio Astronomy**|S. W. Ellingson et.al.|[2208.04256v1](http://arxiv.org/abs/2208.04256v1)|null|
 |**2022-08-05**|**How do the dynamics of the Milky Way - Large Magellanic Cloud system affect gamma-ray constraints on particle dark matter?**|Christopher Eckner et.al.|[2208.03312v1](http://arxiv.org/abs/2208.03312v1)|null|
 |**2022-08-05**|**Analysis of eight magnetic chemically peculiar stars with rotational modulation**|O. Kobzar et.al.|[2208.03301v1](http://arxiv.org/abs/2208.03301v1)|null|
 |**2022-08-05**|**Constraining bosonic asymmetric dark matter with neutron star mass-radius measurements**|Nathan Rutherford et.al.|[2208.03282v1](http://arxiv.org/abs/2208.03282v1)|null|
@@ -309,6 +319,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**Gaze Estimation Approach Using Deep Differential Residual Network**|Longzhao Huang et.al.|[2208.04298v1](http://arxiv.org/abs/2208.04298v1)|null|
+|**2022-08-08**|**Exploiting Shape Cues for Weakly Supervised Semantic Segmentation**|Sungpil Kho et.al.|[2208.04286v1](http://arxiv.org/abs/2208.04286v1)|null|
+|**2022-08-08**|**Using soft maximin for risk averse multi-objective decision-making**|Benjamin J Smith et.al.|[2208.04273v1](http://arxiv.org/abs/2208.04273v1)|null|
+|**2022-08-08**|**A Multi-label Continual Learning Framework to Scale Deep Learning Approaches for Packaging Equipment Monitoring**|Davide Dalle Pezze et.al.|[2208.04227v1](http://arxiv.org/abs/2208.04227v1)|null|
+|**2022-08-08**|**Uncertain Bayesian Networks: Learning from Incomplete Data**|Conrad D. Hougen et.al.|[2208.04221v1](http://arxiv.org/abs/2208.04221v1)|null|
+|**2022-08-08**|**A Linear Programming Approach for Resource-Aware Information-Theoretic Tree Abstractions**|Daniel T. Larsson et.al.|[2208.04220v1](http://arxiv.org/abs/2208.04220v1)|null|
+|**2022-08-08**|**Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning**|Ting Chen et.al.|[2208.04202v1](http://arxiv.org/abs/2208.04202v1)|null|
+|**2022-08-08**|**Toward automated detection of light echoes in synoptic surveys: considerations on the application of the Deep Convolutional Neural Networks**|Xiaolong Li et.al.|[2208.04198v1](http://arxiv.org/abs/2208.04198v1)|null|
+|**2022-08-08**|**SsaA: A Self-supervised auto-Annotation System for Online Visual Inspection and Manufacturing Automation**|Jiawei Li et.al.|[2208.04173v1](http://arxiv.org/abs/2208.04173v1)|null|
+|**2022-08-08**|**Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness**|Haoye Tian et.al.|[2208.04125v1](http://arxiv.org/abs/2208.04125v1)|**[link](https://github.com/trustworthy-software/quatrain)**|
 |**2022-08-05**|**Lethal Dose Conjecture on Data Poisoning**|Wenxiao Wang et.al.|[2208.03309v1](http://arxiv.org/abs/2208.03309v1)|null|
 |**2022-08-05**|**Learning from data in the mixed adversarial non-adversarial case: Finding the helpers and ignoring the trolls**|Da Ju et.al.|[2208.03295v1](http://arxiv.org/abs/2208.03295v1)|null|
 |**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
