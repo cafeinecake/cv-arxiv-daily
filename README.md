@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-09**|**A slow bar in the lenticular barred galaxy NGC 4277**|C. Buttitta et.al.|[2208.04932v1](http://arxiv.org/abs/2208.04932v1)|null|
+|**2022-08-09**|**A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**|N. Laporte et.al.|[2208.04930v1](http://arxiv.org/abs/2208.04930v1)|null|
+|**2022-08-09**|**Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050**|C. Haslebacher et.al.|[2208.04918v1](http://arxiv.org/abs/2208.04918v1)|null|
+|**2022-08-09**|**The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared**|F. Cullen et.al.|[2208.04914v1](http://arxiv.org/abs/2208.04914v1)|null|
+|**2022-08-09**|**Detailed accretion history of the supermassive black hole in NGC 5972 over the past $\gtrsim$10$^4$ years through the extended emission line region**|C. Finlez et.al.|[2208.04911v1](http://arxiv.org/abs/2208.04911v1)|null|
+|**2022-08-09**|**Wide binary stars with non-coeval components**|Oleg Malkov et.al.|[2208.04899v1](http://arxiv.org/abs/2208.04899v1)|null|
+|**2022-08-09**|**Precise Calculations of Nucleosynthesis Parameters and Electron Self-mass**|Samina Masood et.al.|[2208.04896v1](http://arxiv.org/abs/2208.04896v1)|null|
+|**2022-08-09**|**Pulsar radio emission mechanism II. On the origin of relativistic Langmuir solitons in pulsar plasma**|Sk. Minhajur Rahaman et.al.|[2208.04894v1](http://arxiv.org/abs/2208.04894v1)|null|
+|**2022-08-09**|**Pulsar Emission Beam Geometry of Radio Broadband Arecibo Sources**|Timothy Olszanski et.al.|[2208.04889v1](http://arxiv.org/abs/2208.04889v1)|null|
+|**2022-08-09**|**AGN feedback duty cycle in Planck SZ selected clusters using Chandra observations**|V. Olivares et.al.|[2208.04888v1](http://arxiv.org/abs/2208.04888v1)|null|
 |**2022-08-08**|**DELIGHT: Deep Learning Identification of Galaxy Hosts of Transients using Multi-resolution Images**|Francisco Förster et.al.|[2208.04310v1](http://arxiv.org/abs/2208.04310v1)|null|
 |**2022-08-08**|**A 2D Model for Coronal Bright Points: Association with Spicules, UV bursts, Surges and EUV Coronal Jets**|D. Nóbrega-Siverio et.al.|[2208.04308v1](http://arxiv.org/abs/2208.04308v1)|null|
 |**2022-08-08**|**Tidal Deformability Doppelgangers: II. Implications of a low-density phase transition in the neutron star equation of state**|Carolyn A. Raithel et.al.|[2208.04295v1](http://arxiv.org/abs/2208.04295v1)|null|
@@ -319,6 +329,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-09**|**Intrinsically Motivated Learning of Causal World Models**|Louis Annabi et.al.|[2208.04892v1](http://arxiv.org/abs/2208.04892v1)|null|
+|**2022-08-09**|**Localizing the conceptual difference of two scenes using deep learning for house keeping usages**|Ali Atghaei et.al.|[2208.04884v1](http://arxiv.org/abs/2208.04884v1)|null|
+|**2022-08-09**|**Neural-Rendezvous: Learning-based Robust Guidance and Control to Encounter Interstellar Objects**|Hiroyasu Tsukamoto et.al.|[2208.04883v1](http://arxiv.org/abs/2208.04883v1)|null|
+|**2022-08-09**|**Kill Chaos with Kindness: Agreeableness Improves Team Performance Under Uncertainty**|Soo Ling Lim et.al.|[2208.04873v1](http://arxiv.org/abs/2208.04873v1)|null|
+|**2022-08-09**|**Topological Superconductor from the Quantum Hall Phase: Effective Field Theory Description**|M. Gomes et.al.|[2208.04864v1](http://arxiv.org/abs/2208.04864v1)|null|
+|**2022-08-09**|**Design of High-Throughput Mixed-Precision CNN Accelerators on FPGA**|Cecilia Latotzke et.al.|[2208.04854v1](http://arxiv.org/abs/2208.04854v1)|null|
+|**2022-08-09**|**On the Importance of Critical Period in Multi-stage Reinforcement Learning**|Junseok Park et.al.|[2208.04832v1](http://arxiv.org/abs/2208.04832v1)|null|
+|**2022-08-09**|**Global Evaluation for Decision Tree Learning**|Fabian Spaeh et.al.|[2208.04828v1](http://arxiv.org/abs/2208.04828v1)|**[link](https://github.com/285714/decisiontrees)**|
+|**2022-08-09**|**Generalized Reinforcement Learning: Experience Particles, Action Operator, Reinforcement Field, Memory Association, and Decision Concepts**|Po-Hsiang Chiu et.al.|[2208.04822v1](http://arxiv.org/abs/2208.04822v1)|null|
+|**2022-08-09**|**Integrating connection search in graph queries**|Angelos Christos Anadiotis et.al.|[2208.04802v1](http://arxiv.org/abs/2208.04802v1)|null|
 |**2022-08-08**|**Gaze Estimation Approach Using Deep Differential Residual Network**|Longzhao Huang et.al.|[2208.04298v1](http://arxiv.org/abs/2208.04298v1)|null|
 |**2022-08-08**|**Exploiting Shape Cues for Weakly Supervised Semantic Segmentation**|Sungpil Kho et.al.|[2208.04286v1](http://arxiv.org/abs/2208.04286v1)|null|
 |**2022-08-08**|**Using soft maximin for risk averse multi-objective decision-making**|Benjamin J Smith et.al.|[2208.04273v1](http://arxiv.org/abs/2208.04273v1)|null|
