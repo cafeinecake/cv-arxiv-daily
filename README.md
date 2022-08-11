@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-10**|**Star Cluster Formation in Clouds with Externally Driven Turbulence**|Jamie D. Smith et.al.|[2208.05474v1](http://arxiv.org/abs/2208.05474v1)|null|
+|**2022-08-10**|**Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**|Lukas J. Furtak et.al.|[2208.05473v1](http://arxiv.org/abs/2208.05473v1)|null|
+|**2022-08-10**|**CCAT-prime: Design of the Mod-Cam receiver and 280 GHz MKID instrument module**|Eve M. Vavagiakis et.al.|[2208.05468v1](http://arxiv.org/abs/2208.05468v1)|null|
+|**2022-08-10**|**Evidence for PeV Proton Acceleration from Fermi-LAT Observations of SNR G106.3+2.7**|Ke Fang et.al.|[2208.05457v1](http://arxiv.org/abs/2208.05457v1)|null|
+|**2022-08-10**|**Skipper-CCDs: current applications and future**|B. A. Cervantes-Vergara et.al.|[2208.05434v1](http://arxiv.org/abs/2208.05434v1)|null|
+|**2022-08-10**|**The Gaia-ESO Public Spectroscopic Survey: Motivation, implementation, GIRAFFE data processing, analysis, and final data products**|G. Gilmore et.al.|[2208.05432v1](http://arxiv.org/abs/2208.05432v1)|null|
+|**2022-08-10**|**Inferred Properties of Planets in Mean-Motion Resonances are Biased by Measurement Noise**|David Jensen et.al.|[2208.05423v1](http://arxiv.org/abs/2208.05423v1)|null|
+|**2022-08-10**|**Speckle simulation tool for automated modelling of a large range of telescope aperture to fried parameter ratios**|Sorabh Chhabra et.al.|[2208.05411v1](http://arxiv.org/abs/2208.05411v1)|null|
+|**2022-08-10**|**Spectrograph design for the Asgard/BIFROST spectro-interferometric instrument for the VLTI**|Sorabh Chhabra et.al.|[2208.05397v1](http://arxiv.org/abs/2208.05397v1)|null|
+|**2022-08-10**|**A report on the status of astrophotonics for interferometry and beyond**|Lucas Labadie et.al.|[2208.05380v1](http://arxiv.org/abs/2208.05380v1)|null|
 |**2022-08-09**|**A slow bar in the lenticular barred galaxy NGC 4277**|C. Buttitta et.al.|[2208.04932v1](http://arxiv.org/abs/2208.04932v1)|null|
 |**2022-08-09**|**A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**|N. Laporte et.al.|[2208.04930v1](http://arxiv.org/abs/2208.04930v1)|null|
 |**2022-08-09**|**Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050**|C. Haslebacher et.al.|[2208.04918v1](http://arxiv.org/abs/2208.04918v1)|null|
@@ -329,6 +339,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-10**|**EvolveHypergraph: Group-Aware Dynamic Relational Reasoning for Trajectory Prediction**|Jiachen Li et.al.|[2208.05470v1](http://arxiv.org/abs/2208.05470v1)|null|
+|**2022-08-10**|**The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**|Xiaoran Li et.al.|[2208.05462v1](http://arxiv.org/abs/2208.05462v1)|null|
+|**2022-08-10**|**Non-Contrastive Self-supervised Learning for Utterance-Level Information Extraction from Speech**|Jaejin Cho et.al.|[2208.05445v1](http://arxiv.org/abs/2208.05445v1)|null|
+|**2022-08-10**|**Differentiable Inference of Temporal Logic Formulas**|Nicole Fronda et.al.|[2208.05440v1](http://arxiv.org/abs/2208.05440v1)|**[link](https://github.com/nicaless/fernn_stl_inference)**|
+|**2022-08-10**|**Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services**|Hongyang Du et.al.|[2208.05438v1](http://arxiv.org/abs/2208.05438v1)|null|
+|**2022-08-10**|**Towards Autonomous Atlas-based Ultrasound Acquisitions in Presence of Articulated Motion**|Zhongliang Jiang et.al.|[2208.05399v1](http://arxiv.org/abs/2208.05399v1)|**[link](https://github.com/jiang96998/autolimbusscan)**|
+|**2022-08-10**|**ATLAS: Universal Function Approximator for Memory Retention**|Heinrich van Deventer et.al.|[2208.05388v1](http://arxiv.org/abs/2208.05388v1)|null|
+|**2022-08-10**|**Exploring Anchor-based Detection for Ego4D Natural Language Query**|Sipeng Zheng et.al.|[2208.05375v1](http://arxiv.org/abs/2208.05375v1)|null|
+|**2022-08-10**|**E Pluribus Unum Interpretable Convolutional Neural Networks**|George Dimas et.al.|[2208.05369v1](http://arxiv.org/abs/2208.05369v1)|null|
+|**2022-08-10**|**A Monitoring and Discovery Approach for Declarative Processes Based on Streams**|Andrea Burattin et.al.|[2208.05364v1](http://arxiv.org/abs/2208.05364v1)|**[link](https://github.com/beamline/discovery-dcr)**|
 |**2022-08-09**|**Intrinsically Motivated Learning of Causal World Models**|Louis Annabi et.al.|[2208.04892v1](http://arxiv.org/abs/2208.04892v1)|null|
 |**2022-08-09**|**Localizing the conceptual difference of two scenes using deep learning for house keeping usages**|Ali Atghaei et.al.|[2208.04884v1](http://arxiv.org/abs/2208.04884v1)|null|
 |**2022-08-09**|**Neural-Rendezvous: Learning-based Robust Guidance and Control to Encounter Interstellar Objects**|Hiroyasu Tsukamoto et.al.|[2208.04883v1](http://arxiv.org/abs/2208.04883v1)|null|
