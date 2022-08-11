@@ -1,11 +1,11 @@
-> Updated on 2022.08.10
+> Updated on 2022.08.11
 
 ## Astrophysics
 
 - 2022-08-09, **A slow bar in the lenticular barred galaxy NGC 4277**, C. Buttitta et.al., Paper: [http://arxiv.org/abs/2208.04932v1](http://arxiv.org/abs/2208.04932v1)
 - 2022-08-09, **A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**, N. Laporte et.al., Paper: [http://arxiv.org/abs/2208.04930v1](http://arxiv.org/abs/2208.04930v1)
 - 2022-08-09, **Impact of climate change on site characteristics of eight major astronomical observatories using high-resolution global climate projections until 2050**, C. Haslebacher et.al., Paper: [http://arxiv.org/abs/2208.04918v1](http://arxiv.org/abs/2208.04918v1)
-- 2022-08-09, **The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared**, F. Cullen et.al., Paper: [http://arxiv.org/abs/2208.04914v1](http://arxiv.org/abs/2208.04914v1)
+- 2022-08-10, **The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared imaging**, F. Cullen et.al., Paper: [http://arxiv.org/abs/2208.04914v2](http://arxiv.org/abs/2208.04914v2)
 - 2022-08-09, **Detailed accretion history of the supermassive black hole in NGC 5972 over the past $\gtrsim$10$^4$ years through the extended emission line region**, C. Finlez et.al., Paper: [http://arxiv.org/abs/2208.04911v1](http://arxiv.org/abs/2208.04911v1)
 - 2022-08-09, **Wide binary stars with non-coeval components**, Oleg Malkov et.al., Paper: [http://arxiv.org/abs/2208.04899v1](http://arxiv.org/abs/2208.04899v1)
 - 2022-08-09, **Precise Calculations of Nucleosynthesis Parameters and Electron Self-mass**, Samina Masood et.al., Paper: [http://arxiv.org/abs/2208.04896v1](http://arxiv.org/abs/2208.04896v1)
