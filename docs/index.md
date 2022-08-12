@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Future prospects on testing extensions to $Λ$CDM through the weak lensing of gravitational waves**|Charlie T. Mpetha et.al.|[2208.05959v1](http://arxiv.org/abs/2208.05959v1)|null|
+|**2022-08-11**|**Revealing Dark Matter Dress of Primordial Black Holes by Cosmological Lensing**|Masamune Oguri et.al.|[2208.05957v1](http://arxiv.org/abs/2208.05957v1)|null|
+|**2022-08-11**|**Stochastic Modelling of Star Formation Histories III. Constraints from Physically-Motivated Gaussian Processes**|Kartheik G. Iyer et.al.|[2208.05938v1](http://arxiv.org/abs/2208.05938v1)|null|
+|**2022-08-11**|**Updated constraints from the effective field theory analysis of BOSS power spectrum on Early Dark Energy**|Théo Simon et.al.|[2208.05930v1](http://arxiv.org/abs/2208.05930v1)|null|
+|**2022-08-11**|**On the consistency of effective field theory analyses of BOSS power spectrum**|Théo Simon et.al.|[2208.05929v1](http://arxiv.org/abs/2208.05929v1)|null|
+|**2022-08-11**|**Muon puzzle in inclined muon bundles detected by NEVOD-DECOR**|A. G. Bogdanov et.al.|[2208.05926v1](http://arxiv.org/abs/2208.05926v1)|null|
+|**2022-08-11**|**A Systematic Study of the Short-Term X-ray Variability of Seyfert Galaxies I. Diversity of the X-ray Rms Spectra**|Jingwei Hu et.al.|[2208.05921v1](http://arxiv.org/abs/2208.05921v1)|null|
+|**2022-08-11**|**Signatures of Feedback in the Spectacular Extended Emission Region of NGC 5972**|Thomas Harvey et.al.|[2208.05915v1](http://arxiv.org/abs/2208.05915v1)|null|
+|**2022-08-11**|**Search for LBVs in the Local Volume galaxies: study of four stars in NGC 4449**|Y. Solovyeva et.al.|[2208.05892v1](http://arxiv.org/abs/2208.05892v1)|null|
+|**2022-08-11**|**Uncertainty-Aware Blob Detection with an Application to Integrated-Light Stellar Population Recoveries**|Prashin Jethwa et.al.|[2208.05881v1](http://arxiv.org/abs/2208.05881v1)|null|
 |**2022-08-10**|**Star Cluster Formation in Clouds with Externally Driven Turbulence**|Jamie D. Smith et.al.|[2208.05474v1](http://arxiv.org/abs/2208.05474v1)|null|
 |**2022-08-10**|**Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**|Lukas J. Furtak et.al.|[2208.05473v1](http://arxiv.org/abs/2208.05473v1)|null|
 |**2022-08-10**|**CCAT-prime: Design of the Mod-Cam receiver and 280 GHz MKID instrument module**|Eve M. Vavagiakis et.al.|[2208.05468v1](http://arxiv.org/abs/2208.05468v1)|null|
@@ -343,6 +353,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Shielding Federated Learning Systems against Inference Attacks with ARM TrustZone**|Aghiles Ait Messaoud et.al.|[2208.05895v1](http://arxiv.org/abs/2208.05895v1)|null|
+|**2022-08-11**|**Speech Synthesis with Mixed Emotions**|Kun Zhou et.al.|[2208.05890v1](http://arxiv.org/abs/2208.05890v1)|null|
+|**2022-08-11**|**Optimizing Irregular-Shaped Matrix-Matrix Multiplication on Multi-Core DSPs**|Shangfei Yin et.al.|[2208.05872v1](http://arxiv.org/abs/2208.05872v1)|null|
+|**2022-08-11**|**Seeing your sleep stage: cross-modal distillation from EEG to infrared video**|Jianan Han et.al.|[2208.05814v1](http://arxiv.org/abs/2208.05814v1)|**[link](https://github.com/spiresearch/sacd)**|
+|**2022-08-11**|**Regressing Relative Fine-Grained Change for Sub-Groups in Unreliable Heterogeneous Data Through Deep Multi-Task Metric Learning**|Niall O' Mahony et.al.|[2208.05800v1](http://arxiv.org/abs/2208.05800v1)|null|
+|**2022-08-11**|**The dynamics of belief: continuously monitoring and visualising complex systems**|Edwin J. Beggs et.al.|[2208.05764v1](http://arxiv.org/abs/2208.05764v1)|null|
+|**2022-08-11**|**A Modified UDP for Federated Learning Packet Transmissions**|Bright Kudzaishe Mahembe et.al.|[2208.05737v1](http://arxiv.org/abs/2208.05737v1)|null|
+|**2022-08-11**|**Learning Point Processes using Recurrent Graph Network**|Saurabh Dash et.al.|[2208.05736v1](http://arxiv.org/abs/2208.05736v1)|null|
+|**2022-08-11**|**Word-Embeddings Distinguish Denominal and Root-Derived Verbs in Semitic**|Ido Benbaji et.al.|[2208.05721v1](http://arxiv.org/abs/2208.05721v1)|null|
+|**2022-08-11**|**A Model of Anaphoric Ambiguities using Sheaf Theoretic Quantum-like Contextuality and BERT**|Kin Ian Lo et.al.|[2208.05720v1](http://arxiv.org/abs/2208.05720v1)|null|
 |**2022-08-10**|**EvolveHypergraph: Group-Aware Dynamic Relational Reasoning for Trajectory Prediction**|Jiachen Li et.al.|[2208.05470v1](http://arxiv.org/abs/2208.05470v1)|null|
 |**2022-08-10**|**The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**|Xiaoran Li et.al.|[2208.05462v1](http://arxiv.org/abs/2208.05462v1)|null|
 |**2022-08-10**|**Non-Contrastive Self-supervised Learning for Utterance-Level Information Extraction from Speech**|Jaejin Cho et.al.|[2208.05445v1](http://arxiv.org/abs/2208.05445v1)|null|
