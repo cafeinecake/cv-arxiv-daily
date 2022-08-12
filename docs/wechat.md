@@ -1,4 +1,4 @@
-> Updated on 2022.08.11
+> Updated on 2022.08.12
 
 ## Astrophysics
 
@@ -339,7 +339,7 @@
 - 2022-08-10, **The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**, Xiaoran Li et.al., Paper: [http://arxiv.org/abs/2208.05462v1](http://arxiv.org/abs/2208.05462v1)
 - 2022-08-10, **Non-Contrastive Self-supervised Learning for Utterance-Level Information Extraction from Speech**, Jaejin Cho et.al., Paper: [http://arxiv.org/abs/2208.05445v1](http://arxiv.org/abs/2208.05445v1)
 - 2022-08-10, **Differentiable Inference of Temporal Logic Formulas**, Nicole Fronda et.al., Paper: [http://arxiv.org/abs/2208.05440v1](http://arxiv.org/abs/2208.05440v1), Code: **[https://github.com/nicaless/fernn_stl_inference](https://github.com/nicaless/fernn_stl_inference)**
-- 2022-08-10, **Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services**, Hongyang Du et.al., Paper: [http://arxiv.org/abs/2208.05438v1](http://arxiv.org/abs/2208.05438v1)
+- 2022-08-11, **Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services**, Hongyang Du et.al., Paper: [http://arxiv.org/abs/2208.05438v2](http://arxiv.org/abs/2208.05438v2)
 - 2022-08-10, **Towards Autonomous Atlas-based Ultrasound Acquisitions in Presence of Articulated Motion**, Zhongliang Jiang et.al., Paper: [http://arxiv.org/abs/2208.05399v1](http://arxiv.org/abs/2208.05399v1), Code: **[https://github.com/jiang96998/autolimbusscan](https://github.com/jiang96998/autolimbusscan)**
 - 2022-08-10, **ATLAS: Universal Function Approximator for Memory Retention**, Heinrich van Deventer et.al., Paper: [http://arxiv.org/abs/2208.05388v1](http://arxiv.org/abs/2208.05388v1)
 - 2022-08-10, **Exploring Anchor-based Detection for Ego4D Natural Language Query**, Sipeng Zheng et.al., Paper: [http://arxiv.org/abs/2208.05375v1](http://arxiv.org/abs/2208.05375v1)
