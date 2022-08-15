@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**Black hole superradiance with (dark) matter accretion**|Lam Hui et.al.|[2208.06408v1](http://arxiv.org/abs/2208.06408v1)|null|
+|**2022-08-12**|**Optical Characterization & Testbed Development for μ-Spec Integrated Spectrometers**|Maryam Rahmani et.al.|[2208.06401v1](http://arxiv.org/abs/2208.06401v1)|null|
+|**2022-08-12**|**HD 56414 b: A Warm Neptune Transiting an A-type Star**|Steven Giacalone et.al.|[2208.06396v1](http://arxiv.org/abs/2208.06396v1)|null|
+|**2022-08-12**|**Changes in the Na D$_1$ Absorption Components of $η$ Carinae Provide Clues on the Location of the Dissipating Central Occulter**|Connor S. Pickett et.al.|[2208.06389v1](http://arxiv.org/abs/2208.06389v1)|null|
+|**2022-08-12**|**The Influence of Beta Decay Rates on r-Process Observables**|Kelsey A. Lund et.al.|[2208.06373v1](http://arxiv.org/abs/2208.06373v1)|null|
+|**2022-08-12**|**A First Look into the Nature of JWST/MIRI 7.7 micron Sources from SMACS 0723**|Edoardo Iani et.al.|[2208.06364v1](http://arxiv.org/abs/2208.06364v1)|null|
+|**2022-08-12**|**Finding Multiply-Lensed and Binary Quasars in the DESI Legacy Imaging Surveys**|C. Dawes et.al.|[2208.06356v1](http://arxiv.org/abs/2208.06356v1)|null|
+|**2022-08-12**|**TOI-1452 b: SPIRou and TESS reveal a super-Earth in a temperate orbit transiting an M4 dwarf**|Charles Cadieux et.al.|[2208.06333v1](http://arxiv.org/abs/2208.06333v1)|null|
+|**2022-08-12**|**Investigating particle acceleration dynamics in interpenetrating magnetized collisionless super-critical shocks**|W. Yao et.al.|[2208.06304v1](http://arxiv.org/abs/2208.06304v1)|null|
+|**2022-08-12**|**One-parameter dynamical dark-energy from the generalized Chaplygin gas**|Rodrigo von Marttens et.al.|[2208.06302v1](http://arxiv.org/abs/2208.06302v1)|null|
 |**2022-08-11**|**Future prospects on testing extensions to $Λ$CDM through the weak lensing of gravitational waves**|Charlie T. Mpetha et.al.|[2208.05959v1](http://arxiv.org/abs/2208.05959v1)|null|
 |**2022-08-11**|**Revealing Dark Matter Dress of Primordial Black Holes by Cosmological Lensing**|Masamune Oguri et.al.|[2208.05957v1](http://arxiv.org/abs/2208.05957v1)|null|
 |**2022-08-11**|**Stochastic Modelling of Star Formation Histories III. Constraints from Physically-Motivated Gaussian Processes**|Kartheik G. Iyer et.al.|[2208.05938v1](http://arxiv.org/abs/2208.05938v1)|**[link](https://github.com/kartheikiyer/gp-sfh)**|
@@ -349,6 +359,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**AutoShard: Automated Embedding Table Sharding for Recommender Systems**|Daochen Zha et.al.|[2208.06399v1](http://arxiv.org/abs/2208.06399v1)|**[link](https://github.com/daochenzha/autoshard)**|
+|**2022-08-12**|**Autonomous Intelligent Software Development**|Mark Alan Matties et.al.|[2208.06393v1](http://arxiv.org/abs/2208.06393v1)|null|
+|**2022-08-12**|**From Vertices to Vortices in magnetic nanoislands**|Michael Saccone et.al.|[2208.06391v1](http://arxiv.org/abs/2208.06391v1)|null|
+|**2022-08-12**|**Relational Action Bases: Formalization, Effective Safety Verification, and Invariants (Extended Version)**|Silvio Ghilardi et.al.|[2208.06377v1](http://arxiv.org/abs/2208.06377v1)|null|
+|**2022-08-12**|**Developing moral AI to support antimicrobial decision making**|William J Bolton et.al.|[2208.06327v1](http://arxiv.org/abs/2208.06327v1)|null|
+|**2022-08-12**|**Towards Code Summarization of APIs Based on Unofficial Documentation Using NLP Techniques**|AmirHossein Naghshzan et.al.|[2208.06318v1](http://arxiv.org/abs/2208.06318v1)|null|
+|**2022-08-12**|**Semantic decomposition Network with Contrastive and Structural Constraints for Dental Plaque Segmentation**|Jian Shi et.al.|[2208.06283v1](http://arxiv.org/abs/2208.06283v1)|null|
+|**2022-08-12**|**Sequential Causal Imitation Learning with Unobserved Confounders**|Daniel Kumor et.al.|[2208.06276v1](http://arxiv.org/abs/2208.06276v1)|null|
+|**2022-08-12**|**Probabilistic Variational Causal Effect as A new Theory for Causal Reasoning**|Usef Faghihi et.al.|[2208.06269v1](http://arxiv.org/abs/2208.06269v1)|null|
+|**2022-08-12**|**Causal Imitation Learning with Unobserved Confounders**|Junzhe Zhang et.al.|[2208.06267v1](http://arxiv.org/abs/2208.06267v1)|null|
 |**2022-08-11**|**Shielding Federated Learning Systems against Inference Attacks with ARM TrustZone**|Aghiles Ait Messaoud et.al.|[2208.05895v1](http://arxiv.org/abs/2208.05895v1)|null|
 |**2022-08-11**|**Speech Synthesis with Mixed Emotions**|Kun Zhou et.al.|[2208.05890v1](http://arxiv.org/abs/2208.05890v1)|null|
 |**2022-08-11**|**Optimizing Irregular-Shaped Matrix-Matrix Multiplication on Multi-Core DSPs**|Shangfei Yin et.al.|[2208.05872v1](http://arxiv.org/abs/2208.05872v1)|null|
