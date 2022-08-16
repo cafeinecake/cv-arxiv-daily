@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-15**|**XPipeline: Starlight subtraction at scale for MagAO-X**|Joseph D. Long et.al.|[2208.07354v1](http://arxiv.org/abs/2208.07354v1)|null|
+|**2022-08-15**|**Understanding the effects of charge diffusion in next-generation soft X-ray imagers**|Eric D. Miller et.al.|[2208.07348v1](http://arxiv.org/abs/2208.07348v1)|null|
+|**2022-08-15**|**A Novel Hexpyramid Pupil Slicer for an ExAO Parallel DM for the Giant Magellan Telescope**|Maggie Kautz et.al.|[2208.07345v1](http://arxiv.org/abs/2208.07345v1)|null|
+|**2022-08-15**|**Advanced wavefront sensing and control demonstration with MagAO-X**|Sebastiaan Y. Haffert et.al.|[2208.07334v1](http://arxiv.org/abs/2208.07334v1)|null|
+|**2022-08-15**|**InfraRed On-Detector Guide-Windows in the era of Extremely Large Telescopes**|Edward L. Chapin et.al.|[2208.07332v1](http://arxiv.org/abs/2208.07332v1)|null|
+|**2022-08-15**|**Visible extreme adaptive optics for GMagAO-X with the triple-stage AO architecture (TSAO)**|Sebastiaan Y. Haffert et.al.|[2208.07330v1](http://arxiv.org/abs/2208.07330v1)|null|
+|**2022-08-15**|**TOI-836: A super-Earth and mini-Neptune transiting a nearby K-dwarf**|Faith Hawthorn et.al.|[2208.07328v1](http://arxiv.org/abs/2208.07328v1)|null|
+|**2022-08-15**|**The Optical and Mechanical Design for the 21,000 Actuator ExAO System for the Giant Magellan Telescope: GMagAO-X**|Laird M. Close et.al.|[2208.07318v1](http://arxiv.org/abs/2208.07318v1)|null|
+|**2022-08-15**|**The conceptual design of GMagAO-X: visible wavelength high contrast imaging with GMT**|Jared R. Males et.al.|[2208.07312v1](http://arxiv.org/abs/2208.07312v1)|null|
+|**2022-08-15**|**MagAO-X: current status and plans for Phase II**|Jared R. Males et.al.|[2208.07299v1](http://arxiv.org/abs/2208.07299v1)|null|
 |**2022-08-12**|**Black hole superradiance with (dark) matter accretion**|Lam Hui et.al.|[2208.06408v1](http://arxiv.org/abs/2208.06408v1)|null|
 |**2022-08-12**|**Optical Characterization & Testbed Development for μ-Spec Integrated Spectrometers**|Maryam Rahmani et.al.|[2208.06401v1](http://arxiv.org/abs/2208.06401v1)|null|
 |**2022-08-12**|**HD 56414 b: A Warm Neptune Transiting an A-type Star**|Steven Giacalone et.al.|[2208.06396v1](http://arxiv.org/abs/2208.06396v1)|null|
@@ -359,6 +369,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
+|**2022-08-15**|**LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale**|Tim Dettmers et.al.|[2208.07339v1](http://arxiv.org/abs/2208.07339v1)|null|
+|**2022-08-15**|**Domain-aware Control-oriented Neural Models for Autonomous Underwater Vehicles**|Wenceslao Shaw Cortez et.al.|[2208.07333v1](http://arxiv.org/abs/2208.07333v1)|null|
+|**2022-08-15**|**Cross-scale Attention Guided Multi-instance Learning for Crohn's Disease Diagnosis with Pathological Images**|Ruining Deng et.al.|[2208.07322v1](http://arxiv.org/abs/2208.07322v1)|null|
+|**2022-08-15**|**Learn2Trust: A video and streamlit-based educational programme for AI-based medical image analysis targeted towards medical students**|Hanna Siebert et.al.|[2208.07314v1](http://arxiv.org/abs/2208.07314v1)|null|
+|**2022-08-15**|**Debiased Recommendation with Neural Stratification**|Quanyu Dai et.al.|[2208.07281v1](http://arxiv.org/abs/2208.07281v1)|null|
+|**2022-08-15**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|**[link](https://github.com/snap-stanford/roland)**|
+|**2022-08-15**|**Energy and Spectrum Efficient Federated Learning via High-Precision Over-the-Air Computation**|Liang Li et.al.|[2208.07237v1](http://arxiv.org/abs/2208.07237v1)|null|
+|**2022-08-15**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227v1](http://arxiv.org/abs/2208.07227v1)|**[link](https://github.com/vlar-group/dm-nerf)**|
+|**2022-08-15**|**Generating Pixel Art Character Sprites using GANs**|Flávio Coutinho et.al.|[2208.06413v1](http://arxiv.org/abs/2208.06413v1)|null|
 |**2022-08-12**|**AutoShard: Automated Embedding Table Sharding for Recommender Systems**|Daochen Zha et.al.|[2208.06399v1](http://arxiv.org/abs/2208.06399v1)|**[link](https://github.com/daochenzha/autoshard)**|
 |**2022-08-12**|**Autonomous Intelligent Software Development**|Mark Alan Matties et.al.|[2208.06393v1](http://arxiv.org/abs/2208.06393v1)|null|
 |**2022-08-12**|**From Vertices to Vortices in magnetic nanoislands**|Michael Saccone et.al.|[2208.06391v1](http://arxiv.org/abs/2208.06391v1)|null|
