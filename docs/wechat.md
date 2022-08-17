@@ -2,6 +2,16 @@
 
 ## Astrophysics
 
+- 2022-08-16, **NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M**, Samuel M. Factor et.al., Paper: [http://arxiv.org/abs/2208.07872v1](http://arxiv.org/abs/2208.07872v1)
+- 2022-08-16, **Sublimation Origin of Active Asteroid P/2018 P3**, Yoonyoung Kim et.al., Paper: [http://arxiv.org/abs/2208.07868v1](http://arxiv.org/abs/2208.07868v1)
+- 2022-08-16, **The hot circumgalactic medium of the Milky-Way: new insights from XMM-Newton observations**, Souradip Bhattacharyya et.al., Paper: [http://arxiv.org/abs/2208.07863v1](http://arxiv.org/abs/2208.07863v1)
+- 2022-08-16, **RR Lyrae stars in the globular cluster Palomar 2**, A. Arellano Ferro et.al., Paper: [http://arxiv.org/abs/2208.07849v1](http://arxiv.org/abs/2208.07849v1)
+- 2022-08-16, **Projected-Field Kinetic Sunyaev-Zel'dovich Cross-Correlations: Halo Model and Forecasts**, Boris Bolliet et.al., Paper: [http://arxiv.org/abs/2208.07847v1](http://arxiv.org/abs/2208.07847v1)
+- 2022-08-16, **PICASO 3.0: A One-Dimensional Climate Model for Giant Planets and Brown Dwarfs**, Sagnick Mukherjee et.al., Paper: [http://arxiv.org/abs/2208.07836v1](http://arxiv.org/abs/2208.07836v1)
+- 2022-08-16, **The Method of Visual Satellite Photometry**, Anthony Mallama et.al., Paper: [http://arxiv.org/abs/2208.07834v1](http://arxiv.org/abs/2208.07834v1)
+- 2022-08-16, **Compton Telescopes for Gamma-ray Astrophysics**, Carolyn Kierans et.al., Paper: [http://arxiv.org/abs/2208.07819v1](http://arxiv.org/abs/2208.07819v1)
+- 2022-08-16, **The JCMT Transient Survey: Single Epoch Transients and Variability of Faint Sources**, Doug Johnstone et.al., Paper: [http://arxiv.org/abs/2208.07815v1](http://arxiv.org/abs/2208.07815v1)
+- 2022-08-16, **The physical and chemical structure of Sagittarius B2 -- VI. UCHII regions in Sgr B2**, Fanyi Meng et.al., Paper: [http://arxiv.org/abs/2208.07796v1](http://arxiv.org/abs/2208.07796v1)
 - 2022-08-15, **XPipeline: Starlight subtraction at scale for MagAO-X**, Joseph D. Long et.al., Paper: [http://arxiv.org/abs/2208.07354v1](http://arxiv.org/abs/2208.07354v1)
 - 2022-08-15, **Understanding the effects of charge diffusion in next-generation soft X-ray imagers**, Eric D. Miller et.al., Paper: [http://arxiv.org/abs/2208.07348v1](http://arxiv.org/abs/2208.07348v1)
 - 2022-08-15, **A Novel Hexpyramid Pupil Slicer for an ExAO Parallel DM for the Giant Magellan Telescope**, Maggie Kautz et.al., Paper: [http://arxiv.org/abs/2208.07345v1](http://arxiv.org/abs/2208.07345v1)
@@ -365,6 +375,16 @@
 
 ## AI
 
+- 2022-08-16, **Language-guided Semantic Style Transfer of 3D Indoor Scenes**, Bu Jin et.al., Paper: [http://arxiv.org/abs/2208.07870v1](http://arxiv.org/abs/2208.07870v1), Code: **[https://github.com/air-discover/lasst](https://github.com/air-discover/lasst)**
+- 2022-08-16, **A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning**, Laura Smith et.al., Paper: [http://arxiv.org/abs/2208.07860v1](http://arxiv.org/abs/2208.07860v1)
+- 2022-08-16, **Parallel Hierarchical Transformer with Attention Alignment for Abstractive Multi-Document Summarization**, Ye Ma et.al., Paper: [http://arxiv.org/abs/2208.07845v1](http://arxiv.org/abs/2208.07845v1)
+- 2022-08-16, **The Method of Visual Satellite Photometry**, Anthony Mallama et.al., Paper: [http://arxiv.org/abs/2208.07834v1](http://arxiv.org/abs/2208.07834v1)
+- 2022-08-16, **Minimum Surfactant Concentration Required for Inducing Self-shaping of Oil Droplets and Competitive Adsorption Effects**, Jiale Feng et.al., Paper: [http://arxiv.org/abs/2208.07822v1](http://arxiv.org/abs/2208.07822v1)
+- 2022-08-16, **Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial**, Yang Zhi-Han et.al., Paper: [http://arxiv.org/abs/2208.07818v1](http://arxiv.org/abs/2208.07818v1), Code: **[https://github.com/zhihanyang2022/aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial)**
+- 2022-08-16, **SIERRA: A Modular Framework for Research Automation and Reproducibility**, John Harwell et.al., Paper: [http://arxiv.org/abs/2208.07805v1](http://arxiv.org/abs/2208.07805v1)
+- 2022-08-16, **Designing an Artificial Immune System inspired Intrusion Detection System**, William Anderson et.al., Paper: [http://arxiv.org/abs/2208.07801v1](http://arxiv.org/abs/2208.07801v1)
+- 2022-08-16, **An Adaptive Repeated-Intersection-Reduction Local Search for the Maximum Independent Set Problem**, Enqiang Zhu et.al., Paper: [http://arxiv.org/abs/2208.07777v1](http://arxiv.org/abs/2208.07777v1)
+- 2022-08-16, **Unsupervised Domain Adaptation for Segmentation with Black-box Source Model**, Xiaofeng Liu et.al., Paper: [http://arxiv.org/abs/2208.07769v1](http://arxiv.org/abs/2208.07769v1)
 - 2022-08-15, **Unsupervised Video Domain Adaptation: A Disentanglement Perspective**, Pengfei Wei et.al., Paper: [http://arxiv.org/abs/2208.07365v1](http://arxiv.org/abs/2208.07365v1), Code: **[https://github.com/ldkong1205/transvae](https://github.com/ldkong1205/transvae)**
 - 2022-08-15, **LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale**, Tim Dettmers et.al., Paper: [http://arxiv.org/abs/2208.07339v1](http://arxiv.org/abs/2208.07339v1)
 - 2022-08-15, **Domain-aware Control-oriented Neural Models for Autonomous Underwater Vehicles**, Wenceslao Shaw Cortez et.al., Paper: [http://arxiv.org/abs/2208.07333v1](http://arxiv.org/abs/2208.07333v1)
