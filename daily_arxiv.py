@@ -1,8 +1,9 @@
 import datetime
-import requests
 import json
-import arxiv
 import os
+
+import arxiv
+import requests
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
@@ -49,6 +50,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_title         = result.title
         paper_url           = result.entry_id
         code_url            = base_url + paper_id
+        pdf_url             = result.pdf_url
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -76,12 +78,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|[{paper_id}]({pdf_url})|**[link]({repo_url})**|\n"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}),Paper: [{paper_url}]({pdf_url}), Code: **[{repo_url}]({repo_url})**"
 
             else:
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|[{paper_id}]({pdf_url})|null|\n"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Paper: [{paper_url}]({pdf_url})"
 
             # TODO: select useful comments
             comments = None
@@ -162,10 +164,10 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("|Publish Date|Title|Authors|Abstract|PDF|Code|\n" + "|---|---|---|---|---|---|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("| Publish Date | Title | Authors | Abstract | PDF | Code |\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
