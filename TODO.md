@@ -1,0 +1,3 @@
+- [] get proper License or re-write it as it it is trivial
+- [] remove the extra files created
+- [] integrate the push notification properly
