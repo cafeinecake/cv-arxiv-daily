@@ -1,9 +1,19 @@
-## Updated on 2022.08.17
+## Updated on 2022.08.18
 
 ## Astrophysics
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+|Publish Date|Title|Authors|Abstract|PDF|Code|
+|---|---|---|---|---|---|
+|**2022-08-17**|**Galactic contribution to the high-energy neutrino flux found in track-like IceCube events**|Yu. Kovalev et.al.|[2208.08423v1](http://arxiv.org/abs/2208.08423v1)|[2208.08423v1](http://arxiv.org/pdf/2208.08423v1)|null|
+|**2022-08-17**|**Searching for axion-like particles through CMB birefringence from string-wall networks**|Mudit Jain et.al.|[2208.08391v1](http://arxiv.org/abs/2208.08391v1)|[2208.08391v1](http://arxiv.org/pdf/2208.08391v1)|null|
+|**2022-08-17**|**A Multiwavelength view of IC 860: What Is in Action inside Quenching Galaxies**|Yuanze Luo et.al.|[2208.08379v1](http://arxiv.org/abs/2208.08379v1)|[2208.08379v1](http://arxiv.org/pdf/2208.08379v1)|null|
+|**2022-08-17**|**Reheating era in Gauss-Bonnet theories of gravity compatible with the GW170817 event**|S. A. Venikoudis et.al.|[2208.08333v1](http://arxiv.org/abs/2208.08333v1)|[2208.08333v1](http://arxiv.org/pdf/2208.08333v1)|null|
+|**2022-08-17**|**Understanding dust production and mass loss on the AGB phase using post-AGB stars in the Magellanic Clouds**|Silvia Tosi et.al.|[2208.08314v1](http://arxiv.org/abs/2208.08314v1)|[2208.08314v1](http://arxiv.org/pdf/2208.08314v1)|null|
+|**2022-08-17**|**Transient radio emission from low-redshift galaxies at z<0.3 revealed by VLASS and FIRST surveys**|Fabao Zhang et.al.|[2208.08308v1](http://arxiv.org/abs/2208.08308v1)|[2208.08308v1](http://arxiv.org/pdf/2208.08308v1)|null|
+|**2022-08-17**|**Precision speckle pattern reconstruction for high contrast imaging**|Dotan Gazith et.al.|[2208.08303v1](http://arxiv.org/abs/2208.08303v1)|[2208.08303v1](http://arxiv.org/pdf/2208.08303v1)|null|
+|**2022-08-17**|**Sneutrinos as two inflatons and curvaton and leptogenesis**|Tomo Takahashi et.al.|[2208.08296v1](http://arxiv.org/abs/2208.08296v1)|[2208.08296v1](http://arxiv.org/pdf/2208.08296v1)|null|
+|**2022-08-17**|**LeXInt: Package for Exponential Integrators employing Leja interpolation**|Pranab J. Deka et.al.|[2208.08269v1](http://arxiv.org/abs/2208.08269v1)|[2208.08269v1](http://arxiv.org/pdf/2208.08269v1)|null|
+|**2022-08-17**|**Precursors of Supernovae from Mass Eruption: Prospects for Early Warning of Nearby Core-collapse Supernovae**|Daichi Tsuna et.al.|[2208.08256v1](http://arxiv.org/abs/2208.08256v1)|[2208.08256v1](http://arxiv.org/pdf/2208.08256v1)|null|
 |**2022-08-16**|**NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M**|Samuel M. Factor et.al.|[2208.07872v1](http://arxiv.org/abs/2208.07872v1)|null|
 |**2022-08-16**|**Sublimation Origin of Active Asteroid P/2018 P3**|Yoonyoung Kim et.al.|[2208.07868v1](http://arxiv.org/abs/2208.07868v1)|null|
 |**2022-08-16**|**The hot circumgalactic medium of the Milky-Way: new insights from XMM-Newton observations**|Souradip Bhattacharyya et.al.|[2208.07863v1](http://arxiv.org/abs/2208.07863v1)|null|
@@ -377,8 +387,18 @@
 
 ## AI
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+|Publish Date|Title|Authors|Abstract|PDF|Code|
+|---|---|---|---|---|---|
+|**2022-08-17**|**Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models**|Yanjun Gao et.al.|[2208.08408v1](http://arxiv.org/abs/2208.08408v1)|[2208.08408v1](http://arxiv.org/pdf/2208.08408v1)|null|
+|**2022-08-17**|**Deep Generative Views to Mitigate Gender Classification Bias Across Gender-Race Groups**|Sreeraj Ramachandran et.al.|[2208.08382v1](http://arxiv.org/abs/2208.08382v1)|[2208.08382v1](http://arxiv.org/pdf/2208.08382v1)|null|
+|**2022-08-17**|**Commander's Intent: A Dataset and Modeling Approach for Human-AI Task Specification in Strategic Play**|Pradyumna Tambwekar et.al.|[2208.08374v1](http://arxiv.org/abs/2208.08374v1)|[2208.08374v1](http://arxiv.org/pdf/2208.08374v1)|null|
+|**2022-08-17**|**Ask Question First for Enhancing Lifelong Language Learning**|Han Wang et.al.|[2208.08367v1](http://arxiv.org/abs/2208.08367v1)|[2208.08367v1](http://arxiv.org/pdf/2208.08367v1)|null|
+|**2022-08-17**|**Discovering Agents**|Zachary Kenton et.al.|[2208.08345v1](http://arxiv.org/abs/2208.08345v1)|[2208.08345v1](http://arxiv.org/pdf/2208.08345v1)|null|
+|**2022-08-17**|**Autocorrelations from emergent bistability in homeostatic spiking neural networks on neuromorphic hardware**|Benjamin Cramer et.al.|[2208.08329v1](http://arxiv.org/abs/2208.08329v1)|[2208.08329v1](http://arxiv.org/pdf/2208.08329v1)|null|
+|**2022-08-17**|**BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency**|Zhenyu Lei et.al.|[2208.08320v1](http://arxiv.org/abs/2208.08320v1)|[2208.08320v1](http://arxiv.org/pdf/2208.08320v1)|null|
+|**2022-08-17**|**Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing**|Qingyun Sun et.al.|[2208.08302v1](http://arxiv.org/abs/2208.08302v1)|[2208.08302v1](http://arxiv.org/pdf/2208.08302v1)|**[link](https://github.com/ringbdstack/pastel)**|
+|**2022-08-17**|**Multimodal foundation models are better simulators of the human brain**|Haoyu Lu et.al.|[2208.08263v1](http://arxiv.org/abs/2208.08263v1)|[2208.08263v1](http://arxiv.org/pdf/2208.08263v1)|**[link](https://github.com/rerv/brivl-brain)**|
+|**2022-08-17**|**On the Elements of Datasets for Cyber Physical Systems Security**|Ashraf Tantawy et.al.|[2208.08255v1](http://arxiv.org/abs/2208.08255v1)|[2208.08255v1](http://arxiv.org/pdf/2208.08255v1)|null|
 |**2022-08-16**|**Language-guided Semantic Style Transfer of 3D Indoor Scenes**|Bu Jin et.al.|[2208.07870v1](http://arxiv.org/abs/2208.07870v1)|**[link](https://github.com/air-discover/lasst)**|
 |**2022-08-16**|**A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning**|Laura Smith et.al.|[2208.07860v1](http://arxiv.org/abs/2208.07860v1)|null|
 |**2022-08-16**|**Parallel Hierarchical Transformer with Attention Alignment for Abstractive Multi-Document Summarization**|Ye Ma et.al.|[2208.07845v1](http://arxiv.org/abs/2208.07845v1)|null|
