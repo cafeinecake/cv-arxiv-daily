@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-08-18**|**The Atacama Cosmology Telescope: limits on dark matter-baryon interactions from DR4 power spectra**|Zack Li et.al.|[2208.08985v1](http://arxiv.org/abs/2208.08985v1)|[2208.08985v1](http://arxiv.org/pdf/2208.08985v1)|null|
+|**2022-08-18**|**Repeating Ultraluminous X-ray Bursts and Repeating Fast Radio Bursts: A Possible Association?**|Hao-Yan Chen et.al.|[2208.08972v1](http://arxiv.org/abs/2208.08972v1)|[2208.08972v1](http://arxiv.org/pdf/2208.08972v1)|null|
+|**2022-08-18**|**MHD Simulation of Homologous Eruptions from Solar Active Region 10930 Caused by Sunspot Rotation**|Xinyi Wang et.al.|[2208.08957v1](http://arxiv.org/abs/2208.08957v1)|[2208.08957v1](http://arxiv.org/pdf/2208.08957v1)|null|
+|**2022-08-18**|**The long stare at Hercules X-1 -- I. Emission lines from the outer disk, the magnetosphere boundary and the accretion curtain**|P. Kosec et.al.|[2208.08930v1](http://arxiv.org/abs/2208.08930v1)|[2208.08930v1](http://arxiv.org/pdf/2208.08930v1)|null|
+|**2022-08-18**|**Predictive uncertainty on improved astrophysics recovery from multifield cosmology**|Sambatra Andrianomena et.al.|[2208.08927v1](http://arxiv.org/abs/2208.08927v1)|[2208.08927v1](http://arxiv.org/pdf/2208.08927v1)|null|
+|**2022-08-18**|**L-band nulling interferometry at the VLTI with Asgard/Hi-5: status and plans**|Denis Defrère et.al.|[2208.08908v1](http://arxiv.org/abs/2208.08908v1)|[2208.08908v1](http://arxiv.org/pdf/2208.08908v1)|null|
+|**2022-08-18**|**The Gaia-ESO Survey: Preparing the ground for 4MOST & WEAVE galactic surveys -- Chemical Evolution of Lithium with Machine-Learning**|S. Nepal et.al.|[2208.08874v1](http://arxiv.org/abs/2208.08874v1)|[2208.08874v1](http://arxiv.org/pdf/2208.08874v1)|null|
+|**2022-08-18**|**The Gaia-ESO Survey: Chemical evolution of Mg and Al in the Milky Way with Machine-Learning**|M. Ambrosch et.al.|[2208.08872v1](http://arxiv.org/abs/2208.08872v1)|[2208.08872v1](http://arxiv.org/pdf/2208.08872v1)|null|
+|**2022-08-18**|**Lessons from a Space Lab -- An Image Acquisition Perspective**|Leo Pauly et.al.|[2208.08865v1](http://arxiv.org/abs/2208.08865v1)|[2208.08865v1](http://arxiv.org/pdf/2208.08865v1)|null|
+|**2022-08-18**|**Time-dependent, long-term hydrodynamic simulations of the inner protoplanetary disk II: The importance of stellar rotation**|Lukas Gehrig et.al.|[2208.08852v1](http://arxiv.org/abs/2208.08852v1)|[2208.08852v1](http://arxiv.org/pdf/2208.08852v1)|null|
 |**2022-08-17**|**Galactic contribution to the high-energy neutrino flux found in track-like IceCube events**|Yu. Kovalev et.al.|[2208.08423v1](http://arxiv.org/abs/2208.08423v1)|[2208.08423v1](http://arxiv.org/pdf/2208.08423v1)|null|
 |**2022-08-17**|**Searching for axion-like particles through CMB birefringence from string-wall networks**|Mudit Jain et.al.|[2208.08391v1](http://arxiv.org/abs/2208.08391v1)|[2208.08391v1](http://arxiv.org/pdf/2208.08391v1)|null|
 |**2022-08-17**|**A Multiwavelength view of IC 860: What Is in Action inside Quenching Galaxies**|Yuanze Luo et.al.|[2208.08379v1](http://arxiv.org/abs/2208.08379v1)|[2208.08379v1](http://arxiv.org/pdf/2208.08379v1)|null|
@@ -393,6 +403,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-08-18**|**"Melatonin": A Case Study on AI-induced Musical Style**|Emmanuel Deruty et.al.|[2208.08968v1](http://arxiv.org/abs/2208.08968v1)|[2208.08968v1](http://arxiv.org/pdf/2208.08968v1)|null|
+|**2022-08-18**|**GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement**|Zhi-Qi Cheng et.al.|[2208.08965v1](http://arxiv.org/abs/2208.08965v1)|[2208.08965v1](http://arxiv.org/pdf/2208.08965v1)|null|
+|**2022-08-18**|**KDD CUP 2022 Wind Power Forecasting Team 88VIP Solution**|Fangquan Lin et.al.|[2208.08952v1](http://arxiv.org/abs/2208.08952v1)|[2208.08952v1](http://arxiv.org/pdf/2208.08952v1)|null|
+|**2022-08-18**|**Towards Automated Process Planning and Mining**|Peter Fettke et.al.|[2208.08943v1](http://arxiv.org/abs/2208.08943v1)|[2208.08943v1](http://arxiv.org/pdf/2208.08943v1)|null|
+|**2022-08-18**|**Sequence Prediction Under Missing Data : An RNN Approach Without Imputation**|Soumen Pachal et.al.|[2208.08933v1](http://arxiv.org/abs/2208.08933v1)|[2208.08933v1](http://arxiv.org/pdf/2208.08933v1)|null|
+|**2022-08-18**|**Pixel-Wise Prediction based Visual Odometry via Uncertainty Estimation**|Hao-Wei Chen et.al.|[2208.08892v1](http://arxiv.org/abs/2208.08892v1)|[2208.08892v1](http://arxiv.org/pdf/2208.08892v1)|null|
+|**2022-08-18**|**Robust Artificial Delay based Impedance Control of Robotic Manipulators with Uncertain Dynamics**|Udayan Banerjee et.al.|[2208.08873v1](http://arxiv.org/abs/2208.08873v1)|[2208.08873v1](http://arxiv.org/pdf/2208.08873v1)|null|
+|**2022-08-18**|**CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation**|Jinfeng Zhou et.al.|[2208.08845v1](http://arxiv.org/abs/2208.08845v1)|[2208.08845v1](http://arxiv.org/pdf/2208.08845v1)|null|
+|**2022-08-18**|**Siamese Prototypical Contrastive Learning**|Shentong Mo et.al.|[2208.08819v1](http://arxiv.org/abs/2208.08819v1)|[2208.08819v1](http://arxiv.org/pdf/2208.08819v1)|null|
+|**2022-08-18**|**Exploring Nanofibrous Networks with X-ray Photon Correlation Spectroscopy**|Tomas Rosén et.al.|[2208.08817v1](http://arxiv.org/abs/2208.08817v1)|[2208.08817v1](http://arxiv.org/pdf/2208.08817v1)|null|
 |**2022-08-17**|**Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models**|Yanjun Gao et.al.|[2208.08408v1](http://arxiv.org/abs/2208.08408v1)|[2208.08408v1](http://arxiv.org/pdf/2208.08408v1)|null|
 |**2022-08-17**|**Deep Generative Views to Mitigate Gender Classification Bias Across Gender-Race Groups**|Sreeraj Ramachandran et.al.|[2208.08382v1](http://arxiv.org/abs/2208.08382v1)|[2208.08382v1](http://arxiv.org/pdf/2208.08382v1)|null|
 |**2022-08-17**|**Commander's Intent: A Dataset and Modeling Approach for Human-AI Task Specification in Strategic Play**|Pradyumna Tambwekar et.al.|[2208.08374v1](http://arxiv.org/abs/2208.08374v1)|[2208.08374v1](http://arxiv.org/pdf/2208.08374v1)|null|
