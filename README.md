@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-08-19**|**GJ 1252b: A Hot Terrestrial Super-Earth With No Atmosphere**|Ian J. M. Crossfield et.al.|[2208.09479v1](http://arxiv.org/abs/2208.09479v1)|[2208.09479v1](http://arxiv.org/pdf/2208.09479v1)|null|
+|**2022-08-19**|**The maximum extent of the filaments and sheets in the cosmic web: an analysis of the SDSS DR17**|Prakash Sarkar et.al.|[2208.09472v1](http://arxiv.org/abs/2208.09472v1)|[2208.09472v1](http://arxiv.org/pdf/2208.09472v1)|null|
+|**2022-08-19**|**NGC1818 unveils the origin of the extended main-sequence turn-off in young Magellanic Clouds clusters**|Giacomo Cordoni et.al.|[2208.09467v1](http://arxiv.org/abs/2208.09467v1)|[2208.09467v1](http://arxiv.org/pdf/2208.09467v1)|null|
+|**2022-08-19**|**Rogue planets and brown dwarfs: Predicting the populations free-floating planetary mass objects observable with JWST**|Aleks Scholz et.al.|[2208.09465v1](http://arxiv.org/abs/2208.09465v1)|[2208.09465v1](http://arxiv.org/pdf/2208.09465v1)|null|
+|**2022-08-19**|**Production of PBHs from inflaton structure**|Juan Carlos Hidalgo et.al.|[2208.09462v1](http://arxiv.org/abs/2208.09462v1)|[2208.09462v1](http://arxiv.org/pdf/2208.09462v1)|null|
+|**2022-08-19**|**Is ozone a reliable proxy for molecular oxygen? I. The O2-O3 relationship for Earth-like atmospheres**|Thea Kozakis et.al.|[2208.09415v1](http://arxiv.org/abs/2208.09415v1)|[2208.09415v1](http://arxiv.org/pdf/2208.09415v1)|null|
+|**2022-08-19**|**Boosting through the Darkness**|Debjyoti Bardhan et.al.|[2208.09405v1](http://arxiv.org/abs/2208.09405v1)|[2208.09405v1](http://arxiv.org/pdf/2208.09405v1)|null|
+|**2022-08-19**|**A 0.9% Calibration of the Galactic Cepheid luminosity scale based on Gaia DR3 data of open clusters and Cepheids**|Mauricio Cruz Reyes et.al.|[2208.09403v1](http://arxiv.org/abs/2208.09403v1)|[2208.09403v1](http://arxiv.org/pdf/2208.09403v1)|null|
+|**2022-08-19**|**The complex interplay of AGN jet-inflated bubbles and the intracluster medium**|Filip Huško et.al.|[2208.09393v1](http://arxiv.org/abs/2208.09393v1)|[2208.09393v1](http://arxiv.org/pdf/2208.09393v1)|null|
+|**2022-08-19**|**Studying the variation of fundamental constants at the Cosmic Ray Extremely Distributed Observatory**|D. Alvarez-Castillo et.al.|[2208.09391v1](http://arxiv.org/abs/2208.09391v1)|[2208.09391v1](http://arxiv.org/pdf/2208.09391v1)|null|
 |**2022-08-18**|**The Atacama Cosmology Telescope: limits on dark matter-baryon interactions from DR4 power spectra**|Zack Li et.al.|[2208.08985v1](http://arxiv.org/abs/2208.08985v1)|[2208.08985v1](http://arxiv.org/pdf/2208.08985v1)|null|
 |**2022-08-18**|**Repeating Ultraluminous X-ray Bursts and Repeating Fast Radio Bursts: A Possible Association?**|Hao-Yan Chen et.al.|[2208.08972v1](http://arxiv.org/abs/2208.08972v1)|[2208.08972v1](http://arxiv.org/pdf/2208.08972v1)|null|
 |**2022-08-18**|**MHD Simulation of Homologous Eruptions from Solar Active Region 10930 Caused by Sunspot Rotation**|Xinyi Wang et.al.|[2208.08957v1](http://arxiv.org/abs/2208.08957v1)|[2208.08957v1](http://arxiv.org/pdf/2208.08957v1)|null|
@@ -399,6 +409,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-08-19**|**Carefully choose the baseline: Lessons learned from applying XAI attribution methods for regression tasks in geoscience**|Antonios Mamalakis et.al.|[2208.09473v1](http://arxiv.org/abs/2208.09473v1)|[2208.09473v1](http://arxiv.org/pdf/2208.09473v1)|null|
+|**2022-08-19**|**Feature Selection for Fault Detection and Prediction based on Event Log Analysis**|Zhong Li et.al.|[2208.09440v1](http://arxiv.org/abs/2208.09440v1)|[2208.09440v1](http://arxiv.org/pdf/2208.09440v1)|null|
+|**2022-08-19**|**Curbing Task Interference using Representation Similarity-Guided Multi-Task Feature Sharing**|Naresh Kumar Gurulingan et.al.|[2208.09427v1](http://arxiv.org/abs/2208.09427v1)|[2208.09427v1](http://arxiv.org/pdf/2208.09427v1)|**[link](https://github.com/neurai-lab/progressivedecoderfusion)**|
+|**2022-08-19**|**SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability**|Wei Huang et.al.|[2208.09418v1](http://arxiv.org/abs/2208.09418v1)|[2208.09418v1](http://arxiv.org/pdf/2208.09418v1)|null|
+|**2022-08-19**|**Aspect-based Sentiment Classification with Sequential Cross-modal Semantic Graph**|Yufeng Huang et.al.|[2208.09417v1](http://arxiv.org/abs/2208.09417v1)|[2208.09417v1](http://arxiv.org/pdf/2208.09417v1)|null|
+|**2022-08-19**|**Nonlinear Optical Data Transformer for Machine Learning**|Mustafa Yildirim et.al.|[2208.09398v1](http://arxiv.org/abs/2208.09398v1)|[2208.09398v1](http://arxiv.org/pdf/2208.09398v1)|null|
+|**2022-08-19**|**End-to-end Clinical Event Extraction from Chinese Electronic Health Record**|Wei Feng et.al.|[2208.09354v1](http://arxiv.org/abs/2208.09354v1)|[2208.09354v1](http://arxiv.org/pdf/2208.09354v1)|null|
+|**2022-08-19**|**Positive dependence in qualitative probabilistic networks**|Jack Storror Carter et.al.|[2208.09344v1](http://arxiv.org/abs/2208.09344v1)|[2208.09344v1](http://arxiv.org/pdf/2208.09344v1)|null|
+|**2022-08-19**|**Evaluating Explainability for Graph Neural Networks**|Chirag Agarwal et.al.|[2208.09339v1](http://arxiv.org/abs/2208.09339v1)|[2208.09339v1](http://arxiv.org/pdf/2208.09339v1)|null|
+|**2022-08-19**|**Dispersed Pixel Perturbation-based Imperceptible Backdoor Trigger for Image Classifier Models**|Yulong Wang et.al.|[2208.09336v1](http://arxiv.org/abs/2208.09336v1)|[2208.09336v1](http://arxiv.org/pdf/2208.09336v1)|null|
 |**2022-08-18**|**"Melatonin": A Case Study on AI-induced Musical Style**|Emmanuel Deruty et.al.|[2208.08968v1](http://arxiv.org/abs/2208.08968v1)|[2208.08968v1](http://arxiv.org/pdf/2208.08968v1)|null|
 |**2022-08-18**|**GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement**|Zhi-Qi Cheng et.al.|[2208.08965v1](http://arxiv.org/abs/2208.08965v1)|[2208.08965v1](http://arxiv.org/pdf/2208.08965v1)|null|
 |**2022-08-18**|**KDD CUP 2022 Wind Power Forecasting Team 88VIP Solution**|Fangquan Lin et.al.|[2208.08952v1](http://arxiv.org/abs/2208.08952v1)|[2208.08952v1](http://arxiv.org/pdf/2208.08952v1)|null|
