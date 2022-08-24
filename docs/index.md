@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.08.23
+## Updated on 2022.08.24
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2022-08-22**|**Planck and BICEP/Keck Array 2018 constraints on primordial gravitational waves and perspectives for future B-mode polarization measurements**|Daniela Paoletti et.al.|[2208.10482v1](http://arxiv.org/abs/2208.10482v1)|[2208.10482v1](http://arxiv.org/pdf/2208.10482v1)|null|
-|**2022-08-22**|**Extreme Value Statistics of the Halo and Stellar Mass Distributions at High Redshift: are JWST Results in Tension with ΛCDM?**|Christopher C. Lovell et.al.|[2208.10479v1](http://arxiv.org/abs/2208.10479v1)|[2208.10479v1](http://arxiv.org/pdf/2208.10479v1)|null|
+|**2022-08-22**|**Extreme Value Statistics of the Halo and Stellar Mass Distributions at High Redshift: are JWST Results in Tension with ΛCDM?**|Christopher C. Lovell et.al.|[2208.10479v1](http://arxiv.org/abs/2208.10479v1)|[2208.10479v1](http://arxiv.org/pdf/2208.10479v1)|**[link](https://github.com/christopherlovell/evstats)**|
 |**2022-08-22**|**Star formation at the smallest scales; A JWST study of the clump populations in SMACS0723**|Adélaïde Claeyssens et.al.|[2208.10450v1](http://arxiv.org/abs/2208.10450v1)|[2208.10450v1](http://arxiv.org/pdf/2208.10450v1)|null|
 |**2022-08-22**|**The SpacePy space science package at 12 years**|Jonathan T. Niehof et.al.|[2208.10447v1](http://arxiv.org/abs/2208.10447v1)|[2208.10447v1](http://arxiv.org/pdf/2208.10447v1)|null|
 |**2022-08-22**|**High-order isospin-dependent surface tension contribution to the fourth-order symmetry energy of finite nuclei**|Bao-Jun Cai et.al.|[2208.10438v1](http://arxiv.org/abs/2208.10438v1)|[2208.10438v1](http://arxiv.org/pdf/2208.10438v1)|null|
@@ -432,7 +432,7 @@ layout: default
 |**2022-08-22**|**Patient-level Microsatellite Stability Assessment from Whole Slide Images By Combining Momentum Contrast Learning and Group Patch Embeddings**|Daniel Shats et.al.|[2208.10429v1](http://arxiv.org/abs/2208.10429v1)|[2208.10429v1](http://arxiv.org/pdf/2208.10429v1)|**[link](https://github.com/technioncomputationalmrilab/colorectal_cancer_ai)**|
 |**2022-08-22**|**MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation**|Jianfei Yang et.al.|[2208.10414v1](http://arxiv.org/abs/2208.10414v1)|[2208.10414v1](http://arxiv.org/pdf/2208.10414v1)|null|
 |**2022-08-22**|**On Deep Learning in Password Guessing, a Survey**|Fangyi Yu et.al.|[2208.10413v1](http://arxiv.org/abs/2208.10413v1)|[2208.10413v1](http://arxiv.org/pdf/2208.10413v1)|null|
-|**2022-08-22**|**Constants of motion network**|Muhammad Firmansyah Kasim et.al.|[2208.10387v1](http://arxiv.org/abs/2208.10387v1)|[2208.10387v1](http://arxiv.org/pdf/2208.10387v1)|null|
+|**2022-08-23**|**Constants of motion network**|Muhammad Firmansyah Kasim et.al.|[2208.10387v2](http://arxiv.org/abs/2208.10387v2)|[2208.10387v2](http://arxiv.org/pdf/2208.10387v2)|null|
 |**2022-08-19**|**Carefully choose the baseline: Lessons learned from applying XAI attribution methods for regression tasks in geoscience**|Antonios Mamalakis et.al.|[2208.09473v1](http://arxiv.org/abs/2208.09473v1)|[2208.09473v1](http://arxiv.org/pdf/2208.09473v1)|null|
 |**2022-08-19**|**Feature Selection for Fault Detection and Prediction based on Event Log Analysis**|Zhong Li et.al.|[2208.09440v1](http://arxiv.org/abs/2208.09440v1)|[2208.09440v1](http://arxiv.org/pdf/2208.09440v1)|null|
 |**2022-08-19**|**Curbing Task Interference using Representation Similarity-Guided Multi-Task Feature Sharing**|Naresh Kumar Gurulingan et.al.|[2208.09427v1](http://arxiv.org/abs/2208.09427v1)|[2208.09427v1](http://arxiv.org/pdf/2208.09427v1)|**[link](https://github.com/neurai-lab/progressivedecoderfusion)**|
