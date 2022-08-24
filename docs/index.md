@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-08-23**|**ATLASGAL - Star forming efficiencies and the Galactic star formation rate**|M. R. A. Wells et.al.|[2208.11121v1](http://arxiv.org/abs/2208.11121v1)|[2208.11121v1](http://arxiv.org/pdf/2208.11121v1)|null|
+|**2022-08-23**|**Realisation of the Brazil-nut effect in charged colloids without external driving**|Marjolein N. van der Linden et.al.|[2208.11102v1](http://arxiv.org/abs/2208.11102v1)|[2208.11102v1](http://arxiv.org/pdf/2208.11102v1)|null|
+|**2022-08-23**|**A Two Martian Years Survey of Water Ice Clouds on Mars with ACS onboard TGO**|Aurélien Stcherbinine et.al.|[2208.11100v1](http://arxiv.org/abs/2208.11100v1)|[2208.11100v1](http://arxiv.org/pdf/2208.11100v1)|null|
+|**2022-08-23**|**Quantum gravitational signatures in next-generation gravitational wave detectors**|Saurya Das et.al.|[2208.11095v1](http://arxiv.org/abs/2208.11095v1)|[2208.11095v1](http://arxiv.org/pdf/2208.11095v1)|null|
+|**2022-08-23**|**Theory of solar oscillations in the inertial frequency range: Amplitudes of equatorial modes from a nonlinear rotating convection simulation**|Yuto Bekki et.al.|[2208.11081v1](http://arxiv.org/abs/2208.11081v1)|[2208.11081v1](http://arxiv.org/pdf/2208.11081v1)|null|
+|**2022-08-23**|**Evaluation of the potential of a gamma-ray observatory to detect astrophysical neutrinos through inclined showers**|Jaime Alvarez-Muñiz et.al.|[2208.11072v1](http://arxiv.org/abs/2208.11072v1)|[2208.11072v1](http://arxiv.org/pdf/2208.11072v1)|null|
+|**2022-08-23**|**Nearby galaxies in the LOFAR Two-metre Sky Survey II. The magnetic field-gas relation**|V. Heesen et.al.|[2208.11068v1](http://arxiv.org/abs/2208.11068v1)|[2208.11068v1](http://arxiv.org/pdf/2208.11068v1)|null|
+|**2022-08-23**|**Towards 21-cm Intensity Mapping at $z=2.28$ with uGMRT using the Tapered Gridded Estimator I: Foreground Avoidance**|Srijita Pal et.al.|[2208.11063v1](http://arxiv.org/abs/2208.11063v1)|[2208.11063v1](http://arxiv.org/pdf/2208.11063v1)|null|
+|**2022-08-23**|**Collisional instabilities of neutrinos and their interplay with fast flavor conversion in compact objects**|Lucas Johns et.al.|[2208.11059v1](http://arxiv.org/abs/2208.11059v1)|[2208.11059v1](http://arxiv.org/pdf/2208.11059v1)|null|
+|**2022-08-23**|**Testing the Momentum-driven Supernova Feedback Paradigm in M31**|Sumit K. Sarbadhicary et.al.|[2208.11055v1](http://arxiv.org/abs/2208.11055v1)|[2208.11055v1](http://arxiv.org/pdf/2208.11055v1)|null|
 |**2022-08-22**|**Planck and BICEP/Keck Array 2018 constraints on primordial gravitational waves and perspectives for future B-mode polarization measurements**|Daniela Paoletti et.al.|[2208.10482v1](http://arxiv.org/abs/2208.10482v1)|[2208.10482v1](http://arxiv.org/pdf/2208.10482v1)|null|
 |**2022-08-22**|**Extreme Value Statistics of the Halo and Stellar Mass Distributions at High Redshift: are JWST Results in Tension with ΛCDM?**|Christopher C. Lovell et.al.|[2208.10479v1](http://arxiv.org/abs/2208.10479v1)|[2208.10479v1](http://arxiv.org/pdf/2208.10479v1)|**[link](https://github.com/christopherlovell/evstats)**|
 |**2022-08-22**|**Star formation at the smallest scales; A JWST study of the clump populations in SMACS0723**|Adélaïde Claeyssens et.al.|[2208.10450v1](http://arxiv.org/abs/2208.10450v1)|[2208.10450v1](http://arxiv.org/pdf/2208.10450v1)|null|
@@ -423,6 +433,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-08-23**|**Distance-Aware Occlusion Detection with Focused Attention**|Yang Li et.al.|[2208.11122v1](http://arxiv.org/abs/2208.11122v1)|[2208.11122v1](http://arxiv.org/pdf/2208.11122v1)|**[link](https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention)**|
+|**2022-08-23**|**Magnetic Relaxation of a Voigt-MHD System**|Peter Constantin et.al.|[2208.11109v1](http://arxiv.org/abs/2208.11109v1)|[2208.11109v1](http://arxiv.org/pdf/2208.11109v1)|null|
+|**2022-08-23**|**Dynamic Causal Collaborative Filtering**|Shuyuan Xu et.al.|[2208.11094v1](http://arxiv.org/abs/2208.11094v1)|[2208.11094v1](http://arxiv.org/pdf/2208.11094v1)|null|
+|**2022-08-23**|**Learn Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS)**|Hanxiong Chen et.al.|[2208.11083v1](http://arxiv.org/abs/2208.11083v1)|[2208.11083v1](http://arxiv.org/pdf/2208.11083v1)|null|
+|**2022-08-23**|**SurvSHAP(t): Time-dependent explanations of machine learning survival models**|Mateusz Krzyziński et.al.|[2208.11080v1](http://arxiv.org/abs/2208.11080v1)|[2208.11080v1](http://arxiv.org/pdf/2208.11080v1)|**[link](https://github.com/mi2datalab/survshap)**|
+|**2022-08-23**|**Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**|Hanwen Ren et.al.|[2208.11079v1](http://arxiv.org/abs/2208.11079v1)|[2208.11079v1](http://arxiv.org/pdf/2208.11079v1)|null|
+|**2022-08-23**|**Categoroids: Universal Conditional Independence**|Sridhar Mahadevan et.al.|[2208.11077v1](http://arxiv.org/abs/2208.11077v1)|[2208.11077v1](http://arxiv.org/pdf/2208.11077v1)|null|
+|**2022-08-23**|**DepthFake: a depth-based strategy for detecting Deepfake videos**|Luca Maiano et.al.|[2208.11074v1](http://arxiv.org/abs/2208.11074v1)|[2208.11074v1](http://arxiv.org/pdf/2208.11074v1)|null|
+|**2022-08-23**|**Asynchronous Execution of Heterogeneous Tasks in AI-coupled HPC Workflows**|Vincent R. Pascuzzi et.al.|[2208.11069v1](http://arxiv.org/abs/2208.11069v1)|[2208.11069v1](http://arxiv.org/pdf/2208.11069v1)|null|
+|**2022-08-23**|**Prompting as Probing: Using Language Models for Knowledge Base Construction**|Dimitrios Alivanistos et.al.|[2208.11057v1](http://arxiv.org/abs/2208.11057v1)|[2208.11057v1](http://arxiv.org/pdf/2208.11057v1)|**[link](https://github.com/hemile/iswc-challenge)**|
 |**2022-08-22**|**Prioritizing Samples in Reinforcement Learning with Reducible Loss**|Shivakanth Sujit et.al.|[2208.10483v1](http://arxiv.org/abs/2208.10483v1)|[2208.10483v1](http://arxiv.org/pdf/2208.10483v1)|null|
 |**2022-08-22**|**BARReL: Bottleneck Attention for Adversarial Robustness in Vision-Based Reinforcement Learning**|Eugene Bykovets et.al.|[2208.10481v1](http://arxiv.org/abs/2208.10481v1)|[2208.10481v1](http://arxiv.org/pdf/2208.10481v1)|null|
 |**2022-08-22**|**Automated Pruning of Polyculture Plants**|Mark Presten et.al.|[2208.10472v1](http://arxiv.org/abs/2208.10472v1)|[2208.10472v1](http://arxiv.org/pdf/2208.10472v1)|null|
