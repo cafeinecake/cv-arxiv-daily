@@ -1,4 +1,4 @@
-> Updated on 2022.08.24
+> Updated on 2022.08.25
 
 ## Astrophysics
 
@@ -428,10 +428,10 @@
 - 2022-08-23, **Distance-Aware Occlusion Detection with Focused Attention**, Yang Li et.al., Paper: [http://arxiv.org/abs/2208.11122v1](http://arxiv.org/abs/2208.11122v1),Paper: [http://arxiv.org/abs/2208.11122v1](http://arxiv.org/pdf/2208.11122v1), Code: **[https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention](https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention)**
 - 2022-08-23, **Magnetic Relaxation of a Voigt-MHD System**, Peter Constantin et.al., Paper: [http://arxiv.org/abs/2208.11109v1](http://arxiv.org/abs/2208.11109v1), Paper: [http://arxiv.org/abs/2208.11109v1](http://arxiv.org/pdf/2208.11109v1)
 - 2022-08-23, **Dynamic Causal Collaborative Filtering**, Shuyuan Xu et.al., Paper: [http://arxiv.org/abs/2208.11094v1](http://arxiv.org/abs/2208.11094v1), Paper: [http://arxiv.org/abs/2208.11094v1](http://arxiv.org/pdf/2208.11094v1)
-- 2022-08-23, **Learn Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS)**, Hanxiong Chen et.al., Paper: [http://arxiv.org/abs/2208.11083v1](http://arxiv.org/abs/2208.11083v1), Paper: [http://arxiv.org/abs/2208.11083v1](http://arxiv.org/pdf/2208.11083v1)
+- 2022-08-24, **Learn Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS)**, Hanxiong Chen et.al., Paper: [http://arxiv.org/abs/2208.11083v2](http://arxiv.org/abs/2208.11083v2), Paper: [http://arxiv.org/abs/2208.11083v2](http://arxiv.org/pdf/2208.11083v2)
 - 2022-08-23, **SurvSHAP(t): Time-dependent explanations of machine learning survival models**, Mateusz Krzyziński et.al., Paper: [http://arxiv.org/abs/2208.11080v1](http://arxiv.org/abs/2208.11080v1),Paper: [http://arxiv.org/abs/2208.11080v1](http://arxiv.org/pdf/2208.11080v1), Code: **[https://github.com/mi2datalab/survshap](https://github.com/mi2datalab/survshap)**
-- 2022-08-23, **Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**, Hanwen Ren et.al., Paper: [http://arxiv.org/abs/2208.11079v1](http://arxiv.org/abs/2208.11079v1), Paper: [http://arxiv.org/abs/2208.11079v1](http://arxiv.org/pdf/2208.11079v1)
-- 2022-08-23, **Categoroids: Universal Conditional Independence**, Sridhar Mahadevan et.al., Paper: [http://arxiv.org/abs/2208.11077v1](http://arxiv.org/abs/2208.11077v1), Paper: [http://arxiv.org/abs/2208.11077v1](http://arxiv.org/pdf/2208.11077v1)
+- 2022-08-24, **Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**, Hanwen Ren et.al., Paper: [http://arxiv.org/abs/2208.11079v2](http://arxiv.org/abs/2208.11079v2), Paper: [http://arxiv.org/abs/2208.11079v2](http://arxiv.org/pdf/2208.11079v2)
+- 2022-08-24, **Categoroids: Universal Conditional Independence**, Sridhar Mahadevan et.al., Paper: [http://arxiv.org/abs/2208.11077v2](http://arxiv.org/abs/2208.11077v2), Paper: [http://arxiv.org/abs/2208.11077v2](http://arxiv.org/pdf/2208.11077v2)
 - 2022-08-23, **DepthFake: a depth-based strategy for detecting Deepfake videos**, Luca Maiano et.al., Paper: [http://arxiv.org/abs/2208.11074v1](http://arxiv.org/abs/2208.11074v1), Paper: [http://arxiv.org/abs/2208.11074v1](http://arxiv.org/pdf/2208.11074v1)
 - 2022-08-23, **Asynchronous Execution of Heterogeneous Tasks in AI-coupled HPC Workflows**, Vincent R. Pascuzzi et.al., Paper: [http://arxiv.org/abs/2208.11069v1](http://arxiv.org/abs/2208.11069v1), Paper: [http://arxiv.org/abs/2208.11069v1](http://arxiv.org/pdf/2208.11069v1)
 - 2022-08-23, **Prompting as Probing: Using Language Models for Knowledge Base Construction**, Dimitrios Alivanistos et.al., Paper: [http://arxiv.org/abs/2208.11057v1](http://arxiv.org/abs/2208.11057v1),Paper: [http://arxiv.org/abs/2208.11057v1](http://arxiv.org/pdf/2208.11057v1), Code: **[https://github.com/hemile/iswc-challenge](https://github.com/hemile/iswc-challenge)**
