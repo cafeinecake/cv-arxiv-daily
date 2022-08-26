@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-08-25**|**LIDA - The Leiden Ice Database for Astrochemistry**|W. R. M. Rocha et.al.|[2208.12211v1](http://arxiv.org/abs/2208.12211v1)|[2208.12211v1](http://arxiv.org/pdf/2208.12211v1)|null|
+|**2022-08-25**|**Dropouts of Fully Stripped Ions in the Solar Wind: A Diagnostic for Wave Heating versus Reconnection**|John C. Raymond et.al.|[2208.12193v1](http://arxiv.org/abs/2208.12193v1)|[2208.12193v1](http://arxiv.org/pdf/2208.12193v1)|null|
+|**2022-08-25**|**Comparing Reflection and Absorption Models for the Soft X-ray Variability in the NLS1 AGN UGC 11763**|Jiachen Jiang et.al.|[2208.12177v1](http://arxiv.org/abs/2208.12177v1)|[2208.12177v1](http://arxiv.org/pdf/2208.12177v1)|null|
+|**2022-08-25**|**Gradient corrections to the one-loop effective action**|Sofia Canevarolo et.al.|[2208.12142v1](http://arxiv.org/abs/2208.12142v1)|[2208.12142v1](http://arxiv.org/pdf/2208.12142v1)|null|
+|**2022-08-25**|**The prolific thermonuclear X-ray bursts from the outburst of the newly discovered millisecond pulsar MAXI~J1816--195 observed by Insight-HXMT and NICER**|Chen Yu-Peng et.al.|[2208.12124v1](http://arxiv.org/abs/2208.12124v1)|[2208.12124v1](http://arxiv.org/pdf/2208.12124v1)|null|
+|**2022-08-25**|**A Mass-Magnitude Relation for Low-mass Stars Based on Dynamical Measurements of Thousands of Binary Star Systems**|Mark R. Giovinazzi et.al.|[2208.12112v1](http://arxiv.org/abs/2208.12112v1)|[2208.12112v1](http://arxiv.org/pdf/2208.12112v1)|null|
+|**2022-08-25**|**Primordial Dusty Rings and Episodic Outbursts in Protoplanetary Discs**|Kundan Kadam et.al.|[2208.12105v1](http://arxiv.org/abs/2208.12105v1)|[2208.12105v1](http://arxiv.org/pdf/2208.12105v1)|null|
+|**2022-08-25**|**Long-term forcing of Sun's coronal field, open flux and cosmic ray modulation potential during grand minima, maxima and regular activity phases by the solar dynamo mechanism**|Soumyaranjan Dash et.al.|[2208.12103v1](http://arxiv.org/abs/2208.12103v1)|[2208.12103v1](http://arxiv.org/pdf/2208.12103v1)|null|
+|**2022-08-25**|**WISE/NEOWISE Multi-Epoch Imaging of the Potentially Geminid-related Asteroids: (3200) Phaethon, 2005 UD and 1999 YC**|Toshihiro Kasuga et.al.|[2208.12089v1](http://arxiv.org/abs/2208.12089v1)|[2208.12089v1](http://arxiv.org/pdf/2208.12089v1)|null|
+|**2022-08-25**|**Two-dimensional particle simulation of the boundary between a hot pair plasma and magnetized electrons and protons: out-of-plane magnetic field**|M E Dieckmann et.al.|[2208.12075v1](http://arxiv.org/abs/2208.12075v1)|[2208.12075v1](http://arxiv.org/pdf/2208.12075v1)|null|
 |**2022-08-24**|**Gravitational waves from bubble collisions and fluid motion in strongly supercooled phase transitions**|Marek Lewicki et.al.|[2208.11697v1](http://arxiv.org/abs/2208.11697v1)|[2208.11697v1](http://arxiv.org/pdf/2208.11697v1)|null|
 |**2022-08-24**|**Identification of carbon dioxide in an exoplanet atmosphere**|The JWST Transiting Exoplanet Community Early Release Science Team et.al.|[2208.11692v1](http://arxiv.org/abs/2208.11692v1)|[2208.11692v1](http://arxiv.org/pdf/2208.11692v1)|null|
 |**2022-08-24**|**Limits on the nuclearite flux using the ANTARES neutrino telescope**|ANTARES Collaboration et.al.|[2208.11689v1](http://arxiv.org/abs/2208.11689v1)|[2208.11689v1](http://arxiv.org/pdf/2208.11689v1)|null|
@@ -443,6 +453,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-08-25**|**Supervised Contrastive Learning for Affect Modelling**|Kosmas Pinitas et.al.|[2208.12238v1](http://arxiv.org/abs/2208.12238v1)|[2208.12238v1](http://arxiv.org/pdf/2208.12238v1)|**[link](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**|
+|**2022-08-25**|**Learning Relational Causal Models with Cycles through Relational Acyclification**|Ragib Ahsan et.al.|[2208.12210v1](http://arxiv.org/abs/2208.12210v1)|[2208.12210v1](http://arxiv.org/pdf/2208.12210v1)|null|
+|**2022-08-25**|**Automating UAV Flight Readiness Approval using Goal-Directed Answer Set Programming**|Sarat Chandra Varanasi et.al.|[2208.12199v1](http://arxiv.org/abs/2208.12199v1)|[2208.12199v1](http://arxiv.org/pdf/2208.12199v1)|null|
+|**2022-08-25**|**Anytime-Lidar: Deadline-aware 3D Object Detection**|Ahmet Soyyigit et.al.|[2208.12181v1](http://arxiv.org/abs/2208.12181v1)|[2208.12181v1](http://arxiv.org/pdf/2208.12181v1)|null|
+|**2022-08-25**|**Compositional Active Inference II: Polynomial Dynamics. Approximate Inference Doctrines**|Toby St. Clere Smithe et.al.|[2208.12173v1](http://arxiv.org/abs/2208.12173v1)|[2208.12173v1](http://arxiv.org/pdf/2208.12173v1)|null|
+|**2022-08-25**|**Image Based Food Energy Estimation With Depth Domain Adaptation**|Gautham Vinod et.al.|[2208.12153v1](http://arxiv.org/abs/2208.12153v1)|[2208.12153v1](http://arxiv.org/pdf/2208.12153v1)|null|
+|**2022-08-25**|**The ReprGesture entry to the GENEA Challenge 2022**|Sicheng Yang et.al.|[2208.12133v1](http://arxiv.org/abs/2208.12133v1)|[2208.12133v1](http://arxiv.org/pdf/2208.12133v1)|**[link](https://github.com/YoungSeng/ReprGesture)**|
+|**2022-08-25**|**Towards Benchmarking Explainable Artificial Intelligence Methods**|Lars Holmberg et.al.|[2208.12120v1](http://arxiv.org/abs/2208.12120v1)|[2208.12120v1](http://arxiv.org/pdf/2208.12120v1)|null|
+|**2022-08-25**|**A Study on Broadcast Networks for Music Genre Classification**|Ahmed Heakl et.al.|[2208.12086v1](http://arxiv.org/abs/2208.12086v1)|[2208.12086v1](http://arxiv.org/pdf/2208.12086v1)|null|
+|**2022-08-25**|**Kencorpus: A Kenyan Language Corpus of Swahili, Dholuo and Luhya for Natural Language Processing Tasks**|Barack Wanjawa et.al.|[2208.12081v1](http://arxiv.org/abs/2208.12081v1)|[2208.12081v1](http://arxiv.org/pdf/2208.12081v1)|null|
 |**2022-08-24**|**Bugs in the Data: How ImageNet Misrepresents Biodiversity**|Alexandra Sasha Luccioni et.al.|[2208.11695v1](http://arxiv.org/abs/2208.11695v1)|[2208.11695v1](http://arxiv.org/pdf/2208.11695v1)|**[link](https://github.com/rolnicklab/imagenetbiodiversity)**|
 |**2022-08-24**|**AGO-Net: Association-Guided 3D Point Cloud Object Detection Network**|Liang Du et.al.|[2208.11658v1](http://arxiv.org/abs/2208.11658v1)|[2208.11658v1](http://arxiv.org/pdf/2208.11658v1)|null|
 |**2022-08-24**|**Constraint-driven multi-task learning**|Bogdan Cretu et.al.|[2208.11656v1](http://arxiv.org/abs/2208.11656v1)|[2208.11656v1](http://arxiv.org/pdf/2208.11656v1)|null|
