@@ -454,7 +454,7 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2022-08-25**|**Supervised Contrastive Learning for Affect Modelling**|Kosmas Pinitas et.al.|[2208.12238v1](http://arxiv.org/abs/2208.12238v1)|[2208.12238v1](http://arxiv.org/pdf/2208.12238v1)|**[link](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**|
-|**2022-08-25**|**Learning Relational Causal Models with Cycles through Relational Acyclification**|Ragib Ahsan et.al.|[2208.12210v1](http://arxiv.org/abs/2208.12210v1)|[2208.12210v1](http://arxiv.org/pdf/2208.12210v1)|null|
+|**2022-08-25**|**Learning Relational Causal Models with Cycles through Relational Acyclification**|Ragib Ahsan et.al.|[2208.12210v1](http://arxiv.org/abs/2208.12210v1)|[2208.12210v1](http://arxiv.org/pdf/2208.12210v1)|**[link](https://github.com/edgeslab/srcd)**|
 |**2022-08-25**|**Automating UAV Flight Readiness Approval using Goal-Directed Answer Set Programming**|Sarat Chandra Varanasi et.al.|[2208.12199v1](http://arxiv.org/abs/2208.12199v1)|[2208.12199v1](http://arxiv.org/pdf/2208.12199v1)|null|
 |**2022-08-25**|**Anytime-Lidar: Deadline-aware 3D Object Detection**|Ahmet Soyyigit et.al.|[2208.12181v1](http://arxiv.org/abs/2208.12181v1)|[2208.12181v1](http://arxiv.org/pdf/2208.12181v1)|null|
 |**2022-08-25**|**Compositional Active Inference II: Polynomial Dynamics. Approximate Inference Doctrines**|Toby St. Clere Smithe et.al.|[2208.12173v1](http://arxiv.org/abs/2208.12173v1)|[2208.12173v1](http://arxiv.org/pdf/2208.12173v1)|null|
