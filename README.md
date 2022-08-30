@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-08-29**|**Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA**|Theo J. O'Neill et.al.|[2208.13768v1](http://arxiv.org/abs/2208.13768v1)|[2208.13768v1](http://arxiv.org/pdf/2208.13768v1)|null|
+|**2022-08-29**|**TAIGA -- an advanced hybrid detector complex for astroparticle physics and high energy gamma-ray astronomy**|N. M. Budnev et.al.|[2208.13757v1](http://arxiv.org/abs/2208.13757v1)|[2208.13757v1](http://arxiv.org/pdf/2208.13757v1)|null|
+|**2022-08-29**|**Rapid Blue- and Red-shifted Excursions in H$α$ line profiles synthesized from realistic 3D MHD simulations**|S. Danilovic et.al.|[2208.13749v1](http://arxiv.org/abs/2208.13749v1)|[2208.13749v1](http://arxiv.org/pdf/2208.13749v1)|null|
+|**2022-08-29**|**Light dark matter around 100 GeV from the inert doublet model**|Shehu AbdusSalam et.al.|[2208.13705v1](http://arxiv.org/abs/2208.13705v1)|[2208.13705v1](http://arxiv.org/pdf/2208.13705v1)|null|
+|**2022-08-29**|**Constraints on the transition redshift from the calibrated Gamma-ray Burst $E_{\rm p}$-$E_{\rm iso}$ correlation**|Marco Muccino et.al.|[2208.13700v1](http://arxiv.org/abs/2208.13700v1)|[2208.13700v1](http://arxiv.org/pdf/2208.13700v1)|null|
+|**2022-08-29**|**DM-power: an algorithm for high precision dispersion measure with application to fast radio bursts**|Hsiu-Hsien Lin et.al.|[2208.13677v1](http://arxiv.org/abs/2208.13677v1)|[2208.13677v1](http://arxiv.org/pdf/2208.13677v1)|null|
+|**2022-08-29**|**Errors When Constraining Hot Blackbody Parameters with Optical Photometry**|Iair Arcavi et.al.|[2208.13674v1](http://arxiv.org/abs/2208.13674v1)|[2208.13674v1](http://arxiv.org/pdf/2208.13674v1)|null|
+|**2022-08-29**|**Interferometric imaging, and beam-formed study of a moving Type IV Radio burst with LOFAR**|Hongyu Liu et.al.|[2208.13670v1](http://arxiv.org/abs/2208.13670v1)|[2208.13670v1](http://arxiv.org/pdf/2208.13670v1)|null|
+|**2022-08-29**|**Comparing the Performance of a Solar Wind model from the Sun to 1 AU using Real and Synthetic Magnetograms**|Kalpa Henadhira Arachchige et.al.|[2208.13668v1](http://arxiv.org/abs/2208.13668v1)|[2208.13668v1](http://arxiv.org/pdf/2208.13668v1)|null|
+|**2022-08-29**|**Pixel centroid characterization with laser speckle and application to the Nancy Grace Roman Space Telescope detector arrays**|Christopher M. Hirata et.al.|[2208.13665v1](http://arxiv.org/abs/2208.13665v1)|[2208.13665v1](http://arxiv.org/pdf/2208.13665v1)|null|
 |**2022-08-26**|**Propagation of Alfvén waves in the charge starvation regime**|Pawan Kumar et.al.|[2208.12806v1](http://arxiv.org/abs/2208.12806v1)|[2208.12806v1](http://arxiv.org/pdf/2208.12806v1)|null|
 |**2022-08-26**|**The magnetic field environment of active region 12673 that produced the energetic particle events of September 2017**|Stephanie L. Yardley et.al.|[2208.12774v1](http://arxiv.org/abs/2208.12774v1)|[2208.12774v1](http://arxiv.org/pdf/2208.12774v1)|null|
 |**2022-08-26**|**The SVOM/ECLAIRs image trigger with wavelet-based background correction optimised with a one-year simulation of observations**|N. Dagoneau et.al.|[2208.12767v1](http://arxiv.org/abs/2208.12767v1)|[2208.12767v1](http://arxiv.org/pdf/2208.12767v1)|null|
@@ -459,6 +469,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-08-29**|**Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis**|Wan-Cyuan Fan et.al.|[2208.13753v1](http://arxiv.org/abs/2208.13753v1)|[2208.13753v1](http://arxiv.org/pdf/2208.13753v1)|null|
+|**2022-08-29**|**Bayesian Continual Learning via Spiking Neural Networks**|Nicolas Skatchkovsky et.al.|[2208.13723v1](http://arxiv.org/abs/2208.13723v1)|[2208.13723v1](http://arxiv.org/pdf/2208.13723v1)|null|
+|**2022-08-29**|**Categorical semantics of compositional reinforcement learning**|Georgios Bakirtzis et.al.|[2208.13687v1](http://arxiv.org/abs/2208.13687v1)|[2208.13687v1](http://arxiv.org/pdf/2208.13687v1)|null|
+|**2022-08-29**|**Pixel centroid characterization with laser speckle and application to the Nancy Grace Roman Space Telescope detector arrays**|Christopher M. Hirata et.al.|[2208.13665v1](http://arxiv.org/abs/2208.13665v1)|[2208.13665v1](http://arxiv.org/pdf/2208.13665v1)|null|
+|**2022-08-29**|**Understanding the Limits of Poisoning Attacks in Episodic Reinforcement Learning**|Anshuka Rangi et.al.|[2208.13663v1](http://arxiv.org/abs/2208.13663v1)|[2208.13663v1](http://arxiv.org/pdf/2208.13663v1)|null|
+|**2022-08-29**|**Large-scale photonic natural language processing**|Carlo Michele Valensise et.al.|[2208.13649v1](http://arxiv.org/abs/2208.13649v1)|[2208.13649v1](http://arxiv.org/pdf/2208.13649v1)|null|
+|**2022-08-29**|**A systematic review of research on the use and impact of technology for learning Chinese**|Angelina Maksimova et.al.|[2208.13630v1](http://arxiv.org/abs/2208.13630v1)|[2208.13630v1](http://arxiv.org/pdf/2208.13630v1)|null|
+|**2022-08-29**|**Chosen methods of improving object recognition of small objects with weak recognizable features**|Magdalena Stachoń et.al.|[2208.13591v1](http://arxiv.org/abs/2208.13591v1)|[2208.13591v1](http://arxiv.org/pdf/2208.13591v1)|null|
+|**2022-08-29**|**Bayesian inference of real-time dynamics from lattice QCD**|Alexander Rothkopf et.al.|[2208.13590v1](http://arxiv.org/abs/2208.13590v1)|[2208.13590v1](http://arxiv.org/pdf/2208.13590v1)|null|
+|**2022-08-29**|**Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel Transformer Architectures**|Lars Ødegaard Bentsen et.al.|[2208.13585v1](http://arxiv.org/abs/2208.13585v1)|[2208.13585v1](http://arxiv.org/pdf/2208.13585v1)|null|
 |**2022-08-29**|**Algebraically Explainable Controllers: Decision Trees and Support Vector Machines Join Forces**|Florian Jüngermann et.al.|[2208.12804v2](http://arxiv.org/abs/2208.12804v2)|[2208.12804v2](http://arxiv.org/pdf/2208.12804v2)|null|
 |**2022-08-26**|**Learning and Compositionality: a Unification Attempt via Connectionist Probabilistic Programming**|Ximing Qiao et.al.|[2208.12789v1](http://arxiv.org/abs/2208.12789v1)|[2208.12789v1](http://arxiv.org/pdf/2208.12789v1)|null|
 |**2022-08-26**|**Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning**|Cephas Samende et.al.|[2208.12779v1](http://arxiv.org/abs/2208.12779v1)|[2208.12779v1](http://arxiv.org/pdf/2208.12779v1)|null|
