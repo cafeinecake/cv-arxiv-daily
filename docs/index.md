@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.29
+## Updated on 2022.08.30
 
 ## Astrophysics
 
@@ -13,7 +13,7 @@ layout: default
 |**2022-08-26**|**The SVOM/ECLAIRs image trigger with wavelet-based background correction optimised with a one-year simulation of observations**|N. Dagoneau et.al.|[2208.12767v1](http://arxiv.org/abs/2208.12767v1)|[2208.12767v1](http://arxiv.org/pdf/2208.12767v1)|null|
 |**2022-08-26**|**Ices in planet-forming disks: Self-consistent ice opacities in disk models**|Aditya M. Arabhavi et.al.|[2208.12739v1](http://arxiv.org/abs/2208.12739v1)|[2208.12739v1](http://arxiv.org/pdf/2208.12739v1)|null|
 |**2022-08-26**|**Trumpler 16-26: A New Centrifugal Magnetosphere Discovered via SDSS/APOGEE H-band Spectroscopy**|S. Drew Chojnowski et.al.|[2208.12722v1](http://arxiv.org/abs/2208.12722v1)|[2208.12722v1](http://arxiv.org/pdf/2208.12722v1)|null|
-|**2022-08-26**|**3-D selection of 167 sub-stellar companions to nearby stars**|Fabo Feng et.al.|[2208.12720v1](http://arxiv.org/abs/2208.12720v1)|[2208.12720v1](http://arxiv.org/pdf/2208.12720v1)|null|
+|**2022-08-29**|**3-D selection of 167 sub-stellar companions to nearby stars**|Fabo Feng et.al.|[2208.12720v2](http://arxiv.org/abs/2208.12720v2)|[2208.12720v2](http://arxiv.org/pdf/2208.12720v2)|null|
 |**2022-08-26**|**Improving Black Hole Accretion Treatment in Hydrodynamical Simulations**|Matas Tartėnas et.al.|[2208.12692v1](http://arxiv.org/abs/2208.12692v1)|[2208.12692v1](http://arxiv.org/pdf/2208.12692v1)|null|
 |**2022-08-26**|**The In-Flight Noise Performance of the JWST/NIRSpec Detector System**|Stephan M. Birkmann et.al.|[2208.12686v1](http://arxiv.org/abs/2208.12686v1)|[2208.12686v1](http://arxiv.org/pdf/2208.12686v1)|null|
 |**2022-08-26**|**Evidence for an interaction between the Galactic Center clouds M0.10-0.08 and M0.11-0.11**|Natalie O. Butterfield et.al.|[2208.12679v1](http://arxiv.org/abs/2208.12679v1)|[2208.12679v1](http://arxiv.org/pdf/2208.12679v1)|null|
@@ -463,7 +463,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2022-08-26**|**Algebraically Explainable Controllers: Decision Trees and Support Vector Machines Join Forces**|Florian Jüngermann et.al.|[2208.12804v1](http://arxiv.org/abs/2208.12804v1)|[2208.12804v1](http://arxiv.org/pdf/2208.12804v1)|null|
+|**2022-08-29**|**Algebraically Explainable Controllers: Decision Trees and Support Vector Machines Join Forces**|Florian Jüngermann et.al.|[2208.12804v2](http://arxiv.org/abs/2208.12804v2)|[2208.12804v2](http://arxiv.org/pdf/2208.12804v2)|null|
 |**2022-08-26**|**Learning and Compositionality: a Unification Attempt via Connectionist Probabilistic Programming**|Ximing Qiao et.al.|[2208.12789v1](http://arxiv.org/abs/2208.12789v1)|[2208.12789v1](http://arxiv.org/pdf/2208.12789v1)|null|
 |**2022-08-26**|**Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning**|Cephas Samende et.al.|[2208.12779v1](http://arxiv.org/abs/2208.12779v1)|[2208.12779v1](http://arxiv.org/pdf/2208.12779v1)|null|
 |**2022-08-26**|**Prospect Theory-inspired Automated P2P Energy Trading with Q-learning-based Dynamic Pricing**|Ashutosh Timilsina et.al.|[2208.12777v1](http://arxiv.org/abs/2208.12777v1)|[2208.12777v1](http://arxiv.org/pdf/2208.12777v1)|null|
@@ -472,7 +472,7 @@ layout: default
 |**2022-08-26**|**Comparing Apples to Oranges: Learning Similarity Functions for Data Produced by Different Distributions**|Leonidas Tsepenekas et.al.|[2208.12731v1](http://arxiv.org/abs/2208.12731v1)|[2208.12731v1](http://arxiv.org/pdf/2208.12731v1)|null|
 |**2022-08-26**|**A Formal Comparison between Datalog-based Languages for Stream Reasoning (extended version)**|Nicola Leone et.al.|[2208.12726v1](http://arxiv.org/abs/2208.12726v1)|[2208.12726v1](http://arxiv.org/pdf/2208.12726v1)|null|
 |**2022-08-26**|**Intrinsic shear transformations in metallic glasses**|Zhen Zhang et.al.|[2208.12661v1](http://arxiv.org/abs/2208.12661v1)|[2208.12661v1](http://arxiv.org/pdf/2208.12661v1)|null|
-|**2022-08-26**|**Symbolic Explanation of Affinity-Based Reinforcement Learning Agents with Markov Models**|Charl Maree et.al.|[2208.12627v1](http://arxiv.org/abs/2208.12627v1)|[2208.12627v1](http://arxiv.org/pdf/2208.12627v1)|null|
+|**2022-08-29**|**Symbolic Explanation of Affinity-Based Reinforcement Learning Agents with Markov Models**|Charl Maree et.al.|[2208.12627v2](http://arxiv.org/abs/2208.12627v2)|[2208.12627v2](http://arxiv.org/pdf/2208.12627v2)|null|
 |**2022-08-25**|**Supervised Contrastive Learning for Affect Modelling**|Kosmas Pinitas et.al.|[2208.12238v1](http://arxiv.org/abs/2208.12238v1)|[2208.12238v1](http://arxiv.org/pdf/2208.12238v1)|**[link](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**|
 |**2022-08-26**|**Learning Relational Causal Models with Cycles through Relational Acyclification**|Ragib Ahsan et.al.|[2208.12210v2](http://arxiv.org/abs/2208.12210v2)|[2208.12210v2](http://arxiv.org/pdf/2208.12210v2)|**[link](https://github.com/edgeslab/srcd)**|
 |**2022-08-25**|**Automating UAV Flight Readiness Approval using Goal-Directed Answer Set Programming**|Sarat Chandra Varanasi et.al.|[2208.12199v1](http://arxiv.org/abs/2208.12199v1)|[2208.12199v1](http://arxiv.org/pdf/2208.12199v1)|null|
