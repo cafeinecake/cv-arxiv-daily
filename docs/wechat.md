@@ -1,9 +1,9 @@
-> Updated on 2022.08.30
+> Updated on 2022.08.31
 
 ## Astrophysics
 
 - 2022-08-29, **Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA**, Theo J. O'Neill et.al., Paper: [http://arxiv.org/abs/2208.13768v1](http://arxiv.org/abs/2208.13768v1), Paper: [http://arxiv.org/abs/2208.13768v1](http://arxiv.org/pdf/2208.13768v1)
-- 2022-08-29, **TAIGA -- an advanced hybrid detector complex for astroparticle physics and high energy gamma-ray astronomy**, N. M. Budnev et.al., Paper: [http://arxiv.org/abs/2208.13757v1](http://arxiv.org/abs/2208.13757v1), Paper: [http://arxiv.org/abs/2208.13757v1](http://arxiv.org/pdf/2208.13757v1)
+- 2022-08-30, **TAIGA -- an advanced hybrid detector complex for astroparticle physics and high energy gamma-ray astronomy**, N. M. Budnev et.al., Paper: [http://arxiv.org/abs/2208.13757v2](http://arxiv.org/abs/2208.13757v2), Paper: [http://arxiv.org/abs/2208.13757v2](http://arxiv.org/pdf/2208.13757v2)
 - 2022-08-29, **Rapid Blue- and Red-shifted Excursions in H$α$ line profiles synthesized from realistic 3D MHD simulations**, S. Danilovic et.al., Paper: [http://arxiv.org/abs/2208.13749v1](http://arxiv.org/abs/2208.13749v1), Paper: [http://arxiv.org/abs/2208.13749v1](http://arxiv.org/pdf/2208.13749v1)
 - 2022-08-29, **Light dark matter around 100 GeV from the inert doublet model**, Shehu AbdusSalam et.al., Paper: [http://arxiv.org/abs/2208.13705v1](http://arxiv.org/abs/2208.13705v1), Paper: [http://arxiv.org/abs/2208.13705v1](http://arxiv.org/pdf/2208.13705v1)
 - 2022-08-29, **Constraints on the transition redshift from the calibrated Gamma-ray Burst $E_{\rm p}$-$E_{\rm iso}$ correlation**, Marco Muccino et.al., Paper: [http://arxiv.org/abs/2208.13700v1](http://arxiv.org/abs/2208.13700v1), Paper: [http://arxiv.org/abs/2208.13700v1](http://arxiv.org/pdf/2208.13700v1)
