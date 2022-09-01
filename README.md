@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-08-31**|**Insights on the origin of ORCs from cosmological simulations**|Klaus Dolag et.al.|[2208.15003v1](http://arxiv.org/abs/2208.15003v1)|[2208.15003v1](http://arxiv.org/pdf/2208.15003v1)|null|
+|**2022-08-31**|**A comprehensive analysis of the compact phase space for Hu-Sawicki $f(R)$ dark energy models including spatial curvature**|Kelly MacDevette et.al.|[2208.15002v1](http://arxiv.org/abs/2208.15002v1)|[2208.15002v1](http://arxiv.org/pdf/2208.15002v1)|null|
+|**2022-08-31**|**A JWST/NIRCam Study of Key Contributors to Reionization: The Star-forming and Ionizing Properties of UV-faint $z\sim7-8$ Galaxies**|Ryan Endsley et.al.|[2208.14999v1](http://arxiv.org/abs/2208.14999v1)|[2208.14999v1](http://arxiv.org/pdf/2208.14999v1)|null|
+|**2022-08-31**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v1](http://arxiv.org/abs/2208.14990v1)|[2208.14990v1](http://arxiv.org/pdf/2208.14990v1)|null|
+|**2022-08-31**|**CMB lensing with shear-only reconstruction on the full sky**|Frank J. Qu et.al.|[2208.14988v1](http://arxiv.org/abs/2208.14988v1)|[2208.14988v1](http://arxiv.org/pdf/2208.14988v1)|null|
+|**2022-08-31**|**Primordial black holes and gravitational waves from dissipation during inflation**|Guillermo Ballesteros et.al.|[2208.14978v1](http://arxiv.org/abs/2208.14978v1)|[2208.14978v1](http://arxiv.org/pdf/2208.14978v1)|null|
+|**2022-08-31**|**Full spectrum fitting with photometry in ppxf: non-parametric star formation history, metallicity and the quenching boundary from 3200 LEGA-C galaxies at redshift z~0.8**|Michele Cappellari et.al.|[2208.14974v1](http://arxiv.org/abs/2208.14974v1)|[2208.14974v1](http://arxiv.org/pdf/2208.14974v1)|null|
+|**2022-08-31**|**Implications of Jupiter Inward Gas-Driven Migration for the Inner Solar System**|Rogerio Deienno et.al.|[2208.14970v1](http://arxiv.org/abs/2208.14970v1)|[2208.14970v1](http://arxiv.org/pdf/2208.14970v1)|null|
+|**2022-08-31**|**Magnetic signatures on mixed-mode frequencies. II. Period spacings as a probe of the internal magnetism of red giants**|L. Bugnet et.al.|[2208.14954v1](http://arxiv.org/abs/2208.14954v1)|[2208.14954v1](http://arxiv.org/pdf/2208.14954v1)|null|
+|**2022-08-31**|**The EDGE-CALIFA survey: the role of spiral arms and bars in driving central molecular gas concentrations**|Si-Yue Yu et.al.|[2208.14950v1](http://arxiv.org/abs/2208.14950v1)|[2208.14950v1](http://arxiv.org/pdf/2208.14950v1)|null|
 |**2022-08-30**|**Hyperon bulk viscosity and $r$-modes of neutron stars**|O. P. Jyothilakshmi et.al.|[2208.14436v1](http://arxiv.org/abs/2208.14436v1)|[2208.14436v1](http://arxiv.org/pdf/2208.14436v1)|null|
 |**2022-08-30**|**Early versus Phantom Dark Energy, Self-Interacting, Extra, or Massive Neutrinos, Primordial Magnetic Fields, or a Curved Universe: An Exploration of Possible Solutions to the $H_0$ and $σ_8$ Problems**|Helena García Escudero et.al.|[2208.14435v1](http://arxiv.org/abs/2208.14435v1)|[2208.14435v1](http://arxiv.org/pdf/2208.14435v1)|null|
 |**2022-08-30**|**Bayesian parameter estimation for targeted anisotropic gravitational-wave background**|Leo Tsukada et.al.|[2208.14421v1](http://arxiv.org/abs/2208.14421v1)|[2208.14421v1](http://arxiv.org/pdf/2208.14421v1)|null|
@@ -479,6 +489,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-08-31**|**Artificial non-Abelian lattice gauge fields for photons in the synthetic frequency dimension**|Dali Cheng et.al.|[2208.14967v1](http://arxiv.org/abs/2208.14967v1)|[2208.14967v1](http://arxiv.org/pdf/2208.14967v1)|null|
+|**2022-08-31**|**A Realism Metric for Generated LiDAR Point Clouds**|Larissa T. Triess et.al.|[2208.14958v1](http://arxiv.org/abs/2208.14958v1)|[2208.14958v1](http://arxiv.org/pdf/2208.14958v1)|null|
+|**2022-08-31**|**Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research**|Zhibo Zhang et.al.|[2208.14937v1](http://arxiv.org/abs/2208.14937v1)|[2208.14937v1](http://arxiv.org/pdf/2208.14937v1)|null|
+|**2022-08-31**|**Cell-Free Latent Go-Explore**|Quentin Gallouédec et.al.|[2208.14928v1](http://arxiv.org/abs/2208.14928v1)|[2208.14928v1](http://arxiv.org/pdf/2208.14928v1)|**[link](https://github.com/qgallouedec/lge)**|
+|**2022-08-31**|**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**|Jihye Park et.al.|[2208.14889v1](http://arxiv.org/abs/2208.14889v1)|[2208.14889v1](http://arxiv.org/pdf/2208.14889v1)|**[link](https://github.com/KU-CVLAB/LANIT)**|
+|**2022-08-31**|**GRILLBot: An Assistant for Real-World Tasks with Neural Semantic Parsing and Graph-Based Representations**|Carlos Gemmell et.al.|[2208.14884v1](http://arxiv.org/abs/2208.14884v1)|[2208.14884v1](http://arxiv.org/pdf/2208.14884v1)|null|
+|**2022-08-31**|**Formalising the Robustness of Counterfactual Explanations for Neural Networks**|Junqi Jiang et.al.|[2208.14878v1](http://arxiv.org/abs/2208.14878v1)|[2208.14878v1](http://arxiv.org/pdf/2208.14878v1)|null|
+|**2022-08-31**|**Intelligent Closed-loop RAN Control with xApps in OpenRAN Gym**|Leonardo Bonati et.al.|[2208.14877v1](http://arxiv.org/abs/2208.14877v1)|[2208.14877v1](http://arxiv.org/pdf/2208.14877v1)|null|
+|**2022-08-31**|**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**|Xutong Liu et.al.|[2208.14837v1](http://arxiv.org/abs/2208.14837v1)|[2208.14837v1](http://arxiv.org/pdf/2208.14837v1)|null|
+|**2022-08-31**|**Learning Automata-Based Complex Event Patterns in Answer Set Programming**|Nikos Katzouris et.al.|[2208.14820v1](http://arxiv.org/abs/2208.14820v1)|[2208.14820v1](http://arxiv.org/pdf/2208.14820v1)|null|
 |**2022-08-30**|**Correct-by-Construction Runtime Enforcement in AI -- A Survey**|Bettina Könighofer et.al.|[2208.14426v1](http://arxiv.org/abs/2208.14426v1)|[2208.14426v1](http://arxiv.org/pdf/2208.14426v1)|null|
 |**2022-08-30**|**Evolutionary Deep Reinforcement Learning for Dynamic Slice Management in O-RAN**|Fatemeh Lotfi et.al.|[2208.14394v1](http://arxiv.org/abs/2208.14394v1)|[2208.14394v1](http://arxiv.org/pdf/2208.14394v1)|null|
 |**2022-08-30**|**k-MS: A novel clustering algorithm based on morphological reconstruction**|É. O. Rodrigues et.al.|[2208.14390v1](http://arxiv.org/abs/2208.14390v1)|[2208.14390v1](http://arxiv.org/pdf/2208.14390v1)|**[link](https://github.com/oyatsumi/kmorphologicalsets)**|
