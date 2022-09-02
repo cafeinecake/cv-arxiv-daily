@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-01**|**Statistical validation of the detection of a sub-dominant quasi-normal mode in GW190521**|Collin D. Capano et.al.|[2209.00640v1](http://arxiv.org/abs/2209.00640v1)|[2209.00640v1](http://arxiv.org/pdf/2209.00640v1)|null|
+|**2022-09-01**|**ACCESS: Tentative detection of H$_2$O in the ground-based optical transmission spectrum of the low-density hot Saturn HATS-5b**|Natalie H. Allen et.al.|[2209.00637v1](http://arxiv.org/abs/2209.00637v1)|[2209.00637v1](http://arxiv.org/pdf/2209.00637v1)|null|
+|**2022-09-01**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 Micron Spectrum of the Planetary-Mass Companion VHS 1256-1257 b**|Brittany E. Miles et.al.|[2209.00620v1](http://arxiv.org/abs/2209.00620v1)|[2209.00620v1](http://arxiv.org/pdf/2209.00620v1)|null|
+|**2022-09-01**|**Tolerance Analysis of Octave Bandwidth Millimeter-Wave Planar Orthomode Transducer**|Johannes Hubmayr et.al.|[2209.00603v1](http://arxiv.org/abs/2209.00603v1)|[2209.00603v1](http://arxiv.org/pdf/2209.00603v1)|null|
+|**2022-09-01**|**Hot Exoplanet Atmospheres Resolved with Transit Spectroscopy (HEARTS) VII. Detection of sodium on the long-transiting inflated sub-Saturn KELT-11 b**|Dany Mounzer et.al.|[2209.00597v1](http://arxiv.org/abs/2209.00597v1)|[2209.00597v1](http://arxiv.org/pdf/2209.00597v1)|null|
+|**2022-09-01**|**Radio Detection**|A. Connolly et.al.|[2209.00590v1](http://arxiv.org/abs/2209.00590v1)|[2209.00590v1](http://arxiv.org/pdf/2209.00590v1)|null|
+|**2022-09-01**|**Kasner cosmology in bumblebee gravity**|Juliano C. S. Neves et.al.|[2209.00589v1](http://arxiv.org/abs/2209.00589v1)|[2209.00589v1](http://arxiv.org/pdf/2209.00589v1)|null|
+|**2022-09-01**|**Can the violent merger of white dwarfs explain the slowest declining Type Ia supernova SN 2011aa?**|Anirban Dutta et.al.|[2209.00569v1](http://arxiv.org/abs/2209.00569v1)|[2209.00569v1](http://arxiv.org/pdf/2209.00569v1)|null|
+|**2022-09-01**|**A gap at 1 au in the disk of DI Cha A revealed by infrared interferometry**|Tímea Juhász et.al.|[2209.00553v1](http://arxiv.org/abs/2209.00553v1)|[2209.00553v1](http://arxiv.org/pdf/2209.00553v1)|null|
+|**2022-09-01**|**The evolving absolute magnitude of type 1a supernovae and its critical impact on the cosmological parameters**|A. P. Mahtessian et.al.|[2209.00549v1](http://arxiv.org/abs/2209.00549v1)|[2209.00549v1](http://arxiv.org/pdf/2209.00549v1)|null|
 |**2022-08-31**|**Insights on the origin of ORCs from cosmological simulations**|Klaus Dolag et.al.|[2208.15003v1](http://arxiv.org/abs/2208.15003v1)|[2208.15003v1](http://arxiv.org/pdf/2208.15003v1)|null|
 |**2022-08-31**|**A comprehensive analysis of the compact phase space for Hu-Sawicki $f(R)$ dark energy models including spatial curvature**|Kelly MacDevette et.al.|[2208.15002v1](http://arxiv.org/abs/2208.15002v1)|[2208.15002v1](http://arxiv.org/pdf/2208.15002v1)|null|
 |**2022-08-31**|**A JWST/NIRCam Study of Key Contributors to Reionization: The Star-forming and Ionizing Properties of UV-faint $z\sim7-8$ Galaxies**|Ryan Endsley et.al.|[2208.14999v1](http://arxiv.org/abs/2208.14999v1)|[2208.14999v1](http://arxiv.org/pdf/2208.14999v1)|null|
@@ -493,6 +503,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-01**|**Fair mapping**|Sébastien Gambs et.al.|[2209.00617v1](http://arxiv.org/abs/2209.00617v1)|[2209.00617v1](http://arxiv.org/pdf/2209.00617v1)|null|
+|**2022-09-01**|**Incremental Online Learning Algorithms Comparison for Gesture and Visual Smart Sensors**|Alessandro Avi et.al.|[2209.00591v1](http://arxiv.org/abs/2209.00591v1)|[2209.00591v1](http://arxiv.org/pdf/2209.00591v1)|null|
+|**2022-09-01**|**Transformers are Sample Efficient World Models**|Vincent Micheli et.al.|[2209.00588v1](http://arxiv.org/abs/2209.00588v1)|[2209.00588v1](http://arxiv.org/pdf/2209.00588v1)|**[link](https://github.com/eloialonso/iris)**|
+|**2022-09-01**|**On Almost-Sure Intention Deception Planning that Exploits Imperfect Observers**|Jie Fu et.al.|[2209.00573v1](http://arxiv.org/abs/2209.00573v1)|[2209.00573v1](http://arxiv.org/pdf/2209.00573v1)|null|
+|**2022-09-01**|**Go-Explore Complex 3D Game Environments for Automated Reachability Testing**|Cong Lu et.al.|[2209.00570v1](http://arxiv.org/abs/2209.00570v1)|[2209.00570v1](http://arxiv.org/pdf/2209.00570v1)|null|
+|**2022-09-01**|**Multi-Scale Contrastive Co-Training for Event Temporal Relation Extraction**|Hao-Ren Yao et.al.|[2209.00568v1](http://arxiv.org/abs/2209.00568v1)|[2209.00568v1](http://arxiv.org/pdf/2209.00568v1)|null|
+|**2022-09-01**|**Unsupervised Simplification of Legal Texts**|Mert Cemri et.al.|[2209.00557v1](http://arxiv.org/abs/2209.00557v1)|[2209.00557v1](http://arxiv.org/pdf/2209.00557v1)|null|
+|**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551v1](http://arxiv.org/abs/2209.00551v1)|[2209.00551v1](http://arxiv.org/pdf/2209.00551v1)|null|
+|**2022-09-01**|**MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed Laplacian**|Yixuan He et.al.|[2209.00546v1](http://arxiv.org/abs/2209.00546v1)|[2209.00546v1](http://arxiv.org/pdf/2209.00546v1)|null|
+|**2022-09-01**|**Actor Prioritized Experience Replay**|Baturay Saglam et.al.|[2209.00532v1](http://arxiv.org/abs/2209.00532v1)|[2209.00532v1](http://arxiv.org/pdf/2209.00532v1)|**[link](https://github.com/baturaysaglam/la3p)**|
 |**2022-08-31**|**Artificial non-Abelian lattice gauge fields for photons in the synthetic frequency dimension**|Dali Cheng et.al.|[2208.14967v1](http://arxiv.org/abs/2208.14967v1)|[2208.14967v1](http://arxiv.org/pdf/2208.14967v1)|null|
 |**2022-08-31**|**A Realism Metric for Generated LiDAR Point Clouds**|Larissa T. Triess et.al.|[2208.14958v1](http://arxiv.org/abs/2208.14958v1)|[2208.14958v1](http://arxiv.org/pdf/2208.14958v1)|null|
 |**2022-08-31**|**Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research**|Zhibo Zhang et.al.|[2208.14937v1](http://arxiv.org/abs/2208.14937v1)|[2208.14937v1](http://arxiv.org/pdf/2208.14937v1)|null|
