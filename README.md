@@ -1,4 +1,4 @@
-## Updated on 2022.09.01
+## Updated on 2022.09.02
 
 ## Astrophysics
 
@@ -7,7 +7,7 @@
 |**2022-08-31**|**Insights on the origin of ORCs from cosmological simulations**|Klaus Dolag et.al.|[2208.15003v1](http://arxiv.org/abs/2208.15003v1)|[2208.15003v1](http://arxiv.org/pdf/2208.15003v1)|null|
 |**2022-08-31**|**A comprehensive analysis of the compact phase space for Hu-Sawicki $f(R)$ dark energy models including spatial curvature**|Kelly MacDevette et.al.|[2208.15002v1](http://arxiv.org/abs/2208.15002v1)|[2208.15002v1](http://arxiv.org/pdf/2208.15002v1)|null|
 |**2022-08-31**|**A JWST/NIRCam Study of Key Contributors to Reionization: The Star-forming and Ionizing Properties of UV-faint $z\sim7-8$ Galaxies**|Ryan Endsley et.al.|[2208.14999v1](http://arxiv.org/abs/2208.14999v1)|[2208.14999v1](http://arxiv.org/pdf/2208.14999v1)|null|
-|**2022-08-31**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v1](http://arxiv.org/abs/2208.14990v1)|[2208.14990v1](http://arxiv.org/pdf/2208.14990v1)|null|
+|**2022-09-01**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v2](http://arxiv.org/abs/2208.14990v2)|[2208.14990v2](http://arxiv.org/pdf/2208.14990v2)|null|
 |**2022-08-31**|**CMB lensing with shear-only reconstruction on the full sky**|Frank J. Qu et.al.|[2208.14988v1](http://arxiv.org/abs/2208.14988v1)|[2208.14988v1](http://arxiv.org/pdf/2208.14988v1)|null|
 |**2022-08-31**|**Primordial black holes and gravitational waves from dissipation during inflation**|Guillermo Ballesteros et.al.|[2208.14978v1](http://arxiv.org/abs/2208.14978v1)|[2208.14978v1](http://arxiv.org/pdf/2208.14978v1)|null|
 |**2022-08-31**|**Full spectrum fitting with photometry in ppxf: non-parametric star formation history, metallicity and the quenching boundary from 3200 LEGA-C galaxies at redshift z~0.8**|Michele Cappellari et.al.|[2208.14974v1](http://arxiv.org/abs/2208.14974v1)|[2208.14974v1](http://arxiv.org/pdf/2208.14974v1)|null|
