@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.07
+## Updated on 2022.09.08
 
 ## Astrophysics
 
@@ -524,14 +524,14 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2022-09-06**|**Neural Networks Optimized by Genetic Algorithms in Cosmology**|Isidro Gómez-Vargas et.al.|[2209.02685v1](http://arxiv.org/abs/2209.02685v1)|[2209.02685v1](http://arxiv.org/pdf/2209.02685v1)|null|
-|**2022-09-06**|**How important are activation functions in regression and classification? A survey, performance comparison, and future directions**|Ameya D. Jagtap et.al.|[2209.02681v1](http://arxiv.org/abs/2209.02681v1)|[2209.02681v1](http://arxiv.org/pdf/2209.02681v1)|null|
+|**2022-09-07**|**How important are activation functions in regression and classification? A survey, performance comparison, and future directions**|Ameya D. Jagtap et.al.|[2209.02681v2](http://arxiv.org/abs/2209.02681v2)|[2209.02681v2](http://arxiv.org/pdf/2209.02681v2)|null|
 |**2022-09-06**|**Risk Aware Belief-dependent Constrained POMDP Planning**|Andrey Zhitnikov et.al.|[2209.02679v1](http://arxiv.org/abs/2209.02679v1)|[2209.02679v1](http://arxiv.org/pdf/2209.02679v1)|**[link](https://github.com/andreyzhitnikov/constrainedpomdp)**|
 |**2022-09-06**|**Orchestrating Collaborative Cybersecurity: A Secure Framework for Distributed Privacy-Preserving Threat Intelligence Sharing**|Juan R. Trocoso-Pastoriza et.al.|[2209.02676v1](http://arxiv.org/abs/2209.02676v1)|[2209.02676v1](http://arxiv.org/pdf/2209.02676v1)|null|
 |**2022-09-06**|**A Complex Window-Based Joint Chirp Rate Time Frequency Transform for BBH Merger Gravitational Wave Signal Detection**|Xiyuan Li et.al.|[2209.02673v1](http://arxiv.org/abs/2209.02673v1)|[2209.02673v1](http://arxiv.org/pdf/2209.02673v1)|null|
 |**2022-09-06**|**Bayesian Statistical Model Checking for Multi-agent Systems using HyperPCTL***|Spandan Das et.al.|[2209.02672v1](http://arxiv.org/abs/2209.02672v1)|[2209.02672v1](http://arxiv.org/pdf/2209.02672v1)|null|
 |**2022-09-06**|**Learning Interpretable Temporal Properties from Positive Examples Only**|Rajarshi Roy et.al.|[2209.02650v1](http://arxiv.org/abs/2209.02650v1)|[2209.02650v1](http://arxiv.org/pdf/2209.02650v1)|null|
 |**2022-09-06**|**A Survey on Generative Diffusion Model**|Hanqun Cao et.al.|[2209.02646v1](http://arxiv.org/abs/2209.02646v1)|[2209.02646v1](http://arxiv.org/pdf/2209.02646v1)|null|
-|**2022-09-06**|**Weak Collocation Regression method: fast reveal hidden stochastic dynamics from high-dimensional aggregate data**|Liwei Lu et.al.|[2209.02628v1](http://arxiv.org/abs/2209.02628v1)|[2209.02628v1](http://arxiv.org/pdf/2209.02628v1)|null|
+|**2022-09-07**|**Weak Collocation Regression method: fast reveal hidden stochastic dynamics from high-dimensional aggregate data**|Liwei Lu et.al.|[2209.02628v2](http://arxiv.org/abs/2209.02628v2)|[2209.02628v2](http://arxiv.org/pdf/2209.02628v2)|null|
 |**2022-09-06**|**Single-Stage Broad Multi-Instance Multi-Label Learning (BMIML) with Diverse Inter-Correlations and its application to medical image classification**|Qi Lai et.al.|[2209.02625v1](http://arxiv.org/abs/2209.02625v1)|[2209.02625v1](http://arxiv.org/pdf/2209.02625v1)|null|
 |**2022-09-02**|**Co-Imitation: Learning Design and Behaviour by Imitation**|Chang Rajani et.al.|[2209.01207v1](http://arxiv.org/abs/2209.01207v1)|[2209.01207v1](http://arxiv.org/pdf/2209.01207v1)|null|
 |**2022-09-02**|**A Novel Approach for Pill-Prescription Matching with GNN Assistance and Contrastive Learning**|Trung Thanh Nguyen et.al.|[2209.01152v1](http://arxiv.org/abs/2209.01152v1)|[2209.01152v1](http://arxiv.org/pdf/2209.01152v1)|null|
