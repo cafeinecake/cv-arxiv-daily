@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-08**|**A direct N-body integrator for modelling the chaotic, tidal dynamics of multi-body extrasolar systems: TIDYMESS**|Tjarda C. N. Boekholt et.al.|[2209.03955v1](http://arxiv.org/abs/2209.03955v1)|[2209.03955v1](http://arxiv.org/pdf/2209.03955v1)|null|
+|**2022-09-08**|**Intrinsic Alignment as an RSD Contaminant in the DESI Survey**|Claire Lamman et.al.|[2209.03949v1](http://arxiv.org/abs/2209.03949v1)|[2209.03949v1](http://arxiv.org/pdf/2209.03949v1)|null|
+|**2022-09-08**|**Persistent topology of the reionization bubble network. II: Evolution & Classification**|Willem Elbers et.al.|[2209.03948v1](http://arxiv.org/abs/2209.03948v1)|[2209.03948v1](http://arxiv.org/pdf/2209.03948v1)|null|
+|**2022-09-08**|**Axion-like particles as mediators for dark matter: beyond freeze-out**|A. Bharucha et.al.|[2209.03932v1](http://arxiv.org/abs/2209.03932v1)|[2209.03932v1](http://arxiv.org/pdf/2209.03932v1)|null|
+|**2022-09-08**|**Hemispherical asymmetry of primordial power spectra**|K. Sravan Kumar et.al.|[2209.03928v1](http://arxiv.org/abs/2209.03928v1)|[2209.03928v1](http://arxiv.org/pdf/2209.03928v1)|null|
+|**2022-09-08**|**Supernovae double-peaked light curves from double-nickel distribution**|Mariana Orellana et.al.|[2209.03923v1](http://arxiv.org/abs/2209.03923v1)|[2209.03923v1](http://arxiv.org/pdf/2209.03923v1)|null|
+|**2022-09-08**|**Distance estimates for AGB stars from parallax measurements**|M. Andriantsaralaza et.al.|[2209.03906v1](http://arxiv.org/abs/2209.03906v1)|[2209.03906v1](http://arxiv.org/pdf/2209.03906v1)|null|
+|**2022-09-08**|**Complex crater formation by oblique impacts on the Earth and Moon**|T. M. Davison et.al.|[2209.03903v1](http://arxiv.org/abs/2209.03903v1)|[2209.03903v1](http://arxiv.org/pdf/2209.03903v1)|null|
+|**2022-09-08**|**CHEOPS finds KELT-1b darker than expected in visible light: Discrepancy between the CHEOPS and TESS eclipse depths**|H. Parviainen et.al.|[2209.03890v1](http://arxiv.org/abs/2209.03890v1)|[2209.03890v1](http://arxiv.org/pdf/2209.03890v1)|null|
+|**2022-09-08**|**Dynamics of young stellar clusters as planet forming environments**|Megan Reiter et.al.|[2209.03889v1](http://arxiv.org/abs/2209.03889v1)|[2209.03889v1](http://arxiv.org/pdf/2209.03889v1)|null|
 |**2022-09-07**|**Twinkle -- a small satellite spectroscopy mission for the next phase of exoplanet science**|Ian Stotesbury et.al.|[2209.03337v1](http://arxiv.org/abs/2209.03337v1)|[2209.03337v1](http://arxiv.org/pdf/2209.03337v1)|null|
 |**2022-09-07**|**The Role of Strong Magnetic Fields in Stabilizing Highly Luminous, Thin Disks**|Bhupendra Mishra et.al.|[2209.03317v1](http://arxiv.org/abs/2209.03317v1)|[2209.03317v1](http://arxiv.org/pdf/2209.03317v1)|null|
 |**2022-09-07**|**Universal scaling laws and density slope for dark matter halos from rotation curves and energy cascade**|Zhijie Xu et.al.|[2209.03313v1](http://arxiv.org/abs/2209.03313v1)|[2209.03313v1](http://arxiv.org/pdf/2209.03313v1)|**[link](https://github.com/ZhijieXu2022/dark_matter_flow_dataset)**|
@@ -529,6 +539,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-08**|**Intrinsic Alignment as an RSD Contaminant in the DESI Survey**|Claire Lamman et.al.|[2209.03949v1](http://arxiv.org/abs/2209.03949v1)|[2209.03949v1](http://arxiv.org/pdf/2209.03949v1)|null|
+|**2022-09-08**|**The Utility of Explainable AI in Ad Hoc Human-Machine Teaming**|Rohan Paleja et.al.|[2209.03943v1](http://arxiv.org/abs/2209.03943v1)|[2209.03943v1](http://arxiv.org/pdf/2209.03943v1)|null|
+|**2022-09-08**|**Data Feedback Loops: Model-driven Amplification of Dataset Biases**|Rohan Taori et.al.|[2209.03942v1](http://arxiv.org/abs/2209.03942v1)|[2209.03942v1](http://arxiv.org/pdf/2209.03942v1)|**[link](https://github.com/rtaori/data_feedback)**|
+|**2022-09-08**|**Lost in Translation: Reimagining the Machine Learning Life Cycle in Education**|Lydia T. Liu et.al.|[2209.03929v1](http://arxiv.org/abs/2209.03929v1)|[2209.03929v1](http://arxiv.org/pdf/2209.03929v1)|null|
+|**2022-09-08**|**Sequential Information Design: Learning to Persuade in the Dark**|Martino Bernasconi et.al.|[2209.03927v1](http://arxiv.org/abs/2209.03927v1)|[2209.03927v1](http://arxiv.org/pdf/2209.03927v1)|null|
+|**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|[2209.03910v1](http://arxiv.org/pdf/2209.03910v1)|null|
+|**2022-09-08**|**Best of Both Worlds: Agents with Entitlements**|Martin Hoefer et.al.|[2209.03908v1](http://arxiv.org/abs/2209.03908v1)|[2209.03908v1](http://arxiv.org/pdf/2209.03908v1)|null|
+|**2022-09-08**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|[2209.03904v1](http://arxiv.org/pdf/2209.03904v1)|null|
+|**2022-09-08**|**Dyadic Interaction Assessment from Free-living Audio for Depression Severity Assessment**|Bishal Lamichhane et.al.|[2209.03901v1](http://arxiv.org/abs/2209.03901v1)|[2209.03901v1](http://arxiv.org/pdf/2209.03901v1)|null|
+|**2022-09-08**|**IDIAPers @ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach**|Sergio Burdisso et.al.|[2209.03895v1](http://arxiv.org/abs/2209.03895v1)|[2209.03895v1](http://arxiv.org/pdf/2209.03895v1)|null|
 |**2022-09-07**|**Geometric multimodal representation learning**|Yasha Ektefaie et.al.|[2209.03299v1](http://arxiv.org/abs/2209.03299v1)|[2209.03299v1](http://arxiv.org/pdf/2209.03299v1)|null|
 |**2022-09-07**|**VulCurator: A Vulnerability-Fixing Commit Detector**|Truong Giang Nguyen et.al.|[2209.03260v1](http://arxiv.org/abs/2209.03260v1)|[2209.03260v1](http://arxiv.org/pdf/2209.03260v1)|**[link](https://github.com/ntgiang71096/vfdetector)**|
 |**2022-09-07**|**AutoPruner: Transformer-Based Call Graph Pruning**|Thanh Le-Cong et.al.|[2209.03230v1](http://arxiv.org/abs/2209.03230v1)|[2209.03230v1](http://arxiv.org/pdf/2209.03230v1)|**[link](https://github.com/soarsmu/autopruner)**|
