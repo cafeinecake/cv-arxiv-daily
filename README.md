@@ -1,4 +1,4 @@
-## Updated on 2022.09.09
+## Updated on 2022.09.10
 
 ## Astrophysics
 
@@ -540,13 +540,13 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2022-09-08**|**Intrinsic Alignment as an RSD Contaminant in the DESI Survey**|Claire Lamman et.al.|[2209.03949v1](http://arxiv.org/abs/2209.03949v1)|[2209.03949v1](http://arxiv.org/pdf/2209.03949v1)|null|
-|**2022-09-08**|**The Utility of Explainable AI in Ad Hoc Human-Machine Teaming**|Rohan Paleja et.al.|[2209.03943v1](http://arxiv.org/abs/2209.03943v1)|[2209.03943v1](http://arxiv.org/pdf/2209.03943v1)|null|
+|**2022-09-08**|**The Utility of Explainable AI in Ad Hoc Human-Machine Teaming**|Rohan Paleja et.al.|[2209.03943v1](http://arxiv.org/abs/2209.03943v1)|[2209.03943v1](http://arxiv.org/pdf/2209.03943v1)|**[link](https://github.com/CORE-Robotics-Lab/Utility-of-Explainable-AI-NeurIPS2021)**|
 |**2022-09-08**|**Data Feedback Loops: Model-driven Amplification of Dataset Biases**|Rohan Taori et.al.|[2209.03942v1](http://arxiv.org/abs/2209.03942v1)|[2209.03942v1](http://arxiv.org/pdf/2209.03942v1)|**[link](https://github.com/rtaori/data_feedback)**|
 |**2022-09-08**|**Lost in Translation: Reimagining the Machine Learning Life Cycle in Education**|Lydia T. Liu et.al.|[2209.03929v1](http://arxiv.org/abs/2209.03929v1)|[2209.03929v1](http://arxiv.org/pdf/2209.03929v1)|null|
 |**2022-09-08**|**Sequential Information Design: Learning to Persuade in the Dark**|Martino Bernasconi et.al.|[2209.03927v1](http://arxiv.org/abs/2209.03927v1)|[2209.03927v1](http://arxiv.org/pdf/2209.03927v1)|null|
 |**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|[2209.03910v1](http://arxiv.org/pdf/2209.03910v1)|null|
 |**2022-09-08**|**Best of Both Worlds: Agents with Entitlements**|Martin Hoefer et.al.|[2209.03908v1](http://arxiv.org/abs/2209.03908v1)|[2209.03908v1](http://arxiv.org/pdf/2209.03908v1)|null|
-|**2022-09-08**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|[2209.03904v1](http://arxiv.org/pdf/2209.03904v1)|null|
+|**2022-09-08**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|[2209.03904v1](http://arxiv.org/pdf/2209.03904v1)|**[link](https://github.com/rsalganik1123/facctrec2022)**|
 |**2022-09-08**|**Dyadic Interaction Assessment from Free-living Audio for Depression Severity Assessment**|Bishal Lamichhane et.al.|[2209.03901v1](http://arxiv.org/abs/2209.03901v1)|[2209.03901v1](http://arxiv.org/pdf/2209.03901v1)|null|
 |**2022-09-08**|**IDIAPers @ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach**|Sergio Burdisso et.al.|[2209.03895v1](http://arxiv.org/abs/2209.03895v1)|[2209.03895v1](http://arxiv.org/pdf/2209.03895v1)|null|
 |**2022-09-07**|**Geometric multimodal representation learning**|Yasha Ektefaie et.al.|[2209.03299v1](http://arxiv.org/abs/2209.03299v1)|[2209.03299v1](http://arxiv.org/pdf/2209.03299v1)|null|
