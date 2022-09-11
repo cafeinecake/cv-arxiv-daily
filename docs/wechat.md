@@ -1,10 +1,10 @@
-> Updated on 2022.09.10
+> Updated on 2022.09.11
 
 ## Astrophysics
 
 - 2022-09-08, **A direct N-body integrator for modelling the chaotic, tidal dynamics of multi-body extrasolar systems: TIDYMESS**, Tjarda C. N. Boekholt et.al., Paper: [http://arxiv.org/abs/2209.03955v1](http://arxiv.org/abs/2209.03955v1), Paper: [http://arxiv.org/abs/2209.03955v1](http://arxiv.org/pdf/2209.03955v1)
-- 2022-09-08, **Intrinsic Alignment as an RSD Contaminant in the DESI Survey**, Claire Lamman et.al., Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/abs/2209.03949v1), Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/pdf/2209.03949v1)
-- 2022-09-08, **Persistent topology of the reionization bubble network. II: Evolution & Classification**, Willem Elbers et.al., Paper: [http://arxiv.org/abs/2209.03948v1](http://arxiv.org/abs/2209.03948v1), Paper: [http://arxiv.org/abs/2209.03948v1](http://arxiv.org/pdf/2209.03948v1)
+- 2022-09-08, **Intrinsic Alignment as an RSD Contaminant in the DESI Survey**, Claire Lamman et.al., Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/abs/2209.03949v1),Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/pdf/2209.03949v1), Code: **[https://github.com/cmlamman/ellipse_alignment](https://github.com/cmlamman/ellipse_alignment)**
+- 2022-09-08, **Persistent topology of the reionization bubble network. II: Evolution & Classification**, Willem Elbers et.al., Paper: [http://arxiv.org/abs/2209.03948v1](http://arxiv.org/abs/2209.03948v1),Paper: [http://arxiv.org/abs/2209.03948v1](http://arxiv.org/pdf/2209.03948v1), Code: **[https://github.com/wullm/21runs](https://github.com/wullm/21runs)**
 - 2022-09-08, **Axion-like particles as mediators for dark matter: beyond freeze-out**, A. Bharucha et.al., Paper: [http://arxiv.org/abs/2209.03932v1](http://arxiv.org/abs/2209.03932v1), Paper: [http://arxiv.org/abs/2209.03932v1](http://arxiv.org/pdf/2209.03932v1)
 - 2022-09-08, **Hemispherical asymmetry of primordial power spectra**, K. Sravan Kumar et.al., Paper: [http://arxiv.org/abs/2209.03928v1](http://arxiv.org/abs/2209.03928v1), Paper: [http://arxiv.org/abs/2209.03928v1](http://arxiv.org/pdf/2209.03928v1)
 - 2022-09-08, **Supernovae double-peaked light curves from double-nickel distribution**, Mariana Orellana et.al., Paper: [http://arxiv.org/abs/2209.03923v1](http://arxiv.org/abs/2209.03923v1), Paper: [http://arxiv.org/abs/2209.03923v1](http://arxiv.org/pdf/2209.03923v1)
@@ -535,7 +535,7 @@
 
 ## AI
 
-- 2022-09-08, **Intrinsic Alignment as an RSD Contaminant in the DESI Survey**, Claire Lamman et.al., Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/abs/2209.03949v1), Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/pdf/2209.03949v1)
+- 2022-09-08, **Intrinsic Alignment as an RSD Contaminant in the DESI Survey**, Claire Lamman et.al., Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/abs/2209.03949v1),Paper: [http://arxiv.org/abs/2209.03949v1](http://arxiv.org/pdf/2209.03949v1), Code: **[https://github.com/cmlamman/ellipse_alignment](https://github.com/cmlamman/ellipse_alignment)**
 - 2022-09-08, **The Utility of Explainable AI in Ad Hoc Human-Machine Teaming**, Rohan Paleja et.al., Paper: [http://arxiv.org/abs/2209.03943v1](http://arxiv.org/abs/2209.03943v1),Paper: [http://arxiv.org/abs/2209.03943v1](http://arxiv.org/pdf/2209.03943v1), Code: **[https://github.com/CORE-Robotics-Lab/Utility-of-Explainable-AI-NeurIPS2021](https://github.com/CORE-Robotics-Lab/Utility-of-Explainable-AI-NeurIPS2021)**
 - 2022-09-08, **Data Feedback Loops: Model-driven Amplification of Dataset Biases**, Rohan Taori et.al., Paper: [http://arxiv.org/abs/2209.03942v1](http://arxiv.org/abs/2209.03942v1),Paper: [http://arxiv.org/abs/2209.03942v1](http://arxiv.org/pdf/2209.03942v1), Code: **[https://github.com/rtaori/data_feedback](https://github.com/rtaori/data_feedback)**
 - 2022-09-08, **Lost in Translation: Reimagining the Machine Learning Life Cycle in Education**, Lydia T. Liu et.al., Paper: [http://arxiv.org/abs/2209.03929v1](http://arxiv.org/abs/2209.03929v1), Paper: [http://arxiv.org/abs/2209.03929v1](http://arxiv.org/pdf/2209.03929v1)
