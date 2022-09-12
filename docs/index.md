@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.11
+## Updated on 2022.09.12
 
 ## Astrophysics
 
@@ -550,7 +550,7 @@ layout: default
 |**2022-09-08**|**Sequential Information Design: Learning to Persuade in the Dark**|Martino Bernasconi et.al.|[2209.03927v1](http://arxiv.org/abs/2209.03927v1)|[2209.03927v1](http://arxiv.org/pdf/2209.03927v1)|null|
 |**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|[2209.03910v1](http://arxiv.org/pdf/2209.03910v1)|null|
 |**2022-09-08**|**Best of Both Worlds: Agents with Entitlements**|Martin Hoefer et.al.|[2209.03908v1](http://arxiv.org/abs/2209.03908v1)|[2209.03908v1](http://arxiv.org/pdf/2209.03908v1)|null|
-|**2022-09-08**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v1](http://arxiv.org/abs/2209.03904v1)|[2209.03904v1](http://arxiv.org/pdf/2209.03904v1)|**[link](https://github.com/rsalganik1123/facctrec2022)**|
+|**2022-09-09**|**Analyzing the Effect of Sampling in GNNs on Individual Fairness**|Rebecca Salganik et.al.|[2209.03904v2](http://arxiv.org/abs/2209.03904v2)|[2209.03904v2](http://arxiv.org/pdf/2209.03904v2)|**[link](https://github.com/rsalganik1123/facctrec2022)**|
 |**2022-09-08**|**Dyadic Interaction Assessment from Free-living Audio for Depression Severity Assessment**|Bishal Lamichhane et.al.|[2209.03901v1](http://arxiv.org/abs/2209.03901v1)|[2209.03901v1](http://arxiv.org/pdf/2209.03901v1)|null|
 |**2022-09-08**|**IDIAPers @ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach**|Sergio Burdisso et.al.|[2209.03895v1](http://arxiv.org/abs/2209.03895v1)|[2209.03895v1](http://arxiv.org/pdf/2209.03895v1)|null|
 |**2022-09-07**|**Geometric multimodal representation learning**|Yasha Ektefaie et.al.|[2209.03299v1](http://arxiv.org/abs/2209.03299v1)|[2209.03299v1](http://arxiv.org/pdf/2209.03299v1)|null|
