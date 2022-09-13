@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-12**|**The False Alarms induced by Gaussian Noise in Gravitational Wave Detectors**|Gonzalo Morras et.al.|[2209.05475v1](http://arxiv.org/abs/2209.05475v1)|[2209.05475v1](http://arxiv.org/pdf/2209.05475v1)|null|
+|**2022-09-12**|**Constraining the physics of star formation from CIB-cosmic shear cross-correlations**|Baptiste Jego et.al.|[2209.05472v1](http://arxiv.org/abs/2209.05472v1)|[2209.05472v1](http://arxiv.org/pdf/2209.05472v1)|null|
+|**2022-09-12**|**Self-force regularization of a point particle for generic orbits in Kerr spacetime: electromagnetic and gravitational cases**|Anna Heffernan et.al.|[2209.05450v1](http://arxiv.org/abs/2209.05450v1)|[2209.05450v1](http://arxiv.org/pdf/2209.05450v1)|null|
+|**2022-09-12**|**SIPGI: an interactive pipeline for spectroscopic data reduction**|A. Gargiulo et.al.|[2209.05441v1](http://arxiv.org/abs/2209.05441v1)|[2209.05441v1](http://arxiv.org/pdf/2209.05441v1)|null|
+|**2022-09-12**|**Astrometry of variable compact radio sources: A search for Galactic black hole X-ray binaries**|P. Atri et.al.|[2209.05437v1](http://arxiv.org/abs/2209.05437v1)|[2209.05437v1](http://arxiv.org/pdf/2209.05437v1)|null|
+|**2022-09-12**|**Effects of Radiative Diffusion on the Dynamical Corotation Torque in Three-Dimensional Protoplanetary Disks**|Han-Gyeol Yun et.al.|[2209.05417v1](http://arxiv.org/abs/2209.05417v1)|[2209.05417v1](http://arxiv.org/pdf/2209.05417v1)|null|
+|**2022-09-12**|**Effects of finite sizes of atomic nuclei on shear modulus and torsional oscillations in neutron stars**|Hajime Sotani et.al.|[2209.05416v1](http://arxiv.org/abs/2209.05416v1)|[2209.05416v1](http://arxiv.org/pdf/2209.05416v1)|null|
+|**2022-09-12**|**Observation of Turbulent Magnetohydrodynamic Cascade in the Jovian Magnetosheath**|N. Andrés et.al.|[2209.05386v1](http://arxiv.org/abs/2209.05386v1)|[2209.05386v1](http://arxiv.org/pdf/2209.05386v1)|null|
+|**2022-09-12**|**53Mn-53Cr chronology and ε54Cr-Δ17O genealogy of Erg Chech 002: the oldest andesite in the Solar System**|Aryavart Anand et.al.|[2209.05381v1](http://arxiv.org/abs/2209.05381v1)|[2209.05381v1](http://arxiv.org/pdf/2209.05381v1)|null|
+|**2022-09-12**|**An Analytical Study of the Primordial Gravitational-Wave-Induced Contribution to the Large-Scale Structure of the Universe**|Pritha Bari et.al.|[2209.05329v1](http://arxiv.org/abs/2209.05329v1)|[2209.05329v1](http://arxiv.org/pdf/2209.05329v1)|null|
 |**2022-09-09**|**BeyondPlanck IV. On end-to-end simulations in CMB analysis -- Bayesian versus frequentist statistics**|M. Brilenkov et.al.|[2209.04437v1](http://arxiv.org/abs/2209.04437v1)|[2209.04437v1](http://arxiv.org/pdf/2209.04437v1)|null|
 |**2022-09-09**|**Investigation of a Machine learning methodology for the SKA pulsar search pipeline**|Shashank Sanjay Bhat et.al.|[2209.04430v1](http://arxiv.org/abs/2209.04430v1)|[2209.04430v1](http://arxiv.org/pdf/2209.04430v1)|null|
 |**2022-09-09**|**Quasiclassical model of inhomogeneous cosmology**|Martin Bojowald et.al.|[2209.04429v1](http://arxiv.org/abs/2209.04429v1)|[2209.04429v1](http://arxiv.org/pdf/2209.04429v1)|null|
@@ -553,6 +563,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|[2209.05451v1](http://arxiv.org/pdf/2209.05451v1)|null|
+|**2022-09-12**|**Soft Diffusion: Score Matching for General Corruptions**|Giannis Daras et.al.|[2209.05442v1](http://arxiv.org/abs/2209.05442v1)|[2209.05442v1](http://arxiv.org/pdf/2209.05442v1)|null|
+|**2022-09-12**|**Self-supervised Wide Baseline Visual Servoing via 3D Equivariance**|Jinwook Huh et.al.|[2209.05432v1](http://arxiv.org/abs/2209.05432v1)|[2209.05432v1](http://arxiv.org/pdf/2209.05432v1)|null|
+|**2022-09-12**|**Towards More Efficient Data Valuation in Healthcare Federated Learning using Ensembling**|Sourav Kumar et.al.|[2209.05424v1](http://arxiv.org/abs/2209.05424v1)|[2209.05424v1](http://arxiv.org/pdf/2209.05424v1)|null|
+|**2022-09-12**|**On Faithfulness and Coherence of Language Explanations for Recommendation Systems**|Zhouhang Xie et.al.|[2209.05409v1](http://arxiv.org/abs/2209.05409v1)|[2209.05409v1](http://arxiv.org/pdf/2209.05409v1)|null|
+|**2022-09-12**|**Analysis and Comparison of Classification Metrics**|Luciana Ferrer et.al.|[2209.05355v1](http://arxiv.org/abs/2209.05355v1)|[2209.05355v1](http://arxiv.org/pdf/2209.05355v1)|null|
+|**2022-09-12**|**Unified State Representation Learning under Data Augmentation**|Taylor Hearn et.al.|[2209.05302v1](http://arxiv.org/abs/2209.05302v1)|[2209.05302v1](http://arxiv.org/pdf/2209.05302v1)|**[link](https://github.com/SVJayanthi/dmcontrol-generalization-benchmark)**|
+|**2022-09-12**|**Deep Convolutional Pooling Transformer for Deepfake Detection**|Tianyi Wang et.al.|[2209.05299v1](http://arxiv.org/abs/2209.05299v1)|[2209.05299v1](http://arxiv.org/pdf/2209.05299v1)|null|
+|**2022-09-12**|**Semileptonic weak Hamiltonian to $\mathcal{O}(α α_s(μ_{\mathrm{Lattice}}))$ in momentum-space subtraction schemes**|M. Gorbahn et.al.|[2209.05289v1](http://arxiv.org/abs/2209.05289v1)|[2209.05289v1](http://arxiv.org/pdf/2209.05289v1)|null|
+|**2022-09-12**|**Leveraging Artificial Intelligence Techniques for Smart Palm Tree Detection: A Decade Systematic Review**|Yosra Hajjaji et.al.|[2209.05282v1](http://arxiv.org/abs/2209.05282v1)|[2209.05282v1](http://arxiv.org/pdf/2209.05282v1)|null|
 |**2022-09-09**|**Investigation of a Machine learning methodology for the SKA pulsar search pipeline**|Shashank Sanjay Bhat et.al.|[2209.04430v1](http://arxiv.org/abs/2209.04430v1)|[2209.04430v1](http://arxiv.org/pdf/2209.04430v1)|null|
 |**2022-09-09**|**Improving Nevergrad's Algorithm Selection Wizard NGOpt through Automated Algorithm Configuration**|Risto Trajanov et.al.|[2209.04412v1](http://arxiv.org/abs/2209.04412v1)|[2209.04412v1](http://arxiv.org/pdf/2209.04412v1)|null|
 |**2022-09-09**|**Trust Calibration as a Function of the Evolution of Uncertainty in Knowledge Generation: A Survey**|Joshua Boley et.al.|[2209.04388v1](http://arxiv.org/abs/2209.04388v1)|[2209.04388v1](http://arxiv.org/pdf/2209.04388v1)|null|
