@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-13**|**Convective outgassing efficiency in planetary magma oceans: insights from computational fluid dynamics**|Arnaud Salvador et.al.|[2209.06199v1](http://arxiv.org/abs/2209.06199v1)|[2209.06199v1](http://arxiv.org/pdf/2209.06199v1)|null|
+|**2022-09-13**|**Simulations of PBH formation at the QCD epoch and comparison with the GWTC-3 catalog**|Albert Escrivà et.al.|[2209.06196v1](http://arxiv.org/abs/2209.06196v1)|[2209.06196v1](http://arxiv.org/pdf/2209.06196v1)|null|
+|**2022-09-13**|**A simulation experiment of a pipeline based on machine learning for neutral hydrogen intensity mapping surveys**|Lin-Cheng Li et.al.|[2209.06180v1](http://arxiv.org/abs/2209.06180v1)|[2209.06180v1](http://arxiv.org/pdf/2209.06180v1)|null|
+|**2022-09-13**|**Warm $β$-exponential inflation and the Swampland Conjectures**|F. B. M. dos Santos et.al.|[2209.06153v1](http://arxiv.org/abs/2209.06153v1)|[2209.06153v1](http://arxiv.org/pdf/2209.06153v1)|null|
+|**2022-09-13**|**Software and techniques for VLBI data processing and analysis**|Michael Janssen et.al.|[2209.06115v1](http://arxiv.org/abs/2209.06115v1)|[2209.06115v1](http://arxiv.org/pdf/2209.06115v1)|null|
+|**2022-09-13**|**Suitability of magnetic microbolometers based on paramagnetic temperature sensors for CMB polarization measurements**|Juan Manuel Geria et.al.|[2209.06088v1](http://arxiv.org/abs/2209.06088v1)|[2209.06088v1](http://arxiv.org/pdf/2209.06088v1)|null|
+|**2022-09-13**|**The dust sublimation region of the Type 1 AGN NGC4151 at a hundred micro-arcsecond scale as resolved by the CHARA Array interferometer**|Makoto Kishimoto et.al.|[2209.06061v1](http://arxiv.org/abs/2209.06061v1)|[2209.06061v1](http://arxiv.org/pdf/2209.06061v1)|null|
+|**2022-09-13**|**Stability and Observability of Magnetic Primordial Black Hole-Neutron Star Collisions**|John Estes et.al.|[2209.06060v1](http://arxiv.org/abs/2209.06060v1)|[2209.06060v1](http://arxiv.org/pdf/2209.06060v1)|null|
+|**2022-09-13**|**Bird's eye view of molecular clouds in the Milky Way: II. Cloud kinematics from sub-pc to kpc scales**|Andri Spilker et.al.|[2209.06059v1](http://arxiv.org/abs/2209.06059v1)|[2209.06059v1](http://arxiv.org/pdf/2209.06059v1)|null|
+|**2022-09-13**|**Polytropic fits of modern and unified equations of state**|Suleiman Lami et.al.|[2209.06052v1](http://arxiv.org/abs/2209.06052v1)|[2209.06052v1](http://arxiv.org/pdf/2209.06052v1)|null|
 |**2022-09-12**|**The False Alarms induced by Gaussian Noise in Gravitational Wave Detectors**|Gonzalo Morras et.al.|[2209.05475v1](http://arxiv.org/abs/2209.05475v1)|[2209.05475v1](http://arxiv.org/pdf/2209.05475v1)|null|
 |**2022-09-12**|**Constraining the physics of star formation from CIB-cosmic shear cross-correlations**|Baptiste Jego et.al.|[2209.05472v1](http://arxiv.org/abs/2209.05472v1)|[2209.05472v1](http://arxiv.org/pdf/2209.05472v1)|null|
 |**2022-09-12**|**Self-force regularization of a point particle for generic orbits in Kerr spacetime: electromagnetic and gravitational cases**|Anna Heffernan et.al.|[2209.05450v1](http://arxiv.org/abs/2209.05450v1)|[2209.05450v1](http://arxiv.org/pdf/2209.05450v1)|null|
@@ -563,6 +573,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-13**|**Normalizing Flows for Interventional Density Estimation**|Valentyn Melnychuk et.al.|[2209.06203v1](http://arxiv.org/abs/2209.06203v1)|[2209.06203v1](http://arxiv.org/pdf/2209.06203v1)|null|
+|**2022-09-13**|**StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**|Adyasha Maharana et.al.|[2209.06192v1](http://arxiv.org/abs/2209.06192v1)|[2209.06192v1](http://arxiv.org/pdf/2209.06192v1)|**[link](https://github.com/adymaharana/storydalle)**|
+|**2022-09-13**|**Fast fitting of neural ordinary differential equations by Bayesian neural gradient matching to infer ecological interactions from time series data**|Willem Bonnaffé et.al.|[2209.06184v1](http://arxiv.org/abs/2209.06184v1)|[2209.06184v1](http://arxiv.org/pdf/2209.06184v1)|null|
+|**2022-09-13**|**The Role of Explanatory Value in Natural Language Processing**|Kees van Deemter et.al.|[2209.06169v1](http://arxiv.org/abs/2209.06169v1)|[2209.06169v1](http://arxiv.org/pdf/2209.06169v1)|null|
+|**2022-09-13**|**Borch: A Deep Universal Probabilistic Programming Language**|Lewis Belcher et.al.|[2209.06168v1](http://arxiv.org/abs/2209.06168v1)|[2209.06168v1](http://arxiv.org/pdf/2209.06168v1)|null|
+|**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|[2209.06120v1](http://arxiv.org/pdf/2209.06120v1)|null|
+|**2022-09-13**|**Learning to Solve Multiple-TSP with Time Window and Rejections via Deep Reinforcement Learning**|Rongkai Zhang et.al.|[2209.06094v1](http://arxiv.org/abs/2209.06094v1)|[2209.06094v1](http://arxiv.org/pdf/2209.06094v1)|**[link](https://github.com/zcaicaros/manager-worker-mtsptwr)**|
+|**2022-09-13**|**Magnetoelectric-field electrodynamics: Search for magnetoelectric point scatterers**|E. O. Kamenetskii et.al.|[2209.06080v1](http://arxiv.org/abs/2209.06080v1)|[2209.06080v1](http://arxiv.org/pdf/2209.06080v1)|null|
+|**2022-09-13**|**SeRP: Self-Supervised Representation Learning Using Perturbed Point Clouds**|Siddhant Garg et.al.|[2209.06067v1](http://arxiv.org/abs/2209.06067v1)|[2209.06067v1](http://arxiv.org/pdf/2209.06067v1)|null|
+|**2022-09-13**|**Pre-training Transformers on Indian Legal Text**|Shounak Paul et.al.|[2209.06049v1](http://arxiv.org/abs/2209.06049v1)|[2209.06049v1](http://arxiv.org/pdf/2209.06049v1)|null|
 |**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|[2209.05451v1](http://arxiv.org/pdf/2209.05451v1)|null|
 |**2022-09-12**|**Soft Diffusion: Score Matching for General Corruptions**|Giannis Daras et.al.|[2209.05442v1](http://arxiv.org/abs/2209.05442v1)|[2209.05442v1](http://arxiv.org/pdf/2209.05442v1)|null|
 |**2022-09-12**|**Self-supervised Wide Baseline Visual Servoing via 3D Equivariance**|Jinwook Huh et.al.|[2209.05432v1](http://arxiv.org/abs/2209.05432v1)|[2209.05432v1](http://arxiv.org/pdf/2209.05432v1)|null|
