@@ -1,4 +1,4 @@
-## Updated on 2022.09.14
+## Updated on 2022.09.15
 
 ## Astrophysics
 
@@ -13,7 +13,7 @@
 |**2022-09-13**|**The dust sublimation region of the Type 1 AGN NGC4151 at a hundred micro-arcsecond scale as resolved by the CHARA Array interferometer**|Makoto Kishimoto et.al.|[2209.06061v1](http://arxiv.org/abs/2209.06061v1)|[2209.06061v1](http://arxiv.org/pdf/2209.06061v1)|null|
 |**2022-09-13**|**Stability and Observability of Magnetic Primordial Black Hole-Neutron Star Collisions**|John Estes et.al.|[2209.06060v1](http://arxiv.org/abs/2209.06060v1)|[2209.06060v1](http://arxiv.org/pdf/2209.06060v1)|null|
 |**2022-09-13**|**Bird's eye view of molecular clouds in the Milky Way: II. Cloud kinematics from sub-pc to kpc scales**|Andri Spilker et.al.|[2209.06059v1](http://arxiv.org/abs/2209.06059v1)|[2209.06059v1](http://arxiv.org/pdf/2209.06059v1)|null|
-|**2022-09-13**|**Polytropic fits of modern and unified equations of state**|Suleiman Lami et.al.|[2209.06052v1](http://arxiv.org/abs/2209.06052v1)|[2209.06052v1](http://arxiv.org/pdf/2209.06052v1)|null|
+|**2022-09-14**|**Polytropic fits of modern and unified equations of state**|Lami Suleiman et.al.|[2209.06052v2](http://arxiv.org/abs/2209.06052v2)|[2209.06052v2](http://arxiv.org/pdf/2209.06052v2)|null|
 |**2022-09-12**|**The False Alarms induced by Gaussian Noise in Gravitational Wave Detectors**|Gonzalo Morras et.al.|[2209.05475v1](http://arxiv.org/abs/2209.05475v1)|[2209.05475v1](http://arxiv.org/pdf/2209.05475v1)|null|
 |**2022-09-12**|**Constraining the physics of star formation from CIB-cosmic shear cross-correlations**|Baptiste Jego et.al.|[2209.05472v1](http://arxiv.org/abs/2209.05472v1)|[2209.05472v1](http://arxiv.org/pdf/2209.05472v1)|null|
 |**2022-09-12**|**Self-force regularization of a point particle for generic orbits in Kerr spacetime: electromagnetic and gravitational cases**|Anna Heffernan et.al.|[2209.05450v1](http://arxiv.org/abs/2209.05450v1)|[2209.05450v1](http://arxiv.org/pdf/2209.05450v1)|null|
