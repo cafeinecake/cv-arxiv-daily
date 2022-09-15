@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-14**|**Global dynamics and architecture of the Kepler-444 system**|M. Stalport et.al.|[2209.06810v1](http://arxiv.org/abs/2209.06810v1)|[2209.06810v1](http://arxiv.org/pdf/2209.06810v1)|null|
+|**2022-09-14**|**Nonlinear evolution of streaming instabilities in accreting protoplanetary disks**|Chun-Yen Hsu et.al.|[2209.06784v1](http://arxiv.org/abs/2209.06784v1)|[2209.06784v1](http://arxiv.org/pdf/2209.06784v1)|null|
+|**2022-09-14**|**A millimeter-multiwavelength continuum study of VLA 1623 West**|Arnaud Michel et.al.|[2209.06781v1](http://arxiv.org/abs/2209.06781v1)|[2209.06781v1](http://arxiv.org/pdf/2209.06781v1)|null|
+|**2022-09-14**|**Cosmological distances with general-relativistic ray tracing: framework and comparison to cosmographic predictions**|Hayley J. Macpherson et.al.|[2209.06775v1](http://arxiv.org/abs/2209.06775v1)|[2209.06775v1](http://arxiv.org/pdf/2209.06775v1)|null|
+|**2022-09-14**|**A Kinematical Study of the Dwarf Irregular Galaxy NGC 1569 and its Supernova Remnants**|M. Sanchez-Cruces et.al.|[2209.06766v1](http://arxiv.org/abs/2209.06766v1)|[2209.06766v1](http://arxiv.org/pdf/2209.06766v1)|null|
+|**2022-09-14**|**Segment-level thermal sensitivity analysis for exo-Earth imaging**|Ananya Sahoo et.al.|[2209.06762v1](http://arxiv.org/abs/2209.06762v1)|[2209.06762v1](http://arxiv.org/pdf/2209.06762v1)|null|
+|**2022-09-14**|**GOALS-JWST: Tracing AGN Feedback on the Star-Forming ISM in NGC 7469**|Thomas S. -Y. Lai et.al.|[2209.06741v1](http://arxiv.org/abs/2209.06741v1)|[2209.06741v1](http://arxiv.org/pdf/2209.06741v1)|null|
+|**2022-09-14**|**SICRET: Supernova Ia Cosmology with truncated marginal neural Ratio EsTimation**|Konstantin Karchev et.al.|[2209.06733v1](http://arxiv.org/abs/2209.06733v1)|[2209.06733v1](http://arxiv.org/pdf/2209.06733v1)|null|
+|**2022-09-14**|**Revisiting the Evidence for an Intermediate-mass Black Hole in the Center of NGC 6624 with Simulations**|Li-Chun Wang et.al.|[2209.06714v1](http://arxiv.org/abs/2209.06714v1)|[2209.06714v1](http://arxiv.org/pdf/2209.06714v1)|null|
+|**2022-09-14**|**Prominence fine structures in weakly twisted and highly twisted magnetic flux ropes**|J. H. Guo et.al.|[2209.06712v1](http://arxiv.org/abs/2209.06712v1)|[2209.06712v1](http://arxiv.org/pdf/2209.06712v1)|null|
 |**2022-09-13**|**Convective outgassing efficiency in planetary magma oceans: insights from computational fluid dynamics**|Arnaud Salvador et.al.|[2209.06199v1](http://arxiv.org/abs/2209.06199v1)|[2209.06199v1](http://arxiv.org/pdf/2209.06199v1)|null|
 |**2022-09-13**|**Simulations of PBH formation at the QCD epoch and comparison with the GWTC-3 catalog**|Albert Escrivà et.al.|[2209.06196v1](http://arxiv.org/abs/2209.06196v1)|[2209.06196v1](http://arxiv.org/pdf/2209.06196v1)|null|
 |**2022-09-13**|**A simulation experiment of a pipeline based on machine learning for neutral hydrogen intensity mapping surveys**|Lin-Cheng Li et.al.|[2209.06180v1](http://arxiv.org/abs/2209.06180v1)|[2209.06180v1](http://arxiv.org/pdf/2209.06180v1)|null|
@@ -573,6 +583,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-14**|**Efficient Unsupervised Learning for Plankton Images**|Paolo Didier Alfano et.al.|[2209.06726v1](http://arxiv.org/abs/2209.06726v1)|[2209.06726v1](http://arxiv.org/pdf/2209.06726v1)|null|
+|**2022-09-14**|**FreeGaze: Resource-efficient Gaze Estimation via Frequency Domain Contrastive Learning**|Lingyu Du et.al.|[2209.06692v1](http://arxiv.org/abs/2209.06692v1)|[2209.06692v1](http://arxiv.org/pdf/2209.06692v1)|null|
+|**2022-09-14**|**Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[2209.06644v1](http://arxiv.org/pdf/2209.06644v1)|**[link](https://github.com/dmhyun/PERIS)**|
+|**2022-09-14**|**Automatic Comment Generation via Multi-Pass Deliberation**|Fangwen Mu et.al.|[2209.06634v1](http://arxiv.org/abs/2209.06634v1)|[2209.06634v1](http://arxiv.org/pdf/2209.06634v1)|**[link](https://github.com/ase-decom/ase22_decom)**|
+|**2022-09-14**|**Transformers and CNNs both Beat Humans on SBIR**|Omar Seddati et.al.|[2209.06629v1](http://arxiv.org/abs/2209.06629v1)|[2209.06629v1](http://arxiv.org/pdf/2209.06629v1)|null|
+|**2022-09-14**|**Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation**|Xiaoteng Ma et.al.|[2209.06620v1](http://arxiv.org/abs/2209.06620v1)|[2209.06620v1](http://arxiv.org/pdf/2209.06620v1)|null|
+|**2022-09-14**|**Learning state correspondence of reinforcement learning tasks for knowledge transfer**|Marko Ruman et.al.|[2209.06604v1](http://arxiv.org/abs/2209.06604v1)|[2209.06604v1](http://arxiv.org/pdf/2209.06604v1)|null|
+|**2022-09-14**|**Towards Better Generalization with Flexible Representation of Multi-Module Graph Neural Networks**|Hyungeun Lee et.al.|[2209.06589v1](http://arxiv.org/abs/2209.06589v1)|[2209.06589v1](http://arxiv.org/pdf/2209.06589v1)|null|
+|**2022-09-14**|**Pre-training for Information Retrieval: Are Hyperlinks Fully Explored?**|Jiawen Wu et.al.|[2209.06583v1](http://arxiv.org/abs/2209.06583v1)|[2209.06583v1](http://arxiv.org/pdf/2209.06583v1)|null|
+|**2022-09-14**|**The Embeddings World and Artificial General Intelligence**|Mostafa Haghir Chehreghani et.al.|[2209.06569v1](http://arxiv.org/abs/2209.06569v1)|[2209.06569v1](http://arxiv.org/pdf/2209.06569v1)|null|
 |**2022-09-13**|**Normalizing Flows for Interventional Density Estimation**|Valentyn Melnychuk et.al.|[2209.06203v1](http://arxiv.org/abs/2209.06203v1)|[2209.06203v1](http://arxiv.org/pdf/2209.06203v1)|null|
 |**2022-09-13**|**StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**|Adyasha Maharana et.al.|[2209.06192v1](http://arxiv.org/abs/2209.06192v1)|[2209.06192v1](http://arxiv.org/pdf/2209.06192v1)|**[link](https://github.com/adymaharana/storydalle)**|
 |**2022-09-13**|**Fast fitting of neural ordinary differential equations by Bayesian neural gradient matching to infer ecological interactions from time series data**|Willem Bonnaffé et.al.|[2209.06184v1](http://arxiv.org/abs/2209.06184v1)|[2209.06184v1](http://arxiv.org/pdf/2209.06184v1)|null|
