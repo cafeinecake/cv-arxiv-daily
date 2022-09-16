@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-15**|**Causal Modifications of Gravity and Their Observational Bounds**|Mark P. Hertzberg et.al.|[2209.07525v1](http://arxiv.org/abs/2209.07525v1)|[2209.07525v1](http://arxiv.org/pdf/2209.07525v1)|null|
+|**2022-09-15**|**Propagation of a realistic magnetar jet through binary neutron star merger environment and implications for short gamma-ray bursts**|Gustavo Soares et.al.|[2209.07514v1](http://arxiv.org/abs/2209.07514v1)|[2209.07514v1](http://arxiv.org/pdf/2209.07514v1)|null|
+|**2022-09-15**|**Leveraging cross-correlations and linear covariance-based filtering for line-intensity map reconstructions at linear scales**|Dongwoo T Chung et.al.|[2209.07500v1](http://arxiv.org/abs/2209.07500v1)|[2209.07500v1](http://arxiv.org/pdf/2209.07500v1)|null|
+|**2022-09-15**|**The Dragonfly Spectral Line Mapper: Design and First Light**|Seery Chen et.al.|[2209.07489v1](http://arxiv.org/abs/2209.07489v1)|[2209.07489v1](http://arxiv.org/pdf/2209.07489v1)|null|
+|**2022-09-15**|**Distributed Aperture Telescopes and the Dragonfly Telephoto Array**|Roberto G. Abraham et.al.|[2209.07488v1](http://arxiv.org/abs/2209.07488v1)|[2209.07488v1](http://arxiv.org/pdf/2209.07488v1)|null|
+|**2022-09-15**|**The pathfinder Dragonfly Spectral Line Mapper: Pushing the limits for ultra-low surface brightness spectroscopy**|Deborah M. Lokhorst et.al.|[2209.07487v1](http://arxiv.org/abs/2209.07487v1)|[2209.07487v1](http://arxiv.org/pdf/2209.07487v1)|null|
+|**2022-09-15**|**The Impending Opacity Challenge in Exoplanet Atmospheric Characterization**|Prajwal Niraula et.al.|[2209.07464v1](http://arxiv.org/abs/2209.07464v1)|[2209.07464v1](http://arxiv.org/pdf/2209.07464v1)|null|
+|**2022-09-15**|**Multi-probe analysis of the galaxy cluster CL J1226.9+3332: Hydrostatic mass and hydrostatic-to-lensing bias**|M. Muñoz-Echeverría et.al.|[2209.07460v1](http://arxiv.org/abs/2209.07460v1)|[2209.07460v1](http://arxiv.org/pdf/2209.07460v1)|null|
+|**2022-09-15**|**Report of the Topical Group on Particle Dark Matter for Snowmass 2021**|Jodi Cooley et.al.|[2209.07426v1](http://arxiv.org/abs/2209.07426v1)|[2209.07426v1](http://arxiv.org/pdf/2209.07426v1)|null|
+|**2022-09-15**|**Snowmass 2021 Cosmic Frontier White Paper: The Dense Matter Equation of State and QCD Phase Transitions**|Slavko Bogdanov et.al.|[2209.07412v1](http://arxiv.org/abs/2209.07412v1)|[2209.07412v1](http://arxiv.org/pdf/2209.07412v1)|null|
 |**2022-09-14**|**Global dynamics and architecture of the Kepler-444 system**|M. Stalport et.al.|[2209.06810v1](http://arxiv.org/abs/2209.06810v1)|[2209.06810v1](http://arxiv.org/pdf/2209.06810v1)|null|
 |**2022-09-14**|**Nonlinear evolution of streaming instabilities in accreting protoplanetary disks**|Chun-Yen Hsu et.al.|[2209.06784v1](http://arxiv.org/abs/2209.06784v1)|[2209.06784v1](http://arxiv.org/pdf/2209.06784v1)|null|
 |**2022-09-14**|**A millimeter-multiwavelength continuum study of VLA 1623 West**|Arnaud Michel et.al.|[2209.06781v1](http://arxiv.org/abs/2209.06781v1)|[2209.06781v1](http://arxiv.org/pdf/2209.06781v1)|null|
@@ -583,6 +593,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-15**|**On-Device Domain Generalization**|Kaiyang Zhou et.al.|[2209.07521v1](http://arxiv.org/abs/2209.07521v1)|[2209.07521v1](http://arxiv.org/pdf/2209.07521v1)|null|
+|**2022-09-15**|**Distribution Aware Metrics for Conditional Natural Language Generation**|David M Chan et.al.|[2209.07518v1](http://arxiv.org/abs/2209.07518v1)|[2209.07518v1](http://arxiv.org/pdf/2209.07518v1)|null|
+|**2022-09-15**|**Detecting Synthetic Speech Manipulation in Real Audio Recordings**|Md Hafizur Rahman et.al.|[2209.07498v1](http://arxiv.org/abs/2209.07498v1)|[2209.07498v1](http://arxiv.org/pdf/2209.07498v1)|null|
+|**2022-09-15**|**Report of the Topical Group on Artificial Neutrino Sources for Snowmass 2021**|L. Fields et.al.|[2209.07480v1](http://arxiv.org/abs/2209.07480v1)|[2209.07480v1](http://arxiv.org/pdf/2209.07480v1)|null|
+|**2022-09-15**|**Gollum: A Gold Standard for Large Scale Multi Source Knowledge Graph Matching**|Sven Hertling et.al.|[2209.07479v1](http://arxiv.org/abs/2209.07479v1)|[2209.07479v1](http://arxiv.org/pdf/2209.07479v1)|null|
+|**2022-09-15**|**Extended Intelligence**|David L Barack et.al.|[2209.07449v1](http://arxiv.org/abs/2209.07449v1)|[2209.07449v1](http://arxiv.org/pdf/2209.07449v1)|null|
+|**2022-09-15**|**Statistical monitoring of models based on artificial intelligence**|Anna Malinovskaya et.al.|[2209.07436v1](http://arxiv.org/abs/2209.07436v1)|[2209.07436v1](http://arxiv.org/pdf/2209.07436v1)|null|
+|**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v1](http://arxiv.org/abs/2209.07431v1)|[2209.07431v1](http://arxiv.org/pdf/2209.07431v1)|null|
+|**2022-09-15**|**Scalable Task-Driven Robotic Swarm Control via Collision Avoidance and Learning Mean-Field Control**|Kai Cui et.al.|[2209.07420v1](http://arxiv.org/abs/2209.07420v1)|[2209.07420v1](http://arxiv.org/pdf/2209.07420v1)|null|
+|**2022-09-15**|**Examining Large Pre-Trained Language Models for Machine Translation: What You Don't Know About It**|Lifeng Han et.al.|[2209.07417v1](http://arxiv.org/abs/2209.07417v1)|[2209.07417v1](http://arxiv.org/pdf/2209.07417v1)|null|
 |**2022-09-14**|**Efficient Unsupervised Learning for Plankton Images**|Paolo Didier Alfano et.al.|[2209.06726v1](http://arxiv.org/abs/2209.06726v1)|[2209.06726v1](http://arxiv.org/pdf/2209.06726v1)|null|
 |**2022-09-14**|**FreeGaze: Resource-efficient Gaze Estimation via Frequency Domain Contrastive Learning**|Lingyu Du et.al.|[2209.06692v1](http://arxiv.org/abs/2209.06692v1)|[2209.06692v1](http://arxiv.org/pdf/2209.06692v1)|null|
 |**2022-09-14**|**Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability**|Dongmin Hyun et.al.|[2209.06644v1](http://arxiv.org/abs/2209.06644v1)|[2209.06644v1](http://arxiv.org/pdf/2209.06644v1)|**[link](https://github.com/dmhyun/PERIS)**|
