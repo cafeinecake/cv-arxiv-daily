@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-16**|**Constraints on the hosts of UHECR accelerators**|Marco Stein Muzio et.al.|[2209.08068v1](http://arxiv.org/abs/2209.08068v1)|[2209.08068v1](http://arxiv.org/pdf/2209.08068v1)|null|
+|**2022-09-16**|**Snowmass2021 Cosmic Frontier: Report of the CF04 Topical Group on Dark Energy and Cosmic Acceleration in the Modern Universe**|James Annis et.al.|[2209.08049v1](http://arxiv.org/abs/2209.08049v1)|[2209.08049v1](http://arxiv.org/pdf/2209.08049v1)|null|
+|**2022-09-16**|**The Absolute Magnitudes of 1991T-like Supernovae**|M. M. Phillips et.al.|[2209.08031v1](http://arxiv.org/abs/2209.08031v1)|[2209.08031v1](http://arxiv.org/pdf/2209.08031v1)|null|
+|**2022-09-16**|**Spectroscopic study of solar transition region oscillations in the quiet-Sun observed by IRIS using Si IV spectral line**|Kartika Sangal et.al.|[2209.07993v1](http://arxiv.org/abs/2209.07993v1)|[2209.07993v1](http://arxiv.org/pdf/2209.07993v1)|null|
+|**2022-09-16**|**Theory of Neutrino Physics -- Snowmass TF11 (aka NF08) Topical Group Report**|André de Gouvêa et.al.|[2209.07983v1](http://arxiv.org/abs/2209.07983v1)|[2209.07983v1](http://arxiv.org/pdf/2209.07983v1)|null|
+|**2022-09-16**|**Recipe for inferring sub-surface solar magnetism via local mode-coupling using Slepian basis functions**|Srijan Bharati Das et.al.|[2209.07979v1](http://arxiv.org/abs/2209.07979v1)|[2209.07979v1](http://arxiv.org/pdf/2209.07979v1)|null|
+|**2022-09-16**|**Resolved SPLASH Chemodynamics in Andromeda's PHAT Stellar Halo and Disk: On the Nature of the Inner Halo Along the Major Axis**|Ivanna Escala et.al.|[2209.07962v1](http://arxiv.org/abs/2209.07962v1)|[2209.07962v1](http://arxiv.org/pdf/2209.07962v1)|null|
+|**2022-09-16**|**Fourier Domain**|Matteo Bachetti et.al.|[2209.07954v1](http://arxiv.org/abs/2209.07954v1)|[2209.07954v1](http://arxiv.org/pdf/2209.07954v1)|null|
+|**2022-09-16**|**Measurement of AGN dust extinction based on the near-infrared flux variability of WISE data**|Shoichiro Mizukoshi et.al.|[2209.07933v1](http://arxiv.org/abs/2209.07933v1)|[2209.07933v1](http://arxiv.org/pdf/2209.07933v1)|null|
+|**2022-09-16**|**The impact of dynamic pressure bumps on the observational properties of protoplanetary disks**|Jochen Stadler et.al.|[2209.07931v1](http://arxiv.org/abs/2209.07931v1)|[2209.07931v1](http://arxiv.org/pdf/2209.07931v1)|null|
 |**2022-09-15**|**Causal Modifications of Gravity and Their Observational Bounds**|Mark P. Hertzberg et.al.|[2209.07525v1](http://arxiv.org/abs/2209.07525v1)|[2209.07525v1](http://arxiv.org/pdf/2209.07525v1)|null|
 |**2022-09-15**|**Propagation of a realistic magnetar jet through binary neutron star merger environment and implications for short gamma-ray bursts**|Gustavo Soares et.al.|[2209.07514v1](http://arxiv.org/abs/2209.07514v1)|[2209.07514v1](http://arxiv.org/pdf/2209.07514v1)|null|
 |**2022-09-15**|**Leveraging cross-correlations and linear covariance-based filtering for line-intensity map reconstructions at linear scales**|Dongwoo T Chung et.al.|[2209.07500v1](http://arxiv.org/abs/2209.07500v1)|[2209.07500v1](http://arxiv.org/pdf/2209.07500v1)|null|
@@ -593,6 +603,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-16**|**Case Studies for Computing Density of Reachable States for Safe Autonomous Motion Planning**|Yue Meng et.al.|[2209.08073v1](http://arxiv.org/abs/2209.08073v1)|[2209.08073v1](http://arxiv.org/pdf/2209.08073v1)|null|
+|**2022-09-16**|**Self-Optimizing Feature Transformation**|Meng Xiao et.al.|[2209.08044v1](http://arxiv.org/abs/2209.08044v1)|[2209.08044v1](http://arxiv.org/pdf/2209.08044v1)|null|
+|**2022-09-16**|**Exploring the Whole Rashomon Set of Sparse Decision Trees**|Rui Xin et.al.|[2209.08040v1](http://arxiv.org/abs/2209.08040v1)|[2209.08040v1](http://arxiv.org/pdf/2209.08040v1)|null|
+|**2022-09-16**|**Learning Policies for Continuous Control via Transition Models**|Justus Huebotter et.al.|[2209.08033v1](http://arxiv.org/abs/2209.08033v1)|[2209.08033v1](http://arxiv.org/pdf/2209.08033v1)|null|
+|**2022-09-16**|**Detection of Interacting Variables for Generalized Linear Models via Neural Networks**|Yevhen Havrylenko et.al.|[2209.08030v1](http://arxiv.org/abs/2209.08030v1)|[2209.08030v1](http://arxiv.org/pdf/2209.08030v1)|null|
+|**2022-09-16**|**IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**|Li Yang et.al.|[2209.08018v1](http://arxiv.org/abs/2209.08018v1)|[2209.08018v1](http://arxiv.org/pdf/2209.08018v1)|**[link](https://github.com/western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics)**|
+|**2022-09-16**|**Self-Supervised Learning with an Information Maximization Criterion**|Serdar Ozsoy et.al.|[2209.07999v1](http://arxiv.org/abs/2209.07999v1)|[2209.07999v1](http://arxiv.org/pdf/2209.07999v1)|**[link](https://github.com/serdarozsoy/corinfomax-ssl)**|
+|**2022-09-16**|**SoLo T-DIRL: Socially-Aware Dynamic Local Planner based on Trajectory-Ranked Deep Inverse Reinforcement Learning**|Yifan Xu et.al.|[2209.07996v1](http://arxiv.org/abs/2209.07996v1)|[2209.07996v1](http://arxiv.org/pdf/2209.07996v1)|null|
+|**2022-09-16**|**A Multi-turn Machine Reading Comprehension Framework with Rethink Mechanism for Emotion-Cause Pair Extraction**|Changzhi Zhou et.al.|[2209.07972v1](http://arxiv.org/abs/2209.07972v1)|[2209.07972v1](http://arxiv.org/pdf/2209.07972v1)|**[link](https://github.com/zhoucz97/ecpe-mm-r)**|
+|**2022-09-16**|**User Guided Abductive Proof Generation for Answer Set Programming Queries (Extended Version)**|Avishkar Mahajan et.al.|[2209.07948v1](http://arxiv.org/abs/2209.07948v1)|[2209.07948v1](http://arxiv.org/pdf/2209.07948v1)|null|
 |**2022-09-15**|**On-Device Domain Generalization**|Kaiyang Zhou et.al.|[2209.07521v1](http://arxiv.org/abs/2209.07521v1)|[2209.07521v1](http://arxiv.org/pdf/2209.07521v1)|null|
 |**2022-09-15**|**Distribution Aware Metrics for Conditional Natural Language Generation**|David M Chan et.al.|[2209.07518v1](http://arxiv.org/abs/2209.07518v1)|[2209.07518v1](http://arxiv.org/pdf/2209.07518v1)|null|
 |**2022-09-15**|**Detecting Synthetic Speech Manipulation in Real Audio Recordings**|Md Hafizur Rahman et.al.|[2209.07498v1](http://arxiv.org/abs/2209.07498v1)|[2209.07498v1](http://arxiv.org/pdf/2209.07498v1)|null|
