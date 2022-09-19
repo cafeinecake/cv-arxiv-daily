@@ -1,4 +1,4 @@
-> Updated on 2022.09.18
+> Updated on 2022.09.19
 
 ## Astrophysics
 
@@ -589,7 +589,7 @@
 - 2022-09-15, **Distribution Aware Metrics for Conditional Natural Language Generation**, David M Chan et.al., Paper: [http://arxiv.org/abs/2209.07518v1](http://arxiv.org/abs/2209.07518v1), Paper: [http://arxiv.org/abs/2209.07518v1](http://arxiv.org/pdf/2209.07518v1)
 - 2022-09-15, **Detecting Synthetic Speech Manipulation in Real Audio Recordings**, Md Hafizur Rahman et.al., Paper: [http://arxiv.org/abs/2209.07498v1](http://arxiv.org/abs/2209.07498v1), Paper: [http://arxiv.org/abs/2209.07498v1](http://arxiv.org/pdf/2209.07498v1)
 - 2022-09-15, **Report of the Topical Group on Artificial Neutrino Sources for Snowmass 2021**, L. Fields et.al., Paper: [http://arxiv.org/abs/2209.07480v1](http://arxiv.org/abs/2209.07480v1), Paper: [http://arxiv.org/abs/2209.07480v1](http://arxiv.org/pdf/2209.07480v1)
-- 2022-09-15, **Gollum: A Gold Standard for Large Scale Multi Source Knowledge Graph Matching**, Sven Hertling et.al., Paper: [http://arxiv.org/abs/2209.07479v1](http://arxiv.org/abs/2209.07479v1), Paper: [http://arxiv.org/abs/2209.07479v1](http://arxiv.org/pdf/2209.07479v1)
+- 2022-09-16, **Gollum: A Gold Standard for Large Scale Multi Source Knowledge Graph Matching**, Sven Hertling et.al., Paper: [http://arxiv.org/abs/2209.07479v2](http://arxiv.org/abs/2209.07479v2), Paper: [http://arxiv.org/abs/2209.07479v2](http://arxiv.org/pdf/2209.07479v2)
 - 2022-09-15, **Extended Intelligence**, David L Barack et.al., Paper: [http://arxiv.org/abs/2209.07449v1](http://arxiv.org/abs/2209.07449v1), Paper: [http://arxiv.org/abs/2209.07449v1](http://arxiv.org/pdf/2209.07449v1)
 - 2022-09-15, **Statistical monitoring of models based on artificial intelligence**, Anna Malinovskaya et.al., Paper: [http://arxiv.org/abs/2209.07436v1](http://arxiv.org/abs/2209.07436v1), Paper: [http://arxiv.org/abs/2209.07436v1](http://arxiv.org/pdf/2209.07436v1)
 - 2022-09-15, **Compositional generalization through abstract representations in human and artificial neural networks**, Takuya Ito et.al., Paper: [http://arxiv.org/abs/2209.07431v1](http://arxiv.org/abs/2209.07431v1), Paper: [http://arxiv.org/abs/2209.07431v1](http://arxiv.org/pdf/2209.07431v1)
