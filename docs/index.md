@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-19**|**Challenges for dark matter direct search with SiPMs**|Alessandro Razeto et.al.|[2209.09224v1](http://arxiv.org/abs/2209.09224v1)|[2209.09224v1](http://arxiv.org/pdf/2209.09224v1)|null|
+|**2022-09-19**|**Mapping time-dependent magnetic topologies of active stars**|Benjamin Finociety et.al.|[2209.09216v1](http://arxiv.org/abs/2209.09216v1)|[2209.09216v1](http://arxiv.org/pdf/2209.09216v1)|null|
+|**2022-09-19**|**dmscatter: A Fast Program for WIMP-Nucleus Scattering**|Oliver Gorton et.al.|[2209.09187v1](http://arxiv.org/abs/2209.09187v1)|[2209.09187v1](http://arxiv.org/pdf/2209.09187v1)|null|
+|**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|[2209.09152v1](http://arxiv.org/pdf/2209.09152v1)|null|
+|**2022-09-19**|**Long Secondary Periods in Pulsating Red Giants: A Century of Investigation**|John R. Percy et.al.|[2209.09144v1](http://arxiv.org/abs/2209.09144v1)|[2209.09144v1](http://arxiv.org/pdf/2209.09144v1)|null|
+|**2022-09-19**|**29P/Schwassmann-Wachmann: A Rosetta Stone for Amorphous Water Ice and CO <-> CO2 Conversion in Centaurs and Comets?**|C. M. Lisse et.al.|[2209.09136v1](http://arxiv.org/abs/2209.09136v1)|[2209.09136v1](http://arxiv.org/pdf/2209.09136v1)|null|
+|**2022-09-19**|**SPECULOOS Northern Observatory: searching for red worlds in the northern skies**|Artem Y. Burdanov et.al.|[2209.09112v1](http://arxiv.org/abs/2209.09112v1)|[2209.09112v1](http://arxiv.org/pdf/2209.09112v1)|null|
+|**2022-09-19**|**A First Look at Cepheids in a SN Ia Host with JWST**|Wenlong Yuan et.al.|[2209.09101v1](http://arxiv.org/abs/2209.09101v1)|[2209.09101v1](http://arxiv.org/pdf/2209.09101v1)|null|
+|**2022-09-19**|**The shape of dark matter haloes: results from weak lensing in the Ultraviolet Near-Infrared Optical Northern Survey (UNIONS)**|Bailey Robison et.al.|[2209.09088v1](http://arxiv.org/abs/2209.09088v1)|[2209.09088v1](http://arxiv.org/pdf/2209.09088v1)|null|
+|**2022-09-19**|**Extracting nuclear matter properties from neutron star matter EoS using deep neural networks**|Márcio Ferreira et.al.|[2209.09085v1](http://arxiv.org/abs/2209.09085v1)|[2209.09085v1](http://arxiv.org/pdf/2209.09085v1)|null|
 |**2022-09-16**|**Constraints on the hosts of UHECR accelerators**|Marco Stein Muzio et.al.|[2209.08068v1](http://arxiv.org/abs/2209.08068v1)|[2209.08068v1](http://arxiv.org/pdf/2209.08068v1)|null|
 |**2022-09-16**|**Snowmass2021 Cosmic Frontier: Report of the CF04 Topical Group on Dark Energy and Cosmic Acceleration in the Modern Universe**|James Annis et.al.|[2209.08049v1](http://arxiv.org/abs/2209.08049v1)|[2209.08049v1](http://arxiv.org/pdf/2209.08049v1)|null|
 |**2022-09-16**|**The Absolute Magnitudes of 1991T-like Supernovae**|M. M. Phillips et.al.|[2209.08031v1](http://arxiv.org/abs/2209.08031v1)|[2209.08031v1](http://arxiv.org/pdf/2209.08031v1)|null|
@@ -603,6 +613,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-19**|**Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments**|Mingyo Seo et.al.|[2209.09233v1](http://arxiv.org/abs/2209.09233v1)|[2209.09233v1](http://arxiv.org/pdf/2209.09233v1)|null|
+|**2022-09-19**|**A Zero-Shot Adaptive Quadcopter Controller**|Dingqi Zhang et.al.|[2209.09232v1](http://arxiv.org/abs/2209.09232v1)|[2209.09232v1](http://arxiv.org/pdf/2209.09232v1)|null|
+|**2022-09-19**|**TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization**|Zijie J. Wang et.al.|[2209.09227v1](http://arxiv.org/abs/2209.09227v1)|[2209.09227v1](http://arxiv.org/pdf/2209.09227v1)|**[link](https://github.com/poloclub/timbertrek)**|
+|**2022-09-19**|**A probabilistic model of diffusion through a semi-permeable barrier**|Paul C Bressloff et.al.|[2209.09176v1](http://arxiv.org/abs/2209.09176v1)|[2209.09176v1](http://arxiv.org/pdf/2209.09176v1)|null|
+|**2022-09-19**|**On the Theoretical Properties of Noise Correlation in Stochastic Optimization**|Aurelien Lucchi et.al.|[2209.09162v1](http://arxiv.org/abs/2209.09162v1)|[2209.09162v1](http://arxiv.org/pdf/2209.09162v1)|null|
+|**2022-09-19**|**"Guess what I'm doing": Extending legibility to sequential decision tasks**|Miguel Faria et.al.|[2209.09141v1](http://arxiv.org/abs/2209.09141v1)|[2209.09141v1](http://arxiv.org/pdf/2209.09141v1)|null|
+|**2022-09-19**|**A Closer Look at Novel Class Discovery from the Labeled Set**|Ziyun Li et.al.|[2209.09120v1](http://arxiv.org/abs/2209.09120v1)|[2209.09120v1](http://arxiv.org/pdf/2209.09120v1)|null|
+|**2022-09-19**|**MSVIPER: Improved Policy Distillation for Reinforcement-Learning-Based Robot Navigation**|Aaron M. Roth et.al.|[2209.09079v1](http://arxiv.org/abs/2209.09079v1)|[2209.09079v1](http://arxiv.org/pdf/2209.09079v1)|null|
+|**2022-09-19**|**Specifying and Exploiting Non-Monotonic Domain-Specific Declarative Heuristics in Answer Set Programming**|Richard Comploi-Taupe et.al.|[2209.09066v1](http://arxiv.org/abs/2209.09066v1)|[2209.09066v1](http://arxiv.org/pdf/2209.09066v1)|null|
+|**2022-09-19**|**RAMP-Net: A Robust Adaptive MPC for Quadrotors via Physics-informed Neural Network**|Sourav Sanyal et.al.|[2209.09025v1](http://arxiv.org/abs/2209.09025v1)|[2209.09025v1](http://arxiv.org/pdf/2209.09025v1)|null|
 |**2022-09-16**|**Case Studies for Computing Density of Reachable States for Safe Autonomous Motion Planning**|Yue Meng et.al.|[2209.08073v1](http://arxiv.org/abs/2209.08073v1)|[2209.08073v1](http://arxiv.org/pdf/2209.08073v1)|null|
 |**2022-09-16**|**Self-Optimizing Feature Transformation**|Meng Xiao et.al.|[2209.08044v1](http://arxiv.org/abs/2209.08044v1)|[2209.08044v1](http://arxiv.org/pdf/2209.08044v1)|null|
 |**2022-09-16**|**Exploring the Whole Rashomon Set of Sparse Decision Trees**|Rui Xin et.al.|[2209.08040v1](http://arxiv.org/abs/2209.08040v1)|[2209.08040v1](http://arxiv.org/pdf/2209.08040v1)|null|
