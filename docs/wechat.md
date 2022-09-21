@@ -1,10 +1,10 @@
-> Updated on 2022.09.20
+> Updated on 2022.09.21
 
 ## Astrophysics
 
 - 2022-09-19, **Challenges for dark matter direct search with SiPMs**, Alessandro Razeto et.al., Paper: [http://arxiv.org/abs/2209.09224v1](http://arxiv.org/abs/2209.09224v1), Paper: [http://arxiv.org/abs/2209.09224v1](http://arxiv.org/pdf/2209.09224v1)
 - 2022-09-19, **Mapping time-dependent magnetic topologies of active stars**, Benjamin Finociety et.al., Paper: [http://arxiv.org/abs/2209.09216v1](http://arxiv.org/abs/2209.09216v1), Paper: [http://arxiv.org/abs/2209.09216v1](http://arxiv.org/pdf/2209.09216v1)
-- 2022-09-19, **dmscatter: A Fast Program for WIMP-Nucleus Scattering**, Oliver Gorton et.al., Paper: [http://arxiv.org/abs/2209.09187v1](http://arxiv.org/abs/2209.09187v1), Paper: [http://arxiv.org/abs/2209.09187v1](http://arxiv.org/pdf/2209.09187v1)
+- 2022-09-19, **dmscatter: A Fast Program for WIMP-Nucleus Scattering**, Oliver Gorton et.al., Paper: [http://arxiv.org/abs/2209.09187v1](http://arxiv.org/abs/2209.09187v1),Paper: [http://arxiv.org/abs/2209.09187v1](http://arxiv.org/pdf/2209.09187v1), Code: **[https://github.com/ogorton/dmscatter](https://github.com/ogorton/dmscatter)**
 - 2022-09-19, **On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**, Juan C. Palacios et.al., Paper: [http://arxiv.org/abs/2209.09152v1](http://arxiv.org/abs/2209.09152v1), Paper: [http://arxiv.org/abs/2209.09152v1](http://arxiv.org/pdf/2209.09152v1)
 - 2022-09-19, **Long Secondary Periods in Pulsating Red Giants: A Century of Investigation**, John R. Percy et.al., Paper: [http://arxiv.org/abs/2209.09144v1](http://arxiv.org/abs/2209.09144v1), Paper: [http://arxiv.org/abs/2209.09144v1](http://arxiv.org/pdf/2209.09144v1)
 - 2022-09-19, **29P/Schwassmann-Wachmann: A Rosetta Stone for Amorphous Water Ice and CO <-> CO2 Conversion in Centaurs and Comets?**, C. M. Lisse et.al., Paper: [http://arxiv.org/abs/2209.09136v1](http://arxiv.org/abs/2209.09136v1), Paper: [http://arxiv.org/abs/2209.09136v1](http://arxiv.org/pdf/2209.09136v1)
