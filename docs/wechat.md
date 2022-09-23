@@ -1,4 +1,4 @@
-> Updated on 2022.09.22
+> Updated on 2022.09.23
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@
 - 2022-09-21, **Wavelet analysis of the transient QPOs in MAXI J1535$-$571 with Insight-HXMT**, X. Chen et.al., Paper: [http://arxiv.org/abs/2209.10408v1](http://arxiv.org/abs/2209.10408v1), Paper: [http://arxiv.org/abs/2209.10408v1](http://arxiv.org/pdf/2209.10408v1)
 - 2022-09-21, **The simultaneity of emission from approaching and receding jets**, Thomas J. Maccarone et.al., Paper: [http://arxiv.org/abs/2209.10397v1](http://arxiv.org/abs/2209.10397v1), Paper: [http://arxiv.org/abs/2209.10397v1](http://arxiv.org/pdf/2209.10397v1)
 - 2022-09-21, **A refined dynamical mass for the black hole in the X-ray transient XTE J1859+226**, I. V. Yanes Rizo et.al., Paper: [http://arxiv.org/abs/2209.10395v1](http://arxiv.org/abs/2209.10395v1), Paper: [http://arxiv.org/abs/2209.10395v1](http://arxiv.org/pdf/2209.10395v1)
-- 2022-09-21, **ELM of ELM-WD: An extremely low mass hot donor star discovered in LAMOST survey**, Hailong Yuan et.al., Paper: [http://arxiv.org/abs/2209.10386v1](http://arxiv.org/abs/2209.10386v1), Paper: [http://arxiv.org/abs/2209.10386v1](http://arxiv.org/pdf/2209.10386v1)
+- 2022-09-22, **ELM of ELM-WD: An extremely low mass hot donor star discovered in LAMOST survey**, Hailong Yuan et.al., Paper: [http://arxiv.org/abs/2209.10386v2](http://arxiv.org/abs/2209.10386v2), Paper: [http://arxiv.org/abs/2209.10386v2](http://arxiv.org/pdf/2209.10386v2)
 - 2022-09-20, **Compressing the cosmological information in one-dimensional correlations of the Lyman-$α$ forest**, Christian Pedersen et.al., Paper: [http://arxiv.org/abs/2209.09895v1](http://arxiv.org/abs/2209.09895v1), Paper: [http://arxiv.org/abs/2209.09895v1](http://arxiv.org/pdf/2209.09895v1)
 - 2022-09-20, **Intermediate-mass black holes and the fundamental plane of black hole accretion**, Kayhan Gültekin et.al., Paper: [http://arxiv.org/abs/2209.09890v1](http://arxiv.org/abs/2209.09890v1), Paper: [http://arxiv.org/abs/2209.09890v1](http://arxiv.org/pdf/2209.09890v1)
 - 2022-09-20, **Revealing high-z Fermi-LAT BL Lacs using Swift and SARA data with photometric analysis**, Y. Sheng et.al., Paper: [http://arxiv.org/abs/2209.09877v1](http://arxiv.org/abs/2209.09877v1), Paper: [http://arxiv.org/abs/2209.09877v1](http://arxiv.org/pdf/2209.09877v1)
