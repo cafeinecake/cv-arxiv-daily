@@ -1,4 +1,4 @@
-> Updated on 2022.09.23
+> Updated on 2022.09.24
 
 ## Astrophysics
 
@@ -643,7 +643,7 @@
 - 2022-09-22, **A Generalist Neural Algorithmic Learner**, Borja Ibarz et.al., Paper: [http://arxiv.org/abs/2209.11142v1](http://arxiv.org/abs/2209.11142v1), Paper: [http://arxiv.org/abs/2209.11142v1](http://arxiv.org/pdf/2209.11142v1)
 - 2022-09-22, **Power Method, Inverse Power Method and Shifted Inverse Power Method Neural Networks for Solving Eigenvalue Problems of Linear Operators**, Qihong Yang et.al., Paper: [http://arxiv.org/abs/2209.11134v1](http://arxiv.org/abs/2209.11134v1), Paper: [http://arxiv.org/abs/2209.11134v1](http://arxiv.org/pdf/2209.11134v1)
 - 2022-09-22, **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, Rogerio Bonatti et.al., Paper: [http://arxiv.org/abs/2209.11133v1](http://arxiv.org/abs/2209.11133v1), Paper: [http://arxiv.org/abs/2209.11133v1](http://arxiv.org/pdf/2209.11133v1)
-- 2022-09-22, **CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement**, Sherif Abdulatif et.al., Paper: [http://arxiv.org/abs/2209.11112v1](http://arxiv.org/abs/2209.11112v1),Paper: [http://arxiv.org/abs/2209.11112v1](http://arxiv.org/pdf/2209.11112v1), Code: **[https://github.com/SherifAbdulatif/CMGAN](https://github.com/SherifAbdulatif/CMGAN)**
+- 2022-09-22, **CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement**, Sherif Abdulatif et.al., Paper: [http://arxiv.org/abs/2209.11112v1](http://arxiv.org/abs/2209.11112v1),Paper: [http://arxiv.org/abs/2209.11112v1](http://arxiv.org/pdf/2209.11112v1), Code: **[https://github.com/ruizhecao96/cmgan](https://github.com/ruizhecao96/cmgan)**
 - 2022-09-22, **Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2209.11094v1](http://arxiv.org/abs/2209.11094v1), Paper: [http://arxiv.org/abs/2209.11094v1](http://arxiv.org/pdf/2209.11094v1)
 - 2022-09-21, **FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**, Junjiao Tian et.al., Paper: [http://arxiv.org/abs/2209.10537v1](http://arxiv.org/abs/2209.10537v1),Paper: [http://arxiv.org/abs/2209.10537v1](http://arxiv.org/pdf/2209.10537v1), Code: **[https://github.com/gt-ripl/fedfor](https://github.com/gt-ripl/fedfor)**
 - 2022-09-21, **Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces**, Saeed Vahidian et.al., Paper: [http://arxiv.org/abs/2209.10526v1](http://arxiv.org/abs/2209.10526v1),Paper: [http://arxiv.org/abs/2209.10526v1](http://arxiv.org/pdf/2209.10526v1), Code: **[https://github.com/mmorafah/pacfl](https://github.com/mmorafah/pacfl)**
