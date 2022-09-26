@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.25
+## Updated on 2022.09.26
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@ layout: default
 |**2022-09-22**|**Turbulence in particle laden midplane layers of planet forming disks**|Debanjan Sengupta et.al.|[2209.11205v1](http://arxiv.org/abs/2209.11205v1)|[2209.11205v1](http://arxiv.org/pdf/2209.11205v1)|null|
 |**2022-09-22**|**FRECKLL: Full and Reduced Exoplanet Chemical Kinetics distiLLed**|Ahmed Faris Al-Refaie et.al.|[2209.11203v1](http://arxiv.org/abs/2209.11203v1)|[2209.11203v1](http://arxiv.org/pdf/2209.11203v1)|null|
 |**2022-09-22**|**Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network, data reduction procedures, and the catalog**|J. Borovicka et.al.|[2209.11186v1](http://arxiv.org/abs/2209.11186v1)|[2209.11186v1](http://arxiv.org/pdf/2209.11186v1)|null|
-|**2022-09-22**|**TOI-5205b: A Jupiter transiting an M dwarf near the Convective Boundary**|Shubham Kanodia et.al.|[2209.11160v1](http://arxiv.org/abs/2209.11160v1)|[2209.11160v1](http://arxiv.org/pdf/2209.11160v1)|null|
+|**2022-09-23**|**TOI-5205b: A Jupiter transiting an M dwarf near the Convective Boundary**|Shubham Kanodia et.al.|[2209.11160v2](http://arxiv.org/abs/2209.11160v2)|[2209.11160v2](http://arxiv.org/pdf/2209.11160v2)|null|
 |**2022-09-22**|**A Lunar Backup Record of Humanity**|Carson Ezell et.al.|[2209.11155v1](http://arxiv.org/abs/2209.11155v1)|[2209.11155v1](http://arxiv.org/pdf/2209.11155v1)|null|
 |**2022-09-22**|**MLGWSC-1: The first Machine Learning Gravitational-Wave Search Mock Data Challenge**|Marlin B. Schäfer et.al.|[2209.11146v1](http://arxiv.org/abs/2209.11146v1)|[2209.11146v1](http://arxiv.org/pdf/2209.11146v1)|**[link](https://github.com/gwastro/ml-mock-data-challenge-1)**|
 |**2022-09-22**|**SWIFT J0503.7-2819: A nearly synchronous intermediate polar below the period gap?**|Nikita Rawat et.al.|[2209.11141v1](http://arxiv.org/abs/2209.11141v1)|[2209.11141v1](http://arxiv.org/pdf/2209.11141v1)|null|
@@ -651,7 +651,7 @@ layout: default
 |**2022-09-22**|**A Generalist Neural Algorithmic Learner**|Borja Ibarz et.al.|[2209.11142v1](http://arxiv.org/abs/2209.11142v1)|[2209.11142v1](http://arxiv.org/pdf/2209.11142v1)|null|
 |**2022-09-22**|**Power Method, Inverse Power Method and Shifted Inverse Power Method Neural Networks for Solving Eigenvalue Problems of Linear Operators**|Qihong Yang et.al.|[2209.11134v1](http://arxiv.org/abs/2209.11134v1)|[2209.11134v1](http://arxiv.org/pdf/2209.11134v1)|null|
 |**2022-09-22**|**PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**|Rogerio Bonatti et.al.|[2209.11133v1](http://arxiv.org/abs/2209.11133v1)|[2209.11133v1](http://arxiv.org/pdf/2209.11133v1)|null|
-|**2022-09-22**|**CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement**|Sherif Abdulatif et.al.|[2209.11112v1](http://arxiv.org/abs/2209.11112v1)|[2209.11112v1](http://arxiv.org/pdf/2209.11112v1)|**[link](https://github.com/ruizhecao96/cmgan)**|
+|**2022-09-23**|**CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement**|Sherif Abdulatif et.al.|[2209.11112v2](http://arxiv.org/abs/2209.11112v2)|[2209.11112v2](http://arxiv.org/pdf/2209.11112v2)|**[link](https://github.com/ruizhecao96/cmgan)**|
 |**2022-09-22**|**Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation**|Jack Saunders et.al.|[2209.11094v1](http://arxiv.org/abs/2209.11094v1)|[2209.11094v1](http://arxiv.org/pdf/2209.11094v1)|null|
 |**2022-09-21**|**FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**|Junjiao Tian et.al.|[2209.10537v1](http://arxiv.org/abs/2209.10537v1)|[2209.10537v1](http://arxiv.org/pdf/2209.10537v1)|**[link](https://github.com/gt-ripl/fedfor)**|
 |**2022-09-21**|**Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces**|Saeed Vahidian et.al.|[2209.10526v1](http://arxiv.org/abs/2209.10526v1)|[2209.10526v1](http://arxiv.org/pdf/2209.10526v1)|**[link](https://github.com/mmorafah/pacfl)**|
