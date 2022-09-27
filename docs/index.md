@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.26
+## Updated on 2022.09.27
 
 ## Astrophysics
 
@@ -654,7 +654,7 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2022-09-23**|**Unified Algorithms for RL with Decision-Estimation Coefficients: No-Regret, PAC, and Reward-Free Learning**|Fan Chen et.al.|[2209.11745v1](http://arxiv.org/abs/2209.11745v1)|[2209.11745v1](http://arxiv.org/pdf/2209.11745v1)|null|
-|**2022-09-23**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v1](http://arxiv.org/abs/2209.11715v1)|[2209.11715v1](http://arxiv.org/pdf/2209.11715v1)|null|
+|**2022-09-26**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v2](http://arxiv.org/abs/2209.11715v2)|[2209.11715v2](http://arxiv.org/pdf/2209.11715v2)|**[link](https://github.com/wanlunsec/beatrix)**|
 |**2022-09-23**|**The SpeakIn Speaker Verification System for Far-Field Speaker Verification Challenge 2022**|Yu Zheng et.al.|[2209.11625v1](http://arxiv.org/abs/2209.11625v1)|[2209.11625v1](http://arxiv.org/pdf/2209.11625v1)|null|
 |**2022-09-23**|**Artificial Intelligence and Advanced Materials**|Cefe López et.al.|[2209.11618v1](http://arxiv.org/abs/2209.11618v1)|[2209.11618v1](http://arxiv.org/pdf/2209.11618v1)|null|
 |**2022-09-23**|**involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**|Gilad Rotman et.al.|[2209.11591v1](http://arxiv.org/abs/2209.11591v1)|[2209.11591v1](http://arxiv.org/pdf/2209.11591v1)|null|
