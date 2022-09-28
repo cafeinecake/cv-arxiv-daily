@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-27**|**NASDUCK SERF: New constraints on axion-like dark matter from a SERF comagnetometer**|Itay M. Bloch et.al.|[2209.13588v1](http://arxiv.org/abs/2209.13588v1)|[2209.13588v1](http://arxiv.org/pdf/2209.13588v1)|null|
+|**2022-09-27**|**Semi-Blind Source Separation with Learned Constraints**|Rémi Carloni Gertosio et.al.|[2209.13585v1](http://arxiv.org/abs/2209.13585v1)|[2209.13585v1](http://arxiv.org/pdf/2209.13585v1)|**[link](https://github.com/rcarlonigertosio/sgmca)**|
+|**2022-09-27**|**Long-term optical and $γ-$ray variability of the blazar PKS~1222+216**|Savithri H. Ezhikode et.al.|[2209.13574v1](http://arxiv.org/abs/2209.13574v1)|[2209.13574v1](http://arxiv.org/pdf/2209.13574v1)|null|
+|**2022-09-27**|**Simulating the deposition of angular momentum by jets in common envelope evolution**|Ron Schreier et.al.|[2209.13573v1](http://arxiv.org/abs/2209.13573v1)|[2209.13573v1](http://arxiv.org/pdf/2209.13573v1)|null|
+|**2022-09-27**|**Probing Axions via Light Circular Polarization and Event Horizon Telescope**|Soroush Shakeri et.al.|[2209.13572v1](http://arxiv.org/abs/2209.13572v1)|[2209.13572v1](http://arxiv.org/pdf/2209.13572v1)|null|
+|**2022-09-27**|**Reconstructing physical parameters from template gravitational wave spectra at LISA: first order phase transitions**|Chloe Gowling et.al.|[2209.13551v1](http://arxiv.org/abs/2209.13551v1)|[2209.13551v1](http://arxiv.org/pdf/2209.13551v1)|null|
+|**2022-09-27**|**Dynamical friction of a massive black hole in a turbulent gaseous medium**|Sandrine Lescaudron et.al.|[2209.13548v1](http://arxiv.org/abs/2209.13548v1)|[2209.13548v1](http://arxiv.org/pdf/2209.13548v1)|null|
+|**2022-09-27**|**Multi-spacecraft observations of shocklets at an interplanetary shock**|Domenico Trotta et.al.|[2209.13544v1](http://arxiv.org/abs/2209.13544v1)|[2209.13544v1](http://arxiv.org/pdf/2209.13544v1)|null|
+|**2022-09-27**|**Investigation of a likely orbital periodicity of Nova Hercules 2021 in X-rays and gamma-rays**|Lupin Chun-Che Lin et.al.|[2209.13493v1](http://arxiv.org/abs/2209.13493v1)|[2209.13493v1](http://arxiv.org/pdf/2209.13493v1)|null|
+|**2022-09-27**|**Rotating Solar Models in Agreement with Helioseismic Results and Updated Neutrino Fluxes**|Wuming Yang et.al.|[2209.13483v1](http://arxiv.org/abs/2209.13483v1)|[2209.13483v1](http://arxiv.org/pdf/2209.13483v1)|null|
 |**2022-09-26**|**Probing the link between quenching and morphological evolution**|Ioanna Koutsouridou et.al.|[2209.12883v1](http://arxiv.org/abs/2209.12883v1)|[2209.12883v1](http://arxiv.org/pdf/2209.12883v1)|null|
 |**2022-09-26**|**A health checkup test of the standard cosmological model in view of recent Cosmic Microwave Background Anisotropies experiments**|Eleonora Di Valentino et.al.|[2209.12872v1](http://arxiv.org/abs/2209.12872v1)|[2209.12872v1](http://arxiv.org/pdf/2209.12872v1)|null|
 |**2022-09-26**|**Relativistic Liquids: GENERIC or EIT?**|Lorenzo Gavassino et.al.|[2209.12865v1](http://arxiv.org/abs/2209.12865v1)|[2209.12865v1](http://arxiv.org/pdf/2209.12865v1)|null|
@@ -659,6 +669,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-27**|**Sauron U-Net: Simple automated redundancy elimination in medical image segmentation via filter pruning**|Juan Miguel Valverde et.al.|[2209.13590v1](http://arxiv.org/abs/2209.13590v1)|[2209.13590v1](http://arxiv.org/pdf/2209.13590v1)|**[link](https://github.com/jmlipman/sauronunet)**|
+|**2022-09-27**|**Learning When to Advise Human Decision Makers**|Gali Noti et.al.|[2209.13578v1](http://arxiv.org/abs/2209.13578v1)|[2209.13578v1](http://arxiv.org/pdf/2209.13578v1)|null|
+|**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|[2209.13575v1](http://arxiv.org/pdf/2209.13575v1)|null|
+|**2022-09-27**|**Polymer informatics at-scale with multitask graph neural networks**|Rishi Gurnani et.al.|[2209.13557v1](http://arxiv.org/abs/2209.13557v1)|[2209.13557v1](http://arxiv.org/pdf/2209.13557v1)|**[link](https://github.com/ramprasad-group/polygnn)**|
+|**2022-09-27**|**Contrast Pattern Mining: A Survey**|Yao Chen et.al.|[2209.13556v1](http://arxiv.org/abs/2209.13556v1)|[2209.13556v1](http://arxiv.org/pdf/2209.13556v1)|null|
+|**2022-09-27**|**Retrieval Based Time Series Forecasting**|Baoyu Jing et.al.|[2209.13525v1](http://arxiv.org/abs/2209.13525v1)|[2209.13525v1](http://arxiv.org/pdf/2209.13525v1)|null|
+|**2022-09-27**|**Formal Conceptual Views in Neural Networks**|Johannes Hirth et.al.|[2209.13517v1](http://arxiv.org/abs/2209.13517v1)|[2209.13517v1](http://arxiv.org/pdf/2209.13517v1)|**[link](https://github.com/fca-research/formal-conceptual-views-in-neural-networks)**|
+|**2022-09-27**|**Phy-Taylor: Physics-Model-Based Deep Neural Networks**|Yanbing Mao et.al.|[2209.13511v1](http://arxiv.org/abs/2209.13511v1)|[2209.13511v1](http://arxiv.org/pdf/2209.13511v1)|null|
+|**2022-09-27**|**Totally-ordered Sequential Rules for Utility Maximization**|Chunkai Zhang et.al.|[2209.13501v1](http://arxiv.org/abs/2209.13501v1)|[2209.13501v1](http://arxiv.org/pdf/2209.13501v1)|null|
+|**2022-09-27**|**Dense-TNT: Efficient Vehicle Type Classification Neural Network Using Satellite Imagery**|Ruikang Luo et.al.|[2209.13500v1](http://arxiv.org/abs/2209.13500v1)|[2209.13500v1](http://arxiv.org/pdf/2209.13500v1)|null|
 |**2022-09-26**|**It Takes Two: Learning to Plan for Human-Robot Cooperative Carrying**|Eley Ng et.al.|[2209.12890v1](http://arxiv.org/abs/2209.12890v1)|[2209.12890v1](http://arxiv.org/pdf/2209.12890v1)|null|
 |**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|[2209.12886v1](http://arxiv.org/pdf/2209.12886v1)|null|
 |**2022-09-26**|**Environmental and Social Sustainability of Creative-Ai**|André Holzapfel et.al.|[2209.12879v1](http://arxiv.org/abs/2209.12879v1)|[2209.12879v1](http://arxiv.org/pdf/2209.12879v1)|null|
