@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.27
+## Updated on 2022.09.28
 
 ## Astrophysics
 
@@ -13,7 +13,7 @@ layout: default
 |**2022-09-26**|**Relativistic Liquids: GENERIC or EIT?**|Lorenzo Gavassino et.al.|[2209.12865v1](http://arxiv.org/abs/2209.12865v1)|[2209.12865v1](http://arxiv.org/pdf/2209.12865v1)|null|
 |**2022-09-26**|**SIT 45: An interacting, compact, and star-forming isolated galaxy triplet**|D. Grajales-Medina et.al.|[2209.12850v1](http://arxiv.org/abs/2209.12850v1)|[2209.12850v1](http://arxiv.org/pdf/2209.12850v1)|null|
 |**2022-09-26**|**The Radius of PSR J0740+6620 from NICER with NICER background estimates**|Tuomo Salmi et.al.|[2209.12840v1](http://arxiv.org/abs/2209.12840v1)|[2209.12840v1](http://arxiv.org/pdf/2209.12840v1)|null|
-|**2022-09-26**|**The ALMA Survey of 70 $μ\rm m$ Dark High-mass Clumps in Early Stages (ASHES). VII: Chemistry of Embedded Dense Cores**|Shanghuo Li et.al.|[2209.12814v1](http://arxiv.org/abs/2209.12814v1)|[2209.12814v1](http://arxiv.org/pdf/2209.12814v1)|null|
+|**2022-09-27**|**The ALMA Survey of 70 $μ\rm m$ Dark High-mass Clumps in Early Stages (ASHES). VII: Chemistry of Embedded Dense Cores**|Shanghuo Li et.al.|[2209.12814v2](http://arxiv.org/abs/2209.12814v2)|[2209.12814v2](http://arxiv.org/pdf/2209.12814v2)|null|
 |**2022-09-26**|**Statistical effects of the observer's peculiar velocity on source number counts**|Charles Dalang et.al.|[2209.12812v1](http://arxiv.org/abs/2209.12812v1)|[2209.12812v1](http://arxiv.org/pdf/2209.12812v1)|null|
 |**2022-09-26**|**Machine learning constraints on deviations from general relativity from the large scale structure of the Universe**|George Alestas et.al.|[2209.12799v1](http://arxiv.org/abs/2209.12799v1)|[2209.12799v1](http://arxiv.org/pdf/2209.12799v1)|null|
 |**2022-09-26**|**Multi-wavelength Observations of MWC 297: Constraints on Disk Inclination and Mass Outflow**|William D. Vacca et.al.|[2209.12795v1](http://arxiv.org/abs/2209.12795v1)|[2209.12795v1](http://arxiv.org/pdf/2209.12795v1)|null|
@@ -672,7 +672,7 @@ layout: default
 |**2022-09-26**|**Abductive forgetting**|Paolo Liberatore et.al.|[2209.12825v1](http://arxiv.org/abs/2209.12825v1)|[2209.12825v1](http://arxiv.org/pdf/2209.12825v1)|null|
 |**2022-09-26**|**Fast-FNet: Accelerating Transformer Encoder Models via Efficient Fourier Layers**|Nurullah Sevim et.al.|[2209.12816v1](http://arxiv.org/abs/2209.12816v1)|[2209.12816v1](http://arxiv.org/pdf/2209.12816v1)|null|
 |**2022-09-26**|**Do ever larger octopi still amplify reporting biases? Evidence from judgments of typical colour**|Fangyu Liu et.al.|[2209.12786v1](http://arxiv.org/abs/2209.12786v1)|[2209.12786v1](http://arxiv.org/pdf/2209.12786v1)|null|
-|**2022-09-26**|**Truth and Preferences -- A Game Approach for Qualitative Choice Logic**|Robert Freiman et.al.|[2209.12777v1](http://arxiv.org/abs/2209.12777v1)|[2209.12777v1](http://arxiv.org/pdf/2209.12777v1)|null|
+|**2022-09-27**|**Truth and Preferences -- A Game Approach for Qualitative Choice Logic**|Robert Freiman et.al.|[2209.12777v2](http://arxiv.org/abs/2209.12777v2)|[2209.12777v2](http://arxiv.org/pdf/2209.12777v2)|null|
 |**2022-09-23**|**Unified Algorithms for RL with Decision-Estimation Coefficients: No-Regret, PAC, and Reward-Free Learning**|Fan Chen et.al.|[2209.11745v1](http://arxiv.org/abs/2209.11745v1)|[2209.11745v1](http://arxiv.org/pdf/2209.11745v1)|null|
 |**2022-09-26**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v2](http://arxiv.org/abs/2209.11715v2)|[2209.11715v2](http://arxiv.org/pdf/2209.11715v2)|**[link](https://github.com/wanlunsec/beatrix)**|
 |**2022-09-23**|**The SpeakIn Speaker Verification System for Far-Field Speaker Verification Challenge 2022**|Yu Zheng et.al.|[2209.11625v1](http://arxiv.org/abs/2209.11625v1)|[2209.11625v1](http://arxiv.org/pdf/2209.11625v1)|null|
