@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-28**|**Are Am stars and hot-Jupiter planets related?**|C. Saffe et.al.|[2209.14257v1](http://arxiv.org/abs/2209.14257v1)|[2209.14257v1](http://arxiv.org/pdf/2209.14257v1)|null|
+|**2022-09-28**|**Spiral instabilities: Mode saturation and decay**|J A Sellwood et.al.|[2209.14256v1](http://arxiv.org/abs/2209.14256v1)|[2209.14256v1](http://arxiv.org/pdf/2209.14256v1)|null|
+|**2022-09-28**|**Radio source-component association for the LOFAR Two-metre Sky Survey with region-based convolutional neural networks**|Rafaël I. J. Mostert et.al.|[2209.14226v1](http://arxiv.org/abs/2209.14226v1)|[2209.14226v1](http://arxiv.org/pdf/2209.14226v1)|null|
+|**2022-09-28**|**New Constraints on Warm Dark Matter from the Lyman-$α$ Forest Power Spectrum**|Bruno Villasenor et.al.|[2209.14220v1](http://arxiv.org/abs/2209.14220v1)|[2209.14220v1](http://arxiv.org/pdf/2209.14220v1)|null|
+|**2022-09-28**|**Optical circular polarization induced by axion-like particles in blazars**|Run-Min Yao et.al.|[2209.14214v1](http://arxiv.org/abs/2209.14214v1)|[2209.14214v1](http://arxiv.org/pdf/2209.14214v1)|null|
+|**2022-09-28**|**Galaxy interactions in filaments and sheets: effects of the large-scale structures versus the local density**|Apashanka Das et.al.|[2209.14194v1](http://arxiv.org/abs/2209.14194v1)|[2209.14194v1](http://arxiv.org/pdf/2209.14194v1)|null|
+|**2022-09-28**|**Primordial Black Hole Formation in Starobinsky's Linear Potential Model**|Shi Pi et.al.|[2209.14183v1](http://arxiv.org/abs/2209.14183v1)|[2209.14183v1](http://arxiv.org/pdf/2209.14183v1)|null|
+|**2022-09-28**|**Spectral and Timing properties of the recently discovered Be/X-ray pulsar eRASSUJ 052914.9-662446**|Binay Rai et.al.|[2209.14180v1](http://arxiv.org/abs/2209.14180v1)|[2209.14180v1](http://arxiv.org/pdf/2209.14180v1)|null|
+|**2022-09-28**|**Colour gradients of low-redshift galaxies in the DESI Legacy Imaging Survey**|Li-Wen Liao et.al.|[2209.14166v1](http://arxiv.org/abs/2209.14166v1)|[2209.14166v1](http://arxiv.org/pdf/2209.14166v1)|null|
+|**2022-09-28**|**Spiral Arms are Metal Freeways: Azimuthal Gas-Phase Metallicity Variations in Simulated Cosmological Zoom-in Flocculent Disks**|Matthew E. Orr et.al.|[2209.14159v1](http://arxiv.org/abs/2209.14159v1)|[2209.14159v1](http://arxiv.org/pdf/2209.14159v1)|null|
 |**2022-09-27**|**NASDUCK SERF: New constraints on axion-like dark matter from a SERF comagnetometer**|Itay M. Bloch et.al.|[2209.13588v1](http://arxiv.org/abs/2209.13588v1)|[2209.13588v1](http://arxiv.org/pdf/2209.13588v1)|null|
 |**2022-09-27**|**Semi-Blind Source Separation with Learned Constraints**|Rémi Carloni Gertosio et.al.|[2209.13585v1](http://arxiv.org/abs/2209.13585v1)|[2209.13585v1](http://arxiv.org/pdf/2209.13585v1)|**[link](https://github.com/rcarlonigertosio/sgmca)**|
 |**2022-09-27**|**Long-term optical and $γ-$ray variability of the blazar PKS~1222+216**|Savithri H. Ezhikode et.al.|[2209.13574v1](http://arxiv.org/abs/2209.13574v1)|[2209.13574v1](http://arxiv.org/pdf/2209.13574v1)|null|
@@ -669,6 +679,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-28**|**Conformal Prediction is Robust to Label Noise**|Bat-Sheva Einbinder et.al.|[2209.14295v1](http://arxiv.org/abs/2209.14295v1)|[2209.14295v1](http://arxiv.org/pdf/2209.14295v1)|null|
+|**2022-09-28**|**Proceedings of the AI-HRI Symposium at AAAI-FSS 2022**|Zhao Han et.al.|[2209.14292v1](http://arxiv.org/abs/2209.14292v1)|[2209.14292v1](http://arxiv.org/pdf/2209.14292v1)|null|
+|**2022-09-28**|**Multilingual Search with Subword TF-IDF**|Artit Wangperawong et.al.|[2209.14281v1](http://arxiv.org/abs/2209.14281v1)|[2209.14281v1](http://arxiv.org/pdf/2209.14281v1)|**[link](https://github.com/artitw/text2text)**|
+|**2022-09-28**|**Audio Retrieval with WavText5K and CLAP Training**|Soham Deshmukh et.al.|[2209.14275v1](http://arxiv.org/abs/2209.14275v1)|[2209.14275v1](http://arxiv.org/pdf/2209.14275v1)|**[link](https://github.com/microsoft/wavtext5k)**|
+|**2022-09-28**|**Multimodal Prediction of Spontaneous Humour: A Novel Dataset and First Results**|Lukas Christ et.al.|[2209.14272v1](http://arxiv.org/abs/2209.14272v1)|[2209.14272v1](http://arxiv.org/pdf/2209.14272v1)|**[link](https://github.com/eihw/passau-sfch)**|
+|**2022-09-28**|**Physics-aware Differentiable Discrete Codesign for Diffractive Optical Neural Networks**|Yingjie Li et.al.|[2209.14252v1](http://arxiv.org/abs/2209.14252v1)|[2209.14252v1](http://arxiv.org/pdf/2209.14252v1)|null|
+|**2022-09-28**|**Online Subset Selection using $α$-Core with no Augmented Regret**|Sourav Sahoo et.al.|[2209.14222v1](http://arxiv.org/abs/2209.14222v1)|[2209.14222v1](http://arxiv.org/pdf/2209.14222v1)|null|
+|**2022-09-28**|**DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body**|Alberto Silvio Chiappa et.al.|[2209.14218v1](http://arxiv.org/abs/2209.14218v1)|[2209.14218v1](http://arxiv.org/pdf/2209.14218v1)|null|
+|**2022-09-28**|**Quantum Hall Phases of Cold Bose Gases**|Nicolas Rougerie et.al.|[2209.14215v1](http://arxiv.org/abs/2209.14215v1)|[2209.14215v1](http://arxiv.org/pdf/2209.14215v1)|null|
+|**2022-09-28**|**Programmable and Customized Intelligence for Traffic Steering in 5G Networks Using Open RAN Architectures**|Andrea Lacava et.al.|[2209.14171v1](http://arxiv.org/abs/2209.14171v1)|[2209.14171v1](http://arxiv.org/pdf/2209.14171v1)|null|
 |**2022-09-27**|**Sauron U-Net: Simple automated redundancy elimination in medical image segmentation via filter pruning**|Juan Miguel Valverde et.al.|[2209.13590v1](http://arxiv.org/abs/2209.13590v1)|[2209.13590v1](http://arxiv.org/pdf/2209.13590v1)|**[link](https://github.com/jmlipman/sauronunet)**|
 |**2022-09-27**|**Learning When to Advise Human Decision Makers**|Gali Noti et.al.|[2209.13578v1](http://arxiv.org/abs/2209.13578v1)|[2209.13578v1](http://arxiv.org/pdf/2209.13578v1)|null|
 |**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|[2209.13575v1](http://arxiv.org/pdf/2209.13575v1)|null|
