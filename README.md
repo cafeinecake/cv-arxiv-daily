@@ -1,9 +1,19 @@
-## Updated on 2022.09.29
+## Updated on 2022.09.30
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-29**|**The Circumgalactic H$α$ Spectrograph (CH$α$S) I. Design, Engineering, and Early Commissioning**|Nicole Melso et.al.|[2209.14999v1](http://arxiv.org/abs/2209.14999v1)|[2209.14999v1](http://arxiv.org/pdf/2209.14999v1)|null|
+|**2022-09-29**|**Mapping the Thermal Condensation of Diffuse H I in the North Celestial Pole Loop**|Mukesh Taank et.al.|[2209.14998v1](http://arxiv.org/abs/2209.14998v1)|[2209.14998v1](http://arxiv.org/pdf/2209.14998v1)|null|
+|**2022-09-29**|**Cosmic Reionization On Computers: Baryonic Effects on Halo Concentrations During the Epoch of Reionization**|Hanjue Zhu et.al.|[2209.14950v1](http://arxiv.org/abs/2209.14950v1)|[2209.14950v1](http://arxiv.org/pdf/2209.14950v1)|null|
+|**2022-09-29**|**Role of Filamentary Structures in the Formation of Two Dense Cores, L1544 and L694-2**|Shinyoung Kim et.al.|[2209.14943v1](http://arxiv.org/abs/2209.14943v1)|[2209.14943v1](http://arxiv.org/pdf/2209.14943v1)|null|
+|**2022-09-29**|**Reference Optical Turbulence and Wind Profiles for Single Conjugate and Extreme Adaptive Optics**|O. J. D. Farley et.al.|[2209.14931v1](http://arxiv.org/abs/2209.14931v1)|[2209.14931v1](http://arxiv.org/pdf/2209.14931v1)|null|
+|**2022-09-29**|**Dipole Cosmology: The Copernican Paradigm Beyond FLRW**|Chethan Krishnan et.al.|[2209.14918v1](http://arxiv.org/abs/2209.14918v1)|[2209.14918v1](http://arxiv.org/pdf/2209.14918v1)|null|
+|**2022-09-29**|**Investigating 2M1155-7919B: a Nearby, Young, Low-Mass Star Actively Accreting from a Nearly Edge-on, Dusty Disk**|D. Annie Dickson-Vandervelde et.al.|[2209.14917v1](http://arxiv.org/abs/2209.14917v1)|[2209.14917v1](http://arxiv.org/pdf/2209.14917v1)|null|
+|**2022-09-29**|**Thermodynamics of the inner heliosheath**|G. Livadiotis et.al.|[2209.14897v1](http://arxiv.org/abs/2209.14897v1)|[2209.14897v1](http://arxiv.org/pdf/2209.14897v1)|null|
+|**2022-09-29**|**Formation, distribution and IR emission of dust in the clumpy ejecta of Type II-P core-collapse supernovae, in isotropic and anisotropic scenarios**|Arkaprabha Sarangi et.al.|[2209.14896v1](http://arxiv.org/abs/2209.14896v1)|[2209.14896v1](http://arxiv.org/pdf/2209.14896v1)|null|
+|**2022-09-29**|**The halo mass function and filaments in full cosmological simulations with fuzzy dark matter**|Simon May et.al.|[2209.14886v1](http://arxiv.org/abs/2209.14886v1)|[2209.14886v1](http://arxiv.org/pdf/2209.14886v1)|null|
 |**2022-09-28**|**Are Am stars and hot-Jupiter planets related?**|C. Saffe et.al.|[2209.14257v1](http://arxiv.org/abs/2209.14257v1)|[2209.14257v1](http://arxiv.org/pdf/2209.14257v1)|null|
 |**2022-09-28**|**Spiral instabilities: Mode saturation and decay**|J A Sellwood et.al.|[2209.14256v1](http://arxiv.org/abs/2209.14256v1)|[2209.14256v1](http://arxiv.org/pdf/2209.14256v1)|null|
 |**2022-09-28**|**Radio source-component association for the LOFAR Two-metre Sky Survey with region-based convolutional neural networks**|Rafaël I. J. Mostert et.al.|[2209.14226v1](http://arxiv.org/abs/2209.14226v1)|[2209.14226v1](http://arxiv.org/pdf/2209.14226v1)|null|
@@ -679,6 +689,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-09-29**|**Understanding Collapse in Non-Contrastive Learning**|Alexander C. Li et.al.|[2209.15007v1](http://arxiv.org/abs/2209.15007v1)|[2209.15007v1](http://arxiv.org/pdf/2209.15007v1)|null|
+|**2022-09-29**|**Compositional Semantic Parsing with Large Language Models**|Andrew Drozdov et.al.|[2209.15003v1](http://arxiv.org/abs/2209.15003v1)|[2209.15003v1](http://arxiv.org/pdf/2209.15003v1)|null|
+|**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|[2209.15001v1](http://arxiv.org/pdf/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
+|**2022-09-29**|**REST: REtrieve & Self-Train for generative action recognition**|Adrian Bulat et.al.|[2209.15000v1](http://arxiv.org/abs/2209.15000v1)|[2209.15000v1](http://arxiv.org/pdf/2209.15000v1)|null|
+|**2022-09-29**|**Optimistic MLE -- A Generic Model-based Algorithm for Partially Observable Sequential Decision Making**|Qinghua Liu et.al.|[2209.14997v1](http://arxiv.org/abs/2209.14997v1)|[2209.14997v1](http://arxiv.org/pdf/2209.14997v1)|null|
+|**2022-09-29**|**Partially Observable RL with B-Stability: Unified Structural Condition and Sharp Sample-Efficient Algorithms**|Fan Chen et.al.|[2209.14990v1](http://arxiv.org/abs/2209.14990v1)|[2209.14990v1](http://arxiv.org/pdf/2209.14990v1)|null|
+|**2022-09-29**|**Stop Wasting My Time! Saving Days of ImageNet and BERT Training with Latest Weight Averaging**|Jean Kaddour et.al.|[2209.14981v1](http://arxiv.org/abs/2209.14981v1)|[2209.14981v1](http://arxiv.org/pdf/2209.14981v1)|null|
+|**2022-09-29**|**Ultrastrong light-matter interaction in a photonic crystal**|Andrei Vrajitoarea et.al.|[2209.14972v1](http://arxiv.org/abs/2209.14972v1)|[2209.14972v1](http://arxiv.org/pdf/2209.14972v1)|null|
+|**2022-09-29**|**EiHi Net: Out-of-Distribution Generalization Paradigm**|Qinglai Wei et.al.|[2209.14946v1](http://arxiv.org/abs/2209.14946v1)|[2209.14946v1](http://arxiv.org/pdf/2209.14946v1)|null|
+|**2022-09-29**|**Reinforcement Learning Algorithms: An Overview and Classification**|Fadi AlMahamid et.al.|[2209.14940v1](http://arxiv.org/abs/2209.14940v1)|[2209.14940v1](http://arxiv.org/pdf/2209.14940v1)|null|
 |**2022-09-28**|**Conformal Prediction is Robust to Label Noise**|Bat-Sheva Einbinder et.al.|[2209.14295v1](http://arxiv.org/abs/2209.14295v1)|[2209.14295v1](http://arxiv.org/pdf/2209.14295v1)|null|
 |**2022-09-28**|**Proceedings of the AI-HRI Symposium at AAAI-FSS 2022**|Zhao Han et.al.|[2209.14292v1](http://arxiv.org/abs/2209.14292v1)|[2209.14292v1](http://arxiv.org/pdf/2209.14292v1)|null|
 |**2022-09-28**|**Multilingual Search with Subword TF-IDF**|Artit Wangperawong et.al.|[2209.14281v1](http://arxiv.org/abs/2209.14281v1)|[2209.14281v1](http://arxiv.org/pdf/2209.14281v1)|**[link](https://github.com/artitw/text2text)**|
