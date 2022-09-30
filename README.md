@@ -689,7 +689,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2022-09-29**|**Understanding Collapse in Non-Contrastive Learning**|Alexander C. Li et.al.|[2209.15007v1](http://arxiv.org/abs/2209.15007v1)|[2209.15007v1](http://arxiv.org/pdf/2209.15007v1)|null|
+|**2022-09-29**|**Understanding Collapse in Non-Contrastive Learning**|Alexander C. Li et.al.|[2209.15007v1](http://arxiv.org/abs/2209.15007v1)|[2209.15007v1](http://arxiv.org/pdf/2209.15007v1)|**[link](https://github.com/alexlioralexli/noncontrastive-ssl)**|
 |**2022-09-29**|**Compositional Semantic Parsing with Large Language Models**|Andrew Drozdov et.al.|[2209.15003v1](http://arxiv.org/abs/2209.15003v1)|[2209.15003v1](http://arxiv.org/pdf/2209.15003v1)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|[2209.15001v1](http://arxiv.org/pdf/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
 |**2022-09-29**|**REST: REtrieve & Self-Train for generative action recognition**|Adrian Bulat et.al.|[2209.15000v1](http://arxiv.org/abs/2209.15000v1)|[2209.15000v1](http://arxiv.org/pdf/2209.15000v1)|null|
