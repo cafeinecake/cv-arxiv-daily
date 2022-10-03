@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-30**|**The White Dwarf Binary Pathways Survey -- VIII: a post common envelope binary with a massive white dwarf and an active G-type secondary star**|M. S. Hernandez et.al.|[2209.15591v1](http://arxiv.org/abs/2209.15591v1)|[2209.15591v1](http://arxiv.org/pdf/2209.15591v1)|null|
+|**2022-09-30**|**Constraints on dark matter annihilation from the FAST observation of the Coma Berenices dwarf galaxy**|Wen-Qing Guo et.al.|[2209.15590v1](http://arxiv.org/abs/2209.15590v1)|[2209.15590v1](http://arxiv.org/pdf/2209.15590v1)|null|
+|**2022-09-30**|**Investigating the Effect of Galaxy Interactions on Star Formation at 0.5<z<3.0**|Ekta A. Shah et.al.|[2209.15587v1](http://arxiv.org/abs/2209.15587v1)|[2209.15587v1](http://arxiv.org/pdf/2209.15587v1)|null|
+|**2022-09-30**|**Neutrino propagation in the Earth and emerging charged leptons with $\texttt{nuPyProp}$**|Diksha Garg et.al.|[2209.15581v1](http://arxiv.org/abs/2209.15581v1)|[2209.15581v1](http://arxiv.org/pdf/2209.15581v1)|null|
+|**2022-09-30**|**Parity violating gravitational waves at the end of inflation**|Mar Bastero-Gil et.al.|[2209.15572v1](http://arxiv.org/abs/2209.15572v1)|[2209.15572v1](http://arxiv.org/pdf/2209.15572v1)|null|
+|**2022-09-30**|**The Roasting Marshmallows Program with IGRINS on Gemini South I: Composition and Climate of the Ultra Hot Jupiter WASP-18 b**|Matteo Brogi et.al.|[2209.15548v1](http://arxiv.org/abs/2209.15548v1)|[2209.15548v1](http://arxiv.org/pdf/2209.15548v1)|null|
+|**2022-09-30**|**Dust grain shattering in protoplanetary discs: collisional fragmentation or rotational disruption?**|Stéphane Michoulier et.al.|[2209.15499v1](http://arxiv.org/abs/2209.15499v1)|[2209.15499v1](http://arxiv.org/pdf/2209.15499v1)|null|
+|**2022-09-30**|**Result of the MICROSCOPE Weak Equivalence Principle test**|Pierre Touboul et.al.|[2209.15488v1](http://arxiv.org/abs/2209.15488v1)|[2209.15488v1](http://arxiv.org/pdf/2209.15488v1)|null|
+|**2022-09-30**|**Retrieving C and O Abundance of HR 8799 c by Combining High- and Low-Resolution Data**|Ji Wang et.al.|[2209.15484v1](http://arxiv.org/abs/2209.15484v1)|[2209.15484v1](http://arxiv.org/pdf/2209.15484v1)|null|
+|**2022-09-30**|**The 700 ks Chandra Spiderweb Field II: Evidence for inverse-Compton and thermal diffuse emission in the Spiderweb galaxy**|P. Tozzi et.al.|[2209.15467v1](http://arxiv.org/abs/2209.15467v1)|[2209.15467v1](http://arxiv.org/pdf/2209.15467v1)|null|
 |**2022-09-29**|**The Circumgalactic H$α$ Spectrograph (CH$α$S) I. Design, Engineering, and Early Commissioning**|Nicole Melso et.al.|[2209.14999v1](http://arxiv.org/abs/2209.14999v1)|[2209.14999v1](http://arxiv.org/pdf/2209.14999v1)|null|
 |**2022-09-29**|**Mapping the Thermal Condensation of Diffuse H I in the North Celestial Pole Loop**|Mukesh Taank et.al.|[2209.14998v1](http://arxiv.org/abs/2209.14998v1)|[2209.14998v1](http://arxiv.org/pdf/2209.14998v1)|null|
 |**2022-09-29**|**Cosmic Reionization On Computers: Baryonic Effects on Halo Concentrations During the Epoch of Reionization**|Hanjue Zhu et.al.|[2209.14950v1](http://arxiv.org/abs/2209.14950v1)|[2209.14950v1](http://arxiv.org/pdf/2209.14950v1)|null|
@@ -693,6 +703,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-09-30**|**A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning**|Zixiang Chen et.al.|[2209.15634v1](http://arxiv.org/abs/2209.15634v1)|[2209.15634v1](http://arxiv.org/pdf/2209.15634v1)|null|
+|**2022-09-30**|**Beyond Bayes-optimality: meta-learning what you know you don't know**|Jordi Grau-Moya et.al.|[2209.15618v1](http://arxiv.org/abs/2209.15618v1)|[2209.15618v1](http://arxiv.org/pdf/2209.15618v1)|null|
+|**2022-09-30**|**Protein structure generation via folding diffusion**|Kevin E. Wu et.al.|[2209.15611v1](http://arxiv.org/abs/2209.15611v1)|[2209.15611v1](http://arxiv.org/pdf/2209.15611v1)|null|
+|**2022-09-30**|**MEIM: Multi-partition Embedding Interaction Beyond Block Term Format for Efficient and Expressive Link Prediction**|Hung-Nghiep Tran et.al.|[2209.15597v1](http://arxiv.org/abs/2209.15597v1)|[2209.15597v1](http://arxiv.org/pdf/2209.15597v1)|**[link](https://github.com/tranhungnghiep/meim-kge)**|
+|**2022-09-30**|**Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks**|Mahdi Morafah et.al.|[2209.15595v1](http://arxiv.org/abs/2209.15595v1)|[2209.15595v1](http://arxiv.org/pdf/2209.15595v1)|**[link](https://github.com/mmorafah/fl-sc-niid)**|
+|**2022-09-30**|**Cloud Classification with Unsupervised Deep Learning**|Takuya Kurihana et.al.|[2209.15585v1](http://arxiv.org/abs/2209.15585v1)|[2209.15585v1](http://arxiv.org/pdf/2209.15585v1)|null|
+|**2022-09-30**|**Augmenting Operations Research with Auto-Formulation of Optimization Models from Problem Descriptions**|Rindranirina Ramamonjison et.al.|[2209.15565v1](http://arxiv.org/abs/2209.15565v1)|[2209.15565v1](http://arxiv.org/pdf/2209.15565v1)|null|
+|**2022-09-30**|**Towards a Unified View of Affinity-Based Knowledge Distillation**|Vladimir Li et.al.|[2209.15555v1](http://arxiv.org/abs/2209.15555v1)|[2209.15555v1](http://arxiv.org/pdf/2209.15555v1)|null|
+|**2022-09-30**|**The More Secure, The Less Equally Usable: Gender and Ethnicity (Un)fairness of Deep Face Recognition along Security Thresholds**|Andrea Atzori et.al.|[2209.15550v1](http://arxiv.org/abs/2209.15550v1)|[2209.15550v1](http://arxiv.org/pdf/2209.15550v1)|null|
+|**2022-09-30**|**Bayesian Neural Networks for Geothermal Resource Assessment: Prediction with Uncertainty**|Stephen Brown et.al.|[2209.15543v1](http://arxiv.org/abs/2209.15543v1)|[2209.15543v1](http://arxiv.org/pdf/2209.15543v1)|null|
 |**2022-09-29**|**Understanding Collapse in Non-Contrastive Learning**|Alexander C. Li et.al.|[2209.15007v1](http://arxiv.org/abs/2209.15007v1)|[2209.15007v1](http://arxiv.org/pdf/2209.15007v1)|**[link](https://github.com/alexlioralexli/noncontrastive-ssl)**|
 |**2022-09-30**|**Compositional Semantic Parsing with Large Language Models**|Andrew Drozdov et.al.|[2209.15003v2](http://arxiv.org/abs/2209.15003v2)|[2209.15003v2](http://arxiv.org/pdf/2209.15003v2)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|[2209.15001v1](http://arxiv.org/pdf/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
