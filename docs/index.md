@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-03**|**The impact of resistive electric fields on particle acceleration in reconnection layers**|E. Puzzoni et.al.|[2210.01113v1](http://arxiv.org/abs/2210.01113v1)|[2210.01113v1](http://arxiv.org/pdf/2210.01113v1)|null|
+|**2022-10-03**|**The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at $1.5 < z < 8$**|Leonardo Ferreira et.al.|[2210.01110v1](http://arxiv.org/abs/2210.01110v1)|[2210.01110v1](http://arxiv.org/pdf/2210.01110v1)|null|
+|**2022-10-03**|**Temperature and Differential Emission Measure Profiles in Turbulent Solar Active Region Loops**|A. Gordon Emslie et.al.|[2210.01107v1](http://arxiv.org/abs/2210.01107v1)|[2210.01107v1](http://arxiv.org/pdf/2210.01107v1)|null|
+|**2022-10-03**|**Deep diving off the `Cosmic Cliffs': previously hidden outflows in NGC 3324 revealed by JWST**|Megan Reiter et.al.|[2210.01101v1](http://arxiv.org/abs/2210.01101v1)|[2210.01101v1](http://arxiv.org/pdf/2210.01101v1)|null|
+|**2022-10-03**|**Fast and accurate predictions of the nonlinear matter power spectrum for general models of Dark Energy and Modified Gravity**|B. Bose et.al.|[2210.01094v1](http://arxiv.org/abs/2210.01094v1)|[2210.01094v1](http://arxiv.org/pdf/2210.01094v1)|null|
+|**2022-10-03**|**Radiation protection and shielding materials for crewed missions on the surface of Mars**|Dionysios Gakis et.al.|[2210.01061v1](http://arxiv.org/abs/2210.01061v1)|[2210.01061v1](http://arxiv.org/pdf/2210.01061v1)|null|
+|**2022-10-03**|**Gas Morphology of Milky Way-like Galaxies in the TNG50: Signals of Twisting and Stretching**|Thomas K. Waters et.al.|[2210.01051v1](http://arxiv.org/abs/2210.01051v1)|[2210.01051v1](http://arxiv.org/pdf/2210.01051v1)|null|
+|**2022-10-03**|**Constraints on primordial non-Gaussianity from halo bias measured through CMB lensing cross-correlations**|Fiona McCarthy et.al.|[2210.01049v1](http://arxiv.org/abs/2210.01049v1)|[2210.01049v1](http://arxiv.org/pdf/2210.01049v1)|null|
+|**2022-10-03**|**Properties of shock waves in the quiet Sun chromosphere**|Harsh Mathur et.al.|[2210.01045v1](http://arxiv.org/abs/2210.01045v1)|[2210.01045v1](http://arxiv.org/pdf/2210.01045v1)|null|
+|**2022-10-03**|**Achromatic design of a photonic tricoupler and phase shifter for broadband nulling interferometry**|Teresa Klinner-Teo et.al.|[2210.01040v1](http://arxiv.org/abs/2210.01040v1)|[2210.01040v1](http://arxiv.org/pdf/2210.01040v1)|null|
 |**2022-09-30**|**The White Dwarf Binary Pathways Survey -- VIII: a post common envelope binary with a massive white dwarf and an active G-type secondary star**|M. S. Hernandez et.al.|[2209.15591v1](http://arxiv.org/abs/2209.15591v1)|[2209.15591v1](http://arxiv.org/pdf/2209.15591v1)|null|
 |**2022-09-30**|**Constraints on dark matter annihilation from the FAST observation of the Coma Berenices dwarf galaxy**|Wen-Qing Guo et.al.|[2209.15590v1](http://arxiv.org/abs/2209.15590v1)|[2209.15590v1](http://arxiv.org/pdf/2209.15590v1)|null|
 |**2022-09-30**|**Investigating the Effect of Galaxy Interactions on Star Formation at 0.5<z<3.0**|Ekta A. Shah et.al.|[2209.15587v1](http://arxiv.org/abs/2209.15587v1)|[2209.15587v1](http://arxiv.org/pdf/2209.15587v1)|null|
@@ -703,6 +713,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-03**|**Omnigrok: Grokking Beyond Algorithmic Data**|Ziming Liu et.al.|[2210.01117v1](http://arxiv.org/abs/2210.01117v1)|[2210.01117v1](http://arxiv.org/pdf/2210.01117v1)|null|
+|**2022-10-03**|**Language-Aware Soft Prompting for Vision & Language Foundation Models**|Adrian Bulat et.al.|[2210.01115v1](http://arxiv.org/abs/2210.01115v1)|[2210.01115v1](http://arxiv.org/pdf/2210.01115v1)|null|
+|**2022-10-03**|**Understanding Influence Functions and Datamodels via Harmonic Analysis**|Nikunj Saunshi et.al.|[2210.01072v1](http://arxiv.org/abs/2210.01072v1)|[2210.01072v1](http://arxiv.org/pdf/2210.01072v1)|null|
+|**2022-10-03**|**New Paradigms for Exploiting Parallel Experiments in Bayesian Optimization**|Leonardo D. González et.al.|[2210.01071v1](http://arxiv.org/abs/2210.01071v1)|[2210.01071v1](http://arxiv.org/pdf/2210.01071v1)|null|
+|**2022-10-03**|**Faster Last-iterate Convergence of Policy Optimization in Zero-Sum Markov Games**|Shicong Cen et.al.|[2210.01050v1](http://arxiv.org/abs/2210.01050v1)|[2210.01050v1](http://arxiv.org/pdf/2210.01050v1)|null|
+|**2022-10-03**|**Reward Learning with Trees: Methods and Evaluation**|Tom Bewley et.al.|[2210.01007v1](http://arxiv.org/abs/2210.01007v1)|[2210.01007v1](http://arxiv.org/pdf/2210.01007v1)|null|
+|**2022-10-03**|**ASGNN: Graph Neural Networks with Adaptive Structure**|Zepeng Zhang et.al.|[2210.01002v1](http://arxiv.org/abs/2210.01002v1)|[2210.01002v1](http://arxiv.org/pdf/2210.01002v1)|null|
+|**2022-10-03**|**Latent State Marginalization as a Low-cost Approach for Improving Exploration**|Dinghuai Zhang et.al.|[2210.00999v1](http://arxiv.org/abs/2210.00999v1)|[2210.00999v1](http://arxiv.org/pdf/2210.00999v1)|null|
+|**2022-10-03**|**Efficient Bayes Inference in Neural Networks through Adaptive Importance Sampling**|Yunshi Huang et.al.|[2210.00993v1](http://arxiv.org/abs/2210.00993v1)|[2210.00993v1](http://arxiv.org/pdf/2210.00993v1)|**[link](https://github.com/yunshihuang/pmcnet)**|
+|**2022-10-03**|**Visual Prompt Tuning for Generative Transfer Learning**|Kihyuk Sohn et.al.|[2210.00990v1](http://arxiv.org/abs/2210.00990v1)|[2210.00990v1](http://arxiv.org/pdf/2210.00990v1)|null|
 |**2022-09-30**|**A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning**|Zixiang Chen et.al.|[2209.15634v1](http://arxiv.org/abs/2209.15634v1)|[2209.15634v1](http://arxiv.org/pdf/2209.15634v1)|null|
 |**2022-09-30**|**Beyond Bayes-optimality: meta-learning what you know you don't know**|Jordi Grau-Moya et.al.|[2209.15618v1](http://arxiv.org/abs/2209.15618v1)|[2209.15618v1](http://arxiv.org/pdf/2209.15618v1)|null|
 |**2022-09-30**|**Protein structure generation via folding diffusion**|Kevin E. Wu et.al.|[2209.15611v1](http://arxiv.org/abs/2209.15611v1)|[2209.15611v1](http://arxiv.org/pdf/2209.15611v1)|**[link](https://github.com/microsoft/foldingdiff)**|
