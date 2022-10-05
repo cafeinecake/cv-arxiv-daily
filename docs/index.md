@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-04**|**Informed systematic method to identify variable mid and late-T dwarfs**|Natalia Oliveros-Gómez et.al.|[2210.01789v1](http://arxiv.org/abs/2210.01789v1)|[2210.01789v1](http://arxiv.org/pdf/2210.01789v1)|null|
+|**2022-10-04**|**Large Interferometer For Exoplanets (LIFE): VIII. Detecting rocky exoplanets in the habitable zones of Sun-like stars**|Jens Kammerer et.al.|[2210.01782v1](http://arxiv.org/abs/2210.01782v1)|[2210.01782v1](http://arxiv.org/pdf/2210.01782v1)|null|
+|**2022-10-04**|**High-Redshift Galaxy Candidates at $z = 9-13$ as Revealed by JWST Observations of WHL0137-08**|Larry D. Bradley et.al.|[2210.01777v1](http://arxiv.org/abs/2210.01777v1)|[2210.01777v1](http://arxiv.org/pdf/2210.01777v1)|null|
+|**2022-10-04**|**Snowmass 2021 Cross Frontier Report: Dark Matter Complementarity (Extended Version)**|Antonio Boveia et.al.|[2210.01770v1](http://arxiv.org/abs/2210.01770v1)|[2210.01770v1](http://arxiv.org/pdf/2210.01770v1)|null|
+|**2022-10-04**|**Late-time H/He-poor circumstellar interaction in the normal-looking type-Ic supernova SN 2021ocs: an exposed oxygen-magnesium layer and extreme stripping of the progenitor**|H. Kuncarayakti et.al.|[2210.01755v1](http://arxiv.org/abs/2210.01755v1)|[2210.01755v1](http://arxiv.org/pdf/2210.01755v1)|null|
+|**2022-10-04**|**Mergers as a Probe of Particle Dark Matter**|Anupam Ray et.al.|[2210.01730v1](http://arxiv.org/abs/2210.01730v1)|[2210.01730v1](http://arxiv.org/pdf/2210.01730v1)|null|
+|**2022-10-04**|**Kinematic analysis of the Large Magellanic Cloud using Gaia DR3**|Ó. Jiménez-Arranz et.al.|[2210.01728v1](http://arxiv.org/abs/2210.01728v1)|[2210.01728v1](http://arxiv.org/pdf/2210.01728v1)|null|
+|**2022-10-04**|**Detecting and Denoising Gravitational Wave Signals from Binary Black Holes using Deep Learning**|Chinthak Murali et.al.|[2210.01718v1](http://arxiv.org/abs/2210.01718v1)|[2210.01718v1](http://arxiv.org/pdf/2210.01718v1)|null|
+|**2022-10-04**|**Modelling of the scandium abundance evolution in AmFm stars**|A. Hui-Bon-Hoa et.al.|[2210.01715v1](http://arxiv.org/abs/2210.01715v1)|[2210.01715v1](http://arxiv.org/pdf/2210.01715v1)|null|
+|**2022-10-04**|**Evaluating the Plausible Range of N2O Biosignatures on Exo-Earths: An Integrated Biogeochemical, Photochemical, and Spectral Modeling Approach**|Edward W. Schwieterman et.al.|[2210.01669v1](http://arxiv.org/abs/2210.01669v1)|[2210.01669v1](http://arxiv.org/pdf/2210.01669v1)|null|
 |**2022-10-03**|**The impact of resistive electric fields on particle acceleration in reconnection layers**|E. Puzzoni et.al.|[2210.01113v1](http://arxiv.org/abs/2210.01113v1)|[2210.01113v1](http://arxiv.org/pdf/2210.01113v1)|null|
 |**2022-10-03**|**The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at $1.5 < z < 8$**|Leonardo Ferreira et.al.|[2210.01110v1](http://arxiv.org/abs/2210.01110v1)|[2210.01110v1](http://arxiv.org/pdf/2210.01110v1)|null|
 |**2022-10-03**|**Temperature and Differential Emission Measure Profiles in Turbulent Solar Active Region Loops**|A. Gordon Emslie et.al.|[2210.01107v1](http://arxiv.org/abs/2210.01107v1)|[2210.01107v1](http://arxiv.org/pdf/2210.01107v1)|null|
@@ -713,6 +723,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-04**|**Real-Time Monitoring of User Stress, Heart Rate and Heart Rate Variability on Mobile Devices**|Peyman Bateni et.al.|[2210.01791v1](http://arxiv.org/abs/2210.01791v1)|[2210.01791v1](http://arxiv.org/pdf/2210.01791v1)|**[link](https://github.com/beamai/beamaisdk-ios)**|
+|**2022-10-04**|**Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness**|Bohang Zhang et.al.|[2210.01787v1](http://arxiv.org/abs/2210.01787v1)|[2210.01787v1](http://arxiv.org/pdf/2210.01787v1)|**[link](https://github.com/zbh2047/sortnet)**|
+|**2022-10-04**|**HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**|Siqiao Xue et.al.|[2210.01753v1](http://arxiv.org/abs/2210.01753v1)|[2210.01753v1](http://arxiv.org/pdf/2210.01753v1)|**[link](https://github.com/ilampard/hypro_tpp)**|
+|**2022-10-04**|**Modular Approach to Machine Reading Comprehension: Mixture of Task-Aware Experts**|Anirudha Rayasam et.al.|[2210.01750v1](http://arxiv.org/abs/2210.01750v1)|[2210.01750v1](http://arxiv.org/pdf/2210.01750v1)|null|
+|**2022-10-04**|**Learning from Demonstrations of Critical Driving Behaviours Using Driver's Risk Field**|Yurui Du et.al.|[2210.01747v1](http://arxiv.org/abs/2210.01747v1)|[2210.01747v1](http://arxiv.org/pdf/2210.01747v1)|null|
+|**2022-10-04**|**ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training**|Antonio Norelli et.al.|[2210.01738v1](http://arxiv.org/abs/2210.01738v1)|[2210.01738v1](http://arxiv.org/pdf/2210.01738v1)|null|
+|**2022-10-04**|**MEDFAIR: Benchmarking Fairness for Medical Imaging**|Yongshuo Zong et.al.|[2210.01725v1](http://arxiv.org/abs/2210.01725v1)|[2210.01725v1](http://arxiv.org/pdf/2210.01725v1)|**[link](https://github.com/ys-zong/medfair)**|
+|**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|[2210.01723v1](http://arxiv.org/pdf/2210.01723v1)|**[link](https://github.com/aofrancani/dpt-vo)**|
+|**2022-10-04**|**MBW: Multi-view Bootstrapping in the Wild**|Mosam Dabhi et.al.|[2210.01721v1](http://arxiv.org/abs/2210.01721v1)|[2210.01721v1](http://arxiv.org/pdf/2210.01721v1)|**[link](https://github.com/mosamdabhi/mbw)**|
+|**2022-10-04**|**Learning the Spectrogram Temporal Resolution for Audio Classification**|Haohe Liu et.al.|[2210.01719v1](http://arxiv.org/abs/2210.01719v1)|[2210.01719v1](http://arxiv.org/pdf/2210.01719v1)|**[link](https://github.com/haoheliu/diffres-python)**|
 |**2022-10-03**|**Omnigrok: Grokking Beyond Algorithmic Data**|Ziming Liu et.al.|[2210.01117v1](http://arxiv.org/abs/2210.01117v1)|[2210.01117v1](http://arxiv.org/pdf/2210.01117v1)|null|
 |**2022-10-03**|**Language-Aware Soft Prompting for Vision & Language Foundation Models**|Adrian Bulat et.al.|[2210.01115v1](http://arxiv.org/abs/2210.01115v1)|[2210.01115v1](http://arxiv.org/pdf/2210.01115v1)|null|
 |**2022-10-03**|**Understanding Influence Functions and Datamodels via Harmonic Analysis**|Nikunj Saunshi et.al.|[2210.01072v1](http://arxiv.org/abs/2210.01072v1)|[2210.01072v1](http://arxiv.org/pdf/2210.01072v1)|null|
