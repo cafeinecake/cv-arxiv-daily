@@ -1,4 +1,4 @@
-## Updated on 2022.10.04
+## Updated on 2022.10.05
 
 ## Astrophysics
 
@@ -712,8 +712,8 @@
 |**2022-10-03**|**Omnigrok: Grokking Beyond Algorithmic Data**|Ziming Liu et.al.|[2210.01117v1](http://arxiv.org/abs/2210.01117v1)|[2210.01117v1](http://arxiv.org/pdf/2210.01117v1)|null|
 |**2022-10-03**|**Language-Aware Soft Prompting for Vision & Language Foundation Models**|Adrian Bulat et.al.|[2210.01115v1](http://arxiv.org/abs/2210.01115v1)|[2210.01115v1](http://arxiv.org/pdf/2210.01115v1)|null|
 |**2022-10-03**|**Understanding Influence Functions and Datamodels via Harmonic Analysis**|Nikunj Saunshi et.al.|[2210.01072v1](http://arxiv.org/abs/2210.01072v1)|[2210.01072v1](http://arxiv.org/pdf/2210.01072v1)|null|
-|**2022-10-03**|**New Paradigms for Exploiting Parallel Experiments in Bayesian Optimization**|Leonardo D. González et.al.|[2210.01071v1](http://arxiv.org/abs/2210.01071v1)|[2210.01071v1](http://arxiv.org/pdf/2210.01071v1)|null|
-|**2022-10-03**|**Faster Last-iterate Convergence of Policy Optimization in Zero-Sum Markov Games**|Shicong Cen et.al.|[2210.01050v1](http://arxiv.org/abs/2210.01050v1)|[2210.01050v1](http://arxiv.org/pdf/2210.01050v1)|null|
+|**2022-10-04**|**New Paradigms for Exploiting Parallel Experiments in Bayesian Optimization**|Leonardo D. González et.al.|[2210.01071v2](http://arxiv.org/abs/2210.01071v2)|[2210.01071v2](http://arxiv.org/pdf/2210.01071v2)|null|
+|**2022-10-04**|**Faster Last-iterate Convergence of Policy Optimization in Zero-Sum Markov Games**|Shicong Cen et.al.|[2210.01050v2](http://arxiv.org/abs/2210.01050v2)|[2210.01050v2](http://arxiv.org/pdf/2210.01050v2)|null|
 |**2022-10-03**|**Reward Learning with Trees: Methods and Evaluation**|Tom Bewley et.al.|[2210.01007v1](http://arxiv.org/abs/2210.01007v1)|[2210.01007v1](http://arxiv.org/pdf/2210.01007v1)|null|
 |**2022-10-03**|**ASGNN: Graph Neural Networks with Adaptive Structure**|Zepeng Zhang et.al.|[2210.01002v1](http://arxiv.org/abs/2210.01002v1)|[2210.01002v1](http://arxiv.org/pdf/2210.01002v1)|null|
 |**2022-10-03**|**Latent State Marginalization as a Low-cost Approach for Improving Exploration**|Dinghuai Zhang et.al.|[2210.00999v1](http://arxiv.org/abs/2210.00999v1)|[2210.00999v1](http://arxiv.org/pdf/2210.00999v1)|null|
