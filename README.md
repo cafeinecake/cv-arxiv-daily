@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-05**|**MOA-2020-BLG-208: Cool Sub-Saturn Planet Within Predicted Desert**|Greg Olmschenk et.al.|[2210.02436v1](http://arxiv.org/abs/2210.02436v1)|[2210.02436v1](http://arxiv.org/pdf/2210.02436v1)|null|
+|**2022-10-05**|**The detection of magnetic chemically peculiar stars using Gaia BP/RP spectra**|E. Paunzen et.al.|[2210.02433v1](http://arxiv.org/abs/2210.02433v1)|[2210.02433v1](http://arxiv.org/pdf/2210.02433v1)|null|
+|**2022-10-05**|**Black hole thermodynamics from logotropic fluids**|Salvatore Capozziello et.al.|[2210.02431v1](http://arxiv.org/abs/2210.02431v1)|[2210.02431v1](http://arxiv.org/pdf/2210.02431v1)|null|
+|**2022-10-05**|**Most planets might have more than 5 Myr of time to form**|Susanne Pfalzner et.al.|[2210.02420v1](http://arxiv.org/abs/2210.02420v1)|[2210.02420v1](http://arxiv.org/pdf/2210.02420v1)|null|
+|**2022-10-05**|**Bayesian statistics approach to imaging of aperture synthesis data: RESOLVE meets ALMA**|Łukasz Tychoniec et.al.|[2210.02408v1](http://arxiv.org/abs/2210.02408v1)|[2210.02408v1](http://arxiv.org/pdf/2210.02408v1)|null|
+|**2022-10-05**|**An extreme blue nugget, UV-bright starburst at z=3.613 with ninety per cent of Lyman continuum photon escape**|R. Marques-Chaves et.al.|[2210.02392v1](http://arxiv.org/abs/2210.02392v1)|[2210.02392v1](http://arxiv.org/pdf/2210.02392v1)|null|
+|**2022-10-05**|**Timing and spectral studies of Cen X-3 in multiple luminosity states using $\textit{AstroSat}$**|Ritesh Bachhar et.al.|[2210.02389v1](http://arxiv.org/abs/2210.02389v1)|[2210.02389v1](http://arxiv.org/pdf/2210.02389v1)|null|
+|**2022-10-05**|**Impact of inhomogeneous reionization on post-reionization 21 cm intensity mapping measurement of cosmological parameters**|Heyang Long et.al.|[2210.02385v1](http://arxiv.org/abs/2210.02385v1)|[2210.02385v1](http://arxiv.org/pdf/2210.02385v1)|null|
+|**2022-10-05**|**Proton Synchrotron Origin of the Very High Energy Emission of GRB 190114C**|Hebzibha Isravel et.al.|[2210.02363v1](http://arxiv.org/abs/2210.02363v1)|[2210.02363v1](http://arxiv.org/pdf/2210.02363v1)|null|
+|**2022-10-05**|**Particle clustering in turbulence: Prediction of spatial and statistical properties with deep learning**|Yan-Mong Chan et.al.|[2210.02339v1](http://arxiv.org/abs/2210.02339v1)|[2210.02339v1](http://arxiv.org/pdf/2210.02339v1)|**[link](https://github.com/timothychan29475600/dustnet_cnn)**|
 |**2022-10-04**|**Informed systematic method to identify variable mid and late-T dwarfs**|Natalia Oliveros-Gómez et.al.|[2210.01789v1](http://arxiv.org/abs/2210.01789v1)|[2210.01789v1](http://arxiv.org/pdf/2210.01789v1)|null|
 |**2022-10-04**|**Large Interferometer For Exoplanets (LIFE): VIII. Detecting rocky exoplanets in the habitable zones of Sun-like stars**|Jens Kammerer et.al.|[2210.01782v1](http://arxiv.org/abs/2210.01782v1)|[2210.01782v1](http://arxiv.org/pdf/2210.01782v1)|null|
 |**2022-10-04**|**High-Redshift Galaxy Candidates at $z = 9-13$ as Revealed by JWST Observations of WHL0137-08**|Larry D. Bradley et.al.|[2210.01777v1](http://arxiv.org/abs/2210.01777v1)|[2210.01777v1](http://arxiv.org/pdf/2210.01777v1)|null|
@@ -719,6 +729,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|[2210.02443v1](http://arxiv.org/pdf/2210.02443v1)|null|
+|**2022-10-05**|**Making Your First Choice: To Address Cold Start Problem in Vision Active Learning**|Liangyu Chen et.al.|[2210.02442v1](http://arxiv.org/abs/2210.02442v1)|[2210.02442v1](http://arxiv.org/pdf/2210.02442v1)|**[link](https://github.com/c-liangyu/csval)**|
+|**2022-10-05**|**GLM-130B: An Open Bilingual Pre-trained Model**|Aohan Zeng et.al.|[2210.02414v1](http://arxiv.org/abs/2210.02414v1)|[2210.02414v1](http://arxiv.org/pdf/2210.02414v1)|**[link](https://github.com/thudm/glm-130b)**|
+|**2022-10-05**|**The Influence of Explainable Artificial Intelligence: Nudging Behaviour or Boosting Capability?**|Matija Franklin et.al.|[2210.02407v1](http://arxiv.org/abs/2210.02407v1)|[2210.02407v1](http://arxiv.org/pdf/2210.02407v1)|null|
+|**2022-10-05**|**Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**|Deepak Gupta et.al.|[2210.02401v1](http://arxiv.org/abs/2210.02401v1)|[2210.02401v1](http://arxiv.org/pdf/2210.02401v1)|**[link](https://github.com/deepaknlp/dls)**|
+|**2022-10-05**|**Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence**|Abe Kazemzadeh et.al.|[2210.02400v1](http://arxiv.org/abs/2210.02400v1)|[2210.02400v1](http://arxiv.org/pdf/2210.02400v1)|null|
+|**2022-10-05**|**Phenaki: Variable Length Video Generation From Open Domain Textual Description**|Ruben Villegas et.al.|[2210.02399v1](http://arxiv.org/abs/2210.02399v1)|[2210.02399v1](http://arxiv.org/pdf/2210.02399v1)|null|
+|**2022-10-05**|**Temporally Consistent Video Transformer for Long-Term Video Prediction**|Wilson Yan et.al.|[2210.02396v1](http://arxiv.org/abs/2210.02396v1)|[2210.02396v1](http://arxiv.org/pdf/2210.02396v1)|null|
+|**2022-10-05**|**Variational prompt tuning improves generalization of vision-language models**|Mohammad Mahdi Derakhshani et.al.|[2210.02390v1](http://arxiv.org/abs/2210.02390v1)|[2210.02390v1](http://arxiv.org/pdf/2210.02390v1)|null|
+|**2022-10-05**|**Goal Recognition as a Deep Learning Task: the GRNet Approach**|Mattia Chiari et.al.|[2210.02377v1](http://arxiv.org/abs/2210.02377v1)|[2210.02377v1](http://arxiv.org/pdf/2210.02377v1)|null|
 |**2022-10-04**|**Real-Time Monitoring of User Stress, Heart Rate and Heart Rate Variability on Mobile Devices**|Peyman Bateni et.al.|[2210.01791v1](http://arxiv.org/abs/2210.01791v1)|[2210.01791v1](http://arxiv.org/pdf/2210.01791v1)|**[link](https://github.com/beamai/beamaisdk-ios)**|
 |**2022-10-04**|**Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness**|Bohang Zhang et.al.|[2210.01787v1](http://arxiv.org/abs/2210.01787v1)|[2210.01787v1](http://arxiv.org/pdf/2210.01787v1)|**[link](https://github.com/zbh2047/sortnet)**|
 |**2022-10-04**|**HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**|Siqiao Xue et.al.|[2210.01753v1](http://arxiv.org/abs/2210.01753v1)|[2210.01753v1](http://arxiv.org/pdf/2210.01753v1)|**[link](https://github.com/ilampard/hypro_tpp)**|
