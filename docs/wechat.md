@@ -1,4 +1,4 @@
-> Updated on 2022.10.05
+> Updated on 2022.10.06
 
 ## Astrophysics
 
@@ -724,7 +724,7 @@
 - 2022-10-04, **MEDFAIR: Benchmarking Fairness for Medical Imaging**, Yongshuo Zong et.al., Paper: [http://arxiv.org/abs/2210.01725v1](http://arxiv.org/abs/2210.01725v1),Paper: [http://arxiv.org/abs/2210.01725v1](http://arxiv.org/pdf/2210.01725v1), Code: **[https://github.com/ys-zong/medfair](https://github.com/ys-zong/medfair)**
 - 2022-10-04, **Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**, André O. Françani et.al., Paper: [http://arxiv.org/abs/2210.01723v1](http://arxiv.org/abs/2210.01723v1),Paper: [http://arxiv.org/abs/2210.01723v1](http://arxiv.org/pdf/2210.01723v1), Code: **[https://github.com/aofrancani/dpt-vo](https://github.com/aofrancani/dpt-vo)**
 - 2022-10-04, **MBW: Multi-view Bootstrapping in the Wild**, Mosam Dabhi et.al., Paper: [http://arxiv.org/abs/2210.01721v1](http://arxiv.org/abs/2210.01721v1),Paper: [http://arxiv.org/abs/2210.01721v1](http://arxiv.org/pdf/2210.01721v1), Code: **[https://github.com/mosamdabhi/mbw](https://github.com/mosamdabhi/mbw)**
-- 2022-10-04, **Learning the Spectrogram Temporal Resolution for Audio Classification**, Haohe Liu et.al., Paper: [http://arxiv.org/abs/2210.01719v1](http://arxiv.org/abs/2210.01719v1),Paper: [http://arxiv.org/abs/2210.01719v1](http://arxiv.org/pdf/2210.01719v1), Code: **[https://github.com/haoheliu/diffres-python](https://github.com/haoheliu/diffres-python)**
+- 2022-10-05, **Learning the Spectrogram Temporal Resolution for Audio Classification**, Haohe Liu et.al., Paper: [http://arxiv.org/abs/2210.01719v2](http://arxiv.org/abs/2210.01719v2),Paper: [http://arxiv.org/abs/2210.01719v2](http://arxiv.org/pdf/2210.01719v2), Code: **[https://github.com/haoheliu/diffres-python](https://github.com/haoheliu/diffres-python)**
 - 2022-10-03, **Omnigrok: Grokking Beyond Algorithmic Data**, Ziming Liu et.al., Paper: [http://arxiv.org/abs/2210.01117v1](http://arxiv.org/abs/2210.01117v1), Paper: [http://arxiv.org/abs/2210.01117v1](http://arxiv.org/pdf/2210.01117v1)
 - 2022-10-03, **Language-Aware Soft Prompting for Vision & Language Foundation Models**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2210.01115v1](http://arxiv.org/abs/2210.01115v1), Paper: [http://arxiv.org/abs/2210.01115v1](http://arxiv.org/pdf/2210.01115v1)
 - 2022-10-03, **Understanding Influence Functions and Datamodels via Harmonic Analysis**, Nikunj Saunshi et.al., Paper: [http://arxiv.org/abs/2210.01072v1](http://arxiv.org/abs/2210.01072v1), Paper: [http://arxiv.org/abs/2210.01072v1](http://arxiv.org/pdf/2210.01072v1)
