@@ -1,4 +1,4 @@
-> Updated on 2022.10.06
+> Updated on 2022.10.07
 
 ## Astrophysics
 
@@ -732,7 +732,7 @@
 - 2022-10-05, **Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**, Deepak Gupta et.al., Paper: [http://arxiv.org/abs/2210.02401v1](http://arxiv.org/abs/2210.02401v1),Paper: [http://arxiv.org/abs/2210.02401v1](http://arxiv.org/pdf/2210.02401v1), Code: **[https://github.com/deepaknlp/dls](https://github.com/deepaknlp/dls)**
 - 2022-10-05, **Emotion Twenty Questions Dialog System for Lexical Emotional Intelligence**, Abe Kazemzadeh et.al., Paper: [http://arxiv.org/abs/2210.02400v1](http://arxiv.org/abs/2210.02400v1), Paper: [http://arxiv.org/abs/2210.02400v1](http://arxiv.org/pdf/2210.02400v1)
 - 2022-10-05, **Phenaki: Variable Length Video Generation From Open Domain Textual Description**, Ruben Villegas et.al., Paper: [http://arxiv.org/abs/2210.02399v1](http://arxiv.org/abs/2210.02399v1), Paper: [http://arxiv.org/abs/2210.02399v1](http://arxiv.org/pdf/2210.02399v1)
-- 2022-10-05, **Temporally Consistent Video Transformer for Long-Term Video Prediction**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2210.02396v1](http://arxiv.org/abs/2210.02396v1), Paper: [http://arxiv.org/abs/2210.02396v1](http://arxiv.org/pdf/2210.02396v1)
+- 2022-10-05, **Temporally Consistent Video Transformer for Long-Term Video Prediction**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2210.02396v1](http://arxiv.org/abs/2210.02396v1),Paper: [http://arxiv.org/abs/2210.02396v1](http://arxiv.org/pdf/2210.02396v1), Code: **[https://github.com/wilson1yan/teco](https://github.com/wilson1yan/teco)**
 - 2022-10-05, **Variational prompt tuning improves generalization of vision-language models**, Mohammad Mahdi Derakhshani et.al., Paper: [http://arxiv.org/abs/2210.02390v1](http://arxiv.org/abs/2210.02390v1), Paper: [http://arxiv.org/abs/2210.02390v1](http://arxiv.org/pdf/2210.02390v1)
 - 2022-10-05, **Goal Recognition as a Deep Learning Task: the GRNet Approach**, Mattia Chiari et.al., Paper: [http://arxiv.org/abs/2210.02377v1](http://arxiv.org/abs/2210.02377v1), Paper: [http://arxiv.org/abs/2210.02377v1](http://arxiv.org/pdf/2210.02377v1)
 - 2022-10-04, **Real-Time Monitoring of User Stress, Heart Rate and Heart Rate Variability on Mobile Devices**, Peyman Bateni et.al., Paper: [http://arxiv.org/abs/2210.01791v1](http://arxiv.org/abs/2210.01791v1),Paper: [http://arxiv.org/abs/2210.01791v1](http://arxiv.org/pdf/2210.01791v1), Code: **[https://github.com/beamai/beamaisdk-ios](https://github.com/beamai/beamaisdk-ios)**
