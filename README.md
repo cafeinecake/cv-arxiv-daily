@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-07**|**Stellar Flyby Analysis for Spiral Arm Hosts with Gaia DR3**|Linling Shuai et.al.|[2210.03725v1](http://arxiv.org/abs/2210.03725v1)|[2210.03725v1](http://arxiv.org/pdf/2210.03725v1)|null|
+|**2022-10-07**|**What does an interferometer really measure? Including instrument and data characteristics in the reconstruction of the 21cm power spectrum**|Adélie Gorce et.al.|[2210.03721v1](http://arxiv.org/abs/2210.03721v1)|[2210.03721v1](http://arxiv.org/pdf/2210.03721v1)|null|
+|**2022-10-07**|**A Predictive $SO(10)$ Model**|George Lazarides et.al.|[2210.03710v1](http://arxiv.org/abs/2210.03710v1)|[2210.03710v1](http://arxiv.org/pdf/2210.03710v1)|null|
+|**2022-10-07**|**Searching for dilaton fields in the Ly$α$ forest**|Louis Hamaide et.al.|[2210.03705v1](http://arxiv.org/abs/2210.03705v1)|[2210.03705v1](http://arxiv.org/pdf/2210.03705v1)|null|
+|**2022-10-07**|**Galaxy Zoo: Clump Scout -- Design and first application of a two-dimensional aggregation tool for citizen science**|Hugh Dickinson et.al.|[2210.03684v1](http://arxiv.org/abs/2210.03684v1)|[2210.03684v1](http://arxiv.org/pdf/2210.03684v1)|null|
+|**2022-10-07**|**Design of a Skipper CCD Focal Plane for the SOAR Integral Field Spectrograph**|Edgar Marrufo Villalpando et.al.|[2210.03665v1](http://arxiv.org/abs/2210.03665v1)|[2210.03665v1](http://arxiv.org/pdf/2210.03665v1)|null|
+|**2022-10-07**|**Towards a more robust algorithm for computing the Kerr quasinormal mode frequencies**|Sashwat Tanay et.al.|[2210.03657v1](http://arxiv.org/abs/2210.03657v1)|[2210.03657v1](http://arxiv.org/pdf/2210.03657v1)|null|
+|**2022-10-07**|**FAST observations of an extremely active episode of FRB 20201124A: II. Energy Distribution**|Yong-Kun Zhang et.al.|[2210.03645v1](http://arxiv.org/abs/2210.03645v1)|[2210.03645v1](http://arxiv.org/pdf/2210.03645v1)|null|
+|**2022-10-07**|**Analysing the structure of the bulge with Mira variables**|Ž. Chrobáková et.al.|[2210.03643v1](http://arxiv.org/abs/2210.03643v1)|[2210.03643v1](http://arxiv.org/pdf/2210.03643v1)|null|
+|**2022-10-07**|**Constraints on primordial curvature spectrum from primordial black holes and scalar-induced gravitational waves**|Zhu Yi et.al.|[2210.03641v1](http://arxiv.org/abs/2210.03641v1)|[2210.03641v1](http://arxiv.org/pdf/2210.03641v1)|null|
 |**2022-10-06**|**KiDS-1000: Combined halo-model cosmology constraints from galaxy abundance, galaxy clustering and galaxy-galaxy lensing**|Andrej Dvornik et.al.|[2210.03110v1](http://arxiv.org/abs/2210.03110v1)|[2210.03110v1](http://arxiv.org/pdf/2210.03110v1)|null|
 |**2022-10-06**|**Galaxy kinematics and mass estimates at z~1 from ionised gas and stars**|Hannah Übler et.al.|[2210.03106v1](http://arxiv.org/abs/2210.03106v1)|[2210.03106v1](http://arxiv.org/pdf/2210.03106v1)|null|
 |**2022-10-06**|**Simulating reflected light coronagraphy of Earth-like exoplanets with a large IR/O/UV space telescope: impact and calibration of smooth exozodiacal dust**|Jens Kammerer et.al.|[2210.03098v1](http://arxiv.org/abs/2210.03098v1)|[2210.03098v1](http://arxiv.org/pdf/2210.03098v1)|null|
@@ -739,6 +749,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-07**|**Knowledge-Grounded Reinforcement Learning**|Zih-Yun Chiu et.al.|[2210.03729v1](http://arxiv.org/abs/2210.03729v1)|[2210.03729v1](http://arxiv.org/pdf/2210.03729v1)|null|
+|**2022-10-07**|**Atomized Deep Learning Models**|Yi-Lin Tuan et.al.|[2210.03728v1](http://arxiv.org/abs/2210.03728v1)|[2210.03728v1](http://arxiv.org/pdf/2210.03728v1)|null|
+|**2022-10-07**|**Understanding Practices, Challenges, and Opportunities for User-Driven Algorithm Auditing in Industry Practice**|Wesley Hanwen Deng et.al.|[2210.03709v1](http://arxiv.org/abs/2210.03709v1)|[2210.03709v1](http://arxiv.org/pdf/2210.03709v1)|null|
+|**2022-10-07**|**NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems**|Simin Chen et.al.|[2210.03696v1](http://arxiv.org/abs/2210.03696v1)|[2210.03696v1](http://arxiv.org/pdf/2210.03696v1)|null|
+|**2022-10-07**|**Few-Shot Anaphora Resolution in Scientific Protocols via Mixtures of In-Context Experts**|Nghia T. Le et.al.|[2210.03690v1](http://arxiv.org/abs/2210.03690v1)|[2210.03690v1](http://arxiv.org/pdf/2210.03690v1)|null|
+|**2022-10-07**|**Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors**|Federico Baldassarre et.al.|[2210.03683v1](http://arxiv.org/abs/2210.03683v1)|[2210.03683v1](http://arxiv.org/pdf/2210.03683v1)|null|
+|**2022-10-07**|**Reinforcement Learning Approach for Multi-Agent Flexible Scheduling Problems**|Hongjian Zhou et.al.|[2210.03674v1](http://arxiv.org/abs/2210.03674v1)|[2210.03674v1](http://arxiv.org/pdf/2210.03674v1)|null|
+|**2022-10-07**|**To tree or not to tree? Assessing the impact of smoothing the decision boundaries**|Anthea Mérida et.al.|[2210.03672v1](http://arxiv.org/abs/2210.03672v1)|[2210.03672v1](http://arxiv.org/pdf/2210.03672v1)|null|
+|**2022-10-07**|**Spatio-temporal Tendency Reasoning for Human Body Pose and Shape Estimation from Videos**|Boyang Zhang et.al.|[2210.03659v1](http://arxiv.org/abs/2210.03659v1)|[2210.03659v1](http://arxiv.org/pdf/2210.03659v1)|null|
+|**2022-10-07**|**Understanding the Covariance Structure of Convolutional Filters**|Asher Trockman et.al.|[2210.03651v1](http://arxiv.org/abs/2210.03651v1)|[2210.03651v1](http://arxiv.org/pdf/2210.03651v1)|null|
 |**2022-10-06**|**SimPer: Simple Self-Supervised Learning of Periodic Targets**|Yuzhe Yang et.al.|[2210.03115v1](http://arxiv.org/abs/2210.03115v1)|[2210.03115v1](http://arxiv.org/pdf/2210.03115v1)|**[link](https://github.com/yyzharry/simper)**|
 |**2022-10-06**|**IR-MCL: Implicit Representation-Based Online Global Localization**|Haofei Kuang et.al.|[2210.03113v1](http://arxiv.org/abs/2210.03113v1)|[2210.03113v1](http://arxiv.org/pdf/2210.03113v1)|**[link](https://github.com/prbonn/ir-mcl)**|
 |**2022-10-06**|**Distributionally Adaptive Meta Reinforcement Learning**|Anurag Ajay et.al.|[2210.03104v1](http://arxiv.org/abs/2210.03104v1)|[2210.03104v1](http://arxiv.org/pdf/2210.03104v1)|null|
