@@ -1,4 +1,4 @@
-## Updated on 2022.10.10
+## Updated on 2022.10.11
 
 ## Astrophysics
 
@@ -757,7 +757,7 @@
 |**2022-10-07**|**Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors**|Federico Baldassarre et.al.|[2210.03683v1](http://arxiv.org/abs/2210.03683v1)|[2210.03683v1](http://arxiv.org/pdf/2210.03683v1)|null|
 |**2022-10-07**|**Reinforcement Learning Approach for Multi-Agent Flexible Scheduling Problems**|Hongjian Zhou et.al.|[2210.03674v1](http://arxiv.org/abs/2210.03674v1)|[2210.03674v1](http://arxiv.org/pdf/2210.03674v1)|null|
 |**2022-10-07**|**To tree or not to tree? Assessing the impact of smoothing the decision boundaries**|Anthea Mérida et.al.|[2210.03672v1](http://arxiv.org/abs/2210.03672v1)|[2210.03672v1](http://arxiv.org/pdf/2210.03672v1)|null|
-|**2022-10-07**|**Spatio-temporal Tendency Reasoning for Human Body Pose and Shape Estimation from Videos**|Boyang Zhang et.al.|[2210.03659v1](http://arxiv.org/abs/2210.03659v1)|[2210.03659v1](http://arxiv.org/pdf/2210.03659v1)|null|
+|**2022-10-10**|**Spatio-temporal Tendency Reasoning for Human Body Pose and Shape Estimation from Videos**|Boyang Zhang et.al.|[2210.03659v2](http://arxiv.org/abs/2210.03659v2)|[2210.03659v2](http://arxiv.org/pdf/2210.03659v2)|null|
 |**2022-10-07**|**Understanding the Covariance Structure of Convolutional Filters**|Asher Trockman et.al.|[2210.03651v1](http://arxiv.org/abs/2210.03651v1)|[2210.03651v1](http://arxiv.org/pdf/2210.03651v1)|null|
 |**2022-10-06**|**SimPer: Simple Self-Supervised Learning of Periodic Targets**|Yuzhe Yang et.al.|[2210.03115v1](http://arxiv.org/abs/2210.03115v1)|[2210.03115v1](http://arxiv.org/pdf/2210.03115v1)|**[link](https://github.com/yyzharry/simper)**|
 |**2022-10-06**|**IR-MCL: Implicit Representation-Based Online Global Localization**|Haofei Kuang et.al.|[2210.03113v1](http://arxiv.org/abs/2210.03113v1)|[2210.03113v1](http://arxiv.org/pdf/2210.03113v1)|**[link](https://github.com/prbonn/ir-mcl)**|
