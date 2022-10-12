@@ -1,4 +1,4 @@
-> Updated on 2022.10.11
+> Updated on 2022.10.12
 
 ## Astrophysics
 
@@ -757,7 +757,7 @@
 
 - 2022-10-10, **In-Hand Object Rotation via Rapid Motor Adaptation**, Haozhi Qi et.al., Paper: [http://arxiv.org/abs/2210.04887v1](http://arxiv.org/abs/2210.04887v1), Paper: [http://arxiv.org/abs/2210.04887v1](http://arxiv.org/pdf/2210.04887v1)
 - 2022-10-10, **Examining the Role of Chloride Ligands on Defect Removal in Imperfectly Attached Semiconductor Nanocrystals for 1D and 2D Attachment Cases**, Amy S. McKeown-Green et.al., Paper: [http://arxiv.org/abs/2210.04884v1](http://arxiv.org/abs/2210.04884v1), Paper: [http://arxiv.org/abs/2210.04884v1](http://arxiv.org/pdf/2210.04884v1)
-- 2022-10-10, **SCAM! Transferring humans between images with Semantic Cross Attention Modulation**, Nicolas Dufour et.al., Paper: [http://arxiv.org/abs/2210.04883v1](http://arxiv.org/abs/2210.04883v1), Paper: [http://arxiv.org/abs/2210.04883v1](http://arxiv.org/pdf/2210.04883v1)
+- 2022-10-10, **SCAM! Transferring humans between images with Semantic Cross Attention Modulation**, Nicolas Dufour et.al., Paper: [http://arxiv.org/abs/2210.04883v1](http://arxiv.org/abs/2210.04883v1),Paper: [http://arxiv.org/abs/2210.04883v1](http://arxiv.org/pdf/2210.04883v1), Code: **[https://github.com/nicolas-dufour/SCAM](https://github.com/nicolas-dufour/SCAM)**
 - 2022-10-10, **Translate First Reorder Later: Leveraging Monotonicity in Semantic Parsing**, Francesco Cazzaro et.al., Paper: [http://arxiv.org/abs/2210.04878v1](http://arxiv.org/abs/2210.04878v1), Paper: [http://arxiv.org/abs/2210.04878v1](http://arxiv.org/pdf/2210.04878v1)
 - 2022-10-10, **SMiLE: Schema-augmented Multi-level Contrastive Learning for Knowledge Graph Link Prediction**, Miao Peng et.al., Paper: [http://arxiv.org/abs/2210.04870v1](http://arxiv.org/abs/2210.04870v1), Paper: [http://arxiv.org/abs/2210.04870v1](http://arxiv.org/pdf/2210.04870v1)
 - 2022-10-10, **Tracking changes using Kullback-Leibler divergence for the continual learning**, Sebastián Basterrech et.al., Paper: [http://arxiv.org/abs/2210.04865v1](http://arxiv.org/abs/2210.04865v1), Paper: [http://arxiv.org/abs/2210.04865v1](http://arxiv.org/pdf/2210.04865v1)
