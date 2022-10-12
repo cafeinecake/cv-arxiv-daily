@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-11**|**General relativistic simulations of collapsing binary neutron star mergers with Monte-Carlo neutrino transport**|Francois Foucart et.al.|[2210.05670v1](http://arxiv.org/abs/2210.05670v1)|[2210.05670v1](http://arxiv.org/pdf/2210.05670v1)|null|
+|**2022-10-11**|**Even Lighter Particle Dark Matter**|Alvaro E. Chavarria et.al.|[2210.05661v1](http://arxiv.org/abs/2210.05661v1)|[2210.05661v1](http://arxiv.org/pdf/2210.05661v1)|null|
+|**2022-10-11**|**Axion-like particles explain the very-high energy emission from GRB221009A**|Giorgio Galanti et.al.|[2210.05659v1](http://arxiv.org/abs/2210.05659v1)|[2210.05659v1](http://arxiv.org/pdf/2210.05659v1)|null|
+|**2022-10-11**|**Lensing of gravitational waves: efficient wave-optics methods and validation with symmetric lenses**|Giovanni Tambalo et.al.|[2210.05658v1](http://arxiv.org/abs/2210.05658v1)|[2210.05658v1](http://arxiv.org/pdf/2210.05658v1)|null|
+|**2022-10-11**|**Searching for Conformity Across Cosmic Time with Local Group and Local Volume Star Formation Histories**|Charlotte Olsen et.al.|[2210.05637v1](http://arxiv.org/abs/2210.05637v1)|[2210.05637v1](http://arxiv.org/pdf/2210.05637v1)|null|
+|**2022-10-11**|**Spectral characteristics of the black hole binary 4U 1957+115: A multi-mission perspective**|Sneha Prakash Mudambi et.al.|[2210.05606v1](http://arxiv.org/abs/2210.05606v1)|[2210.05606v1](http://arxiv.org/pdf/2210.05606v1)|null|
+|**2022-10-11**|**The Exoplanet Radius Valley from Gas-driven Planet Migration and Breaking of Resonant Chains**|Andre Izidoro et.al.|[2210.05595v1](http://arxiv.org/abs/2210.05595v1)|[2210.05595v1](http://arxiv.org/pdf/2210.05595v1)|null|
+|**2022-10-11**|**12CO (3-2) High-Resolution Survey (COHRS) of the Galactic Plane: Complete Data Release**|Geumsook Park et.al.|[2210.05570v1](http://arxiv.org/abs/2210.05570v1)|[2210.05570v1](http://arxiv.org/pdf/2210.05570v1)|null|
+|**2022-10-11**|**Searching Lorentz invariance violation from cosmic photon attenuation**|Hao Li et.al.|[2210.05563v1](http://arxiv.org/abs/2210.05563v1)|[2210.05563v1](http://arxiv.org/pdf/2210.05563v1)|null|
+|**2022-10-11**|**Transition disks: the observational revolution from SEDs to imaging**|Nienke van der Marel et.al.|[2210.05539v1](http://arxiv.org/abs/2210.05539v1)|[2210.05539v1](http://arxiv.org/pdf/2210.05539v1)|null|
 |**2022-10-10**|**Conditions for proton temperature anisotropy to drive instabilities in the solar wind**|Simon Opie et.al.|[2210.04875v1](http://arxiv.org/abs/2210.04875v1)|[2210.04875v1](http://arxiv.org/pdf/2210.04875v1)|null|
 |**2022-10-10**|**Deep and fast Solar System flybys: The controversial case of WD 0810-353**|R. de la Fuente Marcos et.al.|[2210.04863v1](http://arxiv.org/abs/2210.04863v1)|[2210.04863v1](http://arxiv.org/pdf/2210.04863v1)|null|
 |**2022-10-10**|**A novel generative method for star clusters from hydro-dynamical simulations**|Stefano Torniamenti et.al.|[2210.04848v1](http://arxiv.org/abs/2210.04848v1)|[2210.04848v1](http://arxiv.org/pdf/2210.04848v1)|null|
@@ -759,6 +769,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-11**|**Human Body Measurement Estimation with Adversarial Augmentation**|Nataniel Ruiz et.al.|[2210.05667v1](http://arxiv.org/abs/2210.05667v1)|[2210.05667v1](http://arxiv.org/pdf/2210.05667v1)|null|
+|**2022-10-11**|**HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**|Yue Jiang et.al.|[2210.05665v1](http://arxiv.org/abs/2210.05665v1)|[2210.05665v1](http://arxiv.org/pdf/2210.05665v1)|null|
+|**2022-10-11**|**The Unreasonable Effectiveness of Fully-Connected Layers for Low-Data Regimes**|Peter Kocsis et.al.|[2210.05657v1](http://arxiv.org/abs/2210.05657v1)|[2210.05657v1](http://arxiv.org/pdf/2210.05657v1)|null|
+|**2022-10-11**|**Entity Disambiguation with Entity Definitions**|Luigi Procopio et.al.|[2210.05648v1](http://arxiv.org/abs/2210.05648v1)|[2210.05648v1](http://arxiv.org/pdf/2210.05648v1)|**[link](https://github.com/sapienzanlp/extend)**|
+|**2022-10-11**|**Discovered Policy Optimisation**|Chris Lu et.al.|[2210.05639v1](http://arxiv.org/abs/2210.05639v1)|[2210.05639v1](http://arxiv.org/pdf/2210.05639v1)|null|
+|**2022-10-11**|**Contrastive Training Improves Zero-Shot Classification of Semi-structured Documents**|Muhammad Khalifa et.al.|[2210.05613v1](http://arxiv.org/abs/2210.05613v1)|[2210.05613v1](http://arxiv.org/pdf/2210.05613v1)|null|
+|**2022-10-11**|**MTet: Multi-domain Translation for English and Vietnamese**|Chinh Ngo et.al.|[2210.05610v1](http://arxiv.org/abs/2210.05610v1)|[2210.05610v1](http://arxiv.org/pdf/2210.05610v1)|**[link](https://github.com/vietai/SAT)**|
+|**2022-10-11**|**Enriching Biomedical Knowledge for Low-resource Language Through Translation**|Long Phan et.al.|[2210.05598v1](http://arxiv.org/abs/2210.05598v1)|[2210.05598v1](http://arxiv.org/pdf/2210.05598v1)|null|
+|**2022-10-11**|**Digitization of Raster Logs: A Deep Learning Approach**|M Quamer Nasim et.al.|[2210.05597v1](http://arxiv.org/abs/2210.05597v1)|[2210.05597v1](http://arxiv.org/pdf/2210.05597v1)|null|
+|**2022-10-11**|**Benefits of Permutation-Equivariance in Auction Mechanisms**|Tian Qin et.al.|[2210.05579v1](http://arxiv.org/abs/2210.05579v1)|[2210.05579v1](http://arxiv.org/pdf/2210.05579v1)|null|
 |**2022-10-10**|**In-Hand Object Rotation via Rapid Motor Adaptation**|Haozhi Qi et.al.|[2210.04887v1](http://arxiv.org/abs/2210.04887v1)|[2210.04887v1](http://arxiv.org/pdf/2210.04887v1)|null|
 |**2022-10-10**|**Examining the Role of Chloride Ligands on Defect Removal in Imperfectly Attached Semiconductor Nanocrystals for 1D and 2D Attachment Cases**|Amy S. McKeown-Green et.al.|[2210.04884v1](http://arxiv.org/abs/2210.04884v1)|[2210.04884v1](http://arxiv.org/pdf/2210.04884v1)|null|
 |**2022-10-10**|**SCAM! Transferring humans between images with Semantic Cross Attention Modulation**|Nicolas Dufour et.al.|[2210.04883v1](http://arxiv.org/abs/2210.04883v1)|[2210.04883v1](http://arxiv.org/pdf/2210.04883v1)|**[link](https://github.com/nicolas-dufour/SCAM)**|
