@@ -2,12 +2,22 @@
 layout: default
 ---
 
-## Updated on 2022.10.13
+## Updated on 2022.10.14
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-13**|**The information on halo properties contained in spectroscopic observations of late-type galaxies**|Tariq Yasin et.al.|[2210.07230v1](http://arxiv.org/abs/2210.07230v1)|[2210.07230v1](http://arxiv.org/pdf/2210.07230v1)|null|
+|**2022-10-13**|**Measuring line-of-sight shear with Einstein rings: a proof of concept**|Natalie B. Hogg et.al.|[2210.07210v1](http://arxiv.org/abs/2210.07210v1)|[2210.07210v1](http://arxiv.org/pdf/2210.07210v1)|null|
+|**2022-10-13**|**Dynamics of hot galactic winds launched from non-uniform starburst cores**|Dustin D. Nguyen et.al.|[2210.07193v1](http://arxiv.org/abs/2210.07193v1)|[2210.07193v1](http://arxiv.org/pdf/2210.07193v1)|null|
+|**2022-10-13**|**Interpretation of multi-TeV photons from GRB221009A**|Ali Baktash et.al.|[2210.07172v1](http://arxiv.org/abs/2210.07172v1)|[2210.07172v1](http://arxiv.org/pdf/2210.07172v1)|null|
+|**2022-10-13**|**Swift and XMM-Newton observations of an RS CVn type eclipsing binary SZ Psc: Superflare and coronal properties**|Subhajeet Karmakar et.al.|[2210.07170v1](http://arxiv.org/abs/2210.07170v1)|[2210.07170v1](http://arxiv.org/pdf/2210.07170v1)|null|
+|**2022-10-13**|**What charged cosmic rays tell us on dark matter**|Pierre Salati et.al.|[2210.07166v1](http://arxiv.org/abs/2210.07166v1)|[2210.07166v1](http://arxiv.org/pdf/2210.07166v1)|null|
+|**2022-10-13**|**KiDS-Legacy calibration: unifying shear and redshift calibration with the SKiLLS multi-band image simulations**|Shun-Sheng Li et.al.|[2210.07163v1](http://arxiv.org/abs/2210.07163v1)|[2210.07163v1](http://arxiv.org/pdf/2210.07163v1)|null|
+|**2022-10-13**|**Probing the interaction between dark energy and dark matter with future fast radio burst observations**|Ze-Wei Zhao et.al.|[2210.07162v1](http://arxiv.org/abs/2210.07162v1)|[2210.07162v1](http://arxiv.org/pdf/2210.07162v1)|null|
+|**2022-10-13**|**Solar System-scale interferometry on fast radio bursts could measure cosmic distances with sub-percent precision**|Kyle Boone et.al.|[2210.07159v1](http://arxiv.org/abs/2210.07159v1)|[2210.07159v1](http://arxiv.org/pdf/2210.07159v1)|null|
+|**2022-10-13**|**Searching for compact objects in the single-lined spectroscopic binaries of the young Galactic cluster NGC 6231**|G. Banyard et.al.|[2210.07149v1](http://arxiv.org/abs/2210.07149v1)|[2210.07149v1](http://arxiv.org/pdf/2210.07149v1)|null|
 |**2022-10-12**|**Nested Dust Shells around the Wolf-Rayet Binary WR 140 observed with JWST**|Ryan M. Lau et.al.|[2210.06452v1](http://arxiv.org/abs/2210.06452v1)|[2210.06452v1](http://arxiv.org/pdf/2210.06452v1)|null|
 |**2022-10-12**|**The Eccentricity Distribution of Wide Binaries**|David Benisty et.al.|[2210.06429v1](http://arxiv.org/abs/2210.06429v1)|[2210.06429v1](http://arxiv.org/pdf/2210.06429v1)|null|
 |**2022-10-12**|**On Synchronized Globular Cluster Formation over Supra-galactic Scales: A Virgo-Centaurus Group Connection**|Juan Carlos Forte et.al.|[2210.06426v1](http://arxiv.org/abs/2210.06426v1)|[2210.06426v1](http://arxiv.org/pdf/2210.06426v1)|null|
@@ -783,6 +793,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|[2210.07242v1](http://arxiv.org/pdf/2210.07242v1)|null|
+|**2022-10-13**|**Unified Vision and Language Prompt Learning**|Yuhang Zang et.al.|[2210.07225v1](http://arxiv.org/abs/2210.07225v1)|[2210.07225v1](http://arxiv.org/pdf/2210.07225v1)|null|
+|**2022-10-13**|**FARE: Provably Fair Representation Learning**|Nikola Jovanović et.al.|[2210.07213v1](http://arxiv.org/abs/2210.07213v1)|[2210.07213v1](http://arxiv.org/pdf/2210.07213v1)|null|
+|**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[2210.07198v1](http://arxiv.org/pdf/2210.07198v1)|null|
+|**2022-10-13**|**Towards Multi-Agent Reinforcement Learning driven Over-The-Counter Market Simulations**|Nelson Vadori et.al.|[2210.07184v1](http://arxiv.org/abs/2210.07184v1)|[2210.07184v1](http://arxiv.org/pdf/2210.07184v1)|null|
+|**2022-10-13**|**MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting**|Oscar Mañas et.al.|[2210.07179v1](http://arxiv.org/abs/2210.07179v1)|[2210.07179v1](http://arxiv.org/pdf/2210.07179v1)|null|
+|**2022-10-13**|**Fast Estimation of Bayesian State Space Models Using Amortized Simulation-Based Inference**|Ramis Khabibullin et.al.|[2210.07154v1](http://arxiv.org/abs/2210.07154v1)|[2210.07154v1](http://arxiv.org/pdf/2210.07154v1)|null|
+|**2022-10-13**|**Global Explainability of GNNs via Logic Combination of Learned Concepts**|Steve Azzolin et.al.|[2210.07147v1](http://arxiv.org/abs/2210.07147v1)|[2210.07147v1](http://arxiv.org/pdf/2210.07147v1)|null|
+|**2022-10-13**|**Scalable Multi-robot Motion Planning for Congested Environments Using Topological Guidance**|Courtney McBeth et.al.|[2210.07141v1](http://arxiv.org/abs/2210.07141v1)|[2210.07141v1](http://arxiv.org/pdf/2210.07141v1)|null|
+|**2022-10-13**|**Counterfactual Multihop QA: A Cause-Effect Approach for Reducing Disconnected Reasoning**|Wangzhen Guo et.al.|[2210.07138v1](http://arxiv.org/abs/2210.07138v1)|[2210.07138v1](http://arxiv.org/pdf/2210.07138v1)|null|
 |**2022-10-12**|**Predictive Querying for Autoregressive Neural Sequence Models**|Alex Boyd et.al.|[2210.06464v1](http://arxiv.org/abs/2210.06464v1)|[2210.06464v1](http://arxiv.org/pdf/2210.06464v1)|**[link](https://github.com/ajboyd2/prob_seq_queries)**|
 |**2022-10-12**|**Holo-Dex: Teaching Dexterity with Immersive Mixed Reality**|Sridhar Pandian Arunachalam et.al.|[2210.06463v1](http://arxiv.org/abs/2210.06463v1)|[2210.06463v1](http://arxiv.org/pdf/2210.06463v1)|null|
 |**2022-10-12**|**Self-Guided Diffusion Models**|Vincent Tao Hu et.al.|[2210.06462v1](http://arxiv.org/abs/2210.06462v1)|[2210.06462v1](http://arxiv.org/pdf/2210.06462v1)|null|
