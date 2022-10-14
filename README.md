@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2022-10-13**|**The information on halo properties contained in spectroscopic observations of late-type galaxies**|Tariq Yasin et.al.|[2210.07230v1](http://arxiv.org/abs/2210.07230v1)|[2210.07230v1](http://arxiv.org/pdf/2210.07230v1)|null|
-|**2022-10-13**|**Measuring line-of-sight shear with Einstein rings: a proof of concept**|Natalie B. Hogg et.al.|[2210.07210v1](http://arxiv.org/abs/2210.07210v1)|[2210.07210v1](http://arxiv.org/pdf/2210.07210v1)|null|
+|**2022-10-13**|**Measuring line-of-sight shear with Einstein rings: a proof of concept**|Natalie B. Hogg et.al.|[2210.07210v1](http://arxiv.org/abs/2210.07210v1)|[2210.07210v1](http://arxiv.org/pdf/2210.07210v1)|**[link](https://github.com/nataliehogg/los_proof_of_concept)**|
 |**2022-10-13**|**Dynamics of hot galactic winds launched from non-uniform starburst cores**|Dustin D. Nguyen et.al.|[2210.07193v1](http://arxiv.org/abs/2210.07193v1)|[2210.07193v1](http://arxiv.org/pdf/2210.07193v1)|null|
 |**2022-10-13**|**Interpretation of multi-TeV photons from GRB221009A**|Ali Baktash et.al.|[2210.07172v1](http://arxiv.org/abs/2210.07172v1)|[2210.07172v1](http://arxiv.org/pdf/2210.07172v1)|null|
 |**2022-10-13**|**Swift and XMM-Newton observations of an RS CVn type eclipsing binary SZ Psc: Superflare and coronal properties**|Subhajeet Karmakar et.al.|[2210.07170v1](http://arxiv.org/abs/2210.07170v1)|[2210.07170v1](http://arxiv.org/pdf/2210.07170v1)|null|
@@ -789,8 +789,8 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|[2210.07242v1](http://arxiv.org/pdf/2210.07242v1)|null|
-|**2022-10-13**|**Unified Vision and Language Prompt Learning**|Yuhang Zang et.al.|[2210.07225v1](http://arxiv.org/abs/2210.07225v1)|[2210.07225v1](http://arxiv.org/pdf/2210.07225v1)|null|
+|**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|[2210.07242v1](http://arxiv.org/pdf/2210.07242v1)|**[link](https://github.com/jingkang50/openood)**|
+|**2022-10-13**|**Unified Vision and Language Prompt Learning**|Yuhang Zang et.al.|[2210.07225v1](http://arxiv.org/abs/2210.07225v1)|[2210.07225v1](http://arxiv.org/pdf/2210.07225v1)|**[link](https://github.com/yuhangzang/upt)**|
 |**2022-10-13**|**FARE: Provably Fair Representation Learning**|Nikola Jovanović et.al.|[2210.07213v1](http://arxiv.org/abs/2210.07213v1)|[2210.07213v1](http://arxiv.org/pdf/2210.07213v1)|null|
 |**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[2210.07198v1](http://arxiv.org/pdf/2210.07198v1)|null|
 |**2022-10-13**|**Towards Multi-Agent Reinforcement Learning driven Over-The-Counter Market Simulations**|Nelson Vadori et.al.|[2210.07184v1](http://arxiv.org/abs/2210.07184v1)|[2210.07184v1](http://arxiv.org/pdf/2210.07184v1)|null|
