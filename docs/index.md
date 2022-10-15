@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.14
+## Updated on 2022.10.15
 
 ## Astrophysics
 
@@ -796,7 +796,7 @@ layout: default
 |**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|[2210.07242v1](http://arxiv.org/pdf/2210.07242v1)|**[link](https://github.com/jingkang50/openood)**|
 |**2022-10-13**|**Unified Vision and Language Prompt Learning**|Yuhang Zang et.al.|[2210.07225v1](http://arxiv.org/abs/2210.07225v1)|[2210.07225v1](http://arxiv.org/pdf/2210.07225v1)|**[link](https://github.com/yuhangzang/upt)**|
 |**2022-10-13**|**FARE: Provably Fair Representation Learning**|Nikola Jovanović et.al.|[2210.07213v1](http://arxiv.org/abs/2210.07213v1)|[2210.07213v1](http://arxiv.org/pdf/2210.07213v1)|null|
-|**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[2210.07198v1](http://arxiv.org/pdf/2210.07198v1)|null|
+|**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[2210.07198v1](http://arxiv.org/pdf/2210.07198v1)|**[link](https://github.com/mila-iqia/casande-rl)**|
 |**2022-10-13**|**Towards Multi-Agent Reinforcement Learning driven Over-The-Counter Market Simulations**|Nelson Vadori et.al.|[2210.07184v1](http://arxiv.org/abs/2210.07184v1)|[2210.07184v1](http://arxiv.org/pdf/2210.07184v1)|null|
 |**2022-10-13**|**MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting**|Oscar Mañas et.al.|[2210.07179v1](http://arxiv.org/abs/2210.07179v1)|[2210.07179v1](http://arxiv.org/pdf/2210.07179v1)|null|
 |**2022-10-13**|**Fast Estimation of Bayesian State Space Models Using Amortized Simulation-Based Inference**|Ramis Khabibullin et.al.|[2210.07154v1](http://arxiv.org/abs/2210.07154v1)|[2210.07154v1](http://arxiv.org/pdf/2210.07154v1)|null|
