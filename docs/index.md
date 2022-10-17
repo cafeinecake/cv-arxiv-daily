@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.16
+## Updated on 2022.10.17
 
 ## Astrophysics
 
@@ -800,7 +800,7 @@ layout: default
 |**2022-10-13**|**Towards Multi-Agent Reinforcement Learning driven Over-The-Counter Market Simulations**|Nelson Vadori et.al.|[2210.07184v1](http://arxiv.org/abs/2210.07184v1)|[2210.07184v1](http://arxiv.org/pdf/2210.07184v1)|null|
 |**2022-10-13**|**MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting**|Oscar Mañas et.al.|[2210.07179v1](http://arxiv.org/abs/2210.07179v1)|[2210.07179v1](http://arxiv.org/pdf/2210.07179v1)|null|
 |**2022-10-13**|**Fast Estimation of Bayesian State Space Models Using Amortized Simulation-Based Inference**|Ramis Khabibullin et.al.|[2210.07154v1](http://arxiv.org/abs/2210.07154v1)|[2210.07154v1](http://arxiv.org/pdf/2210.07154v1)|null|
-|**2022-10-13**|**Global Explainability of GNNs via Logic Combination of Learned Concepts**|Steve Azzolin et.al.|[2210.07147v1](http://arxiv.org/abs/2210.07147v1)|[2210.07147v1](http://arxiv.org/pdf/2210.07147v1)|null|
+|**2022-10-14**|**Global Explainability of GNNs via Logic Combination of Learned Concepts**|Steve Azzolin et.al.|[2210.07147v2](http://arxiv.org/abs/2210.07147v2)|[2210.07147v2](http://arxiv.org/pdf/2210.07147v2)|null|
 |**2022-10-13**|**Scalable Multi-robot Motion Planning for Congested Environments Using Topological Guidance**|Courtney McBeth et.al.|[2210.07141v1](http://arxiv.org/abs/2210.07141v1)|[2210.07141v1](http://arxiv.org/pdf/2210.07141v1)|null|
 |**2022-10-13**|**Counterfactual Multihop QA: A Cause-Effect Approach for Reducing Disconnected Reasoning**|Wangzhen Guo et.al.|[2210.07138v1](http://arxiv.org/abs/2210.07138v1)|[2210.07138v1](http://arxiv.org/pdf/2210.07138v1)|null|
 |**2022-10-12**|**Predictive Querying for Autoregressive Neural Sequence Models**|Alex Boyd et.al.|[2210.06464v1](http://arxiv.org/abs/2210.06464v1)|[2210.06464v1](http://arxiv.org/pdf/2210.06464v1)|**[link](https://github.com/ajboyd2/prob_seq_queries)**|
