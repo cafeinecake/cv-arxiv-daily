@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-17**|**Imprint of f(R) gravity in the cosmic magnification**|Didam Duniya et.al.|[2210.09303v1](http://arxiv.org/abs/2210.09303v1)|[2210.09303v1](http://arxiv.org/pdf/2210.09303v1)|null|
+|**2022-10-17**|**Chemically Peculiar Stars in the Open Cluster Stock 2**|Laia Casamiquela et.al.|[2210.09301v1](http://arxiv.org/abs/2210.09301v1)|[2210.09301v1](http://arxiv.org/pdf/2210.09301v1)|null|
+|**2022-10-17**|**Anisotropic infall in the outskirst of clusters**|Juan Manuel Salerno et.al.|[2210.09300v1](http://arxiv.org/abs/2210.09300v1)|[2210.09300v1](http://arxiv.org/pdf/2210.09300v1)|null|
+|**2022-10-17**|**TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain**|Fei Dai et.al.|[2210.09283v1](http://arxiv.org/abs/2210.09283v1)|[2210.09283v1](http://arxiv.org/pdf/2210.09283v1)|null|
+|**2022-10-17**|**Unraveling information about supranuclear-dense matter from the complete binary neutron star coalescence process using future gravitational-wave detector networks**|Anna Puecher et.al.|[2210.09259v1](http://arxiv.org/abs/2210.09259v1)|[2210.09259v1](http://arxiv.org/pdf/2210.09259v1)|null|
+|**2022-10-17**|**Black hole merger simulations in wave dark matter environments**|Jamie Bamber et.al.|[2210.09254v1](http://arxiv.org/abs/2210.09254v1)|[2210.09254v1](http://arxiv.org/pdf/2210.09254v1)|null|
+|**2022-10-17**|**Parameters of axion-like particles required to explain high-energy photons from GRB 221009A**|S. V. Troitsky et.al.|[2210.09250v1](http://arxiv.org/abs/2210.09250v1)|[2210.09250v1](http://arxiv.org/pdf/2210.09250v1)|null|
+|**2022-10-17**|**Infrared variability of young solar analogs in the Lagoon Nebula**|C. Ordenes-Huanca et.al.|[2210.09242v1](http://arxiv.org/abs/2210.09242v1)|[2210.09242v1](http://arxiv.org/pdf/2210.09242v1)|null|
+|**2022-10-17**|**The Impact of Turbulent Vertical Mixing in the Venus Clouds on Chemical Tracers**|Maxence Lefèvre et.al.|[2210.09240v1](http://arxiv.org/abs/2210.09240v1)|[2210.09240v1](http://arxiv.org/pdf/2210.09240v1)|null|
+|**2022-10-17**|**Inconspicuous Solar Polar Coronal X-ray Jets as the Source of Conspicuous Hinode/EUV Imaging Spectrometer (EIS) Doppler Outflows**|Alphonse C. Sterling et.al.|[2210.09233v1](http://arxiv.org/abs/2210.09233v1)|[2210.09233v1](http://arxiv.org/pdf/2210.09233v1)|null|
 |**2022-10-14**|**Tidal Disruption of Main-Sequence Stars by Intermediate-Mass Black Holes**|Fulya Kıroğlu et.al.|[2210.08002v1](http://arxiv.org/abs/2210.08002v1)|[2210.08002v1](http://arxiv.org/pdf/2210.08002v1)|null|
 |**2022-10-14**|**The Ly$α$, CIV, and HeII nebulae around J1000+0234: a galaxy pair at the center of a galaxy overdensity at $z=4.5$**|E. F. Jiménez-Andrade et.al.|[2210.07982v1](http://arxiv.org/abs/2210.07982v1)|[2210.07982v1](http://arxiv.org/pdf/2210.07982v1)|null|
 |**2022-10-14**|**Design and Testing of a 3U CubeSat to Test the In-situ Vetoing for the $ν$SOL Solar Neutrino Detector**|Jonathan Folkerts et.al.|[2210.07975v1](http://arxiv.org/abs/2210.07975v1)|[2210.07975v1](http://arxiv.org/pdf/2210.07975v1)|null|
@@ -799,6 +809,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-17**|**Mitigating Covertly Unsafe Text within Natural Language Systems**|Alex Mei et.al.|[2210.09306v1](http://arxiv.org/abs/2210.09306v1)|[2210.09306v1](http://arxiv.org/pdf/2210.09306v1)|null|
+|**2022-10-17**|**What Makes Convolutional Models Great on Long Sequence Modeling?**|Yuhong Li et.al.|[2210.09298v1](http://arxiv.org/abs/2210.09298v1)|[2210.09298v1](http://arxiv.org/pdf/2210.09298v1)|**[link](https://github.com/ctlllll/sgconv)**|
+|**2022-10-17**|**Predicting Dynamic Stability from Static Features in Power Grid Models using Machine Learning**|Maurizio Titz et.al.|[2210.09266v1](http://arxiv.org/abs/2210.09266v1)|[2210.09266v1](http://arxiv.org/pdf/2210.09266v1)|null|
+|**2022-10-17**|**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**|Mirac Suzgun et.al.|[2210.09261v1](http://arxiv.org/abs/2210.09261v1)|[2210.09261v1](http://arxiv.org/pdf/2210.09261v1)|null|
+|**2022-10-17**|**Turbocharging Solution Concepts: Solving NEs, CEs and CCEs with Neural Equilibrium Solvers**|Luke Marris et.al.|[2210.09257v1](http://arxiv.org/abs/2210.09257v1)|[2210.09257v1](http://arxiv.org/pdf/2210.09257v1)|null|
+|**2022-10-17**|**Black hole merger simulations in wave dark matter environments**|Jamie Bamber et.al.|[2210.09254v1](http://arxiv.org/abs/2210.09254v1)|[2210.09254v1](http://arxiv.org/pdf/2210.09254v1)|null|
+|**2022-10-17**|**Learning Object Affordance with Contact and Grasp Generation**|Haoming Li et.al.|[2210.09245v1](http://arxiv.org/abs/2210.09245v1)|[2210.09245v1](http://arxiv.org/pdf/2210.09245v1)|null|
+|**2022-10-17**|**ZooD: Exploiting Model Zoo for Out-of-Distribution Generalization**|Qishi Dong et.al.|[2210.09236v1](http://arxiv.org/abs/2210.09236v1)|[2210.09236v1](http://arxiv.org/pdf/2210.09236v1)|null|
+|**2022-10-17**|**Improving Contrastive Learning on Visually Homogeneous Mars Rover Images**|Isaac Ronald Ward et.al.|[2210.09234v1](http://arxiv.org/abs/2210.09234v1)|[2210.09234v1](http://arxiv.org/pdf/2210.09234v1)|null|
+|**2022-10-17**|**Confound-leakage: Confound Removal in Machine Learning Leads to Leakage**|Sami Hamdan et.al.|[2210.09232v1](http://arxiv.org/abs/2210.09232v1)|[2210.09232v1](http://arxiv.org/pdf/2210.09232v1)|null|
 |**2022-10-14**|**Learnable Polyphase Sampling for Shift Invariant and Equivariant Convolutional Networks**|Renan A. Rojas-Gomez et.al.|[2210.08001v1](http://arxiv.org/abs/2210.08001v1)|[2210.08001v1](http://arxiv.org/pdf/2210.08001v1)|null|
 |**2022-10-14**|**Logical Majorana zero modes in a nanowire network**|Sayandip Dhara et.al.|[2210.07997v1](http://arxiv.org/abs/2210.07997v1)|[2210.07997v1](http://arxiv.org/pdf/2210.07997v1)|null|
 |**2022-10-14**|**PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population**|Tianqing Fang et.al.|[2210.07988v1](http://arxiv.org/abs/2210.07988v1)|[2210.07988v1](http://arxiv.org/pdf/2210.07988v1)|**[link](https://github.com/hkust-knowcomp/pseudoreasoner)**|
