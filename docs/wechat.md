@@ -1,4 +1,4 @@
-> Updated on 2022.10.18
+> Updated on 2022.10.19
 
 ## Astrophysics
 
@@ -808,7 +808,7 @@
 - 2022-10-17, **Mitigating Covertly Unsafe Text within Natural Language Systems**, Alex Mei et.al., Paper: [http://arxiv.org/abs/2210.09306v1](http://arxiv.org/abs/2210.09306v1), Paper: [http://arxiv.org/abs/2210.09306v1](http://arxiv.org/pdf/2210.09306v1)
 - 2022-10-17, **What Makes Convolutional Models Great on Long Sequence Modeling?**, Yuhong Li et.al., Paper: [http://arxiv.org/abs/2210.09298v1](http://arxiv.org/abs/2210.09298v1),Paper: [http://arxiv.org/abs/2210.09298v1](http://arxiv.org/pdf/2210.09298v1), Code: **[https://github.com/ctlllll/sgconv](https://github.com/ctlllll/sgconv)**
 - 2022-10-17, **Predicting Dynamic Stability from Static Features in Power Grid Models using Machine Learning**, Maurizio Titz et.al., Paper: [http://arxiv.org/abs/2210.09266v1](http://arxiv.org/abs/2210.09266v1), Paper: [http://arxiv.org/abs/2210.09266v1](http://arxiv.org/pdf/2210.09266v1)
-- 2022-10-17, **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**, Mirac Suzgun et.al., Paper: [http://arxiv.org/abs/2210.09261v1](http://arxiv.org/abs/2210.09261v1), Paper: [http://arxiv.org/abs/2210.09261v1](http://arxiv.org/pdf/2210.09261v1)
+- 2022-10-17, **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**, Mirac Suzgun et.al., Paper: [http://arxiv.org/abs/2210.09261v1](http://arxiv.org/abs/2210.09261v1),Paper: [http://arxiv.org/abs/2210.09261v1](http://arxiv.org/pdf/2210.09261v1), Code: **[https://github.com/suzgunmirac/big-bench-hard](https://github.com/suzgunmirac/big-bench-hard)**
 - 2022-10-17, **Turbocharging Solution Concepts: Solving NEs, CEs and CCEs with Neural Equilibrium Solvers**, Luke Marris et.al., Paper: [http://arxiv.org/abs/2210.09257v1](http://arxiv.org/abs/2210.09257v1), Paper: [http://arxiv.org/abs/2210.09257v1](http://arxiv.org/pdf/2210.09257v1)
 - 2022-10-17, **Black hole merger simulations in wave dark matter environments**, Jamie Bamber et.al., Paper: [http://arxiv.org/abs/2210.09254v1](http://arxiv.org/abs/2210.09254v1), Paper: [http://arxiv.org/abs/2210.09254v1](http://arxiv.org/pdf/2210.09254v1)
 - 2022-10-17, **Learning Object Affordance with Contact and Grasp Generation**, Haoming Li et.al., Paper: [http://arxiv.org/abs/2210.09245v1](http://arxiv.org/abs/2210.09245v1), Paper: [http://arxiv.org/abs/2210.09245v1](http://arxiv.org/pdf/2210.09245v1)
