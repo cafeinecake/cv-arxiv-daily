@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-19**|**Distinguishing a Slowly Accelerating Black Hole by Differential Time Delays of Images**|Amjad Ashoorioon et.al.|[2210.10762v1](http://arxiv.org/abs/2210.10762v1)|[2210.10762v1](http://arxiv.org/pdf/2210.10762v1)|null|
+|**2022-10-19**|**Death at watersheds: galaxy quenching in low-density environments**|Maret Einasto et.al.|[2210.10761v1](http://arxiv.org/abs/2210.10761v1)|[2210.10761v1](http://arxiv.org/pdf/2210.10761v1)|null|
+|**2022-10-19**|**Constraining the Interiors of Asteroids Through Close Encounters**|Jack T Dinsmore et.al.|[2210.10754v1](http://arxiv.org/abs/2210.10754v1)|[2210.10754v1](http://arxiv.org/pdf/2210.10754v1)|null|
+|**2022-10-19**|**Entering the Era of Measuring Sub-Galactic Dark Matter Structure: Accurate Transfer Functions for Axino, Gravitino & Sterile Neutrino Thermal Warm Dark Matter**|Cannon M. Vogel et.al.|[2210.10753v1](http://arxiv.org/abs/2210.10753v1)|[2210.10753v1](http://arxiv.org/pdf/2210.10753v1)|null|
+|**2022-10-19**|**Reconnection-Driven Energy Cascade in Magnetohydrodynamic Turbulence**|Chuanfei Dong et.al.|[2210.10736v1](http://arxiv.org/abs/2210.10736v1)|[2210.10736v1](http://arxiv.org/pdf/2210.10736v1)|null|
+|**2022-10-19**|**Inflation and Electroweak Symmetry Breaking**|Stephon Alexander et.al.|[2210.10735v1](http://arxiv.org/abs/2210.10735v1)|[2210.10735v1](http://arxiv.org/pdf/2210.10735v1)|null|
+|**2022-10-19**|**X-ray galaxies selected from HyperLEDA database**|N. Pulatova et.al.|[2210.10707v1](http://arxiv.org/abs/2210.10707v1)|[2210.10707v1](http://arxiv.org/pdf/2210.10707v1)|null|
+|**2022-10-19**|**The stability of galaxies in an expanding universe obtained by Newtonian dynamics**|Søren Toxvaerd et.al.|[2210.10706v1](http://arxiv.org/abs/2210.10706v1)|[2210.10706v1](http://arxiv.org/pdf/2210.10706v1)|null|
+|**2022-10-19**|**Hubble WFC3 Spectroscopy of the Rocky Planet L 98-59 b: No Evidence for a Cloud-Free Primordial Atmosphere**|Li Zhou et.al.|[2210.10699v1](http://arxiv.org/abs/2210.10699v1)|[2210.10699v1](http://arxiv.org/pdf/2210.10699v1)|null|
+|**2022-10-19**|**The impact of weak lensing on Type Ia supernovae luminosity distances**|Paul Shah et.al.|[2210.10688v1](http://arxiv.org/abs/2210.10688v1)|[2210.10688v1](http://arxiv.org/pdf/2210.10688v1)|null|
 |**2022-10-18**|**The Anisotropic Circumgalactic Medium of Massive Early-Type Galaxies**|Huanian Zhang et.al.|[2210.10043v1](http://arxiv.org/abs/2210.10043v1)|[2210.10043v1](http://arxiv.org/pdf/2210.10043v1)|null|
 |**2022-10-18**|**Critical Metallicity of Cool Supergiant Formation. I. Effects on Stellar Mass Loss and Feedback**|Po-Sheng Ou et.al.|[2210.10042v1](http://arxiv.org/abs/2210.10042v1)|[2210.10042v1](http://arxiv.org/pdf/2210.10042v1)|null|
 |**2022-10-18**|**On the genesis of spiral galaxies -- Classical and pseudo bulges as extremities of a continuous sequence**|Iris Breda et.al.|[2210.10038v1](http://arxiv.org/abs/2210.10038v1)|[2210.10038v1](http://arxiv.org/pdf/2210.10038v1)|null|
@@ -823,6 +833,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-19**|**TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation**|Pengfei Li et.al.|[2210.10775v1](http://arxiv.org/abs/2210.10775v1)|[2210.10775v1](http://arxiv.org/pdf/2210.10775v1)|**[link](https://github.com/air-discover/toist)**|
+|**2022-10-19**|**GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs**|Xin Liu et.al.|[2210.10758v1](http://arxiv.org/abs/2210.10758v1)|[2210.10758v1](http://arxiv.org/pdf/2210.10758v1)|**[link](https://github.com/xinliu20/graphcspn_eccv2022)**|
+|**2022-10-19**|**RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations**|Zirui Liu et.al.|[2210.10737v1](http://arxiv.org/abs/2210.10737v1)|[2210.10737v1](http://arxiv.org/pdf/2210.10737v1)|null|
+|**2022-10-19**|**TabLLM: Few-shot Classification of Tabular Data with Large Language Models**|Stefan Hegselmann et.al.|[2210.10723v1](http://arxiv.org/abs/2210.10723v1)|[2210.10723v1](http://arxiv.org/pdf/2210.10723v1)|null|
+|**2022-10-19**|**Whole Page Unbiased Learning to Rank**|Haitao Mao et.al.|[2210.10718v1](http://arxiv.org/abs/2210.10718v1)|[2210.10718v1](http://arxiv.org/pdf/2210.10718v1)|null|
+|**2022-10-19**|**AUC-based Selective Classification**|Andrea Pugnana et.al.|[2210.10703v1](http://arxiv.org/abs/2210.10703v1)|[2210.10703v1](http://arxiv.org/pdf/2210.10703v1)|null|
+|**2022-10-19**|**Robustness of Demonstration-based Learning Under Limited Data Scenario**|Hongxin Zhang et.al.|[2210.10693v1](http://arxiv.org/abs/2210.10693v1)|[2210.10693v1](http://arxiv.org/pdf/2210.10693v1)|**[link](https://github.com/salt-nlp/robustdemo)**|
+|**2022-10-19**|**Language Models Understand Us, Poorly**|Jared Moore et.al.|[2210.10684v1](http://arxiv.org/abs/2210.10684v1)|[2210.10684v1](http://arxiv.org/pdf/2210.10684v1)|null|
+|**2022-10-19**|**Weakly Supervised Learning for Analyzing Political Campaigns on Facebook**|Tunazzina Islam et.al.|[2210.10669v1](http://arxiv.org/abs/2210.10669v1)|[2210.10669v1](http://arxiv.org/pdf/2210.10669v1)|**[link](https://github.com/tunazislam/weaklysup-fb-ad-political)**|
+|**2022-10-19**|**N-Best Hypotheses Reranking for Text-To-SQL Systems**|Lu Zeng et.al.|[2210.10668v1](http://arxiv.org/abs/2210.10668v1)|[2210.10668v1](http://arxiv.org/pdf/2210.10668v1)|null|
 |**2022-10-19**|**From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**|Zichen Jeff Cui et.al.|[2210.10047v2](http://arxiv.org/abs/2210.10047v2)|[2210.10047v2](http://arxiv.org/pdf/2210.10047v2)|null|
 |**2022-10-18**|**SafeText: A Benchmark for Exploring Physical Safety in Language Models**|Sharon Levy et.al.|[2210.10045v1](http://arxiv.org/abs/2210.10045v1)|[2210.10045v1](http://arxiv.org/pdf/2210.10045v1)|null|
 |**2022-10-18**|**Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**|Zipeng Fu et.al.|[2210.10044v1](http://arxiv.org/abs/2210.10044v1)|[2210.10044v1](http://arxiv.org/pdf/2210.10044v1)|null|
