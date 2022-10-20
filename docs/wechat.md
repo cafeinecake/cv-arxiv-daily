@@ -1,4 +1,4 @@
-> Updated on 2022.10.19
+> Updated on 2022.10.20
 
 ## Astrophysics
 
@@ -815,10 +815,10 @@
 
 ## AI
 
-- 2022-10-18, **From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**, Zichen Jeff Cui et.al., Paper: [http://arxiv.org/abs/2210.10047v1](http://arxiv.org/abs/2210.10047v1), Paper: [http://arxiv.org/abs/2210.10047v1](http://arxiv.org/pdf/2210.10047v1)
+- 2022-10-19, **From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**, Zichen Jeff Cui et.al., Paper: [http://arxiv.org/abs/2210.10047v2](http://arxiv.org/abs/2210.10047v2), Paper: [http://arxiv.org/abs/2210.10047v2](http://arxiv.org/pdf/2210.10047v2)
 - 2022-10-18, **SafeText: A Benchmark for Exploring Physical Safety in Language Models**, Sharon Levy et.al., Paper: [http://arxiv.org/abs/2210.10045v1](http://arxiv.org/abs/2210.10045v1), Paper: [http://arxiv.org/abs/2210.10045v1](http://arxiv.org/pdf/2210.10045v1)
 - 2022-10-18, **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**, Zipeng Fu et.al., Paper: [http://arxiv.org/abs/2210.10044v1](http://arxiv.org/abs/2210.10044v1), Paper: [http://arxiv.org/abs/2210.10044v1](http://arxiv.org/pdf/2210.10044v1)
-- 2022-10-18, **Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning**, Shuo Xie et.al., Paper: [http://arxiv.org/abs/2210.10041v1](http://arxiv.org/abs/2210.10041v1), Paper: [http://arxiv.org/abs/2210.10041v1](http://arxiv.org/pdf/2210.10041v1)
+- 2022-10-19, **Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning**, Shuo Xie et.al., Paper: [http://arxiv.org/abs/2210.10041v2](http://arxiv.org/abs/2210.10041v2), Paper: [http://arxiv.org/abs/2210.10041v2](http://arxiv.org/pdf/2210.10041v2)
 - 2022-10-18, **On Classification Thresholds for Graph Attention with Edge Features**, Kimon Fountoulakis et.al., Paper: [http://arxiv.org/abs/2210.10014v1](http://arxiv.org/abs/2210.10014v1), Paper: [http://arxiv.org/abs/2210.10014v1](http://arxiv.org/pdf/2210.10014v1)
 - 2022-10-18, **Vision Paper: Causal Inference for Interpretable and Robust Machine Learning in Mobility Analysis**, Yanan Xin et.al., Paper: [http://arxiv.org/abs/2210.10010v1](http://arxiv.org/abs/2210.10010v1), Paper: [http://arxiv.org/abs/2210.10010v1](http://arxiv.org/pdf/2210.10010v1)
 - 2022-10-18, **Otsu based Differential Evolution Method for Image Segmentation**, Afreen Shaikh et.al., Paper: [http://arxiv.org/abs/2210.10005v1](http://arxiv.org/abs/2210.10005v1), Paper: [http://arxiv.org/abs/2210.10005v1](http://arxiv.org/pdf/2210.10005v1)
