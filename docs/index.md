@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-20**|**Post-Newtonian-accurate pulsar timing array signals induced by inspiralling eccentric binaries: accuracy and computational cost**|Abhimanyu Susobhanan et.al.|[2210.11454v1](http://arxiv.org/abs/2210.11454v1)|[2210.11454v1](http://arxiv.org/pdf/2210.11454v1)|null|
+|**2022-10-20**|**A search for thermal gyro-synchrotron emission from hot stellar coronae**|Walter Golay et.al.|[2210.11440v1](http://arxiv.org/abs/2210.11440v1)|[2210.11440v1](http://arxiv.org/pdf/2210.11440v1)|null|
+|**2022-10-20**|**Delayed teraelectronvolt emission from GRB 980425/SN 1998bw and the origin of ultra-high-energy cosmic rays**|Nestor Mirabal et.al.|[2210.11430v1](http://arxiv.org/abs/2210.11430v1)|[2210.11430v1](http://arxiv.org/pdf/2210.11430v1)|null|
+|**2022-10-20**|**The Search for the Topology of the Universe Has Just Begun**|Yashar Akrami et.al.|[2210.11426v1](http://arxiv.org/abs/2210.11426v1)|[2210.11426v1](http://arxiv.org/pdf/2210.11426v1)|null|
+|**2022-10-20**|**SDSS IV MaNGA: Bar pattern speed in Milky Way Analogue galaxies**|Luis Garma-Oehmichen et.al.|[2210.11424v1](http://arxiv.org/abs/2210.11424v1)|[2210.11424v1](http://arxiv.org/pdf/2210.11424v1)|null|
+|**2022-10-20**|**Very metal-poor stars in the solar vicinity: age determination**|Anastasiia Plotnikova et.al.|[2210.11383v1](http://arxiv.org/abs/2210.11383v1)|[2210.11383v1](http://arxiv.org/pdf/2210.11383v1)|null|
+|**2022-10-20**|**Collective Thomson scattering in non-equilibrium laser produced two-stream plasmas**|K. Sakai et.al.|[2210.11382v1](http://arxiv.org/abs/2210.11382v1)|[2210.11382v1](http://arxiv.org/pdf/2210.11382v1)|null|
+|**2022-10-20**|**Discovery of two new interstellar molecules with QUIJOTE: HCCCHCCC and HCCCCS**|R. Fuentetaja et.al.|[2210.11379v1](http://arxiv.org/abs/2210.11379v1)|[2210.11379v1](http://arxiv.org/pdf/2210.11379v1)|null|
+|**2022-10-20**|**Light speed variation from GRB 221009A**|Jie Zhu et.al.|[2210.11376v1](http://arxiv.org/abs/2210.11376v1)|[2210.11376v1](http://arxiv.org/pdf/2210.11376v1)|null|
+|**2022-10-20**|**An X-ray Dim Isolated Neutron Star in Binary?**|Jie Lin et.al.|[2210.11360v1](http://arxiv.org/abs/2210.11360v1)|[2210.11360v1](http://arxiv.org/pdf/2210.11360v1)|null|
 |**2022-10-19**|**Distinguishing a Slowly Accelerating Black Hole by Differential Time Delays of Images**|Amjad Ashoorioon et.al.|[2210.10762v1](http://arxiv.org/abs/2210.10762v1)|[2210.10762v1](http://arxiv.org/pdf/2210.10762v1)|null|
 |**2022-10-19**|**Death at watersheds: galaxy quenching in low-density environments**|Maret Einasto et.al.|[2210.10761v1](http://arxiv.org/abs/2210.10761v1)|[2210.10761v1](http://arxiv.org/pdf/2210.10761v1)|null|
 |**2022-10-19**|**Constraining the Interiors of Asteroids Through Close Encounters**|Jack T Dinsmore et.al.|[2210.10754v1](http://arxiv.org/abs/2210.10754v1)|[2210.10754v1](http://arxiv.org/pdf/2210.10754v1)|null|
@@ -833,6 +843,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-20**|**VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**|Beiwen Tian et.al.|[2210.11472v1](http://arxiv.org/abs/2210.11472v1)|[2210.11472v1](http://arxiv.org/pdf/2210.11472v1)|**[link](https://github.com/air-discover/vibus)**|
+|**2022-10-20**|**i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable?**|Kevin Zhang et.al.|[2210.11470v1](http://arxiv.org/abs/2210.11470v1)|[2210.11470v1](http://arxiv.org/pdf/2210.11470v1)|**[link](https://github.com/vision-learning-acceleration-lab/i-mae)**|
+|**2022-10-20**|**Surgical Fine-Tuning Improves Adaptation to Distribution Shifts**|Yoonho Lee et.al.|[2210.11466v1](http://arxiv.org/abs/2210.11466v1)|[2210.11466v1](http://arxiv.org/pdf/2210.11466v1)|null|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|[2210.11464v1](http://arxiv.org/pdf/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|[2210.11456v1](http://arxiv.org/pdf/2210.11456v1)|**[link](https://github.com/lightnessofbeing/mixmask)**|
+|**2022-10-20**|**Augmentative Topology Agents For Open-Ended Learning**|Muhammad Umair Nasir et.al.|[2210.11442v1](http://arxiv.org/abs/2210.11442v1)|[2210.11442v1](http://arxiv.org/pdf/2210.11442v1)|**[link](https://github.com/umair-nasir14/atep)**|
+|**2022-10-20**|**Quantum-Inspired Tempering for Ground State Approximation using Artificial Neural Networks**|Tameem Albash et.al.|[2210.11405v1](http://arxiv.org/abs/2210.11405v1)|[2210.11405v1](http://arxiv.org/pdf/2210.11405v1)|null|
+|**2022-10-20**|**Learning Rationalizable Equilibria in Multiplayer Games**|Yuanhao Wang et.al.|[2210.11402v1](http://arxiv.org/abs/2210.11402v1)|[2210.11402v1](http://arxiv.org/pdf/2210.11402v1)|null|
+|**2022-10-20**|**Transcending Scaling Laws with 0.1% Extra Compute**|Yi Tay et.al.|[2210.11399v1](http://arxiv.org/abs/2210.11399v1)|[2210.11399v1](http://arxiv.org/pdf/2210.11399v1)|null|
+|**2022-10-20**|**TTTFlow: Unsupervised Test-Time Training with Normalizing Flow**|David Osowiechi et.al.|[2210.11389v1](http://arxiv.org/abs/2210.11389v1)|[2210.11389v1](http://arxiv.org/pdf/2210.11389v1)|**[link](https://github.com/gustavovargashakim/tttflow)**|
 |**2022-10-19**|**TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation**|Pengfei Li et.al.|[2210.10775v1](http://arxiv.org/abs/2210.10775v1)|[2210.10775v1](http://arxiv.org/pdf/2210.10775v1)|**[link](https://github.com/air-discover/toist)**|
 |**2022-10-19**|**GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs**|Xin Liu et.al.|[2210.10758v1](http://arxiv.org/abs/2210.10758v1)|[2210.10758v1](http://arxiv.org/pdf/2210.10758v1)|**[link](https://github.com/xinliu20/graphcspn_eccv2022)**|
 |**2022-10-19**|**RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations**|Zirui Liu et.al.|[2210.10737v1](http://arxiv.org/abs/2210.10737v1)|[2210.10737v1](http://arxiv.org/pdf/2210.10737v1)|null|
