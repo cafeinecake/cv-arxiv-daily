@@ -2,12 +2,22 @@
 layout: default
 ---
 
-## Updated on 2022.10.23
+## Updated on 2022.10.24
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-21**|**Properties of scalar wave emission in a scalar-tensor theory with kinetic screening**|Masaru Shibata et.al.|[2210.12139v1](http://arxiv.org/abs/2210.12139v1)|[2210.12139v1](http://arxiv.org/pdf/2210.12139v1)|null|
+|**2022-10-21**|**Nuclear data activities for medium mass and heavy nuclei at Los Alamos**|M. R. Mumpower et.al.|[2210.12136v1](http://arxiv.org/abs/2210.12136v1)|[2210.12136v1](http://arxiv.org/pdf/2210.12136v1)|null|
+|**2022-10-21**|**Planet Engulfment Detections are Rare According to Observations and Stellar Modeling**|Aida Behmard et.al.|[2210.12121v1](http://arxiv.org/abs/2210.12121v1)|[2210.12121v1](http://arxiv.org/pdf/2210.12121v1)|null|
+|**2022-10-21**|**Optimisation of the SVOM satellite strategy for the follow-up of Gravitational wave events**|J. -G. Ducoin et.al.|[2210.12120v1](http://arxiv.org/abs/2210.12120v1)|[2210.12120v1](http://arxiv.org/pdf/2210.12120v1)|null|
+|**2022-10-21**|**Neutron Lifetime Anomaly and Big Bang Nucleosynthesis**|Tammi Chowdhury et.al.|[2210.12031v1](http://arxiv.org/abs/2210.12031v1)|[2210.12031v1](http://arxiv.org/pdf/2210.12031v1)|null|
+|**2022-10-21**|**Revealing the interior structure of icy moons with a Bayesian approach to magnetic induction measurements**|John B. Biersteker et.al.|[2210.12019v1](http://arxiv.org/abs/2210.12019v1)|[2210.12019v1](http://arxiv.org/pdf/2210.12019v1)|null|
+|**2022-10-21**|**The Mantis Network II: Examining the 3D high-resolution observable properties of the UHJs WASP-121b and WASP-189b through GCM modelling**|Elspeth K. H. Lee et.al.|[2210.11986v1](http://arxiv.org/abs/2210.11986v1)|[2210.11986v1](http://arxiv.org/pdf/2210.11986v1)|null|
+|**2022-10-21**|**The SOUX AGN sample: Optical/UV/X-ray SEDs and the nature of the disc**|Jake A. J. Mitchell et.al.|[2210.11977v1](http://arxiv.org/abs/2210.11977v1)|[2210.11977v1](http://arxiv.org/pdf/2210.11977v1)|null|
+|**2022-10-21**|**The effect of water and electron collisions in the rotational excitation of HF in comets**|J. Loreau et.al.|[2210.11967v1](http://arxiv.org/abs/2210.11967v1)|[2210.11967v1](http://arxiv.org/pdf/2210.11967v1)|null|
+|**2022-10-21**|**Spiral arms and the angular momentum gap in Milky Way Cepheids**|Marcin Semczuk et.al.|[2210.11964v1](http://arxiv.org/abs/2210.11964v1)|[2210.11964v1](http://arxiv.org/pdf/2210.11964v1)|null|
 |**2022-10-20**|**Post-Newtonian-accurate pulsar timing array signals induced by inspiralling eccentric binaries: accuracy and computational cost**|Abhimanyu Susobhanan et.al.|[2210.11454v1](http://arxiv.org/abs/2210.11454v1)|[2210.11454v1](http://arxiv.org/pdf/2210.11454v1)|null|
 |**2022-10-20**|**A search for thermal gyro-synchrotron emission from hot stellar coronae**|Walter Golay et.al.|[2210.11440v1](http://arxiv.org/abs/2210.11440v1)|[2210.11440v1](http://arxiv.org/pdf/2210.11440v1)|null|
 |**2022-10-20**|**Delayed teraelectronvolt emission from GRB 980425/SN 1998bw and the origin of ultra-high-energy cosmic rays**|Nestor Mirabal et.al.|[2210.11430v1](http://arxiv.org/abs/2210.11430v1)|[2210.11430v1](http://arxiv.org/pdf/2210.11430v1)|null|
@@ -843,6 +853,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-21**|**On amortizing convex conjugates for optimal transport**|Brandon Amos et.al.|[2210.12153v1](http://arxiv.org/abs/2210.12153v1)|[2210.12153v1](http://arxiv.org/pdf/2210.12153v1)|null|
+|**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v1](http://arxiv.org/abs/2210.12152v1)|[2210.12152v1](http://arxiv.org/pdf/2210.12152v1)|null|
+|**2022-10-21**|**Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns**|Laurynas Karazija et.al.|[2210.12148v1](http://arxiv.org/abs/2210.12148v1)|[2210.12148v1](http://arxiv.org/pdf/2210.12148v1)|null|
+|**2022-10-21**|**Explainability in autonomous pedagogically structured scenarios**|Minal Suresh Patil et.al.|[2210.12140v1](http://arxiv.org/abs/2210.12140v1)|[2210.12140v1](http://arxiv.org/pdf/2210.12140v1)|null|
+|**2022-10-21**|**A perspective on machine learning and data science for strongly correlated electron problems**|S. Johnston et.al.|[2210.12132v1](http://arxiv.org/abs/2210.12132v1)|[2210.12132v1](http://arxiv.org/pdf/2210.12132v1)|null|
+|**2022-10-21**|**Neural Fields for Robotic Object Manipulation from a Single Image**|Valts Blukis et.al.|[2210.12126v1](http://arxiv.org/abs/2210.12126v1)|[2210.12126v1](http://arxiv.org/pdf/2210.12126v1)|null|
+|**2022-10-21**|**Modelling Control Arguments via Cooperation Logic in Unforeseen Scenarios**|Minal Suresh Patil et.al.|[2210.12114v1](http://arxiv.org/abs/2210.12114v1)|[2210.12114v1](http://arxiv.org/pdf/2210.12114v1)|null|
+|**2022-10-21**|**Describing Sets of Images with Textual-PCA**|Oded Hupert et.al.|[2210.12112v1](http://arxiv.org/abs/2210.12112v1)|[2210.12112v1](http://arxiv.org/pdf/2210.12112v1)|null|
+|**2022-10-21**|**Towards transparent ANN wind turbine power curve models**|Simon Letzgus et.al.|[2210.12104v1](http://arxiv.org/abs/2210.12104v1)|[2210.12104v1](http://arxiv.org/pdf/2210.12104v1)|null|
+|**2022-10-21**|**AutoPrognosis 2.0: Democratizing Diagnostic and Prognostic Modeling in Healthcare with Automated Machine Learning**|Fergus Imrie et.al.|[2210.12090v1](http://arxiv.org/abs/2210.12090v1)|[2210.12090v1](http://arxiv.org/pdf/2210.12090v1)|null|
 |**2022-10-20**|**VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**|Beiwen Tian et.al.|[2210.11472v1](http://arxiv.org/abs/2210.11472v1)|[2210.11472v1](http://arxiv.org/pdf/2210.11472v1)|**[link](https://github.com/air-discover/vibus)**|
 |**2022-10-20**|**i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable?**|Kevin Zhang et.al.|[2210.11470v1](http://arxiv.org/abs/2210.11470v1)|[2210.11470v1](http://arxiv.org/pdf/2210.11470v1)|**[link](https://github.com/vision-learning-acceleration-lab/i-mae)**|
 |**2022-10-20**|**Surgical Fine-Tuning Improves Adaptation to Distribution Shifts**|Yoonho Lee et.al.|[2210.11466v1](http://arxiv.org/abs/2210.11466v1)|[2210.11466v1](http://arxiv.org/pdf/2210.11466v1)|null|
