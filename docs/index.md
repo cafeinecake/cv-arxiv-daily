@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-24**|**Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure**|Austin Hinkel et.al.|[2210.13450v1](http://arxiv.org/abs/2210.13450v1)|[2210.13450v1](http://arxiv.org/pdf/2210.13450v1)|null|
+|**2022-10-24**|**Microlensing of gravitational waves by dark matter structures**|Malcolm Fairbairn et.al.|[2210.13436v1](http://arxiv.org/abs/2210.13436v1)|[2210.13436v1](http://arxiv.org/pdf/2210.13436v1)|null|
+|**2022-10-24**|**Combining cosmic shear data with correlated photo-$z$ uncertainties: constraints from DESY1 and HSC-DR1**|Carlos García-García et.al.|[2210.13434v1](http://arxiv.org/abs/2210.13434v1)|[2210.13434v1](http://arxiv.org/pdf/2210.13434v1)|null|
+|**2022-10-24**|**Razor-thin dust layers in protoplanetary disks: Limits on the vertical shear instability**|C. P. Dullemond et.al.|[2210.13413v1](http://arxiv.org/abs/2210.13413v1)|[2210.13413v1](http://arxiv.org/pdf/2210.13413v1)|null|
+|**2022-10-24**|**Universality of the muon component of extensive air showers**|Lorenzo Cazon et.al.|[2210.13407v1](http://arxiv.org/abs/2210.13407v1)|[2210.13407v1](http://arxiv.org/pdf/2210.13407v1)|null|
+|**2022-10-24**|**Feed rotation corrections for antennas having beam waveguide mounts**|Richard Dodson et.al.|[2210.13381v1](http://arxiv.org/abs/2210.13381v1)|[2210.13381v1](http://arxiv.org/pdf/2210.13381v1)|null|
+|**2022-10-24**|**Averaged Solar Torque Rotational Dynamics for Defunct Satellites**|Conor J. Benson et.al.|[2210.13380v1](http://arxiv.org/abs/2210.13380v1)|[2210.13380v1](http://arxiv.org/pdf/2210.13380v1)|null|
+|**2022-10-24**|**Cosmological consequences of first-order general-relativistic viscous fluid dynamics**|Fábio S. Bemfica et.al.|[2210.13372v1](http://arxiv.org/abs/2210.13372v1)|[2210.13372v1](http://arxiv.org/pdf/2210.13372v1)|null|
+|**2022-10-24**|**Evidence for extended gaseous reservoirs around AGN at cosmic noon from ALMA CO(3-2) observations**|G. C. Jones et.al.|[2210.13370v1](http://arxiv.org/abs/2210.13370v1)|[2210.13370v1](http://arxiv.org/pdf/2210.13370v1)|null|
+|**2022-10-24**|**High-precision abundances of first population stars in NGC 2808: confirmation of a metallicity spread**|C. Lardo et.al.|[2210.13369v1](http://arxiv.org/abs/2210.13369v1)|[2210.13369v1](http://arxiv.org/pdf/2210.13369v1)|null|
 |**2022-10-21**|**Properties of scalar wave emission in a scalar-tensor theory with kinetic screening**|Masaru Shibata et.al.|[2210.12139v1](http://arxiv.org/abs/2210.12139v1)|[2210.12139v1](http://arxiv.org/pdf/2210.12139v1)|null|
 |**2022-10-21**|**Nuclear data activities for medium mass and heavy nuclei at Los Alamos**|M. R. Mumpower et.al.|[2210.12136v1](http://arxiv.org/abs/2210.12136v1)|[2210.12136v1](http://arxiv.org/pdf/2210.12136v1)|null|
 |**2022-10-21**|**Planet Engulfment Detections are Rare According to Observations and Stellar Modeling**|Aida Behmard et.al.|[2210.12121v1](http://arxiv.org/abs/2210.12121v1)|[2210.12121v1](http://arxiv.org/pdf/2210.12121v1)|null|
@@ -853,6 +863,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-24**|**MetaFormer Baselines for Vision**|Weihao Yu et.al.|[2210.13452v1](http://arxiv.org/abs/2210.13452v1)|[2210.13452v1](http://arxiv.org/pdf/2210.13452v1)|**[link](https://github.com/sail-sg/metaformer)**|
+|**2022-10-24**|**High Fidelity Neural Audio Compression**|Alexandre Défossez et.al.|[2210.13438v1](http://arxiv.org/abs/2210.13438v1)|[2210.13438v1](http://arxiv.org/pdf/2210.13438v1)|null|
+|**2022-10-24**|**Avalon: A Benchmark for RL Generalization Using Procedurally Generated Worlds**|Joshua Albrecht et.al.|[2210.13417v1](http://arxiv.org/abs/2210.13417v1)|[2210.13417v1](http://arxiv.org/pdf/2210.13417v1)|null|
+|**2022-10-24**|**Thermodynamics-informed neural networks for physically realistic mixed reality**|Quercus Hernández et.al.|[2210.13414v1](http://arxiv.org/abs/2210.13414v1)|[2210.13414v1](http://arxiv.org/pdf/2210.13414v1)|null|
+|**2022-10-24**|**Contrastive Representation Learning for Gaze Estimation**|Swati Jindal et.al.|[2210.13404v1](http://arxiv.org/abs/2210.13404v1)|[2210.13404v1](http://arxiv.org/pdf/2210.13404v1)|**[link](https://github.com/jswati31/gazeclr)**|
+|**2022-10-24**|**Evaluating Long-Term Memory in 3D Mazes**|Jurgis Pasukonis et.al.|[2210.13383v1](http://arxiv.org/abs/2210.13383v1)|[2210.13383v1](http://arxiv.org/pdf/2210.13383v1)|**[link](https://github.com/jurgisp/memory-maze)**|
+|**2022-10-24**|**Emergent world representations: Exploring a sequence model trained on a synthetic task**|Kenneth Li et.al.|[2210.13382v1](http://arxiv.org/abs/2210.13382v1)|[2210.13382v1](http://arxiv.org/pdf/2210.13382v1)|**[link](https://github.com/likenneth/othello_world)**|
+|**2022-10-24**|**Ranking nodes in directed networks via continuous-time quantum walks**|Paola Boito et.al.|[2210.13379v1](http://arxiv.org/abs/2210.13379v1)|[2210.13379v1](http://arxiv.org/pdf/2210.13379v1)|null|
+|**2022-10-24**|**ADLight: A Universal Approach of Traffic Signal Control with Augmented Data Using Reinforcement Learning**|Maonan Wang et.al.|[2210.13378v1](http://arxiv.org/abs/2210.13378v1)|[2210.13378v1](http://arxiv.org/pdf/2210.13378v1)|null|
+|**2022-10-24**|**System Configuration and Navigation of a Guide Dog Robot: Toward Animal Guide Dog-Level Guiding Work**|Hochul Hwang et.al.|[2210.13368v1](http://arxiv.org/abs/2210.13368v1)|[2210.13368v1](http://arxiv.org/pdf/2210.13368v1)|null|
 |**2022-10-21**|**On amortizing convex conjugates for optimal transport**|Brandon Amos et.al.|[2210.12153v1](http://arxiv.org/abs/2210.12153v1)|[2210.12153v1](http://arxiv.org/pdf/2210.12153v1)|null|
 |**2022-10-21**|**WikiWhy: Answering and Explaining Cause-and-Effect Questions**|Matthew Ho et.al.|[2210.12152v1](http://arxiv.org/abs/2210.12152v1)|[2210.12152v1](http://arxiv.org/pdf/2210.12152v1)|null|
 |**2022-10-21**|**Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns**|Laurynas Karazija et.al.|[2210.12148v1](http://arxiv.org/abs/2210.12148v1)|[2210.12148v1](http://arxiv.org/pdf/2210.12148v1)|null|
