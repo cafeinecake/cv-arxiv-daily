@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-25**|**Orbit-Superposition Dynamical Modelling of Barred Galaxies**|Behzad Tahmasebzadeh et.al.|[2210.14218v1](http://arxiv.org/abs/2210.14218v1)|[2210.14218v1](http://arxiv.org/pdf/2210.14218v1)|null|
+|**2022-10-25**|**Deep orbital search for additional planets in the HR 8799 system**|William Thompson et.al.|[2210.14213v1](http://arxiv.org/abs/2210.14213v1)|[2210.14213v1](http://arxiv.org/pdf/2210.14213v1)|null|
+|**2022-10-25**|**Is binning always sinning? The impact of time-averaging for exoplanet phase curves**|Giuseppe Morello et.al.|[2210.14194v1](http://arxiv.org/abs/2210.14194v1)|[2210.14194v1](http://arxiv.org/pdf/2210.14194v1)|null|
+|**2022-10-25**|**Elemental Abundances of Kepler Objects of Interest in APOGEE DR17**|Aida Behmard et.al.|[2210.14187v1](http://arxiv.org/abs/2210.14187v1)|[2210.14187v1](http://arxiv.org/pdf/2210.14187v1)|null|
+|**2022-10-25**|**The Role of a Heavy Neutrino in the Gamma-Ray Burst GRB-221009A**|Kingman Cheung et.al.|[2210.14178v1](http://arxiv.org/abs/2210.14178v1)|[2210.14178v1](http://arxiv.org/pdf/2210.14178v1)|null|
+|**2022-10-25**|**CMB footprints of high scale non-thermal leptogenesis**|Anish Ghoshal et.al.|[2210.14176v1](http://arxiv.org/abs/2210.14176v1)|[2210.14176v1](http://arxiv.org/pdf/2210.14176v1)|null|
+|**2022-10-25**|**Clusteringenesis: from Light to Heavy Primordial Black Holes**|Valerio De Luca et.al.|[2210.14171v1](http://arxiv.org/abs/2210.14171v1)|[2210.14171v1](http://arxiv.org/pdf/2210.14171v1)|null|
+|**2022-10-25**|**Towards a reliable calculation of relic radiation from primordial gravitational waves**|William Giarè et.al.|[2210.14159v1](http://arxiv.org/abs/2210.14159v1)|[2210.14159v1](http://arxiv.org/pdf/2210.14159v1)|null|
+|**2022-10-25**|**Accretion variability in RU Lup**|Camille Stock et.al.|[2210.14134v1](http://arxiv.org/abs/2210.14134v1)|[2210.14134v1](http://arxiv.org/pdf/2210.14134v1)|null|
+|**2022-10-25**|**Light pollution and the concentration of anthropogenic photons in the terrestrial atmosphere**|Salvador Bará et.al.|[2210.14131v1](http://arxiv.org/abs/2210.14131v1)|[2210.14131v1](http://arxiv.org/pdf/2210.14131v1)|null|
 |**2022-10-24**|**Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure**|Austin Hinkel et.al.|[2210.13450v1](http://arxiv.org/abs/2210.13450v1)|[2210.13450v1](http://arxiv.org/pdf/2210.13450v1)|null|
 |**2022-10-24**|**Microlensing of gravitational waves by dark matter structures**|Malcolm Fairbairn et.al.|[2210.13436v1](http://arxiv.org/abs/2210.13436v1)|[2210.13436v1](http://arxiv.org/pdf/2210.13436v1)|null|
 |**2022-10-24**|**Combining cosmic shear data with correlated photo-$z$ uncertainties: constraints from DESY1 and HSC-DR1**|Carlos García-García et.al.|[2210.13434v1](http://arxiv.org/abs/2210.13434v1)|[2210.13434v1](http://arxiv.org/pdf/2210.13434v1)|null|
@@ -863,6 +873,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-25**|**PlanT: Explainable Planning Transformers via Object-Level Representations**|Katrin Renz et.al.|[2210.14222v1](http://arxiv.org/abs/2210.14222v1)|[2210.14222v1](http://arxiv.org/pdf/2210.14222v1)|null|
+|**2022-10-25**|**In-context Reinforcement Learning with Algorithm Distillation**|Michael Laskin et.al.|[2210.14215v1](http://arxiv.org/abs/2210.14215v1)|[2210.14215v1](http://arxiv.org/pdf/2210.14215v1)|null|
+|**2022-10-25**|**Influence Functions for Sequence Tagging Models**|Sarthak Jain et.al.|[2210.14177v1](http://arxiv.org/abs/2210.14177v1)|[2210.14177v1](http://arxiv.org/pdf/2210.14177v1)|null|
+|**2022-10-25**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v1](http://arxiv.org/abs/2210.14169v1)|[2210.14169v1](http://arxiv.org/pdf/2210.14169v1)|null|
+|**2022-10-25**|**PolyHope: Dataset Creation for a Two-Level Hope Speech Detection Task from Tweets**|Fazlourrahman Balouchzahi et.al.|[2210.14136v1](http://arxiv.org/abs/2210.14136v1)|[2210.14136v1](http://arxiv.org/pdf/2210.14136v1)|null|
+|**2022-10-25**|**Light pollution and the concentration of anthropogenic photons in the terrestrial atmosphere**|Salvador Bará et.al.|[2210.14131v1](http://arxiv.org/abs/2210.14131v1)|[2210.14131v1](http://arxiv.org/pdf/2210.14131v1)|null|
+|**2022-10-25**|**IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models**|Chenguang Wang et.al.|[2210.14128v1](http://arxiv.org/abs/2210.14128v1)|[2210.14128v1](http://arxiv.org/pdf/2210.14128v1)|null|
+|**2022-10-25**|**Goal-Driven Context-Aware Next Service Recommendation for Mashup Composition**|Xihao Xie et.al.|[2210.14127v1](http://arxiv.org/abs/2210.14127v1)|[2210.14127v1](http://arxiv.org/pdf/2210.14127v1)|null|
+|**2022-10-25**|**Lafite2: Few-shot Text-to-Image Generation**|Yufan Zhou et.al.|[2210.14124v1](http://arxiv.org/abs/2210.14124v1)|[2210.14124v1](http://arxiv.org/pdf/2210.14124v1)|null|
+|**2022-10-25**|**Exploring Mode Connectivity for Pre-trained Language Models**|Yujia Qin et.al.|[2210.14102v1](http://arxiv.org/abs/2210.14102v1)|[2210.14102v1](http://arxiv.org/pdf/2210.14102v1)|**[link](https://github.com/thunlp/mode-connectivity-plm)**|
 |**2022-10-24**|**MetaFormer Baselines for Vision**|Weihao Yu et.al.|[2210.13452v1](http://arxiv.org/abs/2210.13452v1)|[2210.13452v1](http://arxiv.org/pdf/2210.13452v1)|**[link](https://github.com/sail-sg/metaformer)**|
 |**2022-10-24**|**High Fidelity Neural Audio Compression**|Alexandre Défossez et.al.|[2210.13438v1](http://arxiv.org/abs/2210.13438v1)|[2210.13438v1](http://arxiv.org/pdf/2210.13438v1)|null|
 |**2022-10-24**|**Avalon: A Benchmark for RL Generalization Using Procedurally Generated Worlds**|Joshua Albrecht et.al.|[2210.13417v1](http://arxiv.org/abs/2210.13417v1)|[2210.13417v1](http://arxiv.org/pdf/2210.13417v1)|null|
