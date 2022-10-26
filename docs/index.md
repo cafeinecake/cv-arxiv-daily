@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.25
+## Updated on 2022.10.26
 
 ## Astrophysics
 
@@ -866,10 +866,10 @@ layout: default
 |**2022-10-24**|**MetaFormer Baselines for Vision**|Weihao Yu et.al.|[2210.13452v1](http://arxiv.org/abs/2210.13452v1)|[2210.13452v1](http://arxiv.org/pdf/2210.13452v1)|**[link](https://github.com/sail-sg/metaformer)**|
 |**2022-10-24**|**High Fidelity Neural Audio Compression**|Alexandre Défossez et.al.|[2210.13438v1](http://arxiv.org/abs/2210.13438v1)|[2210.13438v1](http://arxiv.org/pdf/2210.13438v1)|null|
 |**2022-10-24**|**Avalon: A Benchmark for RL Generalization Using Procedurally Generated Worlds**|Joshua Albrecht et.al.|[2210.13417v1](http://arxiv.org/abs/2210.13417v1)|[2210.13417v1](http://arxiv.org/pdf/2210.13417v1)|null|
-|**2022-10-24**|**Thermodynamics-informed neural networks for physically realistic mixed reality**|Quercus Hernández et.al.|[2210.13414v1](http://arxiv.org/abs/2210.13414v1)|[2210.13414v1](http://arxiv.org/pdf/2210.13414v1)|null|
+|**2022-10-24**|**Thermodynamics-informed neural networks for physically realistic mixed reality**|Quercus Hernández et.al.|[2210.13414v1](http://arxiv.org/abs/2210.13414v1)|[2210.13414v1](http://arxiv.org/pdf/2210.13414v1)|**[link](https://github.com/quercushernandez/ThermodynamicsGNN)**|
 |**2022-10-24**|**Contrastive Representation Learning for Gaze Estimation**|Swati Jindal et.al.|[2210.13404v1](http://arxiv.org/abs/2210.13404v1)|[2210.13404v1](http://arxiv.org/pdf/2210.13404v1)|**[link](https://github.com/jswati31/gazeclr)**|
 |**2022-10-24**|**Evaluating Long-Term Memory in 3D Mazes**|Jurgis Pasukonis et.al.|[2210.13383v1](http://arxiv.org/abs/2210.13383v1)|[2210.13383v1](http://arxiv.org/pdf/2210.13383v1)|**[link](https://github.com/jurgisp/memory-maze)**|
-|**2022-10-24**|**Emergent world representations: Exploring a sequence model trained on a synthetic task**|Kenneth Li et.al.|[2210.13382v1](http://arxiv.org/abs/2210.13382v1)|[2210.13382v1](http://arxiv.org/pdf/2210.13382v1)|**[link](https://github.com/likenneth/othello_world)**|
+|**2022-10-25**|**Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task**|Kenneth Li et.al.|[2210.13382v2](http://arxiv.org/abs/2210.13382v2)|[2210.13382v2](http://arxiv.org/pdf/2210.13382v2)|**[link](https://github.com/likenneth/othello_world)**|
 |**2022-10-24**|**Ranking nodes in directed networks via continuous-time quantum walks**|Paola Boito et.al.|[2210.13379v1](http://arxiv.org/abs/2210.13379v1)|[2210.13379v1](http://arxiv.org/pdf/2210.13379v1)|null|
 |**2022-10-24**|**ADLight: A Universal Approach of Traffic Signal Control with Augmented Data Using Reinforcement Learning**|Maonan Wang et.al.|[2210.13378v1](http://arxiv.org/abs/2210.13378v1)|[2210.13378v1](http://arxiv.org/pdf/2210.13378v1)|null|
 |**2022-10-24**|**System Configuration and Navigation of a Guide Dog Robot: Toward Animal Guide Dog-Level Guiding Work**|Hochul Hwang et.al.|[2210.13368v1](http://arxiv.org/abs/2210.13368v1)|[2210.13368v1](http://arxiv.org/pdf/2210.13368v1)|null|
