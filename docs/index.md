@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 ## Astrophysics
 
@@ -876,7 +876,7 @@ layout: default
 |**2022-10-25**|**PlanT: Explainable Planning Transformers via Object-Level Representations**|Katrin Renz et.al.|[2210.14222v1](http://arxiv.org/abs/2210.14222v1)|[2210.14222v1](http://arxiv.org/pdf/2210.14222v1)|null|
 |**2022-10-25**|**In-context Reinforcement Learning with Algorithm Distillation**|Michael Laskin et.al.|[2210.14215v1](http://arxiv.org/abs/2210.14215v1)|[2210.14215v1](http://arxiv.org/pdf/2210.14215v1)|null|
 |**2022-10-25**|**Influence Functions for Sequence Tagging Models**|Sarthak Jain et.al.|[2210.14177v1](http://arxiv.org/abs/2210.14177v1)|[2210.14177v1](http://arxiv.org/pdf/2210.14177v1)|null|
-|**2022-10-25**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v1](http://arxiv.org/abs/2210.14169v1)|[2210.14169v1](http://arxiv.org/pdf/2210.14169v1)|null|
+|**2022-10-26**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v2](http://arxiv.org/abs/2210.14169v2)|[2210.14169v2](http://arxiv.org/pdf/2210.14169v2)|null|
 |**2022-10-25**|**PolyHope: Dataset Creation for a Two-Level Hope Speech Detection Task from Tweets**|Fazlourrahman Balouchzahi et.al.|[2210.14136v1](http://arxiv.org/abs/2210.14136v1)|[2210.14136v1](http://arxiv.org/pdf/2210.14136v1)|null|
 |**2022-10-25**|**Light pollution and the concentration of anthropogenic photons in the terrestrial atmosphere**|Salvador Bará et.al.|[2210.14131v1](http://arxiv.org/abs/2210.14131v1)|[2210.14131v1](http://arxiv.org/pdf/2210.14131v1)|null|
 |**2022-10-25**|**IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models**|Chenguang Wang et.al.|[2210.14128v1](http://arxiv.org/abs/2210.14128v1)|[2210.14128v1](http://arxiv.org/pdf/2210.14128v1)|null|
