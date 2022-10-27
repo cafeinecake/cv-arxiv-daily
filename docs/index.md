@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-26**|**Characteristic Functions for Cosmological Cross-Correlations**|Patrick C. Breysse et.al.|[2210.14902v1](http://arxiv.org/abs/2210.14902v1)|[2210.14902v1](http://arxiv.org/pdf/2210.14902v1)|null|
+|**2022-10-26**|**TOI-1075 b: A Dense, Massive, Ultra-Short Period Hot Super-Earth Straddling the Radius Gap**|Zahra Essack et.al.|[2210.14901v1](http://arxiv.org/abs/2210.14901v1)|[2210.14901v1](http://arxiv.org/pdf/2210.14901v1)|null|
+|**2022-10-26**|**(Slow-)Twisting inflationary attractors**|Perseas Christodoulidis et.al.|[2210.14900v1](http://arxiv.org/abs/2210.14900v1)|[2210.14900v1](http://arxiv.org/pdf/2210.14900v1)|null|
+|**2022-10-26**|**The deconvolved distribution estimator: enhancing reionisation-era CO line-intensity mapping analyses with a cross-correlation analogue for one-point statistics**|Dongwoo T. Chung et.al.|[2210.14890v1](http://arxiv.org/abs/2210.14890v1)|[2210.14890v1](http://arxiv.org/pdf/2210.14890v1)|null|
+|**2022-10-26**|**Angular Momentum Loss Rates in Be Stars Determined by the Viscous Decretion Disc Model**|M. R. Ghoreyshi et.al.|[2210.14885v1](http://arxiv.org/abs/2210.14885v1)|[2210.14885v1](http://arxiv.org/pdf/2210.14885v1)|null|
+|**2022-10-26**|**A family of potential-density pairs for galactic bars**|Walter Dehnen et.al.|[2210.14853v1](http://arxiv.org/abs/2210.14853v1)|[2210.14853v1](http://arxiv.org/pdf/2210.14853v1)|null|
+|**2022-10-26**|**A hybrid map-$C_\ell$ component separation method for primordial CMB $B$-mode searches**|Susanna Azzoni et.al.|[2210.14838v1](http://arxiv.org/abs/2210.14838v1)|[2210.14838v1](http://arxiv.org/pdf/2210.14838v1)|null|
+|**2022-10-26**|**Sulphur monoxide emission tracing an embedded planet in the HD 100546 protoplanetary disk**|Alice S. Booth et.al.|[2210.14820v1](http://arxiv.org/abs/2210.14820v1)|[2210.14820v1](http://arxiv.org/pdf/2210.14820v1)|null|
+|**2022-10-26**|**Joint photon-electron Lorentz violation parameter plane from LHAASO data**|Ping He et.al.|[2210.14817v1](http://arxiv.org/abs/2210.14817v1)|[2210.14817v1](http://arxiv.org/pdf/2210.14817v1)|null|
+|**2022-10-26**|**Numerical simulations of MHD jets from Keplerian accretion disks I-Recollimation shocks**|Thomas Jannaud et.al.|[2210.14809v1](http://arxiv.org/abs/2210.14809v1)|[2210.14809v1](http://arxiv.org/pdf/2210.14809v1)|null|
 |**2022-10-25**|**Orbit-Superposition Dynamical Modelling of Barred Galaxies**|Behzad Tahmasebzadeh et.al.|[2210.14218v1](http://arxiv.org/abs/2210.14218v1)|[2210.14218v1](http://arxiv.org/pdf/2210.14218v1)|null|
 |**2022-10-25**|**Deep orbital search for additional planets in the HR 8799 system**|William Thompson et.al.|[2210.14213v1](http://arxiv.org/abs/2210.14213v1)|[2210.14213v1](http://arxiv.org/pdf/2210.14213v1)|null|
 |**2022-10-25**|**Is binning always sinning? The impact of time-averaging for exoplanet phase curves**|Giuseppe Morello et.al.|[2210.14194v1](http://arxiv.org/abs/2210.14194v1)|[2210.14194v1](http://arxiv.org/pdf/2210.14194v1)|null|
@@ -873,6 +883,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-10-26**|**DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**|Zijie J. Wang et.al.|[2210.14896v1](http://arxiv.org/abs/2210.14896v1)|[2210.14896v1](http://arxiv.org/pdf/2210.14896v1)|**[link](https://github.com/poloclub/diffusiondb)**|
+|**2022-10-26**|**Broken Neural Scaling Laws**|Ethan Caballero et.al.|[2210.14891v1](http://arxiv.org/abs/2210.14891v1)|[2210.14891v1](http://arxiv.org/pdf/2210.14891v1)|null|
+|**2022-10-26**|**Quantum deep recurrent reinforcement learning**|Samuel Yen-Chi Chen et.al.|[2210.14876v1](http://arxiv.org/abs/2210.14876v1)|[2210.14876v1](http://arxiv.org/pdf/2210.14876v1)|null|
+|**2022-10-26**|**TuneUp: A Training Strategy for Improving Generalization of Graph Neural Networks**|Weihua Hu et.al.|[2210.14843v1](http://arxiv.org/abs/2210.14843v1)|[2210.14843v1](http://arxiv.org/pdf/2210.14843v1)|null|
+|**2022-10-26**|**Visual Answer Localization with Cross-modal Mutual Knowledge Transfer**|Yixuan Weng et.al.|[2210.14823v1](http://arxiv.org/abs/2210.14823v1)|[2210.14823v1](http://arxiv.org/pdf/2210.14823v1)|null|
+|**2022-10-26**|**Deep Subspace Encoders for Nonlinear System Identification**|Gerben I. Beintema et.al.|[2210.14816v1](http://arxiv.org/abs/2210.14816v1)|[2210.14816v1](http://arxiv.org/pdf/2210.14816v1)|null|
+|**2022-10-26**|**Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**|Mozes van de Kar et.al.|[2210.14803v1](http://arxiv.org/abs/2210.14803v1)|[2210.14803v1](http://arxiv.org/pdf/2210.14803v1)|null|
+|**2022-10-26**|**ViNL: Visual Navigation and Locomotion Over Obstacles**|Simar Kareer et.al.|[2210.14791v1](http://arxiv.org/abs/2210.14791v1)|[2210.14791v1](http://arxiv.org/pdf/2210.14791v1)|null|
+|**2022-10-26**|**Unknown area exploration for robots with energy constraints using a modified Butterfly Optimization Algorithm**|Amine Bendahmane et.al.|[2210.14774v1](http://arxiv.org/abs/2210.14774v1)|[2210.14774v1](http://arxiv.org/pdf/2210.14774v1)|**[link](https://github.com/aminehorseman/butterfly-optimization-algorithms)**|
+|**2022-10-26**|**Towards a machine learning pipeline in reduced order modelling for inverse problems: neural networks for boundary parametrization, dimensionality reduction and solution manifold approximation**|Anna Ivagnes et.al.|[2210.14764v1](http://arxiv.org/abs/2210.14764v1)|[2210.14764v1](http://arxiv.org/pdf/2210.14764v1)|null|
 |**2022-10-25**|**PlanT: Explainable Planning Transformers via Object-Level Representations**|Katrin Renz et.al.|[2210.14222v1](http://arxiv.org/abs/2210.14222v1)|[2210.14222v1](http://arxiv.org/pdf/2210.14222v1)|null|
 |**2022-10-25**|**In-context Reinforcement Learning with Algorithm Distillation**|Michael Laskin et.al.|[2210.14215v1](http://arxiv.org/abs/2210.14215v1)|[2210.14215v1](http://arxiv.org/pdf/2210.14215v1)|null|
 |**2022-10-25**|**Influence Functions for Sequence Tagging Models**|Sarthak Jain et.al.|[2210.14177v1](http://arxiv.org/abs/2210.14177v1)|[2210.14177v1](http://arxiv.org/pdf/2210.14177v1)|null|
