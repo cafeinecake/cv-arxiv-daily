@@ -1,4 +1,4 @@
-## Updated on 2022.10.27
+## Updated on 2022.10.28
 
 ## Astrophysics
 
@@ -883,7 +883,7 @@
 |**2022-10-26**|**Broken Neural Scaling Laws**|Ethan Caballero et.al.|[2210.14891v1](http://arxiv.org/abs/2210.14891v1)|[2210.14891v1](http://arxiv.org/pdf/2210.14891v1)|null|
 |**2022-10-26**|**Quantum deep recurrent reinforcement learning**|Samuel Yen-Chi Chen et.al.|[2210.14876v1](http://arxiv.org/abs/2210.14876v1)|[2210.14876v1](http://arxiv.org/pdf/2210.14876v1)|null|
 |**2022-10-26**|**TuneUp: A Training Strategy for Improving Generalization of Graph Neural Networks**|Weihua Hu et.al.|[2210.14843v1](http://arxiv.org/abs/2210.14843v1)|[2210.14843v1](http://arxiv.org/pdf/2210.14843v1)|null|
-|**2022-10-26**|**Visual Answer Localization with Cross-modal Mutual Knowledge Transfer**|Yixuan Weng et.al.|[2210.14823v1](http://arxiv.org/abs/2210.14823v1)|[2210.14823v1](http://arxiv.org/pdf/2210.14823v1)|null|
+|**2022-10-27**|**Visual Answer Localization with Cross-modal Mutual Knowledge Transfer**|Yixuan Weng et.al.|[2210.14823v2](http://arxiv.org/abs/2210.14823v2)|[2210.14823v2](http://arxiv.org/pdf/2210.14823v2)|null|
 |**2022-10-26**|**Deep Subspace Encoders for Nonlinear System Identification**|Gerben I. Beintema et.al.|[2210.14816v1](http://arxiv.org/abs/2210.14816v1)|[2210.14816v1](http://arxiv.org/pdf/2210.14816v1)|null|
 |**2022-10-26**|**Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**|Mozes van de Kar et.al.|[2210.14803v1](http://arxiv.org/abs/2210.14803v1)|[2210.14803v1](http://arxiv.org/pdf/2210.14803v1)|null|
 |**2022-10-26**|**ViNL: Visual Navigation and Locomotion Over Obstacles**|Simar Kareer et.al.|[2210.14791v1](http://arxiv.org/abs/2210.14791v1)|[2210.14791v1](http://arxiv.org/pdf/2210.14791v1)|null|
