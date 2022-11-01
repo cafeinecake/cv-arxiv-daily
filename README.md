@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-31**|**Searching for axion forces with precision precession in storage rings**|Prateek Agrawal et.al.|[2210.17547v1](http://arxiv.org/abs/2210.17547v1)|[2210.17547v1](http://arxiv.org/pdf/2210.17547v1)|null|
+|**2022-10-31**|**The Ionizing Spectra of Extremely Metal-Poor O Stars: Constraints from the Only HII Region in Leo P**|O. Grace Telford et.al.|[2210.17535v1](http://arxiv.org/abs/2210.17535v1)|[2210.17535v1](http://arxiv.org/pdf/2210.17535v1)|null|
+|**2022-10-31**|**The Near Infrared Imager and Slitless Spectrograph for JWST -- V. Kernel Phase Imaging and Data Analysis**|Jens Kammerer et.al.|[2210.17528v1](http://arxiv.org/abs/2210.17528v1)|[2210.17528v1](http://arxiv.org/pdf/2210.17528v1)|null|
+|**2022-10-31**|**GRaM-X: A new GPU-accelerated dynamical spacetime GRMHD code for Exascale computing with the Einstein Toolkit**|Swapnil Shankar et.al.|[2210.17509v1](http://arxiv.org/abs/2210.17509v1)|[2210.17509v1](http://arxiv.org/pdf/2210.17509v1)|null|
+|**2022-10-31**|**The effects of Time-Variable Absorption due to Gamma-Ray Bursts In Active Galactic Nuclei Accretion Disks**|Michael Ray et.al.|[2210.17507v1](http://arxiv.org/abs/2210.17507v1)|[2210.17507v1](http://arxiv.org/pdf/2210.17507v1)|null|
+|**2022-10-31**|**Advanced LIGO, LISA, and Cosmic Explorer as dark matter transducers**|Evan Hall et.al.|[2210.17487v1](http://arxiv.org/abs/2210.17487v1)|[2210.17487v1](http://arxiv.org/pdf/2210.17487v1)|null|
+|**2022-10-31**|**Winds and magnetospheres of stars and planets: similarities and differences**|Stan Owocki et.al.|[2210.17472v1](http://arxiv.org/abs/2210.17472v1)|[2210.17472v1](http://arxiv.org/pdf/2210.17472v1)|null|
+|**2022-10-31**|**Deep Learning application for stellar parameters determination: II- Application to observed spectra of AFGK stars**|Marwan Gebran et.al.|[2210.17470v1](http://arxiv.org/abs/2210.17470v1)|[2210.17470v1](http://arxiv.org/pdf/2210.17470v1)|null|
+|**2022-10-31**|**Cosmic voids as cosmological laboratories**|Carlos Mauricio Correa et.al.|[2210.17459v1](http://arxiv.org/abs/2210.17459v1)|[2210.17459v1](http://arxiv.org/pdf/2210.17459v1)|null|
+|**2022-10-31**|**Continuing to Hide Signatures of Gravitational Instability in Protoplanetary Discs with Planets**|Sahl Rowther et.al.|[2210.17454v1](http://arxiv.org/abs/2210.17454v1)|[2210.17454v1](http://arxiv.org/pdf/2210.17454v1)|null|
 |**2022-10-28**|**Self-calibrating optical galaxy cluster selection bias using cluster, galaxy, and shear cross-correlations**|Chenxiao Zeng et.al.|[2210.16306v1](http://arxiv.org/abs/2210.16306v1)|[2210.16306v1](http://arxiv.org/pdf/2210.16306v1)|null|
 |**2022-10-28**|**The Scalar Singlet Extension of the Standard Model: Gravitational Waves versus Baryogenesis**|John Ellis et.al.|[2210.16305v1](http://arxiv.org/abs/2210.16305v1)|[2210.16305v1](http://arxiv.org/pdf/2210.16305v1)|null|
 |**2022-10-28**|**Resolving the Hubble tension with Early Dark Energy**|Laura Herold et.al.|[2210.16296v1](http://arxiv.org/abs/2210.16296v1)|[2210.16296v1](http://arxiv.org/pdf/2210.16296v1)|null|
@@ -899,6 +909,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-10-31**|**Lila: A Unified Benchmark for Mathematical Reasoning**|Swaroop Mishra et.al.|[2210.17517v1](http://arxiv.org/abs/2210.17517v1)|[2210.17517v1](http://arxiv.org/pdf/2210.17517v1)|**[link](https://github.com/allenai/lila)**|
+|**2022-10-31**|**Space-fluid Adaptive Sampling by Self-Organisation**|Roberto Casadei et.al.|[2210.17505v1](http://arxiv.org/abs/2210.17505v1)|[2210.17505v1](http://arxiv.org/pdf/2210.17505v1)|null|
+|**2022-10-31**|**The Open MatSci ML Toolkit: A Flexible Framework for Machine Learning in Materials Science**|Santiago Miret et.al.|[2210.17484v1](http://arxiv.org/abs/2210.17484v1)|[2210.17484v1](http://arxiv.org/pdf/2210.17484v1)|**[link](https://github.com/intellabs/matsciml)**|
+|**2022-10-31**|**Low Complexity Detect and Avoid for Autonomous Agents in Cluttered Environments**|Mosab Diab et.al.|[2210.17482v1](http://arxiv.org/abs/2210.17482v1)|[2210.17482v1](http://arxiv.org/pdf/2210.17482v1)|null|
+|**2022-10-31**|**Iterative Teaching by Data Hallucination**|Zeju Qiu et.al.|[2210.17467v1](http://arxiv.org/abs/2210.17467v1)|[2210.17467v1](http://arxiv.org/pdf/2210.17467v1)|null|
+|**2022-10-31**|**AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**|Yaqing Wang et.al.|[2210.17451v1](http://arxiv.org/abs/2210.17451v1)|[2210.17451v1](http://arxiv.org/pdf/2210.17451v1)|null|
+|**2022-10-31**|**Consistent and Truthful Interpretation with Fourier Analysis**|Yifan Zhang et.al.|[2210.17426v1](http://arxiv.org/abs/2210.17426v1)|[2210.17426v1](http://arxiv.org/pdf/2210.17426v1)|null|
+|**2022-10-31**|**Controllable Factuality in Document-Grounded Dialog Systems Using a Noisy Channel Model**|Nico Daheim et.al.|[2210.17418v1](http://arxiv.org/abs/2210.17418v1)|[2210.17418v1](http://arxiv.org/pdf/2210.17418v1)|null|
+|**2022-10-31**|**Teacher-student curriculum learning for reinforcement learning**|Yanick Schraner et.al.|[2210.17368v1](http://arxiv.org/abs/2210.17368v1)|[2210.17368v1](http://arxiv.org/pdf/2210.17368v1)|null|
+|**2022-10-31**|**Guided Conditional Diffusion for Controllable Traffic Simulation**|Ziyuan Zhong et.al.|[2210.17366v1](http://arxiv.org/abs/2210.17366v1)|[2210.17366v1](http://arxiv.org/pdf/2210.17366v1)|null|
 |**2022-10-28**|**Investigating Ensemble Methods for Model Robustness Improvement of Text Classifiers**|Jieyu Zhao et.al.|[2210.16298v1](http://arxiv.org/abs/2210.16298v1)|[2210.16298v1](http://arxiv.org/pdf/2210.16298v1)|null|
 |**2022-10-28**|**Boulders Identification on Small Bodies Under Varying Illumination Conditions**|Mattia Pugliatti et.al.|[2210.16283v1](http://arxiv.org/abs/2210.16283v1)|[2210.16283v1](http://arxiv.org/pdf/2210.16283v1)|null|
 |**2022-10-28**|**Big Data Meets Metaverse: A Survey**|Jiayi Sun et.al.|[2210.16282v1](http://arxiv.org/abs/2210.16282v1)|[2210.16282v1](http://arxiv.org/pdf/2210.16282v1)|null|
