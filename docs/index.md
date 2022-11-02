@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-01**|**GRB221009A Gamma Rays from Radiative Decay of Heavy Neutrinos?**|Alexei Y. Smirnov et.al.|[2211.00634v1](http://arxiv.org/abs/2211.00634v1)|[2211.00634v1](http://arxiv.org/pdf/2211.00634v1)|null|
+|**2022-11-01**|**Clouds form on the hot Saturn JWST ERO target WASP-96b**|Dominic Samra et.al.|[2211.00633v1](http://arxiv.org/abs/2211.00633v1)|[2211.00633v1](http://arxiv.org/pdf/2211.00633v1)|null|
+|**2022-11-01**|**Discovery of a red backsplash galaxy candidate near M81**|Kirsten J. Casey et.al.|[2211.00629v1](http://arxiv.org/abs/2211.00629v1)|[2211.00629v1](http://arxiv.org/pdf/2211.00629v1)|null|
+|**2022-11-01**|**Building an Acceleration Ladder with Tidal Streams and Pulsar Timing**|Peter Craig et.al.|[2211.00613v1](http://arxiv.org/abs/2211.00613v1)|[2211.00613v1](http://arxiv.org/pdf/2211.00613v1)|null|
+|**2022-11-01**|**The detection of possible transient Quasi-Periodic Oscillations in the $γ$-ray light curve of PKS 0244-470 and 4C+38.41**|Avik Kumar Das et.al.|[2211.00588v1](http://arxiv.org/abs/2211.00588v1)|[2211.00588v1](http://arxiv.org/pdf/2211.00588v1)|null|
+|**2022-11-01**|**Investigating the Hubble Tension: Effect of Cepheid Calibration**|Rahul Kumar Thakur et.al.|[2211.00578v1](http://arxiv.org/abs/2211.00578v1)|[2211.00578v1](http://arxiv.org/pdf/2211.00578v1)|null|
+|**2022-11-01**|**Towards an automated data cleaning with deep learning in CRESST**|G. Angloher et.al.|[2211.00564v1](http://arxiv.org/abs/2211.00564v1)|[2211.00564v1](http://arxiv.org/pdf/2211.00564v1)|null|
+|**2022-11-01**|**Cosmic Acceleration with and without Limits**|Eric V. Linder et.al.|[2211.00542v1](http://arxiv.org/abs/2211.00542v1)|[2211.00542v1](http://arxiv.org/pdf/2211.00542v1)|null|
+|**2022-11-01**|**Axion effects on gamma-ray spectral irregularities with AGN redshift uncertainty**|Hai-Jun Li et.al.|[2211.00524v1](http://arxiv.org/abs/2211.00524v1)|[2211.00524v1](http://arxiv.org/pdf/2211.00524v1)|null|
+|**2022-11-01**|**Relating galaxies across different redshift to study galaxy evolution**|Kai Wang et.al.|[2211.00485v1](http://arxiv.org/abs/2211.00485v1)|[2211.00485v1](http://arxiv.org/pdf/2211.00485v1)|null|
 |**2022-10-31**|**Searching for axion forces with precision precession in storage rings**|Prateek Agrawal et.al.|[2210.17547v1](http://arxiv.org/abs/2210.17547v1)|[2210.17547v1](http://arxiv.org/pdf/2210.17547v1)|null|
 |**2022-10-31**|**The Ionizing Spectra of Extremely Metal-Poor O Stars: Constraints from the Only HII Region in Leo P**|O. Grace Telford et.al.|[2210.17535v1](http://arxiv.org/abs/2210.17535v1)|[2210.17535v1](http://arxiv.org/pdf/2210.17535v1)|null|
 |**2022-10-31**|**The Near Infrared Imager and Slitless Spectrograph for JWST -- V. Kernel Phase Imaging and Data Analysis**|Jens Kammerer et.al.|[2210.17528v1](http://arxiv.org/abs/2210.17528v1)|[2210.17528v1](http://arxiv.org/pdf/2210.17528v1)|null|
@@ -913,6 +923,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-01**|**Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small**|Kevin Wang et.al.|[2211.00593v1](http://arxiv.org/abs/2211.00593v1)|[2211.00593v1](http://arxiv.org/pdf/2211.00593v1)|**[link](https://github.com/redwoodresearch/easy-transformer)**|
+|**2022-11-01**|**ClassActionPrediction: A Challenging Benchmark for Legal Judgment Prediction of Class Action Cases in the US**|Gil Semo et.al.|[2211.00582v1](http://arxiv.org/abs/2211.00582v1)|[2211.00582v1](http://arxiv.org/pdf/2211.00582v1)|null|
+|**2022-11-01**|**Event Tables for Efficient Experience Replay**|Varun Kompella et.al.|[2211.00576v1](http://arxiv.org/abs/2211.00576v1)|[2211.00576v1](http://arxiv.org/pdf/2211.00576v1)|null|
+|**2022-11-01**|**Text-Only Training for Image Captioning using Noise-Injected CLIP**|David Nukrai et.al.|[2211.00575v1](http://arxiv.org/abs/2211.00575v1)|[2211.00575v1](http://arxiv.org/pdf/2211.00575v1)|**[link](https://github.com/davidhuji/capdec)**|
+|**2022-11-01**|**Consistent Training via Energy-Based GFlowNets for Modeling Discrete Joint Distributions**|Chanakya Ekbote et.al.|[2211.00568v1](http://arxiv.org/abs/2211.00568v1)|[2211.00568v1](http://arxiv.org/pdf/2211.00568v1)|null|
+|**2022-11-01**|**Dungeons and Data: A Large-Scale NetHack Dataset**|Eric Hambro et.al.|[2211.00539v1](http://arxiv.org/abs/2211.00539v1)|[2211.00539v1](http://arxiv.org/pdf/2211.00539v1)|null|
+|**2022-11-01**|**Deep Learning for Global Wildfire Forecasting**|Ioannis Prapas et.al.|[2211.00534v1](http://arxiv.org/abs/2211.00534v1)|[2211.00534v1](http://arxiv.org/pdf/2211.00534v1)|null|
+|**2022-11-01**|**Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation**|Jiangbin Zheng et.al.|[2211.00526v1](http://arxiv.org/abs/2211.00526v1)|[2211.00526v1](http://arxiv.org/pdf/2211.00526v1)|null|
+|**2022-11-01**|**Modelling black-box audio effects with time-varying feature modulation**|Marco Comunità et.al.|[2211.00497v1](http://arxiv.org/abs/2211.00497v1)|[2211.00497v1](http://arxiv.org/pdf/2211.00497v1)|null|
+|**2022-11-01**|**Understanding the Unforeseen via the Intentional Stance**|Stephanie Stacy et.al.|[2211.00478v1](http://arxiv.org/abs/2211.00478v1)|[2211.00478v1](http://arxiv.org/pdf/2211.00478v1)|null|
 |**2022-10-31**|**Lila: A Unified Benchmark for Mathematical Reasoning**|Swaroop Mishra et.al.|[2210.17517v1](http://arxiv.org/abs/2210.17517v1)|[2210.17517v1](http://arxiv.org/pdf/2210.17517v1)|**[link](https://github.com/allenai/lila)**|
 |**2022-10-31**|**Space-fluid Adaptive Sampling by Self-Organisation**|Roberto Casadei et.al.|[2210.17505v1](http://arxiv.org/abs/2210.17505v1)|[2210.17505v1](http://arxiv.org/pdf/2210.17505v1)|null|
 |**2022-10-31**|**The Open MatSci ML Toolkit: A Flexible Framework for Machine Learning in Materials Science**|Santiago Miret et.al.|[2210.17484v1](http://arxiv.org/abs/2210.17484v1)|[2210.17484v1](http://arxiv.org/pdf/2210.17484v1)|**[link](https://github.com/intellabs/matsciml)**|
