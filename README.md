@@ -1,4 +1,4 @@
-## Updated on 2022.11.01
+## Updated on 2022.11.02
 
 ## Astrophysics
 
@@ -912,7 +912,7 @@
 |**2022-10-31**|**Lila: A Unified Benchmark for Mathematical Reasoning**|Swaroop Mishra et.al.|[2210.17517v1](http://arxiv.org/abs/2210.17517v1)|[2210.17517v1](http://arxiv.org/pdf/2210.17517v1)|**[link](https://github.com/allenai/lila)**|
 |**2022-10-31**|**Space-fluid Adaptive Sampling by Self-Organisation**|Roberto Casadei et.al.|[2210.17505v1](http://arxiv.org/abs/2210.17505v1)|[2210.17505v1](http://arxiv.org/pdf/2210.17505v1)|null|
 |**2022-10-31**|**The Open MatSci ML Toolkit: A Flexible Framework for Machine Learning in Materials Science**|Santiago Miret et.al.|[2210.17484v1](http://arxiv.org/abs/2210.17484v1)|[2210.17484v1](http://arxiv.org/pdf/2210.17484v1)|**[link](https://github.com/intellabs/matsciml)**|
-|**2022-10-31**|**Low Complexity Detect and Avoid for Autonomous Agents in Cluttered Environments**|Mosab Diab et.al.|[2210.17482v1](http://arxiv.org/abs/2210.17482v1)|[2210.17482v1](http://arxiv.org/pdf/2210.17482v1)|null|
+|**2022-11-01**|**Low Complexity Detect and Avoid for Autonomous Agents in Cluttered Environments**|Mosab Diab et.al.|[2210.17482v2](http://arxiv.org/abs/2210.17482v2)|[2210.17482v2](http://arxiv.org/pdf/2210.17482v2)|null|
 |**2022-10-31**|**Iterative Teaching by Data Hallucination**|Zeju Qiu et.al.|[2210.17467v1](http://arxiv.org/abs/2210.17467v1)|[2210.17467v1](http://arxiv.org/pdf/2210.17467v1)|null|
 |**2022-10-31**|**AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**|Yaqing Wang et.al.|[2210.17451v1](http://arxiv.org/abs/2210.17451v1)|[2210.17451v1](http://arxiv.org/pdf/2210.17451v1)|null|
 |**2022-10-31**|**Consistent and Truthful Interpretation with Fourier Analysis**|Yifan Zhang et.al.|[2210.17426v1](http://arxiv.org/abs/2210.17426v1)|[2210.17426v1](http://arxiv.org/pdf/2210.17426v1)|null|
