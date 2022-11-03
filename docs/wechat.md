@@ -1,4 +1,4 @@
-> Updated on 2022.11.02
+> Updated on 2022.11.03
 
 ## Astrophysics
 
@@ -919,7 +919,7 @@
 - 2022-11-01, **ClassActionPrediction: A Challenging Benchmark for Legal Judgment Prediction of Class Action Cases in the US**, Gil Semo et.al., Paper: [http://arxiv.org/abs/2211.00582v1](http://arxiv.org/abs/2211.00582v1), Paper: [http://arxiv.org/abs/2211.00582v1](http://arxiv.org/pdf/2211.00582v1)
 - 2022-11-01, **Event Tables for Efficient Experience Replay**, Varun Kompella et.al., Paper: [http://arxiv.org/abs/2211.00576v1](http://arxiv.org/abs/2211.00576v1), Paper: [http://arxiv.org/abs/2211.00576v1](http://arxiv.org/pdf/2211.00576v1)
 - 2022-11-01, **Text-Only Training for Image Captioning using Noise-Injected CLIP**, David Nukrai et.al., Paper: [http://arxiv.org/abs/2211.00575v1](http://arxiv.org/abs/2211.00575v1),Paper: [http://arxiv.org/abs/2211.00575v1](http://arxiv.org/pdf/2211.00575v1), Code: **[https://github.com/davidhuji/capdec](https://github.com/davidhuji/capdec)**
-- 2022-11-01, **Consistent Training via Energy-Based GFlowNets for Modeling Discrete Joint Distributions**, Chanakya Ekbote et.al., Paper: [http://arxiv.org/abs/2211.00568v1](http://arxiv.org/abs/2211.00568v1), Paper: [http://arxiv.org/abs/2211.00568v1](http://arxiv.org/pdf/2211.00568v1)
+- 2022-11-02, **Consistent Training via Energy-Based GFlowNets for Modeling Discrete Joint Distributions**, Chanakya Ekbote et.al., Paper: [http://arxiv.org/abs/2211.00568v2](http://arxiv.org/abs/2211.00568v2), Paper: [http://arxiv.org/abs/2211.00568v2](http://arxiv.org/pdf/2211.00568v2)
 - 2022-11-01, **Dungeons and Data: A Large-Scale NetHack Dataset**, Eric Hambro et.al., Paper: [http://arxiv.org/abs/2211.00539v1](http://arxiv.org/abs/2211.00539v1), Paper: [http://arxiv.org/abs/2211.00539v1](http://arxiv.org/pdf/2211.00539v1)
 - 2022-11-01, **Deep Learning for Global Wildfire Forecasting**, Ioannis Prapas et.al., Paper: [http://arxiv.org/abs/2211.00534v1](http://arxiv.org/abs/2211.00534v1), Paper: [http://arxiv.org/abs/2211.00534v1](http://arxiv.org/pdf/2211.00534v1)
 - 2022-11-01, **Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation**, Jiangbin Zheng et.al., Paper: [http://arxiv.org/abs/2211.00526v1](http://arxiv.org/abs/2211.00526v1), Paper: [http://arxiv.org/abs/2211.00526v1](http://arxiv.org/pdf/2211.00526v1)
