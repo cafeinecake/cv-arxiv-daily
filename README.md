@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-02**|**Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms**|Philippa S. Cole et.al.|[2211.01362v1](http://arxiv.org/abs/2211.01362v1)|[2211.01362v1](http://arxiv.org/pdf/2211.01362v1)|null|
+|**2022-11-02**|**APERO: A PipelinE to Reduce Observations -- Demonstration with SPIRou**|Neil James Cook et.al.|[2211.01358v1](http://arxiv.org/abs/2211.01358v1)|[2211.01358v1](http://arxiv.org/pdf/2211.01358v1)|null|
+|**2022-11-02**|**A study of global magnetic helicity in self-consistent spherical dynamos**|Parag Gupta et.al.|[2211.01356v1](http://arxiv.org/abs/2211.01356v1)|[2211.01356v1](http://arxiv.org/pdf/2211.01356v1)|null|
+|**2022-11-02**|**The VANDELS survey: the ionizing properties of star-forming galaxies at $3 \leq z \leq 5$ using deep rest-frame ultraviolet spectroscopy**|A. Saldana-Lopez et.al.|[2211.01351v1](http://arxiv.org/abs/2211.01351v1)|[2211.01351v1](http://arxiv.org/pdf/2211.01351v1)|null|
+|**2022-11-02**|**New Nomenclature Rules for Meteor Showers Adopted**|M. Hajdukova et.al.|[2211.01350v1](http://arxiv.org/abs/2211.01350v1)|[2211.01350v1](http://arxiv.org/pdf/2211.01350v1)|null|
+|**2022-11-02**|**Measuring the polarization content of gravitational waves with strongly lensed binary black hole mergers**|Ignacio Magaña Hernandez et.al.|[2211.01272v1](http://arxiv.org/abs/2211.01272v1)|[2211.01272v1](http://arxiv.org/pdf/2211.01272v1)|null|
+|**2022-11-02**|**Gas clumping and its effect on hydrostatic bias in the MACSIS simulations**|Imogen Towler et.al.|[2211.01239v1](http://arxiv.org/abs/2211.01239v1)|[2211.01239v1](http://arxiv.org/pdf/2211.01239v1)|null|
+|**2022-11-02**|**The Luminosity Phase Space of Galactic and Extragalactic X-ray Transients Out to Intermediate Redshifts**|Ava Polzin et.al.|[2211.01232v1](http://arxiv.org/abs/2211.01232v1)|[2211.01232v1](http://arxiv.org/pdf/2211.01232v1)|null|
+|**2022-11-02**|**Type Ia Supernova cosmology combining data from the $Euclid$ mission and the Vera C. Rubin Observatory**|A. Bailey et.al.|[2211.01206v1](http://arxiv.org/abs/2211.01206v1)|[2211.01206v1](http://arxiv.org/pdf/2211.01206v1)|null|
+|**2022-11-02**|**Non-equilibrium Ionization Modeling of Petschek-type Shocks in Reconnecting Current Sheets in Solar Eruptions**|Chengcai Shen et.al.|[2211.01188v1](http://arxiv.org/abs/2211.01188v1)|[2211.01188v1](http://arxiv.org/pdf/2211.01188v1)|null|
 |**2022-11-01**|**GRB221009A Gamma Rays from Radiative Decay of Heavy Neutrinos?**|Alexei Y. Smirnov et.al.|[2211.00634v1](http://arxiv.org/abs/2211.00634v1)|[2211.00634v1](http://arxiv.org/pdf/2211.00634v1)|null|
 |**2022-11-01**|**Clouds form on the hot Saturn JWST ERO target WASP-96b**|Dominic Samra et.al.|[2211.00633v1](http://arxiv.org/abs/2211.00633v1)|[2211.00633v1](http://arxiv.org/pdf/2211.00633v1)|null|
 |**2022-11-01**|**Discovery of a red backsplash galaxy candidate near M81**|Kirsten J. Casey et.al.|[2211.00629v1](http://arxiv.org/abs/2211.00629v1)|[2211.00629v1](http://arxiv.org/pdf/2211.00629v1)|null|
@@ -919,6 +929,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-02**|**Koopman Operator learning for Accelerating Quantum Optimization and Machine Learning**|Di Luo et.al.|[2211.01365v1](http://arxiv.org/abs/2211.01365v1)|[2211.01365v1](http://arxiv.org/pdf/2211.01365v1)|null|
+|**2022-11-02**|**My Face My Choice: Privacy Enhancing Deepfakes for Social Media Anonymization**|Umur A. Ciftci et.al.|[2211.01361v1](http://arxiv.org/abs/2211.01361v1)|[2211.01361v1](http://arxiv.org/pdf/2211.01361v1)|null|
+|**2022-11-02**|**Improving Named Entity Recognition in Telephone Conversations via Effective Active Learning with Human in the Loop**|Md Tahmid Rahman Laskar et.al.|[2211.01354v1](http://arxiv.org/abs/2211.01354v1)|[2211.01354v1](http://arxiv.org/pdf/2211.01354v1)|null|
+|**2022-11-02**|**Low-Resource Music Genre Classification with Advanced Neural Model Reprogramming**|Yun-Ning Hung et.al.|[2211.01317v1](http://arxiv.org/abs/2211.01317v1)|[2211.01317v1](http://arxiv.org/pdf/2211.01317v1)|null|
+|**2022-11-02**|**Learning an Artificial Language for Knowledge-Sharing in Multilingual Translation**|Danni Liu et.al.|[2211.01292v1](http://arxiv.org/abs/2211.01292v1)|[2211.01292v1](http://arxiv.org/pdf/2211.01292v1)|null|
+|**2022-11-02**|**Knowing the Past to Predict the Future: Reinforcement Virtual Learning**|Peng Zhang et.al.|[2211.01266v1](http://arxiv.org/abs/2211.01266v1)|[2211.01266v1](http://arxiv.org/pdf/2211.01266v1)|null|
+|**2022-11-02**|**Where Do We Go From Here? Guidelines For Offline Recommender Evaluation**|Tobias Schnabel et.al.|[2211.01261v1](http://arxiv.org/abs/2211.01261v1)|[2211.01261v1](http://arxiv.org/pdf/2211.01261v1)|null|
+|**2022-11-02**|**Task-Oriented Over-the-Air Computation for Multi-Device Edge AI**|Dingzhu Wen et.al.|[2211.01255v1](http://arxiv.org/abs/2211.01255v1)|[2211.01255v1](http://arxiv.org/pdf/2211.01255v1)|null|
+|**2022-11-02**|**Fair Visual Recognition via Intervention with Proxy Features**|Yi Zhang et.al.|[2211.01253v1](http://arxiv.org/abs/2211.01253v1)|[2211.01253v1](http://arxiv.org/pdf/2211.01253v1)|null|
+|**2022-11-02**|**data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup**|Vasista Sai Lodagala et.al.|[2211.01246v1](http://arxiv.org/abs/2211.01246v1)|[2211.01246v1](http://arxiv.org/pdf/2211.01246v1)|null|
 |**2022-11-01**|**Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small**|Kevin Wang et.al.|[2211.00593v1](http://arxiv.org/abs/2211.00593v1)|[2211.00593v1](http://arxiv.org/pdf/2211.00593v1)|**[link](https://github.com/redwoodresearch/easy-transformer)**|
 |**2022-11-01**|**ClassActionPrediction: A Challenging Benchmark for Legal Judgment Prediction of Class Action Cases in the US**|Gil Semo et.al.|[2211.00582v1](http://arxiv.org/abs/2211.00582v1)|[2211.00582v1](http://arxiv.org/pdf/2211.00582v1)|null|
 |**2022-11-01**|**Event Tables for Efficient Experience Replay**|Varun Kompella et.al.|[2211.00576v1](http://arxiv.org/abs/2211.00576v1)|[2211.00576v1](http://arxiv.org/pdf/2211.00576v1)|null|
