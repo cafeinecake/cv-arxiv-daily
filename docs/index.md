@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-03**|**Fast and robust Bayesian Inference using Gaussian Processes with GPry**|Jonas El Gammal et.al.|[2211.02045v1](http://arxiv.org/abs/2211.02045v1)|[2211.02045v1](http://arxiv.org/pdf/2211.02045v1)|**[link](https://github.com/jonaselgammal/gpry)**|
+|**2022-11-03**|**Detecting galaxies in a large H{\sc i}~spectral cube**|Abinash Kumar Shaw et.al.|[2211.02041v1](http://arxiv.org/abs/2211.02041v1)|[2211.02041v1](http://arxiv.org/pdf/2211.02041v1)|null|
+|**2022-11-03**|**On the observability and identification of Population III galaxies with JWST**|James A. A. Trussler et.al.|[2211.02038v1](http://arxiv.org/abs/2211.02038v1)|[2211.02038v1](http://arxiv.org/pdf/2211.02038v1)|null|
+|**2022-11-03**|**White dwarf binaries suggest a common envelope efficiency $α\sim 1/3$**|Peter Scherbak et.al.|[2211.02036v1](http://arxiv.org/abs/2211.02036v1)|[2211.02036v1](http://arxiv.org/pdf/2211.02036v1)|null|
+|**2022-11-03**|**Neutrino Origin of LHAASO's 18 TeV GRB221009A Photon**|Vedran Brdar et.al.|[2211.02028v1](http://arxiv.org/abs/2211.02028v1)|[2211.02028v1](http://arxiv.org/pdf/2211.02028v1)|null|
+|**2022-11-03**|**On ALP scenarios and GRB 221009A**|Pierluca Carenza et.al.|[2211.02010v1](http://arxiv.org/abs/2211.02010v1)|[2211.02010v1](http://arxiv.org/pdf/2211.02010v1)|null|
+|**2022-11-03**|**A Bayesian inference of relativistic mean-field model for neutron star matter from observation of NICER and GW170817/AT2017gfo**|Zhenyu Zhu et.al.|[2211.02007v1](http://arxiv.org/abs/2211.02007v1)|[2211.02007v1](http://arxiv.org/pdf/2211.02007v1)|null|
+|**2022-11-03**|**Impact of multiple modes on the evolution of self-interacting axion condensate around rotating black holes**|Hidetoshi Omiya et.al.|[2211.01949v1](http://arxiv.org/abs/2211.01949v1)|[2211.01949v1](http://arxiv.org/pdf/2211.01949v1)|null|
+|**2022-11-03**|**Discovering a new well: Decaying dark matter with profile likelihoods**|Emil Brinch Holm et.al.|[2211.01935v1](http://arxiv.org/abs/2211.01935v1)|[2211.01935v1](http://arxiv.org/pdf/2211.01935v1)|null|
+|**2022-11-03**|**The Effect of Shock Wave Duration on Star Formation and the Initial Condition of Massive Cluster Formation**|Daisei Abe et.al.|[2211.01931v1](http://arxiv.org/abs/2211.01931v1)|[2211.01931v1](http://arxiv.org/pdf/2211.01931v1)|null|
 |**2022-11-02**|**Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms**|Philippa S. Cole et.al.|[2211.01362v1](http://arxiv.org/abs/2211.01362v1)|[2211.01362v1](http://arxiv.org/pdf/2211.01362v1)|null|
 |**2022-11-02**|**APERO: A PipelinE to Reduce Observations -- Demonstration with SPIRou**|Neil James Cook et.al.|[2211.01358v1](http://arxiv.org/abs/2211.01358v1)|[2211.01358v1](http://arxiv.org/pdf/2211.01358v1)|null|
 |**2022-11-02**|**A study of global magnetic helicity in self-consistent spherical dynamos**|Parag Gupta et.al.|[2211.01356v1](http://arxiv.org/abs/2211.01356v1)|[2211.01356v1](http://arxiv.org/pdf/2211.01356v1)|null|
@@ -933,6 +943,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-03**|**Oracle Inequalities for Model Selection in Offline Reinforcement Learning**|Jonathan N. Lee et.al.|[2211.02016v1](http://arxiv.org/abs/2211.02016v1)|[2211.02016v1](http://arxiv.org/pdf/2211.02016v1)|null|
+|**2022-11-03**|**lilGym: Natural Language Visual Reasoning with Reinforcement Learning**|Anne Wu et.al.|[2211.01994v1](http://arxiv.org/abs/2211.01994v1)|[2211.01994v1](http://arxiv.org/pdf/2211.01994v1)|null|
+|**2022-11-03**|**Sybil-Proof Diffusion Auction in Social Networks**|Hongyin Chen et.al.|[2211.01984v1](http://arxiv.org/abs/2211.01984v1)|[2211.01984v1](http://arxiv.org/pdf/2211.01984v1)|null|
+|**2022-11-03**|**Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing**|Aditay Tripathi et.al.|[2211.01969v1](http://arxiv.org/abs/2211.01969v1)|[2211.01969v1](http://arxiv.org/pdf/2211.01969v1)|null|
+|**2022-11-03**|**A Posterior Sampling Framework for Interactive Decision Making**|Han Zhong et.al.|[2211.01962v1](http://arxiv.org/abs/2211.01962v1)|[2211.01962v1](http://arxiv.org/pdf/2211.01962v1)|null|
+|**2022-11-03**|**Empirical Analysis of Model Selection for Heterogenous Causal Effect Estimation**|Divyat Mahajan et.al.|[2211.01939v1](http://arxiv.org/abs/2211.01939v1)|[2211.01939v1](http://arxiv.org/pdf/2211.01939v1)|null|
+|**2022-11-03**|**Expanding Accurate Person Recognition to New Altitudes and Ranges: The BRIAR Dataset**|David Cornett III et.al.|[2211.01917v1](http://arxiv.org/abs/2211.01917v1)|[2211.01917v1](http://arxiv.org/pdf/2211.01917v1)|null|
+|**2022-11-03**|**Uncertainty Quantification for Rule-Based Models**|Yusik Kim et.al.|[2211.01915v1](http://arxiv.org/abs/2211.01915v1)|[2211.01915v1](http://arxiv.org/pdf/2211.01915v1)|null|
+|**2022-11-03**|**FedGen: Generalizable Federated Learning**|Praveen Venkateswaran et.al.|[2211.01914v1](http://arxiv.org/abs/2211.01914v1)|[2211.01914v1](http://arxiv.org/pdf/2211.01914v1)|null|
+|**2022-11-03**|**Large Language Models Are Human-Level Prompt Engineers**|Yongchao Zhou et.al.|[2211.01910v1](http://arxiv.org/abs/2211.01910v1)|[2211.01910v1](http://arxiv.org/pdf/2211.01910v1)|**[link](https://github.com/keirp/automatic_prompt_engineer)**|
 |**2022-11-02**|**Koopman Operator learning for Accelerating Quantum Optimization and Machine Learning**|Di Luo et.al.|[2211.01365v1](http://arxiv.org/abs/2211.01365v1)|[2211.01365v1](http://arxiv.org/pdf/2211.01365v1)|null|
 |**2022-11-02**|**My Face My Choice: Privacy Enhancing Deepfakes for Social Media Anonymization**|Umur A. Ciftci et.al.|[2211.01361v1](http://arxiv.org/abs/2211.01361v1)|[2211.01361v1](http://arxiv.org/pdf/2211.01361v1)|null|
 |**2022-11-02**|**Improving Named Entity Recognition in Telephone Conversations via Effective Active Learning with Human in the Loop**|Md Tahmid Rahman Laskar et.al.|[2211.01354v1](http://arxiv.org/abs/2211.01354v1)|[2211.01354v1](http://arxiv.org/pdf/2211.01354v1)|null|
