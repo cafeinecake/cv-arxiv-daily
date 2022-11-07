@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-04**|**Did JWST observe imprints of axion miniclusters or primordial black holes?**|Gert Hütsi et.al.|[2211.02651v1](http://arxiv.org/abs/2211.02651v1)|[2211.02651v1](http://arxiv.org/pdf/2211.02651v1)|null|
+|**2022-11-04**|**Evolution of the UV LF from z~15 to z~8 Using New JWST NIRCam Medium-Band Observations over the HUDF/XDF**|Rychard J. Bouwens et.al.|[2211.02607v1](http://arxiv.org/abs/2211.02607v1)|[2211.02607v1](http://arxiv.org/pdf/2211.02607v1)|null|
+|**2022-11-04**|**Study of Intra-Day Flux Distributions of Blazars Using XMM-Newton Satellite**|Kiran Wani et.al.|[2211.02606v1](http://arxiv.org/abs/2211.02606v1)|[2211.02606v1](http://arxiv.org/pdf/2211.02606v1)|null|
+|**2022-11-04**|**Cosmic Topology I: Limits on Orientable Euclidean Manifolds from Circle Searches**|Pip Petersen et.al.|[2211.02603v1](http://arxiv.org/abs/2211.02603v1)|[2211.02603v1](http://arxiv.org/pdf/2211.02603v1)|null|
+|**2022-11-04**|**Spatial field reconstruction with INLA: Application to simulated galaxies**|Majda Smole et.al.|[2211.02602v1](http://arxiv.org/abs/2211.02602v1)|[2211.02602v1](http://arxiv.org/pdf/2211.02602v1)|null|
+|**2022-11-04**|**Questions on calculation of primordial power spectrum with large spikes: the resonance model case**|Keisuke Inomata et.al.|[2211.02586v1](http://arxiv.org/abs/2211.02586v1)|[2211.02586v1](http://arxiv.org/pdf/2211.02586v1)|null|
+|**2022-11-04**|**Eruption and propagation of twisted flux ropes from the base of the solar corona to 1 au**|F. Regnault et.al.|[2211.02569v1](http://arxiv.org/abs/2211.02569v1)|[2211.02569v1](http://arxiv.org/pdf/2211.02569v1)|null|
+|**2022-11-04**|**Coherent and incoherent structures in fuzzy dark matter halos**|I-Kang Liu et.al.|[2211.02565v1](http://arxiv.org/abs/2211.02565v1)|[2211.02565v1](http://arxiv.org/pdf/2211.02565v1)|null|
+|**2022-11-04**|**HD 20329b: An ultra-short-period planet around a solar-type star found by TESS**|F. Murgas et.al.|[2211.02547v1](http://arxiv.org/abs/2211.02547v1)|[2211.02547v1](http://arxiv.org/pdf/2211.02547v1)|null|
+|**2022-11-04**|**TDI noises transfer functions for LISA**|Dam Quang Nam et.al.|[2211.02539v1](http://arxiv.org/abs/2211.02539v1)|[2211.02539v1](http://arxiv.org/pdf/2211.02539v1)|null|
 |**2022-11-03**|**Fast and robust Bayesian Inference using Gaussian Processes with GPry**|Jonas El Gammal et.al.|[2211.02045v1](http://arxiv.org/abs/2211.02045v1)|[2211.02045v1](http://arxiv.org/pdf/2211.02045v1)|**[link](https://github.com/jonaselgammal/gpry)**|
 |**2022-11-03**|**Detecting galaxies in a large H{\sc i}~spectral cube**|Abinash Kumar Shaw et.al.|[2211.02041v1](http://arxiv.org/abs/2211.02041v1)|[2211.02041v1](http://arxiv.org/pdf/2211.02041v1)|null|
 |**2022-11-03**|**On the observability and identification of Population III galaxies with JWST**|James A. A. Trussler et.al.|[2211.02038v1](http://arxiv.org/abs/2211.02038v1)|[2211.02038v1](http://arxiv.org/pdf/2211.02038v1)|null|
@@ -939,6 +949,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-04**|**Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**|Gaurav Verma et.al.|[2211.02646v1](http://arxiv.org/abs/2211.02646v1)|[2211.02646v1](http://arxiv.org/pdf/2211.02646v1)|null|
+|**2022-11-04**|**A Theoretical Study on Solving Continual Learning**|Gyuhak Kim et.al.|[2211.02633v1](http://arxiv.org/abs/2211.02633v1)|[2211.02633v1](http://arxiv.org/pdf/2211.02633v1)|**[link](https://github.com/k-gyuhak/wptp)**|
+|**2022-11-04**|**A Ferroelectric Tunnel Junction-based Integrate-and-Fire Neuron**|Paolo Gibertini et.al.|[2211.02598v1](http://arxiv.org/abs/2211.02598v1)|[2211.02598v1](http://arxiv.org/pdf/2211.02598v1)|null|
+|**2022-11-04**|**Evaluating and Improving Factuality in Multimodal Abstractive Summarization**|David Wan et.al.|[2211.02580v1](http://arxiv.org/abs/2211.02580v1)|[2211.02580v1](http://arxiv.org/pdf/2211.02580v1)|**[link](https://github.com/meetdavidwan/faithful-multimodal-summ)**|
+|**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Images**|Luis Oala et.al.|[2211.02578v1](http://arxiv.org/abs/2211.02578v1)|[2211.02578v1](http://arxiv.org/pdf/2211.02578v1)|**[link](https://github.com/aiaudit-org/raw2logit)**|
+|**2022-11-04**|**Pushing AI to Wireless Network Edge: An Overview on Integrated Sensing, Communication, and Computation towards 6G**|Guangxu Zhu et.al.|[2211.02574v1](http://arxiv.org/abs/2211.02574v1)|[2211.02574v1](http://arxiv.org/pdf/2211.02574v1)|null|
+|**2022-11-04**|**Deep reinforcement learning for flow control exploits different physics for increasing Reynolds-number regimes**|Pau Varela et.al.|[2211.02572v1](http://arxiv.org/abs/2211.02572v1)|[2211.02572v1](http://arxiv.org/pdf/2211.02572v1)|null|
+|**2022-11-04**|**A Data-Driven Slip Estimation Approach for Effective Braking Control under Varying Road Conditions**|F. Crocetti et.al.|[2211.02558v1](http://arxiv.org/abs/2211.02558v1)|[2211.02558v1](http://arxiv.org/pdf/2211.02558v1)|null|
+|**2022-11-04**|**Beyond spiking networks: the computational advantages of dendritic amplification and input segregation**|Cristiano Capone et.al.|[2211.02553v1](http://arxiv.org/abs/2211.02553v1)|[2211.02553v1](http://arxiv.org/pdf/2211.02553v1)|null|
+|**2022-11-04**|**GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting**|Alexander Cui et.al.|[2211.02545v1](http://arxiv.org/abs/2211.02545v1)|[2211.02545v1](http://arxiv.org/pdf/2211.02545v1)|null|
 |**2022-11-03**|**Oracle Inequalities for Model Selection in Offline Reinforcement Learning**|Jonathan N. Lee et.al.|[2211.02016v1](http://arxiv.org/abs/2211.02016v1)|[2211.02016v1](http://arxiv.org/pdf/2211.02016v1)|null|
 |**2022-11-03**|**lilGym: Natural Language Visual Reasoning with Reinforcement Learning**|Anne Wu et.al.|[2211.01994v1](http://arxiv.org/abs/2211.01994v1)|[2211.01994v1](http://arxiv.org/pdf/2211.01994v1)|null|
 |**2022-11-03**|**Sybil-Proof Diffusion Auction in Social Networks**|Hongyin Chen et.al.|[2211.01984v1](http://arxiv.org/abs/2211.01984v1)|[2211.01984v1](http://arxiv.org/pdf/2211.01984v1)|null|
