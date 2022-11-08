@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-07**|**Foreground-immune CMB lensing reconstruction with polarization**|Noah Sailer et.al.|[2211.03786v1](http://arxiv.org/abs/2211.03786v1)|[2211.03786v1](http://arxiv.org/pdf/2211.03786v1)|null|
+|**2022-11-07**|**A Census of Outflow to Magnetic Field Orientations in Nearby Molecular Clouds**|Duo Xu et.al.|[2211.03781v1](http://arxiv.org/abs/2211.03781v1)|[2211.03781v1](http://arxiv.org/pdf/2211.03781v1)|null|
+|**2022-11-07**|**Perspective on Reversible to Irreversible Transitions in Periodic Driven Many Body Systems and Future Directions For Classical and Quantum Systems**|C. Reichhardt et.al.|[2211.03775v1](http://arxiv.org/abs/2211.03775v1)|[2211.03775v1](http://arxiv.org/pdf/2211.03775v1)|null|
+|**2022-11-07**|**LensWatch: I. Resolved HST Observations and Constraints on the Strongly-Lensed Type Ia Supernova 2022qmx ("SN Zwicky")**|J. D. R. Pierel et.al.|[2211.03772v1](http://arxiv.org/abs/2211.03772v1)|[2211.03772v1](http://arxiv.org/pdf/2211.03772v1)|null|
+|**2022-11-07**|**Optically thick, nonlocal, inhomogeneous, stationary jet model for high-energy radiation from blazars: Application to Mrk 421**|Piotr Banasinski et.al.|[2211.03762v1](http://arxiv.org/abs/2211.03762v1)|[2211.03762v1](http://arxiv.org/pdf/2211.03762v1)|null|
+|**2022-11-07**|**Monte Carlo Techniques for Addressing Large Errors and Missing Data in Simulation-based Inference**|Bingjie Wang et.al.|[2211.03747v1](http://arxiv.org/abs/2211.03747v1)|[2211.03747v1](http://arxiv.org/pdf/2211.03747v1)|null|
+|**2022-11-07**|**Dark Matter and Galactic Collisions, gravitational lensing and the apparatus of wimps under consideration**|R. Debnath et.al.|[2211.03738v1](http://arxiv.org/abs/2211.03738v1)|[2211.03738v1](http://arxiv.org/pdf/2211.03738v1)|null|
+|**2022-11-07**|**An improved MHD simulation of the 2006 December 13 coronal mass ejection of active region NOAA 10930**|Yuhong Fan et.al.|[2211.03736v1](http://arxiv.org/abs/2211.03736v1)|[2211.03736v1](http://arxiv.org/pdf/2211.03736v1)|null|
+|**2022-11-07**|**Dynamical mass measurements of two protoplanetary discs**|G. Lodato et.al.|[2211.03712v1](http://arxiv.org/abs/2211.03712v1)|[2211.03712v1](http://arxiv.org/pdf/2211.03712v1)|null|
+|**2022-11-07**|**Counting States: A Combinatorial Analysis of SQM Fragmentation**|A. Bernardo et.al.|[2211.03687v1](http://arxiv.org/abs/2211.03687v1)|[2211.03687v1](http://arxiv.org/pdf/2211.03687v1)|null|
 |**2022-11-04**|**Did JWST observe imprints of axion miniclusters or primordial black holes?**|Gert Hütsi et.al.|[2211.02651v1](http://arxiv.org/abs/2211.02651v1)|[2211.02651v1](http://arxiv.org/pdf/2211.02651v1)|null|
 |**2022-11-07**|**Evolution of the UV LF from z~15 to z~8 Using New JWST NIRCam Medium-Band Observations over the HUDF/XDF**|Rychard J. Bouwens et.al.|[2211.02607v2](http://arxiv.org/abs/2211.02607v2)|[2211.02607v2](http://arxiv.org/pdf/2211.02607v2)|null|
 |**2022-11-04**|**Study of Intra-Day Flux Distributions of Blazars Using XMM-Newton Satellite**|Kiran Wani et.al.|[2211.02606v1](http://arxiv.org/abs/2211.02606v1)|[2211.02606v1](http://arxiv.org/pdf/2211.02606v1)|null|
@@ -949,6 +959,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-07**|**Learning Visual Locomotion with Cross-Modal Supervision**|Antonio Loquercio et.al.|[2211.03785v1](http://arxiv.org/abs/2211.03785v1)|[2211.03785v1](http://arxiv.org/pdf/2211.03785v1)|null|
+|**2022-11-07**|**Issues and Challenges in Applications of Artificial Intelligence to Nuclear Medicine -- The Bethesda Report (AI Summit 2022)**|Arman Rahmim et.al.|[2211.03783v1](http://arxiv.org/abs/2211.03783v1)|[2211.03783v1](http://arxiv.org/pdf/2211.03783v1)|null|
+|**2022-11-07**|**On minimal variations for unsupervised representation learning**|Vivien Cabannes et.al.|[2211.03782v1](http://arxiv.org/abs/2211.03782v1)|[2211.03782v1](http://arxiv.org/pdf/2211.03782v1)|null|
+|**2022-11-07**|**Are AlphaZero-like Agents Robust to Adversarial Perturbations?**|Li-Cheng Lan et.al.|[2211.03769v1](http://arxiv.org/abs/2211.03769v1)|[2211.03769v1](http://arxiv.org/pdf/2211.03769v1)|null|
+|**2022-11-07**|**Multi-Task Learning Framework for Extracting Emotion Cause Span and Entailment in Conversations**|Ashwani Bhat et.al.|[2211.03742v1](http://arxiv.org/abs/2211.03742v1)|[2211.03742v1](http://arxiv.org/pdf/2211.03742v1)|null|
+|**2022-11-07**|**Streaming, fast and accurate on-device Inverse Text Normalization for Automatic Speech Recognition**|Yashesh Gaur et.al.|[2211.03721v1](http://arxiv.org/abs/2211.03721v1)|[2211.03721v1](http://arxiv.org/pdf/2211.03721v1)|null|
+|**2022-11-07**|**Metricizing the Euclidean Space towards Desired Distance Relations in Point Clouds**|Stefan Rass et.al.|[2211.03674v1](http://arxiv.org/abs/2211.03674v1)|[2211.03674v1](http://arxiv.org/pdf/2211.03674v1)|null|
+|**2022-11-07**|**Multilayer spintronic neural networks with radio-frequency connections**|Andrew Ross et.al.|[2211.03659v1](http://arxiv.org/abs/2211.03659v1)|[2211.03659v1](http://arxiv.org/pdf/2211.03659v1)|null|
+|**2022-11-07**|**On Pricing of Discrete Asian and Lookback Options under the Heston Model**|Leonardo Perotti et.al.|[2211.03638v1](http://arxiv.org/abs/2211.03638v1)|[2211.03638v1](http://arxiv.org/pdf/2211.03638v1)|null|
+|**2022-11-07**|**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**|Huiru Xiao et.al.|[2211.03635v1](http://arxiv.org/abs/2211.03635v1)|[2211.03635v1](http://arxiv.org/pdf/2211.03635v1)|**[link](https://github.com/hkust-knowcomp/complexhyperbolickge)**|
 |**2022-11-04**|**Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**|Gaurav Verma et.al.|[2211.02646v1](http://arxiv.org/abs/2211.02646v1)|[2211.02646v1](http://arxiv.org/pdf/2211.02646v1)|null|
 |**2022-11-04**|**A Theoretical Study on Solving Continual Learning**|Gyuhak Kim et.al.|[2211.02633v1](http://arxiv.org/abs/2211.02633v1)|[2211.02633v1](http://arxiv.org/pdf/2211.02633v1)|**[link](https://github.com/k-gyuhak/wptp)**|
 |**2022-11-04**|**A Ferroelectric Tunnel Junction-based Integrate-and-Fire Neuron**|Paolo Gibertini et.al.|[2211.02598v1](http://arxiv.org/abs/2211.02598v1)|[2211.02598v1](http://arxiv.org/pdf/2211.02598v1)|null|
