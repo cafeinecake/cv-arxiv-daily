@@ -1,11 +1,11 @@
-> Updated on 2022.11.08
+> Updated on 2022.11.09
 
 ## Astrophysics
 
 - 2022-11-07, **Foreground-immune CMB lensing reconstruction with polarization**, Noah Sailer et.al., Paper: [http://arxiv.org/abs/2211.03786v1](http://arxiv.org/abs/2211.03786v1), Paper: [http://arxiv.org/abs/2211.03786v1](http://arxiv.org/pdf/2211.03786v1)
 - 2022-11-07, **A Census of Outflow to Magnetic Field Orientations in Nearby Molecular Clouds**, Duo Xu et.al., Paper: [http://arxiv.org/abs/2211.03781v1](http://arxiv.org/abs/2211.03781v1), Paper: [http://arxiv.org/abs/2211.03781v1](http://arxiv.org/pdf/2211.03781v1)
 - 2022-11-07, **Perspective on Reversible to Irreversible Transitions in Periodic Driven Many Body Systems and Future Directions For Classical and Quantum Systems**, C. Reichhardt et.al., Paper: [http://arxiv.org/abs/2211.03775v1](http://arxiv.org/abs/2211.03775v1), Paper: [http://arxiv.org/abs/2211.03775v1](http://arxiv.org/pdf/2211.03775v1)
-- 2022-11-07, **LensWatch: I. Resolved HST Observations and Constraints on the Strongly-Lensed Type Ia Supernova 2022qmx ("SN Zwicky")**, J. D. R. Pierel et.al., Paper: [http://arxiv.org/abs/2211.03772v1](http://arxiv.org/abs/2211.03772v1), Paper: [http://arxiv.org/abs/2211.03772v1](http://arxiv.org/pdf/2211.03772v1)
+- 2022-11-08, **LensWatch: I. Resolved HST Observations and Constraints on the Strongly-Lensed Type Ia Supernova 2022qmx ("SN Zwicky")**, J. D. R. Pierel et.al., Paper: [http://arxiv.org/abs/2211.03772v2](http://arxiv.org/abs/2211.03772v2), Paper: [http://arxiv.org/abs/2211.03772v2](http://arxiv.org/pdf/2211.03772v2)
 - 2022-11-07, **Optically thick, nonlocal, inhomogeneous, stationary jet model for high-energy radiation from blazars: Application to Mrk 421**, Piotr Banasinski et.al., Paper: [http://arxiv.org/abs/2211.03762v1](http://arxiv.org/abs/2211.03762v1), Paper: [http://arxiv.org/abs/2211.03762v1](http://arxiv.org/pdf/2211.03762v1)
 - 2022-11-07, **Monte Carlo Techniques for Addressing Large Errors and Missing Data in Simulation-based Inference**, Bingjie Wang et.al., Paper: [http://arxiv.org/abs/2211.03747v1](http://arxiv.org/abs/2211.03747v1), Paper: [http://arxiv.org/abs/2211.03747v1](http://arxiv.org/pdf/2211.03747v1)
 - 2022-11-07, **Dark Matter and Galactic Collisions, gravitational lensing and the apparatus of wimps under consideration**, R. Debnath et.al., Paper: [http://arxiv.org/abs/2211.03738v1](http://arxiv.org/abs/2211.03738v1), Paper: [http://arxiv.org/abs/2211.03738v1](http://arxiv.org/pdf/2211.03738v1)
