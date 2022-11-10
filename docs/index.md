@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.09
+## Updated on 2022.11.10
 
 ## Astrophysics
 
@@ -13,7 +13,7 @@ layout: default
 |**2022-11-08**|**Developing a data fusion concept for radar and optical ground based SST station**|Bruno Coelho et.al.|[2211.04443v1](http://arxiv.org/abs/2211.04443v1)|[2211.04443v1](http://arxiv.org/pdf/2211.04443v1)|null|
 |**2022-11-08**|**Double-copy towards supergravity inflation with $α$-attractor models**|John Joseph M. Carrasco et.al.|[2211.04441v1](http://arxiv.org/abs/2211.04441v1)|[2211.04441v1](http://arxiv.org/pdf/2211.04441v1)|null|
 |**2022-11-08**|**Experimental Characterization of the Energetics of Low-temperature Surface Reactions**|Thomas K. Henning et.al.|[2211.04437v1](http://arxiv.org/abs/2211.04437v1)|[2211.04437v1](http://arxiv.org/pdf/2211.04437v1)|null|
-|**2022-11-08**|**The Interaction of Supernova 2018evt with a Substantial Amount of Circumstellar Matter - An SN1997cy-like Event**|Yi Yang et.al.|[2211.04423v1](http://arxiv.org/abs/2211.04423v1)|[2211.04423v1](http://arxiv.org/pdf/2211.04423v1)|null|
+|**2022-11-08**|**The Interaction of Supernova 2018evt with a Substantial Amount of Circumstellar Matter -- An SN1997cy-like Event**|Yi Yang et.al.|[2211.04423v1](http://arxiv.org/abs/2211.04423v1)|[2211.04423v1](http://arxiv.org/pdf/2211.04423v1)|null|
 |**2022-11-08**|**Formation of metal-free binaries: Impact of H$_{2}$ line cooling and CIE cooling**|Rafeel Riaz et.al.|[2211.04413v1](http://arxiv.org/abs/2211.04413v1)|[2211.04413v1](http://arxiv.org/pdf/2211.04413v1)|null|
 |**2022-11-08**|**Automated detection of coronaL MAss ejecta origiNs for space weather AppliCations (ALMANAC)**|Thomas Williams et.al.|[2211.04405v1](http://arxiv.org/abs/2211.04405v1)|[2211.04405v1](http://arxiv.org/pdf/2211.04405v1)|null|
 |**2022-11-08**|**Unexpected Long-Term Variability in Jupiter's Tropospheric Temperatures**|Glenn S. Orton et.al.|[2211.04398v1](http://arxiv.org/abs/2211.04398v1)|[2211.04398v1](http://arxiv.org/pdf/2211.04398v1)|null|
