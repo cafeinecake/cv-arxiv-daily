@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-10**|**Morphological signatures of mergers in the TNG50 simulation and the Kilo-Degree Survey: the merger fraction from dwarfs to Milky Way-like galaxies**|Alejandro Guzmán-Ortega et.al.|[2211.05785v1](http://arxiv.org/abs/2211.05785v1)|[2211.05785v1](http://arxiv.org/pdf/2211.05785v1)|null|
+|**2022-11-10**|**MGLenS: Modified gravity weak lensing simulations for emulation-based cosmological inference**|Joachim Harnois-Déraps et.al.|[2211.05779v1](http://arxiv.org/abs/2211.05779v1)|[2211.05779v1](http://arxiv.org/pdf/2211.05779v1)|null|
+|**2022-11-10**|**Snowmass Theory Frontier Report**|N. Craig et.al.|[2211.05772v1](http://arxiv.org/abs/2211.05772v1)|[2211.05772v1](http://arxiv.org/pdf/2211.05772v1)|null|
+|**2022-11-10**|**Primordial Black Holes**|Albert Escrivà et.al.|[2211.05767v1](http://arxiv.org/abs/2211.05767v1)|[2211.05767v1](http://arxiv.org/pdf/2211.05767v1)|null|
+|**2022-11-10**|**The effects of dark energy on the propagation of gravitational waves**|Antonio Enea Romano et.al.|[2211.05760v1](http://arxiv.org/abs/2211.05760v1)|[2211.05760v1](http://arxiv.org/pdf/2211.05760v1)|null|
+|**2022-11-10**|**Testing velocity kinks as a planet-detection method: Do velocity kinks in surface gas emission trace planetary spiral wakes in the midplane continuum?**|Jessica Speedie et.al.|[2211.05757v1](http://arxiv.org/abs/2211.05757v1)|[2211.05757v1](http://arxiv.org/pdf/2211.05757v1)|null|
+|**2022-11-10**|**External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A**|B. Theodore Zhang et.al.|[2211.05754v1](http://arxiv.org/abs/2211.05754v1)|[2211.05754v1](http://arxiv.org/pdf/2211.05754v1)|null|
+|**2022-11-10**|**Identification of Large Equivalent Width Dusty Galaxies at 4 $<$ z $<$ 6 from Sub-mm Colours**|Denis Burgarella et.al.|[2211.05744v1](http://arxiv.org/abs/2211.05744v1)|[2211.05744v1](http://arxiv.org/pdf/2211.05744v1)|null|
+|**2022-11-10**|**Relaxing cosmological tensions with a sign switching cosmological constant: Improved results with Planck, BAO and Pantheon data**|Ozgur Akarsu et.al.|[2211.05742v1](http://arxiv.org/abs/2211.05742v1)|[2211.05742v1](http://arxiv.org/pdf/2211.05742v1)|null|
+|**2022-11-10**|**MIGHTEE: Deep 1.4 GHz Source Counts and the Sky Temperature Contribution of Star Forming Galaxies and Active Galactic Nuclei**|C. L. Hale et.al.|[2211.05741v1](http://arxiv.org/abs/2211.05741v1)|[2211.05741v1](http://arxiv.org/pdf/2211.05741v1)|null|
 |**2022-11-09**|**Regulation of Star Formation by a Hot Circumgalactic Medium**|Christopher Carr et.al.|[2211.05115v1](http://arxiv.org/abs/2211.05115v1)|[2211.05115v1](http://arxiv.org/pdf/2211.05115v1)|null|
 |**2022-11-09**|**Asynchronous accretion can mimic diverse white dwarf pollutants I: core and mantle fragments**|Marc G. Brouwers et.al.|[2211.05114v1](http://arxiv.org/abs/2211.05114v1)|[2211.05114v1](http://arxiv.org/pdf/2211.05114v1)|null|
 |**2022-11-09**|**Asynchronous accretion can mimic diverse white dwarf pollutants II: water content**|Marc G. Brouwers et.al.|[2211.05113v1](http://arxiv.org/abs/2211.05113v1)|[2211.05113v1](http://arxiv.org/pdf/2211.05113v1)|null|
@@ -983,6 +993,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-10**|**Hybrid quantum neural network for drug response prediction**|Asel Sagingalieva et.al.|[2211.05777v1](http://arxiv.org/abs/2211.05777v1)|[2211.05777v1](http://arxiv.org/pdf/2211.05777v1)|null|
+|**2022-11-10**|**StyleNAT: Giving Each Head a New Perspective**|Steven Walton et.al.|[2211.05770v1](http://arxiv.org/abs/2211.05770v1)|[2211.05770v1](http://arxiv.org/pdf/2211.05770v1)|**[link](https://github.com/SHI-Labs/StyleNAT)**|
+|**2022-11-10**|**Triplet Cooper pair splitting in a two-dimensional electron gas**|Qingzhen Wang et.al.|[2211.05763v1](http://arxiv.org/abs/2211.05763v1)|[2211.05763v1](http://arxiv.org/pdf/2211.05763v1)|null|
+|**2022-11-10**|**Magneto-electric coupling and magnetism in photonic crystals: A high-order homogenization approach in the constitutive equations**|B. Gralak et.al.|[2211.05735v1](http://arxiv.org/abs/2211.05735v1)|[2211.05735v1](http://arxiv.org/pdf/2211.05735v1)|null|
+|**2022-11-10**|**The Sample Complexity of Online Contract Design**|Banghua Zhu et.al.|[2211.05732v1](http://arxiv.org/abs/2211.05732v1)|[2211.05732v1](http://arxiv.org/pdf/2211.05732v1)|null|
+|**2022-11-10**|**NEON: Enabling Efficient Support for Nonlinear Operations in Resistive RAM-based Neural Network Accelerators**|Aditya Manglik et.al.|[2211.05730v1](http://arxiv.org/abs/2211.05730v1)|[2211.05730v1](http://arxiv.org/pdf/2211.05730v1)|null|
+|**2022-11-10**|**Quantum Power Flows: From Theory to Practice**|Junyu Liu et.al.|[2211.05728v1](http://arxiv.org/abs/2211.05728v1)|[2211.05728v1](http://arxiv.org/pdf/2211.05728v1)|null|
+|**2022-11-10**|**MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation**|Jiazhan Feng et.al.|[2211.05719v1](http://arxiv.org/abs/2211.05719v1)|[2211.05719v1](http://arxiv.org/pdf/2211.05719v1)|**[link](https://github.com/victorsungo/mmdialog)**|
+|**2022-11-10**|**Critique of optical coherence tomography in epistemological metrology**|Yoshiaki Yasuno et.al.|[2211.05707v1](http://arxiv.org/abs/2211.05707v1)|[2211.05707v1](http://arxiv.org/pdf/2211.05707v1)|null|
+|**2022-11-10**|**BERT in Plutarch's Shadows**|Ivan P. Yamshchikov et.al.|[2211.05673v1](http://arxiv.org/abs/2211.05673v1)|[2211.05673v1](http://arxiv.org/pdf/2211.05673v1)|null|
 |**2022-11-09**|**Large Language Models with Controllable Working Memory**|Daliang Li et.al.|[2211.05110v1](http://arxiv.org/abs/2211.05110v1)|[2211.05110v1](http://arxiv.org/pdf/2211.05110v1)|null|
 |**2022-11-09**|**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**|Patrick Schramowski et.al.|[2211.05105v1](http://arxiv.org/abs/2211.05105v1)|[2211.05105v1](http://arxiv.org/pdf/2211.05105v1)|**[link](https://github.com/ml-research/safe-latent-diffusion)**|
 |**2022-11-09**|**Cross-lingual Transfer Learning for Check-worthy Claim Identification over Twitter**|Maram Hasanain et.al.|[2211.05087v1](http://arxiv.org/abs/2211.05087v1)|[2211.05087v1](http://arxiv.org/pdf/2211.05087v1)|null|
