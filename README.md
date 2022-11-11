@@ -1,4 +1,4 @@
-## Updated on 2022.11.10
+## Updated on 2022.11.11
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@
 |**2022-11-09**|**Statistical recovery of 21cm visibilities and their power spectra with Gaussian constrained realisations and Gibbs sampling**|Fraser Kennedy et.al.|[2211.05088v1](http://arxiv.org/abs/2211.05088v1)|[2211.05088v1](http://arxiv.org/pdf/2211.05088v1)|null|
 |**2022-11-09**|**Chemically Peculiar Stars in Integrated Light Stellar Population Models and Local Group Galaxies**|Guy Worthey et.al.|[2211.05083v1](http://arxiv.org/abs/2211.05083v1)|[2211.05083v1](http://arxiv.org/pdf/2211.05083v1)|null|
 |**2022-11-09**|**Axion-pion thermalization rate in unitarized NLO chiral perturbation theory**|Luca Di Luzio et.al.|[2211.05073v1](http://arxiv.org/abs/2211.05073v1)|[2211.05073v1](http://arxiv.org/pdf/2211.05073v1)|null|
-|**2022-11-09**|**Test of Artificial Neural Networks in Likelihood-free Cosmological Constraints: A Comparison of IMNN and DAE**|JieFeng Chen et.al.|[2211.05064v1](http://arxiv.org/abs/2211.05064v1)|[2211.05064v1](http://arxiv.org/pdf/2211.05064v1)|null|
+|**2022-11-10**|**Test of Artificial Neural Networks in Likelihood-free Cosmological Constraints: A Comparison of IMNN and DAE**|JieFeng Chen et.al.|[2211.05064v2](http://arxiv.org/abs/2211.05064v2)|[2211.05064v2](http://arxiv.org/pdf/2211.05064v2)|null|
 |**2022-11-09**|**Warm Inflation in $f(R,T)$ gravity**|Biswajit Deb et.al.|[2211.05059v1](http://arxiv.org/abs/2211.05059v1)|[2211.05059v1](http://arxiv.org/pdf/2211.05059v1)|null|
 |**2022-11-08**|**Triple evolution: an important channel in the formation of type Ia supernovae**|Abinaya Swaruba Rajamuthukumar et.al.|[2211.04463v1](http://arxiv.org/abs/2211.04463v1)|[2211.04463v1](http://arxiv.org/pdf/2211.04463v1)|null|
 |**2022-11-08**|**Hidden Hearts of Neutrino Active Galaxies**|Kohta Murase et.al.|[2211.04460v1](http://arxiv.org/abs/2211.04460v1)|[2211.04460v1](http://arxiv.org/pdf/2211.04460v1)|null|
@@ -982,12 +982,12 @@
 |**2022-11-09**|**Large Language Models with Controllable Working Memory**|Daliang Li et.al.|[2211.05110v1](http://arxiv.org/abs/2211.05110v1)|[2211.05110v1](http://arxiv.org/pdf/2211.05110v1)|null|
 |**2022-11-09**|**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**|Patrick Schramowski et.al.|[2211.05105v1](http://arxiv.org/abs/2211.05105v1)|[2211.05105v1](http://arxiv.org/pdf/2211.05105v1)|**[link](https://github.com/ml-research/safe-latent-diffusion)**|
 |**2022-11-09**|**Cross-lingual Transfer Learning for Check-worthy Claim Identification over Twitter**|Maram Hasanain et.al.|[2211.05087v1](http://arxiv.org/abs/2211.05087v1)|[2211.05087v1](http://arxiv.org/pdf/2211.05087v1)|null|
-|**2022-11-09**|**Test of Artificial Neural Networks in Likelihood-free Cosmological Constraints: A Comparison of IMNN and DAE**|JieFeng Chen et.al.|[2211.05064v1](http://arxiv.org/abs/2211.05064v1)|[2211.05064v1](http://arxiv.org/pdf/2211.05064v1)|null|
+|**2022-11-10**|**Test of Artificial Neural Networks in Likelihood-free Cosmological Constraints: A Comparison of IMNN and DAE**|JieFeng Chen et.al.|[2211.05064v2](http://arxiv.org/abs/2211.05064v2)|[2211.05064v2](http://arxiv.org/pdf/2211.05064v2)|null|
 |**2022-11-09**|**In-memory factorization of holographic perceptual representations**|Jovin Langenegger et.al.|[2211.05052v1](http://arxiv.org/abs/2211.05052v1)|[2211.05052v1](http://arxiv.org/pdf/2211.05052v1)|null|
 |**2022-11-09**|**A Comparative Study of Data Augmentation Techniques for Deep Learning Based Emotion Recognition**|Ravi Shankar et.al.|[2211.05047v1](http://arxiv.org/abs/2211.05047v1)|[2211.05047v1](http://arxiv.org/pdf/2211.05047v1)|null|
-|**2022-11-09**|**What is Wrong with Language Models that Can Not Tell a Story?**|Ivan P. Yamshchikov et.al.|[2211.05044v1](http://arxiv.org/abs/2211.05044v1)|[2211.05044v1](http://arxiv.org/pdf/2211.05044v1)|null|
+|**2022-11-10**|**What is Wrong with Language Models that Can Not Tell a Story?**|Ivan P. Yamshchikov et.al.|[2211.05044v2](http://arxiv.org/abs/2211.05044v2)|[2211.05044v2](http://arxiv.org/pdf/2211.05044v2)|null|
 |**2022-11-09**|**Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task**|Jannik Kossen et.al.|[2211.05039v1](http://arxiv.org/abs/2211.05039v1)|[2211.05039v1](http://arxiv.org/pdf/2211.05039v1)|null|
-|**2022-11-09**|**The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**|Matthew Aquilina et.al.|[2211.05018v1](http://arxiv.org/abs/2211.05018v1)|[2211.05018v1](http://arxiv.org/pdf/2211.05018v1)|**[link](https://github.com/um-dsrg/rumpy)**|
+|**2022-11-09**|**The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**|Matthew Aquilina et.al.|[2211.05018v1](http://arxiv.org/abs/2211.05018v1)|[2211.05018v1](http://arxiv.org/pdf/2211.05018v1)|null|
 |**2022-11-09**|**RL-DWA Omnidirectional Motion Planning for Person Following in Domestic Assistance and Monitoring**|Andrea Eirale et.al.|[2211.04993v1](http://arxiv.org/abs/2211.04993v1)|[2211.04993v1](http://arxiv.org/pdf/2211.04993v1)|null|
 |**2022-11-08**|**A study on the ephemeral nature of knowledge shared within multiagent systems**|Sanjay Sarma Oruganti Venkata et.al.|[2211.04433v1](http://arxiv.org/abs/2211.04433v1)|[2211.04433v1](http://arxiv.org/pdf/2211.04433v1)|null|
 |**2022-11-08**|**A half-century of international research collaboration dynamism: Congregate or disperse?**|Keisuke Okamura et.al.|[2211.04429v1](http://arxiv.org/abs/2211.04429v1)|[2211.04429v1](http://arxiv.org/pdf/2211.04429v1)|null|
