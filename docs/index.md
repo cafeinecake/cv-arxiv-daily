@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-11**|**Gravitational Waves from Feebly Interacting Particles in a First Order Phase Transition**|Ryusuke Jinno et.al.|[2211.06405v1](http://arxiv.org/abs/2211.06405v1)|[2211.06405v1](http://arxiv.org/pdf/2211.06405v1)|null|
+|**2022-11-11**|**Axisymmetric smoothed particle magneto-hydrodynamics**|Domingo García-Senz et.al.|[2211.06399v1](http://arxiv.org/abs/2211.06399v1)|[2211.06399v1](http://arxiv.org/pdf/2211.06399v1)|null|
+|**2022-11-11**|**On general correlation between 3D solar wind speed and density model and solar proxies**|C. Porowski et.al.|[2211.06395v1](http://arxiv.org/abs/2211.06395v1)|[2211.06395v1](http://arxiv.org/pdf/2211.06395v1)|null|
+|**2022-11-11**|**Using machine learning to compress the matter transfer function $T(k)$**|J. Bayron Orjuela-Quintana et.al.|[2211.06393v1](http://arxiv.org/abs/2211.06393v1)|[2211.06393v1](http://arxiv.org/pdf/2211.06393v1)|null|
+|**2022-11-11**|**Close TNO Passages as a Driver of the Origin and Evolution of Ultra-Wide Kuiper Belt Binaries**|Hunter M. Campbell et.al.|[2211.06383v1](http://arxiv.org/abs/2211.06383v1)|[2211.06383v1](http://arxiv.org/pdf/2211.06383v1)|null|
+|**2022-11-11**|**Probing Axions through Tomography of Anisotropic Cosmic Birefringence**|Alessandro Greco et.al.|[2211.06380v1](http://arxiv.org/abs/2211.06380v1)|[2211.06380v1](http://arxiv.org/pdf/2211.06380v1)|null|
+|**2022-11-11**|**The unaltered pulsar: GRO J1750-27, a super-critical X-ray neutron star that does not blink an eye**|C. Malacaria et.al.|[2211.06367v1](http://arxiv.org/abs/2211.06367v1)|[2211.06367v1](http://arxiv.org/pdf/2211.06367v1)|null|
+|**2022-11-11**|**Comparative Analysis of TRGBs (CATs) from Unsupervised, Multi-Halo-Field Measurements: Contrast is Key**|J. Wu et.al.|[2211.06354v1](http://arxiv.org/abs/2211.06354v1)|[2211.06354v1](http://arxiv.org/pdf/2211.06354v1)|null|
+|**2022-11-11**|**On the lithium abundance of the visual binary components $ξ$ Boo A (G8V) and $ξ$ Boo B (K5V)**|Klaus G. Strassmeier et.al.|[2211.06336v1](http://arxiv.org/abs/2211.06336v1)|[2211.06336v1](http://arxiv.org/pdf/2211.06336v1)|null|
+|**2022-11-11**|**A Pop III generated dust screen at z~16**|Fulvio Melia et.al.|[2211.06316v1](http://arxiv.org/abs/2211.06316v1)|[2211.06316v1](http://arxiv.org/pdf/2211.06316v1)|null|
 |**2022-11-10**|**Morphological signatures of mergers in the TNG50 simulation and the Kilo-Degree Survey: the merger fraction from dwarfs to Milky Way-like galaxies**|Alejandro Guzmán-Ortega et.al.|[2211.05785v1](http://arxiv.org/abs/2211.05785v1)|[2211.05785v1](http://arxiv.org/pdf/2211.05785v1)|null|
 |**2022-11-10**|**MGLenS: Modified gravity weak lensing simulations for emulation-based cosmological inference**|Joachim Harnois-Déraps et.al.|[2211.05779v1](http://arxiv.org/abs/2211.05779v1)|[2211.05779v1](http://arxiv.org/pdf/2211.05779v1)|null|
 |**2022-11-10**|**Snowmass Theory Frontier Report**|N. Craig et.al.|[2211.05772v1](http://arxiv.org/abs/2211.05772v1)|[2211.05772v1](http://arxiv.org/pdf/2211.05772v1)|null|
@@ -993,6 +1003,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-11**|**Capabilities for Better ML Engineering**|Chenyang Yang et.al.|[2211.06409v1](http://arxiv.org/abs/2211.06409v1)|[2211.06409v1](http://arxiv.org/pdf/2211.06409v1)|null|
+|**2022-11-11**|**Control Transformer: Robot Navigation in Unknown Environments through PRM-Guided Return-Conditioned Sequence Modeling**|Daniel Lawson et.al.|[2211.06407v1](http://arxiv.org/abs/2211.06407v1)|[2211.06407v1](http://arxiv.org/pdf/2211.06407v1)|null|
+|**2022-11-11**|**Behaviour Trees for Conversational Explanation Experiences**|Anjana Wijekoon et.al.|[2211.06402v1](http://arxiv.org/abs/2211.06402v1)|[2211.06402v1](http://arxiv.org/pdf/2211.06402v1)|null|
+|**2022-11-11**|**STAR: A Session-Based Time-Aware Recommender System**|Reza Yeganegi et.al.|[2211.06394v1](http://arxiv.org/abs/2211.06394v1)|[2211.06394v1](http://arxiv.org/pdf/2211.06394v1)|null|
+|**2022-11-11**|**Global and Local Analysis of Interestingness for Competency-Aware Deep Reinforcement Learning**|Pedro Sequeira et.al.|[2211.06376v1](http://arxiv.org/abs/2211.06376v1)|[2211.06376v1](http://arxiv.org/pdf/2211.06376v1)|null|
+|**2022-11-11**|**Adaptive Programmable Networks for In Materia Neuromorphic Computing**|Kilian D. Stenning et.al.|[2211.06373v1](http://arxiv.org/abs/2211.06373v1)|[2211.06373v1](http://arxiv.org/pdf/2211.06373v1)|null|
+|**2022-11-11**|**Situating Recommender Systems in Practice: Towards Inductive Learning and Incremental Updates**|Tobias Schnabel et.al.|[2211.06365v1](http://arxiv.org/abs/2211.06365v1)|[2211.06365v1](http://arxiv.org/pdf/2211.06365v1)|null|
+|**2022-11-11**|**Emergency action termination for immediate reaction in hierarchical reinforcement learning**|Michał Bortkiewicz et.al.|[2211.06351v1](http://arxiv.org/abs/2211.06351v1)|[2211.06351v1](http://arxiv.org/pdf/2211.06351v1)|null|
+|**2022-11-11**|**Runtime data center temperature prediction using Grammatical Evolution techniques**|Marina Zapater et.al.|[2211.06329v1](http://arxiv.org/abs/2211.06329v1)|[2211.06329v1](http://arxiv.org/pdf/2211.06329v1)|null|
+|**2022-11-11**|**Do Bayesian Neural Networks Need To Be Fully Stochastic?**|Mrinank Sharma et.al.|[2211.06291v1](http://arxiv.org/abs/2211.06291v1)|[2211.06291v1](http://arxiv.org/pdf/2211.06291v1)|null|
 |**2022-11-10**|**Hybrid quantum neural network for drug response prediction**|Asel Sagingalieva et.al.|[2211.05777v1](http://arxiv.org/abs/2211.05777v1)|[2211.05777v1](http://arxiv.org/pdf/2211.05777v1)|null|
 |**2022-11-10**|**StyleNAT: Giving Each Head a New Perspective**|Steven Walton et.al.|[2211.05770v1](http://arxiv.org/abs/2211.05770v1)|[2211.05770v1](http://arxiv.org/pdf/2211.05770v1)|**[link](https://github.com/SHI-Labs/StyleNAT)**|
 |**2022-11-10**|**Triplet Cooper pair splitting in a two-dimensional electron gas**|Qingzhen Wang et.al.|[2211.05763v1](http://arxiv.org/abs/2211.05763v1)|[2211.05763v1](http://arxiv.org/pdf/2211.05763v1)|null|
