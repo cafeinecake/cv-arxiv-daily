@@ -1,4 +1,4 @@
-## Updated on 2022.11.13
+## Updated on 2022.11.14
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 |**2022-11-10**|**Primordial Black Holes**|Albert Escrivà et.al.|[2211.05767v1](http://arxiv.org/abs/2211.05767v1)|[2211.05767v1](http://arxiv.org/pdf/2211.05767v1)|null|
 |**2022-11-10**|**The effects of dark energy on the propagation of gravitational waves**|Antonio Enea Romano et.al.|[2211.05760v1](http://arxiv.org/abs/2211.05760v1)|[2211.05760v1](http://arxiv.org/pdf/2211.05760v1)|null|
 |**2022-11-10**|**Testing velocity kinks as a planet-detection method: Do velocity kinks in surface gas emission trace planetary spiral wakes in the midplane continuum?**|Jessica Speedie et.al.|[2211.05757v1](http://arxiv.org/abs/2211.05757v1)|[2211.05757v1](http://arxiv.org/pdf/2211.05757v1)|null|
-|**2022-11-10**|**External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A**|B. Theodore Zhang et.al.|[2211.05754v1](http://arxiv.org/abs/2211.05754v1)|[2211.05754v1](http://arxiv.org/pdf/2211.05754v1)|null|
+|**2022-11-11**|**External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A**|B. Theodore Zhang et.al.|[2211.05754v2](http://arxiv.org/abs/2211.05754v2)|[2211.05754v2](http://arxiv.org/pdf/2211.05754v2)|null|
 |**2022-11-10**|**Identification of Large Equivalent Width Dusty Galaxies at 4 $<$ z $<$ 6 from Sub-mm Colours**|Denis Burgarella et.al.|[2211.05744v1](http://arxiv.org/abs/2211.05744v1)|[2211.05744v1](http://arxiv.org/pdf/2211.05744v1)|null|
 |**2022-11-10**|**Relaxing cosmological tensions with a sign switching cosmological constant: Improved results with Planck, BAO and Pantheon data**|Ozgur Akarsu et.al.|[2211.05742v1](http://arxiv.org/abs/2211.05742v1)|[2211.05742v1](http://arxiv.org/pdf/2211.05742v1)|null|
 |**2022-11-10**|**MIGHTEE: Deep 1.4 GHz Source Counts and the Sky Temperature Contribution of Star Forming Galaxies and Active Galactic Nuclei**|C. L. Hale et.al.|[2211.05741v1](http://arxiv.org/abs/2211.05741v1)|[2211.05741v1](http://arxiv.org/pdf/2211.05741v1)|null|
