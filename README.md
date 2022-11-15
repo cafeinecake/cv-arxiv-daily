@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-14**|**Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation**|Kenta Kiuchi et.al.|[2211.07637v1](http://arxiv.org/abs/2211.07637v1)|[2211.07637v1](http://arxiv.org/pdf/2211.07637v1)|null|
+|**2022-11-14**|**Limits on Leptonic TeV Emission from the Cygnus Cocoon with Swift-XRT**|David Guevel et.al.|[2211.07617v1](http://arxiv.org/abs/2211.07617v1)|[2211.07617v1](http://arxiv.org/pdf/2211.07617v1)|null|
+|**2022-11-14**|**Constraining accuracy of pairwise velocities using scale-free models**|Sara Maleubre et.al.|[2211.07607v1](http://arxiv.org/abs/2211.07607v1)|[2211.07607v1](http://arxiv.org/pdf/2211.07607v1)|null|
+|**2022-11-14**|**The SNAD Viewer: Everything You Want to Know about Your Favorite ZTF Object**|Konstantin Malanchev et.al.|[2211.07605v1](http://arxiv.org/abs/2211.07605v1)|[2211.07605v1](http://arxiv.org/pdf/2211.07605v1)|null|
+|**2022-11-14**|**Cosmic decoherence: primordial power spectra and non-Gaussianities**|Aoumeur Daddi Hammou et.al.|[2211.07598v1](http://arxiv.org/abs/2211.07598v1)|[2211.07598v1](http://arxiv.org/pdf/2211.07598v1)|null|
+|**2022-11-14**|**Combining magneto-hydrostatic constraints with Stokes profiles inversions. III. Uncertainty in the inference of electric currents**|J. M. Borrero et.al.|[2211.07593v1](http://arxiv.org/abs/2211.07593v1)|[2211.07593v1](http://arxiv.org/pdf/2211.07593v1)|null|
+|**2022-11-14**|**Quijote-PNG: Quasi-maximum likelihood estimation of Primordial Non-Gaussianity in the non-linear halo density field**|Gabriel Jung et.al.|[2211.07565v1](http://arxiv.org/abs/2211.07565v1)|[2211.07565v1](http://arxiv.org/pdf/2211.07565v1)|null|
+|**2022-11-14**|**Minkowski Functionals of CMB polarisation intensity with Pynkowski: theory and application to Planck data**|Alessandro Carones et.al.|[2211.07562v1](http://arxiv.org/abs/2211.07562v1)|[2211.07562v1](http://arxiv.org/pdf/2211.07562v1)|null|
+|**2022-11-14**|**Review of the online analyses of multi-messenger alerts and electromagnetic transient events with the ANTARES neutrino telescope**|A. Albert et.al.|[2211.07551v1](http://arxiv.org/abs/2211.07551v1)|[2211.07551v1](http://arxiv.org/pdf/2211.07551v1)|null|
+|**2022-11-14**|**FLARES VIII. The Emergence of Passive Galaxies in the Early Universe ($z > 5$)**|Christopher C. Lovell et.al.|[2211.07540v1](http://arxiv.org/abs/2211.07540v1)|[2211.07540v1](http://arxiv.org/pdf/2211.07540v1)|null|
 |**2022-11-11**|**Gravitational Waves from Feebly Interacting Particles in a First Order Phase Transition**|Ryusuke Jinno et.al.|[2211.06405v1](http://arxiv.org/abs/2211.06405v1)|[2211.06405v1](http://arxiv.org/pdf/2211.06405v1)|null|
 |**2022-11-11**|**Axisymmetric smoothed particle magneto-hydrodynamics**|Domingo García-Senz et.al.|[2211.06399v1](http://arxiv.org/abs/2211.06399v1)|[2211.06399v1](http://arxiv.org/pdf/2211.06399v1)|null|
 |**2022-11-11**|**On general correlation between 3D solar wind speed and density model and solar proxies**|C. Porowski et.al.|[2211.06395v1](http://arxiv.org/abs/2211.06395v1)|[2211.06395v1](http://arxiv.org/pdf/2211.06395v1)|null|
@@ -999,6 +1009,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-14**|**Legged Locomotion in Challenging Terrains using Egocentric Vision**|Ananye Agarwal et.al.|[2211.07638v1](http://arxiv.org/abs/2211.07638v1)|[2211.07638v1](http://arxiv.org/pdf/2211.07638v1)|null|
+|**2022-11-14**|**Redeeming Intrinsic Rewards via Constrained Optimization**|Eric Chen et.al.|[2211.07627v1](http://arxiv.org/abs/2211.07627v1)|[2211.07627v1](http://arxiv.org/pdf/2211.07627v1)|**[link](https://github.com/improbable-ai/eipo)**|
+|**2022-11-14**|**What Images are More Memorable to Machines?**|Junlin Han et.al.|[2211.07625v1](http://arxiv.org/abs/2211.07625v1)|[2211.07625v1](http://arxiv.org/pdf/2211.07625v1)|**[link](https://github.com/junlinhan/machinemem)**|
+|**2022-11-14**|**Towards a Mathematics Formalisation Assistant using Large Language Models**|Ayush Agrawal et.al.|[2211.07524v1](http://arxiv.org/abs/2211.07524v1)|[2211.07524v1](http://arxiv.org/pdf/2211.07524v1)|null|
+|**2022-11-14**|**Learning to Answer Multilingual and Code-Mixed Questions**|Deepak Gupta et.al.|[2211.07522v1](http://arxiv.org/abs/2211.07522v1)|[2211.07522v1](http://arxiv.org/pdf/2211.07522v1)|null|
+|**2022-11-14**|**Adaptive search space decomposition method for pre- and post- buckling analyses of space truss structures**|Varun Ojha et.al.|[2211.07519v1](http://arxiv.org/abs/2211.07519v1)|[2211.07519v1](http://arxiv.org/pdf/2211.07519v1)|null|
+|**2022-11-14**|**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**|Swarnadeep Saha et.al.|[2211.07517v1](http://arxiv.org/abs/2211.07517v1)|[2211.07517v1](http://arxiv.org/pdf/2211.07517v1)|**[link](https://github.com/swarnahub/explanationhardness)**|
+|**2022-11-14**|**On Analyzing the Role of Image for Visual-enhanced Relation Extraction**|Lei Li et.al.|[2211.07504v1](http://arxiv.org/abs/2211.07504v1)|[2211.07504v1](http://arxiv.org/pdf/2211.07504v1)|**[link](https://github.com/zjunlp/DeepKE/tree/main/example/re/multimodal)**|
+|**2022-11-14**|**Discovering a Variety of Objects in Spatio-Temporal Human-Object Interactions**|Yong-Lu Li et.al.|[2211.07501v1](http://arxiv.org/abs/2211.07501v1)|[2211.07501v1](http://arxiv.org/pdf/2211.07501v1)|**[link](https://github.com/dirtyharrylyl/hake-ava)**|
+|**2022-11-14**|**Group-Equivariant Neural Networks with Fusion Diagrams**|Zimu Li et.al.|[2211.07482v1](http://arxiv.org/abs/2211.07482v1)|[2211.07482v1](http://arxiv.org/pdf/2211.07482v1)|null|
 |**2022-11-11**|**Capabilities for Better ML Engineering**|Chenyang Yang et.al.|[2211.06409v1](http://arxiv.org/abs/2211.06409v1)|[2211.06409v1](http://arxiv.org/pdf/2211.06409v1)|null|
 |**2022-11-11**|**Control Transformer: Robot Navigation in Unknown Environments through PRM-Guided Return-Conditioned Sequence Modeling**|Daniel Lawson et.al.|[2211.06407v1](http://arxiv.org/abs/2211.06407v1)|[2211.06407v1](http://arxiv.org/pdf/2211.06407v1)|null|
 |**2022-11-11**|**Behaviour Trees for Conversational Explanation Experiences**|Anjana Wijekoon et.al.|[2211.06402v1](http://arxiv.org/abs/2211.06402v1)|[2211.06402v1](http://arxiv.org/pdf/2211.06402v1)|null|
