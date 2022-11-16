@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-15**|**The inefficiency of stellar feedback in driving galactic outflows in massive galaxies at high redshift**|L. Bassini et.al.|[2211.08423v1](http://arxiv.org/abs/2211.08423v1)|[2211.08423v1](http://arxiv.org/pdf/2211.08423v1)|null|
+|**2022-11-15**|**Photometric identification of compact galaxies, stars and quasars using multiple neural networks**|Siddharth Chaini et.al.|[2211.08388v1](http://arxiv.org/abs/2211.08388v1)|[2211.08388v1](http://arxiv.org/pdf/2211.08388v1)|null|
+|**2022-11-15**|**A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters**|Giulia Gianfagna et.al.|[2211.08372v1](http://arxiv.org/abs/2211.08372v1)|[2211.08372v1](http://arxiv.org/pdf/2211.08372v1)|null|
+|**2022-11-15**|**From incoherent field to coherent reconnection: understanding convection-driven coronal heating in the quiet Sun**|Rebecca Robinson et.al.|[2211.08364v1](http://arxiv.org/abs/2211.08364v1)|[2211.08364v1](http://arxiv.org/pdf/2211.08364v1)|null|
+|**2022-11-15**|**Dark Matter from freeze-in and its inhomogeneities**|Alessandro Strumia et.al.|[2211.08359v1](http://arxiv.org/abs/2211.08359v1)|[2211.08359v1](http://arxiv.org/pdf/2211.08359v1)|null|
+|**2022-11-15**|**Monte Carlo Simulation of Lane-Emden Type Equations Arising in Astrophysics**|Samah H. El-Essawy et.al.|[2211.08356v1](http://arxiv.org/abs/2211.08356v1)|[2211.08356v1](http://arxiv.org/pdf/2211.08356v1)|null|
+|**2022-11-15**|**Galaxy And Mass Assembly: Galaxy Morphology in the Green Valley, Prominent rings and looser Spiral Arms**|Dominic Smith et.al.|[2211.08355v1](http://arxiv.org/abs/2211.08355v1)|[2211.08355v1](http://arxiv.org/pdf/2211.08355v1)|null|
+|**2022-11-15**|**Non-perturbative non-Gaussianity and primordial black holes**|Andrew D. Gow et.al.|[2211.08348v1](http://arxiv.org/abs/2211.08348v1)|[2211.08348v1](http://arxiv.org/pdf/2211.08348v1)|null|
+|**2022-11-15**|**Photometric detection of internal gravity waves in upper main-sequence stars. III. Comparison of amplitude spectrum fitting and Gaussian process regression using celerite2**|Dominic M. Bowman et.al.|[2211.08347v1](http://arxiv.org/abs/2211.08347v1)|[2211.08347v1](http://arxiv.org/pdf/2211.08347v1)|null|
+|**2022-11-15**|**BiGONLight: a new package for computing optical observables in Numerical Relativity**|Michele Grasso et.al.|[2211.08336v1](http://arxiv.org/abs/2211.08336v1)|[2211.08336v1](http://arxiv.org/pdf/2211.08336v1)|null|
 |**2022-11-14**|**Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation**|Kenta Kiuchi et.al.|[2211.07637v1](http://arxiv.org/abs/2211.07637v1)|[2211.07637v1](http://arxiv.org/pdf/2211.07637v1)|null|
 |**2022-11-14**|**Limits on Leptonic TeV Emission from the Cygnus Cocoon with Swift-XRT**|David Guevel et.al.|[2211.07617v1](http://arxiv.org/abs/2211.07617v1)|[2211.07617v1](http://arxiv.org/pdf/2211.07617v1)|null|
 |**2022-11-14**|**Constraining accuracy of pairwise velocities using scale-free models**|Sara Maleubre et.al.|[2211.07607v1](http://arxiv.org/abs/2211.07607v1)|[2211.07607v1](http://arxiv.org/pdf/2211.07607v1)|null|
@@ -1009,6 +1019,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-15**|**Is the Machine Smarter than the Theorist: Deriving Formulas for Particle Kinematics with Symbolic Regression**|Zhongtian Dong et.al.|[2211.08420v1](http://arxiv.org/abs/2211.08420v1)|[2211.08420v1](http://arxiv.org/pdf/2211.08420v1)|null|
+|**2022-11-15**|**Participation Interfaces for Human-Centered AI**|Sean McGregor et.al.|[2211.08419v1](http://arxiv.org/abs/2211.08419v1)|[2211.08419v1](http://arxiv.org/pdf/2211.08419v1)|null|
+|**2022-11-15**|**Robot Learning on the Job: Human-in-the-Loop Autonomy and Learning During Deployment**|Huihan Liu et.al.|[2211.08416v1](http://arxiv.org/abs/2211.08416v1)|[2211.08416v1](http://arxiv.org/pdf/2211.08416v1)|null|
+|**2022-11-15**|**Model free Shapley values for high dimensional data**|Naofumi Hama et.al.|[2211.08414v1](http://arxiv.org/abs/2211.08414v1)|[2211.08414v1](http://arxiv.org/pdf/2211.08414v1)|**[link](https://github.com/cohortshapley/cohortintgrad)**|
+|**2022-11-15**|**REPAIR: REnormalizing Permuted Activations for Interpolation Repair**|Keller Jordan et.al.|[2211.08403v1](http://arxiv.org/abs/2211.08403v1)|[2211.08403v1](http://arxiv.org/pdf/2211.08403v1)|**[link](https://github.com/kellerjordan/repair)**|
+|**2022-11-15**|**Photometric identification of compact galaxies, stars and quasars using multiple neural networks**|Siddharth Chaini et.al.|[2211.08388v1](http://arxiv.org/abs/2211.08388v1)|[2211.08388v1](http://arxiv.org/pdf/2211.08388v1)|null|
+|**2022-11-15**|**Generative Long-form Question Answering: Relevance, Faithfulness and Succinctness**|Dan Su et.al.|[2211.08386v1](http://arxiv.org/abs/2211.08386v1)|[2211.08386v1](http://arxiv.org/pdf/2211.08386v1)|null|
+|**2022-11-15**|**CardiacGen: A Hierarchical Deep Generative Model for Cardiac Signals**|Tushar Agarwal et.al.|[2211.08385v1](http://arxiv.org/abs/2211.08385v1)|[2211.08385v1](http://arxiv.org/pdf/2211.08385v1)|**[link](https://github.com/SENSE-Lab-OSU/cardiac_gen_model)**|
+|**2022-11-15**|**Universal Distributional Decision-based Black-box Adversarial Attack with Reinforcement Learning**|Yiran Huang et.al.|[2211.08384v1](http://arxiv.org/abs/2211.08384v1)|[2211.08384v1](http://arxiv.org/pdf/2211.08384v1)|null|
+|**2022-11-15**|**Empowering Language Models with Knowledge Graph Reasoning for Question Answering**|Ziniu Hu et.al.|[2211.08380v1](http://arxiv.org/abs/2211.08380v1)|[2211.08380v1](http://arxiv.org/pdf/2211.08380v1)|null|
 |**2022-11-14**|**Legged Locomotion in Challenging Terrains using Egocentric Vision**|Ananye Agarwal et.al.|[2211.07638v1](http://arxiv.org/abs/2211.07638v1)|[2211.07638v1](http://arxiv.org/pdf/2211.07638v1)|null|
 |**2022-11-14**|**Redeeming Intrinsic Rewards via Constrained Optimization**|Eric Chen et.al.|[2211.07627v1](http://arxiv.org/abs/2211.07627v1)|[2211.07627v1](http://arxiv.org/pdf/2211.07627v1)|**[link](https://github.com/improbable-ai/eipo)**|
 |**2022-11-14**|**What Images are More Memorable to Machines?**|Junlin Han et.al.|[2211.07625v1](http://arxiv.org/abs/2211.07625v1)|[2211.07625v1](http://arxiv.org/pdf/2211.07625v1)|**[link](https://github.com/junlinhan/machinemem)**|
