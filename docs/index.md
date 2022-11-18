@@ -2,12 +2,22 @@
 layout: default
 ---
 
-## Updated on 2022.11.17
+## Updated on 2022.11.18
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-17**|**Mapping Tropical Forest Cover and Deforestation with Planet NICFI Satellite Images and Deep Learning in Mato Grosso State (Brazil) from 2015 to 2021**|Fabien H Wagner et.al.|[2211.09806v1](http://arxiv.org/abs/2211.09806v1)|[2211.09806v1](http://arxiv.org/pdf/2211.09806v1)|null|
+|**2022-11-17**|**Mind the gap: The discrepancy between simulation and reality drives interpretations of the Galactic Center Excess**|Sascha Caron et.al.|[2211.09796v1](http://arxiv.org/abs/2211.09796v1)|[2211.09796v1](http://arxiv.org/pdf/2211.09796v1)|null|
+|**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|[2211.09789v1](http://arxiv.org/pdf/2211.09789v1)|null|
+|**2022-11-17**|**A Census of the Taurus Star-forming Region and Neighboring Associations with Gaia**|K. L. Luhman et.al.|[2211.09785v1](http://arxiv.org/abs/2211.09785v1)|[2211.09785v1](http://arxiv.org/pdf/2211.09785v1)|null|
+|**2022-11-17**|**A lower bound on dark matter mass**|Mustafa A. Amin et.al.|[2211.09775v1](http://arxiv.org/abs/2211.09775v1)|[2211.09775v1](http://arxiv.org/pdf/2211.09775v1)|null|
+|**2022-11-17**|**A unified model for the co-evolution of galaxies and their circumgalactic medium: the relative roles of turbulence and atomic cooling physics**|Viraj Pandya et.al.|[2211.09755v1](http://arxiv.org/abs/2211.09755v1)|[2211.09755v1](http://arxiv.org/pdf/2211.09755v1)|null|
+|**2022-11-17**|**As a matter of dynamical range -- scale dependent energy dynamics in MHD turbulence**|Philipp Grete et.al.|[2211.09750v1](http://arxiv.org/abs/2211.09750v1)|[2211.09750v1](http://arxiv.org/pdf/2211.09750v1)|null|
+|**2022-11-17**|**Exploring Earth's Ionosphere and its effect on low radio frequency observation with the uGMRT and the SKA**|Sarvesh Mangla et.al.|[2211.09738v1](http://arxiv.org/abs/2211.09738v1)|[2211.09738v1](http://arxiv.org/pdf/2211.09738v1)|null|
+|**2022-11-17**|**The origin of star-forming rings in S0 galaxies**|J. L. Tous et.al.|[2211.09697v1](http://arxiv.org/abs/2211.09697v1)|[2211.09697v1](http://arxiv.org/pdf/2211.09697v1)|null|
+|**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|[2211.09677v1](http://arxiv.org/pdf/2211.09677v1)|null|
 |**2022-11-16**|**High-Eccentricity Migration with Disk-Induced Spin-Orbit Misalignment: a Preference for Perpendicular Hot Jupiters**|Michelle Vick et.al.|[2211.09122v1](http://arxiv.org/abs/2211.09122v1)|[2211.09122v1](http://arxiv.org/pdf/2211.09122v1)|null|
 |**2022-11-16**|**Reconstruction of full sky CMB E and B modes spectra removing E-to-B leakage from partial sky using deep learning**|Srikanta Pal et.al.|[2211.09112v1](http://arxiv.org/abs/2211.09112v1)|[2211.09112v1](http://arxiv.org/pdf/2211.09112v1)|null|
 |**2022-11-16**|**Global impact of emerging internetwork fields on the low solar atmosphere**|Milan Gošić et.al.|[2211.09111v1](http://arxiv.org/abs/2211.09111v1)|[2211.09111v1](http://arxiv.org/pdf/2211.09111v1)|null|
@@ -1033,6 +1043,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-17**|**InstructPix2Pix: Learning to Follow Image Editing Instructions**|Tim Brooks et.al.|[2211.09800v1](http://arxiv.org/abs/2211.09800v1)|[2211.09800v1](http://arxiv.org/pdf/2211.09800v1)|null|
+|**2022-11-17**|**ConStruct-VL: Data-Free Continual Structured VL Concepts Learning**|James Seale Smith et.al.|[2211.09790v1](http://arxiv.org/abs/2211.09790v1)|[2211.09790v1](http://arxiv.org/pdf/2211.09790v1)|null|
+|**2022-11-17**|**Learning to Counterfactually Explain Recommendations**|Yuanshun Yao et.al.|[2211.09752v1](http://arxiv.org/abs/2211.09752v1)|[2211.09752v1](http://arxiv.org/pdf/2211.09752v1)|null|
+|**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|[2211.09751v1](http://arxiv.org/pdf/2211.09751v1)|null|
+|**2022-11-17**|**EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones**|Yulin Wang et.al.|[2211.09703v1](http://arxiv.org/abs/2211.09703v1)|[2211.09703v1](http://arxiv.org/pdf/2211.09703v1)|**[link](https://github.com/leaplabthu/efficienttrain)**|
+|**2022-11-17**|**A Spreader Ranking Algorithm for Extremely Low-budget Influence Maximization in Social Networks using Community Bridge Nodes**|Aaryan Gupta et.al.|[2211.09657v1](http://arxiv.org/abs/2211.09657v1)|[2211.09657v1](http://arxiv.org/pdf/2211.09657v1)|null|
+|**2022-11-17**|**HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors**|Xiao Wang et.al.|[2211.09648v1](http://arxiv.org/abs/2211.09648v1)|[2211.09648v1](http://arxiv.org/pdf/2211.09648v1)|null|
+|**2022-11-17**|**CPT-V: A Contrastive Approach to Post-Training Quantization of Vision Transformers**|Natalia Frumkin et.al.|[2211.09643v1](http://arxiv.org/abs/2211.09643v1)|[2211.09643v1](http://arxiv.org/pdf/2211.09643v1)|null|
+|**2022-11-17**|**Predicting Human Mobility via Self-supervised Disentanglement Learning**|Qiang Gao et.al.|[2211.09625v1](http://arxiv.org/abs/2211.09625v1)|[2211.09625v1](http://arxiv.org/pdf/2211.09625v1)|null|
+|**2022-11-17**|**Cross-Modal Adapter for Text-Video Retrieval**|Haojun Jiang et.al.|[2211.09623v1](http://arxiv.org/abs/2211.09623v1)|[2211.09623v1](http://arxiv.org/pdf/2211.09623v1)|**[link](https://github.com/leaplabthu/cross-modal-adapter)**|
 |**2022-11-16**|**AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders**|Wele Gedara Chaminda Bandara et.al.|[2211.09120v1](http://arxiv.org/abs/2211.09120v1)|[2211.09120v1](http://arxiv.org/pdf/2211.09120v1)|**[link](https://github.com/wgcban/adamae)**|
 |**2022-11-16**|**Holistic Evaluation of Language Models**|Percy Liang et.al.|[2211.09110v1](http://arxiv.org/abs/2211.09110v1)|[2211.09110v1](http://arxiv.org/pdf/2211.09110v1)|null|
 |**2022-11-16**|**Testing geometric representation hypotheses from simulated place cell recordings**|Thibault Niederhauser et.al.|[2211.09096v1](http://arxiv.org/abs/2211.09096v1)|[2211.09096v1](http://arxiv.org/pdf/2211.09096v1)|null|
