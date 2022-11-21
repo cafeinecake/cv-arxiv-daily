@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.20
+## Updated on 2022.11.21
 
 ## Astrophysics
 
@@ -17,7 +17,7 @@ layout: default
 |**2022-11-17**|**As a matter of dynamical range -- scale dependent energy dynamics in MHD turbulence**|Philipp Grete et.al.|[2211.09750v1](http://arxiv.org/abs/2211.09750v1)|[2211.09750v1](http://arxiv.org/pdf/2211.09750v1)|null|
 |**2022-11-17**|**Exploring Earth's Ionosphere and its effect on low radio frequency observation with the uGMRT and the SKA**|Sarvesh Mangla et.al.|[2211.09738v1](http://arxiv.org/abs/2211.09738v1)|[2211.09738v1](http://arxiv.org/pdf/2211.09738v1)|null|
 |**2022-11-17**|**The origin of star-forming rings in S0 galaxies**|J. L. Tous et.al.|[2211.09697v1](http://arxiv.org/abs/2211.09697v1)|[2211.09697v1](http://arxiv.org/pdf/2211.09697v1)|null|
-|**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|[2211.09677v1](http://arxiv.org/pdf/2211.09677v1)|null|
+|**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|[2211.09677v1](http://arxiv.org/pdf/2211.09677v1)|**[link](https://github.com/gsnyder206/mock-surveys)**|
 |**2022-11-16**|**High-Eccentricity Migration with Disk-Induced Spin-Orbit Misalignment: a Preference for Perpendicular Hot Jupiters**|Michelle Vick et.al.|[2211.09122v1](http://arxiv.org/abs/2211.09122v1)|[2211.09122v1](http://arxiv.org/pdf/2211.09122v1)|null|
 |**2022-11-16**|**Reconstruction of full sky CMB E and B modes spectra removing E-to-B leakage from partial sky using deep learning**|Srikanta Pal et.al.|[2211.09112v1](http://arxiv.org/abs/2211.09112v1)|[2211.09112v1](http://arxiv.org/pdf/2211.09112v1)|null|
 |**2022-11-16**|**Global impact of emerging internetwork fields on the low solar atmosphere**|Milan Gošić et.al.|[2211.09111v1](http://arxiv.org/abs/2211.09111v1)|[2211.09111v1](http://arxiv.org/pdf/2211.09111v1)|null|
