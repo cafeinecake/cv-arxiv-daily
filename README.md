@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-18**|**Bremsstrahlung High-frequency Gravitational Wave Signatures of High-scale Non-thermal Leptogenesis**|Anish Ghoshal et.al.|[2211.10433v1](http://arxiv.org/abs/2211.10433v1)|[2211.10433v1](http://arxiv.org/pdf/2211.10433v1)|null|
+|**2022-11-18**|**Strong cosmological constraints on the neutrino magnetic moment**|Pierluca Carenza et.al.|[2211.10432v1](http://arxiv.org/abs/2211.10432v1)|[2211.10432v1](http://arxiv.org/pdf/2211.10432v1)|null|
+|**2022-11-18**|**Comparable dark matter and baryon abundances with a heavy dark sector**|João G. Rosa et.al.|[2211.10359v1](http://arxiv.org/abs/2211.10359v1)|[2211.10359v1](http://arxiv.org/pdf/2211.10359v1)|null|
+|**2022-11-18**|**Hydrodynamical Simulations of Black-Hole Binary Formation in AGN Disks**|Jiaru Li et.al.|[2211.10357v1](http://arxiv.org/abs/2211.10357v1)|[2211.10357v1](http://arxiv.org/pdf/2211.10357v1)|null|
+|**2022-11-18**|**Surviving in Ocean Worlds: Experimental Characterization of Fiber Optic Tethers across Europa-like Ice Faults and Unraveling the Sliding Behavior of Ice**|Vishaal Singh et.al.|[2211.10337v1](http://arxiv.org/abs/2211.10337v1)|[2211.10337v1](http://arxiv.org/pdf/2211.10337v1)|null|
+|**2022-11-18**|**White Paper on the TUNL Nuclear Astrophysics Program**|Christian Iliadis et.al.|[2211.10327v1](http://arxiv.org/abs/2211.10327v1)|[2211.10327v1](http://arxiv.org/pdf/2211.10327v1)|null|
+|**2022-11-18**|**A strong H- opacity signal in the near-infrared emission spectrum of the ultra-hot Jupiter KELT-9b**|Bob Jacobs et.al.|[2211.10297v1](http://arxiv.org/abs/2211.10297v1)|[2211.10297v1](http://arxiv.org/pdf/2211.10297v1)|null|
+|**2022-11-18**|**Understanding the role of morphology and environment on the dynamical evolution of isolated galaxy triplets**|P. Vásquez-Bustos et.al.|[2211.10290v1](http://arxiv.org/abs/2211.10290v1)|[2211.10290v1](http://arxiv.org/pdf/2211.10290v1)|null|
+|**2022-11-18**|**MeV-GeV Gamma-ray Emission from SNR G327.1-1.1 Discovered by the Fermi-LAT**|Jordan Eagle et.al.|[2211.10281v1](http://arxiv.org/abs/2211.10281v1)|[2211.10281v1](http://arxiv.org/pdf/2211.10281v1)|null|
+|**2022-11-18**|**Dark particle mass effects on neutron star properties from a short-range correlated hadronic model**|M. Dutra et.al.|[2211.10263v1](http://arxiv.org/abs/2211.10263v1)|[2211.10263v1](http://arxiv.org/pdf/2211.10263v1)|null|
 |**2022-11-17**|**Mapping Tropical Forest Cover and Deforestation with Planet NICFI Satellite Images and Deep Learning in Mato Grosso State (Brazil) from 2015 to 2021**|Fabien H Wagner et.al.|[2211.09806v1](http://arxiv.org/abs/2211.09806v1)|[2211.09806v1](http://arxiv.org/pdf/2211.09806v1)|null|
 |**2022-11-17**|**Mind the gap: The discrepancy between simulation and reality drives interpretations of the Galactic Center Excess**|Sascha Caron et.al.|[2211.09796v1](http://arxiv.org/abs/2211.09796v1)|[2211.09796v1](http://arxiv.org/pdf/2211.09796v1)|null|
 |**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|[2211.09789v1](http://arxiv.org/pdf/2211.09789v1)|null|
@@ -1039,6 +1049,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-18**|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**|Guangxuan Xiao et.al.|[2211.10438v1](http://arxiv.org/abs/2211.10438v1)|[2211.10438v1](http://arxiv.org/pdf/2211.10438v1)|**[link](https://github.com/mit-han-lab/smoothquant)**|
+|**2022-11-18**|**PAL: Program-aided Language Models**|Luyu Gao et.al.|[2211.10435v1](http://arxiv.org/abs/2211.10435v1)|[2211.10435v1](http://arxiv.org/pdf/2211.10435v1)|null|
+|**2022-11-18**|**Indexing AI Risks with Incidents, Issues, and Variants**|Sean McGregor et.al.|[2211.10384v1](http://arxiv.org/abs/2211.10384v1)|[2211.10384v1](http://arxiv.org/pdf/2211.10384v1)|null|
+|**2022-11-18**|**Comparing Explanation Methods for Traditional Machine Learning Models Part 2: Quantifying Model Explainability Faithfulness and Improvements with Dimensionality Reduction**|Montgomery Flora et.al.|[2211.10378v1](http://arxiv.org/abs/2211.10378v1)|[2211.10378v1](http://arxiv.org/pdf/2211.10378v1)|null|
+|**2022-11-18**|**Always Valid Risk Monitoring for Online Matrix Completion**|Chi-Hua Wang et.al.|[2211.10363v1](http://arxiv.org/abs/2211.10363v1)|[2211.10363v1](http://arxiv.org/pdf/2211.10363v1)|null|
+|**2022-11-18**|**Trusted Hart for Mobile RISC-V Security**|Vladimir Ushakov et.al.|[2211.10299v1](http://arxiv.org/abs/2211.10299v1)|[2211.10299v1](http://arxiv.org/pdf/2211.10299v1)|null|
+|**2022-11-18**|**Exploring through Random Curiosity with General Value Functions**|Aditya Ramesh et.al.|[2211.10282v1](http://arxiv.org/abs/2211.10282v1)|[2211.10282v1](http://arxiv.org/pdf/2211.10282v1)|null|
+|**2022-11-18**|**SolderNet: Towards Trustworthy Visual Inspection of Solder Joints in Electronics Manufacturing Using Explainable Artificial Intelligence**|Hayden Gunraj et.al.|[2211.10274v1](http://arxiv.org/abs/2211.10274v1)|[2211.10274v1](http://arxiv.org/pdf/2211.10274v1)|null|
+|**2022-11-18**|**Context Variance Evaluation of Pretrained Language Models for Prompt-based Biomedical Knowledge Probing**|Zonghai Yao et.al.|[2211.10265v1](http://arxiv.org/abs/2211.10265v1)|[2211.10265v1](http://arxiv.org/pdf/2211.10265v1)|null|
+|**2022-11-18**|**HiveNAS: Neural Architecture Search using Artificial Bee Colony Optimization**|Mohamed Shahawy et.al.|[2211.10250v1](http://arxiv.org/abs/2211.10250v1)|[2211.10250v1](http://arxiv.org/pdf/2211.10250v1)|null|
 |**2022-11-17**|**InstructPix2Pix: Learning to Follow Image Editing Instructions**|Tim Brooks et.al.|[2211.09800v1](http://arxiv.org/abs/2211.09800v1)|[2211.09800v1](http://arxiv.org/pdf/2211.09800v1)|null|
 |**2022-11-17**|**ConStruct-VL: Data-Free Continual Structured VL Concepts Learning**|James Seale Smith et.al.|[2211.09790v1](http://arxiv.org/abs/2211.09790v1)|[2211.09790v1](http://arxiv.org/pdf/2211.09790v1)|null|
 |**2022-11-17**|**Learning to Counterfactually Explain Recommendations**|Yuanshun Yao et.al.|[2211.09752v1](http://arxiv.org/abs/2211.09752v1)|[2211.09752v1](http://arxiv.org/pdf/2211.09752v1)|null|
