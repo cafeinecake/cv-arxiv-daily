@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-21**|**Consistent and simultaneous modelling of galaxy clustering and galaxy-galaxy lensing with Subhalo Abundance Matching**|Sergio Contreras et.al.|[2211.11745v1](http://arxiv.org/abs/2211.11745v1)|[2211.11745v1](http://arxiv.org/pdf/2211.11745v1)|null|
+|**2022-11-21**|**A tactile model of the night summer northern sky for the teaching of astronomy to the BVI**|E. Pérez-Montero et.al.|[2211.11707v1](http://arxiv.org/abs/2211.11707v1)|[2211.11707v1](http://arxiv.org/pdf/2211.11707v1)|null|
+|**2022-11-21**|**Predicting sub-millimeter flux densities from global galaxy properties**|R. K. Cochrane et.al.|[2211.11702v1](http://arxiv.org/abs/2211.11702v1)|[2211.11702v1](http://arxiv.org/pdf/2211.11702v1)|null|
+|**2022-11-21**|**GD 99: re-investigation of an old ZZ Ceti friend**|Zs. Bognár et.al.|[2211.11676v1](http://arxiv.org/abs/2211.11676v1)|[2211.11676v1](http://arxiv.org/pdf/2211.11676v1)|null|
+|**2022-11-21**|**Probing de Sitter from the horizon**|Mehrdad Mirbabayi et.al.|[2211.11672v1](http://arxiv.org/abs/2211.11672v1)|[2211.11672v1](http://arxiv.org/pdf/2211.11672v1)|null|
+|**2022-11-21**|**The QCD EoS of dense nuclear matter from Bayesian analysis of heavy ion collision data**|Manjunath Omana Kuttan et.al.|[2211.11670v1](http://arxiv.org/abs/2211.11670v1)|[2211.11670v1](http://arxiv.org/pdf/2211.11670v1)|null|
+|**2022-11-21**|**Investigating the Evolution of Amati Parameters with Redshift**|Meghendra Singh et.al.|[2211.11667v1](http://arxiv.org/abs/2211.11667v1)|[2211.11667v1](http://arxiv.org/pdf/2211.11667v1)|null|
+|**2022-11-21**|**Massive star cluster origin for the galactic cosmic ray population at very-high energies**|Thibault Vieu et.al.|[2211.11625v1](http://arxiv.org/abs/2211.11625v1)|[2211.11625v1](http://arxiv.org/pdf/2211.11625v1)|null|
+|**2022-11-21**|**Bose-Einstein Condensate Dark Matter That Involves Composites**|A. M. Gavrilik et.al.|[2211.11614v1](http://arxiv.org/abs/2211.11614v1)|[2211.11614v1](http://arxiv.org/pdf/2211.11614v1)|null|
+|**2022-11-21**|**Are nonsingular black holes with super-Planckian hair ruled out by S2 star data?**|M. Cadoni et.al.|[2211.11585v1](http://arxiv.org/abs/2211.11585v1)|[2211.11585v1](http://arxiv.org/pdf/2211.11585v1)|null|
 |**2022-11-18**|**Bremsstrahlung High-frequency Gravitational Wave Signatures of High-scale Non-thermal Leptogenesis**|Anish Ghoshal et.al.|[2211.10433v1](http://arxiv.org/abs/2211.10433v1)|[2211.10433v1](http://arxiv.org/pdf/2211.10433v1)|null|
 |**2022-11-18**|**Strong cosmological constraints on the neutrino magnetic moment**|Pierluca Carenza et.al.|[2211.10432v1](http://arxiv.org/abs/2211.10432v1)|[2211.10432v1](http://arxiv.org/pdf/2211.10432v1)|null|
 |**2022-11-18**|**Comparable dark matter and baryon abundances with a heavy dark sector**|João G. Rosa et.al.|[2211.10359v1](http://arxiv.org/abs/2211.10359v1)|[2211.10359v1](http://arxiv.org/pdf/2211.10359v1)|null|
@@ -1053,6 +1063,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-21**|**Last-Mile Embodied Visual Navigation**|Justin Wasserman et.al.|[2211.11746v1](http://arxiv.org/abs/2211.11746v1)|[2211.11746v1](http://arxiv.org/pdf/2211.11746v1)|**[link](https://github.com/jbwasse2/sling)**|
+|**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|[2211.11744v1](http://arxiv.org/pdf/2211.11744v1)|null|
+|**2022-11-21**|**Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**|Ted Xiao et.al.|[2211.11736v1](http://arxiv.org/abs/2211.11736v1)|[2211.11736v1](http://arxiv.org/pdf/2211.11736v1)|null|
+|**2022-11-21**|**Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention**|Zineng Tang et.al.|[2211.11701v1](http://arxiv.org/abs/2211.11701v1)|[2211.11701v1](http://arxiv.org/pdf/2211.11701v1)|**[link](https://github.com/zinengtang/perceiver_vl)**|
+|**2022-11-21**|**Explaining Random Forests using Bipolar Argumentation and Markov Networks (Technical Report)**|Nico Potyka et.al.|[2211.11699v1](http://arxiv.org/abs/2211.11699v1)|[2211.11699v1](http://arxiv.org/pdf/2211.11699v1)|null|
+|**2022-11-21**|**Disentangled Representation Learning**|Xin Wang et.al.|[2211.11695v1](http://arxiv.org/abs/2211.11695v1)|[2211.11695v1](http://arxiv.org/pdf/2211.11695v1)|null|
+|**2022-11-21**|**Mean Shift Mask Transformer for Unseen Object Instance Segmentation**|Yangxiao Lu et.al.|[2211.11679v1](http://arxiv.org/abs/2211.11679v1)|[2211.11679v1](http://arxiv.org/pdf/2211.11679v1)|**[link](https://github.com/youngsean/unseenobjectswithmeanshift)**|
+|**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|[2211.11674v1](http://arxiv.org/pdf/2211.11674v1)|null|
+|**2022-11-21**|**Representational dissimilarity metric spaces for stochastic neural networks**|Lyndon R. Duong et.al.|[2211.11665v1](http://arxiv.org/abs/2211.11665v1)|[2211.11665v1](http://arxiv.org/pdf/2211.11665v1)|null|
+|**2022-11-21**|**Differentiable Meta logical Programming**|Zihan Ye et.al.|[2211.11650v1](http://arxiv.org/abs/2211.11650v1)|[2211.11650v1](http://arxiv.org/pdf/2211.11650v1)|null|
 |**2022-11-18**|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**|Guangxuan Xiao et.al.|[2211.10438v1](http://arxiv.org/abs/2211.10438v1)|[2211.10438v1](http://arxiv.org/pdf/2211.10438v1)|null|
 |**2022-11-18**|**PAL: Program-aided Language Models**|Luyu Gao et.al.|[2211.10435v1](http://arxiv.org/abs/2211.10435v1)|[2211.10435v1](http://arxiv.org/pdf/2211.10435v1)|null|
 |**2022-11-18**|**Indexing AI Risks with Incidents, Issues, and Variants**|Sean McGregor et.al.|[2211.10384v1](http://arxiv.org/abs/2211.10384v1)|[2211.10384v1](http://arxiv.org/pdf/2211.10384v1)|null|
