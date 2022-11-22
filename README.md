@@ -1,4 +1,4 @@
-## Updated on 2022.11.21
+## Updated on 2022.11.22
 
 ## Astrophysics
 
@@ -1049,7 +1049,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2022-11-18**|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**|Guangxuan Xiao et.al.|[2211.10438v1](http://arxiv.org/abs/2211.10438v1)|[2211.10438v1](http://arxiv.org/pdf/2211.10438v1)|**[link](https://github.com/mit-han-lab/smoothquant)**|
+|**2022-11-18**|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**|Guangxuan Xiao et.al.|[2211.10438v1](http://arxiv.org/abs/2211.10438v1)|[2211.10438v1](http://arxiv.org/pdf/2211.10438v1)|null|
 |**2022-11-18**|**PAL: Program-aided Language Models**|Luyu Gao et.al.|[2211.10435v1](http://arxiv.org/abs/2211.10435v1)|[2211.10435v1](http://arxiv.org/pdf/2211.10435v1)|null|
 |**2022-11-18**|**Indexing AI Risks with Incidents, Issues, and Variants**|Sean McGregor et.al.|[2211.10384v1](http://arxiv.org/abs/2211.10384v1)|[2211.10384v1](http://arxiv.org/pdf/2211.10384v1)|null|
 |**2022-11-18**|**Comparing Explanation Methods for Traditional Machine Learning Models Part 2: Quantifying Model Explainability Faithfulness and Improvements with Dimensionality Reduction**|Montgomery Flora et.al.|[2211.10378v1](http://arxiv.org/abs/2211.10378v1)|[2211.10378v1](http://arxiv.org/pdf/2211.10378v1)|null|
