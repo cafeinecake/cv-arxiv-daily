@@ -1,4 +1,4 @@
-## Updated on 2022.11.22
+## Updated on 2022.11.23
 
 ## Astrophysics
 
@@ -9,7 +9,7 @@
 |**2022-11-21**|**Predicting sub-millimeter flux densities from global galaxy properties**|R. K. Cochrane et.al.|[2211.11702v1](http://arxiv.org/abs/2211.11702v1)|[2211.11702v1](http://arxiv.org/pdf/2211.11702v1)|null|
 |**2022-11-21**|**GD 99: re-investigation of an old ZZ Ceti friend**|Zs. Bognár et.al.|[2211.11676v1](http://arxiv.org/abs/2211.11676v1)|[2211.11676v1](http://arxiv.org/pdf/2211.11676v1)|null|
 |**2022-11-21**|**Probing de Sitter from the horizon**|Mehrdad Mirbabayi et.al.|[2211.11672v1](http://arxiv.org/abs/2211.11672v1)|[2211.11672v1](http://arxiv.org/pdf/2211.11672v1)|null|
-|**2022-11-21**|**The QCD EoS of dense nuclear matter from Bayesian analysis of heavy ion collision data**|Manjunath Omana Kuttan et.al.|[2211.11670v1](http://arxiv.org/abs/2211.11670v1)|[2211.11670v1](http://arxiv.org/pdf/2211.11670v1)|null|
+|**2022-11-22**|**The QCD EoS of dense nuclear matter from Bayesian analysis of heavy ion collision data**|Manjunath Omana Kuttan et.al.|[2211.11670v2](http://arxiv.org/abs/2211.11670v2)|[2211.11670v2](http://arxiv.org/pdf/2211.11670v2)|null|
 |**2022-11-21**|**Investigating the Evolution of Amati Parameters with Redshift**|Meghendra Singh et.al.|[2211.11667v1](http://arxiv.org/abs/2211.11667v1)|[2211.11667v1](http://arxiv.org/pdf/2211.11667v1)|null|
 |**2022-11-21**|**Massive star cluster origin for the galactic cosmic ray population at very-high energies**|Thibault Vieu et.al.|[2211.11625v1](http://arxiv.org/abs/2211.11625v1)|[2211.11625v1](http://arxiv.org/pdf/2211.11625v1)|null|
 |**2022-11-21**|**Bose-Einstein Condensate Dark Matter That Involves Composites**|A. M. Gavrilik et.al.|[2211.11614v1](http://arxiv.org/abs/2211.11614v1)|[2211.11614v1](http://arxiv.org/pdf/2211.11614v1)|null|
@@ -1061,7 +1061,7 @@
 |---|---|---|---|---|---|
 |**2022-11-21**|**Last-Mile Embodied Visual Navigation**|Justin Wasserman et.al.|[2211.11746v1](http://arxiv.org/abs/2211.11746v1)|[2211.11746v1](http://arxiv.org/pdf/2211.11746v1)|**[link](https://github.com/jbwasse2/sling)**|
 |**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|[2211.11744v1](http://arxiv.org/pdf/2211.11744v1)|null|
-|**2022-11-21**|**Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**|Ted Xiao et.al.|[2211.11736v1](http://arxiv.org/abs/2211.11736v1)|[2211.11736v1](http://arxiv.org/pdf/2211.11736v1)|null|
+|**2022-11-22**|**Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**|Ted Xiao et.al.|[2211.11736v2](http://arxiv.org/abs/2211.11736v2)|[2211.11736v2](http://arxiv.org/pdf/2211.11736v2)|null|
 |**2022-11-21**|**Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention**|Zineng Tang et.al.|[2211.11701v1](http://arxiv.org/abs/2211.11701v1)|[2211.11701v1](http://arxiv.org/pdf/2211.11701v1)|**[link](https://github.com/zinengtang/perceiver_vl)**|
 |**2022-11-21**|**Explaining Random Forests using Bipolar Argumentation and Markov Networks (Technical Report)**|Nico Potyka et.al.|[2211.11699v1](http://arxiv.org/abs/2211.11699v1)|[2211.11699v1](http://arxiv.org/pdf/2211.11699v1)|null|
 |**2022-11-21**|**Disentangled Representation Learning**|Xin Wang et.al.|[2211.11695v1](http://arxiv.org/abs/2211.11695v1)|[2211.11695v1](http://arxiv.org/pdf/2211.11695v1)|null|
