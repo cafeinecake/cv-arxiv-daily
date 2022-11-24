@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v1](http://arxiv.org/abs/2211.13214v1)|[2211.13214v1](http://arxiv.org/pdf/2211.13214v1)|null|
+|**2022-11-23**|**Asymmetric Reheating via Inverse Symmetry Breaking**|Aurora Ireland et.al.|[2211.13212v1](http://arxiv.org/abs/2211.13212v1)|[2211.13212v1](http://arxiv.org/pdf/2211.13212v1)|null|
+|**2022-11-23**|**Taking a break: paused accretion in the symbiotic binary RT Cru**|A. Pujol et.al.|[2211.13193v1](http://arxiv.org/abs/2211.13193v1)|[2211.13193v1](http://arxiv.org/pdf/2211.13193v1)|null|
+|**2022-11-23**|**Multi-Petawatt Physics Prioritization (MP3) Workshop Report**|A. Di Piazza et.al.|[2211.13187v1](http://arxiv.org/abs/2211.13187v1)|[2211.13187v1](http://arxiv.org/pdf/2211.13187v1)|null|
+|**2022-11-23**|**Nuclear Activity in the Low Metallicity Dwarf Galaxy SDSS J0944-0038: A Glimpse into the Primordial Universe**|Michael Reefe et.al.|[2211.13179v1](http://arxiv.org/abs/2211.13179v1)|[2211.13179v1](http://arxiv.org/pdf/2211.13179v1)|null|
+|**2022-11-23**|**Observable ${\rm Δ{N_{eff}}}$ in Dirac Scotogenic Model**|Debasish Borah et.al.|[2211.13168v1](http://arxiv.org/abs/2211.13168v1)|[2211.13168v1](http://arxiv.org/pdf/2211.13168v1)|null|
+|**2022-11-23**|**Background rejection using image residuals from large telescopes in imaging atmospheric Cherenkov telescope arrays**|Laura Olivera-Nieto et.al.|[2211.13167v1](http://arxiv.org/abs/2211.13167v1)|[2211.13167v1](http://arxiv.org/pdf/2211.13167v1)|null|
+|**2022-11-23**|**Newly discovered Ca II absorbers in the early universe: statistics, element abundances and dust**|Hannah Fang et.al.|[2211.13166v1](http://arxiv.org/abs/2211.13166v1)|[2211.13166v1](http://arxiv.org/pdf/2211.13166v1)|null|
+|**2022-11-23**|**How Close Dark Matter Halos and MOND Are to Each Other: Three-Dimensional Tests Based on Gaia DR2**|Yongda Zhu et.al.|[2211.13153v1](http://arxiv.org/abs/2211.13153v1)|[2211.13153v1](http://arxiv.org/pdf/2211.13153v1)|null|
+|**2022-11-23**|**iMaNGA: mock MaNGA galaxies based on IllustrisTNG-50 and MaStar SSPs. II. the catalogue**|Lorenza Nanni et.al.|[2211.13146v1](http://arxiv.org/abs/2211.13146v1)|[2211.13146v1](http://arxiv.org/pdf/2211.13146v1)|null|
 |**2022-11-22**|**Limiting the accretion disk light in two mass transferring hot subdwarf binaries**|Kunal Deshmukh et.al.|[2211.12502v1](http://arxiv.org/abs/2211.12502v1)|[2211.12502v1](http://arxiv.org/pdf/2211.12502v1)|null|
 |**2022-11-22**|**Polarization From A Radially Stratified Off-Axis GRB Outflow**|A. C. Caligula do E. S. Pedreira et.al.|[2211.12477v1](http://arxiv.org/abs/2211.12477v1)|[2211.12477v1](http://arxiv.org/pdf/2211.12477v1)|null|
 |**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|[2211.12457v1](http://arxiv.org/pdf/2211.12457v1)|null|
@@ -1069,6 +1079,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-23**|**Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths**|Yingqing He et.al.|[2211.13221v1](http://arxiv.org/abs/2211.13221v1)|[2211.13221v1](http://arxiv.org/pdf/2211.13221v1)|**[link](https://github.com/yingqinghe/lvdm)**|
+|**2022-11-23**|**CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**|James Seale Smith et.al.|[2211.13218v1](http://arxiv.org/abs/2211.13218v1)|[2211.13218v1](http://arxiv.org/pdf/2211.13218v1)|null|
+|**2022-11-23**|**On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule**|Kunal Relia et.al.|[2211.13217v1](http://arxiv.org/abs/2211.13217v1)|[2211.13217v1](http://arxiv.org/pdf/2211.13217v1)|null|
+|**2022-11-23**|**A Deep Learning-based Velocity Dealiasing Algorithm Derived from the WSR-88D Open Radar Product Generator**|Mark S. Veillette et.al.|[2211.13181v1](http://arxiv.org/abs/2211.13181v1)|[2211.13181v1](http://arxiv.org/pdf/2211.13181v1)|**[link](https://github.com/mit-ll/unet-vda)**|
+|**2022-11-23**|**Evolutionary Generalized Zero-Shot Learning**|Dubing Chen et.al.|[2211.13174v1](http://arxiv.org/abs/2211.13174v1)|[2211.13174v1](http://arxiv.org/pdf/2211.13174v1)|null|
+|**2022-11-23**|**Structural Knowledge Distillation for Object Detection**|Philip de Rijk et.al.|[2211.13133v1](http://arxiv.org/abs/2211.13133v1)|[2211.13133v1](http://arxiv.org/pdf/2211.13133v1)|null|
+|**2022-11-23**|**FeTrIL: Feature Translation for Exemplar-Free Class-Incremental Learning**|Grégoire Petit et.al.|[2211.13131v1](http://arxiv.org/abs/2211.13131v1)|[2211.13131v1](http://arxiv.org/pdf/2211.13131v1)|**[link](https://github.com/gregoirepetit/fetril)**|
+|**2022-11-23**|**Crown-CAM: Reliable Visual Explanations for Tree Crown Detection in Aerial Images**|Seyed Mojtaba Marvasti-Zadeh et.al.|[2211.13126v1](http://arxiv.org/abs/2211.13126v1)|[2211.13126v1](http://arxiv.org/pdf/2211.13126v1)|null|
+|**2022-11-23**|**Are Concept Drift Detectors Reliable Alarming Systems? -- A Comparative Study**|Lorena Poenaru-Olaru et.al.|[2211.13098v1](http://arxiv.org/abs/2211.13098v1)|[2211.13098v1](http://arxiv.org/pdf/2211.13098v1)|null|
+|**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|[2211.13091v1](http://arxiv.org/pdf/2211.13091v1)|null|
 |**2022-11-22**|**The impact of moving expenses on social segregation: a simulation with RL and ABM**|Xinyu Li et.al.|[2211.12475v1](http://arxiv.org/abs/2211.12475v1)|[2211.12475v1](http://arxiv.org/pdf/2211.12475v1)|null|
 |**2022-11-22**|**A Deep Reinforcement Learning Approach to Rare Event Estimation**|Anthony Corso et.al.|[2211.12470v1](http://arxiv.org/abs/2211.12470v1)|[2211.12470v1](http://arxiv.org/pdf/2211.12470v1)|null|
 |**2022-11-22**|**Renewal equations for single-particle diffusion through a semipermeable interface**|Paul C Bressloff et.al.|[2211.12460v1](http://arxiv.org/abs/2211.12460v1)|[2211.12460v1](http://arxiv.org/pdf/2211.12460v1)|null|
