@@ -1,4 +1,4 @@
-> Updated on 2022.11.25
+> Updated on 2022.11.26
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 - 2022-11-23, **Observable ${\rm Δ{N_{eff}}}$ in Dirac Scotogenic Model**, Debasish Borah et.al., Paper: [http://arxiv.org/abs/2211.13168v1](http://arxiv.org/abs/2211.13168v1), Paper: [http://arxiv.org/abs/2211.13168v1](http://arxiv.org/pdf/2211.13168v1)
 - 2022-11-23, **Background rejection using image residuals from large telescopes in imaging atmospheric Cherenkov telescope arrays**, Laura Olivera-Nieto et.al., Paper: [http://arxiv.org/abs/2211.13167v1](http://arxiv.org/abs/2211.13167v1), Paper: [http://arxiv.org/abs/2211.13167v1](http://arxiv.org/pdf/2211.13167v1)
 - 2022-11-23, **Newly discovered Ca II absorbers in the early universe: statistics, element abundances and dust**, Hannah Fang et.al., Paper: [http://arxiv.org/abs/2211.13166v1](http://arxiv.org/abs/2211.13166v1), Paper: [http://arxiv.org/abs/2211.13166v1](http://arxiv.org/pdf/2211.13166v1)
-- 2022-11-23, **How Close Dark Matter Halos and MOND Are to Each Other: Three-Dimensional Tests Based on Gaia DR2**, Yongda Zhu et.al., Paper: [http://arxiv.org/abs/2211.13153v1](http://arxiv.org/abs/2211.13153v1), Paper: [http://arxiv.org/abs/2211.13153v1](http://arxiv.org/pdf/2211.13153v1)
+- 2022-11-23, **How Close Dark Matter Halos and MOND Are to Each Other: Three-Dimensional Tests Based on Gaia DR2**, Yongda Zhu et.al., Paper: [http://arxiv.org/abs/2211.13153v1](http://arxiv.org/abs/2211.13153v1),Paper: [http://arxiv.org/abs/2211.13153v1](http://arxiv.org/pdf/2211.13153v1), Code: **[https://github.com/ydzhuastro/jeanstest-mw](https://github.com/ydzhuastro/jeanstest-mw)**
 - 2022-11-23, **iMaNGA: mock MaNGA galaxies based on IllustrisTNG-50 and MaStar SSPs. II. the catalogue**, Lorenza Nanni et.al., Paper: [http://arxiv.org/abs/2211.13146v1](http://arxiv.org/abs/2211.13146v1), Paper: [http://arxiv.org/abs/2211.13146v1](http://arxiv.org/pdf/2211.13146v1)
 - 2022-11-22, **Limiting the accretion disk light in two mass transferring hot subdwarf binaries**, Kunal Deshmukh et.al., Paper: [http://arxiv.org/abs/2211.12502v1](http://arxiv.org/abs/2211.12502v1), Paper: [http://arxiv.org/abs/2211.12502v1](http://arxiv.org/pdf/2211.12502v1)
 - 2022-11-22, **Polarization From A Radially Stratified Off-Axis GRB Outflow**, A. C. Caligula do E. S. Pedreira et.al., Paper: [http://arxiv.org/abs/2211.12477v1](http://arxiv.org/abs/2211.12477v1), Paper: [http://arxiv.org/abs/2211.12477v1](http://arxiv.org/pdf/2211.12477v1)
