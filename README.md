@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-25**|**A Sample of Dust Attenuation Laws for DES Supernova Host Galaxies**|J. Duarte et.al.|[2211.14291v1](http://arxiv.org/abs/2211.14291v1)|[2211.14291v1](http://arxiv.org/pdf/2211.14291v1)|null|
+|**2022-11-25**|**Gravitational waves radiated by magnetic galactic binaries and detection by LISA**|Adrien Bourgoin et.al.|[2211.14278v1](http://arxiv.org/abs/2211.14278v1)|[2211.14278v1](http://arxiv.org/pdf/2211.14278v1)|null|
+|**2022-11-25**|**Application of Convolutional Neural Networks to Predict Magnetic Fields Directions in Turbulent Clouds**|Duo Xu et.al.|[2211.14266v1](http://arxiv.org/abs/2211.14266v1)|[2211.14266v1](http://arxiv.org/pdf/2211.14266v1)|null|
+|**2022-11-25**|**Hybrid $α$-attractors, primordial black holes and gravitational wave backgrounds**|Matteo Braglia et.al.|[2211.14262v1](http://arxiv.org/abs/2211.14262v1)|[2211.14262v1](http://arxiv.org/pdf/2211.14262v1)|null|
+|**2022-11-25**|**Communications for the Planet Mars: Past, Present, and Future**|Enes Koktas et.al.|[2211.14245v1](http://arxiv.org/abs/2211.14245v1)|[2211.14245v1](http://arxiv.org/pdf/2211.14245v1)|null|
+|**2022-11-25**|**Significance Mode Analysis (SigMA) for hierarchical structures. An application to the Sco-Cen OB association**|Sebastian Ratzenböck et.al.|[2211.14225v1](http://arxiv.org/abs/2211.14225v1)|[2211.14225v1](http://arxiv.org/pdf/2211.14225v1)|null|
+|**2022-11-25**|**Constraints on the Model of Gamma-ray Bursts and Implications from GRB 221009A: GeV gamma rays v.s. High-energy Neutrinos**|Ruo-Yu Liu et.al.|[2211.14200v1](http://arxiv.org/abs/2211.14200v1)|[2211.14200v1](http://arxiv.org/pdf/2211.14200v1)|null|
+|**2022-11-25**|**Density-Induced Hadron-Quark Crossover via the Formation of Cooper Triples**|Hiroyuki Tajima et.al.|[2211.14194v1](http://arxiv.org/abs/2211.14194v1)|[2211.14194v1](http://arxiv.org/pdf/2211.14194v1)|null|
+|**2022-11-25**|**Searches for Neutrinos from LHAASO ultra-high-energy γ-ray sources using the IceCube Neutrino Observatory**|R. Abbasi et.al.|[2211.14184v1](http://arxiv.org/abs/2211.14184v1)|[2211.14184v1](http://arxiv.org/pdf/2211.14184v1)|null|
+|**2022-11-25**|**Aberration of gravitational waveforms by peculiar velocity**|Camille Bonvin et.al.|[2211.14183v1](http://arxiv.org/abs/2211.14183v1)|[2211.14183v1](http://arxiv.org/pdf/2211.14183v1)|null|
 |**2022-11-24**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v2](http://arxiv.org/abs/2211.13214v2)|[2211.13214v2](http://arxiv.org/pdf/2211.13214v2)|null|
 |**2022-11-23**|**Asymmetric Reheating via Inverse Symmetry Breaking**|Aurora Ireland et.al.|[2211.13212v1](http://arxiv.org/abs/2211.13212v1)|[2211.13212v1](http://arxiv.org/pdf/2211.13212v1)|null|
 |**2022-11-23**|**Taking a break: paused accretion in the symbiotic binary RT Cru**|A. Pujol et.al.|[2211.13193v1](http://arxiv.org/abs/2211.13193v1)|[2211.13193v1](http://arxiv.org/pdf/2211.13193v1)|null|
@@ -1079,6 +1089,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-11-25**|**PIP: Positional-encoding Image Prior**|Nimrod Shabtay et.al.|[2211.14298v1](http://arxiv.org/abs/2211.14298v1)|[2211.14298v1](http://arxiv.org/pdf/2211.14298v1)|**[link](https://github.com/nimrodshabtay/positional-encoding-image-prior)**|
+|**2022-11-25**|**A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation**|Hiroki Furuta et.al.|[2211.14296v1](http://arxiv.org/abs/2211.14296v1)|[2211.14296v1](http://arxiv.org/pdf/2211.14296v1)|null|
+|**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|[2211.14275v1](http://arxiv.org/pdf/2211.14275v1)|null|
+|**2022-11-25**|**The Effect of Epigenetic Blocking on Dynamic Multi-Objective Optimisation Problems**|Sizhe Yuen et.al.|[2211.14222v1](http://arxiv.org/abs/2211.14222v1)|[2211.14222v1](http://arxiv.org/pdf/2211.14222v1)|null|
+|**2022-11-25**|**Certifying entanglement of spins on surfaces using ESR-STM**|Y. del Castillo et.al.|[2211.14205v1](http://arxiv.org/abs/2211.14205v1)|[2211.14205v1](http://arxiv.org/pdf/2211.14205v1)|null|
+|**2022-11-25**|**Estimating a Personalized Basal Insulin Dose from Short-Term Closed-Loop Data in Type 2 Diabetes**|Sarah Ellinor Engell et.al.|[2211.14149v1](http://arxiv.org/abs/2211.14149v1)|[2211.14149v1](http://arxiv.org/pdf/2211.14149v1)|null|
+|**2022-11-25**|**A Hierarchical Variable Autonomy Mixed-Initiative Framework for Human-Robot Teaming in Mobile Robotics**|Dimitris Panagopoulos et.al.|[2211.14095v1](http://arxiv.org/abs/2211.14095v1)|[2211.14095v1](http://arxiv.org/pdf/2211.14095v1)|null|
+|**2022-11-25**|**Detecting broken Absorber Tubes in CSP plants using intelligent sampling and dual loss**|Miguel Angel Pérez-Cutiño et.al.|[2211.14077v1](http://arxiv.org/abs/2211.14077v1)|[2211.14077v1](http://arxiv.org/pdf/2211.14077v1)|null|
+|**2022-11-25**|**M$^2$M: A general method to perform various data analysis tasks from a differentially private sketch**|Florimond Houssiau et.al.|[2211.14062v1](http://arxiv.org/abs/2211.14062v1)|[2211.14062v1](http://arxiv.org/pdf/2211.14062v1)|null|
+|**2022-11-25**|**A Survey of Learning Curves with Bad Behavior: or How More Data Need Not Lead to Better Performance**|Marco Loog et.al.|[2211.14061v1](http://arxiv.org/abs/2211.14061v1)|[2211.14061v1](http://arxiv.org/pdf/2211.14061v1)|null|
 |**2022-11-23**|**Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths**|Yingqing He et.al.|[2211.13221v1](http://arxiv.org/abs/2211.13221v1)|[2211.13221v1](http://arxiv.org/pdf/2211.13221v1)|**[link](https://github.com/yingqinghe/lvdm)**|
 |**2022-11-23**|**CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**|James Seale Smith et.al.|[2211.13218v1](http://arxiv.org/abs/2211.13218v1)|[2211.13218v1](http://arxiv.org/pdf/2211.13218v1)|null|
 |**2022-11-23**|**On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule**|Kunal Relia et.al.|[2211.13217v1](http://arxiv.org/abs/2211.13217v1)|[2211.13217v1](http://arxiv.org/pdf/2211.13217v1)|null|
