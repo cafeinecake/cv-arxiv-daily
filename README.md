@@ -1,14 +1,14 @@
-## Updated on 2022.11.27
+## Updated on 2022.11.28
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v1](http://arxiv.org/abs/2211.13214v1)|[2211.13214v1](http://arxiv.org/pdf/2211.13214v1)|null|
+|**2022-11-24**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v2](http://arxiv.org/abs/2211.13214v2)|[2211.13214v2](http://arxiv.org/pdf/2211.13214v2)|null|
 |**2022-11-23**|**Asymmetric Reheating via Inverse Symmetry Breaking**|Aurora Ireland et.al.|[2211.13212v1](http://arxiv.org/abs/2211.13212v1)|[2211.13212v1](http://arxiv.org/pdf/2211.13212v1)|null|
 |**2022-11-23**|**Taking a break: paused accretion in the symbiotic binary RT Cru**|A. Pujol et.al.|[2211.13193v1](http://arxiv.org/abs/2211.13193v1)|[2211.13193v1](http://arxiv.org/pdf/2211.13193v1)|null|
 |**2022-11-23**|**Multi-Petawatt Physics Prioritization (MP3) Workshop Report**|A. Di Piazza et.al.|[2211.13187v1](http://arxiv.org/abs/2211.13187v1)|[2211.13187v1](http://arxiv.org/pdf/2211.13187v1)|null|
-|**2022-11-23**|**Nuclear Activity in the Low Metallicity Dwarf Galaxy SDSS J0944-0038: A Glimpse into the Primordial Universe**|Michael Reefe et.al.|[2211.13179v1](http://arxiv.org/abs/2211.13179v1)|[2211.13179v1](http://arxiv.org/pdf/2211.13179v1)|null|
+|**2022-11-24**|**Nuclear Activity in the Low Metallicity Dwarf Galaxy SDSS J0944-0038: A Glimpse into the Primordial Universe**|Michael Reefe et.al.|[2211.13179v2](http://arxiv.org/abs/2211.13179v2)|[2211.13179v2](http://arxiv.org/pdf/2211.13179v2)|null|
 |**2022-11-23**|**Observable ${\rm Δ{N_{eff}}}$ in Dirac Scotogenic Model**|Debasish Borah et.al.|[2211.13168v1](http://arxiv.org/abs/2211.13168v1)|[2211.13168v1](http://arxiv.org/pdf/2211.13168v1)|null|
 |**2022-11-23**|**Background rejection using image residuals from large telescopes in imaging atmospheric Cherenkov telescope arrays**|Laura Olivera-Nieto et.al.|[2211.13167v1](http://arxiv.org/abs/2211.13167v1)|[2211.13167v1](http://arxiv.org/pdf/2211.13167v1)|null|
 |**2022-11-23**|**Newly discovered Ca II absorbers in the early universe: statistics, element abundances and dust**|Hannah Fang et.al.|[2211.13166v1](http://arxiv.org/abs/2211.13166v1)|[2211.13166v1](http://arxiv.org/pdf/2211.13166v1)|null|
