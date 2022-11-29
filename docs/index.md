@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-28**|**Separating the blue cloud and the red sequence using Otsu's method for image segmentation**|Biswajit Pandey et.al.|[2211.15642v1](http://arxiv.org/abs/2211.15642v1)|[2211.15642v1](http://arxiv.org/pdf/2211.15642v1)|null|
+|**2022-11-28**|**MOJAVE XX. Decade-long linear polarization variability in AGN jets at parsec scales**|D. I. Zobnina et.al.|[2211.15624v1](http://arxiv.org/abs/2211.15624v1)|[2211.15624v1](http://arxiv.org/pdf/2211.15624v1)|null|
+|**2022-11-28**|**Non-ideal magnetohydrodynamics of self-gravitating filaments**|Nicol Gutiérrez-Vera et.al.|[2211.15615v1](http://arxiv.org/abs/2211.15615v1)|[2211.15615v1](http://arxiv.org/pdf/2211.15615v1)|null|
+|**2022-11-28**|**Diffuse Emission of Galactic High-Energy Neutrinos from a Global Fit of Cosmic Rays**|Georg Schwefer et.al.|[2211.15607v1](http://arxiv.org/abs/2211.15607v1)|[2211.15607v1](http://arxiv.org/pdf/2211.15607v1)|null|
+|**2022-11-28**|**Bar formation in submaximal disks: a challenge for $Λ$CDM**|Tahere Kashfi et.al.|[2211.15599v1](http://arxiv.org/abs/2211.15599v1)|[2211.15599v1](http://arxiv.org/pdf/2211.15599v1)|null|
+|**2022-11-28**|**Observational studies of high-mass star formation**|Igor I. Zinchenko et.al.|[2211.15586v1](http://arxiv.org/abs/2211.15586v1)|[2211.15586v1](http://arxiv.org/pdf/2211.15586v1)|null|
+|**2022-11-28**|**Palatini formulation for gauge theory: implications for slow-roll inflation**|Syksy Rasanen et.al.|[2211.15584v1](http://arxiv.org/abs/2211.15584v1)|[2211.15584v1](http://arxiv.org/pdf/2211.15584v1)|null|
+|**2022-11-28**|**Exoplanet Detection by Machine Learning with Data Augmentation**|Koray Aydoğan et.al.|[2211.15577v1](http://arxiv.org/abs/2211.15577v1)|[2211.15577v1](http://arxiv.org/pdf/2211.15577v1)|null|
+|**2022-11-28**|**Hubble Space Telescope transmission spectroscopy for the temperate sub-Neptune TOI-270d: a possible hydrogen-rich atmosphere containing water vapour**|Thomas Mikal-Evans et.al.|[2211.15576v1](http://arxiv.org/abs/2211.15576v1)|[2211.15576v1](http://arxiv.org/pdf/2211.15576v1)|null|
+|**2022-11-28**|**GECAM Localization of High Energy Transients and the Systematic Error**|Yi Zhao et.al.|[2211.15570v1](http://arxiv.org/abs/2211.15570v1)|[2211.15570v1](http://arxiv.org/pdf/2211.15570v1)|null|
 |**2022-11-25**|**A Sample of Dust Attenuation Laws for DES Supernova Host Galaxies**|J. Duarte et.al.|[2211.14291v1](http://arxiv.org/abs/2211.14291v1)|[2211.14291v1](http://arxiv.org/pdf/2211.14291v1)|null|
 |**2022-11-25**|**Gravitational waves radiated by magnetic galactic binaries and detection by LISA**|Adrien Bourgoin et.al.|[2211.14278v1](http://arxiv.org/abs/2211.14278v1)|[2211.14278v1](http://arxiv.org/pdf/2211.14278v1)|null|
 |**2022-11-25**|**Application of Convolutional Neural Networks to Predict Magnetic Fields Directions in Turbulent Clouds**|Duo Xu et.al.|[2211.14266v1](http://arxiv.org/abs/2211.14266v1)|[2211.14266v1](http://arxiv.org/pdf/2211.14266v1)|null|
@@ -1093,6 +1103,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-28**|**Is Conditional Generative Modeling all you need for Decision-Making?**|Anurag Ajay et.al.|[2211.15657v1](http://arxiv.org/abs/2211.15657v1)|[2211.15657v1](http://arxiv.org/pdf/2211.15657v1)|null|
+|**2022-11-28**|**Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources**|Xinyan Velocity Yu et.al.|[2211.15649v1](http://arxiv.org/abs/2211.15649v1)|[2211.15649v1](http://arxiv.org/pdf/2211.15649v1)|null|
+|**2022-11-28**|**Blow up phenomena for gradient descent optimization methods in the training of artificial neural networks**|Davide Gallon et.al.|[2211.15641v1](http://arxiv.org/abs/2211.15641v1)|[2211.15641v1](http://arxiv.org/pdf/2211.15641v1)|null|
+|**2022-11-28**|**Analysis and Optimization of Resonance Energies and Widths Using Complex Absorbing Potentials**|Jerryman A. Gyamfi et.al.|[2211.15629v1](http://arxiv.org/abs/2211.15629v1)|[2211.15629v1](http://arxiv.org/pdf/2211.15629v1)|null|
+|**2022-11-28**|**Weight Predictor Network with Feature Selection for Small Sample Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.15616v1](http://arxiv.org/abs/2211.15616v1)|[2211.15616v1](http://arxiv.org/pdf/2211.15616v1)|null|
+|**2022-11-28**|**Frustratingly Easy Label Projection for Cross-lingual Transfer**|Yang Chen et.al.|[2211.15613v1](http://arxiv.org/abs/2211.15613v1)|[2211.15613v1](http://arxiv.org/pdf/2211.15613v1)|null|
+|**2022-11-28**|**Development of an Equation-based Parallelization Method for Multiphase Particle-in-Cell Simulations**|Mino Woo et.al.|[2211.15605v1](http://arxiv.org/abs/2211.15605v1)|[2211.15605v1](http://arxiv.org/pdf/2211.15605v1)|null|
+|**2022-11-28**|**Lightning Fast Video Anomaly Detection via Adversarial Knowledge Distillation**|Nicolae-Catalin Ristea et.al.|[2211.15597v1](http://arxiv.org/abs/2211.15597v1)|[2211.15597v1](http://arxiv.org/pdf/2211.15597v1)|null|
+|**2022-11-28**|**FsaNet: Frequency Self-attention for Semantic Segmentation**|Fengyu Zhang et.al.|[2211.15595v1](http://arxiv.org/abs/2211.15595v1)|[2211.15595v1](http://arxiv.org/pdf/2211.15595v1)|null|
+|**2022-11-28**|**Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning**|Leo Ardon et.al.|[2211.15589v1](http://arxiv.org/abs/2211.15589v1)|[2211.15589v1](http://arxiv.org/pdf/2211.15589v1)|null|
 |**2022-11-25**|**PIP: Positional-encoding Image Prior**|Nimrod Shabtay et.al.|[2211.14298v1](http://arxiv.org/abs/2211.14298v1)|[2211.14298v1](http://arxiv.org/pdf/2211.14298v1)|**[link](https://github.com/nimrodshabtay/positional-encoding-image-prior)**|
 |**2022-11-25**|**A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation**|Hiroki Furuta et.al.|[2211.14296v1](http://arxiv.org/abs/2211.14296v1)|[2211.14296v1](http://arxiv.org/pdf/2211.14296v1)|null|
 |**2022-11-25**|**Solving math word problems with process- and outcome-based feedback**|Jonathan Uesato et.al.|[2211.14275v1](http://arxiv.org/abs/2211.14275v1)|[2211.14275v1](http://arxiv.org/pdf/2211.14275v1)|null|
