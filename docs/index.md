@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-29**|**NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs**|Samuel M. Factor et.al.|[2211.16481v1](http://arxiv.org/abs/2211.16481v1)|[2211.16481v1](http://arxiv.org/pdf/2211.16481v1)|null|
+|**2022-11-29**|**Numerical Simulations of Two-Fluid Magnetoacoustic Waves in the Solar Atmosphere**|J. Kraśkiewicz et.al.|[2211.16463v1](http://arxiv.org/abs/2211.16463v1)|[2211.16463v1](http://arxiv.org/pdf/2211.16463v1)|null|
+|**2022-11-29**|**Calibrating cosmological simulations with implicit likelihood inference using galaxy growth observables**|Yongseok Jo et.al.|[2211.16461v1](http://arxiv.org/abs/2211.16461v1)|[2211.16461v1](http://arxiv.org/pdf/2211.16461v1)|null|
+|**2022-11-29**|**Parametrized Asymmetric Neutral hydrogen Disk Integrated Spectrum Characterization (PANDISC) I: Introduction to A Physically Motivated H I Model**|Bo Peng et.al.|[2211.16455v1](http://arxiv.org/abs/2211.16455v1)|[2211.16455v1](http://arxiv.org/pdf/2211.16455v1)|null|
+|**2022-11-29**|**Identifying the physical origin of gamma-ray bursts with supervised machine learning**|Jia-Wei Luo et.al.|[2211.16451v1](http://arxiv.org/abs/2211.16451v1)|[2211.16451v1](http://arxiv.org/pdf/2211.16451v1)|null|
+|**2022-11-29**|**Estimating effective wind speed from Gemini Planet Imager's adaptive optics data using covariance maps**|Daniel M. Levinstein et.al.|[2211.16441v1](http://arxiv.org/abs/2211.16441v1)|[2211.16441v1](http://arxiv.org/pdf/2211.16441v1)|null|
+|**2022-11-29**|**Determination of 1929 Asteroid Rotation Periods from WISE Data**|Adrian L. H. Lam et.al.|[2211.16409v1](http://arxiv.org/abs/2211.16409v1)|[2211.16409v1](http://arxiv.org/pdf/2211.16409v1)|null|
+|**2022-11-29**|**The Hubble tension from the standpoint of quantum cosmology**|V. E. Kuzmichev et.al.|[2211.16394v1](http://arxiv.org/abs/2211.16394v1)|[2211.16394v1](http://arxiv.org/pdf/2211.16394v1)|null|
+|**2022-11-29**|**Gravity in the Local Universe : density and velocity fields using CosmicFlows-4**|H. M. Courtois et.al.|[2211.16390v1](http://arxiv.org/abs/2211.16390v1)|[2211.16390v1](http://arxiv.org/pdf/2211.16390v1)|null|
+|**2022-11-29**|**On the sociology and hierarchy of voids: a study of seven CAVITY nearby galaxy voids and their dynamical CosmicFlows-3 environment**|H. M. Courtois et.al.|[2211.16388v1](http://arxiv.org/abs/2211.16388v1)|[2211.16388v1](http://arxiv.org/pdf/2211.16388v1)|null|
 |**2022-11-28**|**Separating the blue cloud and the red sequence using Otsu's method for image segmentation**|Biswajit Pandey et.al.|[2211.15642v1](http://arxiv.org/abs/2211.15642v1)|[2211.15642v1](http://arxiv.org/pdf/2211.15642v1)|null|
 |**2022-11-28**|**MOJAVE XX. Decade-long linear polarization variability in AGN jets at parsec scales**|D. I. Zobnina et.al.|[2211.15624v1](http://arxiv.org/abs/2211.15624v1)|[2211.15624v1](http://arxiv.org/pdf/2211.15624v1)|null|
 |**2022-11-28**|**Non-ideal magnetohydrodynamics of self-gravitating filaments**|Nicol Gutiérrez-Vera et.al.|[2211.15615v1](http://arxiv.org/abs/2211.15615v1)|[2211.15615v1](http://arxiv.org/pdf/2211.15615v1)|null|
@@ -1103,6 +1113,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-29**|**Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles**|Shuquan Ye et.al.|[2211.16504v1](http://arxiv.org/abs/2211.16504v1)|[2211.16504v1](http://arxiv.org/pdf/2211.16504v1)|**[link](https://github.com/pleaseconnectwifi/dance)**|
+|**2022-11-29**|**Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**|Nataniel Ruiz et.al.|[2211.16499v1](http://arxiv.org/abs/2211.16499v1)|[2211.16499v1](http://arxiv.org/pdf/2211.16499v1)|null|
+|**2022-11-29**|**On the Ability of Graph Neural Networks to Model Interactions Between Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|[2211.16494v1](http://arxiv.org/pdf/2211.16494v1)|**[link](https://github.com/noamrazin/gnn_interactions)**|
+|**2022-11-29**|**Abstract Visual Reasoning with Tangram Shapes**|Anya Ji et.al.|[2211.16492v1](http://arxiv.org/abs/2211.16492v1)|[2211.16492v1](http://arxiv.org/pdf/2211.16492v1)|null|
+|**2022-11-29**|**Chaining Simultaneous Thoughts for Numerical Reasoning**|Zhihong Shao et.al.|[2211.16482v1](http://arxiv.org/abs/2211.16482v1)|[2211.16482v1](http://arxiv.org/pdf/2211.16482v1)|null|
+|**2022-11-29**|**Finding Front-Door Adjustment Sets in Linear Time**|Marcel Wienöbst et.al.|[2211.16468v1](http://arxiv.org/abs/2211.16468v1)|[2211.16468v1](http://arxiv.org/pdf/2211.16468v1)|**[link](https://github.com/mwien/frontdoor-adjustment)**|
+|**2022-11-29**|**Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation**|Miao Xiong et.al.|[2211.16466v1](http://arxiv.org/abs/2211.16466v1)|[2211.16466v1](http://arxiv.org/pdf/2211.16466v1)|null|
+|**2022-11-29**|**Holding AI to Account: Challenges for the Delivery of Trustworthy AI in Healthcare**|Rob Procter et.al.|[2211.16444v1](http://arxiv.org/abs/2211.16444v1)|[2211.16444v1](http://arxiv.org/pdf/2211.16444v1)|null|
+|**2022-11-29**|**Parameterisation of Reasoning on Temporal Markov Logic Networks**|Victor David et.al.|[2211.16414v1](http://arxiv.org/abs/2211.16414v1)|[2211.16414v1](http://arxiv.org/pdf/2211.16414v1)|null|
+|**2022-11-29**|**Multi-Agent Reinforcement Learning for Microprocessor Design Space Exploration**|Srivatsan Krishnan et.al.|[2211.16385v1](http://arxiv.org/abs/2211.16385v1)|[2211.16385v1](http://arxiv.org/pdf/2211.16385v1)|null|
 |**2022-11-28**|**Is Conditional Generative Modeling all you need for Decision-Making?**|Anurag Ajay et.al.|[2211.15657v1](http://arxiv.org/abs/2211.15657v1)|[2211.15657v1](http://arxiv.org/pdf/2211.15657v1)|null|
 |**2022-11-28**|**Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources**|Xinyan Velocity Yu et.al.|[2211.15649v1](http://arxiv.org/abs/2211.15649v1)|[2211.15649v1](http://arxiv.org/pdf/2211.15649v1)|null|
 |**2022-11-28**|**Blow up phenomena for gradient descent optimization methods in the training of artificial neural networks**|Davide Gallon et.al.|[2211.15641v1](http://arxiv.org/abs/2211.15641v1)|[2211.15641v1](http://arxiv.org/pdf/2211.15641v1)|null|
