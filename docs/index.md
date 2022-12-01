@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-30**|**NuSTAR Observes Two Bulgeless Galaxies: No Hard X-ray AGN Detected in NGC 4178 or J0851+3926**|Ryan W. Pfeifle et.al.|[2211.17271v1](http://arxiv.org/abs/2211.17271v1)|[2211.17271v1](http://arxiv.org/pdf/2211.17271v1)|null|
+|**2022-11-30**|**A numerical study on the role of instabilities on multi-wavelength emission signatures of blazar jets**|Sriyasriti Acharya et.al.|[2211.17270v1](http://arxiv.org/abs/2211.17270v1)|[2211.17270v1](http://arxiv.org/pdf/2211.17270v1)|null|
+|**2022-11-30**|**Positive feedback, quenching and sequential super star cluster (SSC) formation in NGC 4945**|Enrica Bellocchi et.al.|[2211.17268v1](http://arxiv.org/abs/2211.17268v1)|[2211.17268v1](http://arxiv.org/pdf/2211.17268v1)|null|
+|**2022-11-30**|**Quantum Initial Conditions for Curved Inflating Universes**|Mary I. Letey et.al.|[2211.17248v1](http://arxiv.org/abs/2211.17248v1)|[2211.17248v1](http://arxiv.org/pdf/2211.17248v1)|null|
+|**2022-11-30**|**Gaia Data Release 3: All-sky classification of 12.4 million variable sources into 25 classes**|Lorenzo Rimoldini et.al.|[2211.17238v1](http://arxiv.org/abs/2211.17238v1)|[2211.17238v1](http://arxiv.org/pdf/2211.17238v1)|null|
+|**2022-11-30**|**Observational constraints on Tsallis holographic dark energy with Ricci horizon cutoff**|Z. Feizi Mangoudehi et.al.|[2211.17212v1](http://arxiv.org/abs/2211.17212v1)|[2211.17212v1](http://arxiv.org/pdf/2211.17212v1)|null|
+|**2022-11-30**|**Cosmic-Ray Composition analysis at IceCube using Graph Neural Networks**|Paras Koundal et.al.|[2211.17198v1](http://arxiv.org/abs/2211.17198v1)|[2211.17198v1](http://arxiv.org/pdf/2211.17198v1)|null|
+|**2022-11-30**|**A cosmographic outlook on dark energy and modified gravity**|Salvatore Capozziello et.al.|[2211.17194v1](http://arxiv.org/abs/2211.17194v1)|[2211.17194v1](http://arxiv.org/pdf/2211.17194v1)|null|
+|**2022-11-30**|**The baryon coupling scheme in an unified SU(3) and SU(6) symmetry formalism**|Luiz L. Lopes et.al.|[2211.17153v1](http://arxiv.org/abs/2211.17153v1)|[2211.17153v1](http://arxiv.org/pdf/2211.17153v1)|null|
+|**2022-11-30**|**The one-loop bispectrum of galaxies in redshift space from the Effective Field Theory of Large-Scale Structure**|Guido D'Amico et.al.|[2211.17130v1](http://arxiv.org/abs/2211.17130v1)|[2211.17130v1](http://arxiv.org/pdf/2211.17130v1)|null|
 |**2022-11-29**|**NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs**|Samuel M. Factor et.al.|[2211.16481v1](http://arxiv.org/abs/2211.16481v1)|[2211.16481v1](http://arxiv.org/pdf/2211.16481v1)|null|
 |**2022-11-29**|**Numerical Simulations of Two-Fluid Magnetoacoustic Waves in the Solar Atmosphere**|J. Kraśkiewicz et.al.|[2211.16463v1](http://arxiv.org/abs/2211.16463v1)|[2211.16463v1](http://arxiv.org/pdf/2211.16463v1)|null|
 |**2022-11-29**|**Calibrating cosmological simulations with implicit likelihood inference using galaxy growth observables**|Yongseok Jo et.al.|[2211.16461v1](http://arxiv.org/abs/2211.16461v1)|[2211.16461v1](http://arxiv.org/pdf/2211.16461v1)|null|
@@ -1113,6 +1123,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-11-30**|**Non-Deterministic Approximation Fixpoint Theory and Its Application in Disjunctive Logic Programming**|Jesse Heyninck et.al.|[2211.17262v1](http://arxiv.org/abs/2211.17262v1)|[2211.17262v1](http://arxiv.org/pdf/2211.17262v1)|null|
+|**2022-11-30**|**SinGRAF: Learning a 3D Generative Radiance Field for a Single Scene**|Minjung Son et.al.|[2211.17260v1](http://arxiv.org/abs/2211.17260v1)|[2211.17260v1](http://arxiv.org/pdf/2211.17260v1)|null|
+|**2022-11-30**|**CREPE: Open-Domain Question Answering with False Presuppositions**|Xinyan Velocity Yu et.al.|[2211.17257v1](http://arxiv.org/abs/2211.17257v1)|[2211.17257v1](http://arxiv.org/pdf/2211.17257v1)|**[link](https://github.com/velocitycavalry/crepe)**|
+|**2022-11-30**|**Gaia Data Release 3: All-sky classification of 12.4 million variable sources into 25 classes**|Lorenzo Rimoldini et.al.|[2211.17238v1](http://arxiv.org/abs/2211.17238v1)|[2211.17238v1](http://arxiv.org/pdf/2211.17238v1)|null|
+|**2022-11-30**|**Resource Sharing Through Multi-Round Matchings**|Yohai Trabelsi et.al.|[2211.17199v1](http://arxiv.org/abs/2211.17199v1)|[2211.17199v1](http://arxiv.org/pdf/2211.17199v1)|null|
+|**2022-11-30**|**Optimizing Explanations by Network Canonization and Hyperparameter Search**|Frederik Pahde et.al.|[2211.17174v1](http://arxiv.org/abs/2211.17174v1)|[2211.17174v1](http://arxiv.org/pdf/2211.17174v1)|null|
+|**2022-11-30**|**Causes of Stability in Dynamic Coalition Formation**|Niclas Boehmer et.al.|[2211.17169v1](http://arxiv.org/abs/2211.17169v1)|[2211.17169v1](http://arxiv.org/pdf/2211.17169v1)|null|
+|**2022-11-30**|**Misogyny classification of German newspaper forum comments**|Johann Petrak et.al.|[2211.17163v1](http://arxiv.org/abs/2211.17163v1)|[2211.17163v1](http://arxiv.org/pdf/2211.17163v1)|null|
+|**2022-11-30**|**ConvLab-3: A Flexible Dialogue System Toolkit Based on a Unified Data Format**|Qi Zhu et.al.|[2211.17148v1](http://arxiv.org/abs/2211.17148v1)|[2211.17148v1](http://arxiv.org/pdf/2211.17148v1)|**[link](https://github.com/convlab/convlab-3)**|
+|**2022-11-30**|**Learning Label Modular Prompts for Text Classification in the Wild**|Hailin Chen et.al.|[2211.17142v1](http://arxiv.org/abs/2211.17142v1)|[2211.17142v1](http://arxiv.org/pdf/2211.17142v1)|null|
 |**2022-11-29**|**Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles**|Shuquan Ye et.al.|[2211.16504v1](http://arxiv.org/abs/2211.16504v1)|[2211.16504v1](http://arxiv.org/pdf/2211.16504v1)|**[link](https://github.com/pleaseconnectwifi/dance)**|
 |**2022-11-29**|**Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**|Nataniel Ruiz et.al.|[2211.16499v1](http://arxiv.org/abs/2211.16499v1)|[2211.16499v1](http://arxiv.org/pdf/2211.16499v1)|null|
 |**2022-11-29**|**On the Ability of Graph Neural Networks to Model Interactions Between Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|[2211.16494v1](http://arxiv.org/pdf/2211.16494v1)|**[link](https://github.com/noamrazin/gnn_interactions)**|
