@@ -1,4 +1,4 @@
-> Updated on 2022.12.01
+> Updated on 2022.12.02
 
 ## Astrophysics
 
@@ -1115,7 +1115,7 @@
 
 ## AI
 
-- 2022-11-30, **Non-Deterministic Approximation Fixpoint Theory and Its Application in Disjunctive Logic Programming**, Jesse Heyninck et.al., Paper: [http://arxiv.org/abs/2211.17262v1](http://arxiv.org/abs/2211.17262v1), Paper: [http://arxiv.org/abs/2211.17262v1](http://arxiv.org/pdf/2211.17262v1)
+- 2022-12-01, **Non-Deterministic Approximation Fixpoint Theory and Its Application in Disjunctive Logic Programming**, Jesse Heyninck et.al., Paper: [http://arxiv.org/abs/2211.17262v2](http://arxiv.org/abs/2211.17262v2), Paper: [http://arxiv.org/abs/2211.17262v2](http://arxiv.org/pdf/2211.17262v2)
 - 2022-11-30, **SinGRAF: Learning a 3D Generative Radiance Field for a Single Scene**, Minjung Son et.al., Paper: [http://arxiv.org/abs/2211.17260v1](http://arxiv.org/abs/2211.17260v1), Paper: [http://arxiv.org/abs/2211.17260v1](http://arxiv.org/pdf/2211.17260v1)
 - 2022-11-30, **CREPE: Open-Domain Question Answering with False Presuppositions**, Xinyan Velocity Yu et.al., Paper: [http://arxiv.org/abs/2211.17257v1](http://arxiv.org/abs/2211.17257v1),Paper: [http://arxiv.org/abs/2211.17257v1](http://arxiv.org/pdf/2211.17257v1), Code: **[https://github.com/velocitycavalry/crepe](https://github.com/velocitycavalry/crepe)**
 - 2022-11-30, **Gaia Data Release 3: All-sky classification of 12.4 million variable sources into 25 classes**, Lorenzo Rimoldini et.al., Paper: [http://arxiv.org/abs/2211.17238v1](http://arxiv.org/abs/2211.17238v1), Paper: [http://arxiv.org/abs/2211.17238v1](http://arxiv.org/pdf/2211.17238v1)
