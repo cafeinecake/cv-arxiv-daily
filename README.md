@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-01**|**Varying alpha, blinding, and bias in existing measurements**|Chung-Chi Lee et.al.|[2212.00791v1](http://arxiv.org/abs/2212.00791v1)|[2212.00791v1](http://arxiv.org/pdf/2212.00791v1)|null|
+|**2022-12-01**|**Collision detection for N-body Kepler systems**|P. M. Visser et.al.|[2212.00783v1](http://arxiv.org/abs/2212.00783v1)|[2212.00783v1](http://arxiv.org/pdf/2212.00783v1)|null|
+|**2022-12-01**|**Expectations for Horizon-Scale Supermassive Black Hole Population Studies with the ngEHT**|Dominic W. Pesce et.al.|[2212.00779v1](http://arxiv.org/abs/2212.00779v1)|[2212.00779v1](http://arxiv.org/pdf/2212.00779v1)|null|
+|**2022-12-01**|**Are the heliosphere, very local interstellar medium, and local cavity in pressure balance with Galactic gravity**|Jeffrey L. Linsky et.al.|[2212.00777v1](http://arxiv.org/abs/2212.00777v1)|[2212.00777v1](http://arxiv.org/pdf/2212.00777v1)|null|
+|**2022-12-01**|**Distinct signatures of spinning PBH domination and evaporation: doubly peaked gravitational waves, dark relics and CMB complementarity**|Nilanjandev Bhaumik et.al.|[2212.00775v1](http://arxiv.org/abs/2212.00775v1)|[2212.00775v1](http://arxiv.org/pdf/2212.00775v1)|null|
+|**2022-12-01**|**Multi-messenger model for the prompt emission from GRB 221009A**|Annika Rudolph et.al.|[2212.00766v1](http://arxiv.org/abs/2212.00766v1)|[2212.00766v1](http://arxiv.org/pdf/2212.00766v1)|null|
+|**2022-12-01**|**Multi-collision internal shock lepto-hadronic models for energetic GRBs**|Annika Rudolph et.al.|[2212.00765v1](http://arxiv.org/abs/2212.00765v1)|[2212.00765v1](http://arxiv.org/pdf/2212.00765v1)|null|
+|**2022-12-01**|**AGN Feedback in SDSS-IV MaNGA: AGNs Have Suppressed Central Star-Formation Rates**|Caleb Lammers et.al.|[2212.00762v1](http://arxiv.org/abs/2212.00762v1)|[2212.00762v1](http://arxiv.org/pdf/2212.00762v1)|null|
+|**2022-12-01**|**Probing Pseudo-Dirac Neutrinos with Astrophysical Sources at IceCube**|Kiara Carloni et.al.|[2212.00737v1](http://arxiv.org/abs/2212.00737v1)|[2212.00737v1](http://arxiv.org/pdf/2212.00737v1)|null|
+|**2022-12-01**|**First Light: Switching on Stars at the Dawn of Time**|Emma Chapman et.al.|[2212.00733v1](http://arxiv.org/abs/2212.00733v1)|[2212.00733v1](http://arxiv.org/pdf/2212.00733v1)|null|
 |**2022-11-30**|**NuSTAR Observes Two Bulgeless Galaxies: No Hard X-ray AGN Detected in NGC 4178 or J0851+3926**|Ryan W. Pfeifle et.al.|[2211.17271v1](http://arxiv.org/abs/2211.17271v1)|[2211.17271v1](http://arxiv.org/pdf/2211.17271v1)|null|
 |**2022-11-30**|**A numerical study on the role of instabilities on multi-wavelength emission signatures of blazar jets**|Sriyasriti Acharya et.al.|[2211.17270v1](http://arxiv.org/abs/2211.17270v1)|[2211.17270v1](http://arxiv.org/pdf/2211.17270v1)|null|
 |**2022-11-30**|**Positive feedback, quenching and sequential super star cluster (SSC) formation in NGC 4945**|Enrica Bellocchi et.al.|[2211.17268v1](http://arxiv.org/abs/2211.17268v1)|[2211.17268v1](http://arxiv.org/pdf/2211.17268v1)|null|
@@ -1119,6 +1129,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-01**|**Universe Points Representation Learning for Partial Multi-Graph Matching**|Zhakshylyk Nurlanov et.al.|[2212.00780v1](http://arxiv.org/abs/2212.00780v1)|[2212.00780v1](http://arxiv.org/pdf/2212.00780v1)|null|
+|**2022-12-01**|**Fully-Dynamic Decision Trees**|Marco Bressan et.al.|[2212.00778v1](http://arxiv.org/abs/2212.00778v1)|[2212.00778v1](http://arxiv.org/pdf/2212.00778v1)|null|
+|**2022-12-01**|**On Utilizing Relationships for Transferable Few-Shot Fine-Grained Object Detection**|Ambar Pal et.al.|[2212.00770v1](http://arxiv.org/abs/2212.00770v1)|[2212.00770v1](http://arxiv.org/pdf/2212.00770v1)|null|
+|**2022-12-01**|**Exploiting Socially-Aware Tasks for Embodied Social Navigation**|Enrico Cancelli et.al.|[2212.00767v1](http://arxiv.org/abs/2212.00767v1)|[2212.00767v1](http://arxiv.org/pdf/2212.00767v1)|null|
+|**2022-12-01**|**Explainable Artificial Intelligence for Improved Modeling of Processes**|Riza Velioglu et.al.|[2212.00695v1](http://arxiv.org/abs/2212.00695v1)|[2212.00695v1](http://arxiv.org/pdf/2212.00695v1)|**[link](https://github.com/rizavelioglu/ml4prom)**|
+|**2022-12-01**|**Formal Controller Synthesis for Markov Jump Linear Systems with Uncertain Dynamics**|Luke Rickard et.al.|[2212.00679v1](http://arxiv.org/abs/2212.00679v1)|[2212.00679v1](http://arxiv.org/pdf/2212.00679v1)|null|
+|**2022-12-01**|**Prasatul Matrix: A Direct Comparison Approach for Analyzing Evolutionary Optimization Algorithms**|Anupam Biswas et.al.|[2212.00671v1](http://arxiv.org/abs/2212.00671v1)|[2212.00671v1](http://arxiv.org/pdf/2212.00671v1)|**[link](https://github.com/anupambis/Prasatul)**|
+|**2022-12-01**|**Proximity superconductivity in atom-by-atom crafted quantum dots**|Lucas Schneider et.al.|[2212.00657v1](http://arxiv.org/abs/2212.00657v1)|[2212.00657v1](http://arxiv.org/pdf/2212.00657v1)|null|
+|**2022-12-01**|**Probably Approximate Shapley Fairness with Applications in Machine Learning**|Zijian Zhou et.al.|[2212.00630v1](http://arxiv.org/abs/2212.00630v1)|[2212.00630v1](http://arxiv.org/pdf/2212.00630v1)|null|
+|**2022-12-01**|**Vertical Federated Learning: A Structured Literature Review**|Afsana Khan et.al.|[2212.00622v1](http://arxiv.org/abs/2212.00622v1)|[2212.00622v1](http://arxiv.org/pdf/2212.00622v1)|null|
 |**2022-12-01**|**Non-Deterministic Approximation Fixpoint Theory and Its Application in Disjunctive Logic Programming**|Jesse Heyninck et.al.|[2211.17262v2](http://arxiv.org/abs/2211.17262v2)|[2211.17262v2](http://arxiv.org/pdf/2211.17262v2)|null|
 |**2022-11-30**|**SinGRAF: Learning a 3D Generative Radiance Field for a Single Scene**|Minjung Son et.al.|[2211.17260v1](http://arxiv.org/abs/2211.17260v1)|[2211.17260v1](http://arxiv.org/pdf/2211.17260v1)|null|
 |**2022-11-30**|**CREPE: Open-Domain Question Answering with False Presuppositions**|Xinyan Velocity Yu et.al.|[2211.17257v1](http://arxiv.org/abs/2211.17257v1)|[2211.17257v1](http://arxiv.org/pdf/2211.17257v1)|**[link](https://github.com/velocitycavalry/crepe)**|
