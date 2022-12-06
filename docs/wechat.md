@@ -1,4 +1,4 @@
-> Updated on 2022.12.05
+> Updated on 2022.12.06
 
 ## Astrophysics
 
@@ -1139,7 +1139,7 @@
 - 2022-12-02, **Designing Ecosystems of Intelligence from First Principles**, Karl J Friston et.al., Paper: [http://arxiv.org/abs/2212.01354v1](http://arxiv.org/abs/2212.01354v1), Paper: [http://arxiv.org/abs/2212.01354v1](http://arxiv.org/pdf/2212.01354v1)
 - 2022-12-02, **A Bayesian Framework for Digital Twin-Based Control, Monitoring, and Data Collection in Wireless Systems**, Clement Ruah et.al., Paper: [http://arxiv.org/abs/2212.01351v1](http://arxiv.org/abs/2212.01351v1), Paper: [http://arxiv.org/abs/2212.01351v1](http://arxiv.org/pdf/2212.01351v1)
 - 2022-12-02, **Nonparametric Masked Language Modeling**, Sewon Min et.al., Paper: [http://arxiv.org/abs/2212.01349v1](http://arxiv.org/abs/2212.01349v1), Paper: [http://arxiv.org/abs/2212.01349v1](http://arxiv.org/pdf/2212.01349v1)
-- 2022-12-02, **Guaranteed Conformance of Neurosymbolic Models to Natural Constraints**, Kaustubh Sridhar et.al., Paper: [http://arxiv.org/abs/2212.01346v1](http://arxiv.org/abs/2212.01346v1), Paper: [http://arxiv.org/abs/2212.01346v1](http://arxiv.org/pdf/2212.01346v1)
+- 2022-12-02, **Guaranteed Conformance of Neurosymbolic Models to Natural Constraints**, Kaustubh Sridhar et.al., Paper: [http://arxiv.org/abs/2212.01346v1](http://arxiv.org/abs/2212.01346v1),Paper: [http://arxiv.org/abs/2212.01346v1](http://arxiv.org/pdf/2212.01346v1), Code: **[https://github.com/kaustubhsridhar/constrained_models](https://github.com/kaustubhsridhar/constrained_models)**
 - 2022-12-02, **Legal Prompting: Teaching a Language Model to Think Like a Lawyer**, Fangyi Yu et.al., Paper: [http://arxiv.org/abs/2212.01326v1](http://arxiv.org/abs/2212.01326v1), Paper: [http://arxiv.org/abs/2212.01326v1](http://arxiv.org/pdf/2212.01326v1)
 - 2022-12-02, **Gaussian Process regression over discrete probability measures: on the non-stationarity relation between Euclidean and Wasserstein Squared Exponential Kernels**, Antonio Candelieri et.al., Paper: [http://arxiv.org/abs/2212.01310v1](http://arxiv.org/abs/2212.01310v1),Paper: [http://arxiv.org/abs/2212.01310v1](http://arxiv.org/pdf/2212.01310v1), Code: **[https://github.com/acandelieri/waker](https://github.com/acandelieri/waker)**
 - 2022-12-02, **Selecting Mechanical Parameters of a Monopode Jumping System with Reinforcement Learning**, Andrew Albright et.al., Paper: [http://arxiv.org/abs/2212.01303v1](http://arxiv.org/abs/2212.01303v1), Paper: [http://arxiv.org/abs/2212.01303v1](http://arxiv.org/pdf/2212.01303v1)
