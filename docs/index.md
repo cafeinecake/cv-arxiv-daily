@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-06**|**A Lack of Variability Between Repeated Spitzer Phase Curves of WASP-43b**|Matthew M. Murphy et.al.|[2212.03240v1](http://arxiv.org/abs/2212.03240v1)|[2212.03240v1](http://arxiv.org/pdf/2212.03240v1)|null|
+|**2022-12-06**|**Spatially Homogeneous Universes with Late-Time Anisotropy**|Andrei Constantin et.al.|[2212.03234v1](http://arxiv.org/abs/2212.03234v1)|[2212.03234v1](http://arxiv.org/pdf/2212.03234v1)|null|
+|**2022-12-06**|**On the statistical relation between the halo mass function and the internal structure of dark matter haloes**|T. R. G. Richardson et.al.|[2212.03233v1](http://arxiv.org/abs/2212.03233v1)|[2212.03233v1](http://arxiv.org/pdf/2212.03233v1)|null|
+|**2022-12-06**|**Particle acceleration in shearing flows: the self-generation of turbulent spine-sheath structures in relativistic MHD jet simulations**|Jie-Shuang Wang et.al.|[2212.03226v1](http://arxiv.org/abs/2212.03226v1)|[2212.03226v1](http://arxiv.org/pdf/2212.03226v1)|null|
+|**2022-12-06**|**The softness diagram for MaNGA star-forming regions: diffuse ionized gas contamination or local HOLMES predominance?**|Enrique Pérez-Montero et.al.|[2212.03216v1](http://arxiv.org/abs/2212.03216v1)|[2212.03216v1](http://arxiv.org/pdf/2212.03216v1)|null|
+|**2022-12-06**|**Steady states of the Parker instability**|Devika Tharakkal et.al.|[2212.03215v1](http://arxiv.org/abs/2212.03215v1)|[2212.03215v1](http://arxiv.org/pdf/2212.03215v1)|null|
+|**2022-12-06**|**Resolved near-UV hydrogen emission lines at 40-Myr super-Jovian protoplanet Delorme 1 (AB)b: Indications of magnetospheric accretion**|Simon C. Ringqvist et.al.|[2212.03207v1](http://arxiv.org/abs/2212.03207v1)|[2212.03207v1](http://arxiv.org/pdf/2212.03207v1)|null|
+|**2022-12-06**|**Chromatic optical polarization of BL Lac: while faint and bright**|Elena Shablovinskaya et.al.|[2212.03200v1](http://arxiv.org/abs/2212.03200v1)|[2212.03200v1](http://arxiv.org/pdf/2212.03200v1)|null|
+|**2022-12-06**|**Neutrino production in blazar radio cores**|O. E. Kalashev et.al.|[2212.03151v1](http://arxiv.org/abs/2212.03151v1)|[2212.03151v1](http://arxiv.org/pdf/2212.03151v1)|null|
+|**2022-12-06**|**Stringent Pulsar Timing Bounds on Light Scalar Couplings to Matter**|David Benisty et.al.|[2212.03098v1](http://arxiv.org/abs/2212.03098v1)|[2212.03098v1](http://arxiv.org/pdf/2212.03098v1)|null|
 |**2022-12-05**|**Improved radius determinations for the transiting brown dwarf population in the era of Gaia and TESS**|Theron W. Carmichael et.al.|[2212.02502v1](http://arxiv.org/abs/2212.02502v1)|[2212.02502v1](http://arxiv.org/pdf/2212.02502v1)|null|
 |**2022-12-05**|**Giant Planet Observations in NASA's Planetary Data System**|Nancy J. Chanover et.al.|[2212.02492v1](http://arxiv.org/abs/2212.02492v1)|[2212.02492v1](http://arxiv.org/pdf/2212.02492v1)|null|
 |**2022-12-05**|**Evolution of the Mass-Metallicity Relation from Redshift $z\approx8$ to the Local Universe**|Danial Langeroodi et.al.|[2212.02491v1](http://arxiv.org/abs/2212.02491v1)|[2212.02491v1](http://arxiv.org/pdf/2212.02491v1)|null|
@@ -1153,6 +1163,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-06**|**Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior**|Gabriel B Margolis et.al.|[2212.03238v1](http://arxiv.org/abs/2212.03238v1)|[2212.03238v1](http://arxiv.org/pdf/2212.03238v1)|null|
+|**2022-12-06**|**Towards A Most Probable Recovery in Optical Imaging**|Nadav Torem et.al.|[2212.03235v1](http://arxiv.org/abs/2212.03235v1)|[2212.03235v1](http://arxiv.org/pdf/2212.03235v1)|null|
+|**2022-12-06**|**Learning the joint distribution of two sequences using little or no paired data**|Soroosh Mariooryad et.al.|[2212.03232v1](http://arxiv.org/abs/2212.03232v1)|[2212.03232v1](http://arxiv.org/pdf/2212.03232v1)|null|
+|**2022-12-06**|**Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning**|Cheng-Hao Tu et.al.|[2212.03220v1](http://arxiv.org/abs/2212.03220v1)|[2212.03220v1](http://arxiv.org/pdf/2212.03220v1)|null|
+|**2022-12-06**|**The softness diagram for MaNGA star-forming regions: diffuse ionized gas contamination or local HOLMES predominance?**|Enrique Pérez-Montero et.al.|[2212.03216v1](http://arxiv.org/abs/2212.03216v1)|[2212.03216v1](http://arxiv.org/pdf/2212.03216v1)|null|
+|**2022-12-06**|**Machine Learning Scoring Functions for Drug Discoveries from Experimental and Synthetic Protein-Ligand Structures: Towards Per-target Scoring Functions**|F. Pellicani et.al.|[2212.03202v1](http://arxiv.org/abs/2212.03202v1)|[2212.03202v1](http://arxiv.org/pdf/2212.03202v1)|null|
+|**2022-12-06**|**Misspecification in Inverse Reinforcement Learning**|Joar Skalse et.al.|[2212.03201v1](http://arxiv.org/abs/2212.03201v1)|[2212.03201v1](http://arxiv.org/pdf/2212.03201v1)|null|
+|**2022-12-06**|**An Unsupervised Machine Learning Approach for Ground Motion Clustering and Selection**|R. Bailey Bond et.al.|[2212.03188v1](http://arxiv.org/abs/2212.03188v1)|[2212.03188v1](http://arxiv.org/pdf/2212.03188v1)|null|
+|**2022-12-06**|**Neural Machine Translation with Contrastive Translation Memories**|Xin Cheng et.al.|[2212.03140v1](http://arxiv.org/abs/2212.03140v1)|[2212.03140v1](http://arxiv.org/pdf/2212.03140v1)|**[link](https://github.com/hannibal046/nmt_with_contrastive_memories)**|
+|**2022-12-06**|**Explainability as statistical inference**|Hugo Henri Joseph Senetaire et.al.|[2212.03131v1](http://arxiv.org/abs/2212.03131v1)|[2212.03131v1](http://arxiv.org/pdf/2212.03131v1)|null|
 |**2022-12-05**|**SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**|Anh-Quan Cao et.al.|[2212.02501v1](http://arxiv.org/abs/2212.02501v1)|[2212.02501v1](http://arxiv.org/pdf/2212.02501v1)|null|
 |**2022-12-05**|**PhysDiff: Physics-Guided Human Motion Diffusion Model**|Ye Yuan et.al.|[2212.02500v1](http://arxiv.org/abs/2212.02500v1)|[2212.02500v1](http://arxiv.org/pdf/2212.02500v1)|null|
 |**2022-12-05**|**PEANUT: Predicting and Navigating to Unseen Targets**|Albert J. Zhai et.al.|[2212.02497v1](http://arxiv.org/abs/2212.02497v1)|[2212.02497v1](http://arxiv.org/pdf/2212.02497v1)|null|
