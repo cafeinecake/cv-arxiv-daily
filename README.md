@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-07**|**Detectability of Sub-Solar Mass Neutron Stars Through a Template Bank Search**|Ananya Bandopadhyay et.al.|[2212.03855v1](http://arxiv.org/abs/2212.03855v1)|[2212.03855v1](http://arxiv.org/pdf/2212.03855v1)|null|
+|**2022-12-07**|**The Effects of Early Collisional Evolution on Amorphous Water Ice Bodies**|Jordan K. Steckloff et.al.|[2212.03852v1](http://arxiv.org/abs/2212.03852v1)|[2212.03852v1](http://arxiv.org/pdf/2212.03852v1)|null|
+|**2022-12-07**|**Three Ultra-short Period Contact Eclipsing Binary Systems Mined from Massive Astronomical Surveys**|A. Papageorgiou et.al.|[2212.03838v1](http://arxiv.org/abs/2212.03838v1)|[2212.03838v1](http://arxiv.org/pdf/2212.03838v1)|null|
+|**2022-12-07**|**Surfing in the phase space of spin-orbit coupling in binary asteroid systems**|Mahdi Jafari Nadoushan et.al.|[2212.03837v1](http://arxiv.org/abs/2212.03837v1)|[2212.03837v1](http://arxiv.org/pdf/2212.03837v1)|null|
+|**2022-12-07**|**The effect of interior heat flux on the atmospheric circulation of hot and ultra-hot Jupiters**|Thaddeus D. Komacek et.al.|[2212.03833v1](http://arxiv.org/abs/2212.03833v1)|[2212.03833v1](http://arxiv.org/pdf/2212.03833v1)|null|
+|**2022-12-07**|**Measurement in a Unitary World**|Vishal Johnson et.al.|[2212.03829v1](http://arxiv.org/abs/2212.03829v1)|[2212.03829v1](http://arxiv.org/pdf/2212.03829v1)|null|
+|**2022-12-07**|**Modified gravity and cosmology with nonminimal (derivative) coupling between matter and the Einstein tensor**|Petros Asimakis et.al.|[2212.03821v1](http://arxiv.org/abs/2212.03821v1)|[2212.03821v1](http://arxiv.org/pdf/2212.03821v1)|null|
+|**2022-12-07**|**A Neural Network Approach for Selecting Track-like Events in Fluorescence Telescope Data**|Mikhail Zotov et.al.|[2212.03787v1](http://arxiv.org/abs/2212.03787v1)|[2212.03787v1](http://arxiv.org/pdf/2212.03787v1)|null|
+|**2022-12-07**|**The Distance to High-Velocity Cloud Complex M**|G. L. Verschuur et.al.|[2212.03784v1](http://arxiv.org/abs/2212.03784v1)|[2212.03784v1](http://arxiv.org/pdf/2212.03784v1)|null|
+|**2022-12-07**|**Search for planets around stars with wide brown dwarfs**|J. Šubjak et.al.|[2212.03757v1](http://arxiv.org/abs/2212.03757v1)|[2212.03757v1](http://arxiv.org/pdf/2212.03757v1)|null|
 |**2022-12-06**|**A Lack of Variability Between Repeated Spitzer Phase Curves of WASP-43b**|Matthew M. Murphy et.al.|[2212.03240v1](http://arxiv.org/abs/2212.03240v1)|[2212.03240v1](http://arxiv.org/pdf/2212.03240v1)|null|
 |**2022-12-06**|**Spatially Homogeneous Universes with Late-Time Anisotropy**|Andrei Constantin et.al.|[2212.03234v1](http://arxiv.org/abs/2212.03234v1)|[2212.03234v1](http://arxiv.org/pdf/2212.03234v1)|null|
 |**2022-12-06**|**On the statistical relation between the halo mass function and the internal structure of dark matter haloes**|T. R. G. Richardson et.al.|[2212.03233v1](http://arxiv.org/abs/2212.03233v1)|[2212.03233v1](http://arxiv.org/pdf/2212.03233v1)|null|
@@ -1159,6 +1169,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-07**|**Point Cloud Registration of non-rigid objects in sparse 3D Scans with applications in Mixed Reality**|Manorama Jha et.al.|[2212.03856v1](http://arxiv.org/abs/2212.03856v1)|[2212.03856v1](http://arxiv.org/pdf/2212.03856v1)|null|
+|**2022-12-07**|**Discovering Latent Knowledge in Language Models Without Supervision**|Collin Burns et.al.|[2212.03827v1](http://arxiv.org/abs/2212.03827v1)|[2212.03827v1](http://arxiv.org/pdf/2212.03827v1)|**[link](https://github.com/collin-burns/discovering_latent_knowledge)**|
+|**2022-12-07**|**Toward Multi-Service Edge-Intelligence Paradigm: Temporal-Adaptive Prediction for Time-Critical Control over Wireless**|Adnan Aijaz et.al.|[2212.03809v1](http://arxiv.org/abs/2212.03809v1)|[2212.03809v1](http://arxiv.org/pdf/2212.03809v1)|null|
+|**2022-12-07**|**Towards Explainable Motion Prediction using Heterogeneous Graph Representations**|Sandra Carrasco Limeros et.al.|[2212.03806v1](http://arxiv.org/abs/2212.03806v1)|[2212.03806v1](http://arxiv.org/pdf/2212.03806v1)|**[link](https://github.com/sancarlim/explainable-mp)**|
+|**2022-12-07**|**Expressive architectures enhance interpretability of dynamics-based neural population models**|Andrew R. Sedler et.al.|[2212.03771v1](http://arxiv.org/abs/2212.03771v1)|[2212.03771v1](http://arxiv.org/pdf/2212.03771v1)|null|
+|**2022-12-07**|**Generalized Gradient Flows with Provable Fixed-Time Convergence and Fast Evasion of Non-Degenerate Saddle Points**|Mayank Baranwal et.al.|[2212.03765v1](http://arxiv.org/abs/2212.03765v1)|[2212.03765v1](http://arxiv.org/pdf/2212.03765v1)|null|
+|**2022-12-07**|**Specifying Behavior Preference with Tiered Reward Functions**|Zhiyuan Zhou et.al.|[2212.03733v1](http://arxiv.org/abs/2212.03733v1)|[2212.03733v1](http://arxiv.org/pdf/2212.03733v1)|**[link](https://github.com/zhouzypaul/tiered-reward)**|
+|**2022-12-07**|**Intervening With Confidence: Conformal Prescriptive Monitoring of Business Processes**|Mahmoud Shoush et.al.|[2212.03710v1](http://arxiv.org/abs/2212.03710v1)|[2212.03710v1](http://arxiv.org/pdf/2212.03710v1)|**[link](https://github.com/mshoush/conformal-prescriptive-monitoring)**|
+|**2022-12-07**|**Face Forgery Detection Based on Facial Region Displacement Trajectory Series**|YuYang Sun et.al.|[2212.03678v1](http://arxiv.org/abs/2212.03678v1)|[2212.03678v1](http://arxiv.org/pdf/2212.03678v1)|null|
+|**2022-12-07**|**Towards Automatic Cetacean Photo-Identification: A Framework for Fine-Grain, Few-Shot Learning in Marine Ecology**|Cameron Trotter et.al.|[2212.03646v1](http://arxiv.org/abs/2212.03646v1)|[2212.03646v1](http://arxiv.org/pdf/2212.03646v1)|null|
 |**2022-12-06**|**Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior**|Gabriel B Margolis et.al.|[2212.03238v1](http://arxiv.org/abs/2212.03238v1)|[2212.03238v1](http://arxiv.org/pdf/2212.03238v1)|null|
 |**2022-12-06**|**Towards A Most Probable Recovery in Optical Imaging**|Nadav Torem et.al.|[2212.03235v1](http://arxiv.org/abs/2212.03235v1)|[2212.03235v1](http://arxiv.org/pdf/2212.03235v1)|null|
 |**2022-12-06**|**Learning the joint distribution of two sequences using little or no paired data**|Soroosh Mariooryad et.al.|[2212.03232v1](http://arxiv.org/abs/2212.03232v1)|[2212.03232v1](http://arxiv.org/pdf/2212.03232v1)|null|
