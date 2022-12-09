@@ -1,10 +1,10 @@
-## Updated on 2022.12.08
+## Updated on 2022.12.09
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2022-12-07**|**Detectability of Sub-Solar Mass Neutron Stars Through a Template Bank Search**|Ananya Bandopadhyay et.al.|[2212.03855v1](http://arxiv.org/abs/2212.03855v1)|[2212.03855v1](http://arxiv.org/pdf/2212.03855v1)|null|
+|**2022-12-07**|**Detectability of Sub-Solar Mass Neutron Stars Through a Template Bank Search**|Ananya Bandopadhyay et.al.|[2212.03855v1](http://arxiv.org/abs/2212.03855v1)|[2212.03855v1](http://arxiv.org/pdf/2212.03855v1)|**[link](https://github.com/sugwg/sub-solar-ns-detectability)**|
 |**2022-12-07**|**The Effects of Early Collisional Evolution on Amorphous Water Ice Bodies**|Jordan K. Steckloff et.al.|[2212.03852v1](http://arxiv.org/abs/2212.03852v1)|[2212.03852v1](http://arxiv.org/pdf/2212.03852v1)|null|
 |**2022-12-07**|**Three Ultra-short Period Contact Eclipsing Binary Systems Mined from Massive Astronomical Surveys**|A. Papageorgiou et.al.|[2212.03838v1](http://arxiv.org/abs/2212.03838v1)|[2212.03838v1](http://arxiv.org/pdf/2212.03838v1)|null|
 |**2022-12-07**|**Surfing in the phase space of spin-orbit coupling in binary asteroid systems**|Mahdi Jafari Nadoushan et.al.|[2212.03837v1](http://arxiv.org/abs/2212.03837v1)|[2212.03837v1](http://arxiv.org/pdf/2212.03837v1)|null|
