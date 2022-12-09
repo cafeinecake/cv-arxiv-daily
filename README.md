@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-08**|**What it takes to solve the Hubble tension through modifications of cosmological recombination**|Nanoom Lee et.al.|[2212.04494v1](http://arxiv.org/abs/2212.04494v1)|[2212.04494v1](http://arxiv.org/pdf/2212.04494v1)|null|
+|**2022-12-08**|**A roadmap to cosmological parameter analysis with third-order shear statistics II: Analytic covariance estimate**|Laila Linke et.al.|[2212.04485v1](http://arxiv.org/abs/2212.04485v1)|[2212.04485v1](http://arxiv.org/pdf/2212.04485v1)|null|
+|**2022-12-08**|**Observational Constraints on Warm Natural Inflation**|Gabriele Montefalcone et.al.|[2212.04482v1](http://arxiv.org/abs/2212.04482v1)|[2212.04482v1](http://arxiv.org/pdf/2212.04482v1)|null|
+|**2022-12-08**|**Discovery and properties of the earliest galaxies with confirmed distances**|B. E. Robertson et.al.|[2212.04480v1](http://arxiv.org/abs/2212.04480v1)|[2212.04480v1](http://arxiv.org/pdf/2212.04480v1)|null|
+|**2022-12-08**|**A strong He II $λ$1640 emitter with extremely blue UV spectral slope at $z=8.16$: presence of Pop III stars?**|Xin Wang et.al.|[2212.04476v1](http://arxiv.org/abs/2212.04476v1)|[2212.04476v1](http://arxiv.org/pdf/2212.04476v1)|null|
+|**2022-12-08**|**Multi-Clustering Needlet-ILC for CMB B-modes component separation**|Alessandro Carones et.al.|[2212.04456v1](http://arxiv.org/abs/2212.04456v1)|[2212.04456v1](http://arxiv.org/pdf/2212.04456v1)|null|
+|**2022-12-08**|**XMM-Newton and Chandra observations of the candidate Fermi-LAT pulsar 4FGL J1015.5-6030**|Jeremy Hare et.al.|[2212.04455v1](http://arxiv.org/abs/2212.04455v1)|[2212.04455v1](http://arxiv.org/pdf/2212.04455v1)|null|
+|**2022-12-08**|**The Pan-STARRS1 z>5.6 quasar survey II: Discovery of 55 Quasars at 5.6<z<6.5**|Eduardo Banados et.al.|[2212.04452v1](http://arxiv.org/abs/2212.04452v1)|[2212.04452v1](http://arxiv.org/pdf/2212.04452v1)|null|
+|**2022-12-08**|**Detection of Dipole Modulation in CMB temperature anisotropy maps from WMAP and Planck using Artificial Intelligence**|Md Ishaque Khan et.al.|[2212.04438v1](http://arxiv.org/abs/2212.04438v1)|[2212.04438v1](http://arxiv.org/pdf/2212.04438v1)|null|
+|**2022-12-08**|**An Effective Sign Switching Dark Energy: Lotka-Volterra Model of Two Interacting Fluids**|Yen Chin Ong et.al.|[2212.04429v1](http://arxiv.org/abs/2212.04429v1)|[2212.04429v1](http://arxiv.org/pdf/2212.04429v1)|null|
 |**2022-12-07**|**Detectability of Sub-Solar Mass Neutron Stars Through a Template Bank Search**|Ananya Bandopadhyay et.al.|[2212.03855v1](http://arxiv.org/abs/2212.03855v1)|[2212.03855v1](http://arxiv.org/pdf/2212.03855v1)|**[link](https://github.com/sugwg/sub-solar-ns-detectability)**|
 |**2022-12-07**|**The Effects of Early Collisional Evolution on Amorphous Water Ice Bodies**|Jordan K. Steckloff et.al.|[2212.03852v1](http://arxiv.org/abs/2212.03852v1)|[2212.03852v1](http://arxiv.org/pdf/2212.03852v1)|null|
 |**2022-12-07**|**Three Ultra-short Period Contact Eclipsing Binary Systems Mined from Massive Astronomical Surveys**|A. Papageorgiou et.al.|[2212.03838v1](http://arxiv.org/abs/2212.03838v1)|[2212.03838v1](http://arxiv.org/pdf/2212.03838v1)|null|
@@ -1169,6 +1179,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-08**|**VideoDex: Learning Dexterity from Internet Videos**|Kenneth Shaw et.al.|[2212.04498v1](http://arxiv.org/abs/2212.04498v1)|[2212.04498v1](http://arxiv.org/pdf/2212.04498v1)|null|
+|**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|[2212.04489v1](http://arxiv.org/pdf/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
+|**2022-12-08**|**DP-RAFT: A Differentially Private Recipe for Accelerated Fine-Tuning**|Ashwinee Panda et.al.|[2212.04486v1](http://arxiv.org/abs/2212.04486v1)|[2212.04486v1](http://arxiv.org/pdf/2212.04486v1)|null|
+|**2022-12-08**|**General-Purpose In-Context Learning by Meta-Learning Transformers**|Louis Kirsch et.al.|[2212.04458v1](http://arxiv.org/abs/2212.04458v1)|[2212.04458v1](http://arxiv.org/pdf/2212.04458v1)|null|
+|**2022-12-08**|**XRand: Differentially Private Defense against Explanation-Guided Attacks**|Truc Nguyen et.al.|[2212.04454v1](http://arxiv.org/abs/2212.04454v1)|[2212.04454v1](http://arxiv.org/pdf/2212.04454v1)|null|
+|**2022-12-08**|**Detection of Dipole Modulation in CMB temperature anisotropy maps from WMAP and Planck using Artificial Intelligence**|Md Ishaque Khan et.al.|[2212.04438v1](http://arxiv.org/abs/2212.04438v1)|[2212.04438v1](http://arxiv.org/pdf/2212.04438v1)|null|
+|**2022-12-08**|**Mining Explainable Predictive Features for Water Quality Management**|Conor Muldoon et.al.|[2212.04419v1](http://arxiv.org/abs/2212.04419v1)|[2212.04419v1](http://arxiv.org/pdf/2212.04419v1)|null|
+|**2022-12-08**|**OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models**|Jinze Bai et.al.|[2212.04408v1](http://arxiv.org/abs/2212.04408v1)|[2212.04408v1](http://arxiv.org/pdf/2212.04408v1)|**[link](https://github.com/ofa-sys/ofasys)**|
+|**2022-12-08**|**A Rubric for Human-like Agents and NeuroAI**|Ida Momennejad et.al.|[2212.04401v1](http://arxiv.org/abs/2212.04401v1)|[2212.04401v1](http://arxiv.org/pdf/2212.04401v1)|null|
+|**2022-12-08**|**BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation**|Dong An et.al.|[2212.04385v1](http://arxiv.org/abs/2212.04385v1)|[2212.04385v1](http://arxiv.org/pdf/2212.04385v1)|null|
 |**2022-12-07**|**Point Cloud Registration of non-rigid objects in sparse 3D Scans with applications in Mixed Reality**|Manorama Jha et.al.|[2212.03856v1](http://arxiv.org/abs/2212.03856v1)|[2212.03856v1](http://arxiv.org/pdf/2212.03856v1)|null|
 |**2022-12-07**|**Discovering Latent Knowledge in Language Models Without Supervision**|Collin Burns et.al.|[2212.03827v1](http://arxiv.org/abs/2212.03827v1)|[2212.03827v1](http://arxiv.org/pdf/2212.03827v1)|**[link](https://github.com/collin-burns/discovering_latent_knowledge)**|
 |**2022-12-07**|**Toward Multi-Service Edge-Intelligence Paradigm: Temporal-Adaptive Prediction for Time-Critical Control over Wireless**|Adnan Aijaz et.al.|[2212.03809v1](http://arxiv.org/abs/2212.03809v1)|[2212.03809v1](http://arxiv.org/pdf/2212.03809v1)|null|
