@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-09**|**GCM Constraints on the Detectability of the CO$_2$-CH$_4$ Biosignature Pair on TRAPPIST-1e with JWST**|Yoav Rotman et.al.|[2212.05052v1](http://arxiv.org/abs/2212.05052v1)|[2212.05052v1](http://arxiv.org/pdf/2212.05052v1)|null|
+|**2022-12-09**|**Signatures of dynamic fibrils at the coronal base: Observations from Solar Orbiter/EUI**|Sudip Mandal et.al.|[2212.05025v1](http://arxiv.org/abs/2212.05025v1)|[2212.05025v1](http://arxiv.org/pdf/2212.05025v1)|null|
+|**2022-12-09**|**Detailed analysis of the variable star population in the globular cluster NGC 7006**|A. Arellano Ferro et.al.|[2212.05021v1](http://arxiv.org/abs/2212.05021v1)|[2212.05021v1](http://arxiv.org/pdf/2212.05021v1)|null|
+|**2022-12-09**|**Orbits of the TOI-1338 and TIC-172900988 systems**|Dionysios Gakis et.al.|[2212.05016v1](http://arxiv.org/abs/2212.05016v1)|[2212.05016v1](http://arxiv.org/pdf/2212.05016v1)|null|
+|**2022-12-09**|**Constraining galactic baryon cycle using the galaxy stellar-to-halo mass relations**|Yaoxin Chen et.al.|[2212.05007v1](http://arxiv.org/abs/2212.05007v1)|[2212.05007v1](http://arxiv.org/pdf/2212.05007v1)|null|
+|**2022-12-09**|**Growth of Cosmic Structure**|Dragan Huterer et.al.|[2212.05003v1](http://arxiv.org/abs/2212.05003v1)|[2212.05003v1](http://arxiv.org/pdf/2212.05003v1)|null|
+|**2022-12-09**|**Impact of HAC evolution on the formation of small hydrocarbons in the Orion Bar and the Horsehead PDRs**|M. S. Murga et.al.|[2212.04993v1](http://arxiv.org/abs/2212.04993v1)|[2212.04993v1](http://arxiv.org/pdf/2212.04993v1)|null|
+|**2022-12-09**|**Spicules in IRIS Mg II Observations: Automated Identification**|Vicki L. Herde et.al.|[2212.04990v1](http://arxiv.org/abs/2212.04990v1)|[2212.04990v1](http://arxiv.org/pdf/2212.04990v1)|null|
+|**2022-12-09**|**The role of the drag force in the gravitational stability of dusty planet forming disc -- I. Analytical theory**|Cristiano Longarini et.al.|[2212.04986v1](http://arxiv.org/abs/2212.04986v1)|[2212.04986v1](http://arxiv.org/pdf/2212.04986v1)|null|
+|**2022-12-09**|**Exploring the single-pulse behaviours of PSR J0628+0909 with FAST**|J. A. Hsu et.al.|[2212.04962v1](http://arxiv.org/abs/2212.04962v1)|[2212.04962v1](http://arxiv.org/pdf/2212.04962v1)|null|
 |**2022-12-08**|**What it takes to solve the Hubble tension through modifications of cosmological recombination**|Nanoom Lee et.al.|[2212.04494v1](http://arxiv.org/abs/2212.04494v1)|[2212.04494v1](http://arxiv.org/pdf/2212.04494v1)|null|
 |**2022-12-08**|**A roadmap to cosmological parameter analysis with third-order shear statistics II: Analytic covariance estimate**|Laila Linke et.al.|[2212.04485v1](http://arxiv.org/abs/2212.04485v1)|[2212.04485v1](http://arxiv.org/pdf/2212.04485v1)|**[link](https://github.com/sheydenreich/threepoint)**|
 |**2022-12-08**|**Observational Constraints on Warm Natural Inflation**|Gabriele Montefalcone et.al.|[2212.04482v1](http://arxiv.org/abs/2212.04482v1)|[2212.04482v1](http://arxiv.org/pdf/2212.04482v1)|null|
@@ -1179,6 +1189,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-09**|**OmniHorizon: In-the-Wild Outdoors Depth and Normal Estimation from Synthetic Omnidirectional Dataset**|Jay Bhanushali et.al.|[2212.05040v1](http://arxiv.org/abs/2212.05040v1)|[2212.05040v1](http://arxiv.org/pdf/2212.05040v1)|null|
+|**2022-12-09**|**Scalable Graph Convolutional Network Training on Distributed-Memory Systems**|Gunduz Vehbi Demirci et.al.|[2212.05009v1](http://arxiv.org/abs/2212.05009v1)|[2212.05009v1](http://arxiv.org/pdf/2212.05009v1)|null|
+|**2022-12-09**|**Regulating Gatekeeper AI and Data: Transparency, Access, and Fairness under the DMA, the GDPR, and beyond**|Philipp Hacker et.al.|[2212.04997v1](http://arxiv.org/abs/2212.04997v1)|[2212.04997v1](http://arxiv.org/pdf/2212.04997v1)|null|
+|**2022-12-09**|**MOPRD: A multidisciplinary open peer review dataset**|Jialiang Lin et.al.|[2212.04972v1](http://arxiv.org/abs/2212.04972v1)|[2212.04972v1](http://arxiv.org/pdf/2212.04972v1)|null|
+|**2022-12-09**|**Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers**|Yasheng Sun et.al.|[2212.04970v1](http://arxiv.org/abs/2212.04970v1)|[2212.04970v1](http://arxiv.org/pdf/2212.04970v1)|null|
+|**2022-12-09**|**TargetCall: Eliminating the Wasted Computation in Basecalling via Pre-Basecalling Filtering**|Meryem Banu Cavlak et.al.|[2212.04953v1](http://arxiv.org/abs/2212.04953v1)|[2212.04953v1](http://arxiv.org/pdf/2212.04953v1)|null|
+|**2022-12-09**|**Digital quantum simulation of Schrödinger dynamics using adaptive approximations of potential functions**|Tenzan Araki et.al.|[2212.04942v1](http://arxiv.org/abs/2212.04942v1)|[2212.04942v1](http://arxiv.org/pdf/2212.04942v1)|null|
+|**2022-12-09**|**Emergent Computations in Trained Artificial Neural Networks and Real Brains**|Nestor Parga et.al.|[2212.04938v1](http://arxiv.org/abs/2212.04938v1)|[2212.04938v1](http://arxiv.org/pdf/2212.04938v1)|null|
+|**2022-12-09**|**Learning Graph Algorithms With Recurrent Graph Neural Networks**|Florian Grötschla et.al.|[2212.04934v1](http://arxiv.org/abs/2212.04934v1)|[2212.04934v1](http://arxiv.org/pdf/2212.04934v1)|**[link](https://github.com/floriangroetschla/recurrent-gnns-for-algorithm-learning)**|
+|**2022-12-09**|**TRBLLmaker -- Transformer Reads Between Lyrics Lines maker**|Mor Ventura et.al.|[2212.04917v1](http://arxiv.org/abs/2212.04917v1)|[2212.04917v1](http://arxiv.org/pdf/2212.04917v1)|null|
 |**2022-12-08**|**VideoDex: Learning Dexterity from Internet Videos**|Kenneth Shaw et.al.|[2212.04498v1](http://arxiv.org/abs/2212.04498v1)|[2212.04498v1](http://arxiv.org/pdf/2212.04498v1)|null|
 |**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|[2212.04489v1](http://arxiv.org/pdf/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
 |**2022-12-08**|**DP-RAFT: A Differentially Private Recipe for Accelerated Fine-Tuning**|Ashwinee Panda et.al.|[2212.04486v1](http://arxiv.org/abs/2212.04486v1)|[2212.04486v1](http://arxiv.org/pdf/2212.04486v1)|null|
