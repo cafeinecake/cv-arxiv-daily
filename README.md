@@ -1,4 +1,4 @@
-## Updated on 2022.12.11
+## Updated on 2022.12.12
 
 ## Astrophysics
 
@@ -1185,7 +1185,7 @@
 |**2022-12-08**|**General-Purpose In-Context Learning by Meta-Learning Transformers**|Louis Kirsch et.al.|[2212.04458v1](http://arxiv.org/abs/2212.04458v1)|[2212.04458v1](http://arxiv.org/pdf/2212.04458v1)|null|
 |**2022-12-08**|**XRand: Differentially Private Defense against Explanation-Guided Attacks**|Truc Nguyen et.al.|[2212.04454v1](http://arxiv.org/abs/2212.04454v1)|[2212.04454v1](http://arxiv.org/pdf/2212.04454v1)|null|
 |**2022-12-08**|**Detection of Dipole Modulation in CMB temperature anisotropy maps from WMAP and Planck using Artificial Intelligence**|Md Ishaque Khan et.al.|[2212.04438v1](http://arxiv.org/abs/2212.04438v1)|[2212.04438v1](http://arxiv.org/pdf/2212.04438v1)|null|
-|**2022-12-08**|**Mining Explainable Predictive Features for Water Quality Management**|Conor Muldoon et.al.|[2212.04419v1](http://arxiv.org/abs/2212.04419v1)|[2212.04419v1](http://arxiv.org/pdf/2212.04419v1)|null|
+|**2022-12-09**|**Mining Explainable Predictive Features for Water Quality Management**|Conor Muldoon et.al.|[2212.04419v2](http://arxiv.org/abs/2212.04419v2)|[2212.04419v2](http://arxiv.org/pdf/2212.04419v2)|null|
 |**2022-12-08**|**OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models**|Jinze Bai et.al.|[2212.04408v1](http://arxiv.org/abs/2212.04408v1)|[2212.04408v1](http://arxiv.org/pdf/2212.04408v1)|**[link](https://github.com/ofa-sys/ofasys)**|
 |**2022-12-08**|**A Rubric for Human-like Agents and NeuroAI**|Ida Momennejad et.al.|[2212.04401v1](http://arxiv.org/abs/2212.04401v1)|[2212.04401v1](http://arxiv.org/pdf/2212.04401v1)|null|
 |**2022-12-08**|**BEVBert: Topo-Metric Map Pre-training for Language-guided Navigation**|Dong An et.al.|[2212.04385v1](http://arxiv.org/abs/2212.04385v1)|[2212.04385v1](http://arxiv.org/pdf/2212.04385v1)|null|
