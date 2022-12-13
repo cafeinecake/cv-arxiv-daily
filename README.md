@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-12**|**Black Hole Binary Formation in AGN Discs: From Isolation to Merger**|Connar Rowan et.al.|[2212.06133v1](http://arxiv.org/abs/2212.06133v1)|[2212.06133v1](http://arxiv.org/pdf/2212.06133v1)|null|
+|**2022-12-12**|**Cosmic voids are emptier in the presence of symmetron's domain walls**|Bahar Nosrati et.al.|[2212.06119v1](http://arxiv.org/abs/2212.06119v1)|[2212.06119v1](http://arxiv.org/pdf/2212.06119v1)|null|
+|**2022-12-12**|**From Cosmic Inflation and Matter Creation to Dark Matter - Journey of the Inflaton?**|B. S. Balakrishna et.al.|[2212.06117v1](http://arxiv.org/abs/2212.06117v1)|[2212.06117v1](http://arxiv.org/pdf/2212.06117v1)|null|
+|**2022-12-12**|**Model selection using time-delay lenses**|Fulvio Melia et.al.|[2212.06113v1](http://arxiv.org/abs/2212.06113v1)|[2212.06113v1](http://arxiv.org/pdf/2212.06113v1)|null|
+|**2022-12-12**|**Free-free absorption parameters of Cassiopeia A from low-frequency interferometric observations**|Lev A. Stanislavsky et.al.|[2212.06104v1](http://arxiv.org/abs/2212.06104v1)|[2212.06104v1](http://arxiv.org/pdf/2212.06104v1)|null|
+|**2022-12-12**|**Solving the Teukolsky equation with physics-informed neural networks**|Raimon Luna et.al.|[2212.06103v1](http://arxiv.org/abs/2212.06103v1)|[2212.06103v1](http://arxiv.org/pdf/2212.06103v1)|null|
+|**2022-12-12**|**On de Sitter Spacetime and String Theory**|Per Berglund et.al.|[2212.06086v1](http://arxiv.org/abs/2212.06086v1)|[2212.06086v1](http://arxiv.org/pdf/2212.06086v1)|null|
+|**2022-12-12**|**Modified propagation of gravitational waves from the early radiation era**|Yutong He et.al.|[2212.06082v1](http://arxiv.org/abs/2212.06082v1)|[2212.06082v1](http://arxiv.org/pdf/2212.06082v1)|null|
+|**2022-12-12**|**Statistical properties of Galactic synchrotron temperature and polarization maps -- a multi-frequency comparison**|Fazlu Rahman et.al.|[2212.06076v1](http://arxiv.org/abs/2212.06076v1)|[2212.06076v1](http://arxiv.org/pdf/2212.06076v1)|null|
+|**2022-12-12**|**Striped Jets in Post Neutron Star Merger Systems**|Emma Kaufman et.al.|[2212.06058v1](http://arxiv.org/abs/2212.06058v1)|[2212.06058v1](http://arxiv.org/pdf/2212.06058v1)|null|
 |**2022-12-09**|**GCM Constraints on the Detectability of the CO$_2$-CH$_4$ Biosignature Pair on TRAPPIST-1e with JWST**|Yoav Rotman et.al.|[2212.05052v1](http://arxiv.org/abs/2212.05052v1)|[2212.05052v1](http://arxiv.org/pdf/2212.05052v1)|null|
 |**2022-12-09**|**Signatures of dynamic fibrils at the coronal base: Observations from Solar Orbiter/EUI**|Sudip Mandal et.al.|[2212.05025v1](http://arxiv.org/abs/2212.05025v1)|[2212.05025v1](http://arxiv.org/pdf/2212.05025v1)|null|
 |**2022-12-09**|**Detailed analysis of the variable star population in the globular cluster NGC 7006**|A. Arellano Ferro et.al.|[2212.05021v1](http://arxiv.org/abs/2212.05021v1)|[2212.05021v1](http://arxiv.org/pdf/2212.05021v1)|null|
@@ -1189,6 +1199,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-12**|**Neural Assets: Volumetric Object Capture and Rendering for Interactive Environments**|Aljaž Božič et.al.|[2212.06125v1](http://arxiv.org/abs/2212.06125v1)|[2212.06125v1](http://arxiv.org/pdf/2212.06125v1)|null|
+|**2022-12-12**|**Implicit Neural Convolutional Kernels for Steerable CNNs**|Maksim Zhdanov et.al.|[2212.06096v1](http://arxiv.org/abs/2212.06096v1)|[2212.06096v1](http://arxiv.org/pdf/2212.06096v1)|null|
+|**2022-12-12**|**Prompting Is Programming: A Query Language For Large Language Models**|Luca Beurer-Kellner et.al.|[2212.06094v1](http://arxiv.org/abs/2212.06094v1)|[2212.06094v1](http://arxiv.org/pdf/2212.06094v1)|null|
+|**2022-12-12**|**MIRA: Mental Imagery for Robotic Affordances**|Lin Yen-Chen et.al.|[2212.06088v1](http://arxiv.org/abs/2212.06088v1)|[2212.06088v1](http://arxiv.org/pdf/2212.06088v1)|null|
+|**2022-12-12**|**Bayesian Opponent Modeling in Multiplayer Imperfect-Information Games**|Sam Ganzfried et.al.|[2212.06027v1](http://arxiv.org/abs/2212.06027v1)|[2212.06027v1](http://arxiv.org/pdf/2212.06027v1)|null|
+|**2022-12-12**|**A novel feature-scrambling approach reveals the capacity of convolutional neural networks to learn spatial relations**|Amr Farahat et.al.|[2212.06021v1](http://arxiv.org/abs/2212.06021v1)|[2212.06021v1](http://arxiv.org/pdf/2212.06021v1)|null|
+|**2022-12-12**|**The Stable Artist: Steering Semantics in Diffusion Latent Space**|Manuel Brack et.al.|[2212.06013v1](http://arxiv.org/abs/2212.06013v1)|[2212.06013v1](http://arxiv.org/pdf/2212.06013v1)|**[link](https://github.com/ml-research/semantic-image-editing)**|
+|**2022-12-12**|**A Neural ODE Interpretation of Transformer Layers**|Yaofeng Desmond Zhong et.al.|[2212.06011v1](http://arxiv.org/abs/2212.06011v1)|[2212.06011v1](http://arxiv.org/pdf/2212.06011v1)|null|
+|**2022-12-12**|**Who Evaluates the Evaluators? On Automatic Metrics for Assessing AI-based Offensive Code Generators**|Cristina Improta et.al.|[2212.06008v1](http://arxiv.org/abs/2212.06008v1)|[2212.06008v1](http://arxiv.org/pdf/2212.06008v1)|null|
+|**2022-12-12**|**Reinforcement Learning and Tree Search Methods for the Unit Commitment Problem**|Patrick de Mars et.al.|[2212.06001v1](http://arxiv.org/abs/2212.06001v1)|[2212.06001v1](http://arxiv.org/pdf/2212.06001v1)|**[link](https://github.com/pwdemars/rl4uc)**|
 |**2022-12-09**|**OmniHorizon: In-the-Wild Outdoors Depth and Normal Estimation from Synthetic Omnidirectional Dataset**|Jay Bhanushali et.al.|[2212.05040v1](http://arxiv.org/abs/2212.05040v1)|[2212.05040v1](http://arxiv.org/pdf/2212.05040v1)|null|
 |**2022-12-09**|**Scalable Graph Convolutional Network Training on Distributed-Memory Systems**|Gunduz Vehbi Demirci et.al.|[2212.05009v1](http://arxiv.org/abs/2212.05009v1)|[2212.05009v1](http://arxiv.org/pdf/2212.05009v1)|null|
 |**2022-12-09**|**Regulating Gatekeeper AI and Data: Transparency, Access, and Fairness under the DMA, the GDPR, and beyond**|Philipp Hacker et.al.|[2212.04997v1](http://arxiv.org/abs/2212.04997v1)|[2212.04997v1](http://arxiv.org/pdf/2212.04997v1)|null|
