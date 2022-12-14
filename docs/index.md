@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-13**|**Direct measurement of decimeter-sized rocky material in the Oort cloud**|Denis Vida et.al.|[2212.06812v1](http://arxiv.org/abs/2212.06812v1)|[2212.06812v1](http://arxiv.org/pdf/2212.06812v1)|null|
+|**2022-12-13**|**Search for sub-TeV Neutrino Emission from Novae with IceCube-DeepCore**|R. Abbasi et.al.|[2212.06810v1](http://arxiv.org/abs/2212.06810v1)|[2212.06810v1](http://arxiv.org/pdf/2212.06810v1)|null|
+|**2022-12-13**|**Relativistic matter bispectrum of cosmic structures on the light cone**|Thomas Montandon et.al.|[2212.06799v1](http://arxiv.org/abs/2212.06799v1)|[2212.06799v1](http://arxiv.org/pdf/2212.06799v1)|null|
+|**2022-12-13**|**X-Shooter Survey of Young Intermediate Mass Stars -- I. Stellar Characterization and Disc Evolution**|Daniela P. Iglesias et.al.|[2212.06791v1](http://arxiv.org/abs/2212.06791v1)|[2212.06791v1](http://arxiv.org/pdf/2212.06791v1)|null|
+|**2022-12-13**|**SCATTER: A New Common Envelope Formalism**|Rosanne Di Stefano et.al.|[2212.06770v1](http://arxiv.org/abs/2212.06770v1)|[2212.06770v1](http://arxiv.org/pdf/2212.06770v1)|null|
+|**2022-12-13**|**Improved Tomographic Binning of 3x2pt Lens Samples: Neural Network Classifiers and Optimal Bin Assignments**|Irene Moskowitz et.al.|[2212.06754v1](http://arxiv.org/abs/2212.06754v1)|[2212.06754v1](http://arxiv.org/pdf/2212.06754v1)|null|
+|**2022-12-13**|**Aspects of Inflation and Cosmology in Non-Minimally Coupled and $R^{2}$ Palatini Gravity**|Kit Lloyd-Stubbs et.al.|[2212.06749v1](http://arxiv.org/abs/2212.06749v1)|[2212.06749v1](http://arxiv.org/pdf/2212.06749v1)|null|
+|**2022-12-13**|**First Overtone Cepheids of the OGLE Magellanic Cloud Collection -- beyond radial modes**|R. Smolec et.al.|[2212.06732v1](http://arxiv.org/abs/2212.06732v1)|[2212.06732v1](http://arxiv.org/pdf/2212.06732v1)|null|
+|**2022-12-13**|**A Machine Learning Enhanced Approach for Automated Sunquake Detection in Acoustic Emission Maps**|Vanessa Mercea et.al.|[2212.06717v1](http://arxiv.org/abs/2212.06717v1)|[2212.06717v1](http://arxiv.org/pdf/2212.06717v1)|null|
+|**2022-12-13**|**A new approach to constrain the Hubble expansion rate at high redshifts by gravitational waves**|Mohammadtaher Safarzadeh et.al.|[2212.06707v1](http://arxiv.org/abs/2212.06707v1)|[2212.06707v1](http://arxiv.org/pdf/2212.06707v1)|null|
 |**2022-12-12**|**Black Hole Binary Formation in AGN Discs: From Isolation to Merger**|Connar Rowan et.al.|[2212.06133v1](http://arxiv.org/abs/2212.06133v1)|[2212.06133v1](http://arxiv.org/pdf/2212.06133v1)|null|
 |**2022-12-12**|**Cosmic voids are emptier in the presence of symmetron's domain walls**|Bahar Nosrati et.al.|[2212.06119v1](http://arxiv.org/abs/2212.06119v1)|[2212.06119v1](http://arxiv.org/pdf/2212.06119v1)|null|
 |**2022-12-12**|**From Cosmic Inflation and Matter Creation to Dark Matter -- Journey of the Inflaton?**|B. S. Balakrishna et.al.|[2212.06117v1](http://arxiv.org/abs/2212.06117v1)|[2212.06117v1](http://arxiv.org/pdf/2212.06117v1)|null|
@@ -1203,6 +1213,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-13**|**Explanations Can Reduce Overreliance on AI Systems During Decision-Making**|Helena Vasconcelos et.al.|[2212.06823v1](http://arxiv.org/abs/2212.06823v1)|[2212.06823v1](http://arxiv.org/pdf/2212.06823v1)|null|
+|**2022-12-13**|**RT-1: Robotics Transformer for Real-World Control at Scale**|Anthony Brohan et.al.|[2212.06817v1](http://arxiv.org/abs/2212.06817v1)|[2212.06817v1](http://arxiv.org/pdf/2212.06817v1)|null|
+|**2022-12-13**|**Real-Time Artificial Intelligence Assistance for Safe Laparoscopic Cholecystectomy: Early-Stage Clinical Evaluation**|Pietro Mascagni et.al.|[2212.06809v1](http://arxiv.org/abs/2212.06809v1)|[2212.06809v1](http://arxiv.org/pdf/2212.06809v1)|null|
+|**2022-12-13**|**A fine-grained comparison of pragmatic language understanding in humans and language models**|Jennifer Hu et.al.|[2212.06801v1](http://arxiv.org/abs/2212.06801v1)|[2212.06801v1](http://arxiv.org/pdf/2212.06801v1)|null|
+|**2022-12-13**|**Deformable Molecular Crystal on 2D Crystal: A New Way to Build Nanoscale Periodic Trapping Sites for Interlayer Excitons**|Kushal Rijal et.al.|[2212.06796v1](http://arxiv.org/abs/2212.06796v1)|[2212.06796v1](http://arxiv.org/pdf/2212.06796v1)|null|
+|**2022-12-13**|**Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders**|Renrui Zhang et.al.|[2212.06785v1](http://arxiv.org/abs/2212.06785v1)|[2212.06785v1](http://arxiv.org/pdf/2212.06785v1)|**[link](https://github.com/zrrskywalker/i2p-mae)**|
+|**2022-12-13**|**Learning Robotic Navigation from Experience: Principles, Methods, and Recent Results**|Sergey Levine et.al.|[2212.06759v1](http://arxiv.org/abs/2212.06759v1)|[2212.06759v1](http://arxiv.org/pdf/2212.06759v1)|null|
+|**2022-12-13**|**Multi-objective Tree-structured Parzen Estimator Meets Meta-learning**|Shuhei Watanabe et.al.|[2212.06751v1](http://arxiv.org/abs/2212.06751v1)|[2212.06751v1](http://arxiv.org/pdf/2212.06751v1)|**[link](https://github.com/nabenabe0928/meta-learn-tpe)**|
+|**2022-12-13**|**POPNASv3: a Pareto-Optimal Neural Architecture Search Solution for Image and Time Series Classification**|Andrea Falanti et.al.|[2212.06735v1](http://arxiv.org/abs/2212.06735v1)|[2212.06735v1](http://arxiv.org/pdf/2212.06735v1)|null|
+|**2022-12-13**|**Exploring Consequences of Privacy Policies with Narrative Generation via Answer Set Programming**|Chinmaya Dabral et.al.|[2212.06719v1](http://arxiv.org/abs/2212.06719v1)|[2212.06719v1](http://arxiv.org/pdf/2212.06719v1)|null|
 |**2022-12-12**|**Neural Assets: Volumetric Object Capture and Rendering for Interactive Environments**|Aljaž Božič et.al.|[2212.06125v1](http://arxiv.org/abs/2212.06125v1)|[2212.06125v1](http://arxiv.org/pdf/2212.06125v1)|null|
 |**2022-12-12**|**Implicit Neural Convolutional Kernels for Steerable CNNs**|Maksim Zhdanov et.al.|[2212.06096v1](http://arxiv.org/abs/2212.06096v1)|[2212.06096v1](http://arxiv.org/pdf/2212.06096v1)|null|
 |**2022-12-12**|**Prompting Is Programming: A Query Language For Large Language Models**|Luca Beurer-Kellner et.al.|[2212.06094v1](http://arxiv.org/abs/2212.06094v1)|[2212.06094v1](http://arxiv.org/pdf/2212.06094v1)|null|
