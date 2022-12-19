@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-16**|**Effect of a High-Precision Semi-Analytical Mass Function on the Merger Rate of Primordial Black Holes in Dark Matter Halos**|Saeed Fakhry et.al.|[2212.08646v1](http://arxiv.org/abs/2212.08646v1)|[2212.08646v1](http://arxiv.org/pdf/2212.08646v1)|null|
+|**2022-12-16**|**Photometric Confirmation and Characterization of the Ennomos Collisional Family in the Jupiter Trojans**|Ian Wong et.al.|[2212.08627v1](http://arxiv.org/abs/2212.08627v1)|[2212.08627v1](http://arxiv.org/pdf/2212.08627v1)|null|
+|**2022-12-16**|**Microscopic origin of the entropy of astrophysical black holes**|Vijay Balasubramanian et.al.|[2212.08623v1](http://arxiv.org/abs/2212.08623v1)|[2212.08623v1](http://arxiv.org/pdf/2212.08623v1)|null|
+|**2022-12-16**|**A smoking gun from the power spectrum dipole for elastic interactions in the dark sector**|Jose Beltrán Jiménez et.al.|[2212.08617v1](http://arxiv.org/abs/2212.08617v1)|[2212.08617v1](http://arxiv.org/pdf/2212.08617v1)|null|
+|**2022-12-16**|**Growing the First Galaxies' Merger Trees**|Ethan O. Nadler et.al.|[2212.08584v1](http://arxiv.org/abs/2212.08584v1)|[2212.08584v1](http://arxiv.org/pdf/2212.08584v1)|null|
+|**2022-12-16**|**GRB 080503: A very early blue kilonova and an adjacent non-thermal radiation component**|Hao Zhou et.al.|[2212.08555v1](http://arxiv.org/abs/2212.08555v1)|[2212.08555v1](http://arxiv.org/pdf/2212.08555v1)|null|
+|**2022-12-16**|**Terminating a common envelope jets supernova impostor event with a super-Eddington blue supergiant**|Tamar Cohen et.al.|[2212.08551v1](http://arxiv.org/abs/2212.08551v1)|[2212.08551v1](http://arxiv.org/pdf/2212.08551v1)|null|
+|**2022-12-16**|**Microcanonical Hamiltonian Monte Carlo**|Jakob Robnik et.al.|[2212.08549v1](http://arxiv.org/abs/2212.08549v1)|[2212.08549v1](http://arxiv.org/pdf/2212.08549v1)|null|
+|**2022-12-16**|**Polarized target as a tool for probing the non-standard properties of dark matter**|Arkadiusz Błaut et.al.|[2212.08547v1](http://arxiv.org/abs/2212.08547v1)|[2212.08547v1](http://arxiv.org/pdf/2212.08547v1)|null|
+|**2022-12-16**|**Dynamic formation of multi-threaded prominences in arcade configurations**|V. Jerčić et.al.|[2212.08537v1](http://arxiv.org/abs/2212.08537v1)|[2212.08537v1](http://arxiv.org/pdf/2212.08537v1)|null|
 |**2022-12-15**|**A guiding center implementation for relativistic particle dynamics in the PLUTO code**|A. Mignone et.al.|[2212.08064v1](http://arxiv.org/abs/2212.08064v1)|[2212.08064v1](http://arxiv.org/pdf/2212.08064v1)|null|
 |**2022-12-15**|**A multi-tracer empirically-driven approach to line-intensity mapping lightcones**|Gabriela Sato-Polito et.al.|[2212.08056v1](http://arxiv.org/abs/2212.08056v1)|[2212.08056v1](http://arxiv.org/pdf/2212.08056v1)|null|
 |**2022-12-15**|**MINDS. The detection of $^{13}$CO$_{2}$ with JWST-MIRI indicates abundant CO$_{2}$ in a protoplanetary disk**|Sierra L. Grant et.al.|[2212.08047v1](http://arxiv.org/abs/2212.08047v1)|[2212.08047v1](http://arxiv.org/pdf/2212.08047v1)|null|
@@ -1233,6 +1243,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-16**|**Self-Prompting Large Language Models for Open-Domain QA**|Junlong Li et.al.|[2212.08635v1](http://arxiv.org/abs/2212.08635v1)|[2212.08635v1](http://arxiv.org/pdf/2212.08635v1)|null|
+|**2022-12-16**|**Hippocampus-Inspired Cognitive Architecture (HICA) for Operant Conditioning**|Deokgun Park et.al.|[2212.08626v1](http://arxiv.org/abs/2212.08626v1)|[2212.08626v1](http://arxiv.org/pdf/2212.08626v1)|null|
+|**2022-12-16**|**POTATO: The Portable Text Annotation Tool**|Jiaxin Pei et.al.|[2212.08620v1](http://arxiv.org/abs/2212.08620v1)|[2212.08620v1](http://arxiv.org/pdf/2212.08620v1)|**[link](https://github.com/davidjurgens/potato)**|
+|**2022-12-16**|**Huruf: An Application for Arabic Handwritten Character Recognition Using Deep Learning**|Minhaz Kamal et.al.|[2212.08610v1](http://arxiv.org/abs/2212.08610v1)|[2212.08610v1](http://arxiv.org/pdf/2212.08610v1)|null|
+|**2022-12-16**|**MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation**|Swarnadeep Saha et.al.|[2212.08607v1](http://arxiv.org/abs/2212.08607v1)|[2212.08607v1](http://arxiv.org/pdf/2212.08607v1)|null|
+|**2022-12-16**|**Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch**|Martin Matak et.al.|[2212.08604v1](http://arxiv.org/abs/2212.08604v1)|[2212.08604v1](http://arxiv.org/pdf/2212.08604v1)|null|
+|**2022-12-16**|**Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better**|David Dale et.al.|[2212.08597v1](http://arxiv.org/abs/2212.08597v1)|[2212.08597v1](http://arxiv.org/pdf/2212.08597v1)|null|
+|**2022-12-16**|**De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**|Huseyin Tuna Erdinc et.al.|[2212.08596v1](http://arxiv.org/abs/2212.08596v1)|[2212.08596v1](http://arxiv.org/pdf/2212.08596v1)|null|
+|**2022-12-16**|**Simulating Road Spray Effects in Automotive Lidar Sensor Models**|Clemens Linnhoff et.al.|[2212.08558v1](http://arxiv.org/abs/2212.08558v1)|[2212.08558v1](http://arxiv.org/pdf/2212.08558v1)|**[link](https://github.com/openmsl/reflection_based_lidar_object_model)**|
+|**2022-12-16**|**Estimating truncation effects of quantum bosonic systems using sampling algorithms**|Masanori Hanada et.al.|[2212.08546v1](http://arxiv.org/abs/2212.08546v1)|[2212.08546v1](http://arxiv.org/pdf/2212.08546v1)|null|
 |**2022-12-15**|**Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners**|Zitian Chen et.al.|[2212.08066v1](http://arxiv.org/abs/2212.08066v1)|[2212.08066v1](http://arxiv.org/pdf/2212.08066v1)|null|
 |**2022-12-15**|**Rethinking Vision Transformers for MobileNet Size and Speed**|Yanyu Li et.al.|[2212.08059v1](http://arxiv.org/abs/2212.08059v1)|[2212.08059v1](http://arxiv.org/pdf/2212.08059v1)|**[link](https://github.com/snap-research/efficientformer)**|
 |**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|[2212.08057v1](http://arxiv.org/abs/2212.08057v1)|[2212.08057v1](http://arxiv.org/pdf/2212.08057v1)|null|
