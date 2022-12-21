@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-20**|**JWST UNCOVER: A triply imaged faint quasar candidate at $z_{\mathrm{phot}}\simeq7.7$**|Lukas J. Furtak et.al.|[2212.10531v1](http://arxiv.org/abs/2212.10531v1)|[2212.10531v1](http://arxiv.org/pdf/2212.10531v1)|null|
+|**2022-12-20**|**Search for Gamma-ray Spectral Lines from Dark Matter Annihilation up to 100 TeV towards the Galactic Center with MAGIC**|MAGIC Collaboration et.al.|[2212.10527v1](http://arxiv.org/abs/2212.10527v1)|[2212.10527v1](http://arxiv.org/pdf/2212.10527v1)|null|
+|**2022-12-20**|**The HI Content of Red Geyser Galaxies**|Emily Frank et.al.|[2212.10517v1](http://arxiv.org/abs/2212.10517v1)|[2212.10517v1](http://arxiv.org/pdf/2212.10517v1)|null|
+|**2022-12-20**|**Constraining mass, radius and tidal deformability of compact stars with axial wI modes: new universal relations including slow stable hybrid stars**|Ignacio F. Ranea-Sandoval et.al.|[2212.10514v1](http://arxiv.org/abs/2212.10514v1)|[2212.10514v1](http://arxiv.org/pdf/2212.10514v1)|null|
+|**2022-12-20**|**PHANGS-JWST First Results: Measuring PAH Properties across the multiphase ISM**|Jérémy Chastenet et.al.|[2212.10512v1](http://arxiv.org/abs/2212.10512v1)|[2212.10512v1](http://arxiv.org/pdf/2212.10512v1)|null|
+|**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|[2212.10510v1](http://arxiv.org/pdf/2212.10510v1)|null|
+|**2022-12-20**|**Evolution of the long-period pulsar PSR J0901-4046**|Ali Arda Gencali et.al.|[2212.10501v1](http://arxiv.org/abs/2212.10501v1)|[2212.10501v1](http://arxiv.org/pdf/2212.10501v1)|null|
+|**2022-12-20**|**The effects of rotation on massive star spectroscopic observables**|Michael Abdul-Masih et.al.|[2212.10485v1](http://arxiv.org/abs/2212.10485v1)|[2212.10485v1](http://arxiv.org/pdf/2212.10485v1)|null|
+|**2022-12-20**|**Quasar UV/X-ray relation luminosity distances are shorter than reverberation-measured radius-luminosity relation luminosity distances**|Narayan Khadka et.al.|[2212.10483v1](http://arxiv.org/abs/2212.10483v1)|[2212.10483v1](http://arxiv.org/pdf/2212.10483v1)|null|
+|**2022-12-20**|**Pierre Auger Observatory and Super Heavy Dark Matter**|Roberto Aloisio et.al.|[2212.10476v1](http://arxiv.org/abs/2212.10476v1)|[2212.10476v1](http://arxiv.org/pdf/2212.10476v1)|null|
 |**2022-12-19**|**Reversible time-step adaptation for the integration of few-body systems**|Tjarda C. N. Boekholt et.al.|[2212.09745v1](http://arxiv.org/abs/2212.09745v1)|[2212.09745v1](http://arxiv.org/pdf/2212.09745v1)|null|
 |**2022-12-19**|**Window function convolution with deep neural network models**|Davit Alkhanishvili et.al.|[2212.09742v1](http://arxiv.org/abs/2212.09742v1)|[2212.09742v1](http://arxiv.org/pdf/2212.09742v1)|null|
 |**2022-12-19**|**DEMNUni: disentangling dark energy from massive neutrinos with the void size function**|Giovanni Verza et.al.|[2212.09740v1](http://arxiv.org/abs/2212.09740v1)|[2212.09740v1](http://arxiv.org/pdf/2212.09740v1)|null|
@@ -1249,6 +1259,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-20**|**Does unsupervised grammar induction need pixels?**|Boyi Li et.al.|[2212.10564v1](http://arxiv.org/abs/2212.10564v1)|[2212.10564v1](http://arxiv.org/pdf/2212.10564v1)|null|
+|**2022-12-20**|**Parsel: A Unified Natural Language Framework for Algorithmic Reasoning**|Eric Zelikman et.al.|[2212.10561v1](http://arxiv.org/abs/2212.10561v1)|[2212.10561v1](http://arxiv.org/pdf/2212.10561v1)|null|
+|**2022-12-20**|**Self-Instruct: Aligning Language Model with Self Generated Instructions**|Yizhong Wang et.al.|[2212.10560v1](http://arxiv.org/abs/2212.10560v1)|[2212.10560v1](http://arxiv.org/pdf/2212.10560v1)|**[link](https://github.com/yizhongw/self-instruct)**|
+|**2022-12-20**|**On-the-fly Denoising for Data Augmentation in Natural Language Understanding**|Tianqing Fang et.al.|[2212.10558v1](http://arxiv.org/abs/2212.10558v1)|[2212.10558v1](http://arxiv.org/pdf/2212.10558v1)|null|
+|**2022-12-20**|**PairReranker: Pairwise Reranking for Natural Language Generation**|Dongfu Jiang et.al.|[2212.10555v1](http://arxiv.org/abs/2212.10555v1)|[2212.10555v1](http://arxiv.org/pdf/2212.10555v1)|null|
+|**2022-12-20**|**RangeAugment: Efficient Online Augmentation with Range Learning**|Sachin Mehta et.al.|[2212.10553v1](http://arxiv.org/abs/2212.10553v1)|[2212.10553v1](http://arxiv.org/pdf/2212.10553v1)|null|
+|**2022-12-20**|**Lego-MT: Towards Detachable Models in Massively Multilingual Machine Translation**|Fei Yuan et.al.|[2212.10551v1](http://arxiv.org/abs/2212.10551v1)|[2212.10551v1](http://arxiv.org/pdf/2212.10551v1)|null|
+|**2022-12-20**|**DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships**|Chenzhengyi Liu et.al.|[2212.10545v1](http://arxiv.org/abs/2212.10545v1)|[2212.10545v1](http://arxiv.org/pdf/2212.10545v1)|**[link](https://github.com/liuchenzhengyi/dimongen)**|
+|**2022-12-20**|**Detoxifying Text with MaRCo: Controllable Revision with Experts and Anti-Experts**|Skyler Hallinan et.al.|[2212.10543v1](http://arxiv.org/abs/2212.10543v1)|[2212.10543v1](http://arxiv.org/pdf/2212.10543v1)|null|
+|**2022-12-20**|**Does CLIP Bind Concepts? Probing Compositionality in Large Image Models**|Martha Lewis et.al.|[2212.10537v1](http://arxiv.org/abs/2212.10537v1)|[2212.10537v1](http://arxiv.org/pdf/2212.10537v1)|null|
 |**2022-12-19**|**DSI++: Updating Transformer Memory with New Documents**|Sanket Vaibhav Mehta et.al.|[2212.09744v1](http://arxiv.org/abs/2212.09744v1)|[2212.09744v1](http://arxiv.org/pdf/2212.09744v1)|null|
 |**2022-12-19**|**Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments**|Yu Gu et.al.|[2212.09736v1](http://arxiv.org/abs/2212.09736v1)|[2212.09736v1](http://arxiv.org/pdf/2212.09736v1)|null|
 |**2022-12-19**|**Improving Faithfulness of Abstractive Summarization by Controlling Confounding Effect of Irrelevant Sentences**|Asish Ghoshal et.al.|[2212.09726v1](http://arxiv.org/abs/2212.09726v1)|[2212.09726v1](http://arxiv.org/pdf/2212.09726v1)|null|
