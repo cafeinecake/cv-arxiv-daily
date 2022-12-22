@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-21**|**Detecting and characterizing pulsar haloes with the Cherenkov Telescope Array**|Christopher Eckner et.al.|[2212.11265v1](http://arxiv.org/abs/2212.11265v1)|[2212.11265v1](http://arxiv.org/pdf/2212.11265v1)|null|
+|**2022-12-21**|**Properties of Flare-Imminent versus Flare-Quiet Active Regions from the Chromosphere through the Corona II: NonParametric Discriminant Analysis Results from the NWRA Classification Infrastructure (NCI)**|KD Leka et.al.|[2212.11255v1](http://arxiv.org/abs/2212.11255v1)|[2212.11255v1](http://arxiv.org/pdf/2212.11255v1)|null|
+|**2022-12-21**|**Properties of Flare-Imminent versus Flare-Quiet Active Regions from the Chromosphere through the Corona I: Introduction of the AIA Active Region Patches (AARPs)**|Karin Dissauer et.al.|[2212.11251v1](http://arxiv.org/abs/2212.11251v1)|[2212.11251v1](http://arxiv.org/pdf/2212.11251v1)|null|
+|**2022-12-21**|**High-Energy Neutrinos from Gamma-Ray-Faint Accretion-Powered Hypernebulae**|Navin Sridhar et.al.|[2212.11236v1](http://arxiv.org/abs/2212.11236v1)|[2212.11236v1](http://arxiv.org/pdf/2212.11236v1)|null|
+|**2022-12-21**|**$^{26}$Al gamma rays from the Galaxy with INTEGRAL/SPI**|Moritz M. M. Pleintinger et.al.|[2212.11228v1](http://arxiv.org/abs/2212.11228v1)|[2212.11228v1](http://arxiv.org/pdf/2212.11228v1)|null|
+|**2022-12-21**|**Domain wall annihilation -- a QFT perspective**|Oriol Pujolas et.al.|[2212.11204v1](http://arxiv.org/abs/2212.11204v1)|[2212.11204v1](http://arxiv.org/pdf/2212.11204v1)|null|
+|**2022-12-21**|**Evidence for scattering of curvature radiation in radio pulsar profiles**|J. Dyks et.al.|[2212.11197v1](http://arxiv.org/abs/2212.11197v1)|[2212.11197v1](http://arxiv.org/pdf/2212.11197v1)|null|
+|**2022-12-21**|**Non-strange quark stars within resummed QCD**|Tulio E. Restrepo et.al.|[2212.11184v1](http://arxiv.org/abs/2212.11184v1)|[2212.11184v1](http://arxiv.org/pdf/2212.11184v1)|null|
+|**2022-12-21**|**PHANGS-JWST First Results: Tracing the Diffuse ISM with JWST Imaging of Polycyclic Aromatic Hydrocarbon Emission in Nearby Galaxies**|Karin M. Sandstrom et.al.|[2212.11177v1](http://arxiv.org/abs/2212.11177v1)|[2212.11177v1](http://arxiv.org/pdf/2212.11177v1)|null|
+|**2022-12-21**|**Plasmoids, Flows, and Jets During Magnetic Reconnection in a Failed Solar Eruption**|Pankaj Kumar et.al.|[2212.11159v1](http://arxiv.org/abs/2212.11159v1)|[2212.11159v1](http://arxiv.org/pdf/2212.11159v1)|null|
 |**2022-12-20**|**JWST UNCOVER: A triply imaged faint quasar candidate at $z_{\mathrm{phot}}\simeq7.7$**|Lukas J. Furtak et.al.|[2212.10531v1](http://arxiv.org/abs/2212.10531v1)|[2212.10531v1](http://arxiv.org/pdf/2212.10531v1)|null|
 |**2022-12-20**|**Search for Gamma-ray Spectral Lines from Dark Matter Annihilation up to 100 TeV towards the Galactic Center with MAGIC**|MAGIC Collaboration et.al.|[2212.10527v1](http://arxiv.org/abs/2212.10527v1)|[2212.10527v1](http://arxiv.org/pdf/2212.10527v1)|null|
 |**2022-12-20**|**The HI Content of Red Geyser Galaxies**|Emily Frank et.al.|[2212.10517v1](http://arxiv.org/abs/2212.10517v1)|[2212.10517v1](http://arxiv.org/pdf/2212.10517v1)|null|
@@ -1263,6 +1273,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-21**|**Contrastive Language-Vision AI Models Pretrained on Web-Scraped Multimodal Data Exhibit Sexual Objectification Bias**|Robert Wolfe et.al.|[2212.11261v1](http://arxiv.org/abs/2212.11261v1)|[2212.11261v1](http://arxiv.org/pdf/2212.11261v1)|null|
+|**2022-12-21**|**Adapting to Latent Subgroup Shifts via Concepts and Proxies**|Ibrahim Alabdulmohsin et.al.|[2212.11254v1](http://arxiv.org/abs/2212.11254v1)|[2212.11254v1](http://arxiv.org/pdf/2212.11254v1)|null|
+|**2022-12-21**|**Stochastic switching and squeeze of hysteresis window in nonlinear responses of silicon nitride membrane nanoelectromechanical resonators**|Srisaran Venkatachalam et.al.|[2212.11218v1](http://arxiv.org/abs/2212.11218v1)|[2212.11218v1](http://arxiv.org/pdf/2212.11218v1)|null|
+|**2022-12-21**|**Crowd Score: A Method for the Evaluation of Jokes using Large Language Model AI Voters as Judges**|Fabricio Goes et.al.|[2212.11214v1](http://arxiv.org/abs/2212.11214v1)|[2212.11214v1](http://arxiv.org/pdf/2212.11214v1)|**[link](https://github.com/creapar/crowdscore)**|
+|**2022-12-21**|**Land Cover and Land Use Detection using Semi-Supervised Learning**|Fahmida Tasnim Lisa et.al.|[2212.11211v1](http://arxiv.org/abs/2212.11211v1)|[2212.11211v1](http://arxiv.org/pdf/2212.11211v1)|null|
+|**2022-12-21**|**A Seven-Layer Model for Standardising AI Fairness Assessment**|Avinash Agarwal et.al.|[2212.11207v1](http://arxiv.org/abs/2212.11207v1)|[2212.11207v1](http://arxiv.org/pdf/2212.11207v1)|null|
+|**2022-12-21**|**Free-Rider Games for Federated Learning with Selfish Clients in NextG Wireless Networks**|Yalin E. Sagduyu et.al.|[2212.11194v1](http://arxiv.org/abs/2212.11194v1)|[2212.11194v1](http://arxiv.org/pdf/2212.11194v1)|null|
+|**2022-12-21**|**Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning**|Julien Denize et.al.|[2212.11187v1](http://arxiv.org/abs/2212.11187v1)|[2212.11187v1](http://arxiv.org/pdf/2212.11187v1)|null|
+|**2022-12-21**|**Device-Bind Key-Storageless Hardware AI Model IP Protection: A PUF and Permute-Diffusion Encryption-Enabled Approach**|Qianqian Pan et.al.|[2212.11133v1](http://arxiv.org/abs/2212.11133v1)|[2212.11133v1](http://arxiv.org/pdf/2212.11133v1)|null|
+|**2022-12-21**|**Lifelong Reinforcement Learning with Modulating Masks**|Eseoghene Ben-Iwhiwhu et.al.|[2212.11110v1](http://arxiv.org/abs/2212.11110v1)|[2212.11110v1](http://arxiv.org/pdf/2212.11110v1)|null|
 |**2022-12-20**|**Does unsupervised grammar induction need pixels?**|Boyi Li et.al.|[2212.10564v1](http://arxiv.org/abs/2212.10564v1)|[2212.10564v1](http://arxiv.org/pdf/2212.10564v1)|null|
 |**2022-12-20**|**Parsel: A Unified Natural Language Framework for Algorithmic Reasoning**|Eric Zelikman et.al.|[2212.10561v1](http://arxiv.org/abs/2212.10561v1)|[2212.10561v1](http://arxiv.org/pdf/2212.10561v1)|null|
 |**2022-12-20**|**Self-Instruct: Aligning Language Model with Self Generated Instructions**|Yizhong Wang et.al.|[2212.10560v1](http://arxiv.org/abs/2212.10560v1)|[2212.10560v1](http://arxiv.org/pdf/2212.10560v1)|**[link](https://github.com/yizhongw/self-instruct)**|
