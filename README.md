@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-23**|**Results on sub-GeV Dark Matter from a 10 eV Threshold CRESST-III Silicon Detector**|CRESST Collaboration et.al.|[2212.12513v1](http://arxiv.org/abs/2212.12513v1)|[2212.12513v1](http://arxiv.org/pdf/2212.12513v1)|null|
+|**2022-12-23**|**On turbulent viscosity in relativistic jets and accretion disks**|Alexander A. Panferov et.al.|[2212.12512v1](http://arxiv.org/abs/2212.12512v1)|[2212.12512v1](http://arxiv.org/pdf/2212.12512v1)|null|
+|**2022-12-23**|**Building cubic gravity with healthy and viable scalar and tensor perturbations**|Petros Asimakis et.al.|[2212.12494v1](http://arxiv.org/abs/2212.12494v1)|[2212.12494v1](http://arxiv.org/pdf/2212.12494v1)|null|
+|**2022-12-23**|**Investigation of the Connection Between X-ray Binaries and Compact Star Clusters in NGC 628**|Senay Avdan et.al.|[2212.12485v1](http://arxiv.org/abs/2212.12485v1)|[2212.12485v1](http://arxiv.org/pdf/2212.12485v1)|null|
+|**2022-12-23**|**Polarization properties of the weakly magnetized neutron star X-ray binary GS 1826-238 in the high soft state**|Fiamma Capitanio et.al.|[2212.12472v1](http://arxiv.org/abs/2212.12472v1)|[2212.12472v1](http://arxiv.org/pdf/2212.12472v1)|null|
+|**2022-12-23**|**On accretion in the eclipsing polar BS Tri**|A. I. Kolbin et.al.|[2212.12464v1](http://arxiv.org/abs/2212.12464v1)|[2212.12464v1](http://arxiv.org/pdf/2212.12464v1)|null|
+|**2022-12-23**|**SRGe2149+6736 -- the new candidate to AM~Her type variables discovered by eROSITA telescope on "Spectrum--Roentgen--Gamma" orbital observatory**|I. F. Bikmaev et.al.|[2212.12425v1](http://arxiv.org/abs/2212.12425v1)|[2212.12425v1](http://arxiv.org/pdf/2212.12425v1)|null|
+|**2022-12-23**|**Mass loss from binary stars approaching merger**|Ondřej Pejcha et.al.|[2212.12405v1](http://arxiv.org/abs/2212.12405v1)|[2212.12405v1](http://arxiv.org/pdf/2212.12405v1)|null|
+|**2022-12-23**|**Failure type detection and predictive maintenance for the next generation of imaging atmospheric Cherenkov telescopes**|Federico Incardona et.al.|[2212.12381v1](http://arxiv.org/abs/2212.12381v1)|[2212.12381v1](http://arxiv.org/pdf/2212.12381v1)|null|
+|**2022-12-23**|**Spin vectors in the Koronis family: IV. Completing the sample of its largest members after 35 years of study**|Stephen M. Slivan et.al.|[2212.12355v1](http://arxiv.org/abs/2212.12355v1)|[2212.12355v1](http://arxiv.org/pdf/2212.12355v1)|null|
 |**2022-12-22**|**Detecting Axion-Like Particles with Primordial Black Holes**|Kaustubh Agashe et.al.|[2212.11980v1](http://arxiv.org/abs/2212.11980v1)|[2212.11980v1](http://arxiv.org/pdf/2212.11980v1)|null|
 |**2022-12-22**|**Axions from Primordial Black Holes**|Yongsoo Jho et.al.|[2212.11977v1](http://arxiv.org/abs/2212.11977v1)|[2212.11977v1](http://arxiv.org/pdf/2212.11977v1)|null|
 |**2022-12-22**|**Gaia Data Release 3: Gaia scan-angle dependent signals and spurious periods**|B. Holl et.al.|[2212.11971v1](http://arxiv.org/abs/2212.11971v1)|[2212.11971v1](http://arxiv.org/pdf/2212.11971v1)|null|
@@ -1279,6 +1289,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-23**|**Mathematical Foundations for a Compositional Account of the Bayesian Brain**|Toby St Clere Smithe et.al.|[2212.12538v1](http://arxiv.org/abs/2212.12538v1)|[2212.12538v1](http://arxiv.org/pdf/2212.12538v1)|null|
+|**2022-12-23**|**A Privacy-Preserving Model based on Differential Approach for Sensitive Data in Cloud Environment**|Ashutosh Kumar Singh et.al.|[2212.12534v1](http://arxiv.org/abs/2212.12534v1)|[2212.12534v1](http://arxiv.org/pdf/2212.12534v1)|null|
+|**2022-12-23**|**An Exact Mapping From ReLU Networks to Spiking Neural Networks**|Ana Stanojevic et.al.|[2212.12522v1](http://arxiv.org/abs/2212.12522v1)|[2212.12522v1](http://arxiv.org/pdf/2212.12522v1)|null|
+|**2022-12-23**|**NARS vs. Reinforcement learning: ONA vs. Q-Learning**|Ali Beikmohammadi et.al.|[2212.12517v1](http://arxiv.org/abs/2212.12517v1)|[2212.12517v1](http://arxiv.org/pdf/2212.12517v1)|**[link](https://github.com/alibeikmohammadi/opennars-for-applications)**|
+|**2022-12-23**|**Ethical Design of Computers: From Semiconductors to IoT and Artificial Intelligence**|Sudeep Pasricha et.al.|[2212.12508v1](http://arxiv.org/abs/2212.12508v1)|[2212.12508v1](http://arxiv.org/pdf/2212.12508v1)|null|
+|**2022-12-23**|**Generalized Toffoli gate decomposition using ququints: Towards realizing Grover's algorithm with qudits**|Anastasiia S. Nikolaeva et.al.|[2212.12505v1](http://arxiv.org/abs/2212.12505v1)|[2212.12505v1](http://arxiv.org/pdf/2212.12505v1)|null|
+|**2022-12-23**|**Image Classification with Small Datasets: Overview and Benchmark**|L. Brigato et.al.|[2212.12478v1](http://arxiv.org/abs/2212.12478v1)|[2212.12478v1](http://arxiv.org/pdf/2212.12478v1)|**[link](https://github.com/lorenzobrigato/gem)**|
+|**2022-12-23**|**Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow**|Ángela López-Cardona et.al.|[2212.12470v1](http://arxiv.org/abs/2212.12470v1)|[2212.12470v1](http://arxiv.org/pdf/2212.12470v1)|null|
+|**2022-12-23**|**A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic Inference**|Emile van Krieken et.al.|[2212.12393v1](http://arxiv.org/abs/2212.12393v1)|[2212.12393v1](http://arxiv.org/pdf/2212.12393v1)|null|
+|**2022-12-23**|**Linear features segmentation from aerial images**|Zhipeng Chang et.al.|[2212.12327v1](http://arxiv.org/abs/2212.12327v1)|[2212.12327v1](http://arxiv.org/pdf/2212.12327v1)|null|
 |**2022-12-22**|**Efficient Induction of Language Models Via Probabilistic Concept Formation**|Christopher J. MacLellan et.al.|[2212.11937v1](http://arxiv.org/abs/2212.11937v1)|[2212.11937v1](http://arxiv.org/pdf/2212.11937v1)|null|
 |**2022-12-22**|**Word Embedding Neural Networks to Advance Knee Osteoarthritis Research**|Soheyla Amirian et.al.|[2212.11933v1](http://arxiv.org/abs/2212.11933v1)|[2212.11933v1](http://arxiv.org/pdf/2212.11933v1)|null|
 |**2022-12-23**|**Fully well balanced entropy controlled DGSEM for shallow water flows: global flux quadrature and cell entropy correction**|Yogiraj Mantri et.al.|[2212.11931v2](http://arxiv.org/abs/2212.11931v2)|[2212.11931v2](http://arxiv.org/pdf/2212.11931v2)|null|
