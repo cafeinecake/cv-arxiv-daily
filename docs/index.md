@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.25
+## Updated on 2022.12.26
 
 ## Astrophysics
 
@@ -16,7 +16,7 @@ layout: default
 |**2022-12-22**|**A Model for the Squeezed Bispectrum in the Non-Linear Regime**|Matteo Biagetti et.al.|[2212.11940v1](http://arxiv.org/abs/2212.11940v1)|[2212.11940v1](http://arxiv.org/pdf/2212.11940v1)|**[link](https://github.com/sefusatti/PowerI4)**|
 |**2022-12-22**|**A novel model-marginalized cosmological bound on the QCD axion mass**|Eleonora Di Valentino et.al.|[2212.11926v1](http://arxiv.org/abs/2212.11926v1)|[2212.11926v1](http://arxiv.org/pdf/2212.11926v1)|null|
 |**2022-12-22**|**Populations of the Kreutz Sungrazer System in a SOHO Database**|Zdenek Sekanina et.al.|[2212.11919v1](http://arxiv.org/abs/2212.11919v1)|[2212.11919v1](http://arxiv.org/pdf/2212.11919v1)|null|
-|**2022-12-22**|**Physical conditions for dust grain alignment in Class 0 protostellar cores**|Valentin J. M. Le Gouellec et.al.|[2212.11899v1](http://arxiv.org/abs/2212.11899v1)|[2212.11899v1](http://arxiv.org/pdf/2212.11899v1)|null|
+|**2022-12-23**|**Physical conditions for dust grain alignment in Class 0 protostellar cores I. Observations of dust polarization and molecular irradiation tracers**|Valentin J. M. Le Gouellec et.al.|[2212.11899v2](http://arxiv.org/abs/2212.11899v2)|[2212.11899v2](http://arxiv.org/pdf/2212.11899v2)|null|
 |**2022-12-22**|**Coronal Densities, Temperatures and Abundances During the 2019 Total Solar Eclipse: The Role of Multi-Wavelength Observations in Coronal Plasma Characterization**|G. Del Zanna et.al.|[2212.11889v1](http://arxiv.org/abs/2212.11889v1)|[2212.11889v1](http://arxiv.org/pdf/2212.11889v1)|null|
 |**2022-12-21**|**Detecting and characterizing pulsar haloes with the Cherenkov Telescope Array**|Christopher Eckner et.al.|[2212.11265v1](http://arxiv.org/abs/2212.11265v1)|[2212.11265v1](http://arxiv.org/pdf/2212.11265v1)|null|
 |**2022-12-21**|**Properties of Flare-Imminent versus Flare-Quiet Active Regions from the Chromosphere through the Corona II: NonParametric Discriminant Analysis Results from the NWRA Classification Infrastructure (NCI)**|KD Leka et.al.|[2212.11255v1](http://arxiv.org/abs/2212.11255v1)|[2212.11255v1](http://arxiv.org/pdf/2212.11255v1)|null|
@@ -1285,12 +1285,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2022-12-22**|**Efficient Induction of Language Models Via Probabilistic Concept Formation**|Christopher J. MacLellan et.al.|[2212.11937v1](http://arxiv.org/abs/2212.11937v1)|[2212.11937v1](http://arxiv.org/pdf/2212.11937v1)|null|
 |**2022-12-22**|**Word Embedding Neural Networks to Advance Knee Osteoarthritis Research**|Soheyla Amirian et.al.|[2212.11933v1](http://arxiv.org/abs/2212.11933v1)|[2212.11933v1](http://arxiv.org/pdf/2212.11933v1)|null|
-|**2022-12-22**|**Fully well balanced entropy controlled DGSEM for shallow water flows: global flux quadrature and cell entropy correction**|Yogiraj Mantri et.al.|[2212.11931v1](http://arxiv.org/abs/2212.11931v1)|[2212.11931v1](http://arxiv.org/pdf/2212.11931v1)|null|
+|**2022-12-23**|**Fully well balanced entropy controlled DGSEM for shallow water flows: global flux quadrature and cell entropy correction**|Yogiraj Mantri et.al.|[2212.11931v2](http://arxiv.org/abs/2212.11931v2)|[2212.11931v2](http://arxiv.org/pdf/2212.11931v2)|null|
 |**2022-12-22**|**Realizing Molecular Machine Learning through Communications for Biological AI: Future Directions and Challenges**|Sasitharan Balasubramaniam et.al.|[2212.11910v1](http://arxiv.org/abs/2212.11910v1)|[2212.11910v1](http://arxiv.org/pdf/2212.11910v1)|null|
 |**2022-12-22**|**Machine Learning with Probabilistic Law Discovery: A Concise Introduction**|Alexander Demin et.al.|[2212.11901v1](http://arxiv.org/abs/2212.11901v1)|[2212.11901v1](http://arxiv.org/pdf/2212.11901v1)|null|
 |**2022-12-22**|**An Adaptive Simulated Annealing-Based Machine Learning Approach for Developing an E-Triage Tool for Hospital Emergency Operations**|Abdulaziz Ahmed et.al.|[2212.11892v1](http://arxiv.org/abs/2212.11892v1)|[2212.11892v1](http://arxiv.org/pdf/2212.11892v1)|null|
 |**2022-12-22**|**Decoding surface codes with deep reinforcement learning and probabilistic policy reuse**|Elisha Siddiqui Matekole et.al.|[2212.11890v1](http://arxiv.org/abs/2212.11890v1)|[2212.11890v1](http://arxiv.org/pdf/2212.11890v1)|null|
-|**2022-12-22**|**Spin wave dispersion of ultra-low damping hematite ($α\text{-Fe}_2\text{O}_3$) at GHz frequencies**|Mohammad Hamdi et.al.|[2212.11887v1](http://arxiv.org/abs/2212.11887v1)|[2212.11887v1](http://arxiv.org/pdf/2212.11887v1)|null|
+|**2022-12-23**|**Spin wave dispersion of ultra-low damping hematite ($α\text{-Fe}_2\text{O}_3$) at GHz frequencies**|Mohammad Hamdi et.al.|[2212.11887v2](http://arxiv.org/abs/2212.11887v2)|[2212.11887v2](http://arxiv.org/pdf/2212.11887v2)|null|
 |**2022-12-22**|**A Study of Left Before Treatment Complete Emergency Department Patients: An Optimized Explanatory Machine Learning Framework**|Abdulaziz Ahmed et.al.|[2212.11879v1](http://arxiv.org/abs/2212.11879v1)|[2212.11879v1](http://arxiv.org/pdf/2212.11879v1)|null|
 |**2022-12-22**|**Impossibility Theorems for Feature Attribution**|Blair Bilodeau et.al.|[2212.11870v1](http://arxiv.org/abs/2212.11870v1)|[2212.11870v1](http://arxiv.org/pdf/2212.11870v1)|null|
 |**2022-12-21**|**Contrastive Language-Vision AI Models Pretrained on Web-Scraped Multimodal Data Exhibit Sexual Objectification Bias**|Robert Wolfe et.al.|[2212.11261v1](http://arxiv.org/abs/2212.11261v1)|[2212.11261v1](http://arxiv.org/pdf/2212.11261v1)|null|
