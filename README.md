@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-26**|**Cosmography with bright and Love sirens**|Arnab Dhani et.al.|[2212.13183v1](http://arxiv.org/abs/2212.13183v1)|[2212.13183v1](http://arxiv.org/pdf/2212.13183v1)|null|
+|**2022-12-26**|**Dust from collisions: A way to probe the composition of exo-planets?**|A. Morlok et.al.|[2212.13174v1](http://arxiv.org/abs/2212.13174v1)|[2212.13174v1](http://arxiv.org/pdf/2212.13174v1)|null|
+|**2022-12-26**|**Gamow shell model description of the radiative capture reaction $^8$B$(p,γ)$$^9$C**|G. X. Dong et.al.|[2212.13172v1](http://arxiv.org/abs/2212.13172v1)|[2212.13172v1](http://arxiv.org/pdf/2212.13172v1)|null|
+|**2022-12-26**|**The Statistical Polarization Properties of Coherent Curvature Radiation by Bunches: Application to Fast Radio Burst Repeaters**|Ze-Nan Liu et.al.|[2212.13153v1](http://arxiv.org/abs/2212.13153v1)|[2212.13153v1](http://arxiv.org/pdf/2212.13153v1)|null|
+|**2022-12-26**|**Distribution of fast radio burst dispersion measures in CHIME/FRB Catalog 1: implications on the origin of FRBs**|Jianwei Zhang et.al.|[2212.13148v1](http://arxiv.org/abs/2212.13148v1)|[2212.13148v1](http://arxiv.org/pdf/2212.13148v1)|null|
+|**2022-12-26**|**Dark energy and matter interacting scenario can relieve $H_0$ and $S_8$ tensions**|Li-Yang Gao et.al.|[2212.13146v1](http://arxiv.org/abs/2212.13146v1)|[2212.13146v1](http://arxiv.org/pdf/2212.13146v1)|null|
+|**2022-12-26**|**Accretion geometry of the neutron star low mass X-ray binary Cyg X-2 from X-ray polarization measurements**|R. Farinelli et.al.|[2212.13119v1](http://arxiv.org/abs/2212.13119v1)|[2212.13119v1](http://arxiv.org/pdf/2212.13119v1)|null|
+|**2022-12-26**|**Jets in a Gamma-Ray Burst During its Prompt Emission: Evolution of Lorentz Factor**|Jing Li et.al.|[2212.13058v1](http://arxiv.org/abs/2212.13058v1)|[2212.13058v1](http://arxiv.org/pdf/2212.13058v1)|null|
+|**2022-12-26**|**Constraining polarisation flux density and angle of point sources by training a convolutional neural network**|J. M. Casas et.al.|[2212.13055v1](http://arxiv.org/abs/2212.13055v1)|[2212.13055v1](http://arxiv.org/pdf/2212.13055v1)|null|
+|**2022-12-26**|**The Aditya-L1 mission of ISRO**|Durgesh Tripathi et.al.|[2212.13046v1](http://arxiv.org/abs/2212.13046v1)|[2212.13046v1](http://arxiv.org/pdf/2212.13046v1)|null|
 |**2022-12-23**|**Results on sub-GeV Dark Matter from a 10 eV Threshold CRESST-III Silicon Detector**|CRESST Collaboration et.al.|[2212.12513v1](http://arxiv.org/abs/2212.12513v1)|[2212.12513v1](http://arxiv.org/pdf/2212.12513v1)|null|
 |**2022-12-23**|**On turbulent viscosity in relativistic jets and accretion disks**|Alexander A. Panferov et.al.|[2212.12512v1](http://arxiv.org/abs/2212.12512v1)|[2212.12512v1](http://arxiv.org/pdf/2212.12512v1)|null|
 |**2022-12-23**|**Building cubic gravity with healthy and viable scalar and tensor perturbations**|Petros Asimakis et.al.|[2212.12494v1](http://arxiv.org/abs/2212.12494v1)|[2212.12494v1](http://arxiv.org/pdf/2212.12494v1)|null|
@@ -1289,6 +1299,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-26**|**Robust computation of optimal transport by $β$-potential regularization**|Shintaro Nakamura et.al.|[2212.13251v1](http://arxiv.org/abs/2212.13251v1)|[2212.13251v1](http://arxiv.org/pdf/2212.13251v1)|null|
+|**2022-12-26**|**Studying the Characteristics of AIOps Projects on GitHub**|Roozbeh Aghili et.al.|[2212.13245v1](http://arxiv.org/abs/2212.13245v1)|[2212.13245v1](http://arxiv.org/pdf/2212.13245v1)|null|
+|**2022-12-26**|**Saliency-Augmented Memory Completion for Continual Learning**|Guangji Bai et.al.|[2212.13242v1](http://arxiv.org/abs/2212.13242v1)|[2212.13242v1](http://arxiv.org/pdf/2212.13242v1)|**[link](https://github.com/baithebest/samc)**|
+|**2022-12-26**|**Biologically Inspired Design Concept Generation Using Generative Pre-Trained Transformers**|Qihao Zhu et.al.|[2212.13196v1](http://arxiv.org/abs/2212.13196v1)|[2212.13196v1](http://arxiv.org/pdf/2212.13196v1)|null|
+|**2022-12-26**|**Upper bounds on collective light-matter coupling strength with plasmonic meta-atoms**|Evgeny Ryabkov et.al.|[2212.13192v1](http://arxiv.org/abs/2212.13192v1)|[2212.13192v1](http://arxiv.org/pdf/2212.13192v1)|null|
+|**2022-12-26**|**Off-Policy Reinforcement Learning with Loss Function Weighted by Temporal Difference Error**|Bumgeun Park et.al.|[2212.13175v1](http://arxiv.org/abs/2212.13175v1)|[2212.13175v1](http://arxiv.org/pdf/2212.13175v1)|null|
+|**2022-12-26**|**Inferring stochastic regulatory network from perturbations of the non-equilibrium steady state**|Niklas Bonacker et.al.|[2212.13168v1](http://arxiv.org/abs/2212.13168v1)|[2212.13168v1](http://arxiv.org/pdf/2212.13168v1)|null|
+|**2022-12-26**|**Beyond 5G Networks: Integration of Communication, Computing, Caching, and Control**|Musbahu Mohammed Adam et.al.|[2212.13141v1](http://arxiv.org/abs/2212.13141v1)|[2212.13141v1](http://arxiv.org/pdf/2212.13141v1)|null|
+|**2022-12-26**|**Convergence to good non-optimal critical points in the training of neural networks: Gradient descent optimization with one random initialization overcomes all bad non-global local minima with high probability**|Shokhrukh Ibragimov et.al.|[2212.13111v1](http://arxiv.org/abs/2212.13111v1)|[2212.13111v1](http://arxiv.org/pdf/2212.13111v1)|null|
+|**2022-12-26**|**Semi-Supervised Domain Adaptation for Semantic Segmentation of Roads from Satellite Images**|Ahmet Alp Kindiroglu et.al.|[2212.13079v1](http://arxiv.org/abs/2212.13079v1)|[2212.13079v1](http://arxiv.org/pdf/2212.13079v1)|null|
 |**2022-12-23**|**Mathematical Foundations for a Compositional Account of the Bayesian Brain**|Toby St Clere Smithe et.al.|[2212.12538v1](http://arxiv.org/abs/2212.12538v1)|[2212.12538v1](http://arxiv.org/pdf/2212.12538v1)|null|
 |**2022-12-23**|**A Privacy-Preserving Model based on Differential Approach for Sensitive Data in Cloud Environment**|Ashutosh Kumar Singh et.al.|[2212.12534v1](http://arxiv.org/abs/2212.12534v1)|[2212.12534v1](http://arxiv.org/pdf/2212.12534v1)|null|
 |**2022-12-23**|**An Exact Mapping From ReLU Networks to Spiking Neural Networks**|Ana Stanojevic et.al.|[2212.12522v1](http://arxiv.org/abs/2212.12522v1)|[2212.12522v1](http://arxiv.org/pdf/2212.12522v1)|null|
