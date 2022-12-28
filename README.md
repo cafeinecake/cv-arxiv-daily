@@ -1300,7 +1300,7 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2022-12-26**|**Robust computation of optimal transport by $β$-potential regularization**|Shintaro Nakamura et.al.|[2212.13251v1](http://arxiv.org/abs/2212.13251v1)|[2212.13251v1](http://arxiv.org/pdf/2212.13251v1)|null|
-|**2022-12-26**|**Studying the Characteristics of AIOps Projects on GitHub**|Roozbeh Aghili et.al.|[2212.13245v1](http://arxiv.org/abs/2212.13245v1)|[2212.13245v1](http://arxiv.org/pdf/2212.13245v1)|null|
+|**2022-12-26**|**Studying the Characteristics of AIOps Projects on GitHub**|Roozbeh Aghili et.al.|[2212.13245v1](http://arxiv.org/abs/2212.13245v1)|[2212.13245v1](http://arxiv.org/pdf/2212.13245v1)|**[link](https://github.com/aiopsstudy/understanding_aiops)**|
 |**2022-12-26**|**Saliency-Augmented Memory Completion for Continual Learning**|Guangji Bai et.al.|[2212.13242v1](http://arxiv.org/abs/2212.13242v1)|[2212.13242v1](http://arxiv.org/pdf/2212.13242v1)|**[link](https://github.com/baithebest/samc)**|
 |**2022-12-26**|**Biologically Inspired Design Concept Generation Using Generative Pre-Trained Transformers**|Qihao Zhu et.al.|[2212.13196v1](http://arxiv.org/abs/2212.13196v1)|[2212.13196v1](http://arxiv.org/pdf/2212.13196v1)|null|
 |**2022-12-26**|**Upper bounds on collective light-matter coupling strength with plasmonic meta-atoms**|Evgeny Ryabkov et.al.|[2212.13192v1](http://arxiv.org/abs/2212.13192v1)|[2212.13192v1](http://arxiv.org/pdf/2212.13192v1)|null|
