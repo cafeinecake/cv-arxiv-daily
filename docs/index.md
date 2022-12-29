@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-28**|**PBH Formation from Overdensities in Delayed Vacuum Transitions**|Kiyoharu Kawana et.al.|[2212.14037v1](http://arxiv.org/abs/2212.14037v1)|[2212.14037v1](http://arxiv.org/pdf/2212.14037v1)|null|
+|**2022-12-28**|**Bootstrapping Multi-Field Inflation: non-Gaussianities from light scalars revisited**|Dong-Gang Wang et.al.|[2212.14035v1](http://arxiv.org/abs/2212.14035v1)|[2212.14035v1](http://arxiv.org/pdf/2212.14035v1)|null|
+|**2022-12-28**|**Relation between metallicities and spectral energy distributions of Herbig Ae/Be stars. A potential link with planet formation**|J. Guzman-Diaz et.al.|[2212.14022v1](http://arxiv.org/abs/2212.14022v1)|[2212.14022v1](http://arxiv.org/pdf/2212.14022v1)|null|
+|**2022-12-28**|**Equation of state and speed of sound of isospin-asymmetric QCD on the lattice**|Bastian B. Brandt et.al.|[2212.14016v1](http://arxiv.org/abs/2212.14016v1)|[2212.14016v1](http://arxiv.org/pdf/2212.14016v1)|null|
+|**2022-12-28**|**Detecting VHE prompt emission from binary neutron-star mergers: ET and CTA synergies**|Biswajit Banerjee et.al.|[2212.14007v1](http://arxiv.org/abs/2212.14007v1)|[2212.14007v1](http://arxiv.org/pdf/2212.14007v1)|null|
+|**2022-12-28**|**Mid-infrared spectra of differentiated meteorites (achondrites): Comparison with astronomical observations of dust in protoplanetary and debris disks**|A. Morlok et.al.|[2212.13959v1](http://arxiv.org/abs/2212.13959v1)|[2212.13959v1](http://arxiv.org/pdf/2212.13959v1)|null|
+|**2022-12-28**|**Rossby numbers of fully and partially convective stars**|N. R. Landin et.al.|[2212.13958v1](http://arxiv.org/abs/2212.13958v1)|[2212.13958v1](http://arxiv.org/pdf/2212.13958v1)|null|
+|**2022-12-28**|**Star Cluster Formation and Survival in the First Galaxies**|Fred Angelo Batan Garcia et.al.|[2212.13946v1](http://arxiv.org/abs/2212.13946v1)|[2212.13946v1](http://arxiv.org/pdf/2212.13946v1)|null|
+|**2022-12-28**|**Imprint of galactic rotation curves and metric fluctuations on the recombination era anisotropy**|Philip D. Mannheim et.al.|[2212.13942v1](http://arxiv.org/abs/2212.13942v1)|[2212.13942v1](http://arxiv.org/pdf/2212.13942v1)|null|
+|**2022-12-28**|**Search for manifestations of spin-torsion coupling**|Mariya Iv. Trukhanova et.al.|[2212.13871v1](http://arxiv.org/abs/2212.13871v1)|[2212.13871v1](http://arxiv.org/pdf/2212.13871v1)|null|
 |**2022-12-26**|**Cosmography with bright and Love sirens**|Arnab Dhani et.al.|[2212.13183v1](http://arxiv.org/abs/2212.13183v1)|[2212.13183v1](http://arxiv.org/pdf/2212.13183v1)|null|
 |**2022-12-26**|**Dust from collisions: A way to probe the composition of exo-planets?**|A. Morlok et.al.|[2212.13174v1](http://arxiv.org/abs/2212.13174v1)|[2212.13174v1](http://arxiv.org/pdf/2212.13174v1)|null|
 |**2022-12-26**|**Gamow shell model description of the radiative capture reaction $^8$B$(p,γ)$$^9$C**|G. X. Dong et.al.|[2212.13172v1](http://arxiv.org/abs/2212.13172v1)|[2212.13172v1](http://arxiv.org/pdf/2212.13172v1)|null|
@@ -1303,6 +1313,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2022-12-28**|**How Do Deepfakes Move? Motion Magnification for Deepfake Source Detection**|Umur Aybars Ciftci et.al.|[2212.14033v1](http://arxiv.org/abs/2212.14033v1)|[2212.14033v1](http://arxiv.org/pdf/2212.14033v1)|null|
+|**2022-12-28**|**Persistence-based operators in machine learning**|Mattia G. Bergomi et.al.|[2212.13985v1](http://arxiv.org/abs/2212.13985v1)|[2212.13985v1](http://arxiv.org/pdf/2212.13985v1)|null|
+|**2022-12-28**|**Towards Learning Abstractions via Reinforcement Learning**|Erik Jergéus et.al.|[2212.13980v1](http://arxiv.org/abs/2212.13980v1)|[2212.13980v1](http://arxiv.org/pdf/2212.13980v1)|null|
+|**2022-12-28**|**TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning**|Peixiang Huang et.al.|[2212.13979v1](http://arxiv.org/abs/2212.13979v1)|[2212.13979v1](http://arxiv.org/pdf/2212.13979v1)|**[link](https://github.com/adlab3ds/tig-bev)**|
+|**2022-12-28**|**A Segmentation Method for fluorescence images without a machine learning approach**|Giuseppe Giacopelli et.al.|[2212.13945v1](http://arxiv.org/abs/2212.13945v1)|[2212.13945v1](http://arxiv.org/pdf/2212.13945v1)|null|
+|**2022-12-28**|**HeATed Alert Triage (HeAT): Transferrable Learning to Extract Multistage Attack Campaigns**|Stephen Moskal et.al.|[2212.13941v1](http://arxiv.org/abs/2212.13941v1)|[2212.13941v1](http://arxiv.org/pdf/2212.13941v1)|null|
+|**2022-12-28**|**Data Augmentation using Transformers and Similarity Measures for Improving Arabic Text Classification**|Dania Refai et.al.|[2212.13939v1](http://arxiv.org/abs/2212.13939v1)|[2212.13939v1](http://arxiv.org/pdf/2212.13939v1)|null|
+|**2022-12-28**|**Towards Disentangling Relevance and Bias in Unbiased Learning to Rank**|Yunan Zhang et.al.|[2212.13937v1](http://arxiv.org/abs/2212.13937v1)|[2212.13937v1](http://arxiv.org/pdf/2212.13937v1)|null|
+|**2022-12-28**|**On Pathologies in KL-Regularized Reinforcement Learning from Expert Demonstrations**|Tim G. J. Rudner et.al.|[2212.13936v1](http://arxiv.org/abs/2212.13936v1)|[2212.13936v1](http://arxiv.org/pdf/2212.13936v1)|null|
+|**2022-12-28**|**Feature learning in neural networks and kernel machines that recursively learn features**|Adityanarayanan Radhakrishnan et.al.|[2212.13881v1](http://arxiv.org/abs/2212.13881v1)|[2212.13881v1](http://arxiv.org/pdf/2212.13881v1)|**[link](https://github.com/aradha/recursive_feature_machines)**|
 |**2022-12-26**|**Robust computation of optimal transport by $β$-potential regularization**|Shintaro Nakamura et.al.|[2212.13251v1](http://arxiv.org/abs/2212.13251v1)|[2212.13251v1](http://arxiv.org/pdf/2212.13251v1)|null|
 |**2022-12-26**|**Studying the Characteristics of AIOps Projects on GitHub**|Roozbeh Aghili et.al.|[2212.13245v1](http://arxiv.org/abs/2212.13245v1)|[2212.13245v1](http://arxiv.org/pdf/2212.13245v1)|**[link](https://github.com/aiopsstudy/understanding_aiops)**|
 |**2022-12-26**|**Saliency-Augmented Memory Completion for Continual Learning**|Guangji Bai et.al.|[2212.13242v1](http://arxiv.org/abs/2212.13242v1)|[2212.13242v1](http://arxiv.org/pdf/2212.13242v1)|**[link](https://github.com/baithebest/samc)**|
