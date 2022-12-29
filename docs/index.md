@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.28
+## Updated on 2022.12.29
 
 ## Astrophysics
 
@@ -1309,7 +1309,7 @@ layout: default
 |**2022-12-26**|**Biologically Inspired Design Concept Generation Using Generative Pre-Trained Transformers**|Qihao Zhu et.al.|[2212.13196v1](http://arxiv.org/abs/2212.13196v1)|[2212.13196v1](http://arxiv.org/pdf/2212.13196v1)|null|
 |**2022-12-26**|**Upper bounds on collective light-matter coupling strength with plasmonic meta-atoms**|Evgeny Ryabkov et.al.|[2212.13192v1](http://arxiv.org/abs/2212.13192v1)|[2212.13192v1](http://arxiv.org/pdf/2212.13192v1)|null|
 |**2022-12-26**|**Off-Policy Reinforcement Learning with Loss Function Weighted by Temporal Difference Error**|Bumgeun Park et.al.|[2212.13175v1](http://arxiv.org/abs/2212.13175v1)|[2212.13175v1](http://arxiv.org/pdf/2212.13175v1)|null|
-|**2022-12-26**|**Inferring stochastic regulatory network from perturbations of the non-equilibrium steady state**|Niklas Bonacker et.al.|[2212.13168v1](http://arxiv.org/abs/2212.13168v1)|[2212.13168v1](http://arxiv.org/pdf/2212.13168v1)|null|
+|**2022-12-27**|**Inferring stochastic regulatory networks from perturbations of the non-equilibrium steady state**|Niklas Bonacker et.al.|[2212.13168v2](http://arxiv.org/abs/2212.13168v2)|[2212.13168v2](http://arxiv.org/pdf/2212.13168v2)|null|
 |**2022-12-26**|**Beyond 5G Networks: Integration of Communication, Computing, Caching, and Control**|Musbahu Mohammed Adam et.al.|[2212.13141v1](http://arxiv.org/abs/2212.13141v1)|[2212.13141v1](http://arxiv.org/pdf/2212.13141v1)|null|
 |**2022-12-26**|**Convergence to good non-optimal critical points in the training of neural networks: Gradient descent optimization with one random initialization overcomes all bad non-global local minima with high probability**|Shokhrukh Ibragimov et.al.|[2212.13111v1](http://arxiv.org/abs/2212.13111v1)|[2212.13111v1](http://arxiv.org/pdf/2212.13111v1)|null|
 |**2022-12-26**|**Semi-Supervised Domain Adaptation for Semantic Segmentation of Roads from Satellite Images**|Ahmet Alp Kindiroglu et.al.|[2212.13079v1](http://arxiv.org/abs/2212.13079v1)|[2212.13079v1](http://arxiv.org/pdf/2212.13079v1)|null|
