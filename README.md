@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-30**|**LISA Galactic Binaries in the Roman Galactic Bulge Time-Domain Survey**|Matthew C. Digman et.al.|[2212.14887v1](http://arxiv.org/abs/2212.14887v1)|[2212.14887v1](http://arxiv.org/pdf/2212.14887v1)|null|
+|**2022-12-30**|**Mimetic K-essence**|Pavel Jiroušek et.al.|[2212.14867v1](http://arxiv.org/abs/2212.14867v1)|[2212.14867v1](http://arxiv.org/pdf/2212.14867v1)|null|
+|**2022-12-30**|**Effect of color superconductivity on the mass of hybrid neutron stars in an effective model with pQCD asymptotics**|David Blaschke et.al.|[2212.14856v1](http://arxiv.org/abs/2212.14856v1)|[2212.14856v1](http://arxiv.org/pdf/2212.14856v1)|null|
+|**2022-12-30**|**Simple physics and integrators accurately reproduce Mercury instability statistics**|Dorian S. Abbot et.al.|[2212.14844v1](http://arxiv.org/abs/2212.14844v1)|[2212.14844v1](http://arxiv.org/pdf/2212.14844v1)|null|
+|**2022-12-30**|**On the structural stability of a simple cosmological model in $R+α R^{2}$ theory of gravity**|Orest Hrycyna et.al.|[2212.14843v1](http://arxiv.org/abs/2212.14843v1)|[2212.14843v1](http://arxiv.org/pdf/2212.14843v1)|null|
+|**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835v1](http://arxiv.org/abs/2212.14835v1)|[2212.14835v1](http://arxiv.org/pdf/2212.14835v1)|null|
+|**2022-12-30**|**eDIG-CHANGES I: Extended Hα Emission from the Extraplanar Diffuse Ionized Gas (eDIG) around CHANG-ES Galaxies**|Li-Yuan Lu et.al.|[2212.14824v1](http://arxiv.org/abs/2212.14824v1)|[2212.14824v1](http://arxiv.org/pdf/2212.14824v1)|null|
+|**2022-12-30**|**Critical collapse for the Starobinsky $R^2$ model**|Yolbeiker Rodríguez Baez et.al.|[2212.14805v1](http://arxiv.org/abs/2212.14805v1)|[2212.14805v1](http://arxiv.org/pdf/2212.14805v1)|null|
+|**2022-12-30**|**The 2HD+a model: collider, dark matter and gravitational wave signals**|Giorgio Arcadi et.al.|[2212.14788v1](http://arxiv.org/abs/2212.14788v1)|[2212.14788v1](http://arxiv.org/pdf/2212.14788v1)|null|
+|**2022-12-30**|**Relativistic approach to the nuclear breathing mode**|Elena Litvinova et.al.|[2212.14766v1](http://arxiv.org/abs/2212.14766v1)|[2212.14766v1](http://arxiv.org/pdf/2212.14766v1)|null|
 |**2022-12-28**|**PBH Formation from Overdensities in Delayed Vacuum Transitions**|Kiyoharu Kawana et.al.|[2212.14037v1](http://arxiv.org/abs/2212.14037v1)|[2212.14037v1](http://arxiv.org/pdf/2212.14037v1)|null|
 |**2022-12-28**|**Bootstrapping Multi-Field Inflation: non-Gaussianities from light scalars revisited**|Dong-Gang Wang et.al.|[2212.14035v1](http://arxiv.org/abs/2212.14035v1)|[2212.14035v1](http://arxiv.org/pdf/2212.14035v1)|null|
 |**2022-12-28**|**Relation between metallicities and spectral energy distributions of Herbig Ae/Be stars. A potential link with planet formation**|J. Guzman-Diaz et.al.|[2212.14022v1](http://arxiv.org/abs/2212.14022v1)|[2212.14022v1](http://arxiv.org/pdf/2212.14022v1)|null|
@@ -1309,6 +1319,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2022-12-30**|**Guidance Through Surrogate: Towards a Generic Diagnostic Attack**|Muzammal Naseer et.al.|[2212.14875v1](http://arxiv.org/abs/2212.14875v1)|[2212.14875v1](http://arxiv.org/pdf/2212.14875v1)|null|
+|**2022-12-30**|**Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces**|Pattarawat Chormai et.al.|[2212.14855v1](http://arxiv.org/abs/2212.14855v1)|[2212.14855v1](http://arxiv.org/pdf/2212.14855v1)|null|
+|**2022-12-30**|**Symbolic Visual Reinforcement Learning: A Scalable Framework with Object-Level Abstraction and Differentiable Expression Search**|Wenqing Zheng et.al.|[2212.14849v1](http://arxiv.org/abs/2212.14849v1)|[2212.14849v1](http://arxiv.org/pdf/2212.14849v1)|**[link](https://github.com/vita-group/diffses)**|
+|**2022-12-30**|**Simple physics and integrators accurately reproduce Mercury instability statistics**|Dorian S. Abbot et.al.|[2212.14844v1](http://arxiv.org/abs/2212.14844v1)|[2212.14844v1](http://arxiv.org/pdf/2212.14844v1)|null|
+|**2022-12-30**|**A deep real options policy for sequential service region design and timing**|Srushti Rath et.al.|[2212.14800v1](http://arxiv.org/abs/2212.14800v1)|[2212.14800v1](http://arxiv.org/pdf/2212.14800v1)|null|
+|**2022-12-30**|**Risk-Sensitive Policy with Distributional Reinforcement Learning**|Thibaut Théate et.al.|[2212.14743v1](http://arxiv.org/abs/2212.14743v1)|[2212.14743v1](http://arxiv.org/pdf/2212.14743v1)|**[link](https://github.com/thibauttheate/risk-sensitive-policy-with-distributional-reinforcement-learning)**|
+|**2022-12-30**|**DGFont++: Robust Deformable Generative Networks for Unsupervised Font Generation**|Xinyuan Chen et.al.|[2212.14742v1](http://arxiv.org/abs/2212.14742v1)|[2212.14742v1](http://arxiv.org/pdf/2212.14742v1)|null|
+|**2022-12-30**|**UBIWEAR: An end-to-end, data-driven framework for intelligent physical activity prediction to empower mHealth interventions**|Asterios Bampakis et.al.|[2212.14731v1](http://arxiv.org/abs/2212.14731v1)|[2212.14731v1](http://arxiv.org/pdf/2212.14731v1)|**[link](https://github.com/stergiosbamp/deep-physical-activity-prediction)**|
+|**2022-12-30**|**Learning from Data Streams: An Overview and Update**|Jesse Read et.al.|[2212.14720v1](http://arxiv.org/abs/2212.14720v1)|[2212.14720v1](http://arxiv.org/pdf/2212.14720v1)|null|
+|**2022-12-30**|**Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural Network Approach**|Daniel Abode et.al.|[2212.14051v1](http://arxiv.org/abs/2212.14051v1)|[2212.14051v1](http://arxiv.org/pdf/2212.14051v1)|**[link](https://github.com/danieloaAAU/Power_Control_GNN)**|
 |**2022-12-28**|**How Do Deepfakes Move? Motion Magnification for Deepfake Source Detection**|Umur Aybars Ciftci et.al.|[2212.14033v1](http://arxiv.org/abs/2212.14033v1)|[2212.14033v1](http://arxiv.org/pdf/2212.14033v1)|null|
 |**2022-12-28**|**Persistence-based operators in machine learning**|Mattia G. Bergomi et.al.|[2212.13985v1](http://arxiv.org/abs/2212.13985v1)|[2212.13985v1](http://arxiv.org/pdf/2212.13985v1)|null|
 |**2022-12-28**|**Towards Learning Abstractions via Reinforcement Learning**|Erik Jergéus et.al.|[2212.13980v1](http://arxiv.org/abs/2212.13980v1)|[2212.13980v1](http://arxiv.org/pdf/2212.13980v1)|null|
