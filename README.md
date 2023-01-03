@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-02**|**Data-Constrained Solar Modeling with GX Simulator**|Gelu M. Nita et.al.|[2301.00795v1](http://arxiv.org/abs/2301.00795v1)|[2301.00795v1](http://arxiv.org/pdf/2301.00795v1)|null|
+|**2023-01-02**|**Disk Wind Feedback from High-mass Protostars. II. The Evolutionary Sequence**|Jan E. Staff et.al.|[2301.00749v1](http://arxiv.org/abs/2301.00749v1)|[2301.00749v1](http://arxiv.org/pdf/2301.00749v1)|null|
+|**2023-01-02**|**Analysis of the first infrared spectrum of quasi-bound H2 line emission in Herbig-Haro 7**|Evelyne Roueff et.al.|[2301.00741v1](http://arxiv.org/abs/2301.00741v1)|[2301.00741v1](http://arxiv.org/pdf/2301.00741v1)|null|
+|**2023-01-02**|**Theoretical investigation of the occurrence of tidally excited oscillations in massive eccentric binary systems**|Piotr A. Kołaczek-Szymański et.al.|[2301.00733v1](http://arxiv.org/abs/2301.00733v1)|[2301.00733v1](http://arxiv.org/pdf/2301.00733v1)|null|
+|**2023-01-02**|**White Dwarfs with Infrared Excess from LAMOST Data Release 5**|Lin Wang et.al.|[2301.00705v1](http://arxiv.org/abs/2301.00705v1)|[2301.00705v1](http://arxiv.org/pdf/2301.00705v1)|null|
+|**2023-01-02**|**Gaia search for early-formed andesitic asteroidal crusts**|Marjorie Galinier et.al.|[2301.00699v1](http://arxiv.org/abs/2301.00699v1)|[2301.00699v1](http://arxiv.org/pdf/2301.00699v1)|null|
+|**2023-01-02**|**Comparative analysis of observations of the selected exoplanet transits obtained at the Kyiv Comet station with the database of the orbital telescopes TESS and Kepler**|M. Lobodenko et.al.|[2301.00689v1](http://arxiv.org/abs/2301.00689v1)|[2301.00689v1](http://arxiv.org/pdf/2301.00689v1)|null|
+|**2023-01-02**|**The Mars Orbiter Magnetometer of Tianwen-1: In-flight Performance and First Science Results**|Yuming Wang et.al.|[2301.00677v1](http://arxiv.org/abs/2301.00677v1)|[2301.00677v1](http://arxiv.org/pdf/2301.00677v1)|null|
+|**2023-01-02**|**Joint reconstructions of growth and expansion histories from stage-IV surveys with minimal assumptions II: Modified gravity and massive neutrinos**|Rodrigo Calderón et.al.|[2301.00640v1](http://arxiv.org/abs/2301.00640v1)|[2301.00640v1](http://arxiv.org/pdf/2301.00640v1)|null|
+|**2023-01-02**|**Sustained heating of the chromosphere and transition region over a sunspot light bridge**|Rohan E. Louis et.al.|[2301.00608v1](http://arxiv.org/abs/2301.00608v1)|[2301.00608v1](http://arxiv.org/pdf/2301.00608v1)|null|
 |**2022-12-30**|**LISA Galactic Binaries in the Roman Galactic Bulge Time-Domain Survey**|Matthew C. Digman et.al.|[2212.14887v1](http://arxiv.org/abs/2212.14887v1)|[2212.14887v1](http://arxiv.org/pdf/2212.14887v1)|null|
 |**2022-12-30**|**Mimetic K-essence**|Pavel Jiroušek et.al.|[2212.14867v1](http://arxiv.org/abs/2212.14867v1)|[2212.14867v1](http://arxiv.org/pdf/2212.14867v1)|null|
 |**2022-12-30**|**Effect of color superconductivity on the mass of hybrid neutron stars in an effective model with pQCD asymptotics**|David Blaschke et.al.|[2212.14856v1](http://arxiv.org/abs/2212.14856v1)|[2212.14856v1](http://arxiv.org/pdf/2212.14856v1)|null|
@@ -1319,6 +1329,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-02**|**SIRL: Similarity-based Implicit Representation Learning**|Andreea Bobu et.al.|[2301.00810v1](http://arxiv.org/abs/2301.00810v1)|[2301.00810v1](http://arxiv.org/pdf/2301.00810v1)|null|
+|**2023-01-02**|**G-CEALS: Gaussian Cluster Embedding in Autoencoder Latent Space for Tabular Data Representation**|Manar D. Samad et.al.|[2301.00802v1](http://arxiv.org/abs/2301.00802v1)|[2301.00802v1](http://arxiv.org/pdf/2301.00802v1)|null|
+|**2023-01-02**|**Moiré alchemy: artificial atoms, Wigner molecules, and emergent Kagome lattice**|Aidan P. Reddy et.al.|[2301.00799v1](http://arxiv.org/abs/2301.00799v1)|[2301.00799v1](http://arxiv.org/pdf/2301.00799v1)|null|
+|**2023-01-02**|**The Undesirable Dependence on Frequency of Gender Bias Metrics Based on Word Embeddings**|Francisco Valentini et.al.|[2301.00792v1](http://arxiv.org/abs/2301.00792v1)|[2301.00792v1](http://arxiv.org/pdf/2301.00792v1)|**[link](https://github.com/ftvalentini/embeddingsbiasfrequency)**|
+|**2023-01-02**|**Fusing Models for Prognostics and Health Management of Lithium-Ion Batteries Based on Physics-Informed Neural Networks**|Pengfei Wen et.al.|[2301.00776v1](http://arxiv.org/abs/2301.00776v1)|[2301.00776v1](http://arxiv.org/pdf/2301.00776v1)|**[link](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)**|
+|**2023-01-02**|**Point Cloud-based Proactive Link Quality Prediction for Millimeter-wave Communications**|Shoki Ohta et.al.|[2301.00752v1](http://arxiv.org/abs/2301.00752v1)|[2301.00752v1](http://arxiv.org/pdf/2301.00752v1)|null|
+|**2023-01-02**|**IRT2: Inductive Linking and Ranking in Knowledge Graphs of Varying Scale**|Felix Hamann et.al.|[2301.00716v1](http://arxiv.org/abs/2301.00716v1)|[2301.00716v1](http://arxiv.org/pdf/2301.00716v1)|**[link](https://github.com/lavis-nlp/irt2)**|
+|**2023-01-02**|**On Bilevel Optimization without Lower-level Strong Convexity**|Lesi Chen et.al.|[2301.00712v1](http://arxiv.org/abs/2301.00712v1)|[2301.00712v1](http://arxiv.org/pdf/2301.00712v1)|null|
+|**2023-01-02**|**Tsetlin Machine Embedding: Representing Words Using Logical Expressions**|Bimal Bhattarai et.al.|[2301.00709v1](http://arxiv.org/abs/2301.00709v1)|[2301.00709v1](http://arxiv.org/pdf/2301.00709v1)|null|
+|**2023-01-02**|**Muse: Text-To-Image Generation via Masked Generative Transformers**|Huiwen Chang et.al.|[2301.00704v1](http://arxiv.org/abs/2301.00704v1)|[2301.00704v1](http://arxiv.org/pdf/2301.00704v1)|null|
 |**2022-12-30**|**Guidance Through Surrogate: Towards a Generic Diagnostic Attack**|Muzammal Naseer et.al.|[2212.14875v1](http://arxiv.org/abs/2212.14875v1)|[2212.14875v1](http://arxiv.org/pdf/2212.14875v1)|null|
 |**2022-12-30**|**Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces**|Pattarawat Chormai et.al.|[2212.14855v1](http://arxiv.org/abs/2212.14855v1)|[2212.14855v1](http://arxiv.org/pdf/2212.14855v1)|null|
 |**2022-12-30**|**Symbolic Visual Reinforcement Learning: A Scalable Framework with Object-Level Abstraction and Differentiable Expression Search**|Wenqing Zheng et.al.|[2212.14849v1](http://arxiv.org/abs/2212.14849v1)|[2212.14849v1](http://arxiv.org/pdf/2212.14849v1)|**[link](https://github.com/vita-group/diffses)**|
