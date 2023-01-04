@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-03**|**Speckle Space-Time Covariance in High-Contrast Imaging**|Briley L. Lewis et.al.|[2301.01291v1](http://arxiv.org/abs/2301.01291v1)|[2301.01291v1](http://arxiv.org/pdf/2301.01291v1)|null|
+|**2023-01-03**|**Constraints on the non-thermal desorption of methanol in the cold core LDN 429-C**|A. Taillard et.al.|[2301.01288v1](http://arxiv.org/abs/2301.01288v1)|[2301.01288v1](http://arxiv.org/pdf/2301.01288v1)|null|
+|**2023-01-03**|**Polar circumtriple planets and disks can only form close to a triple star**|Stephen Lepp et.al.|[2301.01284v1](http://arxiv.org/abs/2301.01284v1)|[2301.01284v1](http://arxiv.org/pdf/2301.01284v1)|null|
+|**2023-01-03**|**Updated characterization of long-period single companion by combining radial velocity, relative astrometry, and absolute astrometry**|F. Philipot et.al.|[2301.01263v1](http://arxiv.org/abs/2301.01263v1)|[2301.01263v1](http://arxiv.org/pdf/2301.01263v1)|null|
+|**2023-01-03**|**Constraining massless dilaton theory at Solar system scales with the planetary ephemeris INPOP**|L. Bernus et.al.|[2301.01186v1](http://arxiv.org/abs/2301.01186v1)|[2301.01186v1](http://arxiv.org/pdf/2301.01186v1)|null|
+|**2023-01-03**|**Plasma heating and particle acceleration in collisionless shocks through astrophysical observations**|Marco Miceli et.al.|[2301.01183v1](http://arxiv.org/abs/2301.01183v1)|[2301.01183v1](http://arxiv.org/pdf/2301.01183v1)|null|
+|**2023-01-03**|**Three-component modelling of O-rich AGB star winds I. Effects of drift using forsterite**|C. Sandin et.al.|[2301.01180v1](http://arxiv.org/abs/2301.01180v1)|[2301.01180v1](http://arxiv.org/pdf/2301.01180v1)|null|
+|**2023-01-03**|**GRB minimum variability timescale with Insight-HXMT and Swift: implications for progenitor models, dissipation physics and GRB classifications**|A. E. Camisasca et.al.|[2301.01176v1](http://arxiv.org/abs/2301.01176v1)|[2301.01176v1](http://arxiv.org/pdf/2301.01176v1)|null|
+|**2023-01-03**|**Misalignment of the outer disk of DK Tau and a first look at its magnetic field using spectropolarimetry**|M. Nelissen et.al.|[2301.01175v1](http://arxiv.org/abs/2301.01175v1)|[2301.01175v1](http://arxiv.org/pdf/2301.01175v1)|null|
+|**2023-01-03**|**Herbig Stars: A Quarter Century of Progress**|Sean D. Brittain et.al.|[2301.01165v1](http://arxiv.org/abs/2301.01165v1)|[2301.01165v1](http://arxiv.org/pdf/2301.01165v1)|null|
 |**2023-01-02**|**Data-Constrained Solar Modeling with GX Simulator**|Gelu M. Nita et.al.|[2301.00795v1](http://arxiv.org/abs/2301.00795v1)|[2301.00795v1](http://arxiv.org/pdf/2301.00795v1)|null|
 |**2023-01-02**|**Disk Wind Feedback from High-mass Protostars. II. The Evolutionary Sequence**|Jan E. Staff et.al.|[2301.00749v1](http://arxiv.org/abs/2301.00749v1)|[2301.00749v1](http://arxiv.org/pdf/2301.00749v1)|null|
 |**2023-01-02**|**Analysis of the first infrared spectrum of quasi-bound H2 line emission in Herbig-Haro 7**|Evelyne Roueff et.al.|[2301.00741v1](http://arxiv.org/abs/2301.00741v1)|[2301.00741v1](http://arxiv.org/pdf/2301.00741v1)|null|
@@ -1333,6 +1343,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-03**|**Observation of anisotropic superfluid density in an artificial crystal**|Junheng Tao et.al.|[2301.01258v1](http://arxiv.org/abs/2301.01258v1)|[2301.01258v1](http://arxiv.org/pdf/2301.01258v1)|null|
+|**2023-01-03**|**Efficient method for handling diverse agents in QDec-POMDPs**|Nitsan Soffair et.al.|[2301.01246v1](http://arxiv.org/abs/2301.01246v1)|[2301.01246v1](http://arxiv.org/pdf/2301.01246v1)|null|
+|**2023-01-03**|**An Empirical Investigation into the Use of Image Captioning for Automated Software Documentation**|Kevin Moran et.al.|[2301.01224v1](http://arxiv.org/abs/2301.01224v1)|[2301.01224v1](http://arxiv.org/pdf/2301.01224v1)|null|
+|**2023-01-03**|**Generative appearance replay for continual unsupervised domain adaptation**|Boqi Chen et.al.|[2301.01211v1](http://arxiv.org/abs/2301.01211v1)|[2301.01211v1](http://arxiv.org/pdf/2301.01211v1)|null|
+|**2023-01-03**|**Customizable Adaptive Regularization Techniques for B-Spline Modeling**|David Lenz et.al.|[2301.01209v1](http://arxiv.org/abs/2301.01209v1)|[2301.01209v1](http://arxiv.org/pdf/2301.01209v1)|null|
+|**2023-01-03**|**A Survey On Few-shot Knowledge Graph Completion with Structural and Commonsense Knowledge**|Haodi Ma et.al.|[2301.01172v1](http://arxiv.org/abs/2301.01172v1)|[2301.01172v1](http://arxiv.org/pdf/2301.01172v1)|null|
+|**2023-01-03**|**Language Models are Drummers: Drum Composition with Natural Language Pre-Training**|Li Zhang et.al.|[2301.01162v1](http://arxiv.org/abs/2301.01162v1)|[2301.01162v1](http://arxiv.org/pdf/2301.01162v1)|null|
+|**2023-01-03**|**Causal Discovery for Gene Regulatory Network Prediction**|Jacob Rast et.al.|[2301.01110v1](http://arxiv.org/abs/2301.01110v1)|[2301.01110v1](http://arxiv.org/pdf/2301.01110v1)|null|
+|**2023-01-03**|**xDeepInt: a hybrid architecture for modeling the vector-wise and bit-wise feature interactions**|YaChen Yan et.al.|[2301.01089v1](http://arxiv.org/abs/2301.01089v1)|[2301.01089v1](http://arxiv.org/pdf/2301.01089v1)|**[link](https://github.com/yanyachen/xdeepint)**|
+|**2023-01-03**|**Explaining Imitation Learning through Frames**|Boyuan Zheng et.al.|[2301.01088v1](http://arxiv.org/abs/2301.01088v1)|[2301.01088v1](http://arxiv.org/pdf/2301.01088v1)|null|
 |**2023-01-02**|**SIRL: Similarity-based Implicit Representation Learning**|Andreea Bobu et.al.|[2301.00810v1](http://arxiv.org/abs/2301.00810v1)|[2301.00810v1](http://arxiv.org/pdf/2301.00810v1)|null|
 |**2023-01-02**|**G-CEALS: Gaussian Cluster Embedding in Autoencoder Latent Space for Tabular Data Representation**|Manar D. Samad et.al.|[2301.00802v1](http://arxiv.org/abs/2301.00802v1)|[2301.00802v1](http://arxiv.org/pdf/2301.00802v1)|null|
 |**2023-01-02**|**Moiré alchemy: artificial atoms, Wigner molecules, and emergent Kagome lattice**|Aidan P. Reddy et.al.|[2301.00799v1](http://arxiv.org/abs/2301.00799v1)|[2301.00799v1](http://arxiv.org/pdf/2301.00799v1)|null|
