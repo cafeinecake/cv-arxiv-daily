@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.01.05
+## Updated on 2023.01.06
 
 ## Astrophysics
 
@@ -17,7 +17,7 @@ layout: default
 |**2023-01-04**|**Formation Of The Lyman Continuum During Solar Flares**|Shaun A. McLaughlin et.al.|[2301.01648v1](http://arxiv.org/abs/2301.01648v1)|[2301.01648v1](http://arxiv.org/pdf/2301.01648v1)|null|
 |**2023-01-04**|**The intense production of silicates during the final AGB phases of intermediate mass stars**|E. Marini et.al.|[2301.01647v1](http://arxiv.org/abs/2301.01647v1)|[2301.01647v1](http://arxiv.org/pdf/2301.01647v1)|null|
 |**2023-01-04**|**WIMPs, FIMPs, and Inflaton phenomenology via reheating, CMB and $Δ N_{eff}$**|MD Riajul Haque et.al.|[2301.01641v1](http://arxiv.org/abs/2301.01641v1)|[2301.01641v1](http://arxiv.org/pdf/2301.01641v1)|null|
-|**2023-01-04**|**AGN Feedback Through Multiple Jet Cycles in the Seyfert Galaxy NGC 2639**|Vaishnav V. Rao et.al.|[2301.01610v1](http://arxiv.org/abs/2301.01610v1)|[2301.01610v1](http://arxiv.org/pdf/2301.01610v1)|null|
+|**2023-01-05**|**AGN Feedback Through Multiple Jet Cycles in the Seyfert Galaxy NGC 2639**|Vaishnav V. Rao et.al.|[2301.01610v2](http://arxiv.org/abs/2301.01610v2)|[2301.01610v2](http://arxiv.org/pdf/2301.01610v2)|null|
 |**2023-01-03**|**Speckle Space-Time Covariance in High-Contrast Imaging**|Briley L. Lewis et.al.|[2301.01291v1](http://arxiv.org/abs/2301.01291v1)|[2301.01291v1](http://arxiv.org/pdf/2301.01291v1)|null|
 |**2023-01-03**|**Constraints on the non-thermal desorption of methanol in the cold core LDN 429-C**|A. Taillard et.al.|[2301.01288v1](http://arxiv.org/abs/2301.01288v1)|[2301.01288v1](http://arxiv.org/pdf/2301.01288v1)|null|
 |**2023-01-03**|**Polar circumtriple planets and disks can only form close to a triple star**|Stephen Lepp et.al.|[2301.01284v1](http://arxiv.org/abs/2301.01284v1)|[2301.01284v1](http://arxiv.org/pdf/2301.01284v1)|null|
@@ -1353,7 +1353,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-01-04**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v1](http://arxiv.org/abs/2301.01751v1)|[2301.01751v1](http://arxiv.org/pdf/2301.01751v1)|null|
+|**2023-01-05**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v2](http://arxiv.org/abs/2301.01751v2)|[2301.01751v2](http://arxiv.org/pdf/2301.01751v2)|**[link](https://github.com/oughtinc/ice)**|
 |**2023-01-04**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v1](http://arxiv.org/abs/2301.01737v1)|[2301.01737v1](http://arxiv.org/pdf/2301.01737v1)|null|
 |**2023-01-04**|**A Survey on Deep Industrial Transfer Learning in Fault Prognostics**|Benjamin Maschler et.al.|[2301.01705v1](http://arxiv.org/abs/2301.01705v1)|[2301.01705v1](http://arxiv.org/pdf/2301.01705v1)|null|
 |**2023-01-04**|**Technology Trends for Massive MIMO towards 6G**|Yiming Huo et.al.|[2301.01703v1](http://arxiv.org/abs/2301.01703v1)|[2301.01703v1](http://arxiv.org/pdf/2301.01703v1)|null|
@@ -1361,7 +1361,7 @@ layout: default
 |**2023-01-04**|**COVID-Net USPro: An Open-Source Explainable Few-Shot Deep Prototypical Network to Monitor and Detect COVID-19 Infection from Point-of-Care Ultrasound Images**|Jessy Song et.al.|[2301.01679v1](http://arxiv.org/abs/2301.01679v1)|[2301.01679v1](http://arxiv.org/pdf/2301.01679v1)|null|
 |**2023-01-04**|**On the Convergence of Stochastic Gradient Descent in Low-precision Number Formats**|Matteo Cacciola et.al.|[2301.01651v1](http://arxiv.org/abs/2301.01651v1)|[2301.01651v1](http://arxiv.org/pdf/2301.01651v1)|null|
 |**2023-01-04**|**SPTS v2: Single-Point Scene Text Spotting**|Yuliang Liu et.al.|[2301.01635v1](http://arxiv.org/abs/2301.01635v1)|[2301.01635v1](http://arxiv.org/pdf/2301.01635v1)|**[link](https://github.com/shannanyinxiang/spts)**|
-|**2023-01-04**|**Emergent collective intelligence from massive-agent cooperation and competition**|Hanmo Chen et.al.|[2301.01609v1](http://arxiv.org/abs/2301.01609v1)|[2301.01609v1](http://arxiv.org/pdf/2301.01609v1)|**[link](https://github.com/hanmochen/lux-open)**|
+|**2023-01-05**|**Emergent collective intelligence from massive-agent cooperation and competition**|Hanmo Chen et.al.|[2301.01609v2](http://arxiv.org/abs/2301.01609v2)|[2301.01609v2](http://arxiv.org/pdf/2301.01609v2)|**[link](https://github.com/hanmochen/lux-open)**|
 |**2023-01-04**|**Why Capsule Neural Networks Do Not Scale: Challenging the Dynamic Parse-Tree Assumption**|Matthias Mitterreiter et.al.|[2301.01583v1](http://arxiv.org/abs/2301.01583v1)|[2301.01583v1](http://arxiv.org/pdf/2301.01583v1)|null|
 |**2023-01-03**|**Observation of anisotropic superfluid density in an artificial crystal**|Junheng Tao et.al.|[2301.01258v1](http://arxiv.org/abs/2301.01258v1)|[2301.01258v1](http://arxiv.org/pdf/2301.01258v1)|null|
 |**2023-01-03**|**Efficient method for handling diverse agents in QDec-POMDPs**|Nitsan Soffair et.al.|[2301.01246v1](http://arxiv.org/abs/2301.01246v1)|[2301.01246v1](http://arxiv.org/pdf/2301.01246v1)|null|
