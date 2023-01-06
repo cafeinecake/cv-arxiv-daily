@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-05**|**Concentration Distribution of Simple Components Reaction Diffusion in one-dimensional linear Model**|Zihan Huang et.al.|[2301.02235v1](http://arxiv.org/abs/2301.02235v1)|[2301.02235v1](http://arxiv.org/pdf/2301.02235v1)|null|
+|**2023-01-05**|**Predicting the impact of feedback on matter clustering with machine learning in CAMELS**|Ana Maria Delgado et.al.|[2301.02231v1](http://arxiv.org/abs/2301.02231v1)|[2301.02231v1](http://arxiv.org/pdf/2301.02231v1)|null|
+|**2023-01-05**|**Kinematic structure of the Milky Way galaxy, near the spiral arm tangents**|Jacques P Vallée et.al.|[2301.02218v1](http://arxiv.org/abs/2301.02218v1)|[2301.02218v1](http://arxiv.org/pdf/2301.02218v1)|null|
+|**2023-01-05**|**Spatially Resolved Stellar Populations of $0.3<z<6.0$ Galaxies in WHL0137-08 and MACS0647+70 Clusters as Revealed by JWST: How do Galaxies Grow and Quench Over Cosmic Time?**|Abdurro'uf et.al.|[2301.02209v1](http://arxiv.org/abs/2301.02209v1)|[2301.02209v1](http://arxiv.org/pdf/2301.02209v1)|null|
+|**2023-01-05**|**Inferring the impact of feedback on the matter distribution using the Sunyaev Zel'dovich effect: Insights from CAMELS simulations and ACT+DES data**|Shivam Pandey et.al.|[2301.02186v1](http://arxiv.org/abs/2301.02186v1)|[2301.02186v1](http://arxiv.org/pdf/2301.02186v1)|null|
+|**2023-01-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179v1](http://arxiv.org/abs/2301.02179v1)|[2301.02179v1](http://arxiv.org/pdf/2301.02179v1)|null|
+|**2023-01-05**|**An Equation of State of CO for use in Planetary Modeling**|Morris Podolak et.al.|[2301.02176v1](http://arxiv.org/abs/2301.02176v1)|[2301.02176v1](http://arxiv.org/pdf/2301.02176v1)|null|
+|**2023-01-05**|**Asteroids' reflectance from Gaia DR3: Artificial reddening at near-UV wavelengths**|Fernando Tinaut-Ruano et.al.|[2301.02157v1](http://arxiv.org/abs/2301.02157v1)|[2301.02157v1](http://arxiv.org/pdf/2301.02157v1)|null|
+|**2023-01-05**|**A Gaian Habitable Zone**|Rudy Arthur et.al.|[2301.02150v1](http://arxiv.org/abs/2301.02150v1)|[2301.02150v1](http://arxiv.org/pdf/2301.02150v1)|null|
+|**2023-01-05**|**HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age**|John Banovetz et.al.|[2301.02128v1](http://arxiv.org/abs/2301.02128v1)|[2301.02128v1](http://arxiv.org/pdf/2301.02128v1)|null|
 |**2023-01-04**|**Lyman-alpha Scattering Models Trace Accretion and Outflow Kinematics in T Tauri Systems**|Nicole Arulanantham et.al.|[2301.01761v1](http://arxiv.org/abs/2301.01761v1)|[2301.01761v1](http://arxiv.org/pdf/2301.01761v1)|null|
 |**2023-01-04**|**Instability of the cosmological DBI-Galileon in the non-relativistic limit**|C. Leloup et.al.|[2301.01723v1](http://arxiv.org/abs/2301.01723v1)|[2301.01723v1](http://arxiv.org/pdf/2301.01723v1)|null|
 |**2023-01-04**|**Reaching the boundary between stellar kinematic groups and very wide binaries. IV. The widest Washington double star systems with rho > 1000 arcsec in Gaia DR3**|Javier González-Payo et.al.|[2301.01722v1](http://arxiv.org/abs/2301.01722v1)|[2301.01722v1](http://arxiv.org/pdf/2301.01722v1)|null|
@@ -1349,6 +1359,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-05**|**CA$^2$T-Net: Category-Agnostic 3D Articulation Transfer from Single Image**|Jasmine Collins et.al.|[2301.02232v1](http://arxiv.org/abs/2301.02232v1)|[2301.02232v1](http://arxiv.org/pdf/2301.02232v1)|null|
+|**2023-01-05**|**All in Tokens: Unifying Output Space of Visual Tasks via Soft Token**|Jia Ning et.al.|[2301.02229v1](http://arxiv.org/abs/2301.02229v1)|[2301.02229v1](http://arxiv.org/pdf/2301.02229v1)|**[link](https://github.com/swintransformer/ait)**|
+|**2023-01-05**|**Towards Autoformalization of Mathematics and Code Correctness: Experiments with Elementary Proofs**|Garett Cunningham et.al.|[2301.02195v1](http://arxiv.org/abs/2301.02195v1)|[2301.02195v1](http://arxiv.org/pdf/2301.02195v1)|**[link](https://github.com/gc974517/autoformalization)**|
+|**2023-01-05**|**Asteroids' reflectance from Gaia DR3: Artificial reddening at near-UV wavelengths**|Fernando Tinaut-Ruano et.al.|[2301.02157v1](http://arxiv.org/abs/2301.02157v1)|[2301.02157v1](http://arxiv.org/pdf/2301.02157v1)|null|
+|**2023-01-05**|**A deep learning approach to using wearable seismocardiography (SCG) for diagnosing aortic valve stenosis and predicting aortic hemodynamics obtained by 4D flow MRI**|Mahmoud E. Khani et.al.|[2301.02130v1](http://arxiv.org/abs/2301.02130v1)|[2301.02130v1](http://arxiv.org/pdf/2301.02130v1)|null|
+|**2023-01-05**|**FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**|Martin Pernuš et.al.|[2301.02110v1](http://arxiv.org/abs/2301.02110v1)|[2301.02110v1](http://arxiv.org/pdf/2301.02110v1)|**[link](https://github.com/martinpernus/fice)**|
+|**2023-01-05**|**Learning Goal-Conditioned Policies Offline with Self-Supervised Reward Shaping**|Lina Mezghani et.al.|[2301.02099v1](http://arxiv.org/abs/2301.02099v1)|[2301.02099v1](http://arxiv.org/pdf/2301.02099v1)|**[link](https://github.com/facebookresearch/go-fresh)**|
+|**2023-01-05**|**Semantic match: Debugging feature attribution methods in XAI for healthcare**|Giovanni Cinà et.al.|[2301.02080v1](http://arxiv.org/abs/2301.02080v1)|[2301.02080v1](http://arxiv.org/pdf/2301.02080v1)|null|
+|**2023-01-05**|**Explain to Me: Towards Understanding Privacy Decisions**|Gonul Ayci et.al.|[2301.02079v1](http://arxiv.org/abs/2301.02079v1)|[2301.02079v1](http://arxiv.org/pdf/2301.02079v1)|null|
+|**2023-01-05**|**Test of Time: Instilling Video-Language Models with a Sense of Time**|Piyush Bagad et.al.|[2301.02074v1](http://arxiv.org/abs/2301.02074v1)|[2301.02074v1](http://arxiv.org/pdf/2301.02074v1)|null|
 |**2023-01-05**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v2](http://arxiv.org/abs/2301.01751v2)|[2301.01751v2](http://arxiv.org/pdf/2301.01751v2)|**[link](https://github.com/oughtinc/ice)**|
 |**2023-01-04**|**Episodes Discovery Recommendation with Multi-Source Augmentations**|Ziwei Fan et.al.|[2301.01737v1](http://arxiv.org/abs/2301.01737v1)|[2301.01737v1](http://arxiv.org/pdf/2301.01737v1)|null|
 |**2023-01-04**|**A Survey on Deep Industrial Transfer Learning in Fault Prognostics**|Benjamin Maschler et.al.|[2301.01705v1](http://arxiv.org/abs/2301.01705v1)|[2301.01705v1](http://arxiv.org/pdf/2301.01705v1)|null|
