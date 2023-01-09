@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-06**|**TDCOSMO. XIII. Improved Hubble constant measurement from lensing time delays using spatially resolved stellar kinematics of the lens galaxy**|Anowar J. Shajib et.al.|[2301.02656v1](http://arxiv.org/abs/2301.02656v1)|[2301.02656v1](http://arxiv.org/pdf/2301.02656v1)|null|
+|**2023-01-06**|**21 cm Line Astronomy and Constraining New Physics**|Pravin Kumar Natwariya et.al.|[2301.02655v1](http://arxiv.org/abs/2301.02655v1)|[2301.02655v1](http://arxiv.org/pdf/2301.02655v1)|null|
+|**2023-01-06**|**Diverse Carbonates in Exoplanet Oceans Promote the Carbon Cycle**|Kaustubh Hakim et.al.|[2301.02652v1](http://arxiv.org/abs/2301.02652v1)|[2301.02652v1](http://arxiv.org/pdf/2301.02652v1)|null|
+|**2023-01-06**|**What does a typical full-disc around a post-AGB binary look like? -- Radiative transfer models reproducing PIONIER, GRAVITY, and MATISSE data**|A. Corporaal et.al.|[2301.02622v1](http://arxiv.org/abs/2301.02622v1)|[2301.02622v1](http://arxiv.org/pdf/2301.02622v1)|null|
+|**2023-01-06**|**A study of convective core overshooting as a function of stellar mass based on two-dimensional hydrodynamical simulations**|I. Baraffe et.al.|[2301.02604v1](http://arxiv.org/abs/2301.02604v1)|[2301.02604v1](http://arxiv.org/pdf/2301.02604v1)|null|
+|**2023-01-06**|**Is the $F_{10.7cm}$ -- Sunspot Number relation linear and stable ?**|Frédéric Clette et.al.|[2301.02588v1](http://arxiv.org/abs/2301.02588v1)|[2301.02588v1](http://arxiv.org/pdf/2301.02588v1)|null|
+|**2023-01-06**|**The Bright Extragalactic ALMA Redshift Survey (BEARS) II: Millimetre photometry of gravitational lens candidates**|G. J. Bendo et.al.|[2301.02584v1](http://arxiv.org/abs/2301.02584v1)|[2301.02584v1](http://arxiv.org/pdf/2301.02584v1)|null|
+|**2023-01-06**|**Acoustic detection of UHE neutrinos: ANDIAMO perspectives**|Antonio Marinelli et.al.|[2301.02581v1](http://arxiv.org/abs/2301.02581v1)|[2301.02581v1](http://arxiv.org/pdf/2301.02581v1)|null|
+|**2023-01-06**|**Gamma-ray Emission from Galaxies Hosting Molecular Outflows**|Alex McDaniel et.al.|[2301.02574v1](http://arxiv.org/abs/2301.02574v1)|[2301.02574v1](http://arxiv.org/pdf/2301.02574v1)|null|
+|**2023-01-06**|**Formation of Magnetic Switchbacks Observed by Parker Solar Probe**|Gabor Toth et.al.|[2301.02572v1](http://arxiv.org/abs/2301.02572v1)|[2301.02572v1](http://arxiv.org/pdf/2301.02572v1)|null|
 |**2023-01-05**|**Concentration Distribution of Simple Components Reaction Diffusion in one-dimensional linear Model**|Zihan Huang et.al.|[2301.02235v1](http://arxiv.org/abs/2301.02235v1)|[2301.02235v1](http://arxiv.org/pdf/2301.02235v1)|null|
 |**2023-01-05**|**Predicting the impact of feedback on matter clustering with machine learning in CAMELS**|Ana Maria Delgado et.al.|[2301.02231v1](http://arxiv.org/abs/2301.02231v1)|[2301.02231v1](http://arxiv.org/pdf/2301.02231v1)|null|
 |**2023-01-05**|**Kinematic structure of the Milky Way galaxy, near the spiral arm tangents**|Jacques P Vallée et.al.|[2301.02218v1](http://arxiv.org/abs/2301.02218v1)|[2301.02218v1](http://arxiv.org/pdf/2301.02218v1)|null|
@@ -1359,6 +1369,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-06**|**TarViS: A Unified Approach for Target-based Video Segmentation**|Ali Athar et.al.|[2301.02657v1](http://arxiv.org/abs/2301.02657v1)|[2301.02657v1](http://arxiv.org/pdf/2301.02657v1)|null|
+|**2023-01-06**|**Triple-stream Deep Metric Learning of Great Ape Behavioural Actions**|Otto Brookes et.al.|[2301.02642v1](http://arxiv.org/abs/2301.02642v1)|[2301.02642v1](http://arxiv.org/pdf/2301.02642v1)|null|
+|**2023-01-06**|**Feedback-Gated Rectified Linear Units**|Marco Kemmerling et.al.|[2301.02610v1](http://arxiv.org/abs/2301.02610v1)|[2301.02610v1](http://arxiv.org/pdf/2301.02610v1)|null|
+|**2023-01-06**|**A CAD System for Colorectal Cancer from WSI: A Clinically Validated Interpretable ML-based Prototype**|Pedro C. Neto et.al.|[2301.02608v1](http://arxiv.org/abs/2301.02608v1)|[2301.02608v1](http://arxiv.org/pdf/2301.02608v1)|null|
+|**2023-01-06**|**A study of convective core overshooting as a function of stellar mass based on two-dimensional hydrodynamical simulations**|I. Baraffe et.al.|[2301.02604v1](http://arxiv.org/abs/2301.02604v1)|[2301.02604v1](http://arxiv.org/pdf/2301.02604v1)|null|
+|**2023-01-06**|**Multi-Agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads**|Vincent Mai et.al.|[2301.02593v1](http://arxiv.org/abs/2301.02593v1)|[2301.02593v1](http://arxiv.org/pdf/2301.02593v1)|null|
+|**2023-01-06**|**APC Nb$_3$Sn superconductors based on internal oxidation of Nb-Ta-Hf alloys**|X Xu et.al.|[2301.02571v1](http://arxiv.org/abs/2301.02571v1)|[2301.02571v1](http://arxiv.org/pdf/2301.02571v1)|null|
+|**2023-01-06**|**Multi-Vehicle Trajectory Prediction at Intersections using State and Intention Information**|Dekai Zhu et.al.|[2301.02561v1](http://arxiv.org/abs/2301.02561v1)|[2301.02561v1](http://arxiv.org/pdf/2301.02561v1)|**[link](https://github.com/dekai21/multi_agent_intersection)**|
+|**2023-01-06**|**"No, to the Right" -- Online Language Corrections for Robotic Manipulation via Shared Autonomy**|Yuchen Cui et.al.|[2301.02555v1](http://arxiv.org/abs/2301.02555v1)|[2301.02555v1](http://arxiv.org/pdf/2301.02555v1)|**[link](https://github.com/stanford-iliad/lilac)**|
+|**2023-01-06**|**SAIDS: A Novel Approach for Sentiment Analysis Informed of Dialect and Sarcasm**|Abdelrahman Kaseb et.al.|[2301.02521v1](http://arxiv.org/abs/2301.02521v1)|[2301.02521v1](http://arxiv.org/pdf/2301.02521v1)|null|
 |**2023-01-05**|**CA$^2$T-Net: Category-Agnostic 3D Articulation Transfer from Single Image**|Jasmine Collins et.al.|[2301.02232v1](http://arxiv.org/abs/2301.02232v1)|[2301.02232v1](http://arxiv.org/pdf/2301.02232v1)|null|
 |**2023-01-05**|**All in Tokens: Unifying Output Space of Visual Tasks via Soft Token**|Jia Ning et.al.|[2301.02229v1](http://arxiv.org/abs/2301.02229v1)|[2301.02229v1](http://arxiv.org/pdf/2301.02229v1)|**[link](https://github.com/swintransformer/ait)**|
 |**2023-01-05**|**Towards Autoformalization of Mathematics and Code Correctness: Experiments with Elementary Proofs**|Garett Cunningham et.al.|[2301.02195v1](http://arxiv.org/abs/2301.02195v1)|[2301.02195v1](http://arxiv.org/pdf/2301.02195v1)|**[link](https://github.com/gc974517/autoformalization)**|
