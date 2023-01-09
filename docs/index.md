@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.01.08
+## Updated on 2023.01.09
 
 ## Astrophysics
 
@@ -1370,7 +1370,7 @@ layout: default
 |**2023-01-05**|**A deep learning approach to using wearable seismocardiography (SCG) for diagnosing aortic valve stenosis and predicting aortic hemodynamics obtained by 4D flow MRI**|Mahmoud E. Khani et.al.|[2301.02130v1](http://arxiv.org/abs/2301.02130v1)|[2301.02130v1](http://arxiv.org/pdf/2301.02130v1)|null|
 |**2023-01-05**|**FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**|Martin Pernuš et.al.|[2301.02110v1](http://arxiv.org/abs/2301.02110v1)|[2301.02110v1](http://arxiv.org/pdf/2301.02110v1)|**[link](https://github.com/martinpernus/fice)**|
 |**2023-01-05**|**Learning Goal-Conditioned Policies Offline with Self-Supervised Reward Shaping**|Lina Mezghani et.al.|[2301.02099v1](http://arxiv.org/abs/2301.02099v1)|[2301.02099v1](http://arxiv.org/pdf/2301.02099v1)|**[link](https://github.com/facebookresearch/go-fresh)**|
-|**2023-01-05**|**Semantic match: Debugging feature attribution methods in XAI for healthcare**|Giovanni Cinà et.al.|[2301.02080v1](http://arxiv.org/abs/2301.02080v1)|[2301.02080v1](http://arxiv.org/pdf/2301.02080v1)|null|
+|**2023-01-06**|**Semantic match: Debugging feature attribution methods in XAI for healthcare**|Giovanni Cinà et.al.|[2301.02080v2](http://arxiv.org/abs/2301.02080v2)|[2301.02080v2](http://arxiv.org/pdf/2301.02080v2)|null|
 |**2023-01-05**|**Explain to Me: Towards Understanding Privacy Decisions**|Gonul Ayci et.al.|[2301.02079v1](http://arxiv.org/abs/2301.02079v1)|[2301.02079v1](http://arxiv.org/pdf/2301.02079v1)|null|
 |**2023-01-05**|**Test of Time: Instilling Video-Language Models with a Sense of Time**|Piyush Bagad et.al.|[2301.02074v1](http://arxiv.org/abs/2301.02074v1)|[2301.02074v1](http://arxiv.org/pdf/2301.02074v1)|null|
 |**2023-01-05**|**Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes**|Justin Reppert et.al.|[2301.01751v2](http://arxiv.org/abs/2301.01751v2)|[2301.01751v2](http://arxiv.org/pdf/2301.01751v2)|**[link](https://github.com/oughtinc/ice)**|
