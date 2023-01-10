@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-09**|**Angular Momentum Transfer in PQEs from Galaxy Nuclei**|Andrew King et.al.|[2301.03582v1](http://arxiv.org/abs/2301.03582v1)|[2301.03582v1](http://arxiv.org/pdf/2301.03582v1)|null|
+|**2023-01-09**|**Higher-order statistics of the large-scale structure from photometric redshifts**|Eleni Tsaprazi et.al.|[2301.03581v1](http://arxiv.org/abs/2301.03581v1)|[2301.03581v1](http://arxiv.org/pdf/2301.03581v1)|null|
+|**2023-01-09**|**Proper evaluation of spatially correlated noise in interferometric images**|Takafumi Tsukui et.al.|[2301.03579v1](http://arxiv.org/abs/2301.03579v1)|[2301.03579v1](http://arxiv.org/pdf/2301.03579v1)|null|
+|**2023-01-09**|**Retrospective Search for Strongly Lensed Supernovae in the DESI Legacy Imaging Surveys**|William Sheu et.al.|[2301.03578v1](http://arxiv.org/abs/2301.03578v1)|[2301.03578v1](http://arxiv.org/pdf/2301.03578v1)|null|
+|**2023-01-09**|**Non-oscillating Early Dark Energy and Quintessence from Alpha-Attractors**|Lucy Brissenden et.al.|[2301.03572v1](http://arxiv.org/abs/2301.03572v1)|[2301.03572v1](http://arxiv.org/pdf/2301.03572v1)|null|
+|**2023-01-09**|**Quasi-equilibrium configurations of binary systems of dark matter admixed neutron stars**|Hannes R. Rüter et.al.|[2301.03568v1](http://arxiv.org/abs/2301.03568v1)|[2301.03568v1](http://arxiv.org/pdf/2301.03568v1)|null|
+|**2023-01-09**|**Hot white dwarfs and pre-white dwarfs discovered with SALT**|C. S. Jeffery et.al.|[2301.03550v1](http://arxiv.org/abs/2301.03550v1)|[2301.03550v1](http://arxiv.org/pdf/2301.03550v1)|null|
+|**2023-01-09**|**Covariance Matrix of Fast Radio Bursts Dispersion**|Robert Reischke et.al.|[2301.03527v1](http://arxiv.org/abs/2301.03527v1)|[2301.03527v1](http://arxiv.org/pdf/2301.03527v1)|null|
+|**2023-01-09**|**Evolution of elemental abundances in hot active region cores from Chandrayaan-2 XSM observations**|Biswajit Mondal et.al.|[2301.03519v1](http://arxiv.org/abs/2301.03519v1)|[2301.03519v1](http://arxiv.org/pdf/2301.03519v1)|null|
+|**2023-01-09**|**Identifying meteorite droppers among the population of bright 'sporadic' bolides imaged by the Spanish Fireball Network during the spring of 2022**|Eloy Peña-Asensio et.al.|[2301.03515v1](http://arxiv.org/abs/2301.03515v1)|[2301.03515v1](http://arxiv.org/pdf/2301.03515v1)|null|
 |**2023-01-06**|**TDCOSMO. XIII. Improved Hubble constant measurement from lensing time delays using spatially resolved stellar kinematics of the lens galaxy**|Anowar J. Shajib et.al.|[2301.02656v1](http://arxiv.org/abs/2301.02656v1)|[2301.02656v1](http://arxiv.org/pdf/2301.02656v1)|null|
 |**2023-01-06**|**21 cm Line Astronomy and Constraining New Physics**|Pravin Kumar Natwariya et.al.|[2301.02655v1](http://arxiv.org/abs/2301.02655v1)|[2301.02655v1](http://arxiv.org/pdf/2301.02655v1)|null|
 |**2023-01-06**|**Diverse Carbonates in Exoplanet Oceans Promote the Carbon Cycle**|Kaustubh Hakim et.al.|[2301.02652v1](http://arxiv.org/abs/2301.02652v1)|[2301.02652v1](http://arxiv.org/pdf/2301.02652v1)|null|
@@ -1373,6 +1383,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-09**|**Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**|Keyu Tian et.al.|[2301.03580v1](http://arxiv.org/abs/2301.03580v1)|[2301.03580v1](http://arxiv.org/pdf/2301.03580v1)|**[link](https://github.com/keyu-tian/spark)**|
+|**2023-01-09**|**Balance is Essence: Accelerating Sparse Training via Adaptive Gradient Correction**|Bowen Lei et.al.|[2301.03573v1](http://arxiv.org/abs/2301.03573v1)|[2301.03573v1](http://arxiv.org/pdf/2301.03573v1)|null|
+|**2023-01-09**|**Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**|Armin Danesh Pazho et.al.|[2301.03561v1](http://arxiv.org/abs/2301.03561v1)|[2301.03561v1](http://arxiv.org/pdf/2301.03561v1)|null|
+|**2023-01-09**|**Efficient Attack Detection in IoT Devices using Feature Engineering-Less Machine Learning**|Arshiya Khan et.al.|[2301.03532v1](http://arxiv.org/abs/2301.03532v1)|[2301.03532v1](http://arxiv.org/pdf/2301.03532v1)|null|
+|**2023-01-09**|**Leveraging Contextual Relatedness to Identify Suicide Documentation in Clinical Notes through Zero Shot Learning**|Terri Elizabeth Workman et.al.|[2301.03531v1](http://arxiv.org/abs/2301.03531v1)|[2301.03531v1](http://arxiv.org/pdf/2301.03531v1)|null|
+|**2023-01-09**|**Physics-separating artificial neural networks for predicting sputtering and thin film deposition of AlN in Ar/N$_2$ discharges on experimental timescales**|Tobias Gergs et.al.|[2301.03524v1](http://arxiv.org/abs/2301.03524v1)|[2301.03524v1](http://arxiv.org/pdf/2301.03524v1)|null|
+|**2023-01-09**|**SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural Networks**|Thomas Monninger et.al.|[2301.03512v1](http://arxiv.org/abs/2301.03512v1)|[2301.03512v1](http://arxiv.org/pdf/2301.03512v1)|null|
+|**2023-01-09**|**DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction**|Yangyang Xu ang Yibo Yang et.al.|[2301.03461v1](http://arxiv.org/abs/2301.03461v1)|[2301.03461v1](http://arxiv.org/pdf/2301.03461v1)|null|
+|**2023-01-09**|**Mining Healthcare Procurement Data Using Text Mining and Natural Language Processing -- Reflection From An Industrial Project**|Ziqi Zhang et.al.|[2301.03458v1](http://arxiv.org/abs/2301.03458v1)|[2301.03458v1](http://arxiv.org/pdf/2301.03458v1)|null|
+|**2023-01-09**|**Asynchronous Multi-Agent Reinforcement Learning for Efficient Real-Time Multi-Robot Cooperative Exploration**|Chao Yu et.al.|[2301.03398v1](http://arxiv.org/abs/2301.03398v1)|[2301.03398v1](http://arxiv.org/pdf/2301.03398v1)|null|
 |**2023-01-06**|**TarViS: A Unified Approach for Target-based Video Segmentation**|Ali Athar et.al.|[2301.02657v1](http://arxiv.org/abs/2301.02657v1)|[2301.02657v1](http://arxiv.org/pdf/2301.02657v1)|null|
 |**2023-01-06**|**Triple-stream Deep Metric Learning of Great Ape Behavioural Actions**|Otto Brookes et.al.|[2301.02642v1](http://arxiv.org/abs/2301.02642v1)|[2301.02642v1](http://arxiv.org/pdf/2301.02642v1)|null|
 |**2023-01-06**|**Feedback-Gated Rectified Linear Units**|Marco Kemmerling et.al.|[2301.02610v1](http://arxiv.org/abs/2301.02610v1)|[2301.02610v1](http://arxiv.org/pdf/2301.02610v1)|null|
