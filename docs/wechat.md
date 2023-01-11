@@ -1,8 +1,8 @@
-> Updated on 2023.01.10
+> Updated on 2023.01.11
 
 ## Astrophysics
 
-- 2023-01-09, **Angular Momentum Transfer in PQEs from Galaxy Nuclei**, Andrew King et.al., Paper: [http://arxiv.org/abs/2301.03582v1](http://arxiv.org/abs/2301.03582v1), Paper: [http://arxiv.org/abs/2301.03582v1](http://arxiv.org/pdf/2301.03582v1)
+- 2023-01-10, **Angular Momentum Transfer in QPEs from Galaxy Nuclei**, Andrew King et.al., Paper: [http://arxiv.org/abs/2301.03582v2](http://arxiv.org/abs/2301.03582v2), Paper: [http://arxiv.org/abs/2301.03582v2](http://arxiv.org/pdf/2301.03582v2)
 - 2023-01-09, **Higher-order statistics of the large-scale structure from photometric redshifts**, Eleni Tsaprazi et.al., Paper: [http://arxiv.org/abs/2301.03581v1](http://arxiv.org/abs/2301.03581v1), Paper: [http://arxiv.org/abs/2301.03581v1](http://arxiv.org/pdf/2301.03581v1)
 - 2023-01-09, **Proper evaluation of spatially correlated noise in interferometric images**, Takafumi Tsukui et.al., Paper: [http://arxiv.org/abs/2301.03579v1](http://arxiv.org/abs/2301.03579v1), Paper: [http://arxiv.org/abs/2301.03579v1](http://arxiv.org/pdf/2301.03579v1)
 - 2023-01-09, **Retrospective Search for Strongly Lensed Supernovae in the DESI Legacy Imaging Surveys**, William Sheu et.al., Paper: [http://arxiv.org/abs/2301.03578v1](http://arxiv.org/abs/2301.03578v1), Paper: [http://arxiv.org/abs/2301.03578v1](http://arxiv.org/pdf/2301.03578v1)
@@ -11,7 +11,7 @@
 - 2023-01-09, **Hot white dwarfs and pre-white dwarfs discovered with SALT**, C. S. Jeffery et.al., Paper: [http://arxiv.org/abs/2301.03550v1](http://arxiv.org/abs/2301.03550v1), Paper: [http://arxiv.org/abs/2301.03550v1](http://arxiv.org/pdf/2301.03550v1)
 - 2023-01-09, **Covariance Matrix of Fast Radio Bursts Dispersion**, Robert Reischke et.al., Paper: [http://arxiv.org/abs/2301.03527v1](http://arxiv.org/abs/2301.03527v1), Paper: [http://arxiv.org/abs/2301.03527v1](http://arxiv.org/pdf/2301.03527v1)
 - 2023-01-09, **Evolution of elemental abundances in hot active region cores from Chandrayaan-2 XSM observations**, Biswajit Mondal et.al., Paper: [http://arxiv.org/abs/2301.03519v1](http://arxiv.org/abs/2301.03519v1), Paper: [http://arxiv.org/abs/2301.03519v1](http://arxiv.org/pdf/2301.03519v1)
-- 2023-01-09, **Identifying meteorite droppers among the population of bright 'sporadic' bolides imaged by the Spanish Fireball Network during the spring of 2022**, Eloy Peña-Asensio et.al., Paper: [http://arxiv.org/abs/2301.03515v1](http://arxiv.org/abs/2301.03515v1), Paper: [http://arxiv.org/abs/2301.03515v1](http://arxiv.org/pdf/2301.03515v1)
+- 2023-01-10, **Identifying meteorite droppers among the population of bright 'sporadic' bolides imaged by the Spanish Meteor Network during the spring of 2022**, Eloy Peña-Asensio et.al., Paper: [http://arxiv.org/abs/2301.03515v2](http://arxiv.org/abs/2301.03515v2), Paper: [http://arxiv.org/abs/2301.03515v2](http://arxiv.org/pdf/2301.03515v2)
 - 2023-01-06, **TDCOSMO. XIII. Improved Hubble constant measurement from lensing time delays using spatially resolved stellar kinematics of the lens galaxy**, Anowar J. Shajib et.al., Paper: [http://arxiv.org/abs/2301.02656v1](http://arxiv.org/abs/2301.02656v1), Paper: [http://arxiv.org/abs/2301.02656v1](http://arxiv.org/pdf/2301.02656v1)
 - 2023-01-06, **21 cm Line Astronomy and Constraining New Physics**, Pravin Kumar Natwariya et.al., Paper: [http://arxiv.org/abs/2301.02655v1](http://arxiv.org/abs/2301.02655v1), Paper: [http://arxiv.org/abs/2301.02655v1](http://arxiv.org/pdf/2301.02655v1)
 - 2023-01-06, **Diverse Carbonates in Exoplanet Oceans Promote the Carbon Cycle**, Kaustubh Hakim et.al., Paper: [http://arxiv.org/abs/2301.02652v1](http://arxiv.org/abs/2301.02652v1), Paper: [http://arxiv.org/abs/2301.02652v1](http://arxiv.org/pdf/2301.02652v1)
@@ -1375,7 +1375,7 @@
 
 ## AI
 
-- 2023-01-09, **Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**, Keyu Tian et.al., Paper: [http://arxiv.org/abs/2301.03580v1](http://arxiv.org/abs/2301.03580v1),Paper: [http://arxiv.org/abs/2301.03580v1](http://arxiv.org/pdf/2301.03580v1), Code: **[https://github.com/keyu-tian/spark](https://github.com/keyu-tian/spark)**
+- 2023-01-10, **Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**, Keyu Tian et.al., Paper: [http://arxiv.org/abs/2301.03580v2](http://arxiv.org/abs/2301.03580v2),Paper: [http://arxiv.org/abs/2301.03580v2](http://arxiv.org/pdf/2301.03580v2), Code: **[https://github.com/keyu-tian/spark](https://github.com/keyu-tian/spark)**
 - 2023-01-09, **Balance is Essence: Accelerating Sparse Training via Adaptive Gradient Correction**, Bowen Lei et.al., Paper: [http://arxiv.org/abs/2301.03573v1](http://arxiv.org/abs/2301.03573v1), Paper: [http://arxiv.org/abs/2301.03573v1](http://arxiv.org/pdf/2301.03573v1)
 - 2023-01-09, **Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**, Armin Danesh Pazho et.al., Paper: [http://arxiv.org/abs/2301.03561v1](http://arxiv.org/abs/2301.03561v1), Paper: [http://arxiv.org/abs/2301.03561v1](http://arxiv.org/pdf/2301.03561v1)
 - 2023-01-09, **Efficient Attack Detection in IoT Devices using Feature Engineering-Less Machine Learning**, Arshiya Khan et.al., Paper: [http://arxiv.org/abs/2301.03532v1](http://arxiv.org/abs/2301.03532v1), Paper: [http://arxiv.org/abs/2301.03532v1](http://arxiv.org/pdf/2301.03532v1)
