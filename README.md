@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-10**|**Clustering dependence on Lyman-$α$ luminosity from MUSE surveys at $3<z<6$**|Y. Herrero Alonso et.al.|[2301.04133v1](http://arxiv.org/abs/2301.04133v1)|[2301.04133v1](http://arxiv.org/pdf/2301.04133v1)|null|
+|**2023-01-10**|**Meteorite Parent Body Aqueous Alteration Simulations of Interstellar Residue Analogs**|Danna Qasim et.al.|[2301.04103v1](http://arxiv.org/abs/2301.04103v1)|[2301.04103v1](http://arxiv.org/pdf/2301.04103v1)|null|
+|**2023-01-10**|**The Low-Redshift Lyman Continuum Survey: Optically Thin and Thick Mg II Lines as Probes of Lyman Continuum Escape**|Xinfeng Xu et.al.|[2301.04087v1](http://arxiv.org/abs/2301.04087v1)|[2301.04087v1](http://arxiv.org/pdf/2301.04087v1)|null|
+|**2023-01-10**|**Propagating photo-$z$ uncertainties: a functional derivative approach**|Robert Reischke et.al.|[2301.04085v1](http://arxiv.org/abs/2301.04085v1)|[2301.04085v1](http://arxiv.org/pdf/2301.04085v1)|null|
+|**2023-01-10**|**Two Different Weak Modulations in ab-type RR Lyrae Variable V838 Cyg, and Potential Influence of Metal Abundance on Blazhko Modulation**|L. -J. Li et.al.|[2301.04081v1](http://arxiv.org/abs/2301.04081v1)|[2301.04081v1](http://arxiv.org/pdf/2301.04081v1)|null|
+|**2023-01-10**|**The Thousand-Pulsar-Array programme on MeerKAT -- VIII. The subpulse modulation of 1198 pulsars**|X. Song et.al.|[2301.04067v1](http://arxiv.org/abs/2301.04067v1)|[2301.04067v1](http://arxiv.org/pdf/2301.04067v1)|null|
+|**2023-01-10**|**A deep radius valley revealed by Kepler short cadence observations**|Cynthia S. K. Ho et.al.|[2301.04062v1](http://arxiv.org/abs/2301.04062v1)|[2301.04062v1](http://arxiv.org/pdf/2301.04062v1)|null|
+|**2023-01-10**|**Reverberation of pulsar wind nebulae (II): Anatomy of the "thin-shell'' evolution**|R. Bandiera et.al.|[2301.04056v1](http://arxiv.org/abs/2301.04056v1)|[2301.04056v1](http://arxiv.org/pdf/2301.04056v1)|null|
+|**2023-01-10**|**PSR~J1910$-$5959A: A rare gravitational laboratory for testing white dwarf models**|A. Corongiu et.al.|[2301.04055v1](http://arxiv.org/abs/2301.04055v1)|[2301.04055v1](http://arxiv.org/pdf/2301.04055v1)|null|
+|**2023-01-10**|**Modeling the vertical distribution of the Milky Way's flat subsystem objects**|Igor' I. Nikiforov et.al.|[2301.04042v1](http://arxiv.org/abs/2301.04042v1)|[2301.04042v1](http://arxiv.org/pdf/2301.04042v1)|null|
 |**2023-01-10**|**Angular Momentum Transfer in QPEs from Galaxy Nuclei**|Andrew King et.al.|[2301.03582v2](http://arxiv.org/abs/2301.03582v2)|[2301.03582v2](http://arxiv.org/pdf/2301.03582v2)|null|
 |**2023-01-09**|**Higher-order statistics of the large-scale structure from photometric redshifts**|Eleni Tsaprazi et.al.|[2301.03581v1](http://arxiv.org/abs/2301.03581v1)|[2301.03581v1](http://arxiv.org/pdf/2301.03581v1)|null|
 |**2023-01-09**|**Proper evaluation of spatially correlated noise in interferometric images**|Takafumi Tsukui et.al.|[2301.03579v1](http://arxiv.org/abs/2301.03579v1)|[2301.03579v1](http://arxiv.org/pdf/2301.03579v1)|null|
@@ -1379,6 +1389,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-10**|**Structured Case-based Reasoning for Inference-time Adaptation of Text-to-SQL parsers**|Abhijeet Awasthi et.al.|[2301.04110v1](http://arxiv.org/abs/2301.04110v1)|[2301.04110v1](http://arxiv.org/pdf/2301.04110v1)|null|
+|**2023-01-10**|**Mastering Diverse Domains through World Models**|Danijar Hafner et.al.|[2301.04104v1](http://arxiv.org/abs/2301.04104v1)|[2301.04104v1](http://arxiv.org/pdf/2301.04104v1)|null|
+|**2023-01-10**|**Rethinking Voxelization and Classification for 3D Object Detection**|Youshaa Murhij et.al.|[2301.04058v1](http://arxiv.org/abs/2301.04058v1)|[2301.04058v1](http://arxiv.org/pdf/2301.04058v1)|**[link](https://github.com/youshaamurhij/rvcdet)**|
+|**2023-01-10**|**Imbalanced Classification In Faulty Turbine Data: New Proximal Policy Optimization**|Mohammad Hossein Modirrousta et.al.|[2301.04049v1](http://arxiv.org/abs/2301.04049v1)|[2301.04049v1](http://arxiv.org/pdf/2301.04049v1)|null|
+|**2023-01-10**|**There is No Big Brother or Small Brother: Knowledge Infusion in Language Models for Link Prediction and Question Answering**|Ankush Agarwal et.al.|[2301.04013v1](http://arxiv.org/abs/2301.04013v1)|[2301.04013v1](http://arxiv.org/pdf/2301.04013v1)|**[link](https://github.com/ankush9812/knowledge-infusion-in-lm-for-qa)**|
+|**2023-01-10**|**Language Models sounds the Death Knell of Knowledge Graphs**|Kunal Suri et.al.|[2301.03980v1](http://arxiv.org/abs/2301.03980v1)|[2301.03980v1](http://arxiv.org/pdf/2301.03980v1)|null|
+|**2023-01-10**|**A Unified Theory of Diversity in Ensemble Learning**|Danny Wood et.al.|[2301.03962v1](http://arxiv.org/abs/2301.03962v1)|[2301.03962v1](http://arxiv.org/pdf/2301.03962v1)|null|
+|**2023-01-10**|**AI based approach to Trailer Generation for Online Educational Courses**|Prakhar Mishra et.al.|[2301.03957v1](http://arxiv.org/abs/2301.03957v1)|[2301.03957v1](http://arxiv.org/pdf/2301.03957v1)|null|
+|**2023-01-10**|**Channel-aware Decoupling Network for Multi-turn Dialogue Comprehension**|Zhuosheng Zhang et.al.|[2301.03953v1](http://arxiv.org/abs/2301.03953v1)|[2301.03953v1](http://arxiv.org/pdf/2301.03953v1)|null|
+|**2023-01-10**|**Autonomous Strawberry Picking Robotic System (Robofruit)**|Soran Parsa et.al.|[2301.03947v1](http://arxiv.org/abs/2301.03947v1)|[2301.03947v1](http://arxiv.org/pdf/2301.03947v1)|null|
 |**2023-01-10**|**Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**|Keyu Tian et.al.|[2301.03580v2](http://arxiv.org/abs/2301.03580v2)|[2301.03580v2](http://arxiv.org/pdf/2301.03580v2)|**[link](https://github.com/keyu-tian/spark)**|
 |**2023-01-09**|**Balance is Essence: Accelerating Sparse Training via Adaptive Gradient Correction**|Bowen Lei et.al.|[2301.03573v1](http://arxiv.org/abs/2301.03573v1)|[2301.03573v1](http://arxiv.org/pdf/2301.03573v1)|null|
 |**2023-01-09**|**Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**|Armin Danesh Pazho et.al.|[2301.03561v1](http://arxiv.org/abs/2301.03561v1)|[2301.03561v1](http://arxiv.org/pdf/2301.03561v1)|null|
