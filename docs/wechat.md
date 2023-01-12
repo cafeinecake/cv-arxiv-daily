@@ -1,9 +1,9 @@
-> Updated on 2023.01.11
+> Updated on 2023.01.12
 
 ## Astrophysics
 
 - 2023-01-10, **Clustering dependence on Lyman-$α$ luminosity from MUSE surveys at $3<z<6$**, Y. Herrero Alonso et.al., Paper: [http://arxiv.org/abs/2301.04133v1](http://arxiv.org/abs/2301.04133v1), Paper: [http://arxiv.org/abs/2301.04133v1](http://arxiv.org/pdf/2301.04133v1)
-- 2023-01-10, **Meteorite Parent Body Aqueous Alteration Simulations of Interstellar Residue Analogs**, Danna Qasim et.al., Paper: [http://arxiv.org/abs/2301.04103v1](http://arxiv.org/abs/2301.04103v1), Paper: [http://arxiv.org/abs/2301.04103v1](http://arxiv.org/pdf/2301.04103v1)
+- 2023-01-11, **Meteorite Parent Body Aqueous Alteration Simulations of Interstellar Residue Analogs**, Danna Qasim et.al., Paper: [http://arxiv.org/abs/2301.04103v2](http://arxiv.org/abs/2301.04103v2), Paper: [http://arxiv.org/abs/2301.04103v2](http://arxiv.org/pdf/2301.04103v2)
 - 2023-01-10, **The Low-Redshift Lyman Continuum Survey: Optically Thin and Thick Mg II Lines as Probes of Lyman Continuum Escape**, Xinfeng Xu et.al., Paper: [http://arxiv.org/abs/2301.04087v1](http://arxiv.org/abs/2301.04087v1), Paper: [http://arxiv.org/abs/2301.04087v1](http://arxiv.org/pdf/2301.04087v1)
 - 2023-01-10, **Propagating photo-$z$ uncertainties: a functional derivative approach**, Robert Reischke et.al., Paper: [http://arxiv.org/abs/2301.04085v1](http://arxiv.org/abs/2301.04085v1), Paper: [http://arxiv.org/abs/2301.04085v1](http://arxiv.org/pdf/2301.04085v1)
 - 2023-01-10, **Two Different Weak Modulations in ab-type RR Lyrae Variable V838 Cyg, and Potential Influence of Metal Abundance on Blazhko Modulation**, L. -J. Li et.al., Paper: [http://arxiv.org/abs/2301.04081v1](http://arxiv.org/abs/2301.04081v1), Paper: [http://arxiv.org/abs/2301.04081v1](http://arxiv.org/pdf/2301.04081v1)
@@ -1393,7 +1393,7 @@
 - 2023-01-10, **Language Models sounds the Death Knell of Knowledge Graphs**, Kunal Suri et.al., Paper: [http://arxiv.org/abs/2301.03980v1](http://arxiv.org/abs/2301.03980v1), Paper: [http://arxiv.org/abs/2301.03980v1](http://arxiv.org/pdf/2301.03980v1)
 - 2023-01-10, **A Unified Theory of Diversity in Ensemble Learning**, Danny Wood et.al., Paper: [http://arxiv.org/abs/2301.03962v1](http://arxiv.org/abs/2301.03962v1), Paper: [http://arxiv.org/abs/2301.03962v1](http://arxiv.org/pdf/2301.03962v1)
 - 2023-01-10, **AI based approach to Trailer Generation for Online Educational Courses**, Prakhar Mishra et.al., Paper: [http://arxiv.org/abs/2301.03957v1](http://arxiv.org/abs/2301.03957v1), Paper: [http://arxiv.org/abs/2301.03957v1](http://arxiv.org/pdf/2301.03957v1)
-- 2023-01-10, **Channel-aware Decoupling Network for Multi-turn Dialogue Comprehension**, Zhuosheng Zhang et.al., Paper: [http://arxiv.org/abs/2301.03953v1](http://arxiv.org/abs/2301.03953v1), Paper: [http://arxiv.org/abs/2301.03953v1](http://arxiv.org/pdf/2301.03953v1)
+- 2023-01-11, **Channel-aware Decoupling Network for Multi-turn Dialogue Comprehension**, Zhuosheng Zhang et.al., Paper: [http://arxiv.org/abs/2301.03953v2](http://arxiv.org/abs/2301.03953v2), Paper: [http://arxiv.org/abs/2301.03953v2](http://arxiv.org/pdf/2301.03953v2)
 - 2023-01-10, **Autonomous Strawberry Picking Robotic System (Robofruit)**, Soran Parsa et.al., Paper: [http://arxiv.org/abs/2301.03947v1](http://arxiv.org/abs/2301.03947v1), Paper: [http://arxiv.org/abs/2301.03947v1](http://arxiv.org/pdf/2301.03947v1)
 - 2023-01-10, **Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**, Keyu Tian et.al., Paper: [http://arxiv.org/abs/2301.03580v2](http://arxiv.org/abs/2301.03580v2),Paper: [http://arxiv.org/abs/2301.03580v2](http://arxiv.org/pdf/2301.03580v2), Code: **[https://github.com/keyu-tian/spark](https://github.com/keyu-tian/spark)**
 - 2023-01-09, **Balance is Essence: Accelerating Sparse Training via Adaptive Gradient Correction**, Bowen Lei et.al., Paper: [http://arxiv.org/abs/2301.03573v1](http://arxiv.org/abs/2301.03573v1), Paper: [http://arxiv.org/abs/2301.03573v1](http://arxiv.org/pdf/2301.03573v1)
