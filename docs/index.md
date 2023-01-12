@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-11**|**The alignment of galaxies at the Baryon Acoustic Oscillation scale**|Dennis van Dompseler et.al.|[2301.04649v1](http://arxiv.org/abs/2301.04649v1)|[2301.04649v1](http://arxiv.org/pdf/2301.04649v1)|null|
+|**2023-01-11**|**HAWC Detection of a TeV Halo Candidate Surrounding a Radio-quiet pulsar**|A. Albert et.al.|[2301.04646v1](http://arxiv.org/abs/2301.04646v1)|[2301.04646v1](http://arxiv.org/pdf/2301.04646v1)|null|
+|**2023-01-11**|**A Systematic Study of Ia-CSM Supernovae from the ZTF Bright Transient Survey**|Yashvi Sharma et.al.|[2301.04637v1](http://arxiv.org/abs/2301.04637v1)|[2301.04637v1](http://arxiv.org/pdf/2301.04637v1)|null|
+|**2023-01-11**|**Pair production of heavy quarkonia in the color evaporation model**|Alexey Chernyshev et.al.|[2301.04618v1](http://arxiv.org/abs/2301.04618v1)|[2301.04618v1](http://arxiv.org/pdf/2301.04618v1)|null|
+|**2023-01-11**|**Observed polarized scattered light phase functions of planet-forming disks**|Christian Ginski et.al.|[2301.04617v1](http://arxiv.org/abs/2301.04617v1)|[2301.04617v1](http://arxiv.org/pdf/2301.04617v1)|null|
+|**2023-01-11**|**Inhomogeneous enrichment of radioactive nuclei in the Galaxy: Deposition of live Mn-53, Fe-60, Hf-182, and Pu-244 into deep-sea archives. Surfing the wave?**|Benjamin Wehmeyer et.al.|[2301.04593v1](http://arxiv.org/abs/2301.04593v1)|[2301.04593v1](http://arxiv.org/pdf/2301.04593v1)|null|
+|**2023-01-11**|**A Model for Gradual Phase Heating Driven by MHD Turbulence in Solar Flares**|William Ashfield IV et.al.|[2301.04592v1](http://arxiv.org/abs/2301.04592v1)|[2301.04592v1](http://arxiv.org/pdf/2301.04592v1)|null|
+|**2023-01-11**|**Kinetic equilibrium of two-dimensional force-free current sheets**|Xin An et.al.|[2301.04590v1](http://arxiv.org/abs/2301.04590v1)|[2301.04590v1](http://arxiv.org/pdf/2301.04590v1)|null|
+|**2023-01-11**|**AI-assisted reconstruction of cosmic velocity field from redshift-space spatial distribution of halos**|Ziyong Wu et.al.|[2301.04586v1](http://arxiv.org/abs/2301.04586v1)|[2301.04586v1](http://arxiv.org/pdf/2301.04586v1)|null|
+|**2023-01-11**|**Strong 21-cm fluctuations and anisotropy due to the line-of-sight effect of radio galaxies at cosmic dawn**|Sudipta Sikder et.al.|[2301.04585v1](http://arxiv.org/abs/2301.04585v1)|[2301.04585v1](http://arxiv.org/pdf/2301.04585v1)|null|
 |**2023-01-10**|**Clustering dependence on Lyman-$α$ luminosity from MUSE surveys at $3<z<6$**|Y. Herrero Alonso et.al.|[2301.04133v1](http://arxiv.org/abs/2301.04133v1)|[2301.04133v1](http://arxiv.org/pdf/2301.04133v1)|null|
 |**2023-01-11**|**Meteorite Parent Body Aqueous Alteration Simulations of Interstellar Residue Analogs**|Danna Qasim et.al.|[2301.04103v2](http://arxiv.org/abs/2301.04103v2)|[2301.04103v2](http://arxiv.org/pdf/2301.04103v2)|null|
 |**2023-01-10**|**The Low-Redshift Lyman Continuum Survey: Optically Thin and Thick Mg II Lines as Probes of Lyman Continuum Escape**|Xinfeng Xu et.al.|[2301.04087v1](http://arxiv.org/abs/2301.04087v1)|[2301.04087v1](http://arxiv.org/pdf/2301.04087v1)|null|
@@ -1393,6 +1403,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-11**|**Federated Learning under Heterogeneous and Correlated Client Availability**|Angelo Rodio et.al.|[2301.04632v1](http://arxiv.org/abs/2301.04632v1)|[2301.04632v1](http://arxiv.org/pdf/2301.04632v1)|**[link](https://github.com/arodio/ca-fed)**|
+|**2023-01-11**|**Universal Detection of Backdoor Attacks via Density-based Clustering and Centroids Analysis**|Wei Guo et.al.|[2301.04554v1](http://arxiv.org/abs/2301.04554v1)|[2301.04554v1](http://arxiv.org/pdf/2301.04554v1)|null|
+|**2023-01-11**|**AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers**|Xumin Yu et.al.|[2301.04545v1](http://arxiv.org/abs/2301.04545v1)|[2301.04545v1](http://arxiv.org/pdf/2301.04545v1)|**[link](https://github.com/yuxumin/PoinTr)**|
+|**2023-01-11**|**Formally Exact Simulations of Mesoscale Exciton Diffusion in a Photosynthetic Aggregate**|Leonel Varvelo et.al.|[2301.04537v1](http://arxiv.org/abs/2301.04537v1)|[2301.04537v1](http://arxiv.org/pdf/2301.04537v1)|null|
+|**2023-01-11**|**Mass-ratio dependent strong-field dissociation of artificial helium hydride isotopologues**|Florian Oppermann et.al.|[2301.04500v1](http://arxiv.org/abs/2301.04500v1)|[2301.04500v1](http://arxiv.org/pdf/2301.04500v1)|null|
+|**2023-01-11**|**Allo-centric Occupancy Grid Prediction for Urban Traffic Scene Using Video Prediction Networks**|Rabbia Asghar et.al.|[2301.04454v1](http://arxiv.org/abs/2301.04454v1)|[2301.04454v1](http://arxiv.org/pdf/2301.04454v1)|null|
+|**2023-01-11**|**Uncertainty Estimation based on Geometric Separation**|Gabriella Chouraqui et.al.|[2301.04452v1](http://arxiv.org/abs/2301.04452v1)|[2301.04452v1](http://arxiv.org/pdf/2301.04452v1)|null|
+|**2023-01-11**|**Diving Deep into Modes of Fact Hallucinations in Dialogue Systems**|Souvik Das et.al.|[2301.04449v1](http://arxiv.org/abs/2301.04449v1)|[2301.04449v1](http://arxiv.org/pdf/2301.04449v1)|**[link](https://github.com/souvikdgp16/fade)**|
+|**2023-01-11**|**An Efficient Approach to the Online Multi-Agent Path Finding Problem by Using Sustainable Information**|Mingkai Tang et.al.|[2301.04446v1](http://arxiv.org/abs/2301.04446v1)|[2301.04446v1](http://arxiv.org/pdf/2301.04446v1)|null|
+|**2023-01-11**|**Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective**|Wenbo Shao et.al.|[2301.04421v1](http://arxiv.org/abs/2301.04421v1)|[2301.04421v1](http://arxiv.org/pdf/2301.04421v1)|null|
 |**2023-01-10**|**Structured Case-based Reasoning for Inference-time Adaptation of Text-to-SQL parsers**|Abhijeet Awasthi et.al.|[2301.04110v1](http://arxiv.org/abs/2301.04110v1)|[2301.04110v1](http://arxiv.org/pdf/2301.04110v1)|null|
 |**2023-01-10**|**Mastering Diverse Domains through World Models**|Danijar Hafner et.al.|[2301.04104v1](http://arxiv.org/abs/2301.04104v1)|[2301.04104v1](http://arxiv.org/pdf/2301.04104v1)|null|
 |**2023-01-10**|**Rethinking Voxelization and Classification for 3D Object Detection**|Youshaa Murhij et.al.|[2301.04058v1](http://arxiv.org/abs/2301.04058v1)|[2301.04058v1](http://arxiv.org/pdf/2301.04058v1)|**[link](https://github.com/youshaamurhij/rvcdet)**|
