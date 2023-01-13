@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-12**|**FLARES IX: The Physical Mechanisms Driving Compact Galaxy Formation and Evolution**|William J. Roper et.al.|[2301.05228v1](http://arxiv.org/abs/2301.05228v1)|[2301.05228v1](http://arxiv.org/pdf/2301.05228v1)|null|
+|**2023-01-12**|**Chrono-chemodynamical analysis of the globular cluster NGC 6355: Looking for the fundamental bricks of the Bulge**|Stefano O. Souza et.al.|[2301.05227v1](http://arxiv.org/abs/2301.05227v1)|[2301.05227v1](http://arxiv.org/pdf/2301.05227v1)|null|
+|**2023-01-12**|**New Non-Abelian Reissner-Nordström Black Hole Solutions in the Generalized SU(2) Proca Theory And Some Astrophysical Implications**|Gabriel Gomez et.al.|[2301.05222v1](http://arxiv.org/abs/2301.05222v1)|[2301.05222v1](http://arxiv.org/pdf/2301.05222v1)|null|
+|**2023-01-12**|**Interstellar Heritage and the Birth Environment of the Solar System**|Edwin A. Bergin et.al.|[2301.05212v1](http://arxiv.org/abs/2301.05212v1)|[2301.05212v1](http://arxiv.org/pdf/2301.05212v1)|null|
+|**2023-01-12**|**The satellite population around luminous red galaxies in the 25 square degree DESI Legacy Imaging Surveys Early Data Release**|Melinda Townsend et.al.|[2301.05210v1](http://arxiv.org/abs/2301.05210v1)|[2301.05210v1](http://arxiv.org/pdf/2301.05210v1)|null|
+|**2023-01-12**|**Data-Driven Selection and Spectral Classification of White Dwarf Stars**|Olivier Vincent et.al.|[2301.05209v1](http://arxiv.org/abs/2301.05209v1)|[2301.05209v1](http://arxiv.org/pdf/2301.05209v1)|null|
+|**2023-01-12**|**Running vacuum in FLRW spacetime: The dynamics of $ρ_{\rm vac}(H)$ from the quantized matter fields**|Cristian Moreno-Pulido et.al.|[2301.05205v1](http://arxiv.org/abs/2301.05205v1)|[2301.05205v1](http://arxiv.org/pdf/2301.05205v1)|null|
+|**2023-01-12**|**Observability of silicates in volatile atmospheres of super-Earths and sub-Neptunes**|Mantas Zilinskas et.al.|[2301.05190v1](http://arxiv.org/abs/2301.05190v1)|[2301.05190v1](http://arxiv.org/pdf/2301.05190v1)|null|
+|**2023-01-12**|**Multi-epoch radio source structure analysis of 11 calibrators at 2.3 and 8.4 GHz in the south**|Sanmay Chatterjee et.al.|[2301.05188v1](http://arxiv.org/abs/2301.05188v1)|[2301.05188v1](http://arxiv.org/pdf/2301.05188v1)|null|
+|**2023-01-12**|**Black hole and galaxy co-evolution in radio-loud AGN at z ~ 0.3-4**|R. Poitevineau et.al.|[2301.05186v1](http://arxiv.org/abs/2301.05186v1)|[2301.05186v1](http://arxiv.org/pdf/2301.05186v1)|null|
 |**2023-01-11**|**The alignment of galaxies at the Baryon Acoustic Oscillation scale**|Dennis van Dompseler et.al.|[2301.04649v1](http://arxiv.org/abs/2301.04649v1)|[2301.04649v1](http://arxiv.org/pdf/2301.04649v1)|null|
 |**2023-01-12**|**HAWC Detection of a TeV Halo Candidate Surrounding a Radio-quiet pulsar**|A. Albert et.al.|[2301.04646v2](http://arxiv.org/abs/2301.04646v2)|[2301.04646v2](http://arxiv.org/pdf/2301.04646v2)|null|
 |**2023-01-11**|**A Systematic Study of Ia-CSM Supernovae from the ZTF Bright Transient Survey**|Yashvi Sharma et.al.|[2301.04637v1](http://arxiv.org/abs/2301.04637v1)|[2301.04637v1](http://arxiv.org/pdf/2301.04637v1)|null|
@@ -1403,6 +1413,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|[2301.05226v1](http://arxiv.org/pdf/2301.05226v1)|null|
+|**2023-01-12**|**NOPA: Neurally-guided Online Probabilistic Assistance for Building Socially Intelligent Home Assistants**|Xavier Puig et.al.|[2301.05223v1](http://arxiv.org/abs/2301.05223v1)|[2301.05223v1](http://arxiv.org/pdf/2301.05223v1)|null|
+|**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|[2301.05220v1](http://arxiv.org/pdf/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
+|**2023-01-12**|**Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning**|Huan Wang et.al.|[2301.05219v1](http://arxiv.org/abs/2301.05219v1)|[2301.05219v1](http://arxiv.org/pdf/2301.05219v1)|**[link](https://github.com/mingsun-tse/why-the-state-of-pruning-so-confusing)**|
+|**2023-01-12**|**Progress measures for grokking via mechanistic interpretability**|Neel Nanda et.al.|[2301.05217v1](http://arxiv.org/abs/2301.05217v1)|[2301.05217v1](http://arxiv.org/pdf/2301.05217v1)|null|
+|**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|[2301.05182v1](http://arxiv.org/pdf/2301.05182v1)|null|
+|**2023-01-12**|**Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning**|Yuejiang Liu et.al.|[2301.05169v1](http://arxiv.org/abs/2301.05169v1)|[2301.05169v1](http://arxiv.org/pdf/2301.05169v1)|**[link](https://github.com/CausalTriplet/causaltriplet)**|
+|**2023-01-12**|**Signed Directed Graph Contrastive Learning with Laplacian Augmentation**|Taewook Ko et.al.|[2301.05163v1](http://arxiv.org/abs/2301.05163v1)|[2301.05163v1](http://arxiv.org/pdf/2301.05163v1)|null|
+|**2023-01-12**|**SemPPL: Predicting pseudo-labels for better contrastive representations**|Matko Bošnjak et.al.|[2301.05158v1](http://arxiv.org/abs/2301.05158v1)|[2301.05158v1](http://arxiv.org/pdf/2301.05158v1)|null|
+|**2023-01-12**|**Mephisto: A Framework for Portable, Reproducible, and Iterative Crowdsourcing**|Jack Urbanek et.al.|[2301.05154v1](http://arxiv.org/abs/2301.05154v1)|[2301.05154v1](http://arxiv.org/pdf/2301.05154v1)|null|
 |**2023-01-11**|**Federated Learning under Heterogeneous and Correlated Client Availability**|Angelo Rodio et.al.|[2301.04632v1](http://arxiv.org/abs/2301.04632v1)|[2301.04632v1](http://arxiv.org/pdf/2301.04632v1)|**[link](https://github.com/arodio/ca-fed)**|
 |**2023-01-11**|**Universal Detection of Backdoor Attacks via Density-based Clustering and Centroids Analysis**|Wei Guo et.al.|[2301.04554v1](http://arxiv.org/abs/2301.04554v1)|[2301.04554v1](http://arxiv.org/pdf/2301.04554v1)|null|
 |**2023-01-11**|**AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers**|Xumin Yu et.al.|[2301.04545v1](http://arxiv.org/abs/2301.04545v1)|[2301.04545v1](http://arxiv.org/pdf/2301.04545v1)|**[link](https://github.com/yuxumin/PoinTr)**|
