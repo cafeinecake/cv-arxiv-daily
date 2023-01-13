@@ -2,21 +2,21 @@
 layout: default
 ---
 
-## Updated on 2023.01.12
+## Updated on 2023.01.13
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-01-11**|**The alignment of galaxies at the Baryon Acoustic Oscillation scale**|Dennis van Dompseler et.al.|[2301.04649v1](http://arxiv.org/abs/2301.04649v1)|[2301.04649v1](http://arxiv.org/pdf/2301.04649v1)|null|
-|**2023-01-11**|**HAWC Detection of a TeV Halo Candidate Surrounding a Radio-quiet pulsar**|A. Albert et.al.|[2301.04646v1](http://arxiv.org/abs/2301.04646v1)|[2301.04646v1](http://arxiv.org/pdf/2301.04646v1)|null|
+|**2023-01-12**|**HAWC Detection of a TeV Halo Candidate Surrounding a Radio-quiet pulsar**|A. Albert et.al.|[2301.04646v2](http://arxiv.org/abs/2301.04646v2)|[2301.04646v2](http://arxiv.org/pdf/2301.04646v2)|null|
 |**2023-01-11**|**A Systematic Study of Ia-CSM Supernovae from the ZTF Bright Transient Survey**|Yashvi Sharma et.al.|[2301.04637v1](http://arxiv.org/abs/2301.04637v1)|[2301.04637v1](http://arxiv.org/pdf/2301.04637v1)|null|
 |**2023-01-11**|**Pair production of heavy quarkonia in the color evaporation model**|Alexey Chernyshev et.al.|[2301.04618v1](http://arxiv.org/abs/2301.04618v1)|[2301.04618v1](http://arxiv.org/pdf/2301.04618v1)|null|
 |**2023-01-11**|**Observed polarized scattered light phase functions of planet-forming disks**|Christian Ginski et.al.|[2301.04617v1](http://arxiv.org/abs/2301.04617v1)|[2301.04617v1](http://arxiv.org/pdf/2301.04617v1)|null|
 |**2023-01-11**|**Inhomogeneous enrichment of radioactive nuclei in the Galaxy: Deposition of live Mn-53, Fe-60, Hf-182, and Pu-244 into deep-sea archives. Surfing the wave?**|Benjamin Wehmeyer et.al.|[2301.04593v1](http://arxiv.org/abs/2301.04593v1)|[2301.04593v1](http://arxiv.org/pdf/2301.04593v1)|null|
 |**2023-01-11**|**A Model for Gradual Phase Heating Driven by MHD Turbulence in Solar Flares**|William Ashfield IV et.al.|[2301.04592v1](http://arxiv.org/abs/2301.04592v1)|[2301.04592v1](http://arxiv.org/pdf/2301.04592v1)|null|
 |**2023-01-11**|**Kinetic equilibrium of two-dimensional force-free current sheets**|Xin An et.al.|[2301.04590v1](http://arxiv.org/abs/2301.04590v1)|[2301.04590v1](http://arxiv.org/pdf/2301.04590v1)|null|
-|**2023-01-11**|**AI-assisted reconstruction of cosmic velocity field from redshift-space spatial distribution of halos**|Ziyong Wu et.al.|[2301.04586v1](http://arxiv.org/abs/2301.04586v1)|[2301.04586v1](http://arxiv.org/pdf/2301.04586v1)|null|
+|**2023-01-12**|**AI-assisted reconstruction of cosmic velocity field from redshift-space spatial distribution of halos**|Ziyong Wu et.al.|[2301.04586v2](http://arxiv.org/abs/2301.04586v2)|[2301.04586v2](http://arxiv.org/pdf/2301.04586v2)|null|
 |**2023-01-11**|**Strong 21-cm fluctuations and anisotropy due to the line-of-sight effect of radio galaxies at cosmic dawn**|Sudipta Sikder et.al.|[2301.04585v1](http://arxiv.org/abs/2301.04585v1)|[2301.04585v1](http://arxiv.org/pdf/2301.04585v1)|null|
 |**2023-01-10**|**Clustering dependence on Lyman-$α$ luminosity from MUSE surveys at $3<z<6$**|Y. Herrero Alonso et.al.|[2301.04133v1](http://arxiv.org/abs/2301.04133v1)|[2301.04133v1](http://arxiv.org/pdf/2301.04133v1)|null|
 |**2023-01-11**|**Meteorite Parent Body Aqueous Alteration Simulations of Interstellar Residue Analogs**|Danna Qasim et.al.|[2301.04103v2](http://arxiv.org/abs/2301.04103v2)|[2301.04103v2](http://arxiv.org/pdf/2301.04103v2)|null|
