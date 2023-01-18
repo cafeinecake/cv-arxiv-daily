@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-17**|**Dynamical tides in Jupiter and other rotationally flattened planets and stars with stable stratification**|Janosz W. Dewberry et.al.|[2301.07097v1](http://arxiv.org/abs/2301.07097v1)|[2301.07097v1](http://arxiv.org/pdf/2301.07097v1)|null|
+|**2023-01-17**|**JWST/NIRSpec Spectroscopy of $z=7-9$ Star Forming Galaxies with CEERS: New Insight into Bright Ly$α$ Emitters in Ionized Bubbles**|Mengtao Tang et.al.|[2301.07072v1](http://arxiv.org/abs/2301.07072v1)|[2301.07072v1](http://arxiv.org/pdf/2301.07072v1)|null|
+|**2023-01-17**|**Testing heavy neutral leptons produced in the supernovae explosions with future neutrino detectors**|Vsevolod Syvolap et.al.|[2301.07052v1](http://arxiv.org/abs/2301.07052v1)|[2301.07052v1](http://arxiv.org/pdf/2301.07052v1)|null|
+|**2023-01-17**|**Many-body neutrino flavor entanglement in a simple dynamic model**|Joshua D. Martin et.al.|[2301.07049v1](http://arxiv.org/abs/2301.07049v1)|[2301.07049v1](http://arxiv.org/pdf/2301.07049v1)|null|
+|**2023-01-17**|**Closed-Form Formulae for Inflation Correlators**|Zhehan Qin et.al.|[2301.07047v1](http://arxiv.org/abs/2301.07047v1)|[2301.07047v1](http://arxiv.org/pdf/2301.07047v1)|null|
+|**2023-01-17**|**Constraining uber gravity with recent observations and elucidating the $H_0$ problem**|Gustavo A. Concha Valdez et.al.|[2301.07044v1](http://arxiv.org/abs/2301.07044v1)|[2301.07044v1](http://arxiv.org/pdf/2301.07044v1)|null|
+|**2023-01-17**|**Towards Quantum Telescopes: Demonstration of a Two-Photon Interferometer for Quantum-Assisted Astronomy**|Jesse Crawford et.al.|[2301.07042v1](http://arxiv.org/abs/2301.07042v1)|[2301.07042v1](http://arxiv.org/pdf/2301.07042v1)|null|
+|**2023-01-17**|**Discovery of the Exceptionally Short Period Ultracool Dwarf Binary LP 413-53AB**|Chih-Chun Hsu et.al.|[2301.07039v1](http://arxiv.org/abs/2301.07039v1)|[2301.07039v1](http://arxiv.org/pdf/2301.07039v1)|null|
+|**2023-01-17**|**Stellar Initial Mass Function Varies with Metallicities and Time**|Jiadong Li et.al.|[2301.07029v1](http://arxiv.org/abs/2301.07029v1)|[2301.07029v1](http://arxiv.org/pdf/2301.07029v1)|null|
+|**2023-01-17**|**Dynamical signature of a stellar bulge in a quasar host galaxy at $z\simeq 6$**|Roberta Tripodi et.al.|[2301.07023v1](http://arxiv.org/abs/2301.07023v1)|[2301.07023v1](http://arxiv.org/pdf/2301.07023v1)|null|
 |**2023-01-13**|**Carbon Depletion in the Early Solar System**|Fabian Binkert et.al.|[2301.05706v1](http://arxiv.org/abs/2301.05706v1)|[2301.05706v1](http://arxiv.org/pdf/2301.05706v1)|null|
 |**2023-01-13**|**A NOEMA molecular line scan of the Hubble Deep Field North: Improved constraints on the CO luminosity functions and cosmic density of molecular gas**|Leindert A. Boogaard et.al.|[2301.05705v1](http://arxiv.org/abs/2301.05705v1)|[2301.05705v1](http://arxiv.org/pdf/2301.05705v1)|null|
 |**2023-01-13**|**Multi-Wavelength and Multi-Messenger Studies with the next-generation Event Horizon Telescope**|Rocco Lico et.al.|[2301.05699v1](http://arxiv.org/abs/2301.05699v1)|[2301.05699v1](http://arxiv.org/pdf/2301.05699v1)|null|
@@ -1419,6 +1429,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-17**|**Learning Customized Visual Models with Retrieval-Augmented Knowledge**|Haotian Liu et.al.|[2301.07094v1](http://arxiv.org/abs/2301.07094v1)|[2301.07094v1](http://arxiv.org/pdf/2301.07094v1)|null|
+|**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|[2301.07093v1](http://arxiv.org/pdf/2301.07093v1)|**[link](https://github.com/gligen/GLIGEN)**|
+|**2023-01-17**|**Vision Learners Meet Web Image-Text Pairs**|Bingchen Zhao et.al.|[2301.07088v1](http://arxiv.org/abs/2301.07088v1)|[2301.07088v1](http://arxiv.org/pdf/2301.07088v1)|null|
+|**2023-01-17**|**Are Language Models Worse than Humans at Following Prompts? It's Complicated**|Albert Webson et.al.|[2301.07085v1](http://arxiv.org/abs/2301.07085v1)|[2301.07085v1](http://arxiv.org/pdf/2301.07085v1)|null|
+|**2023-01-17**|**SegViz: A Federated Learning Framework for Medical Image Segmentation from Distributed Datasets with Different and Incomplete Annotations**|Adway U. Kanhere et.al.|[2301.07074v1](http://arxiv.org/abs/2301.07074v1)|[2301.07074v1](http://arxiv.org/pdf/2301.07074v1)|null|
+|**2023-01-17**|**The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks**|Luca Marzari et.al.|[2301.07068v1](http://arxiv.org/abs/2301.07068v1)|[2301.07068v1](http://arxiv.org/pdf/2301.07068v1)|null|
+|**2023-01-17**|**Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance**|Dangxing Chen et.al.|[2301.07060v1](http://arxiv.org/abs/2301.07060v1)|[2301.07060v1](http://arxiv.org/pdf/2301.07060v1)|null|
+|**2023-01-17**|**Transformer Based Implementation for Automatic Book Summarization**|Siddhant Porwal et.al.|[2301.07057v1](http://arxiv.org/abs/2301.07057v1)|[2301.07057v1](http://arxiv.org/pdf/2301.07057v1)|null|
+|**2023-01-17**|**Preserving Privacy in Surgical Video Analysis Using Artificial Intelligence: A Deep Learning Classifier to Identify Out-of-Body Scenes in Endoscopic Videos**|Joël L. Lavanchy et.al.|[2301.07053v1](http://arxiv.org/abs/2301.07053v1)|[2301.07053v1](http://arxiv.org/pdf/2301.07053v1)|null|
+|**2023-01-17**|**Explain What You See: Open-Ended Segmentation and Recognition of Occluded 3D Objects**|H. Ayoobi et.al.|[2301.07037v1](http://arxiv.org/abs/2301.07037v1)|[2301.07037v1](http://arxiv.org/pdf/2301.07037v1)|null|
 |**2023-01-13**|**Multistep spin switching in orthogonally-twisted ferromagnetic monolayers**|Carla Boix-Constant et.al.|[2301.05647v1](http://arxiv.org/abs/2301.05647v1)|[2301.05647v1](http://arxiv.org/pdf/2301.05647v1)|null|
 |**2023-01-13**|**Decentralized model-free reinforcement learning in stochastic games with average-reward objective**|Romain Cravic et.al.|[2301.05630v1](http://arxiv.org/abs/2301.05630v1)|[2301.05630v1](http://arxiv.org/pdf/2301.05630v1)|null|
 |**2023-01-13**|**Search for large topological gaps in atomic spin chains on proximitized superconducting heavy metal layers**|Philip Beck et.al.|[2301.05622v1](http://arxiv.org/abs/2301.05622v1)|[2301.05622v1](http://arxiv.org/pdf/2301.05622v1)|null|
