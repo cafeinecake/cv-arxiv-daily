@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.01.19
+## Updated on 2023.01.20
 
 ## Astrophysics
 
@@ -1446,7 +1446,7 @@ layout: default
 |**2023-01-18**|**CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots**|Md Abir Hossen et.al.|[2301.07690v1](http://arxiv.org/abs/2301.07690v1)|[2301.07690v1](http://arxiv.org/pdf/2301.07690v1)|**[link](https://github.com/softsys4ai/care)**|
 |**2023-01-18**|**Non-parametric identifiability and sensitivity analysis of synthetic control models**|Jakob Zeitler et.al.|[2301.07656v1](http://arxiv.org/abs/2301.07656v1)|[2301.07656v1](http://arxiv.org/pdf/2301.07656v1)|null|
 |**2023-01-18**|**A Comparative Analysis of Bias Amplification in Graph Neural Network Approaches for Recommender Systems**|Nikzad Chizari et.al.|[2301.07639v1](http://arxiv.org/abs/2301.07639v1)|[2301.07639v1](http://arxiv.org/pdf/2301.07639v1)|null|
-|**2023-01-18**|**Generative AI-empowered Effective Physical-Virtual Synchronization in the Vehicular Metaverse**|Minrui Xu et.al.|[2301.07636v1](http://arxiv.org/abs/2301.07636v1)|[2301.07636v1](http://arxiv.org/pdf/2301.07636v1)|null|
+|**2023-01-19**|**Generative AI-empowered Effective Physical-Virtual Synchronization in the Vehicular Metaverse**|Minrui Xu et.al.|[2301.07636v2](http://arxiv.org/abs/2301.07636v2)|[2301.07636v2](http://arxiv.org/pdf/2301.07636v2)|null|
 |**2023-01-18**|**Training Semantic Segmentation on Heterogeneous Datasets**|Panagiotis Meletis et.al.|[2301.07634v1](http://arxiv.org/abs/2301.07634v1)|[2301.07634v1](http://arxiv.org/pdf/2301.07634v1)|null|
 |**2023-01-18**|**Generalisation Through Negation and Predicate Invention**|David M. Cerna et.al.|[2301.07629v1](http://arxiv.org/abs/2301.07629v1)|[2301.07629v1](http://arxiv.org/pdf/2301.07629v1)|null|
 |**2023-01-18**|**A novel dataset and a two-stage mitosis nuclei detection method based on hybrid anchor branch**|Huadeng Wang et.al.|[2301.07627v1](http://arxiv.org/abs/2301.07627v1)|[2301.07627v1](http://arxiv.org/pdf/2301.07627v1)|null|
