@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-20**|**First search for ultralight dark matter with a space-based gravitational-wave antenna: LISA Pathfinder**|Andrew L. Miller et.al.|[2301.08736v1](http://arxiv.org/abs/2301.08736v1)|[2301.08736v1](http://arxiv.org/pdf/2301.08736v1)|null|
+|**2023-01-20**|**Thermal production of cold "hot dark matter" around eV**|Wen Yin et.al.|[2301.08735v1](http://arxiv.org/abs/2301.08735v1)|[2301.08735v1](http://arxiv.org/pdf/2301.08735v1)|null|
+|**2023-01-20**|**Using Gamma Functions in the Mathematical Formulation of the Impact Crater Size-Age Frequency Distribution on Earth and Mars**|William Bruckman et.al.|[2301.08725v1](http://arxiv.org/abs/2301.08725v1)|[2301.08725v1](http://arxiv.org/pdf/2301.08725v1)|null|
+|**2023-01-20**|**Turbulence Driving by Interstellar Pickup Ions in the Outer Solar Wind**|Philip A. Isenberg et.al.|[2301.08710v1](http://arxiv.org/abs/2301.08710v1)|[2301.08710v1](http://arxiv.org/pdf/2301.08710v1)|null|
+|**2023-01-20**|**Fermion soliton stars**|L. Del Grosso et.al.|[2301.08709v1](http://arxiv.org/abs/2301.08709v1)|[2301.08709v1](http://arxiv.org/pdf/2301.08709v1)|null|
+|**2023-01-20**|**Athermal Phonon Sensors in Searches for Light Dark Matter**|Samuel L. Watkins et.al.|[2301.08699v1](http://arxiv.org/abs/2301.08699v1)|[2301.08699v1](http://arxiv.org/pdf/2301.08699v1)|null|
+|**2023-01-20**|**Constraints on $S_8$ from a full-scale and full-shape analysis of redshift-space clustering and galaxy-galaxy lensing in BOSS**|Johannes U. Lange et.al.|[2301.08692v1](http://arxiv.org/abs/2301.08692v1)|[2301.08692v1](http://arxiv.org/pdf/2301.08692v1)|null|
+|**2023-01-20**|**Measuring the variability of directly imaged exoplanets using vector Apodizing Phase Plates combined with ground-based differential spectrophotometry**|Ben J. Sutlieff et.al.|[2301.08689v1](http://arxiv.org/abs/2301.08689v1)|[2301.08689v1](http://arxiv.org/pdf/2301.08689v1)|null|
+|**2023-01-20**|**White dwarf mass-radius relation in theories beyond general relativity**|Khursid Alam et.al.|[2301.08677v1](http://arxiv.org/abs/2301.08677v1)|[2301.08677v1](http://arxiv.org/pdf/2301.08677v1)|null|
+|**2023-01-20**|**Kinematic differences between multiple populations in Galactic globular clusters**|Sven Martens et.al.|[2301.08675v1](http://arxiv.org/abs/2301.08675v1)|[2301.08675v1](http://arxiv.org/pdf/2301.08675v1)|null|
 |**2023-01-19**|**Modelling the cosmological Lyman-Werner background radiation field in the Early Universe**|Andrea Incatasciato et.al.|[2301.08242v1](http://arxiv.org/abs/2301.08242v1)|[2301.08242v1](http://arxiv.org/pdf/2301.08242v1)|null|
 |**2023-01-19**|**Tracing the history of an unusual compound presolar grain from progenitor star to asteroid parent body host**|Sheryl A. Singerling et.al.|[2301.08228v1](http://arxiv.org/abs/2301.08228v1)|[2301.08228v1](http://arxiv.org/pdf/2301.08228v1)|null|
 |**2023-01-19**|**Formation of globular clusters in dwarf galaxies of the Local Group**|Yingtian Chen et.al.|[2301.08218v1](http://arxiv.org/abs/2301.08218v1)|[2301.08218v1](http://arxiv.org/pdf/2301.08218v1)|null|
@@ -1453,6 +1463,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-20**|**Neural Architecture Search: Insights from 1000 Papers**|Colin White et.al.|[2301.08727v1](http://arxiv.org/abs/2301.08727v1)|[2301.08727v1](http://arxiv.org/pdf/2301.08727v1)|null|
+|**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|[2301.08719v1](http://arxiv.org/pdf/2301.08719v1)|null|
+|**2023-01-20**|**Counterexample Guided Abstraction Refinement with Non-Refined Abstractions for Multi-Agent Path Finding**|Pavel Surynek et.al.|[2301.08687v1](http://arxiv.org/abs/2301.08687v1)|[2301.08687v1](http://arxiv.org/pdf/2301.08687v1)|null|
+|**2023-01-20**|**STORM-GAN: Spatio-Temporal Meta-GAN for Cross-City Estimation of Human Mobility Responses to COVID-19**|Han Bao et.al.|[2301.08648v1](http://arxiv.org/abs/2301.08648v1)|[2301.08648v1](http://arxiv.org/pdf/2301.08648v1)|null|
+|**2023-01-20**|**On the Foundations of Cycles in Bayesian Networks**|Christel Baier et.al.|[2301.08608v1](http://arxiv.org/abs/2301.08608v1)|[2301.08608v1](http://arxiv.org/pdf/2301.08608v1)|null|
+|**2023-01-20**|**Data Augmentation for Modeling Human Personality: The Dexter Machine**|Yair Neuman et.al.|[2301.08606v1](http://arxiv.org/abs/2301.08606v1)|[2301.08606v1](http://arxiv.org/pdf/2301.08606v1)|null|
+|**2023-01-20**|**MAVERIC: A Data-Driven Approach to Personalized Autonomous Driving**|Mariah L. Schrum et.al.|[2301.08595v1](http://arxiv.org/abs/2301.08595v1)|[2301.08595v1](http://arxiv.org/pdf/2301.08595v1)|null|
+|**2023-01-20**|**Ontology Pre-training for Poison Prediction**|Martin Glauer et.al.|[2301.08577v1](http://arxiv.org/abs/2301.08577v1)|[2301.08577v1](http://arxiv.org/pdf/2301.08577v1)|null|
+|**2023-01-20**|**Physics-guided neural networks for feedforward control with input-to-state stability guarantees**|Max Bolderman et.al.|[2301.08568v1](http://arxiv.org/abs/2301.08568v1)|[2301.08568v1](http://arxiv.org/pdf/2301.08568v1)|null|
+|**2023-01-20**|**Self-Organization Towards $1/f$ Noise in Deep Neural Networks**|Nicholas Chong Jia Le et.al.|[2301.08530v1](http://arxiv.org/abs/2301.08530v1)|[2301.08530v1](http://arxiv.org/pdf/2301.08530v1)|null|
 |**2023-01-19**|**Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture**|Mahmoud Assran et.al.|[2301.08243v1](http://arxiv.org/abs/2301.08243v1)|[2301.08243v1](http://arxiv.org/pdf/2301.08243v1)|null|
 |**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|[2301.08210v1](http://arxiv.org/pdf/2301.08210v1)|null|
 |**2023-01-19**|**Building Concise Logical Patterns by Constraining Tsetlin Machine Clause Size**|K. Darshana Abeyrathna et.al.|[2301.08190v1](http://arxiv.org/abs/2301.08190v1)|[2301.08190v1](http://arxiv.org/pdf/2301.08190v1)|null|
