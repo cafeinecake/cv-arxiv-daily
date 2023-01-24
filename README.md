@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-23**|**General Relativistic Simulations of High-Mass Binary Neutron Star Mergers: rapid formation of low-mass stellar black holes**|Kutay A. Çokluk et.al.|[2301.09635v1](http://arxiv.org/abs/2301.09635v1)|[2301.09635v1](http://arxiv.org/pdf/2301.09635v1)|null|
+|**2023-01-23**|**Inference of the optical depth to reionization $τ$ from $\textit{Planck}$ CMB maps with convolutional neural networks**|Kevin Wolz et.al.|[2301.09634v1](http://arxiv.org/abs/2301.09634v1)|[2301.09634v1](http://arxiv.org/pdf/2301.09634v1)|null|
+|**2023-01-23**|**Photometric determination of the mass accretion rates of pre-main sequence stars. VII. The low-density cluster NGC 376 in the Small Magellanic Cloud**|Styliani Tsilia et.al.|[2301.09625v1](http://arxiv.org/abs/2301.09625v1)|[2301.09625v1](http://arxiv.org/pdf/2301.09625v1)|null|
+|**2023-01-23**|**J-NEP: 60-band photometry and photometric redshifts for the James Webb Space Telescope North Ecliptic Pole Time-Domain Field**|A. Hernán-Caballero et.al.|[2301.09623v1](http://arxiv.org/abs/2301.09623v1)|[2301.09623v1](http://arxiv.org/pdf/2301.09623v1)|null|
+|**2023-01-23**|**The vertical structure of the spiral galaxy NGC 3501: first stages of the formation of a thin metal-rich disc**|Natascha Sattler et.al.|[2301.09621v1](http://arxiv.org/abs/2301.09621v1)|[2301.09621v1](http://arxiv.org/pdf/2301.09621v1)|null|
+|**2023-01-23**|**Point-like sources among z>11 galaxy candidates: contaminants due to supernovae at high redshifts?**|Haojing Yan et.al.|[2301.09614v1](http://arxiv.org/abs/2301.09614v1)|[2301.09614v1](http://arxiv.org/pdf/2301.09614v1)|null|
+|**2023-01-23**|**Constraining a Model of the Radio Sky Below 6 MHz Using the Parker Solar Probe/FIELDS Instrument in Preparation for Upcoming Lunar-based Experiments**|Neil Bassett et.al.|[2301.09612v1](http://arxiv.org/abs/2301.09612v1)|[2301.09612v1](http://arxiv.org/pdf/2301.09612v1)|null|
+|**2023-01-23**|**A New Mid-Infrared and X-ray Machine Learning Algorithm to Discover Compton-thick AGN**|Ross Silver et.al.|[2301.09598v1](http://arxiv.org/abs/2301.09598v1)|[2301.09598v1](http://arxiv.org/pdf/2301.09598v1)|null|
+|**2023-01-23**|**Cosmic chronometers to calibrate the ladders and measure the curvature of the Universe. A model-independent study**|Arianna Favale et.al.|[2301.09591v1](http://arxiv.org/abs/2301.09591v1)|[2301.09591v1](http://arxiv.org/pdf/2301.09591v1)|null|
+|**2023-01-23**|**The active weak-line T Tauri star LkCa 4 observed with SPIRou and TESS**|Benjamin Finociety et.al.|[2301.09584v1](http://arxiv.org/abs/2301.09584v1)|[2301.09584v1](http://arxiv.org/pdf/2301.09584v1)|null|
 |**2023-01-20**|**First search for ultralight dark matter with a space-based gravitational-wave antenna: LISA Pathfinder**|Andrew L. Miller et.al.|[2301.08736v1](http://arxiv.org/abs/2301.08736v1)|[2301.08736v1](http://arxiv.org/pdf/2301.08736v1)|null|
 |**2023-01-20**|**Thermal production of cold "hot dark matter" around eV**|Wen Yin et.al.|[2301.08735v1](http://arxiv.org/abs/2301.08735v1)|[2301.08735v1](http://arxiv.org/pdf/2301.08735v1)|null|
 |**2023-01-20**|**Using Gamma Functions in the Mathematical Formulation of the Impact Crater Size-Age Frequency Distribution on Earth and Mars**|William Bruckman et.al.|[2301.08725v1](http://arxiv.org/abs/2301.08725v1)|[2301.08725v1](http://arxiv.org/pdf/2301.08725v1)|null|
@@ -1459,6 +1469,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-23**|**InfiniCity: Infinite-Scale City Synthesis**|Chieh Hubert Lin et.al.|[2301.09637v1](http://arxiv.org/abs/2301.09637v1)|[2301.09637v1](http://arxiv.org/pdf/2301.09637v1)|null|
+|**2023-01-23**|**Prediction-Powered Inference**|Anastasios N. Angelopoulos et.al.|[2301.09633v1](http://arxiv.org/abs/2301.09633v1)|[2301.09633v1](http://arxiv.org/pdf/2301.09633v1)|**[link](https://github.com/aangelopoulos/prediction-powered-inference)**|
+|**2023-01-23**|**Feature construction using explanations of individual predictions**|Boštjan Vouk et.al.|[2301.09631v1](http://arxiv.org/abs/2301.09631v1)|[2301.09631v1](http://arxiv.org/pdf/2301.09631v1)|null|
+|**2023-01-23**|**Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning**|Malte Ostendorff et.al.|[2301.09626v1](http://arxiv.org/abs/2301.09626v1)|[2301.09626v1](http://arxiv.org/pdf/2301.09626v1)|null|
+|**2023-01-23**|**Asymptotic Convergence and Performance of Multi-Agent Q-Learning Dynamics**|Aamal Abbas Hussain et.al.|[2301.09619v1](http://arxiv.org/abs/2301.09619v1)|[2301.09619v1](http://arxiv.org/pdf/2301.09619v1)|null|
+|**2023-01-23**|**Huber-Robust Confidence Sequences**|Hongjian Wang et.al.|[2301.09573v1](http://arxiv.org/abs/2301.09573v1)|[2301.09573v1](http://arxiv.org/pdf/2301.09573v1)|null|
+|**2023-01-23**|**SpArX: Sparse Argumentative Explanations for Neural Networks**|Hamed Ayoobi et.al.|[2301.09559v1](http://arxiv.org/abs/2301.09559v1)|[2301.09559v1](http://arxiv.org/pdf/2301.09559v1)|null|
+|**2023-01-23**|**The Entoptic Field Camera as Metaphor-Driven Research-through-Design with AI Technologies**|Jesse Josua Benjamin et.al.|[2301.09545v1](http://arxiv.org/abs/2301.09545v1)|[2301.09545v1](http://arxiv.org/pdf/2301.09545v1)|null|
+|**2023-01-23**|**Solving the HP model with Nested Monte Carlo Search**|Milo Roucairol et.al.|[2301.09533v1](http://arxiv.org/abs/2301.09533v1)|[2301.09533v1](http://arxiv.org/pdf/2301.09533v1)|null|
+|**2023-01-23**|**RF+clust for Leave-One-Problem-Out Performance Prediction**|Ana Nikolikj et.al.|[2301.09524v1](http://arxiv.org/abs/2301.09524v1)|[2301.09524v1](http://arxiv.org/pdf/2301.09524v1)|null|
 |**2023-01-20**|**Neural Architecture Search: Insights from 1000 Papers**|Colin White et.al.|[2301.08727v1](http://arxiv.org/abs/2301.08727v1)|[2301.08727v1](http://arxiv.org/pdf/2301.08727v1)|null|
 |**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|[2301.08719v1](http://arxiv.org/pdf/2301.08719v1)|null|
 |**2023-01-20**|**Counterexample Guided Abstraction Refinement with Non-Refined Abstractions for Multi-Agent Path Finding**|Pavel Surynek et.al.|[2301.08687v1](http://arxiv.org/abs/2301.08687v1)|[2301.08687v1](http://arxiv.org/pdf/2301.08687v1)|null|
