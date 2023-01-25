@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-24**|**Polarized signatures of adiabatically expanding hotspots in Sgr A*'s accretion flow**|Joseph M. Michail et.al.|[2301.10243v1](http://arxiv.org/abs/2301.10243v1)|[2301.10243v1](http://arxiv.org/pdf/2301.10243v1)|null|
+|**2023-01-24**|**Model independent variance cancellation in CMB lensing cross-correlations**|Antón Baleato Lizancos et.al.|[2301.10242v1](http://arxiv.org/abs/2301.10242v1)|[2301.10242v1](http://arxiv.org/pdf/2301.10242v1)|null|
+|**2023-01-24**|**Probing the pulsar explanation of the Galactic-Center GeV excess using continuous gravitational-wave searches**|Andrew L. Miller et.al.|[2301.10239v1](http://arxiv.org/abs/2301.10239v1)|[2301.10239v1](http://arxiv.org/pdf/2301.10239v1)|null|
+|**2023-01-24**|**Origin and evolution of Mercury's circumsolar dust ring**|Petr Pokorny et.al.|[2301.10219v1](http://arxiv.org/abs/2301.10219v1)|[2301.10219v1](http://arxiv.org/pdf/2301.10219v1)|null|
+|**2023-01-24**|**Atmospheric Chemistry of Secondary and Hybrid Atmospheres of Super Earths and Sub-Neptunes**|Meng Tian et.al.|[2301.10217v1](http://arxiv.org/abs/2301.10217v1)|[2301.10217v1](http://arxiv.org/pdf/2301.10217v1)|null|
+|**2023-01-24**|**Type Ia supernova constraints on compact object dark matter**|S. Dhawan et.al.|[2301.10204v1](http://arxiv.org/abs/2301.10204v1)|[2301.10204v1](http://arxiv.org/pdf/2301.10204v1)|null|
+|**2023-01-24**|**Galactic Population Synthesis of Radioactive Nucleosynthesis Ejecta**|Thomas Siegert et.al.|[2301.10192v1](http://arxiv.org/abs/2301.10192v1)|[2301.10192v1](http://arxiv.org/pdf/2301.10192v1)|null|
+|**2023-01-24**|**Multi-wavelength afterglow emission from bursts associated with magnetar flares and fast radio bursts**|Yujia Wei et.al.|[2301.10184v1](http://arxiv.org/abs/2301.10184v1)|[2301.10184v1](http://arxiv.org/pdf/2301.10184v1)|null|
+|**2023-01-24**|**Retuning the radio astronomical search for axion dark matter with neutron stars**|Javier De Miguel et.al.|[2301.10144v1](http://arxiv.org/abs/2301.10144v1)|[2301.10144v1](http://arxiv.org/pdf/2301.10144v1)|null|
+|**2023-01-24**|**Distinguishing binary black hole precessional morphologies with gravitational wave observations**|Nathan K. Johnson-McDaniel et.al.|[2301.10125v1](http://arxiv.org/abs/2301.10125v1)|[2301.10125v1](http://arxiv.org/pdf/2301.10125v1)|null|
 |**2023-01-23**|**General Relativistic Simulations of High-Mass Binary Neutron Star Mergers: rapid formation of low-mass stellar black holes**|Kutay A. Çokluk et.al.|[2301.09635v1](http://arxiv.org/abs/2301.09635v1)|[2301.09635v1](http://arxiv.org/pdf/2301.09635v1)|null|
 |**2023-01-23**|**Inference of the optical depth to reionization $τ$ from $\textit{Planck}$ CMB maps with convolutional neural networks**|Kevin Wolz et.al.|[2301.09634v1](http://arxiv.org/abs/2301.09634v1)|[2301.09634v1](http://arxiv.org/pdf/2301.09634v1)|null|
 |**2023-01-23**|**Photometric determination of the mass accretion rates of pre-main sequence stars. VII. The low-density cluster NGC 376 in the Small Magellanic Cloud**|Styliani Tsilia et.al.|[2301.09625v1](http://arxiv.org/abs/2301.09625v1)|[2301.09625v1](http://arxiv.org/pdf/2301.09625v1)|null|
@@ -1473,6 +1483,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-24**|**RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving**|Angelika Ando et.al.|[2301.10222v1](http://arxiv.org/abs/2301.10222v1)|[2301.10222v1](http://arxiv.org/pdf/2301.10222v1)|null|
+|**2023-01-24**|**Bipartite Graph Diffusion Model for Human Interaction Generation**|Baptiste Chopin et.al.|[2301.10134v1](http://arxiv.org/abs/2301.10134v1)|[2301.10134v1](http://arxiv.org/pdf/2301.10134v1)|null|
+|**2023-01-24**|**Generalized Object Search**|Kaiyu Zheng et.al.|[2301.10121v1](http://arxiv.org/abs/2301.10121v1)|[2301.10121v1](http://arxiv.org/pdf/2301.10121v1)|null|
+|**2023-01-24**|**Minimal Value-Equivalent Partial Models for Scalable and Robust Planning in Lifelong Reinforcement Learning**|Safa Alver et.al.|[2301.10119v1](http://arxiv.org/abs/2301.10119v1)|[2301.10119v1](http://arxiv.org/pdf/2301.10119v1)|null|
+|**2023-01-24**|**Story Shaping: Teaching Agents Human-like Behavior with Stories**|Xiangyu Peng et.al.|[2301.10107v1](http://arxiv.org/abs/2301.10107v1)|[2301.10107v1](http://arxiv.org/pdf/2301.10107v1)|null|
+|**2023-01-24**|**Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With Artificial Intelligence Through Legal Standards**|John J. Nay et.al.|[2301.10095v1](http://arxiv.org/abs/2301.10095v1)|[2301.10095v1](http://arxiv.org/pdf/2301.10095v1)|null|
+|**2023-01-24**|**Model soups to increase inference without increasing compute time**|Charles Dansereau et.al.|[2301.10092v1](http://arxiv.org/abs/2301.10092v1)|[2301.10092v1](http://arxiv.org/pdf/2301.10092v1)|**[link](https://github.com/milo-sobral/modelsoup)**|
+|**2023-01-24**|**Reformulation Techniques for Automated Planning: A Systematic Review**|Diaeddin Alarnaouti et.al.|[2301.10079v1](http://arxiv.org/abs/2301.10079v1)|[2301.10079v1](http://arxiv.org/pdf/2301.10079v1)|null|
+|**2023-01-24**|**Intrinsic Motivation in Model-based Reinforcement Learning: A Brief Review**|Artem Latyshev et.al.|[2301.10067v1](http://arxiv.org/abs/2301.10067v1)|[2301.10067v1](http://arxiv.org/pdf/2301.10067v1)|null|
+|**2023-01-24**|**A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2301.10053v1](http://arxiv.org/abs/2301.10053v1)|[2301.10053v1](http://arxiv.org/pdf/2301.10053v1)|null|
 |**2023-01-23**|**InfiniCity: Infinite-Scale City Synthesis**|Chieh Hubert Lin et.al.|[2301.09637v1](http://arxiv.org/abs/2301.09637v1)|[2301.09637v1](http://arxiv.org/pdf/2301.09637v1)|null|
 |**2023-01-23**|**Prediction-Powered Inference**|Anastasios N. Angelopoulos et.al.|[2301.09633v1](http://arxiv.org/abs/2301.09633v1)|[2301.09633v1](http://arxiv.org/pdf/2301.09633v1)|**[link](https://github.com/aangelopoulos/prediction-powered-inference)**|
 |**2023-01-23**|**Feature construction using explanations of individual predictions**|Boštjan Vouk et.al.|[2301.09631v1](http://arxiv.org/abs/2301.09631v1)|[2301.09631v1](http://arxiv.org/pdf/2301.09631v1)|null|
