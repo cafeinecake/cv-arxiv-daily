@@ -1,4 +1,4 @@
-## Updated on 2023.01.26
+## Updated on 2023.01.27
 
 ## Astrophysics
 
@@ -1495,7 +1495,7 @@
 |**2023-01-25**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677v1](http://arxiv.org/abs/2301.10677v1)|[2301.10677v1](http://arxiv.org/pdf/2301.10677v1)|null|
 |**2023-01-25**|**Transfer Learning in Deep Learning Models for Building Load Forecasting: Case of Limited Data**|Menna Nawar et.al.|[2301.10663v1](http://arxiv.org/abs/2301.10663v1)|[2301.10663v1](http://arxiv.org/pdf/2301.10663v1)|null|
 |**2023-01-25**|**Probing Taxonomic and Thematic Embeddings for Taxonomic Information**|Filip Klubička et.al.|[2301.10656v1](http://arxiv.org/abs/2301.10656v1)|[2301.10656v1](http://arxiv.org/pdf/2301.10656v1)|null|
-|**2023-01-25**|**Overcoming Prior Misspecification in Online Learning to Rank**|Javad Azizi et.al.|[2301.10651v1](http://arxiv.org/abs/2301.10651v1)|[2301.10651v1](http://arxiv.org/pdf/2301.10651v1)|null|
+|**2023-01-26**|**Overcoming Prior Misspecification in Online Learning to Rank**|Javad Azizi et.al.|[2301.10651v2](http://arxiv.org/abs/2301.10651v2)|[2301.10651v2](http://arxiv.org/pdf/2301.10651v2)|null|
 |**2023-01-25**|**Connecting metrics for shape-texture knowledge in computer vision**|Tiago Oliveira et.al.|[2301.10608v1](http://arxiv.org/abs/2301.10608v1)|[2301.10608v1](http://arxiv.org/pdf/2301.10608v1)|null|
 |**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|[2301.10595v1](http://arxiv.org/pdf/2301.10595v1)|null|
 |**2023-01-25**|**A Method For Eliminating Contour Errors In Self-Encoder Reconstructed Images**|Yonggang Li et.al.|[2301.10584v1](http://arxiv.org/abs/2301.10584v1)|[2301.10584v1](http://arxiv.org/pdf/2301.10584v1)|null|
