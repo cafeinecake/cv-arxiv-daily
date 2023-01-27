@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-26**|**Ab Initio Turbulent Comptonization in Magnetized Coronae of Accreting Black Holes**|Daniel Groselj et.al.|[2301.11327v1](http://arxiv.org/abs/2301.11327v1)|[2301.11327v1](http://arxiv.org/pdf/2301.11327v1)|null|
+|**2023-01-26**|**From exo-Earths to exo-Venuses -- Flux and Polarization Signatures of Reflected Light**|Gourav Mahapatra et.al.|[2301.11314v1](http://arxiv.org/abs/2301.11314v1)|[2301.11314v1](http://arxiv.org/pdf/2301.11314v1)|null|
+|**2023-01-26**|**Gravitoelectromagnetic quadrirefringence and the binaries rainbow**|Antonio Enea Romano et.al.|[2301.11304v1](http://arxiv.org/abs/2301.11304v1)|[2301.11304v1](http://arxiv.org/pdf/2301.11304v1)|null|
+|**2023-01-26**|**The frequency ratio and time delay of solar radio emissions with fundamental and harmonic components**|Xingyao Chen et.al.|[2301.11299v1](http://arxiv.org/abs/2301.11299v1)|[2301.11299v1](http://arxiv.org/pdf/2301.11299v1)|null|
+|**2023-01-26**|**Line Luminosities of Galactic and Magellanic Cloud Wolf-Rayet stars**|Paul A. Crowther et.al.|[2301.11297v1](http://arxiv.org/abs/2301.11297v1)|[2301.11297v1](http://arxiv.org/pdf/2301.11297v1)|null|
+|**2023-01-26**|**High Speed Focal Plane Wavefront Sensing with an Optical Chopper**|Benjamin L. Gerard et.al.|[2301.11282v1](http://arxiv.org/abs/2301.11282v1)|[2301.11282v1](http://arxiv.org/pdf/2301.11282v1)|null|
+|**2023-01-26**|**Spectroscopy of CASSOWARY gravitationally-lensed galaxies in SDSS: characterisation of an extremely bright reionization-era analog at $z=1.42$**|Ramesh Mainali et.al.|[2301.11264v1](http://arxiv.org/abs/2301.11264v1)|[2301.11264v1](http://arxiv.org/pdf/2301.11264v1)|null|
+|**2023-01-26**|**Divergence of the local large-scale structure velocity field and its implications for Tilted Cosmology**|Erick Pastén et.al.|[2301.11246v1](http://arxiv.org/abs/2301.11246v1)|[2301.11246v1](http://arxiv.org/pdf/2301.11246v1)|null|
+|**2023-01-26**|**Hubble Constant Measurement from Three Large-Separation Quasars Strongly Lensed by Galaxy Clusters**|Kate Napier et.al.|[2301.11240v1](http://arxiv.org/abs/2301.11240v1)|[2301.11240v1](http://arxiv.org/pdf/2301.11240v1)|null|
+|**2023-01-26**|**Cosmological models in scale-independent energy-momentum squared gravity**|Ozgur Akarsu et.al.|[2301.11204v1](http://arxiv.org/abs/2301.11204v1)|[2301.11204v1](http://arxiv.org/pdf/2301.11204v1)|null|
 |**2023-01-25**|**Probing hybrid stars and the properties of the special points with radial oscillations**|Christoph Gärtlein et.al.|[2301.10765v1](http://arxiv.org/abs/2301.10765v1)|[2301.10765v1](http://arxiv.org/pdf/2301.10765v1)|null|
 |**2023-01-25**|**Extragalactic CO emission lines in the CMB experiments: a forgotten signal and a foreground**|Abhishek S. Maniyar et.al.|[2301.10764v1](http://arxiv.org/abs/2301.10764v1)|[2301.10764v1](http://arxiv.org/pdf/2301.10764v1)|null|
 |**2023-01-25**|**Hadrophobic Axion from GUT**|Fuminobu Takahashi et.al.|[2301.10757v1](http://arxiv.org/abs/2301.10757v1)|[2301.10757v1](http://arxiv.org/pdf/2301.10757v1)|null|
@@ -1489,6 +1499,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|[2301.11329v1](http://arxiv.org/pdf/2301.11329v1)|null|
+|**2023-01-26**|**Joint Training of Deep Ensembles Fails Due to Learner Collusion**|Alan Jeffares et.al.|[2301.11323v1](http://arxiv.org/abs/2301.11323v1)|[2301.11323v1](http://arxiv.org/pdf/2301.11323v1)|null|
+|**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|[2301.11320v1](http://arxiv.org/pdf/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-01-26**|**Open Problems in Applied Deep Learning**|Maziar Raissi et.al.|[2301.11316v1](http://arxiv.org/abs/2301.11316v1)|[2301.11316v1](http://arxiv.org/pdf/2301.11316v1)|null|
+|**2023-01-26**|**Evaluate underdiagnosis and overdiagnosis bias of deep learning model on primary open-angle glaucoma diagnosis in under-served patient populations**|Mingquan Lin et.al.|[2301.11315v1](http://arxiv.org/abs/2301.11315v1)|[2301.11315v1](http://arxiv.org/pdf/2301.11315v1)|null|
+|**2023-01-26**|**Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series**|Abdul Fatir Ansari et.al.|[2301.11308v1](http://arxiv.org/abs/2301.11308v1)|[2301.11308v1](http://arxiv.org/pdf/2301.11308v1)|null|
+|**2023-01-26**|**DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature**|Eric Mitchell et.al.|[2301.11305v1](http://arxiv.org/abs/2301.11305v1)|[2301.11305v1](http://arxiv.org/pdf/2301.11305v1)|null|
+|**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|[2301.11280v1](http://arxiv.org/pdf/2301.11280v1)|null|
+|**2023-01-26**|**Self-Supervised RGB-T Tracking with Cross-Input Consistency**|Xingchen Zhang et.al.|[2301.11274v1](http://arxiv.org/abs/2301.11274v1)|[2301.11274v1](http://arxiv.org/pdf/2301.11274v1)|null|
+|**2023-01-26**|**Principled Reinforcement Learning with Human Feedback from Pairwise or $K$-wise Comparisons**|Banghua Zhu et.al.|[2301.11270v1](http://arxiv.org/abs/2301.11270v1)|[2301.11270v1](http://arxiv.org/pdf/2301.11270v1)|null|
 |**2023-01-25**|**Coexistence of $s$-wave superconductivity and phase separation in the half-filled extended Hubbard model with attractive interactions**|E. Linnér et.al.|[2301.10755v1](http://arxiv.org/abs/2301.10755v1)|[2301.10755v1](http://arxiv.org/pdf/2301.10755v1)|null|
 |**2023-01-25**|**Separate And Diffuse: Using a Pretrained Diffusion Model for Improving Source Separation**|Shahar Lutati et.al.|[2301.10752v1](http://arxiv.org/abs/2301.10752v1)|[2301.10752v1](http://arxiv.org/pdf/2301.10752v1)|null|
 |**2023-01-25**|**Real-time-controlled artificial quiet channel for acoustic cloaking under varying detection conditions**|Or Lasri et.al.|[2301.10711v1](http://arxiv.org/abs/2301.10711v1)|[2301.10711v1](http://arxiv.org/pdf/2301.10711v1)|null|
