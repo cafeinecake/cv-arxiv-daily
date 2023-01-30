@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-27**|**Linking the Interiors and Surfaces of Magnetic Stars**|Jim Fuller et.al.|[2301.11914v1](http://arxiv.org/abs/2301.11914v1)|[2301.11914v1](http://arxiv.org/pdf/2301.11914v1)|null|
+|**2023-01-27**|**Causal Analysis of Influence of the Solar Cycle and Latitudinal Solar-Wind Structure on Corotation Forecasts**|Nachiketa Chakraborty et.al.|[2301.11904v1](http://arxiv.org/abs/2301.11904v1)|[2301.11904v1](http://arxiv.org/pdf/2301.11904v1)|null|
+|**2023-01-27**|**Cosmology with 6 parameters in the Stage-IV era: efficient marginalisation over nuisance parameters**|Boryana Hadzhiyska et.al.|[2301.11895v1](http://arxiv.org/abs/2301.11895v1)|[2301.11895v1](http://arxiv.org/pdf/2301.11895v1)|null|
+|**2023-01-27**|**Magnetic reconnection plasmoid model for Sagittarius A* flares**|N. Aimar et.al.|[2301.11874v1](http://arxiv.org/abs/2301.11874v1)|[2301.11874v1](http://arxiv.org/pdf/2301.11874v1)|null|
+|**2023-01-27**|**The DEHVILS Survey Overview and Initial Data Release: High-Quality Near-Infrared Type Ia Supernova Light Curves at Low Redshift**|Erik R. Peterson et.al.|[2301.11868v1](http://arxiv.org/abs/2301.11868v1)|[2301.11868v1](http://arxiv.org/pdf/2301.11868v1)|null|
+|**2023-01-27**|**3D MHD models of the centrifugal magnetosphere from a massive star with an oblique dipole field**|Asif ud-Doula et.al.|[2301.11858v1](http://arxiv.org/abs/2301.11858v1)|[2301.11858v1](http://arxiv.org/pdf/2301.11858v1)|null|
+|**2023-01-27**|**GrGadget: an N-body TreePM relativistic code for cosmological simulations**|Eduardo Quintana-Miranda et.al.|[2301.11854v1](http://arxiv.org/abs/2301.11854v1)|[2301.11854v1](http://arxiv.org/pdf/2301.11854v1)|null|
+|**2023-01-27**|**Global 3D radiation-hydrodynamical models of AGB stars with dust-driven winds**|Bernd Freytag et.al.|[2301.11836v1](http://arxiv.org/abs/2301.11836v1)|[2301.11836v1](http://arxiv.org/pdf/2301.11836v1)|null|
+|**2023-01-27**|**Detection of Ultra High Energy Cosmic Rays and Neutrinos with Lunar Orbital Radio Telescope**|Linjie Chen et.al.|[2301.11830v1](http://arxiv.org/abs/2301.11830v1)|[2301.11830v1](http://arxiv.org/pdf/2301.11830v1)|null|
+|**2023-01-27**|**Neutrinos from dense: flavor mechanisms, theoretical approaches, observations, new directions**|Maria Cristina Volpe et.al.|[2301.11814v1](http://arxiv.org/abs/2301.11814v1)|[2301.11814v1](http://arxiv.org/pdf/2301.11814v1)|null|
 |**2023-01-26**|**Ab Initio Turbulent Comptonization in Magnetized Coronae of Accreting Black Holes**|Daniel Groselj et.al.|[2301.11327v1](http://arxiv.org/abs/2301.11327v1)|[2301.11327v1](http://arxiv.org/pdf/2301.11327v1)|null|
 |**2023-01-26**|**From exo-Earths to exo-Venuses -- Flux and Polarization Signatures of Reflected Light**|Gourav Mahapatra et.al.|[2301.11314v1](http://arxiv.org/abs/2301.11314v1)|[2301.11314v1](http://arxiv.org/pdf/2301.11314v1)|null|
 |**2023-01-26**|**Gravitoelectromagnetic quadrirefringence and the binaries rainbow**|Antonio Enea Romano et.al.|[2301.11304v1](http://arxiv.org/abs/2301.11304v1)|[2301.11304v1](http://arxiv.org/pdf/2301.11304v1)|null|
@@ -1503,6 +1513,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-27**|**Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees**|Johanna Vielhaben et.al.|[2301.11911v1](http://arxiv.org/abs/2301.11911v1)|[2301.11911v1](http://arxiv.org/pdf/2301.11911v1)|null|
+|**2023-01-27**|**DAG Learning on the Permutahedron**|Valentina Zantedeschi et.al.|[2301.11898v1](http://arxiv.org/abs/2301.11898v1)|[2301.11898v1](http://arxiv.org/pdf/2301.11898v1)|null|
+|**2023-01-27**|**Streaming LifeLong Learning With Any-Time Inference**|Soumya Banerjee et.al.|[2301.11892v1](http://arxiv.org/abs/2301.11892v1)|[2301.11892v1](http://arxiv.org/pdf/2301.11892v1)|null|
+|**2023-01-27**|**Polycraft World AI Lab (PAL): An Extensible Platform for Evaluating Artificial Intelligence Agents**|Stephen A. Goss et.al.|[2301.11891v1](http://arxiv.org/abs/2301.11891v1)|[2301.11891v1](http://arxiv.org/pdf/2301.11891v1)|null|
+|**2023-01-27**|**Case-Based Reasoning with Language Models for Classification of Logical Fallacies**|Zhivar Sourati et.al.|[2301.11879v1](http://arxiv.org/abs/2301.11879v1)|[2301.11879v1](http://arxiv.org/pdf/2301.11879v1)|null|
+|**2023-01-27**|**Policy-Value Alignment and Robustness in Search-based Multi-Agent Learning**|Niko A. Grupen et.al.|[2301.11857v1](http://arxiv.org/abs/2301.11857v1)|[2301.11857v1](http://arxiv.org/pdf/2301.11857v1)|null|
+|**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|[2301.11847v1](http://arxiv.org/pdf/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
+|**2023-01-27**|**Deep Clustering Survival Machines with Interpretable Expert Distributions**|Bojian Hou et.al.|[2301.11826v1](http://arxiv.org/abs/2301.11826v1)|[2301.11826v1](http://arxiv.org/pdf/2301.11826v1)|null|
+|**2023-01-27**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|[2301.11792v1](http://arxiv.org/pdf/2301.11792v1)|null|
+|**2023-01-27**|**Interpreting learning in biological neural networks as zero-order optimization method**|Johannes Schmidt-Hieber et.al.|[2301.11777v1](http://arxiv.org/abs/2301.11777v1)|[2301.11777v1](http://arxiv.org/pdf/2301.11777v1)|null|
 |**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|[2301.11329v1](http://arxiv.org/pdf/2301.11329v1)|null|
 |**2023-01-26**|**Joint Training of Deep Ensembles Fails Due to Learner Collusion**|Alan Jeffares et.al.|[2301.11323v1](http://arxiv.org/abs/2301.11323v1)|[2301.11323v1](http://arxiv.org/pdf/2301.11323v1)|null|
 |**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|[2301.11320v1](http://arxiv.org/pdf/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
