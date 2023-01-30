@@ -1,4 +1,4 @@
-## Updated on 2023.01.29
+## Updated on 2023.01.30
 
 ## Astrophysics
 
@@ -1502,7 +1502,7 @@
 |**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|[2301.11329v1](http://arxiv.org/pdf/2301.11329v1)|null|
 |**2023-01-26**|**Joint Training of Deep Ensembles Fails Due to Learner Collusion**|Alan Jeffares et.al.|[2301.11323v1](http://arxiv.org/abs/2301.11323v1)|[2301.11323v1](http://arxiv.org/pdf/2301.11323v1)|null|
 |**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|[2301.11320v1](http://arxiv.org/pdf/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
-|**2023-01-26**|**Open Problems in Applied Deep Learning**|Maziar Raissi et.al.|[2301.11316v1](http://arxiv.org/abs/2301.11316v1)|[2301.11316v1](http://arxiv.org/pdf/2301.11316v1)|null|
+|**2023-01-26**|**Open Problems in Applied Deep Learning**|Maziar Raissi et.al.|[2301.11316v1](http://arxiv.org/abs/2301.11316v1)|[2301.11316v1](http://arxiv.org/pdf/2301.11316v1)|**[link](https://github.com/maziarraissi/Applied-Deep-Learning)**|
 |**2023-01-26**|**Evaluate underdiagnosis and overdiagnosis bias of deep learning model on primary open-angle glaucoma diagnosis in under-served patient populations**|Mingquan Lin et.al.|[2301.11315v1](http://arxiv.org/abs/2301.11315v1)|[2301.11315v1](http://arxiv.org/pdf/2301.11315v1)|null|
 |**2023-01-26**|**Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series**|Abdul Fatir Ansari et.al.|[2301.11308v1](http://arxiv.org/abs/2301.11308v1)|[2301.11308v1](http://arxiv.org/pdf/2301.11308v1)|null|
 |**2023-01-26**|**DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature**|Eric Mitchell et.al.|[2301.11305v1](http://arxiv.org/abs/2301.11305v1)|[2301.11305v1](http://arxiv.org/pdf/2301.11305v1)|null|
