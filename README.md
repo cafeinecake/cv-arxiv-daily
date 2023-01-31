@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-30**|**Minkowski Functionals in $SO(3)$ for the spin-2 CMB polarisation field**|Javier Carrón Duque et.al.|[2301.13191v1](http://arxiv.org/abs/2301.13191v1)|[2301.13191v1](http://arxiv.org/pdf/2301.13191v1)|null|
+|**2023-01-30**|**Evolution of the Thermodynamic Properties of a Coronal Mass Ejection in the Inner Corona**|Jyoti Sheoran et.al.|[2301.13184v1](http://arxiv.org/abs/2301.13184v1)|[2301.13184v1](http://arxiv.org/pdf/2301.13184v1)|null|
+|**2023-01-30**|**Accurate modelling of the Lyman-$α$ coupling for the 21-cm signal, observability with NenuFAR and SKA**|Benoit Semelin et.al.|[2301.13178v1](http://arxiv.org/abs/2301.13178v1)|[2301.13178v1](http://arxiv.org/pdf/2301.13178v1)|null|
+|**2023-01-30**|**Lensing constraints on ultradense dark matter halos**|M. S. Delos et.al.|[2301.13171v1](http://arxiv.org/abs/2301.13171v1)|[2301.13171v1](http://arxiv.org/pdf/2301.13171v1)|null|
+|**2023-01-30**|**A Herschel study of the high-mass protostar IRAS20126+4104**|R. Cesaroni et.al.|[2301.13135v1](http://arxiv.org/abs/2301.13135v1)|[2301.13135v1](http://arxiv.org/pdf/2301.13135v1)|null|
+|**2023-01-30**|**Wavelet-enabled Star Classification: A Deep Learning Approach for Identifying Binary and Exoplanet Stars**|Aman Kumar et.al.|[2301.13115v1](http://arxiv.org/abs/2301.13115v1)|[2301.13115v1](http://arxiv.org/pdf/2301.13115v1)|null|
+|**2023-01-30**|**Dynamical galactic effects induced by stable vortex structure in bosonic dark matter**|K. Korshynska et.al.|[2301.13110v1](http://arxiv.org/abs/2301.13110v1)|[2301.13110v1](http://arxiv.org/pdf/2301.13110v1)|null|
+|**2023-01-30**|**Interaction of solar jets with filaments: Triggering of large-amplitude filament oscillations**|Reetika Joshi et.al.|[2301.13103v1](http://arxiv.org/abs/2301.13103v1)|[2301.13103v1](http://arxiv.org/pdf/2301.13103v1)|null|
+|**2023-01-30**|**Tidal resurfacing model for (99942) Apophis during the 2029 close approach with Earth**|Y. Kim et.al.|[2301.13063v1](http://arxiv.org/abs/2301.13063v1)|[2301.13063v1](http://arxiv.org/pdf/2301.13063v1)|null|
+|**2023-01-30**|**First Light And Reionisation Epoch Simulations (FLARES) XI: [OIII] emitting galaxies at $5<z<10$**|Stephen M. Wilkins et.al.|[2301.13038v1](http://arxiv.org/abs/2301.13038v1)|[2301.13038v1](http://arxiv.org/pdf/2301.13038v1)|null|
 |**2023-01-27**|**Linking the Interiors and Surfaces of Magnetic Stars**|Jim Fuller et.al.|[2301.11914v1](http://arxiv.org/abs/2301.11914v1)|[2301.11914v1](http://arxiv.org/pdf/2301.11914v1)|null|
 |**2023-01-27**|**Causal Analysis of Influence of the Solar Cycle and Latitudinal Solar-Wind Structure on Corotation Forecasts**|Nachiketa Chakraborty et.al.|[2301.11904v1](http://arxiv.org/abs/2301.11904v1)|[2301.11904v1](http://arxiv.org/pdf/2301.11904v1)|null|
 |**2023-01-27**|**Cosmology with 6 parameters in the Stage-IV era: efficient marginalisation over nuisance parameters**|Boryana Hadzhiyska et.al.|[2301.11895v1](http://arxiv.org/abs/2301.11895v1)|[2301.11895v1](http://arxiv.org/pdf/2301.11895v1)|null|
@@ -1509,6 +1519,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|[2301.13199v1](http://arxiv.org/pdf/2301.13199v1)|**[link](https://github.com/aws/random-cut-forest-by-aws)**|
+|**2023-01-30**|**Looped Transformers as Programmable Computers**|Angeliki Giannou et.al.|[2301.13196v1](http://arxiv.org/abs/2301.13196v1)|[2301.13196v1](http://arxiv.org/pdf/2301.13196v1)|null|
+|**2023-01-30**|**Adaptive Computation with Elastic Input Sequence**|Fuzhao Xue et.al.|[2301.13195v1](http://arxiv.org/abs/2301.13195v1)|[2301.13195v1](http://arxiv.org/pdf/2301.13195v1)|null|
+|**2023-01-30**|**Optimal Decision Tree Policies for Markov Decision Processes**|Daniël Vos et.al.|[2301.13185v1](http://arxiv.org/abs/2301.13185v1)|[2301.13185v1](http://arxiv.org/pdf/2301.13185v1)|null|
+|**2023-01-30**|**ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**|Kaiwen Zhou et.al.|[2301.13166v1](http://arxiv.org/abs/2301.13166v1)|[2301.13166v1](http://arxiv.org/pdf/2301.13166v1)|null|
+|**2023-01-30**|**Self-Compressing Neural Networks**|Szabolcs Cséfalvay et.al.|[2301.13142v1](http://arxiv.org/abs/2301.13142v1)|[2301.13142v1](http://arxiv.org/pdf/2301.13142v1)|null|
+|**2023-01-30**|**Towards the Linear Algebra Based Taxonomy of XAI Explanations**|Sven Nomm et.al.|[2301.13138v1](http://arxiv.org/abs/2301.13138v1)|[2301.13138v1](http://arxiv.org/pdf/2301.13138v1)|null|
+|**2023-01-30**|**Falsification of Internal and External Validity in Observational Studies via Conditional Moment Restrictions**|Zeshan Hussain et.al.|[2301.13133v1](http://arxiv.org/abs/2301.13133v1)|[2301.13133v1](http://arxiv.org/pdf/2301.13133v1)|null|
+|**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|[2301.13126v1](http://arxiv.org/pdf/2301.13126v1)|null|
+|**2023-01-30**|**Towards Adversarial Realism and Robust Learning for IoT Intrusion Detection and Classification**|João Vitorino et.al.|[2301.13122v1](http://arxiv.org/abs/2301.13122v1)|[2301.13122v1](http://arxiv.org/pdf/2301.13122v1)|null|
 |**2023-01-27**|**Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees**|Johanna Vielhaben et.al.|[2301.11911v1](http://arxiv.org/abs/2301.11911v1)|[2301.11911v1](http://arxiv.org/pdf/2301.11911v1)|null|
 |**2023-01-27**|**DAG Learning on the Permutahedron**|Valentina Zantedeschi et.al.|[2301.11898v1](http://arxiv.org/abs/2301.11898v1)|[2301.11898v1](http://arxiv.org/pdf/2301.11898v1)|null|
 |**2023-01-27**|**Streaming LifeLong Learning With Any-Time Inference**|Soumya Banerjee et.al.|[2301.11892v1](http://arxiv.org/abs/2301.11892v1)|[2301.11892v1](http://arxiv.org/pdf/2301.11892v1)|null|
