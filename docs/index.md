@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-31**|**The $\textit{False Widow}$ Link Between Neutron Star X-ray Binaries and Spider Pulsars**|Amy H. Knight et.al.|[2301.13864v1](http://arxiv.org/abs/2301.13864v1)|[2301.13864v1](http://arxiv.org/pdf/2301.13864v1)|null|
+|**2023-01-31**|**VLBI Scrutiny of a New Neutrino-Blazar Multiwavelength-Flare Coincidence**|F. Eppel et.al.|[2301.13859v1](http://arxiv.org/abs/2301.13859v1)|[2301.13859v1](http://arxiv.org/pdf/2301.13859v1)|null|
+|**2023-01-31**|**Reconstruction of $f(R)$ Gravity from Cosmological Unified Dark Fluid Model**|Esraa Ali Elkhateeb et.al.|[2301.13858v1](http://arxiv.org/abs/2301.13858v1)|[2301.13858v1](http://arxiv.org/pdf/2301.13858v1)|null|
+|**2023-01-31**|**Quantum Gravity Signatures in the Late-Universe**|Michael W. Toomey et.al.|[2301.13855v1](http://arxiv.org/abs/2301.13855v1)|[2301.13855v1](http://arxiv.org/pdf/2301.13855v1)|null|
+|**2023-01-31**|**Prospects for Future Binary Black Hole GW Studies in Light of PTA Measurements**|John Ellis et.al.|[2301.13854v1](http://arxiv.org/abs/2301.13854v1)|[2301.13854v1](http://arxiv.org/pdf/2301.13854v1)|null|
+|**2023-01-31**|**Assessing the spectral characteristics of band splitting type II radio bursts observed by CALLISTO spectrometers**|F. N. Minta et.al.|[2301.13839v1](http://arxiv.org/abs/2301.13839v1)|[2301.13839v1](http://arxiv.org/pdf/2301.13839v1)|null|
+|**2023-01-31**|**A New Definition of Exoplanet Habitability: Introducing the Photosynthetic Habitable Zone**|C. Hall et.al.|[2301.13836v1](http://arxiv.org/abs/2301.13836v1)|[2301.13836v1](http://arxiv.org/pdf/2301.13836v1)|null|
+|**2023-01-31**|**The NectarCAM Timing System**|F. Bradascio et.al.|[2301.13828v1](http://arxiv.org/abs/2301.13828v1)|[2301.13828v1](http://arxiv.org/pdf/2301.13828v1)|null|
+|**2023-01-31**|**Simulating neutron stars with a flexible enthalpy-based equation of state parametrization in SpECTRE**|Isaac Legred et.al.|[2301.13818v1](http://arxiv.org/abs/2301.13818v1)|[2301.13818v1](http://arxiv.org/pdf/2301.13818v1)|null|
+|**2023-01-31**|**A Study of Nine Triply Eclipsing Triples**|S. A. Rappaport et.al.|[2301.13810v1](http://arxiv.org/abs/2301.13810v1)|[2301.13810v1](http://arxiv.org/pdf/2301.13810v1)|null|
 |**2023-01-30**|**Minkowski Functionals in $SO(3)$ for the spin-2 CMB polarisation field**|Javier Carrón Duque et.al.|[2301.13191v1](http://arxiv.org/abs/2301.13191v1)|[2301.13191v1](http://arxiv.org/pdf/2301.13191v1)|**[link](https://github.com/javicarron/pynkowski)**|
 |**2023-01-30**|**Evolution of the Thermodynamic Properties of a Coronal Mass Ejection in the Inner Corona**|Jyoti Sheoran et.al.|[2301.13184v1](http://arxiv.org/abs/2301.13184v1)|[2301.13184v1](http://arxiv.org/pdf/2301.13184v1)|null|
 |**2023-01-30**|**Accurate modelling of the Lyman-$α$ coupling for the 21-cm signal, observability with NenuFAR and SKA**|Benoit Semelin et.al.|[2301.13178v1](http://arxiv.org/abs/2301.13178v1)|[2301.13178v1](http://arxiv.org/pdf/2301.13178v1)|null|
@@ -1523,6 +1533,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-01-31**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v1](http://arxiv.org/abs/2301.13869v1)|[2301.13869v1](http://arxiv.org/pdf/2301.13869v1)|null|
+|**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|[2301.13868v1](http://arxiv.org/pdf/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
+|**2023-01-31**|**Mathematical Capabilities of ChatGPT**|Simon Frieder et.al.|[2301.13867v1](http://arxiv.org/abs/2301.13867v1)|[2301.13867v1](http://arxiv.org/pdf/2301.13867v1)|null|
+|**2023-01-31**|**Learning in POMDPs is Sample-Efficient with Hindsight Observability**|Jonathan N. Lee et.al.|[2301.13857v1](http://arxiv.org/abs/2301.13857v1)|[2301.13857v1](http://arxiv.org/pdf/2301.13857v1)|null|
+|**2023-01-31**|**Benchmarking Large Language Models for News Summarization**|Tianyi Zhang et.al.|[2301.13848v1](http://arxiv.org/abs/2301.13848v1)|[2301.13848v1](http://arxiv.org/pdf/2301.13848v1)|null|
+|**2023-01-31**|**Grounding Language Models to Images for Multimodal Generation**|Jing Yu Koh et.al.|[2301.13823v1](http://arxiv.org/abs/2301.13823v1)|[2301.13823v1](http://arxiv.org/pdf/2301.13823v1)|null|
+|**2023-01-31**|**Execution-based Code Generation using Deep Reinforcement Learning**|Parshin Shojaee et.al.|[2301.13816v1](http://arxiv.org/abs/2301.13816v1)|[2301.13816v1](http://arxiv.org/pdf/2301.13816v1)|**[link](https://github.com/reddy-lab-code-research/PPOCoder)**|
+|**2023-01-31**|**Learning Roles with Emergent Social Value Orientations**|Wenhao Li et.al.|[2301.13812v1](http://arxiv.org/abs/2301.13812v1)|[2301.13812v1](http://arxiv.org/pdf/2301.13812v1)|null|
+|**2023-01-31**|**Ultrasound Based Prosthetic Arm Control**|Ayush Singh et.al.|[2301.13809v1](http://arxiv.org/abs/2301.13809v1)|[2301.13809v1](http://arxiv.org/pdf/2301.13809v1)|null|
+|**2023-01-31**|**Fairness-aware Vision Transformer via Debiased Self-Attention**|Yao Qiang et.al.|[2301.13803v1](http://arxiv.org/abs/2301.13803v1)|[2301.13803v1](http://arxiv.org/pdf/2301.13803v1)|null|
 |**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|[2301.13199v1](http://arxiv.org/pdf/2301.13199v1)|**[link](https://github.com/aws/random-cut-forest-by-aws)**|
 |**2023-01-30**|**Looped Transformers as Programmable Computers**|Angeliki Giannou et.al.|[2301.13196v1](http://arxiv.org/abs/2301.13196v1)|[2301.13196v1](http://arxiv.org/pdf/2301.13196v1)|null|
 |**2023-01-30**|**Adaptive Computation with Elastic Input Sequence**|Fuzhao Xue et.al.|[2301.13195v1](http://arxiv.org/abs/2301.13195v1)|[2301.13195v1](http://arxiv.org/pdf/2301.13195v1)|**[link](https://github.com/google-research/scenic)**|
