@@ -1,8 +1,8 @@
-> Updated on 2023.01.31
+> Updated on 2023.02.01
 
 ## Astrophysics
 
-- 2023-01-30, **Minkowski Functionals in $SO(3)$ for the spin-2 CMB polarisation field**, Javier Carrón Duque et.al., Paper: [http://arxiv.org/abs/2301.13191v1](http://arxiv.org/abs/2301.13191v1), Paper: [http://arxiv.org/abs/2301.13191v1](http://arxiv.org/pdf/2301.13191v1)
+- 2023-01-30, **Minkowski Functionals in $SO(3)$ for the spin-2 CMB polarisation field**, Javier Carrón Duque et.al., Paper: [http://arxiv.org/abs/2301.13191v1](http://arxiv.org/abs/2301.13191v1),Paper: [http://arxiv.org/abs/2301.13191v1](http://arxiv.org/pdf/2301.13191v1), Code: **[https://github.com/javicarron/pynkowski](https://github.com/javicarron/pynkowski)**
 - 2023-01-30, **Evolution of the Thermodynamic Properties of a Coronal Mass Ejection in the Inner Corona**, Jyoti Sheoran et.al., Paper: [http://arxiv.org/abs/2301.13184v1](http://arxiv.org/abs/2301.13184v1), Paper: [http://arxiv.org/abs/2301.13184v1](http://arxiv.org/pdf/2301.13184v1)
 - 2023-01-30, **Accurate modelling of the Lyman-$α$ coupling for the 21-cm signal, observability with NenuFAR and SKA**, Benoit Semelin et.al., Paper: [http://arxiv.org/abs/2301.13178v1](http://arxiv.org/abs/2301.13178v1), Paper: [http://arxiv.org/abs/2301.13178v1](http://arxiv.org/pdf/2301.13178v1)
 - 2023-01-30, **Lensing constraints on ultradense dark matter halos**, M. S. Delos et.al., Paper: [http://arxiv.org/abs/2301.13171v1](http://arxiv.org/abs/2301.13171v1), Paper: [http://arxiv.org/abs/2301.13171v1](http://arxiv.org/pdf/2301.13171v1)
@@ -1517,10 +1517,10 @@
 
 - 2023-01-30, **Streaming Anomaly Detection**, Siddharth Bhatia et.al., Paper: [http://arxiv.org/abs/2301.13199v1](http://arxiv.org/abs/2301.13199v1),Paper: [http://arxiv.org/abs/2301.13199v1](http://arxiv.org/pdf/2301.13199v1), Code: **[https://github.com/aws/random-cut-forest-by-aws](https://github.com/aws/random-cut-forest-by-aws)**
 - 2023-01-30, **Looped Transformers as Programmable Computers**, Angeliki Giannou et.al., Paper: [http://arxiv.org/abs/2301.13196v1](http://arxiv.org/abs/2301.13196v1), Paper: [http://arxiv.org/abs/2301.13196v1](http://arxiv.org/pdf/2301.13196v1)
-- 2023-01-30, **Adaptive Computation with Elastic Input Sequence**, Fuzhao Xue et.al., Paper: [http://arxiv.org/abs/2301.13195v1](http://arxiv.org/abs/2301.13195v1), Paper: [http://arxiv.org/abs/2301.13195v1](http://arxiv.org/pdf/2301.13195v1)
-- 2023-01-30, **Optimal Decision Tree Policies for Markov Decision Processes**, Daniël Vos et.al., Paper: [http://arxiv.org/abs/2301.13185v1](http://arxiv.org/abs/2301.13185v1), Paper: [http://arxiv.org/abs/2301.13185v1](http://arxiv.org/pdf/2301.13185v1)
+- 2023-01-30, **Adaptive Computation with Elastic Input Sequence**, Fuzhao Xue et.al., Paper: [http://arxiv.org/abs/2301.13195v1](http://arxiv.org/abs/2301.13195v1),Paper: [http://arxiv.org/abs/2301.13195v1](http://arxiv.org/pdf/2301.13195v1), Code: **[https://github.com/google-research/scenic](https://github.com/google-research/scenic)**
+- 2023-01-30, **Optimal Decision Tree Policies for Markov Decision Processes**, Daniël Vos et.al., Paper: [http://arxiv.org/abs/2301.13185v1](http://arxiv.org/abs/2301.13185v1),Paper: [http://arxiv.org/abs/2301.13185v1](http://arxiv.org/pdf/2301.13185v1), Code: **[https://github.com/tudelft-cda-lab/omdt](https://github.com/tudelft-cda-lab/omdt)**
 - 2023-01-30, **ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**, Kaiwen Zhou et.al., Paper: [http://arxiv.org/abs/2301.13166v1](http://arxiv.org/abs/2301.13166v1), Paper: [http://arxiv.org/abs/2301.13166v1](http://arxiv.org/pdf/2301.13166v1)
-- 2023-01-30, **Self-Compressing Neural Networks**, Szabolcs Cséfalvay et.al., Paper: [http://arxiv.org/abs/2301.13142v1](http://arxiv.org/abs/2301.13142v1), Paper: [http://arxiv.org/abs/2301.13142v1](http://arxiv.org/pdf/2301.13142v1)
+- 2023-01-31, **Self-Compressing Neural Networks**, Szabolcs Cséfalvay et.al., Paper: [http://arxiv.org/abs/2301.13142v2](http://arxiv.org/abs/2301.13142v2), Paper: [http://arxiv.org/abs/2301.13142v2](http://arxiv.org/pdf/2301.13142v2)
 - 2023-01-30, **Towards the Linear Algebra Based Taxonomy of XAI Explanations**, Sven Nomm et.al., Paper: [http://arxiv.org/abs/2301.13138v1](http://arxiv.org/abs/2301.13138v1), Paper: [http://arxiv.org/abs/2301.13138v1](http://arxiv.org/pdf/2301.13138v1)
 - 2023-01-30, **Falsification of Internal and External Validity in Observational Studies via Conditional Moment Restrictions**, Zeshan Hussain et.al., Paper: [http://arxiv.org/abs/2301.13133v1](http://arxiv.org/abs/2301.13133v1), Paper: [http://arxiv.org/abs/2301.13133v1](http://arxiv.org/pdf/2301.13133v1)
 - 2023-01-30, **LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**, Joel Niklaus et.al., Paper: [http://arxiv.org/abs/2301.13126v1](http://arxiv.org/abs/2301.13126v1), Paper: [http://arxiv.org/abs/2301.13126v1](http://arxiv.org/pdf/2301.13126v1)
