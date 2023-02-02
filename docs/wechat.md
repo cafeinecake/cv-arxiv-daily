@@ -1,9 +1,9 @@
-> Updated on 2023.02.01
+> Updated on 2023.02.02
 
 ## Astrophysics
 
 - 2023-01-31, **The $\textit{False Widow}$ Link Between Neutron Star X-ray Binaries and Spider Pulsars**, Amy H. Knight et.al., Paper: [http://arxiv.org/abs/2301.13864v1](http://arxiv.org/abs/2301.13864v1), Paper: [http://arxiv.org/abs/2301.13864v1](http://arxiv.org/pdf/2301.13864v1)
-- 2023-01-31, **VLBI Scrutiny of a New Neutrino-Blazar Multiwavelength-Flare Coincidence**, F. Eppel et.al., Paper: [http://arxiv.org/abs/2301.13859v1](http://arxiv.org/abs/2301.13859v1), Paper: [http://arxiv.org/abs/2301.13859v1](http://arxiv.org/pdf/2301.13859v1)
+- 2023-02-01, **VLBI Scrutiny of a New Neutrino-Blazar Multiwavelength-Flare Coincidence**, F. Eppel et.al., Paper: [http://arxiv.org/abs/2301.13859v2](http://arxiv.org/abs/2301.13859v2), Paper: [http://arxiv.org/abs/2301.13859v2](http://arxiv.org/pdf/2301.13859v2)
 - 2023-01-31, **Reconstruction of $f(R)$ Gravity from Cosmological Unified Dark Fluid Model**, Esraa Ali Elkhateeb et.al., Paper: [http://arxiv.org/abs/2301.13858v1](http://arxiv.org/abs/2301.13858v1), Paper: [http://arxiv.org/abs/2301.13858v1](http://arxiv.org/pdf/2301.13858v1)
 - 2023-01-31, **Quantum Gravity Signatures in the Late-Universe**, Michael W. Toomey et.al., Paper: [http://arxiv.org/abs/2301.13855v1](http://arxiv.org/abs/2301.13855v1), Paper: [http://arxiv.org/abs/2301.13855v1](http://arxiv.org/pdf/2301.13855v1)
 - 2023-01-31, **Prospects for Future Binary Black Hole GW Studies in Light of PTA Measurements**, John Ellis et.al., Paper: [http://arxiv.org/abs/2301.13854v1](http://arxiv.org/abs/2301.13854v1), Paper: [http://arxiv.org/abs/2301.13854v1](http://arxiv.org/pdf/2301.13854v1)
