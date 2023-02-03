@@ -1,4 +1,4 @@
-## Updated on 2023.02.02
+## Updated on 2023.02.03
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@
 |**2023-02-01**|**Relaxation of the turbulent magnetosheath**|Francesco Pecora et.al.|[2302.00634v1](http://arxiv.org/abs/2302.00634v1)|[2302.00634v1](http://arxiv.org/pdf/2302.00634v1)|null|
 |**2023-02-01**|**The mass fallback rate of the debris in relativistic stellar tidal disruption events**|Taj Jankovič et.al.|[2302.00607v1](http://arxiv.org/abs/2302.00607v1)|[2302.00607v1](http://arxiv.org/pdf/2302.00607v1)|null|
 |**2023-02-01**|**A Dynamical Systems Approach to the Theory of Circumbinary Orbits in the Circular Restricted Problem**|Andrew Langford et.al.|[2302.00580v1](http://arxiv.org/abs/2302.00580v1)|[2302.00580v1](http://arxiv.org/pdf/2302.00580v1)|null|
-|**2023-02-01**|**Quantifying errors in 3D CME parameters derived from synthetic data using white-light reconstruction techniques**|Christine Verbekea et.al.|[2302.00531v1](http://arxiv.org/abs/2302.00531v1)|[2302.00531v1](http://arxiv.org/pdf/2302.00531v1)|null|
+|**2023-02-02**|**Quantifying errors in 3D CME parameters derived from synthetic data using white-light reconstruction techniques**|Christine Verbeke et.al.|[2302.00531v2](http://arxiv.org/abs/2302.00531v2)|[2302.00531v2](http://arxiv.org/pdf/2302.00531v2)|null|
 |**2023-02-01**|**Comparing the host galaxy ages of X-ray selected AGN in COSMOS: Obscured AGN are associated with older galaxies**|I. Georgantopoulos et.al.|[2302.00530v1](http://arxiv.org/abs/2302.00530v1)|[2302.00530v1](http://arxiv.org/pdf/2302.00530v1)|null|
 |**2023-01-31**|**The $\textit{False Widow}$ Link Between Neutron Star X-ray Binaries and Spider Pulsars**|Amy H. Knight et.al.|[2301.13864v1](http://arxiv.org/abs/2301.13864v1)|[2301.13864v1](http://arxiv.org/pdf/2301.13864v1)|null|
 |**2023-02-01**|**VLBI Scrutiny of a New Neutrino-Blazar Multiwavelength-Flare Coincidence**|F. Eppel et.al.|[2301.13859v2](http://arxiv.org/abs/2301.13859v2)|[2301.13859v2](http://arxiv.org/pdf/2301.13859v2)|null|
