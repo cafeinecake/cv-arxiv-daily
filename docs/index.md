@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-02**|**DAHe white dwarfs from the DESI survey**|Christopher J. Manser et.al.|[2302.01335v1](http://arxiv.org/abs/2302.01335v1)|[2302.01335v1](http://arxiv.org/pdf/2302.01335v1)|null|
+|**2023-02-02**|**Evidence for suppression of structure growth in the concordance cosmological model**|Nhat-Minh Nguyen et.al.|[2302.01331v1](http://arxiv.org/abs/2302.01331v1)|[2302.01331v1](http://arxiv.org/pdf/2302.01331v1)|null|
+|**2023-02-02**|**The Non-Axisymmetric Influence: Radius and Angle-Dependent Trends in a Barred Galaxy**|Carrie Filion et.al.|[2302.01307v1](http://arxiv.org/abs/2302.01307v1)|[2302.01307v1](http://arxiv.org/pdf/2302.01307v1)|null|
+|**2023-02-02**|**Nova explosions -- The fascinating gamma-ray emitting recurrent nova RS Ophiuchi**|Vincent Tatischeff et.al.|[2302.01276v1](http://arxiv.org/abs/2302.01276v1)|[2302.01276v1](http://arxiv.org/pdf/2302.01276v1)|null|
+|**2023-02-02**|**Quantal effects on thermonuclear reactions**|Iain Lee et.al.|[2302.01272v1](http://arxiv.org/abs/2302.01272v1)|[2302.01272v1](http://arxiv.org/pdf/2302.01272v1)|null|
+|**2023-02-02**|**Proto-Neutron Star Convection and the Neutrino-Driven Wind: Implications for the r-Process**|Brian Nevins et.al.|[2302.01249v1](http://arxiv.org/abs/2302.01249v1)|[2302.01249v1](http://arxiv.org/pdf/2302.01249v1)|null|
+|**2023-02-02**|**Whistler waves generated inside magnetic dips in the young solar wind: observations of the Search-Coil Magnetometer on board Parker Solar Probe**|C. Froment et.al.|[2302.01245v1](http://arxiv.org/abs/2302.01245v1)|[2302.01245v1](http://arxiv.org/pdf/2302.01245v1)|null|
+|**2023-02-02**|**The Solar System Notification Alert Processing System (SNAPS): Design, Architecture, and First Data Release (SNAPShot1)**|David E. Trilling et.al.|[2302.01239v1](http://arxiv.org/abs/2302.01239v1)|[2302.01239v1](http://arxiv.org/pdf/2302.01239v1)|null|
+|**2023-02-02**|**The Design Strain Sensitivity of the Schenberg Spherical Resonant Antenna for Gravitational Waves**|V. Liccardo et.al.|[2302.01232v1](http://arxiv.org/abs/2302.01232v1)|[2302.01232v1](http://arxiv.org/pdf/2302.01232v1)|null|
+|**2023-02-02**|**A dynamical survey of the trans-Neptunian region I.: Mean-motion resonances with Neptune**|E. Forgács-Dajka et.al.|[2302.01221v1](http://arxiv.org/abs/2302.01221v1)|[2302.01221v1](http://arxiv.org/pdf/2302.01221v1)|null|
 |**2023-02-01**|**Generalising Axion-like particle as the curvaton: sourcing primordial density perturbation and non-Gaussianities**|Anish Ghoshal et.al.|[2302.00668v1](http://arxiv.org/abs/2302.00668v1)|[2302.00668v1](http://arxiv.org/pdf/2302.00668v1)|null|
 |**2023-02-01**|**Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning**|Adhrit Ravichandran et.al.|[2302.00666v1](http://arxiv.org/abs/2302.00666v1)|[2302.00666v1](http://arxiv.org/pdf/2302.00666v1)|null|
 |**2023-02-01**|**Cosmological Flow of Primordial Correlators**|Denis Werth et.al.|[2302.00655v1](http://arxiv.org/abs/2302.00655v1)|[2302.00655v1](http://arxiv.org/pdf/2302.00655v1)|null|
@@ -1543,6 +1553,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-02**|**$IC^3$: Image Captioning by Committee Consensus**|David M. Chan et.al.|[2302.01328v1](http://arxiv.org/abs/2302.01328v1)|[2302.01328v1](http://arxiv.org/pdf/2302.01328v1)|**[link](https://github.com/davidmchan/caption-by-committee)**|
+|**2023-02-02**|**Randomized Greedy Learning for Non-monotone Stochastic Submodular Maximization Under Full-bandit Feedback**|Fares Fourati et.al.|[2302.01324v1](http://arxiv.org/abs/2302.01324v1)|[2302.01324v1](http://arxiv.org/pdf/2302.01324v1)|null|
+|**2023-02-02**|**Are Diffusion Models Vulnerable to Membership Inference Attacks?**|Jinhao Duan et.al.|[2302.01316v1](http://arxiv.org/abs/2302.01316v1)|[2302.01316v1](http://arxiv.org/pdf/2302.01316v1)|null|
+|**2023-02-02**|**Double Permutation Equivariance for Knowledge Graph Completion**|Jianfei Gao et.al.|[2302.01313v1](http://arxiv.org/abs/2302.01313v1)|[2302.01313v1](http://arxiv.org/pdf/2302.01313v1)|null|
+|**2023-02-02**|**MARLIN: Soft Actor-Critic based Reinforcement Learning for Congestion Control in Real Networks**|Raffaele Galliera et.al.|[2302.01301v1](http://arxiv.org/abs/2302.01301v1)|[2302.01301v1](http://arxiv.org/pdf/2302.01301v1)|null|
+|**2023-02-02**|**Ditto in the House: Building Articulation Models of Indoor Scenes through Interactive Perception**|Cheng-Chun Hsu et.al.|[2302.01295v1](http://arxiv.org/abs/2302.01295v1)|[2302.01295v1](http://arxiv.org/pdf/2302.01295v1)|null|
+|**2023-02-02**|**Multi-scale Feature Alignment for Continual Learning of Unlabeled Domains**|Kevin Thandiackal et.al.|[2302.01287v1](http://arxiv.org/abs/2302.01287v1)|[2302.01287v1](http://arxiv.org/pdf/2302.01287v1)|null|
+|**2023-02-02**|**Explaining wall-bounded turbulence through deep learning**|Andres Cremades et.al.|[2302.01250v1](http://arxiv.org/abs/2302.01250v1)|[2302.01250v1](http://arxiv.org/pdf/2302.01250v1)|null|
+|**2023-02-02**|**Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal**|Emanuele Marconato et.al.|[2302.01242v1](http://arxiv.org/abs/2302.01242v1)|[2302.01242v1](http://arxiv.org/pdf/2302.01242v1)|null|
+|**2023-02-02**|**Diagrammatization: Rationalizing with diagrammatic AI explanations for abductive reasoning on hypotheses**|Brian Y. Lim et.al.|[2302.01241v1](http://arxiv.org/abs/2302.01241v1)|[2302.01241v1](http://arxiv.org/pdf/2302.01241v1)|null|
 |**2023-02-01**|**Efficient Multi-Task Reinforcement Learning via Selective Behavior Sharing**|Grace Zhang et.al.|[2302.00671v1](http://arxiv.org/abs/2302.00671v1)|[2302.00671v1](http://arxiv.org/pdf/2302.00671v1)|null|
 |**2023-02-01**|**Does Vision Accelerate Hierarchical Generalization of Neural Language Learners?**|Tatsuki Kuribayashi et.al.|[2302.00667v1](http://arxiv.org/abs/2302.00667v1)|[2302.00667v1](http://arxiv.org/pdf/2302.00667v1)|null|
 |**2023-02-01**|**Graph Neural Operators for Classification of Spatial Transcriptomics Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|[2302.00658v1](http://arxiv.org/pdf/2302.00658v1)|null|
