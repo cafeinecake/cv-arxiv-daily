@@ -1,8 +1,8 @@
-> Updated on 2023.02.08
+> Updated on 2023.02.09
 
 ## Astrophysics
 
-- 2023-02-07, **Photometric binaries, mass functions, and structural parameters of 78 Galactic open clusters**, Giacomo Cordoni et.al., Paper: [http://arxiv.org/abs/2302.03685v1](http://arxiv.org/abs/2302.03685v1), Paper: [http://arxiv.org/abs/2302.03685v1](http://arxiv.org/pdf/2302.03685v1)
+- 2023-02-08, **Photometric binaries, mass functions, and structural parameters of 78 Galactic open clusters**, Giacomo Cordoni et.al., Paper: [http://arxiv.org/abs/2302.03685v2](http://arxiv.org/abs/2302.03685v2), Paper: [http://arxiv.org/abs/2302.03685v2](http://arxiv.org/pdf/2302.03685v2)
 - 2023-02-07, **Spectral variations among different scenarios of PAH processing or formation**, A. Maragkoudakis et.al., Paper: [http://arxiv.org/abs/2302.03678v1](http://arxiv.org/abs/2302.03678v1), Paper: [http://arxiv.org/abs/2302.03678v1](http://arxiv.org/pdf/2302.03678v1)
 - 2023-02-07, **Open data from the third observing run of LIGO, Virgo, KAGRA and GEO**, The LIGO Scientific Collaboration et.al., Paper: [http://arxiv.org/abs/2302.03676v1](http://arxiv.org/abs/2302.03676v1), Paper: [http://arxiv.org/abs/2302.03676v1](http://arxiv.org/pdf/2302.03676v1)
 - 2023-02-07, **GRB 221009A: Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst**, Maia A. Williams et.al., Paper: [http://arxiv.org/abs/2302.03642v1](http://arxiv.org/abs/2302.03642v1), Paper: [http://arxiv.org/abs/2302.03642v1](http://arxiv.org/pdf/2302.03642v1)
@@ -1577,7 +1577,7 @@
 
 - 2023-02-07, **Long Horizon Temperature Scaling**, Andy Shih et.al., Paper: [http://arxiv.org/abs/2302.03686v1](http://arxiv.org/abs/2302.03686v1),Paper: [http://arxiv.org/abs/2302.03686v1](http://arxiv.org/pdf/2302.03686v1), Code: **[https://github.com/andyshih12/longhorizontemperaturescaling](https://github.com/andyshih12/longhorizontemperaturescaling)**
 - 2023-02-07, **Temporal Robustness against Data Poisoning**, Wenxiao Wang et.al., Paper: [http://arxiv.org/abs/2302.03684v1](http://arxiv.org/abs/2302.03684v1), Paper: [http://arxiv.org/abs/2302.03684v1](http://arxiv.org/pdf/2302.03684v1)
-- 2023-02-07, **Auditing Gender Presentation Differences in Text-to-Image Models**, Yanzhe Zhang et.al., Paper: [http://arxiv.org/abs/2302.03675v1](http://arxiv.org/abs/2302.03675v1), Paper: [http://arxiv.org/abs/2302.03675v1](http://arxiv.org/pdf/2302.03675v1)
+- 2023-02-08, **Auditing Gender Presentation Differences in Text-to-Image Models**, Yanzhe Zhang et.al., Paper: [http://arxiv.org/abs/2302.03675v2](http://arxiv.org/abs/2302.03675v2), Paper: [http://arxiv.org/abs/2302.03675v2](http://arxiv.org/pdf/2302.03675v2)
 - 2023-02-07, **Breaking the Curse of Multiagents in a Large State Space: RL in Markov Games with Independent Linear Function Approximation**, Qiwen Cui et.al., Paper: [http://arxiv.org/abs/2302.03673v1](http://arxiv.org/abs/2302.03673v1), Paper: [http://arxiv.org/abs/2302.03673v1](http://arxiv.org/pdf/2302.03673v1)
 - 2023-02-07, **HumanMAC: Masked Motion Completion for Human Motion Prediction**, Ling-Hao Chen et.al., Paper: [http://arxiv.org/abs/2302.03665v1](http://arxiv.org/abs/2302.03665v1),Paper: [http://arxiv.org/abs/2302.03665v1](http://arxiv.org/pdf/2302.03665v1), Code: **[https://github.com/linghaochan/humanmac](https://github.com/linghaochan/humanmac)**
 - 2023-02-07, **Riemannian Flow Matching on General Geometries**, Ricky T. Q. Chen et.al., Paper: [http://arxiv.org/abs/2302.03660v1](http://arxiv.org/abs/2302.03660v1), Paper: [http://arxiv.org/abs/2302.03660v1](http://arxiv.org/pdf/2302.03660v1)
