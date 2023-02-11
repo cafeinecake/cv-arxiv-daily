@@ -1595,7 +1595,7 @@
 
 ## AI
 
-- 2023-02-09, **Reversible Vision Transformers**, Karttikeya Mangalam et.al., Paper: [http://arxiv.org/abs/2302.04869v1](http://arxiv.org/abs/2302.04869v1),Paper: [http://arxiv.org/abs/2302.04869v1](http://arxiv.org/pdf/2302.04869v1), Code: **[https://github.com/facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast)**
+- 2023-02-09, **Reversible Vision Transformers**, Karttikeya Mangalam et.al., Paper: [http://arxiv.org/abs/2302.04869v1](http://arxiv.org/abs/2302.04869v1),Paper: [http://arxiv.org/abs/2302.04869v1](http://arxiv.org/pdf/2302.04869v1), Code: **[https://github.com/facebookresearch/mvit](https://github.com/facebookresearch/mvit)**
 - 2023-02-09, **Learning by Asking for Embodied Visual Navigation and Task Completion**, Ying Shen et.al., Paper: [http://arxiv.org/abs/2302.04865v1](http://arxiv.org/abs/2302.04865v1),Paper: [http://arxiv.org/abs/2302.04865v1](http://arxiv.org/pdf/2302.04865v1), Code: **[https://github.com/plan-lab/elba](https://github.com/plan-lab/elba)**
 - 2023-02-09, **Knowledge is a Region in Weight Space for Fine-tuned Language Models**, Almog Gueta et.al., Paper: [http://arxiv.org/abs/2302.04863v1](http://arxiv.org/abs/2302.04863v1), Paper: [http://arxiv.org/abs/2302.04863v1](http://arxiv.org/pdf/2302.04863v1)
 - 2023-02-09, **Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning**, Zhuolin Yang et.al., Paper: [http://arxiv.org/abs/2302.04858v1](http://arxiv.org/abs/2302.04858v1), Paper: [http://arxiv.org/abs/2302.04858v1](http://arxiv.org/pdf/2302.04858v1)
