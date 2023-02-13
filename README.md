@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-10**|**ReMASTERed: Accurate Estimation of Angular Power Spectra for Maps with Correlated Masks**|Kristen M. Surrao et.al.|[2302.05436v1](http://arxiv.org/abs/2302.05436v1)|[2302.05436v1](http://arxiv.org/pdf/2302.05436v1)|null|
+|**2023-02-10**|**On the Spectral Evolution of Hot White Dwarf Stars. IV. The Diffusion and Mixing of Residual Hydrogen in Helium-rich White Dwarfs**|A. Bédard et.al.|[2302.05424v1](http://arxiv.org/abs/2302.05424v1)|[2302.05424v1](http://arxiv.org/pdf/2302.05424v1)|null|
+|**2023-02-10**|**Astrometric Accelerations as Dynamical Beacons: A Giant Planet Imaged Inside the Debris Disk of the Young Star AF Lep**|Kyle Franson et.al.|[2302.05420v1](http://arxiv.org/abs/2302.05420v1)|[2302.05420v1](http://arxiv.org/pdf/2302.05420v1)|null|
+|**2023-02-10**|**Enabling Transformational ngEHT Science via the Inclusion of 86 GHz Capabilities**|Sara Issaoun et.al.|[2302.05415v1](http://arxiv.org/abs/2302.05415v1)|[2302.05415v1](http://arxiv.org/pdf/2302.05415v1)|null|
+|**2023-02-10**|**The mirage of luminal modified gravitational-wave propagation**|Antonio Enea Romano et.al.|[2302.05413v1](http://arxiv.org/abs/2302.05413v1)|[2302.05413v1](http://arxiv.org/pdf/2302.05413v1)|null|
+|**2023-02-10**|**Lyman-$α$ polarization from cosmological ionization fronts: II. Implications for intensity mapping**|Emily Koivu et.al.|[2302.05370v1](http://arxiv.org/abs/2302.05370v1)|[2302.05370v1](http://arxiv.org/pdf/2302.05370v1)|null|
+|**2023-02-10**|**Lyman-α polarization from cosmological ionization fronts: I. Radiative transfer simulations**|Yuanyuan Yang et.al.|[2302.05369v1](http://arxiv.org/abs/2302.05369v1)|[2302.05369v1](http://arxiv.org/pdf/2302.05369v1)|null|
+|**2023-02-10**|**Star forming brightest cluster galaxies at $z\sim0.4$ in KiDS. Further studies of cold gas and stellar properties**|G. Castignani et.al.|[2302.05360v1](http://arxiv.org/abs/2302.05360v1)|[2302.05360v1](http://arxiv.org/pdf/2302.05360v1)|null|
+|**2023-02-10**|**MAXI J1535-571 2017 outburst Seen by INTEGRAL/SPI and Investigating the Origin of Its Hard Tail**|James Rodi et.al.|[2302.05346v1](http://arxiv.org/abs/2302.05346v1)|[2302.05346v1](http://arxiv.org/pdf/2302.05346v1)|null|
+|**2023-02-10**|**Further evidence that galaxy age drives observed type Ia supernova luminosity differences**|P. Wiseman et.al.|[2302.05341v1](http://arxiv.org/abs/2302.05341v1)|[2302.05341v1](http://arxiv.org/pdf/2302.05341v1)|null|
 |**2023-02-09**|**Boundary conditions in hydrodynamic simulations of isolated galaxies and their impact on the gas-loss processes**|Anderson Caproni et.al.|[2302.04825v1](http://arxiv.org/abs/2302.04825v1)|[2302.04825v1](http://arxiv.org/pdf/2302.04825v1)|null|
 |**2023-02-09**|**Simulations of the progenitors of black hole-neutron star gravitational wave sources**|Long Jiang et.al.|[2302.04812v1](http://arxiv.org/abs/2302.04812v1)|[2302.04812v1](http://arxiv.org/pdf/2302.04812v1)|null|
 |**2023-02-09**|**Coincident Massless, Minimally Coupled Scalar Correlators on General Cosmological Backgrounds**|E. Kasdagli et.al.|[2302.04808v1](http://arxiv.org/abs/2302.04808v1)|[2302.04808v1](http://arxiv.org/pdf/2302.04808v1)|null|
@@ -1599,6 +1609,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-10**|**Scaling Vision Transformers to 22 Billion Parameters**|Mostafa Dehghani et.al.|[2302.05442v1](http://arxiv.org/abs/2302.05442v1)|[2302.05442v1](http://arxiv.org/pdf/2302.05442v1)|null|
+|**2023-02-10**|**Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features**|Annie S. Chen et.al.|[2302.05441v1](http://arxiv.org/abs/2302.05441v1)|[2302.05441v1](http://arxiv.org/pdf/2302.05441v1)|null|
+|**2023-02-10**|**GTR-CTRL: Instrument and Genre Conditioning for Guitar-Focused Music Generation with Transformers**|Pedro Sarmento et.al.|[2302.05393v1](http://arxiv.org/abs/2302.05393v1)|[2302.05393v1](http://arxiv.org/pdf/2302.05393v1)|null|
+|**2023-02-10**|**On the Interventional Kullback-Leibler Divergence**|Jonas Wildberger et.al.|[2302.05380v1](http://arxiv.org/abs/2302.05380v1)|[2302.05380v1](http://arxiv.org/pdf/2302.05380v1)|null|
+|**2023-02-10**|**LCDnet: A Lightweight Crowd Density Estimation Model for Real-time Video Surveillance**|Muhammad Asif Khan et.al.|[2302.05374v1](http://arxiv.org/abs/2302.05374v1)|[2302.05374v1](http://arxiv.org/pdf/2302.05374v1)|null|
+|**2023-02-10**|**The Role of Codeword-to-Class Assignments in Error-Correcting Codes: An Empirical Study**|Itay Evron et.al.|[2302.05334v1](http://arxiv.org/abs/2302.05334v1)|[2302.05334v1](http://arxiv.org/pdf/2302.05334v1)|null|
+|**2023-02-10**|**Towards Text-based Human Search and Approach with an Intelligent Robot Dog**|Jeongeun Park et.al.|[2302.05324v1](http://arxiv.org/abs/2302.05324v1)|[2302.05324v1](http://arxiv.org/pdf/2302.05324v1)|null|
+|**2023-02-10**|**On Achieving Privacy-Preserving State-of-the-Art Edge Intelligence**|Daphnee Chabal. Dolly Sapra et.al.|[2302.05323v1](http://arxiv.org/abs/2302.05323v1)|[2302.05323v1](http://arxiv.org/pdf/2302.05323v1)|null|
+|**2023-02-10**|**Toward Human-Centered Responsible Artificial Intelligence: A Review of CHI Research and Industry Toolkits**|Mohammad Tahaei et.al.|[2302.05284v1](http://arxiv.org/abs/2302.05284v1)|[2302.05284v1](http://arxiv.org/pdf/2302.05284v1)|null|
+|**2023-02-10**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|[2302.05282v1](http://arxiv.org/pdf/2302.05282v1)|null|
 |**2023-02-09**|**Reversible Vision Transformers**|Karttikeya Mangalam et.al.|[2302.04869v1](http://arxiv.org/abs/2302.04869v1)|[2302.04869v1](http://arxiv.org/pdf/2302.04869v1)|**[link](https://github.com/facebookresearch/mvit)**|
 |**2023-02-09**|**Learning by Asking for Embodied Visual Navigation and Task Completion**|Ying Shen et.al.|[2302.04865v1](http://arxiv.org/abs/2302.04865v1)|[2302.04865v1](http://arxiv.org/pdf/2302.04865v1)|**[link](https://github.com/plan-lab/elba)**|
 |**2023-02-09**|**Knowledge is a Region in Weight Space for Fine-tuned Language Models**|Almog Gueta et.al.|[2302.04863v1](http://arxiv.org/abs/2302.04863v1)|[2302.04863v1](http://arxiv.org/pdf/2302.04863v1)|null|
