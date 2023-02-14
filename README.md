@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-13**|**Saturation of spiral instabilities in disk galaxies**|Chris Hamilton et.al.|[2302.06602v1](http://arxiv.org/abs/2302.06602v1)|[2302.06602v1](http://arxiv.org/pdf/2302.06602v1)|null|
+|**2023-02-13**|**A Statistical Analysis of Galactic Radio Supernova Remnants**|S. Ranasinghe et.al.|[2302.06593v1](http://arxiv.org/abs/2302.06593v1)|[2302.06593v1](http://arxiv.org/pdf/2302.06593v1)|null|
+|**2023-02-13**|**Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies**|Dayi Li et.al.|[2302.06567v1](http://arxiv.org/abs/2302.06567v1)|[2302.06567v1](http://arxiv.org/pdf/2302.06567v1)|null|
+|**2023-02-13**|**The Burst Observer and Optical Transient Exploring System in the multi-messenger astronomy era**|Y. -D. Hu et.al.|[2302.06565v1](http://arxiv.org/abs/2302.06565v1)|[2302.06565v1](http://arxiv.org/pdf/2302.06565v1)|null|
+|**2023-02-13**|**INSPIRE: INvestigating Stellar Population In RElics IV. The Initial Mass Function slope in relics**|I. Martin-Navarro et.al.|[2302.06533v1](http://arxiv.org/abs/2302.06533v1)|[2302.06533v1](http://arxiv.org/pdf/2302.06533v1)|null|
+|**2023-02-13**|**Reanalysis of the spin direction distribution of Galaxy Zoo SDSS spiral galaxies**|Darius McAdam et.al.|[2302.06530v1](http://arxiv.org/abs/2302.06530v1)|[2302.06530v1](http://arxiv.org/pdf/2302.06530v1)|null|
+|**2023-02-13**|**On cosmological Inflation In Palatini $F(R,φ)$ Gravity**|Mahmoud AlHallak et.al.|[2302.06524v1](http://arxiv.org/abs/2302.06524v1)|[2302.06524v1](http://arxiv.org/pdf/2302.06524v1)|null|
+|**2023-02-13**|**Density jump as a function of magnetic field strength for parallel collisionless shocks with anisotropic upstream pressure**|Antoine Bret et.al.|[2302.06521v1](http://arxiv.org/abs/2302.06521v1)|[2302.06521v1](http://arxiv.org/pdf/2302.06521v1)|null|
+|**2023-02-13**|**Scattered polarized radiation of extrasolar circumplanetary rings**|M. Lietzow et.al.|[2302.06508v1](http://arxiv.org/abs/2302.06508v1)|[2302.06508v1](http://arxiv.org/pdf/2302.06508v1)|null|
+|**2023-02-13**|**Imaging the inner astronomical unit of Herbig Be star HD 190073**|Nour Ibrahim et.al.|[2302.06500v1](http://arxiv.org/abs/2302.06500v1)|[2302.06500v1](http://arxiv.org/pdf/2302.06500v1)|null|
 |**2023-02-10**|**ReMASTERed: Accurate Estimation of Angular Power Spectra for Maps with Correlated Masks**|Kristen M. Surrao et.al.|[2302.05436v1](http://arxiv.org/abs/2302.05436v1)|[2302.05436v1](http://arxiv.org/pdf/2302.05436v1)|null|
 |**2023-02-10**|**On the Spectral Evolution of Hot White Dwarf Stars. IV. The Diffusion and Mixing of Residual Hydrogen in Helium-rich White Dwarfs**|A. Bédard et.al.|[2302.05424v1](http://arxiv.org/abs/2302.05424v1)|[2302.05424v1](http://arxiv.org/pdf/2302.05424v1)|null|
 |**2023-02-10**|**Astrometric Accelerations as Dynamical Beacons: A Giant Planet Imaged Inside the Debris Disk of the Young Star AF Lep**|Kyle Franson et.al.|[2302.05420v1](http://arxiv.org/abs/2302.05420v1)|[2302.05420v1](http://arxiv.org/pdf/2302.05420v1)|null|
@@ -1609,6 +1619,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-13**|**Breaking the Curse of Multiagency: Provably Efficient Decentralized Multi-Agent RL with Function Approximation**|Yuanhao Wang et.al.|[2302.06606v1](http://arxiv.org/abs/2302.06606v1)|[2302.06606v1](http://arxiv.org/pdf/2302.06606v1)|null|
+|**2023-02-13**|**ALAN: Autonomously Exploring Robotic Agents in the Real World**|Russell Mendonca et.al.|[2302.06604v1](http://arxiv.org/abs/2302.06604v1)|[2302.06604v1](http://arxiv.org/pdf/2302.06604v1)|null|
+|**2023-02-13**|**FilFL: Accelerating Federated Learning via Client Filtering**|Fares Fourati et.al.|[2302.06599v1](http://arxiv.org/abs/2302.06599v1)|[2302.06599v1](http://arxiv.org/pdf/2302.06599v1)|null|
+|**2023-02-13**|**Geometric Clifford Algebra Networks**|David Ruhe et.al.|[2302.06594v1](http://arxiv.org/abs/2302.06594v1)|[2302.06594v1](http://arxiv.org/pdf/2302.06594v1)|null|
+|**2023-02-13**|**Stitchable Neural Networks**|Zizheng Pan et.al.|[2302.06586v1](http://arxiv.org/abs/2302.06586v1)|[2302.06586v1](http://arxiv.org/pdf/2302.06586v1)|null|
+|**2023-02-13**|**Comp2Comp: Open-Source Body Composition Assessment on Computed Tomography**|Louis Blankemeier et.al.|[2302.06568v1](http://arxiv.org/abs/2302.06568v1)|[2302.06568v1](http://arxiv.org/pdf/2302.06568v1)|**[link](https://github.com/stanfordmimi/comp2comp)**|
+|**2023-02-13**|**Between Generating Noise and Generating Images: Noise in the Correct Frequency Improves the Quality of Synthetic Histopathology Images for Digital Pathology**|Nati Daniel et.al.|[2302.06549v1](http://arxiv.org/abs/2302.06549v1)|[2302.06549v1](http://arxiv.org/pdf/2302.06549v1)|null|
+|**2023-02-13**|**Automatic Noise Filtering with Dynamic Sparse Training in Deep Reinforcement Learning**|Bram Grooten et.al.|[2302.06548v1](http://arxiv.org/abs/2302.06548v1)|[2302.06548v1](http://arxiv.org/pdf/2302.06548v1)|**[link](https://github.com/bramgrooten/automatic-noise-filtering)**|
+|**2023-02-13**|**Probabilistic Circuits That Know What They Don't Know**|Fabrizio Ventola et.al.|[2302.06544v1](http://arxiv.org/abs/2302.06544v1)|[2302.06544v1](http://arxiv.org/pdf/2302.06544v1)|**[link](https://github.com/ml-research/tractable-dropout-inference)**|
+|**2023-02-13**|**Imitation from Observation With Bootstrapped Contrastive Learning**|Medric Sonwa et.al.|[2302.06540v1](http://arxiv.org/abs/2302.06540v1)|[2302.06540v1](http://arxiv.org/pdf/2302.06540v1)|null|
 |**2023-02-10**|**Scaling Vision Transformers to 22 Billion Parameters**|Mostafa Dehghani et.al.|[2302.05442v1](http://arxiv.org/abs/2302.05442v1)|[2302.05442v1](http://arxiv.org/pdf/2302.05442v1)|null|
 |**2023-02-10**|**Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features**|Annie S. Chen et.al.|[2302.05441v1](http://arxiv.org/abs/2302.05441v1)|[2302.05441v1](http://arxiv.org/pdf/2302.05441v1)|null|
 |**2023-02-10**|**GTR-CTRL: Instrument and Genre Conditioning for Guitar-Focused Music Generation with Transformers**|Pedro Sarmento et.al.|[2302.05393v1](http://arxiv.org/abs/2302.05393v1)|[2302.05393v1](http://arxiv.org/pdf/2302.05393v1)|null|
