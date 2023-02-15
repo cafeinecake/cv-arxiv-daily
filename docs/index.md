@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-14**|**Identifying and characterising the population of hot sub-luminous stars with multi-colour MeerLICHT data**|P. Ranaivomanana et.al.|[2302.07266v1](http://arxiv.org/abs/2302.07266v1)|[2302.07266v1](http://arxiv.org/pdf/2302.07266v1)|null|
+|**2023-02-14**|**Accelerations of stars in central 2-7 arcsec from Sgr A***|A. Young et.al.|[2302.07258v1](http://arxiv.org/abs/2302.07258v1)|[2302.07258v1](http://arxiv.org/pdf/2302.07258v1)|null|
+|**2023-02-14**|**JADES NIRSpec Spectroscopy of GN-z11: Lyman-$α$ emission and possible enhanced nitrogen abundance in a $z=10.60$ luminous galaxy**|Andrew J. Bunker et.al.|[2302.07256v1](http://arxiv.org/abs/2302.07256v1)|[2302.07256v1](http://arxiv.org/pdf/2302.07256v1)|null|
+|**2023-02-14**|**Chemo-Dynamical Evolution of Galaxies**|Chiaki Kobayashi et.al.|[2302.07255v1](http://arxiv.org/abs/2302.07255v1)|[2302.07255v1](http://arxiv.org/pdf/2302.07255v1)|null|
+|**2023-02-14**|**JADES Imaging of GN-z11: Revealing the Morphology and Environment of a Luminous Galaxy 430 Myr After the Big Bang**|Sandro Tacchella et.al.|[2302.07234v1](http://arxiv.org/abs/2302.07234v1)|[2302.07234v1](http://arxiv.org/pdf/2302.07234v1)|null|
+|**2023-02-14**|**Spectroscopic survey of faint planetary-nebula nuclei. I. Six new "O VI" central stars**|Howard E. Bond et.al.|[2302.07158v1](http://arxiv.org/abs/2302.07158v1)|[2302.07158v1](http://arxiv.org/pdf/2302.07158v1)|null|
+|**2023-02-14**|**Understanding planet formation using microgravity experiments**|Gerhard Wurm et.al.|[2302.07156v1](http://arxiv.org/abs/2302.07156v1)|[2302.07156v1](http://arxiv.org/pdf/2302.07156v1)|null|
+|**2023-02-14**|**Probing Hadronic Interactions with Cosmic Rays**|Dennis Soldin et.al.|[2302.07111v1](http://arxiv.org/abs/2302.07111v1)|[2302.07111v1](http://arxiv.org/pdf/2302.07111v1)|null|
+|**2023-02-14**|**Morphology of the gas-rich debris disk around HD 121617 with SPHERE observations in polarized light**|Clément Perrot et.al.|[2302.07057v1](http://arxiv.org/abs/2302.07057v1)|[2302.07057v1](http://arxiv.org/pdf/2302.07057v1)|null|
+|**2023-02-14**|**Halo Occupation Distribution of Emission Line Galaxies: fitting method with Gaussian Processes**|Antoine Rocher et.al.|[2302.07056v1](http://arxiv.org/abs/2302.07056v1)|[2302.07056v1](http://arxiv.org/pdf/2302.07056v1)|null|
 |**2023-02-13**|**Saturation of spiral instabilities in disk galaxies**|Chris Hamilton et.al.|[2302.06602v1](http://arxiv.org/abs/2302.06602v1)|[2302.06602v1](http://arxiv.org/pdf/2302.06602v1)|null|
 |**2023-02-13**|**A Statistical Analysis of Galactic Radio Supernova Remnants**|S. Ranasinghe et.al.|[2302.06593v1](http://arxiv.org/abs/2302.06593v1)|[2302.06593v1](http://arxiv.org/pdf/2302.06593v1)|null|
 |**2023-02-13**|**Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies**|Dayi Li et.al.|[2302.06567v1](http://arxiv.org/abs/2302.06567v1)|[2302.06567v1](http://arxiv.org/pdf/2302.06567v1)|null|
@@ -1623,6 +1633,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-14**|**The Meta-Evaluation Problem in Explainable AI: Identifying Reliable Estimators with MetaQuantus**|Anna Hedström et.al.|[2302.07265v1](http://arxiv.org/abs/2302.07265v1)|[2302.07265v1](http://arxiv.org/pdf/2302.07265v1)|null|
+|**2023-02-14**|**Scalable Bayesian optimization with high-dimensional outputs using randomized prior networks**|Mohamed Aziz Bhouri et.al.|[2302.07260v1](http://arxiv.org/abs/2302.07260v1)|[2302.07260v1](http://arxiv.org/pdf/2302.07260v1)|null|
+|**2023-02-14**|**Generation Probabilities Are Not Enough: Exploring the Effectiveness of Uncertainty Highlighting in AI-Powered Code Completions**|Helena Vasconcelos et.al.|[2302.07248v1](http://arxiv.org/abs/2302.07248v1)|[2302.07248v1](http://arxiv.org/pdf/2302.07248v1)|null|
+|**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v1](http://arxiv.org/abs/2302.07241v1)|[2302.07241v1](http://arxiv.org/pdf/2302.07241v1)|null|
+|**2023-02-14**|**Cauchy Loss Function: Robustness Under Gaussian and Cauchy Noise**|Thamsanqa Mlotshwa et.al.|[2302.07238v1](http://arxiv.org/abs/2302.07238v1)|[2302.07238v1](http://arxiv.org/pdf/2302.07238v1)|null|
+|**2023-02-14**|**Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks**|Konrad Zuchniak et.al.|[2302.07215v1](http://arxiv.org/abs/2302.07215v1)|[2302.07215v1](http://arxiv.org/pdf/2302.07215v1)|null|
+|**2023-02-14**|**Neurosymbolic AI for Reasoning on Graph Structures: A Survey**|Lauren Nicole DeLong et.al.|[2302.07200v1](http://arxiv.org/abs/2302.07200v1)|[2302.07200v1](http://arxiv.org/pdf/2302.07200v1)|null|
+|**2023-02-14**|**Visibility-Aware Pixelwise View Selection for Multi-View Stereo Matching**|Zhentao Huang et.al.|[2302.07182v1](http://arxiv.org/abs/2302.07182v1)|[2302.07182v1](http://arxiv.org/pdf/2302.07182v1)|null|
+|**2023-02-14**|**Joint Probability Trees**|Daniel Nyga et.al.|[2302.07167v1](http://arxiv.org/abs/2302.07167v1)|[2302.07167v1](http://arxiv.org/pdf/2302.07167v1)|null|
+|**2023-02-14**|**Fast-MC-PET: A Novel Deep Learning-aided Motion Correction and Reconstruction Framework for Accelerated PET**|Bo Zhou et.al.|[2302.07135v1](http://arxiv.org/abs/2302.07135v1)|[2302.07135v1](http://arxiv.org/pdf/2302.07135v1)|null|
 |**2023-02-13**|**Breaking the Curse of Multiagency: Provably Efficient Decentralized Multi-Agent RL with Function Approximation**|Yuanhao Wang et.al.|[2302.06606v1](http://arxiv.org/abs/2302.06606v1)|[2302.06606v1](http://arxiv.org/pdf/2302.06606v1)|null|
 |**2023-02-13**|**ALAN: Autonomously Exploring Robotic Agents in the Real World**|Russell Mendonca et.al.|[2302.06604v1](http://arxiv.org/abs/2302.06604v1)|[2302.06604v1](http://arxiv.org/pdf/2302.06604v1)|null|
 |**2023-02-13**|**FilFL: Accelerating Federated Learning via Client Filtering**|Fares Fourati et.al.|[2302.06599v1](http://arxiv.org/abs/2302.06599v1)|[2302.06599v1](http://arxiv.org/pdf/2302.06599v1)|null|
