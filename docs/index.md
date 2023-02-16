@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-15**|**Astrophysical properties of 15062 Gaia DR3 gravity-mode pulsators: pulsation amplitudes, rotation, and spectral line broadening**|Conny Aerts et.al.|[2302.07870v1](http://arxiv.org/abs/2302.07870v1)|[2302.07870v1](http://arxiv.org/pdf/2302.07870v1)|null|
+|**2023-02-15**|**ODIN: Where Do Lyman-alpha Blobs Live? Contextualizing Blob Environments within the Large-Scale Structure**|Vandana Ramakrishnan et.al.|[2302.07860v1](http://arxiv.org/abs/2302.07860v1)|[2302.07860v1](http://arxiv.org/pdf/2302.07860v1)|null|
+|**2023-02-15**|**asevolution: a relativistic N-body implementation of the (a)symmetron**|Øyvind Christiansen et.al.|[2302.07857v1](http://arxiv.org/abs/2302.07857v1)|[2302.07857v1](http://arxiv.org/pdf/2302.07857v1)|null|
+|**2023-02-15**|**The star formation history of the Sco-Cen association: Coherent star formation patterns in space and time**|Sebastian Ratzenböck et.al.|[2302.07853v1](http://arxiv.org/abs/2302.07853v1)|[2302.07853v1](http://arxiv.org/pdf/2302.07853v1)|null|
+|**2023-02-15**|**How Low Can Q Go?**|John C. Forbes et.al.|[2302.07823v1](http://arxiv.org/abs/2302.07823v1)|[2302.07823v1](http://arxiv.org/pdf/2302.07823v1)|null|
+|**2023-02-15**|**Asteroseismology of evolved stars to constrain the internal transport of angular momentum. VI. Testing a parametric formulation for the azimuthal magneto-rotational instability**|F. D. Moyano et.al.|[2302.07811v1](http://arxiv.org/abs/2302.07811v1)|[2302.07811v1](http://arxiv.org/pdf/2302.07811v1)|null|
+|**2023-02-15**|**The discovery of blue-cored dwarf early-type galaxies in isolated environments**|Soo-Chang Rey et.al.|[2302.07808v1](http://arxiv.org/abs/2302.07808v1)|[2302.07808v1](http://arxiv.org/pdf/2302.07808v1)|null|
+|**2023-02-15**|**Solar-cycle and Latitude Variations in the Internetwork Magnetism**|Juan Carlos Trelles Arjona et.al.|[2302.07780v1](http://arxiv.org/abs/2302.07780v1)|[2302.07780v1](http://arxiv.org/pdf/2302.07780v1)|null|
+|**2023-02-15**|**The first JWST spectrum of a GRB afterglow: No bright supernova in observations of the brightest GRB of all time, GRB 221009A**|A. J. Levan et.al.|[2302.07761v1](http://arxiv.org/abs/2302.07761v1)|[2302.07761v1](http://arxiv.org/pdf/2302.07761v1)|null|
+|**2023-02-15**|**Luminosity distance uncertainties from gravitational wave detections by third generation observatories**|Josiel Mendonça Soares de Souza et.al.|[2302.07749v1](http://arxiv.org/abs/2302.07749v1)|[2302.07749v1](http://arxiv.org/pdf/2302.07749v1)|null|
 |**2023-02-14**|**Identifying and characterising the population of hot sub-luminous stars with multi-colour MeerLICHT data**|P. Ranaivomanana et.al.|[2302.07266v1](http://arxiv.org/abs/2302.07266v1)|[2302.07266v1](http://arxiv.org/pdf/2302.07266v1)|null|
 |**2023-02-14**|**Accelerations of stars in central 2-7 arcsec from Sgr A***|A. Young et.al.|[2302.07258v1](http://arxiv.org/abs/2302.07258v1)|[2302.07258v1](http://arxiv.org/pdf/2302.07258v1)|null|
 |**2023-02-14**|**JADES NIRSpec Spectroscopy of GN-z11: Lyman-$α$ emission and possible enhanced nitrogen abundance in a $z=10.60$ luminous galaxy**|Andrew J. Bunker et.al.|[2302.07256v1](http://arxiv.org/abs/2302.07256v1)|[2302.07256v1](http://arxiv.org/pdf/2302.07256v1)|null|
@@ -1633,6 +1643,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-15**|**Improved Online Conformal Prediction via Strongly Adaptive Online Learning**|Aadyot Bhatnagar et.al.|[2302.07869v1](http://arxiv.org/abs/2302.07869v1)|[2302.07869v1](http://arxiv.org/pdf/2302.07869v1)|null|
+|**2023-02-15**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v1](http://arxiv.org/abs/2302.07867v1)|[2302.07867v1](http://arxiv.org/pdf/2302.07867v1)|null|
+|**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|[2302.07866v1](http://arxiv.org/pdf/2302.07866v1)|null|
+|**2023-02-15**|**Zero-Shot Anomaly Detection without Foundation Models**|Aodong Li et.al.|[2302.07849v1](http://arxiv.org/abs/2302.07849v1)|[2302.07849v1](http://arxiv.org/pdf/2302.07849v1)|null|
+|**2023-02-15**|**NL2CMD: An Updated Workflow for Natural Language to Bash Commands Translation**|Quchen Fu et.al.|[2302.07845v1](http://arxiv.org/abs/2302.07845v1)|[2302.07845v1](http://arxiv.org/pdf/2302.07845v1)|null|
+|**2023-02-15**|**Deep Anomaly Detection under Labeling Budget Constraints**|Aodong Li et.al.|[2302.07832v1](http://arxiv.org/abs/2302.07832v1)|[2302.07832v1](http://arxiv.org/pdf/2302.07832v1)|null|
+|**2023-02-15**|**Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2302.07817v1](http://arxiv.org/abs/2302.07817v1)|[2302.07817v1](http://arxiv.org/pdf/2302.07817v1)|null|
+|**2023-02-15**|**Prioritized offline Goal-swapping Experience Replay**|Wenyan Yang et.al.|[2302.07741v1](http://arxiv.org/abs/2302.07741v1)|[2302.07741v1](http://arxiv.org/pdf/2302.07741v1)|null|
+|**2023-02-15**|**Photonic reservoir computing enabled by stimulated Brillouin scattering**|Sendy Phang et.al.|[2302.07698v1](http://arxiv.org/abs/2302.07698v1)|[2302.07698v1](http://arxiv.org/pdf/2302.07698v1)|null|
+|**2023-02-15**|**Genetic multi-armed bandits: a reinforcement learning approach for discrete optimization via simulation**|Deniz Preil et.al.|[2302.07695v1](http://arxiv.org/abs/2302.07695v1)|[2302.07695v1](http://arxiv.org/pdf/2302.07695v1)|null|
 |**2023-02-14**|**The Meta-Evaluation Problem in Explainable AI: Identifying Reliable Estimators with MetaQuantus**|Anna Hedström et.al.|[2302.07265v1](http://arxiv.org/abs/2302.07265v1)|[2302.07265v1](http://arxiv.org/pdf/2302.07265v1)|null|
 |**2023-02-14**|**Scalable Bayesian optimization with high-dimensional outputs using randomized prior networks**|Mohamed Aziz Bhouri et.al.|[2302.07260v1](http://arxiv.org/abs/2302.07260v1)|[2302.07260v1](http://arxiv.org/pdf/2302.07260v1)|null|
 |**2023-02-14**|**Generation Probabilities Are Not Enough: Exploring the Effectiveness of Uncertainty Highlighting in AI-Powered Code Completions**|Helena Vasconcelos et.al.|[2302.07248v1](http://arxiv.org/abs/2302.07248v1)|[2302.07248v1](http://arxiv.org/pdf/2302.07248v1)|null|
