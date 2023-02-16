@@ -1,4 +1,4 @@
-## Updated on 2023.02.15
+## Updated on 2023.02.16
 
 ## Astrophysics
 
@@ -1632,7 +1632,7 @@
 |**2023-02-14**|**The Meta-Evaluation Problem in Explainable AI: Identifying Reliable Estimators with MetaQuantus**|Anna Hedström et.al.|[2302.07265v1](http://arxiv.org/abs/2302.07265v1)|[2302.07265v1](http://arxiv.org/pdf/2302.07265v1)|null|
 |**2023-02-14**|**Scalable Bayesian optimization with high-dimensional outputs using randomized prior networks**|Mohamed Aziz Bhouri et.al.|[2302.07260v1](http://arxiv.org/abs/2302.07260v1)|[2302.07260v1](http://arxiv.org/pdf/2302.07260v1)|null|
 |**2023-02-14**|**Generation Probabilities Are Not Enough: Exploring the Effectiveness of Uncertainty Highlighting in AI-Powered Code Completions**|Helena Vasconcelos et.al.|[2302.07248v1](http://arxiv.org/abs/2302.07248v1)|[2302.07248v1](http://arxiv.org/pdf/2302.07248v1)|null|
-|**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v1](http://arxiv.org/abs/2302.07241v1)|[2302.07241v1](http://arxiv.org/pdf/2302.07241v1)|null|
+|**2023-02-15**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|[2302.07241v2](http://arxiv.org/pdf/2302.07241v2)|null|
 |**2023-02-14**|**Cauchy Loss Function: Robustness Under Gaussian and Cauchy Noise**|Thamsanqa Mlotshwa et.al.|[2302.07238v1](http://arxiv.org/abs/2302.07238v1)|[2302.07238v1](http://arxiv.org/pdf/2302.07238v1)|null|
 |**2023-02-14**|**Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks**|Konrad Zuchniak et.al.|[2302.07215v1](http://arxiv.org/abs/2302.07215v1)|[2302.07215v1](http://arxiv.org/pdf/2302.07215v1)|null|
 |**2023-02-14**|**Neurosymbolic AI for Reasoning on Graph Structures: A Survey**|Lauren Nicole DeLong et.al.|[2302.07200v1](http://arxiv.org/abs/2302.07200v1)|[2302.07200v1](http://arxiv.org/pdf/2302.07200v1)|null|
