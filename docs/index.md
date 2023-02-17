@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-16**|**An Effective Model for the Cosmic-Dawn 21-cm Signal**|Julian B. Muñoz et.al.|[2302.08506v1](http://arxiv.org/abs/2302.08506v1)|[2302.08506v1](http://arxiv.org/pdf/2302.08506v1)|null|
+|**2023-02-16**|**The Optical Aurorae of Europa, Ganymede and Callisto**|Katherine de Kleer et.al.|[2302.08487v1](http://arxiv.org/abs/2302.08487v1)|[2302.08487v1](http://arxiv.org/pdf/2302.08487v1)|null|
+|**2023-02-16**|**Inferring More from Less: Prospector as a Photometric Redshift Engine in the Era of JWST**|Bingjie Wang et.al.|[2302.08486v1](http://arxiv.org/abs/2302.08486v1)|[2302.08486v1](http://arxiv.org/pdf/2302.08486v1)|null|
+|**2023-02-16**|**Confronting the nucleonic hypothesis with current neutron star observations from GW170817 and PSR J0740+6620**|Hoa Dinh Thi et.al.|[2302.08482v1](http://arxiv.org/abs/2302.08482v1)|[2302.08482v1](http://arxiv.org/pdf/2302.08482v1)|null|
+|**2023-02-16**|**Temperature diagnostics of chromospheric fibrils**|M. Kriginsky et.al.|[2302.08457v1](http://arxiv.org/abs/2302.08457v1)|[2302.08457v1](http://arxiv.org/pdf/2302.08457v1)|null|
+|**2023-02-16**|**Comparison of different Tidal Disruption Event light curve models with TiDE, a new modular open source code**|Zsófia V. Kovács-Stermeczky et.al.|[2302.08441v1](http://arxiv.org/abs/2302.08441v1)|[2302.08441v1](http://arxiv.org/pdf/2302.08441v1)|null|
+|**2023-02-16**|**Non-Gaussianity from the Cross-correlation of the Astrophysical Gravitational Wave Background and the Cosmic Microwave Background**|Gabriele Perna et.al.|[2302.08429v1](http://arxiv.org/abs/2302.08429v1)|[2302.08429v1](http://arxiv.org/pdf/2302.08429v1)|null|
+|**2023-02-16**|**Development of Low-Threshold Detectors for Low-Mass Dark Matter Searches Using an N-Type Germanium Detector at 5.2 K**|Sanjay Bhattarai et.al.|[2302.08414v1](http://arxiv.org/abs/2302.08414v1)|[2302.08414v1](http://arxiv.org/pdf/2302.08414v1)|null|
+|**2023-02-16**|**The X-ray invisible Universe. A look into the halos undetected by eROSITA**|P. Popesso et.al.|[2302.08405v1](http://arxiv.org/abs/2302.08405v1)|[2302.08405v1](http://arxiv.org/pdf/2302.08405v1)|null|
+|**2023-02-16**|**Continuum reverberation mapping of MCG 08-11-011**|C. Fian et.al.|[2302.08402v1](http://arxiv.org/abs/2302.08402v1)|[2302.08402v1](http://arxiv.org/pdf/2302.08402v1)|null|
 |**2023-02-15**|**Astrophysical properties of 15062 Gaia DR3 gravity-mode pulsators: pulsation amplitudes, rotation, and spectral line broadening**|Conny Aerts et.al.|[2302.07870v1](http://arxiv.org/abs/2302.07870v1)|[2302.07870v1](http://arxiv.org/pdf/2302.07870v1)|null|
 |**2023-02-15**|**ODIN: Where Do Lyman-alpha Blobs Live? Contextualizing Blob Environments within the Large-Scale Structure**|Vandana Ramakrishnan et.al.|[2302.07860v1](http://arxiv.org/abs/2302.07860v1)|[2302.07860v1](http://arxiv.org/pdf/2302.07860v1)|null|
 |**2023-02-15**|**asevolution: a relativistic N-body implementation of the (a)symmetron**|Øyvind Christiansen et.al.|[2302.07857v1](http://arxiv.org/abs/2302.07857v1)|[2302.07857v1](http://arxiv.org/pdf/2302.07857v1)|null|
@@ -1643,6 +1653,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-16**|**Auditing large language models: a three-layered approach**|Jakob Mökander et.al.|[2302.08500v1](http://arxiv.org/abs/2302.08500v1)|[2302.08500v1](http://arxiv.org/pdf/2302.08500v1)|null|
+|**2023-02-16**|**Local-to-Global Information Communication for Real-Time Semantic Segmentation Network Search**|Guangliang Cheng et.al.|[2302.08481v1](http://arxiv.org/abs/2302.08481v1)|[2302.08481v1](http://arxiv.org/pdf/2302.08481v1)|null|
+|**2023-02-16**|**Tools for Landscape Analysis of Optimisation Problems in Procedural Content Generation for Games**|Vanessa Volz et.al.|[2302.08479v1](http://arxiv.org/abs/2302.08479v1)|[2302.08479v1](http://arxiv.org/pdf/2302.08479v1)|null|
+|**2023-02-16**|**Efficient 3D Object Reconstruction using Visual Transformers**|Rohan Agarwal et.al.|[2302.08474v1](http://arxiv.org/abs/2302.08474v1)|[2302.08474v1](http://arxiv.org/pdf/2302.08474v1)|null|
+|**2023-02-16**|**Hardware-aware training for large-scale and diverse deep learning inference workloads using in-memory computing-based accelerators**|Malte J. Rasch et.al.|[2302.08469v1](http://arxiv.org/abs/2302.08469v1)|[2302.08469v1](http://arxiv.org/pdf/2302.08469v1)|null|
+|**2023-02-16**|**Evaluating and Improving the Coreference Capabilities of Machine Translation Models**|Asaf Yehudai et.al.|[2302.08464v1](http://arxiv.org/abs/2302.08464v1)|[2302.08464v1](http://arxiv.org/pdf/2302.08464v1)|null|
+|**2023-02-16**|**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models**|Chong Mou et.al.|[2302.08453v1](http://arxiv.org/abs/2302.08453v1)|[2302.08453v1](http://arxiv.org/pdf/2302.08453v1)|**[link](https://github.com/tencentarc/t2i-adapter)**|
+|**2023-02-16**|**Learning to diagnose cirrhosis from radiological and histological labels with joint self and weakly-supervised pretraining strategies**|Emma Sarfati et.al.|[2302.08427v1](http://arxiv.org/abs/2302.08427v1)|[2302.08427v1](http://arxiv.org/pdf/2302.08427v1)|null|
+|**2023-02-16**|**Generative AI-empowered Simulation for Autonomous Driving in Vehicular Mixed Reality Metaverses**|Minrui Xu et.al.|[2302.08418v1](http://arxiv.org/abs/2302.08418v1)|[2302.08418v1](http://arxiv.org/pdf/2302.08418v1)|null|
+|**2023-02-16**|**Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks**|Tomer Ullman et.al.|[2302.08399v1](http://arxiv.org/abs/2302.08399v1)|[2302.08399v1](http://arxiv.org/pdf/2302.08399v1)|null|
 |**2023-02-15**|**Improved Online Conformal Prediction via Strongly Adaptive Online Learning**|Aadyot Bhatnagar et.al.|[2302.07869v1](http://arxiv.org/abs/2302.07869v1)|[2302.07869v1](http://arxiv.org/pdf/2302.07869v1)|null|
 |**2023-02-15**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v1](http://arxiv.org/abs/2302.07867v1)|[2302.07867v1](http://arxiv.org/pdf/2302.07867v1)|null|
 |**2023-02-15**|**Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**|Keito Kudo et.al.|[2302.07866v1](http://arxiv.org/abs/2302.07866v1)|[2302.07866v1](http://arxiv.org/pdf/2302.07866v1)|null|
