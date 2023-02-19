@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-02-16**|**An Effective Model for the Cosmic-Dawn 21-cm Signal**|Julian B. Muñoz et.al.|[2302.08506v1](http://arxiv.org/abs/2302.08506v1)|[2302.08506v1](http://arxiv.org/pdf/2302.08506v1)|null|
+|**2023-02-16**|**An Effective Model for the Cosmic-Dawn 21-cm Signal**|Julian B. Muñoz et.al.|[2302.08506v1](http://arxiv.org/abs/2302.08506v1)|[2302.08506v1](http://arxiv.org/pdf/2302.08506v1)|**[link](https://github.com/julianbmunoz/zeus21)**|
 |**2023-02-16**|**The Optical Aurorae of Europa, Ganymede and Callisto**|Katherine de Kleer et.al.|[2302.08487v1](http://arxiv.org/abs/2302.08487v1)|[2302.08487v1](http://arxiv.org/pdf/2302.08487v1)|null|
 |**2023-02-16**|**Inferring More from Less: Prospector as a Photometric Redshift Engine in the Era of JWST**|Bingjie Wang et.al.|[2302.08486v1](http://arxiv.org/abs/2302.08486v1)|[2302.08486v1](http://arxiv.org/pdf/2302.08486v1)|null|
 |**2023-02-16**|**Confronting the nucleonic hypothesis with current neutron star observations from GW170817 and PSR J0740+6620**|Hoa Dinh Thi et.al.|[2302.08482v1](http://arxiv.org/abs/2302.08482v1)|[2302.08482v1](http://arxiv.org/pdf/2302.08482v1)|null|

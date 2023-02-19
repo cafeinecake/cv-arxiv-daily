@@ -2,7 +2,7 @@
 
 ## Astrophysics
 
-- 2023-02-16, **An Effective Model for the Cosmic-Dawn 21-cm Signal**, Julian B. Muñoz et.al., Paper: [http://arxiv.org/abs/2302.08506v1](http://arxiv.org/abs/2302.08506v1), Paper: [http://arxiv.org/abs/2302.08506v1](http://arxiv.org/pdf/2302.08506v1)
+- 2023-02-16, **An Effective Model for the Cosmic-Dawn 21-cm Signal**, Julian B. Muñoz et.al., Paper: [http://arxiv.org/abs/2302.08506v1](http://arxiv.org/abs/2302.08506v1),Paper: [http://arxiv.org/abs/2302.08506v1](http://arxiv.org/pdf/2302.08506v1), Code: **[https://github.com/julianbmunoz/zeus21](https://github.com/julianbmunoz/zeus21)**
 - 2023-02-16, **The Optical Aurorae of Europa, Ganymede and Callisto**, Katherine de Kleer et.al., Paper: [http://arxiv.org/abs/2302.08487v1](http://arxiv.org/abs/2302.08487v1), Paper: [http://arxiv.org/abs/2302.08487v1](http://arxiv.org/pdf/2302.08487v1)
 - 2023-02-16, **Inferring More from Less: Prospector as a Photometric Redshift Engine in the Era of JWST**, Bingjie Wang et.al., Paper: [http://arxiv.org/abs/2302.08486v1](http://arxiv.org/abs/2302.08486v1), Paper: [http://arxiv.org/abs/2302.08486v1](http://arxiv.org/pdf/2302.08486v1)
 - 2023-02-16, **Confronting the nucleonic hypothesis with current neutron star observations from GW170817 and PSR J0740+6620**, Hoa Dinh Thi et.al., Paper: [http://arxiv.org/abs/2302.08482v1](http://arxiv.org/abs/2302.08482v1), Paper: [http://arxiv.org/abs/2302.08482v1](http://arxiv.org/pdf/2302.08482v1)
