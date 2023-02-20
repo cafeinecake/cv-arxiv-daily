@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-17**|**Towards optimal and robust $f_{\rm NL}$ constraints with multi-tracer analyses**|Alexandre Barreira et.al.|[2302.09066v1](http://arxiv.org/abs/2302.09066v1)|[2302.09066v1](http://arxiv.org/pdf/2302.09066v1)|null|
+|**2023-02-17**|**Structure formation and quasi-spherical collapse from initial curvature perturbations with numerical relativity simulations**|Robyn L. Munoz et.al.|[2302.09033v1](http://arxiv.org/abs/2302.09033v1)|[2302.09033v1](http://arxiv.org/pdf/2302.09033v1)|null|
+|**2023-02-17**|**The Ups and Downs of Early Dark Energy solutions to the Hubble tension: a review of models, hints and constraints circa 2023**|Vivian Poulin et.al.|[2302.09032v1](http://arxiv.org/abs/2302.09032v1)|[2302.09032v1](http://arxiv.org/pdf/2302.09032v1)|null|
+|**2023-02-17**|**Automated classification of Chandra X-ray point sources using machine learning methods**|Shivam Kumaran et.al.|[2302.09008v1](http://arxiv.org/abs/2302.09008v1)|[2302.09008v1](http://arxiv.org/pdf/2302.09008v1)|null|
+|**2023-02-17**|**Discovery of an optical counterpart of the X-ray source NuSTAR J053449+2126.0: A transient new-type quasar with a high redshift**|E. Nihal Ercan et.al.|[2302.08994v1](http://arxiv.org/abs/2302.08994v1)|[2302.08994v1](http://arxiv.org/pdf/2302.08994v1)|null|
+|**2023-02-17**|**From Entropy to Echoes: Counting the quasi-normal modes and the quantum limit of silence**|Naritaka Oshita et.al.|[2302.08964v1](http://arxiv.org/abs/2302.08964v1)|[2302.08964v1](http://arxiv.org/pdf/2302.08964v1)|null|
+|**2023-02-17**|**The Hubble PanCET program: The near-ultraviolet transmission spectrum of WASP-79b**|A. Gressier et.al.|[2302.08962v1](http://arxiv.org/abs/2302.08962v1)|[2302.08962v1](http://arxiv.org/pdf/2302.08962v1)|null|
+|**2023-02-17**|**A z=1.85 galaxy group in CEERS: evolved, dustless, massive Intra-Halo Light and a Brightest Group Galaxy in the making**|Rosemary T. Coogan et.al.|[2302.08960v1](http://arxiv.org/abs/2302.08960v1)|[2302.08960v1](http://arxiv.org/pdf/2302.08960v1)|null|
+|**2023-02-17**|**Primordial Black Holes Dark Matter and Secondary Gravitational Waves from Warm Higgs-G Inflation**|Richa Arya et.al.|[2302.08940v1](http://arxiv.org/abs/2302.08940v1)|[2302.08940v1](http://arxiv.org/pdf/2302.08940v1)|null|
+|**2023-02-17**|**LISC Catalog of Open Clusters.III. 83 Newly found Galactic disk open clusters using Gaia EDR3**|Huanbin Chi et.al.|[2302.08926v1](http://arxiv.org/abs/2302.08926v1)|[2302.08926v1](http://arxiv.org/pdf/2302.08926v1)|null|
 |**2023-02-16**|**An Effective Model for the Cosmic-Dawn 21-cm Signal**|Julian B. Muñoz et.al.|[2302.08506v1](http://arxiv.org/abs/2302.08506v1)|[2302.08506v1](http://arxiv.org/pdf/2302.08506v1)|**[link](https://github.com/julianbmunoz/zeus21)**|
 |**2023-02-16**|**The Optical Aurorae of Europa, Ganymede and Callisto**|Katherine de Kleer et.al.|[2302.08487v1](http://arxiv.org/abs/2302.08487v1)|[2302.08487v1](http://arxiv.org/pdf/2302.08487v1)|null|
 |**2023-02-16**|**Inferring More from Less: Prospector as a Photometric Redshift Engine in the Era of JWST**|Bingjie Wang et.al.|[2302.08486v1](http://arxiv.org/abs/2302.08486v1)|[2302.08486v1](http://arxiv.org/pdf/2302.08486v1)|null|
@@ -1653,6 +1663,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|[2302.09057v1](http://arxiv.org/pdf/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
+|**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|[2302.09051v1](http://arxiv.org/pdf/2302.09051v1)|null|
+|**2023-02-17**|**Privately Customizing Prefinetuning to Better Match User Data in Federated Learning**|Charlie Hou et.al.|[2302.09042v1](http://arxiv.org/abs/2302.09042v1)|[2302.09042v1](http://arxiv.org/pdf/2302.09042v1)|null|
+|**2023-02-17**|**Automated Graph Genetic Algorithm based Puzzle Validation for Faster Game Desig**|Karine Levonyan et.al.|[2302.09040v1](http://arxiv.org/abs/2302.09040v1)|[2302.09040v1](http://arxiv.org/pdf/2302.09040v1)|null|
+|**2023-02-17**|**CK-Transformer: Commonsense Knowledge Enhanced Transformers for Referring Expression Comprehension**|Zhi Zhang et.al.|[2302.09027v1](http://arxiv.org/abs/2302.09027v1)|[2302.09027v1](http://arxiv.org/pdf/2302.09027v1)|**[link](https://github.com/fightingfighting/ck-transformer)**|
+|**2023-02-17**|**Plasmon-plasmon interaction and the role of buffer in epitaxial graphene micro-flakes**|Mykhailo Shestopalov et.al.|[2302.09007v1](http://arxiv.org/abs/2302.09007v1)|[2302.09007v1](http://arxiv.org/pdf/2302.09007v1)|null|
+|**2023-02-17**|**Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection**|Weilin Cong et.al.|[2302.08990v1](http://arxiv.org/abs/2302.08990v1)|[2302.08990v1](http://arxiv.org/pdf/2302.08990v1)|null|
+|**2023-02-17**|**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**|Martin Ruskov et.al.|[2302.08961v1](http://arxiv.org/abs/2302.08961v1)|[2302.08961v1](http://arxiv.org/pdf/2302.08961v1)|null|
+|**2023-02-17**|**PAC-Bayesian Generalization Bounds for Adversarial Generative Models**|Sokhna Diarra Mbacke et.al.|[2302.08942v1](http://arxiv.org/abs/2302.08942v1)|[2302.08942v1](http://arxiv.org/pdf/2302.08942v1)|null|
+|**2023-02-17**|**Towards Automated Homomorphic Encryption Parameter Selection with Fuzzy Logic and Linear Programming**|José Cabrero-Holgueras et.al.|[2302.08930v1](http://arxiv.org/abs/2302.08930v1)|[2302.08930v1](http://arxiv.org/pdf/2302.08930v1)|null|
 |**2023-02-16**|**Auditing large language models: a three-layered approach**|Jakob Mökander et.al.|[2302.08500v1](http://arxiv.org/abs/2302.08500v1)|[2302.08500v1](http://arxiv.org/pdf/2302.08500v1)|null|
 |**2023-02-16**|**Local-to-Global Information Communication for Real-Time Semantic Segmentation Network Search**|Guangliang Cheng et.al.|[2302.08481v1](http://arxiv.org/abs/2302.08481v1)|[2302.08481v1](http://arxiv.org/pdf/2302.08481v1)|null|
 |**2023-02-16**|**Tools for Landscape Analysis of Optimisation Problems in Procedural Content Generation for Games**|Vanessa Volz et.al.|[2302.08479v1](http://arxiv.org/abs/2302.08479v1)|[2302.08479v1](http://arxiv.org/pdf/2302.08479v1)|null|
