@@ -1,4 +1,4 @@
-> Updated on 2023.02.19
+> Updated on 2023.02.20
 
 ## Astrophysics
 
@@ -1654,7 +1654,7 @@
 - 2023-02-16, **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models**, Chong Mou et.al., Paper: [http://arxiv.org/abs/2302.08453v1](http://arxiv.org/abs/2302.08453v1),Paper: [http://arxiv.org/abs/2302.08453v1](http://arxiv.org/pdf/2302.08453v1), Code: **[https://github.com/tencentarc/t2i-adapter](https://github.com/tencentarc/t2i-adapter)**
 - 2023-02-16, **Learning to diagnose cirrhosis from radiological and histological labels with joint self and weakly-supervised pretraining strategies**, Emma Sarfati et.al., Paper: [http://arxiv.org/abs/2302.08427v1](http://arxiv.org/abs/2302.08427v1), Paper: [http://arxiv.org/abs/2302.08427v1](http://arxiv.org/pdf/2302.08427v1)
 - 2023-02-16, **Generative AI-empowered Simulation for Autonomous Driving in Vehicular Mixed Reality Metaverses**, Minrui Xu et.al., Paper: [http://arxiv.org/abs/2302.08418v1](http://arxiv.org/abs/2302.08418v1), Paper: [http://arxiv.org/abs/2302.08418v1](http://arxiv.org/pdf/2302.08418v1)
-- 2023-02-16, **Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks**, Tomer Ullman et.al., Paper: [http://arxiv.org/abs/2302.08399v1](http://arxiv.org/abs/2302.08399v1), Paper: [http://arxiv.org/abs/2302.08399v1](http://arxiv.org/pdf/2302.08399v1)
+- 2023-02-17, **Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks**, Tomer Ullman et.al., Paper: [http://arxiv.org/abs/2302.08399v2](http://arxiv.org/abs/2302.08399v2), Paper: [http://arxiv.org/abs/2302.08399v2](http://arxiv.org/pdf/2302.08399v2)
 - 2023-02-15, **Improved Online Conformal Prediction via Strongly Adaptive Online Learning**, Aadyot Bhatnagar et.al., Paper: [http://arxiv.org/abs/2302.07869v1](http://arxiv.org/abs/2302.07869v1), Paper: [http://arxiv.org/abs/2302.07869v1](http://arxiv.org/pdf/2302.07869v1)
 - 2023-02-15, **Learning Performance-Improving Code Edits**, Aman Madaan et.al., Paper: [http://arxiv.org/abs/2302.07867v1](http://arxiv.org/abs/2302.07867v1), Paper: [http://arxiv.org/abs/2302.07867v1](http://arxiv.org/pdf/2302.07867v1)
 - 2023-02-15, **Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?**, Keito Kudo et.al., Paper: [http://arxiv.org/abs/2302.07866v1](http://arxiv.org/abs/2302.07866v1), Paper: [http://arxiv.org/abs/2302.07866v1](http://arxiv.org/pdf/2302.07866v1)
