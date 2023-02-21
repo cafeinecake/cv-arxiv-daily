@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-20**|**Nitrogen enhancements 440 Myr after the Big Bang: super-solar N/O, a tidal disruption event or a dense stellar cluster in GN-z11?**|Alex J. Cameron et.al.|[2302.10142v1](http://arxiv.org/abs/2302.10142v1)|[2302.10142v1](http://arxiv.org/pdf/2302.10142v1)|null|
+|**2023-02-20**|**Dust Eddington Ratios for Star-Forming Galaxy Subregions**|Ian Blackstone et.al.|[2302.10136v1](http://arxiv.org/abs/2302.10136v1)|[2302.10136v1](http://arxiv.org/pdf/2302.10136v1)|null|
+|**2023-02-20**|**Implementation and performances of the IPbus protocol for the JUNO Large-PMT readout electronics**|Riccardo Triozzi et.al.|[2302.10133v1](http://arxiv.org/abs/2302.10133v1)|[2302.10133v1](http://arxiv.org/pdf/2302.10133v1)|null|
+|**2023-02-20**|**Reflection, emission, and polarization properties of surfaces made of hyperfine grains, and implications for the nature of primitive small bodies**|Robin Sultana et.al.|[2302.10111v1](http://arxiv.org/abs/2302.10111v1)|[2302.10111v1](http://arxiv.org/pdf/2302.10111v1)|null|
+|**2023-02-20**|**A sample of Fast Radio Bursts discovered and localised with MeerTRAP at the MeerKAT telescope**|F. Jankowski et.al.|[2302.10107v1](http://arxiv.org/abs/2302.10107v1)|[2302.10107v1](http://arxiv.org/pdf/2302.10107v1)|null|
+|**2023-02-20**|**The Cosmic Timeline Implied by the JWST High-redshift Galaxies**|Fulvio Melia et.al.|[2302.10103v1](http://arxiv.org/abs/2302.10103v1)|[2302.10103v1](http://arxiv.org/pdf/2302.10103v1)|null|
+|**2023-02-20**|**Revisiting the Gamow Factor Reactions on Light Nuclei**|Eunseok Hwang et.al.|[2302.10102v1](http://arxiv.org/abs/2302.10102v1)|[2302.10102v1](http://arxiv.org/pdf/2302.10102v1)|null|
+|**2023-02-20**|**Electromagnetic instability of compact axion stars**|Liina M. Chung-Jukko et.al.|[2302.10100v1](http://arxiv.org/abs/2302.10100v1)|[2302.10100v1](http://arxiv.org/pdf/2302.10100v1)|null|
+|**2023-02-20**|**Hiding Dust Around $ε$ Eridani**|Schuyler G. Wolff et.al.|[2302.10085v1](http://arxiv.org/abs/2302.10085v1)|[2302.10085v1](http://arxiv.org/pdf/2302.10085v1)|null|
+|**2023-02-20**|**The spectra of IceCube Neutrino (SIN) candidate sources -- III. Optical spectroscopy and source characterization of the full sample**|Simona Paiano et.al.|[2302.10080v1](http://arxiv.org/abs/2302.10080v1)|[2302.10080v1](http://arxiv.org/pdf/2302.10080v1)|null|
 |**2023-02-17**|**Towards optimal and robust $f_{\rm NL}$ constraints with multi-tracer analyses**|Alexandre Barreira et.al.|[2302.09066v1](http://arxiv.org/abs/2302.09066v1)|[2302.09066v1](http://arxiv.org/pdf/2302.09066v1)|null|
 |**2023-02-17**|**Structure formation and quasi-spherical collapse from initial curvature perturbations with numerical relativity simulations**|Robyn L. Munoz et.al.|[2302.09033v1](http://arxiv.org/abs/2302.09033v1)|[2302.09033v1](http://arxiv.org/pdf/2302.09033v1)|null|
 |**2023-02-17**|**The Ups and Downs of Early Dark Energy solutions to the Hubble tension: a review of models, hints and constraints circa 2023**|Vivian Poulin et.al.|[2302.09032v1](http://arxiv.org/abs/2302.09032v1)|[2302.09032v1](http://arxiv.org/pdf/2302.09032v1)|null|
@@ -1659,6 +1669,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-20**|**Multi-generational labour markets: data-driven discovery of multi-perspective system parameters using machine learning**|Abeer Abdullah Alaql et.al.|[2302.10146v1](http://arxiv.org/abs/2302.10146v1)|[2302.10146v1](http://arxiv.org/pdf/2302.10146v1)|null|
+|**2023-02-20**|**Improving Deep Policy Gradients with Value Function Search**|Enrico Marchesini et.al.|[2302.10145v1](http://arxiv.org/abs/2302.10145v1)|[2302.10145v1](http://arxiv.org/pdf/2302.10145v1)|null|
+|**2023-02-20**|**Towards Understanding the Survival of Patients with High-Grade Gastroenteropancreatic Neuroendocrine Neoplasms: An Investigation of Ensemble Feature Selection in the Prediction of Overall Survival**|Anna Jenul et.al.|[2302.10106v1](http://arxiv.org/abs/2302.10106v1)|[2302.10106v1](http://arxiv.org/pdf/2302.10106v1)|null|
+|**2023-02-20**|**Differentiable Arbitrating in Zero-sum Markov Games**|Jing Wang et.al.|[2302.10058v1](http://arxiv.org/abs/2302.10058v1)|[2302.10058v1](http://arxiv.org/pdf/2302.10058v1)|null|
+|**2023-02-20**|**Friend Recall in Online Games via Pre-training Edge Transformers**|Liang Yao et.al.|[2302.10043v1](http://arxiv.org/abs/2302.10043v1)|[2302.10043v1](http://arxiv.org/pdf/2302.10043v1)|**[link](https://github.com/yao8839836/edge_mae)**|
+|**2023-02-20**|**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**|Xiao Wang et.al.|[2302.10035v1](http://arxiv.org/abs/2302.10035v1)|[2302.10035v1](http://arxiv.org/pdf/2302.10035v1)|**[link](https://github.com/wangxiao5791509/multimodal_bigmodels_survey)**|
+|**2023-02-20**|**Safe Deep Reinforcement Learning by Verifying Task-Level Properties**|Enrico Marchesini et.al.|[2302.10030v1](http://arxiv.org/abs/2302.10030v1)|[2302.10030v1](http://arxiv.org/pdf/2302.10030v1)|null|
+|**2023-02-20**|**DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises**|Jiasheng Ye et.al.|[2302.10025v1](http://arxiv.org/abs/2302.10025v1)|[2302.10025v1](http://arxiv.org/pdf/2302.10025v1)|null|
+|**2023-02-20**|**Arena-Rosnav 2.0: A Development and Benchmarking Platform for Robot Navigation in Highly Dynamic Environments**|Linh Kästner et.al.|[2302.10023v1](http://arxiv.org/abs/2302.10023v1)|[2302.10023v1](http://arxiv.org/pdf/2302.10023v1)|null|
+|**2023-02-20**|**STB-VMM: Swin Transformer Based Video Motion Magnification**|Ricard Lado-Roigé et.al.|[2302.10001v1](http://arxiv.org/abs/2302.10001v1)|[2302.10001v1](http://arxiv.org/pdf/2302.10001v1)|null|
 |**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|[2302.09057v1](http://arxiv.org/pdf/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
 |**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|[2302.09051v1](http://arxiv.org/pdf/2302.09051v1)|null|
 |**2023-02-17**|**Privately Customizing Prefinetuning to Better Match User Data in Federated Learning**|Charlie Hou et.al.|[2302.09042v1](http://arxiv.org/abs/2302.09042v1)|[2302.09042v1](http://arxiv.org/pdf/2302.09042v1)|null|
