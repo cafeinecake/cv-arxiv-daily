@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-21**|**3D Radiation Hydrodynamic Simulations of Gravitational Instability in AGN Accretion Disks: Effects of Radiation Pressure**|Yi-Xian Chen et.al.|[2302.10868v1](http://arxiv.org/abs/2302.10868v1)|[2302.10868v1](http://arxiv.org/pdf/2302.10868v1)|null|
+|**2023-02-21**|**Symmetry breaking in merging binary black holes from young massive clusters and isolated binaries**|Sambaran Banerjee et.al.|[2302.10851v1](http://arxiv.org/abs/2302.10851v1)|[2302.10851v1](http://arxiv.org/pdf/2302.10851v1)|null|
+|**2023-02-21**|**Io's Optical Aurorae in Jupiter's Shadow**|Carl Schmidt et.al.|[2302.10849v1](http://arxiv.org/abs/2302.10849v1)|[2302.10849v1](http://arxiv.org/pdf/2302.10849v1)|null|
+|**2023-02-21**|**A 2:1 Mean-Motion Resonance Super-Jovian pair revealed by TESS, FEROS, and HARPS**|Vladimir Bozhilov et.al.|[2302.10838v1](http://arxiv.org/abs/2302.10838v1)|[2302.10838v1](http://arxiv.org/pdf/2302.10838v1)|null|
+|**2023-02-21**|**Performant feature extraction for photometric time series**|Anastasia Lavrukhina et.al.|[2302.10837v1](http://arxiv.org/abs/2302.10837v1)|[2302.10837v1](http://arxiv.org/pdf/2302.10837v1)|null|
+|**2023-02-21**|**Imaging exoplanets with coronagraphic instruments**|Raphaël Galicher et.al.|[2302.10833v1](http://arxiv.org/abs/2302.10833v1)|[2302.10833v1](http://arxiv.org/pdf/2302.10833v1)|null|
+|**2023-02-21**|**The Tectonics and Volcanism of Venus: New Modes Facilitated by Realistic Crustal Rheology and Intrusive Magmatism**|Jiacheng Tian et.al.|[2302.10821v1](http://arxiv.org/abs/2302.10821v1)|[2302.10821v1](http://arxiv.org/pdf/2302.10821v1)|null|
+|**2023-02-21**|**The Distribution of Molecular Water in the Lunar South Polar Region based upon 6-micron Spectroscopic Imaging**|William T. Reach et.al.|[2302.10815v1](http://arxiv.org/abs/2302.10815v1)|[2302.10815v1](http://arxiv.org/pdf/2302.10815v1)|null|
+|**2023-02-21**|**Absorption features in gamma-ray spectra of BL Lac objects**|L. Foffano et.al.|[2302.10762v1](http://arxiv.org/abs/2302.10762v1)|[2302.10762v1](http://arxiv.org/pdf/2302.10762v1)|null|
+|**2023-02-21**|**Coplanar circumbinary planets can be unstable to large tilt oscillations in the presence of an inner polar planet**|Anna C. Childs et.al.|[2302.10752v1](http://arxiv.org/abs/2302.10752v1)|[2302.10752v1](http://arxiv.org/pdf/2302.10752v1)|null|
 |**2023-02-20**|**Nitrogen enhancements 440 Myr after the Big Bang: super-solar N/O, a tidal disruption event or a dense stellar cluster in GN-z11?**|Alex J. Cameron et.al.|[2302.10142v1](http://arxiv.org/abs/2302.10142v1)|[2302.10142v1](http://arxiv.org/pdf/2302.10142v1)|null|
 |**2023-02-20**|**Dust Eddington Ratios for Star-Forming Galaxy Subregions**|Ian Blackstone et.al.|[2302.10136v1](http://arxiv.org/abs/2302.10136v1)|[2302.10136v1](http://arxiv.org/pdf/2302.10136v1)|null|
 |**2023-02-20**|**Implementation and performances of the IPbus protocol for the JUNO Large-PMT readout electronics**|Riccardo Triozzi et.al.|[2302.10133v1](http://arxiv.org/abs/2302.10133v1)|[2302.10133v1](http://arxiv.org/pdf/2302.10133v1)|null|
@@ -1669,6 +1679,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-21**|**Offline Reinforcement Learning for Mixture-of-Expert Dialogue Management**|Dhawal Gupta et.al.|[2302.10850v1](http://arxiv.org/abs/2302.10850v1)|[2302.10850v1](http://arxiv.org/pdf/2302.10850v1)|null|
+|**2023-02-21**|**Deep reinforced learning heuristic tested on spin-glass ground states: The larger picture**|Stefan Boettcher et.al.|[2302.10848v1](http://arxiv.org/abs/2302.10848v1)|[2302.10848v1](http://arxiv.org/pdf/2302.10848v1)|null|
+|**2023-02-21**|**TherapyView: Visualizing Therapy Sessions with Temporal Topic Modeling and AI-Generated Arts**|Baihan Lin et.al.|[2302.10845v1](http://arxiv.org/abs/2302.10845v1)|[2302.10845v1](http://arxiv.org/pdf/2302.10845v1)|null|
+|**2023-02-21**|**AutoML in The Wild: Obstacles, Workarounds, and Expectations**|Yuan Sun et.al.|[2302.10827v1](http://arxiv.org/abs/2302.10827v1)|[2302.10827v1](http://arxiv.org/pdf/2302.10827v1)|null|
+|**2023-02-21**|**Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning**|Jiong Li et.al.|[2302.10825v1](http://arxiv.org/abs/2302.10825v1)|[2302.10825v1](http://arxiv.org/pdf/2302.10825v1)|null|
+|**2023-02-21**|**Device Tuning for Multi-Task Large Model**|Penghao Jiang et.al.|[2302.10820v1](http://arxiv.org/abs/2302.10820v1)|[2302.10820v1](http://arxiv.org/pdf/2302.10820v1)|null|
+|**2023-02-21**|**Tailoring Requirements Engineering for Responsible AI**|Walid Maalej et.al.|[2302.10816v1](http://arxiv.org/abs/2302.10816v1)|[2302.10816v1](http://arxiv.org/pdf/2302.10816v1)|null|
+|**2023-02-21**|**On ML-Based Program Translation: Perils and Promises**|Aniketh Malyala et.al.|[2302.10812v1](http://arxiv.org/abs/2302.10812v1)|[2302.10812v1](http://arxiv.org/pdf/2302.10812v1)|**[link](https://github.com/kzh23/replication-package-icse-nier-2023-unsupervised-ml)**|
+|**2023-02-21**|**Causal Social Explanations for Stochastic Sequential Multi-Agent Decision-Making**|Balint Gyevnar et.al.|[2302.10809v1](http://arxiv.org/abs/2302.10809v1)|[2302.10809v1](http://arxiv.org/pdf/2302.10809v1)|null|
+|**2023-02-21**|**Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret**|Han Zhong et.al.|[2302.10796v1](http://arxiv.org/abs/2302.10796v1)|[2302.10796v1](http://arxiv.org/pdf/2302.10796v1)|null|
 |**2023-02-20**|**Multi-generational labour markets: data-driven discovery of multi-perspective system parameters using machine learning**|Abeer Abdullah Alaql et.al.|[2302.10146v1](http://arxiv.org/abs/2302.10146v1)|[2302.10146v1](http://arxiv.org/pdf/2302.10146v1)|null|
 |**2023-02-20**|**Improving Deep Policy Gradients with Value Function Search**|Enrico Marchesini et.al.|[2302.10145v1](http://arxiv.org/abs/2302.10145v1)|[2302.10145v1](http://arxiv.org/pdf/2302.10145v1)|null|
 |**2023-02-20**|**Towards Understanding the Survival of Patients with High-Grade Gastroenteropancreatic Neuroendocrine Neoplasms: An Investigation of Ensemble Feature Selection in the Prediction of Overall Survival**|Anna Jenul et.al.|[2302.10106v1](http://arxiv.org/abs/2302.10106v1)|[2302.10106v1](http://arxiv.org/pdf/2302.10106v1)|null|
