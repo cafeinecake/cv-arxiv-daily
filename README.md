@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-22**|**Galactic Model Parameters and Space Density of Cataclysmic Variables in Gaia Era: New Constraints to Population Models**|R. Canbay et.al.|[2302.11568v1](http://arxiv.org/abs/2302.11568v1)|[2302.11568v1](http://arxiv.org/pdf/2302.11568v1)|null|
+|**2023-02-22**|**Sporadic Spin-Orbit Variations in Compact Multi-planet Systems and their Influence on Exoplanet Climate**|Howard Chen et.al.|[2302.11561v1](http://arxiv.org/abs/2302.11561v1)|[2302.11561v1](http://arxiv.org/pdf/2302.11561v1)|null|
+|**2023-02-22**|**Quasi-periodic pulsations in solar flares: a key diagnostic of energy release on the Sun**|Andrew Inglis et.al.|[2302.11549v1](http://arxiv.org/abs/2302.11549v1)|[2302.11549v1](http://arxiv.org/pdf/2302.11549v1)|null|
+|**2023-02-22**|**Kerr black hole in de Sitter spacetime and observational redshift: Towards a new method to compute the Hubble constant**|Mehrab Momennia et.al.|[2302.11547v1](http://arxiv.org/abs/2302.11547v1)|[2302.11547v1](http://arxiv.org/pdf/2302.11547v1)|null|
+|**2023-02-22**|**The planetary nebula NGC 6153 through the eyes of MUSE**|V. Gómez-Llanos et.al.|[2302.11525v1](http://arxiv.org/abs/2302.11525v1)|[2302.11525v1](http://arxiv.org/pdf/2302.11525v1)|null|
+|**2023-02-22**|**The power of the rings: the GRB 221009A soft X-ray emission from its dust-scattering halo**|Andrea Tiengo et.al.|[2302.11518v1](http://arxiv.org/abs/2302.11518v1)|[2302.11518v1](http://arxiv.org/pdf/2302.11518v1)|null|
+|**2023-02-22**|**Detecting the HI Power Spectrum in the Post-Reionization Universe with SKA-Low**|Zhaoting Chen et.al.|[2302.11504v1](http://arxiv.org/abs/2302.11504v1)|[2302.11504v1](http://arxiv.org/pdf/2302.11504v1)|null|
+|**2023-02-22**|**Ultra-high resolution observations of plasmoid-mediated magnetic reconnection in the deep solar atmosphere**|L. Rouppe van der Voort et.al.|[2302.11496v1](http://arxiv.org/abs/2302.11496v1)|[2302.11496v1](http://arxiv.org/pdf/2302.11496v1)|null|
+|**2023-02-22**|**A precise blue-optical transmission spectrum from the ground: Evidence for haze in the atmosphere of WASP-74b**|Petros Spyratos et.al.|[2302.11495v1](http://arxiv.org/abs/2302.11495v1)|[2302.11495v1](http://arxiv.org/pdf/2302.11495v1)|null|
+|**2023-02-22**|**MOMO VI: Multifrequency radio variability of the blazar OJ 287 from 2015-2022, absence of predicted 2021 precursor-flare activity, and a new binary interpretation of the 2016/2017 outburst**|S. Komossa et.al.|[2302.11486v1](http://arxiv.org/abs/2302.11486v1)|[2302.11486v1](http://arxiv.org/pdf/2302.11486v1)|null|
 |**2023-02-21**|**3D Radiation Hydrodynamic Simulations of Gravitational Instability in AGN Accretion Disks: Effects of Radiation Pressure**|Yi-Xian Chen et.al.|[2302.10868v1](http://arxiv.org/abs/2302.10868v1)|[2302.10868v1](http://arxiv.org/pdf/2302.10868v1)|null|
 |**2023-02-21**|**Symmetry breaking in merging binary black holes from young massive clusters and isolated binaries**|Sambaran Banerjee et.al.|[2302.10851v1](http://arxiv.org/abs/2302.10851v1)|[2302.10851v1](http://arxiv.org/pdf/2302.10851v1)|null|
 |**2023-02-21**|**Io's Optical Aurorae in Jupiter's Shadow**|Carl Schmidt et.al.|[2302.10849v1](http://arxiv.org/abs/2302.10849v1)|[2302.10849v1](http://arxiv.org/pdf/2302.10849v1)|null|
@@ -1679,6 +1689,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-22**|**Exploration by self-supervised exploitation**|Matej Pecháč et.al.|[2302.11563v1](http://arxiv.org/abs/2302.11563v1)|[2302.11563v1](http://arxiv.org/pdf/2302.11563v1)|**[link](https://github.com/iskandor/motivationmodels)**|
+|**2023-02-22**|**Equivariant Polynomials for Graph Neural Networks**|Omri Puny et.al.|[2302.11556v1](http://arxiv.org/abs/2302.11556v1)|[2302.11556v1](http://arxiv.org/pdf/2302.11556v1)|null|
+|**2023-02-22**|**Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC**|Yilun Du et.al.|[2302.11552v1](http://arxiv.org/abs/2302.11552v1)|[2302.11552v1](http://arxiv.org/pdf/2302.11552v1)|null|
+|**2023-02-22**|**Scaling Robot Learning with Semantically Imagined Experience**|Tianhe Yu et.al.|[2302.11550v1](http://arxiv.org/abs/2302.11550v1)|[2302.11550v1](http://arxiv.org/pdf/2302.11550v1)|null|
+|**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|[2302.11509v1](http://arxiv.org/pdf/2302.11509v1)|null|
+|**2023-02-22**|**Efficient Training of Large-scale Industrial Fault Diagnostic Models through Federated Opportunistic Block Dropout**|Yuanyuan Chen et.al.|[2302.11485v1](http://arxiv.org/abs/2302.11485v1)|[2302.11485v1](http://arxiv.org/pdf/2302.11485v1)|null|
+|**2023-02-22**|**Distilling Calibrated Student from an Uncalibrated Teacher**|Ishan Mishra et.al.|[2302.11472v1](http://arxiv.org/abs/2302.11472v1)|[2302.11472v1](http://arxiv.org/pdf/2302.11472v1)|null|
+|**2023-02-22**|**Advancements in Federated Learning: Models, Methods, and Privacy**|Huiming Chen et.al.|[2302.11466v1](http://arxiv.org/abs/2302.11466v1)|[2302.11466v1](http://arxiv.org/pdf/2302.11466v1)|null|
+|**2023-02-22**|**Semantic Information Marketing in The Metaverse: A Learning-Based Contract Theory Framework**|Ismail Lotfi et.al.|[2302.11457v1](http://arxiv.org/abs/2302.11457v1)|[2302.11457v1](http://arxiv.org/pdf/2302.11457v1)|null|
+|**2023-02-22**|**Differentiable Rotamer Sampling with Molecular Force Fields**|Congzhou M. Sha et.al.|[2302.11430v1](http://arxiv.org/abs/2302.11430v1)|[2302.11430v1](http://arxiv.org/pdf/2302.11430v1)|null|
 |**2023-02-21**|**Offline Reinforcement Learning for Mixture-of-Expert Dialogue Management**|Dhawal Gupta et.al.|[2302.10850v1](http://arxiv.org/abs/2302.10850v1)|[2302.10850v1](http://arxiv.org/pdf/2302.10850v1)|null|
 |**2023-02-21**|**Deep reinforced learning heuristic tested on spin-glass ground states: The larger picture**|Stefan Boettcher et.al.|[2302.10848v1](http://arxiv.org/abs/2302.10848v1)|[2302.10848v1](http://arxiv.org/pdf/2302.10848v1)|null|
 |**2023-02-21**|**TherapyView: Visualizing Therapy Sessions with Temporal Topic Modeling and AI-Generated Arts**|Baihan Lin et.al.|[2302.10845v1](http://arxiv.org/abs/2302.10845v1)|[2302.10845v1](http://arxiv.org/pdf/2302.10845v1)|null|
