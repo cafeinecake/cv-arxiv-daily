@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-23**|**Wet Compaction to a Blue Nugget: a Critical Phase in Galaxy Evolution**|Sharon Lapiner et.al.|[2302.12234v1](http://arxiv.org/abs/2302.12234v1)|[2302.12234v1](http://arxiv.org/pdf/2302.12234v1)|null|
+|**2023-02-23**|**Inflection-Point Sgoldstino Inflation in no-Scale Supergravity**|C. Pallis et.al.|[2302.12214v1](http://arxiv.org/abs/2302.12214v1)|[2302.12214v1](http://arxiv.org/pdf/2302.12214v1)|null|
+|**2023-02-23**|**BUDHIES IV: Deep 21-cm neutral Hydrogen, optical and UV imaging data of Abell 963 and Abell 2192 at z $\simeq$ 0.2**|Avanti Gogate et.al.|[2302.12197v1](http://arxiv.org/abs/2302.12197v1)|[2302.12197v1](http://arxiv.org/pdf/2302.12197v1)|null|
+|**2023-02-23**|**Development of Advanced Photon Calibrator for KAGRA**|Y. Inoue et.al.|[2302.12180v1](http://arxiv.org/abs/2302.12180v1)|[2302.12180v1](http://arxiv.org/pdf/2302.12180v1)|null|
+|**2023-02-23**|**Capacity of Sun-driven Lunar Swingby Sequences and Their Application in Asteroid Retrieval**|Hongru Chen et.al.|[2302.12144v1](http://arxiv.org/abs/2302.12144v1)|[2302.12144v1](http://arxiv.org/pdf/2302.12144v1)|null|
+|**2023-02-23**|**Characterizing the nucleus of comet 162P/Siding Spring using ground-based photometry**|Abbie Donaldson et.al.|[2302.12141v1](http://arxiv.org/abs/2302.12141v1)|[2302.12141v1](http://arxiv.org/pdf/2302.12141v1)|null|
+|**2023-02-23**|**Optical link acquisition for the LISA mission with in-field pointing architecture**|Gerald Hechenblaikner et.al.|[2302.12109v1](http://arxiv.org/abs/2302.12109v1)|[2302.12109v1](http://arxiv.org/pdf/2302.12109v1)|null|
+|**2023-02-23**|**Lessons learned from the NEAR experiment and prospects for the upcoming mid-IR HCI instruments**|Prashant Pathak et.al.|[2302.12101v1](http://arxiv.org/abs/2302.12101v1)|[2302.12101v1](http://arxiv.org/pdf/2302.12101v1)|null|
+|**2023-02-23**|**Minimally implicit methods for the numerical integration of the neutrino transport equations**|Samuel Santos-Pérez et.al.|[2302.12089v1](http://arxiv.org/abs/2302.12089v1)|[2302.12089v1](http://arxiv.org/pdf/2302.12089v1)|null|
+|**2023-02-23**|**Correcting Imaging Atmospheric Cherenkov Telescope data with atmospheric profiles obtained with an elastic LIDAR**|Felix Schmuckermaier et.al.|[2302.12072v1](http://arxiv.org/abs/2302.12072v1)|[2302.12072v1](http://arxiv.org/pdf/2302.12072v1)|null|
 |**2023-02-22**|**Galactic Model Parameters and Space Density of Cataclysmic Variables in Gaia Era: New Constraints to Population Models**|R. Canbay et.al.|[2302.11568v1](http://arxiv.org/abs/2302.11568v1)|[2302.11568v1](http://arxiv.org/pdf/2302.11568v1)|null|
 |**2023-02-22**|**Sporadic Spin-Orbit Variations in Compact Multi-planet Systems and their Influence on Exoplanet Climate**|Howard Chen et.al.|[2302.11561v1](http://arxiv.org/abs/2302.11561v1)|[2302.11561v1](http://arxiv.org/pdf/2302.11561v1)|null|
 |**2023-02-22**|**Quasi-periodic pulsations in solar flares: a key diagnostic of energy release on the Sun**|Andrew Inglis et.al.|[2302.11549v1](http://arxiv.org/abs/2302.11549v1)|[2302.11549v1](http://arxiv.org/pdf/2302.11549v1)|null|
@@ -1693,6 +1703,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v1](http://arxiv.org/abs/2302.12254v1)|[2302.12254v1](http://arxiv.org/pdf/2302.12254v1)|**[link](https://github.com/yyzharry/subpopbench)**|
+|**2023-02-23**|**VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**|Yiming Li et.al.|[2302.12251v1](http://arxiv.org/abs/2302.12251v1)|[2302.12251v1](http://arxiv.org/pdf/2302.12251v1)|**[link](https://github.com/nvlabs/voxformer)**|
+|**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[2302.12247v1](http://arxiv.org/pdf/2302.12247v1)|**[link](https://github.com/pliang279/pid)**|
+|**2023-02-23**|**Side Adapter Network for Open-Vocabulary Semantic Segmentation**|Mengde Xu et.al.|[2302.12242v1](http://arxiv.org/abs/2302.12242v1)|[2302.12242v1](http://arxiv.org/pdf/2302.12242v1)|**[link](https://github.com/mendelxu/san)**|
+|**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|[2302.12239v1](http://arxiv.org/pdf/2302.12239v1)|null|
+|**2023-02-23**|**Improving Adaptive Conformal Prediction Using Self-Supervised Learning**|Nabeel Seedat et.al.|[2302.12238v1](http://arxiv.org/abs/2302.12238v1)|[2302.12238v1](http://arxiv.org/pdf/2302.12238v1)|**[link](https://github.com/seedatnabeel/sscp)**|
+|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|[2302.12237v1](http://arxiv.org/pdf/2302.12237v1)|null|
+|**2023-02-23**|**Concept Learning for Interpretable Multi-Agent Reinforcement Learning**|Renos Zabounidis et.al.|[2302.12232v1](http://arxiv.org/abs/2302.12232v1)|[2302.12232v1](http://arxiv.org/pdf/2302.12232v1)|null|
+|**2023-02-23**|**Federated Nearest Neighbor Machine Translation**|Yichao Du et.al.|[2302.12211v1](http://arxiv.org/abs/2302.12211v1)|[2302.12211v1](http://arxiv.org/pdf/2302.12211v1)|null|
+|**2023-02-23**|**A Neural Span-Based Continual Named Entity Recognition Model**|Yunan Zhang et.al.|[2302.12200v1](http://arxiv.org/abs/2302.12200v1)|[2302.12200v1](http://arxiv.org/pdf/2302.12200v1)|**[link](https://github.com/qznan/spankl)**|
 |**2023-02-22**|**Exploration by self-supervised exploitation**|Matej Pecháč et.al.|[2302.11563v1](http://arxiv.org/abs/2302.11563v1)|[2302.11563v1](http://arxiv.org/pdf/2302.11563v1)|**[link](https://github.com/iskandor/motivationmodels)**|
 |**2023-02-22**|**Equivariant Polynomials for Graph Neural Networks**|Omri Puny et.al.|[2302.11556v1](http://arxiv.org/abs/2302.11556v1)|[2302.11556v1](http://arxiv.org/pdf/2302.11556v1)|null|
 |**2023-02-22**|**Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC**|Yilun Du et.al.|[2302.11552v1](http://arxiv.org/abs/2302.11552v1)|[2302.11552v1](http://arxiv.org/pdf/2302.11552v1)|null|
