@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-24**|**Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Diverse outcomes of binary-disk interactions**|Yapeng Zhang et.al.|[2302.12824v1](http://arxiv.org/abs/2302.12824v1)|[2302.12824v1](http://arxiv.org/pdf/2302.12824v1)|null|
+|**2023-02-24**|**EDGE: The shape of dark matter haloes in the faintest galaxies**|Matthew D. A. Orkney et.al.|[2302.12818v1](http://arxiv.org/abs/2302.12818v1)|[2302.12818v1](http://arxiv.org/pdf/2302.12818v1)|null|
+|**2023-02-24**|**JADES: Discovery of extremely high equivalent width Lyman-alpha emission from a faint galaxy within an ionized bubble at $z=7.3$**|Aayush Saxena et.al.|[2302.12805v1](http://arxiv.org/abs/2302.12805v1)|[2302.12805v1](http://arxiv.org/pdf/2302.12805v1)|null|
+|**2023-02-24**|**Wide-angle effects in the galaxy bispectrum**|Kevin Pardede et.al.|[2302.12789v1](http://arxiv.org/abs/2302.12789v1)|[2302.12789v1](http://arxiv.org/pdf/2302.12789v1)|null|
+|**2023-02-24**|**The interplay between accretion, galaxy downsizing and the formation of box/peanut bulges in TNG50**|Stuart Robert Anderson et.al.|[2302.12788v1](http://arxiv.org/abs/2302.12788v1)|[2302.12788v1](http://arxiv.org/pdf/2302.12788v1)|null|
+|**2023-02-24**|**Evidence for Hidden Nearby Companions to Hot Jupiters**|Dong-Hong Wu et.al.|[2302.12778v1](http://arxiv.org/abs/2302.12778v1)|[2302.12778v1](http://arxiv.org/pdf/2302.12778v1)|null|
+|**2023-02-24**|**Thermal history of the Erg Chech 002 parent body: Early accretion and early differentiation of a small asteroid**|Wladimir Neumann et.al.|[2302.12753v1](http://arxiv.org/abs/2302.12753v1)|[2302.12753v1](http://arxiv.org/pdf/2302.12753v1)|null|
+|**2023-02-24**|**A Model for Nonthermal Particle Acceleration in Relativistic Magnetic Reconnection**|Xiaocan Li et.al.|[2302.12737v1](http://arxiv.org/abs/2302.12737v1)|[2302.12737v1](http://arxiv.org/pdf/2302.12737v1)|null|
+|**2023-02-24**|**GEAR-RT: Towards Exa-Scale Moment Based Radiative Transfer For Cosmological Simulations Using Task-Based Parallelism And Dynamic Sub-Cycling with SWIFT**|Mladen Ivkovic et.al.|[2302.12727v1](http://arxiv.org/abs/2302.12727v1)|[2302.12727v1](http://arxiv.org/pdf/2302.12727v1)|null|
+|**2023-02-24**|**JWST Observations of the Enigmatic Y Dwarf WISE 1828+2650: I. Limits to a Binary Companion**|Matthew De Furio et.al.|[2302.12723v1](http://arxiv.org/abs/2302.12723v1)|[2302.12723v1](http://arxiv.org/pdf/2302.12723v1)|null|
 |**2023-02-23**|**Wet Compaction to a Blue Nugget: a Critical Phase in Galaxy Evolution**|Sharon Lapiner et.al.|[2302.12234v1](http://arxiv.org/abs/2302.12234v1)|[2302.12234v1](http://arxiv.org/pdf/2302.12234v1)|null|
 |**2023-02-23**|**Inflection-Point Sgoldstino Inflation in no-Scale Supergravity**|C. Pallis et.al.|[2302.12214v1](http://arxiv.org/abs/2302.12214v1)|[2302.12214v1](http://arxiv.org/pdf/2302.12214v1)|null|
 |**2023-02-23**|**BUDHIES IV: Deep 21-cm neutral Hydrogen, optical and UV imaging data of Abell 963 and Abell 2192 at z $\simeq$ 0.2**|Avanti Gogate et.al.|[2302.12197v1](http://arxiv.org/abs/2302.12197v1)|[2302.12197v1](http://arxiv.org/pdf/2302.12197v1)|null|
@@ -1699,6 +1709,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|[2302.12813v1](http://arxiv.org/pdf/2302.12813v1)|null|
+|**2023-02-24**|**HULAT at SemEval-2023 Task 9: Data augmentation for pre-trained transformers applied to Multilingual Tweet Intimacy Analysis**|Isabel Segura-Bedmar et.al.|[2302.12794v1](http://arxiv.org/abs/2302.12794v1)|[2302.12794v1](http://arxiv.org/pdf/2302.12794v1)|**[link](https://github.com/isegura/hulat_intimacy)**|
+|**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|[2302.12784v1](http://arxiv.org/pdf/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|
+|**2023-02-24**|**Language-Driven Representation Learning for Robotics**|Siddharth Karamcheti et.al.|[2302.12766v1](http://arxiv.org/abs/2302.12766v1)|[2302.12766v1](http://arxiv.org/pdf/2302.12766v1)|**[link](https://github.com/siddk/voltron-robotics)**|
+|**2023-02-24**|**Modularity-based approach for tracking communities in dynamic social networks**|Michele Mazza et.al.|[2302.12759v1](http://arxiv.org/abs/2302.12759v1)|[2302.12759v1](http://arxiv.org/pdf/2302.12759v1)|null|
+|**2023-02-24**|**A Uniform Quantum Computing Model Based on Virtual Quantum Processors**|George Gesek et.al.|[2302.12750v1](http://arxiv.org/abs/2302.12750v1)|[2302.12750v1](http://arxiv.org/pdf/2302.12750v1)|null|
+|**2023-02-24**|**Regulating Clients' Noise Adding in Federated Learning without Verification**|Shu Hong et.al.|[2302.12735v1](http://arxiv.org/abs/2302.12735v1)|[2302.12735v1](http://arxiv.org/pdf/2302.12735v1)|null|
+|**2023-02-24**|**Hiding Data Helps: On the Benefits of Masking for Sparse Coding**|Muthu Chidambaram et.al.|[2302.12715v1](http://arxiv.org/abs/2302.12715v1)|[2302.12715v1](http://arxiv.org/pdf/2302.12715v1)|null|
+|**2023-02-24**|**Boosting Transformers and Language Models for Clinical Prediction in Immunotherapy**|Zekai Chen et.al.|[2302.12692v1](http://arxiv.org/abs/2302.12692v1)|[2302.12692v1](http://arxiv.org/pdf/2302.12692v1)|null|
+|**2023-02-24**|**Reproducibility of Machine Learning: Terminology, Recommendations and Open Issues**|Riccardo Albertoni et.al.|[2302.12691v1](http://arxiv.org/abs/2302.12691v1)|[2302.12691v1](http://arxiv.org/pdf/2302.12691v1)|null|
 |**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v1](http://arxiv.org/abs/2302.12254v1)|[2302.12254v1](http://arxiv.org/pdf/2302.12254v1)|**[link](https://github.com/yyzharry/subpopbench)**|
 |**2023-02-23**|**VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**|Yiming Li et.al.|[2302.12251v1](http://arxiv.org/abs/2302.12251v1)|[2302.12251v1](http://arxiv.org/pdf/2302.12251v1)|**[link](https://github.com/nvlabs/voxformer)**|
 |**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[2302.12247v1](http://arxiv.org/pdf/2302.12247v1)|**[link](https://github.com/pliang279/pid)**|
