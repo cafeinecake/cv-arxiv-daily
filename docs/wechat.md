@@ -1,4 +1,4 @@
-> Updated on 2023.02.26
+> Updated on 2023.02.27
 
 ## Astrophysics
 
@@ -1701,7 +1701,7 @@
 - 2023-02-23, **Side Adapter Network for Open-Vocabulary Semantic Segmentation**, Mengde Xu et.al., Paper: [http://arxiv.org/abs/2302.12242v1](http://arxiv.org/abs/2302.12242v1),Paper: [http://arxiv.org/abs/2302.12242v1](http://arxiv.org/pdf/2302.12242v1), Code: **[https://github.com/mendelxu/san](https://github.com/mendelxu/san)**
 - 2023-02-23, **What makes a language easy to deep-learn?**, Lukas Galke et.al., Paper: [http://arxiv.org/abs/2302.12239v1](http://arxiv.org/abs/2302.12239v1), Paper: [http://arxiv.org/abs/2302.12239v1](http://arxiv.org/pdf/2302.12239v1)
 - 2023-02-23, **Improving Adaptive Conformal Prediction Using Self-Supervised Learning**, Nabeel Seedat et.al., Paper: [http://arxiv.org/abs/2302.12238v1](http://arxiv.org/abs/2302.12238v1),Paper: [http://arxiv.org/abs/2302.12238v1](http://arxiv.org/pdf/2302.12238v1), Code: **[https://github.com/seedatnabeel/sscp](https://github.com/seedatnabeel/sscp)**
-- 2023-02-23, **Learning Neural Volumetric Representations of Dynamic Humans in Minutes**, Chen Geng et.al., Paper: [http://arxiv.org/abs/2302.12237v1](http://arxiv.org/abs/2302.12237v1), Paper: [http://arxiv.org/abs/2302.12237v1](http://arxiv.org/pdf/2302.12237v1)
+- 2023-02-24, **Learning Neural Volumetric Representations of Dynamic Humans in Minutes**, Chen Geng et.al., Paper: [http://arxiv.org/abs/2302.12237v2](http://arxiv.org/abs/2302.12237v2), Paper: [http://arxiv.org/abs/2302.12237v2](http://arxiv.org/pdf/2302.12237v2)
 - 2023-02-23, **Concept Learning for Interpretable Multi-Agent Reinforcement Learning**, Renos Zabounidis et.al., Paper: [http://arxiv.org/abs/2302.12232v1](http://arxiv.org/abs/2302.12232v1), Paper: [http://arxiv.org/abs/2302.12232v1](http://arxiv.org/pdf/2302.12232v1)
 - 2023-02-23, **Federated Nearest Neighbor Machine Translation**, Yichao Du et.al., Paper: [http://arxiv.org/abs/2302.12211v1](http://arxiv.org/abs/2302.12211v1), Paper: [http://arxiv.org/abs/2302.12211v1](http://arxiv.org/pdf/2302.12211v1)
 - 2023-02-23, **A Neural Span-Based Continual Named Entity Recognition Model**, Yunan Zhang et.al., Paper: [http://arxiv.org/abs/2302.12200v1](http://arxiv.org/abs/2302.12200v1),Paper: [http://arxiv.org/abs/2302.12200v1](http://arxiv.org/pdf/2302.12200v1), Code: **[https://github.com/qznan/spankl](https://github.com/qznan/spankl)**
