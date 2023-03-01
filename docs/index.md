@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.28
+## Updated on 2023.03.01
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-02-27**|**GRB 221009A, The BOAT**|Eric Burns et.al.|[2302.14037v1](http://arxiv.org/abs/2302.14037v1)|[2302.14037v1](http://arxiv.org/pdf/2302.14037v1)|null|
 |**2023-02-27**|**New mechanisms for forming multiple hotspots in radio jets**|Maya A. Horton et.al.|[2302.14023v1](http://arxiv.org/abs/2302.14023v1)|[2302.14023v1](http://arxiv.org/pdf/2302.14023v1)|null|
 |**2023-02-27**|**Magnetic Effects and 3D Structure in Theoretical High-Resolution Transmission Spectra of Ultrahot Jupiters: the Case of WASP-76b**|Hayley Beltz et.al.|[2302.13969v1](http://arxiv.org/abs/2302.13969v1)|[2302.13969v1](http://arxiv.org/pdf/2302.13969v1)|null|
-|**2023-02-27**|**Exploring the influence of different velocity fields on Wolf-Rayet star spectra**|Roel R. Lefever et.al.|[2302.13964v1](http://arxiv.org/abs/2302.13964v1)|[2302.13964v1](http://arxiv.org/pdf/2302.13964v1)|null|
+|**2023-02-28**|**Exploring the influence of different velocity fields on Wolf-Rayet star spectra**|Roel R. Lefever et.al.|[2302.13964v2](http://arxiv.org/abs/2302.13964v2)|[2302.13964v2](http://arxiv.org/pdf/2302.13964v2)|null|
 |**2023-02-27**|**Two-photon production in low-velocity shocks**|S. R. Kulkarni et.al.|[2302.13963v1](http://arxiv.org/abs/2302.13963v1)|[2302.13963v1](http://arxiv.org/pdf/2302.13963v1)|null|
 |**2023-02-27**|**Swift/UVOT: 18 Years of Long GRB Discoveries and Advances**|S. R. Oates et.al.|[2302.13957v1](http://arxiv.org/abs/2302.13957v1)|[2302.13957v1](http://arxiv.org/pdf/2302.13957v1)|null|
 |**2023-02-27**|**Bayesian parameter estimation on boson-star binary signals with a coherent inspiral template and spin-dependent quadrupolar corrections**|Massimo Vaglio et.al.|[2302.13954v1](http://arxiv.org/abs/2302.13954v1)|[2302.13954v1](http://arxiv.org/pdf/2302.13954v1)|null|
@@ -1729,7 +1729,7 @@ layout: default
 |**2023-02-27**|**The ROOTS Search Tool: Data Transparency for LLMs**|Aleksandra Piktus et.al.|[2302.14035v1](http://arxiv.org/abs/2302.14035v1)|[2302.14035v1](http://arxiv.org/pdf/2302.14035v1)|null|
 |**2023-02-27**|**Quantifying Valence and Arousal in Text with Multilingual Pre-trained Transformers**|Gonçalo Azevedo Mendes et.al.|[2302.14021v1](http://arxiv.org/abs/2302.14021v1)|[2302.14021v1](http://arxiv.org/pdf/2302.14021v1)|**[link](https://github.com/gmendes9/multilingual_va_prediction)**|
 |**2023-02-27**|**CO-BED: Information-Theoretic Contextual Optimization via Bayesian Experimental Design**|Desi R. Ivanova et.al.|[2302.14015v1](http://arxiv.org/abs/2302.14015v1)|[2302.14015v1](http://arxiv.org/pdf/2302.14015v1)|null|
-|**2023-02-27**|**Revisiting Self-Training with Regularized Pseudo-Labeling for Tabular Data**|Miwook Kim et.al.|[2302.14013v1](http://arxiv.org/abs/2302.14013v1)|[2302.14013v1](http://arxiv.org/pdf/2302.14013v1)|null|
+|**2023-02-28**|**Revisiting Self-Training with Regularized Pseudo-Labeling for Tabular Data**|Minwook Kim et.al.|[2302.14013v2](http://arxiv.org/abs/2302.14013v2)|[2302.14013v2](http://arxiv.org/pdf/2302.14013v2)|null|
 |**2023-02-27**|**Systematic Rectification of Language Models via Dead-end Analysis**|Meng Cao et.al.|[2302.14003v1](http://arxiv.org/abs/2302.14003v1)|[2302.14003v1](http://arxiv.org/pdf/2302.14003v1)|**[link](https://github.com/mcao516/rectification-lm)**|
 |**2023-02-27**|**Learning to Generalize towards Unseen Domains via a Content-Aware Style Invariant Framework for Disease Detection from Chest X-rays**|Mohammad Zunaed et.al.|[2302.13991v1](http://arxiv.org/abs/2302.13991v1)|[2302.13991v1](http://arxiv.org/pdf/2302.13991v1)|**[link](https://github.com/rafizunaed/domain_agnostic_content_aware_style_invariant)**|
 |**2023-02-27**|**A Grammar for the Representation of Unmanned Aerial Vehicles with 3D Topologies**|Piergiuseppe Mallozzi et.al.|[2302.13980v1](http://arxiv.org/abs/2302.13980v1)|[2302.13980v1](http://arxiv.org/pdf/2302.13980v1)|null|
