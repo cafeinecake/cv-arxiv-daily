@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-28**|**Experimental Characterization of the Pyridine:Acetylene Co-crystal and Implications for Titan's Surface**|Ellen C. Czaplinski et.al.|[2302.14847v1](http://arxiv.org/abs/2302.14847v1)|[2302.14847v1](http://arxiv.org/pdf/2302.14847v1)|null|
+|**2023-02-28**|**Khronometric theories of modified Newtonian dynamics**|Eanna E. Flanagan et.al.|[2302.14846v1](http://arxiv.org/abs/2302.14846v1)|[2302.14846v1](http://arxiv.org/pdf/2302.14846v1)|null|
+|**2023-02-28**|**Long-term modulation of solar cycles**|Akash Biswas et.al.|[2302.14845v1](http://arxiv.org/abs/2302.14845v1)|[2302.14845v1](http://arxiv.org/pdf/2302.14845v1)|null|
+|**2023-02-28**|**Planetary Exploration Horizon 2061 Report Chapter 5: Enabling technologies for planetary exploration**|Manuel Grande et.al.|[2302.14832v1](http://arxiv.org/abs/2302.14832v1)|[2302.14832v1](http://arxiv.org/pdf/2302.14832v1)|null|
+|**2023-02-28**|**The JCMT Nearby Galaxies Legacy Survey: SCUBA-2 observations of nearby galaxies**|Kate Pattle et.al.|[2302.14800v1](http://arxiv.org/abs/2302.14800v1)|[2302.14800v1](http://arxiv.org/pdf/2302.14800v1)|null|
+|**2023-02-28**|**The GRETOBAPE gas-phase reaction network: the importance of being exothermic**|Lorenzo Tinacci et.al.|[2302.14799v1](http://arxiv.org/abs/2302.14799v1)|[2302.14799v1](http://arxiv.org/pdf/2302.14799v1)|null|
+|**2023-02-28**|**Deep Synoptic Array science: Two fast radio burst sources in massive galaxy clusters**|Liam Connor et.al.|[2302.14788v1](http://arxiv.org/abs/2302.14788v1)|[2302.14788v1](http://arxiv.org/pdf/2302.14788v1)|null|
+|**2023-02-28**|**Probing the rapid formation of black holes and their galaxy hosts in QSOs**|Karla Alejandra Cutiva-Alvarez et.al.|[2302.14783v1](http://arxiv.org/abs/2302.14783v1)|[2302.14783v1](http://arxiv.org/pdf/2302.14783v1)|null|
+|**2023-02-28**|**Deep Synoptic Array science: A massive elliptical host among two galaxy-cluster fast radio bursts**|Kritti Sharma et.al.|[2302.14782v1](http://arxiv.org/abs/2302.14782v1)|[2302.14782v1](http://arxiv.org/pdf/2302.14782v1)|null|
+|**2023-02-28**|**A variant on the mechanism for bar instabilities**|J A Sellwood et.al.|[2302.14775v1](http://arxiv.org/abs/2302.14775v1)|[2302.14775v1](http://arxiv.org/pdf/2302.14775v1)|null|
 |**2023-02-27**|**Nuclear and electromagnetic cascades induced by ultrahigh-energy cosmic rays in radio galaxies: implications for Centaurus A**|B. Theodore Zhang et.al.|[2302.14048v1](http://arxiv.org/abs/2302.14048v1)|[2302.14048v1](http://arxiv.org/pdf/2302.14048v1)|null|
 |**2023-02-27**|**GRB 221009A, The BOAT**|Eric Burns et.al.|[2302.14037v1](http://arxiv.org/abs/2302.14037v1)|[2302.14037v1](http://arxiv.org/pdf/2302.14037v1)|null|
 |**2023-02-27**|**New mechanisms for forming multiple hotspots in radio jets**|Maya A. Horton et.al.|[2302.14023v1](http://arxiv.org/abs/2302.14023v1)|[2302.14023v1](http://arxiv.org/pdf/2302.14023v1)|null|
@@ -1723,6 +1733,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-02-28**|**EvoPrompting: Language Models for Code-Level Neural Architecture Search**|Angelica Chen et.al.|[2302.14838v1](http://arxiv.org/abs/2302.14838v1)|[2302.14838v1](http://arxiv.org/pdf/2302.14838v1)|null|
+|**2023-02-28**|**Framelet Message Passing**|Xinliang Liu et.al.|[2302.14806v1](http://arxiv.org/abs/2302.14806v1)|[2302.14806v1](http://arxiv.org/pdf/2302.14806v1)|null|
+|**2023-02-28**|**3D Coronary Vessel Reconstruction from Bi-Plane Angiography using Graph Convolutional Networks**|Kit Mills Bransby et.al.|[2302.14795v1](http://arxiv.org/abs/2302.14795v1)|[2302.14795v1](http://arxiv.org/pdf/2302.14795v1)|null|
+|**2023-02-28**|**VQA with Cascade of Self- and Co-Attention Blocks**|Aakansha Mishra et.al.|[2302.14777v1](http://arxiv.org/abs/2302.14777v1)|[2302.14777v1](http://arxiv.org/pdf/2302.14777v1)|null|
+|**2023-02-28**|**Learning Hidden Markov Models Using Conditional Samples**|Sham M. Kakade et.al.|[2302.14753v1](http://arxiv.org/abs/2302.14753v1)|[2302.14753v1](http://arxiv.org/pdf/2302.14753v1)|null|
+|**2023-02-28**|**Constrained Bayesian Optimization for Automatic Underwater Vehicle Hull Design**|Harsh Vardhan et.al.|[2302.14732v1](http://arxiv.org/abs/2302.14732v1)|[2302.14732v1](http://arxiv.org/pdf/2302.14732v1)|null|
+|**2023-02-28**|**Automatically Classifying Emotions based on Text: A Comparative Exploration of Different Datasets**|Anna Koufakou et.al.|[2302.14727v1](http://arxiv.org/abs/2302.14727v1)|[2302.14727v1](http://arxiv.org/pdf/2302.14727v1)|null|
+|**2023-02-28**|**Spiking Neural Network Nonlinear Demapping on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2302.14726v1](http://arxiv.org/abs/2302.14726v1)|[2302.14726v1](http://arxiv.org/pdf/2302.14726v1)|null|
+|**2023-02-28**|**Generating Accurate Virtual Examples For Lifelong Machine Learning**|Sazia Mahfuz et.al.|[2302.14712v1](http://arxiv.org/abs/2302.14712v1)|[2302.14712v1](http://arxiv.org/pdf/2302.14712v1)|null|
+|**2023-02-28**|**Improving Expert Specialization in Mixture of Experts**|Yamuna Krishnamurthy et.al.|[2302.14703v1](http://arxiv.org/abs/2302.14703v1)|[2302.14703v1](http://arxiv.org/pdf/2302.14703v1)|null|
 |**2023-02-27**|**Internet Explorer: Targeted Representation Learning on the Open Web**|Alexander C. Li et.al.|[2302.14051v1](http://arxiv.org/abs/2302.14051v1)|[2302.14051v1](http://arxiv.org/pdf/2302.14051v1)|**[link](https://github.com/internet-explorer-ssl/internet-explorer)**|
 |**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|[2302.14045v1](http://arxiv.org/pdf/2302.14045v1)|null|
 |**2023-02-27**|**Permutation Equivariant Neural Functionals**|Allan Zhou et.al.|[2302.14040v1](http://arxiv.org/abs/2302.14040v1)|[2302.14040v1](http://arxiv.org/pdf/2302.14040v1)|null|
