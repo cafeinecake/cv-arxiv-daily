@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-02**|**Robustness Measures for Molecular Detections using High-Resolution Transmission Spectroscopy of Exoplanets**|Connor J. Cheverall et.al.|[2303.01496v1](http://arxiv.org/abs/2303.01496v1)|[2303.01496v1](http://arxiv.org/pdf/2303.01496v1)|null|
+|**2023-03-02**|**Detailed shapes of the line-of-sight velocity distributions in massive early-type galaxies from non-parametric spectral models**|Kianusch Mehrgan et.al.|[2303.01495v1](http://arxiv.org/abs/2303.01495v1)|[2303.01495v1](http://arxiv.org/pdf/2303.01495v1)|null|
+|**2023-03-02**|**VARAHA: A Fast Non-Markovian sampler for estimating Gravitational-Wave posteriors**|Vaibhav Tiwari et.al.|[2303.01463v1](http://arxiv.org/abs/2303.01463v1)|[2303.01463v1](http://arxiv.org/pdf/2303.01463v1)|null|
+|**2023-03-02**|**Near-infrared Polarization Charateristics of the Zodiacal Light Observed with DIRBE/COBE**|Kohji Takimoto et.al.|[2303.01458v1](http://arxiv.org/abs/2303.01458v1)|[2303.01458v1](http://arxiv.org/pdf/2303.01458v1)|null|
+|**2023-03-02**|**Radio detections of two unusual cataclysmic variables in the VLA Sky Survey**|Margaret E Ridder et.al.|[2303.01438v1](http://arxiv.org/abs/2303.01438v1)|[2303.01438v1](http://arxiv.org/pdf/2303.01438v1)|null|
+|**2023-03-02**|**Roll Angle Adjustment Dims Starlink Satellites**|Anthony Mallama et.al.|[2303.01431v1](http://arxiv.org/abs/2303.01431v1)|[2303.01431v1](http://arxiv.org/pdf/2303.01431v1)|null|
+|**2023-03-02**|**Eccentricity-tide coupling: impact on binary neutron stars and extreme mass-ratio inspirals**|John Paul Bernaldez et.al.|[2303.01398v1](http://arxiv.org/abs/2303.01398v1)|[2303.01398v1](http://arxiv.org/pdf/2303.01398v1)|null|
+|**2023-03-02**|**Expected polarization properties of non-magnetized CCOs**|Valery F. Suleimanov et.al.|[2303.01382v1](http://arxiv.org/abs/2303.01382v1)|[2303.01382v1](http://arxiv.org/pdf/2303.01382v1)|null|
+|**2023-03-02**|**Raising the observed metallicity floor with a 3D non-LTE analysis of SDSS J102915.14+172927.9**|C. Lagae et.al.|[2303.01374v1](http://arxiv.org/abs/2303.01374v1)|[2303.01374v1](http://arxiv.org/pdf/2303.01374v1)|null|
+|**2023-03-02**|**Abundance analysis of a nitrogen-rich extreme-helium hot subdwarf from the SALT survey**|L. J. A. Scott. et.al.|[2303.01367v1](http://arxiv.org/abs/2303.01367v1)|[2303.01367v1](http://arxiv.org/pdf/2303.01367v1)|null|
 |**2023-03-01**|**Clumpy Structures within the Turbulent Primordial Cloud**|Ching-Yao Tang et.al.|[2303.00751v1](http://arxiv.org/abs/2303.00751v1)|[2303.00751v1](http://arxiv.org/pdf/2303.00751v1)|null|
 |**2023-03-01**|**Canonical Hubble-Tension-Resolving Early Dark Energy Cosmologies are Inconsistent with the Lyman-$α$ Forest**|Samuel Goldstein et.al.|[2303.00746v1](http://arxiv.org/abs/2303.00746v1)|[2303.00746v1](http://arxiv.org/pdf/2303.00746v1)|null|
 |**2023-03-01**|**Shocks and Photoionization of the Inner 650 AU Jet of the Interacting Binary Star R Aquarii from Multiwavelength Hubble Space Telescope Observations**|Caroline D. Huang et.al.|[2303.00734v1](http://arxiv.org/abs/2303.00734v1)|[2303.00734v1](http://arxiv.org/pdf/2303.00734v1)|null|
@@ -1743,6 +1753,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-02**|**Computational Language Acquisition with Theory of Mind**|Andy Liu et.al.|[2303.01502v1](http://arxiv.org/abs/2303.01502v1)|[2303.01502v1](http://arxiv.org/pdf/2303.01502v1)|**[link](https://github.com/neulab/tom-language-acquisition)**|
+|**2023-03-02**|**Dropout Reduces Underfitting**|Zhuang Liu et.al.|[2303.01500v1](http://arxiv.org/abs/2303.01500v1)|[2303.01500v1](http://arxiv.org/pdf/2303.01500v1)|**[link](https://github.com/facebookresearch/dropout)**|
+|**2023-03-02**|**Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**|Siddhant Haldar et.al.|[2303.01497v1](http://arxiv.org/abs/2303.01497v1)|[2303.01497v1](http://arxiv.org/pdf/2303.01497v1)|null|
+|**2023-03-02**|**Self-Improving Robots: End-to-End Autonomous Visuomotor Reinforcement Learning**|Archit Sharma et.al.|[2303.01488v1](http://arxiv.org/abs/2303.01488v1)|[2303.01488v1](http://arxiv.org/pdf/2303.01488v1)|null|
+|**2023-03-02**|**Predicting Motion Plans for Articulating Everyday Objects**|Arjun Gupta et.al.|[2303.01484v1](http://arxiv.org/abs/2303.01484v1)|[2303.01484v1](http://arxiv.org/pdf/2303.01484v1)|null|
+|**2023-03-02**|**MoSFPAD: An end-to-end Ensemble of MobileNet and Support Vector Classifier for Fingerprint Presentation Attack Detection**|Anuj Rai et.al.|[2303.01465v1](http://arxiv.org/abs/2303.01465v1)|[2303.01465v1](http://arxiv.org/pdf/2303.01465v1)|null|
+|**2023-03-02**|**AI as mediator between composers, sound designers, and creative media producers**|Sebastian Löbbers et.al.|[2303.01457v1](http://arxiv.org/abs/2303.01457v1)|[2303.01457v1](http://arxiv.org/pdf/2303.01457v1)|null|
+|**2023-03-02**|**Do Machine Learning Models Learn Common Sense?**|Aaditya Naik et.al.|[2303.01433v1](http://arxiv.org/abs/2303.01433v1)|[2303.01433v1](http://arxiv.org/pdf/2303.01433v1)|null|
+|**2023-03-02**|**Topological phononic metamaterials**|Weiwei Zhu et.al.|[2303.01426v1](http://arxiv.org/abs/2303.01426v1)|[2303.01426v1](http://arxiv.org/pdf/2303.01426v1)|null|
+|**2023-03-02**|**3D generation on ImageNet**|Ivan Skorokhodov et.al.|[2303.01416v1](http://arxiv.org/abs/2303.01416v1)|[2303.01416v1](http://arxiv.org/pdf/2303.01416v1)|null|
 |**2023-03-01**|**Clumpy Structures within the Turbulent Primordial Cloud**|Ching-Yao Tang et.al.|[2303.00751v1](http://arxiv.org/abs/2303.00751v1)|[2303.00751v1](http://arxiv.org/pdf/2303.00751v1)|null|
 |**2023-03-01**|**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**|Kai-Wei Chang et.al.|[2303.00733v1](http://arxiv.org/abs/2303.00733v1)|[2303.00733v1](http://arxiv.org/pdf/2303.00733v1)|null|
 |**2023-03-01**|**A Systematic Analysis of Vocabulary and BPE Settings for Optimal Fine-tuning of NMT: A Case Study of In-domain Translation**|J. Pourmostafa Roshan Sharami et.al.|[2303.00722v1](http://arxiv.org/abs/2303.00722v1)|[2303.00722v1](http://arxiv.org/pdf/2303.00722v1)|null|
