@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-03**|**YSE-PZ: A Transient Survey Management Platform that Empowers the Human-in-the-Loop**|D. A. Coulter et.al.|[2303.02154v1](http://arxiv.org/abs/2303.02154v1)|[2303.02154v1](http://arxiv.org/pdf/2303.02154v1)|null|
+|**2023-03-03**|**Exploring the diversity and similarity of radially anisotropic Milky Way-like stellar haloes: implications for dwarf galaxy searches**|Matthew D. A. Orkney et.al.|[2303.02147v1](http://arxiv.org/abs/2303.02147v1)|[2303.02147v1](http://arxiv.org/pdf/2303.02147v1)|null|
+|**2023-03-03**|**Weak Deflection Angle, Greybody Bound and Shadow for Charged Massive BTZ Black Hole**|Sudhaker Upadhyay et.al.|[2303.02132v1](http://arxiv.org/abs/2303.02132v1)|[2303.02132v1](http://arxiv.org/pdf/2303.02132v1)|null|
+|**2023-03-03**|**Black Hole Photon Rings Beyond General Relativity**|Seppe Staelens et.al.|[2303.02111v1](http://arxiv.org/abs/2303.02111v1)|[2303.02111v1](http://arxiv.org/pdf/2303.02111v1)|null|
+|**2023-03-03**|**Physical non-viability of a wide class of $f(R)$ models and their constant-curvature solutions**|Adrián Casado-Turrión et.al.|[2303.02103v1](http://arxiv.org/abs/2303.02103v1)|[2303.02103v1](http://arxiv.org/pdf/2303.02103v1)|null|
+|**2023-03-03**|**Orbital Period Change of Dimorphos Due to the DART Kinetic Impact**|Cristina A. Thomas et.al.|[2303.02077v1](http://arxiv.org/abs/2303.02077v1)|[2303.02077v1](http://arxiv.org/pdf/2303.02077v1)|null|
+|**2023-03-03**|**Constraining Chameleon screening using galaxy cluster dynamics**|Yacer Boumechta et.al.|[2303.02074v1](http://arxiv.org/abs/2303.02074v1)|[2303.02074v1](http://arxiv.org/pdf/2303.02074v1)|null|
+|**2023-03-03**|**A review on analytical studies in Gravitational Lensing**|Abhishek Chowdhuri et.al.|[2303.02069v1](http://arxiv.org/abs/2303.02069v1)|[2303.02069v1](http://arxiv.org/pdf/2303.02069v1)|null|
+|**2023-03-03**|**Tagging and localisation of ionizing events using NbSi transition edge phonon sensors for Dark Matter searches**|EDELWEISS Collaboration et.al.|[2303.02067v1](http://arxiv.org/abs/2303.02067v1)|[2303.02067v1](http://arxiv.org/pdf/2303.02067v1)|null|
+|**2023-03-03**|**Unified description of corpuscular and fuzzy bosonic dark matter**|Nick P. Proukakis et.al.|[2303.02049v1](http://arxiv.org/abs/2303.02049v1)|[2303.02049v1](http://arxiv.org/pdf/2303.02049v1)|null|
 |**2023-03-02**|**Robustness Measures for Molecular Detections using High-Resolution Transmission Spectroscopy of Exoplanets**|Connor J. Cheverall et.al.|[2303.01496v1](http://arxiv.org/abs/2303.01496v1)|[2303.01496v1](http://arxiv.org/pdf/2303.01496v1)|null|
 |**2023-03-02**|**Detailed shapes of the line-of-sight velocity distributions in massive early-type galaxies from non-parametric spectral models**|Kianusch Mehrgan et.al.|[2303.01495v1](http://arxiv.org/abs/2303.01495v1)|[2303.01495v1](http://arxiv.org/pdf/2303.01495v1)|null|
 |**2023-03-02**|**VARAHA: A Fast Non-Markovian sampler for estimating Gravitational-Wave posteriors**|Vaibhav Tiwari et.al.|[2303.01463v1](http://arxiv.org/abs/2303.01463v1)|[2303.01463v1](http://arxiv.org/pdf/2303.01463v1)|null|
@@ -1753,6 +1763,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-03**|**Data Association Aware POMDP Planning with Hypothesis Pruning Performance Guarantees**|Moran Barenboim et.al.|[2303.02139v1](http://arxiv.org/abs/2303.02139v1)|[2303.02139v1](http://arxiv.org/pdf/2303.02139v1)|null|
+|**2023-03-03**|**Eventual Discounting Temporal Logic Counterfactual Experience Replay**|Cameron Voloshin et.al.|[2303.02135v1](http://arxiv.org/abs/2303.02135v1)|[2303.02135v1](http://arxiv.org/pdf/2303.02135v1)|null|
+|**2023-03-03**|**Need for Objective Task-based Evaluation of Deep Learning-Based Denoising Methods: A Study in the Context of Myocardial Perfusion SPECT**|Zitong Yu et.al.|[2303.02110v1](http://arxiv.org/abs/2303.02110v1)|[2303.02110v1](http://arxiv.org/pdf/2303.02110v1)|null|
+|**2023-03-03**|**Graph-based Global Robot Localization Informing Situational Graphs with Architectural Graphs**|Muhammad Shaheer et.al.|[2303.02076v1](http://arxiv.org/abs/2303.02076v1)|[2303.02076v1](http://arxiv.org/pdf/2303.02076v1)|null|
+|**2023-03-03**|**The barriers to sustainable risk transfer in the cyber-insurance market**|Henry Skeoch et.al.|[2303.02061v1](http://arxiv.org/abs/2303.02061v1)|[2303.02061v1](http://arxiv.org/pdf/2303.02061v1)|null|
+|**2023-03-03**|**Uncertainty Estimation by Fisher Information-based Evidential Deep Learning**|Danruo Deng et.al.|[2303.02045v1](http://arxiv.org/abs/2303.02045v1)|[2303.02045v1](http://arxiv.org/pdf/2303.02045v1)|null|
+|**2023-03-03**|**An Integrated Real-time UAV Trajectory Optimization with Potential Field Approach for Dynamic Collision Avoidance**|D. M. K. K. Venkateswara Rao et.al.|[2303.02043v1](http://arxiv.org/abs/2303.02043v1)|[2303.02043v1](http://arxiv.org/pdf/2303.02043v1)|null|
+|**2023-03-03**|**Linear CNNs Discover the Statistical Structure of the Dataset Using Only the Most Dominant Frequencies**|Hannah Pinson et.al.|[2303.02034v1](http://arxiv.org/abs/2303.02034v1)|[2303.02034v1](http://arxiv.org/pdf/2303.02034v1)|null|
+|**2023-03-03**|**Topic Modeling Based on Two-Step Flow Theory: Application to Tweets about Bitcoin**|Aos Mulahuwaish et.al.|[2303.02032v1](http://arxiv.org/abs/2303.02032v1)|[2303.02032v1](http://arxiv.org/pdf/2303.02032v1)|null|
+|**2023-03-03**|**Calibration of Quantum Decision Theory: Aversion to Large Losses and Predictability of Probabilistic Choices**|T. Kovalenko et.al.|[2303.02028v1](http://arxiv.org/abs/2303.02028v1)|[2303.02028v1](http://arxiv.org/pdf/2303.02028v1)|null|
 |**2023-03-02**|**Computational Language Acquisition with Theory of Mind**|Andy Liu et.al.|[2303.01502v1](http://arxiv.org/abs/2303.01502v1)|[2303.01502v1](http://arxiv.org/pdf/2303.01502v1)|**[link](https://github.com/neulab/tom-language-acquisition)**|
 |**2023-03-02**|**Dropout Reduces Underfitting**|Zhuang Liu et.al.|[2303.01500v1](http://arxiv.org/abs/2303.01500v1)|[2303.01500v1](http://arxiv.org/pdf/2303.01500v1)|**[link](https://github.com/facebookresearch/dropout)**|
 |**2023-03-02**|**Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**|Siddhant Haldar et.al.|[2303.01497v1](http://arxiv.org/abs/2303.01497v1)|[2303.01497v1](http://arxiv.org/pdf/2303.01497v1)|null|
