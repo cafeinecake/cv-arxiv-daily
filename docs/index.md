@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.06
+## Updated on 2023.03.07
 
 ## Astrophysics
 
@@ -1765,7 +1765,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-03-03**|**Data Association Aware POMDP Planning with Hypothesis Pruning Performance Guarantees**|Moran Barenboim et.al.|[2303.02139v1](http://arxiv.org/abs/2303.02139v1)|[2303.02139v1](http://arxiv.org/pdf/2303.02139v1)|null|
 |**2023-03-03**|**Eventual Discounting Temporal Logic Counterfactual Experience Replay**|Cameron Voloshin et.al.|[2303.02135v1](http://arxiv.org/abs/2303.02135v1)|[2303.02135v1](http://arxiv.org/pdf/2303.02135v1)|null|
-|**2023-03-03**|**Need for Objective Task-based Evaluation of Deep Learning-Based Denoising Methods: A Study in the Context of Myocardial Perfusion SPECT**|Zitong Yu et.al.|[2303.02110v1](http://arxiv.org/abs/2303.02110v1)|[2303.02110v1](http://arxiv.org/pdf/2303.02110v1)|null|
+|**2023-03-06**|**Need for Objective Task-based Evaluation of Deep Learning-Based Denoising Methods: A Study in the Context of Myocardial Perfusion SPECT**|Zitong Yu et.al.|[2303.02110v2](http://arxiv.org/abs/2303.02110v2)|[2303.02110v2](http://arxiv.org/pdf/2303.02110v2)|null|
 |**2023-03-03**|**Graph-based Global Robot Localization Informing Situational Graphs with Architectural Graphs**|Muhammad Shaheer et.al.|[2303.02076v1](http://arxiv.org/abs/2303.02076v1)|[2303.02076v1](http://arxiv.org/pdf/2303.02076v1)|null|
 |**2023-03-03**|**The barriers to sustainable risk transfer in the cyber-insurance market**|Henry Skeoch et.al.|[2303.02061v1](http://arxiv.org/abs/2303.02061v1)|[2303.02061v1](http://arxiv.org/pdf/2303.02061v1)|null|
 |**2023-03-03**|**Uncertainty Estimation by Fisher Information-based Evidential Deep Learning**|Danruo Deng et.al.|[2303.02045v1](http://arxiv.org/abs/2303.02045v1)|[2303.02045v1](http://arxiv.org/pdf/2303.02045v1)|null|
