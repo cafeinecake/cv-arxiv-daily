@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-03-08**|**Lopsided Satellite Distributions around Isolated Host Galaxies in a LCDM Universe**|Adam Samuels et.al.|[2303.04802v1](http://arxiv.org/abs/2303.04802v1)|[2303.04802v1](http://arxiv.org/pdf/2303.04802v1)|null|
+|**2023-03-08**|**Testing the growth rate in homogeneous and inhomogeneous interacting vacuum models**|H. A. Borges et.al.|[2303.04793v1](http://arxiv.org/abs/2303.04793v1)|[2303.04793v1](http://arxiv.org/pdf/2303.04793v1)|null|
+|**2023-03-08**|**Reconciling astronomical distance scales with variable red giant stars**|Richard I. Anderson et.al.|[2303.04790v1](http://arxiv.org/abs/2303.04790v1)|[2303.04790v1](http://arxiv.org/pdf/2303.04790v1)|null|
+|**2023-03-08**|**Impact of Changing Stellar and Planetary Magnetic Fields on (Exo)planetary Environments and Atmospheric Mass Loss**|Sakshi Gupta et.al.|[2303.04770v1](http://arxiv.org/abs/2303.04770v1)|[2303.04770v1](http://arxiv.org/pdf/2303.04770v1)|null|
+|**2023-03-08**|**The Atacama Cosmology Telescope: Systematic Transient Search of 3-Day Maps**|Yaqiong Li et.al.|[2303.04767v1](http://arxiv.org/abs/2303.04767v1)|[2303.04767v1](http://arxiv.org/pdf/2303.04767v1)|null|
+|**2023-03-08**|**Lorentz and CPT breaking in gamma-ray burst neutrinos from string theory**|Chengyi Li et.al.|[2303.04765v1](http://arxiv.org/abs/2303.04765v1)|[2303.04765v1](http://arxiv.org/pdf/2303.04765v1)|null|
+|**2023-03-08**|**Large Interferometer For Exoplanets (LIFE): X. Assessing the Impact of Clouds on Atmospheric Retrievals at Mid-Infrared Wavelengths with a Venus-Twin Exoplanet**|B. S. Konrad et.al.|[2303.04727v1](http://arxiv.org/abs/2303.04727v1)|[2303.04727v1](http://arxiv.org/pdf/2303.04727v1)|null|
+|**2023-03-08**|**PEARLS: Low Stellar Density Galaxies in the El Gordo Cluster Observed with JWST**|Timothy Carleton et.al.|[2303.04726v1](http://arxiv.org/abs/2303.04726v1)|[2303.04726v1](http://arxiv.org/pdf/2303.04726v1)|null|
+|**2023-03-08**|**Transient obscuration event captured in NGC 3227 IV. Origin of the obscuring cloud variability**|S. Grafton-Waters et.al.|[2303.04717v1](http://arxiv.org/abs/2303.04717v1)|[2303.04717v1](http://arxiv.org/pdf/2303.04717v1)|null|
+|**2023-03-08**|**Continuous gravitational waves from Galactic neutron stars: demography, detectability and prospects**|Gianluca Pagliaro et.al.|[2303.04714v1](http://arxiv.org/abs/2303.04714v1)|[2303.04714v1](http://arxiv.org/pdf/2303.04714v1)|null|
 |**2023-03-07**|**The Neutron Mean Life and Big Bang Nucleosynthesis**|Tsung-Han Yeh et.al.|[2303.04140v1](http://arxiv.org/abs/2303.04140v1)|[2303.04140v1](http://arxiv.org/pdf/2303.04140v1)|null|
 |**2023-03-07**|**A nearly constant CN/HCN line ratio in nearby galaxies: CN as a new tracer of dense gas**|Christine D. Wilson et.al.|[2303.04110v1](http://arxiv.org/abs/2303.04110v1)|[2303.04110v1](http://arxiv.org/pdf/2303.04110v1)|null|
 |**2023-03-07**|**Deep Einstein@Home all-sky search for continuous gravitational waves in LIGO O3 public data**|B. Steltner et.al.|[2303.04109v1](http://arxiv.org/abs/2303.04109v1)|[2303.04109v1](http://arxiv.org/pdf/2303.04109v1)|null|
@@ -1779,6 +1789,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-03-08**|**Multimodal Parameter-Efficient Few-Shot Class Incremental Learning**|Marco D'Alessandro et.al.|[2303.04751v1](http://arxiv.org/abs/2303.04751v1)|[2303.04751v1](http://arxiv.org/pdf/2303.04751v1)|null|
+|**2023-03-08**|**Vector Quantized Time Series Generation with a Bidirectional Prior Model**|Daesoo Lee et.al.|[2303.04743v1](http://arxiv.org/abs/2303.04743v1)|[2303.04743v1](http://arxiv.org/pdf/2303.04743v1)|**[link](https://github.com/ml4its/timevqvae)**|
+|**2023-03-08**|**Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**|Truong Thanh Hung Nguyen et.al.|[2303.04731v1](http://arxiv.org/abs/2303.04731v1)|[2303.04731v1](http://arxiv.org/pdf/2303.04731v1)|**[link](https://github.com/hungntt/xai_thyroid)**|
+|**2023-03-08**|**Examples of Hirzebruch-Milnor classes of projective hypersurfaces detecting higher du Bois or rational singularities**|Morihiko Saito et.al.|[2303.04724v1](http://arxiv.org/abs/2303.04724v1)|[2303.04724v1](http://arxiv.org/pdf/2303.04724v1)|null|
+|**2023-03-08**|**Extending the Pre-Training of BLOOM for Improved Support of Traditional Chinese: Models, Methods and Results**|Philipp Ennen et.al.|[2303.04715v1](http://arxiv.org/abs/2303.04715v1)|[2303.04715v1](http://arxiv.org/pdf/2303.04715v1)|null|
+|**2023-03-08**|**Self-contained Beta-with-Spikes Approximation for Inference Under a Wright-Fisher Model**|Juan Guerrero Montero et.al.|[2303.04691v1](http://arxiv.org/abs/2303.04691v1)|[2303.04691v1](http://arxiv.org/pdf/2303.04691v1)|null|
+|**2023-03-08**|**Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference**|Chi Wang et.al.|[2303.04673v1](http://arxiv.org/abs/2303.04673v1)|[2303.04673v1](http://arxiv.org/pdf/2303.04673v1)|**[link](https://github.com/microsoft/FLAML)**|
+|**2023-03-08**|**Neural Probabilistic Logic Programming in Discrete-Continuous Domains**|Lennert De Smet et.al.|[2303.04660v1](http://arxiv.org/abs/2303.04660v1)|[2303.04660v1](http://arxiv.org/pdf/2303.04660v1)|null|
+|**2023-03-08**|**MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**|Guoliang He et.al.|[2303.04651v1](http://arxiv.org/abs/2303.04651v1)|[2303.04651v1](http://arxiv.org/pdf/2303.04651v1)|null|
+|**2023-03-08**|**Forecasting the movements of Bitcoin prices: an application of machine learning algorithms**|Hakan Pabuccu et.al.|[2303.04642v1](http://arxiv.org/abs/2303.04642v1)|[2303.04642v1](http://arxiv.org/pdf/2303.04642v1)|null|
 |**2023-03-07**|**Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**|Boris Knyazev et.al.|[2303.04143v1](http://arxiv.org/abs/2303.04143v1)|[2303.04143v1](http://arxiv.org/pdf/2303.04143v1)|null|
 |**2023-03-07**|**From Copilot to Pilot: Towards AI Supported Software Development**|Rohith Pudari et.al.|[2303.04142v1](http://arxiv.org/abs/2303.04142v1)|[2303.04142v1](http://arxiv.org/pdf/2303.04142v1)|null|
 |**2023-03-07**|**Toward Defining a Domain Complexity Measure Across Domains**|Katarina Doctor et.al.|[2303.04141v1](http://arxiv.org/abs/2303.04141v1)|[2303.04141v1](http://arxiv.org/pdf/2303.04141v1)|null|
