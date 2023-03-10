@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-09**|**3D hydrodynamic simulations of massive main-sequence stars. I. Dynamics and mixing of convection and internal gravity waves**|Falk Herwig et.al.|[2303.05495v1](http://arxiv.org/abs/2303.05495v1)|[2303.05495v1](http://arxiv.org/pdf/2303.05495v1)|null|
+|**2023-03-09**|**Resonant production of dark photons from axion without a large coupling**|Naoya Kitajima et.al.|[2303.05492v1](http://arxiv.org/abs/2303.05492v1)|[2303.05492v1](http://arxiv.org/pdf/2303.05492v1)|null|
+|**2023-03-09**|**IXPE and NICER view of Black hole X-ray binary 4U 1630-47: First significant detection of polarized emission in thermal state**|Ankur Kushwaha et.al.|[2303.05462v1](http://arxiv.org/abs/2303.05462v1)|[2303.05462v1](http://arxiv.org/pdf/2303.05462v1)|null|
+|**2023-03-09**|**Probing spherical outbursts of neutron star mergers from an equation of state with composite nucleons**|Vikram Soni et.al.|[2303.05452v1](http://arxiv.org/abs/2303.05452v1)|[2303.05452v1](http://arxiv.org/pdf/2303.05452v1)|null|
+|**2023-03-09**|**Probing the Global Dust Properties and Cluster Formation Potential of the Giant Molecular Cloud G148.24+00.41**|Vineet Rawat et.al.|[2303.05449v1](http://arxiv.org/abs/2303.05449v1)|[2303.05449v1](http://arxiv.org/pdf/2303.05449v1)|null|
+|**2023-03-09**|**Predicting Solar Proton Events of Solar Cycles 22-24 using GOES Proton & Soft X-Ray Flux Statistics**|Aatiya Ali et.al.|[2303.05446v1](http://arxiv.org/abs/2303.05446v1)|[2303.05446v1](http://arxiv.org/pdf/2303.05446v1)|null|
+|**2023-03-09**|**On the origin of cosmic-ray ionisation in star-forming regions**|Marco Padovani et.al.|[2303.05440v1](http://arxiv.org/abs/2303.05440v1)|[2303.05440v1](http://arxiv.org/pdf/2303.05440v1)|null|
+|**2023-03-09**|**The carbon footprint of astronomical research infrastructures**|Jürgen Knödlseder et.al.|[2303.05424v1](http://arxiv.org/abs/2303.05424v1)|[2303.05424v1](http://arxiv.org/pdf/2303.05424v1)|null|
+|**2023-03-09**|**Eruption of a Magnetic Flux Rope in a Comprehensive Radiative Magnetohydrodynamic Simulation of flare-productive active regions**|Feng Chen et.al.|[2303.05405v1](http://arxiv.org/abs/2303.05405v1)|[2303.05405v1](http://arxiv.org/pdf/2303.05405v1)|null|
+|**2023-03-09**|**Orbital stability of two circumbinary planets around misaligned eccentric binaries**|Cheng Chen et.al.|[2303.05379v1](http://arxiv.org/abs/2303.05379v1)|[2303.05379v1](http://arxiv.org/pdf/2303.05379v1)|null|
 |**2023-03-08**|**Lopsided Satellite Distributions around Isolated Host Galaxies in a LCDM Universe**|Adam Samuels et.al.|[2303.04802v1](http://arxiv.org/abs/2303.04802v1)|[2303.04802v1](http://arxiv.org/pdf/2303.04802v1)|null|
 |**2023-03-08**|**Testing the growth rate in homogeneous and inhomogeneous interacting vacuum models**|H. A. Borges et.al.|[2303.04793v1](http://arxiv.org/abs/2303.04793v1)|[2303.04793v1](http://arxiv.org/pdf/2303.04793v1)|null|
 |**2023-03-08**|**Reconciling astronomical distance scales with variable red giant stars**|Richard I. Anderson et.al.|[2303.04790v1](http://arxiv.org/abs/2303.04790v1)|[2303.04790v1](http://arxiv.org/pdf/2303.04790v1)|null|
@@ -1793,6 +1803,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|[2303.05512v1](http://arxiv.org/pdf/2303.05512v1)|null|
+|**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|[2303.05510v1](http://arxiv.org/pdf/2303.05510v1)|null|
+|**2023-03-09**|**TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization**|Alan Jeffares et.al.|[2303.05506v1](http://arxiv.org/abs/2303.05506v1)|[2303.05506v1](http://arxiv.org/pdf/2303.05506v1)|**[link](https://github.com/vanderschaarlab/tangos)**|
+|**2023-03-09**|**Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision**|Tarun Kalluri et.al.|[2303.05503v1](http://arxiv.org/abs/2303.05503v1)|[2303.05503v1](http://arxiv.org/pdf/2303.05503v1)|null|
+|**2023-03-09**|**PDSketch: Integrated Planning Domain Programming and Learning**|Jiayuan Mao et.al.|[2303.05501v1](http://arxiv.org/abs/2303.05501v1)|[2303.05501v1](http://arxiv.org/pdf/2303.05501v1)|null|
+|**2023-03-09**|**Users are the North Star for AI Transparency**|Alex Mei et.al.|[2303.05500v1](http://arxiv.org/abs/2303.05500v1)|[2303.05500v1](http://arxiv.org/pdf/2303.05500v1)|null|
+|**2023-03-09**|**Mark My Words: Dangers of Watermarked Images in ImageNet**|Kirill Bykov et.al.|[2303.05498v1](http://arxiv.org/abs/2303.05498v1)|[2303.05498v1](http://arxiv.org/pdf/2303.05498v1)|null|
+|**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|[2303.05496v1](http://arxiv.org/pdf/2303.05496v1)|null|
+|**2023-03-09**|**On the Expressiveness and Generalization of Hypergraph Neural Networks**|Zhezheng Luo et.al.|[2303.05490v1](http://arxiv.org/abs/2303.05490v1)|[2303.05490v1](http://arxiv.org/pdf/2303.05490v1)|null|
+|**2023-03-09**|**Optimizing Quantum Noise-induced Reservoir Computing for Nonlinear and Chaotic Time Series Prediction**|Daniel Fry et.al.|[2303.05488v1](http://arxiv.org/abs/2303.05488v1)|[2303.05488v1](http://arxiv.org/pdf/2303.05488v1)|null|
 |**2023-03-08**|**Multimodal Parameter-Efficient Few-Shot Class Incremental Learning**|Marco D'Alessandro et.al.|[2303.04751v1](http://arxiv.org/abs/2303.04751v1)|[2303.04751v1](http://arxiv.org/pdf/2303.04751v1)|null|
 |**2023-03-08**|**Vector Quantized Time Series Generation with a Bidirectional Prior Model**|Daesoo Lee et.al.|[2303.04743v1](http://arxiv.org/abs/2303.04743v1)|[2303.04743v1](http://arxiv.org/pdf/2303.04743v1)|**[link](https://github.com/ml4its/timevqvae)**|
 |**2023-03-08**|**Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**|Truong Thanh Hung Nguyen et.al.|[2303.04731v1](http://arxiv.org/abs/2303.04731v1)|[2303.04731v1](http://arxiv.org/pdf/2303.04731v1)|**[link](https://github.com/hungntt/xai_thyroid)**|
