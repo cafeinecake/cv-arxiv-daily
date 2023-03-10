@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.09
+## Updated on 2023.03.10
 
 ## Astrophysics
 
@@ -1796,12 +1796,12 @@ layout: default
 |**2023-03-08**|**Multimodal Parameter-Efficient Few-Shot Class Incremental Learning**|Marco D'Alessandro et.al.|[2303.04751v1](http://arxiv.org/abs/2303.04751v1)|[2303.04751v1](http://arxiv.org/pdf/2303.04751v1)|null|
 |**2023-03-08**|**Vector Quantized Time Series Generation with a Bidirectional Prior Model**|Daesoo Lee et.al.|[2303.04743v1](http://arxiv.org/abs/2303.04743v1)|[2303.04743v1](http://arxiv.org/pdf/2303.04743v1)|**[link](https://github.com/ml4its/timevqvae)**|
 |**2023-03-08**|**Towards Trust of Explainable AI in Thyroid Nodule Diagnosis**|Truong Thanh Hung Nguyen et.al.|[2303.04731v1](http://arxiv.org/abs/2303.04731v1)|[2303.04731v1](http://arxiv.org/pdf/2303.04731v1)|**[link](https://github.com/hungntt/xai_thyroid)**|
-|**2023-03-08**|**Examples of Hirzebruch-Milnor classes of projective hypersurfaces detecting higher du Bois or rational singularities**|Morihiko Saito et.al.|[2303.04724v1](http://arxiv.org/abs/2303.04724v1)|[2303.04724v1](http://arxiv.org/pdf/2303.04724v1)|null|
+|**2023-03-09**|**Examples of Hirzebruch-Milnor classes of projective hypersurfaces detecting higher du Bois or rational singularities**|Morihiko Saito et.al.|[2303.04724v2](http://arxiv.org/abs/2303.04724v2)|[2303.04724v2](http://arxiv.org/pdf/2303.04724v2)|null|
 |**2023-03-08**|**Extending the Pre-Training of BLOOM for Improved Support of Traditional Chinese: Models, Methods and Results**|Philipp Ennen et.al.|[2303.04715v1](http://arxiv.org/abs/2303.04715v1)|[2303.04715v1](http://arxiv.org/pdf/2303.04715v1)|null|
 |**2023-03-08**|**Self-contained Beta-with-Spikes Approximation for Inference Under a Wright-Fisher Model**|Juan Guerrero Montero et.al.|[2303.04691v1](http://arxiv.org/abs/2303.04691v1)|[2303.04691v1](http://arxiv.org/pdf/2303.04691v1)|null|
 |**2023-03-08**|**Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference**|Chi Wang et.al.|[2303.04673v1](http://arxiv.org/abs/2303.04673v1)|[2303.04673v1](http://arxiv.org/pdf/2303.04673v1)|**[link](https://github.com/microsoft/FLAML)**|
 |**2023-03-08**|**Neural Probabilistic Logic Programming in Discrete-Continuous Domains**|Lennert De Smet et.al.|[2303.04660v1](http://arxiv.org/abs/2303.04660v1)|[2303.04660v1](http://arxiv.org/pdf/2303.04660v1)|null|
-|**2023-03-08**|**MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**|Guoliang He et.al.|[2303.04651v1](http://arxiv.org/abs/2303.04651v1)|[2303.04651v1](http://arxiv.org/pdf/2303.04651v1)|null|
+|**2023-03-08**|**MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder**|Guoliang He et.al.|[2303.04651v1](http://arxiv.org/abs/2303.04651v1)|[2303.04651v1](http://arxiv.org/pdf/2303.04651v1)|**[link](https://github.com/ucamrl/eqs)**|
 |**2023-03-08**|**Forecasting the movements of Bitcoin prices: an application of machine learning algorithms**|Hakan Pabuccu et.al.|[2303.04642v1](http://arxiv.org/abs/2303.04642v1)|[2303.04642v1](http://arxiv.org/pdf/2303.04642v1)|null|
 |**2023-03-07**|**Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**|Boris Knyazev et.al.|[2303.04143v1](http://arxiv.org/abs/2303.04143v1)|[2303.04143v1](http://arxiv.org/pdf/2303.04143v1)|null|
 |**2023-03-07**|**From Copilot to Pilot: Towards AI Supported Software Development**|Rohith Pudari et.al.|[2303.04142v1](http://arxiv.org/abs/2303.04142v1)|[2303.04142v1](http://arxiv.org/pdf/2303.04142v1)|null|
