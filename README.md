@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-03-10**|**Time-resolved Optical Polarization Monitoring of the Most Variable Brown Dwarf**|Elena Manjavacas et.al.|[2303.06144v1](http://arxiv.org/abs/2303.06144v1)|[2303.06144v1](http://arxiv.org/pdf/2303.06144v1)|null|
+|**2023-03-10**|**Cosmological measurements from void-galaxy and galaxy-galaxy clustering in the Sloan Digital Sky Survey**|Alex Woodfinden et.al.|[2303.06143v1](http://arxiv.org/abs/2303.06143v1)|[2303.06143v1](http://arxiv.org/pdf/2303.06143v1)|null|
+|**2023-03-10**|**The extended Planetary Nebula Spectrograph (ePN.S) early-type galaxy survey: The specific angular momentum of ETGs**|C. Pulsoni et.al.|[2303.06132v1](http://arxiv.org/abs/2303.06132v1)|[2303.06132v1](http://arxiv.org/pdf/2303.06132v1)|null|
+|**2023-03-10**|**New Constraints on Sodium Production in Globular Clusters From the $^{23}$Na$(^3$He$, \textbf{d})^{24}$Mg Reaction**|C. Marshall et.al.|[2303.06128v1](http://arxiv.org/abs/2303.06128v1)|[2303.06128v1](http://arxiv.org/pdf/2303.06128v1)|null|
+|**2023-03-10**|**3D hydrodynamic simulations of massive main-sequence stars II. Convective excitation and spectra of internal gravity waves**|William Thompson et.al.|[2303.06125v1](http://arxiv.org/abs/2303.06125v1)|[2303.06125v1](http://arxiv.org/pdf/2303.06125v1)|null|
+|**2023-03-10**|**Gravitomagnetism and galaxy rotation curves: a cautionary tale**|A. N. Lasenby et.al.|[2303.06115v1](http://arxiv.org/abs/2303.06115v1)|[2303.06115v1](http://arxiv.org/pdf/2303.06115v1)|null|
+|**2023-03-10**|**One-loop Gravitational Bremsstrahlung and Waveforms from a Heavy-Mass Effective Field Theory**|Andreas Brandhuber et.al.|[2303.06111v1](http://arxiv.org/abs/2303.06111v1)|[2303.06111v1](http://arxiv.org/pdf/2303.06111v1)|null|
+|**2023-03-10**|**The connection between stellar mass, age and quenching timescale in massive quiescent galaxies at $z \simeq 1$**|M. L. Hamadouche et.al.|[2303.06107v1](http://arxiv.org/abs/2303.06107v1)|[2303.06107v1](http://arxiv.org/pdf/2303.06107v1)|null|
+|**2023-03-10**|**First Observation of Chromospheric Waves in a Sunspot by DKIST/ViSP: The Anatomy of an Umbral Flash**|Ryan J. French et.al.|[2303.06105v1](http://arxiv.org/abs/2303.06105v1)|[2303.06105v1](http://arxiv.org/pdf/2303.06105v1)|null|
+|**2023-03-10**|**Statistical Study of the Correlation between Solar Energetic Particles and Properties of Active Regions**|Russell D. Marroquin et.al.|[2303.06100v1](http://arxiv.org/abs/2303.06100v1)|[2303.06100v1](http://arxiv.org/pdf/2303.06100v1)|null|
 |**2023-03-09**|**3D hydrodynamic simulations of massive main-sequence stars. I. Dynamics and mixing of convection and internal gravity waves**|Falk Herwig et.al.|[2303.05495v1](http://arxiv.org/abs/2303.05495v1)|[2303.05495v1](http://arxiv.org/pdf/2303.05495v1)|null|
 |**2023-03-09**|**Resonant production of dark photons from axion without a large coupling**|Naoya Kitajima et.al.|[2303.05492v1](http://arxiv.org/abs/2303.05492v1)|[2303.05492v1](http://arxiv.org/pdf/2303.05492v1)|null|
 |**2023-03-09**|**IXPE and NICER view of Black hole X-ray binary 4U 1630-47: First significant detection of polarized emission in thermal state**|Ankur Kushwaha et.al.|[2303.05462v1](http://arxiv.org/abs/2303.05462v1)|[2303.05462v1](http://arxiv.org/pdf/2303.05462v1)|null|
@@ -1799,6 +1809,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|[2303.06137v1](http://arxiv.org/pdf/2303.06137v1)|null|
+|**2023-03-10**|**Rewarding Chatbots for Real-World Engagement with Millions of Users**|Robert Irvine et.al.|[2303.06135v1](http://arxiv.org/abs/2303.06135v1)|[2303.06135v1](http://arxiv.org/pdf/2303.06135v1)|null|
+|**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124v1](http://arxiv.org/abs/2303.06124v1)|[2303.06124v1](http://arxiv.org/pdf/2303.06124v1)|null|
+|**2023-03-10**|**Ignorance is Bliss: Robust Control via Information Gating**|Manan Tomar et.al.|[2303.06121v1](http://arxiv.org/abs/2303.06121v1)|[2303.06121v1](http://arxiv.org/pdf/2303.06121v1)|null|
+|**2023-03-10**|**On the Fusion Strategies for Federated Decision Making**|Mert Kayaalp et.al.|[2303.06109v1](http://arxiv.org/abs/2303.06109v1)|[2303.06109v1](http://arxiv.org/pdf/2303.06109v1)|null|
+|**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|[2303.06095v1](http://arxiv.org/pdf/2303.06095v1)|null|
+|**2023-03-10**|**An End-to-End Neural Network for Image-to-Audio Transformation**|Liu Chen et.al.|[2303.06078v1](http://arxiv.org/abs/2303.06078v1)|[2303.06078v1](http://arxiv.org/pdf/2303.06078v1)|null|
+|**2023-03-10**|**TSMixer: An all-MLP Architecture for Time Series Forecasting**|Si-An Chen et.al.|[2303.06053v1](http://arxiv.org/abs/2303.06053v1)|[2303.06053v1](http://arxiv.org/pdf/2303.06053v1)|null|
+|**2023-03-10**|**Optimal foraging strategies can be learned and outperform Lévy walks**|Gorka Muñoz-Gil et.al.|[2303.06050v1](http://arxiv.org/abs/2303.06050v1)|[2303.06050v1](http://arxiv.org/pdf/2303.06050v1)|null|
+|**2023-03-10**|**Tactile-Filter: Interactive Tactile Perception for Part Mating**|Kei Ota et.al.|[2303.06034v1](http://arxiv.org/abs/2303.06034v1)|[2303.06034v1](http://arxiv.org/pdf/2303.06034v1)|null|
 |**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|[2303.05512v1](http://arxiv.org/pdf/2303.05512v1)|null|
 |**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|[2303.05510v1](http://arxiv.org/pdf/2303.05510v1)|null|
 |**2023-03-09**|**TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization**|Alan Jeffares et.al.|[2303.05506v1](http://arxiv.org/abs/2303.05506v1)|[2303.05506v1](http://arxiv.org/pdf/2303.05506v1)|**[link](https://github.com/vanderschaarlab/tangos)**|
