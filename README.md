@@ -1,4 +1,4 @@
-## Updated on 2023.03.12
+## Updated on 2023.03.13
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 |**2023-03-09**|**Probing spherical outbursts of neutron star mergers from an equation of state with composite nucleons**|Vikram Soni et.al.|[2303.05452v1](http://arxiv.org/abs/2303.05452v1)|[2303.05452v1](http://arxiv.org/pdf/2303.05452v1)|null|
 |**2023-03-09**|**Probing the Global Dust Properties and Cluster Formation Potential of the Giant Molecular Cloud G148.24+00.41**|Vineet Rawat et.al.|[2303.05449v1](http://arxiv.org/abs/2303.05449v1)|[2303.05449v1](http://arxiv.org/pdf/2303.05449v1)|null|
 |**2023-03-09**|**Predicting Solar Proton Events of Solar Cycles 22-24 using GOES Proton & Soft X-Ray Flux Statistics**|Aatiya Ali et.al.|[2303.05446v1](http://arxiv.org/abs/2303.05446v1)|[2303.05446v1](http://arxiv.org/pdf/2303.05446v1)|null|
-|**2023-03-09**|**On the origin of cosmic-ray ionisation in star-forming regions**|Marco Padovani et.al.|[2303.05440v1](http://arxiv.org/abs/2303.05440v1)|[2303.05440v1](http://arxiv.org/pdf/2303.05440v1)|null|
+|**2023-03-10**|**On the origin of cosmic-ray ionisation in star-forming regions**|Marco Padovani et.al.|[2303.05440v2](http://arxiv.org/abs/2303.05440v2)|[2303.05440v2](http://arxiv.org/pdf/2303.05440v2)|null|
 |**2023-03-09**|**The carbon footprint of astronomical research infrastructures**|Jürgen Knödlseder et.al.|[2303.05424v1](http://arxiv.org/abs/2303.05424v1)|[2303.05424v1](http://arxiv.org/pdf/2303.05424v1)|null|
 |**2023-03-09**|**Eruption of a Magnetic Flux Rope in a Comprehensive Radiative Magnetohydrodynamic Simulation of flare-productive active regions**|Feng Chen et.al.|[2303.05405v1](http://arxiv.org/abs/2303.05405v1)|[2303.05405v1](http://arxiv.org/pdf/2303.05405v1)|null|
 |**2023-03-09**|**Orbital stability of two circumbinary planets around misaligned eccentric binaries**|Cheng Chen et.al.|[2303.05379v1](http://arxiv.org/abs/2303.05379v1)|[2303.05379v1](http://arxiv.org/pdf/2303.05379v1)|null|
