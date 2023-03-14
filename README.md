@@ -1,16 +1,16 @@
-## Updated on 2023.03.13
+## Updated on 2023.03.14
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2023-03-10**|**Time-resolved Optical Polarization Monitoring of the Most Variable Brown Dwarf**|Elena Manjavacas et.al.|[2303.06144v1](http://arxiv.org/abs/2303.06144v1)|[2303.06144v1](http://arxiv.org/pdf/2303.06144v1)|null|
-|**2023-03-10**|**Cosmological measurements from void-galaxy and galaxy-galaxy clustering in the Sloan Digital Sky Survey**|Alex Woodfinden et.al.|[2303.06143v1](http://arxiv.org/abs/2303.06143v1)|[2303.06143v1](http://arxiv.org/pdf/2303.06143v1)|null|
+|**2023-03-13**|**Time-resolved Optical Polarization Monitoring of the Most Variable Brown Dwarf**|Elena Manjavacas et.al.|[2303.06144v2](http://arxiv.org/abs/2303.06144v2)|[2303.06144v2](http://arxiv.org/pdf/2303.06144v2)|null|
+|**2023-03-10**|**Cosmological measurements from void-galaxy and galaxy-galaxy clustering in the Sloan Digital Sky Survey**|Alex Woodfinden et.al.|[2303.06143v1](http://arxiv.org/abs/2303.06143v1)|[2303.06143v1](http://arxiv.org/pdf/2303.06143v1)|**[link](https://github.com/alexwoodfinden/sdss-void-cosmology)**|
 |**2023-03-10**|**The extended Planetary Nebula Spectrograph (ePN.S) early-type galaxy survey: The specific angular momentum of ETGs**|C. Pulsoni et.al.|[2303.06132v1](http://arxiv.org/abs/2303.06132v1)|[2303.06132v1](http://arxiv.org/pdf/2303.06132v1)|null|
 |**2023-03-10**|**New Constraints on Sodium Production in Globular Clusters From the $^{23}$Na$(^3$He$, \textbf{d})^{24}$Mg Reaction**|C. Marshall et.al.|[2303.06128v1](http://arxiv.org/abs/2303.06128v1)|[2303.06128v1](http://arxiv.org/pdf/2303.06128v1)|null|
 |**2023-03-10**|**3D hydrodynamic simulations of massive main-sequence stars II. Convective excitation and spectra of internal gravity waves**|William Thompson et.al.|[2303.06125v1](http://arxiv.org/abs/2303.06125v1)|[2303.06125v1](http://arxiv.org/pdf/2303.06125v1)|null|
 |**2023-03-10**|**Gravitomagnetism and galaxy rotation curves: a cautionary tale**|A. N. Lasenby et.al.|[2303.06115v1](http://arxiv.org/abs/2303.06115v1)|[2303.06115v1](http://arxiv.org/pdf/2303.06115v1)|null|
-|**2023-03-10**|**One-loop Gravitational Bremsstrahlung and Waveforms from a Heavy-Mass Effective Field Theory**|Andreas Brandhuber et.al.|[2303.06111v1](http://arxiv.org/abs/2303.06111v1)|[2303.06111v1](http://arxiv.org/pdf/2303.06111v1)|null|
+|**2023-03-10**|**One-loop Gravitational Bremsstrahlung and Waveforms from a Heavy-Mass Effective Field Theory**|Andreas Brandhuber et.al.|[2303.06111v1](http://arxiv.org/abs/2303.06111v1)|[2303.06111v1](http://arxiv.org/pdf/2303.06111v1)|**[link](https://github.com/qmulamplitudes/gravity-observables-from-amplitudes)**|
 |**2023-03-10**|**The connection between stellar mass, age and quenching timescale in massive quiescent galaxies at $z \simeq 1$**|M. L. Hamadouche et.al.|[2303.06107v1](http://arxiv.org/abs/2303.06107v1)|[2303.06107v1](http://arxiv.org/pdf/2303.06107v1)|null|
 |**2023-03-10**|**First Observation of Chromospheric Waves in a Sunspot by DKIST/ViSP: The Anatomy of an Umbral Flash**|Ryan J. French et.al.|[2303.06105v1](http://arxiv.org/abs/2303.06105v1)|[2303.06105v1](http://arxiv.org/pdf/2303.06105v1)|null|
 |**2023-03-10**|**Statistical Study of the Correlation between Solar Energetic Particles and Properties of Active Regions**|Russell D. Marroquin et.al.|[2303.06100v1](http://arxiv.org/abs/2303.06100v1)|[2303.06100v1](http://arxiv.org/pdf/2303.06100v1)|null|
@@ -1817,7 +1817,7 @@
 |**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|[2303.06095v1](http://arxiv.org/pdf/2303.06095v1)|null|
 |**2023-03-10**|**An End-to-End Neural Network for Image-to-Audio Transformation**|Liu Chen et.al.|[2303.06078v1](http://arxiv.org/abs/2303.06078v1)|[2303.06078v1](http://arxiv.org/pdf/2303.06078v1)|null|
 |**2023-03-10**|**TSMixer: An all-MLP Architecture for Time Series Forecasting**|Si-An Chen et.al.|[2303.06053v1](http://arxiv.org/abs/2303.06053v1)|[2303.06053v1](http://arxiv.org/pdf/2303.06053v1)|null|
-|**2023-03-10**|**Optimal foraging strategies can be learned and outperform Lévy walks**|Gorka Muñoz-Gil et.al.|[2303.06050v1](http://arxiv.org/abs/2303.06050v1)|[2303.06050v1](http://arxiv.org/pdf/2303.06050v1)|null|
+|**2023-03-10**|**Optimal foraging strategies can be learned and outperform Lévy walks**|Gorka Muñoz-Gil et.al.|[2303.06050v1](http://arxiv.org/abs/2303.06050v1)|[2303.06050v1](http://arxiv.org/pdf/2303.06050v1)|**[link](https://github.com/gorkamunoz/rl_opts)**|
 |**2023-03-10**|**Tactile-Filter: Interactive Tactile Perception for Part Mating**|Kei Ota et.al.|[2303.06034v1](http://arxiv.org/abs/2303.06034v1)|[2303.06034v1](http://arxiv.org/pdf/2303.06034v1)|null|
 |**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|[2303.05512v1](http://arxiv.org/pdf/2303.05512v1)|null|
 |**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|[2303.05510v1](http://arxiv.org/pdf/2303.05510v1)|null|
