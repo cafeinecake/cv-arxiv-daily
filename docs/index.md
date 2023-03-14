@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-13**|**Constraining the X-ray heating and reionization using 21-cm power spectra with Marginal Neural Ratio Estimation**|Anchal Saxena et.al.|[2303.07339v1](http://arxiv.org/abs/2303.07339v1)|[2303.07339v1](http://arxiv.org/pdf/2303.07339v1)|null|
+|**2023-03-13**|**Lifted particles from the fast spinning primary of the Near-Earth Asteroid (65803) Didymos**|Nair Trógolo et.al.|[2303.07333v1](http://arxiv.org/abs/2303.07333v1)|[2303.07333v1](http://arxiv.org/pdf/2303.07333v1)|null|
+|**2023-03-13**|**3D hydrodynamics simulations of internal gravity waves in red giant branch stars**|Simon Blouin et.al.|[2303.07332v1](http://arxiv.org/abs/2303.07332v1)|[2303.07332v1](http://arxiv.org/pdf/2303.07332v1)|null|
+|**2023-03-13**|**Observations of GRB 230307A by TESS**|Michael M. Fausnaugh et.al.|[2303.07319v1](http://arxiv.org/abs/2303.07319v1)|[2303.07319v1](http://arxiv.org/pdf/2303.07319v1)|null|
+|**2023-03-13**|**The Masses of Supernova Remnant Progenitors in M33**|Brad Koplitz et.al.|[2303.07318v1](http://arxiv.org/abs/2303.07318v1)|[2303.07318v1](http://arxiv.org/pdf/2303.07318v1)|null|
+|**2023-03-13**|**Phantom dark energy as a natural selection of evolutionary processes $\hat{\rm a}$ $\textit{la}$ $\textit{genetic algorithm}$ and cosmological tensions**|Mayukh R. Gangopadhyay et.al.|[2303.07301v1](http://arxiv.org/abs/2303.07301v1)|[2303.07301v1](http://arxiv.org/pdf/2303.07301v1)|null|
+|**2023-03-13**|**Disc population synthesis: decrease of the solid mass reservoir through pebble drift**|Johan Appelgren et.al.|[2303.07297v1](http://arxiv.org/abs/2303.07297v1)|[2303.07297v1](http://arxiv.org/pdf/2303.07297v1)|null|
+|**2023-03-13**|**GPU-based framework for detecting small Solar System bodies in targeted exoplanet surveys**|Artem Burdanov et.al.|[2303.07293v1](http://arxiv.org/abs/2303.07293v1)|[2303.07293v1](http://arxiv.org/pdf/2303.07293v1)|null|
+|**2023-03-13**|**Zukunftoptik reconsidering light and radio astronomy**|E. Barrelet et.al.|[2303.07281v1](http://arxiv.org/abs/2303.07281v1)|[2303.07281v1](http://arxiv.org/pdf/2303.07281v1)|null|
+|**2023-03-13**|**Spherical harmonics representation of the gravitational phase shift**|Slava G. Turyshev et.al.|[2303.07270v1](http://arxiv.org/abs/2303.07270v1)|[2303.07270v1](http://arxiv.org/pdf/2303.07270v1)|null|
 |**2023-03-13**|**Time-resolved Optical Polarization Monitoring of the Most Variable Brown Dwarf**|Elena Manjavacas et.al.|[2303.06144v2](http://arxiv.org/abs/2303.06144v2)|[2303.06144v2](http://arxiv.org/pdf/2303.06144v2)|null|
 |**2023-03-10**|**Cosmological measurements from void-galaxy and galaxy-galaxy clustering in the Sloan Digital Sky Survey**|Alex Woodfinden et.al.|[2303.06143v1](http://arxiv.org/abs/2303.06143v1)|[2303.06143v1](http://arxiv.org/pdf/2303.06143v1)|**[link](https://github.com/alexwoodfinden/sdss-void-cosmology)**|
 |**2023-03-10**|**The extended Planetary Nebula Spectrograph (ePN.S) early-type galaxy survey: The specific angular momentum of ETGs**|C. Pulsoni et.al.|[2303.06132v1](http://arxiv.org/abs/2303.06132v1)|[2303.06132v1](http://arxiv.org/pdf/2303.06132v1)|null|
@@ -1813,6 +1823,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-13**|**TriDet: Temporal Action Detection with Relative Boundary Modeling**|Dingfeng Shi et.al.|[2303.07347v1](http://arxiv.org/abs/2303.07347v1)|[2303.07347v1](http://arxiv.org/pdf/2303.07347v1)|**[link](https://github.com/sssste/tridet)**|
+|**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu et.al.|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|[2303.07308v1](http://arxiv.org/pdf/2303.07308v1)|null|
+|**2023-03-13**|**Transformer Models for Acute Brain Dysfunction Prediction**|Brandon Silva et.al.|[2303.07305v1](http://arxiv.org/abs/2303.07305v1)|[2303.07305v1](http://arxiv.org/pdf/2303.07305v1)|null|
+|**2023-03-13**|**Vision-Language Models as Success Detectors**|Yuqing Du et.al.|[2303.07280v1](http://arxiv.org/abs/2303.07280v1)|[2303.07280v1](http://arxiv.org/pdf/2303.07280v1)|null|
+|**2023-03-13**|**A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges**|Xuansheng Wu et.al.|[2303.07275v1](http://arxiv.org/abs/2303.07275v1)|[2303.07275v1](http://arxiv.org/pdf/2303.07275v1)|null|
+|**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v1](http://arxiv.org/abs/2303.07274v1)|[2303.07274v1](http://arxiv.org/pdf/2303.07274v1)|null|
+|**2023-03-13**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje et.al.|[2303.07247v1](http://arxiv.org/abs/2303.07247v1)|[2303.07247v1](http://arxiv.org/pdf/2303.07247v1)|null|
+|**2023-03-13**|**Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty**|Bhaskar Joshi et.al.|[2303.07243v1](http://arxiv.org/abs/2303.07243v1)|[2303.07243v1](http://arxiv.org/pdf/2303.07243v1)|null|
+|**2023-03-13**|**Can Workers Meaningfully Consent to Workplace Wellbeing Technologies?**|Shreya Chowdhary et.al.|[2303.07242v1](http://arxiv.org/abs/2303.07242v1)|[2303.07242v1](http://arxiv.org/pdf/2303.07242v1)|null|
+|**2023-03-13**|**Intersection Warning System for Occlusion Risks using Relational Local Dynamic Maps**|Florian Damerow et.al.|[2303.07227v1](http://arxiv.org/abs/2303.07227v1)|[2303.07227v1](http://arxiv.org/pdf/2303.07227v1)|null|
 |**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|[2303.06137v1](http://arxiv.org/pdf/2303.06137v1)|null|
 |**2023-03-10**|**Rewarding Chatbots for Real-World Engagement with Millions of Users**|Robert Irvine et.al.|[2303.06135v1](http://arxiv.org/abs/2303.06135v1)|[2303.06135v1](http://arxiv.org/pdf/2303.06135v1)|null|
 |**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124v1](http://arxiv.org/abs/2303.06124v1)|[2303.06124v1](http://arxiv.org/pdf/2303.06124v1)|null|
