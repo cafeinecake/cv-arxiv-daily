@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.14
+## Updated on 2023.03.15
 
 ## Astrophysics
 
@@ -1829,8 +1829,8 @@ layout: default
 |**2023-03-13**|**Vision-Language Models as Success Detectors**|Yuqing Du et.al.|[2303.07280v1](http://arxiv.org/abs/2303.07280v1)|[2303.07280v1](http://arxiv.org/pdf/2303.07280v1)|null|
 |**2023-03-13**|**A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges**|Xuansheng Wu et.al.|[2303.07275v1](http://arxiv.org/abs/2303.07275v1)|[2303.07275v1](http://arxiv.org/pdf/2303.07275v1)|null|
 |**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v1](http://arxiv.org/abs/2303.07274v1)|[2303.07274v1](http://arxiv.org/pdf/2303.07274v1)|null|
-|**2023-03-13**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje et.al.|[2303.07247v1](http://arxiv.org/abs/2303.07247v1)|[2303.07247v1](http://arxiv.org/pdf/2303.07247v1)|null|
-|**2023-03-13**|**Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty**|Bhaskar Joshi et.al.|[2303.07243v1](http://arxiv.org/abs/2303.07243v1)|[2303.07243v1](http://arxiv.org/pdf/2303.07243v1)|null|
+|**2023-03-14**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje et.al.|[2303.07247v2](http://arxiv.org/abs/2303.07247v2)|[2303.07247v2](http://arxiv.org/pdf/2303.07247v2)|null|
+|**2023-03-13**|**Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty**|Bhaskar Joshi et.al.|[2303.07243v1](http://arxiv.org/abs/2303.07243v1)|[2303.07243v1](http://arxiv.org/pdf/2303.07243v1)|**[link](https://github.com/dkapur17/dronecontrol)**|
 |**2023-03-13**|**Can Workers Meaningfully Consent to Workplace Wellbeing Technologies?**|Shreya Chowdhary et.al.|[2303.07242v1](http://arxiv.org/abs/2303.07242v1)|[2303.07242v1](http://arxiv.org/pdf/2303.07242v1)|null|
 |**2023-03-13**|**Intersection Warning System for Occlusion Risks using Relational Local Dynamic Maps**|Florian Damerow et.al.|[2303.07227v1](http://arxiv.org/abs/2303.07227v1)|[2303.07227v1](http://arxiv.org/pdf/2303.07227v1)|null|
 |**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|[2303.06137v1](http://arxiv.org/pdf/2303.06137v1)|null|
