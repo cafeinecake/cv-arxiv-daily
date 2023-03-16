@@ -1,16 +1,16 @@
-## Updated on 2023.03.15
+## Updated on 2023.03.16
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2023-03-14**|**Keck and Gemini spectral characterization of Lucy mission fly-by target (152830) Dinkinesh**|B. T. Bolin et.al.|[2303.08130v1](http://arxiv.org/abs/2303.08130v1)|[2303.08130v1](http://arxiv.org/pdf/2303.08130v1)|null|
-|**2023-03-14**|**Enhancing Measurements of the CMB Blackbody Temperature Power Spectrum by Removing CIB and Thermal Sunyaev-Zel'dovich Contamination Using External Galaxy Catalogs**|Aleksandra Kusiak et.al.|[2303.08121v1](http://arxiv.org/abs/2303.08121v1)|[2303.08121v1](http://arxiv.org/pdf/2303.08121v1)|null|
+|**2023-03-14**|**Enhancing Measurements of the CMB Blackbody Temperature Power Spectrum by Removing CIB and Thermal Sunyaev-Zel'dovich Contamination Using External Galaxy Catalogs**|Aleksandra Kusiak et.al.|[2303.08121v1](http://arxiv.org/abs/2303.08121v1)|[2303.08121v1](http://arxiv.org/pdf/2303.08121v1)|**[link](https://github.com/olakusiak/decibing)**|
 |**2023-03-14**|**Cosmoglobe DR1 results. I. Improved Wilkinson Microwave Anisotropy Probe maps through Bayesian end-to-end analysis**|D. J. Watts et.al.|[2303.08095v1](http://arxiv.org/abs/2303.08095v1)|[2303.08095v1](http://arxiv.org/pdf/2303.08095v1)|null|
 |**2023-03-14**|**The Random Hivemind: An Ensemble Deep Learner. A Case Study of Application to Solar Energetic Particle Prediction Problem**|Patrick M. O'Keefe et.al.|[2303.08092v1](http://arxiv.org/abs/2303.08092v1)|[2303.08092v1](http://arxiv.org/pdf/2303.08092v1)|null|
 |**2023-03-14**|**How Cosmic Web Environment Affects Galaxy Quenching Across Cosmic Time**|Farhanul Hasan et.al.|[2303.08088v1](http://arxiv.org/abs/2303.08088v1)|[2303.08088v1](http://arxiv.org/pdf/2303.08088v1)|null|
 |**2023-03-14**|**Search strategies for supermassive stars in young clusters and application to nearby galaxies**|A. Kuruvanthodi et.al.|[2303.08087v1](http://arxiv.org/abs/2303.08087v1)|[2303.08087v1](http://arxiv.org/pdf/2303.08087v1)|null|
-|**2023-03-14**|**RUBIS: a simple tool for calculating the centrifugal deformation of stars and planets**|Pierre S. Houdayer et.al.|[2303.08077v1](http://arxiv.org/abs/2303.08077v1)|[2303.08077v1](http://arxiv.org/pdf/2303.08077v1)|null|
+|**2023-03-14**|**RUBIS: a simple tool for calculating the centrifugal deformation of stars and planets**|Pierre S. Houdayer et.al.|[2303.08077v1](http://arxiv.org/abs/2303.08077v1)|[2303.08077v1](http://arxiv.org/pdf/2303.08077v1)|**[link](https://github.com/pierrehoudayer/rubis)**|
 |**2023-03-14**|**Flares, jets and quasi-periodic outbursts from neutron star merger remnants**|Elias R. Most et.al.|[2303.08062v1](http://arxiv.org/abs/2303.08062v1)|[2303.08062v1](http://arxiv.org/pdf/2303.08062v1)|null|
 |**2023-03-14**|**Very metal-poor stars in the solar vicinity: kinematics and abundance analysis**|Anastasia Plotnikova et.al.|[2303.08056v1](http://arxiv.org/abs/2303.08056v1)|[2303.08056v1](http://arxiv.org/pdf/2303.08056v1)|null|
 |**2023-03-14**|**Starbursts in low-mass haloes at Cosmic Dawn. I. The critical halo mass for star formation**|Olof Nebrin et.al.|[2303.08024v1](http://arxiv.org/abs/2303.08024v1)|[2303.08024v1](http://arxiv.org/pdf/2303.08024v1)|null|
@@ -1832,7 +1832,7 @@
 |**2023-03-14**|**Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis**|Renrui Zhang et.al.|[2303.08134v1](http://arxiv.org/abs/2303.08134v1)|[2303.08134v1](http://arxiv.org/pdf/2303.08134v1)|**[link](https://github.com/zrrskywalker/point-nn)**|
 |**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|[2303.08133v1](http://arxiv.org/pdf/2303.08133v1)|null|
 |**2023-03-14**|**PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection**|Anthony Chen et.al.|[2303.08129v1](http://arxiv.org/abs/2303.08129v1)|[2303.08129v1](http://arxiv.org/pdf/2303.08129v1)|**[link](https://github.com/blvlab/pimae)**|
-|**2023-03-14**|**CB2: Collaborative Natural Language Interaction Research Platform**|Jacob Sharf et.al.|[2303.08127v1](http://arxiv.org/abs/2303.08127v1)|[2303.08127v1](http://arxiv.org/pdf/2303.08127v1)|null|
+|**2023-03-14**|**CB2: Collaborative Natural Language Interaction Research Platform**|Jacob Sharf et.al.|[2303.08127v1](http://arxiv.org/abs/2303.08127v1)|[2303.08127v1](http://arxiv.org/pdf/2303.08127v1)|**[link](https://github.com/lil-lab/cb2)**|
 |**2023-03-14**|**It Takes One to Tango but More Make Trouble? In-Context Training with Different Number of Demonstrations**|Jiuhai Chen et.al.|[2303.08119v1](http://arxiv.org/abs/2303.08119v1)|[2303.08119v1](http://arxiv.org/pdf/2303.08119v1)|null|
 |**2023-03-14**|**Linking social network structure and function to social preferences**|Josefine Bohr Brask et.al.|[2303.08107v1](http://arxiv.org/abs/2303.08107v1)|[2303.08107v1](http://arxiv.org/pdf/2303.08107v1)|null|
 |**2023-03-14**|**A global exploratory comparison of country self-citations 1996-2019**|Alberto Baccini et.al.|[2303.08090v1](http://arxiv.org/abs/2303.08090v1)|[2303.08090v1](http://arxiv.org/pdf/2303.08090v1)|null|
