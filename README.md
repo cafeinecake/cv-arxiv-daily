@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-03-16**|**Revisiting Vainshtein Screening for fast N-body simulations**|Guilherme Brando et.al.|[2303.09549v1](http://arxiv.org/abs/2303.09549v1)|[2303.09549v1](http://arxiv.org/pdf/2303.09549v1)|null|
+|**2023-03-16**|**Photometric study of the late-time near-infrared plateau in Type Ia supernovae**|M. Deckers et.al.|[2303.09548v1](http://arxiv.org/abs/2303.09548v1)|[2303.09548v1](http://arxiv.org/pdf/2303.09548v1)|null|
+|**2023-03-16**|**M$^5$ -- Mars Magnetospheric Multipoint Measurement Mission: A multi-spacecraft plasma physics mission to Mars**|Cormac J. K. Larkin et.al.|[2303.09502v1](http://arxiv.org/abs/2303.09502v1)|[2303.09502v1](http://arxiv.org/pdf/2303.09502v1)|null|
+|**2023-03-16**|**On the origin of the non-detection of metastable HeI in the upper atmosphere of the hot Jupiter WASP-80b**|L. Fossati et.al.|[2303.09501v1](http://arxiv.org/abs/2303.09501v1)|[2303.09501v1](http://arxiv.org/pdf/2303.09501v1)|null|
+|**2023-03-16**|**Correlation of structure growth index with current cosmic acceleration: constraints on dark energy models**|G. Panotopoulos et.al.|[2303.09492v1](http://arxiv.org/abs/2303.09492v1)|[2303.09492v1](http://arxiv.org/pdf/2303.09492v1)|null|
+|**2023-03-16**|**Molecular gas in super spiral galaxies**|Ute Lisenfeld et.al.|[2303.09473v1](http://arxiv.org/abs/2303.09473v1)|[2303.09473v1](http://arxiv.org/pdf/2303.09473v1)|null|
+|**2023-03-16**|**Euclid: Validation of the MontePython forecasting tools**|S. Casas et.al.|[2303.09451v1](http://arxiv.org/abs/2303.09451v1)|[2303.09451v1](http://arxiv.org/pdf/2303.09451v1)|null|
+|**2023-03-16**|**Nucleosynthesis in neutrino-heated ejecta and neutrino-driven winds of core-collapse supernovae; neutrino-induced nucleosynthesis**|Shinya Wanajo et.al.|[2303.09442v1](http://arxiv.org/abs/2303.09442v1)|[2303.09442v1](http://arxiv.org/pdf/2303.09442v1)|null|
+|**2023-03-16**|**Velocity measurement in the extensive [OIII] emission region 1.2° south-east of M31**|P. Amram et.al.|[2303.09425v1](http://arxiv.org/abs/2303.09425v1)|[2303.09425v1](http://arxiv.org/pdf/2303.09425v1)|null|
+|**2023-03-16**|**Improved prior for adaptive optics point spread function estimation from science images: Application for deconvolution**|A. Lau et.al.|[2303.09422v1](http://arxiv.org/abs/2303.09422v1)|[2303.09422v1](http://arxiv.org/pdf/2303.09422v1)|null|
 |**2023-03-15**|**A High Fraction of Heavily X-ray Obscured Active Galactic Nuclei**|Christopher M. Carroll et.al.|[2303.08813v1](http://arxiv.org/abs/2303.08813v1)|[2303.08813v1](http://arxiv.org/pdf/2303.08813v1)|null|
 |**2023-03-15**|**Trigger-Level Event Reconstruction for Neutrino Telescopes Using Sparse Submanifold Convolutional Neural Networks**|Felix J. Yu et.al.|[2303.08812v1](http://arxiv.org/abs/2303.08812v1)|[2303.08812v1](http://arxiv.org/pdf/2303.08812v1)|null|
 |**2023-03-16**|**Rapidly evolving Galactic plane outbursts in NEOWISE: Revisiting the Galactic nova rate with the first all-sky search in the mid-infrared**|Liam Zuckerman et.al.|[2303.08795v2](http://arxiv.org/abs/2303.08795v2)|[2303.08795v2](http://arxiv.org/pdf/2303.08795v2)|null|
@@ -1839,6 +1849,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-03-16**|**SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments**|Tsun-Hsuan Wang et.al.|[2303.09555v1](http://arxiv.org/abs/2303.09555v1)|[2303.09555v1](http://arxiv.org/pdf/2303.09555v1)|null|
+|**2023-03-16**|**Dataflow graphs as complete causal graphs**|Andrei Paleyes et.al.|[2303.09552v1](http://arxiv.org/abs/2303.09552v1)|[2303.09552v1](http://arxiv.org/pdf/2303.09552v1)|**[link](https://github.com/apaleyes/dataflow-causal-graph)**|
+|**2023-03-16**|**WebSHAP: Towards Explaining Any Machine Learning Models Anywhere**|Zijie J. Wang et.al.|[2303.09545v1](http://arxiv.org/abs/2303.09545v1)|[2303.09545v1](http://arxiv.org/pdf/2303.09545v1)|**[link](https://github.com/poloclub/webshap)**|
+|**2023-03-16**|**SemDeDup: Data-efficient learning at web-scale through semantic deduplication**|Amro Abbas et.al.|[2303.09540v1](http://arxiv.org/abs/2303.09540v1)|[2303.09540v1](http://arxiv.org/pdf/2303.09540v1)|null|
+|**2023-03-16**|**Reinforcement Learning for Omega-Regular Specifications on Continuous-Time MDP**|Amin Falah et.al.|[2303.09528v1](http://arxiv.org/abs/2303.09528v1)|[2303.09528v1](http://arxiv.org/pdf/2303.09528v1)|null|
+|**2023-03-16**|**PyVBMC: Efficient Bayesian inference in Python**|Bobby Huggins et.al.|[2303.09519v1](http://arxiv.org/abs/2303.09519v1)|[2303.09519v1](http://arxiv.org/pdf/2303.09519v1)|**[link](https://github.com/acerbilab/pyvbmc)**|
+|**2023-03-16**|**Among Us: Adversarially Robust Collaborative Perception by Consensus**|Yiming Li et.al.|[2303.09495v1](http://arxiv.org/abs/2303.09495v1)|[2303.09495v1](http://arxiv.org/pdf/2303.09495v1)|null|
+|**2023-03-16**|**Effectively Modeling Time Series with Simple Discrete State Spaces**|Michael Zhang et.al.|[2303.09489v1](http://arxiv.org/abs/2303.09489v1)|[2303.09489v1](http://arxiv.org/pdf/2303.09489v1)|**[link](https://github.com/hazyresearch/spacetime)**|
+|**2023-03-16**|**Arbitrary Order Meta-Learning with Simple Population-Based Evolution**|Chris Lu et.al.|[2303.09478v1](http://arxiv.org/abs/2303.09478v1)|[2303.09478v1](http://arxiv.org/pdf/2303.09478v1)|null|
+|**2023-03-16**|**Combining Distance to Class Centroids and Outlier Discounting for Improved Learning with Noisy Labels**|Farooq Ahmad Wani et.al.|[2303.09470v1](http://arxiv.org/abs/2303.09470v1)|[2303.09470v1](http://arxiv.org/pdf/2303.09470v1)|**[link](https://github.com/rstless-research/ncod-learning-with-noisy-labels)**|
 |**2023-03-15**|**Understanding Post-hoc Explainers: The Case of Anchors**|Gianluigi Lopardo et.al.|[2303.08806v1](http://arxiv.org/abs/2303.08806v1)|[2303.08806v1](http://arxiv.org/pdf/2303.08806v1)|null|
 |**2023-03-15**|**Cloud Services Enable Efficient AI-Guided Simulation Workflows across Heterogeneous Resources**|Logan Ward et.al.|[2303.08803v1](http://arxiv.org/abs/2303.08803v1)|[2303.08803v1](http://arxiv.org/pdf/2303.08803v1)|**[link](https://github.com/exalearn/multi-site-campaigns)**|
 |**2023-03-15**|**Building an Effective Email Spam Classification Model with spaCy**|Kazem Taghandiki et.al.|[2303.08792v1](http://arxiv.org/abs/2303.08792v1)|[2303.08792v1](http://arxiv.org/pdf/2303.08792v1)|null|
