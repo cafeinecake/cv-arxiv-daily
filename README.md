@@ -1,4 +1,4 @@
-## Updated on 2023.03.16
+## Updated on 2023.03.17
 
 ## Astrophysics
 
@@ -6,12 +6,12 @@
 |---|---|---|---|---|---|
 |**2023-03-15**|**A High Fraction of Heavily X-ray Obscured Active Galactic Nuclei**|Christopher M. Carroll et.al.|[2303.08813v1](http://arxiv.org/abs/2303.08813v1)|[2303.08813v1](http://arxiv.org/pdf/2303.08813v1)|null|
 |**2023-03-15**|**Trigger-Level Event Reconstruction for Neutrino Telescopes Using Sparse Submanifold Convolutional Neural Networks**|Felix J. Yu et.al.|[2303.08812v1](http://arxiv.org/abs/2303.08812v1)|[2303.08812v1](http://arxiv.org/pdf/2303.08812v1)|null|
-|**2023-03-15**|**Rapidly evolving Galactic plane outbursts in NEOWISE: Revisiting the Galactic nova rate with the first all-sky search in the mid-infrared**|Liam Zuckerman et.al.|[2303.08795v1](http://arxiv.org/abs/2303.08795v1)|[2303.08795v1](http://arxiv.org/pdf/2303.08795v1)|null|
+|**2023-03-16**|**Rapidly evolving Galactic plane outbursts in NEOWISE: Revisiting the Galactic nova rate with the first all-sky search in the mid-infrared**|Liam Zuckerman et.al.|[2303.08795v2](http://arxiv.org/abs/2303.08795v2)|[2303.08795v2](http://arxiv.org/pdf/2303.08795v2)|null|
 |**2023-03-15**|**Modelling of the multi-transition periodic flaring in G9.62+0.20E**|F. Rajabi et.al.|[2303.08793v1](http://arxiv.org/abs/2303.08793v1)|[2303.08793v1](http://arxiv.org/pdf/2303.08793v1)|null|
 |**2023-03-15**|**Vorticity generation in cosmology and the role of shell crossing**|Obinna Umeh et.al.|[2303.08782v1](http://arxiv.org/abs/2303.08782v1)|[2303.08782v1](http://arxiv.org/pdf/2303.08782v1)|null|
 |**2023-03-15**|**Particle acceleration by magnetic reconnection in relativistic jets: the transition from small to large scales**|Tania E. Medina-Torrejón et.al.|[2303.08780v1](http://arxiv.org/abs/2303.08780v1)|[2303.08780v1](http://arxiv.org/pdf/2303.08780v1)|null|
 |**2023-03-15**|**Modification of the Dipole in Arrival Directions of Ultra-high-energy Cosmic Rays due to the Galactic Magnetic Field**|Alena Bakalová et.al.|[2303.08766v1](http://arxiv.org/abs/2303.08766v1)|[2303.08766v1](http://arxiv.org/pdf/2303.08766v1)|null|
-|**2023-03-15**|**The halo model for cosmology: a pedagogical review**|Marika Asgari et.al.|[2303.08752v1](http://arxiv.org/abs/2303.08752v1)|[2303.08752v1](http://arxiv.org/pdf/2303.08752v1)|null|
+|**2023-03-15**|**The halo model for cosmology: a pedagogical review**|Marika Asgari et.al.|[2303.08752v1](http://arxiv.org/abs/2303.08752v1)|[2303.08752v1](http://arxiv.org/pdf/2303.08752v1)|**[link](https://github.com/alexander-mead/pyhalomodel)**|
 |**2023-03-15**|**Simulating image coaddition with the Nancy Grace Roman Space Telescope: II. Analysis of the simulated images and implications for weak lensing**|Masaya Yamamoto et.al.|[2303.08750v1](http://arxiv.org/abs/2303.08750v1)|[2303.08750v1](http://arxiv.org/pdf/2303.08750v1)|null|
 |**2023-03-15**|**Simulating image coaddition with the Nancy Grace Roman Space Telescope: I. Simulation methodology and general results**|Christopher M. Hirata et.al.|[2303.08749v1](http://arxiv.org/abs/2303.08749v1)|[2303.08749v1](http://arxiv.org/pdf/2303.08749v1)|null|
 |**2023-03-14**|**Keck and Gemini spectral characterization of Lucy mission fly-by target (152830) Dinkinesh**|B. T. Bolin et.al.|[2303.08130v1](http://arxiv.org/abs/2303.08130v1)|[2303.08130v1](http://arxiv.org/pdf/2303.08130v1)|null|
@@ -1840,12 +1840,12 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2023-03-15**|**Understanding Post-hoc Explainers: The Case of Anchors**|Gianluigi Lopardo et.al.|[2303.08806v1](http://arxiv.org/abs/2303.08806v1)|[2303.08806v1](http://arxiv.org/pdf/2303.08806v1)|null|
-|**2023-03-15**|**Cloud Services Enable Efficient AI-Guided Simulation Workflows across Heterogeneous Resources**|Logan Ward et.al.|[2303.08803v1](http://arxiv.org/abs/2303.08803v1)|[2303.08803v1](http://arxiv.org/pdf/2303.08803v1)|null|
+|**2023-03-15**|**Cloud Services Enable Efficient AI-Guided Simulation Workflows across Heterogeneous Resources**|Logan Ward et.al.|[2303.08803v1](http://arxiv.org/abs/2303.08803v1)|[2303.08803v1](http://arxiv.org/pdf/2303.08803v1)|**[link](https://github.com/exalearn/multi-site-campaigns)**|
 |**2023-03-15**|**Building an Effective Email Spam Classification Model with spaCy**|Kazem Taghandiki et.al.|[2303.08792v1](http://arxiv.org/abs/2303.08792v1)|[2303.08792v1](http://arxiv.org/pdf/2303.08792v1)|null|
 |**2023-03-15**|**Halide perovskite artificial solids as a new platform to simulate collective phenomena in doped Mott insulators**|Alessandra Milloch et.al.|[2303.08791v1](http://arxiv.org/abs/2303.08791v1)|[2303.08791v1](http://arxiv.org/pdf/2303.08791v1)|null|
 |**2023-03-15**|**PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining**|Garrett Thomas et.al.|[2303.08789v1](http://arxiv.org/abs/2303.08789v1)|[2303.08789v1](http://arxiv.org/pdf/2303.08789v1)|null|
 |**2023-03-15**|**Fully neuromorphic vision and control for autonomous drone flight**|Federico Paredes-Vallés et.al.|[2303.08778v1](http://arxiv.org/abs/2303.08778v1)|[2303.08778v1](http://arxiv.org/pdf/2303.08778v1)|null|
-|**2023-03-15**|**GPT-4 Technical Report**|OpenAI et.al.|[2303.08774v1](http://arxiv.org/abs/2303.08774v1)|[2303.08774v1](http://arxiv.org/pdf/2303.08774v1)|**[link](https://github.com/openai/evals)**|
+|**2023-03-16**|**GPT-4 Technical Report**|OpenAI et.al.|[2303.08774v2](http://arxiv.org/abs/2303.08774v2)|[2303.08774v2](http://arxiv.org/pdf/2303.08774v2)|**[link](https://github.com/openai/evals)**|
 |**2023-03-15**|**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion**|Inhwa Han et.al.|[2303.08767v1](http://arxiv.org/abs/2303.08767v1)|[2303.08767v1](http://arxiv.org/pdf/2303.08767v1)|null|
 |**2023-03-15**|**Deep Calibration With Artificial Neural Network: A Performance Comparison on Option Pricing Models**|Young Shin Kim et.al.|[2303.08760v1](http://arxiv.org/abs/2303.08760v1)|[2303.08760v1](http://arxiv.org/pdf/2303.08760v1)|null|
 |**2023-03-15**|**Cascaded Zoom-in Detector for High Resolution Aerial Images**|Akhil Meethal et.al.|[2303.08747v1](http://arxiv.org/abs/2303.08747v1)|[2303.08747v1](http://arxiv.org/pdf/2303.08747v1)|**[link](https://github.com/akhilpm/dronedetectron2)**|
