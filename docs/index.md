@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-17**|**Model-independent bubble wall velocities in local thermal equilibrium**|Wen-Yuan Ai et.al.|[2303.10171v1](http://arxiv.org/abs/2303.10171v1)|[2303.10171v1](http://arxiv.org/pdf/2303.10171v1)|null|
+|**2023-03-17**|**Generic axion Maxwell equations: path integral approach**|Anton V. Sokolov et.al.|[2303.10170v1](http://arxiv.org/abs/2303.10170v1)|[2303.10170v1](http://arxiv.org/pdf/2303.10170v1)|null|
+|**2023-03-17**|**An HI story of galaxies in Abell 2626 and beyond**|T. Deb et.al.|[2303.10141v1](http://arxiv.org/abs/2303.10141v1)|[2303.10141v1](http://arxiv.org/pdf/2303.10141v1)|null|
+|**2023-03-17**|**3D hydrodynamics simulations of core convection in supermassive main-sequence stars**|Simon Blouin et.al.|[2303.10115v1](http://arxiv.org/abs/2303.10115v1)|[2303.10115v1](http://arxiv.org/pdf/2303.10115v1)|null|
+|**2023-03-17**|**Carbon-Oxygen Phase Separation in MESA White Dwarf Models**|Evan B. Bauer et.al.|[2303.10110v1](http://arxiv.org/abs/2303.10110v1)|[2303.10110v1](http://arxiv.org/pdf/2303.10110v1)|null|
+|**2023-03-17**|**Gender and Precarity in Astronomy**|N. A. Webb et.al.|[2303.10105v1](http://arxiv.org/abs/2303.10105v1)|[2303.10105v1](http://arxiv.org/pdf/2303.10105v1)|null|
+|**2023-03-17**|**Reconstructing Galactic magnetic fields from local measurements for backtracking ultra-high-energy cosmic rays**|Alexandros Tsouros et.al.|[2303.10099v1](http://arxiv.org/abs/2303.10099v1)|[2303.10099v1](http://arxiv.org/pdf/2303.10099v1)|null|
+|**2023-03-17**|**XMM2ATHENA, the H2020 project to improve XMM-Newton analysis software and prepare for Athena**|Natalie A. Webb et.al.|[2303.10097v1](http://arxiv.org/abs/2303.10097v1)|[2303.10097v1](http://arxiv.org/pdf/2303.10097v1)|null|
+|**2023-03-17**|**The Pantheon Sample analysis of cosmological constraints under new models**|Peifeng Peng et.al.|[2303.10095v1](http://arxiv.org/abs/2303.10095v1)|[2303.10095v1](http://arxiv.org/pdf/2303.10095v1)|null|
+|**2023-03-17**|**Galaxy And Mass Assembly (GAMA): Bulge-disk decomposition of KiDS and VIKING data in the nearby universe**|Sarah Casura et.al.|[2303.10077v1](http://arxiv.org/abs/2303.10077v1)|[2303.10077v1](http://arxiv.org/pdf/2303.10077v1)|null|
 |**2023-03-16**|**Revisiting Vainshtein Screening for fast N-body simulations**|Guilherme Brando et.al.|[2303.09549v1](http://arxiv.org/abs/2303.09549v1)|[2303.09549v1](http://arxiv.org/pdf/2303.09549v1)|null|
 |**2023-03-16**|**Photometric study of the late-time near-infrared plateau in Type Ia supernovae**|M. Deckers et.al.|[2303.09548v1](http://arxiv.org/abs/2303.09548v1)|[2303.09548v1](http://arxiv.org/pdf/2303.09548v1)|null|
 |**2023-03-16**|**M$^5$ -- Mars Magnetospheric Multipoint Measurement Mission: A multi-spacecraft plasma physics mission to Mars**|Cormac J. K. Larkin et.al.|[2303.09502v1](http://arxiv.org/abs/2303.09502v1)|[2303.09502v1](http://arxiv.org/pdf/2303.09502v1)|null|
@@ -1853,6 +1863,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|[2303.10158v1](http://arxiv.org/pdf/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
+|**2023-03-17**|**Hybrid Classic-Quantum Computing for Staging of Invasive Ductal Carcinoma of Breast**|Vicente Moret-Bonillo et.al.|[2303.10142v1](http://arxiv.org/abs/2303.10142v1)|[2303.10142v1](http://arxiv.org/pdf/2303.10142v1)|null|
+|**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|[2303.10139v1](http://arxiv.org/pdf/2303.10139v1)|**[link](https://github.com/tamararruda/dnx)**|
+|**2023-03-17**|**Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data**|Carlos Gemmell et.al.|[2303.10138v1](http://arxiv.org/abs/2303.10138v1)|[2303.10138v1](http://arxiv.org/pdf/2303.10138v1)|null|
+|**2023-03-17**|**She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models**|Christoph Treude et.al.|[2303.10131v1](http://arxiv.org/abs/2303.10131v1)|[2303.10131v1](http://arxiv.org/pdf/2303.10131v1)|null|
+|**2023-03-17**|**GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models**|Tyna Eloundou et.al.|[2303.10130v1](http://arxiv.org/abs/2303.10130v1)|[2303.10130v1](http://arxiv.org/pdf/2303.10130v1)|null|
+|**2023-03-17**|**$\textit{Clingraph}$: A System for ASP-based Visualization**|Susana Hahn et.al.|[2303.10118v1](http://arxiv.org/abs/2303.10118v1)|[2303.10118v1](http://arxiv.org/pdf/2303.10118v1)|null|
+|**2023-03-17**|**Manipulation over Surface Waves in Bilayer Hyperbolic Metasurfaces: Topological Transition and Multidirectional Canalization**|Aleksey Girich et.al.|[2303.10109v1](http://arxiv.org/abs/2303.10109v1)|[2303.10109v1](http://arxiv.org/pdf/2303.10109v1)|null|
+|**2023-03-17**|**A multidomain relational framework to guide institutional AI research and adoption**|Vincent J. Straub et.al.|[2303.10106v1](http://arxiv.org/abs/2303.10106v1)|[2303.10106v1](http://arxiv.org/pdf/2303.10106v1)|null|
+|**2023-03-17**|**Enhancing the Role of Context in Region-Word Alignment for Object Detection**|Kyle Buettner et.al.|[2303.10093v1](http://arxiv.org/abs/2303.10093v1)|[2303.10093v1](http://arxiv.org/pdf/2303.10093v1)|null|
 |**2023-03-16**|**SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments**|Tsun-Hsuan Wang et.al.|[2303.09555v1](http://arxiv.org/abs/2303.09555v1)|[2303.09555v1](http://arxiv.org/pdf/2303.09555v1)|null|
 |**2023-03-16**|**Dataflow graphs as complete causal graphs**|Andrei Paleyes et.al.|[2303.09552v1](http://arxiv.org/abs/2303.09552v1)|[2303.09552v1](http://arxiv.org/pdf/2303.09552v1)|**[link](https://github.com/apaleyes/dataflow-causal-graph)**|
 |**2023-03-16**|**WebSHAP: Towards Explaining Any Machine Learning Models Anywhere**|Zijie J. Wang et.al.|[2303.09545v1](http://arxiv.org/abs/2303.09545v1)|[2303.09545v1](http://arxiv.org/pdf/2303.09545v1)|**[link](https://github.com/poloclub/webshap)**|
