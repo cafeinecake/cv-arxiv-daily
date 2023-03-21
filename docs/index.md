@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-20**|**The ALMA REBELS Survey: The First Infrared Luminosity Function Measurement at $\mathbf{z \sim 7}**|L. Barrufet et.al.|[2303.11321v1](http://arxiv.org/abs/2303.11321v1)|[2303.11321v1](http://arxiv.org/pdf/2303.11321v1)|null|
+|**2023-03-20**|**Collisional evolution of dust and water ice in protoplanetary discs during and after an accretion outburst**|Adrien Houge et.al.|[2303.11318v1](http://arxiv.org/abs/2303.11318v1)|[2303.11318v1](http://arxiv.org/pdf/2303.11318v1)|null|
+|**2023-03-20**|**The underlying radial acceleration relation**|Harry Desmond et.al.|[2303.11314v1](http://arxiv.org/abs/2303.11314v1)|[2303.11314v1](http://arxiv.org/pdf/2303.11314v1)|null|
+|**2023-03-20**|**On excess entropy and latent heat in crystallizing white dwarfs**|D. A. Baiko et.al.|[2303.11311v1](http://arxiv.org/abs/2303.11311v1)|[2303.11311v1](http://arxiv.org/pdf/2303.11311v1)|null|
+|**2023-03-20**|**A reduction procedure and pipeline for the detection of trans-Neptunian objects using occultations**|Guy Nir et.al.|[2303.11275v1](http://arxiv.org/abs/2303.11275v1)|[2303.11275v1](http://arxiv.org/pdf/2303.11275v1)|null|
+|**2023-03-20**|**Model selection results from different BAO datasets -- DE models and $Ω_K$CDM**|Denitsa Staicova et.al.|[2303.11271v1](http://arxiv.org/abs/2303.11271v1)|[2303.11271v1](http://arxiv.org/pdf/2303.11271v1)|null|
+|**2023-03-20**|**A young white dwarf orbiting PSR J1835-3259B in the bulge globular cluster NGC 6652**|J. Chen et.al.|[2303.11263v1](http://arxiv.org/abs/2303.11263v1)|[2303.11263v1](http://arxiv.org/pdf/2303.11263v1)|null|
+|**2023-03-20**|**Constraining atmospheric parameters and surface magnetic fields with $\texttt{ZeeTurbo}$: an application to SPIRou spectra**|P. I. Cristofari et.al.|[2303.11241v1](http://arxiv.org/abs/2303.11241v1)|[2303.11241v1](http://arxiv.org/pdf/2303.11241v1)|null|
+|**2023-03-20**|**Widespread Hot Ammonia in the Central Kiloparsec of the Milky Way**|Tierra M. Candelaria et.al.|[2303.11222v1](http://arxiv.org/abs/2303.11222v1)|[2303.11222v1](http://arxiv.org/pdf/2303.11222v1)|null|
+|**2023-03-20**|**Constraints on the Binarity of the WN3/O3 Class of Wolf-Rayet Stars**|Philip Massey et.al.|[2303.11209v1](http://arxiv.org/abs/2303.11209v1)|[2303.11209v1](http://arxiv.org/pdf/2303.11209v1)|null|
 |**2023-03-17**|**Model-independent bubble wall velocities in local thermal equilibrium**|Wen-Yuan Ai et.al.|[2303.10171v1](http://arxiv.org/abs/2303.10171v1)|[2303.10171v1](http://arxiv.org/pdf/2303.10171v1)|null|
 |**2023-03-17**|**Generic axion Maxwell equations: path integral approach**|Anton V. Sokolov et.al.|[2303.10170v1](http://arxiv.org/abs/2303.10170v1)|[2303.10170v1](http://arxiv.org/pdf/2303.10170v1)|null|
 |**2023-03-17**|**An HI story of galaxies in Abell 2626 and beyond**|T. Deb et.al.|[2303.10141v1](http://arxiv.org/abs/2303.10141v1)|[2303.10141v1](http://arxiv.org/pdf/2303.10141v1)|null|
@@ -1863,6 +1873,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-20**|**Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion**|Xuxin Cheng et.al.|[2303.11330v1](http://arxiv.org/abs/2303.11330v1)|[2303.11330v1](http://arxiv.org/pdf/2303.11330v1)|null|
+|**2023-03-20**|**3D Concept Learning and Reasoning from Multi-View Images**|Yining Hong et.al.|[2303.11327v1](http://arxiv.org/abs/2303.11327v1)|[2303.11327v1](http://arxiv.org/pdf/2303.11327v1)|null|
+|**2023-03-20**|**Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding**|Jihao Liu et.al.|[2303.11325v1](http://arxiv.org/abs/2303.11325v1)|[2303.11325v1](http://arxiv.org/pdf/2303.11325v1)|null|
+|**2023-03-20**|**Constructing Bayesian Pseudo-Coresets using Contrastive Divergence**|Piyush Tiwary et.al.|[2303.11278v1](http://arxiv.org/abs/2303.11278v1)|[2303.11278v1](http://arxiv.org/pdf/2303.11278v1)|null|
+|**2023-03-20**|**Agent-based Simulation for Online Mental Health Matching**|Yuhan Liu et.al.|[2303.11272v1](http://arxiv.org/abs/2303.11272v1)|[2303.11272v1](http://arxiv.org/pdf/2303.11272v1)|null|
+|**2023-03-20**|**Zero-Shot Noise2Noise: Efficient Image Denoising without any Data**|Youssef Mansour et.al.|[2303.11253v1](http://arxiv.org/abs/2303.11253v1)|[2303.11253v1](http://arxiv.org/pdf/2303.11253v1)|null|
+|**2023-03-20**|**What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement**|Yotam Alexander et.al.|[2303.11249v1](http://arxiv.org/abs/2303.11249v1)|[2303.11249v1](http://arxiv.org/pdf/2303.11249v1)|null|
+|**2023-03-20**|**NeTO:Neural Reconstruction of Transparent Objects with Self-Occlusion Aware Refraction-Tracing**|Zongcheng Li et.al.|[2303.11219v1](http://arxiv.org/abs/2303.11219v1)|[2303.11219v1](http://arxiv.org/pdf/2303.11219v1)|null|
+|**2023-03-20**|**Fluctuation-based deconvolution in fluorescence microscopy using plug-and-play denoisers**|Vasiliki Stergiopoulou et.al.|[2303.11212v1](http://arxiv.org/abs/2303.11212v1)|[2303.11212v1](http://arxiv.org/pdf/2303.11212v1)|null|
+|**2023-03-20**|**Parent Hamiltonian reconstruction via inverse quantum annealing**|Davide Rattacaso et.al.|[2303.11200v1](http://arxiv.org/abs/2303.11200v1)|[2303.11200v1](http://arxiv.org/pdf/2303.11200v1)|null|
 |**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|[2303.10158v1](http://arxiv.org/pdf/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
 |**2023-03-17**|**Hybrid Classic-Quantum Computing for Staging of Invasive Ductal Carcinoma of Breast**|Vicente Moret-Bonillo et.al.|[2303.10142v1](http://arxiv.org/abs/2303.10142v1)|[2303.10142v1](http://arxiv.org/pdf/2303.10142v1)|null|
 |**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|[2303.10139v1](http://arxiv.org/pdf/2303.10139v1)|**[link](https://github.com/tamararruda/dnx)**|
