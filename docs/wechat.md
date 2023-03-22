@@ -1,4 +1,4 @@
-> Updated on 2023.03.21
+> Updated on 2023.03.22
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@
 - 2023-03-20, **A young white dwarf orbiting PSR J1835-3259B in the bulge globular cluster NGC 6652**, J. Chen et.al., Paper: [http://arxiv.org/abs/2303.11263v1](http://arxiv.org/abs/2303.11263v1), Paper: [http://arxiv.org/abs/2303.11263v1](http://arxiv.org/pdf/2303.11263v1)
 - 2023-03-20, **Constraining atmospheric parameters and surface magnetic fields with $\texttt{ZeeTurbo}$: an application to SPIRou spectra**, P. I. Cristofari et.al., Paper: [http://arxiv.org/abs/2303.11241v1](http://arxiv.org/abs/2303.11241v1), Paper: [http://arxiv.org/abs/2303.11241v1](http://arxiv.org/pdf/2303.11241v1)
 - 2023-03-20, **Widespread Hot Ammonia in the Central Kiloparsec of the Milky Way**, Tierra M. Candelaria et.al., Paper: [http://arxiv.org/abs/2303.11222v1](http://arxiv.org/abs/2303.11222v1), Paper: [http://arxiv.org/abs/2303.11222v1](http://arxiv.org/pdf/2303.11222v1)
-- 2023-03-20, **Constraints on the Binarity of the WN3/O3 Class of Wolf-Rayet Stars**, Philip Massey et.al., Paper: [http://arxiv.org/abs/2303.11209v1](http://arxiv.org/abs/2303.11209v1), Paper: [http://arxiv.org/abs/2303.11209v1](http://arxiv.org/pdf/2303.11209v1)
+- 2023-03-21, **Constraints on the Binarity of the WN3/O3 Class of Wolf-Rayet Stars**, Philip Massey et.al., Paper: [http://arxiv.org/abs/2303.11209v2](http://arxiv.org/abs/2303.11209v2), Paper: [http://arxiv.org/abs/2303.11209v2](http://arxiv.org/pdf/2303.11209v2)
 - 2023-03-17, **Model-independent bubble wall velocities in local thermal equilibrium**, Wen-Yuan Ai et.al., Paper: [http://arxiv.org/abs/2303.10171v1](http://arxiv.org/abs/2303.10171v1), Paper: [http://arxiv.org/abs/2303.10171v1](http://arxiv.org/pdf/2303.10171v1)
 - 2023-03-17, **Generic axion Maxwell equations: path integral approach**, Anton V. Sokolov et.al., Paper: [http://arxiv.org/abs/2303.10170v1](http://arxiv.org/abs/2303.10170v1), Paper: [http://arxiv.org/abs/2303.10170v1](http://arxiv.org/pdf/2303.10170v1)
 - 2023-03-17, **An HI story of galaxies in Abell 2626 and beyond**, T. Deb et.al., Paper: [http://arxiv.org/abs/2303.10141v1](http://arxiv.org/abs/2303.10141v1), Paper: [http://arxiv.org/abs/2303.10141v1](http://arxiv.org/pdf/2303.10141v1)
