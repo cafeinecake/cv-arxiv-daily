@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-21**|**Machine Learning the Tip of the Red Giant Branch**|Mitchell Dennis et.al.|[2303.12069v1](http://arxiv.org/abs/2303.12069v1)|[2303.12069v1](http://arxiv.org/pdf/2303.12069v1)|null|
+|**2023-03-21**|**Emulating radiation transport on cosmological scale using a denoising Unet**|Mosima P. Masipa et.al.|[2303.12065v1](http://arxiv.org/abs/2303.12065v1)|[2303.12065v1](http://arxiv.org/pdf/2303.12065v1)|null|
+|**2023-03-21**|**Calibration of the convective parameters in stellar pulsation hydrocodes**|Gábor B. Kovács et.al.|[2303.12049v1](http://arxiv.org/abs/2303.12049v1)|[2303.12049v1](http://arxiv.org/pdf/2303.12049v1)|null|
+|**2023-03-21**|**The first X-ray polarimetric observation of the black hole binary LMC X-1**|Jakub Podgorny et.al.|[2303.12034v1](http://arxiv.org/abs/2303.12034v1)|[2303.12034v1](http://arxiv.org/pdf/2303.12034v1)|null|
+|**2023-03-21**|**The interplay between radio AGN activity and their host galaxies**|Guilherme S. Couto et.al.|[2303.12033v1](http://arxiv.org/abs/2303.12033v1)|[2303.12033v1](http://arxiv.org/pdf/2303.12033v1)|null|
+|**2023-03-21**|**Comparing Apples with Apples: Robust Detection Limits for Exoplanet High-Contrast Imaging in the Presence of non-Gaussian Noise**|Markus J. Bonse et.al.|[2303.12030v1](http://arxiv.org/abs/2303.12030v1)|[2303.12030v1](http://arxiv.org/pdf/2303.12030v1)|null|
+|**2023-03-21**|**One-loop Corrections in Power Spectrum in Single Field Inflation**|Hassan Firouzjahi et.al.|[2303.12025v1](http://arxiv.org/abs/2303.12025v1)|[2303.12025v1](http://arxiv.org/pdf/2303.12025v1)|null|
+|**2023-03-21**|**A search for Kuiper Belt occultations using the Weizmann Fast Astronomical Survey Telescope**|Guy Nir et.al.|[2303.12020v1](http://arxiv.org/abs/2303.12020v1)|[2303.12020v1](http://arxiv.org/pdf/2303.12020v1)|null|
+|**2023-03-21**|**The Pulsar Wind Nebulae contribution to gamma-rays**|Olmi Barbara et.al.|[2303.12019v1](http://arxiv.org/abs/2303.12019v1)|[2303.12019v1](http://arxiv.org/pdf/2303.12019v1)|null|
+|**2023-03-21**|**The chemistry of H2NC in the interstellar medium and the role of the C + NH3 reaction**|M. Agundez et.al.|[2303.12011v1](http://arxiv.org/abs/2303.12011v1)|[2303.12011v1](http://arxiv.org/pdf/2303.12011v1)|null|
 |**2023-03-20**|**The ALMA REBELS Survey: The First Infrared Luminosity Function Measurement at $\mathbf{z \sim 7}**|L. Barrufet et.al.|[2303.11321v1](http://arxiv.org/abs/2303.11321v1)|[2303.11321v1](http://arxiv.org/pdf/2303.11321v1)|null|
 |**2023-03-20**|**Collisional evolution of dust and water ice in protoplanetary discs during and after an accretion outburst**|Adrien Houge et.al.|[2303.11318v1](http://arxiv.org/abs/2303.11318v1)|[2303.11318v1](http://arxiv.org/pdf/2303.11318v1)|null|
 |**2023-03-20**|**The underlying radial acceleration relation**|Harry Desmond et.al.|[2303.11314v1](http://arxiv.org/abs/2303.11314v1)|[2303.11314v1](http://arxiv.org/pdf/2303.11314v1)|null|
@@ -1873,6 +1883,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-21**|**Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play**|Irmak Guzey et.al.|[2303.12076v1](http://arxiv.org/abs/2303.12076v1)|[2303.12076v1](http://arxiv.org/pdf/2303.12076v1)|null|
+|**2023-03-21**|**Roots and Requirements for Collaborative AI**|Mark Stefik et.al.|[2303.12040v1](http://arxiv.org/abs/2303.12040v1)|[2303.12040v1](http://arxiv.org/pdf/2303.12040v1)|null|
+|**2023-03-21**|**The Representational Status of Deep Learning Models**|Eamon Duede et.al.|[2303.12032v1](http://arxiv.org/abs/2303.12032v1)|[2303.12032v1](http://arxiv.org/pdf/2303.12032v1)|null|
+|**2023-03-21**|**cTBL: Augmenting Large Language Models for Conversational Tables**|Anirudh S Sundar et.al.|[2303.12024v1](http://arxiv.org/abs/2303.12024v1)|[2303.12024v1](http://arxiv.org/pdf/2303.12024v1)|null|
+|**2023-03-21**|**Logical Reasoning over Natural Language as Knowledge Representation: A Survey**|Zonglin Yang et.al.|[2303.12023v1](http://arxiv.org/abs/2303.12023v1)|[2303.12023v1](http://arxiv.org/pdf/2303.12023v1)|null|
+|**2023-03-21**|**Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity**|Jennifer Haase et.al.|[2303.12003v1](http://arxiv.org/abs/2303.12003v1)|[2303.12003v1](http://arxiv.org/pdf/2303.12003v1)|null|
+|**2023-03-21**|**Entropically Damped Artificial Compressibility for the Discretization Corrected Particle Strength Exchange Method in Incompressible Fluid Mechanics**|Abhinav Singh et.al.|[2303.11983v1](http://arxiv.org/abs/2303.11983v1)|[2303.11983v1](http://arxiv.org/pdf/2303.11983v1)|null|
+|**2023-03-21**|**Defect Detection Approaches Based on Simulated Reference Image**|Nati Ofir et.al.|[2303.11971v1](http://arxiv.org/abs/2303.11971v1)|[2303.11971v1](http://arxiv.org/pdf/2303.11971v1)|null|
+|**2023-03-21**|**Using Explanations to Guide Models**|Sukrut Rao et.al.|[2303.11932v1](http://arxiv.org/abs/2303.11932v1)|[2303.11932v1](http://arxiv.org/pdf/2303.11932v1)|null|
+|**2023-03-21**|**Do intermediate feature coalitions aid explainability of black-box models?**|Minal Suresh Patil et.al.|[2303.11920v1](http://arxiv.org/abs/2303.11920v1)|[2303.11920v1](http://arxiv.org/pdf/2303.11920v1)|null|
 |**2023-03-20**|**Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion**|Xuxin Cheng et.al.|[2303.11330v1](http://arxiv.org/abs/2303.11330v1)|[2303.11330v1](http://arxiv.org/pdf/2303.11330v1)|null|
 |**2023-03-20**|**3D Concept Learning and Reasoning from Multi-View Images**|Yining Hong et.al.|[2303.11327v1](http://arxiv.org/abs/2303.11327v1)|[2303.11327v1](http://arxiv.org/pdf/2303.11327v1)|null|
 |**2023-03-20**|**Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding**|Jihao Liu et.al.|[2303.11325v1](http://arxiv.org/abs/2303.11325v1)|[2303.11325v1](http://arxiv.org/pdf/2303.11325v1)|null|
