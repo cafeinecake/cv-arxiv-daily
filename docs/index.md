@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-22**|**Resonant neutrino self-interactions and the $H_0$ tension**|Jorge Venzor et.al.|[2303.12792v1](http://arxiv.org/abs/2303.12792v1)|[2303.12792v1](http://arxiv.org/pdf/2303.12792v1)|null|
+|**2023-03-22**|**Ensemble Mapping the Inner Structure of Luminous Quasars**|Liang Wu et.al.|[2303.12769v1](http://arxiv.org/abs/2303.12769v1)|[2303.12769v1](http://arxiv.org/pdf/2303.12769v1)|null|
+|**2023-03-22**|**SRG/eROSITA and XMM-Newton observations of Vela Jr**|Francesco Camilloni et.al.|[2303.12686v1](http://arxiv.org/abs/2303.12686v1)|[2303.12686v1](http://arxiv.org/pdf/2303.12686v1)|null|
+|**2023-03-22**|**Reconstructing the shock history in the CMZ of NGC 253 with ALCHEMI**|K. -Y. Huang et.al.|[2303.12685v1](http://arxiv.org/abs/2303.12685v1)|[2303.12685v1](http://arxiv.org/pdf/2303.12685v1)|null|
+|**2023-03-22**|**The miniJPAS survey quasar selection III: Classification with artificial neural networks and hybridisation**|G. Martínez-Solaeche et.al.|[2303.12684v1](http://arxiv.org/abs/2303.12684v1)|[2303.12684v1](http://arxiv.org/pdf/2303.12684v1)|null|
+|**2023-03-22**|**Cosmological studies with VLBI**|C. Spingola et.al.|[2303.12676v1](http://arxiv.org/abs/2303.12676v1)|[2303.12676v1](http://arxiv.org/pdf/2303.12676v1)|null|
+|**2023-03-22**|**Constraining f(Q) Cosmology with Standard Sirens**|José Ferreira et.al.|[2303.12674v1](http://arxiv.org/abs/2303.12674v1)|[2303.12674v1](http://arxiv.org/pdf/2303.12674v1)|null|
+|**2023-03-22**|**All-sky limits on Sterile Neutrino Galactic Dark Matter obtained with SRG/ART-XC after two years of operations**|E. I. Zakharov et.al.|[2303.12673v1](http://arxiv.org/abs/2303.12673v1)|[2303.12673v1](http://arxiv.org/pdf/2303.12673v1)|null|
+|**2023-03-22**|**Correlation between emission-line luminosity and gamma-ray dominance in the blazar 3C 279**|Anton Dmytriiev et.al.|[2303.12672v1](http://arxiv.org/abs/2303.12672v1)|[2303.12672v1](http://arxiv.org/pdf/2303.12672v1)|null|
+|**2023-03-22**|**Scattering and conversion of electromagnetic and gravitational waves by Reissner-Nordström black holes: the Regge pole description**|Mohamed Ould El Hadj et.al.|[2303.12656v1](http://arxiv.org/abs/2303.12656v1)|[2303.12656v1](http://arxiv.org/pdf/2303.12656v1)|null|
 |**2023-03-21**|**Machine Learning the Tip of the Red Giant Branch**|Mitchell Dennis et.al.|[2303.12069v1](http://arxiv.org/abs/2303.12069v1)|[2303.12069v1](http://arxiv.org/pdf/2303.12069v1)|null|
 |**2023-03-21**|**Emulating radiation transport on cosmological scale using a denoising Unet**|Mosima P. Masipa et.al.|[2303.12065v1](http://arxiv.org/abs/2303.12065v1)|[2303.12065v1](http://arxiv.org/pdf/2303.12065v1)|null|
 |**2023-03-21**|**Calibration of the convective parameters in stellar pulsation hydrocodes**|Gábor B. Kovács et.al.|[2303.12049v1](http://arxiv.org/abs/2303.12049v1)|[2303.12049v1](http://arxiv.org/pdf/2303.12049v1)|null|
@@ -1883,6 +1893,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-22**|**Open-source Frame Semantic Parsing**|David Chanin et.al.|[2303.12788v1](http://arxiv.org/abs/2303.12788v1)|[2303.12788v1](http://arxiv.org/pdf/2303.12788v1)|**[link](https://github.com/chanind/frame-semantic-transformer)**|
+|**2023-03-22**|**Matryoshka Policy Gradient for Entropy-Regularized RL: Convergence and Global Optimality**|François Ged et.al.|[2303.12785v1](http://arxiv.org/abs/2303.12785v1)|[2303.12785v1](http://arxiv.org/pdf/2303.12785v1)|null|
+|**2023-03-22**|**Conformal Prediction for Time Series with Modern Hopfield Networks**|Andreas Auer et.al.|[2303.12783v1](http://arxiv.org/abs/2303.12783v1)|[2303.12783v1](http://arxiv.org/pdf/2303.12783v1)|**[link](https://github.com/ml-jku/hopcpt)**|
+|**2023-03-22**|**The Complexity of Why-Provenance for Datalog Queries**|Marco Calautti et.al.|[2303.12773v1](http://arxiv.org/abs/2303.12773v1)|[2303.12773v1](http://arxiv.org/pdf/2303.12773v1)|**[link](https://gitlab.com/mcalautti/datalog-why-provenance)**|
+|**2023-03-22**|**Interpretable Bangla Sarcasm Detection using BERT and Explainable AI**|Ramisa Anan et.al.|[2303.12772v1](http://arxiv.org/abs/2303.12772v1)|[2303.12772v1](http://arxiv.org/pdf/2303.12772v1)|null|
+|**2023-03-22**|**Can we trust the evaluation on ChatGPT?**|Rachith Aiyappa et.al.|[2303.12767v1](http://arxiv.org/abs/2303.12767v1)|[2303.12767v1](http://arxiv.org/pdf/2303.12767v1)|null|
+|**2023-03-22**|**Spherical Transformer for LiDAR-based 3D Recognition**|Xin Lai et.al.|[2303.12766v1](http://arxiv.org/abs/2303.12766v1)|[2303.12766v1](http://arxiv.org/pdf/2303.12766v1)|**[link](https://github.com/dvlab-research/sphereformer)**|
+|**2023-03-22**|**Strategy Synthesis in Markov Decision Processes Under Limited Sampling Access**|Christel Baier et.al.|[2303.12718v1](http://arxiv.org/abs/2303.12718v1)|[2303.12718v1](http://arxiv.org/pdf/2303.12718v1)|null|
+|**2023-03-22**|**Sparks of Artificial General Intelligence: Early experiments with GPT-4**|Sébastien Bubeck et.al.|[2303.12712v1](http://arxiv.org/abs/2303.12712v1)|[2303.12712v1](http://arxiv.org/pdf/2303.12712v1)|null|
+|**2023-03-22**|**Evaluation of Sketch-Based and Semantic-Based Modalities for Mockup Generation**|Tommaso Calò et.al.|[2303.12709v1](http://arxiv.org/abs/2303.12709v1)|[2303.12709v1](http://arxiv.org/pdf/2303.12709v1)|null|
 |**2023-03-21**|**Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play**|Irmak Guzey et.al.|[2303.12076v1](http://arxiv.org/abs/2303.12076v1)|[2303.12076v1](http://arxiv.org/pdf/2303.12076v1)|null|
 |**2023-03-21**|**Roots and Requirements for Collaborative AI**|Mark Stefik et.al.|[2303.12040v1](http://arxiv.org/abs/2303.12040v1)|[2303.12040v1](http://arxiv.org/pdf/2303.12040v1)|null|
 |**2023-03-21**|**The Representational Status of Deep Learning Models**|Eamon Duede et.al.|[2303.12032v1](http://arxiv.org/abs/2303.12032v1)|[2303.12032v1](http://arxiv.org/pdf/2303.12032v1)|null|
