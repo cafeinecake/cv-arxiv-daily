@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-23**|**The Brighter-Fatter Effect in the JWST MIRI Si:As IBC detectors I. Observations, impact on science, and modelling**|Ioannis Argyriou et.al.|[2303.13517v1](http://arxiv.org/abs/2303.13517v1)|[2303.13517v1](http://arxiv.org/pdf/2303.13517v1)|null|
+|**2023-03-23**|**LiteBIRD and CMB-S4 Sensitivities to Reheating in Plateau Models of Inflation**|Marco Drewes et.al.|[2303.13503v1](http://arxiv.org/abs/2303.13503v1)|[2303.13503v1](http://arxiv.org/pdf/2303.13503v1)|null|
+|**2023-03-23**|**JWST MIRI flight performance: The Medium-Resolution Spectrometer**|Ioannis Argyriou et.al.|[2303.13469v1](http://arxiv.org/abs/2303.13469v1)|[2303.13469v1](http://arxiv.org/pdf/2303.13469v1)|null|
+|**2023-03-23**|**Synchronous rotation in the (136199) Eris-Dysnomia system**|G. M. Bernstein et.al.|[2303.13445v1](http://arxiv.org/abs/2303.13445v1)|[2303.13445v1](http://arxiv.org/pdf/2303.13445v1)|null|
+|**2023-03-23**|**A flashing beacon in axion inflation: recurring bursts of gravitational waves in the strong backreaction regime**|Juan Garcia-Bellido et.al.|[2303.13425v1](http://arxiv.org/abs/2303.13425v1)|[2303.13425v1](http://arxiv.org/pdf/2303.13425v1)|null|
+|**2023-03-23**|**Improving the open cluster census. II. An all-sky cluster catalogue with Gaia DR3**|Emily L. Hunt et.al.|[2303.13424v1](http://arxiv.org/abs/2303.13424v1)|[2303.13424v1](http://arxiv.org/pdf/2303.13424v1)|null|
+|**2023-03-23**|**CE$ν$NS Experiment Proposal at CSNS**|Chenguang Su et.al.|[2303.13423v1](http://arxiv.org/abs/2303.13423v1)|[2303.13423v1](http://arxiv.org/pdf/2303.13423v1)|null|
+|**2023-03-23**|**Flavor Probes of Axion Dark Matter**|Robert Ziegler et.al.|[2303.13353v1](http://arxiv.org/abs/2303.13353v1)|[2303.13353v1](http://arxiv.org/pdf/2303.13353v1)|null|
+|**2023-03-23**|**On the origin of extreme trans-Neptunian objects within Modified Newtonian Dynamics**|Cezary Migaszewski et.al.|[2303.13339v1](http://arxiv.org/abs/2303.13339v1)|[2303.13339v1](http://arxiv.org/pdf/2303.13339v1)|null|
+|**2023-03-23**|**A helium-burning white dwarf binary as a supersoft X-ray source**|J. Greiner et.al.|[2303.13338v1](http://arxiv.org/abs/2303.13338v1)|[2303.13338v1](http://arxiv.org/pdf/2303.13338v1)|null|
 |**2023-03-22**|**Resonant neutrino self-interactions and the $H_0$ tension**|Jorge Venzor et.al.|[2303.12792v1](http://arxiv.org/abs/2303.12792v1)|[2303.12792v1](http://arxiv.org/pdf/2303.12792v1)|null|
 |**2023-03-22**|**Ensemble Mapping the Inner Structure of Luminous Quasars**|Liang Wu et.al.|[2303.12769v1](http://arxiv.org/abs/2303.12769v1)|[2303.12769v1](http://arxiv.org/pdf/2303.12769v1)|null|
 |**2023-03-22**|**SRG/eROSITA and XMM-Newton observations of Vela Jr**|Francesco Camilloni et.al.|[2303.12686v1](http://arxiv.org/abs/2303.12686v1)|[2303.12686v1](http://arxiv.org/pdf/2303.12686v1)|null|
@@ -1893,6 +1903,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-23**|**Learning and Verification of Task Structure in Instructional Videos**|Medhini Narasimhan et.al.|[2303.13519v1](http://arxiv.org/abs/2303.13519v1)|[2303.13519v1](http://arxiv.org/pdf/2303.13519v1)|null|
+|**2023-03-23**|**Three ways to improve feature alignment for open vocabulary detection**|Relja Arandjelović et.al.|[2303.13518v1](http://arxiv.org/abs/2303.13518v1)|[2303.13518v1](http://arxiv.org/pdf/2303.13518v1)|null|
+|**2023-03-23**|**Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the MineRL BASALT 2022 Competition**|Stephanie Milani et.al.|[2303.13512v1](http://arxiv.org/abs/2303.13512v1)|[2303.13512v1](http://arxiv.org/pdf/2303.13512v1)|null|
+|**2023-03-23**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511v1](http://arxiv.org/abs/2303.13511v1)|[2303.13511v1](http://arxiv.org/pdf/2303.13511v1)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
+|**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v1](http://arxiv.org/abs/2303.13508v1)|[2303.13508v1](http://arxiv.org/pdf/2303.13508v1)|null|
+|**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497v1](http://arxiv.org/abs/2303.13497v1)|[2303.13497v1](http://arxiv.org/pdf/2303.13497v1)|null|
+|**2023-03-23**|**The effectiveness of MAE pre-pretraining for billion-scale pretraining**|Mannat Singh et.al.|[2303.13496v1](http://arxiv.org/abs/2303.13496v1)|[2303.13496v1](http://arxiv.org/pdf/2303.13496v1)|null|
+|**2023-03-23**|**Attention! Dynamic Epistemic Logic Models of (In)attentive Agents**|Gaia Belardinelli et.al.|[2303.13494v1](http://arxiv.org/abs/2303.13494v1)|[2303.13494v1](http://arxiv.org/pdf/2303.13494v1)|null|
+|**2023-03-23**|**Boosting Reinforcement Learning and Planning with Demonstrations: A Survey**|Tongzhou Mu et.al.|[2303.13489v1](http://arxiv.org/abs/2303.13489v1)|[2303.13489v1](http://arxiv.org/pdf/2303.13489v1)|null|
+|**2023-03-23**|**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**|Joy Hsu et.al.|[2303.13483v1](http://arxiv.org/abs/2303.13483v1)|[2303.13483v1](http://arxiv.org/pdf/2303.13483v1)|null|
 |**2023-03-22**|**Open-source Frame Semantic Parsing**|David Chanin et.al.|[2303.12788v1](http://arxiv.org/abs/2303.12788v1)|[2303.12788v1](http://arxiv.org/pdf/2303.12788v1)|**[link](https://github.com/chanind/frame-semantic-transformer)**|
 |**2023-03-22**|**Matryoshka Policy Gradient for Entropy-Regularized RL: Convergence and Global Optimality**|François Ged et.al.|[2303.12785v1](http://arxiv.org/abs/2303.12785v1)|[2303.12785v1](http://arxiv.org/pdf/2303.12785v1)|null|
 |**2023-03-22**|**Conformal Prediction for Time Series with Modern Hopfield Networks**|Andreas Auer et.al.|[2303.12783v1](http://arxiv.org/abs/2303.12783v1)|[2303.12783v1](http://arxiv.org/pdf/2303.12783v1)|**[link](https://github.com/ml-jku/hopcpt)**|
