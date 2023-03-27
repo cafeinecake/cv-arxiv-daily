@@ -1,4 +1,4 @@
-## Updated on 2023.03.26
+## Updated on 2023.03.27
 
 ## Astrophysics
 
@@ -1902,7 +1902,7 @@
 |**2023-03-23**|**Learning and Verification of Task Structure in Instructional Videos**|Medhini Narasimhan et.al.|[2303.13519v1](http://arxiv.org/abs/2303.13519v1)|[2303.13519v1](http://arxiv.org/pdf/2303.13519v1)|null|
 |**2023-03-23**|**Three ways to improve feature alignment for open vocabulary detection**|Relja Arandjelović et.al.|[2303.13518v1](http://arxiv.org/abs/2303.13518v1)|[2303.13518v1](http://arxiv.org/pdf/2303.13518v1)|null|
 |**2023-03-23**|**Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the MineRL BASALT 2022 Competition**|Stephanie Milani et.al.|[2303.13512v1](http://arxiv.org/abs/2303.13512v1)|[2303.13512v1](http://arxiv.org/pdf/2303.13512v1)|null|
-|**2023-03-23**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511v1](http://arxiv.org/abs/2303.13511v1)|[2303.13511v1](http://arxiv.org/pdf/2303.13511v1)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
+|**2023-03-24**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511v2](http://arxiv.org/abs/2303.13511v2)|[2303.13511v2](http://arxiv.org/pdf/2303.13511v2)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
 |**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v1](http://arxiv.org/abs/2303.13508v1)|[2303.13508v1](http://arxiv.org/pdf/2303.13508v1)|null|
 |**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497v1](http://arxiv.org/abs/2303.13497v1)|[2303.13497v1](http://arxiv.org/pdf/2303.13497v1)|null|
 |**2023-03-23**|**The effectiveness of MAE pre-pretraining for billion-scale pretraining**|Mannat Singh et.al.|[2303.13496v1](http://arxiv.org/abs/2303.13496v1)|[2303.13496v1](http://arxiv.org/pdf/2303.13496v1)|null|
