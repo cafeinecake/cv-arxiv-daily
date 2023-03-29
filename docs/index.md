@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-28**|**The Decoupling of Binaries from Their Circumbinary Disks**|Alexander J. Dittmann et.al.|[2303.16204v1](http://arxiv.org/abs/2303.16204v1)|[2303.16204v1](http://arxiv.org/pdf/2303.16204v1)|null|
+|**2023-03-28**|**TOI-5375 B: A Very Low Mass Star at the Hydrogen-Burning Limit Orbiting an Early M-type Star**|Mika Lambert et.al.|[2303.16193v1](http://arxiv.org/abs/2303.16193v1)|[2303.16193v1](http://arxiv.org/pdf/2303.16193v1)|null|
+|**2023-03-28**|**QPE or QPO? -- Quasiperiodic Activity in Low-Mass Galaxy Nuclei**|Andrew King et.al.|[2303.16185v1](http://arxiv.org/abs/2303.16185v1)|[2303.16185v1](http://arxiv.org/pdf/2303.16185v1)|null|
+|**2023-03-28**|**Aspect ratios of far-infrared and H i filaments in the diffuse interstellar medium at high Galactic latitudes**|P. M. W. Kalberla et.al.|[2303.16183v1](http://arxiv.org/abs/2303.16183v1)|[2303.16183v1](http://arxiv.org/pdf/2303.16183v1)|null|
+|**2023-03-28**|**XRBcats: Galactic Low Mass X-ray Binary Catalogue**|A. Avakyan et.al.|[2303.16168v1](http://arxiv.org/abs/2303.16168v1)|[2303.16168v1](http://arxiv.org/pdf/2303.16168v1)|null|
+|**2023-03-28**|**XRBcats: Galactic High Mass X-ray Binary Catalogue**|Marvin Neumann et.al.|[2303.16137v1](http://arxiv.org/abs/2303.16137v1)|[2303.16137v1](http://arxiv.org/pdf/2303.16137v1)|null|
+|**2023-03-28**|**Bayesian Computation in Astronomy: Novel methods for parallel and gradient-free inference**|Minas Karamanis et.al.|[2303.16134v1](http://arxiv.org/abs/2303.16134v1)|[2303.16134v1](http://arxiv.org/pdf/2303.16134v1)|null|
+|**2023-03-28**|**Search for lithium-rich giants in 32 open clusters with high-resolution spectroscopy**|M. Tsantaki et.al.|[2303.16124v1](http://arxiv.org/abs/2303.16124v1)|[2303.16124v1](http://arxiv.org/pdf/2303.16124v1)|null|
+|**2023-03-28**|**Detection of ethanol, acetone, and propanal in TMC-1: New O-bearing complex organics in cold sources**|M. Agundez et.al.|[2303.16121v1](http://arxiv.org/abs/2303.16121v1)|[2303.16121v1](http://arxiv.org/pdf/2303.16121v1)|null|
+|**2023-03-28**|**Rebuilding the Habitable Zone from the Bottom Up with Computational Zones**|Caleb Scharf et.al.|[2303.16111v1](http://arxiv.org/abs/2303.16111v1)|[2303.16111v1](http://arxiv.org/pdf/2303.16111v1)|null|
 |**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v1](http://arxiv.org/abs/2303.15442v1)|[2303.15442v1](http://arxiv.org/pdf/2303.15442v1)|**[link](https://github.com/astrolamb/ceffyl)**|
 |**2023-03-27**|**Identifying gravitationally lensed supernovae within the Zwicky Transient Facility public survey**|M. R. Magee et.al.|[2303.15439v1](http://arxiv.org/abs/2303.15439v1)|[2303.15439v1](http://arxiv.org/pdf/2303.15439v1)|null|
 |**2023-03-27**|**Spectroscopic verification of very luminous galaxy candidates in the early universe**|Pablo Arrabal Haro et.al.|[2303.15431v1](http://arxiv.org/abs/2303.15431v1)|[2303.15431v1](http://arxiv.org/pdf/2303.15431v1)|null|
@@ -1923,6 +1933,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|[2303.16203v1](http://arxiv.org/pdf/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|[2303.16201v1](http://arxiv.org/pdf/2303.16201v1)|null|
+|**2023-03-28**|**Natural Selection Favors AIs over Humans**|Dan Hendrycks et.al.|[2303.16200v1](http://arxiv.org/abs/2303.16200v1)|[2303.16200v1](http://arxiv.org/pdf/2303.16200v1)|null|
+|**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|[2303.16199v1](http://arxiv.org/pdf/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-03-28**|**When to be critical? Performance and evolvability in different regimes of neural Ising agents**|Sina Khajehabdollahi et.al.|[2303.16195v1](http://arxiv.org/abs/2303.16195v1)|[2303.16195v1](http://arxiv.org/pdf/2303.16195v1)|null|
+|**2023-03-28**|**Planning with Sequence Models through Iterative Energy Minimization**|Hongyi Chen et.al.|[2303.16189v1](http://arxiv.org/abs/2303.16189v1)|[2303.16189v1](http://arxiv.org/pdf/2303.16189v1)|null|
+|**2023-03-28**|**Large-scale Training Data Search for Object Re-identification**|Yue Yao et.al.|[2303.16186v1](http://arxiv.org/abs/2303.16186v1)|[2303.16186v1](http://arxiv.org/pdf/2303.16186v1)|null|
+|**2023-03-28**|**What Writing Assistants Can Learn from Programming IDEs**|Sergey Titov et.al.|[2303.16175v1](http://arxiv.org/abs/2303.16175v1)|[2303.16175v1](http://arxiv.org/pdf/2303.16175v1)|null|
+|**2023-03-28**|**Reproducibility is Nothing without Correctness: The Importance of Testing Code in NLP**|Sara Papi et.al.|[2303.16166v1](http://arxiv.org/abs/2303.16166v1)|[2303.16166v1](http://arxiv.org/pdf/2303.16166v1)|null|
+|**2023-03-28**|**Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models**|Adyasha Maharana et.al.|[2303.16133v1](http://arxiv.org/abs/2303.16133v1)|[2303.16133v1](http://arxiv.org/pdf/2303.16133v1)|null|
 |**2023-03-27**|**IRFL: Image Recognition of Figurative Language**|Ron Yosef et.al.|[2303.15445v1](http://arxiv.org/abs/2303.15445v1)|[2303.15445v1](http://arxiv.org/pdf/2303.15445v1)|null|
 |**2023-03-27**|**GeoNet: Benchmarking Unsupervised Adaptation across Geographies**|Tarun Kalluri et.al.|[2303.15443v1](http://arxiv.org/abs/2303.15443v1)|[2303.15443v1](http://arxiv.org/pdf/2303.15443v1)|null|
 |**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|[2303.15441v1](http://arxiv.org/pdf/2303.15441v1)|null|
