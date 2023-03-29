@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2023.03.28
+## Updated on 2023.03.29
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v1](http://arxiv.org/abs/2303.15442v1)|[2303.15442v1](http://arxiv.org/pdf/2303.15442v1)|null|
+|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v1](http://arxiv.org/abs/2303.15442v1)|[2303.15442v1](http://arxiv.org/pdf/2303.15442v1)|**[link](https://github.com/astrolamb/ceffyl)**|
 |**2023-03-27**|**Identifying gravitationally lensed supernovae within the Zwicky Transient Facility public survey**|M. R. Magee et.al.|[2303.15439v1](http://arxiv.org/abs/2303.15439v1)|[2303.15439v1](http://arxiv.org/pdf/2303.15439v1)|null|
 |**2023-03-27**|**Spectroscopic verification of very luminous galaxy candidates in the early universe**|Pablo Arrabal Haro et.al.|[2303.15431v1](http://arxiv.org/abs/2303.15431v1)|[2303.15431v1](http://arxiv.org/pdf/2303.15431v1)|null|
 |**2023-03-27**|**Towards robust corrections for stellar contamination in JWST exoplanet transmission spectra**|Benjamin V. Rackham et.al.|[2303.15418v1](http://arxiv.org/abs/2303.15418v1)|[2303.15418v1](http://arxiv.org/pdf/2303.15418v1)|null|
 |**2023-03-27**|**Dynamical masses of two young transiting sub-Neptunes orbiting HD 63433**|M. Mallorquín et.al.|[2303.15411v1](http://arxiv.org/abs/2303.15411v1)|[2303.15411v1](http://arxiv.org/pdf/2303.15411v1)|null|
-|**2023-03-27**|**Constraints on cosmic curvature from cosmic chronometer and quasar observations**|Bikash R. Dinda et.al.|[2303.15401v1](http://arxiv.org/abs/2303.15401v1)|[2303.15401v1](http://arxiv.org/pdf/2303.15401v1)|null|
-|**2023-03-27**|**Constraint on Early Dark Energy from Isotropic Cosmic Birefringence**|Johannes R. Eskilt et.al.|[2303.15369v1](http://arxiv.org/abs/2303.15369v1)|[2303.15369v1](http://arxiv.org/pdf/2303.15369v1)|null|
+|**2023-03-28**|**Constraints on cosmic curvature from cosmic chronometer and quasar observations**|Bikash R. Dinda et.al.|[2303.15401v2](http://arxiv.org/abs/2303.15401v2)|[2303.15401v2](http://arxiv.org/pdf/2303.15401v2)|null|
+|**2023-03-27**|**Constraint on Early Dark Energy from Isotropic Cosmic Birefringence**|Johannes R. Eskilt et.al.|[2303.15369v1](http://arxiv.org/abs/2303.15369v1)|[2303.15369v1](http://arxiv.org/pdf/2303.15369v1)|**[link](https://github.com/lillejohs/observed-eb-power-spectrum)**|
 |**2023-03-27**|**Formation and Evolution of Coherent Structures in 3D Strongly Turbulent Magnetized Plasmas**|Loukas Vlahos et.al.|[2303.15351v1](http://arxiv.org/abs/2303.15351v1)|[2303.15351v1](http://arxiv.org/pdf/2303.15351v1)|null|
 |**2023-03-27**|**Numerical simulations of prominence oscillations triggered by external perturbations**|Valeriia Liakh et.al.|[2303.15348v1](http://arxiv.org/abs/2303.15348v1)|[2303.15348v1](http://arxiv.org/pdf/2303.15348v1)|null|
 |**2023-03-27**|**Geometric Methods for Spherical Data, with Applications to Cosmology**|Javier Carrón Duque et.al.|[2303.15278v1](http://arxiv.org/abs/2303.15278v1)|[2303.15278v1](http://arxiv.org/pdf/2303.15278v1)|null|
@@ -1928,9 +1928,9 @@ layout: default
 |**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|[2303.15441v1](http://arxiv.org/pdf/2303.15441v1)|null|
 |**2023-03-27**|**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**|Pierre Fernandez et.al.|[2303.15435v1](http://arxiv.org/abs/2303.15435v1)|[2303.15435v1](http://arxiv.org/pdf/2303.15435v1)|null|
 |**2023-03-27**|**Dimensionality Collapse: Optimal Measurement Selection for Low-Error Infinite-Horizon Forecasting**|Helmuth Naumer et.al.|[2303.15407v1](http://arxiv.org/abs/2303.15407v1)|[2303.15407v1](http://arxiv.org/pdf/2303.15407v1)|**[link](https://github.com/helmuthn/naumer_dimensionality_2022.jl)**|
-|**2023-03-27**|**Constraints on cosmic curvature from cosmic chronometer and quasar observations**|Bikash R. Dinda et.al.|[2303.15401v1](http://arxiv.org/abs/2303.15401v1)|[2303.15401v1](http://arxiv.org/pdf/2303.15401v1)|null|
+|**2023-03-28**|**Constraints on cosmic curvature from cosmic chronometer and quasar observations**|Bikash R. Dinda et.al.|[2303.15401v2](http://arxiv.org/abs/2303.15401v2)|[2303.15401v2](http://arxiv.org/pdf/2303.15401v2)|null|
 |**2023-03-27**|**A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts**|Jian Liang et.al.|[2303.15361v1](http://arxiv.org/abs/2303.15361v1)|[2303.15361v1](http://arxiv.org/pdf/2303.15361v1)|**[link](https://github.com/tim-learn/awesome-test-time-adaptation)**|
-|**2023-03-27**|**Generalisability of deep learning-based early warning in the intensive care unit: a retrospective empirical evaluation**|Patrick Rockenschaub et.al.|[2303.15354v1](http://arxiv.org/abs/2303.15354v1)|[2303.15354v1](http://arxiv.org/pdf/2303.15354v1)|null|
+|**2023-03-27**|**Generalisability of deep learning-based early warning in the intensive care unit: a retrospective empirical evaluation**|Patrick Rockenschaub et.al.|[2303.15354v1](http://arxiv.org/abs/2303.15354v1)|[2303.15354v1](http://arxiv.org/pdf/2303.15354v1)|**[link](https://github.com/prockenschaub/icuDG-preprocessing)**|
 |**2023-03-27**|**Numerical simulations of prominence oscillations triggered by external perturbations**|Valeriia Liakh et.al.|[2303.15348v1](http://arxiv.org/abs/2303.15348v1)|[2303.15348v1](http://arxiv.org/pdf/2303.15348v1)|null|
 |**2023-03-27**|**Sigmoid Loss for Language Image Pre-Training**|Xiaohua Zhai et.al.|[2303.15343v1](http://arxiv.org/abs/2303.15343v1)|[2303.15343v1](http://arxiv.org/pdf/2303.15343v1)|null|
 |**2023-03-24**|**Scaling Expert Language Models with Unsupervised Domain Discovery**|Suchin Gururangan et.al.|[2303.14177v1](http://arxiv.org/abs/2303.14177v1)|[2303.14177v1](http://arxiv.org/pdf/2303.14177v1)|**[link](https://github.com/kernelmachine/cbtm)**|
