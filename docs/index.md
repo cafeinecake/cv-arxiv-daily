@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-29**|**New Insight on Neutrino Dark Matter Interactions from Small-Scale CMB Observations**|Philippe Brax et.al.|[2303.16895v1](http://arxiv.org/abs/2303.16895v1)|[2303.16895v1](http://arxiv.org/pdf/2303.16895v1)|null|
+|**2023-03-29**|**Systematic KMTNet Planetary Anomaly Search. IX. Complete Sample of 2016 Prime-Field Planets**|In-Gu Shin et.al.|[2303.16881v1](http://arxiv.org/abs/2303.16881v1)|[2303.16881v1](http://arxiv.org/pdf/2303.16881v1)|null|
+|**2023-03-29**|**The puzzle of the formation of T8 dwarf Ross 458c**|Josefine Gaarn et.al.|[2303.16863v1](http://arxiv.org/abs/2303.16863v1)|[2303.16863v1](http://arxiv.org/pdf/2303.16863v1)|null|
+|**2023-03-29**|**Dwarf Galaxy Discoveries from the KMTNet Supernova Program III. the Milky-Way Analog NGC~2997 Group**|Tony Junjing Fan et.al.|[2303.16849v1](http://arxiv.org/abs/2303.16849v1)|[2303.16849v1](http://arxiv.org/pdf/2303.16849v1)|null|
+|**2023-03-29**|**The ratio of horizontal to vertical displacement in solar oscillations estimated from combined SO/PHI and SDO/HMI observations**|J. Schou et.al.|[2303.16844v1](http://arxiv.org/abs/2303.16844v1)|[2303.16844v1](http://arxiv.org/pdf/2303.16844v1)|null|
+|**2023-03-29**|**Prospects for localising Planet 9 with a future Uranus mission**|Jozef Bucko et.al.|[2303.16830v1](http://arxiv.org/abs/2303.16830v1)|[2303.16830v1](http://arxiv.org/pdf/2303.16830v1)|null|
+|**2023-03-29**|**Entanglement in conformal field theory and holography**|Nele Callebaut et.al.|[2303.16827v1](http://arxiv.org/abs/2303.16827v1)|[2303.16827v1](http://arxiv.org/pdf/2303.16827v1)|null|
+|**2023-03-29**|**Galaxy interactions in filaments and sheets: insights from EAGLE simulations**|Apashanka Das et.al.|[2303.16826v1](http://arxiv.org/abs/2303.16826v1)|[2303.16826v1](http://arxiv.org/pdf/2303.16826v1)|null|
+|**2023-03-29**|**General-relativistic simulations of the formation of a magnetized hybrid star**|Anson Ka Long Yip et.al.|[2303.16820v1](http://arxiv.org/abs/2303.16820v1)|[2303.16820v1](http://arxiv.org/pdf/2303.16820v1)|null|
+|**2023-03-29**|**Chameleon perfect scalar field as a geometric correction in $f(R)$ gravity**|Laura L. Parrilla et.al.|[2303.16815v1](http://arxiv.org/abs/2303.16815v1)|[2303.16815v1](http://arxiv.org/pdf/2303.16815v1)|null|
 |**2023-03-28**|**The Decoupling of Binaries from Their Circumbinary Disks**|Alexander J. Dittmann et.al.|[2303.16204v1](http://arxiv.org/abs/2303.16204v1)|[2303.16204v1](http://arxiv.org/pdf/2303.16204v1)|null|
 |**2023-03-28**|**TOI-5375 B: A Very Low Mass Star at the Hydrogen-Burning Limit Orbiting an Early M-type Star**|Mika Lambert et.al.|[2303.16193v1](http://arxiv.org/abs/2303.16193v1)|[2303.16193v1](http://arxiv.org/pdf/2303.16193v1)|null|
 |**2023-03-28**|**QPE or QPO? -- Quasiperiodic Activity in Low-Mass Galaxy Nuclei**|Andrew King et.al.|[2303.16185v1](http://arxiv.org/abs/2303.16185v1)|[2303.16185v1](http://arxiv.org/pdf/2303.16185v1)|null|
@@ -1933,6 +1943,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-29**|**InceptionNeXt: When Inception Meets ConvNeXt**|Weihao Yu et.al.|[2303.16900v1](http://arxiv.org/abs/2303.16900v1)|[2303.16900v1](http://arxiv.org/pdf/2303.16900v1)|**[link](https://github.com/sail-sg/inceptionnext)**|
+|**2023-03-29**|**ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**|Ziyu Guo et.al.|[2303.16894v1](http://arxiv.org/abs/2303.16894v1)|[2303.16894v1](http://arxiv.org/pdf/2303.16894v1)|null|
+|**2023-03-29**|**Zero-shot Entailment of Leaderboards for Empirical AI Research**|Salomon Kabongo et.al.|[2303.16835v1](http://arxiv.org/abs/2303.16835v1)|[2303.16835v1](http://arxiv.org/pdf/2303.16835v1)|null|
+|**2023-03-29**|**Decision Making for Autonomous Driving in Interactive Merge Scenarios via Learning-based Prediction**|Salar Arbabi et.al.|[2303.16821v1](http://arxiv.org/abs/2303.16821v1)|[2303.16821v1](http://arxiv.org/pdf/2303.16821v1)|null|
+|**2023-03-29**|**bAIoimage analysis: elevating the rate of scientific discovery -- as a community**|Damian Edward Dalle Nogare et.al.|[2303.16743v1](http://arxiv.org/abs/2303.16743v1)|[2303.16743v1](http://arxiv.org/pdf/2303.16743v1)|null|
+|**2023-03-29**|**Multi-Agent Reinforcement Learning with Action Masking for UAV-enabled Mobile Communications**|Danish Rizvi et.al.|[2303.16737v1](http://arxiv.org/abs/2303.16737v1)|[2303.16737v1](http://arxiv.org/pdf/2303.16737v1)|null|
+|**2023-03-29**|**Preventing Object-centric Discovery of Unsound Process Models for Object Interactions with Loops in Collaborative Systems: Extended Version**|Janik-Vasily Benzin et.al.|[2303.16680v1](http://arxiv.org/abs/2303.16680v1)|[2303.16680v1](http://arxiv.org/pdf/2303.16680v1)|null|
+|**2023-03-29**|**Neuro-symbolic Rule Learning in Real-world Classification Tasks**|Kexin Gu Baugh et.al.|[2303.16674v1](http://arxiv.org/abs/2303.16674v1)|[2303.16674v1](http://arxiv.org/pdf/2303.16674v1)|**[link](https://github.com/kittykg/neural-dnf-tmc)**|
+|**2023-03-29**|**A Byzantine-Resilient Aggregation Scheme for Federated Learning via Matrix Autoregression on Client Updates**|Gabriele Tolomei et.al.|[2303.16668v1](http://arxiv.org/abs/2303.16668v1)|[2303.16668v1](http://arxiv.org/pdf/2303.16668v1)|null|
+|**2023-03-29**|**Price Optimization Combining Conjoint Data and Purchase History: A Causal Modeling Approach**|Lauri Valkonen et.al.|[2303.16660v1](http://arxiv.org/abs/2303.16660v1)|[2303.16660v1](http://arxiv.org/pdf/2303.16660v1)|null|
 |**2023-03-29**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v2](http://arxiv.org/abs/2303.16203v2)|[2303.16203v2](http://arxiv.org/pdf/2303.16203v2)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|[2303.16201v1](http://arxiv.org/pdf/2303.16201v1)|null|
 |**2023-03-28**|**Natural Selection Favors AIs over Humans**|Dan Hendrycks et.al.|[2303.16200v1](http://arxiv.org/abs/2303.16200v1)|[2303.16200v1](http://arxiv.org/pdf/2303.16200v1)|null|
