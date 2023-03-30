@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.29
+## Updated on 2023.03.30
 
 ## Astrophysics
 
@@ -1933,7 +1933,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|[2303.16203v1](http://arxiv.org/pdf/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-29**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v2](http://arxiv.org/abs/2303.16203v2)|[2303.16203v2](http://arxiv.org/pdf/2303.16203v2)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|[2303.16201v1](http://arxiv.org/pdf/2303.16201v1)|null|
 |**2023-03-28**|**Natural Selection Favors AIs over Humans**|Dan Hendrycks et.al.|[2303.16200v1](http://arxiv.org/abs/2303.16200v1)|[2303.16200v1](http://arxiv.org/pdf/2303.16200v1)|null|
 |**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|[2303.16199v1](http://arxiv.org/pdf/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
@@ -1941,8 +1941,8 @@ layout: default
 |**2023-03-28**|**Planning with Sequence Models through Iterative Energy Minimization**|Hongyi Chen et.al.|[2303.16189v1](http://arxiv.org/abs/2303.16189v1)|[2303.16189v1](http://arxiv.org/pdf/2303.16189v1)|null|
 |**2023-03-28**|**Large-scale Training Data Search for Object Re-identification**|Yue Yao et.al.|[2303.16186v1](http://arxiv.org/abs/2303.16186v1)|[2303.16186v1](http://arxiv.org/pdf/2303.16186v1)|null|
 |**2023-03-28**|**What Writing Assistants Can Learn from Programming IDEs**|Sergey Titov et.al.|[2303.16175v1](http://arxiv.org/abs/2303.16175v1)|[2303.16175v1](http://arxiv.org/pdf/2303.16175v1)|null|
-|**2023-03-28**|**Reproducibility is Nothing without Correctness: The Importance of Testing Code in NLP**|Sara Papi et.al.|[2303.16166v1](http://arxiv.org/abs/2303.16166v1)|[2303.16166v1](http://arxiv.org/pdf/2303.16166v1)|null|
-|**2023-03-28**|**Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models**|Adyasha Maharana et.al.|[2303.16133v1](http://arxiv.org/abs/2303.16133v1)|[2303.16133v1](http://arxiv.org/pdf/2303.16133v1)|null|
+|**2023-03-29**|**Reproducibility is Nothing without Correctness: The Importance of Testing Code in NLP**|Sara Papi et.al.|[2303.16166v2](http://arxiv.org/abs/2303.16166v2)|[2303.16166v2](http://arxiv.org/pdf/2303.16166v2)|null|
+|**2023-03-28**|**Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models**|Adyasha Maharana et.al.|[2303.16133v1](http://arxiv.org/abs/2303.16133v1)|[2303.16133v1](http://arxiv.org/pdf/2303.16133v1)|**[link](https://github.com/adymaharana/cococon)**|
 |**2023-03-27**|**IRFL: Image Recognition of Figurative Language**|Ron Yosef et.al.|[2303.15445v1](http://arxiv.org/abs/2303.15445v1)|[2303.15445v1](http://arxiv.org/pdf/2303.15445v1)|null|
 |**2023-03-27**|**GeoNet: Benchmarking Unsupervised Adaptation across Geographies**|Tarun Kalluri et.al.|[2303.15443v1](http://arxiv.org/abs/2303.15443v1)|[2303.15443v1](http://arxiv.org/pdf/2303.15443v1)|null|
 |**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|[2303.15441v1](http://arxiv.org/pdf/2303.15441v1)|null|
