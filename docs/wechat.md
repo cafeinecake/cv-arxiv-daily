@@ -1,4 +1,4 @@
-> Updated on 2023.03.30
+> Updated on 2023.03.31
 
 ## Astrophysics
 
@@ -1936,7 +1936,7 @@
 ## AI
 
 - 2023-03-29, **InceptionNeXt: When Inception Meets ConvNeXt**, Weihao Yu et.al., Paper: [http://arxiv.org/abs/2303.16900v1](http://arxiv.org/abs/2303.16900v1),Paper: [http://arxiv.org/abs/2303.16900v1](http://arxiv.org/pdf/2303.16900v1), Code: **[https://github.com/sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext)**
-- 2023-03-29, **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2303.16894v1](http://arxiv.org/abs/2303.16894v1), Paper: [http://arxiv.org/abs/2303.16894v1](http://arxiv.org/pdf/2303.16894v1)
+- 2023-03-29, **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2303.16894v1](http://arxiv.org/abs/2303.16894v1),Paper: [http://arxiv.org/abs/2303.16894v1](http://arxiv.org/pdf/2303.16894v1), Code: **[https://github.com/ziyuguo99/viewrefer3d](https://github.com/ziyuguo99/viewrefer3d)**
 - 2023-03-29, **Zero-shot Entailment of Leaderboards for Empirical AI Research**, Salomon Kabongo et.al., Paper: [http://arxiv.org/abs/2303.16835v1](http://arxiv.org/abs/2303.16835v1), Paper: [http://arxiv.org/abs/2303.16835v1](http://arxiv.org/pdf/2303.16835v1)
 - 2023-03-29, **Decision Making for Autonomous Driving in Interactive Merge Scenarios via Learning-based Prediction**, Salar Arbabi et.al., Paper: [http://arxiv.org/abs/2303.16821v1](http://arxiv.org/abs/2303.16821v1), Paper: [http://arxiv.org/abs/2303.16821v1](http://arxiv.org/pdf/2303.16821v1)
 - 2023-03-29, **bAIoimage analysis: elevating the rate of scientific discovery -- as a community**, Damian Edward Dalle Nogare et.al., Paper: [http://arxiv.org/abs/2303.16743v1](http://arxiv.org/abs/2303.16743v1), Paper: [http://arxiv.org/abs/2303.16743v1](http://arxiv.org/pdf/2303.16743v1)
@@ -1944,7 +1944,7 @@
 - 2023-03-29, **Preventing Object-centric Discovery of Unsound Process Models for Object Interactions with Loops in Collaborative Systems: Extended Version**, Janik-Vasily Benzin et.al., Paper: [http://arxiv.org/abs/2303.16680v1](http://arxiv.org/abs/2303.16680v1), Paper: [http://arxiv.org/abs/2303.16680v1](http://arxiv.org/pdf/2303.16680v1)
 - 2023-03-29, **Neuro-symbolic Rule Learning in Real-world Classification Tasks**, Kexin Gu Baugh et.al., Paper: [http://arxiv.org/abs/2303.16674v1](http://arxiv.org/abs/2303.16674v1),Paper: [http://arxiv.org/abs/2303.16674v1](http://arxiv.org/pdf/2303.16674v1), Code: **[https://github.com/kittykg/neural-dnf-tmc](https://github.com/kittykg/neural-dnf-tmc)**
 - 2023-03-29, **A Byzantine-Resilient Aggregation Scheme for Federated Learning via Matrix Autoregression on Client Updates**, Gabriele Tolomei et.al., Paper: [http://arxiv.org/abs/2303.16668v1](http://arxiv.org/abs/2303.16668v1), Paper: [http://arxiv.org/abs/2303.16668v1](http://arxiv.org/pdf/2303.16668v1)
-- 2023-03-29, **Price Optimization Combining Conjoint Data and Purchase History: A Causal Modeling Approach**, Lauri Valkonen et.al., Paper: [http://arxiv.org/abs/2303.16660v1](http://arxiv.org/abs/2303.16660v1), Paper: [http://arxiv.org/abs/2303.16660v1](http://arxiv.org/pdf/2303.16660v1)
+- 2023-03-29, **Price Optimization Combining Conjoint Data and Purchase History: A Causal Modeling Approach**, Lauri Valkonen et.al., Paper: [http://arxiv.org/abs/2303.16660v1](http://arxiv.org/abs/2303.16660v1),Paper: [http://arxiv.org/abs/2303.16660v1](http://arxiv.org/pdf/2303.16660v1), Code: **[https://github.com/lvalkone/proptim](https://github.com/lvalkone/proptim)**
 - 2023-03-29, **Your Diffusion Model is Secretly a Zero-Shot Classifier**, Alexander C. Li et.al., Paper: [http://arxiv.org/abs/2303.16203v2](http://arxiv.org/abs/2303.16203v2),Paper: [http://arxiv.org/abs/2303.16203v2](http://arxiv.org/pdf/2303.16203v2), Code: **[https://github.com/diffusion-classifier/diffusion-classifier](https://github.com/diffusion-classifier/diffusion-classifier)**
 - 2023-03-28, **ASIC: Aligning Sparse in-the-wild Image Collections**, Kamal Gupta et.al., Paper: [http://arxiv.org/abs/2303.16201v1](http://arxiv.org/abs/2303.16201v1), Paper: [http://arxiv.org/abs/2303.16201v1](http://arxiv.org/pdf/2303.16201v1)
 - 2023-03-28, **Natural Selection Favors AIs over Humans**, Dan Hendrycks et.al., Paper: [http://arxiv.org/abs/2303.16200v1](http://arxiv.org/abs/2303.16200v1), Paper: [http://arxiv.org/abs/2303.16200v1](http://arxiv.org/pdf/2303.16200v1)
