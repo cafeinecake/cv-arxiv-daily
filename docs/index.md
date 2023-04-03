@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-31**|**AGN in the CALIFA survey: X-ray detection of nuclear sources**|Natalia Osorio-Clavijo et.al.|[2303.18245v1](http://arxiv.org/abs/2303.18245v1)|[2303.18245v1](http://arxiv.org/pdf/2303.18245v1)|null|
+|**2023-03-31**|**Programmed but Arbitrary Control Minimization of Amplitude and phase for speckle Nulling (PACMAN)**|Iva Laginja et.al.|[2303.18231v1](http://arxiv.org/abs/2303.18231v1)|[2303.18231v1](http://arxiv.org/pdf/2303.18231v1)|null|
+|**2023-03-31**|**Supermassive black hole mass in the massive elliptical galaxy M87 from integral-field stellar dynamics using OASIS and MUSE with adaptive optics: assessing systematic uncertainties**|David A. Simon et.al.|[2303.18229v1](http://arxiv.org/abs/2303.18229v1)|[2303.18229v1](http://arxiv.org/pdf/2303.18229v1)|null|
+|**2023-03-31**|**MO0NFALL: The Great Filter and Exo-Moon Occurrence**|Casey Brinkman et.al.|[2303.18227v1](http://arxiv.org/abs/2303.18227v1)|[2303.18227v1](http://arxiv.org/pdf/2303.18227v1)|null|
+|**2023-03-31**|**A Unified Nomenclature and Taxonomy for Planets, Stars, and Moons**|Jason T. Wright et.al.|[2303.18217v1](http://arxiv.org/abs/2303.18217v1)|[2303.18217v1](http://arxiv.org/pdf/2303.18217v1)|null|
+|**2023-03-31**|**Hydrodynamical constraints on bubble wall velocity**|Tomasz Krajewski et.al.|[2303.18216v1](http://arxiv.org/abs/2303.18216v1)|[2303.18216v1](http://arxiv.org/pdf/2303.18216v1)|null|
+|**2023-03-31**|**Particle-In-Cell Simulations of Sunward and Anti-sunward Whistler Waves in the Solar Wind**|Ilya V. Kuzichev et.al.|[2303.18214v1](http://arxiv.org/abs/2303.18214v1)|[2303.18214v1](http://arxiv.org/pdf/2303.18214v1)|null|
+|**2023-03-31**|**The saturation mechanism of thermal instability**|Tim Waters et.al.|[2303.18198v1](http://arxiv.org/abs/2303.18198v1)|[2303.18198v1](http://arxiv.org/pdf/2303.18198v1)|null|
+|**2023-03-31**|**Microscopic calculation of the pinning energy of a vortex in the inner crust of a neutron star**|P. Klausner et.al.|[2303.18151v1](http://arxiv.org/abs/2303.18151v1)|[2303.18151v1](http://arxiv.org/pdf/2303.18151v1)|null|
+|**2023-03-31**|**An IllustrisTNG View of the Caustic Technique for Galaxy Cluster Mass Estimation**|Michele Pizzardo et.al.|[2303.18147v1](http://arxiv.org/abs/2303.18147v1)|[2303.18147v1](http://arxiv.org/pdf/2303.18147v1)|null|
 |**2023-03-30**|**Gravitational wave microlensing by dressed primordial black holes**|Juan Urrutia et.al.|[2303.17601v1](http://arxiv.org/abs/2303.17601v1)|[2303.17601v1](http://arxiv.org/pdf/2303.17601v1)|null|
 |**2023-03-30**|**The He I 10830 A line: Radiative Transfer and differential illumination effects**|Andres Vicente Arevalo et.al.|[2303.17585v1](http://arxiv.org/abs/2303.17585v1)|[2303.17585v1](http://arxiv.org/pdf/2303.17585v1)|null|
 |**2023-03-30**|**Constraining ultralight dark matter using the Fermi-LAT Pulsar Timing Array**|Zi-Qing Xia et.al.|[2303.17545v1](http://arxiv.org/abs/2303.17545v1)|[2303.17545v1](http://arxiv.org/pdf/2303.17545v1)|null|
@@ -1953,6 +1963,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-03-31**|**3D Human Pose Estimation via Intuitive Physics**|Shashank Tripathi et.al.|[2303.18246v1](http://arxiv.org/abs/2303.18246v1)|[2303.18246v1](http://arxiv.org/pdf/2303.18246v1)|null|
+|**2023-03-31**|**Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**|Arjun Majumdar et.al.|[2303.18240v1](http://arxiv.org/abs/2303.18240v1)|[2303.18240v1](http://arxiv.org/pdf/2303.18240v1)|null|
+|**2023-03-31**|**A Survey of Large Language Models**|Wayne Xin Zhao et.al.|[2303.18223v1](http://arxiv.org/abs/2303.18223v1)|[2303.18223v1](http://arxiv.org/pdf/2303.18223v1)|**[link](https://github.com/rucaibox/llmsurvey)**|
+|**2023-03-31**|**Shipper collaboration matching: fast enumeration of triangular transports with high cooperation effects**|Akifumi Kira et.al.|[2303.18222v1](http://arxiv.org/abs/2303.18222v1)|[2303.18222v1](http://arxiv.org/pdf/2303.18222v1)|null|
+|**2023-03-31**|**Constrained Optimization of Rank-One Functions with Indicator Variables**|Soroosh Shafieezadeh-Abadeh et.al.|[2303.18158v1](http://arxiv.org/abs/2303.18158v1)|[2303.18158v1](http://arxiv.org/pdf/2303.18158v1)|null|
+|**2023-03-31**|**Markerless 3D human pose tracking through multiple cameras and AI: Enabling high accuracy, robustness, and real-time performance**|Luca Fortini et.al.|[2303.18119v1](http://arxiv.org/abs/2303.18119v1)|[2303.18119v1](http://arxiv.org/pdf/2303.18119v1)|null|
+|**2023-03-31**|**Pair Programming with Large Language Models for Sampling and Estimation of Copulas**|Jan Górecki et.al.|[2303.18116v1](http://arxiv.org/abs/2303.18116v1)|[2303.18116v1](http://arxiv.org/pdf/2303.18116v1)|null|
+|**2023-03-31**|**Automatic Detection of Out-of-body Frames in Surgical Videos for Privacy Protection Using Self-supervised Learning and Minimal Labels**|Ziheng Wang et.al.|[2303.18106v1](http://arxiv.org/abs/2303.18106v1)|[2303.18106v1](http://arxiv.org/pdf/2303.18106v1)|null|
+|**2023-03-31**|**Dataset and Baseline System for Multi-lingual Extraction and Normalization of Temporal and Numerical Expressions**|Sanxing Chen et.al.|[2303.18103v1](http://arxiv.org/abs/2303.18103v1)|[2303.18103v1](http://arxiv.org/pdf/2303.18103v1)|null|
+|**2023-03-31**|**INoD: Injected Noise Discriminator for Self-Supervised Representation Learning in Agricultural Fields**|Julia Hindel et.al.|[2303.18101v1](http://arxiv.org/abs/2303.18101v1)|[2303.18101v1](http://arxiv.org/pdf/2303.18101v1)|null|
 |**2023-03-30**|**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**|Eric Zhang et.al.|[2303.17591v1](http://arxiv.org/abs/2303.17591v1)|[2303.17591v1](http://arxiv.org/pdf/2303.17591v1)|**[link](https://github.com/shi-labs/forget-me-not)**|
 |**2023-03-30**|**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**|Yongliang Shen et.al.|[2303.17580v1](http://arxiv.org/abs/2303.17580v1)|[2303.17580v1](http://arxiv.org/pdf/2303.17580v1)|**[link](https://github.com/microsoft/JARVIS)**|
 |**2023-03-30**|**Elastic Weight Removal for Faithful and Abstractive Dialogue Generation**|Nico Daheim et.al.|[2303.17574v1](http://arxiv.org/abs/2303.17574v1)|[2303.17574v1](http://arxiv.org/pdf/2303.17574v1)|**[link](https://github.com/ndaheim/faithful-dialogue)**|
