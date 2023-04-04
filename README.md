@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-04-03**|**Wave Mechanics, Interference, and Decoherence in Strong Gravitational Lensing**|Calvin Leung et.al.|[2304.01202v1](http://arxiv.org/abs/2304.01202v1)|[2304.01202v1](http://arxiv.org/pdf/2304.01202v1)|null|
+|**2023-04-03**|**The Timing System of LIGO Discoveries**|Andrew G. Sullivan et.al.|[2304.01188v1](http://arxiv.org/abs/2304.01188v1)|[2304.01188v1](http://arxiv.org/pdf/2304.01188v1)|null|
+|**2023-04-03**|**Cosmology from the integrated shear 3-point correlation function: simulated likelihood analyses with machine-learning emulators**|Zhengyangguang Gong et.al.|[2304.01187v1](http://arxiv.org/abs/2304.01187v1)|[2304.01187v1](http://arxiv.org/pdf/2304.01187v1)|null|
+|**2023-04-03**|**Whistler Wave Observations by \textit{Parker Solar Probe} During Encounter $1$: Counter-Propagating Whistlers Collocated with Magnetic Field Inhomogeneities and their Application to Electric Field Measurement Calibration**|S. Karbashewski et.al.|[2304.01185v1](http://arxiv.org/abs/2304.01185v1)|[2304.01185v1](http://arxiv.org/pdf/2304.01185v1)|null|
+|**2023-04-03**|**IceCat-1: the IceCube Event Catalog of Alert Tracks**|R. Abbasi et.al.|[2304.01174v1](http://arxiv.org/abs/2304.01174v1)|[2304.01174v1](http://arxiv.org/pdf/2304.01174v1)|null|
+|**2023-04-03**|**Supermassive Dark Star candidates seen by JWST?**|Cosmin Ilie et.al.|[2304.01173v1](http://arxiv.org/abs/2304.01173v1)|[2304.01173v1](http://arxiv.org/pdf/2304.01173v1)|null|
+|**2023-04-03**|**Characterization of MKIDs for CMB observation at 220 GHz with the South Pole Telescope**|Karia R. Dibert et.al.|[2304.01158v1](http://arxiv.org/abs/2304.01158v1)|[2304.01158v1](http://arxiv.org/pdf/2304.01158v1)|null|
+|**2023-04-03**|**Quasiparticle Generation-Recombination Noise in the Limit of Low Detector Volume**|J. Li et.al.|[2304.01156v1](http://arxiv.org/abs/2304.01156v1)|[2304.01156v1](http://arxiv.org/pdf/2304.01156v1)|null|
+|**2023-04-03**|**Constraints on the frequency and mass content of r-process events derived from turbulent mixing in galactic disks**|A. N. Kolborg et.al.|[2304.01144v1](http://arxiv.org/abs/2304.01144v1)|[2304.01144v1](http://arxiv.org/pdf/2304.01144v1)|null|
+|**2023-04-03**|**Noise Optimization for MKIDs with Different Design Geometries and Material Selections**|Z. Pan et.al.|[2304.01133v1](http://arxiv.org/abs/2304.01133v1)|[2304.01133v1](http://arxiv.org/pdf/2304.01133v1)|null|
 |**2023-03-31**|**AGN in the CALIFA survey: X-ray detection of nuclear sources**|Natalia Osorio-Clavijo et.al.|[2303.18245v1](http://arxiv.org/abs/2303.18245v1)|[2303.18245v1](http://arxiv.org/pdf/2303.18245v1)|null|
 |**2023-03-31**|**Programmed but Arbitrary Control Minimization of Amplitude and phase for speckle Nulling (PACMAN)**|Iva Laginja et.al.|[2303.18231v1](http://arxiv.org/abs/2303.18231v1)|[2303.18231v1](http://arxiv.org/pdf/2303.18231v1)|null|
 |**2023-03-31**|**Supermassive black hole mass in the massive elliptical galaxy M87 from integral-field stellar dynamics using OASIS and MUSE with adaptive optics: assessing systematic uncertainties**|David A. Simon et.al.|[2303.18229v1](http://arxiv.org/abs/2303.18229v1)|[2303.18229v1](http://arxiv.org/pdf/2303.18229v1)|null|
@@ -1959,6 +1969,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-04-03**|**Neural Volumetric Memory for Visual Locomotion Control**|Ruihan Yang et.al.|[2304.01201v1](http://arxiv.org/abs/2304.01201v1)|[2304.01201v1](http://arxiv.org/pdf/2304.01201v1)|null|
+|**2023-04-03**|**Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**|Canwen Xu et.al.|[2304.01196v1](http://arxiv.org/abs/2304.01196v1)|[2304.01196v1](http://arxiv.org/pdf/2304.01196v1)|**[link](https://github.com/project-baize/baize)**|
+|**2023-04-03**|**Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement**|Xiangyang Zhu et.al.|[2304.01195v1](http://arxiv.org/abs/2304.01195v1)|[2304.01195v1](http://arxiv.org/pdf/2304.01195v1)|**[link](https://github.com/yangyangyang127/ape)**|
+|**2023-04-03**|**Hate Speech Targets Detection in Parler using BERT**|Nadav Schneider et.al.|[2304.01179v1](http://arxiv.org/abs/2304.01179v1)|[2304.01179v1](http://arxiv.org/pdf/2304.01179v1)|**[link](https://github.com/nadavsc/haterecognition)**|
+|**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159v1](http://arxiv.org/abs/2304.01159v1)|[2304.01159v1](http://arxiv.org/pdf/2304.01159v1)|null|
+|**2023-04-03**|**Interpretable Symbolic Regression for Data Science: Analysis of the 2022 Competition**|F. O. de Franca et.al.|[2304.01117v1](http://arxiv.org/abs/2304.01117v1)|[2304.01117v1](http://arxiv.org/pdf/2304.01117v1)|null|
+|**2023-04-03**|**Evolving Artificial Neural Networks To Imitate Human Behaviour In Shinobi III : Return of the Ninja Master**|Maximilien Le Clei et.al.|[2304.01096v1](http://arxiv.org/abs/2304.01096v1)|[2304.01096v1](http://arxiv.org/pdf/2304.01096v1)|null|
+|**2023-04-03**|**Changes to Captions: An Attentive Network for Remote Sensing Change Captioning**|Shizhen Chang et.al.|[2304.01091v1](http://arxiv.org/abs/2304.01091v1)|[2304.01091v1](http://arxiv.org/pdf/2304.01091v1)|null|
+|**2023-04-03**|**Can the Inference Logic of Large Language Models be Disentangled into Symbolic Concepts?**|Wen Shen et.al.|[2304.01083v1](http://arxiv.org/abs/2304.01083v1)|[2304.01083v1](http://arxiv.org/pdf/2304.01083v1)|null|
+|**2023-04-03**|**Polytuplet Loss: A Reverse Approach to Training Reading Comprehension and Logical Reasoning Models**|Jeffrey Lu et.al.|[2304.01046v1](http://arxiv.org/abs/2304.01046v1)|[2304.01046v1](http://arxiv.org/pdf/2304.01046v1)|**[link](https://github.com/ussiamaboat/research-paper)**|
 |**2023-03-31**|**3D Human Pose Estimation via Intuitive Physics**|Shashank Tripathi et.al.|[2303.18246v1](http://arxiv.org/abs/2303.18246v1)|[2303.18246v1](http://arxiv.org/pdf/2303.18246v1)|null|
 |**2023-03-31**|**Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**|Arjun Majumdar et.al.|[2303.18240v1](http://arxiv.org/abs/2303.18240v1)|[2303.18240v1](http://arxiv.org/pdf/2303.18240v1)|null|
 |**2023-03-31**|**A Survey of Large Language Models**|Wayne Xin Zhao et.al.|[2303.18223v1](http://arxiv.org/abs/2303.18223v1)|[2303.18223v1](http://arxiv.org/pdf/2303.18223v1)|**[link](https://github.com/rucaibox/llmsurvey)**|
