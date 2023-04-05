@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-04-04**|**The Role of Mass and Environment on Satellite distributions around Milky Way analogs in the Romulus25 simulation**|Jordan Van Nest et.al.|[2304.02007v1](http://arxiv.org/abs/2304.02007v1)|[2304.02007v1](http://arxiv.org/pdf/2304.02007v1)|null|
+|**2023-04-04**|**Approaches for Retrieving Sulfur Species Abundances from Dual X/Ka Band Radio Occultations of Venus with EnVision and VERITAS**|Alex B. Akins et.al.|[2304.02006v1](http://arxiv.org/abs/2304.02006v1)|[2304.02006v1](http://arxiv.org/pdf/2304.02006v1)|null|
+|**2023-04-04**|**Primordial black holes from single-field inflation: a fine-tuning audit**|Philippa S. Cole et.al.|[2304.01997v1](http://arxiv.org/abs/2304.01997v1)|[2304.01997v1](http://arxiv.org/pdf/2304.01997v1)|null|
+|**2023-04-04**|**One Relation for All Wavelengths: The Far-Ultraviolet to Mid-Infrared Milky Way Spectroscopic R(V) Dependent Dust Extinction Relationship**|Karl D. Gordon et.al.|[2304.01991v1](http://arxiv.org/abs/2304.01991v1)|[2304.01991v1](http://arxiv.org/pdf/2304.01991v1)|null|
+|**2023-04-04**|**Kinetic relaxation and Bose-star formation in multicomponent dark matter- I**|Mudit Jain et.al.|[2304.01985v1](http://arxiv.org/abs/2304.01985v1)|[2304.01985v1](http://arxiv.org/pdf/2304.01985v1)|null|
+|**2023-04-04**|**Exploring thermal effects of the hadron-quark matter transition in neutron star mergers**|Sebastian Blacker et.al.|[2304.01971v1](http://arxiv.org/abs/2304.01971v1)|[2304.01971v1](http://arxiv.org/pdf/2304.01971v1)|null|
+|**2023-04-04**|**Catalog of Planetary Nebulae detected by GALEX and corollary optical surveys**|M. A. Gómez-Muñoz et.al.|[2304.01970v1](http://arxiv.org/abs/2304.01970v1)|[2304.01970v1](http://arxiv.org/pdf/2304.01970v1)|null|
+|**2023-04-04**|**Gravitational Bose-Einstein Condensation of Vector/Hidden Photon Dark Matter**|Jiajun Chen et.al.|[2304.01965v1](http://arxiv.org/abs/2304.01965v1)|[2304.01965v1](http://arxiv.org/pdf/2304.01965v1)|null|
+|**2023-04-04**|**The orbit of Aegaeon and the 7:6 Mimas-Aegaeon resonance**|Nelson Callegari Jr. et.al.|[2304.01923v1](http://arxiv.org/abs/2304.01923v1)|[2304.01923v1](http://arxiv.org/pdf/2304.01923v1)|null|
+|**2023-04-04**|**LHS 475 b: A Venus-sized Planet Orbiting a Nearby M Dwarf**|Kristo Ment et.al.|[2304.01920v1](http://arxiv.org/abs/2304.01920v1)|[2304.01920v1](http://arxiv.org/pdf/2304.01920v1)|null|
 |**2023-04-03**|**Wave Mechanics, Interference, and Decoherence in Strong Gravitational Lensing**|Calvin Leung et.al.|[2304.01202v1](http://arxiv.org/abs/2304.01202v1)|[2304.01202v1](http://arxiv.org/pdf/2304.01202v1)|null|
 |**2023-04-03**|**The Timing System of LIGO Discoveries**|Andrew G. Sullivan et.al.|[2304.01188v1](http://arxiv.org/abs/2304.01188v1)|[2304.01188v1](http://arxiv.org/pdf/2304.01188v1)|null|
 |**2023-04-03**|**Cosmology from the integrated shear 3-point correlation function: simulated likelihood analyses with machine-learning emulators**|Zhengyangguang Gong et.al.|[2304.01187v1](http://arxiv.org/abs/2304.01187v1)|[2304.01187v1](http://arxiv.org/pdf/2304.01187v1)|null|
@@ -1969,6 +1979,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-04-04**|**EGC: Image Generation and Classification via a Single Energy-Based Model**|Qiushan Guo et.al.|[2304.02012v1](http://arxiv.org/abs/2304.02012v1)|[2304.02012v1](http://arxiv.org/pdf/2304.02012v1)|**[link](https://github.com/guoqiushan/egc)**|
+|**2023-04-04**|**Multi-Level Contrastive Learning for Dense Prediction Task**|Qiushan Guo et.al.|[2304.02010v1](http://arxiv.org/abs/2304.02010v1)|[2304.02010v1](http://arxiv.org/pdf/2304.02010v1)|**[link](https://github.com/guoqiushan/mcl)**|
+|**2023-04-04**|**Risk-Aware Distributed Multi-Agent Reinforcement Learning**|Abdullah Al Maruf et.al.|[2304.02005v1](http://arxiv.org/abs/2304.02005v1)|[2304.02005v1](http://arxiv.org/pdf/2304.02005v1)|null|
+|**2023-04-04**|**MEGClass: Text Classification with Extremely Weak Supervision via Mutually-Enhancing Text Granularities**|Priyanka Kargupta et.al.|[2304.01969v1](http://arxiv.org/abs/2304.01969v1)|[2304.01969v1](http://arxiv.org/pdf/2304.01969v1)|**[link](https://github.com/pkargupta/MEGClass)**|
+|**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926v1](http://arxiv.org/abs/2304.01926v1)|[2304.01926v1](http://arxiv.org/pdf/2304.01926v1)|null|
+|**2023-04-04**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kim et.al.|[2304.01900v1](http://arxiv.org/abs/2304.01900v1)|[2304.01900v1](http://arxiv.org/pdf/2304.01900v1)|null|
+|**2023-04-04**|**InfluencerRank: Discovering Effective Influencers via Graph Convolutional Attentive Recurrent Neural Networks**|Seungbae Kim et.al.|[2304.01897v1](http://arxiv.org/abs/2304.01897v1)|[2304.01897v1](http://arxiv.org/pdf/2304.01897v1)|null|
+|**2023-04-04**|**Robustness Benchmark of Road User Trajectory Prediction Models for Automated Driving**|Manuel Muñoz Sánchez et.al.|[2304.01895v1](http://arxiv.org/abs/2304.01895v1)|[2304.01895v1](http://arxiv.org/pdf/2304.01895v1)|null|
+|**2023-04-04**|**Sociocultural knowledge is needed for selection of shots in hate speech detection tasks**|Antonis Maronikolakis et.al.|[2304.01890v1](http://arxiv.org/abs/2304.01890v1)|[2304.01890v1](http://arxiv.org/pdf/2304.01890v1)|null|
+|**2023-04-04**|**Quantitative perfusion and water transport time model from multi b-value diffusion magnetic resonance imaging validated against neutron capture microspheres**|M. Liu et.al.|[2304.01888v1](http://arxiv.org/abs/2304.01888v1)|[2304.01888v1](http://arxiv.org/pdf/2304.01888v1)|null|
 |**2023-04-03**|**Neural Volumetric Memory for Visual Locomotion Control**|Ruihan Yang et.al.|[2304.01201v1](http://arxiv.org/abs/2304.01201v1)|[2304.01201v1](http://arxiv.org/pdf/2304.01201v1)|null|
 |**2023-04-04**|**Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**|Canwen Xu et.al.|[2304.01196v2](http://arxiv.org/abs/2304.01196v2)|[2304.01196v2](http://arxiv.org/pdf/2304.01196v2)|**[link](https://github.com/project-baize/baize)**|
 |**2023-04-03**|**Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement**|Xiangyang Zhu et.al.|[2304.01195v1](http://arxiv.org/abs/2304.01195v1)|[2304.01195v1](http://arxiv.org/pdf/2304.01195v1)|**[link](https://github.com/yangyangyang127/ape)**|
