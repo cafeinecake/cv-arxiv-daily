@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-05**|**A Test of Gravity with Pulsar Timing Arrays**|Qiuyue Liang et.al.|[2304.02640v1](http://arxiv.org/abs/2304.02640v1)|[2304.02640v1](http://arxiv.org/pdf/2304.02640v1)|null|
+|**2023-04-05**|**Proposed host galaxies of repeating fast radio burst sources detected by CHIME/FRB**|Adaeze L. Ibik et.al.|[2304.02638v1](http://arxiv.org/abs/2304.02638v1)|[2304.02638v1](http://arxiv.org/pdf/2304.02638v1)|null|
+|**2023-04-05**|**Imprints of a Supercooled Universe in the Gravitational Wave Spectrum from a Cosmic String network**|Francesc Ferrer et.al.|[2304.02636v1](http://arxiv.org/abs/2304.02636v1)|[2304.02636v1](http://arxiv.org/pdf/2304.02636v1)|null|
+|**2023-04-05**|**Intra-system uniformity: a natural outcome of dynamical sculpting**|Caleb Lammers et.al.|[2304.02634v1](http://arxiv.org/abs/2304.02634v1)|[2304.02634v1](http://arxiv.org/pdf/2304.02634v1)|null|
+|**2023-04-05**|**Detection of extended gamma-ray emission around the Geminga pulsar with H.E.S.S**|H. E. S. S. Collaboration et.al.|[2304.02631v1](http://arxiv.org/abs/2304.02631v1)|[2304.02631v1](http://arxiv.org/pdf/2304.02631v1)|null|
+|**2023-04-05**|**The F-CHROMA grid of 1D RADYN flare models**|Mats Carlsson et.al.|[2304.02618v1](http://arxiv.org/abs/2304.02618v1)|[2304.02618v1](http://arxiv.org/pdf/2304.02618v1)|null|
+|**2023-04-05**|**Formation and Destiny of White Dwarf and Be Star Binaries**|ChunHua Zhu et.al.|[2304.02615v1](http://arxiv.org/abs/2304.02615v1)|[2304.02615v1](http://arxiv.org/pdf/2304.02615v1)|null|
+|**2023-04-05**|**Primordial Black Hole Leptogenesis in Supersymmetry**|Suhail Khan et.al.|[2304.02604v1](http://arxiv.org/abs/2304.02604v1)|[2304.02604v1](http://arxiv.org/pdf/2304.02604v1)|null|
+|**2023-04-05**|**Borel resummation of secular divergences in stochastic inflation**|Masazumi Honda et.al.|[2304.02592v1](http://arxiv.org/abs/2304.02592v1)|[2304.02592v1](http://arxiv.org/pdf/2304.02592v1)|null|
+|**2023-04-05**|**Measurements of the Crab Pulsar's Giant Radio Pulse Amplitude Power-Law Index Using Low-Frequency Arecibo and Green Bank Telescope Observations**|F. Crawford et.al.|[2304.02589v1](http://arxiv.org/abs/2304.02589v1)|[2304.02589v1](http://arxiv.org/pdf/2304.02589v1)|null|
 |**2023-04-04**|**The Role of Mass and Environment on Satellite distributions around Milky Way analogs in the Romulus25 simulation**|Jordan Van Nest et.al.|[2304.02007v1](http://arxiv.org/abs/2304.02007v1)|[2304.02007v1](http://arxiv.org/pdf/2304.02007v1)|null|
 |**2023-04-04**|**Approaches for Retrieving Sulfur Species Abundances from Dual X/Ka Band Radio Occultations of Venus with EnVision and VERITAS**|Alex B. Akins et.al.|[2304.02006v1](http://arxiv.org/abs/2304.02006v1)|[2304.02006v1](http://arxiv.org/pdf/2304.02006v1)|null|
 |**2023-04-04**|**Primordial black holes from single-field inflation: a fine-tuning audit**|Philippa S. Cole et.al.|[2304.01997v1](http://arxiv.org/abs/2304.01997v1)|[2304.01997v1](http://arxiv.org/pdf/2304.01997v1)|null|
@@ -1983,6 +1993,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-05**|**Segment Anything**|Alexander Kirillov et.al.|[2304.02643v1](http://arxiv.org/abs/2304.02643v1)|[2304.02643v1](http://arxiv.org/pdf/2304.02643v1)|**[link](https://github.com/facebookresearch/segment-anything)**|
+|**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|[2304.02637v1](http://arxiv.org/pdf/2304.02637v1)|null|
+|**2023-04-05**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v1](http://arxiv.org/abs/2304.02628v1)|[2304.02628v1](http://arxiv.org/pdf/2304.02628v1)|null|
+|**2023-04-05**|**Generative Novel View Synthesis with 3D-Aware Diffusion Models**|Eric R. Chan et.al.|[2304.02602v1](http://arxiv.org/abs/2304.02602v1)|[2304.02602v1](http://arxiv.org/pdf/2304.02602v1)|null|
+|**2023-04-05**|**Conformal Off-Policy Evaluation in Markov Decision Processes**|Daniele Foffano et.al.|[2304.02574v1](http://arxiv.org/abs/2304.02574v1)|[2304.02574v1](http://arxiv.org/pdf/2304.02574v1)|null|
+|**2023-04-05**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572v1](http://arxiv.org/abs/2304.02572v1)|[2304.02572v1](http://arxiv.org/pdf/2304.02572v1)|null|
+|**2023-04-05**|**Inferring nonlinear fractional diffusion processes from single trajectories**|Johannes A. Kassel et.al.|[2304.02536v1](http://arxiv.org/abs/2304.02536v1)|[2304.02536v1](http://arxiv.org/pdf/2304.02536v1)|null|
+|**2023-04-05**|**Two-dimensional simulations of internal gravity waves in a 5 $M_{\odot}$ Zero-Age-Main-Sequence model**|A. Le Saux et.al.|[2304.02508v1](http://arxiv.org/abs/2304.02508v1)|[2304.02508v1](http://arxiv.org/pdf/2304.02508v1)|null|
+|**2023-04-05**|**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification**|Shan Chen et.al.|[2304.02496v1](http://arxiv.org/abs/2304.02496v1)|[2304.02496v1](http://arxiv.org/pdf/2304.02496v1)|**[link](https://github.com/shan23chen/healthllm_eval)**|
+|**2023-04-05**|**Quantifying the Roles of Visual, Linguistic, and Visual-Linguistic Complexity in Verb Acquisition**|Yuchen Zhou et.al.|[2304.02492v1](http://arxiv.org/abs/2304.02492v1)|[2304.02492v1](http://arxiv.org/pdf/2304.02492v1)|**[link](https://github.com/flamingozh/verb_learning_quantification)**|
 |**2023-04-04**|**EGC: Image Generation and Classification via a Single Energy-Based Model**|Qiushan Guo et.al.|[2304.02012v1](http://arxiv.org/abs/2304.02012v1)|[2304.02012v1](http://arxiv.org/pdf/2304.02012v1)|**[link](https://github.com/guoqiushan/egc)**|
 |**2023-04-04**|**Multi-Level Contrastive Learning for Dense Prediction Task**|Qiushan Guo et.al.|[2304.02010v1](http://arxiv.org/abs/2304.02010v1)|[2304.02010v1](http://arxiv.org/pdf/2304.02010v1)|**[link](https://github.com/guoqiushan/mcl)**|
 |**2023-04-04**|**Risk-Aware Distributed Multi-Agent Reinforcement Learning**|Abdullah Al Maruf et.al.|[2304.02005v1](http://arxiv.org/abs/2304.02005v1)|[2304.02005v1](http://arxiv.org/pdf/2304.02005v1)|null|
