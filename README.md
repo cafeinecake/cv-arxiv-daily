@@ -1,4 +1,4 @@
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 
 ## Astrophysics
 
@@ -1987,7 +1987,7 @@
 |**2023-04-04**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kim et.al.|[2304.01900v1](http://arxiv.org/abs/2304.01900v1)|[2304.01900v1](http://arxiv.org/pdf/2304.01900v1)|null|
 |**2023-04-04**|**InfluencerRank: Discovering Effective Influencers via Graph Convolutional Attentive Recurrent Neural Networks**|Seungbae Kim et.al.|[2304.01897v1](http://arxiv.org/abs/2304.01897v1)|[2304.01897v1](http://arxiv.org/pdf/2304.01897v1)|null|
 |**2023-04-04**|**Robustness Benchmark of Road User Trajectory Prediction Models for Automated Driving**|Manuel Muñoz Sánchez et.al.|[2304.01895v1](http://arxiv.org/abs/2304.01895v1)|[2304.01895v1](http://arxiv.org/pdf/2304.01895v1)|null|
-|**2023-04-04**|**Sociocultural knowledge is needed for selection of shots in hate speech detection tasks**|Antonis Maronikolakis et.al.|[2304.01890v1](http://arxiv.org/abs/2304.01890v1)|[2304.01890v1](http://arxiv.org/pdf/2304.01890v1)|null|
+|**2023-04-05**|**Sociocultural knowledge is needed for selection of shots in hate speech detection tasks**|Antonis Maronikolakis et.al.|[2304.01890v2](http://arxiv.org/abs/2304.01890v2)|[2304.01890v2](http://arxiv.org/pdf/2304.01890v2)|null|
 |**2023-04-04**|**Quantitative perfusion and water transport time model from multi b-value diffusion magnetic resonance imaging validated against neutron capture microspheres**|M. Liu et.al.|[2304.01888v1](http://arxiv.org/abs/2304.01888v1)|[2304.01888v1](http://arxiv.org/pdf/2304.01888v1)|null|
 |**2023-04-03**|**Neural Volumetric Memory for Visual Locomotion Control**|Ruihan Yang et.al.|[2304.01201v1](http://arxiv.org/abs/2304.01201v1)|[2304.01201v1](http://arxiv.org/pdf/2304.01201v1)|null|
 |**2023-04-04**|**Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**|Canwen Xu et.al.|[2304.01196v2](http://arxiv.org/abs/2304.01196v2)|[2304.01196v2](http://arxiv.org/pdf/2304.01196v2)|**[link](https://github.com/project-baize/baize)**|
