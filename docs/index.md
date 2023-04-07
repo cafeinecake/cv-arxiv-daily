@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-06**|**Introducing the Texas Euclid Survey for Lyman Alpha (TESLA) Survey: Initial Study Correlating Galaxy Properties to Lyman-Alpha Emission**|Oscar A. Chavez Ortiz et.al.|[2304.03258v1](http://arxiv.org/abs/2304.03258v1)|[2304.03258v1](http://arxiv.org/pdf/2304.03258v1)|null|
+|**2023-04-06**|**High-resolution Emission Spectroscopy of the Ultrahot Jupiter KELT-9b: Little Variation in Day- and Nightside Emission Line Contrasts**|Andrew Ridden-Harper et.al.|[2304.03248v1](http://arxiv.org/abs/2304.03248v1)|[2304.03248v1](http://arxiv.org/pdf/2304.03248v1)|null|
+|**2023-04-06**|**Impact of thermal misbalance on acoustic-gravity waves in the solar atmosphere**|D. S. Riashchikov et.al.|[2304.03227v1](http://arxiv.org/abs/2304.03227v1)|[2304.03227v1](http://arxiv.org/pdf/2304.03227v1)|null|
+|**2023-04-06**|**Temporal variation of the photometric magnetic activity for the Sun and Kepler solar-like stars**|A. R. G. Santos et.al.|[2304.03165v1](http://arxiv.org/abs/2304.03165v1)|[2304.03165v1](http://arxiv.org/pdf/2304.03165v1)|null|
+|**2023-04-06**|**Searching for Primordial Black Holes with the Einstein Telescope: impact of design and systematics**|G. Franciolini et.al.|[2304.03160v1](http://arxiv.org/abs/2304.03160v1)|[2304.03160v1](http://arxiv.org/pdf/2304.03160v1)|null|
+|**2023-04-06**|**On the detectability of higher harmonics with LISA**|Chantal Pitte et.al.|[2304.03142v1](http://arxiv.org/abs/2304.03142v1)|[2304.03142v1](http://arxiv.org/pdf/2304.03142v1)|null|
+|**2023-04-06**|**Relativistic X-Ray Reflection and Photoionised Absorption in the Neutron-Star Low-Mass X-ray Binary GX 13+1**|Enzo A. Saavedra et.al.|[2304.03130v1](http://arxiv.org/abs/2304.03130v1)|[2304.03130v1](http://arxiv.org/pdf/2304.03130v1)|null|
+|**2023-04-06**|**Two Transient Quasi-periodic Oscillations in $γ$-Ray Emission from the Blazar S4 0954+658**|Yunlu Gong et.al.|[2304.03085v1](http://arxiv.org/abs/2304.03085v1)|[2304.03085v1](http://arxiv.org/pdf/2304.03085v1)|null|
+|**2023-04-06**|**A VLT/VIMOS view of two $Planck$ multiple-cluster systems: structure and galaxy properties**|R. Wicker et.al.|[2304.03058v1](http://arxiv.org/abs/2304.03058v1)|[2304.03058v1](http://arxiv.org/pdf/2304.03058v1)|null|
+|**2023-04-06**|**Axial perturbations of black holes in scalar-tensor gravity: near-horizon behaviour**|Karim Noui et.al.|[2304.03055v1](http://arxiv.org/abs/2304.03055v1)|[2304.03055v1](http://arxiv.org/pdf/2304.03055v1)|null|
 |**2023-04-05**|**A Test of Gravity with Pulsar Timing Arrays**|Qiuyue Liang et.al.|[2304.02640v1](http://arxiv.org/abs/2304.02640v1)|[2304.02640v1](http://arxiv.org/pdf/2304.02640v1)|null|
 |**2023-04-05**|**Proposed host galaxies of repeating fast radio burst sources detected by CHIME/FRB**|Adaeze L. Ibik et.al.|[2304.02638v1](http://arxiv.org/abs/2304.02638v1)|[2304.02638v1](http://arxiv.org/pdf/2304.02638v1)|null|
 |**2023-04-05**|**Imprints of a Supercooled Universe in the Gravitational Wave Spectrum from a Cosmic String network**|Francesc Ferrer et.al.|[2304.02636v1](http://arxiv.org/abs/2304.02636v1)|[2304.02636v1](http://arxiv.org/pdf/2304.02636v1)|null|
@@ -1993,6 +2003,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|[2304.03279v1](http://arxiv.org/pdf/2304.03279v1)|null|
+|**2023-04-06**|**Instruction Tuning with GPT-4**|Baolin Peng et.al.|[2304.03277v1](http://arxiv.org/abs/2304.03277v1)|[2304.03277v1](http://arxiv.org/pdf/2304.03277v1)|null|
+|**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274v1](http://arxiv.org/abs/2304.03274v1)|[2304.03274v1](http://arxiv.org/pdf/2304.03274v1)|**[link](https://github.com/jiawei-ren/diffmimic)**|
+|**2023-04-06**|**Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models**|Pengfei Li et.al.|[2304.03271v1](http://arxiv.org/abs/2304.03271v1)|[2304.03271v1](http://arxiv.org/pdf/2304.03271v1)|**[link](https://github.com/ren-research/making-ai-less-thirsty)**|
+|**2023-04-06**|**When do you need Chain-of-Thought Prompting for ChatGPT?**|Jiuhai Chen et.al.|[2304.03262v1](http://arxiv.org/abs/2304.03262v1)|[2304.03262v1](http://arxiv.org/pdf/2304.03262v1)|null|
+|**2023-04-06**|**Synthetic Data in Healthcare**|Daniel McDuff et.al.|[2304.03243v1](http://arxiv.org/abs/2304.03243v1)|[2304.03243v1](http://arxiv.org/pdf/2304.03243v1)|null|
+|**2023-04-06**|**Anomaly Detection via Gumbel Noise Score Matching**|Ahsan Mahmood et.al.|[2304.03220v1](http://arxiv.org/abs/2304.03220v1)|[2304.03220v1](http://arxiv.org/pdf/2304.03220v1)|null|
+|**2023-04-06**|**On the Pareto Front of Multilingual Neural Machine Translation**|Liang Chen et.al.|[2304.03216v1](http://arxiv.org/abs/2304.03216v1)|[2304.03216v1](http://arxiv.org/pdf/2304.03216v1)|**[link](https://github.com/chenllliang/paretomnmt)**|
+|**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|[2304.03215v1](http://arxiv.org/pdf/2304.03215v1)|null|
+|**2023-04-06**|**Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**|Chenyu You et.al.|[2304.03209v1](http://arxiv.org/abs/2304.03209v1)|[2304.03209v1](http://arxiv.org/pdf/2304.03209v1)|null|
 |**2023-04-05**|**Segment Anything**|Alexander Kirillov et.al.|[2304.02643v1](http://arxiv.org/abs/2304.02643v1)|[2304.02643v1](http://arxiv.org/pdf/2304.02643v1)|**[link](https://github.com/facebookresearch/segment-anything)**|
 |**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|[2304.02637v1](http://arxiv.org/pdf/2304.02637v1)|null|
 |**2023-04-05**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v1](http://arxiv.org/abs/2304.02628v1)|[2304.02628v1](http://arxiv.org/pdf/2304.02628v1)|null|
