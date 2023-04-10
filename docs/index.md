@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-07**|**Did the Universe Reheat After Recombination?**|J. Colin Hill et.al.|[2304.03750v1](http://arxiv.org/abs/2304.03750v1)|[2304.03750v1](http://arxiv.org/pdf/2304.03750v1)|null|
+|**2023-04-07**|**Fast inference of binary merger properties using the information encoded in the gravitational-wave signal**|Stephen Fairhurst et.al.|[2304.03731v1](http://arxiv.org/abs/2304.03731v1)|[2304.03731v1](http://arxiv.org/pdf/2304.03731v1)|null|
+|**2023-04-07**|**Active Massive Black Hole Found in the Young Star-Forming Dwarf Galaxy SBS 0335-052E**|Shun Hatano et.al.|[2304.03726v1](http://arxiv.org/abs/2304.03726v1)|[2304.03726v1](http://arxiv.org/pdf/2304.03726v1)|null|
+|**2023-04-07**|**Non-thermal particle acceleration and power-law tails via relaxation to universal Lynden-Bell equilibria**|Robert J. Ewart et.al.|[2304.03715v1](http://arxiv.org/abs/2304.03715v1)|[2304.03715v1](http://arxiv.org/pdf/2304.03715v1)|null|
+|**2023-04-07**|**Ultraslow PSR J0901-4046 with an ultrahigh magnetic field of $3.2\times10^{16}$ G**|D. N. Sob'yanin et.al.|[2304.03702v1](http://arxiv.org/abs/2304.03702v1)|[2304.03702v1](http://arxiv.org/pdf/2304.03702v1)|null|
+|**2023-04-07**|**A Data Science Approach to Study the Water Storage Capacity in Rocky Planet Mantles: Earth, Mars, and Exoplanets**|Junjie Dong et.al.|[2304.03700v1](http://arxiv.org/abs/2304.03700v1)|[2304.03700v1](http://arxiv.org/pdf/2304.03700v1)|null|
+|**2023-04-07**|**Flares from stars crossing active galactic nuclei disks on low-inclination orbits**|Hiromichi Tagawa et.al.|[2304.03670v1](http://arxiv.org/abs/2304.03670v1)|[2304.03670v1](http://arxiv.org/pdf/2304.03670v1)|null|
+|**2023-04-07**|**Molecules with ALMA at Planet-forming Scales (MAPS). Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds**|Maria Galloway-Sprietsma et.al.|[2304.03665v1](http://arxiv.org/abs/2304.03665v1)|[2304.03665v1](http://arxiv.org/pdf/2304.03665v1)|null|
+|**2023-04-07**|**Multi-band optical variability of a newly discovered twelve blazars sample from 2013-2019**|Miljana D. Jovanovic et.al.|[2304.03664v1](http://arxiv.org/abs/2304.03664v1)|[2304.03664v1](http://arxiv.org/pdf/2304.03664v1)|null|
+|**2023-04-07**|**Probing Geometric Proca in Metric-Palatini Gravity with Black Hole Shadow and Photon Motion**|Elham Ghorani et.al.|[2304.03660v1](http://arxiv.org/abs/2304.03660v1)|[2304.03660v1](http://arxiv.org/pdf/2304.03660v1)|null|
 |**2023-04-06**|**Introducing the Texas Euclid Survey for Lyman Alpha (TESLA) Survey: Initial Study Correlating Galaxy Properties to Lyman-Alpha Emission**|Oscar A. Chavez Ortiz et.al.|[2304.03258v1](http://arxiv.org/abs/2304.03258v1)|[2304.03258v1](http://arxiv.org/pdf/2304.03258v1)|null|
 |**2023-04-06**|**High-resolution Emission Spectroscopy of the Ultrahot Jupiter KELT-9b: Little Variation in Day- and Nightside Emission Line Contrasts**|Andrew Ridden-Harper et.al.|[2304.03248v1](http://arxiv.org/abs/2304.03248v1)|[2304.03248v1](http://arxiv.org/pdf/2304.03248v1)|null|
 |**2023-04-06**|**Impact of thermal misbalance on acoustic-gravity waves in the solar atmosphere**|D. S. Riashchikov et.al.|[2304.03227v1](http://arxiv.org/abs/2304.03227v1)|[2304.03227v1](http://arxiv.org/pdf/2304.03227v1)|null|
@@ -2003,6 +2013,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-07**|**Perspectives on AI Architectures and Co-design for Earth System Predictability**|Maruti K. Mudunuru et.al.|[2304.03748v1](http://arxiv.org/abs/2304.03748v1)|[2304.03748v1](http://arxiv.org/pdf/2304.03748v1)|null|
+|**2023-04-07**|**Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models**|Emilio Ferrara et.al.|[2304.03738v1](http://arxiv.org/abs/2304.03738v1)|[2304.03738v1](http://arxiv.org/pdf/2304.03738v1)|null|
+|**2023-04-07**|**Representer Theorems for Metric and Preference Learning: A Geometric Perspective**|Peyman Morteza et.al.|[2304.03720v1](http://arxiv.org/abs/2304.03720v1)|[2304.03720v1](http://arxiv.org/pdf/2304.03720v1)|null|
+|**2023-04-07**|**Feature Mining for Encrypted Malicious Traffic Detection with Deep Learning and Other Machine Learning Algorithms**|Zihao Wang et.al.|[2304.03691v1](http://arxiv.org/abs/2304.03691v1)|[2304.03691v1](http://arxiv.org/pdf/2304.03691v1)|null|
+|**2023-04-07**|**EPINN-NSE: Enhanced Physics-Informed Neural Networks for Solving Navier-Stokes Equations**|Ayoub Farkane et.al.|[2304.03689v1](http://arxiv.org/abs/2304.03689v1)|[2304.03689v1](http://arxiv.org/pdf/2304.03689v1)|null|
+|**2023-04-07**|**Machine Learning with Requirements: a Manifesto**|Eleonora Giunchiglia et.al.|[2304.03674v1](http://arxiv.org/abs/2304.03674v1)|[2304.03674v1](http://arxiv.org/pdf/2304.03674v1)|null|
+|**2023-04-07**|**Don't Bet on Luck Alone: Enhancing Behavioral Reproducibility of Quality-Diversity Solutions in Uncertain Domains**|Luca Grillotti et.al.|[2304.03672v1](http://arxiv.org/abs/2304.03672v1)|[2304.03672v1](http://arxiv.org/pdf/2304.03672v1)|null|
+|**2023-04-07**|**Noise-induced quenched disorder in dense active systems**|Guozheng Lin et.al.|[2304.03630v1](http://arxiv.org/abs/2304.03630v1)|[2304.03630v1](http://arxiv.org/pdf/2304.03630v1)|null|
+|**2023-04-07**|**RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking**|Fangwei Zhong et.al.|[2304.03623v1](http://arxiv.org/abs/2304.03623v1)|[2304.03623v1](http://arxiv.org/pdf/2304.03623v1)|null|
+|**2023-04-07**|**Look how they have grown: Non-destructive Leaf Detection and Size Estimation of Tomato Plants for 3D Growth Monitoring**|Yuning Xing et.al.|[2304.03610v1](http://arxiv.org/abs/2304.03610v1)|[2304.03610v1](http://arxiv.org/pdf/2304.03610v1)|null|
 |**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|[2304.03279v1](http://arxiv.org/pdf/2304.03279v1)|null|
 |**2023-04-06**|**Instruction Tuning with GPT-4**|Baolin Peng et.al.|[2304.03277v1](http://arxiv.org/abs/2304.03277v1)|[2304.03277v1](http://arxiv.org/pdf/2304.03277v1)|null|
 |**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274v1](http://arxiv.org/abs/2304.03274v1)|[2304.03274v1](http://arxiv.org/pdf/2304.03274v1)|**[link](https://github.com/jiawei-ren/diffmimic)**|
