@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-10**|**A Comparison of Outflow Properties in AGN Dwarfs vs. Star Forming Dwarfs**|Archana Aravindan et.al.|[2304.04737v1](http://arxiv.org/abs/2304.04737v1)|[2304.04737v1](http://arxiv.org/pdf/2304.04737v1)|null|
+|**2023-04-10**|**Detecting Stochastic Wave Dark Matter with Fermi-LAT $γ$-ray Pulsar Timing Array**|Hoang Nhan Luu et.al.|[2304.04735v1](http://arxiv.org/abs/2304.04735v1)|[2304.04735v1](http://arxiv.org/pdf/2304.04735v1)|null|
+|**2023-04-10**|**The Physical Drivers and Observational Tracers of CO-to-H2 Conversion Factor Variations in Nearby Barred Galaxy Centers**|Yu-Hsuan Teng et.al.|[2304.04732v1](http://arxiv.org/abs/2304.04732v1)|[2304.04732v1](http://arxiv.org/pdf/2304.04732v1)|null|
+|**2023-04-10**|**TOI-3785 b: A Low-Density Neptune Orbiting an M2-Dwarf Star**|Luke C. Powers et.al.|[2304.04730v1](http://arxiv.org/abs/2304.04730v1)|[2304.04730v1](http://arxiv.org/pdf/2304.04730v1)|null|
+|**2023-04-10**|**A Solar Investigation of Multicomponent Dark Matter**|Amit Dutta Banik et.al.|[2304.04721v1](http://arxiv.org/abs/2304.04721v1)|[2304.04721v1](http://arxiv.org/pdf/2304.04721v1)|null|
+|**2023-04-10**|**(SHERRY) JCMT-SCUBA2 High Redshift Bright Quasar Survey -- II: the environment of z~6 quasars in sub-millimeter band**|Qiong Li et.al.|[2304.04719v1](http://arxiv.org/abs/2304.04719v1)|[2304.04719v1](http://arxiv.org/pdf/2304.04719v1)|null|
+|**2023-04-10**|**There and back again: Solar cycle effects in future measurements of low-energy atmospheric neutrinos**|Kevin J. Kelly et.al.|[2304.04689v1](http://arxiv.org/abs/2304.04689v1)|[2304.04689v1](http://arxiv.org/pdf/2304.04689v1)|null|
+|**2023-04-10**|**JWST and ALMA imaging of dust-obscured, massive substructures in a typical $z \sim 3$ star-forming disk galaxy**|Wiphu Rujopakarn et.al.|[2304.04683v1](http://arxiv.org/abs/2304.04683v1)|[2304.04683v1](http://arxiv.org/pdf/2304.04683v1)|null|
+|**2023-04-10**|**Prompt-to-afterglow transition of optical emission in a long gamma-ray burst consistent with a fireball**|Liping Xin et.al.|[2304.04669v1](http://arxiv.org/abs/2304.04669v1)|[2304.04669v1](http://arxiv.org/pdf/2304.04669v1)|null|
+|**2023-04-10**|**Wavelength-Dependent Extinction and Grain Sizes in Dippers**|Michael L. Sitko et.al.|[2304.04650v1](http://arxiv.org/abs/2304.04650v1)|[2304.04650v1](http://arxiv.org/pdf/2304.04650v1)|null|
 |**2023-04-07**|**Did the Universe Reheat After Recombination?**|J. Colin Hill et.al.|[2304.03750v1](http://arxiv.org/abs/2304.03750v1)|[2304.03750v1](http://arxiv.org/pdf/2304.03750v1)|null|
 |**2023-04-07**|**Fast inference of binary merger properties using the information encoded in the gravitational-wave signal**|Stephen Fairhurst et.al.|[2304.03731v1](http://arxiv.org/abs/2304.03731v1)|[2304.03731v1](http://arxiv.org/pdf/2304.03731v1)|null|
 |**2023-04-07**|**Active Massive Black Hole Found in the Young Star-Forming Dwarf Galaxy SBS 0335-052E**|Shun Hatano et.al.|[2304.03726v1](http://arxiv.org/abs/2304.03726v1)|[2304.03726v1](http://arxiv.org/pdf/2304.03726v1)|null|
@@ -2013,6 +2023,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|[2304.04746v1](http://arxiv.org/pdf/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
+|**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|[2304.04736v1](http://arxiv.org/pdf/2304.04736v1)|null|
+|**2023-04-10**|**Modularizing and Assembling Cognitive Map Learners via Hyperdimensional Computing**|Nathan McDonald et.al.|[2304.04734v1](http://arxiv.org/abs/2304.04734v1)|[2304.04734v1](http://arxiv.org/pdf/2304.04734v1)|null|
+|**2023-04-10**|**Machine learning one-dimensional spinless trapped fermionic systems with neural-network quantum states**|J. W. T. Keeble et.al.|[2304.04725v1](http://arxiv.org/abs/2304.04725v1)|[2304.04725v1](http://arxiv.org/pdf/2304.04725v1)|null|
+|**2023-04-10**|**Incorporating Structured Sentences with Time-enhanced BERT for Fully-inductive Temporal Relation Prediction**|Zhongwu Chen et.al.|[2304.04717v1](http://arxiv.org/abs/2304.04717v1)|[2304.04717v1](http://arxiv.org/pdf/2304.04717v1)|null|
+|**2023-04-10**|**RESPECT: Reinforcement Learning based Edge Scheduling on Pipelined Coral Edge TPUs**|Jiaqi Yin et.al.|[2304.04716v1](http://arxiv.org/abs/2304.04716v1)|[2304.04716v1](http://arxiv.org/pdf/2304.04716v1)|**[link](https://github.com/yu-utah/respect)**|
+|**2023-04-10**|**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**|Shuhuai Ren et.al.|[2304.04704v1](http://arxiv.org/abs/2304.04704v1)|[2304.04704v1](http://arxiv.org/pdf/2304.04704v1)|**[link](https://github.com/amazon-science/prompt-pretraining)**|
+|**2023-04-10**|**Achieving Long-term Fairness in Submodular Maximization through Randomization**|Shaojie Tang et.al.|[2304.04700v1](http://arxiv.org/abs/2304.04700v1)|[2304.04700v1](http://arxiv.org/pdf/2304.04700v1)|null|
+|**2023-04-10**|**Brain-Inspired Spiking Neural Network for Online Unsupervised Time Series Prediction**|Biswadeep Chakraborty et.al.|[2304.04697v1](http://arxiv.org/abs/2304.04697v1)|[2304.04697v1](http://arxiv.org/pdf/2304.04697v1)|null|
+|**2023-04-10**|**Interaction-Aware Prompting for Zero-Shot Spatio-Temporal Action Detection**|Wei-Jhe Huang et.al.|[2304.04688v1](http://arxiv.org/abs/2304.04688v1)|[2304.04688v1](http://arxiv.org/pdf/2304.04688v1)|null|
 |**2023-04-07**|**Perspectives on AI Architectures and Co-design for Earth System Predictability**|Maruti K. Mudunuru et.al.|[2304.03748v1](http://arxiv.org/abs/2304.03748v1)|[2304.03748v1](http://arxiv.org/pdf/2304.03748v1)|null|
 |**2023-04-07**|**Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models**|Emilio Ferrara et.al.|[2304.03738v1](http://arxiv.org/abs/2304.03738v1)|[2304.03738v1](http://arxiv.org/pdf/2304.03738v1)|null|
 |**2023-04-07**|**Representer Theorems for Metric and Preference Learning: A Geometric Perspective**|Peyman Morteza et.al.|[2304.03720v1](http://arxiv.org/abs/2304.03720v1)|[2304.03720v1](http://arxiv.org/pdf/2304.03720v1)|null|
