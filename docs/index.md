@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.12
+## Updated on 2023.04.13
 
 ## Astrophysics
 
@@ -2037,11 +2037,11 @@ layout: default
 |**2023-04-11**|**Human-AI Co-Creation Approach to Find Forever Chemicals Replacements**|Juliana Jansen Ferreira et.al.|[2304.05389v1](http://arxiv.org/abs/2304.05389v1)|[2304.05389v1](http://arxiv.org/pdf/2304.05389v1)|null|
 |**2023-04-11**|**Toxicity in ChatGPT: Analyzing Persona-assigned Language Models**|Ameet Deshpande et.al.|[2304.05335v1](http://arxiv.org/abs/2304.05335v1)|[2304.05335v1](http://arxiv.org/pdf/2304.05335v1)|null|
 |**2023-04-11**|**Neural Delay Differential Equations: System Reconstruction and Image Classification**|Qunxi Zhu et.al.|[2304.05310v1](http://arxiv.org/abs/2304.05310v1)|[2304.05310v1](http://arxiv.org/pdf/2304.05310v1)|null|
-|**2023-04-11**|**Selecting Robust Features for Machine Learning Applications using Multidata Causal Discovery**|Saranya Ganesh S. et.al.|[2304.05294v1](http://arxiv.org/abs/2304.05294v1)|[2304.05294v1](http://arxiv.org/pdf/2304.05294v1)|null|
+|**2023-04-12**|**Selecting Robust Features for Machine Learning Applications using Multidata Causal Discovery**|Saranya Ganesh S. et.al.|[2304.05294v2](http://arxiv.org/abs/2304.05294v2)|[2304.05294v2](http://arxiv.org/pdf/2304.05294v2)|**[link](https://github.com/saranya8989/Causal_ML)**|
 |**2023-04-11**|**MC-ViViT: Multi-branch Classifier-ViViT to Detect Mild Cognitive Impairment in Older Adults using Facial Videos**|Jian Sun et.al.|[2304.05292v1](http://arxiv.org/abs/2304.05292v1)|[2304.05292v1](http://arxiv.org/pdf/2304.05292v1)|null|
 |**2023-04-11**|**Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning**|Wenjin Wang et.al.|[2304.05288v1](http://arxiv.org/abs/2304.05288v1)|[2304.05288v1](http://arxiv.org/pdf/2304.05288v1)|**[link](https://github.com/wenjinw/par)**|
 |**2023-04-11**|**Automaton-Guided Curriculum Generation for Reinforcement Learning Agents**|Yash Shukla et.al.|[2304.05271v1](http://arxiv.org/abs/2304.05271v1)|[2304.05271v1](http://arxiv.org/pdf/2304.05271v1)|**[link](https://github.com/tufts-ai-robotics-group/automaton-guided-cl)**|
-|**2023-04-11**|**Controllable Textual Inversion for Personalized Text-to-Image Generation**|Jianan Yang et.al.|[2304.05265v1](http://arxiv.org/abs/2304.05265v1)|[2304.05265v1](http://arxiv.org/pdf/2304.05265v1)|null|
+|**2023-04-12**|**Controllable Textual Inversion for Personalized Text-to-Image Generation**|Jianan Yang et.al.|[2304.05265v2](http://arxiv.org/abs/2304.05265v2)|[2304.05265v2](http://arxiv.org/pdf/2304.05265v2)|**[link](https://github.com/jnzju/coti)**|
 |**2023-04-11**|**Prompt Learning for News Recommendation**|Zizhuo Zhang et.al.|[2304.05263v1](http://arxiv.org/abs/2304.05263v1)|[2304.05263v1](http://arxiv.org/pdf/2304.05263v1)|**[link](https://github.com/resistzzz/prompt4nr)**|
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|[2304.04746v1](http://arxiv.org/pdf/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
 |**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|[2304.04736v1](http://arxiv.org/pdf/2304.04736v1)|null|
