@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2023-04-13**|**Universal Gravitational Wave Signatures of Cosmological Solitons**|Kaloian D. Lozanov et.al.|[2304.06709v1](http://arxiv.org/abs/2304.06709v1)|[2304.06709v1](http://arxiv.org/pdf/2304.06709v1)|null|
 |**2023-04-13**|**Interpolated kilonova spectra models: necessity for a phenomenological, blue component in the fitting of AT2017gfo spectra**|Marko Ristic et.al.|[2304.06699v1](http://arxiv.org/abs/2304.06699v1)|[2304.06699v1](http://arxiv.org/pdf/2304.06699v1)|null|
-|**2023-04-13**|**A Gaia Data Release 3 View on the Tip of the Red Giant Branch Luminosity**|Siyang Li et.al.|[2304.06695v1](http://arxiv.org/abs/2304.06695v1)|[2304.06695v1](http://arxiv.org/pdf/2304.06695v1)|null|
+|**2023-04-13**|**A Gaia Data Release 3 View on the Tip of the Red Giant Branch Luminosity**|Siyang Li et.al.|[2304.06695v1](http://arxiv.org/abs/2304.06695v1)|[2304.06695v1](http://arxiv.org/pdf/2304.06695v1)|**[link](https://github.com/siyangliastro/gaia-dr3-milky-way-trgb)**|
 |**2023-04-13**|**CATS: The Hubble Constant from Standardized TRGB and Type Ia Supernova Measurements**|D. Scolnic et.al.|[2304.06693v1](http://arxiv.org/abs/2304.06693v1)|[2304.06693v1](http://arxiv.org/pdf/2304.06693v1)|null|
 |**2023-04-13**|**Addressing the self-interaction for ELDER dark matter from the 21-cm signal**|Rupa Basu et.al.|[2304.06680v1](http://arxiv.org/abs/2304.06680v1)|[2304.06680v1](http://arxiv.org/pdf/2304.06680v1)|null|
 |**2023-04-13**|**The role of previous generations of stars in triggering star formation and driving gas dynamics**|Nicholas P. Herrington et.al.|[2304.06659v1](http://arxiv.org/abs/2304.06659v1)|[2304.06659v1](http://arxiv.org/pdf/2304.06659v1)|null|
