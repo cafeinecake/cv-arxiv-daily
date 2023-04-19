@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-18**|**The role of mass and environment in the build up of the quenched galaxy population since cosmic noon**|E. Taylor et.al.|[2304.09169v1](http://arxiv.org/abs/2304.09169v1)|[2304.09169v1](http://arxiv.org/pdf/2304.09169v1)|null|
+|**2023-04-18**|**A Cross-Internal Linear Combination Approach to Probe the Secondary CMB Anisotropies: Kinematic Sunyaev-Zel{'}dovich Effect and CMB Lensing**|Srinivasan Raghunathan et.al.|[2304.09166v1](http://arxiv.org/abs/2304.09166v1)|[2304.09166v1](http://arxiv.org/pdf/2304.09166v1)|**[link](https://github.com/sriniraghunathan/cross_ilc_methods_paper)**|
+|**2023-04-18**|**Constraints on Europa's water group torus from HST/COS observations**|Lorenz Roth et.al.|[2304.09150v1](http://arxiv.org/abs/2304.09150v1)|[2304.09150v1](http://arxiv.org/pdf/2304.09150v1)|null|
+|**2023-04-18**|**Cosmology with Galaxy Cluster Properties using Machine Learning**|Lanlan Qiu et.al.|[2304.09142v1](http://arxiv.org/abs/2304.09142v1)|[2304.09142v1](http://arxiv.org/pdf/2304.09142v1)|null|
+|**2023-04-18**|**A Sun-like star orbiting a boson star**|Alexandre M. Pombo et.al.|[2304.09140v1](http://arxiv.org/abs/2304.09140v1)|[2304.09140v1](http://arxiv.org/pdf/2304.09140v1)|null|
+|**2023-04-18**|**The effect of the LMC on the Milky Way system**|Eugene Vasiliev et.al.|[2304.09136v1](http://arxiv.org/abs/2304.09136v1)|[2304.09136v1](http://arxiv.org/pdf/2304.09136v1)|null|
+|**2023-04-18**|**First constraints of dense molecular gas at z~7.5 from the quasar Pōniuā'ena**|Chiara Feruglio et.al.|[2304.09129v1](http://arxiv.org/abs/2304.09129v1)|[2304.09129v1](http://arxiv.org/pdf/2304.09129v1)|null|
+|**2023-04-18**|**Optical darkness in short-duration $γ$-ray bursts**|Caden Gobat et.al.|[2304.09122v1](http://arxiv.org/abs/2304.09122v1)|[2304.09122v1](http://arxiv.org/pdf/2304.09122v1)|**[link](https://github.com/cgobat/dark-GRBs)**|
+|**2023-04-18**|**On the seed population of solar energetic particles in the inner heliosphere**|Nicolas Wijsen et.al.|[2304.09098v1](http://arxiv.org/abs/2304.09098v1)|[2304.09098v1](http://arxiv.org/pdf/2304.09098v1)|null|
+|**2023-04-18**|**Mass measurements and 3D orbital geometry of PSR J1933$-$6211**|M. Geyer et.al.|[2304.09060v1](http://arxiv.org/abs/2304.09060v1)|[2304.09060v1](http://arxiv.org/pdf/2304.09060v1)|null|
 |**2023-04-17**|**A statistical model of stellar variability. I. FENRIR: a physics-based model of stellar activity, and its fast Gaussian process approximation**|Nathan C. Hara et.al.|[2304.08489v1](http://arxiv.org/abs/2304.08489v1)|[2304.08489v1](http://arxiv.org/pdf/2304.08489v1)|null|
 |**2023-04-17**|**Probing Dark Energy and Modifications of Gravity with Ground-Based Millimeter-Wavelength Line Intensity Mapping**|Azadeh Moradinezhad Dizgah et.al.|[2304.08471v1](http://arxiv.org/abs/2304.08471v1)|[2304.08471v1](http://arxiv.org/pdf/2304.08471v1)|null|
 |**2023-04-17**|**Big Bang initial conditions and self-interacting hidden dark matter**|Jinzheng Li et.al.|[2304.08454v1](http://arxiv.org/abs/2304.08454v1)|[2304.08454v1](http://arxiv.org/pdf/2304.08454v1)|null|
@@ -2073,6 +2083,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-18**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116v1](http://arxiv.org/abs/2304.09116v1)|[2304.09116v1](http://arxiv.org/pdf/2304.09116v1)|null|
+|**2023-04-18**|**Participatory Design of AI with Children: Reflections on IDC Design Challenge**|Zhen Bai et.al.|[2304.09091v1](http://arxiv.org/abs/2304.09091v1)|[2304.09091v1](http://arxiv.org/pdf/2304.09091v1)|null|
+|**2023-04-18**|**LLM-based Interaction for Content Generation: A Case Study on the Perception of Employees in an IT department**|Alexandre Agossah et.al.|[2304.09064v1](http://arxiv.org/abs/2304.09064v1)|[2304.09064v1](http://arxiv.org/pdf/2304.09064v1)|null|
+|**2023-04-18**|**Revisiting k-NN for Pre-trained Language Models**|Lei Li et.al.|[2304.09058v1](http://arxiv.org/abs/2304.09058v1)|[2304.09058v1](http://arxiv.org/pdf/2304.09058v1)|**[link](https://github.com/zjunlp/Revisit-KNN)**|
+|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048v1](http://arxiv.org/abs/2304.09048v1)|[2304.09048v1](http://arxiv.org/pdf/2304.09048v1)|**[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)**|
+|**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015v1](http://arxiv.org/abs/2304.09015v1)|[2304.09015v1](http://arxiv.org/pdf/2304.09015v1)|null|
+|**2023-04-18**|**A Biomedical Entity Extraction Pipeline for Oncology Health Records in Portuguese**|Hugo Sousa et.al.|[2304.08999v1](http://arxiv.org/abs/2304.08999v1)|[2304.08999v1](http://arxiv.org/pdf/2304.08999v1)|null|
+|**2023-04-18**|**Joint Age-based Client Selection and Resource Allocation for Communication-Efficient Federated Learning over NOMA Networks**|Bibo Wu et.al.|[2304.08996v1](http://arxiv.org/abs/2304.08996v1)|[2304.08996v1](http://arxiv.org/pdf/2304.08996v1)|null|
+|**2023-04-18**|**D2CSE: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings**|Hyunjae Lee et.al.|[2304.08991v1](http://arxiv.org/abs/2304.08991v1)|[2304.08991v1](http://arxiv.org/pdf/2304.08991v1)|null|
+|**2023-04-18**|**Stochastic Parrots Looking for Stochastic Parrots: LLMs are Easy to Fine-Tune and Hard to Detect with other LLMs**|Da Silva Gameiro Henrique et.al.|[2304.08968v1](http://arxiv.org/abs/2304.08968v1)|[2304.08968v1](http://arxiv.org/pdf/2304.08968v1)|null|
 |**2023-04-17**|**Affordances from Human Videos as a Versatile Representation for Robotics**|Shikhar Bahl et.al.|[2304.08488v1](http://arxiv.org/abs/2304.08488v1)|[2304.08488v1](http://arxiv.org/pdf/2304.08488v1)|null|
 |**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487v1](http://arxiv.org/abs/2304.08487v1)|[2304.08487v1](http://arxiv.org/pdf/2304.08487v1)|null|
 |**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|[2304.08485v1](http://arxiv.org/pdf/2304.08485v1)|null|
