@@ -1,4 +1,4 @@
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 
 ## Astrophysics
 
@@ -2086,7 +2086,7 @@
 |**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048v1](http://arxiv.org/abs/2304.09048v1)|[2304.09048v1](http://arxiv.org/pdf/2304.09048v1)|**[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)**|
 |**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015v1](http://arxiv.org/abs/2304.09015v1)|[2304.09015v1](http://arxiv.org/pdf/2304.09015v1)|null|
 |**2023-04-18**|**A Biomedical Entity Extraction Pipeline for Oncology Health Records in Portuguese**|Hugo Sousa et.al.|[2304.08999v1](http://arxiv.org/abs/2304.08999v1)|[2304.08999v1](http://arxiv.org/pdf/2304.08999v1)|null|
-|**2023-04-18**|**Joint Age-based Client Selection and Resource Allocation for Communication-Efficient Federated Learning over NOMA Networks**|Bibo Wu et.al.|[2304.08996v1](http://arxiv.org/abs/2304.08996v1)|[2304.08996v1](http://arxiv.org/pdf/2304.08996v1)|null|
+|**2023-04-19**|**Energy-Efficient Design of STAR-RIS Aided MIMO-NOMA Networks**|Fang Fang et.al.|[2304.08996v2](http://arxiv.org/abs/2304.08996v2)|[2304.08996v2](http://arxiv.org/pdf/2304.08996v2)|null|
 |**2023-04-18**|**D2CSE: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings**|Hyunjae Lee et.al.|[2304.08991v1](http://arxiv.org/abs/2304.08991v1)|[2304.08991v1](http://arxiv.org/pdf/2304.08991v1)|null|
 |**2023-04-18**|**Stochastic Parrots Looking for Stochastic Parrots: LLMs are Easy to Fine-Tune and Hard to Detect with other LLMs**|Da Silva Gameiro Henrique et.al.|[2304.08968v1](http://arxiv.org/abs/2304.08968v1)|[2304.08968v1](http://arxiv.org/pdf/2304.08968v1)|null|
 |**2023-04-17**|**Affordances from Human Videos as a Versatile Representation for Robotics**|Shikhar Bahl et.al.|[2304.08488v1](http://arxiv.org/abs/2304.08488v1)|[2304.08488v1](http://arxiv.org/pdf/2304.08488v1)|null|
