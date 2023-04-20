@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-19**|**COMAP Early Science: VIII. A Joint Stacking Analysis with eBOSS Quasars**|Delaney A. Dunne et.al.|[2304.09832v1](http://arxiv.org/abs/2304.09832v1)|[2304.09832v1](http://arxiv.org/pdf/2304.09832v1)|null|
+|**2023-04-19**|**ASASSN-18aan revisited**|Roberto Nesci et.al.|[2304.09829v1](http://arxiv.org/abs/2304.09829v1)|[2304.09829v1](http://arxiv.org/pdf/2304.09829v1)|null|
+|**2023-04-19**|**Comment on "Observational Evidence for Cosmological Coupling of Black Holes and its Implications for an Astrophysical Source of Dark Energy"**|Tobias Mistele et.al.|[2304.09817v1](http://arxiv.org/abs/2304.09817v1)|[2304.09817v1](http://arxiv.org/pdf/2304.09817v1)|null|
+|**2023-04-19**|**RadioAstron Space VLBI Imaging of the jet in M87: I. Detection of high brightness temperature at 22 GHz**|Jae-Young Kim et.al.|[2304.09816v1](http://arxiv.org/abs/2304.09816v1)|[2304.09816v1](http://arxiv.org/pdf/2304.09816v1)|null|
+|**2023-04-19**|**Warm dark Matter constraints from the joint analysis of CMB, Lyman-α, and global 21 cm data**|Atrideb Chatterjee et.al.|[2304.09810v1](http://arxiv.org/abs/2304.09810v1)|[2304.09810v1](http://arxiv.org/pdf/2304.09810v1)|null|
+|**2023-04-19**|**FAST-ASKAP Synergy: Quantifying Coexistent Tidal and Ram-Pressure Strippings in the NGC 4636 Group**|Xuchen Lin et.al.|[2304.09795v1](http://arxiv.org/abs/2304.09795v1)|[2304.09795v1](http://arxiv.org/pdf/2304.09795v1)|null|
+|**2023-04-19**|**The SunPy Project: An Interoperable Ecosystem for Solar Data Analysis**|The SunPy Community et.al.|[2304.09794v1](http://arxiv.org/abs/2304.09794v1)|[2304.09794v1](http://arxiv.org/pdf/2304.09794v1)|null|
+|**2023-04-19**|**3D simulations of AGB stellar winds -- II. Ray-tracer implementation and impact of radiation on the outflow morphology**|Mats Esseldeurs et.al.|[2304.09786v1](http://arxiv.org/abs/2304.09786v1)|[2304.09786v1](http://arxiv.org/pdf/2304.09786v1)|null|
+|**2023-04-19**|**On the energy flow of $λ$ in Hořava-Lifshitz cosmology**|Ewa Czuchry et.al.|[2304.09766v1](http://arxiv.org/abs/2304.09766v1)|[2304.09766v1](http://arxiv.org/pdf/2304.09766v1)|null|
+|**2023-04-19**|**Modeling Charge Cloud Dynamics in Cross Strip Semiconductor Detectors**|Steven E. Boggs et.al.|[2304.09713v1](http://arxiv.org/abs/2304.09713v1)|[2304.09713v1](http://arxiv.org/pdf/2304.09713v1)|null|
 |**2023-04-18**|**The role of mass and environment in the build up of the quenched galaxy population since cosmic noon**|E. Taylor et.al.|[2304.09169v1](http://arxiv.org/abs/2304.09169v1)|[2304.09169v1](http://arxiv.org/pdf/2304.09169v1)|null|
 |**2023-04-18**|**A Cross-Internal Linear Combination Approach to Probe the Secondary CMB Anisotropies: Kinematic Sunyaev-Zel{'}dovich Effect and CMB Lensing**|Srinivasan Raghunathan et.al.|[2304.09166v1](http://arxiv.org/abs/2304.09166v1)|[2304.09166v1](http://arxiv.org/pdf/2304.09166v1)|**[link](https://github.com/sriniraghunathan/cross_ilc_methods_paper)**|
 |**2023-04-18**|**Constraints on Europa's water group torus from HST/COS observations**|Lorenz Roth et.al.|[2304.09150v1](http://arxiv.org/abs/2304.09150v1)|[2304.09150v1](http://arxiv.org/pdf/2304.09150v1)|null|
@@ -2083,6 +2093,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-19**|**LipsFormer: Introducing Lipschitz Continuity to Vision Transformers**|Xianbiao Qi et.al.|[2304.09856v1](http://arxiv.org/abs/2304.09856v1)|[2304.09856v1](http://arxiv.org/pdf/2304.09856v1)|**[link](https://github.com/idea-research/lipsformer)**|
+|**2023-04-19**|**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**|Pan Lu et.al.|[2304.09842v1](http://arxiv.org/abs/2304.09842v1)|[2304.09842v1](http://arxiv.org/pdf/2304.09842v1)|**[link](https://github.com/lupantech/chameleon-llm)**|
+|**2023-04-19**|**Towards transparent and robust data-driven wind turbine power curve models**|Simon Letzgus et.al.|[2304.09835v1](http://arxiv.org/abs/2304.09835v1)|[2304.09835v1](http://arxiv.org/pdf/2304.09835v1)|null|
+|**2023-04-19**|**Learning and Adapting Agile Locomotion Skills by Transferring Experience**|Laura Smith et.al.|[2304.09834v1](http://arxiv.org/abs/2304.09834v1)|[2304.09834v1](http://arxiv.org/pdf/2304.09834v1)|null|
+|**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831v1](http://arxiv.org/abs/2304.09831v1)|[2304.09831v1](http://arxiv.org/pdf/2304.09831v1)|null|
+|**2023-04-19**|**On the Perception of Difficulty: Differences between Humans and AI**|Philipp Spitzer et.al.|[2304.09803v1](http://arxiv.org/abs/2304.09803v1)|[2304.09803v1](http://arxiv.org/pdf/2304.09803v1)|null|
+|**2023-04-19**|**3D simulations of AGB stellar winds -- II. Ray-tracer implementation and impact of radiation on the outflow morphology**|Mats Esseldeurs et.al.|[2304.09786v1](http://arxiv.org/abs/2304.09786v1)|[2304.09786v1](http://arxiv.org/pdf/2304.09786v1)|null|
+|**2023-04-19**|**End-to-End Policy Gradient Method for POMDPs and Explainable Agents**|Soichiro Nishimori et.al.|[2304.09769v1](http://arxiv.org/abs/2304.09769v1)|[2304.09769v1](http://arxiv.org/pdf/2304.09769v1)|null|
+|**2023-04-19**|**Rehabilitation Exercise Repetition Segmentation and Counting using Skeletal Body Joints**|Ali Abedi et.al.|[2304.09735v1](http://arxiv.org/abs/2304.09735v1)|[2304.09735v1](http://arxiv.org/pdf/2304.09735v1)|**[link](https://github.com/abedicodes/repetition-segmentation)**|
+|**2023-04-19**|**Sample-efficient Model-based Reinforcement Learning for Quantum Control**|Irtaza Khalid et.al.|[2304.09718v1](http://arxiv.org/abs/2304.09718v1)|[2304.09718v1](http://arxiv.org/pdf/2304.09718v1)|null|
 |**2023-04-18**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116v1](http://arxiv.org/abs/2304.09116v1)|[2304.09116v1](http://arxiv.org/pdf/2304.09116v1)|null|
 |**2023-04-18**|**Participatory Design of AI with Children: Reflections on IDC Design Challenge**|Zhen Bai et.al.|[2304.09091v1](http://arxiv.org/abs/2304.09091v1)|[2304.09091v1](http://arxiv.org/pdf/2304.09091v1)|null|
 |**2023-04-18**|**LLM-based Interaction for Content Generation: A Case Study on the Perception of Employees in an IT department**|Alexandre Agossah et.al.|[2304.09064v1](http://arxiv.org/abs/2304.09064v1)|[2304.09064v1](http://arxiv.org/pdf/2304.09064v1)|null|
