@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-20**|**Compact Steep Spectrum Radio Sources with Enhanced Star Formation are Smaller than $10\,$kpc**|Yjan A. Gordon et.al.|[2304.10538v1](http://arxiv.org/abs/2304.10538v1)|[2304.10538v1](http://arxiv.org/pdf/2304.10538v1)|null|
+|**2023-04-20**|**TONE: A CHIME/FRB Outrigger Pathfinder for localizations of Fast Radio Bursts using Very Long Baseline Interferometry**|Pranav Sanghavi et.al.|[2304.10534v1](http://arxiv.org/abs/2304.10534v1)|[2304.10534v1](http://arxiv.org/pdf/2304.10534v1)|null|
+|**2023-04-20**|**Accurate mass-radius ratios for Hyades white dwarfs**|L. Pasquini et.al.|[2304.10485v1](http://arxiv.org/abs/2304.10485v1)|[2304.10485v1](http://arxiv.org/pdf/2304.10485v1)|null|
+|**2023-04-20**|**WISDOM Project -- XIV. Giant Molecular Clouds in the Central Region of the Barred Spiral Galaxy NGC 5806**|Woorak Choi et.al.|[2304.10471v1](http://arxiv.org/abs/2304.10471v1)|[2304.10471v1](http://arxiv.org/pdf/2304.10471v1)|null|
+|**2023-04-20**|**3D hydrodynamic simulations of massive main-sequence stars. III. The effect of radiation pressure and diffusion leading to a 1D equilibrium model**|Huaqing Mao et.al.|[2304.10470v1](http://arxiv.org/abs/2304.10470v1)|[2304.10470v1](http://arxiv.org/pdf/2304.10470v1)|null|
+|**2023-04-20**|**A Mixture of LBG Overdensities in the Fields of Three $6 < z < 7$ Quasars: Implications for the Robustness of Photometric Selection**|Jaclyn B. Champagne et.al.|[2304.10437v1](http://arxiv.org/abs/2304.10437v1)|[2304.10437v1](http://arxiv.org/pdf/2304.10437v1)|null|
+|**2023-04-20**|**Measuring the Hubble Constant Using Strongly Lensed Gravitational Wave Signals**|Shun-Jia Huang et.al.|[2304.10435v1](http://arxiv.org/abs/2304.10435v1)|[2304.10435v1](http://arxiv.org/pdf/2304.10435v1)|null|
+|**2023-04-20**|**Improved CMB (de-)lensing using general spherical harmonic transforms**|Martin Reinecke et.al.|[2304.10431v1](http://arxiv.org/abs/2304.10431v1)|[2304.10431v1](http://arxiv.org/pdf/2304.10431v1)|null|
+|**2023-04-20**|**Fading AGN in Post-Starburst Galaxies**|K. Decker French et.al.|[2304.10419v1](http://arxiv.org/abs/2304.10419v1)|[2304.10419v1](http://arxiv.org/pdf/2304.10419v1)|null|
+|**2023-04-20**|**A Superluminous Supernova Lightened by Collisions with Pulsational Pair-instability Shells**|Weili Lin et.al.|[2304.10416v1](http://arxiv.org/abs/2304.10416v1)|[2304.10416v1](http://arxiv.org/pdf/2304.10416v1)|null|
 |**2023-04-19**|**COMAP Early Science: VIII. A Joint Stacking Analysis with eBOSS Quasars**|Delaney A. Dunne et.al.|[2304.09832v1](http://arxiv.org/abs/2304.09832v1)|[2304.09832v1](http://arxiv.org/pdf/2304.09832v1)|null|
 |**2023-04-19**|**ASASSN-18aan revisited**|Roberto Nesci et.al.|[2304.09829v1](http://arxiv.org/abs/2304.09829v1)|[2304.09829v1](http://arxiv.org/pdf/2304.09829v1)|null|
 |**2023-04-19**|**Comment on "Observational Evidence for Cosmological Coupling of Black Holes and its Implications for an Astrophysical Source of Dark Energy"**|Tobias Mistele et.al.|[2304.09817v1](http://arxiv.org/abs/2304.09817v1)|[2304.09817v1](http://arxiv.org/pdf/2304.09817v1)|null|
@@ -2093,6 +2103,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-20**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v1](http://arxiv.org/abs/2304.10532v1)|[2304.10532v1](http://arxiv.org/pdf/2304.10532v1)|**[link](https://github.com/ethanweber/nerfbusters)**|
+|**2023-04-20**|**Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget**|Johannes Lehner et.al.|[2304.10520v1](http://arxiv.org/abs/2304.10520v1)|[2304.10520v1](http://arxiv.org/pdf/2304.10520v1)|**[link](https://github.com/ml-jku/mae-ct)**|
+|**2023-04-20**|**Segment Anything Model for Medical Image Analysis: an Experimental Study**|Maciej A. Mazurowski et.al.|[2304.10517v1](http://arxiv.org/abs/2304.10517v1)|[2304.10517v1](http://arxiv.org/pdf/2304.10517v1)|null|
+|**2023-04-20**|**Why Does ChatGPT Fall Short in Answering Questions Faithfully?**|Shen Zheng et.al.|[2304.10513v1](http://arxiv.org/abs/2304.10513v1)|[2304.10513v1](http://arxiv.org/pdf/2304.10513v1)|null|
+|**2023-04-20**|**Efficient Deep Reinforcement Learning Requires Regulating Overfitting**|Qiyang Li et.al.|[2304.10466v1](http://arxiv.org/abs/2304.10466v1)|[2304.10466v1](http://arxiv.org/pdf/2304.10466v1)|null|
+|**2023-04-20**|**Implicit Temporal Modeling with Learnable Alignment for Video Recognition**|Shuyuan Tu et.al.|[2304.10465v1](http://arxiv.org/abs/2304.10465v1)|[2304.10465v1](http://arxiv.org/pdf/2304.10465v1)|**[link](https://github.com/francis-rings/ila)**|
+|**2023-04-20**|**Learning to Program with Natural Language**|Yiduo Guo et.al.|[2304.10464v1](http://arxiv.org/abs/2304.10464v1)|[2304.10464v1](http://arxiv.org/pdf/2304.10464v1)|**[link](https://github.com/microsoft/naturallanguageprogram)**|
+|**2023-04-20**|**Phoenix: Democratizing ChatGPT across Languages**|Zhihong Chen et.al.|[2304.10453v1](http://arxiv.org/abs/2304.10453v1)|[2304.10453v1](http://arxiv.org/pdf/2304.10453v1)|**[link](https://github.com/freedomintelligence/llmzoo)**|
+|**2023-04-20**|**A Study on Reproducibility and Replicability of Table Structure Recognition Methods**|Kehinde Ajayi et.al.|[2304.10439v1](http://arxiv.org/abs/2304.10439v1)|[2304.10439v1](http://arxiv.org/pdf/2304.10439v1)|null|
+|**2023-04-20**|**On the Potential of Artificial Intelligence Chatbots for Data Exploration of Federated Bioinformatics Knowledge Graphs**|Ana-Claudia Sima et.al.|[2304.10427v1](http://arxiv.org/abs/2304.10427v1)|[2304.10427v1](http://arxiv.org/pdf/2304.10427v1)|null|
 |**2023-04-19**|**LipsFormer: Introducing Lipschitz Continuity to Vision Transformers**|Xianbiao Qi et.al.|[2304.09856v1](http://arxiv.org/abs/2304.09856v1)|[2304.09856v1](http://arxiv.org/pdf/2304.09856v1)|**[link](https://github.com/idea-research/lipsformer)**|
 |**2023-04-19**|**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**|Pan Lu et.al.|[2304.09842v1](http://arxiv.org/abs/2304.09842v1)|[2304.09842v1](http://arxiv.org/pdf/2304.09842v1)|**[link](https://github.com/lupantech/chameleon-llm)**|
 |**2023-04-19**|**Towards transparent and robust data-driven wind turbine power curve models**|Simon Letzgus et.al.|[2304.09835v1](http://arxiv.org/abs/2304.09835v1)|[2304.09835v1](http://arxiv.org/pdf/2304.09835v1)|null|
