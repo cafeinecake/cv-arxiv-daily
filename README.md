@@ -1,4 +1,4 @@
-## Updated on 2023.04.23
+## Updated on 2023.04.24
 
 ## Astrophysics
 
@@ -7,7 +7,7 @@
 |**2023-04-20**|**Compact Steep Spectrum Radio Sources with Enhanced Star Formation are Smaller than $10\,$kpc**|Yjan A. Gordon et.al.|[2304.10538v1](http://arxiv.org/abs/2304.10538v1)|[2304.10538v1](http://arxiv.org/pdf/2304.10538v1)|null|
 |**2023-04-20**|**TONE: A CHIME/FRB Outrigger Pathfinder for localizations of Fast Radio Bursts using Very Long Baseline Interferometry**|Pranav Sanghavi et.al.|[2304.10534v1](http://arxiv.org/abs/2304.10534v1)|[2304.10534v1](http://arxiv.org/pdf/2304.10534v1)|null|
 |**2023-04-20**|**Accurate mass-radius ratios for Hyades white dwarfs**|L. Pasquini et.al.|[2304.10485v1](http://arxiv.org/abs/2304.10485v1)|[2304.10485v1](http://arxiv.org/pdf/2304.10485v1)|null|
-|**2023-04-20**|**WISDOM Project -- XIV. Giant Molecular Clouds in the Central Region of the Barred Spiral Galaxy NGC 5806**|Woorak Choi et.al.|[2304.10471v1](http://arxiv.org/abs/2304.10471v1)|[2304.10471v1](http://arxiv.org/pdf/2304.10471v1)|null|
+|**2023-04-21**|**WISDOM Project -- XV. Giant Molecular Clouds in the Central Region of the Barred Spiral Galaxy NGC 5806**|Woorak Choi et.al.|[2304.10471v2](http://arxiv.org/abs/2304.10471v2)|[2304.10471v2](http://arxiv.org/pdf/2304.10471v2)|null|
 |**2023-04-20**|**3D hydrodynamic simulations of massive main-sequence stars. III. The effect of radiation pressure and diffusion leading to a 1D equilibrium model**|Huaqing Mao et.al.|[2304.10470v1](http://arxiv.org/abs/2304.10470v1)|[2304.10470v1](http://arxiv.org/pdf/2304.10470v1)|null|
 |**2023-04-20**|**A Mixture of LBG Overdensities in the Fields of Three $6 < z < 7$ Quasars: Implications for the Robustness of Photometric Selection**|Jaclyn B. Champagne et.al.|[2304.10437v1](http://arxiv.org/abs/2304.10437v1)|[2304.10437v1](http://arxiv.org/pdf/2304.10437v1)|null|
 |**2023-04-20**|**Measuring the Hubble Constant Using Strongly Lensed Gravitational Wave Signals**|Shun-Jia Huang et.al.|[2304.10435v1](http://arxiv.org/abs/2304.10435v1)|[2304.10435v1](http://arxiv.org/pdf/2304.10435v1)|null|
