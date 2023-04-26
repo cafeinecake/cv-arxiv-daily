@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-04-25**|**The Calar Alto Legacy Integral Field Area Survey: extended and remastered data release**|S. F. Sanchez et.al.|[2304.13022v1](http://arxiv.org/abs/2304.13022v1)|[2304.13022v1](http://arxiv.org/pdf/2304.13022v1)|null|
+|**2023-04-25**|**Study of the bipolar jet of the YSO Th 28 with VLT/SINFONI: Jet morphology and H$_2$ emission**|S. Yu. Melnikov et.al.|[2304.12974v1](http://arxiv.org/abs/2304.12974v1)|[2304.12974v1](http://arxiv.org/pdf/2304.12974v1)|null|
+|**2023-04-25**|**Testing angular momentum transport processes with asteroseismology of solar-type main-sequence stars**|Jérôme Bétrisey et.al.|[2304.12942v1](http://arxiv.org/abs/2304.12942v1)|[2304.12942v1](http://arxiv.org/pdf/2304.12942v1)|null|
+|**2023-04-25**|**Unambiguous Detection of Doubly-Ionized Thorium in the Extreme Ap Star CPD-62 2717**|S. Drew Chojnowski et.al.|[2304.12938v1](http://arxiv.org/abs/2304.12938v1)|[2304.12938v1](http://arxiv.org/pdf/2304.12938v1)|null|
+|**2023-04-25**|**Angular momentum variation of the Milky Way thick disk: The dependence of chemical abundance and the evidence on inside-out formation scenario**|Guozhen Hu et.al.|[2304.12929v1](http://arxiv.org/abs/2304.12929v1)|[2304.12929v1](http://arxiv.org/pdf/2304.12929v1)|null|
+|**2023-04-25**|**Europium enrichment and hierarchical formation of the Galactic halo**|L. Cavallo et.al.|[2304.12913v1](http://arxiv.org/abs/2304.12913v1)|[2304.12913v1](http://arxiv.org/pdf/2304.12913v1)|null|
+|**2023-04-25**|**Production rates of dark photons and $Z'$ in the Sun and stellar cooling bounds**|Shao-Ping Li et.al.|[2304.12907v1](http://arxiv.org/abs/2304.12907v1)|[2304.12907v1](http://arxiv.org/pdf/2304.12907v1)|null|
+|**2023-04-25**|**An evolutionary model for V404 Cyg system**|L. Bartolomeo Koninckx et.al.|[2304.12894v1](http://arxiv.org/abs/2304.12894v1)|[2304.12894v1](http://arxiv.org/pdf/2304.12894v1)|null|
+|**2023-04-25**|**Discovery of extraordinary X-ray emission from magnetospheric interaction in the unique binary stellar system $ε$ Lupi**|B. Das et.al.|[2304.12882v1](http://arxiv.org/abs/2304.12882v1)|[2304.12882v1](http://arxiv.org/pdf/2304.12882v1)|null|
+|**2023-04-25**|**Two-photon excitation and absorption spectroscopy of gaseous and supercritical xenon**|Thilo vom Hövel et.al.|[2304.12803v1](http://arxiv.org/abs/2304.12803v1)|[2304.12803v1](http://arxiv.org/pdf/2304.12803v1)|null|
 |**2023-04-24**|**Constraining the onset density for the QCD phase transition with the neutrino signal from core-collapse supernovae**|Noshad Khosravi Largani et.al.|[2304.12316v1](http://arxiv.org/abs/2304.12316v1)|[2304.12316v1](http://arxiv.org/pdf/2304.12316v1)|null|
 |**2023-04-24**|**Evolution of open clusters with or without black holes**|B. Shukirgaliyev et.al.|[2304.12291v1](http://arxiv.org/abs/2304.12291v1)|[2304.12291v1](http://arxiv.org/pdf/2304.12291v1)|null|
 |**2023-04-24**|**Colour-Flavour Locked Quark Stars in Light of the Compact Object in HESS J1731-347 and the GW190814 Event**|P. T. Oikonomou et.al.|[2304.12209v1](http://arxiv.org/abs/2304.12209v1)|[2304.12209v1](http://arxiv.org/pdf/2304.12209v1)|null|
@@ -2119,6 +2129,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|[2304.13023v1](http://arxiv.org/pdf/2304.13023v1)|null|
+|**2023-04-25**|**Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art**|Tobias Rueckert et.al.|[2304.13014v1](http://arxiv.org/abs/2304.13014v1)|[2304.13014v1](http://arxiv.org/pdf/2304.13014v1)|null|
+|**2023-04-25**|**Artificial Intelligence for Satellite Communication and Non-Terrestrial Networks: A Survey**|G. Fontanesi et.al.|[2304.13008v1](http://arxiv.org/abs/2304.13008v1)|[2304.13008v1](http://arxiv.org/pdf/2304.13008v1)|null|
+|**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|[2304.13007v1](http://arxiv.org/pdf/2304.13007v1)|**[link](https://github.com/oriyor/reasoning-on-cots)**|
+|**2023-04-25**|**Centralized control for multi-agent RL in a complex Real-Time-Strategy game**|Roger Creus Castanyer et.al.|[2304.13004v1](http://arxiv.org/abs/2304.13004v1)|[2304.13004v1](http://arxiv.org/pdf/2304.13004v1)|**[link](https://github.com/roger-creus/centralized-control-lux)**|
+|**2023-04-25**|**On the Generalization of Learned Structured Representations**|Andrea Dittadi et.al.|[2304.13001v1](http://arxiv.org/abs/2304.13001v1)|[2304.13001v1](http://arxiv.org/pdf/2304.13001v1)|null|
+|**2023-04-25**|**Segment anything, from space?**|Simiao Ren et.al.|[2304.13000v1](http://arxiv.org/abs/2304.13000v1)|[2304.13000v1](http://arxiv.org/pdf/2304.13000v1)|null|
+|**2023-04-25**|**AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**|Rongjie Huang et.al.|[2304.12995v1](http://arxiv.org/abs/2304.12995v1)|[2304.12995v1](http://arxiv.org/pdf/2304.12995v1)|**[link](https://github.com/aigc-audio/audiogpt)**|
+|**2023-04-25**|**Measuring Massive Multitask Chinese Understanding**|Hui Zeng et.al.|[2304.12986v1](http://arxiv.org/abs/2304.12986v1)|[2304.12986v1](http://arxiv.org/pdf/2304.12986v1)|**[link](https://github.com/Felixgithub2017/MMCU)**|
+|**2023-04-25**|**Rubik's Optical Neural Networks: Multi-task Learning with Physics-aware Rotation Architecture**|Yingjie Li et.al.|[2304.12985v1](http://arxiv.org/abs/2304.12985v1)|[2304.12985v1](http://arxiv.org/pdf/2304.12985v1)|null|
 |**2023-04-24**|**Distilling from Similar Tasks for Transfer Learning on a Budget**|Kenneth Borup et.al.|[2304.12314v1](http://arxiv.org/abs/2304.12314v1)|[2304.12314v1](http://arxiv.org/pdf/2304.12314v1)|null|
 |**2023-04-24**|**A Survey on Multi-Resident Activity Recognition in Smart Environments**|Farhad MortezaPour Shiri et.al.|[2304.12304v1](http://arxiv.org/abs/2304.12304v1)|[2304.12304v1](http://arxiv.org/pdf/2304.12304v1)|null|
 |**2023-04-24**|**Evolution of open clusters with or without black holes**|B. Shukirgaliyev et.al.|[2304.12291v1](http://arxiv.org/abs/2304.12291v1)|[2304.12291v1](http://arxiv.org/pdf/2304.12291v1)|null|
