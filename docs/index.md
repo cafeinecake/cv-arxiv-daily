@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.04.26
+## Updated on 2023.04.27
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-04-25**|**The Calar Alto Legacy Integral Field Area Survey: extended and remastered data release**|S. F. Sanchez et.al.|[2304.13022v1](http://arxiv.org/abs/2304.13022v1)|[2304.13022v1](http://arxiv.org/pdf/2304.13022v1)|null|
-|**2023-04-25**|**Study of the bipolar jet of the YSO Th 28 with VLT/SINFONI: Jet morphology and H$_2$ emission**|S. Yu. Melnikov et.al.|[2304.12974v1](http://arxiv.org/abs/2304.12974v1)|[2304.12974v1](http://arxiv.org/pdf/2304.12974v1)|null|
+|**2023-04-26**|**Study of the bipolar jet of the YSO Th 28 with VLT/SINFONI: Jet morphology and H$_2$ emission**|S. Yu. Melnikov et.al.|[2304.12974v2](http://arxiv.org/abs/2304.12974v2)|[2304.12974v2](http://arxiv.org/pdf/2304.12974v2)|null|
 |**2023-04-25**|**Testing angular momentum transport processes with asteroseismology of solar-type main-sequence stars**|Jérôme Bétrisey et.al.|[2304.12942v1](http://arxiv.org/abs/2304.12942v1)|[2304.12942v1](http://arxiv.org/pdf/2304.12942v1)|null|
 |**2023-04-25**|**Unambiguous Detection of Doubly-Ionized Thorium in the Extreme Ap Star CPD-62 2717**|S. Drew Chojnowski et.al.|[2304.12938v1](http://arxiv.org/abs/2304.12938v1)|[2304.12938v1](http://arxiv.org/pdf/2304.12938v1)|null|
 |**2023-04-25**|**Angular momentum variation of the Milky Way thick disk: The dependence of chemical abundance and the evidence on inside-out formation scenario**|Guozhen Hu et.al.|[2304.12929v1](http://arxiv.org/abs/2304.12929v1)|[2304.12929v1](http://arxiv.org/pdf/2304.12929v1)|null|
