@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-27**|**Hierarchical structure of the cosmic web and galaxy properties**|Mariana Jaber et.al.|[2304.14387v1](http://arxiv.org/abs/2304.14387v1)|[2304.14387v1](http://arxiv.org/pdf/2304.14387v1)|null|
+|**2023-04-27**|**Kinematics of stellar substructures in the Small Magellanic Cloud**|Dalal El Youssoufi et.al.|[2304.14368v1](http://arxiv.org/abs/2304.14368v1)|[2304.14368v1](http://arxiv.org/pdf/2304.14368v1)|null|
+|**2023-04-27**|**Hydra II: Characterisation of Aegean, Caesar, ProFound, PyBDSF, and Selavy source finders**|M. M. Boyce et.al.|[2304.14357v1](http://arxiv.org/abs/2304.14357v1)|[2304.14357v1](http://arxiv.org/pdf/2304.14357v1)|null|
+|**2023-04-27**|**Hydra I: An extensible multi-source-finder comparison and cataloguing tool**|M. M. Boyce et.al.|[2304.14355v1](http://arxiv.org/abs/2304.14355v1)|[2304.14355v1](http://arxiv.org/pdf/2304.14355v1)|null|
+|**2023-04-27**|**GRB 221009A Afterglow from a Shallow Angular Structured Jet**|Ramandeep Gill et.al.|[2304.14331v1](http://arxiv.org/abs/2304.14331v1)|[2304.14331v1](http://arxiv.org/pdf/2304.14331v1)|null|
+|**2023-04-27**|**Molecular Outgassing in Centaur 29P/Schwassmann-Wachmann 1 During Its Exceptional 2021 Outburst: Coordinated Multi-Wavelength Observations Using nFLASH at APEX and iSHELL at the NASA-IRTF**|Nathan X. Roth et.al.|[2304.14324v1](http://arxiv.org/abs/2304.14324v1)|[2304.14324v1](http://arxiv.org/pdf/2304.14324v1)|null|
+|**2023-04-27**|**A Measurement of the Kuiper Belt's Mean Plane From Objects Classified By Machine Learning**|Ian C. Matheson et.al.|[2304.14312v1](http://arxiv.org/abs/2304.14312v1)|[2304.14312v1](http://arxiv.org/pdf/2304.14312v1)|null|
+|**2023-04-27**|**Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals**|Helem Salinas et.al.|[2304.14283v1](http://arxiv.org/abs/2304.14283v1)|[2304.14283v1](http://arxiv.org/pdf/2304.14283v1)|null|
+|**2023-04-27**|**Analysis of the young open cluster Trumpler 2 using Gaia DR3 data**|S. Tasdemir et.al.|[2304.14270v1](http://arxiv.org/abs/2304.14270v1)|[2304.14270v1](http://arxiv.org/pdf/2304.14270v1)|null|
+|**2023-04-27**|**X-ray flares in long-term light curve of low luminosity AGN - M81***|Gunjan Tomar et.al.|[2304.14265v1](http://arxiv.org/abs/2304.14265v1)|[2304.14265v1](http://arxiv.org/pdf/2304.14265v1)|null|
 |**2023-04-26**|**EPOCHS Paper II: The Ultraviolet Luminosity Function from $7.5<z<13.5$ using 110 square arcminutes of deep, blank-field data from the PEARLS Survey and Public Science Programmes**|Nathan J. Adams et.al.|[2304.13721v1](http://arxiv.org/abs/2304.13721v1)|[2304.13721v1](http://arxiv.org/pdf/2304.13721v1)|null|
 |**2023-04-27**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720v2](http://arxiv.org/abs/2304.13720v2)|[2304.13720v2](http://arxiv.org/pdf/2304.13720v2)|null|
 |**2023-04-26**|**The slippery slope of dust attenuation curves: Correlation of dust attenuation laws with star-to-dust compactness up to z = 4**|M. Hamed et.al.|[2304.13713v1](http://arxiv.org/abs/2304.13713v1)|[2304.13713v1](http://arxiv.org/pdf/2304.13713v1)|null|
@@ -2143,6 +2153,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|[2304.14406v1](http://arxiv.org/pdf/2304.14406v1)|**[link](https://github.com/adobe-research/affordance-insertion)**|
+|**2023-04-27**|**Energy-based Models as Zero-Shot Planners for Compositional Scene Rearrangement**|Nikolaos Gkanatsios et.al.|[2304.14391v1](http://arxiv.org/abs/2304.14391v1)|[2304.14391v1](http://arxiv.org/pdf/2304.14391v1)|null|
+|**2023-04-27**|**SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos**|John Z. Zhang et.al.|[2304.14389v1](http://arxiv.org/abs/2304.14389v1)|[2304.14389v1](http://arxiv.org/pdf/2304.14389v1)|null|
+|**2023-04-27**|**Analogy-Forming Transformers for Few-Shot 3D Parsing**|Nikolaos Gkanatsios et.al.|[2304.14382v1](http://arxiv.org/abs/2304.14382v1)|[2304.14382v1](http://arxiv.org/pdf/2304.14382v1)|null|
+|**2023-04-27**|**CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants**|Albert Yu Sun et.al.|[2304.14364v1](http://arxiv.org/abs/2304.14364v1)|[2304.14364v1](http://arxiv.org/pdf/2304.14364v1)|null|
+|**2023-04-27**|**ZeroShotDataAug: Generating and Augmenting Training Data with ChatGPT**|Solomon Ubani et.al.|[2304.14334v1](http://arxiv.org/abs/2304.14334v1)|[2304.14334v1](http://arxiv.org/pdf/2304.14334v1)|null|
+|**2023-04-27**|**Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space**|Filip Klubička et.al.|[2304.14333v1](http://arxiv.org/abs/2304.14333v1)|[2304.14333v1](http://arxiv.org/pdf/2304.14333v1)|null|
+|**2023-04-27**|**Pushing the Boundaries of Tractable Multiperspective Reasoning: A Deduction Calculus for Standpoint EL+**|Lucía {Gómez Álvarez} et.al.|[2304.14323v1](http://arxiv.org/abs/2304.14323v1)|[2304.14323v1](http://arxiv.org/pdf/2304.14323v1)|null|
+|**2023-04-27**|**Large Language Models Are State-of-the-Art Evaluators of Code Generation**|Terry Yue Zhuo et.al.|[2304.14317v1](http://arxiv.org/abs/2304.14317v1)|[2304.14317v1](http://arxiv.org/pdf/2304.14317v1)|**[link](https://github.com/terryyz/llm-code-eval)**|
+|**2023-04-27**|**Double-Deck Multi-Agent Pickup and Delivery: Multi-Robot Rearrangement in Large-Scale Warehouses**|Baiyu Li et.al.|[2304.14309v1](http://arxiv.org/abs/2304.14309v1)|[2304.14309v1](http://arxiv.org/pdf/2304.14309v1)|null|
 |**2023-04-26**|**A Control-Centric Benchmark for Video Prediction**|Stephen Tian et.al.|[2304.13723v1](http://arxiv.org/abs/2304.13723v1)|[2304.13723v1](http://arxiv.org/pdf/2304.13723v1)|**[link](https://github.com/s-tian/vp2)**|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|[2304.13714v1](http://arxiv.org/pdf/2304.13714v1)|null|
 |**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|[2304.13712v2](http://arxiv.org/pdf/2304.13712v2)|null|
