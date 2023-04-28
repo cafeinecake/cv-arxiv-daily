@@ -1,11 +1,11 @@
-## Updated on 2023.04.27
+## Updated on 2023.04.28
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2023-04-26**|**EPOCHS Paper II: The Ultraviolet Luminosity Function from $7.5<z<13.5$ using 110 square arcminutes of deep, blank-field data from the PEARLS Survey and Public Science Programmes**|Nathan J. Adams et.al.|[2304.13721v1](http://arxiv.org/abs/2304.13721v1)|[2304.13721v1](http://arxiv.org/pdf/2304.13721v1)|null|
-|**2023-04-26**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720v1](http://arxiv.org/abs/2304.13720v1)|[2304.13720v1](http://arxiv.org/pdf/2304.13720v1)|null|
+|**2023-04-27**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720v2](http://arxiv.org/abs/2304.13720v2)|[2304.13720v2](http://arxiv.org/pdf/2304.13720v2)|null|
 |**2023-04-26**|**The slippery slope of dust attenuation curves: Correlation of dust attenuation laws with star-to-dust compactness up to z = 4**|M. Hamed et.al.|[2304.13713v1](http://arxiv.org/abs/2304.13713v1)|[2304.13713v1](http://arxiv.org/pdf/2304.13713v1)|null|
 |**2023-04-26**|**High Resolution Observations of HI in the IC 63 Reflection Nebula**|L. Bonne et.al.|[2304.13669v1](http://arxiv.org/abs/2304.13669v1)|[2304.13669v1](http://arxiv.org/pdf/2304.13669v1)|null|
 |**2023-04-26**|**Narrow loophole for H2-dominated atmospheres on habitable rocky planets around M dwarfs**|Renyu Hu et.al.|[2304.13659v1](http://arxiv.org/abs/2304.13659v1)|[2304.13659v1](http://arxiv.org/pdf/2304.13659v1)|null|
@@ -2141,11 +2141,11 @@
 |---|---|---|---|---|---|
 |**2023-04-26**|**A Control-Centric Benchmark for Video Prediction**|Stephen Tian et.al.|[2304.13723v1](http://arxiv.org/abs/2304.13723v1)|[2304.13723v1](http://arxiv.org/pdf/2304.13723v1)|**[link](https://github.com/s-tian/vp2)**|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|[2304.13714v1](http://arxiv.org/pdf/2304.13714v1)|null|
-|**2023-04-26**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v1](http://arxiv.org/abs/2304.13712v1)|[2304.13712v1](http://arxiv.org/pdf/2304.13712v1)|null|
+|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|[2304.13712v2](http://arxiv.org/pdf/2304.13712v2)|null|
 |**2023-04-26**|**Hopfield model with planted patterns: a teacher-student self-supervised learning model**|Francesco Alemanno et.al.|[2304.13710v1](http://arxiv.org/abs/2304.13710v1)|[2304.13710v1](http://arxiv.org/pdf/2304.13710v1)|null|
 |**2023-04-26**|**Proximity-induced superconductivity in a 2D Kondo lattice of an f-electron-based surface alloy**|Howon Kim et.al.|[2304.13697v1](http://arxiv.org/abs/2304.13697v1)|[2304.13697v1](http://arxiv.org/pdf/2304.13697v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|[2304.13689v1](http://arxiv.org/pdf/2304.13689v1)|null|
-|**2023-04-26**|**Unlocking the Potential of Collaborative AI -- On the Socio-technical Challenges of Federated Machine Learning**|Tobias Müller et.al.|[2304.13688v1](http://arxiv.org/abs/2304.13688v1)|[2304.13688v1](http://arxiv.org/pdf/2304.13688v1)|null|
+|**2023-04-27**|**Unlocking the Potential of Collaborative AI -- On the Socio-technical Challenges of Federated Machine Learning**|Tobias Müller et.al.|[2304.13688v2](http://arxiv.org/abs/2304.13688v2)|[2304.13688v2](http://arxiv.org/pdf/2304.13688v2)|null|
 |**2023-04-26**|**Measuring Bias in AI Models with Application to Face Biometrics: An Statistical Approach**|Daniel DeAlcala et.al.|[2304.13680v1](http://arxiv.org/abs/2304.13680v1)|[2304.13680v1](http://arxiv.org/pdf/2304.13680v1)|null|
 |**2023-04-26**|**Multimodal Grounding for Embodied AI via Augmented Reality Headsets for Natural Language Driven Task Planning**|Selma Wanna et.al.|[2304.13676v1](http://arxiv.org/abs/2304.13676v1)|[2304.13676v1](http://arxiv.org/pdf/2304.13676v1)|null|
 |**2023-04-26**|**Using Implicit Feedback to Improve Question Generation**|Hugo Rodrigues et.al.|[2304.13664v1](http://arxiv.org/abs/2304.13664v1)|[2304.13664v1](http://arxiv.org/pdf/2304.13664v1)|null|
