@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-02**|**Theoretical tidal evolution constants for stellar models from the pre-main sequence to the white dwarf stage Apsidal motion constants, moment of inertia, and gravitational potential energy**|A. Claret et.al.|[2305.01627v1](http://arxiv.org/abs/2305.01627v1)|[2305.01627v1](http://arxiv.org/pdf/2305.01627v1)|null|
+|**2023-05-02**|**Cosmic acceleration in entropic cosmology**|Javier Chagoya et.al.|[2305.01607v1](http://arxiv.org/abs/2305.01607v1)|[2305.01607v1](http://arxiv.org/pdf/2305.01607v1)|null|
+|**2023-05-02**|**GW_CLASS: Cosmological Gravitational Wave Background in the Cosmic Linear Anisotropy Solving System**|Florian Schulze et.al.|[2305.01602v1](http://arxiv.org/abs/2305.01602v1)|[2305.01602v1](http://arxiv.org/pdf/2305.01602v1)|null|
+|**2023-05-02**|**Direct assessment of SDO/HMI helioseismology of active regions on the Sun's far side using SO/PHI magnetograms**|D. Yang et.al.|[2305.01594v1](http://arxiv.org/abs/2305.01594v1)|[2305.01594v1](http://arxiv.org/pdf/2305.01594v1)|null|
+|**2023-05-02**|**Generalizations of Quasilinear MOND (QUMOND)**|Mordehai Milgrom et.al.|[2305.01589v1](http://arxiv.org/abs/2305.01589v1)|[2305.01589v1](http://arxiv.org/pdf/2305.01589v1)|null|
+|**2023-05-02**|**A search for the missing baryons with X--ray absorption lines towards the blazar 1ES 1553+113**|D. Spence et.al.|[2305.01587v1](http://arxiv.org/abs/2305.01587v1)|[2305.01587v1](http://arxiv.org/pdf/2305.01587v1)|null|
+|**2023-05-02**|**Perturbation theory challenge for cosmological parameters estimation II.: Matter power spectrum in redshift space**|Ken Osato et.al.|[2305.01584v1](http://arxiv.org/abs/2305.01584v1)|[2305.01584v1](http://arxiv.org/pdf/2305.01584v1)|null|
+|**2023-05-02**|**Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl**|Miles Cranmer et.al.|[2305.01582v1](http://arxiv.org/abs/2305.01582v1)|[2305.01582v1](http://arxiv.org/pdf/2305.01582v1)|**[link](https://github.com/milescranmer/pysr_paper)**|
+|**2023-05-02**|**Ly$α$ at Cosmic Dawn with a Simulated Roman Grism Deep Field**|Isak G. B. Wold et.al.|[2305.01562v1](http://arxiv.org/abs/2305.01562v1)|[2305.01562v1](http://arxiv.org/pdf/2305.01562v1)|null|
+|**2023-05-02**|**Production of n-rich nuclei in red giant stars**|Maurizio M. Busso et.al.|[2305.01549v1](http://arxiv.org/abs/2305.01549v1)|[2305.01549v1](http://arxiv.org/pdf/2305.01549v1)|null|
 |**2023-05-01**|**Formation of Gaps in Self-gravitating Debris Disks by Secular Resonance in a Single-planet System. II. Towards a Self-consistent Model**|Antranik A. Sefilian et.al.|[2305.00951v1](http://arxiv.org/abs/2305.00951v1)|[2305.00951v1](http://arxiv.org/pdf/2305.00951v1)|null|
 |**2023-05-01**|**Breaking the 10 mW/pixel Limit for Kinetic Inductance Detector Readout Electronics**|Adrian K. Sinclair et.al.|[2305.00928v1](http://arxiv.org/abs/2305.00928v1)|[2305.00928v1](http://arxiv.org/pdf/2305.00928v1)|null|
 |**2023-05-01**|**Limitations and biases in the retrieval of the polar magnetic field I: the role of the magnetic filling factor in Milne-Eddington inversions of simulated Hinode/SP data**|Rebecca Centeno et.al.|[2305.00924v1](http://arxiv.org/abs/2305.00924v1)|[2305.00924v1](http://arxiv.org/pdf/2305.00924v1)|null|
@@ -2173,6 +2183,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-02**|**Generalizing Dataset Distillation via Deep Generative Prior**|George Cazenavette et.al.|[2305.01649v1](http://arxiv.org/abs/2305.01649v1)|[2305.01649v1](http://arxiv.org/pdf/2305.01649v1)|**[link](https://github.com/georgecazenavette/glad)**|
+|**2023-05-02**|**Key-Locked Rank One Editing for Text-to-Image Personalization**|Yoad Tewel et.al.|[2305.01644v1](http://arxiv.org/abs/2305.01644v1)|[2305.01644v1](http://arxiv.org/pdf/2305.01644v1)|null|
+|**2023-05-02**|**Differentially Private In-Context Learning**|Ashwinee Panda et.al.|[2305.01639v1](http://arxiv.org/abs/2305.01639v1)|[2305.01639v1](http://arxiv.org/pdf/2305.01639v1)|null|
+|**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626v1](http://arxiv.org/abs/2305.01626v1)|[2305.01626v1](http://arxiv.org/pdf/2305.01626v1)|null|
+|**2023-05-02**|**FlowMap: Path Generation for Automated Vehicles in Open Space Using Traffic Flow**|Wenchao Ding et.al.|[2305.01622v1](http://arxiv.org/abs/2305.01622v1)|[2305.01622v1](http://arxiv.org/pdf/2305.01622v1)|null|
+|**2023-05-02**|**FreeLM: Fine-Tuning-Free Language Model**|Xiang Li et.al.|[2305.01616v1](http://arxiv.org/abs/2305.01616v1)|[2305.01616v1](http://arxiv.org/pdf/2305.01616v1)|null|
+|**2023-05-02**|**Finding Neurons in a Haystack: Case Studies with Sparse Probing**|Wes Gurnee et.al.|[2305.01610v1](http://arxiv.org/abs/2305.01610v1)|[2305.01610v1](http://arxiv.org/pdf/2305.01610v1)|**[link](https://github.com/wesg52/sparse-probing-paper)**|
+|**2023-05-02**|**From Words to Code: Harnessing Data for Program Synthesis from Natural Language**|Anirudh Khatry et.al.|[2305.01598v1](http://arxiv.org/abs/2305.01598v1)|[2305.01598v1](http://arxiv.org/pdf/2305.01598v1)|null|
+|**2023-05-02**|**Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators**|Giwon Hong et.al.|[2305.01579v1](http://arxiv.org/abs/2305.01579v1)|[2305.01579v1](http://arxiv.org/pdf/2305.01579v1)|null|
+|**2023-05-02**|**Expertise Trees Resolve Knowledge Limitations in Collective Decision-Making**|Axel Abels et.al.|[2305.01063v1](http://arxiv.org/abs/2305.01063v1)|[2305.01063v1](http://arxiv.org/pdf/2305.01063v1)|null|
 |**2023-05-01**|**CryCeleb: A Speaker Verification Dataset Based on Infant Cry Sounds**|David Budaghyan et.al.|[2305.00969v1](http://arxiv.org/abs/2305.00969v1)|[2305.00969v1](http://arxiv.org/pdf/2305.00969v1)|null|
 |**2023-05-01**|**A Comparison of Pneumatic Actuators for Soft Growing Vine Robots**|Alexander M. Kübler et.al.|[2305.00967v1](http://arxiv.org/abs/2305.00967v1)|[2305.00967v1](http://arxiv.org/pdf/2305.00967v1)|null|
 |**2023-05-01**|**Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation**|Patrick Fernandes et.al.|[2305.00955v1](http://arxiv.org/abs/2305.00955v1)|[2305.00955v1](http://arxiv.org/pdf/2305.00955v1)|null|
