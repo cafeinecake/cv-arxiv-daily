@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-04**|**Multi-Image X-ray Interferometer Module: I. design concept and proof-of-concept experiments with fine-pitch slits**|Kazunori Asakura et.al.|[2305.03050v1](http://arxiv.org/abs/2305.03050v1)|[2305.03050v1](http://arxiv.org/pdf/2305.03050v1)|null|
+|**2023-05-04**|**JWST NIRSpec spectroscopy of the triply-lensed $z = 10.17$ galaxy MACS0647$-$JD**|Tiger Yu-Yang Hsiao et.al.|[2305.03042v1](http://arxiv.org/abs/2305.03042v1)|[2305.03042v1](http://arxiv.org/pdf/2305.03042v1)|null|
+|**2023-05-04**|**M92 (NGC~6341) Is a Metal-Complex Globular Cluster with an Atypical Primordial Population**|Jae-Woo Lee et.al.|[2305.02983v1](http://arxiv.org/abs/2305.02983v1)|[2305.02983v1](http://arxiv.org/pdf/2305.02983v1)|null|
+|**2023-05-04**|**Evidence for Large Scale, Rapid Gas Inflows in z~2 Star Forming Disks**|R. Genzel et.al.|[2305.02959v1](http://arxiv.org/abs/2305.02959v1)|[2305.02959v1](http://arxiv.org/pdf/2305.02959v1)|null|
+|**2023-05-04**|**The FLUKA cross sections for cosmic-ray leptons and uncertainties on current positron predictions**|Pedro De la Torre Luque et.al.|[2305.02958v1](http://arxiv.org/abs/2305.02958v1)|[2305.02958v1](http://arxiv.org/pdf/2305.02958v1)|null|
+|**2023-05-04**|**Synchrotron intensity plots from a relativistic stratified jet**|V. A. Frolova et.al.|[2305.02929v1](http://arxiv.org/abs/2305.02929v1)|[2305.02929v1](http://arxiv.org/pdf/2305.02929v1)|null|
+|**2023-05-04**|**Extensions to $Λ$CDM at Intermediate Redshifts to Solve the Tensions ?**|Ziad Sakr et.al.|[2305.02913v1](http://arxiv.org/abs/2305.02913v1)|[2305.02913v1](http://arxiv.org/pdf/2305.02913v1)|null|
+|**2023-05-04**|**Dynamical hotness, star formation quenching and growth of supermassive black holes**|Hui Hong et.al.|[2305.02910v1](http://arxiv.org/abs/2305.02910v1)|[2305.02910v1](http://arxiv.org/pdf/2305.02910v1)|null|
+|**2023-05-04**|**Galactic cosmic ray transport in the absence of resonant scattering**|O. Pezzi et.al.|[2305.02890v1](http://arxiv.org/abs/2305.02890v1)|[2305.02890v1](http://arxiv.org/pdf/2305.02890v1)|null|
+|**2023-05-04**|**Gravitational Lensing of Gravitational Waves: Probing Intermediate Mass Black Holes in Galaxy Lenses with Global Minima**|Ashish Kumar Meena et.al.|[2305.02880v1](http://arxiv.org/abs/2305.02880v1)|[2305.02880v1](http://arxiv.org/pdf/2305.02880v1)|null|
 |**2023-05-03**|**Wavelet Coherence Of Total Solar Irradiance and Atlantic Climate**|Vasil Kolev et.al.|[2305.02319v1](http://arxiv.org/abs/2305.02319v1)|[2305.02319v1](http://arxiv.org/pdf/2305.02319v1)|null|
 |**2023-05-03**|**Testing charge quantization with axion string-induced cosmic birefringence**|Weichen Winston Yin et.al.|[2305.02318v1](http://arxiv.org/abs/2305.02318v1)|[2305.02318v1](http://arxiv.org/pdf/2305.02318v1)|null|
 |**2023-05-03**|**Evidence for multiple nucleosynthetic processes from carbon enhanced metal-poor stars in the Carina dwarf spheroidal galaxy**|T. T. Hansen et.al.|[2305.02316v1](http://arxiv.org/abs/2305.02316v1)|[2305.02316v1](http://arxiv.org/pdf/2305.02316v1)|null|
@@ -2193,6 +2203,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-04**|**Tracking through Containers and Occluders in the Wild**|Basile Van Hoorick et.al.|[2305.03052v1](http://arxiv.org/abs/2305.03052v1)|[2305.03052v1](http://arxiv.org/pdf/2305.03052v1)|null|
+|**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|[2305.03048v1](http://arxiv.org/pdf/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
+|**2023-05-04**|**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**|Zhiqing Sun et.al.|[2305.03047v1](http://arxiv.org/abs/2305.03047v1)|[2305.03047v1](http://arxiv.org/pdf/2305.03047v1)|null|
+|**2023-05-04**|**Learning Hand-Held Object Reconstruction from In-The-Wild Videos**|Aditya Prakash et.al.|[2305.03036v1](http://arxiv.org/abs/2305.03036v1)|[2305.03036v1](http://arxiv.org/pdf/2305.03036v1)|null|
+|**2023-05-04**|**What changes when you randomly choose BPE merge operations? Not much**|Jonne Sälevä et.al.|[2305.03029v1](http://arxiv.org/abs/2305.03029v1)|[2305.03029v1](http://arxiv.org/pdf/2305.03029v1)|null|
+|**2023-05-04**|**Panda LLM: Training Data and Evaluation for Open-Sourced Chinese Instruction-Following Large Language Models**|Fangkai Jiao et.al.|[2305.03025v1](http://arxiv.org/abs/2305.03025v1)|[2305.03025v1](http://arxiv.org/pdf/2305.03025v1)|**[link](https://github.com/dandelionsllm/pandallm)**|
+|**2023-05-04**|**Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study**|Sajjad Rahmani et.al.|[2305.03017v1](http://arxiv.org/abs/2305.03017v1)|[2305.03017v1](http://arxiv.org/pdf/2305.03017v1)|null|
+|**2023-05-04**|**Evaluating Post-hoc Interpretability with Intrinsic Interpretability**|José Pereira Amorim et.al.|[2305.03002v1](http://arxiv.org/abs/2305.03002v1)|[2305.03002v1](http://arxiv.org/pdf/2305.03002v1)|null|
+|**2023-05-04**|**When Do Neural Nets Outperform Boosted Trees on Tabular Data?**|Duncan McElfresh et.al.|[2305.02997v1](http://arxiv.org/abs/2305.02997v1)|[2305.02997v1](http://arxiv.org/pdf/2305.02997v1)|**[link](https://github.com/naszilla/naszilla)**|
+|**2023-05-04**|**On the nonlinear correlation of ML performance between data subpopulations**|Weixin Liang et.al.|[2305.02995v1](http://arxiv.org/abs/2305.02995v1)|[2305.02995v1](http://arxiv.org/pdf/2305.02995v1)|null|
 |**2023-05-03**|**Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden**|Karen Zhou et.al.|[2305.02321v1](http://arxiv.org/abs/2305.02321v1)|[2305.02321v1](http://arxiv.org/pdf/2305.02321v1)|null|
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|[2305.02310v1](http://arxiv.org/pdf/2305.02310v1)|null|
 |**2023-05-03**|**Fashionpedia-Taste: A Dataset towards Explaining Human Fashion Taste**|Mengyun Shi et.al.|[2305.02307v1](http://arxiv.org/abs/2305.02307v1)|[2305.02307v1](http://arxiv.org/pdf/2305.02307v1)|null|
