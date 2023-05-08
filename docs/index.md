@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-05**|**Ionised gas outflows over the radio AGN life cycle**|Pranav Kukreti et.al.|[2305.03725v1](http://arxiv.org/abs/2305.03725v1)|[2305.03725v1](http://arxiv.org/pdf/2305.03725v1)|null|
+|**2023-05-05**|**Single and multi-charmed hadrons from Coalescence: yields and ratios along the system size scan at future LHC**|Vincenzo Minissale et.al.|[2305.03687v1](http://arxiv.org/abs/2305.03687v1)|[2305.03687v1](http://arxiv.org/pdf/2305.03687v1)|null|
+|**2023-05-05**|**Beam displacement tolerances on a segmented mirror for higher-order Hermite-Gauss modes**|Liu Tao et.al.|[2305.03681v1](http://arxiv.org/abs/2305.03681v1)|[2305.03681v1](http://arxiv.org/pdf/2305.03681v1)|null|
+|**2023-05-05**|**Peering into the central region of a nano-quasar: XMM-Newton and Chandra views of the CH Cyg Symbiotic System**|J. A. Toalá et.al.|[2305.03679v1](http://arxiv.org/abs/2305.03679v1)|[2305.03679v1](http://arxiv.org/pdf/2305.03679v1)|null|
+|**2023-05-05**|**Present and future constraints on flavor-dependent long-range interactions of high-energy astrophysical neutrinos**|Sanjib Kumar Agarwalla et.al.|[2305.03675v1](http://arxiv.org/abs/2305.03675v1)|[2305.03675v1](http://arxiv.org/pdf/2305.03675v1)|null|
+|**2023-05-05**|**Tilt-to-length coupling in LISA Pathfinder: analytical modelling**|Marie-Sophie Hartig et.al.|[2305.03667v1](http://arxiv.org/abs/2305.03667v1)|[2305.03667v1](http://arxiv.org/pdf/2305.03667v1)|null|
+|**2023-05-05**|**Model-consistent study of level densities and $γ$-strength functions for $r$-process simulations**|Francesco Pogliano et.al.|[2305.03664v1](http://arxiv.org/abs/2305.03664v1)|[2305.03664v1](http://arxiv.org/pdf/2305.03664v1)|null|
+|**2023-05-05**|**The role of the drag force in the gravitational stability of dusty planet-forming disc -- II. Numerical simulations**|Cristiano Longarini et.al.|[2305.03659v1](http://arxiv.org/abs/2305.03659v1)|[2305.03659v1](http://arxiv.org/pdf/2305.03659v1)|null|
+|**2023-05-05**|**Misalignment and mode mismatch error signals for higher-order Hermite-Gauss modes from two sensing schemes**|Liu Tao et.al.|[2305.03658v1](http://arxiv.org/abs/2305.03658v1)|[2305.03658v1](http://arxiv.org/pdf/2305.03658v1)|null|
+|**2023-05-05**|**The impact of HII regions on Giant Molecular Cloud properties in nearby galaxies sampled by PHANGS ALMA and MUSE**|Antoine Zakardjian et.al.|[2305.03650v1](http://arxiv.org/abs/2305.03650v1)|[2305.03650v1](http://arxiv.org/pdf/2305.03650v1)|null|
 |**2023-05-04**|**Multi-Image X-ray Interferometer Module: I. design concept and proof-of-concept experiments with fine-pitch slits**|Kazunori Asakura et.al.|[2305.03050v1](http://arxiv.org/abs/2305.03050v1)|[2305.03050v1](http://arxiv.org/pdf/2305.03050v1)|null|
 |**2023-05-04**|**JWST NIRSpec spectroscopy of the triply-lensed $z = 10.17$ galaxy MACS0647$-$JD**|Tiger Yu-Yang Hsiao et.al.|[2305.03042v1](http://arxiv.org/abs/2305.03042v1)|[2305.03042v1](http://arxiv.org/pdf/2305.03042v1)|**[link](https://github.com/cosmic-spring/macs0647-jd-nirspec)**|
 |**2023-05-04**|**M92 (NGC~6341) Is a Metal-Complex Globular Cluster with an Atypical Primordial Population**|Jae-Woo Lee et.al.|[2305.02983v1](http://arxiv.org/abs/2305.02983v1)|[2305.02983v1](http://arxiv.org/pdf/2305.02983v1)|null|
@@ -2203,6 +2213,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-05**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Man et.al.|[2305.03724v1](http://arxiv.org/abs/2305.03724v1)|[2305.03724v1](http://arxiv.org/pdf/2305.03724v1)|null|
+|**2023-05-05**|**LMEye: An Interactive Perception Network for Large Language Models**|Yunxin Li et.al.|[2305.03701v1](http://arxiv.org/abs/2305.03701v1)|[2305.03701v1](http://arxiv.org/pdf/2305.03701v1)|null|
+|**2023-05-05**|**Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements**|Jiacheng Liu et.al.|[2305.03695v1](http://arxiv.org/abs/2305.03695v1)|[2305.03695v1](http://arxiv.org/pdf/2305.03695v1)|null|
+|**2023-05-05**|**Mining bias-target Alignment from Voronoi Cells**|Rémi Nahon et.al.|[2305.03691v1](http://arxiv.org/abs/2305.03691v1)|[2305.03691v1](http://arxiv.org/pdf/2305.03691v1)|**[link](https://github.com/renahon/mining_bias_target_alignment_from_voronoi_cells)**|
+|**2023-05-05**|**Causal Discovery with Stage Variables for Health Time Series**|Bharat Srikishan et.al.|[2305.03662v1](http://arxiv.org/abs/2305.03662v1)|[2305.03662v1](http://arxiv.org/pdf/2305.03662v1)|null|
+|**2023-05-05**|**Predicting COVID-19 and pneumonia complications from admission texts**|Dmitriy Umerenkov et.al.|[2305.03661v1](http://arxiv.org/abs/2305.03661v1)|[2305.03661v1](http://arxiv.org/pdf/2305.03661v1)|null|
+|**2023-05-05**|**Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT models**|Mercy Ranjit et.al.|[2305.03660v1](http://arxiv.org/abs/2305.03660v1)|[2305.03660v1](http://arxiv.org/pdf/2305.03660v1)|null|
+|**2023-05-05**|**Improving LaCAM for Scalable Eventually Optimal Multi-Agent Pathfinding**|Keisuke Okumura et.al.|[2305.03632v1](http://arxiv.org/abs/2305.03632v1)|[2305.03632v1](http://arxiv.org/pdf/2305.03632v1)|null|
+|**2023-05-05**|**Initial Steps Towards Tackling High-dimensional Surrogate Modeling for Neuroevolution Using Kriging Partial Least Squares**|Fergal Stapleton et.al.|[2305.03612v1](http://arxiv.org/abs/2305.03612v1)|[2305.03612v1](http://arxiv.org/pdf/2305.03612v1)|null|
+|**2023-05-05**|**Data Curation for Image Captioning with Text-to-Image Generative Models**|Wenyan Li et.al.|[2305.03610v1](http://arxiv.org/abs/2305.03610v1)|[2305.03610v1](http://arxiv.org/pdf/2305.03610v1)|null|
 |**2023-05-04**|**Tracking through Containers and Occluders in the Wild**|Basile Van Hoorick et.al.|[2305.03052v1](http://arxiv.org/abs/2305.03052v1)|[2305.03052v1](http://arxiv.org/pdf/2305.03052v1)|null|
 |**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|[2305.03048v1](http://arxiv.org/pdf/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
 |**2023-05-04**|**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**|Zhiqing Sun et.al.|[2305.03047v1](http://arxiv.org/abs/2305.03047v1)|[2305.03047v1](http://arxiv.org/pdf/2305.03047v1)|null|
