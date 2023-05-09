@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-08**|**Primordial black holes from strong first-order phase transitions**|Marek Lewicki et.al.|[2305.04924v1](http://arxiv.org/abs/2305.04924v1)|[2305.04924v1](http://arxiv.org/pdf/2305.04924v1)|null|
+|**2023-05-08**|**An unusually low-density super-Earth transiting the bright early-type M-dwarf GJ 1018 (TOI-244)**|A. Castro-González et.al.|[2305.04922v1](http://arxiv.org/abs/2305.04922v1)|[2305.04922v1](http://arxiv.org/pdf/2305.04922v1)|null|
+|**2023-05-08**|**Neutrino many-body correlations**|Lucas Johns et.al.|[2305.04916v1](http://arxiv.org/abs/2305.04916v1)|[2305.04916v1](http://arxiv.org/pdf/2305.04916v1)|null|
+|**2023-05-08**|**Origins of Life on Exoplanets**|Paul B. Rimmer et.al.|[2305.04911v1](http://arxiv.org/abs/2305.04911v1)|[2305.04911v1](http://arxiv.org/pdf/2305.04911v1)|null|
+|**2023-05-08**|**On the nature of the planet-powered transient event ZTF SLRN-2020**|Noam Soker et.al.|[2305.04909v1](http://arxiv.org/abs/2305.04909v1)|[2305.04909v1](http://arxiv.org/pdf/2305.04909v1)|null|
+|**2023-05-08**|**Magnetic Fields of New CP Stars Discovered with Kepler Mission Data**|I. A. Yakunin et.al.|[2305.04898v1](http://arxiv.org/abs/2305.04898v1)|[2305.04898v1](http://arxiv.org/pdf/2305.04898v1)|null|
+|**2023-05-08**|**The hazardous km-sized NEOs of the next thousands of years**|Oscar Fuentes-Muñoz et.al.|[2305.04896v1](http://arxiv.org/abs/2305.04896v1)|[2305.04896v1](http://arxiv.org/pdf/2305.04896v1)|null|
+|**2023-05-08**|**The Increasingly Strange Polarimetric Behavior of the Barbarian Asteroids**|Joseph R. Masiero et.al.|[2305.04880v1](http://arxiv.org/abs/2305.04880v1)|[2305.04880v1](http://arxiv.org/pdf/2305.04880v1)|null|
+|**2023-05-08**|**Magnetically Threaded Thin Disks in the Presence of the Quadrupole Magnetic Field**|Sercan Çıkıntoğlu et.al.|[2305.04849v1](http://arxiv.org/abs/2305.04849v1)|[2305.04849v1](http://arxiv.org/pdf/2305.04849v1)|null|
+|**2023-05-08**|**Gas Sources from the Coma and Nucleus of Comet 46P/Wirtanen Observed Using ALMA**|M. A. Cordiner et.al.|[2305.04822v1](http://arxiv.org/abs/2305.04822v1)|[2305.04822v1](http://arxiv.org/pdf/2305.04822v1)|null|
 |**2023-05-05**|**Ionised gas outflows over the radio AGN life cycle**|Pranav Kukreti et.al.|[2305.03725v1](http://arxiv.org/abs/2305.03725v1)|[2305.03725v1](http://arxiv.org/pdf/2305.03725v1)|null|
 |**2023-05-05**|**Single and multi-charmed hadrons from Coalescence: yields and ratios along the system size scan at future LHC**|Vincenzo Minissale et.al.|[2305.03687v1](http://arxiv.org/abs/2305.03687v1)|[2305.03687v1](http://arxiv.org/pdf/2305.03687v1)|null|
 |**2023-05-05**|**Beam displacement tolerances on a segmented mirror for higher-order Hermite-Gauss modes**|Liu Tao et.al.|[2305.03681v1](http://arxiv.org/abs/2305.03681v1)|[2305.03681v1](http://arxiv.org/pdf/2305.03681v1)|null|
@@ -2209,6 +2219,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-08**|**Learning to Evaluate the Artness of AI-generated Images**|Junyu Chen et.al.|[2305.04923v1](http://arxiv.org/abs/2305.04923v1)|[2305.04923v1](http://arxiv.org/pdf/2305.04923v1)|null|
+|**2023-05-08**|**Combinatorial Topological Models for Phylogenetic Reconstruction Networks and the Mergegram Invariant**|Pawel Dlotko et.al.|[2305.04860v1](http://arxiv.org/abs/2305.04860v1)|[2305.04860v1](http://arxiv.org/pdf/2305.04860v1)|null|
+|**2023-05-08**|**A Frustratingly Easy Improvement for Position Embeddings via Random Padding**|Mingxu Tao et.al.|[2305.04859v1](http://arxiv.org/abs/2305.04859v1)|[2305.04859v1](http://arxiv.org/pdf/2305.04859v1)|null|
+|**2023-05-08**|**The Current State of Summarization**|Fabian Retkowski et.al.|[2305.04853v1](http://arxiv.org/abs/2305.04853v1)|[2305.04853v1](http://arxiv.org/pdf/2305.04853v1)|null|
+|**2023-05-08**|**How Do In-Context Examples Affect Compositional Generalization?**|Shengnan An et.al.|[2305.04835v1](http://arxiv.org/abs/2305.04835v1)|[2305.04835v1](http://arxiv.org/pdf/2305.04835v1)|null|
+|**2023-05-08**|**Proof of principle for a self-governing prediction and forecasting reward algorithm**|J. O. Gonzalez-Hernandez et.al.|[2305.04814v1](http://arxiv.org/abs/2305.04814v1)|[2305.04814v1](http://arxiv.org/pdf/2305.04814v1)|null|
+|**2023-05-08**|**A Drop of Ink may Make a Million Think: The Spread of False Information in Large Language Models**|Ning Bian et.al.|[2305.04812v1](http://arxiv.org/abs/2305.04812v1)|[2305.04812v1](http://arxiv.org/pdf/2305.04812v1)|null|
+|**2023-05-08**|**Mlinear: Rethink the Linear Model for Time-series Forecasting**|Jianing Chen et.al.|[2305.04800v1](http://arxiv.org/abs/2305.04800v1)|[2305.04800v1](http://arxiv.org/pdf/2305.04800v1)|null|
+|**2023-05-08**|**HistAlign: Improving Context Dependency in Language Generation by Aligning with History**|David Wan et.al.|[2305.04782v1](http://arxiv.org/abs/2305.04782v1)|[2305.04782v1](http://arxiv.org/pdf/2305.04782v1)|**[link](https://github.com/meetdavidwan/histalign)**|
+|**2023-05-08**|**Augmented Large Language Models with Parametric Knowledge Guiding**|Ziyang Luo et.al.|[2305.04757v1](http://arxiv.org/abs/2305.04757v1)|[2305.04757v1](http://arxiv.org/pdf/2305.04757v1)|null|
 |**2023-05-05**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Man et.al.|[2305.03724v1](http://arxiv.org/abs/2305.03724v1)|[2305.03724v1](http://arxiv.org/pdf/2305.03724v1)|null|
 |**2023-05-05**|**LMEye: An Interactive Perception Network for Large Language Models**|Yunxin Li et.al.|[2305.03701v1](http://arxiv.org/abs/2305.03701v1)|[2305.03701v1](http://arxiv.org/pdf/2305.03701v1)|null|
 |**2023-05-05**|**Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements**|Jiacheng Liu et.al.|[2305.03695v1](http://arxiv.org/abs/2305.03695v1)|[2305.03695v1](http://arxiv.org/pdf/2305.03695v1)|null|
