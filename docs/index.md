@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-09**|**New MGCAMB tests of gravity with CosmoMC and Cobaya**|Zhuangfei Wang et.al.|[2305.05667v1](http://arxiv.org/abs/2305.05667v1)|[2305.05667v1](http://arxiv.org/pdf/2305.05667v1)|null|
+|**2023-05-09**|**R-modes as a New Probe of Dark Matter in Neutron Stars**|Swarnim Shirke et.al.|[2305.05664v1](http://arxiv.org/abs/2305.05664v1)|[2305.05664v1](http://arxiv.org/pdf/2305.05664v1)|null|
+|**2023-05-09**|**Measuring Dust Attenuation Curves of SINGS/KINGFISH Galaxies Using Swift/UVOT Photometry**|Alexander Belles et.al.|[2305.05650v1](http://arxiv.org/abs/2305.05650v1)|[2305.05650v1](http://arxiv.org/pdf/2305.05650v1)|null|
+|**2023-05-09**|**Research on access, use and effective exploration of astronomical observational and bibliographical data from sonification**|Johanna Casado et.al.|[2305.05635v1](http://arxiv.org/abs/2305.05635v1)|[2305.05635v1](http://arxiv.org/pdf/2305.05635v1)|null|
+|**2023-05-09**|**Performance of the low-latency GstLAL inspiral search towards LIGO, Virgo, and KAGRA's fourth observing run**|Becca Ewing et.al.|[2305.05625v1](http://arxiv.org/abs/2305.05625v1)|[2305.05625v1](http://arxiv.org/pdf/2305.05625v1)|null|
+|**2023-05-09**|**The Dragonfly Galaxy. III. Jet-brightening of a High-redshift Radio Source Caught in a Violent Merger of Disk Galaxies**|Sophie Lebowitz et.al.|[2305.05564v1](http://arxiv.org/abs/2305.05564v1)|[2305.05564v1](http://arxiv.org/pdf/2305.05564v1)|null|
+|**2023-05-09**|**Inflationary Attractors Predictions for Static Neutron Stars in the Mass-Gap Region**|S. D. Odintsov et.al.|[2305.05515v1](http://arxiv.org/abs/2305.05515v1)|[2305.05515v1](http://arxiv.org/pdf/2305.05515v1)|null|
+|**2023-05-09**|**Understanding Sun-as-a-star variability of solar Balmer lines**|Serena Criscuoli et.al.|[2305.05510v1](http://arxiv.org/abs/2305.05510v1)|[2305.05510v1](http://arxiv.org/pdf/2305.05510v1)|null|
+|**2023-05-09**|**HSC-CLAUDS survey: The star formation rate functions since z ~ 2 and comparison with hydrodynamical simulations**|V. Picouet et.al.|[2305.05504v1](http://arxiv.org/abs/2305.05504v1)|[2305.05504v1](http://arxiv.org/pdf/2305.05504v1)|null|
+|**2023-05-09**|**Bayesian radio interferometric imaging with direction-dependent calibration**|Jakob Roth et.al.|[2305.05489v1](http://arxiv.org/abs/2305.05489v1)|[2305.05489v1](http://arxiv.org/pdf/2305.05489v1)|null|
 |**2023-05-08**|**Primordial black holes from strong first-order phase transitions**|Marek Lewicki et.al.|[2305.04924v1](http://arxiv.org/abs/2305.04924v1)|[2305.04924v1](http://arxiv.org/pdf/2305.04924v1)|null|
 |**2023-05-08**|**An unusually low-density super-Earth transiting the bright early-type M-dwarf GJ 1018 (TOI-244)**|A. Castro-González et.al.|[2305.04922v1](http://arxiv.org/abs/2305.04922v1)|[2305.04922v1](http://arxiv.org/pdf/2305.04922v1)|null|
 |**2023-05-08**|**Neutrino many-body correlations**|Lucas Johns et.al.|[2305.04916v1](http://arxiv.org/abs/2305.04916v1)|[2305.04916v1](http://arxiv.org/pdf/2305.04916v1)|null|
@@ -2223,6 +2233,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-09**|**Policy Gradient Methods in the Presence of Symmetries and State Abstractions**|Prakash Panangaden et.al.|[2305.05666v1](http://arxiv.org/abs/2305.05666v1)|[2305.05666v1](http://arxiv.org/pdf/2305.05666v1)|null|
+|**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|[2305.05665v1](http://arxiv.org/pdf/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|
+|**2023-05-09**|**ShapeCoder: Discovering Abstractions for Visual Programs from Unstructured Primitives**|R. Kenny Jones et.al.|[2305.05661v1](http://arxiv.org/abs/2305.05661v1)|[2305.05661v1](http://arxiv.org/pdf/2305.05661v1)|**[link](https://github.com/rkjones4/shapecoder)**|
+|**2023-05-09**|**TidyBot: Personalized Robot Assistance with Large Language Models**|Jimmy Wu et.al.|[2305.05658v1](http://arxiv.org/abs/2305.05658v1)|[2305.05658v1](http://arxiv.org/pdf/2305.05658v1)|null|
+|**2023-05-09**|**Could AI be the Great Filter? What Astrobiology can Teach the Intelligence Community about Anthropogenic Risks**|Mark M. Bailey et.al.|[2305.05653v1](http://arxiv.org/abs/2305.05653v1)|[2305.05653v1](http://arxiv.org/pdf/2305.05653v1)|null|
+|**2023-05-09**|**Predicting Cardiovascular Disease Risk using Photoplethysmography and Deep Learning**|Wei-Hung Weng et.al.|[2305.05648v1](http://arxiv.org/abs/2305.05648v1)|[2305.05648v1](http://arxiv.org/pdf/2305.05648v1)|null|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v1](http://arxiv.org/abs/2305.05640v1)|[2305.05640v1](http://arxiv.org/pdf/2305.05640v1)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**The Case Records of ChatGPT: Language Models and Complex Clinical Questions**|Timothy Poterucha et.al.|[2305.05609v1](http://arxiv.org/abs/2305.05609v1)|[2305.05609v1](http://arxiv.org/pdf/2305.05609v1)|null|
+|**2023-05-09**|**"Alexa doesn't have that many feelings": Children's understanding of AI through interactions with smart speakers in their homes**|Valentina Andries et.al.|[2305.05597v1](http://arxiv.org/abs/2305.05597v1)|[2305.05597v1](http://arxiv.org/pdf/2305.05597v1)|null|
+|**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594v1](http://arxiv.org/abs/2305.05594v1)|[2305.05594v1](http://arxiv.org/pdf/2305.05594v1)|**[link](https://github.com/yiqun-wang/pet-neus)**|
 |**2023-05-08**|**Learning to Evaluate the Artness of AI-generated Images**|Junyu Chen et.al.|[2305.04923v1](http://arxiv.org/abs/2305.04923v1)|[2305.04923v1](http://arxiv.org/pdf/2305.04923v1)|null|
 |**2023-05-08**|**Combinatorial Topological Models for Phylogenetic Reconstruction Networks and the Mergegram Invariant**|Pawel Dlotko et.al.|[2305.04860v1](http://arxiv.org/abs/2305.04860v1)|[2305.04860v1](http://arxiv.org/pdf/2305.04860v1)|null|
 |**2023-05-08**|**A Frustratingly Easy Improvement for Position Embeddings via Random Padding**|Mingxu Tao et.al.|[2305.04859v1](http://arxiv.org/abs/2305.04859v1)|[2305.04859v1](http://arxiv.org/pdf/2305.04859v1)|null|
