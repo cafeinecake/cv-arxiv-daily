@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-10**|**On the degeneracies between baryons, massive neutrinos and f(R) gravity in Stage IV cosmic shear analyses**|A. Spurio Mancini et.al.|[2305.06350v1](http://arxiv.org/abs/2305.06350v1)|[2305.06350v1](http://arxiv.org/pdf/2305.06350v1)|null|
+|**2023-05-10**|**CosmoPower-JAX: high-dimensional Bayesian inference with differentiable cosmological emulators**|D. Piras et.al.|[2305.06347v1](http://arxiv.org/abs/2305.06347v1)|[2305.06347v1](http://arxiv.org/pdf/2305.06347v1)|**[link](https://github.com/dpiras/cosmopower-jax)**|
+|**2023-05-10**|**3D evolution of neutron star magnetic-fields from a realistic core-collapse turbulent topology**|Clara Dehman et.al.|[2305.06342v1](http://arxiv.org/abs/2305.06342v1)|[2305.06342v1](http://arxiv.org/pdf/2305.06342v1)|null|
+|**2023-05-10**|**A Foreground-Immune CMB-Cluster Lensing Estimator**|Kevin Levy et.al.|[2305.06326v1](http://arxiv.org/abs/2305.06326v1)|[2305.06326v1](http://arxiv.org/pdf/2305.06326v1)|null|
+|**2023-05-10**|**Scale invariant curvature perturbations from a spontaneously decaying scalar field**|Richard Lieu et.al.|[2305.06320v1](http://arxiv.org/abs/2305.06320v1)|[2305.06320v1](http://arxiv.org/pdf/2305.06320v1)|null|
+|**2023-05-10**|**ALMA 1.1mm Observations of a Conservative Sample of High Redshift Massive Quiescent Galaxies in SHELA**|Katherine Chworowsky et.al.|[2305.06309v1](http://arxiv.org/abs/2305.06309v1)|[2305.06309v1](http://arxiv.org/pdf/2305.06309v1)|null|
+|**2023-05-10**|**Improved ranking statistics of the GstLAL inspiral search for compact binary coalescences**|Leo Tsukada et.al.|[2305.06286v1](http://arxiv.org/abs/2305.06286v1)|[2305.06286v1](http://arxiv.org/pdf/2305.06286v1)|null|
+|**2023-05-10**|**Unpacking merger jets: a Bayesian analysis of GW170817, GW190425 and electromagnetic observations of short gamma-ray bursts**|Fergus Hayes et.al.|[2305.06275v1](http://arxiv.org/abs/2305.06275v1)|[2305.06275v1](http://arxiv.org/pdf/2305.06275v1)|null|
+|**2023-05-10**|**Jet-powered turbulence in common envelope evolution**|Shlomi Hillel et.al.|[2305.06266v1](http://arxiv.org/abs/2305.06266v1)|[2305.06266v1](http://arxiv.org/pdf/2305.06266v1)|null|
+|**2023-05-10**|**DMPP-3: confirmation of short-period S-type planet(s) in a compact eccentric binary star system, and warnings about long-period RV planet detections**|Adam T. Stevenson et.al.|[2305.06263v1](http://arxiv.org/abs/2305.06263v1)|[2305.06263v1](http://arxiv.org/pdf/2305.06263v1)|null|
 |**2023-05-09**|**New MGCAMB tests of gravity with CosmoMC and Cobaya**|Zhuangfei Wang et.al.|[2305.05667v1](http://arxiv.org/abs/2305.05667v1)|[2305.05667v1](http://arxiv.org/pdf/2305.05667v1)|null|
 |**2023-05-09**|**R-modes as a New Probe of Dark Matter in Neutron Stars**|Swarnim Shirke et.al.|[2305.05664v1](http://arxiv.org/abs/2305.05664v1)|[2305.05664v1](http://arxiv.org/pdf/2305.05664v1)|null|
 |**2023-05-09**|**Measuring Dust Attenuation Curves of SINGS/KINGFISH Galaxies Using Swift/UVOT Photometry**|Alexander Belles et.al.|[2305.05650v1](http://arxiv.org/abs/2305.05650v1)|[2305.05650v1](http://arxiv.org/pdf/2305.05650v1)|null|
@@ -2229,6 +2239,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|[2305.06349v1](http://arxiv.org/pdf/2305.06349v1)|null|
+|**2023-05-10**|**Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**|Hassan Akbari et.al.|[2305.06324v1](http://arxiv.org/abs/2305.06324v1)|[2305.06324v1](http://arxiv.org/pdf/2305.06324v1)|null|
+|**2023-05-10**|**Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks**|Olaf Wysocki et.al.|[2305.06314v1](http://arxiv.org/abs/2305.06314v1)|[2305.06314v1](http://arxiv.org/pdf/2305.06314v1)|null|
+|**2023-05-10**|**Self-Supervised Instance Segmentation by Grasping**|YuXuan Liu et.al.|[2305.06305v1](http://arxiv.org/abs/2305.06305v1)|[2305.06305v1](http://arxiv.org/pdf/2305.06305v1)|null|
+|**2023-05-10**|**Why Don't You Do Something About It? Outlining Connections between AI Explanations and User Actions**|Gennie Mansi et.al.|[2305.06297v1](http://arxiv.org/abs/2305.06297v1)|[2305.06297v1](http://arxiv.org/pdf/2305.06297v1)|null|
+|**2023-05-10**|**Explainable Knowledge Distillation for On-device Chest X-Ray Classification**|Chakkrit Termritthikun et.al.|[2305.06244v1](http://arxiv.org/abs/2305.06244v1)|[2305.06244v1](http://arxiv.org/pdf/2305.06244v1)|null|
+|**2023-05-10**|**Radious: Unveiling the Enigma of Dental Radiology with BEIT Adaptor and Mask2Former in Semantic Segmentation**|Mohammad Mashayekhi et.al.|[2305.06236v1](http://arxiv.org/abs/2305.06236v1)|[2305.06236v1](http://arxiv.org/pdf/2305.06236v1)|null|
+|**2023-05-10**|**Enabling Technologies for Programmable and Software-Defined Networks: Bolstering the Path Towards 6G**|David Carrascal et.al.|[2305.06228v1](http://arxiv.org/abs/2305.06228v1)|[2305.06228v1](http://arxiv.org/pdf/2305.06228v1)|null|
+|**2023-05-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225v1](http://arxiv.org/abs/2305.06225v1)|[2305.06225v1](http://arxiv.org/pdf/2305.06225v1)|**[link](https://github.com/harlanhong/cvpr2022-dagan)**|
+|**2023-05-10**|**Multi-Prompt with Depth Partitioned Cross-Modal Learning**|Yiqi Wang et.al.|[2305.06221v1](http://arxiv.org/abs/2305.06221v1)|[2305.06221v1](http://arxiv.org/pdf/2305.06221v1)|**[link](https://github.com/wangyiqi/pmpo)**|
 |**2023-05-09**|**Policy Gradient Methods in the Presence of Symmetries and State Abstractions**|Prakash Panangaden et.al.|[2305.05666v1](http://arxiv.org/abs/2305.05666v1)|[2305.05666v1](http://arxiv.org/pdf/2305.05666v1)|null|
 |**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|[2305.05665v1](http://arxiv.org/pdf/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|
 |**2023-05-09**|**ShapeCoder: Discovering Abstractions for Visual Programs from Unstructured Primitives**|R. Kenny Jones et.al.|[2305.05661v1](http://arxiv.org/abs/2305.05661v1)|[2305.05661v1](http://arxiv.org/pdf/2305.05661v1)|**[link](https://github.com/rkjones4/shapecoder)**|
