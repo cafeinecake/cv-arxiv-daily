@@ -1,4 +1,4 @@
-> Updated on 2023.05.11
+> Updated on 2023.05.12
 
 ## Astrophysics
 
@@ -9,7 +9,7 @@
 - 2023-05-10, **Scale invariant curvature perturbations from a spontaneously decaying scalar field**, Richard Lieu et.al., Paper: [http://arxiv.org/abs/2305.06320v1](http://arxiv.org/abs/2305.06320v1), Paper: [http://arxiv.org/abs/2305.06320v1](http://arxiv.org/pdf/2305.06320v1)
 - 2023-05-10, **ALMA 1.1mm Observations of a Conservative Sample of High Redshift Massive Quiescent Galaxies in SHELA**, Katherine Chworowsky et.al., Paper: [http://arxiv.org/abs/2305.06309v1](http://arxiv.org/abs/2305.06309v1), Paper: [http://arxiv.org/abs/2305.06309v1](http://arxiv.org/pdf/2305.06309v1)
 - 2023-05-10, **Improved ranking statistics of the GstLAL inspiral search for compact binary coalescences**, Leo Tsukada et.al., Paper: [http://arxiv.org/abs/2305.06286v1](http://arxiv.org/abs/2305.06286v1), Paper: [http://arxiv.org/abs/2305.06286v1](http://arxiv.org/pdf/2305.06286v1)
-- 2023-05-10, **Unpacking merger jets: a Bayesian analysis of GW170817, GW190425 and electromagnetic observations of short gamma-ray bursts**, Fergus Hayes et.al., Paper: [http://arxiv.org/abs/2305.06275v1](http://arxiv.org/abs/2305.06275v1), Paper: [http://arxiv.org/abs/2305.06275v1](http://arxiv.org/pdf/2305.06275v1)
+- 2023-05-11, **Unpacking merger jets: a Bayesian analysis of GW170817, GW190425 and electromagnetic observations of short gamma-ray bursts**, Fergus Hayes et.al., Paper: [http://arxiv.org/abs/2305.06275v2](http://arxiv.org/abs/2305.06275v2), Paper: [http://arxiv.org/abs/2305.06275v2](http://arxiv.org/pdf/2305.06275v2)
 - 2023-05-10, **Jet-powered turbulence in common envelope evolution**, Shlomi Hillel et.al., Paper: [http://arxiv.org/abs/2305.06266v1](http://arxiv.org/abs/2305.06266v1), Paper: [http://arxiv.org/abs/2305.06266v1](http://arxiv.org/pdf/2305.06266v1)
 - 2023-05-10, **DMPP-3: confirmation of short-period S-type planet(s) in a compact eccentric binary star system, and warnings about long-period RV planet detections**, Adam T. Stevenson et.al., Paper: [http://arxiv.org/abs/2305.06263v1](http://arxiv.org/abs/2305.06263v1), Paper: [http://arxiv.org/abs/2305.06263v1](http://arxiv.org/pdf/2305.06263v1)
 - 2023-05-09, **New MGCAMB tests of gravity with CosmoMC and Cobaya**, Zhuangfei Wang et.al., Paper: [http://arxiv.org/abs/2305.05667v1](http://arxiv.org/abs/2305.05667v1), Paper: [http://arxiv.org/abs/2305.05667v1](http://arxiv.org/pdf/2305.05667v1)
