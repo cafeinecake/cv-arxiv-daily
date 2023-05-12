@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-11**|**Measuring the Variance of the Macquart Relation in z-DM Modeling**|Jay Baptista et.al.|[2305.07022v1](http://arxiv.org/abs/2305.07022v1)|[2305.07022v1](http://arxiv.org/pdf/2305.07022v1)|null|
+|**2023-05-11**|**Improving constraints on primordial non-Gaussianity using neural network based reconstruction**|Thomas Flöss et.al.|[2305.07018v1](http://arxiv.org/abs/2305.07018v1)|[2305.07018v1](http://arxiv.org/pdf/2305.07018v1)|**[link](https://github.com/tsfloss/DensityFieldTools)**|
+|**2023-05-11**|**TOI-2498 b: A hot bloated super-Neptune within the Neptune desert**|Ginger Frame et.al.|[2305.06950v1](http://arxiv.org/abs/2305.06950v1)|[2305.06950v1](http://arxiv.org/pdf/2305.06950v1)|null|
+|**2023-05-11**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948v1](http://arxiv.org/abs/2305.06948v1)|[2305.06948v1](http://arxiv.org/pdf/2305.06948v1)|null|
+|**2023-05-11**|**XUV emission of the young planet-hosting star V1298\,Tau from coordinated observations with XMM-Newton and HST**|A. Maggio et.al.|[2305.06931v1](http://arxiv.org/abs/2305.06931v1)|[2305.06931v1](http://arxiv.org/pdf/2305.06931v1)|null|
+|**2023-05-11**|**New Evidence on the Origin of Solar Wind Microstreams/Switchbacks**|Pankaj Kumar et.al.|[2305.06914v1](http://arxiv.org/abs/2305.06914v1)|[2305.06914v1](http://arxiv.org/pdf/2305.06914v1)|null|
+|**2023-05-11**|**Rotation and interaction of the September 8 and 10, 2014 CMEs tested with EUHFORIA**|Anwesha Maharana et.al.|[2305.06881v1](http://arxiv.org/abs/2305.06881v1)|[2305.06881v1](http://arxiv.org/pdf/2305.06881v1)|null|
+|**2023-05-11**|**Determination of small-scale magnetic fields on Sun-like stars in the near-infrared using CRIRES$^+$**|A. Hahlin et.al.|[2305.06873v1](http://arxiv.org/abs/2305.06873v1)|[2305.06873v1](http://arxiv.org/pdf/2305.06873v1)|null|
+|**2023-05-11**|**Merger Conditions of Population III Protostar Binaries**|Takanobu Kirihara et.al.|[2305.06843v1](http://arxiv.org/abs/2305.06843v1)|[2305.06843v1](http://arxiv.org/pdf/2305.06843v1)|null|
+|**2023-05-11**|**Semi-Analytical Expression of G-Mode Period Spacing: The Case of Brunt-Väisälä Frequency with Not a Jump But a Ramp**|Yoshiki Hatta et.al.|[2305.06840v1](http://arxiv.org/abs/2305.06840v1)|[2305.06840v1](http://arxiv.org/pdf/2305.06840v1)|null|
 |**2023-05-10**|**On the degeneracies between baryons, massive neutrinos and f(R) gravity in Stage IV cosmic shear analyses**|A. Spurio Mancini et.al.|[2305.06350v1](http://arxiv.org/abs/2305.06350v1)|[2305.06350v1](http://arxiv.org/pdf/2305.06350v1)|null|
 |**2023-05-10**|**CosmoPower-JAX: high-dimensional Bayesian inference with differentiable cosmological emulators**|D. Piras et.al.|[2305.06347v1](http://arxiv.org/abs/2305.06347v1)|[2305.06347v1](http://arxiv.org/pdf/2305.06347v1)|**[link](https://github.com/dpiras/cosmopower-jax)**|
 |**2023-05-10**|**3D evolution of neutron star magnetic-fields from a realistic core-collapse turbulent topology**|Clara Dehman et.al.|[2305.06342v1](http://arxiv.org/abs/2305.06342v1)|[2305.06342v1](http://arxiv.org/pdf/2305.06342v1)|null|
@@ -2239,6 +2249,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-11**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kim et.al.|[2305.07011v1](http://arxiv.org/abs/2305.07011v1)|[2305.07011v1](http://arxiv.org/pdf/2305.07011v1)|null|
+|**2023-05-11**|**SMATCH++: Standardized and Extended Evaluation of Semantic Graphs**|Juri Opitz et.al.|[2305.06993v1](http://arxiv.org/abs/2305.06993v1)|[2305.06993v1](http://arxiv.org/pdf/2305.06993v1)|**[link](https://github.com/flipz357/smatchpp)**|
+|**2023-05-11**|**Self-Chained Image-Language Model for Video Localization and Question Answering**|Shoubin Yu et.al.|[2305.06988v1](http://arxiv.org/abs/2305.06988v1)|[2305.06988v1](http://arxiv.org/pdf/2305.06988v1)|**[link](https://github.com/yui010206/sevila)**|
+|**2023-05-11**|**Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation**|Ziyuan Zhao et.al.|[2305.06978v1](http://arxiv.org/abs/2305.06978v1)|[2305.06978v1](http://arxiv.org/pdf/2305.06978v1)|null|
+|**2023-05-11**|**Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns**|Julian Hazell et.al.|[2305.06972v1](http://arxiv.org/abs/2305.06972v1)|[2305.06972v1](http://arxiv.org/pdf/2305.06972v1)|null|
+|**2023-05-11**|**Data quality dimensions for fair AI**|Camilla Quaresmini et.al.|[2305.06967v1](http://arxiv.org/abs/2305.06967v1)|[2305.06967v1](http://arxiv.org/pdf/2305.06967v1)|**[link](https://github.com/Trusted-AI/AIF360)**|
+|**2023-05-11**|**FastDiagP: An Algorithm for Parallelized Direct Diagnosis**|Viet-Man Le et.al.|[2305.06951v1](http://arxiv.org/abs/2305.06951v1)|[2305.06951v1](http://arxiv.org/pdf/2305.06951v1)|null|
+|**2023-05-11**|**A Machine Learning Approach to Improving Timing Consistency between Global Route and Detailed Route**|Vidya A. Chhabria Wenjing Jiang Andrew B. Kahng Sachin S. Sapatnekar et.al.|[2305.06917v1](http://arxiv.org/abs/2305.06917v1)|[2305.06917v1](http://arxiv.org/pdf/2305.06917v1)|null|
+|**2023-05-11**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908v1](http://arxiv.org/abs/2305.06908v1)|[2305.06908v1](http://arxiv.org/pdf/2305.06908v1)|null|
+|**2023-05-11**|**AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages**|Odunayo Ogundepo et.al.|[2305.06897v1](http://arxiv.org/abs/2305.06897v1)|[2305.06897v1](http://arxiv.org/pdf/2305.06897v1)|**[link](https://github.com/masakhane-io/afriqa)**|
 |**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|[2305.06349v1](http://arxiv.org/pdf/2305.06349v1)|null|
 |**2023-05-10**|**Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**|Hassan Akbari et.al.|[2305.06324v1](http://arxiv.org/abs/2305.06324v1)|[2305.06324v1](http://arxiv.org/pdf/2305.06324v1)|null|
 |**2023-05-10**|**Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks**|Olaf Wysocki et.al.|[2305.06314v1](http://arxiv.org/abs/2305.06314v1)|[2305.06314v1](http://arxiv.org/pdf/2305.06314v1)|null|
