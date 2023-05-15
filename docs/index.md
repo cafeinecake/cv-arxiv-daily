@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@ layout: default
 |**2023-05-11**|**Measuring the Variance of the Macquart Relation in z-DM Modeling**|Jay Baptista et.al.|[2305.07022v1](http://arxiv.org/abs/2305.07022v1)|[2305.07022v1](http://arxiv.org/pdf/2305.07022v1)|null|
 |**2023-05-11**|**Improving constraints on primordial non-Gaussianity using neural network based reconstruction**|Thomas Flöss et.al.|[2305.07018v1](http://arxiv.org/abs/2305.07018v1)|[2305.07018v1](http://arxiv.org/pdf/2305.07018v1)|**[link](https://github.com/tsfloss/DensityFieldTools)**|
 |**2023-05-11**|**TOI-2498 b: A hot bloated super-Neptune within the Neptune desert**|Ginger Frame et.al.|[2305.06950v1](http://arxiv.org/abs/2305.06950v1)|[2305.06950v1](http://arxiv.org/pdf/2305.06950v1)|**[link](https://github.com/jorgefz/photoevolver)**|
-|**2023-05-11**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948v1](http://arxiv.org/abs/2305.06948v1)|[2305.06948v1](http://arxiv.org/pdf/2305.06948v1)|null|
+|**2023-05-12**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948v2](http://arxiv.org/abs/2305.06948v2)|[2305.06948v2](http://arxiv.org/pdf/2305.06948v2)|null|
 |**2023-05-11**|**XUV emission of the young planet-hosting star V1298\,Tau from coordinated observations with XMM-Newton and HST**|A. Maggio et.al.|[2305.06931v1](http://arxiv.org/abs/2305.06931v1)|[2305.06931v1](http://arxiv.org/pdf/2305.06931v1)|null|
 |**2023-05-11**|**New Evidence on the Origin of Solar Wind Microstreams/Switchbacks**|Pankaj Kumar et.al.|[2305.06914v1](http://arxiv.org/abs/2305.06914v1)|[2305.06914v1](http://arxiv.org/pdf/2305.06914v1)|null|
 |**2023-05-11**|**Rotation and interaction of the September 8 and 10, 2014 CMEs tested with EUHFORIA**|Anwesha Maharana et.al.|[2305.06881v1](http://arxiv.org/abs/2305.06881v1)|[2305.06881v1](http://arxiv.org/pdf/2305.06881v1)|null|
@@ -2257,7 +2257,7 @@ layout: default
 |**2023-05-11**|**SMATCH++: Standardized and Extended Evaluation of Semantic Graphs**|Juri Opitz et.al.|[2305.06993v1](http://arxiv.org/abs/2305.06993v1)|[2305.06993v1](http://arxiv.org/pdf/2305.06993v1)|**[link](https://github.com/flipz357/smatchpp)**|
 |**2023-05-11**|**Self-Chained Image-Language Model for Video Localization and Question Answering**|Shoubin Yu et.al.|[2305.06988v1](http://arxiv.org/abs/2305.06988v1)|[2305.06988v1](http://arxiv.org/pdf/2305.06988v1)|**[link](https://github.com/yui010206/sevila)**|
 |**2023-05-11**|**Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation**|Ziyuan Zhao et.al.|[2305.06978v1](http://arxiv.org/abs/2305.06978v1)|[2305.06978v1](http://arxiv.org/pdf/2305.06978v1)|null|
-|**2023-05-11**|**Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns**|Julian Hazell et.al.|[2305.06972v1](http://arxiv.org/abs/2305.06972v1)|[2305.06972v1](http://arxiv.org/pdf/2305.06972v1)|null|
+|**2023-05-12**|**Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns**|Julian Hazell et.al.|[2305.06972v2](http://arxiv.org/abs/2305.06972v2)|[2305.06972v2](http://arxiv.org/pdf/2305.06972v2)|null|
 |**2023-05-11**|**Data quality dimensions for fair AI**|Camilla Quaresmini et.al.|[2305.06967v1](http://arxiv.org/abs/2305.06967v1)|[2305.06967v1](http://arxiv.org/pdf/2305.06967v1)|**[link](https://github.com/Trusted-AI/AIF360)**|
 |**2023-05-11**|**FastDiagP: An Algorithm for Parallelized Direct Diagnosis**|Viet-Man Le et.al.|[2305.06951v1](http://arxiv.org/abs/2305.06951v1)|[2305.06951v1](http://arxiv.org/pdf/2305.06951v1)|**[link](https://github.com/AIG-ist-tugraz/FastDiagP)**|
 |**2023-05-11**|**A Machine Learning Approach to Improving Timing Consistency between Global Route and Detailed Route**|Vidya A. Chhabria Wenjing Jiang Andrew B. Kahng Sachin S. Sapatnekar et.al.|[2305.06917v1](http://arxiv.org/abs/2305.06917v1)|[2305.06917v1](http://arxiv.org/pdf/2305.06917v1)|null|
