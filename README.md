@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-15**|**Probing bursty star formation by cross-correlating extragalactic background light and galaxy surveys**|Guochao Sun et.al.|[2305.08847v1](http://arxiv.org/abs/2305.08847v1)|[2305.08847v1](http://arxiv.org/pdf/2305.08847v1)|null|
+|**2023-05-15**|**Halos of dark energy**|P. P. Avelino et.al.|[2305.08843v1](http://arxiv.org/abs/2305.08843v1)|[2305.08843v1](http://arxiv.org/pdf/2305.08843v1)|null|
+|**2023-05-15**|**TOI-1994b: A Low Mass Eccentric Brown Dwarf Transiting A Subgiant Star**|Emma Page et.al.|[2305.08836v1](http://arxiv.org/abs/2305.08836v1)|[2305.08836v1](http://arxiv.org/pdf/2305.08836v1)|null|
+|**2023-05-15**|**The Puzzling Structure of Solar Convection: Window into the Dynamo**|Nicholas A. Featherstone et.al.|[2305.08823v1](http://arxiv.org/abs/2305.08823v1)|[2305.08823v1](http://arxiv.org/pdf/2305.08823v1)|null|
+|**2023-05-15**|**Effect of the inclination in the passage through the 5/3 mean motion resonance between Ariel and Umbriel**|Sérgio R. A. Gomes et.al.|[2305.08794v1](http://arxiv.org/abs/2305.08794v1)|[2305.08794v1](http://arxiv.org/pdf/2305.08794v1)|null|
+|**2023-05-15**|**On the Existence of a Super-Kreutz System of Sungrazing Comets**|Zdenek Sekanina et.al.|[2305.08792v1](http://arxiv.org/abs/2305.08792v1)|[2305.08792v1](http://arxiv.org/pdf/2305.08792v1)|null|
+|**2023-05-15**|**Examining transitional galaxies to understand the role of clusters and their dynamical status in galaxy quenching**|Douglas Brambila et.al.|[2305.08788v1](http://arxiv.org/abs/2305.08788v1)|[2305.08788v1](http://arxiv.org/pdf/2305.08788v1)|null|
+|**2023-05-15**|**Role of Future SNIa Data from LSST in Reinvestigating Cosmological Models**|Rahul Shah et.al.|[2305.08786v1](http://arxiv.org/abs/2305.08786v1)|[2305.08786v1](http://arxiv.org/pdf/2305.08786v1)|null|
+|**2023-05-15**|**Spatial and Temporal Analysis of Quiescent Coronal Rain over an Active Region**|Seray Şahin et.al.|[2305.08775v1](http://arxiv.org/abs/2305.08775v1)|[2305.08775v1](http://arxiv.org/pdf/2305.08775v1)|null|
+|**2023-05-15**|**Preparing an unsupervised massive analysis of SPHERE high contrast data with the PACO algorithm**|A. Chomez et.al.|[2305.08766v1](http://arxiv.org/abs/2305.08766v1)|[2305.08766v1](http://arxiv.org/pdf/2305.08766v1)|null|
 |**2023-05-12**|**How do supernova remnants cool? -- I. Morphology, optical emission lines, and shocks**|Ekaterina I. Makarenko et.al.|[2305.07652v1](http://arxiv.org/abs/2305.07652v1)|[2305.07652v1](http://arxiv.org/pdf/2305.07652v1)|null|
 |**2023-05-12**|**Constraining primordial non-Gaussianity from DESI quasar targets and Planck CMB lensing**|Alex Krolewski et.al.|[2305.07650v1](http://arxiv.org/abs/2305.07650v1)|[2305.07650v1](http://arxiv.org/pdf/2305.07650v1)|null|
 |**2023-05-12**|**Dynamic Dark Energy from the Local Limit of Nonlocal Gravity**|Javad Tabatabaei et.al.|[2305.07630v1](http://arxiv.org/abs/2305.07630v1)|[2305.07630v1](http://arxiv.org/pdf/2305.07630v1)|null|
@@ -2259,6 +2269,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|[2305.08854v1](http://arxiv.org/pdf/2305.08854v1)|null|
+|**2023-05-15**|**Python Tool for Visualizing Variability of Pareto Fronts over Multiple Runs**|Shuhei Watanabe et.al.|[2305.08852v1](http://arxiv.org/abs/2305.08852v1)|[2305.08852v1](http://arxiv.org/pdf/2305.08852v1)|**[link](https://github.com/nabenabe0928/empirical-attainment-func)**|
+|**2023-05-15**|**Small Models are Valuable Plug-ins for Large Language Models**|Canwen Xu et.al.|[2305.08848v1](http://arxiv.org/abs/2305.08848v1)|[2305.08848v1](http://arxiv.org/pdf/2305.08848v1)|null|
+|**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|[2305.08842v1](http://arxiv.org/pdf/2305.08842v1)|null|
+|**2023-05-15**|**A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes**|Han Zhong et.al.|[2305.08841v1](http://arxiv.org/abs/2305.08841v1)|[2305.08841v1](http://arxiv.org/pdf/2305.08841v1)|null|
+|**2023-05-15**|**Question-Answering System Extracts Information on Injection Drug Use from Clinical Progress Notes**|Maria Mahbub et.al.|[2305.08777v1](http://arxiv.org/abs/2305.08777v1)|[2305.08777v1](http://arxiv.org/pdf/2305.08777v1)|null|
+|**2023-05-15**|**DA-LSTM: A Dynamic Drift-Adaptive Learning Framework for Interval Load Forecasting with LSTM Networks**|Firas Bayram et.al.|[2305.08767v1](http://arxiv.org/abs/2305.08767v1)|[2305.08767v1](http://arxiv.org/pdf/2305.08767v1)|null|
+|**2023-05-15**|**Physics Informed Token Transformer**|Cooper Lorsung et.al.|[2305.08757v1](http://arxiv.org/abs/2305.08757v1)|[2305.08757v1](http://arxiv.org/pdf/2305.08757v1)|null|
+|**2023-05-15**|**Automating privacy decisions -- where to draw the line?**|Victor Morel et.al.|[2305.08747v1](http://arxiv.org/abs/2305.08747v1)|[2305.08747v1](http://arxiv.org/pdf/2305.08747v1)|null|
+|**2023-05-15**|**Knowledge Rumination for Pre-trained Language Models**|Yunzhi Yao et.al.|[2305.08732v1](http://arxiv.org/abs/2305.08732v1)|[2305.08732v1](http://arxiv.org/pdf/2305.08732v1)|null|
 |**2023-05-12**|**The ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge 2023: Intracranial Meningioma**|Dominic LaBella et.al.|[2305.07642v1](http://arxiv.org/abs/2305.07642v1)|[2305.07642v1](http://arxiv.org/pdf/2305.07642v1)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633v1](http://arxiv.org/abs/2305.07633v1)|[2305.07633v1](http://arxiv.org/pdf/2305.07633v1)|null|
 |**2023-05-12**|**Design, Development, and Evaluation of an Interactive Personalized Social Robot to Monitor and Coach Post-Stroke Rehabilitation Exercises**|Min Hun Lee et.al.|[2305.07632v1](http://arxiv.org/abs/2305.07632v1)|[2305.07632v1](http://arxiv.org/pdf/2305.07632v1)|null|
