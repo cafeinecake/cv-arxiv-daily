@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-16**|**Photochemical hazes dramatically alter temperature structure and atmospheric circulation in 3D simulations of hot Jupiters**|Maria E. Steinrueck et.al.|[2305.09654v1](http://arxiv.org/abs/2305.09654v1)|[2305.09654v1](http://arxiv.org/pdf/2305.09654v1)|null|
+|**2023-05-16**|**Consistent clustering and lensing of SDSS-III BOSS galaxies with an extended abundance matching formalism**|Sergio Contreras et.al.|[2305.09637v1](http://arxiv.org/abs/2305.09637v1)|[2305.09637v1](http://arxiv.org/pdf/2305.09637v1)|null|
+|**2023-05-16**|**Primordial black holes and inflation from double-well potentials**|Alexandros Karam et.al.|[2305.09630v1](http://arxiv.org/abs/2305.09630v1)|[2305.09630v1](http://arxiv.org/pdf/2305.09630v1)|null|
+|**2023-05-16**|**The Three Hundred Project: the evolution of physical baryon profiles**|Qingyang Li et.al.|[2305.09629v1](http://arxiv.org/abs/2305.09629v1)|[2305.09629v1](http://arxiv.org/pdf/2305.09629v1)|null|
+|**2023-05-16**|**On the feasibility of structure inversions for gravity-mode pulsators**|Vincent Vanlaer et.al.|[2305.09624v1](http://arxiv.org/abs/2305.09624v1)|[2305.09624v1](http://arxiv.org/pdf/2305.09624v1)|null|
+|**2023-05-16**|**Constraining the cosmic-ray pressure in the inner Virgo Cluster using H.E.S.S. observations of M 87**|H. E. S. S. Collaboration et.al.|[2305.09607v1](http://arxiv.org/abs/2305.09607v1)|[2305.09607v1](http://arxiv.org/pdf/2305.09607v1)|null|
+|**2023-05-16**|**Identification and Classification of Exoplanets Using Machine Learning Techniques**|Prithivraj G et.al.|[2305.09596v1](http://arxiv.org/abs/2305.09596v1)|[2305.09596v1](http://arxiv.org/pdf/2305.09596v1)|null|
+|**2023-05-16**|**The effect of the ambient solar wind medium on a CME-driven shock and the associated gradual solar energetic particle event**|Nicolas Wijsen et.al.|[2305.09525v1](http://arxiv.org/abs/2305.09525v1)|[2305.09525v1](http://arxiv.org/pdf/2305.09525v1)|null|
+|**2023-05-16**|**Maps of solar wind plasma precipitation onto Mercury's surface: a geographical perspective**|Federico Lavorenti et.al.|[2305.09498v1](http://arxiv.org/abs/2305.09498v1)|[2305.09498v1](http://arxiv.org/pdf/2305.09498v1)|null|
+|**2023-05-16**|**Solar Active Region Magnetogram Image Dataset for Studies of Space Weather**|Laura E. Boucheron et.al.|[2305.09492v1](http://arxiv.org/abs/2305.09492v1)|[2305.09492v1](http://arxiv.org/pdf/2305.09492v1)|null|
 |**2023-05-15**|**Probing bursty star formation by cross-correlating extragalactic background light and galaxy surveys**|Guochao Sun et.al.|[2305.08847v1](http://arxiv.org/abs/2305.08847v1)|[2305.08847v1](http://arxiv.org/pdf/2305.08847v1)|null|
 |**2023-05-15**|**Halos of dark energy**|P. P. Avelino et.al.|[2305.08843v1](http://arxiv.org/abs/2305.08843v1)|[2305.08843v1](http://arxiv.org/pdf/2305.08843v1)|null|
 |**2023-05-15**|**TOI-1994b: A Low Mass Eccentric Brown Dwarf Transiting A Subgiant Star**|Emma Page et.al.|[2305.08836v1](http://arxiv.org/abs/2305.08836v1)|[2305.08836v1](http://arxiv.org/pdf/2305.08836v1)|null|
@@ -2269,6 +2279,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|[2305.09662v1](http://arxiv.org/pdf/2305.09662v1)|null|
+|**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|[2305.09659v1](http://arxiv.org/pdf/2305.09659v1)|null|
+|**2023-05-16**|**Satisfiability-Aided Language Models Using Declarative Prompting**|Xi Ye et.al.|[2305.09656v1](http://arxiv.org/abs/2305.09656v1)|[2305.09656v1](http://arxiv.org/pdf/2305.09656v1)|**[link](https://github.com/xiye17/sat-lm)**|
+|**2023-05-16**|**Prompt-Tuning Decision Transformer with Preference Ranking**|Shengchao Hu et.al.|[2305.09648v1](http://arxiv.org/abs/2305.09648v1)|[2305.09648v1](http://arxiv.org/pdf/2305.09648v1)|null|
+|**2023-05-16**|**A Review of Machine Learning Applications for the Proton Magnetic Resonance Spectroscopy Workflow**|Dennis M. J. van de Sande et.al.|[2305.09621v1](http://arxiv.org/abs/2305.09621v1)|[2305.09621v1](http://arxiv.org/pdf/2305.09621v1)|null|
+|**2023-05-16**|**AI-Augmented Surveys: Leveraging Large Language Models for Opinion Prediction in Nationally Representative Surveys**|Junsol Kim et.al.|[2305.09620v1](http://arxiv.org/abs/2305.09620v1)|[2305.09620v1](http://arxiv.org/pdf/2305.09620v1)|null|
+|**2023-05-16**|**Towards Expert-Level Medical Question Answering with Large Language Models**|Karan Singhal et.al.|[2305.09617v1](http://arxiv.org/abs/2305.09617v1)|[2305.09617v1](http://arxiv.org/pdf/2305.09617v1)|null|
+|**2023-05-16**|**Concurrent Misclassification and Out-of-Distribution Detection for Semantic Segmentation via Energy-Based Normalizing Flow**|Denis Gudovskiy et.al.|[2305.09610v1](http://arxiv.org/abs/2305.09610v1)|[2305.09610v1](http://arxiv.org/pdf/2305.09610v1)|**[link](https://github.com/gudovskiy/flowenedet)**|
+|**2023-05-16**|**Deep Reinforcement Learning to Maximize Arterial Usage during Extreme Congestion**|Ashutosh Dutta et.al.|[2305.09600v1](http://arxiv.org/abs/2305.09600v1)|[2305.09600v1](http://arxiv.org/pdf/2305.09600v1)|null|
+|**2023-05-16**|**Revisiting Proprioceptive Sensing for Articulated Object Manipulation**|Thomas Lips et.al.|[2305.09584v1](http://arxiv.org/abs/2305.09584v1)|[2305.09584v1](http://arxiv.org/pdf/2305.09584v1)|null|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|[2305.08854v1](http://arxiv.org/pdf/2305.08854v1)|null|
 |**2023-05-15**|**Python Tool for Visualizing Variability of Pareto Fronts over Multiple Runs**|Shuhei Watanabe et.al.|[2305.08852v1](http://arxiv.org/abs/2305.08852v1)|[2305.08852v1](http://arxiv.org/pdf/2305.08852v1)|**[link](https://github.com/nabenabe0928/empirical-attainment-func)**|
 |**2023-05-15**|**Small Models are Valuable Plug-ins for Large Language Models**|Canwen Xu et.al.|[2305.08848v1](http://arxiv.org/abs/2305.08848v1)|[2305.08848v1](http://arxiv.org/pdf/2305.08848v1)|null|
