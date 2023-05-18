@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-17**|**Field-level Lyman-alpha forest modelling in redshift space via augmented non-local Fluctuating Gunn-Peterson Approximation**|Francesco Sinigaglia et.al.|[2305.10428v1](http://arxiv.org/abs/2305.10428v1)|[2305.10428v1](http://arxiv.org/pdf/2305.10428v1)|null|
+|**2023-05-17**|**Performance of the Quasar Spectral Templates for the Dark Energy Spectroscopic Instrument**|Allyson Brodzeller et.al.|[2305.10426v1](http://arxiv.org/abs/2305.10426v1)|[2305.10426v1](http://arxiv.org/pdf/2305.10426v1)|null|
+|**2023-05-17**|**Constraining the Thickness of the Atmosphere of TRAPPIST-1 b from its JWST Secondary Eclipse Observation**|Jegug Ih et.al.|[2305.10414v1](http://arxiv.org/abs/2305.10414v1)|[2305.10414v1](http://arxiv.org/pdf/2305.10414v1)|null|
+|**2023-05-17**|**A catalog of collected debris disks: properties, classifications and correlations between disks and stars/planets**|Peng-cheng Cao et.al.|[2305.10364v1](http://arxiv.org/abs/2305.10364v1)|[2305.10364v1](http://arxiv.org/pdf/2305.10364v1)|null|
+|**2023-05-17**|**Detecting Exoplanets Closer to Stars with Moderate Spectral Resolution Integral-Field Spectroscopy**|Shubh Agrawal et.al.|[2305.10362v1](http://arxiv.org/abs/2305.10362v1)|[2305.10362v1](http://arxiv.org/pdf/2305.10362v1)|null|
+|**2023-05-17**|**Aspherical ULDM Collapse: Variation in the Core-Halo Mass Relation**|Emily Kendall et.al.|[2305.10340v1](http://arxiv.org/abs/2305.10340v1)|[2305.10340v1](http://arxiv.org/pdf/2305.10340v1)|null|
+|**2023-05-17**|**Unstable cosmic-ray nuclei constrain low-diffusion zones in the Galactic disk**|Hanno Jacobs et.al.|[2305.10337v1](http://arxiv.org/abs/2305.10337v1)|[2305.10337v1](http://arxiv.org/pdf/2305.10337v1)|null|
+|**2023-05-17**|**Multimessenger Constraints on Radiatively Decaying Axions from GW170817**|Melissa Diamond et.al.|[2305.10327v1](http://arxiv.org/abs/2305.10327v1)|[2305.10327v1](http://arxiv.org/pdf/2305.10327v1)|null|
+|**2023-05-17**|**WIMP decay as a possible Warm Dark Matter model**|Abineet Parichha et.al.|[2305.10315v1](http://arxiv.org/abs/2305.10315v1)|[2305.10315v1](http://arxiv.org/pdf/2305.10315v1)|null|
+|**2023-05-17**|**Survey for Distant Stellar Aggregates in Galactic Disk: Detecting Two Thousand Star Clusters and Candidates, along with the Dwarf Galaxy IC10**|Zhihong He et.al.|[2305.10269v1](http://arxiv.org/abs/2305.10269v1)|[2305.10269v1](http://arxiv.org/pdf/2305.10269v1)|null|
 |**2023-05-16**|**Photochemical hazes dramatically alter temperature structure and atmospheric circulation in 3D simulations of hot Jupiters**|Maria E. Steinrueck et.al.|[2305.09654v1](http://arxiv.org/abs/2305.09654v1)|[2305.09654v1](http://arxiv.org/pdf/2305.09654v1)|null|
 |**2023-05-16**|**Consistent clustering and lensing of SDSS-III BOSS galaxies with an extended abundance matching formalism**|Sergio Contreras et.al.|[2305.09637v1](http://arxiv.org/abs/2305.09637v1)|[2305.09637v1](http://arxiv.org/pdf/2305.09637v1)|null|
 |**2023-05-16**|**Primordial black holes and inflation from double-well potentials**|Alexandros Karam et.al.|[2305.09630v1](http://arxiv.org/abs/2305.09630v1)|[2305.09630v1](http://arxiv.org/pdf/2305.09630v1)|null|
@@ -2283,6 +2293,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427v1](http://arxiv.org/abs/2305.10427v1)|[2305.10427v1](http://arxiv.org/pdf/2305.10427v1)|null|
+|**2023-05-17**|**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**|Yao Zhao et.al.|[2305.10425v1](http://arxiv.org/abs/2305.10425v1)|[2305.10425v1](http://arxiv.org/pdf/2305.10425v1)|null|
+|**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421v1](http://arxiv.org/abs/2305.10421v1)|[2305.10421v1](http://arxiv.org/pdf/2305.10421v1)|null|
+|**2023-05-17**|**Scratch Copilot Evaluation: Assessing AI-Assisted Creative Coding for Families**|Stefania Druga et.al.|[2305.10417v1](http://arxiv.org/abs/2305.10417v1)|[2305.10417v1](http://arxiv.org/pdf/2305.10417v1)|null|
+|**2023-05-17**|**AI Friends: A Design Framework for AI-Powered Creative Programming for Youth**|Stefania Druga et.al.|[2305.10412v1](http://arxiv.org/abs/2305.10412v1)|[2305.10412v1](http://arxiv.org/pdf/2305.10412v1)|null|
+|**2023-05-17**|**Variational Classification**|Shehzaad Dhuliawala et.al.|[2305.10406v1](http://arxiv.org/abs/2305.10406v1)|[2305.10406v1](http://arxiv.org/pdf/2305.10406v1)|null|
+|**2023-05-17**|**PaLM 2 Technical Report**|Rohan Anil et.al.|[2305.10403v1](http://arxiv.org/abs/2305.10403v1)|[2305.10403v1](http://arxiv.org/pdf/2305.10403v1)|null|
+|**2023-05-17**|**Explainable Multi-Agent Reinforcement Learning for Temporal Queries**|Kayla Boggess et.al.|[2305.10378v1](http://arxiv.org/abs/2305.10378v1)|[2305.10378v1](http://arxiv.org/pdf/2305.10378v1)|**[link](https://github.com/kjboggess/ijcai23)**|
+|**2023-05-17**|**Human Choice Prediction in Non-Cooperative Games: Simulation-based Off-Policy Evaluation**|Eilam Shapira et.al.|[2305.10361v1](http://arxiv.org/abs/2305.10361v1)|[2305.10361v1](http://arxiv.org/pdf/2305.10361v1)|null|
+|**2023-05-17**|**Interactive Learning of Hierarchical Tasks from Dialog with GPT**|Lane Lawley et.al.|[2305.10349v1](http://arxiv.org/abs/2305.10349v1)|[2305.10349v1](http://arxiv.org/pdf/2305.10349v1)|null|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|[2305.09662v1](http://arxiv.org/pdf/2305.09662v1)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|[2305.09659v1](http://arxiv.org/pdf/2305.09659v1)|null|
 |**2023-05-17**|**Satisfiability-Aided Language Models Using Declarative Prompting**|Xi Ye et.al.|[2305.09656v2](http://arxiv.org/abs/2305.09656v2)|[2305.09656v2](http://arxiv.org/pdf/2305.09656v2)|**[link](https://github.com/xiye17/sat-lm)**|
