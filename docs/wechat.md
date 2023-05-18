@@ -1,4 +1,4 @@
-> Updated on 2023.05.17
+> Updated on 2023.05.18
 
 ## Astrophysics
 
@@ -2277,7 +2277,7 @@
 
 - 2023-05-16, **Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**, Samaneh Azadi et.al., Paper: [http://arxiv.org/abs/2305.09662v1](http://arxiv.org/abs/2305.09662v1), Paper: [http://arxiv.org/abs/2305.09662v1](http://arxiv.org/pdf/2305.09662v1)
 - 2023-05-16, **Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**, Jose Blanchet et.al., Paper: [http://arxiv.org/abs/2305.09659v1](http://arxiv.org/abs/2305.09659v1), Paper: [http://arxiv.org/abs/2305.09659v1](http://arxiv.org/pdf/2305.09659v1)
-- 2023-05-16, **Satisfiability-Aided Language Models Using Declarative Prompting**, Xi Ye et.al., Paper: [http://arxiv.org/abs/2305.09656v1](http://arxiv.org/abs/2305.09656v1),Paper: [http://arxiv.org/abs/2305.09656v1](http://arxiv.org/pdf/2305.09656v1), Code: **[https://github.com/xiye17/sat-lm](https://github.com/xiye17/sat-lm)**
+- 2023-05-17, **Satisfiability-Aided Language Models Using Declarative Prompting**, Xi Ye et.al., Paper: [http://arxiv.org/abs/2305.09656v2](http://arxiv.org/abs/2305.09656v2),Paper: [http://arxiv.org/abs/2305.09656v2](http://arxiv.org/pdf/2305.09656v2), Code: **[https://github.com/xiye17/sat-lm](https://github.com/xiye17/sat-lm)**
 - 2023-05-16, **Prompt-Tuning Decision Transformer with Preference Ranking**, Shengchao Hu et.al., Paper: [http://arxiv.org/abs/2305.09648v1](http://arxiv.org/abs/2305.09648v1), Paper: [http://arxiv.org/abs/2305.09648v1](http://arxiv.org/pdf/2305.09648v1)
 - 2023-05-16, **A Review of Machine Learning Applications for the Proton Magnetic Resonance Spectroscopy Workflow**, Dennis M. J. van de Sande et.al., Paper: [http://arxiv.org/abs/2305.09621v1](http://arxiv.org/abs/2305.09621v1), Paper: [http://arxiv.org/abs/2305.09621v1](http://arxiv.org/pdf/2305.09621v1)
 - 2023-05-16, **AI-Augmented Surveys: Leveraging Large Language Models for Opinion Prediction in Nationally Representative Surveys**, Junsol Kim et.al., Paper: [http://arxiv.org/abs/2305.09620v1](http://arxiv.org/abs/2305.09620v1), Paper: [http://arxiv.org/abs/2305.09620v1](http://arxiv.org/pdf/2305.09620v1)
