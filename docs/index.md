@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-18**|**Multiple Peaks and a Long Precursor in the Type IIn Supernova 2021qqp: An Energetic Explosion in a Complex Circumsteller Environment**|Daichi Hiramatsu et.al.|[2305.11168v1](http://arxiv.org/abs/2305.11168v1)|[2305.11168v1](http://arxiv.org/pdf/2305.11168v1)|null|
+|**2023-05-18**|**Cogenesis of matter and dark matter from triplet fermion seesaw**|Satyabrata Mahapatra et.al.|[2305.11138v1](http://arxiv.org/abs/2305.11138v1)|[2305.11138v1](http://arxiv.org/pdf/2305.11138v1)|null|
+|**2023-05-18**|**Satellite Optical Brightness**|Forrest Fankhauser et.al.|[2305.11123v1](http://arxiv.org/abs/2305.11123v1)|[2305.11123v1](http://arxiv.org/pdf/2305.11123v1)|null|
+|**2023-05-18**|**PPDONet: Deep Operator Networks for Fast Prediction of Steady-State Solutions in Disk-Planet Systems**|Shunyuan Mao et.al.|[2305.11111v1](http://arxiv.org/abs/2305.11111v1)|[2305.11111v1](http://arxiv.org/pdf/2305.11111v1)|**[link](https://github.com/smao-astro/ppdonet)**|
+|**2023-05-18**|**MiraBest: A Dataset of Morphologically Classified Radio Galaxies for Machine Learning**|Fiona A. M. Porter et.al.|[2305.11108v1](http://arxiv.org/abs/2305.11108v1)|[2305.11108v1](http://arxiv.org/pdf/2305.11108v1)|**[link](https://zenodo.org/record/4288837)**|
+|**2023-05-18**|**A spectroscopic thermometer: individual vibrational band spectroscopy with the example of OH in the atmosphere of WASP-33b**|Sam O. M. Wright et.al.|[2305.11071v1](http://arxiv.org/abs/2305.11071v1)|[2305.11071v1](http://arxiv.org/pdf/2305.11071v1)|null|
+|**2023-05-18**|**Automated detection and analysis of coronal active region structures across Solar Cycle 24**|Daniel Gordon Gass et.al.|[2305.11066v1](http://arxiv.org/abs/2305.11066v1)|[2305.11066v1](http://arxiv.org/pdf/2305.11066v1)|null|
+|**2023-05-18**|**Production of $p$-nuclei from $r$-process seeds: the $νr$-process**|Zewei Xiong et.al.|[2305.11050v1](http://arxiv.org/abs/2305.11050v1)|[2305.11050v1](http://arxiv.org/pdf/2305.11050v1)|null|
+|**2023-05-18**|**Direct mapping of tidal deformability to the iso-scalar and iso-vector nuclear matter parameters**|Sk Md Adil Imam et.al.|[2305.11007v1](http://arxiv.org/abs/2305.11007v1)|[2305.11007v1](http://arxiv.org/pdf/2305.11007v1)|null|
+|**2023-05-18**|**Equilibrium dynamical models for the Large Magellanic Cloud**|Nikolay Kacharov et.al.|[2305.10980v1](http://arxiv.org/abs/2305.10980v1)|[2305.10980v1](http://arxiv.org/pdf/2305.10980v1)|null|
 |**2023-05-17**|**Field-level Lyman-alpha forest modelling in redshift space via augmented non-local Fluctuating Gunn-Peterson Approximation**|Francesco Sinigaglia et.al.|[2305.10428v1](http://arxiv.org/abs/2305.10428v1)|[2305.10428v1](http://arxiv.org/pdf/2305.10428v1)|null|
 |**2023-05-17**|**Performance of the Quasar Spectral Templates for the Dark Energy Spectroscopic Instrument**|Allyson Brodzeller et.al.|[2305.10426v1](http://arxiv.org/abs/2305.10426v1)|[2305.10426v1](http://arxiv.org/pdf/2305.10426v1)|null|
 |**2023-05-17**|**Constraining the Thickness of the Atmosphere of TRAPPIST-1 b from its JWST Secondary Eclipse Observation**|Jegug Ih et.al.|[2305.10414v1](http://arxiv.org/abs/2305.10414v1)|[2305.10414v1](http://arxiv.org/pdf/2305.10414v1)|null|
@@ -2293,6 +2303,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|[2305.11176v1](http://arxiv.org/pdf/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
+|**2023-05-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wang et.al.|[2305.11175v1](http://arxiv.org/abs/2305.11175v1)|[2305.11175v1](http://arxiv.org/pdf/2305.11175v1)|**[link](https://github.com/opengvlab/visionllm)**|
+|**2023-05-18**|**Efficient Prompting via Dynamic In-Context Learning**|Wangchunshu Zhou et.al.|[2305.11170v1](http://arxiv.org/abs/2305.11170v1)|[2305.11170v1](http://arxiv.org/pdf/2305.11170v1)|null|
+|**2023-05-18**|**Evidence of Meaning in Language Models Trained on Programs**|Charles Jin et.al.|[2305.11169v1](http://arxiv.org/abs/2305.11169v1)|[2305.11169v1](http://arxiv.org/pdf/2305.11169v1)|null|
+|**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147v1](http://arxiv.org/abs/2305.11147v1)|[2305.11147v1](http://arxiv.org/pdf/2305.11147v1)|null|
+|**2023-05-18**|**Clifford Group Equivariant Neural Networks**|David Ruhe et.al.|[2305.11141v1](http://arxiv.org/abs/2305.11141v1)|[2305.11141v1](http://arxiv.org/pdf/2305.11141v1)|null|
+|**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137v1](http://arxiv.org/abs/2305.11137v1)|[2305.11137v1](http://arxiv.org/pdf/2305.11137v1)|null|
+|**2023-05-18**|**SimOAP: Improve Coherence and Consistency in Persona-based Dialogue Generation via Over-sampling and Post-evaluation**|Junkai Zhou et.al.|[2305.11130v1](http://arxiv.org/abs/2305.11130v1)|[2305.11130v1](http://arxiv.org/pdf/2305.11130v1)|null|
+|**2023-05-18**|**Skin Lesion Diagnosis Using Convolutional Neural Networks**|Daniel Alonso Villanueva Nunez et.al.|[2305.11125v1](http://arxiv.org/abs/2305.11125v1)|[2305.11125v1](http://arxiv.org/pdf/2305.11125v1)|null|
+|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v1](http://arxiv.org/abs/2305.11120v1)|[2305.11120v1](http://arxiv.org/pdf/2305.11120v1)|null|
 |**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427v1](http://arxiv.org/abs/2305.10427v1)|[2305.10427v1](http://arxiv.org/pdf/2305.10427v1)|null|
 |**2023-05-17**|**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**|Yao Zhao et.al.|[2305.10425v1](http://arxiv.org/abs/2305.10425v1)|[2305.10425v1](http://arxiv.org/pdf/2305.10425v1)|null|
 |**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421v1](http://arxiv.org/abs/2305.10421v1)|[2305.10421v1](http://arxiv.org/pdf/2305.10421v1)|null|
