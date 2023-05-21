@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.20
+## Updated on 2023.05.21
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-05-18**|**Multiple Peaks and a Long Precursor in the Type IIn Supernova 2021qqp: An Energetic Explosion in a Complex Circumsteller Environment**|Daichi Hiramatsu et.al.|[2305.11168v1](http://arxiv.org/abs/2305.11168v1)|[2305.11168v1](http://arxiv.org/pdf/2305.11168v1)|null|
 |**2023-05-18**|**Cogenesis of matter and dark matter from triplet fermion seesaw**|Satyabrata Mahapatra et.al.|[2305.11138v1](http://arxiv.org/abs/2305.11138v1)|[2305.11138v1](http://arxiv.org/pdf/2305.11138v1)|null|
-|**2023-05-18**|**Satellite Optical Brightness**|Forrest Fankhauser et.al.|[2305.11123v1](http://arxiv.org/abs/2305.11123v1)|[2305.11123v1](http://arxiv.org/pdf/2305.11123v1)|null|
+|**2023-05-18**|**Satellite Optical Brightness**|Forrest Fankhauser et.al.|[2305.11123v1](http://arxiv.org/abs/2305.11123v1)|[2305.11123v1](http://arxiv.org/pdf/2305.11123v1)|**[link](https://github.com/forrest-fankhauser/satellite-optical-brightness)**|
 |**2023-05-18**|**PPDONet: Deep Operator Networks for Fast Prediction of Steady-State Solutions in Disk-Planet Systems**|Shunyuan Mao et.al.|[2305.11111v1](http://arxiv.org/abs/2305.11111v1)|[2305.11111v1](http://arxiv.org/pdf/2305.11111v1)|**[link](https://github.com/smao-astro/ppdonet)**|
 |**2023-05-18**|**MiraBest: A Dataset of Morphologically Classified Radio Galaxies for Machine Learning**|Fiona A. M. Porter et.al.|[2305.11108v1](http://arxiv.org/abs/2305.11108v1)|[2305.11108v1](http://arxiv.org/pdf/2305.11108v1)|**[link](https://zenodo.org/record/4288837)**|
 |**2023-05-18**|**A spectroscopic thermometer: individual vibrational band spectroscopy with the example of OH in the atmosphere of WASP-33b**|Sam O. M. Wright et.al.|[2305.11071v1](http://arxiv.org/abs/2305.11071v1)|[2305.11071v1](http://arxiv.org/pdf/2305.11071v1)|null|
