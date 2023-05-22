@@ -1,4 +1,4 @@
-## Updated on 2023.05.21
+## Updated on 2023.05.22
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@
 |**2023-05-18**|**A spectroscopic thermometer: individual vibrational band spectroscopy with the example of OH in the atmosphere of WASP-33b**|Sam O. M. Wright et.al.|[2305.11071v1](http://arxiv.org/abs/2305.11071v1)|[2305.11071v1](http://arxiv.org/pdf/2305.11071v1)|null|
 |**2023-05-18**|**Automated detection and analysis of coronal active region structures across Solar Cycle 24**|Daniel Gordon Gass et.al.|[2305.11066v1](http://arxiv.org/abs/2305.11066v1)|[2305.11066v1](http://arxiv.org/pdf/2305.11066v1)|null|
 |**2023-05-18**|**Production of $p$-nuclei from $r$-process seeds: the $νr$-process**|Zewei Xiong et.al.|[2305.11050v1](http://arxiv.org/abs/2305.11050v1)|[2305.11050v1](http://arxiv.org/pdf/2305.11050v1)|null|
-|**2023-05-18**|**Direct mapping of tidal deformability to the iso-scalar and iso-vector nuclear matter parameters**|Sk Md Adil Imam et.al.|[2305.11007v1](http://arxiv.org/abs/2305.11007v1)|[2305.11007v1](http://arxiv.org/pdf/2305.11007v1)|null|
+|**2023-05-19**|**Direct mapping of tidal deformability to the iso-scalar and iso-vector nuclear matter parameters**|Sk Md Adil Imam et.al.|[2305.11007v2](http://arxiv.org/abs/2305.11007v2)|[2305.11007v2](http://arxiv.org/pdf/2305.11007v2)|null|
 |**2023-05-18**|**Equilibrium dynamical models for the Large Magellanic Cloud**|Nikolay Kacharov et.al.|[2305.10980v1](http://arxiv.org/abs/2305.10980v1)|[2305.10980v1](http://arxiv.org/pdf/2305.10980v1)|null|
 |**2023-05-17**|**Field-level Lyman-alpha forest modelling in redshift space via augmented non-local Fluctuating Gunn-Peterson Approximation**|Francesco Sinigaglia et.al.|[2305.10428v1](http://arxiv.org/abs/2305.10428v1)|[2305.10428v1](http://arxiv.org/pdf/2305.10428v1)|null|
 |**2023-05-17**|**Performance of the Quasar Spectral Templates for the Dark Energy Spectroscopic Instrument**|Allyson Brodzeller et.al.|[2305.10426v1](http://arxiv.org/abs/2305.10426v1)|[2305.10426v1](http://arxiv.org/pdf/2305.10426v1)|null|
@@ -2308,7 +2308,7 @@
 |**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137v1](http://arxiv.org/abs/2305.11137v1)|[2305.11137v1](http://arxiv.org/pdf/2305.11137v1)|null|
 |**2023-05-18**|**SimOAP: Improve Coherence and Consistency in Persona-based Dialogue Generation via Over-sampling and Post-evaluation**|Junkai Zhou et.al.|[2305.11130v1](http://arxiv.org/abs/2305.11130v1)|[2305.11130v1](http://arxiv.org/pdf/2305.11130v1)|null|
 |**2023-05-18**|**Skin Lesion Diagnosis Using Convolutional Neural Networks**|Daniel Alonso Villanueva Nunez et.al.|[2305.11125v1](http://arxiv.org/abs/2305.11125v1)|[2305.11125v1](http://arxiv.org/pdf/2305.11125v1)|null|
-|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v1](http://arxiv.org/abs/2305.11120v1)|[2305.11120v1](http://arxiv.org/pdf/2305.11120v1)|null|
+|**2023-05-19**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v2](http://arxiv.org/abs/2305.11120v2)|[2305.11120v2](http://arxiv.org/pdf/2305.11120v2)|null|
 |**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427v1](http://arxiv.org/abs/2305.10427v1)|[2305.10427v1](http://arxiv.org/pdf/2305.10427v1)|null|
 |**2023-05-17**|**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**|Yao Zhao et.al.|[2305.10425v1](http://arxiv.org/abs/2305.10425v1)|[2305.10425v1](http://arxiv.org/pdf/2305.10425v1)|null|
 |**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421v1](http://arxiv.org/abs/2305.10421v1)|[2305.10421v1](http://arxiv.org/pdf/2305.10421v1)|null|
