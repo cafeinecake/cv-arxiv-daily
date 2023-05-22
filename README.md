@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-19**|**Photo-zSNthesis: Converting Type Ia Supernova Lightcurves to Redshift Estimates via Deep Learning**|Helen Qu et.al.|[2305.11869v1](http://arxiv.org/abs/2305.11869v1)|[2305.11869v1](http://arxiv.org/pdf/2305.11869v1)|null|
+|**2023-05-19**|**MUSE AO spectroscopy confirms five dual AGNs and two strongly lensed QSOs at sub-arcsec separation**|M. Scialpi et.al.|[2305.11850v1](http://arxiv.org/abs/2305.11850v1)|[2305.11850v1](http://arxiv.org/pdf/2305.11850v1)|null|
+|**2023-05-19**|**Constraints on star formation in Orion A from Gaia**|Jairo A. Alzate et.al.|[2305.11823v1](http://arxiv.org/abs/2305.11823v1)|[2305.11823v1](http://arxiv.org/pdf/2305.11823v1)|null|
+|**2023-05-19**|**Element Abundances in Impulsive Solar Energetic Particle Events**|J. Martin Laming et.al.|[2305.11816v1](http://arxiv.org/abs/2305.11816v1)|[2305.11816v1](http://arxiv.org/pdf/2305.11816v1)|null|
+|**2023-05-19**|**Powerful Radio-Loud Quasars are Triggered by Galaxy Mergers in the Cosmic Bright Ages**|Peter Breiding et.al.|[2305.11804v1](http://arxiv.org/abs/2305.11804v1)|[2305.11804v1](http://arxiv.org/pdf/2305.11804v1)|null|
+|**2023-05-19**|**Planet-disk-wind interaction: the magnetized fate of protoplanets**|Gaylor Wafflard-Fernandez et.al.|[2305.11784v1](http://arxiv.org/abs/2305.11784v1)|[2305.11784v1](http://arxiv.org/pdf/2305.11784v1)|null|
+|**2023-05-19**|**Gravitational waves from walls bounded by strings in $SO(10)$ model of pseudo-Goldstone dark matter**|Rinku Maji et.al.|[2305.11775v1](http://arxiv.org/abs/2305.11775v1)|[2305.11775v1](http://arxiv.org/pdf/2305.11775v1)|null|
+|**2023-05-19**|**The 14 Her Planetary System: Companion Masses and Architecture from Radial Velocities and Astrometry**|G. F. Benedict et.al.|[2305.11753v1](http://arxiv.org/abs/2305.11753v1)|[2305.11753v1](http://arxiv.org/pdf/2305.11753v1)|null|
+|**2023-05-19**|**Alpha-Meteoroids then and now: Unearthing an overlooked micrometeoroid population**|Maximilian Sommer et.al.|[2305.11698v1](http://arxiv.org/abs/2305.11698v1)|[2305.11698v1](http://arxiv.org/pdf/2305.11698v1)|null|
+|**2023-05-19**|**EUV fine structure and variability associated with coronal rain revealed by Solar Orbiter/EUI HRIEUV and SPICE**|P. Antolin et.al.|[2305.11691v1](http://arxiv.org/abs/2305.11691v1)|[2305.11691v1](http://arxiv.org/pdf/2305.11691v1)|null|
 |**2023-05-18**|**Multiple Peaks and a Long Precursor in the Type IIn Supernova 2021qqp: An Energetic Explosion in a Complex Circumsteller Environment**|Daichi Hiramatsu et.al.|[2305.11168v1](http://arxiv.org/abs/2305.11168v1)|[2305.11168v1](http://arxiv.org/pdf/2305.11168v1)|null|
 |**2023-05-18**|**Cogenesis of matter and dark matter from triplet fermion seesaw**|Satyabrata Mahapatra et.al.|[2305.11138v1](http://arxiv.org/abs/2305.11138v1)|[2305.11138v1](http://arxiv.org/pdf/2305.11138v1)|null|
 |**2023-05-18**|**Satellite Optical Brightness**|Forrest Fankhauser et.al.|[2305.11123v1](http://arxiv.org/abs/2305.11123v1)|[2305.11123v1](http://arxiv.org/pdf/2305.11123v1)|**[link](https://github.com/forrest-fankhauser/satellite-optical-brightness)**|
@@ -2299,6 +2309,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-19**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v1](http://arxiv.org/abs/2305.11863v1)|[2305.11863v1](http://arxiv.org/pdf/2305.11863v1)|null|
+|**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|[2305.11854v1](http://arxiv.org/pdf/2305.11854v1)|null|
+|**2023-05-19**|**RxnScribe: A Sequence Generation Model for Reaction Diagram Parsing**|Yujie Qian et.al.|[2305.11845v1](http://arxiv.org/abs/2305.11845v1)|[2305.11845v1](http://arxiv.org/pdf/2305.11845v1)|**[link](https://github.com/thomas0809/rxnscribe)**|
+|**2023-05-19**|**AI's Regimes of Representation: A Community-centered Study of Text-to-Image Models in South Asia**|Rida Qadri et.al.|[2305.11844v1](http://arxiv.org/abs/2305.11844v1)|[2305.11844v1](http://arxiv.org/pdf/2305.11844v1)|null|
+|**2023-05-19**|**Recent progress in the JARVIS infrastructure for next-generation data-driven materials design**|Daniel Wines et.al.|[2305.11842v1](http://arxiv.org/abs/2305.11842v1)|[2305.11842v1](http://arxiv.org/pdf/2305.11842v1)|null|
+|**2023-05-19**|**Comparing Software Developers with ChatGPT: An Empirical Investigation**|Nathalia Nascimento et.al.|[2305.11837v1](http://arxiv.org/abs/2305.11837v1)|[2305.11837v1](http://arxiv.org/pdf/2305.11837v1)|null|
+|**2023-05-19**|**Complexity of Neural Network Training and ETR: Extensions with Effectively Continuous Functions**|Teemu Hankala et.al.|[2305.11833v1](http://arxiv.org/abs/2305.11833v1)|[2305.11833v1](http://arxiv.org/pdf/2305.11833v1)|null|
+|**2023-05-19**|**Regularization of Soft Actor-Critic Algorithms with Automatic Temperature Adjustment**|Ben You et.al.|[2305.11831v1](http://arxiv.org/abs/2305.11831v1)|[2305.11831v1](http://arxiv.org/pdf/2305.11831v1)|null|
+|**2023-05-19**|**Appraising the Potential Uses and Harms of LLMs for Medical Systematic Reviews**|Hye Sun Yun et.al.|[2305.11828v1](http://arxiv.org/abs/2305.11828v1)|[2305.11828v1](http://arxiv.org/pdf/2305.11828v1)|null|
+|**2023-05-19**|**STOAT: Structured Data to Analytical Text With Controls**|Deepanway Ghosal et.al.|[2305.11826v1](http://arxiv.org/abs/2305.11826v1)|[2305.11826v1](http://arxiv.org/pdf/2305.11826v1)|null|
 |**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|[2305.11176v1](http://arxiv.org/pdf/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
 |**2023-05-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wang et.al.|[2305.11175v1](http://arxiv.org/abs/2305.11175v1)|[2305.11175v1](http://arxiv.org/pdf/2305.11175v1)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2023-05-18**|**Efficient Prompting via Dynamic In-Context Learning**|Wangchunshu Zhou et.al.|[2305.11170v1](http://arxiv.org/abs/2305.11170v1)|[2305.11170v1](http://arxiv.org/pdf/2305.11170v1)|null|
