@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-22**|**Type Ia Supernova Explosions in Binary Systems: A Review**|Zheng-Wei Liu et.al.|[2305.13305v1](http://arxiv.org/abs/2305.13305v1)|[2305.13305v1](http://arxiv.org/pdf/2305.13305v1)|null|
+|**2023-05-22**|**Using Giant Pulses to Measure the Impulse Response of the Interstellar Medium**|Nikhil Mahajan et.al.|[2305.13274v1](http://arxiv.org/abs/2305.13274v1)|[2305.13274v1](http://arxiv.org/pdf/2305.13274v1)|null|
+|**2023-05-22**|**Winking filaments due to cyclic evaporation-condensation**|Yuhao Zhou et.al.|[2305.13237v1](http://arxiv.org/abs/2305.13237v1)|[2305.13237v1](http://arxiv.org/pdf/2305.13237v1)|null|
+|**2023-05-22**|**Spitzer IRS Observations of Titan as a Precursor to JWST MIRI Observations**|Brandon Park Coy et.al.|[2305.13234v1](http://arxiv.org/abs/2305.13234v1)|[2305.13234v1](http://arxiv.org/pdf/2305.13234v1)|null|
+|**2023-05-22**|**Eta Carinae: the dissipating occulter is an extended structure**|Theodore R. Gull et.al.|[2305.13216v1](http://arxiv.org/abs/2305.13216v1)|[2305.13216v1](http://arxiv.org/pdf/2305.13216v1)|null|
+|**2023-05-22**|**A panoptic view of the Taurus molecular cloud I. The cloud dynamics revealed by gas emission and 3D dust**|J. D. Soler et.al.|[2305.13180v1](http://arxiv.org/abs/2305.13180v1)|[2305.13180v1](http://arxiv.org/pdf/2305.13180v1)|null|
+|**2023-05-22**|**The MeerKAT Fornax Survey -- II. The rapid removal of HI from dwarf galaxies in the Fornax cluster**|D. Kleiner et.al.|[2305.13163v1](http://arxiv.org/abs/2305.13163v1)|[2305.13163v1](http://arxiv.org/pdf/2305.13163v1)|null|
+|**2023-05-22**|**Impact of Anomalous Active Regions on the Large-scale Magnetic Field of the Sun**|Shaonwita Pal et.al.|[2305.13145v1](http://arxiv.org/abs/2305.13145v1)|[2305.13145v1](http://arxiv.org/pdf/2305.13145v1)|null|
+|**2023-05-22**|**[C I] and [C II] emission in the circumstellar envelope of IRC +10216 I. Observational data and NLTE modeling of the [C I] emission**|Manali Jeste et.al.|[2305.13143v1](http://arxiv.org/abs/2305.13143v1)|[2305.13143v1](http://arxiv.org/pdf/2305.13143v1)|null|
+|**2023-05-22**|**Density biases and temperature relations for DESIRED HII regions**|J. E. Méndez-Delgado et.al.|[2305.13136v1](http://arxiv.org/abs/2305.13136v1)|[2305.13136v1](http://arxiv.org/pdf/2305.13136v1)|null|
 |**2023-05-19**|**Photo-zSNthesis: Converting Type Ia Supernova Lightcurves to Redshift Estimates via Deep Learning**|Helen Qu et.al.|[2305.11869v1](http://arxiv.org/abs/2305.11869v1)|[2305.11869v1](http://arxiv.org/pdf/2305.11869v1)|null|
 |**2023-05-19**|**MUSE AO spectroscopy confirms five dual AGNs and two strongly lensed QSOs at sub-arcsec separation**|M. Scialpi et.al.|[2305.11850v1](http://arxiv.org/abs/2305.11850v1)|[2305.11850v1](http://arxiv.org/pdf/2305.11850v1)|null|
 |**2023-05-19**|**Constraints on star formation in Orion A from Gaia**|Jairo A. Alzate et.al.|[2305.11823v1](http://arxiv.org/abs/2305.11823v1)|[2305.11823v1](http://arxiv.org/pdf/2305.11823v1)|null|
@@ -2313,6 +2323,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v1](http://arxiv.org/abs/2305.13301v1)|[2305.13301v1](http://arxiv.org/pdf/2305.13301v1)|null|
+|**2023-05-22**|**Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**|Jian Xie et.al.|[2305.13300v1](http://arxiv.org/abs/2305.13300v1)|[2305.13300v1](http://arxiv.org/pdf/2305.13300v1)|null|
+|**2023-05-22**|**Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations**|Chenglei Si et.al.|[2305.13299v1](http://arxiv.org/abs/2305.13299v1)|[2305.13299v1](http://arxiv.org/pdf/2305.13299v1)|**[link](https://github.com/noviscl/ambigprompt)**|
+|**2023-05-22**|**Target-Aware Generative Augmentations for Single-Shot Adaptation**|Kowshik Thopalli et.al.|[2305.13284v1](http://arxiv.org/abs/2305.13284v1)|[2305.13284v1](http://arxiv.org/pdf/2305.13284v1)|**[link](https://github.com/rakshith-2905/sista)**|
+|**2023-05-22**|**Approximating a RUM from Distributions on k-Slates**|Flavio Chierichetti et.al.|[2305.13283v1](http://arxiv.org/abs/2305.13283v1)|[2305.13283v1](http://arxiv.org/pdf/2305.13283v1)|**[link](https://github.com/mirkogiacchini/k-wise-rums)**|
+|**2023-05-22**|**Enhance Reasoning Ability of Visual-Language Models via Large Language Models**|Yueting Yang et.al.|[2305.13267v1](http://arxiv.org/abs/2305.13267v1)|[2305.13267v1](http://arxiv.org/pdf/2305.13267v1)|null|
+|**2023-05-22**|**Prompt-based methods may underestimate large language models' linguistic generalizations**|Jennifer Hu et.al.|[2305.13264v1](http://arxiv.org/abs/2305.13264v1)|[2305.13264v1](http://arxiv.org/pdf/2305.13264v1)|**[link](https://github.com/jennhu/metalinguistic-prompting)**|
+|**2023-05-22**|**NeSy4VRD: A Multifaceted Resource for Neurosymbolic AI Research using Knowledge Graphs in Visual Relationship Detection**|David Herron et.al.|[2305.13258v1](http://arxiv.org/abs/2305.13258v1)|[2305.13258v1](http://arxiv.org/pdf/2305.13258v1)|null|
+|**2023-05-22**|**TaskWeb: Selecting Better Source Tasks for Multi-task NLP**|Joongwon Kim et.al.|[2305.13256v1](http://arxiv.org/abs/2305.13256v1)|[2305.13256v1](http://arxiv.org/pdf/2305.13256v1)|null|
+|**2023-05-22**|**"According to ..." Prompting Language Models Improves Quoting from Pre-Training Data**|Orion Weller et.al.|[2305.13252v1](http://arxiv.org/abs/2305.13252v1)|[2305.13252v1](http://arxiv.org/pdf/2305.13252v1)|null|
 |**2023-05-22**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v2](http://arxiv.org/abs/2305.11863v2)|[2305.11863v2](http://arxiv.org/pdf/2305.11863v2)|null|
 |**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|[2305.11854v1](http://arxiv.org/pdf/2305.11854v1)|null|
 |**2023-05-19**|**RxnScribe: A Sequence Generation Model for Reaction Diagram Parsing**|Yujie Qian et.al.|[2305.11845v1](http://arxiv.org/abs/2305.11845v1)|[2305.11845v1](http://arxiv.org/pdf/2305.11845v1)|**[link](https://github.com/thomas0809/rxnscribe)**|
