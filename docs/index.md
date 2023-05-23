@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 
 ## Astrophysics
 
@@ -2313,7 +2313,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-05-19**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v1](http://arxiv.org/abs/2305.11863v1)|[2305.11863v1](http://arxiv.org/pdf/2305.11863v1)|null|
+|**2023-05-22**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v2](http://arxiv.org/abs/2305.11863v2)|[2305.11863v2](http://arxiv.org/pdf/2305.11863v2)|null|
 |**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|[2305.11854v1](http://arxiv.org/pdf/2305.11854v1)|null|
 |**2023-05-19**|**RxnScribe: A Sequence Generation Model for Reaction Diagram Parsing**|Yujie Qian et.al.|[2305.11845v1](http://arxiv.org/abs/2305.11845v1)|[2305.11845v1](http://arxiv.org/pdf/2305.11845v1)|**[link](https://github.com/thomas0809/rxnscribe)**|
 |**2023-05-19**|**AI's Regimes of Representation: A Community-centered Study of Text-to-Image Models in South Asia**|Rida Qadri et.al.|[2305.11844v1](http://arxiv.org/abs/2305.11844v1)|[2305.11844v1](http://arxiv.org/pdf/2305.11844v1)|null|
@@ -2321,7 +2321,7 @@ layout: default
 |**2023-05-19**|**Comparing Software Developers with ChatGPT: An Empirical Investigation**|Nathalia Nascimento et.al.|[2305.11837v1](http://arxiv.org/abs/2305.11837v1)|[2305.11837v1](http://arxiv.org/pdf/2305.11837v1)|null|
 |**2023-05-19**|**Complexity of Neural Network Training and ETR: Extensions with Effectively Continuous Functions**|Teemu Hankala et.al.|[2305.11833v1](http://arxiv.org/abs/2305.11833v1)|[2305.11833v1](http://arxiv.org/pdf/2305.11833v1)|null|
 |**2023-05-19**|**Regularization of Soft Actor-Critic Algorithms with Automatic Temperature Adjustment**|Ben You et.al.|[2305.11831v1](http://arxiv.org/abs/2305.11831v1)|[2305.11831v1](http://arxiv.org/pdf/2305.11831v1)|null|
-|**2023-05-19**|**Appraising the Potential Uses and Harms of LLMs for Medical Systematic Reviews**|Hye Sun Yun et.al.|[2305.11828v1](http://arxiv.org/abs/2305.11828v1)|[2305.11828v1](http://arxiv.org/pdf/2305.11828v1)|null|
+|**2023-05-22**|**Appraising the Potential Uses and Harms of LLMs for Medical Systematic Reviews**|Hye Sun Yun et.al.|[2305.11828v2](http://arxiv.org/abs/2305.11828v2)|[2305.11828v2](http://arxiv.org/pdf/2305.11828v2)|**[link](https://github.com/hyesunyun/medsysreviewsfromllms)**|
 |**2023-05-19**|**STOAT: Structured Data to Analytical Text With Controls**|Deepanway Ghosal et.al.|[2305.11826v1](http://arxiv.org/abs/2305.11826v1)|[2305.11826v1](http://arxiv.org/pdf/2305.11826v1)|null|
 |**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|[2305.11176v1](http://arxiv.org/pdf/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
 |**2023-05-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wang et.al.|[2305.11175v1](http://arxiv.org/abs/2305.11175v1)|[2305.11175v1](http://arxiv.org/pdf/2305.11175v1)|**[link](https://github.com/opengvlab/visionllm)**|
