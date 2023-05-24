@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-23**|**Confronting the neutron star population with inverse cascades**|Nikhil Sarin et.al.|[2305.14347v1](http://arxiv.org/abs/2305.14347v1)|[2305.14347v1](http://arxiv.org/pdf/2305.14347v1)|null|
+|**2023-05-23**|**Evolution of the Radial Size and Expansion of Coronal Mass Ejections Investigated by Combining Remote and In-Situ Observations**|Bin Zhuang et.al.|[2305.14339v1](http://arxiv.org/abs/2305.14339v1)|[2305.14339v1](http://arxiv.org/pdf/2305.14339v1)|null|
+|**2023-05-23**|**COOL-LAMPS. V. Discovery of COOL J0335$-$1927, a Gravitationally Lensed Quasar at $z$=3.27 with an Image Separation of 23.3"**|Kate Napier et.al.|[2305.14317v1](http://arxiv.org/abs/2305.14317v1)|[2305.14317v1](http://arxiv.org/pdf/2305.14317v1)|null|
+|**2023-05-23**|**Observational Constraints on Yukawa Cosmology and Connection with Black Hole Shadows**|Esteban González et.al.|[2305.14305v1](http://arxiv.org/abs/2305.14305v1)|[2305.14305v1](http://arxiv.org/pdf/2305.14305v1)|null|
+|**2023-05-23**|**Reheating process in the $R^2$ inflationary model with the baryogenesis scenario**|Hyun Jeong et.al.|[2305.14273v1](http://arxiv.org/abs/2305.14273v1)|[2305.14273v1](http://arxiv.org/pdf/2305.14273v1)|null|
+|**2023-05-23**|**A partially stripped massive star in a Be binary at low metallicity: A missing link towards Be X-ray binaries and double neutron star mergers**|V. Ramachandran et.al.|[2305.14262v1](http://arxiv.org/abs/2305.14262v1)|[2305.14262v1](http://arxiv.org/pdf/2305.14262v1)|null|
+|**2023-05-23**|**Axion Poltergeist**|Keisuke Harigaya et.al.|[2305.14242v1](http://arxiv.org/abs/2305.14242v1)|[2305.14242v1](http://arxiv.org/pdf/2305.14242v1)|null|
+|**2023-05-23**|**The role of spatial curvature in the primordial gravitational wave power spectrum**|Rocco D'Agostino et.al.|[2305.14238v1](http://arxiv.org/abs/2305.14238v1)|[2305.14238v1](http://arxiv.org/pdf/2305.14238v1)|null|
+|**2023-05-23**|**A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution**|Jiayin Dong et.al.|[2305.14220v1](http://arxiv.org/abs/2305.14220v1)|[2305.14220v1](http://arxiv.org/pdf/2305.14220v1)|null|
+|**2023-05-23**|**Formation of $\text{H}_{2}$ on polycyclic aromatic hydrocarbons under conditions of the ISM: an ab initio molecular dynamics study**|Nicolás F. Barrera et.al.|[2305.14206v1](http://arxiv.org/abs/2305.14206v1)|[2305.14206v1](http://arxiv.org/pdf/2305.14206v1)|null|
 |**2023-05-22**|**Type Ia Supernova Explosions in Binary Systems: A Review**|Zheng-Wei Liu et.al.|[2305.13305v1](http://arxiv.org/abs/2305.13305v1)|[2305.13305v1](http://arxiv.org/pdf/2305.13305v1)|null|
 |**2023-05-22**|**Using Giant Pulses to Measure the Impulse Response of the Interstellar Medium**|Nikhil Mahajan et.al.|[2305.13274v1](http://arxiv.org/abs/2305.13274v1)|[2305.13274v1](http://arxiv.org/pdf/2305.13274v1)|null|
 |**2023-05-22**|**Winking filaments due to cyclic evaporation-condensation**|Yuhao Zhou et.al.|[2305.13237v1](http://arxiv.org/abs/2305.13237v1)|[2305.13237v1](http://arxiv.org/pdf/2305.13237v1)|null|
@@ -2319,6 +2329,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|[2305.14343v1](http://arxiv.org/pdf/2305.14343v1)|null|
+|**2023-05-23**|**Automatic Model Selection with Large Language Models for Reasoning**|Xu Zhao et.al.|[2305.14333v1](http://arxiv.org/abs/2305.14333v1)|[2305.14333v1](http://arxiv.org/pdf/2305.14333v1)|**[link](https://github.com/xuzhao0/model-selection-reasoning)**|
+|**2023-05-23**|**What Else Do I Need to Know? The Effect of Background Information on Users' Reliance on AI Systems**|Navita Goyal et.al.|[2305.14331v1](http://arxiv.org/abs/2305.14331v1)|[2305.14331v1](http://arxiv.org/pdf/2305.14331v1)|null|
+|**2023-05-23**|**Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation**|Susung Hong et.al.|[2305.14330v1](http://arxiv.org/abs/2305.14330v1)|[2305.14330v1](http://arxiv.org/pdf/2305.14330v1)|**[link](https://github.com/ku-cvlab/direct2v)**|
+|**2023-05-23**|**Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation**|Da Yin et.al.|[2305.14327v1](http://arxiv.org/abs/2305.14327v1)|[2305.14327v1](http://arxiv.org/pdf/2305.14327v1)|**[link](https://github.com/wadeyin9712/dynosaur)**|
+|**2023-05-23**|**Improving Factuality and Reasoning in Language Models through Multiagent Debate**|Yilun Du et.al.|[2305.14325v1](http://arxiv.org/abs/2305.14325v1)|[2305.14325v1](http://arxiv.org/pdf/2305.14325v1)|null|
+|**2023-05-23**|**Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models**|Robert Morabito et.al.|[2305.14307v1](http://arxiv.org/abs/2305.14307v1)|[2305.14307v1](http://arxiv.org/pdf/2305.14307v1)|null|
+|**2023-05-23**|**VIP5: Towards Multimodal Foundation Models for Recommendation**|Shijie Geng et.al.|[2305.14302v1](http://arxiv.org/abs/2305.14302v1)|[2305.14302v1](http://arxiv.org/pdf/2305.14302v1)|null|
+|**2023-05-23**|**TaDSE: Template-aware Dialogue Sentence Embeddings**|Minsik Oh et.al.|[2305.14299v1](http://arxiv.org/abs/2305.14299v1)|[2305.14299v1](http://arxiv.org/pdf/2305.14299v1)|null|
+|**2023-05-23**|**Equivariant Neural Simulators for Stochastic Spatiotemporal Dynamics**|Koen Minartz et.al.|[2305.14286v1](http://arxiv.org/abs/2305.14286v1)|[2305.14286v1](http://arxiv.org/pdf/2305.14286v1)|null|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v2](http://arxiv.org/abs/2305.13301v2)|[2305.13301v2](http://arxiv.org/pdf/2305.13301v2)|null|
 |**2023-05-22**|**Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**|Jian Xie et.al.|[2305.13300v1](http://arxiv.org/abs/2305.13300v1)|[2305.13300v1](http://arxiv.org/pdf/2305.13300v1)|null|
 |**2023-05-22**|**Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations**|Chenglei Si et.al.|[2305.13299v1](http://arxiv.org/abs/2305.13299v1)|[2305.13299v1](http://arxiv.org/pdf/2305.13299v1)|**[link](https://github.com/noviscl/ambigprompt)**|
