@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 
 ## Astrophysics
 
@@ -2323,7 +2323,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v1](http://arxiv.org/abs/2305.13301v1)|[2305.13301v1](http://arxiv.org/pdf/2305.13301v1)|null|
+|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v2](http://arxiv.org/abs/2305.13301v2)|[2305.13301v2](http://arxiv.org/pdf/2305.13301v2)|null|
 |**2023-05-22**|**Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**|Jian Xie et.al.|[2305.13300v1](http://arxiv.org/abs/2305.13300v1)|[2305.13300v1](http://arxiv.org/pdf/2305.13300v1)|null|
 |**2023-05-22**|**Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations**|Chenglei Si et.al.|[2305.13299v1](http://arxiv.org/abs/2305.13299v1)|[2305.13299v1](http://arxiv.org/pdf/2305.13299v1)|**[link](https://github.com/noviscl/ambigprompt)**|
 |**2023-05-22**|**Target-Aware Generative Augmentations for Single-Shot Adaptation**|Kowshik Thopalli et.al.|[2305.13284v1](http://arxiv.org/abs/2305.13284v1)|[2305.13284v1](http://arxiv.org/pdf/2305.13284v1)|**[link](https://github.com/rakshith-2905/sista)**|
