@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-24**|**The Impact of Anisotropic Redshift Distributions on Angular Clustering**|Antón Baleato Lizancos et.al.|[2305.15406v1](http://arxiv.org/abs/2305.15406v1)|[2305.15406v1](http://arxiv.org/pdf/2305.15406v1)|null|
+|**2023-05-24**|**Inflationary Potential as seen from Different Angles: Model Compatibility from Multiple CMB Missions**|William Giarè et.al.|[2305.15378v1](http://arxiv.org/abs/2305.15378v1)|[2305.15378v1](http://arxiv.org/pdf/2305.15378v1)|null|
+|**2023-05-24**|**Modeling the chemical enrichment history of the Bulge Fossil Fragment Terzan 5**|Donatella Romano et.al.|[2305.15355v1](http://arxiv.org/abs/2305.15355v1)|[2305.15355v1](http://arxiv.org/pdf/2305.15355v1)|null|
+|**2023-05-24**|**Large-scale excess HI absorption around $z\approx4$ galaxies detected in a background galaxy spectrum in the MUSE eXtremely Deep Field**|Jorryt Matthee et.al.|[2305.15346v1](http://arxiv.org/abs/2305.15346v1)|[2305.15346v1](http://arxiv.org/pdf/2305.15346v1)|null|
+|**2023-05-24**|**Accuracy of the slow-rotation approximation for black holes in modified gravity in light of astrophysical observables**|Pablo A. Cano et.al.|[2305.15341v1](http://arxiv.org/abs/2305.15341v1)|[2305.15341v1](http://arxiv.org/pdf/2305.15341v1)|null|
+|**2023-05-24**|**The cosmic radio dipole: Bayesian estimators on new and old radio surveys**|J. D. Wagenveld et.al.|[2305.15335v1](http://arxiv.org/abs/2305.15335v1)|[2305.15335v1](http://arxiv.org/pdf/2305.15335v1)|null|
+|**2023-05-24**|**The comoving curvature perturbation in Jordan and Einstein frames**|José Jaime Terente Díaz et.al.|[2305.15326v1](http://arxiv.org/abs/2305.15326v1)|[2305.15326v1](http://arxiv.org/pdf/2305.15326v1)|null|
+|**2023-05-24**|**The spatial distribution of an aromatic molecule, C6H5CN, in the cold dark cloud TMC-1**|J. Cernicharo et.al.|[2305.15315v1](http://arxiv.org/abs/2305.15315v1)|[2305.15315v1](http://arxiv.org/pdf/2305.15315v1)|null|
+|**2023-05-24**|**X-ray polarimetry of the accreting pulsar GX 301-2**|Valery F. Suleimanov et.al.|[2305.15309v1](http://arxiv.org/abs/2305.15309v1)|[2305.15309v1](http://arxiv.org/pdf/2305.15309v1)|null|
+|**2023-05-24**|**Beyond the disk: EUV coronagraphic observations of the Extreme Ultraviolet Imager on board Solar Orbiter**|Auchère et.al.|[2305.15308v1](http://arxiv.org/abs/2305.15308v1)|[2305.15308v1](http://arxiv.org/pdf/2305.15308v1)|null|
 |**2023-05-23**|**Confronting the neutron star population with inverse cascades**|Nikhil Sarin et.al.|[2305.14347v1](http://arxiv.org/abs/2305.14347v1)|[2305.14347v1](http://arxiv.org/pdf/2305.14347v1)|null|
 |**2023-05-23**|**Evolution of the Radial Size and Expansion of Coronal Mass Ejections Investigated by Combining Remote and In-Situ Observations**|Bin Zhuang et.al.|[2305.14339v1](http://arxiv.org/abs/2305.14339v1)|[2305.14339v1](http://arxiv.org/pdf/2305.14339v1)|null|
 |**2023-05-23**|**COOL-LAMPS. V. Discovery of COOL J0335$-$1927, a Gravitationally Lensed Quasar at $z$=3.27 with an Image Separation of 23.3"**|Kate Napier et.al.|[2305.14317v1](http://arxiv.org/abs/2305.14317v1)|[2305.14317v1](http://arxiv.org/pdf/2305.14317v1)|null|
@@ -2333,6 +2343,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399v1](http://arxiv.org/abs/2305.15399v1)|[2305.15399v1](http://arxiv.org/pdf/2305.15399v1)|null|
+|**2023-05-24**|**LayoutGPT: Compositional Visual Planning and Generation with Large Language Models**|Weixi Feng et.al.|[2305.15393v1](http://arxiv.org/abs/2305.15393v1)|[2305.15393v1](http://arxiv.org/pdf/2305.15393v1)|null|
+|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|[2305.15387v1](http://arxiv.org/pdf/2305.15387v1)|null|
+|**2023-05-24**|**Behavior quantification as the missing link between fields: Tools for digital psychiatry and their role in the future of neurobiology**|Michaela Ennis et.al.|[2305.15385v1](http://arxiv.org/abs/2305.15385v1)|[2305.15385v1](http://arxiv.org/pdf/2305.15385v1)|null|
+|**2023-05-24**|**Theorem Proving in Dependently-Typed Higher-Order Logic -- Extended Preprint**|Colin Rothgang et.al.|[2305.15382v1](http://arxiv.org/abs/2305.15382v1)|[2305.15382v1](http://arxiv.org/pdf/2305.15382v1)|null|
+|**2023-05-24**|**ASPER: Answer Set Programming Enhanced Neural Network Models for Joint Entity-Relation Extraction**|Trung Hoang Le et.al.|[2305.15374v1](http://arxiv.org/abs/2305.15374v1)|[2305.15374v1](http://arxiv.org/pdf/2305.15374v1)|null|
+|**2023-05-24**|**SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation**|Yunxiang Li et.al.|[2305.15367v1](http://arxiv.org/abs/2305.15367v1)|[2305.15367v1](http://arxiv.org/pdf/2305.15367v1)|null|
+|**2023-05-24**|**READ: Recurrent Adaptation of Large Transformers**|Sid Wang et.al.|[2305.15348v1](http://arxiv.org/abs/2305.15348v1)|[2305.15348v1](http://arxiv.org/pdf/2305.15348v1)|null|
+|**2023-05-24**|**Bayesian calibration of differentiable agent-based models**|Arnau Quera-Bofarull et.al.|[2305.15340v1](http://arxiv.org/abs/2305.15340v1)|[2305.15340v1](http://arxiv.org/pdf/2305.15340v1)|null|
+|**2023-05-24**|**Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing**|Shufan Wang et.al.|[2305.15338v1](http://arxiv.org/abs/2305.15338v1)|[2305.15338v1](http://arxiv.org/pdf/2305.15338v1)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|[2305.14343v1](http://arxiv.org/pdf/2305.14343v1)|null|
 |**2023-05-23**|**Automatic Model Selection with Large Language Models for Reasoning**|Xu Zhao et.al.|[2305.14333v1](http://arxiv.org/abs/2305.14333v1)|[2305.14333v1](http://arxiv.org/pdf/2305.14333v1)|**[link](https://github.com/xuzhao0/model-selection-reasoning)**|
 |**2023-05-23**|**What Else Do I Need to Know? The Effect of Background Information on Users' Reliance on AI Systems**|Navita Goyal et.al.|[2305.14331v1](http://arxiv.org/abs/2305.14331v1)|[2305.14331v1](http://arxiv.org/pdf/2305.14331v1)|null|
