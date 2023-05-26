@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-25**|**Cosmic Energy Density: Particles, Fields and the Vacuum**|Cristian Armendariz-Picon et.al.|[2305.16293v1](http://arxiv.org/abs/2305.16293v1)|[2305.16293v1](http://arxiv.org/pdf/2305.16293v1)|null|
+|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|[2305.16290v1](http://arxiv.org/pdf/2305.16290v1)|null|
+|**2023-05-25**|**Discovery of two rotational modulation periods from a young hierarchical triple system**|Yu-Tao Chen et.al.|[2305.16287v1](http://arxiv.org/abs/2305.16287v1)|[2305.16287v1](http://arxiv.org/pdf/2305.16287v1)|null|
+|**2023-05-25**|**A New Forced Photometry Service for the Zwicky Transient Facility**|Frank J. Masci et.al.|[2305.16279v1](http://arxiv.org/abs/2305.16279v1)|[2305.16279v1](http://arxiv.org/pdf/2305.16279v1)|null|
+|**2023-05-25**|**Power spectrum in the cave**|Alvise Raccanelli et.al.|[2305.16278v1](http://arxiv.org/abs/2305.16278v1)|[2305.16278v1](http://arxiv.org/pdf/2305.16278v1)|null|
+|**2023-05-25**|**Spectroscopic survey of faint planetary-nebula nuclei. II. The subdwarf O central star of Fr 2-30**|Howard E. Bond et.al.|[2305.16247v1](http://arxiv.org/abs/2305.16247v1)|[2305.16247v1](http://arxiv.org/pdf/2305.16247v1)|null|
+|**2023-05-25**|**Transiting Exoplanet Yields for the Roman Galactic Bulge Time Domain Survey Predicted from Pixel-Level Simulations**|Robert F. Wilson et.al.|[2305.16204v1](http://arxiv.org/abs/2305.16204v1)|[2305.16204v1](http://arxiv.org/pdf/2305.16204v1)|null|
+|**2023-05-25**|**The ice composition close to the surface of comet 67P/Churyumov-Gerasimenko**|Matthias Laeuter et.al.|[2305.16201v1](http://arxiv.org/abs/2305.16201v1)|[2305.16201v1](http://arxiv.org/pdf/2305.16201v1)|null|
+|**2023-05-25**|**Convergence of small scale Ly$α$ structure at high-$z$ under different reionization scenarios**|Caitlin C. Doughty et.al.|[2305.16200v1](http://arxiv.org/abs/2305.16200v1)|[2305.16200v1](http://arxiv.org/pdf/2305.16200v1)|null|
+|**2023-05-25**|**Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders**|Ali Siahkoohi et.al.|[2305.16189v1](http://arxiv.org/abs/2305.16189v1)|[2305.16189v1](http://arxiv.org/pdf/2305.16189v1)|null|
 |**2023-05-24**|**The Impact of Anisotropic Redshift Distributions on Angular Clustering**|Antón Baleato Lizancos et.al.|[2305.15406v1](http://arxiv.org/abs/2305.15406v1)|[2305.15406v1](http://arxiv.org/pdf/2305.15406v1)|null|
 |**2023-05-24**|**Inflationary Potential as seen from Different Angles: Model Compatibility from Multiple CMB Missions**|William Giarè et.al.|[2305.15378v1](http://arxiv.org/abs/2305.15378v1)|[2305.15378v1](http://arxiv.org/pdf/2305.15378v1)|null|
 |**2023-05-24**|**Modeling the chemical enrichment history of the Bulge Fossil Fragment Terzan 5**|Donatella Romano et.al.|[2305.15355v1](http://arxiv.org/abs/2305.15355v1)|[2305.15355v1](http://arxiv.org/pdf/2305.15355v1)|null|
@@ -2343,6 +2353,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|[2305.16318v1](http://arxiv.org/pdf/2305.16318v1)|**[link](https://github.com/opengvlab/mutr)**|
+|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|[2305.16317v1](http://arxiv.org/pdf/2305.16317v1)|null|
+|**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312v1](http://arxiv.org/abs/2305.16312v1)|[2305.16312v1](http://arxiv.org/pdf/2305.16312v1)|null|
+|**2023-05-25**|**Fine-Grained Complexity Analysis of Multi-Agent Path Finding on 2D Grids**|Tzvika Geft et.al.|[2305.16303v1](http://arxiv.org/abs/2305.16303v1)|[2305.16303v1](http://arxiv.org/pdf/2305.16303v1)|null|
+|**2023-05-25**|**HAAV: Hierarchical Aggregation of Augmented Views for Image Captioning**|Chia-Wen Kuo et.al.|[2305.16295v1](http://arxiv.org/abs/2305.16295v1)|[2305.16295v1](http://arxiv.org/pdf/2305.16295v1)|null|
+|**2023-05-25**|**Voyager: An Open-Ended Embodied Agent with Large Language Models**|Guanzhi Wang et.al.|[2305.16291v1](http://arxiv.org/abs/2305.16291v1)|[2305.16291v1](http://arxiv.org/pdf/2305.16291v1)|null|
+|**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289v1](http://arxiv.org/abs/2305.16289v1)|[2305.16289v1](http://arxiv.org/pdf/2305.16289v1)|**[link](https://github.com/lisadunlap/alia)**|
+|**2023-05-25**|**CENSUS-HWR: a large training dataset for offline handwriting recognition**|Chetan Joshi et.al.|[2305.16275v1](http://arxiv.org/abs/2305.16275v1)|[2305.16275v1](http://arxiv.org/pdf/2305.16275v1)|null|
+|**2023-05-25**|**Scaling Data-Constrained Language Models**|Niklas Muennighoff et.al.|[2305.16264v1](http://arxiv.org/abs/2305.16264v1)|[2305.16264v1](http://arxiv.org/pdf/2305.16264v1)|**[link](https://github.com/huggingface/datablations)**|
+|**2023-05-25**|**Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator**|Lingwei Meng et.al.|[2305.16263v1](http://arxiv.org/abs/2305.16263v1)|[2305.16263v1](http://arxiv.org/pdf/2305.16263v1)|null|
 |**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399v1](http://arxiv.org/abs/2305.15399v1)|[2305.15399v1](http://arxiv.org/pdf/2305.15399v1)|null|
 |**2023-05-24**|**LayoutGPT: Compositional Visual Planning and Generation with Large Language Models**|Weixi Feng et.al.|[2305.15393v1](http://arxiv.org/abs/2305.15393v1)|[2305.15393v1](http://arxiv.org/pdf/2305.15393v1)|null|
 |**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|[2305.15387v1](http://arxiv.org/pdf/2305.15387v1)|null|
