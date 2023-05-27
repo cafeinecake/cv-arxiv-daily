@@ -2346,7 +2346,7 @@
 ## AI
 
 - 2023-05-25, **Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**, Shilin Yan et.al., Paper: [http://arxiv.org/abs/2305.16318v1](http://arxiv.org/abs/2305.16318v1),Paper: [http://arxiv.org/abs/2305.16318v1](http://arxiv.org/pdf/2305.16318v1), Code: **[https://github.com/opengvlab/mutr](https://github.com/opengvlab/mutr)**
-- 2023-05-25, **Parallel Sampling of Diffusion Models**, Andy Shih et.al., Paper: [http://arxiv.org/abs/2305.16317v1](http://arxiv.org/abs/2305.16317v1), Paper: [http://arxiv.org/abs/2305.16317v1](http://arxiv.org/pdf/2305.16317v1)
+- 2023-05-25, **Parallel Sampling of Diffusion Models**, Andy Shih et.al., Paper: [http://arxiv.org/abs/2305.16317v1](http://arxiv.org/abs/2305.16317v1),Paper: [http://arxiv.org/abs/2305.16317v1](http://arxiv.org/pdf/2305.16317v1), Code: **[https://github.com/AndyShih12/paradigms](https://github.com/AndyShih12/paradigms)**
 - 2023-05-25, **UMat: Uncertainty-Aware Single Image High Resolution Material Capture**, Carlos Rodriguez-Pardo et.al., Paper: [http://arxiv.org/abs/2305.16312v1](http://arxiv.org/abs/2305.16312v1), Paper: [http://arxiv.org/abs/2305.16312v1](http://arxiv.org/pdf/2305.16312v1)
 - 2023-05-25, **Fine-Grained Complexity Analysis of Multi-Agent Path Finding on 2D Grids**, Tzvika Geft et.al., Paper: [http://arxiv.org/abs/2305.16303v1](http://arxiv.org/abs/2305.16303v1), Paper: [http://arxiv.org/abs/2305.16303v1](http://arxiv.org/pdf/2305.16303v1)
 - 2023-05-25, **HAAV: Hierarchical Aggregation of Augmented Views for Image Captioning**, Chia-Wen Kuo et.al., Paper: [http://arxiv.org/abs/2305.16295v1](http://arxiv.org/abs/2305.16295v1), Paper: [http://arxiv.org/abs/2305.16295v1](http://arxiv.org/pdf/2305.16295v1)
