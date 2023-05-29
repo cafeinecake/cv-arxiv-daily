@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-26**|**Origins of the Evil Eye: M64's Stellar Halo Reveals the Recent Accretion of an SMC-mass Satellite**|Adam Smercina et.al.|[2305.17135v1](http://arxiv.org/abs/2305.17135v1)|[2305.17135v1](http://arxiv.org/pdf/2305.17135v1)|null|
+|**2023-05-26**|**Beyond 3$\times$2-point cosmology: the integrated shear and galaxy 3-point correlation functions**|Anik Halder et.al.|[2305.17132v1](http://arxiv.org/abs/2305.17132v1)|[2305.17132v1](http://arxiv.org/pdf/2305.17132v1)|null|
+|**2023-05-26**|**Sun is a cosmic ray TeVatron**|Prabir Banik et.al.|[2305.17086v1](http://arxiv.org/abs/2305.17086v1)|[2305.17086v1](http://arxiv.org/pdf/2305.17086v1)|null|
+|**2023-05-26**|**Spectrally dispersed kernel phase interferometry with SCExAO/CHARIS: proof of concept and calibration strategies**|Alexander Chaushev et.al.|[2305.17065v1](http://arxiv.org/abs/2305.17065v1)|[2305.17065v1](http://arxiv.org/pdf/2305.17065v1)|null|
+|**2023-05-26**|**K2 Optical Emission from OJ 287 and Other Gamma-Ray Blazars on Hours-to-Weeks Timescales from 2014-2018**|Ann E. Wehrle et.al.|[2305.17060v1](http://arxiv.org/abs/2305.17060v1)|[2305.17060v1](http://arxiv.org/pdf/2305.17060v1)|null|
+|**2023-05-26**|**The First LHAASO Catalog of Gamma-Ray Sources**|Zhen Cao et.al.|[2305.17030v1](http://arxiv.org/abs/2305.17030v1)|[2305.17030v1](http://arxiv.org/pdf/2305.17030v1)|null|
+|**2023-05-26**|**Awesome SOSS: Transmission Spectroscopy of WASP-96b with NIRISS/SOSS**|Michael Radica et.al.|[2305.17001v1](http://arxiv.org/abs/2305.17001v1)|[2305.17001v1](http://arxiv.org/pdf/2305.17001v1)|null|
+|**2023-05-26**|**New insights into the rotational evolution of near-solar age stars from the open cluster M67**|D. Gruner et.al.|[2305.16997v1](http://arxiv.org/abs/2305.16997v1)|[2305.16997v1](http://arxiv.org/pdf/2305.16997v1)|null|
+|**2023-05-26**|**The influence of planetesimal fragmentation on planet formation**|Nicolas Kaufmann et.al.|[2305.16952v1](http://arxiv.org/abs/2305.16952v1)|[2305.16952v1](http://arxiv.org/pdf/2305.16952v1)|null|
+|**2023-05-26**|**CMB Anomalies and the Hubble Tension**|William Giarè et.al.|[2305.16919v1](http://arxiv.org/abs/2305.16919v1)|[2305.16919v1](http://arxiv.org/pdf/2305.16919v1)|null|
 |**2023-05-25**|**Cosmic Energy Density: Particles, Fields and the Vacuum**|Cristian Armendariz-Picon et.al.|[2305.16293v1](http://arxiv.org/abs/2305.16293v1)|[2305.16293v1](http://arxiv.org/pdf/2305.16293v1)|null|
 |**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|[2305.16290v1](http://arxiv.org/pdf/2305.16290v1)|null|
 |**2023-05-25**|**Discovery of two rotational modulation periods from a young hierarchical triple system**|Yu-Tao Chen et.al.|[2305.16287v1](http://arxiv.org/abs/2305.16287v1)|[2305.16287v1](http://arxiv.org/pdf/2305.16287v1)|null|
@@ -2349,6 +2359,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-26**|**Large Language Models as Tool Makers**|Tianle Cai et.al.|[2305.17126v1](http://arxiv.org/abs/2305.17126v1)|[2305.17126v1](http://arxiv.org/pdf/2305.17126v1)|**[link](https://github.com/ctlllll/llm-toolmaker)**|
+|**2023-05-26**|**Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model**|David Soong et.al.|[2305.17116v1](http://arxiv.org/abs/2305.17116v1)|[2305.17116v1](http://arxiv.org/pdf/2305.17116v1)|null|
+|**2023-05-26**|**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**|Kai Zhang et.al.|[2305.17100v1](http://arxiv.org/abs/2305.17100v1)|[2305.17100v1](http://arxiv.org/pdf/2305.17100v1)|**[link](https://github.com/taokz/biomedgpt)**|
+|**2023-05-26**|**Communication-Efficient Reinforcement Learning in Swarm Robotic Networks for Maze Exploration**|Ehsan Latif et.al.|[2305.17087v1](http://arxiv.org/abs/2305.17087v1)|[2305.17087v1](http://arxiv.org/pdf/2305.17087v1)|null|
+|**2023-05-26**|**Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models**|Daman Arora et.al.|[2305.17077v1](http://arxiv.org/abs/2305.17077v1)|[2305.17077v1](http://arxiv.org/pdf/2305.17077v1)|null|
+|**2023-05-26**|**Mindstorms in Natural Language-Based Societies of Mind**|Mingchen Zhuge et.al.|[2305.17066v1](http://arxiv.org/abs/2305.17066v1)|[2305.17066v1](http://arxiv.org/pdf/2305.17066v1)|null|
+|**2023-05-26**|**A Framework for Incentivized Collaborative Learning**|Xinran Wang et.al.|[2305.17052v1](http://arxiv.org/abs/2305.17052v1)|[2305.17052v1](http://arxiv.org/pdf/2305.17052v1)|null|
+|**2023-05-26**|**RFiD: Towards Rational Fusion-in-Decoder for Open-Domain Question Answering**|Cunxiang Wang et.al.|[2305.17041v1](http://arxiv.org/abs/2305.17041v1)|[2305.17041v1](http://arxiv.org/pdf/2305.17041v1)|null|
+|**2023-05-26**|**AGI labs need an internal audit function**|Jonas Schuett et.al.|[2305.17038v1](http://arxiv.org/abs/2305.17038v1)|[2305.17038v1](http://arxiv.org/pdf/2305.17038v1)|null|
+|**2023-05-26**|**Justification vs. Transparency: Why and How Visual Explanations in a Scientific Literature Recommender System**|Mouadh Guesmi et.al.|[2305.17034v1](http://arxiv.org/abs/2305.17034v1)|[2305.17034v1](http://arxiv.org/pdf/2305.17034v1)|null|
 |**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|[2305.16318v1](http://arxiv.org/pdf/2305.16318v1)|**[link](https://github.com/opengvlab/mutr)**|
 |**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|[2305.16317v1](http://arxiv.org/pdf/2305.16317v1)|**[link](https://github.com/AndyShih12/paradigms)**|
 |**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312v1](http://arxiv.org/abs/2305.16312v1)|[2305.16312v1](http://arxiv.org/pdf/2305.16312v1)|null|
