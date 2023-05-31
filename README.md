@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-30**|**Parallelized Acquisition for Active Learning using Monte Carlo Sampling**|Jesús Torrado et.al.|[2305.19267v1](http://arxiv.org/abs/2305.19267v1)|[2305.19267v1](http://arxiv.org/pdf/2305.19267v1)|null|
+|**2023-05-30**|**Absence of one-loop effects on large scales from small scales in non-slow-roll dynamics**|Jacopo Fumagalli et.al.|[2305.19263v1](http://arxiv.org/abs/2305.19263v1)|[2305.19263v1](http://arxiv.org/pdf/2305.19263v1)|null|
+|**2023-05-30**|**Tail diversity from inflation**|Sina Hooshangi et.al.|[2305.19257v1](http://arxiv.org/abs/2305.19257v1)|[2305.19257v1](http://arxiv.org/pdf/2305.19257v1)|null|
+|**2023-05-30**|**GMCs and their Type classification in M74: Toward understanding star formation and cloud evolution**|F. Demachi et.al.|[2305.19192v1](http://arxiv.org/abs/2305.19192v1)|[2305.19192v1](http://arxiv.org/pdf/2305.19192v1)|null|
+|**2023-05-30**|**Interpreting the Si II and C II line spectra from the COS Legacy Spectroscopic SurveY using a virtual galaxy from a high-resolution radiation-hydrodynamic simulation**|Simon Gazagnes et.al.|[2305.19177v1](http://arxiv.org/abs/2305.19177v1)|[2305.19177v1](http://arxiv.org/pdf/2305.19177v1)|null|
+|**2023-05-30**|**FORECAST: a flexible software to forward model cosmological hydrodynamical simulations mimicking real observations**|Flaminia Fortuni et.al.|[2305.19166v1](http://arxiv.org/abs/2305.19166v1)|[2305.19166v1](http://arxiv.org/pdf/2305.19166v1)|null|
+|**2023-05-30**|**Host group degeneracy in gravitational lensing time delay determination of $H_0$**|Luca Teodori et.al.|[2305.19151v1](http://arxiv.org/abs/2305.19151v1)|[2305.19151v1](http://arxiv.org/pdf/2305.19151v1)|null|
+|**2023-05-30**|**Relativistic binary-disc dynamics and OJ-287's flares: New parameter posteriors and future timing predictions**|Lorenz Zwick et.al.|[2305.19149v1](http://arxiv.org/abs/2305.19149v1)|[2305.19149v1](http://arxiv.org/pdf/2305.19149v1)|null|
+|**2023-05-30**|**BEAST detection of a brown dwarf and a low-mass stellar companion around the young bright B star HIP 81208**|Gayathri Viswanath et.al.|[2305.19122v1](http://arxiv.org/abs/2305.19122v1)|[2305.19122v1](http://arxiv.org/pdf/2305.19122v1)|null|
+|**2023-05-30**|**From inflation to reheating and their dynamical stability analysis in Gauss-Bonnet gravity**|Sergei D. Odintsov et.al.|[2305.19110v1](http://arxiv.org/abs/2305.19110v1)|[2305.19110v1](http://arxiv.org/pdf/2305.19110v1)|null|
 |**2023-05-29**|**Mass-redshift dependency of Supermassive Black Hole Binaries for the Gravitational Wave Background**|Musfar Muhamed Kozhikkal et.al.|[2305.18293v1](http://arxiv.org/abs/2305.18293v1)|[2305.18293v1](http://arxiv.org/pdf/2305.18293v1)|null|
 |**2023-05-29**|**Nitrogen fractionation in ammonia and its insights on nitrogen chemistry**|Elena Redaelli et.al.|[2305.18289v1](http://arxiv.org/abs/2305.18289v1)|[2305.18289v1](http://arxiv.org/pdf/2305.18289v1)|null|
 |**2023-05-29**|**Characterization and evasion of backscattered light in the squeezed-light enhanced gravitational wave interferometer GEO 600**|Fabio Bergamin et.al.|[2305.18284v1](http://arxiv.org/abs/2305.18284v1)|[2305.18284v1](http://arxiv.org/pdf/2305.18284v1)|null|
@@ -2369,6 +2379,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-05-30**|**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**|Rongjie Huang et.al.|[2305.19269v1](http://arxiv.org/abs/2305.19269v1)|[2305.19269v1](http://arxiv.org/pdf/2305.19269v1)|null|
+|**2023-05-30**|**Intriguing Properties of Quantization at Scale**|Arash Ahmadian et.al.|[2305.19268v1](http://arxiv.org/abs/2305.19268v1)|[2305.19268v1](http://arxiv.org/pdf/2305.19268v1)|null|
+|**2023-05-30**|**Probabilistic Computation with Emerging Covariance: towards efficient uncertainty quantification**|Hengyuan Ma et.al.|[2305.19265v1](http://arxiv.org/abs/2305.19265v1)|[2305.19265v1](http://arxiv.org/pdf/2305.19265v1)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
+|**2023-05-30**|**Ambient Diffusion: Learning Clean Distributions from Corrupted Data**|Giannis Daras et.al.|[2305.19256v1](http://arxiv.org/abs/2305.19256v1)|[2305.19256v1](http://arxiv.org/pdf/2305.19256v1)|**[link](https://github.com/giannisdaras/ambient-diffusion)**|
+|**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240v1](http://arxiv.org/abs/2305.19240v1)|[2305.19240v1](http://arxiv.org/pdf/2305.19240v1)|null|
+|**2023-05-30**|**Grammar Prompting for Domain-Specific Language Generation with Large Language Models**|Bailin Wang et.al.|[2305.19234v1](http://arxiv.org/abs/2305.19234v1)|[2305.19234v1](http://arxiv.org/pdf/2305.19234v1)|null|
+|**2023-05-30**|**Controlled Text Generation with Hidden Representation Transformations**|Vaibhav Kumar et.al.|[2305.19230v1](http://arxiv.org/abs/2305.19230v1)|[2305.19230v1](http://arxiv.org/pdf/2305.19230v1)|null|
+|**2023-05-30**|**Unsupervised Melody-to-Lyric Generation**|Yufei Tian et.al.|[2305.19228v1](http://arxiv.org/abs/2305.19228v1)|[2305.19228v1](http://arxiv.org/pdf/2305.19228v1)|null|
+|**2023-05-30**|**Intent-aligned AI systems deplete human agency: the need for agency foundations research in AI safety**|Catalin Mitelut et.al.|[2305.19223v1](http://arxiv.org/abs/2305.19223v1)|[2305.19223v1](http://arxiv.org/pdf/2305.19223v1)|null|
+|**2023-05-30**|**Translation-Enhanced Multilingual Text-to-Image Generation**|Yaoyiran Li et.al.|[2305.19216v1](http://arxiv.org/abs/2305.19216v1)|[2305.19216v1](http://arxiv.org/pdf/2305.19216v1)|null|
 |**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290v1](http://arxiv.org/abs/2305.18290v1)|[2305.18290v1](http://arxiv.org/pdf/2305.18290v1)|null|
 |**2023-05-29**|**Photoswap: Personalized Subject Swapping in Images**|Jing Gu et.al.|[2305.18286v1](http://arxiv.org/abs/2305.18286v1)|[2305.18286v1](http://arxiv.org/pdf/2305.18286v1)|null|
 |**2023-05-29**|**Partially Personalized Federated Learning: Breaking the Curse of Data Heterogeneity**|Konstantin Mishchenko et.al.|[2305.18285v1](http://arxiv.org/abs/2305.18285v1)|[2305.18285v1](http://arxiv.org/pdf/2305.18285v1)|null|
