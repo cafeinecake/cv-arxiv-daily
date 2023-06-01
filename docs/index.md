@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-31**|**The Effective Field Theory of Large Scale Structures of a Fuzzy Dark Matter Universe**|Hamed Manouchehri Kousha et.al.|[2305.20075v1](http://arxiv.org/abs/2305.20075v1)|[2305.20075v1](http://arxiv.org/pdf/2305.20075v1)|null|
+|**2023-05-31**|**MARDELS: A full-sky X-ray selected galaxy cluster catalog**|Matthias Klein et.al.|[2305.20066v1](http://arxiv.org/abs/2305.20066v1)|[2305.20066v1](http://arxiv.org/pdf/2305.20066v1)|null|
+|**2023-05-31**|**Centralised Design and Production of the Ultra-High Vacuum and Laser-Stabilisation Systems for the AION Ultra-Cold Strontium Laboratories**|B. Stray et.al.|[2305.20060v1](http://arxiv.org/abs/2305.20060v1)|[2305.20060v1](http://arxiv.org/pdf/2305.20060v1)|null|
+|**2023-05-31**|**The metallicity dependence of the stellar initial mass function**|Tabassum S. Tanvir et.al.|[2305.20039v1](http://arxiv.org/abs/2305.20039v1)|[2305.20039v1](http://arxiv.org/pdf/2305.20039v1)|null|
+|**2023-05-31**|**Cosmic-Dawn 21-cm Signal from Dynamical Dark Energy**|Lu Yin et.al.|[2305.20038v1](http://arxiv.org/abs/2305.20038v1)|[2305.20038v1](http://arxiv.org/pdf/2305.20038v1)|null|
+|**2023-05-31**|**Detecting and Characterizing Mg II absorption in DESI Survey Validation Quasar Spectra**|Lucas Napolitano et.al.|[2305.20016v1](http://arxiv.org/abs/2305.20016v1)|[2305.20016v1](http://arxiv.org/pdf/2305.20016v1)|null|
+|**2023-05-31**|**The Physical State of Lunar Soil in the Permanently Shadowed Craters of the Moon**|Jacob N. Gamsky et.al.|[2305.20007v1](http://arxiv.org/abs/2305.20007v1)|[2305.20007v1](http://arxiv.org/pdf/2305.20007v1)|null|
+|**2023-05-31**|**Lagrangian Trajectory Modeling of Lunar Dust Particles**|John E. Lane et.al.|[2305.19993v1](http://arxiv.org/abs/2305.19993v1)|[2305.19993v1](http://arxiv.org/pdf/2305.19993v1)|null|
+|**2023-05-31**|**Tripotential MOND theories**|Mordehai Milgrom et.al.|[2305.19986v1](http://arxiv.org/abs/2305.19986v1)|[2305.19986v1](http://arxiv.org/pdf/2305.19986v1)|null|
+|**2023-05-31**|**On the fundamentality of the radial acceleration relation for late-type galaxy dynamics**|Richard Stiskalek et.al.|[2305.19978v1](http://arxiv.org/abs/2305.19978v1)|[2305.19978v1](http://arxiv.org/pdf/2305.19978v1)|null|
 |**2023-05-30**|**Parallelized Acquisition for Active Learning using Monte Carlo Sampling**|Jesús Torrado et.al.|[2305.19267v1](http://arxiv.org/abs/2305.19267v1)|[2305.19267v1](http://arxiv.org/pdf/2305.19267v1)|null|
 |**2023-05-30**|**Absence of one-loop effects on large scales from small scales in non-slow-roll dynamics**|Jacopo Fumagalli et.al.|[2305.19263v1](http://arxiv.org/abs/2305.19263v1)|[2305.19263v1](http://arxiv.org/pdf/2305.19263v1)|null|
 |**2023-05-30**|**Tail diversity from inflation**|Sina Hooshangi et.al.|[2305.19257v1](http://arxiv.org/abs/2305.19257v1)|[2305.19257v1](http://arxiv.org/pdf/2305.19257v1)|null|
@@ -2383,6 +2393,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081v1](http://arxiv.org/abs/2305.20081v1)|[2305.20081v1](http://arxiv.org/pdf/2305.20081v1)|**[link](https://github.com/sail-sg/edp)**|
+|**2023-05-31**|**Decision-Oriented Dialogue for Human-AI Collaboration**|Jessy Lin et.al.|[2305.20076v1](http://arxiv.org/abs/2305.20076v1)|[2305.20076v1](http://arxiv.org/pdf/2305.20076v1)|null|
+|**2023-05-31**|**Feature Learning in Image Hierarchies using Functional Maximal Correlation**|Bo Hu et.al.|[2305.20074v1](http://arxiv.org/abs/2305.20074v1)|[2305.20074v1](http://arxiv.org/pdf/2305.20074v1)|null|
+|**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065v1](http://arxiv.org/abs/2305.20065v1)|[2305.20065v1](http://arxiv.org/pdf/2305.20065v1)|**[link](https://github.com/amathislab/lattice)**|
+|**2023-05-31**|**Let's Verify Step by Step**|Hunter Lightman et.al.|[2305.20050v1](http://arxiv.org/abs/2305.20050v1)|[2305.20050v1](http://arxiv.org/pdf/2305.20050v1)|**[link](https://github.com/openai/prm800k)**|
+|**2023-05-31**|**LOWA: Localize Objects in the Wild with Attributes**|Xiaoyuan Guo et.al.|[2305.20047v1](http://arxiv.org/abs/2305.20047v1)|[2305.20047v1](http://arxiv.org/pdf/2305.20047v1)|null|
+|**2023-05-31**|**Computational Language Assessment in patients with speech, language, and communication impairments**|Charalambos Themistocleous et.al.|[2305.20046v1](http://arxiv.org/abs/2305.20046v1)|[2305.20046v1](http://arxiv.org/pdf/2305.20046v1)|null|
+|**2023-05-31**|**Bias Mitigation Methods for Binary Classification Decision-Making Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|[2305.20020v1](http://arxiv.org/pdf/2305.20020v1)|null|
+|**2023-05-31**|**Monotonic Location Attention for Length Generalization**|Jishnu Ray Chowdhury et.al.|[2305.20019v1](http://arxiv.org/abs/2305.20019v1)|[2305.20019v1](http://arxiv.org/pdf/2305.20019v1)|**[link](https://github.com/jrc1995/monotoniclocationattention)**|
+|**2023-05-31**|**Scalable Learning of Latent Language Structure With Logical Offline Cycle Consistency**|Maxwell Crouse et.al.|[2305.20018v1](http://arxiv.org/abs/2305.20018v1)|[2305.20018v1](http://arxiv.org/pdf/2305.20018v1)|null|
 |**2023-05-30**|**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**|Rongjie Huang et.al.|[2305.19269v1](http://arxiv.org/abs/2305.19269v1)|[2305.19269v1](http://arxiv.org/pdf/2305.19269v1)|null|
 |**2023-05-30**|**Intriguing Properties of Quantization at Scale**|Arash Ahmadian et.al.|[2305.19268v1](http://arxiv.org/abs/2305.19268v1)|[2305.19268v1](http://arxiv.org/pdf/2305.19268v1)|null|
 |**2023-05-31**|**Probabilistic Computation with Emerging Covariance: Towards Efficient Uncertainty Quantification**|Hengyuan Ma et.al.|[2305.19265v2](http://arxiv.org/abs/2305.19265v2)|[2305.19265v2](http://arxiv.org/pdf/2305.19265v2)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
