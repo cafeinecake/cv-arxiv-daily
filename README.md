@@ -1,4 +1,4 @@
-## Updated on 2023.05.31
+## Updated on 2023.06.01
 
 ## Astrophysics
 
@@ -2381,11 +2381,11 @@
 |---|---|---|---|---|---|
 |**2023-05-30**|**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**|Rongjie Huang et.al.|[2305.19269v1](http://arxiv.org/abs/2305.19269v1)|[2305.19269v1](http://arxiv.org/pdf/2305.19269v1)|null|
 |**2023-05-30**|**Intriguing Properties of Quantization at Scale**|Arash Ahmadian et.al.|[2305.19268v1](http://arxiv.org/abs/2305.19268v1)|[2305.19268v1](http://arxiv.org/pdf/2305.19268v1)|null|
-|**2023-05-30**|**Probabilistic Computation with Emerging Covariance: towards efficient uncertainty quantification**|Hengyuan Ma et.al.|[2305.19265v1](http://arxiv.org/abs/2305.19265v1)|[2305.19265v1](http://arxiv.org/pdf/2305.19265v1)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
+|**2023-05-31**|**Probabilistic Computation with Emerging Covariance: Towards Efficient Uncertainty Quantification**|Hengyuan Ma et.al.|[2305.19265v2](http://arxiv.org/abs/2305.19265v2)|[2305.19265v2](http://arxiv.org/pdf/2305.19265v2)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
 |**2023-05-30**|**Ambient Diffusion: Learning Clean Distributions from Corrupted Data**|Giannis Daras et.al.|[2305.19256v1](http://arxiv.org/abs/2305.19256v1)|[2305.19256v1](http://arxiv.org/pdf/2305.19256v1)|**[link](https://github.com/giannisdaras/ambient-diffusion)**|
 |**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240v1](http://arxiv.org/abs/2305.19240v1)|[2305.19240v1](http://arxiv.org/pdf/2305.19240v1)|null|
-|**2023-05-30**|**Grammar Prompting for Domain-Specific Language Generation with Large Language Models**|Bailin Wang et.al.|[2305.19234v1](http://arxiv.org/abs/2305.19234v1)|[2305.19234v1](http://arxiv.org/pdf/2305.19234v1)|null|
-|**2023-05-30**|**Controlled Text Generation with Hidden Representation Transformations**|Vaibhav Kumar et.al.|[2305.19230v1](http://arxiv.org/abs/2305.19230v1)|[2305.19230v1](http://arxiv.org/pdf/2305.19230v1)|null|
+|**2023-05-31**|**Grammar Prompting for Domain-Specific Language Generation with Large Language Models**|Bailin Wang et.al.|[2305.19234v2](http://arxiv.org/abs/2305.19234v2)|[2305.19234v2](http://arxiv.org/pdf/2305.19234v2)|null|
+|**2023-05-31**|**Controlled Text Generation with Hidden Representation Transformations**|Vaibhav Kumar et.al.|[2305.19230v2](http://arxiv.org/abs/2305.19230v2)|[2305.19230v2](http://arxiv.org/pdf/2305.19230v2)|null|
 |**2023-05-30**|**Unsupervised Melody-to-Lyric Generation**|Yufei Tian et.al.|[2305.19228v1](http://arxiv.org/abs/2305.19228v1)|[2305.19228v1](http://arxiv.org/pdf/2305.19228v1)|null|
 |**2023-05-30**|**Intent-aligned AI systems deplete human agency: the need for agency foundations research in AI safety**|Catalin Mitelut et.al.|[2305.19223v1](http://arxiv.org/abs/2305.19223v1)|[2305.19223v1](http://arxiv.org/pdf/2305.19223v1)|null|
 |**2023-05-30**|**Translation-Enhanced Multilingual Text-to-Image Generation**|Yaoyiran Li et.al.|[2305.19216v1](http://arxiv.org/abs/2305.19216v1)|[2305.19216v1](http://arxiv.org/pdf/2305.19216v1)|null|
