@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-01**|**Quadratic shape biases in three-dimensional halo intrinsic alignments**|Kazuyuki Akitsu et.al.|[2306.00969v1](http://arxiv.org/abs/2306.00969v1)|[2306.00969v1](http://arxiv.org/pdf/2306.00969v1)|null|
+|**2023-06-01**|**The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray--selected active galactic nuclei**|Sophia G. H. Waddell et.al.|[2306.00961v1](http://arxiv.org/abs/2306.00961v1)|[2306.00961v1](http://arxiv.org/pdf/2306.00961v1)|null|
+|**2023-06-01**|**Hard X-ray emission from blazars associated with high-energy neutrinos**|A. V. Plavin et.al.|[2306.00960v1](http://arxiv.org/abs/2306.00960v1)|[2306.00960v1](http://arxiv.org/pdf/2306.00960v1)|null|
+|**2023-06-01**|**JWST-JADES. Possible Population III signatures at z=10.6 in the halo of GN-z11**|Roberto Maiolino et.al.|[2306.00953v1](http://arxiv.org/abs/2306.00953v1)|[2306.00953v1](http://arxiv.org/pdf/2306.00953v1)|null|
+|**2023-06-01**|**GW190425 and FRB20190425A: Challenges for Fast Radio Bursts as Multi-Messenger Sources from Binary Neutron Star Mergers**|Mohit Bhardwaj et.al.|[2306.00948v1](http://arxiv.org/abs/2306.00948v1)|[2306.00948v1](http://arxiv.org/pdf/2306.00948v1)|null|
+|**2023-06-01**|**Novel CMB constraints on the $α$ parameter in alpha-attractor models**|Laura Iacconi et.al.|[2306.00918v1](http://arxiv.org/abs/2306.00918v1)|[2306.00918v1](http://arxiv.org/pdf/2306.00918v1)|null|
+|**2023-06-01**|**A NICER View on the 2020 Magnetar-Like Outburst of PSR J1846-0258**|Chin-Ping Hu et.al.|[2306.00902v1](http://arxiv.org/abs/2306.00902v1)|[2306.00902v1](http://arxiv.org/pdf/2306.00902v1)|null|
+|**2023-06-01**|**The origin of the nano-Hertz stochastic gravitational wave background: the contribution from $z\gtrsim1$ supermassive black-hole binaries**|Jean J. Somalwar et.al.|[2306.00898v1](http://arxiv.org/abs/2306.00898v1)|[2306.00898v1](http://arxiv.org/pdf/2306.00898v1)|null|
+|**2023-06-01**|**Fine structures of radio bursts from flare star AD Leo with FAST observations**|Jiale Zhang et.al.|[2306.00895v1](http://arxiv.org/abs/2306.00895v1)|[2306.00895v1](http://arxiv.org/pdf/2306.00895v1)|null|
+|**2023-06-01**|**One hundred new unidentified optical emission lines from a low-metallicity photodissociation region**|William J. Henney et.al.|[2306.00894v1](http://arxiv.org/abs/2306.00894v1)|[2306.00894v1](http://arxiv.org/pdf/2306.00894v1)|**[link](https://github.com/will-henney/muse-hii-regions)**|
 |**2023-05-31**|**The Effective Field Theory of Large Scale Structures of a Fuzzy Dark Matter Universe**|Hamed Manouchehri Kousha et.al.|[2305.20075v1](http://arxiv.org/abs/2305.20075v1)|[2305.20075v1](http://arxiv.org/pdf/2305.20075v1)|null|
 |**2023-05-31**|**MARDELS: A full-sky X-ray selected galaxy cluster catalog**|Matthias Klein et.al.|[2305.20066v1](http://arxiv.org/abs/2305.20066v1)|[2305.20066v1](http://arxiv.org/pdf/2305.20066v1)|null|
 |**2023-05-31**|**Centralised Design and Production of the Ultra-High Vacuum and Laser-Stabilisation Systems for the AION Ultra-Cold Strontium Laboratories**|B. Stray et.al.|[2305.20060v1](http://arxiv.org/abs/2305.20060v1)|[2305.20060v1](http://arxiv.org/pdf/2305.20060v1)|null|
@@ -2389,6 +2399,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983v1](http://arxiv.org/abs/2306.00983v1)|[2306.00983v1](http://arxiv.org/pdf/2306.00983v1)|null|
+|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980v1](http://arxiv.org/abs/2306.00980v1)|[2306.00980v1](http://arxiv.org/pdf/2306.00980v1)|null|
+|**2023-06-01**|**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation**|Shaozhe Hao et.al.|[2306.00971v1](http://arxiv.org/abs/2306.00971v1)|[2306.00971v1](http://arxiv.org/pdf/2306.00971v1)|**[link](https://github.com/haoosz/vico)**|
+|**2023-06-01**|**LIV: Language-Image Representations and Rewards for Robotic Control**|Yecheng Jason Ma et.al.|[2306.00958v1](http://arxiv.org/abs/2306.00958v1)|[2306.00958v1](http://arxiv.org/pdf/2306.00958v1)|**[link](https://github.com/penn-pal-lab/liv)**|
+|**2023-06-01**|**The ObjectFolder Benchmark: Multisensory Learning with Neural and Real Objects**|Ruohan Gao et.al.|[2306.00956v1](http://arxiv.org/abs/2306.00956v1)|[2306.00956v1](http://arxiv.org/pdf/2306.00956v1)|null|
+|**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950v1](http://arxiv.org/abs/2306.00950v1)|[2306.00950v1](http://arxiv.org/pdf/2306.00950v1)|null|
+|**2023-06-01**|**EEL: Efficiently Encoding Lattices for Reranking**|Prasann Singhal et.al.|[2306.00947v1](http://arxiv.org/abs/2306.00947v1)|[2306.00947v1](http://arxiv.org/pdf/2306.00947v1)|**[link](https://github.com/prasanns/eel-reranking)**|
+|**2023-06-01**|**Train Offline, Test Online: A Real Robot Learning Benchmark**|Gaoyue Zhou et.al.|[2306.00942v1](http://arxiv.org/abs/2306.00942v1)|[2306.00942v1](http://arxiv.org/pdf/2306.00942v1)|**[link](https://github.com/AGI-Labs/toto_benchmark)**|
+|**2023-06-01**|**chemSKI with tokens: world building and economy in the SKI universe**|Marius Buliga et.al.|[2306.00938v1](http://arxiv.org/abs/2306.00938v1)|[2306.00938v1](http://arxiv.org/pdf/2306.00938v1)|**[link](https://github.com/mbuliga/chemski)**|
+|**2023-06-01**|**STEVE-1: A Generative Model for Text-to-Behavior in Minecraft**|Shalev Lifshitz et.al.|[2306.00937v1](http://arxiv.org/abs/2306.00937v1)|[2306.00937v1](http://arxiv.org/pdf/2306.00937v1)|null|
 |**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081v1](http://arxiv.org/abs/2305.20081v1)|[2305.20081v1](http://arxiv.org/pdf/2305.20081v1)|**[link](https://github.com/sail-sg/edp)**|
 |**2023-06-01**|**Decision-Oriented Dialogue for Human-AI Collaboration**|Jessy Lin et.al.|[2305.20076v2](http://arxiv.org/abs/2305.20076v2)|[2305.20076v2](http://arxiv.org/pdf/2305.20076v2)|null|
 |**2023-05-31**|**Feature Learning in Image Hierarchies using Functional Maximal Correlation**|Bo Hu et.al.|[2305.20074v1](http://arxiv.org/abs/2305.20074v1)|[2305.20074v1](http://arxiv.org/pdf/2305.20074v1)|null|
