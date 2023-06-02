@@ -1,4 +1,4 @@
-> Updated on 2023.06.01
+> Updated on 2023.06.02
 
 ## Astrophysics
 
@@ -2386,7 +2386,7 @@
 ## AI
 
 - 2023-05-31, **Efficient Diffusion Policies for Offline Reinforcement Learning**, Bingyi Kang et.al., Paper: [http://arxiv.org/abs/2305.20081v1](http://arxiv.org/abs/2305.20081v1),Paper: [http://arxiv.org/abs/2305.20081v1](http://arxiv.org/pdf/2305.20081v1), Code: **[https://github.com/sail-sg/edp](https://github.com/sail-sg/edp)**
-- 2023-05-31, **Decision-Oriented Dialogue for Human-AI Collaboration**, Jessy Lin et.al., Paper: [http://arxiv.org/abs/2305.20076v1](http://arxiv.org/abs/2305.20076v1), Paper: [http://arxiv.org/abs/2305.20076v1](http://arxiv.org/pdf/2305.20076v1)
+- 2023-06-01, **Decision-Oriented Dialogue for Human-AI Collaboration**, Jessy Lin et.al., Paper: [http://arxiv.org/abs/2305.20076v2](http://arxiv.org/abs/2305.20076v2), Paper: [http://arxiv.org/abs/2305.20076v2](http://arxiv.org/pdf/2305.20076v2)
 - 2023-05-31, **Feature Learning in Image Hierarchies using Functional Maximal Correlation**, Bo Hu et.al., Paper: [http://arxiv.org/abs/2305.20074v1](http://arxiv.org/abs/2305.20074v1), Paper: [http://arxiv.org/abs/2305.20074v1](http://arxiv.org/pdf/2305.20074v1)
 - 2023-05-31, **Latent Exploration for Reinforcement Learning**, Alberto Silvio Chiappa et.al., Paper: [http://arxiv.org/abs/2305.20065v1](http://arxiv.org/abs/2305.20065v1),Paper: [http://arxiv.org/abs/2305.20065v1](http://arxiv.org/pdf/2305.20065v1), Code: **[https://github.com/amathislab/lattice](https://github.com/amathislab/lattice)**
 - 2023-05-31, **Let's Verify Step by Step**, Hunter Lightman et.al., Paper: [http://arxiv.org/abs/2305.20050v1](http://arxiv.org/abs/2305.20050v1),Paper: [http://arxiv.org/abs/2305.20050v1](http://arxiv.org/pdf/2305.20050v1), Code: **[https://github.com/openai/prm800k](https://github.com/openai/prm800k)**

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 
 ## Astrophysics
 
@@ -2394,7 +2394,7 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081v1](http://arxiv.org/abs/2305.20081v1)|[2305.20081v1](http://arxiv.org/pdf/2305.20081v1)|**[link](https://github.com/sail-sg/edp)**|
-|**2023-05-31**|**Decision-Oriented Dialogue for Human-AI Collaboration**|Jessy Lin et.al.|[2305.20076v1](http://arxiv.org/abs/2305.20076v1)|[2305.20076v1](http://arxiv.org/pdf/2305.20076v1)|null|
+|**2023-06-01**|**Decision-Oriented Dialogue for Human-AI Collaboration**|Jessy Lin et.al.|[2305.20076v2](http://arxiv.org/abs/2305.20076v2)|[2305.20076v2](http://arxiv.org/pdf/2305.20076v2)|null|
 |**2023-05-31**|**Feature Learning in Image Hierarchies using Functional Maximal Correlation**|Bo Hu et.al.|[2305.20074v1](http://arxiv.org/abs/2305.20074v1)|[2305.20074v1](http://arxiv.org/pdf/2305.20074v1)|null|
 |**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065v1](http://arxiv.org/abs/2305.20065v1)|[2305.20065v1](http://arxiv.org/pdf/2305.20065v1)|**[link](https://github.com/amathislab/lattice)**|
 |**2023-05-31**|**Let's Verify Step by Step**|Hunter Lightman et.al.|[2305.20050v1](http://arxiv.org/abs/2305.20050v1)|[2305.20050v1](http://arxiv.org/pdf/2305.20050v1)|**[link](https://github.com/openai/prm800k)**|
