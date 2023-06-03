@@ -2404,7 +2404,7 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983v1](http://arxiv.org/abs/2306.00983v1)|[2306.00983v1](http://arxiv.org/pdf/2306.00983v1)|null|
-|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980v1](http://arxiv.org/abs/2306.00980v1)|[2306.00980v1](http://arxiv.org/pdf/2306.00980v1)|null|
+|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980v1](http://arxiv.org/abs/2306.00980v1)|[2306.00980v1](http://arxiv.org/pdf/2306.00980v1)|**[link](https://github.com/huggingface/diffusers)**|
 |**2023-06-01**|**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation**|Shaozhe Hao et.al.|[2306.00971v1](http://arxiv.org/abs/2306.00971v1)|[2306.00971v1](http://arxiv.org/pdf/2306.00971v1)|**[link](https://github.com/haoosz/vico)**|
 |**2023-06-01**|**LIV: Language-Image Representations and Rewards for Robotic Control**|Yecheng Jason Ma et.al.|[2306.00958v1](http://arxiv.org/abs/2306.00958v1)|[2306.00958v1](http://arxiv.org/pdf/2306.00958v1)|**[link](https://github.com/penn-pal-lab/liv)**|
 |**2023-06-01**|**The ObjectFolder Benchmark: Multisensory Learning with Neural and Real Objects**|Ruohan Gao et.al.|[2306.00956v1](http://arxiv.org/abs/2306.00956v1)|[2306.00956v1](http://arxiv.org/pdf/2306.00956v1)|null|
