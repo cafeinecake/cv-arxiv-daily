@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-02**|**Confirmation of the spectral excess in DAMIC at SNOLAB with skipper CCDs**|A. Aguilar-Arevalo et.al.|[2306.01717v1](http://arxiv.org/abs/2306.01717v1)|[2306.01717v1](http://arxiv.org/pdf/2306.01717v1)|null|
+|**2023-06-02**|**A New Galaxy Cluster Merger Capable of Probing Dark Matter: Abell 56**|David Wittman et.al.|[2306.01715v1](http://arxiv.org/abs/2306.01715v1)|[2306.01715v1](http://arxiv.org/pdf/2306.01715v1)|null|
+|**2023-06-02**|**Turbulence in compact to giant H II regions**|J. García-Vázquez et.al.|[2306.01703v1](http://arxiv.org/abs/2306.01703v1)|[2306.01703v1](http://arxiv.org/pdf/2306.01703v1)|null|
+|**2023-06-02**|**Robustness of Baryon Acoustic Oscillations Measurements with Photometric Redshift Uncertainties**|Keitaro Ishikawa et.al.|[2306.01696v1](http://arxiv.org/abs/2306.01696v1)|[2306.01696v1](http://arxiv.org/pdf/2306.01696v1)|null|
+|**2023-06-02**|**Impacts of the $^{12}\rm{C}\left(α,γ\right)^{16}\!\rm{O}$ reaction rate on $^{56}{\rm Ni}$ nucleosynthesis in pair-instability supernovae**|Hiroki Kawashimo et.al.|[2306.01682v1](http://arxiv.org/abs/2306.01682v1)|[2306.01682v1](http://arxiv.org/pdf/2306.01682v1)|null|
+|**2023-06-02**|**SOFIA/HAWC+ far-infrared polarimetric large area CMZ exploration (fireplace) survey I: General results from the pilot program**|Natalie O. Butterfield et.al.|[2306.01681v1](http://arxiv.org/abs/2306.01681v1)|[2306.01681v1](http://arxiv.org/pdf/2306.01681v1)|null|
+|**2023-06-02**|**In-situ enrichment in heavy elements of hot Jupiters**|A. Morbidelli et.al.|[2306.01653v1](http://arxiv.org/abs/2306.01653v1)|[2306.01653v1](http://arxiv.org/pdf/2306.01653v1)|null|
+|**2023-06-02**|**HYPERION. Merger and outflow in the most luminous $z>6$ quasar**|R. Tripodi et.al.|[2306.01644v1](http://arxiv.org/abs/2306.01644v1)|[2306.01644v1](http://arxiv.org/pdf/2306.01644v1)|null|
+|**2023-06-02**|**The Radio Parallax of the Crab Pulsar: A First VLBI Measurement Calibrated with Giant Pulses**|Rebecca Lin et.al.|[2306.01617v1](http://arxiv.org/abs/2306.01617v1)|[2306.01617v1](http://arxiv.org/pdf/2306.01617v1)|null|
+|**2023-06-02**|**Multiwavelength Bulge-Disk Decomposition for the Galaxy M81 (NGC 3031). I. Morphology**|Ye-Wei Mao et.al.|[2306.01605v1](http://arxiv.org/abs/2306.01605v1)|[2306.01605v1](http://arxiv.org/pdf/2306.01605v1)|null|
 |**2023-06-01**|**Quadratic shape biases in three-dimensional halo intrinsic alignments**|Kazuyuki Akitsu et.al.|[2306.00969v1](http://arxiv.org/abs/2306.00969v1)|[2306.00969v1](http://arxiv.org/pdf/2306.00969v1)|null|
 |**2023-06-01**|**The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray--selected active galactic nuclei**|Sophia G. H. Waddell et.al.|[2306.00961v1](http://arxiv.org/abs/2306.00961v1)|[2306.00961v1](http://arxiv.org/pdf/2306.00961v1)|null|
 |**2023-06-01**|**Hard X-ray emission from blazars associated with high-energy neutrinos**|A. V. Plavin et.al.|[2306.00960v1](http://arxiv.org/abs/2306.00960v1)|[2306.00960v1](http://arxiv.org/pdf/2306.00960v1)|null|
@@ -2399,6 +2409,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-02**|**DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model**|Xiuye Gu et.al.|[2306.01736v1](http://arxiv.org/abs/2306.01736v1)|[2306.01736v1](http://arxiv.org/pdf/2306.01736v1)|null|
+|**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|[2306.01735v1](http://arxiv.org/pdf/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
+|**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|[2306.01732v1](http://arxiv.org/pdf/2306.01732v1)|null|
+|**2023-06-02**|**Improving Generalization in Task-oriented Dialogues with Workflows and Action Plans**|Stefania Raimondo et.al.|[2306.01729v1](http://arxiv.org/abs/2306.01729v1)|[2306.01729v1](http://arxiv.org/pdf/2306.01729v1)|null|
+|**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721v1](http://arxiv.org/abs/2306.01721v1)|[2306.01721v1](http://arxiv.org/pdf/2306.01721v1)|**[link](https://github.com/opengvlab/ddps)**|
+|**2023-06-02**|**OMNI: Open-endedness via Models of human Notions of Interestingness**|Jenny Zhang et.al.|[2306.01711v1](http://arxiv.org/abs/2306.01711v1)|[2306.01711v1](http://arxiv.org/pdf/2306.01711v1)|**[link](https://github.com/jennyzzt/omni)**|
+|**2023-06-02**|**Resolving Interference When Merging Models**|Prateek Yadav et.al.|[2306.01708v1](http://arxiv.org/abs/2306.01708v1)|[2306.01708v1](http://arxiv.org/pdf/2306.01708v1)|**[link](https://github.com/prateeky2806/ties-merging)**|
+|**2023-06-02**|**Is Generative Modeling-based Stylization Necessary for Domain Adaptation in Regression Tasks?**|Jinman Park et.al.|[2306.01706v1](http://arxiv.org/abs/2306.01706v1)|[2306.01706v1](http://arxiv.org/pdf/2306.01706v1)|null|
+|**2023-06-02**|**The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles**|Md Shamim Hussain et.al.|[2306.01705v1](http://arxiv.org/abs/2306.01705v1)|[2306.01705v1](http://arxiv.org/pdf/2306.01705v1)|null|
+|**2023-06-02**|**Affinity Clustering Framework for Data Debiasing Using Pairwise Distribution Discrepancy**|Siamak Ghodsi et.al.|[2306.01699v1](http://arxiv.org/abs/2306.01699v1)|[2306.01699v1](http://arxiv.org/pdf/2306.01699v1)|**[link](https://github.com/siamakghodsi/masc)**|
 |**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983v1](http://arxiv.org/abs/2306.00983v1)|[2306.00983v1](http://arxiv.org/pdf/2306.00983v1)|null|
 |**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980v1](http://arxiv.org/abs/2306.00980v1)|[2306.00980v1](http://arxiv.org/pdf/2306.00980v1)|**[link](https://github.com/huggingface/diffusers)**|
 |**2023-06-01**|**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation**|Shaozhe Hao et.al.|[2306.00971v1](http://arxiv.org/abs/2306.00971v1)|[2306.00971v1](http://arxiv.org/pdf/2306.00971v1)|**[link](https://github.com/haoosz/vico)**|
