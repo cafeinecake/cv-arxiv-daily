@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-05**|**Signatures of primordial black holes in gravitational wave clustering**|Sarah Libanore et.al.|[2306.03087v1](http://arxiv.org/abs/2306.03087v1)|[2306.03087v1](http://arxiv.org/pdf/2306.03087v1)|null|
+|**2023-06-05**|**The stellar mass of the Gaia-Sausage/Enceladus accretion remnant**|James Lane et.al.|[2306.03084v1](http://arxiv.org/abs/2306.03084v1)|[2306.03084v1](http://arxiv.org/pdf/2306.03084v1)|null|
+|**2023-06-05**|**Results of the 2015 Workshop on Asteroid Simulants**|Philip T. Metzger et.al.|[2306.03068v1](http://arxiv.org/abs/2306.03068v1)|[2306.03068v1](http://arxiv.org/pdf/2306.03068v1)|null|
+|**2023-06-05**|**A GALEX view of the DA White Dwarf Population**|Renae E. Wall et.al.|[2306.03063v1](http://arxiv.org/abs/2306.03063v1)|[2306.03063v1](http://arxiv.org/pdf/2306.03063v1)|null|
+|**2023-06-05**|**Constraining extended cosmologies with GW$\times$LSS cross-correlations**|Michele Bosi et.al.|[2306.03031v1](http://arxiv.org/abs/2306.03031v1)|[2306.03031v1](http://arxiv.org/pdf/2306.03031v1)|null|
+|**2023-06-05**|**$f(Q)$-gravity and neutrino physics**|Luís Atayde et.al.|[2306.03015v1](http://arxiv.org/abs/2306.03015v1)|[2306.03015v1](http://arxiv.org/pdf/2306.03015v1)|null|
+|**2023-06-05**|**Stratospheric dayside-to-nightside circulation drives the 3-D ozone distribution on synchronously rotating rocky exoplanets**|Marrick Braam et.al.|[2306.03004v1](http://arxiv.org/abs/2306.03004v1)|[2306.03004v1](http://arxiv.org/pdf/2306.03004v1)|null|
+|**2023-06-05**|**KSIM: simulating KIDSpec, a Microwave Kinetic Inductance Detector spectrograph for the optical/NIR**|V. Benedict Hofmann et.al.|[2306.03003v1](http://arxiv.org/abs/2306.03003v1)|[2306.03003v1](http://arxiv.org/pdf/2306.03003v1)|null|
+|**2023-06-05**|**On the asymptotic connection between full- and flat-sky angular correlators**|Zucheng Gao et.al.|[2306.02993v1](http://arxiv.org/abs/2306.02993v1)|[2306.02993v1](http://arxiv.org/pdf/2306.02993v1)|null|
+|**2023-06-05**|**Revisiting Lorentz invariance violation from GRB 221009A**|Hao Li et.al.|[2306.02962v1](http://arxiv.org/abs/2306.02962v1)|[2306.02962v1](http://arxiv.org/pdf/2306.02962v1)|null|
 |**2023-06-02**|**Confirmation of the spectral excess in DAMIC at SNOLAB with skipper CCDs**|A. Aguilar-Arevalo et.al.|[2306.01717v1](http://arxiv.org/abs/2306.01717v1)|[2306.01717v1](http://arxiv.org/pdf/2306.01717v1)|null|
 |**2023-06-02**|**A New Galaxy Cluster Merger Capable of Probing Dark Matter: Abell 56**|David Wittman et.al.|[2306.01715v1](http://arxiv.org/abs/2306.01715v1)|[2306.01715v1](http://arxiv.org/pdf/2306.01715v1)|null|
 |**2023-06-02**|**Turbulence in compact to giant H II regions**|J. García-Vázquez et.al.|[2306.01703v1](http://arxiv.org/abs/2306.01703v1)|[2306.01703v1](http://arxiv.org/pdf/2306.01703v1)|null|
@@ -2413,6 +2423,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-05**|**RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems**|Tianyang Liu et.al.|[2306.03091v1](http://arxiv.org/abs/2306.03091v1)|[2306.03091v1](http://arxiv.org/pdf/2306.03091v1)|**[link](https://github.com/Leolty/repobench)**|
+|**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|[2306.03090v1](http://arxiv.org/pdf/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
+|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|[2306.03088v1](http://arxiv.org/pdf/2306.03088v1)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|[2306.03083v1](http://arxiv.org/pdf/2306.03083v1)|null|
+|**2023-06-05**|**InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**|Lichang Chen et.al.|[2306.03082v1](http://arxiv.org/abs/2306.03082v1)|[2306.03082v1](http://arxiv.org/pdf/2306.03082v1)|**[link](https://github.com/lichang-chen/instructzero)**|
+|**2023-06-05**|**Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs**|Alexander K. Lew et.al.|[2306.03081v1](http://arxiv.org/abs/2306.03081v1)|[2306.03081v1](http://arxiv.org/pdf/2306.03081v1)|**[link](https://github.com/probcomp/llamppl)**|
+|**2023-06-05**|**Interactive Editing for Text Summarization**|Yujia Xie et.al.|[2306.03067v1](http://arxiv.org/abs/2306.03067v1)|[2306.03067v1](http://arxiv.org/pdf/2306.03067v1)|**[link](https://github.com/microsoft/interactive-summarization)**|
+|**2023-06-05**|**LibAUC: A Deep Learning Library for X-Risk Optimization**|Zhuoning Yuan et.al.|[2306.03065v1](http://arxiv.org/abs/2306.03065v1)|[2306.03065v1](http://arxiv.org/pdf/2306.03065v1)|**[link](https://github.com/Optimization-AI/LibAUC)**|
+|**2023-06-05**|**Structured Voronoi Sampling**|Afra Amini et.al.|[2306.03061v1](http://arxiv.org/abs/2306.03061v1)|[2306.03061v1](http://arxiv.org/pdf/2306.03061v1)|null|
+|**2023-06-05**|**From Robustness to Explainability and Back Again**|Xuanxiang Huang et.al.|[2306.03048v1](http://arxiv.org/abs/2306.03048v1)|[2306.03048v1](http://arxiv.org/pdf/2306.03048v1)|null|
 |**2023-06-02**|**DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model**|Xiuye Gu et.al.|[2306.01736v1](http://arxiv.org/abs/2306.01736v1)|[2306.01736v1](http://arxiv.org/pdf/2306.01736v1)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|[2306.01735v1](http://arxiv.org/pdf/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|[2306.01732v1](http://arxiv.org/pdf/2306.01732v1)|null|
