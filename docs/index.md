@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-06**|**A search for inter-cluster filaments with LOFAR and eROSITA**|D. N. Hoang et.al.|[2306.03904v1](http://arxiv.org/abs/2306.03904v1)|[2306.03904v1](http://arxiv.org/pdf/2306.03904v1)|null|
+|**2023-06-06**|**Observational Evidence for Primordial Black Holes: A Positivist Perspective**|Bernard Carr et.al.|[2306.03903v1](http://arxiv.org/abs/2306.03903v1)|[2306.03903v1](http://arxiv.org/pdf/2306.03903v1)|null|
+|**2023-06-06**|**Critical Points in Palatini Higgs Inflation with Small Non-Minimal Coupling**|Arthur Poisson et.al.|[2306.03893v1](http://arxiv.org/abs/2306.03893v1)|[2306.03893v1](http://arxiv.org/pdf/2306.03893v1)|null|
+|**2023-06-06**|**Systematic performance of the ASKAP Fast Radio Burst search algorithm**|Hao Qiu et.al.|[2306.03886v1](http://arxiv.org/abs/2306.03886v1)|[2306.03886v1](http://arxiv.org/pdf/2306.03886v1)|null|
+|**2023-06-06**|**21 cm Power Spectrum for Bimetric Gravity and its Detectability with SKA1-Mid Telescope**|Ajay Bassi et.al.|[2306.03875v1](http://arxiv.org/abs/2306.03875v1)|[2306.03875v1](http://arxiv.org/pdf/2306.03875v1)|null|
+|**2023-06-06**|**Reinterpreting the Polluted White Dwarf SDSS J122859.93+104032.9 in Light of Thermohaline Mixing Models: More Polluting Material from a Larger Orbiting Solid Body**|Arianna Dwomoh et.al.|[2306.03864v1](http://arxiv.org/abs/2306.03864v1)|[2306.03864v1](http://arxiv.org/pdf/2306.03864v1)|null|
+|**2023-06-06**|**Photon radiation by relatively slowly rotating fermions in magnetic field**|Matteo Buzzegoli et.al.|[2306.03863v1](http://arxiv.org/abs/2306.03863v1)|[2306.03863v1](http://arxiv.org/pdf/2306.03863v1)|null|
+|**2023-06-06**|**Follow-up analyses to the O3 LIGO-Virgo-KAGRA lensing searches**|Justin Janquart et.al.|[2306.03827v1](http://arxiv.org/abs/2306.03827v1)|[2306.03827v1](http://arxiv.org/pdf/2306.03827v1)|null|
+|**2023-06-06**|**A Survey of Gravitational Waves**|Frans Pretorius et.al.|[2306.03797v1](http://arxiv.org/abs/2306.03797v1)|[2306.03797v1](http://arxiv.org/pdf/2306.03797v1)|null|
+|**2023-06-06**|**Thermal Extraction of Volatiles from Lunar and Asteroid Regolith in Axisymmetric Crank-Nicholson Modeling**|Philip T. Metzger et.al.|[2306.03776v1](http://arxiv.org/abs/2306.03776v1)|[2306.03776v1](http://arxiv.org/pdf/2306.03776v1)|null|
 |**2023-06-05**|**Signatures of primordial black holes in gravitational wave clustering**|Sarah Libanore et.al.|[2306.03087v1](http://arxiv.org/abs/2306.03087v1)|[2306.03087v1](http://arxiv.org/pdf/2306.03087v1)|null|
 |**2023-06-05**|**The stellar mass of the Gaia-Sausage/Enceladus accretion remnant**|James Lane et.al.|[2306.03084v1](http://arxiv.org/abs/2306.03084v1)|[2306.03084v1](http://arxiv.org/pdf/2306.03084v1)|null|
 |**2023-06-05**|**Results of the 2015 Workshop on Asteroid Simulants**|Philip T. Metzger et.al.|[2306.03068v1](http://arxiv.org/abs/2306.03068v1)|[2306.03068v1](http://arxiv.org/pdf/2306.03068v1)|null|
@@ -2423,6 +2433,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-06**|**Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**|Yeldar Toleubay et.al.|[2306.03902v1](http://arxiv.org/abs/2306.03902v1)|[2306.03902v1](http://arxiv.org/pdf/2306.03902v1)|null|
+|**2023-06-06**|**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**|Chenxu Hu et.al.|[2306.03901v1](http://arxiv.org/abs/2306.03901v1)|[2306.03901v1](http://arxiv.org/pdf/2306.03901v1)|null|
+|**2023-06-06**|**Synchronous micromechanically resonant programmable photonic circuits**|Mark Dong et.al.|[2306.03895v1](http://arxiv.org/abs/2306.03895v1)|[2306.03895v1](http://arxiv.org/pdf/2306.03895v1)|null|
+|**2023-06-06**|**Embracing Background Knowledge in the Analysis of Actual Causality: An Answer Set Programming Approach**|Michael Gelfond et.al.|[2306.03874v1](http://arxiv.org/abs/2306.03874v1)|[2306.03874v1](http://arxiv.org/pdf/2306.03874v1)|null|
+|**2023-06-06**|**Deductive Verification of Chain-of-Thought Reasoning**|Zhan Ling et.al.|[2306.03872v1](http://arxiv.org/abs/2306.03872v1)|[2306.03872v1](http://arxiv.org/pdf/2306.03872v1)|**[link](https://github.com/lz1oceani/verify_cot)**|
+|**2023-06-06**|**Correction of Errors in Preference Ratings from Automated Metrics for Text Generation**|Jan Deriu et.al.|[2306.03866v1](http://arxiv.org/abs/2306.03866v1)|[2306.03866v1](http://arxiv.org/pdf/2306.03866v1)|null|
+|**2023-06-06**|**Iterative Translation Refinement with Large Language Models**|Pinzhen Chen et.al.|[2306.03856v1](http://arxiv.org/abs/2306.03856v1)|[2306.03856v1](http://arxiv.org/pdf/2306.03856v1)|null|
+|**2023-06-06**|**Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning**|Tim Puphal et.al.|[2306.03849v1](http://arxiv.org/abs/2306.03849v1)|[2306.03849v1](http://arxiv.org/pdf/2306.03849v1)|null|
+|**2023-06-06**|**Remarks on Utility in Repeated Bets**|Nimrod Megiddo et.al.|[2306.03842v1](http://arxiv.org/abs/2306.03842v1)|[2306.03842v1](http://arxiv.org/pdf/2306.03842v1)|null|
+|**2023-06-06**|**Destination Scheduling for Secure Pinhole-Based Power-Line Communication**|Chinmoy Kundu et.al.|[2306.03840v1](http://arxiv.org/abs/2306.03840v1)|[2306.03840v1](http://arxiv.org/pdf/2306.03840v1)|null|
 |**2023-06-05**|**RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems**|Tianyang Liu et.al.|[2306.03091v1](http://arxiv.org/abs/2306.03091v1)|[2306.03091v1](http://arxiv.org/pdf/2306.03091v1)|**[link](https://github.com/Leolty/repobench)**|
 |**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|[2306.03090v1](http://arxiv.org/pdf/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
 |**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|[2306.03088v1](http://arxiv.org/pdf/2306.03088v1)|null|
