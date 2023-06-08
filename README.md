@@ -1,4 +1,4 @@
-## Updated on 2023.06.07
+## Updated on 2023.06.08
 
 ## Astrophysics
 
@@ -2430,10 +2430,10 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2023-06-06**|**Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**|Yeldar Toleubay et.al.|[2306.03902v1](http://arxiv.org/abs/2306.03902v1)|[2306.03902v1](http://arxiv.org/pdf/2306.03902v1)|null|
-|**2023-06-06**|**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**|Chenxu Hu et.al.|[2306.03901v1](http://arxiv.org/abs/2306.03901v1)|[2306.03901v1](http://arxiv.org/pdf/2306.03901v1)|null|
+|**2023-06-07**|**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**|Chenxu Hu et.al.|[2306.03901v2](http://arxiv.org/abs/2306.03901v2)|[2306.03901v2](http://arxiv.org/pdf/2306.03901v2)|null|
 |**2023-06-06**|**Synchronous micromechanically resonant programmable photonic circuits**|Mark Dong et.al.|[2306.03895v1](http://arxiv.org/abs/2306.03895v1)|[2306.03895v1](http://arxiv.org/pdf/2306.03895v1)|null|
 |**2023-06-06**|**Embracing Background Knowledge in the Analysis of Actual Causality: An Answer Set Programming Approach**|Michael Gelfond et.al.|[2306.03874v1](http://arxiv.org/abs/2306.03874v1)|[2306.03874v1](http://arxiv.org/pdf/2306.03874v1)|null|
-|**2023-06-06**|**Deductive Verification of Chain-of-Thought Reasoning**|Zhan Ling et.al.|[2306.03872v1](http://arxiv.org/abs/2306.03872v1)|[2306.03872v1](http://arxiv.org/pdf/2306.03872v1)|**[link](https://github.com/lz1oceani/verify_cot)**|
+|**2023-06-07**|**Deductive Verification of Chain-of-Thought Reasoning**|Zhan Ling et.al.|[2306.03872v2](http://arxiv.org/abs/2306.03872v2)|[2306.03872v2](http://arxiv.org/pdf/2306.03872v2)|**[link](https://github.com/lz1oceani/verify_cot)**|
 |**2023-06-06**|**Correction of Errors in Preference Ratings from Automated Metrics for Text Generation**|Jan Deriu et.al.|[2306.03866v1](http://arxiv.org/abs/2306.03866v1)|[2306.03866v1](http://arxiv.org/pdf/2306.03866v1)|null|
 |**2023-06-06**|**Iterative Translation Refinement with Large Language Models**|Pinzhen Chen et.al.|[2306.03856v1](http://arxiv.org/abs/2306.03856v1)|[2306.03856v1](http://arxiv.org/pdf/2306.03856v1)|null|
 |**2023-06-06**|**Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning**|Tim Puphal et.al.|[2306.03849v1](http://arxiv.org/abs/2306.03849v1)|[2306.03849v1](http://arxiv.org/pdf/2306.03849v1)|null|
