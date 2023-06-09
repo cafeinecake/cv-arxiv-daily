@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-06-07**|**Inside the bubble: exploring the environments of reionisation-era Lyman-α emitting galaxies with JADES and FRESCO**|Joris Witstok et.al.|[2306.04627v1](http://arxiv.org/abs/2306.04627v1)|[2306.04627v1](http://arxiv.org/pdf/2306.04627v1)|null|
 |**2023-06-07**|**Constraining nuclear parameters using f-modes from glitching pulsars**|Bikram Keshari Pradhan et.al.|[2306.04626v1](http://arxiv.org/abs/2306.04626v1)|[2306.04626v1](http://arxiv.org/pdf/2306.04626v1)|null|
 |**2023-06-07**|**The Near Infrared Imager and Slitless Spectrograph for the James Webb Space Telescope -- III. Single Object Slitless Spectroscopy**|Loic Albert et.al.|[2306.04572v1](http://arxiv.org/abs/2306.04572v1)|[2306.04572v1](http://arxiv.org/pdf/2306.04572v1)|null|
-|**2023-06-07**|**Implications of a Possible Spectral Structure of Cosmic-ray Protons Unveiled by the DAMPE**|Lin Nie et.al.|[2306.04558v1](http://arxiv.org/abs/2306.04558v1)|[2306.04558v1](http://arxiv.org/pdf/2306.04558v1)|null|
+|**2023-06-08**|**Implications of a Possible Spectral Structure of Cosmic-ray Protons Unveiled by the DAMPE**|Lin Nie et.al.|[2306.04558v2](http://arxiv.org/abs/2306.04558v2)|[2306.04558v2](http://arxiv.org/pdf/2306.04558v2)|null|
 |**2023-06-07**|**JADES: The production and escape of ionizing photons from faint Lyman-alpha emitters in the epoch of reionization**|Aayush Saxena et.al.|[2306.04536v1](http://arxiv.org/abs/2306.04536v1)|[2306.04536v1](http://arxiv.org/pdf/2306.04536v1)|null|
 |**2023-06-07**|**ExoMol line lists -- L: High-resolution line lists of H$_3^+$, H$_2$D$^+$, D$_2$H$^+$ and D$_3^+$**|Charles A. Bowesman et.al.|[2306.04524v1](http://arxiv.org/abs/2306.04524v1)|[2306.04524v1](http://arxiv.org/pdf/2306.04524v1)|null|
 |**2023-06-07**|**Radio Astronomy with Multiband Receivers and Frequency Phase Transfer: Scientific Perspectives**|Richard Dodson et.al.|[2306.04516v1](http://arxiv.org/abs/2306.04516v1)|[2306.04516v1](http://arxiv.org/pdf/2306.04516v1)|null|
@@ -2447,7 +2447,7 @@ layout: default
 |**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|[2306.04637v1](http://arxiv.org/pdf/2306.04637v1)|null|
 |**2023-06-07**|**Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion**|Yash Bhalgat et.al.|[2306.04633v1](http://arxiv.org/abs/2306.04633v1)|[2306.04633v1](http://arxiv.org/pdf/2306.04633v1)|null|
 |**2023-06-07**|**The Two Word Test: A Semantic Benchmark for Large Language Models**|Nicholas Riccardi et.al.|[2306.04610v1](http://arxiv.org/abs/2306.04610v1)|[2306.04610v1](http://arxiv.org/pdf/2306.04610v1)|**[link](https://github.com/nickriccardi/two-word-test)**|
-|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v1](http://arxiv.org/abs/2306.04607v1)|[2306.04607v1](http://arxiv.org/pdf/2306.04607v1)|null|
+|**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v2](http://arxiv.org/abs/2306.04607v2)|[2306.04607v2](http://arxiv.org/pdf/2306.04607v2)|null|
 |**2023-06-07**|**Generalization Across Observation Shifts in Reinforcement Learning**|Anuj Mahajan et.al.|[2306.04595v1](http://arxiv.org/abs/2306.04595v1)|[2306.04595v1](http://arxiv.org/pdf/2306.04595v1)|null|
 |**2023-06-07**|**Proximity-Informed Calibration for Deep Neural Networks**|Miao Xiong et.al.|[2306.04590v1](http://arxiv.org/abs/2306.04590v1)|[2306.04590v1](http://arxiv.org/pdf/2306.04590v1)|**[link](https://github.com/miaoxiong2320/proximitybias-calibration)**|
 |**2023-06-07**|**Divide and Repair: Using Options to Improve Performance of Imitation Learning Against Adversarial Demonstrations**|Prithviraj Dasgupta et.al.|[2306.04581v1](http://arxiv.org/abs/2306.04581v1)|[2306.04581v1](http://arxiv.org/pdf/2306.04581v1)|null|
