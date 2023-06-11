@@ -1,9 +1,9 @@
-> Updated on 2023.06.10
+> Updated on 2023.06.11
 
 ## Astrophysics
 
 - 2023-06-08, **The FRB20190520B Sightline Intersects Foreground Galaxy Clusters**, Khee-Gan Lee et.al., Paper: [http://arxiv.org/abs/2306.05403v1](http://arxiv.org/abs/2306.05403v1), Paper: [http://arxiv.org/abs/2306.05403v1](http://arxiv.org/pdf/2306.05403v1)
-- 2023-06-08, **Implications of atmospheric non-detections for Trappist-1 inner planets on atmospheric retention prospects for outer planets**, Joshua Krissansen-Totton et.al., Paper: [http://arxiv.org/abs/2306.05397v1](http://arxiv.org/abs/2306.05397v1), Paper: [http://arxiv.org/abs/2306.05397v1](http://arxiv.org/pdf/2306.05397v1)
+- 2023-06-08, **Implications of atmospheric non-detections for Trappist-1 inner planets on atmospheric retention prospects for outer planets**, Joshua Krissansen-Totton et.al., Paper: [http://arxiv.org/abs/2306.05397v1](http://arxiv.org/abs/2306.05397v1),Paper: [http://arxiv.org/abs/2306.05397v1](http://arxiv.org/pdf/2306.05397v1), Code: **[https://github.com/joshuakt/Trappist-evolution](https://github.com/joshuakt/Trappist-evolution)**
 - 2023-06-08, **Towards distinguishing Dirac from Majorana neutrino mass with gravitational waves**, Stephen F. King et.al., Paper: [http://arxiv.org/abs/2306.05389v1](http://arxiv.org/abs/2306.05389v1), Paper: [http://arxiv.org/abs/2306.05389v1](http://arxiv.org/pdf/2306.05389v1)
 - 2023-06-08, **Hybrid data-driven magnetofrictional and magnetohydrodynamic simulations of an eruptive solar active region**, A. Afanasyev et.al., Paper: [http://arxiv.org/abs/2306.05388v1](http://arxiv.org/abs/2306.05388v1), Paper: [http://arxiv.org/abs/2306.05388v1](http://arxiv.org/pdf/2306.05388v1)
 - 2023-06-08, **An inflation model for massive primordial black holes to interpret the JWST observations**, Bing-Yu Su et.al., Paper: [http://arxiv.org/abs/2306.05364v1](http://arxiv.org/abs/2306.05364v1), Paper: [http://arxiv.org/abs/2306.05364v1](http://arxiv.org/pdf/2306.05364v1)
