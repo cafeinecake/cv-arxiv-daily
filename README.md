@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103v1](http://arxiv.org/abs/2306.06103v1)|[2306.06103v1](http://arxiv.org/pdf/2306.06103v1)|null|
+|**2023-06-09**|**Shock Cooling and Possible Precursor Emission in the Early Light Curve of the Type II SN 2023ixf**|Griffin Hosseinzadeh et.al.|[2306.06097v1](http://arxiv.org/abs/2306.06097v1)|[2306.06097v1](http://arxiv.org/pdf/2306.06097v1)|null|
+|**2023-06-09**|**Ion-Driven Instabilities in the Inner Heliosphere II: Classification and Multi-Dimensional Mapping**|Mihailo M. Martinovic et.al.|[2306.06060v1](http://arxiv.org/abs/2306.06060v1)|[2306.06060v1](http://arxiv.org/pdf/2306.06060v1)|null|
+|**2023-06-09**|**Cross correlations of the CMB Doppler mode and the 21 cm brightness temperature in the presence of a primordial magnetic field**|Kerstin E. Kunze et.al.|[2306.06049v1](http://arxiv.org/abs/2306.06049v1)|[2306.06049v1](http://arxiv.org/pdf/2306.06049v1)|null|
+|**2023-06-09**|**Coronal energy release by MHD avalanches. Effects on a structured, active region, multi-threaded coronal loop**|G. Cozzo et.al.|[2306.06047v1](http://arxiv.org/abs/2306.06047v1)|[2306.06047v1](http://arxiv.org/pdf/2306.06047v1)|null|
+|**2023-06-09**|**Redeveloping a CLEAN Deconvolution Algorithm for Scatter-Broadened Radio Pulsar Signals**|Olivia Young et.al.|[2306.06046v1](http://arxiv.org/abs/2306.06046v1)|[2306.06046v1](http://arxiv.org/pdf/2306.06046v1)|null|
+|**2023-06-09**|**On the frequencies of circumbinary discs in protostellar systems**|Daniel Elsender et.al.|[2306.06035v1](http://arxiv.org/abs/2306.06035v1)|[2306.06035v1](http://arxiv.org/pdf/2306.06035v1)|null|
+|**2023-06-09**|**Star formation history for the starburst dwarf galaxy in the Local Group, IC 10**|Mahtab Gholami et.al.|[2306.06025v1](http://arxiv.org/abs/2306.06025v1)|[2306.06025v1](http://arxiv.org/pdf/2306.06025v1)|null|
+|**2023-06-09**|**HVOX: Scalable Interferometric Synthesis and Analysis of Spherical Sky Maps**|Sepand Kashani et.al.|[2306.06007v1](http://arxiv.org/abs/2306.06007v1)|[2306.06007v1](http://arxiv.org/pdf/2306.06007v1)|null|
+|**2023-06-09**|**Discovery of Magnetospheric Interactions in the Doubly-Magnetic Hot Binary $ε$ Lupi**|Ayan Biswas et.al.|[2306.05995v1](http://arxiv.org/abs/2306.05995v1)|[2306.05995v1](http://arxiv.org/pdf/2306.05995v1)|null|
 |**2023-06-08**|**The FRB20190520B Sightline Intersects Foreground Galaxy Clusters**|Khee-Gan Lee et.al.|[2306.05403v1](http://arxiv.org/abs/2306.05403v1)|[2306.05403v1](http://arxiv.org/pdf/2306.05403v1)|null|
 |**2023-06-08**|**Implications of atmospheric non-detections for Trappist-1 inner planets on atmospheric retention prospects for outer planets**|Joshua Krissansen-Totton et.al.|[2306.05397v1](http://arxiv.org/abs/2306.05397v1)|[2306.05397v1](http://arxiv.org/pdf/2306.05397v1)|**[link](https://github.com/joshuakt/Trappist-evolution)**|
 |**2023-06-08**|**Towards distinguishing Dirac from Majorana neutrino mass with gravitational waves**|Stephen F. King et.al.|[2306.05389v1](http://arxiv.org/abs/2306.05389v1)|[2306.05389v1](http://arxiv.org/pdf/2306.05389v1)|null|
@@ -2449,6 +2459,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-09**|**Prodigy: An Expeditiously Adaptive Parameter-Free Learner**|Konstantin Mishchenko et.al.|[2306.06101v1](http://arxiv.org/abs/2306.06101v1)|[2306.06101v1](http://arxiv.org/pdf/2306.06101v1)|**[link](https://github.com/konstmish/prodigy)**|
+|**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|[2306.06094v1](http://arxiv.org/pdf/2306.06094v1)|null|
+|**2023-06-09**|**Learning Not to Spoof**|David Byrd et.al.|[2306.06087v1](http://arxiv.org/abs/2306.06087v1)|[2306.06087v1](http://arxiv.org/pdf/2306.06087v1)|null|
+|**2023-06-09**|**Trapping LLM Hallucinations Using Tagged Context Prompts**|Philip Feldman et.al.|[2306.06085v1](http://arxiv.org/abs/2306.06085v1)|[2306.06085v1](http://arxiv.org/pdf/2306.06085v1)|null|
+|**2023-06-09**|**Combining a Meta-Policy and Monte-Carlo Planning for Scalable Type-Based Reasoning in Partially Observable Environments**|Jonathon Schwartz et.al.|[2306.06067v1](http://arxiv.org/abs/2306.06067v1)|[2306.06067v1](http://arxiv.org/pdf/2306.06067v1)|null|
+|**2023-06-09**|**SNeL: A Structured Neuro-Symbolic Language for Entity-Based Multimodal Scene Understanding**|Silvan Ferreira et.al.|[2306.06036v1](http://arxiv.org/abs/2306.06036v1)|[2306.06036v1](http://arxiv.org/pdf/2306.06036v1)|null|
+|**2023-06-09**|**HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**|Rodrigo Agerri et.al.|[2306.06029v1](http://arxiv.org/abs/2306.06029v1)|[2306.06029v1](http://arxiv.org/pdf/2306.06029v1)|null|
+|**2023-06-09**|**A Dynamic Partial Computation Offloading for the Metaverse in In-Network Computing**|Ibrahim Aliyu et.al.|[2306.06022v1](http://arxiv.org/abs/2306.06022v1)|[2306.06022v1](http://arxiv.org/pdf/2306.06022v1)|null|
+|**2023-06-09**|**Causal Effect Estimation from Observational and Interventional Data Through Matrix Weighted Linear Estimators**|Klaus-Rudolf Kladny et.al.|[2306.06002v1](http://arxiv.org/abs/2306.06002v1)|[2306.06002v1](http://arxiv.org/pdf/2306.06002v1)|null|
+|**2023-06-09**|**S$^{3}$: Increasing GPU Utilization during Generative Inference for Higher Throughput**|Yunho Jin et.al.|[2306.06000v1](http://arxiv.org/abs/2306.06000v1)|[2306.06000v1](http://arxiv.org/pdf/2306.06000v1)|null|
 |**2023-06-08**|**SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking**|Chris Cundy et.al.|[2306.05426v1](http://arxiv.org/abs/2306.05426v1)|[2306.05426v1](http://arxiv.org/pdf/2306.05426v1)|null|
 |**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425v1](http://arxiv.org/abs/2306.05425v1)|[2306.05425v1](http://arxiv.org/pdf/2306.05425v1)|**[link](https://github.com/luodian/otter)**|
 |**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|[2306.05419v1](http://arxiv.org/pdf/2306.05419v1)|null|
