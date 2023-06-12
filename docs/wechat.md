@@ -1,4 +1,4 @@
-> Updated on 2023.06.11
+> Updated on 2023.06.12
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@
 - 2023-06-08, **First constraints on the strength of the extragalactic magnetic field from $γ$-ray observations of GRB 221009A**, Timur A. Dzhatdoev et.al., Paper: [http://arxiv.org/abs/2306.05347v1](http://arxiv.org/abs/2306.05347v1), Paper: [http://arxiv.org/abs/2306.05347v1](http://arxiv.org/pdf/2306.05347v1)
 - 2023-06-08, **A self-gravity module for the PLUTO code**, Ankush Mandal et.al., Paper: [http://arxiv.org/abs/2306.05332v1](http://arxiv.org/abs/2306.05332v1), Paper: [http://arxiv.org/abs/2306.05332v1](http://arxiv.org/pdf/2306.05332v1)
 - 2023-06-08, **The MUSCLES Extension for Atmospheric and Transmission Spectroscopy: UV and X-ray Host-star Observations for JWST ERS & GTO Targets**, Patrick R. Behr et.al., Paper: [http://arxiv.org/abs/2306.05322v1](http://arxiv.org/abs/2306.05322v1), Paper: [http://arxiv.org/abs/2306.05322v1](http://arxiv.org/pdf/2306.05322v1)
-- 2023-06-08, **TOI-4010: A System of Three Large Short-Period Planets With a Massive Long-Period Companion**, Michelle Kunimoto et.al., Paper: [http://arxiv.org/abs/2306.05308v1](http://arxiv.org/abs/2306.05308v1), Paper: [http://arxiv.org/abs/2306.05308v1](http://arxiv.org/pdf/2306.05308v1)
+- 2023-06-09, **TOI-4010: A System of Three Large Short-Period Planets With a Massive Long-Period Companion**, Michelle Kunimoto et.al., Paper: [http://arxiv.org/abs/2306.05308v2](http://arxiv.org/abs/2306.05308v2), Paper: [http://arxiv.org/abs/2306.05308v2](http://arxiv.org/pdf/2306.05308v2)
 - 2023-06-07, **Lopsidedness as a tracer of early galactic assembly history**, Arianna Dolfi et.al., Paper: [http://arxiv.org/abs/2306.04639v1](http://arxiv.org/abs/2306.04639v1), Paper: [http://arxiv.org/abs/2306.04639v1](http://arxiv.org/pdf/2306.04639v1)
 - 2023-06-07, **Inside the bubble: exploring the environments of reionisation-era Lyman-α emitting galaxies with JADES and FRESCO**, Joris Witstok et.al., Paper: [http://arxiv.org/abs/2306.04627v1](http://arxiv.org/abs/2306.04627v1), Paper: [http://arxiv.org/abs/2306.04627v1](http://arxiv.org/pdf/2306.04627v1)
 - 2023-06-07, **Constraining nuclear parameters using f-modes from glitching pulsars**, Bikram Keshari Pradhan et.al., Paper: [http://arxiv.org/abs/2306.04626v1](http://arxiv.org/abs/2306.04626v1), Paper: [http://arxiv.org/abs/2306.04626v1](http://arxiv.org/pdf/2306.04626v1)
