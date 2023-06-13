@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-12**|**Constraints on the non-minimally coupled Witten-O'Raifeartaigh inflation**|F. B. M. dos Santos et.al.|[2306.07260v1](http://arxiv.org/abs/2306.07260v1)|[2306.07260v1](http://arxiv.org/pdf/2306.07260v1)|null|
+|**2023-06-12**|**X-ray polarization properties of partially ionized equatorial obscurers around accreting compact objects**|Jakub Podgorný et.al.|[2306.07214v1](http://arxiv.org/abs/2306.07214v1)|[2306.07214v1](http://arxiv.org/pdf/2306.07214v1)|null|
+|**2023-06-12**|**A new 2D stochastic methodology for simulating variable accretion discs: propagating fluctuations and epicyclic motion**|Samuel G. D. Turner et.al.|[2306.07199v1](http://arxiv.org/abs/2306.07199v1)|[2306.07199v1](http://arxiv.org/pdf/2306.07199v1)|null|
+|**2023-06-12**|**The Rapid ASKAP Continuum Survey IV: continuum imaging at 1367.5 MHz and the first data release of RACS-mid**|S. W. Duchesne et.al.|[2306.07194v1](http://arxiv.org/abs/2306.07194v1)|[2306.07194v1](http://arxiv.org/pdf/2306.07194v1)|null|
+|**2023-06-12**|**When to Point Your Telescopes: Gravitational Wave Trigger Classification for Real-Time Multi-Messenger Followup Observations**|Anarya Ray et.al.|[2306.07190v1](http://arxiv.org/abs/2306.07190v1)|[2306.07190v1](http://arxiv.org/pdf/2306.07190v1)|null|
+|**2023-06-12**|**Searching for Radio Outflows from M31* with VLBI Observations**|Sijia Peng et.al.|[2306.07189v1](http://arxiv.org/abs/2306.07189v1)|[2306.07189v1](http://arxiv.org/pdf/2306.07189v1)|null|
+|**2023-06-12**|**New method to revisit the gravitational lensing analysis of the Bullet Cluster using radio waves**|Youngsub Yoon et.al.|[2306.07157v1](http://arxiv.org/abs/2306.07157v1)|[2306.07157v1](http://arxiv.org/pdf/2306.07157v1)|null|
+|**2023-06-12**|**Measurement of the scaling slope of compressible magnetohydrodynamic turbulence by synchrotron radiation statistics**|Zhang Xue-Wen et.al.|[2306.07143v1](http://arxiv.org/abs/2306.07143v1)|[2306.07143v1](http://arxiv.org/pdf/2306.07143v1)|null|
+|**2023-06-12**|**The VVV near-IR galaxy catalogue in a Northern part of the Galactic disc**|I. V. Daza-Perilla et.al.|[2306.07141v1](http://arxiv.org/abs/2306.07141v1)|[2306.07141v1](http://arxiv.org/pdf/2306.07141v1)|null|
+|**2023-06-12**|**Nebular spectra from Type Ia supernova explosion models compared to JWST observations of SN 2021aefx**|Stéphane Blondin et.al.|[2306.07116v1](http://arxiv.org/abs/2306.07116v1)|[2306.07116v1](http://arxiv.org/pdf/2306.07116v1)|null|
 |**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103v1](http://arxiv.org/abs/2306.06103v1)|[2306.06103v1](http://arxiv.org/pdf/2306.06103v1)|null|
 |**2023-06-09**|**Shock Cooling and Possible Precursor Emission in the Early Light Curve of the Type II SN 2023ixf**|Griffin Hosseinzadeh et.al.|[2306.06097v1](http://arxiv.org/abs/2306.06097v1)|[2306.06097v1](http://arxiv.org/pdf/2306.06097v1)|null|
 |**2023-06-09**|**Ion-Driven Instabilities in the Inner Heliosphere II: Classification and Multi-Dimensional Mapping**|Mihailo M. Martinovic et.al.|[2306.06060v1](http://arxiv.org/abs/2306.06060v1)|[2306.06060v1](http://arxiv.org/pdf/2306.06060v1)|null|
@@ -2463,6 +2473,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|[2306.07280v1](http://arxiv.org/pdf/2306.07280v1)|null|
+|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|[2306.07266v1](http://arxiv.org/pdf/2306.07266v1)|null|
+|**2023-06-12**|**Reliable machine learning potentials based on artificial neural network for graphene**|Akash Singh et.al.|[2306.07246v1](http://arxiv.org/abs/2306.07246v1)|[2306.07246v1](http://arxiv.org/pdf/2306.07246v1)|null|
+|**2023-06-12**|**Deep Gaussian Mixture Ensembles**|Yousef El-Laham et.al.|[2306.07235v1](http://arxiv.org/abs/2306.07235v1)|[2306.07235v1](http://arxiv.org/pdf/2306.07235v1)|null|
+|**2023-06-12**|**Strokes2Surface: Recovering Curve Networks From 4D Architectural Design Sketches**|S. Rasoulzadeh et.al.|[2306.07220v1](http://arxiv.org/abs/2306.07220v1)|[2306.07220v1](http://arxiv.org/pdf/2306.07220v1)|null|
+|**2023-06-12**|**A Protocol for Continual Explanation of SHAP**|Andrea Cossu et.al.|[2306.07218v1](http://arxiv.org/abs/2306.07218v1)|[2306.07218v1](http://arxiv.org/pdf/2306.07218v1)|null|
+|**2023-06-12**|**Efficient Quantization-aware Training with Adaptive Coreset Selection**|Xijie Huang et.al.|[2306.07215v1](http://arxiv.org/abs/2306.07215v1)|[2306.07215v1](http://arxiv.org/pdf/2306.07215v1)|**[link](https://github.com/huangowen/qat-acs)**|
+|**2023-06-12**|**Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow**|Wenqi Zhang et.al.|[2306.07209v1](http://arxiv.org/abs/2306.07209v1)|[2306.07209v1](http://arxiv.org/pdf/2306.07209v1)|**[link](https://github.com/zwq2018/data-copilot)**|
+|**2023-06-12**|**Valley: Video Assistant with Large Language model Enhanced abilitY**|Ruipu Luo et.al.|[2306.07207v1](http://arxiv.org/abs/2306.07207v1)|[2306.07207v1](http://arxiv.org/pdf/2306.07207v1)|null|
+|**2023-06-12**|**RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation**|Shuai Liu et.al.|[2306.07206v1](http://arxiv.org/abs/2306.07206v1)|[2306.07206v1](http://arxiv.org/pdf/2306.07206v1)|**[link](https://github.com/isi-nlp/recap)**|
 |**2023-06-09**|**Prodigy: An Expeditiously Adaptive Parameter-Free Learner**|Konstantin Mishchenko et.al.|[2306.06101v1](http://arxiv.org/abs/2306.06101v1)|[2306.06101v1](http://arxiv.org/pdf/2306.06101v1)|**[link](https://github.com/konstmish/prodigy)**|
 |**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|[2306.06094v1](http://arxiv.org/pdf/2306.06094v1)|null|
 |**2023-06-09**|**Learning Not to Spoof**|David Byrd et.al.|[2306.06087v1](http://arxiv.org/abs/2306.06087v1)|[2306.06087v1](http://arxiv.org/pdf/2306.06087v1)|null|
