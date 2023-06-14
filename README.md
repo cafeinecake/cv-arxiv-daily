@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-13**|**High resolution spectroscopy of SN~2023ixf's first week: Engulfing the Asymmetric Circumstellar Material**|Nathan Smith et.al.|[2306.07964v1](http://arxiv.org/abs/2306.07964v1)|[2306.07964v1](http://arxiv.org/pdf/2306.07964v1)|null|
+|**2023-06-13**|**Statistics for Galaxy Outflows at $z\sim 6-9$ with Imaging and Spectroscopic Signatures Identified with JWST/NIRCam and NIRSpec Data**|Yechi Zhang et.al.|[2306.07940v1](http://arxiv.org/abs/2306.07940v1)|[2306.07940v1](http://arxiv.org/pdf/2306.07940v1)|null|
+|**2023-06-13**|**A Recipe for Unbiased Background Modeling in Deep Wide-Field Astronomical Images**|Qing Liu et.al.|[2306.07922v1](http://arxiv.org/abs/2306.07922v1)|[2306.07922v1](http://arxiv.org/pdf/2306.07922v1)|null|
+|**2023-06-13**|**Detecting Fast Radio Bursts with Spectral Structure using the Continuous Forward Algorithm**|Pravir Kumar et.al.|[2306.07914v1](http://arxiv.org/abs/2306.07914v1)|[2306.07914v1](http://arxiv.org/pdf/2306.07914v1)|null|
+|**2023-06-13**|**Observational Signatures of Circumbinary Discs I: Kinematics**|Josh Calcino et.al.|[2306.07909v1](http://arxiv.org/abs/2306.07909v1)|[2306.07909v1](http://arxiv.org/pdf/2306.07909v1)|null|
+|**2023-06-13**|**A Past Episode of Rapid Tidal Evolution of Enceladus?**|Matija Ćuk et.al.|[2306.07901v1](http://arxiv.org/abs/2306.07901v1)|[2306.07901v1](http://arxiv.org/pdf/2306.07901v1)|null|
+|**2023-06-13**|**Efficient Reionization in a Large Hydrodynamic Galaxy Formation Simulation**|James E. Davies et.al.|[2306.07861v1](http://arxiv.org/abs/2306.07861v1)|[2306.07861v1](http://arxiv.org/pdf/2306.07861v1)|null|
+|**2023-06-13**|**Specular reflections from artificial surfaces as Technosignature**|Bhavesh Jaiswal et.al.|[2306.07859v1](http://arxiv.org/abs/2306.07859v1)|[2306.07859v1](http://arxiv.org/pdf/2306.07859v1)|null|
+|**2023-06-13**|**ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): A forming quadruple system with continuum `ribbons' and intricate outflows**|Qiu-yi Luo et.al.|[2306.07839v1](http://arxiv.org/abs/2306.07839v1)|[2306.07839v1](http://arxiv.org/pdf/2306.07839v1)|null|
+|**2023-06-13**|**From convective stellar dynamo simulations to Zeeman-Doppler images**|Thomas Hackman et.al.|[2306.07838v1](http://arxiv.org/abs/2306.07838v1)|[2306.07838v1](http://arxiv.org/pdf/2306.07838v1)|null|
 |**2023-06-12**|**Constraints on the non-minimally coupled Witten-O'Raifeartaigh inflation**|F. B. M. dos Santos et.al.|[2306.07260v1](http://arxiv.org/abs/2306.07260v1)|[2306.07260v1](http://arxiv.org/pdf/2306.07260v1)|null|
 |**2023-06-12**|**X-ray polarization properties of partially ionized equatorial obscurers around accreting compact objects**|Jakub Podgorný et.al.|[2306.07214v1](http://arxiv.org/abs/2306.07214v1)|[2306.07214v1](http://arxiv.org/pdf/2306.07214v1)|null|
 |**2023-06-12**|**A new 2D stochastic methodology for simulating variable accretion discs: propagating fluctuations and epicyclic motion**|Samuel G. D. Turner et.al.|[2306.07199v1](http://arxiv.org/abs/2306.07199v1)|[2306.07199v1](http://arxiv.org/pdf/2306.07199v1)|null|
@@ -2469,6 +2479,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969v1](http://arxiv.org/abs/2306.07969v1)|[2306.07969v1](http://arxiv.org/pdf/2306.07969v1)|null|
+|**2023-06-13**|**arXiVeri: Automatic table verification with GPT**|Gyungin Shin et.al.|[2306.07968v1](http://arxiv.org/abs/2306.07968v1)|[2306.07968v1](http://arxiv.org/pdf/2306.07968v1)|null|
+|**2023-06-13**|**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**|Arnav Chavan et.al.|[2306.07967v1](http://arxiv.org/abs/2306.07967v1)|[2306.07967v1](http://arxiv.org/pdf/2306.07967v1)|**[link](https://github.com/arnav0400/vit-slim)**|
+|**2023-06-13**|**Parting with Misconceptions about Learning-based Vehicle Motion Planning**|Daniel Dauner et.al.|[2306.07962v1](http://arxiv.org/abs/2306.07962v1)|[2306.07962v1](http://arxiv.org/pdf/2306.07962v1)|null|
+|**2023-06-13**|**Hidden Biases of End-to-End Driving Models**|Bernhard Jaeger et.al.|[2306.07957v1](http://arxiv.org/abs/2306.07957v1)|[2306.07957v1](http://arxiv.org/pdf/2306.07957v1)|null|
+|**2023-06-13**|**Adaptive Monte Carlo Search for Conjecture Refutation in Graph Theory**|Valentino Vito et.al.|[2306.07956v1](http://arxiv.org/abs/2306.07956v1)|[2306.07956v1](http://arxiv.org/pdf/2306.07956v1)|**[link](https://github.com/valentinovito/adaptive_mc_search)**|
+|**2023-06-13**|**BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information**|Mehran Kazemi et.al.|[2306.07934v1](http://arxiv.org/abs/2306.07934v1)|[2306.07934v1](http://arxiv.org/pdf/2306.07934v1)|null|
+|**2023-06-13**|**A Recipe for Unbiased Background Modeling in Deep Wide-Field Astronomical Images**|Qing Liu et.al.|[2306.07922v1](http://arxiv.org/abs/2306.07922v1)|[2306.07922v1](http://arxiv.org/pdf/2306.07922v1)|null|
+|**2023-06-13**|**Identification of Nonlinear Latent Hierarchical Models**|Lingjing Kong et.al.|[2306.07916v1](http://arxiv.org/abs/2306.07916v1)|[2306.07916v1](http://arxiv.org/pdf/2306.07916v1)|null|
+|**2023-06-13**|**WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences**|Xiao Liu et.al.|[2306.07906v1](http://arxiv.org/abs/2306.07906v1)|[2306.07906v1](http://arxiv.org/pdf/2306.07906v1)|**[link](https://github.com/thudm/webglm)**|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|[2306.07280v1](http://arxiv.org/pdf/2306.07280v1)|null|
 |**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|[2306.07266v1](http://arxiv.org/pdf/2306.07266v1)|null|
 |**2023-06-12**|**Reliable machine learning potentials based on artificial neural network for graphene**|Akash Singh et.al.|[2306.07246v1](http://arxiv.org/abs/2306.07246v1)|[2306.07246v1](http://arxiv.org/pdf/2306.07246v1)|null|
