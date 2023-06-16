@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-15**|**Decoding the age-chemical structure of the Milky Way disk: An application of Copulas and Elicitable Maps**|Aarya A. Patil et.al.|[2306.09319v1](http://arxiv.org/abs/2306.09319v1)|[2306.09319v1](http://arxiv.org/pdf/2306.09319v1)|null|
+|**2023-06-15**|**Millimeter Observations of the Type II SN2023ixf: Constraints on the Proximate Circumstellar Medium**|Edo Berger et.al.|[2306.09311v1](http://arxiv.org/abs/2306.09311v1)|[2306.09311v1](http://arxiv.org/pdf/2306.09311v1)|null|
+|**2023-06-15**|**Dynamical detection of a companion driving a spiral arm in a protoplanetary disk**|Chen Xie et.al.|[2306.09279v1](http://arxiv.org/abs/2306.09279v1)|[2306.09279v1](http://arxiv.org/pdf/2306.09279v1)|null|
+|**2023-06-15**|**Robust universal relations in neutron star asteroseismology**|Deepak Kumar et.al.|[2306.09277v1](http://arxiv.org/abs/2306.09277v1)|[2306.09277v1](http://arxiv.org/pdf/2306.09277v1)|null|
+|**2023-06-15**|**Modified gravity and massive neutrinos: constraints from the full shape analysis of BOSS galaxies and forecasts for Stage IV surveys**|Chiara Moretti et.al.|[2306.09275v1](http://arxiv.org/abs/2306.09275v1)|[2306.09275v1](http://arxiv.org/pdf/2306.09275v1)|null|
+|**2023-06-15**|**A 5.3-minute-period pulsing white dwarf in a binary detected from radio to X-rays**|Ingrid Pelisoli et.al.|[2306.09272v1](http://arxiv.org/abs/2306.09272v1)|[2306.09272v1](http://arxiv.org/pdf/2306.09272v1)|null|
+|**2023-06-15**|**Formulating Compressive Strength of Dust Aggregates from Low to High Volume Filling Factors with Numerical Simulations**|Misako Tatsuuma et.al.|[2306.09259v1](http://arxiv.org/abs/2306.09259v1)|[2306.09259v1](http://arxiv.org/pdf/2306.09259v1)|null|
+|**2023-06-15**|**Signs of Binary Evolution in 7 Magnetic DA White Dwarfs**|Adam Moss et.al.|[2306.09254v1](http://arxiv.org/abs/2306.09254v1)|[2306.09254v1](http://arxiv.org/pdf/2306.09254v1)|null|
+|**2023-06-15**|**Dark ages, a window on the dark sector. Hunting for ultra-light axions**|Eleonora Vanzan et.al.|[2306.09252v1](http://arxiv.org/abs/2306.09252v1)|[2306.09252v1](http://arxiv.org/pdf/2306.09252v1)|null|
+|**2023-06-15**|**Updated observing scenarios and multi-messenger implications for the International Gravitational-wave Network's O4 and O5**|R. Weizmann Kiendrebeogo et.al.|[2306.09234v1](http://arxiv.org/abs/2306.09234v1)|[2306.09234v1](http://arxiv.org/pdf/2306.09234v1)|null|
 |**2023-06-13**|**High resolution spectroscopy of SN~2023ixf's first week: Engulfing the Asymmetric Circumstellar Material**|Nathan Smith et.al.|[2306.07964v1](http://arxiv.org/abs/2306.07964v1)|[2306.07964v1](http://arxiv.org/pdf/2306.07964v1)|null|
 |**2023-06-13**|**Statistics for Galaxy Outflows at $z\sim 6-9$ with Imaging and Spectroscopic Signatures Identified with JWST/NIRCam and NIRSpec Data**|Yechi Zhang et.al.|[2306.07940v1](http://arxiv.org/abs/2306.07940v1)|[2306.07940v1](http://arxiv.org/pdf/2306.07940v1)|null|
 |**2023-06-13**|**A Recipe for Unbiased Background Modeling in Deep Wide-Field Astronomical Images**|Qing Liu et.al.|[2306.07922v1](http://arxiv.org/abs/2306.07922v1)|[2306.07922v1](http://arxiv.org/pdf/2306.07922v1)|null|
@@ -2479,6 +2489,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-15**|**SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts**|Rose E. Wang et.al.|[2306.09343v1](http://arxiv.org/abs/2306.09343v1)|[2306.09343v1](http://arxiv.org/pdf/2306.09343v1)|**[link](https://github.com/rosewang2008/sight)**|
+|**2023-06-15**|**Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis**|Xiaoshi Wu et.al.|[2306.09341v1](http://arxiv.org/abs/2306.09341v1)|[2306.09341v1](http://arxiv.org/pdf/2306.09341v1)|**[link](https://github.com/tgxs002/hpsv2)**|
+|**2023-06-15**|**Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction**|Rohit Paturi et.al.|[2306.09313v1](http://arxiv.org/abs/2306.09313v1)|[2306.09313v1](http://arxiv.org/pdf/2306.09313v1)|null|
+|**2023-06-15**|**Semantic HELM: An Interpretable Memory for Reinforcement Learning**|Fabian Paischer et.al.|[2306.09312v1](http://arxiv.org/abs/2306.09312v1)|[2306.09312v1](http://arxiv.org/pdf/2306.09312v1)|**[link](https://github.com/ml-jku/helm)**|
+|**2023-06-15**|**Who Needs to Know? Minimal Knowledge for Optimal Coordination**|Niklas Lauffer et.al.|[2306.09309v1](http://arxiv.org/abs/2306.09309v1)|[2306.09309v1](http://arxiv.org/pdf/2306.09309v1)|null|
+|**2023-06-15**|**Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models**|Myles Foley et.al.|[2306.09308v1](http://arxiv.org/abs/2306.09308v1)|[2306.09308v1](http://arxiv.org/pdf/2306.09308v1)|null|
+|**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305v1](http://arxiv.org/abs/2306.09305v1)|[2306.09305v1](http://arxiv.org/pdf/2306.09305v1)|**[link](https://github.com/anima-lab/maskdit)**|
+|**2023-06-15**|**Datasets and Benchmarks for Offline Safe Reinforcement Learning**|Zuxin Liu et.al.|[2306.09303v1](http://arxiv.org/abs/2306.09303v1)|[2306.09303v1](http://arxiv.org/pdf/2306.09303v1)|**[link](https://github.com/liuzuxin/dsrl)**|
+|**2023-06-15**|**Knowledge Guided Representation Learning and Causal Structure Learning in Soil Science**|Somya Sharma et.al.|[2306.09302v1](http://arxiv.org/abs/2306.09302v1)|[2306.09302v1](http://arxiv.org/pdf/2306.09302v1)|null|
+|**2023-06-15**|**Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**|Swarnadeep Saha et.al.|[2306.09299v1](http://arxiv.org/abs/2306.09299v1)|[2306.09299v1](http://arxiv.org/pdf/2306.09299v1)|**[link](https://github.com/swarnahub/explanationintervention)**|
 |**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969v1](http://arxiv.org/abs/2306.07969v1)|[2306.07969v1](http://arxiv.org/pdf/2306.07969v1)|null|
 |**2023-06-13**|**arXiVeri: Automatic table verification with GPT**|Gyungin Shin et.al.|[2306.07968v1](http://arxiv.org/abs/2306.07968v1)|[2306.07968v1](http://arxiv.org/pdf/2306.07968v1)|**[link](https://github.com/caml-lab/research/tree/main/arxiveri)**|
 |**2023-06-13**|**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**|Arnav Chavan et.al.|[2306.07967v1](http://arxiv.org/abs/2306.07967v1)|[2306.07967v1](http://arxiv.org/pdf/2306.07967v1)|**[link](https://github.com/arnav0400/vit-slim)**|
