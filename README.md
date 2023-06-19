@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-16**|**Synchrotron Intensity Gradient Revealing Magnetic Fields in Galaxy Clusters**|Yue Hu et.al.|[2306.10011v1](http://arxiv.org/abs/2306.10011v1)|[2306.10011v1](http://arxiv.org/pdf/2306.10011v1)|null|
+|**2023-06-16**|**Damping of MHD Turbulence in A Partially Ionized Medium**|Yue Hu et.al.|[2306.10010v1](http://arxiv.org/abs/2306.10010v1)|[2306.10010v1](http://arxiv.org/pdf/2306.10010v1)|null|
+|**2023-06-16**|**Nature of Striation in 21 cm Channel Maps: Velocity Caustics**|Yue Hu et.al.|[2306.10005v1](http://arxiv.org/abs/2306.10005v1)|[2306.10005v1](http://arxiv.org/pdf/2306.10005v1)|null|
+|**2023-06-16**|**Formation of trapped vacuum bubbles during inflation, and consequences for PBH scenarios**|Albert Escrivà et.al.|[2306.09990v1](http://arxiv.org/abs/2306.09990v1)|[2306.09990v1](http://arxiv.org/pdf/2306.09990v1)|null|
+|**2023-06-16**|**The result of the Neutrino-4 experiment, sterile neutrinos, dark matter and the Standard Model**|A. P. Serebrov et.al.|[2306.09962v1](http://arxiv.org/abs/2306.09962v1)|[2306.09962v1](http://arxiv.org/pdf/2306.09962v1)|null|
+|**2023-06-16**|**X-ray emission from Westerlund 2 detected by SRG/ART-XC and Chandra: search for radiation of TeV leptons**|A. M. Bykov et.al.|[2306.09960v1](http://arxiv.org/abs/2306.09960v1)|[2306.09960v1](http://arxiv.org/pdf/2306.09960v1)|null|
+|**2023-06-16**|**Cosmic ray processes in galactic ecosystems**|Ellis R. Owen et.al.|[2306.09924v1](http://arxiv.org/abs/2306.09924v1)|[2306.09924v1](http://arxiv.org/pdf/2306.09924v1)|null|
+|**2023-06-16**|**A new derivation of the Hubble constant from $γ$-ray attenuation using improved optical depths for the Fermi and CTA era**|A. Domínguez et.al.|[2306.09878v1](http://arxiv.org/abs/2306.09878v1)|[2306.09878v1](http://arxiv.org/pdf/2306.09878v1)|null|
+|**2023-06-16**|**Astrophysical Uncertainties in the Gravitational-Wave Background from Stellar-Mass Compact Binary Mergers**|Leonard Lehoucq et.al.|[2306.09861v1](http://arxiv.org/abs/2306.09861v1)|[2306.09861v1](http://arxiv.org/pdf/2306.09861v1)|null|
+|**2023-06-16**|**Measurement of size of gamma-ray source in blazar B0218+357 from microlensing at 100 GeV energy**|Ie. Vovk et.al.|[2306.09857v1](http://arxiv.org/abs/2306.09857v1)|[2306.09857v1](http://arxiv.org/pdf/2306.09857v1)|null|
 |**2023-06-15**|**Decoding the age-chemical structure of the Milky Way disk: An application of Copulas and Elicitable Maps**|Aarya A. Patil et.al.|[2306.09319v1](http://arxiv.org/abs/2306.09319v1)|[2306.09319v1](http://arxiv.org/pdf/2306.09319v1)|null|
 |**2023-06-15**|**Millimeter Observations of the Type II SN2023ixf: Constraints on the Proximate Circumstellar Medium**|Edo Berger et.al.|[2306.09311v1](http://arxiv.org/abs/2306.09311v1)|[2306.09311v1](http://arxiv.org/pdf/2306.09311v1)|null|
 |**2023-06-15**|**Dynamical detection of a companion driving a spiral arm in a protoplanetary disk**|Chen Xie et.al.|[2306.09279v1](http://arxiv.org/abs/2306.09279v1)|[2306.09279v1](http://arxiv.org/pdf/2306.09279v1)|null|
@@ -2489,6 +2499,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-16**|**Coaching a Teachable Student**|Jimuyang Zhang et.al.|[2306.10014v1](http://arxiv.org/abs/2306.10014v1)|[2306.10014v1](http://arxiv.org/pdf/2306.10014v1)|null|
+|**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012v1](http://arxiv.org/abs/2306.10012v1)|[2306.10012v1](http://arxiv.org/pdf/2306.10012v1)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
+|**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001v1](http://arxiv.org/abs/2306.10001v1)|[2306.10001v1](http://arxiv.org/pdf/2306.10001v1)|**[link](https://github.com/yoavkurtz/gor)**|
+|**2023-06-16**|**Fairness in Preference-based Reinforcement Learning**|Umer Siddique et.al.|[2306.09995v1](http://arxiv.org/abs/2306.09995v1)|[2306.09995v1](http://arxiv.org/pdf/2306.09995v1)|null|
+|**2023-06-16**|**Ensemble Framework for Cardiovascular Disease Prediction**|Achyut Tiwari et.al.|[2306.09989v1](http://arxiv.org/abs/2306.09989v1)|[2306.09989v1](http://arxiv.org/pdf/2306.09989v1)|null|
+|**2023-06-16**|**Evaluating Superhuman Models with Consistency Checks**|Lukas Fluri et.al.|[2306.09983v1](http://arxiv.org/abs/2306.09983v1)|[2306.09983v1](http://arxiv.org/pdf/2306.09983v1)|null|
+|**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980v1](http://arxiv.org/abs/2306.09980v1)|[2306.09980v1](http://arxiv.org/pdf/2306.09980v1)|null|
+|**2023-06-16**|**Evaluation of Speech Representations for MOS prediction**|Frederico S. Oliveira et.al.|[2306.09979v1](http://arxiv.org/abs/2306.09979v1)|[2306.09979v1](http://arxiv.org/pdf/2306.09979v1)|**[link](https://github.com/freds0/bspeech-mos-prediction)**|
+|**2023-06-16**|**HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning**|Shaunak Halbe et.al.|[2306.09970v1](http://arxiv.org/abs/2306.09970v1)|[2306.09970v1](http://arxiv.org/pdf/2306.09970v1)|null|
+|**2023-06-16**|**Data-Driven Model Discrimination of Switched Nonlinear Systems with Temporal Logic Inference**|Zeyuan Jin et.al.|[2306.09966v1](http://arxiv.org/abs/2306.09966v1)|[2306.09966v1](http://arxiv.org/pdf/2306.09966v1)|null|
 |**2023-06-15**|**SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts**|Rose E. Wang et.al.|[2306.09343v1](http://arxiv.org/abs/2306.09343v1)|[2306.09343v1](http://arxiv.org/pdf/2306.09343v1)|**[link](https://github.com/rosewang2008/sight)**|
 |**2023-06-15**|**Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis**|Xiaoshi Wu et.al.|[2306.09341v1](http://arxiv.org/abs/2306.09341v1)|[2306.09341v1](http://arxiv.org/pdf/2306.09341v1)|**[link](https://github.com/tgxs002/hpsv2)**|
 |**2023-06-15**|**Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction**|Rohit Paturi et.al.|[2306.09313v1](http://arxiv.org/abs/2306.09313v1)|[2306.09313v1](http://arxiv.org/pdf/2306.09313v1)|null|
