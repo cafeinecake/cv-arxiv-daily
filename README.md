@@ -1,4 +1,4 @@
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 
 ## Astrophysics
 
@@ -2504,7 +2504,7 @@
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001v1](http://arxiv.org/abs/2306.10001v1)|[2306.10001v1](http://arxiv.org/pdf/2306.10001v1)|**[link](https://github.com/yoavkurtz/gor)**|
 |**2023-06-16**|**Fairness in Preference-based Reinforcement Learning**|Umer Siddique et.al.|[2306.09995v1](http://arxiv.org/abs/2306.09995v1)|[2306.09995v1](http://arxiv.org/pdf/2306.09995v1)|null|
 |**2023-06-16**|**Ensemble Framework for Cardiovascular Disease Prediction**|Achyut Tiwari et.al.|[2306.09989v1](http://arxiv.org/abs/2306.09989v1)|[2306.09989v1](http://arxiv.org/pdf/2306.09989v1)|null|
-|**2023-06-16**|**Evaluating Superhuman Models with Consistency Checks**|Lukas Fluri et.al.|[2306.09983v1](http://arxiv.org/abs/2306.09983v1)|[2306.09983v1](http://arxiv.org/pdf/2306.09983v1)|null|
+|**2023-06-19**|**Evaluating Superhuman Models with Consistency Checks**|Lukas Fluri et.al.|[2306.09983v2](http://arxiv.org/abs/2306.09983v2)|[2306.09983v2](http://arxiv.org/pdf/2306.09983v2)|**[link](https://github.com/ethz-privsec/superhuman-ai-consistency)**|
 |**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980v1](http://arxiv.org/abs/2306.09980v1)|[2306.09980v1](http://arxiv.org/pdf/2306.09980v1)|null|
 |**2023-06-16**|**Evaluation of Speech Representations for MOS prediction**|Frederico S. Oliveira et.al.|[2306.09979v1](http://arxiv.org/abs/2306.09979v1)|[2306.09979v1](http://arxiv.org/pdf/2306.09979v1)|**[link](https://github.com/freds0/bspeech-mos-prediction)**|
 |**2023-06-16**|**HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning**|Shaunak Halbe et.al.|[2306.09970v1](http://arxiv.org/abs/2306.09970v1)|[2306.09970v1](http://arxiv.org/pdf/2306.09970v1)|null|
