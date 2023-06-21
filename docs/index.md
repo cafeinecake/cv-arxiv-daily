@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-20**|**Equivalence of matter-type modified gravity theories to general relativity with nonminimal matter interaction**|Özgür Akarsu et.al.|[2306.11717v1](http://arxiv.org/abs/2306.11717v1)|[2306.11717v1](http://arxiv.org/pdf/2306.11717v1)|null|
+|**2023-06-20**|**Tayler-Spruit dynamos in simulated radiative stellar layers**|Ludovic Petitdemange et.al.|[2306.11711v1](http://arxiv.org/abs/2306.11711v1)|[2306.11711v1](http://arxiv.org/pdf/2306.11711v1)|null|
+|**2023-06-20**|**Generalized second law of thermodynamics in massive gravity**|Mohammad Beigmohammadi et.al.|[2306.11694v1](http://arxiv.org/abs/2306.11694v1)|[2306.11694v1](http://arxiv.org/pdf/2306.11694v1)|null|
+|**2023-06-20**|**Controlling secondary flows in Taylor-Couette flow using spanwise superhydrophobic surfaces**|Vignesh Jeganathan et.al.|[2306.11687v1](http://arxiv.org/abs/2306.11687v1)|[2306.11687v1](http://arxiv.org/pdf/2306.11687v1)|null|
+|**2023-06-20**|**Neural Astrophysical Wind Models**|Dustin D. Nguyen et.al.|[2306.11666v1](http://arxiv.org/abs/2306.11666v1)|[2306.11666v1](http://arxiv.org/pdf/2306.11666v1)|null|
+|**2023-06-20**|**Not so fast, not so furious: just magnetic**|Landstreet et.al.|[2306.11663v1](http://arxiv.org/abs/2306.11663v1)|[2306.11663v1](http://arxiv.org/pdf/2306.11663v1)|null|
+|**2023-06-20**|**Magnetic activity evolution of solar-like stars: I. S_ph-Age relation derived from Kepler observations**|Savita Mathur et.al.|[2306.11657v1](http://arxiv.org/abs/2306.11657v1)|[2306.11657v1](http://arxiv.org/pdf/2306.11657v1)|null|
+|**2023-06-20**|**Implications of the DLMA solution of $θ_{12}$ for IceCube data using different astrophysical sources**|Monojit Ghosh et.al.|[2306.11653v1](http://arxiv.org/abs/2306.11653v1)|[2306.11653v1](http://arxiv.org/pdf/2306.11653v1)|null|
+|**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648v1](http://arxiv.org/abs/2306.11648v1)|[2306.11648v1](http://arxiv.org/pdf/2306.11648v1)|null|
+|**2023-06-20**|**Planetesimal formation at the gas pressure bump following a migrating planet II. Effects of dust growth**|Yuhito Shibaike et.al.|[2306.11619v1](http://arxiv.org/abs/2306.11619v1)|[2306.11619v1](http://arxiv.org/pdf/2306.11619v1)|null|
 |**2023-06-16**|**Synchrotron Intensity Gradient Revealing Magnetic Fields in Galaxy Clusters**|Yue Hu et.al.|[2306.10011v1](http://arxiv.org/abs/2306.10011v1)|[2306.10011v1](http://arxiv.org/pdf/2306.10011v1)|null|
 |**2023-06-16**|**Damping of MHD Turbulence in A Partially Ionized Medium**|Yue Hu et.al.|[2306.10010v1](http://arxiv.org/abs/2306.10010v1)|[2306.10010v1](http://arxiv.org/pdf/2306.10010v1)|null|
 |**2023-06-16**|**Nature of Striation in 21 cm Channel Maps: Velocity Caustics**|Yue Hu et.al.|[2306.10005v1](http://arxiv.org/abs/2306.10005v1)|[2306.10005v1](http://arxiv.org/pdf/2306.10005v1)|null|
@@ -2503,6 +2513,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-20**|**DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**|Boxin Wang et.al.|[2306.11698v1](http://arxiv.org/abs/2306.11698v1)|[2306.11698v1](http://arxiv.org/pdf/2306.11698v1)|null|
+|**2023-06-20**|**A Simple and Effective Pruning Approach for Large Language Models**|Mingjie Sun et.al.|[2306.11695v1](http://arxiv.org/abs/2306.11695v1)|[2306.11695v1](http://arxiv.org/pdf/2306.11695v1)|**[link](https://github.com/locuslab/wanda)**|
+|**2023-06-20**|**Statistical Tests for Replacing Human Decision Makers with Algorithms**|Kai Feng et.al.|[2306.11689v1](http://arxiv.org/abs/2306.11689v1)|[2306.11689v1](http://arxiv.org/pdf/2306.11689v1)|null|
+|**2023-06-20**|**Large Scale Benchmark of Materials Design Methods**|Kamal Choudhary et.al.|[2306.11688v1](http://arxiv.org/abs/2306.11688v1)|[2306.11688v1](http://arxiv.org/pdf/2306.11688v1)|null|
+|**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682v1](http://arxiv.org/abs/2306.11682v1)|[2306.11682v1](http://arxiv.org/pdf/2306.11682v1)|null|
+|**2023-06-20**|**GIO: Gradient Information Optimization for Training Dataset Selection**|Dante Everaert et.al.|[2306.11670v1](http://arxiv.org/abs/2306.11670v1)|[2306.11670v1](http://arxiv.org/pdf/2306.11670v1)|**[link](https://github.com/daeveraert/gradient-information-optimization)**|
+|**2023-06-20**|**Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668v1](http://arxiv.org/abs/2306.11668v1)|[2306.11668v1](http://arxiv.org/pdf/2306.11668v1)|null|
+|**2023-06-20**|**G-NM: A Group of Numerical Time Series Prediction Models**|Juyoung Yun et.al.|[2306.11667v1](http://arxiv.org/abs/2306.11667v1)|[2306.11667v1](http://arxiv.org/pdf/2306.11667v1)|null|
+|**2023-06-20**|**FedNoisy: Federated Noisy Label Learning Benchmark**|Siqi Liang et.al.|[2306.11650v1](http://arxiv.org/abs/2306.11650v1)|[2306.11650v1](http://arxiv.org/pdf/2306.11650v1)|**[link](https://github.com/smilelab-fl/fednoisy)**|
+|**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648v1](http://arxiv.org/abs/2306.11648v1)|[2306.11648v1](http://arxiv.org/pdf/2306.11648v1)|null|
 |**2023-06-16**|**Coaching a Teachable Student**|Jimuyang Zhang et.al.|[2306.10014v1](http://arxiv.org/abs/2306.10014v1)|[2306.10014v1](http://arxiv.org/pdf/2306.10014v1)|null|
 |**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012v1](http://arxiv.org/abs/2306.10012v1)|[2306.10012v1](http://arxiv.org/pdf/2306.10012v1)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001v1](http://arxiv.org/abs/2306.10001v1)|[2306.10001v1](http://arxiv.org/pdf/2306.10001v1)|**[link](https://github.com/yoavkurtz/gor)**|
