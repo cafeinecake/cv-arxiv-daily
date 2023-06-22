@@ -1,10 +1,10 @@
-> Updated on 2023.06.21
+> Updated on 2023.06.22
 
 ## Astrophysics
 
 - 2023-06-20, **Equivalence of matter-type modified gravity theories to general relativity with nonminimal matter interaction**, Özgür Akarsu et.al., Paper: [http://arxiv.org/abs/2306.11717v1](http://arxiv.org/abs/2306.11717v1), Paper: [http://arxiv.org/abs/2306.11717v1](http://arxiv.org/pdf/2306.11717v1)
 - 2023-06-20, **Tayler-Spruit dynamos in simulated radiative stellar layers**, Ludovic Petitdemange et.al., Paper: [http://arxiv.org/abs/2306.11711v1](http://arxiv.org/abs/2306.11711v1), Paper: [http://arxiv.org/abs/2306.11711v1](http://arxiv.org/pdf/2306.11711v1)
-- 2023-06-20, **Generalized second law of thermodynamics in massive gravity**, Mohammad Beigmohammadi et.al., Paper: [http://arxiv.org/abs/2306.11694v1](http://arxiv.org/abs/2306.11694v1), Paper: [http://arxiv.org/abs/2306.11694v1](http://arxiv.org/pdf/2306.11694v1)
+- 2023-06-21, **Generalized second law of thermodynamics in massive gravity**, Mohammad Beigmohammadi et.al., Paper: [http://arxiv.org/abs/2306.11694v2](http://arxiv.org/abs/2306.11694v2), Paper: [http://arxiv.org/abs/2306.11694v2](http://arxiv.org/pdf/2306.11694v2)
 - 2023-06-20, **Controlling secondary flows in Taylor-Couette flow using spanwise superhydrophobic surfaces**, Vignesh Jeganathan et.al., Paper: [http://arxiv.org/abs/2306.11687v1](http://arxiv.org/abs/2306.11687v1), Paper: [http://arxiv.org/abs/2306.11687v1](http://arxiv.org/pdf/2306.11687v1)
 - 2023-06-20, **Neural Astrophysical Wind Models**, Dustin D. Nguyen et.al., Paper: [http://arxiv.org/abs/2306.11666v1](http://arxiv.org/abs/2306.11666v1), Paper: [http://arxiv.org/abs/2306.11666v1](http://arxiv.org/pdf/2306.11666v1)
 - 2023-06-20, **Not so fast, not so furious: just magnetic**, Landstreet et.al., Paper: [http://arxiv.org/abs/2306.11663v1](http://arxiv.org/abs/2306.11663v1), Paper: [http://arxiv.org/abs/2306.11663v1](http://arxiv.org/pdf/2306.11663v1)
