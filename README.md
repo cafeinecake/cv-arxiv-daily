@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-22**|**Freeze-in at stronger coupling**|Catarina Cosme et.al.|[2306.13061v1](http://arxiv.org/abs/2306.13061v1)|[2306.13061v1](http://arxiv.org/pdf/2306.13061v1)|null|
+|**2023-06-22**|**X-ray photodesorption of complex organic molecules in protoplanetary disks -- I. Acetonitrile CH3CN**|R. Basalgète et.al.|[2306.13048v1](http://arxiv.org/abs/2306.13048v1)|[2306.13048v1](http://arxiv.org/pdf/2306.13048v1)|null|
+|**2023-06-22**|**B-mode polarization forecasts for GreenPol**|U. Fuskeland et.al.|[2306.13043v1](http://arxiv.org/abs/2306.13043v1)|[2306.13043v1](http://arxiv.org/pdf/2306.13043v1)|null|
+|**2023-06-22**|**Magellanic System Stars Identified in the SMACS J0723.3-7327 JWST ERO Images**|Jake Summers et.al.|[2306.13037v1](http://arxiv.org/abs/2306.13037v1)|[2306.13037v1](http://arxiv.org/pdf/2306.13037v1)|null|
+|**2023-06-22**|**Spatially Resolved Kinematics of Extraplanar Diffuse Ionized Gas in NGC$\,$3511 and NGC$\,$3513**|Hanjue Zhu et.al.|[2306.13012v1](http://arxiv.org/abs/2306.13012v1)|[2306.13012v1](http://arxiv.org/pdf/2306.13012v1)|null|
+|**2023-06-22**|**Slowly Rotating Accretion Flow Around SMBH in Elliptical Galaxy: Case With Outflow**|Razieh Ranjbar et.al.|[2306.12990v1](http://arxiv.org/abs/2306.12990v1)|[2306.12990v1](http://arxiv.org/pdf/2306.12990v1)|null|
+|**2023-06-22**|**Shock cooling of a red-supergiant supernova at redshift 3 in lensed images**|Wenlei Chen et.al.|[2306.12985v1](http://arxiv.org/abs/2306.12985v1)|[2306.12985v1](http://arxiv.org/pdf/2306.12985v1)|null|
+|**2023-06-22**|**On the Degree of Dynamical Packing in the Kepler Multi-planet Systems**|Alysa Obertas et.al.|[2306.12967v1](http://arxiv.org/abs/2306.12967v1)|[2306.12967v1](http://arxiv.org/pdf/2306.12967v1)|null|
+|**2023-06-22**|**Quantum decay of scalar and vector boson stars and oscillons into gravitons**|Kazunori Nakayama et.al.|[2306.12961v1](http://arxiv.org/abs/2306.12961v1)|[2306.12961v1](http://arxiv.org/pdf/2306.12961v1)|null|
+|**2023-06-22**|**Observations of the Crab Nebula and Pulsar with the Large-Sized Telescope Prototype of the Cherenkov Telescope Array**|CTA-LST Project et.al.|[2306.12960v1](http://arxiv.org/abs/2306.12960v1)|[2306.12960v1](http://arxiv.org/pdf/2306.12960v1)|null|
 |**2023-06-21**|**Tracking the Multifield Dynamics with Cosmological Data: A Monte Carlo approach**|William Giarè et.al.|[2306.12414v1](http://arxiv.org/abs/2306.12414v1)|[2306.12414v1](http://arxiv.org/pdf/2306.12414v1)|null|
 |**2023-06-21**|**Discovery of Gaia17bpp, a Giant Star with the Deepest and Longest Known Dimming Event**|Anastasios Tzanidakis et.al.|[2306.12409v1](http://arxiv.org/abs/2306.12409v1)|[2306.12409v1](http://arxiv.org/pdf/2306.12409v1)|null|
 |**2023-06-21**|**Exploring the Evolution of Massive Clumps in Simulations that Reproduce the Observed Milky Way α-element Abundance Bimodality**|Bethany R. Garver et.al.|[2306.12388v1](http://arxiv.org/abs/2306.12388v1)|[2306.12388v1](http://arxiv.org/pdf/2306.12388v1)|null|
@@ -2519,6 +2529,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-22**|**Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective**|Zeyuan Yin et.al.|[2306.13092v1](http://arxiv.org/abs/2306.13092v1)|[2306.13092v1](http://arxiv.org/pdf/2306.13092v1)|**[link](https://github.com/zeyuanyin/sre2l)**|
+|**2023-06-22**|**Convergence results for gradient flow and gradient descent systems in the artificial neural network training**|Arzu Ahmadova et.al.|[2306.13086v1](http://arxiv.org/abs/2306.13086v1)|[2306.13086v1](http://arxiv.org/pdf/2306.13086v1)|null|
+|**2023-06-22**|**Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting**|Zhang-Wei Hong et.al.|[2306.13085v1](http://arxiv.org/abs/2306.13085v1)|[2306.13085v1](http://arxiv.org/pdf/2306.13085v1)|null|
+|**2023-06-22**|**Impacts and Risk of Generative AI Technology on Cyber Defense**|Subash Neupane et.al.|[2306.13033v1](http://arxiv.org/abs/2306.13033v1)|[2306.13033v1](http://arxiv.org/pdf/2306.13033v1)|null|
+|**2023-06-22**|**Transferable Curricula through Difficulty Conditioned Generators**|Sidney Tio et.al.|[2306.13028v1](http://arxiv.org/abs/2306.13028v1)|[2306.13028v1](http://arxiv.org/pdf/2306.13028v1)|null|
+|**2023-06-22**|**Can Differentiable Decision Trees Learn Interpretable Reward Functions?**|Akansha Kalra et.al.|[2306.13004v1](http://arxiv.org/abs/2306.13004v1)|[2306.13004v1](http://arxiv.org/pdf/2306.13004v1)|null|
+|**2023-06-22**|**Apolitical Intelligence? Auditing Delphi's responses on controversial political issues in the US**|Jonathan H. Rystrøm et.al.|[2306.13000v1](http://arxiv.org/abs/2306.13000v1)|[2306.13000v1](http://arxiv.org/pdf/2306.13000v1)|null|
+|**2023-06-22**|**Siamese SIREN: Audio Compression with Implicit Neural Representations**|Luca A. Lanzendörfer et.al.|[2306.12957v1](http://arxiv.org/abs/2306.12957v1)|[2306.12957v1](http://arxiv.org/pdf/2306.12957v1)|null|
+|**2023-06-22**|**Tracking public attitudes toward ChatGPT on Twitter using sentiment analysis and topic modeling**|Ratanond Koonchanok et.al.|[2306.12951v1](http://arxiv.org/abs/2306.12951v1)|[2306.12951v1](http://arxiv.org/pdf/2306.12951v1)|null|
+|**2023-06-22**|**Evolving Computation Graphs**|Andreea Deac et.al.|[2306.12943v1](http://arxiv.org/abs/2306.12943v1)|[2306.12943v1](http://arxiv.org/pdf/2306.12943v1)|null|
 |**2023-06-21**|**LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models**|Shizhe Diao et.al.|[2306.12420v1](http://arxiv.org/abs/2306.12420v1)|[2306.12420v1](http://arxiv.org/pdf/2306.12420v1)|**[link](https://github.com/optimalscale/lmflow)**|
 |**2023-06-21**|**Improving Software Requirements Prioritization through the Lens of Constraint Solving**|Jonathan Winton et.al.|[2306.12391v1](http://arxiv.org/abs/2306.12391v1)|[2306.12391v1](http://arxiv.org/pdf/2306.12391v1)|null|
 |**2023-06-21**|**Probing the limit of hydrologic predictability with the Transformer network**|Jiangtao Liu et.al.|[2306.12384v1](http://arxiv.org/abs/2306.12384v1)|[2306.12384v1](http://arxiv.org/pdf/2306.12384v1)|null|
