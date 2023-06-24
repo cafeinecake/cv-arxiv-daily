@@ -2531,7 +2531,7 @@
 |---|---|---|---|---|---|
 |**2023-06-22**|**Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective**|Zeyuan Yin et.al.|[2306.13092v1](http://arxiv.org/abs/2306.13092v1)|[2306.13092v1](http://arxiv.org/pdf/2306.13092v1)|**[link](https://github.com/zeyuanyin/sre2l)**|
 |**2023-06-22**|**Convergence results for gradient flow and gradient descent systems in the artificial neural network training**|Arzu Ahmadova et.al.|[2306.13086v1](http://arxiv.org/abs/2306.13086v1)|[2306.13086v1](http://arxiv.org/pdf/2306.13086v1)|null|
-|**2023-06-22**|**Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting**|Zhang-Wei Hong et.al.|[2306.13085v1](http://arxiv.org/abs/2306.13085v1)|[2306.13085v1](http://arxiv.org/pdf/2306.13085v1)|null|
+|**2023-06-22**|**Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting**|Zhang-Wei Hong et.al.|[2306.13085v1](http://arxiv.org/abs/2306.13085v1)|[2306.13085v1](http://arxiv.org/pdf/2306.13085v1)|**[link](https://github.com/improbable-ai/harness-offline-rl)**|
 |**2023-06-22**|**Impacts and Risk of Generative AI Technology on Cyber Defense**|Subash Neupane et.al.|[2306.13033v1](http://arxiv.org/abs/2306.13033v1)|[2306.13033v1](http://arxiv.org/pdf/2306.13033v1)|null|
 |**2023-06-22**|**Transferable Curricula through Difficulty Conditioned Generators**|Sidney Tio et.al.|[2306.13028v1](http://arxiv.org/abs/2306.13028v1)|[2306.13028v1](http://arxiv.org/pdf/2306.13028v1)|null|
 |**2023-06-22**|**Can Differentiable Decision Trees Learn Interpretable Reward Functions?**|Akansha Kalra et.al.|[2306.13004v1](http://arxiv.org/abs/2306.13004v1)|[2306.13004v1](http://arxiv.org/pdf/2306.13004v1)|null|
