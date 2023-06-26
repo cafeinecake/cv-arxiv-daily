@@ -2,12 +2,22 @@
 layout: default
 ---
 
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-23**|**Characterising a World Within the Hot Neptune Desert: Transit Observations of LTT 9779 b with HST WFC3**|Billy Edwards et.al.|[2306.13645v1](http://arxiv.org/abs/2306.13645v1)|[2306.13645v1](http://arxiv.org/pdf/2306.13645v1)|null|
+|**2023-06-23**|**X-ray Analysis of AGN from the GALEX Time Domain Survey**|Erik J. Wasleske et.al.|[2306.13639v1](http://arxiv.org/abs/2306.13639v1)|[2306.13639v1](http://arxiv.org/pdf/2306.13639v1)|null|
+|**2023-06-23**|**Pyodine: An open, flexible reduction software for iodine-calibrated precise radial velocities**|Paul Heeren et.al.|[2306.13615v1](http://arxiv.org/abs/2306.13615v1)|[2306.13615v1](http://arxiv.org/pdf/2306.13615v1)|null|
+|**2023-06-23**|**Fast radio bursts trigger aftershocks resembling earthquakes, but not solar flares**|Tomonori Totani et.al.|[2306.13612v1](http://arxiv.org/abs/2306.13612v1)|[2306.13612v1](http://arxiv.org/pdf/2306.13612v1)|null|
+|**2023-06-23**|**Results of 23 yr of Pulsar Timing of PSR J1453-6413**|Wei Li et.al.|[2306.13611v1](http://arxiv.org/abs/2306.13611v1)|[2306.13611v1](http://arxiv.org/pdf/2306.13611v1)|null|
+|**2023-06-23**|**Ultraviolet astronomical spectrograph calibration with laser frequency combs from nanophotonic waveguides**|Markus Ludwig et.al.|[2306.13609v1](http://arxiv.org/abs/2306.13609v1)|[2306.13609v1](http://arxiv.org/pdf/2306.13609v1)|null|
+|**2023-06-23**|**Testing gravity with cosmic variance-limited pulsar timing array correlations**|Reginald Christian Bernardo et.al.|[2306.13593v1](http://arxiv.org/abs/2306.13593v1)|[2306.13593v1](http://arxiv.org/pdf/2306.13593v1)|null|
+|**2023-06-23**|**Bulk viscosity from Urca processes: $npeμ$ matter in the neutrino-transparent regime**|Mark Alford et.al.|[2306.13591v1](http://arxiv.org/abs/2306.13591v1)|[2306.13591v1](http://arxiv.org/pdf/2306.13591v1)|null|
+|**2023-06-23**|**Maximally local two-nucleon interactions at fourth order in delta-less chiral effective field theory**|Rahul Somasundaram et.al.|[2306.13579v1](http://arxiv.org/abs/2306.13579v1)|[2306.13579v1](http://arxiv.org/pdf/2306.13579v1)|null|
+|**2023-06-23**|**Simplifying asteroseismic analysis of solar-like oscillators: An application of principal component analysis for dimensionality reduction**|M. B. Nielsen et.al.|[2306.13577v1](http://arxiv.org/abs/2306.13577v1)|[2306.13577v1](http://arxiv.org/pdf/2306.13577v1)|null|
 |**2023-06-22**|**Freeze-in at stronger coupling**|Catarina Cosme et.al.|[2306.13061v1](http://arxiv.org/abs/2306.13061v1)|[2306.13061v1](http://arxiv.org/pdf/2306.13061v1)|null|
 |**2023-06-22**|**X-ray photodesorption of complex organic molecules in protoplanetary disks -- I. Acetonitrile CH3CN**|R. Basalgète et.al.|[2306.13048v1](http://arxiv.org/abs/2306.13048v1)|[2306.13048v1](http://arxiv.org/pdf/2306.13048v1)|null|
 |**2023-06-22**|**B-mode polarization forecasts for GreenPol**|U. Fuskeland et.al.|[2306.13043v1](http://arxiv.org/abs/2306.13043v1)|[2306.13043v1](http://arxiv.org/pdf/2306.13043v1)|null|
@@ -2533,6 +2543,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-23**|**GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**|Rishabh Agarwal et.al.|[2306.13649v1](http://arxiv.org/abs/2306.13649v1)|[2306.13649v1](http://arxiv.org/pdf/2306.13649v1)|null|
+|**2023-06-23**|**Offline Skill Graph (OSG): A Framework for Learning and Planning using Offline Reinforcement Learning Skills**|Ben-ya Halevy et.al.|[2306.13630v1](http://arxiv.org/abs/2306.13630v1)|[2306.13630v1](http://arxiv.org/pdf/2306.13630v1)|null|
+|**2023-06-23**|**Adversarial Robustness Certification for Bayesian Neural Networks**|Matthew Wicker et.al.|[2306.13614v1](http://arxiv.org/abs/2306.13614v1)|[2306.13614v1](http://arxiv.org/pdf/2306.13614v1)|**[link](https://github.com/matthewwicker/adversarialrobustnesscertificationforbnns)**|
+|**2023-06-23**|**Margin Maximization in Attention Mechanism**|Davoud Ataee Tarzanagh et.al.|[2306.13596v1](http://arxiv.org/abs/2306.13596v1)|[2306.13596v1](http://arxiv.org/pdf/2306.13596v1)|null|
+|**2023-06-23**|**System-Level Natural Language Feedback**|Weizhe Yuan et.al.|[2306.13588v1](http://arxiv.org/abs/2306.13588v1)|[2306.13588v1](http://arxiv.org/pdf/2306.13588v1)|null|
+|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587v1](http://arxiv.org/abs/2306.13587v1)|[2306.13587v1](http://arxiv.org/pdf/2306.13587v1)|null|
+|**2023-06-23**|**Thoughts on Architecture**|Paul S. Rosenbloom et.al.|[2306.13572v1](http://arxiv.org/abs/2306.13572v1)|[2306.13572v1](http://arxiv.org/pdf/2306.13572v1)|null|
+|**2023-06-23**|**Comparing the Efficacy of Fine-Tuning and Meta-Learning for Few-Shot Policy Imitation**|Massimiliano Patacchiola et.al.|[2306.13554v1](http://arxiv.org/abs/2306.13554v1)|[2306.13554v1](http://arxiv.org/pdf/2306.13554v1)|**[link](https://github.com/mpatacchiola/imujoco)**|
+|**2023-06-23**|**A Survey on Multimodal Large Language Models**|Shukang Yin et.al.|[2306.13549v1](http://arxiv.org/abs/2306.13549v1)|[2306.13549v1](http://arxiv.org/pdf/2306.13549v1)|**[link](https://github.com/bradyfu/awesome-multimodal-large-language-models)**|
+|**2023-06-23**|**On the essential decreasing of the summation order in the Abel-Lidskii sense**|Maksim V. Kukushkin et.al.|[2306.13547v1](http://arxiv.org/abs/2306.13547v1)|[2306.13547v1](http://arxiv.org/pdf/2306.13547v1)|null|
 |**2023-06-22**|**Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective**|Zeyuan Yin et.al.|[2306.13092v1](http://arxiv.org/abs/2306.13092v1)|[2306.13092v1](http://arxiv.org/pdf/2306.13092v1)|**[link](https://github.com/zeyuanyin/sre2l)**|
 |**2023-06-22**|**Convergence results for gradient flow and gradient descent systems in the artificial neural network training**|Arzu Ahmadova et.al.|[2306.13086v1](http://arxiv.org/abs/2306.13086v1)|[2306.13086v1](http://arxiv.org/pdf/2306.13086v1)|null|
 |**2023-06-22**|**Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting**|Zhang-Wei Hong et.al.|[2306.13085v1](http://arxiv.org/abs/2306.13085v1)|[2306.13085v1](http://arxiv.org/pdf/2306.13085v1)|**[link](https://github.com/improbable-ai/harness-offline-rl)**|
