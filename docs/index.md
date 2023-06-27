@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-26**|**Molecular gas distribution and CO-to-H2 conversion factors in CO-faint low-metallicity dwarf galaxies**|L. Ramambason et.al.|[2306.14881v1](http://arxiv.org/abs/2306.14881v1)|[2306.14881v1](http://arxiv.org/pdf/2306.14881v1)|null|
+|**2023-06-26**|**Hemispherical Power Asymmetry in intensity and polarization for Planck PR4 data**|C. Gimeno-Amo et.al.|[2306.14880v1](http://arxiv.org/abs/2306.14880v1)|[2306.14880v1](http://arxiv.org/pdf/2306.14880v1)|null|
+|**2023-06-26**|**Primordial gravitational waves in the nano-Hertz regime and PTA data -- towards solving the GW inverse problem**|Eric Madge et.al.|[2306.14856v1](http://arxiv.org/abs/2306.14856v1)|[2306.14856v1](http://arxiv.org/pdf/2306.14856v1)|null|
+|**2023-06-26**|**Fab-Four cosmography to tackle the Hubble tension**|Celia Escamilla-Rivera et.al.|[2306.14855v1](http://arxiv.org/abs/2306.14855v1)|[2306.14855v1](http://arxiv.org/pdf/2306.14855v1)|null|
+|**2023-06-26**|**Merger-driven infall of metal-poor gas in luminous infrared galaxies: a deep dive beneath the mass-metallicity relation**|Borja Pérez-Díaz et.al.|[2306.14843v1](http://arxiv.org/abs/2306.14843v1)|[2306.14843v1](http://arxiv.org/pdf/2306.14843v1)|null|
+|**2023-06-26**|**Microlensing bias on the detection of strong lensing gravitational wave**|Xikai Shan et.al.|[2306.14796v1](http://arxiv.org/abs/2306.14796v1)|[2306.14796v1](http://arxiv.org/pdf/2306.14796v1)|null|
+|**2023-06-26**|**Constraints on quantum spacetime-induced decoherence from neutrino oscillations**|Vittorio D'Esposito et.al.|[2306.14778v1](http://arxiv.org/abs/2306.14778v1)|[2306.14778v1](http://arxiv.org/pdf/2306.14778v1)|null|
+|**2023-06-26**|**The temporal evolution of gas accretion onto the discs of simulated Milky Way-mass galaxies**|F. G. Iza et.al.|[2306.14760v1](http://arxiv.org/abs/2306.14760v1)|[2306.14760v1](http://arxiv.org/pdf/2306.14760v1)|null|
+|**2023-06-26**|**On-going improvements in the Virgo strain h(t) reconstruction, online noise subtraction and early-warning pipe in preparation for the O4 run**|Monica Seglar-Arroyo et.al.|[2306.14751v1](http://arxiv.org/abs/2306.14751v1)|[2306.14751v1](http://arxiv.org/pdf/2306.14751v1)|null|
+|**2023-06-26**|**On the mass of gas giant planets: Is Saturn a failed gas giant?**|Ravit Helled et.al.|[2306.14740v1](http://arxiv.org/abs/2306.14740v1)|[2306.14740v1](http://arxiv.org/pdf/2306.14740v1)|null|
 |**2023-06-23**|**Characterising a World Within the Hot Neptune Desert: Transit Observations of LTT 9779 b with HST WFC3**|Billy Edwards et.al.|[2306.13645v1](http://arxiv.org/abs/2306.13645v1)|[2306.13645v1](http://arxiv.org/pdf/2306.13645v1)|null|
 |**2023-06-23**|**X-ray Analysis of AGN from the GALEX Time Domain Survey**|Erik J. Wasleske et.al.|[2306.13639v1](http://arxiv.org/abs/2306.13639v1)|[2306.13639v1](http://arxiv.org/pdf/2306.13639v1)|null|
 |**2023-06-23**|**Pyodine: An open, flexible reduction software for iodine-calibrated precise radial velocities**|Paul Heeren et.al.|[2306.13615v1](http://arxiv.org/abs/2306.13615v1)|[2306.13615v1](http://arxiv.org/pdf/2306.13615v1)|null|
@@ -2543,6 +2553,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[2306.14899v1](http://arxiv.org/pdf/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
+|**2023-06-26**|**LongCoder: A Long-Range Pre-trained Language Model for Code Completion**|Daya Guo et.al.|[2306.14893v1](http://arxiv.org/abs/2306.14893v1)|[2306.14893v1](http://arxiv.org/pdf/2306.14893v1)|**[link](https://github.com/microsoft/CodeBERT)**|
+|**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|[2306.14892v1](http://arxiv.org/pdf/2306.14892v1)|null|
+|**2023-06-26**|**Learning to Modulate pre-trained Models in RL**|Thomas Schmied et.al.|[2306.14884v1](http://arxiv.org/abs/2306.14884v1)|[2306.14884v1](http://arxiv.org/pdf/2306.14884v1)|**[link](https://github.com/ml-jku/l2m)**|
+|**2023-06-26**|**Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck**|Zhelun Zhang et.al.|[2306.14838v1](http://arxiv.org/abs/2306.14838v1)|[2306.14838v1](http://arxiv.org/pdf/2306.14838v1)|null|
+|**2023-06-26**|**Scalable Neural Contextual Bandit for Recommender Systems**|Zheqing Zhu et.al.|[2306.14834v1](http://arxiv.org/abs/2306.14834v1)|[2306.14834v1](http://arxiv.org/pdf/2306.14834v1)|null|
+|**2023-06-26**|**HonestBait: Forward References for Attractive but Faithful Headline Generation**|Chih-Yao Chen et.al.|[2306.14828v1](http://arxiv.org/abs/2306.14828v1)|[2306.14828v1](http://arxiv.org/pdf/2306.14828v1)|null|
+|**2023-06-26**|**Vietnamese multi-document summary using subgraph selection approach -- VLSP 2022 AbMuSu Shared Task**|Huu-Thin Nguyen et.al.|[2306.14827v1](http://arxiv.org/abs/2306.14827v1)|[2306.14827v1](http://arxiv.org/pdf/2306.14827v1)|null|
+|**2023-06-26**|**Kosmos-2: Grounding Multimodal Large Language Models to the World**|Zhiliang Peng et.al.|[2306.14824v1](http://arxiv.org/abs/2306.14824v1)|[2306.14824v1](http://arxiv.org/pdf/2306.14824v1)|null|
+|**2023-06-26**|**Label-Aware Hyperbolic Embeddings for Fine-grained Emotion Classification**|Chih-Yao Chen et.al.|[2306.14822v1](http://arxiv.org/abs/2306.14822v1)|[2306.14822v1](http://arxiv.org/pdf/2306.14822v1)|**[link](https://github.com/dinobby/hypemo)**|
 |**2023-06-23**|**GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**|Rishabh Agarwal et.al.|[2306.13649v1](http://arxiv.org/abs/2306.13649v1)|[2306.13649v1](http://arxiv.org/pdf/2306.13649v1)|null|
 |**2023-06-23**|**Offline Skill Graph (OSG): A Framework for Learning and Planning using Offline Reinforcement Learning Skills**|Ben-ya Halevy et.al.|[2306.13630v1](http://arxiv.org/abs/2306.13630v1)|[2306.13630v1](http://arxiv.org/pdf/2306.13630v1)|null|
 |**2023-06-23**|**Adversarial Robustness Certification for Bayesian Neural Networks**|Matthew Wicker et.al.|[2306.13614v1](http://arxiv.org/abs/2306.13614v1)|[2306.13614v1](http://arxiv.org/pdf/2306.13614v1)|**[link](https://github.com/matthewwicker/adversarialrobustnesscertificationforbnns)**|
