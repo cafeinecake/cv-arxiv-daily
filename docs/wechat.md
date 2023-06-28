@@ -1,4 +1,4 @@
-> Updated on 2023.06.27
+> Updated on 2023.06.28
 
 ## Astrophysics
 
@@ -2553,7 +2553,7 @@
 - 2023-06-26, **Scalable Neural Contextual Bandit for Recommender Systems**, Zheqing Zhu et.al., Paper: [http://arxiv.org/abs/2306.14834v1](http://arxiv.org/abs/2306.14834v1), Paper: [http://arxiv.org/abs/2306.14834v1](http://arxiv.org/pdf/2306.14834v1)
 - 2023-06-26, **HonestBait: Forward References for Attractive but Faithful Headline Generation**, Chih-Yao Chen et.al., Paper: [http://arxiv.org/abs/2306.14828v1](http://arxiv.org/abs/2306.14828v1), Paper: [http://arxiv.org/abs/2306.14828v1](http://arxiv.org/pdf/2306.14828v1)
 - 2023-06-26, **Vietnamese multi-document summary using subgraph selection approach -- VLSP 2022 AbMuSu Shared Task**, Huu-Thin Nguyen et.al., Paper: [http://arxiv.org/abs/2306.14827v1](http://arxiv.org/abs/2306.14827v1), Paper: [http://arxiv.org/abs/2306.14827v1](http://arxiv.org/pdf/2306.14827v1)
-- 2023-06-26, **Kosmos-2: Grounding Multimodal Large Language Models to the World**, Zhiliang Peng et.al., Paper: [http://arxiv.org/abs/2306.14824v1](http://arxiv.org/abs/2306.14824v1), Paper: [http://arxiv.org/abs/2306.14824v1](http://arxiv.org/pdf/2306.14824v1)
+- 2023-06-27, **Kosmos-2: Grounding Multimodal Large Language Models to the World**, Zhiliang Peng et.al., Paper: [http://arxiv.org/abs/2306.14824v2](http://arxiv.org/abs/2306.14824v2), Paper: [http://arxiv.org/abs/2306.14824v2](http://arxiv.org/pdf/2306.14824v2)
 - 2023-06-26, **Label-Aware Hyperbolic Embeddings for Fine-grained Emotion Classification**, Chih-Yao Chen et.al., Paper: [http://arxiv.org/abs/2306.14822v1](http://arxiv.org/abs/2306.14822v1),Paper: [http://arxiv.org/abs/2306.14822v1](http://arxiv.org/pdf/2306.14822v1), Code: **[https://github.com/dinobby/hypemo](https://github.com/dinobby/hypemo)**
 - 2023-06-23, **GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**, Rishabh Agarwal et.al., Paper: [http://arxiv.org/abs/2306.13649v1](http://arxiv.org/abs/2306.13649v1), Paper: [http://arxiv.org/abs/2306.13649v1](http://arxiv.org/pdf/2306.13649v1)
 - 2023-06-23, **Offline Skill Graph (OSG): A Framework for Learning and Planning using Offline Reinforcement Learning Skills**, Ben-ya Halevy et.al., Paper: [http://arxiv.org/abs/2306.13630v1](http://arxiv.org/abs/2306.13630v1), Paper: [http://arxiv.org/abs/2306.13630v1](http://arxiv.org/pdf/2306.13630v1)
