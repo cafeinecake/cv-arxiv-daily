@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-27**|**Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events**|Chengchao Yuan et.al.|[2306.15659v1](http://arxiv.org/abs/2306.15659v1)|[2306.15659v1](http://arxiv.org/pdf/2306.15659v1)|null|
+|**2023-06-27**|**Radiation of Optical Angular Momentum from a Dipole Source in a Magneto-birefringent Environment**|R. Le Fournis et.al.|[2306.15639v1](http://arxiv.org/abs/2306.15639v1)|[2306.15639v1](http://arxiv.org/pdf/2306.15639v1)|null|
+|**2023-06-27**|**Probing internal dissipative processes of neutron stars with gravitational waves during the inspiral of neutron star binaries**|Justin L. Ripley et.al.|[2306.15633v1](http://arxiv.org/abs/2306.15633v1)|[2306.15633v1](http://arxiv.org/pdf/2306.15633v1)|null|
+|**2023-06-27**|**The Stellar Abundances and Galactic Evolution Survey (SAGES) -- -- I. General Description and the First Data Release (DR1)**|Zhou Fan et.al.|[2306.15611v1](http://arxiv.org/abs/2306.15611v1)|[2306.15611v1](http://arxiv.org/pdf/2306.15611v1)|null|
+|**2023-06-27**|**Photometric variability of blue straggler stars in M67 with TESS and K2**|Nagaraj Vernekar et.al.|[2306.15606v1](http://arxiv.org/abs/2306.15606v1)|[2306.15606v1](http://arxiv.org/pdf/2306.15606v1)|null|
+|**2023-06-27**|**Status of the GINGER project**|Angela D. V. Di Virgilio et.al.|[2306.15603v1](http://arxiv.org/abs/2306.15603v1)|[2306.15603v1](http://arxiv.org/pdf/2306.15603v1)|null|
+|**2023-06-27**|**Impact of the solar activity on the propagation of ICMEs: Simulations of hydro, magnetic and median ICMEs at minimum and maximum of activity**|Barbara Perri et.al.|[2306.15560v1](http://arxiv.org/abs/2306.15560v1)|[2306.15560v1](http://arxiv.org/pdf/2306.15560v1)|null|
+|**2023-06-27**|**Bubbletrons**|Iason Baldes et.al.|[2306.15555v1](http://arxiv.org/abs/2306.15555v1)|[2306.15555v1](http://arxiv.org/pdf/2306.15555v1)|null|
+|**2023-06-27**|**The sharpest view on the high-mass star-forming region S255IR. Near-InfraRed Adaptive Optics Imaging on the Outbursting Source NIRS3**|R. Fedriani et.al.|[2306.15542v1](http://arxiv.org/abs/2306.15542v1)|[2306.15542v1](http://arxiv.org/pdf/2306.15542v1)|null|
+|**2023-06-27**|**Discovery and Characterization of Galactic-scale Dual Supermassive Black Holes Across Cosmic Time**|Yue Shen et.al.|[2306.15527v1](http://arxiv.org/abs/2306.15527v1)|[2306.15527v1](http://arxiv.org/pdf/2306.15527v1)|null|
 |**2023-06-26**|**Molecular gas distribution and CO-to-H2 conversion factors in CO-faint low-metallicity dwarf galaxies**|L. Ramambason et.al.|[2306.14881v1](http://arxiv.org/abs/2306.14881v1)|[2306.14881v1](http://arxiv.org/pdf/2306.14881v1)|null|
 |**2023-06-26**|**Hemispherical Power Asymmetry in intensity and polarization for Planck PR4 data**|C. Gimeno-Amo et.al.|[2306.14880v1](http://arxiv.org/abs/2306.14880v1)|[2306.14880v1](http://arxiv.org/pdf/2306.14880v1)|null|
 |**2023-06-26**|**Primordial gravitational waves in the nano-Hertz regime and PTA data -- towards solving the GW inverse problem**|Eric Madge et.al.|[2306.14856v1](http://arxiv.org/abs/2306.14856v1)|[2306.14856v1](http://arxiv.org/pdf/2306.14856v1)|null|
@@ -2549,6 +2559,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|[2306.15668v1](http://arxiv.org/pdf/2306.15668v1)|null|
+|**2023-06-27**|**ShuttleSet22: Benchmarking Stroke Forecasting with Stroke-Level Badminton Dataset**|Wei-Yao Wang et.al.|[2306.15664v1](http://arxiv.org/abs/2306.15664v1)|[2306.15664v1](http://arxiv.org/pdf/2306.15664v1)|**[link](https://github.com/wywywang/coachai-projects)**|
+|**2023-06-27**|**Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs**|Navindu Leelarathna et.al.|[2306.15661v1](http://arxiv.org/abs/2306.15661v1)|[2306.15661v1](http://arxiv.org/pdf/2306.15661v1)|null|
+|**2023-06-27**|**The Distortion of Binomial Voting Defies Expectation**|Yannai A. Gonczarowski et.al.|[2306.15657v1](http://arxiv.org/abs/2306.15657v1)|[2306.15657v1](http://arxiv.org/pdf/2306.15657v1)|null|
+|**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656v1](http://arxiv.org/abs/2306.15656v1)|[2306.15656v1](http://arxiv.org/pdf/2306.15656v1)|null|
+|**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|[2306.15632v1](http://arxiv.org/pdf/2306.15632v1)|null|
+|**2023-06-27**|**Machine-learning based noise characterization and correction on neutral atoms NISQ devices**|Ettore Canonici et.al.|[2306.15628v1](http://arxiv.org/abs/2306.15628v1)|[2306.15628v1](http://arxiv.org/pdf/2306.15628v1)|null|
+|**2023-06-27**|**LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**|Kaiyu Yang et.al.|[2306.15626v1](http://arxiv.org/abs/2306.15626v1)|[2306.15626v1](http://arxiv.org/pdf/2306.15626v1)|**[link](https://github.com/lean-dojo/leandojo)**|
+|**2023-06-27**|**Value-aware Importance Weighting for Off-policy Reinforcement Learning**|Kristopher De Asis et.al.|[2306.15625v1](http://arxiv.org/abs/2306.15625v1)|[2306.15625v1](http://arxiv.org/pdf/2306.15625v1)|null|
+|**2023-06-27**|**Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB**|Jerzy A. Wieczorek et.al.|[2306.15607v1](http://arxiv.org/abs/2306.15607v1)|[2306.15607v1](http://arxiv.org/pdf/2306.15607v1)|null|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[2306.14899v1](http://arxiv.org/pdf/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
 |**2023-06-26**|**LongCoder: A Long-Range Pre-trained Language Model for Code Completion**|Daya Guo et.al.|[2306.14893v1](http://arxiv.org/abs/2306.14893v1)|[2306.14893v1](http://arxiv.org/pdf/2306.14893v1)|**[link](https://github.com/microsoft/CodeBERT)**|
 |**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|[2306.14892v1](http://arxiv.org/pdf/2306.14892v1)|null|
