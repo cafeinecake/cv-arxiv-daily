@@ -1,4 +1,4 @@
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 
 ## Astrophysics
 
@@ -2564,7 +2564,7 @@
 |**2023-06-27**|**Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs**|Navindu Leelarathna et.al.|[2306.15661v1](http://arxiv.org/abs/2306.15661v1)|[2306.15661v1](http://arxiv.org/pdf/2306.15661v1)|null|
 |**2023-06-27**|**The Distortion of Binomial Voting Defies Expectation**|Yannai A. Gonczarowski et.al.|[2306.15657v1](http://arxiv.org/abs/2306.15657v1)|[2306.15657v1](http://arxiv.org/pdf/2306.15657v1)|null|
 |**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656v1](http://arxiv.org/abs/2306.15656v1)|[2306.15656v1](http://arxiv.org/pdf/2306.15656v1)|null|
-|**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|[2306.15632v1](http://arxiv.org/pdf/2306.15632v1)|null|
+|**2023-06-28**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v2](http://arxiv.org/abs/2306.15632v2)|[2306.15632v2](http://arxiv.org/pdf/2306.15632v2)|null|
 |**2023-06-27**|**Machine-learning based noise characterization and correction on neutral atoms NISQ devices**|Ettore Canonici et.al.|[2306.15628v1](http://arxiv.org/abs/2306.15628v1)|[2306.15628v1](http://arxiv.org/pdf/2306.15628v1)|null|
 |**2023-06-27**|**LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**|Kaiyu Yang et.al.|[2306.15626v1](http://arxiv.org/abs/2306.15626v1)|[2306.15626v1](http://arxiv.org/pdf/2306.15626v1)|**[link](https://github.com/lean-dojo/leandojo)**|
 |**2023-06-27**|**Value-aware Importance Weighting for Off-policy Reinforcement Learning**|Kristopher De Asis et.al.|[2306.15625v1](http://arxiv.org/abs/2306.15625v1)|[2306.15625v1](http://arxiv.org/pdf/2306.15625v1)|null|
