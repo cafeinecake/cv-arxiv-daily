@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-28**|**Coagulation-Fragmentation Equilibrium for Charged Dust: Abundance of Submicron Grains Increases Dramatically in Protoplanetary Disks**|Vitaly Akimkin et.al.|[2306.16408v1](http://arxiv.org/abs/2306.16408v1)|[2306.16408v1](http://arxiv.org/pdf/2306.16408v1)|null|
+|**2023-06-28**|**Constraining MeV-scale axion-like particles with Fermi-LAT observations of SN 2023ixf**|Eike Müller et.al.|[2306.16397v1](http://arxiv.org/abs/2306.16397v1)|[2306.16397v1](http://arxiv.org/pdf/2306.16397v1)|null|
+|**2023-06-28**|**Fully coupled photochemistry of the deuterated ionosphere of Mars and its effects on escape of H and D**|Eryn M. Cangi et.al.|[2306.16396v1](http://arxiv.org/abs/2306.16396v1)|[2306.16396v1](http://arxiv.org/pdf/2306.16396v1)|null|
+|**2023-06-28**|**Characterizing the Spectral Structure of Weak Impulsive Narrowband Quiet Sun Emissions**|Surajit Mondal et.al.|[2306.16390v1](http://arxiv.org/abs/2306.16390v1)|[2306.16390v1](http://arxiv.org/pdf/2306.16390v1)|null|
+|**2023-06-28**|**A new method for short duration transient detection in radio images: Searching for transient sources in MeerKAT data of NGC 5068**|S. Fijma et.al.|[2306.16383v1](http://arxiv.org/abs/2306.16383v1)|[2306.16383v1](http://arxiv.org/pdf/2306.16383v1)|null|
+|**2023-06-28**|**Axiverse Birefringence**|Silvia Gasparotto et.al.|[2306.16355v1](http://arxiv.org/abs/2306.16355v1)|[2306.16355v1](http://arxiv.org/pdf/2306.16355v1)|null|
+|**2023-06-28**|**The GFCAT: a catalog of ultraviolet variables observed by GALEX with sub-minute resolution**|Chase C. Million et.al.|[2306.16345v1](http://arxiv.org/abs/2306.16345v1)|[2306.16345v1](http://arxiv.org/pdf/2306.16345v1)|null|
+|**2023-06-28**|**The invisible low-frequency gravitons and the audio band**|Massimo Giovannini et.al.|[2306.16336v1](http://arxiv.org/abs/2306.16336v1)|[2306.16336v1](http://arxiv.org/pdf/2306.16336v1)|null|
+|**2023-06-28**|**2-point statistics covariance with fewer mocks**|Svyatoslav Trusov et.al.|[2306.16332v1](http://arxiv.org/abs/2306.16332v1)|[2306.16332v1](http://arxiv.org/pdf/2306.16332v1)|null|
+|**2023-06-28**|**Sensitivity of He Flames in X-ray Bursts to Nuclear Physics**|Zhi Chen et.al.|[2306.16320v1](http://arxiv.org/abs/2306.16320v1)|[2306.16320v1](http://arxiv.org/pdf/2306.16320v1)|null|
 |**2023-06-27**|**Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events**|Chengchao Yuan et.al.|[2306.15659v1](http://arxiv.org/abs/2306.15659v1)|[2306.15659v1](http://arxiv.org/pdf/2306.15659v1)|null|
 |**2023-06-27**|**Radiation of Optical Angular Momentum from a Dipole Source in a Magneto-birefringent Environment**|R. Le Fournis et.al.|[2306.15639v1](http://arxiv.org/abs/2306.15639v1)|[2306.15639v1](http://arxiv.org/pdf/2306.15639v1)|null|
 |**2023-06-27**|**Probing internal dissipative processes of neutron stars with gravitational waves during the inspiral of neutron star binaries**|Justin L. Ripley et.al.|[2306.15633v1](http://arxiv.org/abs/2306.15633v1)|[2306.15633v1](http://arxiv.org/pdf/2306.15633v1)|null|
@@ -2559,6 +2569,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-28**|**On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**|Wenxiao Wang et.al.|[2306.16415v1](http://arxiv.org/abs/2306.16415v1)|[2306.16415v1](http://arxiv.org/pdf/2306.16415v1)|null|
+|**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413v1](http://arxiv.org/abs/2306.16413v1)|[2306.16413v1](http://arxiv.org/pdf/2306.16413v1)|**[link](https://github.com/pliang279/MultiBench)**|
+|**2023-06-28**|**Towards Measuring the Representation of Subjective Global Opinions in Language Models**|Esin Durmus et.al.|[2306.16388v1](http://arxiv.org/abs/2306.16388v1)|[2306.16388v1](http://arxiv.org/pdf/2306.16388v1)|null|
+|**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|[2306.16384v1](http://arxiv.org/pdf/2306.16384v1)|**[link](https://github.com/jeongminpark417/gids)**|
+|**2023-06-28**|**Lagrangian based A* algorithm for automated reasoning**|Renju Rajan et.al.|[2306.16368v1](http://arxiv.org/abs/2306.16368v1)|[2306.16368v1](http://arxiv.org/pdf/2306.16368v1)|null|
+|**2023-06-28**|**Identifiability of Discretized Latent Coordinate Systems via Density Landmarks Detection**|Vitória Barin-Pacela et.al.|[2306.16334v1](http://arxiv.org/abs/2306.16334v1)|[2306.16334v1](http://arxiv.org/pdf/2306.16334v1)|null|
+|**2023-06-28**|**Representation Learning via Variational Bayesian Networks**|Oren Barkan et.al.|[2306.16326v1](http://arxiv.org/abs/2306.16326v1)|[2306.16326v1](http://arxiv.org/pdf/2306.16326v1)|null|
+|**2023-06-28**|**An Adversarial Multi-Task Learning Method for Chinese Text Correction with Semantic Detection**|Fanyu Wang et.al.|[2306.16313v1](http://arxiv.org/abs/2306.16313v1)|[2306.16313v1](http://arxiv.org/pdf/2306.16313v1)|null|
+|**2023-06-28**|**Social World Knowledge: Modeling and Applications**|Nir Lotan et.al.|[2306.16299v1](http://arxiv.org/abs/2306.16299v1)|[2306.16299v1](http://arxiv.org/pdf/2306.16299v1)|null|
+|**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296v1](http://arxiv.org/abs/2306.16296v1)|[2306.16296v1](http://arxiv.org/pdf/2306.16296v1)|null|
 |**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|[2306.15668v1](http://arxiv.org/pdf/2306.15668v1)|null|
 |**2023-06-27**|**ShuttleSet22: Benchmarking Stroke Forecasting with Stroke-Level Badminton Dataset**|Wei-Yao Wang et.al.|[2306.15664v1](http://arxiv.org/abs/2306.15664v1)|[2306.15664v1](http://arxiv.org/pdf/2306.15664v1)|**[link](https://github.com/wywywang/coachai-projects)**|
 |**2023-06-27**|**Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs**|Navindu Leelarathna et.al.|[2306.15661v1](http://arxiv.org/abs/2306.15661v1)|[2306.15661v1](http://arxiv.org/pdf/2306.15661v1)|null|
