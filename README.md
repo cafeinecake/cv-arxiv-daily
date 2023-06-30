@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-29**|**Fossil group origins XIII. A paradigm shift: fossil groups as isolated structures rather than relics of the ancient Universe**|S. Zarattini et.al.|[2306.17166v1](http://arxiv.org/abs/2306.17166v1)|[2306.17166v1](http://arxiv.org/pdf/2306.17166v1)|null|
+|**2023-06-29**|**An Overdensity of Lyman Break Galaxies Around the Hot Dust-Obscured Galaxy WISE J224607.56$-$052634.9**|Dejene Zewdie et.al.|[2306.17163v1](http://arxiv.org/abs/2306.17163v1)|[2306.17163v1](http://arxiv.org/pdf/2306.17163v1)|null|
+|**2023-06-29**|**QCD-Collapsed Domain Walls: QCD Phase Transition and Gravitational Wave Spectroscopy**|Yang Bai et.al.|[2306.17160v1](http://arxiv.org/abs/2306.17160v1)|[2306.17160v1](http://arxiv.org/pdf/2306.17160v1)|null|
+|**2023-06-29**|**Probing the Dark Matter density with gravitational waves from super-massive binary black holes**|Anish Ghoshal et.al.|[2306.17158v1](http://arxiv.org/abs/2306.17158v1)|[2306.17158v1](http://arxiv.org/pdf/2306.17158v1)|null|
+|**2023-06-29**|**The nanohertz stochastic gravitational-wave background from cosmic string Loops and the abundant high redshift massive galaxies**|Ziwei Wang et.al.|[2306.17150v1](http://arxiv.org/abs/2306.17150v1)|[2306.17150v1](http://arxiv.org/pdf/2306.17150v1)|null|
+|**2023-06-29**|**The recent gravitational wave observation by pulsar timing arrays and primordial black holes: the importance of non-gaussianities**|Gabriele Franciolini et.al.|[2306.17149v1](http://arxiv.org/abs/2306.17149v1)|[2306.17149v1](http://arxiv.org/pdf/2306.17149v1)|null|
+|**2023-06-29**|**Cosmic Superstrings Revisited in Light of NANOGrav 15-Year Data**|John Ellis et.al.|[2306.17147v1](http://arxiv.org/abs/2306.17147v1)|[2306.17147v1](http://arxiv.org/pdf/2306.17147v1)|null|
+|**2023-06-29**|**Nanohertz Gravitational Waves from Axion Domain Walls Coupled to QCD**|Naoya Kitajima et.al.|[2306.17146v1](http://arxiv.org/abs/2306.17146v1)|[2306.17146v1](http://arxiv.org/pdf/2306.17146v1)|null|
+|**2023-06-29**|**Dark Matter Spike surrounding Supermassive Black Holes Binary and the nanohertz Stochastic Gravitational Wave Background**|Zhao-Qiang Shen et.al.|[2306.17143v1](http://arxiv.org/abs/2306.17143v1)|[2306.17143v1](http://arxiv.org/pdf/2306.17143v1)|null|
+|**2023-06-29**|**Orbit Classification of asteroids using implementation of radial Basis Function on Support Vector Machines**|Yashvir Tiberwal et.al.|[2306.17138v1](http://arxiv.org/abs/2306.17138v1)|[2306.17138v1](http://arxiv.org/pdf/2306.17138v1)|null|
 |**2023-06-28**|**Coagulation-Fragmentation Equilibrium for Charged Dust: Abundance of Submicron Grains Increases Dramatically in Protoplanetary Disks**|Vitaly Akimkin et.al.|[2306.16408v1](http://arxiv.org/abs/2306.16408v1)|[2306.16408v1](http://arxiv.org/pdf/2306.16408v1)|null|
 |**2023-06-28**|**Constraining MeV-scale axion-like particles with Fermi-LAT observations of SN 2023ixf**|Eike Müller et.al.|[2306.16397v1](http://arxiv.org/abs/2306.16397v1)|[2306.16397v1](http://arxiv.org/pdf/2306.16397v1)|null|
 |**2023-06-28**|**Fully coupled photochemistry of the deuterated ionosphere of Mars and its effects on escape of H and D**|Eryn M. Cangi et.al.|[2306.16396v1](http://arxiv.org/abs/2306.16396v1)|[2306.16396v1](http://arxiv.org/pdf/2306.16396v1)|null|
@@ -2569,6 +2579,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-29**|**An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**|Zitian Chen et.al.|[2306.17165v1](http://arxiv.org/abs/2306.17165v1)|[2306.17165v1](http://arxiv.org/pdf/2306.17165v1)|null|
+|**2023-06-29**|**Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors**|Tung Phung et.al.|[2306.17156v1](http://arxiv.org/abs/2306.17156v1)|[2306.17156v1](http://arxiv.org/pdf/2306.17156v1)|null|
+|**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109v1](http://arxiv.org/abs/2306.17109v1)|[2306.17109v1](http://arxiv.org/pdf/2306.17109v1)|null|
+|**2023-06-29**|**Deep Ensemble for Rotorcraft Attitude Prediction**|Hikmat Khan et.al.|[2306.17104v1](http://arxiv.org/abs/2306.17104v1)|[2306.17104v1](http://arxiv.org/pdf/2306.17104v1)|null|
+|**2023-06-29**|**RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**|Federico Berto et.al.|[2306.17100v1](http://arxiv.org/abs/2306.17100v1)|[2306.17100v1](http://arxiv.org/pdf/2306.17100v1)|**[link](https://github.com/kaist-silab/rl4co)**|
+|**2023-06-29**|**RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot**|Spandan Garg et.al.|[2306.17077v1](http://arxiv.org/abs/2306.17077v1)|[2306.17077v1](http://arxiv.org/pdf/2306.17077v1)|null|
+|**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu et.al.|[2306.17074v1](http://arxiv.org/abs/2306.17074v1)|[2306.17074v1](http://arxiv.org/pdf/2306.17074v1)|null|
+|**2023-06-29**|**Interdisciplinary Methods in Computational Creativity: How Human Variables Shape Human-Inspired AI Research**|Nadia M. Ady et.al.|[2306.17070v1](http://arxiv.org/abs/2306.17070v1)|[2306.17070v1](http://arxiv.org/pdf/2306.17070v1)|null|
+|**2023-06-29**|**The mapKurator System: A Complete Pipeline for Extracting and Linking Text from Historical Maps**|Jina Kim et.al.|[2306.17059v1](http://arxiv.org/abs/2306.17059v1)|[2306.17059v1](http://arxiv.org/pdf/2306.17059v1)|null|
+|**2023-06-29**|**Safe Model-Based Multi-Agent Mean-Field Reinforcement Learning**|Matej Jusup et.al.|[2306.17052v1](http://arxiv.org/abs/2306.17052v1)|[2306.17052v1](http://arxiv.org/pdf/2306.17052v1)|**[link](https://github.com/mjusup1501/safe-m3-ucrl)**|
 |**2023-06-28**|**On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**|Wenxiao Wang et.al.|[2306.16415v1](http://arxiv.org/abs/2306.16415v1)|[2306.16415v1](http://arxiv.org/pdf/2306.16415v1)|null|
 |**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413v1](http://arxiv.org/abs/2306.16413v1)|[2306.16413v1](http://arxiv.org/pdf/2306.16413v1)|**[link](https://github.com/pliang279/MultiBench)**|
 |**2023-06-28**|**Towards Measuring the Representation of Subjective Global Opinions in Language Models**|Esin Durmus et.al.|[2306.16388v1](http://arxiv.org/abs/2306.16388v1)|[2306.16388v1](http://arxiv.org/pdf/2306.16388v1)|null|
