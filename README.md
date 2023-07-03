@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-30**|**Domain wall interpretation of the PTA signal confronting black hole overproduction**|Yann Gouttenoire et.al.|[2306.17841v1](http://arxiv.org/abs/2306.17841v1)|[2306.17841v1](http://arxiv.org/pdf/2306.17841v1)|null|
+|**2023-06-30**|**Do pulsar timing arrays observe merging primordial black holes?**|Paul Frederik Depta et.al.|[2306.17836v1](http://arxiv.org/abs/2306.17836v1)|[2306.17836v1](http://arxiv.org/pdf/2306.17836v1)|null|
+|**2023-06-30**|**The Detected Stochastic Gravitational Waves and Sub-Solar Primordial Black Holes**|Keisuke Inomata et.al.|[2306.17834v1](http://arxiv.org/abs/2306.17834v1)|[2306.17834v1](http://arxiv.org/pdf/2306.17834v1)|null|
+|**2023-06-30**|**Axionic domain walls at Pulsar Timing Arrays: QCD bias and particle friction**|Simone Blasi et.al.|[2306.17830v1](http://arxiv.org/abs/2306.17830v1)|[2306.17830v1](http://arxiv.org/pdf/2306.17830v1)|null|
+|**2023-06-30**|**Wormholes with matter haunted by conformally coupled ghosts**|Bruno J. Barros et.al.|[2306.17826v1](http://arxiv.org/abs/2306.17826v1)|[2306.17826v1](http://arxiv.org/pdf/2306.17826v1)|null|
+|**2023-06-30**|**Limits on scalar-induced gravitational waves from the stochastic background by pulsar timing array observations**|Yi-Fu Cai et.al.|[2306.17822v1](http://arxiv.org/abs/2306.17822v1)|[2306.17822v1](http://arxiv.org/pdf/2306.17822v1)|null|
+|**2023-06-30**|**Binary Supermassive Black Holes Orbiting Dark Matter Solitons: From the Dual AGN in UGC4211 to NanoHertz Gravitational Waves**|Tom Broadhurst et.al.|[2306.17821v1](http://arxiv.org/abs/2306.17821v1)|[2306.17821v1](http://arxiv.org/pdf/2306.17821v1)|null|
+|**2023-06-30**|**Multiwavelength Observations of the Blazar PKS 0735+178 in Spatial and Temporal Coincidence with an Astrophysical Neutrino Candidate IceCube-211208A**|A. Acharyya et.al.|[2306.17819v1](http://arxiv.org/abs/2306.17819v1)|[2306.17819v1](http://arxiv.org/pdf/2306.17819v1)|null|
+|**2023-06-30**|**Superheavy quasi-stable strings and walls bounded by strings in the light of NANOGrav 15 year data**|George Lazarides et.al.|[2306.17788v1](http://arxiv.org/abs/2306.17788v1)|[2306.17788v1](http://arxiv.org/pdf/2306.17788v1)|null|
+|**2023-06-30**|**On the Tremaine-Weinberg method: how much can we trust gas tracers to measure pattern speeds?**|Olga Borodina et.al.|[2306.17780v1](http://arxiv.org/abs/2306.17780v1)|[2306.17780v1](http://arxiv.org/pdf/2306.17780v1)|null|
 |**2023-06-29**|**Fossil group origins XIII. A paradigm shift: fossil groups as isolated structures rather than relics of the ancient Universe**|S. Zarattini et.al.|[2306.17166v1](http://arxiv.org/abs/2306.17166v1)|[2306.17166v1](http://arxiv.org/pdf/2306.17166v1)|null|
 |**2023-06-29**|**An Overdensity of Lyman Break Galaxies Around the Hot Dust-Obscured Galaxy WISE J224607.56$-$052634.9**|Dejene Zewdie et.al.|[2306.17163v1](http://arxiv.org/abs/2306.17163v1)|[2306.17163v1](http://arxiv.org/pdf/2306.17163v1)|null|
 |**2023-06-29**|**QCD-Collapsed Domain Walls: QCD Phase Transition and Gravitational Wave Spectroscopy**|Yang Bai et.al.|[2306.17160v1](http://arxiv.org/abs/2306.17160v1)|[2306.17160v1](http://arxiv.org/pdf/2306.17160v1)|null|
@@ -2579,6 +2589,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-06-30**|**Breaking the Metric Voting Distortion Barrier**|Moses Charikar et.al.|[2306.17838v1](http://arxiv.org/abs/2306.17838v1)|[2306.17838v1](http://arxiv.org/pdf/2306.17838v1)|null|
+|**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833v1](http://arxiv.org/abs/2306.17833v1)|[2306.17833v1](http://arxiv.org/pdf/2306.17833v1)|null|
+|**2023-06-30**|**Understanding Unfairness via Training Concept Influence**|Yuanshun Yao et.al.|[2306.17828v1](http://arxiv.org/abs/2306.17828v1)|[2306.17828v1](http://arxiv.org/pdf/2306.17828v1)|null|
+|**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817v1](http://arxiv.org/abs/2306.17817v1)|[2306.17817v1](http://arxiv.org/pdf/2306.17817v1)|null|
+|**2023-06-30**|**Comparing Reinforcement Learning and Human Learning using the Game of Hidden Rules**|Eric Pulick et.al.|[2306.17766v1](http://arxiv.org/abs/2306.17766v1)|[2306.17766v1](http://arxiv.org/pdf/2306.17766v1)|null|
+|**2023-06-30**|**Enhanced plateau effect at resonance in realistic non-integrable EMRIs**|Areti Eleni et.al.|[2306.17762v1](http://arxiv.org/abs/2306.17762v1)|[2306.17762v1](http://arxiv.org/pdf/2306.17762v1)|null|
+|**2023-06-30**|**Discriminatory or Samaritan -- which AI is needed for humanity? An Evolutionary Game Theory Analysis of Hybrid Human-AI populations**|Tim Booker et.al.|[2306.17747v1](http://arxiv.org/abs/2306.17747v1)|[2306.17747v1](http://arxiv.org/pdf/2306.17747v1)|null|
+|**2023-06-30**|**Token-Event-Role Structure-based Multi-Channel Document-Level Event Extraction**|Qizhi Wan et.al.|[2306.17733v1](http://arxiv.org/abs/2306.17733v1)|[2306.17733v1](http://arxiv.org/pdf/2306.17733v1)|null|
+|**2023-06-30**|**A VERITAS/Breakthrough Listen Search for Optical Technosignatures**|Atreya Acharyya et.al.|[2306.17680v1](http://arxiv.org/abs/2306.17680v1)|[2306.17680v1](http://arxiv.org/pdf/2306.17680v1)|null|
+|**2023-06-30**|**Multimodal Prompt Retrieval for Generative Visual Question Answering**|Timothy Ossowski et.al.|[2306.17675v1](http://arxiv.org/abs/2306.17675v1)|[2306.17675v1](http://arxiv.org/pdf/2306.17675v1)|null|
 |**2023-06-29**|**An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**|Zitian Chen et.al.|[2306.17165v1](http://arxiv.org/abs/2306.17165v1)|[2306.17165v1](http://arxiv.org/pdf/2306.17165v1)|null|
 |**2023-06-30**|**Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors**|Tung Phung et.al.|[2306.17156v2](http://arxiv.org/abs/2306.17156v2)|[2306.17156v2](http://arxiv.org/pdf/2306.17156v2)|null|
 |**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109v1](http://arxiv.org/abs/2306.17109v1)|[2306.17109v1](http://arxiv.org/pdf/2306.17109v1)|**[link](https://github.com/mountstonne/dggan)**|
