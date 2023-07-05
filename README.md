@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-03**|**An imaged 15Mjup companion within a hierarchical quadruple system**|A. Chomez et.al.|[2307.01195v1](http://arxiv.org/abs/2307.01195v1)|[2307.01195v1](http://arxiv.org/pdf/2307.01195v1)|null|
+|**2023-07-03**|**NANOGrav signal from axion inflation**|Xuce Niu et.al.|[2307.01192v1](http://arxiv.org/abs/2307.01192v1)|[2307.01192v1](http://arxiv.org/pdf/2307.01192v1)|null|
+|**2023-07-03**|**Dark energy, D-branes, and Pulsar Timing Arrays**|Debika Chowdhury et.al.|[2307.01188v1](http://arxiv.org/abs/2307.01188v1)|[2307.01188v1](http://arxiv.org/pdf/2307.01188v1)|null|
+|**2023-07-03**|**Characteristic signatures of accreting binary black holes produced by eccentric minidisks**|John Ryan Westernacher-Schneider et.al.|[2307.01154v1](http://arxiv.org/abs/2307.01154v1)|[2307.01154v1](http://arxiv.org/pdf/2307.01154v1)|null|
+|**2023-07-03**|**An environment-dependent halo mass function as a driver for the early quenching of $z\geq1.5$ cluster galaxies**|Syeda Lammim Ahad et.al.|[2307.01147v1](http://arxiv.org/abs/2307.01147v1)|[2307.01147v1](http://arxiv.org/pdf/2307.01147v1)|null|
+|**2023-07-03**|**Uncertainty-aware and Data-efficient Cosmological Emulation using Gaussian Processes and PCA**|Sven Günther et.al.|[2307.01138v1](http://arxiv.org/abs/2307.01138v1)|[2307.01138v1](http://arxiv.org/pdf/2307.01138v1)|null|
+|**2023-07-03**|**Living With a Red Dwarf: The Rotation-Age Relationship of M Dwarfs**|Scott G. Engle et.al.|[2307.01136v1](http://arxiv.org/abs/2307.01136v1)|[2307.01136v1](http://arxiv.org/pdf/2307.01136v1)|null|
+|**2023-07-03**|**The truncation of the disk of NGC 4565: Detected up to z=4 kpc, with star formation, and affected by the warp**|Cristina Martinez-Lombilla et.al.|[2307.01106v1](http://arxiv.org/abs/2307.01106v1)|[2307.01106v1](http://arxiv.org/pdf/2307.01106v1)|null|
+|**2023-07-03**|**Real-time Likelihood Methods for Improved Gamma-ray Transient Detection and Localization**|Matthew Kerr et.al.|[2307.01103v1](http://arxiv.org/abs/2307.01103v1)|[2307.01103v1](http://arxiv.org/pdf/2307.01103v1)|null|
+|**2023-07-03**|**Implications for the non-Gaussianity of curvature perturbation from pulsar timing arrays**|Lang Liu et.al.|[2307.01102v1](http://arxiv.org/abs/2307.01102v1)|[2307.01102v1](http://arxiv.org/pdf/2307.01102v1)|null|
 |**2023-06-30**|**Domain wall interpretation of the PTA signal confronting black hole overproduction**|Yann Gouttenoire et.al.|[2306.17841v1](http://arxiv.org/abs/2306.17841v1)|[2306.17841v1](http://arxiv.org/pdf/2306.17841v1)|null|
 |**2023-06-30**|**Do pulsar timing arrays observe merging primordial black holes?**|Paul Frederik Depta et.al.|[2306.17836v1](http://arxiv.org/abs/2306.17836v1)|[2306.17836v1](http://arxiv.org/pdf/2306.17836v1)|null|
 |**2023-06-30**|**The Detected Stochastic Gravitational Waves and Sub-Solar Primordial Black Holes**|Keisuke Inomata et.al.|[2306.17834v1](http://arxiv.org/abs/2306.17834v1)|[2306.17834v1](http://arxiv.org/pdf/2306.17834v1)|null|
@@ -2589,6 +2599,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-03**|**NeuBTF: Neural fields for BTF encoding and transfer**|Carlos Rodriguez-Pardo et.al.|[2307.01199v1](http://arxiv.org/abs/2307.01199v1)|[2307.01199v1](http://arxiv.org/pdf/2307.01199v1)|null|
+|**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193v1](http://arxiv.org/abs/2307.01193v1)|[2307.01193v1](http://arxiv.org/pdf/2307.01193v1)|null|
+|**2023-07-03**|**SAMAug: Point Prompt Augmentation for Segment Anything Model**|Haixing Dai et.al.|[2307.01187v1](http://arxiv.org/abs/2307.01187v1)|[2307.01187v1](http://arxiv.org/pdf/2307.01187v1)|null|
+|**2023-07-03**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180v1](http://arxiv.org/abs/2307.01180v1)|[2307.01180v1](http://arxiv.org/pdf/2307.01180v1)|null|
+|**2023-07-03**|**Don't freeze: Finetune encoders for better Self-Supervised HAR**|Vitor Fortes Rey et.al.|[2307.01168v1](http://arxiv.org/abs/2307.01168v1)|[2307.01168v1](http://arxiv.org/pdf/2307.01168v1)|null|
+|**2023-07-03**|**Soft Gripping: Specifying for Trustworthiness**|Dhaminda B. Abeywickrama et.al.|[2307.01159v1](http://arxiv.org/abs/2307.01159v1)|[2307.01159v1](http://arxiv.org/pdf/2307.01159v1)|null|
+|**2023-07-03**|**Theory of Mind as Intrinsic Motivation for Multi-Agent Reinforcement Learning**|Ini Oguntola et.al.|[2307.01158v1](http://arxiv.org/abs/2307.01158v1)|[2307.01158v1](http://arxiv.org/pdf/2307.01158v1)|null|
+|**2023-07-03**|**SCITUNE: Aligning Large Language Models with Scientific Multimodal Instructions**|Sameera Horawalavithana et.al.|[2307.01139v1](http://arxiv.org/abs/2307.01139v1)|[2307.01139v1](http://arxiv.org/pdf/2307.01139v1)|null|
+|**2023-07-03**|**Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking**|Qinyong Wang et.al.|[2307.01137v1](http://arxiv.org/abs/2307.01137v1)|[2307.01137v1](http://arxiv.org/pdf/2307.01137v1)|null|
+|**2023-07-03**|**ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience**|Ruiyun Xu et.al.|[2307.01135v1](http://arxiv.org/abs/2307.01135v1)|[2307.01135v1](http://arxiv.org/pdf/2307.01135v1)|null|
 |**2023-06-30**|**Breaking the Metric Voting Distortion Barrier**|Moses Charikar et.al.|[2306.17838v1](http://arxiv.org/abs/2306.17838v1)|[2306.17838v1](http://arxiv.org/pdf/2306.17838v1)|null|
 |**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833v1](http://arxiv.org/abs/2306.17833v1)|[2306.17833v1](http://arxiv.org/pdf/2306.17833v1)|null|
 |**2023-06-30**|**Understanding Unfairness via Training Concept Influence**|Yuanshun Yao et.al.|[2306.17828v1](http://arxiv.org/abs/2306.17828v1)|[2306.17828v1](http://arxiv.org/pdf/2306.17828v1)|null|
