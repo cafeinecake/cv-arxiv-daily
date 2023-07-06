@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-05**|**A Precursor Plateau and Pre-Maximum [O II] Emission in the Superluminous SN2019szu: A Pulsational Pair-Instability Candidate**|Aysha Aamer et.al.|[2307.02487v1](http://arxiv.org/abs/2307.02487v1)|[2307.02487v1](http://arxiv.org/pdf/2307.02487v1)|null|
+|**2023-07-05**|**Constraints on cosmologically coupled black holes from gravitational wave observations and minimal formation mass**|Luca Amendola et.al.|[2307.02474v1](http://arxiv.org/abs/2307.02474v1)|[2307.02474v1](http://arxiv.org/pdf/2307.02474v1)|null|
+|**2023-07-05**|**The East-West Asymmetry of Particle Intensity in Energetic Storm Particle Events**|Zheyi Ding et.al.|[2307.02458v1](http://arxiv.org/abs/2307.02458v1)|[2307.02458v1](http://arxiv.org/pdf/2307.02458v1)|null|
+|**2023-07-05**|**Quantifying Poynting flux in the Quiet Sun Photosphere**|Dennis Tilipman et.al.|[2307.02445v1](http://arxiv.org/abs/2307.02445v1)|[2307.02445v1](http://arxiv.org/pdf/2307.02445v1)|null|
+|**2023-07-05**|**Bayesian evidence for two slow-wave damping models in hot coronal loops**|I. Arregui et.al.|[2307.02439v1](http://arxiv.org/abs/2307.02439v1)|[2307.02439v1](http://arxiv.org/pdf/2307.02439v1)|null|
+|**2023-07-05**|**The tension in the absolute magnitude of Type Ia supernovae**|David Camarena et.al.|[2307.02434v1](http://arxiv.org/abs/2307.02434v1)|[2307.02434v1](http://arxiv.org/pdf/2307.02434v1)|null|
+|**2023-07-05**|**Multi-Height Observations of Atmospheric Gravity Waves at Solar Disk Center**|Oana Vesa et.al.|[2307.02426v1](http://arxiv.org/abs/2307.02426v1)|[2307.02426v1](http://arxiv.org/pdf/2307.02426v1)|null|
+|**2023-07-05**|**Dynamical Effects of Magnetic Opacity in Neutron Star Accretion Columns**|Xin Sheng et.al.|[2307.02410v1](http://arxiv.org/abs/2307.02410v1)|[2307.02410v1](http://arxiv.org/pdf/2307.02410v1)|null|
+|**2023-07-05**|**Possible scenario of relic wormhole formation**|A. A. Kirillov et.al.|[2307.02400v1](http://arxiv.org/abs/2307.02400v1)|[2307.02400v1](http://arxiv.org/pdf/2307.02400v1)|null|
+|**2023-07-05**|**Cosmological Background Interpretation of Pulsar Timing Array Data**|Daniel G. Figueroa et.al.|[2307.02399v1](http://arxiv.org/abs/2307.02399v1)|[2307.02399v1](http://arxiv.org/pdf/2307.02399v1)|null|
 |**2023-07-03**|**An imaged 15Mjup companion within a hierarchical quadruple system**|A. Chomez et.al.|[2307.01195v1](http://arxiv.org/abs/2307.01195v1)|[2307.01195v1](http://arxiv.org/pdf/2307.01195v1)|null|
 |**2023-07-03**|**NANOGrav signal from axion inflation**|Xuce Niu et.al.|[2307.01192v1](http://arxiv.org/abs/2307.01192v1)|[2307.01192v1](http://arxiv.org/pdf/2307.01192v1)|null|
 |**2023-07-03**|**Dark energy, D-branes, and Pulsar Timing Arrays**|Debika Chowdhury et.al.|[2307.01188v1](http://arxiv.org/abs/2307.01188v1)|[2307.01188v1](http://arxiv.org/pdf/2307.01188v1)|null|
@@ -2599,6 +2609,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-05**|**Building Cooperative Embodied Agents Modularly with Large Language Models**|Hongxin Zhang et.al.|[2307.02485v1](http://arxiv.org/abs/2307.02485v1)|[2307.02485v1](http://arxiv.org/pdf/2307.02485v1)|null|
+|**2023-07-05**|**Elastic Decision Transformer**|Yueh-Hua Wu et.al.|[2307.02484v1](http://arxiv.org/abs/2307.02484v1)|[2307.02484v1](http://arxiv.org/pdf/2307.02484v1)|null|
+|**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|[2307.02477v1](http://arxiv.org/pdf/2307.02477v1)|null|
+|**2023-07-05**|**Natural Language Deduction with Incomplete Information**|Zayne Sprague et.al.|[2307.02472v1](http://arxiv.org/abs/2307.02472v1)|[2307.02472v1](http://arxiv.org/pdf/2307.02472v1)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
+|**2023-07-05**|**Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources**|Feiyang Kang et.al.|[2307.02460v1](http://arxiv.org/abs/2307.02460v1)|[2307.02460v1](http://arxiv.org/pdf/2307.02460v1)|null|
+|**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|[2307.02457v1](http://arxiv.org/pdf/2307.02457v1)|null|
+|**2023-07-05**|**An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code**|Max Hort et.al.|[2307.02443v1](http://arxiv.org/abs/2307.02443v1)|[2307.02443v1](http://arxiv.org/pdf/2307.02443v1)|null|
+|**2023-07-05**|**FOCUS: Object-Centric World Models for Robotics Manipulation**|Stefano Ferraro et.al.|[2307.02427v1](http://arxiv.org/abs/2307.02427v1)|[2307.02427v1](http://arxiv.org/pdf/2307.02427v1)|null|
+|**2023-07-05**|**Causal Discovery with Language Models as Imperfect Experts**|Stephanie Long et.al.|[2307.02390v1](http://arxiv.org/abs/2307.02390v1)|[2307.02390v1](http://arxiv.org/pdf/2307.02390v1)|null|
+|**2023-07-05**|**Decentralized Data Governance as Part of a Data Mesh Platform: Concepts and Approaches**|Arif Wider et.al.|[2307.02357v1](http://arxiv.org/abs/2307.02357v1)|[2307.02357v1](http://arxiv.org/pdf/2307.02357v1)|null|
 |**2023-07-03**|**NeuBTF: Neural fields for BTF encoding and transfer**|Carlos Rodriguez-Pardo et.al.|[2307.01199v1](http://arxiv.org/abs/2307.01199v1)|[2307.01199v1](http://arxiv.org/pdf/2307.01199v1)|null|
 |**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193v1](http://arxiv.org/abs/2307.01193v1)|[2307.01193v1](http://arxiv.org/pdf/2307.01193v1)|null|
 |**2023-07-03**|**SAMAug: Point Prompt Augmentation for Segment Anything Model**|Haixing Dai et.al.|[2307.01187v1](http://arxiv.org/abs/2307.01187v1)|[2307.01187v1](http://arxiv.org/pdf/2307.01187v1)|null|
