@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 
 ## Astrophysics
 
@@ -2616,7 +2616,7 @@ layout: default
 |**2023-07-05**|**Building Cooperative Embodied Agents Modularly with Large Language Models**|Hongxin Zhang et.al.|[2307.02485v1](http://arxiv.org/abs/2307.02485v1)|[2307.02485v1](http://arxiv.org/pdf/2307.02485v1)|null|
 |**2023-07-05**|**Elastic Decision Transformer**|Yueh-Hua Wu et.al.|[2307.02484v1](http://arxiv.org/abs/2307.02484v1)|[2307.02484v1](http://arxiv.org/pdf/2307.02484v1)|null|
 |**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|[2307.02477v1](http://arxiv.org/pdf/2307.02477v1)|null|
-|**2023-07-05**|**Natural Language Deduction with Incomplete Information**|Zayne Sprague et.al.|[2307.02472v1](http://arxiv.org/abs/2307.02472v1)|[2307.02472v1](http://arxiv.org/pdf/2307.02472v1)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
+|**2023-07-06**|**Deductive Additivity for Planning of Natural Language Proofs**|Zayne Sprague et.al.|[2307.02472v2](http://arxiv.org/abs/2307.02472v2)|[2307.02472v2](http://arxiv.org/pdf/2307.02472v2)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
 |**2023-07-05**|**Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources**|Feiyang Kang et.al.|[2307.02460v1](http://arxiv.org/abs/2307.02460v1)|[2307.02460v1](http://arxiv.org/pdf/2307.02460v1)|null|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|[2307.02457v1](http://arxiv.org/pdf/2307.02457v1)|null|
 |**2023-07-05**|**An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code**|Max Hort et.al.|[2307.02443v1](http://arxiv.org/abs/2307.02443v1)|[2307.02443v1](http://arxiv.org/pdf/2307.02443v1)|null|
