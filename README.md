@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-07**|**The backreaction effect of the sound speed resonance in DBI inflation**|Bichu Li et.al.|[2307.03747v1](http://arxiv.org/abs/2307.03747v1)|[2307.03747v1](http://arxiv.org/pdf/2307.03747v1)|null|
+|**2023-07-07**|**Polycyclic Aromatic Hydrocarbon Size Tracers**|A. Maragkoudakis et.al.|[2307.03743v1](http://arxiv.org/abs/2307.03743v1)|[2307.03743v1](http://arxiv.org/pdf/2307.03743v1)|null|
+|**2023-07-07**|**Coupled Quintessence scalar field model in light of observational datasets**|Trupti Patil et.al.|[2307.03740v1](http://arxiv.org/abs/2307.03740v1)|[2307.03740v1](http://arxiv.org/pdf/2307.03740v1)|null|
+|**2023-07-07**|**Swarm-intelligent search for gravitational waves from eccentric binary mergers**|Souradeep Pal et.al.|[2307.03736v1](http://arxiv.org/abs/2307.03736v1)|[2307.03736v1](http://arxiv.org/pdf/2307.03736v1)|null|
+|**2023-07-07**|**A census of star formation histories of massive galaxies at 0.6 < z < 1 from spectro-photometric modeling using Bagpipes and Prospector**|Yasha Kaushal et.al.|[2307.03725v1](http://arxiv.org/abs/2307.03725v1)|[2307.03725v1](http://arxiv.org/pdf/2307.03725v1)|null|
+|**2023-07-07**|**Challenges in Interpreting the NANOGrav 15-Year Data Set as Early Universe Gravitational Waves Produced by ALP Induced Instability**|Michael Geller et.al.|[2307.03724v1](http://arxiv.org/abs/2307.03724v1)|[2307.03724v1](http://arxiv.org/pdf/2307.03724v1)|null|
+|**2023-07-07**|**The bright blue side of the night sky: Spectroscopic survey of bright and hot (pre-) white dwarfs**|Nicole Reindl et.al.|[2307.03721v1](http://arxiv.org/abs/2307.03721v1)|[2307.03721v1](http://arxiv.org/pdf/2307.03721v1)|null|
+|**2023-07-07**|**Thermal behavior as indicator for hyperons in binary neutron star merger remnants**|Sebastian Blacker et.al.|[2307.03710v1](http://arxiv.org/abs/2307.03710v1)|[2307.03710v1](http://arxiv.org/pdf/2307.03710v1)|null|
+|**2023-07-07**|**Quark Models and Radial Oscillations: Decoding the HESS J1731-347 Compact Object's Equation of State**|Ishfaq Ahmad Rather et.al.|[2307.03703v1](http://arxiv.org/abs/2307.03703v1)|[2307.03703v1](http://arxiv.org/pdf/2307.03703v1)|null|
+|**2023-07-07**|**Pulsation Analysis of High-Amplitude $δ$ Scuti Stars with TESS**|Wangjunting Xue et.al.|[2307.03684v1](http://arxiv.org/abs/2307.03684v1)|[2307.03684v1](http://arxiv.org/pdf/2307.03684v1)|null|
 |**2023-07-06**|**Where shadows lie: reconstruction of anisotropies in the neutrino sky**|Willem Elbers et.al.|[2307.03191v1](http://arxiv.org/abs/2307.03191v1)|[2307.03191v1](http://arxiv.org/pdf/2307.03191v1)|**[link](https://github.com/wullm/nubg_scripts)**|
 |**2023-07-06**|**The split majoron model confronts the NANOGrav signal**|Pasquale Di Bari et.al.|[2307.03184v1](http://arxiv.org/abs/2307.03184v1)|[2307.03184v1](http://arxiv.org/pdf/2307.03184v1)|null|
 |**2023-07-06**|**Long-term follow-up observations of extreme coronal line emitting galaxies**|Peter Clark et.al.|[2307.03182v1](http://arxiv.org/abs/2307.03182v1)|[2307.03182v1](http://arxiv.org/pdf/2307.03182v1)|null|
@@ -2619,6 +2629,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-07**|**When does the ID algorithm fail?**|Ilya Shpitser et.al.|[2307.03750v1](http://arxiv.org/abs/2307.03750v1)|[2307.03750v1](http://arxiv.org/pdf/2307.03750v1)|null|
+|**2023-07-07**|**Intelligent Robotic Sonographer: Mutual Information-based Disentangled Reward Learning from Few Demonstrations**|Zhongliang Jiang et.al.|[2307.03705v1](http://arxiv.org/abs/2307.03705v1)|[2307.03705v1](http://arxiv.org/pdf/2307.03705v1)|null|
+|**2023-07-07**|**Unveiling the Potential of Knowledge-Prompted ChatGPT for Enhancing Drug Trafficking Detection on Social Media**|Chuanbo Hu et.al.|[2307.03699v1](http://arxiv.org/abs/2307.03699v1)|[2307.03699v1](http://arxiv.org/pdf/2307.03699v1)|null|
+|**2023-07-07**|**Scalable Membership Inference Attacks via Quantile Regression**|Martin Bertran et.al.|[2307.03694v1](http://arxiv.org/abs/2307.03694v1)|[2307.03694v1](http://arxiv.org/pdf/2307.03694v1)|null|
+|**2023-07-07**|**Content Addressable Memories and Transformable Logic Circuits Based on Ferroelectric Reconfigurable Transistors for In-Memory Computing**|Zijing Zhao et.al.|[2307.03660v1](http://arxiv.org/abs/2307.03660v1)|[2307.03660v1](http://arxiv.org/pdf/2307.03660v1)|null|
+|**2023-07-07**|**Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation**|Annie Xie et.al.|[2307.03659v1](http://arxiv.org/abs/2307.03659v1)|[2307.03659v1](http://arxiv.org/pdf/2307.03659v1)|null|
+|**2023-07-07**|**Discovering Variable Binding Circuitry with Desiderata**|Xander Davies et.al.|[2307.03637v1](http://arxiv.org/abs/2307.03637v1)|[2307.03637v1](http://arxiv.org/pdf/2307.03637v1)|null|
+|**2023-07-07**|**Fast reconstruction of programmable integrated interferometers**|B. I. Bantysh et.al.|[2307.03635v1](http://arxiv.org/abs/2307.03635v1)|[2307.03635v1](http://arxiv.org/pdf/2307.03635v1)|null|
+|**2023-07-07**|**GEANN: Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting**|Sitan Yang et.al.|[2307.03595v1](http://arxiv.org/abs/2307.03595v1)|[2307.03595v1](http://arxiv.org/pdf/2307.03595v1)|null|
+|**2023-07-07**|**VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis**|Paula Feldman et.al.|[2307.03592v1](http://arxiv.org/abs/2307.03592v1)|[2307.03592v1](http://arxiv.org/pdf/2307.03592v1)|null|
 |**2023-07-06**|**Push Past Green: Learning to Look Behind Plant Foliage by Moving It**|Xiaoyu Zhang et.al.|[2307.03175v1](http://arxiv.org/abs/2307.03175v1)|[2307.03175v1](http://arxiv.org/pdf/2307.03175v1)|null|
 |**2023-07-06**|**LEO: Learning Efficient Orderings for Multiobjective Binary Decision Diagrams**|Rahul Patel et.al.|[2307.03171v1](http://arxiv.org/abs/2307.03171v1)|[2307.03171v1](http://arxiv.org/pdf/2307.03171v1)|**[link](https://github.com/khalil-research/leo)**|
 |**2023-07-06**|**Focused Transformer: Contrastive Training for Context Scaling**|Szymon Tworkowski et.al.|[2307.03170v1](http://arxiv.org/abs/2307.03170v1)|[2307.03170v1](http://arxiv.org/pdf/2307.03170v1)|**[link](https://github.com/cstankonrad/long_llama)**|
