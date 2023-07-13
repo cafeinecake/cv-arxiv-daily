@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-12**|**Ultraviolet Compactness of High-Redshift Galaxies as a Tracer of Early-Stage Gas Infall, Stochastic Star Formation, and Offset from the Fundamental Metallicity Relation**|Danial Langeroodi et.al.|[2307.06336v1](http://arxiv.org/abs/2307.06336v1)|[2307.06336v1](http://arxiv.org/pdf/2307.06336v1)|null|
+|**2023-07-12**|**Quantifying irradiation in spider pulsars: the extreme case of PSR J1622-0315**|Marco Turchetta et.al.|[2307.06330v1](http://arxiv.org/abs/2307.06330v1)|[2307.06330v1](http://arxiv.org/pdf/2307.06330v1)|null|
+|**2023-07-12**|**Reconstruction of inflationary scenarios in non-conservative unimodular gravity**|M. P. Piccirilli et.al.|[2307.06329v1](http://arxiv.org/abs/2307.06329v1)|[2307.06329v1](http://arxiv.org/pdf/2307.06329v1)|null|
+|**2023-07-12**|**Bayesian analysis of Unified Dark Matter models with fast transition: can they alleviate the $H_{0}$ tension?**|Emmanuel Frion et.al.|[2307.06320v1](http://arxiv.org/abs/2307.06320v1)|[2307.06320v1](http://arxiv.org/pdf/2307.06320v1)|null|
+|**2023-07-12**|**The Spatial and Emission Properties of the Large [O III] Emission Nebula Near M31**|Robert A. Fesen et.al.|[2307.06308v1](http://arxiv.org/abs/2307.06308v1)|[2307.06308v1](http://arxiv.org/pdf/2307.06308v1)|null|
+|**2023-07-12**|**Can the orbital distribution of Neptune's 3:2 mean motion resonance result from stability sculpting?**|Sricharan Balaji et.al.|[2307.06280v1](http://arxiv.org/abs/2307.06280v1)|[2307.06280v1](http://arxiv.org/pdf/2307.06280v1)|null|
+|**2023-07-12**|**The physical acceptability conditions and the strategies to obtain anisotropic compact objects**|Daniel Suárez-Urango et.al.|[2307.06257v1](http://arxiv.org/abs/2307.06257v1)|[2307.06257v1](http://arxiv.org/pdf/2307.06257v1)|null|
+|**2023-07-12**|**Dynamics around the binary system (65803) Didymos**|R. Machado Oliveira et.al.|[2307.06254v1](http://arxiv.org/abs/2307.06254v1)|[2307.06254v1](http://arxiv.org/pdf/2307.06254v1)|null|
+|**2023-07-12**|**ExoGemS Detection of a Metal Hydride in an Exoplanet Atmosphere**|Laura Flagg et.al.|[2307.06242v1](http://arxiv.org/abs/2307.06242v1)|[2307.06242v1](http://arxiv.org/pdf/2307.06242v1)|null|
+|**2023-07-12**|**A generalized mass-to-horizon relation: a new global approach to entropic cosmologies and its connection to \texorpdfstring{$Λ$}{Lambda}CDM**|Hussain Gohar et.al.|[2307.06239v1](http://arxiv.org/abs/2307.06239v1)|[2307.06239v1](http://arxiv.org/pdf/2307.06239v1)|null|
 |**2023-07-11**|**Chemistry of multiple stellar populations in the mono-metallic, in situ, bulge globular cluster NGC 6388**|Eugenio Carretta et.al.|[2307.05478v1](http://arxiv.org/abs/2307.05478v1)|[2307.05478v1](http://arxiv.org/pdf/2307.05478v1)|null|
 |**2023-07-11**|**Primordial magnetic fields and the Hubble tension**|Karsten Jedamzik et.al.|[2307.05475v1](http://arxiv.org/abs/2307.05475v1)|[2307.05475v1](http://arxiv.org/pdf/2307.05475v1)|null|
 |**2023-07-11**|**Can gravitational wave background feel wiggles in spacetime?**|Gen Ye et.al.|[2307.05455v1](http://arxiv.org/abs/2307.05455v1)|[2307.05455v1](http://arxiv.org/pdf/2307.05455v1)|null|
@@ -2649,6 +2659,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-12**|**Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation**|Andi Peng et.al.|[2307.06333v1](http://arxiv.org/abs/2307.06333v1)|[2307.06333v1](http://arxiv.org/pdf/2307.06333v1)|null|
+|**2023-07-12**|**Budgeting Counterfactual for Offline RL**|Yao Liu et.al.|[2307.06328v1](http://arxiv.org/abs/2307.06328v1)|[2307.06328v1](http://arxiv.org/pdf/2307.06328v1)|null|
+|**2023-07-12**|**Deep Learning of Crystalline Defects from TEM images: A Solution for the Problem of "Never Enough Training Data"**|Kishan Govind et.al.|[2307.06322v1](http://arxiv.org/abs/2307.06322v1)|[2307.06322v1](http://arxiv.org/pdf/2307.06322v1)|null|
+|**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304v1](http://arxiv.org/abs/2307.06304v1)|[2307.06304v1](http://arxiv.org/pdf/2307.06304v1)|null|
+|**2023-07-12**|**Instruction Mining: High-Quality Instruction Data Selection for Large Language Models**|Yihan Cao et.al.|[2307.06290v1](http://arxiv.org/abs/2307.06290v1)|[2307.06290v1](http://arxiv.org/pdf/2307.06290v1)|null|
+|**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272v1](http://arxiv.org/abs/2307.06272v1)|[2307.06272v1](http://arxiv.org/pdf/2307.06272v1)|null|
+|**2023-07-12**|**DSSE: a drone swarm search environment**|Manuel Castanares et.al.|[2307.06240v1](http://arxiv.org/abs/2307.06240v1)|[2307.06240v1](http://arxiv.org/pdf/2307.06240v1)|null|
+|**2023-07-12**|**Testing different Log Bases For Vector Model Weighting Technique**|Kamel Assaf et.al.|[2307.06213v1](http://arxiv.org/abs/2307.06213v1)|[2307.06213v1](http://arxiv.org/pdf/2307.06213v1)|null|
+|**2023-07-12**|**Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems**|Nathalia Nascimento et.al.|[2307.06187v1](http://arxiv.org/abs/2307.06187v1)|[2307.06187v1](http://arxiv.org/pdf/2307.06187v1)|null|
+|**2023-07-12**|**Smart Infrastructure: A Research Junction**|Manuel Hetzel et.al.|[2307.06177v1](http://arxiv.org/abs/2307.06177v1)|[2307.06177v1](http://arxiv.org/pdf/2307.06177v1)|null|
 |**2023-07-11**|**Bio-Inspired Night Image Enhancement Based on Contrast Enhancement and Denoising**|Xinyi Bai et.al.|[2307.05447v1](http://arxiv.org/abs/2307.05447v1)|[2307.05447v1](http://arxiv.org/pdf/2307.05447v1)|null|
 |**2023-07-11**|**Channel State Information-Free Location-Privacy Enhancement: Fake Path Injection**|Jianxiu Li et.al.|[2307.05442v1](http://arxiv.org/abs/2307.05442v1)|[2307.05442v1](http://arxiv.org/pdf/2307.05442v1)|null|
 |**2023-07-11**|**ISLTranslate: Dataset for Translating Indian Sign Language**|Abhinav Joshi et.al.|[2307.05440v1](http://arxiv.org/abs/2307.05440v1)|[2307.05440v1](http://arxiv.org/pdf/2307.05440v1)|**[link](https://github.com/exploration-lab/isltranslate)**|
