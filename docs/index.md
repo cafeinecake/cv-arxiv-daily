@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.13
+## Updated on 2023.07.14
 
 ## Astrophysics
 
@@ -2669,7 +2669,7 @@ layout: default
 |**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304v1](http://arxiv.org/abs/2307.06304v1)|[2307.06304v1](http://arxiv.org/pdf/2307.06304v1)|null|
 |**2023-07-12**|**Instruction Mining: High-Quality Instruction Data Selection for Large Language Models**|Yihan Cao et.al.|[2307.06290v1](http://arxiv.org/abs/2307.06290v1)|[2307.06290v1](http://arxiv.org/pdf/2307.06290v1)|null|
 |**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272v1](http://arxiv.org/abs/2307.06272v1)|[2307.06272v1](http://arxiv.org/pdf/2307.06272v1)|null|
-|**2023-07-12**|**DSSE: a drone swarm search environment**|Manuel Castanares et.al.|[2307.06240v1](http://arxiv.org/abs/2307.06240v1)|[2307.06240v1](http://arxiv.org/pdf/2307.06240v1)|null|
+|**2023-07-12**|**DSSE: a drone swarm search environment**|Manuel Castanares et.al.|[2307.06240v1](http://arxiv.org/abs/2307.06240v1)|[2307.06240v1](http://arxiv.org/pdf/2307.06240v1)|**[link](https://github.com/pfe-embraer/drone-swarm-search)**|
 |**2023-07-12**|**Testing different Log Bases For Vector Model Weighting Technique**|Kamel Assaf et.al.|[2307.06213v1](http://arxiv.org/abs/2307.06213v1)|[2307.06213v1](http://arxiv.org/pdf/2307.06213v1)|null|
 |**2023-07-12**|**Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems**|Nathalia Nascimento et.al.|[2307.06187v1](http://arxiv.org/abs/2307.06187v1)|[2307.06187v1](http://arxiv.org/pdf/2307.06187v1)|null|
 |**2023-07-12**|**Smart Infrastructure: A Research Junction**|Manuel Hetzel et.al.|[2307.06177v1](http://arxiv.org/abs/2307.06177v1)|[2307.06177v1](http://arxiv.org/pdf/2307.06177v1)|null|

@@ -1,4 +1,4 @@
-> Updated on 2023.07.13
+> Updated on 2023.07.14
 
 ## Astrophysics
 
@@ -2661,7 +2661,7 @@
 - 2023-07-12, **Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**, Mostafa Dehghani et.al., Paper: [http://arxiv.org/abs/2307.06304v1](http://arxiv.org/abs/2307.06304v1), Paper: [http://arxiv.org/abs/2307.06304v1](http://arxiv.org/pdf/2307.06304v1)
 - 2023-07-12, **Instruction Mining: High-Quality Instruction Data Selection for Large Language Models**, Yihan Cao et.al., Paper: [http://arxiv.org/abs/2307.06290v1](http://arxiv.org/abs/2307.06290v1), Paper: [http://arxiv.org/abs/2307.06290v1](http://arxiv.org/pdf/2307.06290v1)
 - 2023-07-12, **Exposing the Fake: Effective Diffusion-Generated Images Detection**, Ruipeng Ma et.al., Paper: [http://arxiv.org/abs/2307.06272v1](http://arxiv.org/abs/2307.06272v1), Paper: [http://arxiv.org/abs/2307.06272v1](http://arxiv.org/pdf/2307.06272v1)
-- 2023-07-12, **DSSE: a drone swarm search environment**, Manuel Castanares et.al., Paper: [http://arxiv.org/abs/2307.06240v1](http://arxiv.org/abs/2307.06240v1), Paper: [http://arxiv.org/abs/2307.06240v1](http://arxiv.org/pdf/2307.06240v1)
+- 2023-07-12, **DSSE: a drone swarm search environment**, Manuel Castanares et.al., Paper: [http://arxiv.org/abs/2307.06240v1](http://arxiv.org/abs/2307.06240v1),Paper: [http://arxiv.org/abs/2307.06240v1](http://arxiv.org/pdf/2307.06240v1), Code: **[https://github.com/pfe-embraer/drone-swarm-search](https://github.com/pfe-embraer/drone-swarm-search)**
 - 2023-07-12, **Testing different Log Bases For Vector Model Weighting Technique**, Kamel Assaf et.al., Paper: [http://arxiv.org/abs/2307.06213v1](http://arxiv.org/abs/2307.06213v1), Paper: [http://arxiv.org/abs/2307.06213v1](http://arxiv.org/pdf/2307.06213v1)
 - 2023-07-12, **Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems**, Nathalia Nascimento et.al., Paper: [http://arxiv.org/abs/2307.06187v1](http://arxiv.org/abs/2307.06187v1), Paper: [http://arxiv.org/abs/2307.06187v1](http://arxiv.org/pdf/2307.06187v1)
 - 2023-07-12, **Smart Infrastructure: A Research Junction**, Manuel Hetzel et.al., Paper: [http://arxiv.org/abs/2307.06177v1](http://arxiv.org/abs/2307.06177v1), Paper: [http://arxiv.org/abs/2307.06177v1](http://arxiv.org/pdf/2307.06177v1)
