@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-13**|**Suppression of matter density growth at scales exceeding the cosmic screening length**|Maxim Eingorn et.al.|[2307.06920v1](http://arxiv.org/abs/2307.06920v1)|[2307.06920v1](http://arxiv.org/pdf/2307.06920v1)|null|
+|**2023-07-13**|**Forecasting constraints on the baryon mass fraction in the IGM from fast radio bursts and type Ia supernovae**|Thais Lemos et.al.|[2307.06911v1](http://arxiv.org/abs/2307.06911v1)|[2307.06911v1](http://arxiv.org/pdf/2307.06911v1)|null|
+|**2023-07-13**|**Citizen Science in the European Open Science Cloud**|Stephen Serjeant et.al.|[2307.06896v1](http://arxiv.org/abs/2307.06896v1)|[2307.06896v1](http://arxiv.org/pdf/2307.06896v1)|null|
+|**2023-07-13**|**Observation of two splitting processes in a partial filament eruption on the sun: the role of breakout reconnection**|Zheng Sun et.al.|[2307.06895v1](http://arxiv.org/abs/2307.06895v1)|[2307.06895v1](http://arxiv.org/pdf/2307.06895v1)|null|
+|**2023-07-13**|**TOI-4201: An Early M-dwarf Hosting a Massive Transiting Jupiter Stretching Theories of Core-Accretion**|Megan Delamer et.al.|[2307.06880v1](http://arxiv.org/abs/2307.06880v1)|[2307.06880v1](http://arxiv.org/pdf/2307.06880v1)|null|
+|**2023-07-13**|**Blandford-Znajek jets in MOdified Gravity**|Filippo Camilloni et.al.|[2307.06878v1](http://arxiv.org/abs/2307.06878v1)|[2307.06878v1](http://arxiv.org/pdf/2307.06878v1)|null|
+|**2023-07-13**|**Silicon tracker array for RIB experiments at SAMURAI**|A. I. Stefanescu et.al.|[2307.06867v1](http://arxiv.org/abs/2307.06867v1)|[2307.06867v1](http://arxiv.org/pdf/2307.06867v1)|null|
+|**2023-07-13**|**Multi-TeV dark matter density in the inner Milky Way halo: spectral and dynamical constraints**|Jaume Zuriaga-Puig et.al.|[2307.06823v1](http://arxiv.org/abs/2307.06823v1)|[2307.06823v1](http://arxiv.org/pdf/2307.06823v1)|null|
+|**2023-07-13**|**TOI 4201 b and TOI 5344 b: Discovery of Two Transiting Giant Planets Around M Dwarf Stars and Revised Parameters for Three Others**|J. D. Hartman et.al.|[2307.06809v1](http://arxiv.org/abs/2307.06809v1)|[2307.06809v1](http://arxiv.org/pdf/2307.06809v1)|null|
+|**2023-07-13**|**CLASH-VLT: The inner slope of the MACS J1206.2-0847 mass density profile**|A. Biviano et.al.|[2307.06804v1](http://arxiv.org/abs/2307.06804v1)|[2307.06804v1](http://arxiv.org/pdf/2307.06804v1)|null|
 |**2023-07-12**|**Ultraviolet Compactness of High-Redshift Galaxies as a Tracer of Early-Stage Gas Infall, Stochastic Star Formation, and Offset from the Fundamental Metallicity Relation**|Danial Langeroodi et.al.|[2307.06336v1](http://arxiv.org/abs/2307.06336v1)|[2307.06336v1](http://arxiv.org/pdf/2307.06336v1)|null|
 |**2023-07-12**|**Quantifying irradiation in spider pulsars: the extreme case of PSR J1622-0315**|Marco Turchetta et.al.|[2307.06330v1](http://arxiv.org/abs/2307.06330v1)|[2307.06330v1](http://arxiv.org/pdf/2307.06330v1)|null|
 |**2023-07-12**|**Reconstruction of inflationary scenarios in non-conservative unimodular gravity**|M. P. Piccirilli et.al.|[2307.06329v1](http://arxiv.org/abs/2307.06329v1)|[2307.06329v1](http://arxiv.org/pdf/2307.06329v1)|null|
@@ -2663,6 +2673,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|[2307.06949v1](http://arxiv.org/pdf/2307.06949v1)|null|
+|**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|[2307.06947v1](http://arxiv.org/pdf/2307.06947v1)|null|
+|**2023-07-13**|**In-context Autoencoder for Context Compression in a Large Language Model**|Tao Ge et.al.|[2307.06945v1](http://arxiv.org/abs/2307.06945v1)|[2307.06945v1](http://arxiv.org/pdf/2307.06945v1)|null|
+|**2023-07-13**|**On the Connection between Game-Theoretic Feature Attributions and Counterfactual Explanations**|Emanuele Albini et.al.|[2307.06941v1](http://arxiv.org/abs/2307.06941v1)|[2307.06941v1](http://arxiv.org/pdf/2307.06941v1)|null|
+|**2023-07-13**|**PHOENI2X -- A European Cyber Resilience Framework With Artificial-Intelligence-Assisted Orchestration, Automation and Response Capabilities for Business Continuity and Recovery, Incident Response, and Information Exchange**|Konstantinos Fysarakis et.al.|[2307.06932v1](http://arxiv.org/abs/2307.06932v1)|[2307.06932v1](http://arxiv.org/pdf/2307.06932v1)|null|
+|**2023-07-13**|**DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding**|Shuijing Liu et.al.|[2307.06924v1](http://arxiv.org/abs/2307.06924v1)|[2307.06924v1](http://arxiv.org/pdf/2307.06924v1)|null|
+|**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917v1](http://arxiv.org/abs/2307.06917v1)|[2307.06917v1](http://arxiv.org/pdf/2307.06917v1)|null|
+|**2023-07-13**|**Uncovering Unique Concept Vectors through Latent Space Decomposition**|Mara Graziani et.al.|[2307.06913v1](http://arxiv.org/abs/2307.06913v1)|[2307.06913v1](http://arxiv.org/pdf/2307.06913v1)|null|
+|**2023-07-13**|**Generating Benchmarks for Factuality Evaluation of Language Models**|Dor Muhlgay et.al.|[2307.06908v1](http://arxiv.org/abs/2307.06908v1)|[2307.06908v1](http://arxiv.org/pdf/2307.06908v1)|null|
+|**2023-07-13**|**The complexity of non-stationary reinforcement learning**|Christos Papadimitriou et.al.|[2307.06877v1](http://arxiv.org/abs/2307.06877v1)|[2307.06877v1](http://arxiv.org/pdf/2307.06877v1)|null|
 |**2023-07-12**|**Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation**|Andi Peng et.al.|[2307.06333v1](http://arxiv.org/abs/2307.06333v1)|[2307.06333v1](http://arxiv.org/pdf/2307.06333v1)|null|
 |**2023-07-12**|**Budgeting Counterfactual for Offline RL**|Yao Liu et.al.|[2307.06328v1](http://arxiv.org/abs/2307.06328v1)|[2307.06328v1](http://arxiv.org/pdf/2307.06328v1)|null|
 |**2023-07-12**|**Deep Learning of Crystalline Defects from TEM images: A Solution for the Problem of "Never Enough Training Data"**|Kishan Govind et.al.|[2307.06322v1](http://arxiv.org/abs/2307.06322v1)|[2307.06322v1](http://arxiv.org/pdf/2307.06322v1)|null|
