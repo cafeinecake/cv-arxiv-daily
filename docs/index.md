@@ -2674,7 +2674,7 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|[2307.06949v1](http://arxiv.org/pdf/2307.06949v1)|null|
-|**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|[2307.06947v1](http://arxiv.org/pdf/2307.06947v1)|null|
+|**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|[2307.06947v1](http://arxiv.org/pdf/2307.06947v1)|**[link](https://github.com/talalwasim/video-focalnets)**|
 |**2023-07-13**|**In-context Autoencoder for Context Compression in a Large Language Model**|Tao Ge et.al.|[2307.06945v1](http://arxiv.org/abs/2307.06945v1)|[2307.06945v1](http://arxiv.org/pdf/2307.06945v1)|null|
 |**2023-07-13**|**On the Connection between Game-Theoretic Feature Attributions and Counterfactual Explanations**|Emanuele Albini et.al.|[2307.06941v1](http://arxiv.org/abs/2307.06941v1)|[2307.06941v1](http://arxiv.org/pdf/2307.06941v1)|null|
 |**2023-07-13**|**PHOENI2X -- A European Cyber Resilience Framework With Artificial-Intelligence-Assisted Orchestration, Automation and Response Capabilities for Business Continuity and Recovery, Incident Response, and Information Exchange**|Konstantinos Fysarakis et.al.|[2307.06932v1](http://arxiv.org/abs/2307.06932v1)|[2307.06932v1](http://arxiv.org/pdf/2307.06932v1)|null|
