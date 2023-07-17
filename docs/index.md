@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-14**|**Inflationary cross-correlations of a non-minimal spectator and their soft limits**|P. Jishnu Sai et.al.|[2307.07502v1](http://arxiv.org/abs/2307.07502v1)|[2307.07502v1](http://arxiv.org/pdf/2307.07502v1)|null|
+|**2023-07-14**|**Strategies For Non-Planar Configurations Of Geostationary Tethered Collecting Solar Power Satellite Systems**|F. J. T. Salazara et.al.|[2307.07500v1](http://arxiv.org/abs/2307.07500v1)|[2307.07500v1](http://arxiv.org/pdf/2307.07500v1)|null|
+|**2023-07-14**|**Using Upgraded Versions Of Close Approach Maneuvers As Transportation Solutions For Deep Space Missions**|Antonio F. B. A. Prado et.al.|[2307.07498v1](http://arxiv.org/abs/2307.07498v1)|[2307.07498v1](http://arxiv.org/pdf/2307.07498v1)|null|
+|**2023-07-14**|**Analysis of Unified Galaxy Power Spectrum Multipole Measurements**|Jamie Donald-McCann et.al.|[2307.07475v1](http://arxiv.org/abs/2307.07475v1)|[2307.07475v1](http://arxiv.org/pdf/2307.07475v1)|null|
+|**2023-07-14**|**Constraints on the Abundance of PBHs from X-ray Quasar Microlensing Observations: Substellar to Planetary Mass Range**|A. Esteban-Gutiérrez et.al.|[2307.07473v1](http://arxiv.org/abs/2307.07473v1)|[2307.07473v1](http://arxiv.org/pdf/2307.07473v1)|null|
+|**2023-07-14**|**The environments of hyper-compact H II regions. I. G345.0061+01.794 B**|Toktarkhan Komesh et.al.|[2307.07459v1](http://arxiv.org/abs/2307.07459v1)|[2307.07459v1](http://arxiv.org/pdf/2307.07459v1)|null|
+|**2023-07-14**|**Swift Follow-Up of Reported Radio Pulsars at Fermi 4FGL Unassociated Sources**|Stephen Kerby et.al.|[2307.07452v1](http://arxiv.org/abs/2307.07452v1)|[2307.07452v1](http://arxiv.org/pdf/2307.07452v1)|null|
+|**2023-07-14**|**Unveiling the nature of galactic TeV sources with IceCube results**|Vittoria Vecchiotti et.al.|[2307.07451v1](http://arxiv.org/abs/2307.07451v1)|[2307.07451v1](http://arxiv.org/pdf/2307.07451v1)|null|
+|**2023-07-14**|**Quasinormal modes of rotating black holes in higher-derivative gravity**|Pablo A. Cano et.al.|[2307.07431v1](http://arxiv.org/abs/2307.07431v1)|[2307.07431v1](http://arxiv.org/pdf/2307.07431v1)|null|
+|**2023-07-14**|**The dual nature of the tidal tails of NGC 5904 (M5)**|Andrés E. Piatti et.al.|[2307.07419v1](http://arxiv.org/abs/2307.07419v1)|[2307.07419v1](http://arxiv.org/pdf/2307.07419v1)|null|
 |**2023-07-13**|**Suppression of matter density growth at scales exceeding the cosmic screening length**|Maxim Eingorn et.al.|[2307.06920v1](http://arxiv.org/abs/2307.06920v1)|[2307.06920v1](http://arxiv.org/pdf/2307.06920v1)|null|
 |**2023-07-13**|**Forecasting constraints on the baryon mass fraction in the IGM from fast radio bursts and type Ia supernovae**|Thais Lemos et.al.|[2307.06911v1](http://arxiv.org/abs/2307.06911v1)|[2307.06911v1](http://arxiv.org/pdf/2307.06911v1)|null|
 |**2023-07-13**|**Citizen Science in the European Open Science Cloud**|Stephen Serjeant et.al.|[2307.06896v1](http://arxiv.org/abs/2307.06896v1)|[2307.06896v1](http://arxiv.org/pdf/2307.06896v1)|null|
@@ -2673,6 +2683,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|[2307.07469v1](http://arxiv.org/pdf/2307.07469v1)|**[link](https://github.com/Necolizer/ISTA-Net)**|
+|**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|[2307.07457v1](http://arxiv.org/pdf/2307.07457v1)|null|
+|**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454v1](http://arxiv.org/abs/2307.07454v1)|[2307.07454v1](http://arxiv.org/pdf/2307.07454v1)|null|
+|**2023-07-14**|**Can Large Language Models Empower Molecular Property Prediction?**|Chen Qian et.al.|[2307.07443v1](http://arxiv.org/abs/2307.07443v1)|[2307.07443v1](http://arxiv.org/pdf/2307.07443v1)|**[link](https://github.com/chnq/llm4mol)**|
+|**2023-07-14**|**Exploiting Counter-Examples for Active Learning with Partial labels**|Fei Zhang et.al.|[2307.07413v1](http://arxiv.org/abs/2307.07413v1)|[2307.07413v1](http://arxiv.org/pdf/2307.07413v1)|null|
+|**2023-07-14**|**Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach**|G. M. Shahariar et.al.|[2307.07392v1](http://arxiv.org/abs/2307.07392v1)|[2307.07392v1](http://arxiv.org/pdf/2307.07392v1)|null|
+|**2023-07-14**|**AIC-AB NET: A Neural Network for Image Captioning with Spatial Attention and Text Attributes**|Guoyun Tu et.al.|[2307.07370v1](http://arxiv.org/abs/2307.07370v1)|[2307.07370v1](http://arxiv.org/pdf/2307.07370v1)|null|
+|**2023-07-14**|**Are Large Language Models a Threat to Digital Public Goods? Evidence from Activity on Stack Overflow**|Maria del Rio-Chanona et.al.|[2307.07367v1](http://arxiv.org/abs/2307.07367v1)|[2307.07367v1](http://arxiv.org/pdf/2307.07367v1)|null|
+|**2023-07-14**|**Single-sensor and real-time ultrasonic imaging using an AI-driven disordered metasurface**|Wei Wang et.al.|[2307.07364v1](http://arxiv.org/abs/2307.07364v1)|[2307.07364v1](http://arxiv.org/pdf/2307.07364v1)|null|
+|**2023-07-14**|**From Multilayer Perceptron to GPT: A Reflection on Deep Learning Research for Wireless Physical Layer**|Mohamed Akrout et.al.|[2307.07359v1](http://arxiv.org/abs/2307.07359v1)|[2307.07359v1](http://arxiv.org/pdf/2307.07359v1)|null|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|[2307.06949v1](http://arxiv.org/pdf/2307.06949v1)|null|
 |**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|[2307.06947v1](http://arxiv.org/pdf/2307.06947v1)|**[link](https://github.com/talalwasim/video-focalnets)**|
 |**2023-07-13**|**In-context Autoencoder for Context Compression in a Large Language Model**|Tao Ge et.al.|[2307.06945v1](http://arxiv.org/abs/2307.06945v1)|[2307.06945v1](http://arxiv.org/pdf/2307.06945v1)|null|
