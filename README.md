@@ -1,4 +1,4 @@
-## Updated on 2023.07.16
+## Updated on 2023.07.17
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@
 |**2023-07-13**|**Blandford-Znajek jets in MOdified Gravity**|Filippo Camilloni et.al.|[2307.06878v1](http://arxiv.org/abs/2307.06878v1)|[2307.06878v1](http://arxiv.org/pdf/2307.06878v1)|null|
 |**2023-07-13**|**Silicon tracker array for RIB experiments at SAMURAI**|A. I. Stefanescu et.al.|[2307.06867v1](http://arxiv.org/abs/2307.06867v1)|[2307.06867v1](http://arxiv.org/pdf/2307.06867v1)|null|
 |**2023-07-13**|**Multi-TeV dark matter density in the inner Milky Way halo: spectral and dynamical constraints**|Jaume Zuriaga-Puig et.al.|[2307.06823v1](http://arxiv.org/abs/2307.06823v1)|[2307.06823v1](http://arxiv.org/pdf/2307.06823v1)|null|
-|**2023-07-13**|**TOI 4201 b and TOI 5344 b: Discovery of Two Transiting Giant Planets Around M Dwarf Stars and Revised Parameters for Three Others**|J. D. Hartman et.al.|[2307.06809v1](http://arxiv.org/abs/2307.06809v1)|[2307.06809v1](http://arxiv.org/pdf/2307.06809v1)|null|
+|**2023-07-14**|**TOI 4201 b and TOI 5344 b: Discovery of Two Transiting Giant Planets Around M Dwarf Stars and Revised Parameters for Three Others**|J. D. Hartman et.al.|[2307.06809v2](http://arxiv.org/abs/2307.06809v2)|[2307.06809v2](http://arxiv.org/pdf/2307.06809v2)|null|
 |**2023-07-13**|**CLASH-VLT: The inner slope of the MACS J1206.2-0847 mass density profile**|A. Biviano et.al.|[2307.06804v1](http://arxiv.org/abs/2307.06804v1)|[2307.06804v1](http://arxiv.org/pdf/2307.06804v1)|null|
 |**2023-07-12**|**Ultraviolet Compactness of High-Redshift Galaxies as a Tracer of Early-Stage Gas Infall, Stochastic Star Formation, and Offset from the Fundamental Metallicity Relation**|Danial Langeroodi et.al.|[2307.06336v1](http://arxiv.org/abs/2307.06336v1)|[2307.06336v1](http://arxiv.org/pdf/2307.06336v1)|null|
 |**2023-07-12**|**Quantifying irradiation in spider pulsars: the extreme case of PSR J1622-0315**|Marco Turchetta et.al.|[2307.06330v1](http://arxiv.org/abs/2307.06330v1)|[2307.06330v1](http://arxiv.org/pdf/2307.06330v1)|null|
@@ -2676,7 +2676,7 @@
 |**2023-07-13**|**PHOENI2X -- A European Cyber Resilience Framework With Artificial-Intelligence-Assisted Orchestration, Automation and Response Capabilities for Business Continuity and Recovery, Incident Response, and Information Exchange**|Konstantinos Fysarakis et.al.|[2307.06932v1](http://arxiv.org/abs/2307.06932v1)|[2307.06932v1](http://arxiv.org/pdf/2307.06932v1)|null|
 |**2023-07-13**|**DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding**|Shuijing Liu et.al.|[2307.06924v1](http://arxiv.org/abs/2307.06924v1)|[2307.06924v1](http://arxiv.org/pdf/2307.06924v1)|null|
 |**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917v1](http://arxiv.org/abs/2307.06917v1)|[2307.06917v1](http://arxiv.org/pdf/2307.06917v1)|null|
-|**2023-07-13**|**Uncovering Unique Concept Vectors through Latent Space Decomposition**|Mara Graziani et.al.|[2307.06913v1](http://arxiv.org/abs/2307.06913v1)|[2307.06913v1](http://arxiv.org/pdf/2307.06913v1)|null|
+|**2023-07-14**|**Uncovering Unique Concept Vectors through Latent Space Decomposition**|Mara Graziani et.al.|[2307.06913v2](http://arxiv.org/abs/2307.06913v2)|[2307.06913v2](http://arxiv.org/pdf/2307.06913v2)|null|
 |**2023-07-13**|**Generating Benchmarks for Factuality Evaluation of Language Models**|Dor Muhlgay et.al.|[2307.06908v1](http://arxiv.org/abs/2307.06908v1)|[2307.06908v1](http://arxiv.org/pdf/2307.06908v1)|null|
 |**2023-07-13**|**The complexity of non-stationary reinforcement learning**|Christos Papadimitriou et.al.|[2307.06877v1](http://arxiv.org/abs/2307.06877v1)|[2307.06877v1](http://arxiv.org/pdf/2307.06877v1)|null|
 |**2023-07-12**|**Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation**|Andi Peng et.al.|[2307.06333v1](http://arxiv.org/abs/2307.06333v1)|[2307.06333v1](http://arxiv.org/pdf/2307.06333v1)|null|
