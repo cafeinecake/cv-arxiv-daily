@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-17**|**Chemical footprints of giant planet formation. Role of planet accretion in shaping the C/O ratio of protoplanetary disks**|Haochang Jiang et.al.|[2307.08704v1](http://arxiv.org/abs/2307.08704v1)|[2307.08704v1](http://arxiv.org/pdf/2307.08704v1)|null|
+|**2023-07-17**|**Towards numerical-relativity informed effective-one-body waveforms for dynamical capture black hole binaries**|Tomas Andrade et.al.|[2307.08697v1](http://arxiv.org/abs/2307.08697v1)|[2307.08697v1](http://arxiv.org/pdf/2307.08697v1)|null|
+|**2023-07-17**|**Confronting sound speed resonance with pulsar timing arrays**|Jia-Heng Jin et.al.|[2307.08687v1](http://arxiv.org/abs/2307.08687v1)|[2307.08687v1](http://arxiv.org/pdf/2307.08687v1)|null|
+|**2023-07-17**|**Helium as a signature of the double detonation in Type Ia supernovae**|Christine E. Collins et.al.|[2307.08660v1](http://arxiv.org/abs/2307.08660v1)|[2307.08660v1](http://arxiv.org/pdf/2307.08660v1)|null|
+|**2023-07-17**|**XMM-Newton observations of the TeV-discovered supernova remnant HESS J1534-571**|N. T. Nguyen-Dang et.al.|[2307.08656v1](http://arxiv.org/abs/2307.08656v1)|[2307.08656v1](http://arxiv.org/pdf/2307.08656v1)|null|
+|**2023-07-17**|**The GAPS program at TNG XLVII: The unusual formation history of V1298 Tau**|D. Turrini et.al.|[2307.08653v1](http://arxiv.org/abs/2307.08653v1)|[2307.08653v1](http://arxiv.org/pdf/2307.08653v1)|null|
+|**2023-07-17**|**Discovery of the elusive carbonic acid (HOCOOH) in space**|Miguel Sanz-Novo et.al.|[2307.08644v1](http://arxiv.org/abs/2307.08644v1)|[2307.08644v1](http://arxiv.org/pdf/2307.08644v1)|null|
+|**2023-07-17**|**JADES: deep spectroscopy of a low-mass galaxy at redshift 2.3 quenched by environment**|Lester Sandles et.al.|[2307.08633v1](http://arxiv.org/abs/2307.08633v1)|[2307.08633v1](http://arxiv.org/pdf/2307.08633v1)|null|
+|**2023-07-17**|**Signatures of Superstring theory in NANOGrav**|Spyros Basilakos et.al.|[2307.08601v1](http://arxiv.org/abs/2307.08601v1)|[2307.08601v1](http://arxiv.org/pdf/2307.08601v1)|null|
+|**2023-07-17**|**Astronomical high-contrast imaging of circumstellar disks: MUSTARD inverse-problem versus PCA-based methods**|S. Juillard et.al.|[2307.08588v1](http://arxiv.org/abs/2307.08588v1)|[2307.08588v1](http://arxiv.org/pdf/2307.08588v1)|null|
 |**2023-07-14**|**Inflationary cross-correlations of a non-minimal spectator and their soft limits**|P. Jishnu Sai et.al.|[2307.07502v1](http://arxiv.org/abs/2307.07502v1)|[2307.07502v1](http://arxiv.org/pdf/2307.07502v1)|null|
 |**2023-07-14**|**Strategies For Non-Planar Configurations Of Geostationary Tethered Collecting Solar Power Satellite Systems**|F. J. T. Salazara et.al.|[2307.07500v1](http://arxiv.org/abs/2307.07500v1)|[2307.07500v1](http://arxiv.org/pdf/2307.07500v1)|null|
 |**2023-07-14**|**Using Upgraded Versions Of Close Approach Maneuvers As Transportation Solutions For Deep Space Missions**|Antonio F. B. A. Prado et.al.|[2307.07498v1](http://arxiv.org/abs/2307.07498v1)|[2307.07498v1](http://arxiv.org/pdf/2307.07498v1)|null|
@@ -2679,6 +2689,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|[2307.08700v1](http://arxiv.org/pdf/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
+|**2023-07-17**|**Pair then Relation: Pair-Net for Panoptic Scene Graph Generation**|Jinghao Wang et.al.|[2307.08699v1](http://arxiv.org/abs/2307.08699v1)|[2307.08699v1](http://arxiv.org/pdf/2307.08699v1)|null|
+|**2023-07-17**|**COLLIE: Systematic Construction of Constrained Text Generation Tasks**|Shunyu Yao et.al.|[2307.08689v1](http://arxiv.org/abs/2307.08689v1)|[2307.08689v1](http://arxiv.org/pdf/2307.08689v1)|**[link](https://github.com/princeton-nlp/Collie)**|
+|**2023-07-17**|**Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations**|Yanda Chen et.al.|[2307.08678v1](http://arxiv.org/abs/2307.08678v1)|[2307.08678v1](http://arxiv.org/pdf/2307.08678v1)|null|
+|**2023-07-17**|**TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT**|Liangyu Zha et.al.|[2307.08674v1](http://arxiv.org/abs/2307.08674v1)|[2307.08674v1](http://arxiv.org/pdf/2307.08674v1)|null|
+|**2023-07-17**|**Leveraging Recommender Systems to Reduce Content Gaps on Peer Production Platforms**|Mo Houtti et.al.|[2307.08669v1](http://arxiv.org/abs/2307.08669v1)|[2307.08669v1](http://arxiv.org/pdf/2307.08669v1)|null|
+|**2023-07-17**|**Quaternion Convolutional Neural Networks: Current Advances and Future Directions**|Gerardo Altamirano-Gomez et.al.|[2307.08663v1](http://arxiv.org/abs/2307.08663v1)|[2307.08663v1](http://arxiv.org/pdf/2307.08663v1)|null|
+|**2023-07-17**|**Glamour muscles: why having a body is not what it means to be embodied**|Shawn L. Beaulieu et.al.|[2307.08598v1](http://arxiv.org/abs/2307.08598v1)|[2307.08598v1](http://arxiv.org/pdf/2307.08598v1)|null|
+|**2023-07-17**|**Artificial Intelligence for the Electron Ion Collider (AI4EIC)**|C. Allaire et.al.|[2307.08593v1](http://arxiv.org/abs/2307.08593v1)|[2307.08593v1](http://arxiv.org/pdf/2307.08593v1)|null|
+|**2023-07-17**|**Snapshot Spectral Clustering -- a costless approach to deep clustering ensembles generation**|Adam Piróg et.al.|[2307.08591v1](http://arxiv.org/abs/2307.08591v1)|[2307.08591v1](http://arxiv.org/pdf/2307.08591v1)|null|
 |**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|[2307.07469v1](http://arxiv.org/pdf/2307.07469v1)|**[link](https://github.com/Necolizer/ISTA-Net)**|
 |**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|[2307.07457v1](http://arxiv.org/pdf/2307.07457v1)|null|
 |**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454v1](http://arxiv.org/abs/2307.07454v1)|[2307.07454v1](http://arxiv.org/pdf/2307.07454v1)|null|
