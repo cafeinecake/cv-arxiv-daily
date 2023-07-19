@@ -2699,7 +2699,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2023-07-18**|**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**|Danny Halawi et.al.|[2307.09476v1](http://arxiv.org/abs/2307.09476v1)|[2307.09476v1](http://arxiv.org/pdf/2307.09476v1)|null|
+|**2023-07-18**|**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**|Danny Halawi et.al.|[2307.09476v1](http://arxiv.org/abs/2307.09476v1)|[2307.09476v1](http://arxiv.org/pdf/2307.09476v1)|**[link](https://github.com/dannyallover/overthinking_the_truth)**|
 |**2023-07-18**|**Occlusion Aware Student Emotion Recognition based on Facial Action Unit Detection**|Shrouk Wally et.al.|[2307.09465v1](http://arxiv.org/abs/2307.09465v1)|[2307.09465v1](http://arxiv.org/pdf/2307.09465v1)|null|
 |**2023-07-18**|**Experimental evidences of a current-biased Josephson junction device can be worked as a macroscopic "Boson" or "Fermion" and the combination**|P. H. Ouyang et.al.|[2307.09452v1](http://arxiv.org/abs/2307.09452v1)|[2307.09452v1](http://arxiv.org/pdf/2307.09452v1)|null|
 |**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|[2307.09447v1](http://arxiv.org/pdf/2307.09447v1)|null|
