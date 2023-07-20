@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-19**|**A New Dissociative Galaxy Cluster Merger: RM J150822.0+575515.2**|Rodrigo Stancioli et.al.|[2307.10174v1](http://arxiv.org/abs/2307.10174v1)|[2307.10174v1](http://arxiv.org/pdf/2307.10174v1)|null|
+|**2023-07-19**|**GWDALI: A Fisher-matrix based software for gravitational wave parameter-estimation beyond Gaussian approximation**|Josiel Mendonça Soares de Souza et.al.|[2307.10154v1](http://arxiv.org/abs/2307.10154v1)|[2307.10154v1](http://arxiv.org/pdf/2307.10154v1)|null|
+|**2023-07-19**|**Legolas 2.0: Improvements and extensions to an MHD spectroscopic framework**|Niels Claes et.al.|[2307.10145v1](http://arxiv.org/abs/2307.10145v1)|[2307.10145v1](http://arxiv.org/pdf/2307.10145v1)|**[link](https://github.com/n-claes/legolas)**|
+|**2023-07-19**|**Neutrino spin oscillations in a magnetized Polish doughnut**|Maxim Dvornikov et.al.|[2307.10126v1](http://arxiv.org/abs/2307.10126v1)|[2307.10126v1](http://arxiv.org/pdf/2307.10126v1)|null|
+|**2023-07-19**|**TEMPLATES: Characterization of a Merger in the Dusty Lensing SPT0418-47 System**|Jared Cathey et.al.|[2307.10115v1](http://arxiv.org/abs/2307.10115v1)|[2307.10115v1](http://arxiv.org/pdf/2307.10115v1)|null|
+|**2023-07-19**|**The first comprehensive Milky Way stellar mock catalogue for the Chinese Space Station Telescope Survey Camera**|Yang Chen et.al.|[2307.10091v1](http://arxiv.org/abs/2307.10091v1)|[2307.10091v1](http://arxiv.org/pdf/2307.10091v1)|null|
+|**2023-07-19**|**Characterization of the ejecta from NASA/DART impact on Dimorphos: observations and Monte Carlo models**|Fernando Moreno et.al.|[2307.10086v1](http://arxiv.org/abs/2307.10086v1)|[2307.10086v1](http://arxiv.org/pdf/2307.10086v1)|null|
+|**2023-07-19**|**Constraints on redshifts of blazars from extragalactic background light attenuation using Fermi-LAT data**|A. Domínguez et.al.|[2307.10083v1](http://arxiv.org/abs/2307.10083v1)|[2307.10083v1](http://arxiv.org/pdf/2307.10083v1)|null|
+|**2023-07-19**|**Numerical simulation of photospheric emission in long gamma-ray bursts: prompt correlations, spectral shapes, and polarizations**|Hirotaka Ito et.al.|[2307.10023v1](http://arxiv.org/abs/2307.10023v1)|[2307.10023v1](http://arxiv.org/pdf/2307.10023v1)|null|
+|**2023-07-19**|**Hubble Space Telescope survey of Magellanic Cloud star clusters. UV-dim stars in young clusters**|A. P. Milone et.al.|[2307.10020v1](http://arxiv.org/abs/2307.10020v1)|[2307.10020v1](http://arxiv.org/pdf/2307.10020v1)|null|
 |**2023-07-18**|**Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics**|Alexandre Barthelemy et.al.|[2307.09468v1](http://arxiv.org/abs/2307.09468v1)|[2307.09468v1](http://arxiv.org/pdf/2307.09468v1)|null|
 |**2023-07-18**|**NUTRIG: Towards an Autonomous Radio Trigger for GRAND**|Pablo Correa et.al.|[2307.09462v1](http://arxiv.org/abs/2307.09462v1)|[2307.09462v1](http://arxiv.org/pdf/2307.09462v1)|null|
 |**2023-07-18**|**Probing Light Dark Matter through Cosmic-Ray Cooling in Active Galactic Nuclei**|Gonzalo Herrera et.al.|[2307.09460v1](http://arxiv.org/abs/2307.09460v1)|[2307.09460v1](http://arxiv.org/pdf/2307.09460v1)|null|
@@ -2703,6 +2713,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-19**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v1](http://arxiv.org/abs/2307.10172v1)|[2307.10172v1](http://arxiv.org/pdf/2307.10172v1)|**[link](https://github.com/salesforce/DialogStudio)**|
+|**2023-07-19**|**LightPath: Lightweight and Scalable Path Representation Learning**|Sean Bin Yang et.al.|[2307.10171v1](http://arxiv.org/abs/2307.10171v1)|[2307.10171v1](http://arxiv.org/pdf/2307.10171v1)|null|
+|**2023-07-19**|**Challenges and Applications of Large Language Models**|Jean Kaddour et.al.|[2307.10169v1](http://arxiv.org/abs/2307.10169v1)|[2307.10169v1](http://arxiv.org/pdf/2307.10169v1)|null|
+|**2023-07-19**|**Drone navigation and license place detection for vehicle location in indoor spaces**|Moa Arvidsson et.al.|[2307.10165v1](http://arxiv.org/abs/2307.10165v1)|[2307.10165v1](http://arxiv.org/pdf/2307.10165v1)|null|
+|**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160v1](http://arxiv.org/abs/2307.10160v1)|[2307.10160v1](http://arxiv.org/pdf/2307.10160v1)|null|
+|**2023-07-19**|**Benchmarking Potential Based Rewards for Learning Humanoid Locomotion**|Se Hwan Jeon et.al.|[2307.10142v1](http://arxiv.org/abs/2307.10142v1)|[2307.10142v1](http://arxiv.org/pdf/2307.10142v1)|**[link](https://github.com/se-hwan/pbrs-humanoid)**|
+|**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139v1](http://arxiv.org/abs/2307.10139v1)|[2307.10139v1](http://arxiv.org/pdf/2307.10139v1)|null|
+|**2023-07-19**|**A decision making framework for recommended maintenance of road segments**|Haoyu Sun et.al.|[2307.10085v1](http://arxiv.org/abs/2307.10085v1)|[2307.10085v1](http://arxiv.org/pdf/2307.10085v1)|null|
+|**2023-07-19**|**Accurate deep learning sub-grid scale models for large eddy simulations**|Rikhi Bose et.al.|[2307.10060v1](http://arxiv.org/abs/2307.10060v1)|[2307.10060v1](http://arxiv.org/pdf/2307.10060v1)|null|
+|**2023-07-19**|**Convergence Guarantees for Stochastic Subgradient Methods in Nonsmooth Nonconvex Optimization**|Nachuan Xiao et.al.|[2307.10053v1](http://arxiv.org/abs/2307.10053v1)|[2307.10053v1](http://arxiv.org/pdf/2307.10053v1)|null|
 |**2023-07-18**|**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**|Danny Halawi et.al.|[2307.09476v1](http://arxiv.org/abs/2307.09476v1)|[2307.09476v1](http://arxiv.org/pdf/2307.09476v1)|**[link](https://github.com/dannyallover/overthinking_the_truth)**|
 |**2023-07-18**|**Occlusion Aware Student Emotion Recognition based on Facial Action Unit Detection**|Shrouk Wally et.al.|[2307.09465v1](http://arxiv.org/abs/2307.09465v1)|[2307.09465v1](http://arxiv.org/pdf/2307.09465v1)|null|
 |**2023-07-18**|**Experimental evidences of a current-biased Josephson junction device can be worked as a macroscopic "Boson" or "Fermion" and the combination**|P. H. Ouyang et.al.|[2307.09452v1](http://arxiv.org/abs/2307.09452v1)|[2307.09452v1](http://arxiv.org/pdf/2307.09452v1)|null|
