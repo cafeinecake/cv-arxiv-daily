@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-20**|**Testing the assumptions of the Effective Field Theory of Large-Scale Structure**|Mandar Karandikar et.al.|[2307.11090v1](http://arxiv.org/abs/2307.11090v1)|[2307.11090v1](http://arxiv.org/pdf/2307.11090v1)|null|
+|**2023-07-20**|**Chemical Distribution of the Dynamical Ejecta in the Neutron Star Merger GW170817**|Shreya Anand et.al.|[2307.11080v1](http://arxiv.org/abs/2307.11080v1)|[2307.11080v1](http://arxiv.org/pdf/2307.11080v1)|null|
+|**2023-07-20**|**Particle discrimination in a NaI crystal using the COSINUS remote TES design**|COSINUS Collaboration et.al.|[2307.11066v1](http://arxiv.org/abs/2307.11066v1)|[2307.11066v1](http://arxiv.org/pdf/2307.11066v1)|null|
+|**2023-07-20**|**Discovery Forecasts of the Diffuse Ultra-High-Energy Neutrino Flux with IceCube-Gen2**|Victor B. Valera et.al.|[2307.11055v1](http://arxiv.org/abs/2307.11055v1)|[2307.11055v1](http://arxiv.org/pdf/2307.11055v1)|null|
+|**2023-07-20**|**Astrophysical Constraints on Decaying Dark Gravitons**|Jamie A. P. Law-Smith et.al.|[2307.11048v1](http://arxiv.org/abs/2307.11048v1)|[2307.11048v1](http://arxiv.org/pdf/2307.11048v1)|null|
+|**2023-07-20**|**Adiabatic or Non-Adiabatic? Unraveling the Nature of Initial Conditions in the Cosmological Gravitational Wave Background**|Lorenzo Valbusa Dall'Armi et.al.|[2307.11043v1](http://arxiv.org/abs/2307.11043v1)|[2307.11043v1](http://arxiv.org/pdf/2307.11043v1)|null|
+|**2023-07-20**|**Sweeping Secular Resonances and Giant Planet Inclinations in Transition Discs**|J. J. Zanazzi et.al.|[2307.11021v1](http://arxiv.org/abs/2307.11021v1)|[2307.11021v1](http://arxiv.org/pdf/2307.11021v1)|null|
+|**2023-07-20**|**NeoSySPArtaN: A Neuro-Symbolic Spin Prediction Architecture for higher-order multipole waveforms from eccentric Binary Black Hole mergers using Numerical Relativity**|Amrutaa Vibho et.al.|[2307.11003v1](http://arxiv.org/abs/2307.11003v1)|[2307.11003v1](http://arxiv.org/pdf/2307.11003v1)|null|
+|**2023-07-20**|**Angular momentum and lithium transport from main sequence to sub-giant and red giant low-mass stars**|Thibaut Dumont et.al.|[2307.10995v1](http://arxiv.org/abs/2307.10995v1)|[2307.10995v1](http://arxiv.org/pdf/2307.10995v1)|null|
+|**2023-07-20**|**Implications of the NANOGrav results for primordial black holes and Hubble tension**|M. Bousder et.al.|[2307.10940v1](http://arxiv.org/abs/2307.10940v1)|[2307.10940v1](http://arxiv.org/pdf/2307.10940v1)|null|
 |**2023-07-19**|**A New Dissociative Galaxy Cluster Merger: RM J150822.0+575515.2**|Rodrigo Stancioli et.al.|[2307.10174v1](http://arxiv.org/abs/2307.10174v1)|[2307.10174v1](http://arxiv.org/pdf/2307.10174v1)|null|
 |**2023-07-19**|**GWDALI: A Fisher-matrix based software for gravitational wave parameter-estimation beyond Gaussian approximation**|Josiel Mendonça Soares de Souza et.al.|[2307.10154v1](http://arxiv.org/abs/2307.10154v1)|[2307.10154v1](http://arxiv.org/pdf/2307.10154v1)|null|
 |**2023-07-19**|**Legolas 2.0: Improvements and extensions to an MHD spectroscopic framework**|Niels Claes et.al.|[2307.10145v1](http://arxiv.org/abs/2307.10145v1)|[2307.10145v1](http://arxiv.org/pdf/2307.10145v1)|**[link](https://github.com/n-claes/legolas)**|
@@ -2709,6 +2719,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-20**|**PAPR: Proximity Attention Point Rendering**|Yanshu Zhang et.al.|[2307.11086v1](http://arxiv.org/abs/2307.11086v1)|[2307.11086v1](http://arxiv.org/pdf/2307.11086v1)|null|
+|**2023-07-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Li et.al.|[2307.11077v1](http://arxiv.org/abs/2307.11077v1)|[2307.11077v1](http://arxiv.org/pdf/2307.11077v1)|**[link](https://github.com/liming-ai/AlignDet)**|
+|**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073v1](http://arxiv.org/abs/2307.11073v1)|[2307.11073v1](http://arxiv.org/pdf/2307.11073v1)|null|
+|**2023-07-20**|**Driving Policy Prediction based on Deep Learning Models**|Fuxiao Liu et.al.|[2307.11058v1](http://arxiv.org/abs/2307.11058v1)|[2307.11058v1](http://arxiv.org/pdf/2307.11058v1)|null|
+|**2023-07-20**|**Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback**|Marcel Torne et.al.|[2307.11049v1](http://arxiv.org/abs/2307.11049v1)|[2307.11049v1](http://arxiv.org/pdf/2307.11049v1)|**[link](https://github.com/improbable-ai/human-guided-exploration)**|
+|**2023-07-20**|**A Definition of Continual Reinforcement Learning**|David Abel et.al.|[2307.11046v1](http://arxiv.org/abs/2307.11046v1)|[2307.11046v1](http://arxiv.org/pdf/2307.11046v1)|null|
+|**2023-07-20**|**On the Convergence of Bounded Agents**|David Abel et.al.|[2307.11044v1](http://arxiv.org/abs/2307.11044v1)|[2307.11044v1](http://arxiv.org/pdf/2307.11044v1)|null|
+|**2023-07-20**|**Cascade-DETR: Delving into High-Quality Universal Object Detection**|Mingqiao Ye et.al.|[2307.11035v1](http://arxiv.org/abs/2307.11035v1)|[2307.11035v1](http://arxiv.org/pdf/2307.11035v1)|**[link](https://github.com/syscv/cascade-detr)**|
+|**2023-07-20**|**Treatment And Follow-Up Guidelines For Multiple Brain Metastases: A Systematic Review**|Ana Sofia Santos et.al.|[2307.11016v1](http://arxiv.org/abs/2307.11016v1)|[2307.11016v1](http://arxiv.org/pdf/2307.11016v1)|null|
+|**2023-07-20**|**"It Felt Like Having a Second Mind": Investigating Human-AI Co-creativity in Prewriting with Large Language Models**|Qian Wan et.al.|[2307.10811v1](http://arxiv.org/abs/2307.10811v1)|[2307.10811v1](http://arxiv.org/pdf/2307.10811v1)|null|
 |**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v2](http://arxiv.org/abs/2307.10172v2)|[2307.10172v2](http://arxiv.org/pdf/2307.10172v2)|**[link](https://github.com/salesforce/DialogStudio)**|
 |**2023-07-19**|**LightPath: Lightweight and Scalable Path Representation Learning**|Sean Bin Yang et.al.|[2307.10171v1](http://arxiv.org/abs/2307.10171v1)|[2307.10171v1](http://arxiv.org/pdf/2307.10171v1)|null|
 |**2023-07-19**|**Challenges and Applications of Large Language Models**|Jean Kaddour et.al.|[2307.10169v1](http://arxiv.org/abs/2307.10169v1)|[2307.10169v1](http://arxiv.org/pdf/2307.10169v1)|null|
