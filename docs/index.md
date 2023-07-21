@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 
 ## Astrophysics
 
@@ -2713,10 +2713,10 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-07-19**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v1](http://arxiv.org/abs/2307.10172v1)|[2307.10172v1](http://arxiv.org/pdf/2307.10172v1)|**[link](https://github.com/salesforce/DialogStudio)**|
+|**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v2](http://arxiv.org/abs/2307.10172v2)|[2307.10172v2](http://arxiv.org/pdf/2307.10172v2)|**[link](https://github.com/salesforce/DialogStudio)**|
 |**2023-07-19**|**LightPath: Lightweight and Scalable Path Representation Learning**|Sean Bin Yang et.al.|[2307.10171v1](http://arxiv.org/abs/2307.10171v1)|[2307.10171v1](http://arxiv.org/pdf/2307.10171v1)|null|
 |**2023-07-19**|**Challenges and Applications of Large Language Models**|Jean Kaddour et.al.|[2307.10169v1](http://arxiv.org/abs/2307.10169v1)|[2307.10169v1](http://arxiv.org/pdf/2307.10169v1)|null|
-|**2023-07-19**|**Drone navigation and license place detection for vehicle location in indoor spaces**|Moa Arvidsson et.al.|[2307.10165v1](http://arxiv.org/abs/2307.10165v1)|[2307.10165v1](http://arxiv.org/pdf/2307.10165v1)|null|
+|**2023-07-20**|**Drone navigation and license place detection for vehicle location in indoor spaces**|Moa Arvidsson et.al.|[2307.10165v2](http://arxiv.org/abs/2307.10165v2)|[2307.10165v2](http://arxiv.org/pdf/2307.10165v2)|null|
 |**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160v1](http://arxiv.org/abs/2307.10160v1)|[2307.10160v1](http://arxiv.org/pdf/2307.10160v1)|null|
 |**2023-07-19**|**Benchmarking Potential Based Rewards for Learning Humanoid Locomotion**|Se Hwan Jeon et.al.|[2307.10142v1](http://arxiv.org/abs/2307.10142v1)|[2307.10142v1](http://arxiv.org/pdf/2307.10142v1)|**[link](https://github.com/se-hwan/pbrs-humanoid)**|
 |**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139v1](http://arxiv.org/abs/2307.10139v1)|[2307.10139v1](http://arxiv.org/pdf/2307.10139v1)|null|
