@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 
 ## Astrophysics
 
@@ -2740,7 +2740,7 @@ layout: default
 |**2023-07-21**|**Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts**|Mayug Maniparambil et.al.|[2307.11661v1](http://arxiv.org/abs/2307.11661v1)|[2307.11661v1](http://arxiv.org/pdf/2307.11661v1)|null|
 |**2023-07-21**|**Bandits with Deterministically Evolving States**|Khashayar Khosravi et.al.|[2307.11655v1](http://arxiv.org/abs/2307.11655v1)|[2307.11655v1](http://arxiv.org/pdf/2307.11655v1)|null|
 |**2023-07-21**|**Alleviating the Long-Tail Problem in Conversational Recommender Systems**|Zhipeng Zhao et.al.|[2307.11650v1](http://arxiv.org/abs/2307.11650v1)|[2307.11650v1](http://arxiv.org/pdf/2307.11650v1)|null|
-|**2023-07-21**|**Morphological Image Analysis and Feature Extraction for Reasoning with AI-based Defect Detection and Classification Models**|Jiajun Zhang et.al.|[2307.11643v1](http://arxiv.org/abs/2307.11643v1)|[2307.11643v1](http://arxiv.org/pdf/2307.11643v1)|null|
+|**2023-07-24**|**Morphological Image Analysis and Feature Extraction for Reasoning with AI-based Defect Detection and Classification Models**|Jiajun Zhang et.al.|[2307.11643v2](http://arxiv.org/abs/2307.11643v2)|[2307.11643v2](http://arxiv.org/pdf/2307.11643v2)|null|
 |**2023-07-21**|**Integration of Domain Expert-Centric Ontology Design into the CRISP-DM for Cyber-Physical Production Systems**|Milapji Singh Gill et.al.|[2307.11637v1](http://arxiv.org/abs/2307.11637v1)|[2307.11637v1](http://arxiv.org/pdf/2307.11637v1)|null|
 |**2023-07-21**|**On the Complexity of the Bipartite Polarization Problem: from Neutral to Highly Polarized Discussions**|Teresa Alsinet et.al.|[2307.11621v1](http://arxiv.org/abs/2307.11621v1)|[2307.11621v1](http://arxiv.org/pdf/2307.11621v1)|null|
 |**2023-07-20**|**PAPR: Proximity Attention Point Rendering**|Yanshu Zhang et.al.|[2307.11086v1](http://arxiv.org/abs/2307.11086v1)|[2307.11086v1](http://arxiv.org/pdf/2307.11086v1)|null|
