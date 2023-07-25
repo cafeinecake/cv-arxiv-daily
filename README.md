@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-24**|**Multistability and Gibbs entropy in the planar dissipative spin-orbit problem**|Vitor M. de Oliveira et.al.|[2307.12969v1](http://arxiv.org/abs/2307.12969v1)|[2307.12969v1](http://arxiv.org/pdf/2307.12969v1)|null|
+|**2023-07-24**|**A preliminary timing analysis of two intermediate polars: UU Col and Swift J0939.7-3224**|Nikita Rawat et.al.|[2307.12962v1](http://arxiv.org/abs/2307.12962v1)|[2307.12962v1](http://arxiv.org/pdf/2307.12962v1)|null|
+|**2023-07-24**|**Time evolution of the mutual information between disjoint regions in the Universe**|Biswajit Pandey et.al.|[2307.12959v1](http://arxiv.org/abs/2307.12959v1)|[2307.12959v1](http://arxiv.org/pdf/2307.12959v1)|null|
+|**2023-07-24**|**Freeform three-mirror anastigmatic large-aperture telescope and receiver optics for CMB-S4**|Patricio A. Gallardo et.al.|[2307.12931v1](http://arxiv.org/abs/2307.12931v1)|[2307.12931v1](http://arxiv.org/pdf/2307.12931v1)|null|
+|**2023-07-24**|**Influence of early dark matter halos on the primordial black holes merger rate**|Viktor Stasenko et.al.|[2307.12924v1](http://arxiv.org/abs/2307.12924v1)|[2307.12924v1](http://arxiv.org/pdf/2307.12924v1)|null|
+|**2023-07-24**|**Gravitational Waves Background (NANOGrav) from Quintessential Inflation**|Barnali Das et.al.|[2307.12913v1](http://arxiv.org/abs/2307.12913v1)|[2307.12913v1](http://arxiv.org/pdf/2307.12913v1)|null|
+|**2023-07-24**|**Design and sensitivity of a 6-axis seismometer for gravitational wave observatories**|Leonid Prokhorov et.al.|[2307.12891v1](http://arxiv.org/abs/2307.12891v1)|[2307.12891v1](http://arxiv.org/pdf/2307.12891v1)|null|
+|**2023-07-24**|**Lensed type Ia supernovae in light of SN Zwicky and iPTF16geu**|Ana Sainz de Murieta et.al.|[2307.12881v1](http://arxiv.org/abs/2307.12881v1)|[2307.12881v1](http://arxiv.org/pdf/2307.12881v1)|null|
+|**2023-07-24**|**The Impact of Beam Variations on Power Spectrum Estimation for 21 cm Cosmology II: Mitigation of Foreground Systematics for HERA**|Honggeun Kim et.al.|[2307.12826v1](http://arxiv.org/abs/2307.12826v1)|[2307.12826v1](http://arxiv.org/pdf/2307.12826v1)|null|
+|**2023-07-24**|**Diurnal modulation of electron recoils from DM-nucleon scattering through the Migdal effect**|Mai Qiao et.al.|[2307.12820v1](http://arxiv.org/abs/2307.12820v1)|[2307.12820v1](http://arxiv.org/pdf/2307.12820v1)|null|
 |**2023-07-21**|**The gravitational collapse of the dust toward the newly formed rotating black holes in Kerr and 4-D Einstein-Gauss-Bonnet Gravities**|Orhan Donmez et.al.|[2307.11725v1](http://arxiv.org/abs/2307.11725v1)|[2307.11725v1](http://arxiv.org/pdf/2307.11725v1)|null|
 |**2023-07-21**|**MUSE-ALMA Haloes IX: Morphologies and Stellar Properties of Gas-rich Galaxies**|Arjun Karki et.al.|[2307.11721v1](http://arxiv.org/abs/2307.11721v1)|[2307.11721v1](http://arxiv.org/pdf/2307.11721v1)|null|
 |**2023-07-21**|**Cluster profiles from beyond-the-QE CMB lensing mass maps**|Sayan Saha et.al.|[2307.11711v1](http://arxiv.org/abs/2307.11711v1)|[2307.11711v1](http://arxiv.org/pdf/2307.11711v1)|null|
@@ -2729,6 +2739,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-24**|**Parallel $Q$-Learning: Scaling Off-policy Reinforcement Learning under Massively Parallel Simulation**|Zechu Li et.al.|[2307.12983v1](http://arxiv.org/abs/2307.12983v1)|[2307.12983v1](http://arxiv.org/pdf/2307.12983v1)|null|
+|**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981v1](http://arxiv.org/abs/2307.12981v1)|[2307.12981v1](http://arxiv.org/pdf/2307.12981v1)|null|
+|**2023-07-24**|**Volcanic ash delimitation using Artificial Intelligence based on Pix2Pix**|Christian Carrillo et.al.|[2307.12970v1](http://arxiv.org/abs/2307.12970v1)|[2307.12970v1](http://arxiv.org/pdf/2307.12970v1)|null|
+|**2023-07-24**|**A Connection between One-Step Regularization and Critic Regularization in Reinforcement Learning**|Benjamin Eysenbach et.al.|[2307.12968v1](http://arxiv.org/abs/2307.12968v1)|[2307.12968v1](http://arxiv.org/pdf/2307.12968v1)|**[link](https://github.com/ben-eysenbach/ac-connection)**|
+|**2023-07-24**|**Learning Dense Correspondences between Photos and Sketches**|Xuanchen Lu et.al.|[2307.12967v1](http://arxiv.org/abs/2307.12967v1)|[2307.12967v1](http://arxiv.org/pdf/2307.12967v1)|null|
+|**2023-07-24**|**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**|Kevin Yang et.al.|[2307.12950v1](http://arxiv.org/abs/2307.12950v1)|[2307.12950v1](http://arxiv.org/pdf/2307.12950v1)|null|
+|**2023-07-24**|**Hierarchical physically based machine learning in material science: the case study of spider silk**|Vincenzo Fazio et.al.|[2307.12945v1](http://arxiv.org/abs/2307.12945v1)|[2307.12945v1](http://arxiv.org/pdf/2307.12945v1)|null|
+|**2023-07-24**|**On Privileged and Convergent Bases in Neural Network Representations**|Davis Brown et.al.|[2307.12941v1](http://arxiv.org/abs/2307.12941v1)|[2307.12941v1](http://arxiv.org/pdf/2307.12941v1)|null|
+|**2023-07-24**|**Unsupervised Learning of Invariance Transformations**|Aleksandar Vučković et.al.|[2307.12937v1](http://arxiv.org/abs/2307.12937v1)|[2307.12937v1](http://arxiv.org/pdf/2307.12937v1)|null|
+|**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935v1](http://arxiv.org/abs/2307.12935v1)|[2307.12935v1](http://arxiv.org/pdf/2307.12935v1)|**[link](https://github.com/chrisisking/rule-by-example)**|
 |**2023-07-21**|**Simulation of Turing machines with analytic discrete ODEs: FPTIME and FPSPACE over the reals characterised with discrete ordinary differential equations**|Manon Blanc et.al.|[2307.11747v1](http://arxiv.org/abs/2307.11747v1)|[2307.11747v1](http://arxiv.org/pdf/2307.11747v1)|null|
 |**2023-07-21**|**Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense**|Enrique Tomás Martínez Beltrán et.al.|[2307.11730v1](http://arxiv.org/abs/2307.11730v1)|[2307.11730v1](http://arxiv.org/pdf/2307.11730v1)|null|
 |**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719v1](http://arxiv.org/abs/2307.11719v1)|[2307.11719v1](http://arxiv.org/pdf/2307.11719v1)|null|
