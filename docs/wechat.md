@@ -1,4 +1,4 @@
-> Updated on 2023.07.25
+> Updated on 2023.07.26
 
 ## Astrophysics
 
@@ -9,7 +9,7 @@
 - 2023-07-24, **Influence of early dark matter halos on the primordial black holes merger rate**, Viktor Stasenko et.al., Paper: [http://arxiv.org/abs/2307.12924v1](http://arxiv.org/abs/2307.12924v1), Paper: [http://arxiv.org/abs/2307.12924v1](http://arxiv.org/pdf/2307.12924v1)
 - 2023-07-24, **Gravitational Waves Background (NANOGrav) from Quintessential Inflation**, Barnali Das et.al., Paper: [http://arxiv.org/abs/2307.12913v1](http://arxiv.org/abs/2307.12913v1), Paper: [http://arxiv.org/abs/2307.12913v1](http://arxiv.org/pdf/2307.12913v1)
 - 2023-07-24, **Design and sensitivity of a 6-axis seismometer for gravitational wave observatories**, Leonid Prokhorov et.al., Paper: [http://arxiv.org/abs/2307.12891v1](http://arxiv.org/abs/2307.12891v1), Paper: [http://arxiv.org/abs/2307.12891v1](http://arxiv.org/pdf/2307.12891v1)
-- 2023-07-24, **Lensed type Ia supernovae in light of SN Zwicky and iPTF16geu**, Ana Sainz de Murieta et.al., Paper: [http://arxiv.org/abs/2307.12881v1](http://arxiv.org/abs/2307.12881v1), Paper: [http://arxiv.org/abs/2307.12881v1](http://arxiv.org/pdf/2307.12881v1)
+- 2023-07-25, **Lensed type Ia supernovae in light of SN Zwicky and iPTF16geu**, Ana Sainz de Murieta et.al., Paper: [http://arxiv.org/abs/2307.12881v2](http://arxiv.org/abs/2307.12881v2), Paper: [http://arxiv.org/abs/2307.12881v2](http://arxiv.org/pdf/2307.12881v2)
 - 2023-07-24, **The Impact of Beam Variations on Power Spectrum Estimation for 21 cm Cosmology II: Mitigation of Foreground Systematics for HERA**, Honggeun Kim et.al., Paper: [http://arxiv.org/abs/2307.12826v1](http://arxiv.org/abs/2307.12826v1), Paper: [http://arxiv.org/abs/2307.12826v1](http://arxiv.org/pdf/2307.12826v1)
 - 2023-07-24, **Diurnal modulation of electron recoils from DM-nucleon scattering through the Migdal effect**, Mai Qiao et.al., Paper: [http://arxiv.org/abs/2307.12820v1](http://arxiv.org/abs/2307.12820v1), Paper: [http://arxiv.org/abs/2307.12820v1](http://arxiv.org/pdf/2307.12820v1)
 - 2023-07-21, **The gravitational collapse of the dust toward the newly formed rotating black holes in Kerr and 4-D Einstein-Gauss-Bonnet Gravities**, Orhan Donmez et.al., Paper: [http://arxiv.org/abs/2307.11725v1](http://arxiv.org/abs/2307.11725v1), Paper: [http://arxiv.org/abs/2307.11725v1](http://arxiv.org/pdf/2307.11725v1)
