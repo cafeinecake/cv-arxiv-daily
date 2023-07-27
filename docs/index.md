@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-26**|**The Magellanic Puzzle: origin of the periphery**|Pol Massana et.al.|[2307.14342v1](http://arxiv.org/abs/2307.14342v1)|[2307.14342v1](http://arxiv.org/pdf/2307.14342v1)|null|
+|**2023-07-26**|**Capse.jl: efficient and auto-differentiable CMB power spectra emulation**|Marco Bonici et.al.|[2307.14339v1](http://arxiv.org/abs/2307.14339v1)|[2307.14339v1](http://arxiv.org/pdf/2307.14339v1)|null|
+|**2023-07-26**|**Flow of gas detected from beyond the filaments to protostellar scales in Barnard 5**|M. T. Valdivia-Mena et.al.|[2307.14337v1](http://arxiv.org/abs/2307.14337v1)|[2307.14337v1](http://arxiv.org/pdf/2307.14337v1)|null|
+|**2023-07-26**|**Generation and Life Cycle of Solar Spicules**|Hamid Saleem et.al.|[2307.14328v1](http://arxiv.org/abs/2307.14328v1)|[2307.14328v1](http://arxiv.org/pdf/2307.14328v1)|null|
+|**2023-07-26**|**Can Cold Jupiters Sculpt the Edge-of-the-Multis?**|Nicole Sobski et.al.|[2307.14309v1](http://arxiv.org/abs/2307.14309v1)|[2307.14309v1](http://arxiv.org/pdf/2307.14309v1)|null|
+|**2023-07-26**|**The ubiquity of carbon dredge-up in hydrogen-deficient white dwarfs as revealed by GALEX**|Simon Blouin et.al.|[2307.14295v1](http://arxiv.org/abs/2307.14295v1)|[2307.14295v1](http://arxiv.org/pdf/2307.14295v1)|null|
+|**2023-07-26**|**Skyrme-Hartree-Fock-Bogoliubov mass models on a 3D mesh: III. From atomic nuclei to neutron stars**|Guilherme Grams et.al.|[2307.14276v1](http://arxiv.org/abs/2307.14276v1)|[2307.14276v1](http://arxiv.org/pdf/2307.14276v1)|null|
+|**2023-07-26**|**OGLE-2019-BLG-0825: Constraints on the Source System and Effect on Binary-lens Parameters arising from a Five Day Xallarap Effect in a Candidate Planetary Microlensing Event**|Yuki K. Satoh et.al.|[2307.14274v1](http://arxiv.org/abs/2307.14274v1)|[2307.14274v1](http://arxiv.org/pdf/2307.14274v1)|null|
+|**2023-07-26**|**Pulsar polarization: a partial-coherence model**|Lucy Oswald et.al.|[2307.14265v1](http://arxiv.org/abs/2307.14265v1)|[2307.14265v1](http://arxiv.org/pdf/2307.14265v1)|null|
+|**2023-07-26**|**Lorentz invariance violation from GRB221009A**|Hao Li et.al.|[2307.14256v1](http://arxiv.org/abs/2307.14256v1)|[2307.14256v1](http://arxiv.org/pdf/2307.14256v1)|null|
 |**2023-07-25**|**The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae**|H. Qu et.al.|[2307.13696v1](http://arxiv.org/abs/2307.13696v1)|[2307.13696v1](http://arxiv.org/pdf/2307.13696v1)|null|
 |**2023-07-25**|**Internal kinematics of dwarf satellites of MW/M31-like galaxies in TNG50**|Alberto Manuel Martínez-García et.al.|[2307.13683v1](http://arxiv.org/abs/2307.13683v1)|[2307.13683v1](http://arxiv.org/pdf/2307.13683v1)|null|
 |**2023-07-25**|**Delayed Appearance and Evolution of Coronal Lines in the TDE AT2019qiz**|P. Short et.al.|[2307.13674v1](http://arxiv.org/abs/2307.13674v1)|[2307.13674v1](http://arxiv.org/pdf/2307.13674v1)|null|
@@ -2753,6 +2763,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-26**|**WavJourney: Compositional Audio Creation with Large Language Models**|Xubo Liu et.al.|[2307.14335v1](http://arxiv.org/abs/2307.14335v1)|[2307.14335v1](http://arxiv.org/pdf/2307.14335v1)|**[link](https://github.com/audio-agi/wavjourney)**|
+|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|[2307.14334v1](http://arxiv.org/pdf/2307.14334v1)|null|
+|**2023-07-26**|**Event-based Vision for Early Prediction of Manipulation Actions**|Daniel Deniz et.al.|[2307.14332v1](http://arxiv.org/abs/2307.14332v1)|[2307.14332v1](http://arxiv.org/pdf/2307.14332v1)|null|
+|**2023-07-26**|**Waypoint-Based Imitation Learning for Robotic Manipulation**|Lucy Xiaoyang Shi et.al.|[2307.14326v1](http://arxiv.org/abs/2307.14326v1)|[2307.14326v1](http://arxiv.org/pdf/2307.14326v1)|null|
+|**2023-07-26**|**Evaluating the Moral Beliefs Encoded in LLMs**|Nino Scherrer et.al.|[2307.14324v1](http://arxiv.org/abs/2307.14324v1)|[2307.14324v1](http://arxiv.org/pdf/2307.14324v1)|**[link](https://github.com/ninodimontalcino/moralchoice)**|
+|**2023-07-26**|**Reinforcement Learning by Guided Safe Exploration**|Qisong Yang et.al.|[2307.14316v1](http://arxiv.org/abs/2307.14316v1)|[2307.14316v1](http://arxiv.org/pdf/2307.14316v1)|null|
+|**2023-07-26**|**ChatGPT and Persuasive Technologies for the Management and Delivery of Personalized Recommendations in Hotel Hospitality**|Manolis Remountakis et.al.|[2307.14298v1](http://arxiv.org/abs/2307.14298v1)|[2307.14298v1](http://arxiv.org/pdf/2307.14298v1)|null|
+|**2023-07-26**|**Unraveling the Complexity of Splitting Sequential Data: Tackling Challenges in Video and Time Series Analysis**|Diego Botache et.al.|[2307.14294v1](http://arxiv.org/abs/2307.14294v1)|[2307.14294v1](http://arxiv.org/pdf/2307.14294v1)|null|
+|**2023-07-26**|**General Purpose Artificial Intelligence Systems (GPAIS): Properties, Definition, Taxonomy, Open Challenges and Implications**|Isaac Triguero et.al.|[2307.14283v1](http://arxiv.org/abs/2307.14283v1)|[2307.14283v1](http://arxiv.org/pdf/2307.14283v1)|null|
+|**2023-07-26**|**Improving International Climate Policy via Mutually Conditional Binding Commitments**|Jobst Heitzig et.al.|[2307.14267v1](http://arxiv.org/abs/2307.14267v1)|[2307.14267v1](http://arxiv.org/pdf/2307.14267v1)|null|
 |**2023-07-25**|**Benchmarking and Analyzing Generative Data for Visual Recognition**|Bo Li et.al.|[2307.13697v1](http://arxiv.org/abs/2307.13697v1)|[2307.13697v1](http://arxiv.org/pdf/2307.13697v1)|null|
 |**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691v1](http://arxiv.org/abs/2307.13691v1)|[2307.13691v1](http://arxiv.org/pdf/2307.13691v1)|null|
 |**2023-07-25**|**The Visual Language of Fabrics**|Valentin Deschaintre et.al.|[2307.13681v1](http://arxiv.org/abs/2307.13681v1)|[2307.13681v1](http://arxiv.org/pdf/2307.13681v1)|null|
