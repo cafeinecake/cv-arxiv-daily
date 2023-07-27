@@ -1,4 +1,4 @@
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 
 ## Astrophysics
 
@@ -2755,7 +2755,7 @@
 |**2023-07-25**|**Towards an AI Accountability Policy**|Przemyslaw Grabowicz et.al.|[2307.13658v1](http://arxiv.org/abs/2307.13658v1)|[2307.13658v1](http://arxiv.org/pdf/2307.13658v1)|null|
 |**2023-07-25**|**QuickQual: Lightweight, convenient retinal image quality scoring with off-the-shelf pretrained models**|Justin Engelmann et.al.|[2307.13646v1](http://arxiv.org/abs/2307.13646v1)|[2307.13646v1](http://arxiv.org/pdf/2307.13646v1)|**[link](https://github.com/justinengelmann/quickqual)**|
 |**2023-07-25**|**Safety Margins for Reinforcement Learning**|Alexander Grushin et.al.|[2307.13642v1](http://arxiv.org/abs/2307.13642v1)|[2307.13642v1](http://arxiv.org/pdf/2307.13642v1)|null|
-|**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v1](http://arxiv.org/abs/2307.13617v1)|[2307.13617v1](http://arxiv.org/pdf/2307.13617v1)|null|
+|**2023-07-26**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v2](http://arxiv.org/abs/2307.13617v2)|[2307.13617v2](http://arxiv.org/pdf/2307.13617v2)|null|
 |**2023-07-25**|**The Importance of Distrust in AI**|Tobias M. Peters et.al.|[2307.13601v1](http://arxiv.org/abs/2307.13601v1)|[2307.13601v1](http://arxiv.org/pdf/2307.13601v1)|null|
 |**2023-07-25**|**Argument Attribution Explanations in Quantitative Bipolar Argumentation Frameworks**|Xiang Yin et.al.|[2307.13582v1](http://arxiv.org/abs/2307.13582v1)|[2307.13582v1](http://arxiv.org/pdf/2307.13582v1)|null|
 |**2023-07-25**|**Reinterpreting survival analysis in the universal approximator age**|Sören Dittmer et.al.|[2307.13579v1](http://arxiv.org/abs/2307.13579v1)|[2307.13579v1](http://arxiv.org/pdf/2307.13579v1)|**[link](https://github.com/sdittmer/survival_analysis_sumo_plus_plus)**|
