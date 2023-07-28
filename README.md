@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-27**|**News from the Swampland -- Constraining string theory with astrophysics and cosmology**|Nils Schöneberg et.al.|[2307.15060v1](http://arxiv.org/abs/2307.15060v1)|[2307.15060v1](http://arxiv.org/pdf/2307.15060v1)|null|
+|**2023-07-27**|**Role of QCD in moduli stabilization during inflation and axion dark matter**|Ryuichiro Kitano et.al.|[2307.15059v1](http://arxiv.org/abs/2307.15059v1)|[2307.15059v1](http://arxiv.org/pdf/2307.15059v1)|null|
+|**2023-07-27**|**Detection of a High-velocity Jet from MWC 349A Traced by Hydrogen Recombination Line Emission**|Sirina Prasad et.al.|[2307.15050v1](http://arxiv.org/abs/2307.15050v1)|[2307.15050v1](http://arxiv.org/pdf/2307.15050v1)|null|
+|**2023-07-27**|**Local non-Gaussianities from cross-correlations between the CMB and 21-cm**|Giorgio Orlando et.al.|[2307.15046v1](http://arxiv.org/abs/2307.15046v1)|[2307.15046v1](http://arxiv.org/pdf/2307.15046v1)|null|
+|**2023-07-27**|**Simulation-guided galaxy evolution inference: A case study with strong lensing galaxies**|Andreas Filipp et.al.|[2307.15044v1](http://arxiv.org/abs/2307.15044v1)|[2307.15044v1](http://arxiv.org/pdf/2307.15044v1)|null|
+|**2023-07-27**|**Galaxy bias renormalization group**|Henrique Rubira et.al.|[2307.15031v1](http://arxiv.org/abs/2307.15031v1)|[2307.15031v1](http://arxiv.org/pdf/2307.15031v1)|null|
+|**2023-07-27**|**The Variable Detection of Atmospheric Escape around the young, Hot Neptune AU Mic b**|Keighley E. Rockcliffe et.al.|[2307.15024v1](http://arxiv.org/abs/2307.15024v1)|[2307.15024v1](http://arxiv.org/pdf/2307.15024v1)|null|
+|**2023-07-27**|**Luminosity of accretion disks around rotating regular black holes**|Kuantay Boshkayev et.al.|[2307.15003v1](http://arxiv.org/abs/2307.15003v1)|[2307.15003v1](http://arxiv.org/pdf/2307.15003v1)|null|
+|**2023-07-27**|**First on-sky results of a FIOS prototype, a Fabry Perot Based Instrument for Oxygen Searches**|Surangkhana Rukdee et.al.|[2307.14947v1](http://arxiv.org/abs/2307.14947v1)|[2307.14947v1](http://arxiv.org/pdf/2307.14947v1)|null|
+|**2023-07-27**|**Next-Generation Comprehensive Data-Driven Models of Solar Eruptive Events**|Joel C. Allred et.al.|[2307.14946v1](http://arxiv.org/abs/2307.14946v1)|[2307.14946v1](http://arxiv.org/pdf/2307.14946v1)|null|
 |**2023-07-26**|**The Magellanic Puzzle: origin of the periphery**|Pol Massana et.al.|[2307.14342v1](http://arxiv.org/abs/2307.14342v1)|[2307.14342v1](http://arxiv.org/pdf/2307.14342v1)|null|
 |**2023-07-26**|**Capse.jl: efficient and auto-differentiable CMB power spectra emulation**|Marco Bonici et.al.|[2307.14339v1](http://arxiv.org/abs/2307.14339v1)|[2307.14339v1](http://arxiv.org/pdf/2307.14339v1)|null|
 |**2023-07-26**|**Flow of gas detected from beyond the filaments to protostellar scales in Barnard 5**|M. T. Valdivia-Mena et.al.|[2307.14337v1](http://arxiv.org/abs/2307.14337v1)|[2307.14337v1](http://arxiv.org/pdf/2307.14337v1)|null|
@@ -2759,6 +2769,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-27**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v1](http://arxiv.org/abs/2307.15051v1)|[2307.15051v1](http://arxiv.org/pdf/2307.15051v1)|null|
+|**2023-07-27**|**Universal and Transferable Adversarial Attacks on Aligned Language Models**|Andy Zou et.al.|[2307.15043v1](http://arxiv.org/abs/2307.15043v1)|[2307.15043v1](http://arxiv.org/pdf/2307.15043v1)|**[link](https://github.com/llm-attacks/llm-attacks)**|
+|**2023-07-27**|**SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark**|Liang Xu et.al.|[2307.15020v1](http://arxiv.org/abs/2307.15020v1)|[2307.15020v1](http://arxiv.org/pdf/2307.15020v1)|null|
+|**2023-07-27**|**How Good is Google Bard's Visual Understanding? An Empirical Study on Open Challenges**|Haotong Qin et.al.|[2307.15016v1](http://arxiv.org/abs/2307.15016v1)|[2307.15016v1](http://arxiv.org/pdf/2307.15016v1)|**[link](https://github.com/htqin/googlebard-visunderstand)**|
+|**2023-07-27**|**Thinker: Learning to Plan and Act**|Stephen Chung et.al.|[2307.14993v1](http://arxiv.org/abs/2307.14993v1)|[2307.14993v1](http://arxiv.org/pdf/2307.14993v1)|**[link](https://github.com/anonymous-scrl/thinker)**|
+|**2023-07-27**|**Multilingual Code Co-Evolution Using Large Language Models**|Jiyang Zhang et.al.|[2307.14991v1](http://arxiv.org/abs/2307.14991v1)|[2307.14991v1](http://arxiv.org/pdf/2307.14991v1)|null|
+|**2023-07-27**|**Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models**|Ziyi Wang et.al.|[2307.14971v1](http://arxiv.org/abs/2307.14971v1)|[2307.14971v1](http://arxiv.org/pdf/2307.14971v1)|**[link](https://github.com/wangzy22/tap)**|
+|**2023-07-27**|**Multi-Source Domain Adaptation through Dataset Dictionary Learning in Wasserstein Space**|Eduardo Fernandes Montesuma et.al.|[2307.14953v1](http://arxiv.org/abs/2307.14953v1)|[2307.14953v1](http://arxiv.org/pdf/2307.14953v1)|null|
+|**2023-07-27**|**PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback**|Bo Shen et.al.|[2307.14936v1](http://arxiv.org/abs/2307.14936v1)|[2307.14936v1](http://arxiv.org/pdf/2307.14936v1)|null|
+|**2023-07-27**|**Solving Data Quality Problems with Desbordante: a Demo**|George Chernishev et.al.|[2307.14935v1](http://arxiv.org/abs/2307.14935v1)|[2307.14935v1](http://arxiv.org/pdf/2307.14935v1)|null|
 |**2023-07-26**|**WavJourney: Compositional Audio Creation with Large Language Models**|Xubo Liu et.al.|[2307.14335v1](http://arxiv.org/abs/2307.14335v1)|[2307.14335v1](http://arxiv.org/pdf/2307.14335v1)|**[link](https://github.com/audio-agi/wavjourney)**|
 |**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|[2307.14334v1](http://arxiv.org/pdf/2307.14334v1)|null|
 |**2023-07-26**|**Event-based Vision for Early Prediction of Manipulation Actions**|Daniel Deniz et.al.|[2307.14332v1](http://arxiv.org/abs/2307.14332v1)|[2307.14332v1](http://arxiv.org/pdf/2307.14332v1)|null|
