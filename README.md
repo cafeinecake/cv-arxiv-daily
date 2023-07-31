@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-28**|**DEMNUni: cross-correlating the nonlinear ISWRS effect with CMB-lensing and galaxies in the presence of massive neutrinos**|Viviana Cuozzo et.al.|[2307.15711v1](http://arxiv.org/abs/2307.15711v1)|[2307.15711v1](http://arxiv.org/pdf/2307.15711v1)|null|
+|**2023-07-28**|**Integral Field Spectroscopy of 13 Tidal Disruption Event Hosts from the ZTF Survey**|Erica Hammerstein et.al.|[2307.15705v1](http://arxiv.org/abs/2307.15705v1)|[2307.15705v1](http://arxiv.org/pdf/2307.15705v1)|null|
+|**2023-07-28**|**A JWST/MIRI and NIRCam Analysis of the Young Stellar Object Population in the Spitzer I region of NGC 6822**|Laura Lenkić et.al.|[2307.15704v1](http://arxiv.org/abs/2307.15704v1)|[2307.15704v1](http://arxiv.org/pdf/2307.15704v1)|null|
+|**2023-07-28**|**Impact Rates in the Outer Solar System**|David Nesvorny et.al.|[2307.15670v1](http://arxiv.org/abs/2307.15670v1)|[2307.15670v1](http://arxiv.org/pdf/2307.15670v1)|null|
+|**2023-07-28**|**Towards a reliable prediction of the infrared spectra of cosmic fullerenes and their derivatives in the JWST era**|Jianzhi Xu et.al.|[2307.15668v1](http://arxiv.org/abs/2307.15668v1)|[2307.15668v1](http://arxiv.org/pdf/2307.15668v1)|null|
+|**2023-07-28**|**A relook at the GZK Neutrino-Photon Connection: Impact of Extra-galactic Radio Background & UHECR properties**|Sovan Chakraborty et.al.|[2307.15667v1](http://arxiv.org/abs/2307.15667v1)|[2307.15667v1](http://arxiv.org/pdf/2307.15667v1)|null|
+|**2023-07-28**|**Classifying core collapse supernova remnants by their morphology as shaped by the last exploding jets**|Noam Soker et.al.|[2307.15666v1](http://arxiv.org/abs/2307.15666v1)|[2307.15666v1](http://arxiv.org/pdf/2307.15666v1)|null|
+|**2023-07-28**|**The SNR Kes 17-ISM interaction: a fresh view from radio and $γ$ rays**|Leonardo Supán et.al.|[2307.15649v1](http://arxiv.org/abs/2307.15649v1)|[2307.15649v1](http://arxiv.org/pdf/2307.15649v1)|null|
+|**2023-07-28**|**Search for TeV Neutrinos from Seyfert Galaxies in the Southern Sky using Starting Track Events in IceCube**|Shiqi Yu et.al.|[2307.15620v1](http://arxiv.org/abs/2307.15620v1)|[2307.15620v1](http://arxiv.org/pdf/2307.15620v1)|null|
+|**2023-07-28**|**Distinct photon-ALP propagation modes**|Qing-Hong Cao et.al.|[2307.15602v1](http://arxiv.org/abs/2307.15602v1)|[2307.15602v1](http://arxiv.org/pdf/2307.15602v1)|null|
 |**2023-07-27**|**News from the Swampland -- Constraining string theory with astrophysics and cosmology**|Nils Schöneberg et.al.|[2307.15060v1](http://arxiv.org/abs/2307.15060v1)|[2307.15060v1](http://arxiv.org/pdf/2307.15060v1)|null|
 |**2023-07-27**|**Role of QCD in moduli stabilization during inflation and axion dark matter**|Ryuichiro Kitano et.al.|[2307.15059v1](http://arxiv.org/abs/2307.15059v1)|[2307.15059v1](http://arxiv.org/pdf/2307.15059v1)|null|
 |**2023-07-27**|**Detection of a High-velocity Jet from MWC 349A Traced by Hydrogen Recombination Line Emission**|Sirina Prasad et.al.|[2307.15050v1](http://arxiv.org/abs/2307.15050v1)|[2307.15050v1](http://arxiv.org/pdf/2307.15050v1)|null|
@@ -2769,6 +2779,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|[2307.15703v1](http://arxiv.org/pdf/2307.15703v1)|null|
+|**2023-07-28**|**Entangling interactions between artificial atoms mediated by a multimode left-handed superconducting ring resonator**|T. McBroom-Carroll et.al.|[2307.15695v1](http://arxiv.org/abs/2307.15695v1)|[2307.15695v1](http://arxiv.org/pdf/2307.15695v1)|null|
+|**2023-07-28**|**A supervised hybrid quantum machine learning solution to the emergency escape routing problem**|Nathan Haboury et.al.|[2307.15682v1](http://arxiv.org/abs/2307.15682v1)|[2307.15682v1](http://arxiv.org/pdf/2307.15682v1)|null|
+|**2023-07-28**|**Case Studies of Causal Discovery from IT Monitoring Time Series**|Ali Aït-Bachir et.al.|[2307.15678v1](http://arxiv.org/abs/2307.15678v1)|[2307.15678v1](http://arxiv.org/pdf/2307.15678v1)|null|
+|**2023-07-28**|**Scaling Data Generation in Vision-and-Language Navigation**|Zun Wang et.al.|[2307.15644v1](http://arxiv.org/abs/2307.15644v1)|[2307.15644v1](http://arxiv.org/pdf/2307.15644v1)|**[link](https://github.com/wz0919/scalevln)**|
+|**2023-07-28**|**Settling the Score: Portioning with Cardinal Preferences**|Edith Elkind et.al.|[2307.15586v1](http://arxiv.org/abs/2307.15586v1)|[2307.15586v1](http://arxiv.org/pdf/2307.15586v1)|null|
+|**2023-07-28**|**We are all Individuals: The Role of Robot Personality and Human Traits in Trustworthy Interaction**|Mei Yii Lim et.al.|[2307.15568v1](http://arxiv.org/abs/2307.15568v1)|[2307.15568v1](http://arxiv.org/pdf/2307.15568v1)|null|
+|**2023-07-28**|**Few-shot Image Classification based on Gradual Machine Learning**|Na Chen et.al.|[2307.15524v1](http://arxiv.org/abs/2307.15524v1)|[2307.15524v1](http://arxiv.org/pdf/2307.15524v1)|null|
+|**2023-07-28**|**Revisiting Fully Convolutional Geometric Features for Object 6D Pose Estimation**|Jaime Corsetti et.al.|[2307.15514v1](http://arxiv.org/abs/2307.15514v1)|[2307.15514v1](http://arxiv.org/pdf/2307.15514v1)|null|
+|**2023-07-28**|**Exploring Format Consistency for Instruction Tuning**|Shihao Liang et.al.|[2307.15504v1](http://arxiv.org/abs/2307.15504v1)|[2307.15504v1](http://arxiv.org/pdf/2307.15504v1)|null|
 |**2023-07-28**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v2](http://arxiv.org/abs/2307.15051v2)|[2307.15051v2](http://arxiv.org/pdf/2307.15051v2)|null|
 |**2023-07-27**|**Universal and Transferable Adversarial Attacks on Aligned Language Models**|Andy Zou et.al.|[2307.15043v1](http://arxiv.org/abs/2307.15043v1)|[2307.15043v1](http://arxiv.org/pdf/2307.15043v1)|**[link](https://github.com/llm-attacks/llm-attacks)**|
 |**2023-07-27**|**SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark**|Liang Xu et.al.|[2307.15020v1](http://arxiv.org/abs/2307.15020v1)|[2307.15020v1](http://arxiv.org/pdf/2307.15020v1)|null|
