@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-31**|**The Rapid Imaging Planetary Spectrograph**|Patrick Lierle et.al.|[2307.16872v1](http://arxiv.org/abs/2307.16872v1)|[2307.16872v1](http://arxiv.org/pdf/2307.16872v1)|null|
+|**2023-07-31**|**Dynamical investigation of the multiple star ADS 9173 AB**|O. V. Kiyaeva et.al.|[2307.16861v1](http://arxiv.org/abs/2307.16861v1)|[2307.16861v1](http://arxiv.org/pdf/2307.16861v1)|null|
+|**2023-07-31**|**The intrinsic X-ray luminosity distribution of an optically-selected SDSS quasar population**|Amy L. Rankine et.al.|[2307.16845v1](http://arxiv.org/abs/2307.16845v1)|[2307.16845v1](http://arxiv.org/pdf/2307.16845v1)|null|
+|**2023-07-31**|**Extreme Light Bending in Spherically-Symmetric Black Hole Spacetimes: Universal Characteristics and Strong-Field Tests of Gravity**|Prashant Kocherlakota et.al.|[2307.16841v1](http://arxiv.org/abs/2307.16841v1)|[2307.16841v1](http://arxiv.org/pdf/2307.16841v1)|null|
+|**2023-07-31**|**Effects of Grain Magnetic Properties and Grain Growth on Synthetic Dust Polarization of MHD Simulations in Protostellar Environments**|Nguyen Chau Giang et.al.|[2307.16829v1](http://arxiv.org/abs/2307.16829v1)|[2307.16829v1](http://arxiv.org/pdf/2307.16829v1)|null|
+|**2023-07-31**|**Equilibration of quantum many-body fast neutrino flavor oscillations**|Joshua D. Martin et.al.|[2307.16793v1](http://arxiv.org/abs/2307.16793v1)|[2307.16793v1](http://arxiv.org/pdf/2307.16793v1)|null|
+|**2023-07-31**|**The Perturbed Full Two-Body Problem: Application to Post-DART Didymos**|Alex J. Meyer et.al.|[2307.16777v1](http://arxiv.org/abs/2307.16777v1)|[2307.16777v1](http://arxiv.org/pdf/2307.16777v1)|null|
+|**2023-07-31**|**Protostellar Disks Fed By Dense Collapsing Gravo-Magneto-Sheetlets**|Yisheng Tu et.al.|[2307.16774v1](http://arxiv.org/abs/2307.16774v1)|[2307.16774v1](http://arxiv.org/pdf/2307.16774v1)|null|
+|**2023-07-31**|**ExoGemS High-Resolution Transmission Spectroscopy of WASP-76b with GRACES**|Emily K. Deibert et.al.|[2307.16738v1](http://arxiv.org/abs/2307.16738v1)|[2307.16738v1](http://arxiv.org/pdf/2307.16738v1)|null|
+|**2023-07-31**|**Painting baryons onto N-body simulations of galaxy clusters with image-to-image deep learning**|Urmila Chadayammuri et.al.|[2307.16733v1](http://arxiv.org/abs/2307.16733v1)|[2307.16733v1](http://arxiv.org/pdf/2307.16733v1)|null|
 |**2023-07-28**|**DEMNUni: cross-correlating the nonlinear ISWRS effect with CMB-lensing and galaxies in the presence of massive neutrinos**|Viviana Cuozzo et.al.|[2307.15711v1](http://arxiv.org/abs/2307.15711v1)|[2307.15711v1](http://arxiv.org/pdf/2307.15711v1)|null|
 |**2023-07-28**|**Integral Field Spectroscopy of 13 Tidal Disruption Event Hosts from the ZTF Survey**|Erica Hammerstein et.al.|[2307.15705v1](http://arxiv.org/abs/2307.15705v1)|[2307.15705v1](http://arxiv.org/pdf/2307.15705v1)|null|
 |**2023-07-28**|**A JWST/MIRI and NIRCam Analysis of the Young Stellar Object Population in the Spitzer I region of NGC 6822**|Laura Lenkić et.al.|[2307.15704v1](http://arxiv.org/abs/2307.15704v1)|[2307.15704v1](http://arxiv.org/pdf/2307.15704v1)|null|
@@ -2783,6 +2793,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897v1](http://arxiv.org/abs/2307.16897v1)|[2307.16897v1](http://arxiv.org/pdf/2307.16897v1)|null|
+|**2023-07-31**|**Foundational Models for Fault Diagnosis of Electrical Motors**|Sriram Anbalagan et.al.|[2307.16891v1](http://arxiv.org/abs/2307.16891v1)|[2307.16891v1](http://arxiv.org/pdf/2307.16891v1)|null|
+|**2023-07-31**|**Discovering Adaptable Symbolic Algorithms from Scratch**|Stephen Kelly et.al.|[2307.16890v1](http://arxiv.org/abs/2307.16890v1)|[2307.16890v1](http://arxiv.org/pdf/2307.16890v1)|null|
+|**2023-07-31**|**LEONARDO: A Pan-European Pre-Exascale Supercomputer for HPC and AI Applications**|Matteo Turisini et.al.|[2307.16885v1](http://arxiv.org/abs/2307.16885v1)|[2307.16885v1](http://arxiv.org/pdf/2307.16885v1)|null|
+|**2023-07-31**|**Image Synthesis under Limited Data: A Survey and Taxonomy**|Mengping Yang et.al.|[2307.16879v1](http://arxiv.org/abs/2307.16879v1)|[2307.16879v1](http://arxiv.org/pdf/2307.16879v1)|**[link](https://github.com/kobeshegu/awesome-few-shot-generation)**|
+|**2023-07-31**|**Contrastive Learning for API Aspect Analysis**|G. M. Shahariar et.al.|[2307.16878v1](http://arxiv.org/abs/2307.16878v1)|[2307.16878v1](http://arxiv.org/pdf/2307.16878v1)|**[link](https://github.com/shahariar-shibli/contrastive-learning-for-api-aspect-analysis)**|
+|**2023-07-31**|**Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering**|Vaibhav Adlakha et.al.|[2307.16877v1](http://arxiv.org/abs/2307.16877v1)|[2307.16877v1](http://arxiv.org/pdf/2307.16877v1)|null|
+|**2023-07-31**|**Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives**|Haoyang Liu et.al.|[2307.16851v1](http://arxiv.org/abs/2307.16851v1)|[2307.16851v1](http://arxiv.org/pdf/2307.16851v1)|null|
+|**2023-07-31**|**Decidable Fragments of LTLf Modulo Theories (Extended Version)**|Luca Geatti et.al.|[2307.16840v1](http://arxiv.org/abs/2307.16840v1)|[2307.16840v1](http://arxiv.org/pdf/2307.16840v1)|null|
+|**2023-07-31**|**On the use of associative memory in Hopfield networks designed to solve propositional satisfiability problems**|Natalya Weber et.al.|[2307.16807v1](http://arxiv.org/abs/2307.16807v1)|[2307.16807v1](http://arxiv.org/pdf/2307.16807v1)|null|
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|[2307.15703v1](http://arxiv.org/pdf/2307.15703v1)|null|
 |**2023-07-28**|**Entangling interactions between artificial atoms mediated by a multimode left-handed superconducting ring resonator**|T. McBroom-Carroll et.al.|[2307.15695v1](http://arxiv.org/abs/2307.15695v1)|[2307.15695v1](http://arxiv.org/pdf/2307.15695v1)|null|
 |**2023-07-28**|**A supervised hybrid quantum machine learning solution to the emergency escape routing problem**|Nathan Haboury et.al.|[2307.15682v1](http://arxiv.org/abs/2307.15682v1)|[2307.15682v1](http://arxiv.org/pdf/2307.15682v1)|null|
