@@ -1,4 +1,4 @@
-## Updated on 2023.08.01
+## Updated on 2023.08.02
 
 ## Astrophysics
 
@@ -13,7 +13,7 @@
 |**2023-07-31**|**The Perturbed Full Two-Body Problem: Application to Post-DART Didymos**|Alex J. Meyer et.al.|[2307.16777v1](http://arxiv.org/abs/2307.16777v1)|[2307.16777v1](http://arxiv.org/pdf/2307.16777v1)|null|
 |**2023-07-31**|**Protostellar Disks Fed By Dense Collapsing Gravo-Magneto-Sheetlets**|Yisheng Tu et.al.|[2307.16774v1](http://arxiv.org/abs/2307.16774v1)|[2307.16774v1](http://arxiv.org/pdf/2307.16774v1)|null|
 |**2023-07-31**|**ExoGemS High-Resolution Transmission Spectroscopy of WASP-76b with GRACES**|Emily K. Deibert et.al.|[2307.16738v1](http://arxiv.org/abs/2307.16738v1)|[2307.16738v1](http://arxiv.org/pdf/2307.16738v1)|null|
-|**2023-07-31**|**Painting baryons onto N-body simulations of galaxy clusters with image-to-image deep learning**|Urmila Chadayammuri et.al.|[2307.16733v1](http://arxiv.org/abs/2307.16733v1)|[2307.16733v1](http://arxiv.org/pdf/2307.16733v1)|null|
+|**2023-08-01**|**Painting baryons onto N-body simulations of galaxy clusters with image-to-image deep learning**|Urmila Chadayammuri et.al.|[2307.16733v2](http://arxiv.org/abs/2307.16733v2)|[2307.16733v2](http://arxiv.org/pdf/2307.16733v2)|null|
 |**2023-07-28**|**DEMNUni: cross-correlating the nonlinear ISWRS effect with CMB-lensing and galaxies in the presence of massive neutrinos**|Viviana Cuozzo et.al.|[2307.15711v1](http://arxiv.org/abs/2307.15711v1)|[2307.15711v1](http://arxiv.org/pdf/2307.15711v1)|null|
 |**2023-07-28**|**Integral Field Spectroscopy of 13 Tidal Disruption Event Hosts from the ZTF Survey**|Erica Hammerstein et.al.|[2307.15705v1](http://arxiv.org/abs/2307.15705v1)|[2307.15705v1](http://arxiv.org/pdf/2307.15705v1)|null|
 |**2023-07-28**|**A JWST/MIRI and NIRCam Analysis of the Young Stellar Object Population in the Spitzer I region of NGC 6822**|Laura Lenkić et.al.|[2307.15704v1](http://arxiv.org/abs/2307.15704v1)|[2307.15704v1](http://arxiv.org/pdf/2307.15704v1)|null|
