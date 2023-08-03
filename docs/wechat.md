@@ -1,4 +1,4 @@
-> Updated on 2023.08.02
+> Updated on 2023.08.03
 
 ## Astrophysics
 
@@ -8,7 +8,7 @@
 - 2023-08-01, **Touching the Sky: The Use of Arduino in Transferring Telescopic Light to Haptic Vibrations**, Ruoning Lan et.al., Paper: [http://arxiv.org/abs/2308.00657v1](http://arxiv.org/abs/2308.00657v1), Paper: [http://arxiv.org/abs/2308.00657v1](http://arxiv.org/pdf/2308.00657v1)
 - 2023-08-01, **Exploring robust correlations between fermionic dark matter model parameters and neutron star properties: A two-fluid perspective**, Prashant Thakur et.al., Paper: [http://arxiv.org/abs/2308.00650v1](http://arxiv.org/abs/2308.00650v1), Paper: [http://arxiv.org/abs/2308.00650v1](http://arxiv.org/pdf/2308.00650v1)
 - 2023-08-01, **Bayesian Analysis for Remote Biosignature Identification on exoEarths (BARBIE) I: Using Grid-Based Nested Sampling in Coronagraphy Observation Simulations for H2O**, Natasha Latouf et.al., Paper: [http://arxiv.org/abs/2308.00648v1](http://arxiv.org/abs/2308.00648v1), Paper: [http://arxiv.org/abs/2308.00648v1](http://arxiv.org/pdf/2308.00648v1)
-- 2023-08-01, **A lanthanide-rich kilonova in the aftermath of a long gamma-ray burst**, Yu-Han Yang et.al., Paper: [http://arxiv.org/abs/2308.00638v1](http://arxiv.org/abs/2308.00638v1), Paper: [http://arxiv.org/abs/2308.00638v1](http://arxiv.org/pdf/2308.00638v1)
+- 2023-08-02, **A lanthanide-rich kilonova in the aftermath of a long gamma-ray burst**, Yu-Han Yang et.al., Paper: [http://arxiv.org/abs/2308.00638v2](http://arxiv.org/abs/2308.00638v2), Paper: [http://arxiv.org/abs/2308.00638v2](http://arxiv.org/pdf/2308.00638v2)
 - 2023-08-01, **Cosmology in gravity models with broken diffeomorphisms**, Antonio G. Bello-Morales et.al., Paper: [http://arxiv.org/abs/2308.00635v1](http://arxiv.org/abs/2308.00635v1), Paper: [http://arxiv.org/abs/2308.00635v1](http://arxiv.org/pdf/2308.00635v1)
 - 2023-08-01, **Heavy element nucleosynthesis associated with a gamma-ray burst**, James H. Gillanders et.al., Paper: [http://arxiv.org/abs/2308.00633v1](http://arxiv.org/abs/2308.00633v1), Paper: [http://arxiv.org/abs/2308.00633v1](http://arxiv.org/pdf/2308.00633v1)
 - 2023-08-01, **Interior dynamics of super-Earth 55 Cancri e**, Tobias G. Meier et.al., Paper: [http://arxiv.org/abs/2308.00592v1](http://arxiv.org/abs/2308.00592v1), Paper: [http://arxiv.org/abs/2308.00592v1](http://arxiv.org/pdf/2308.00592v1)
@@ -2795,7 +2795,7 @@
 
 ## AI
 
-- 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/pdf/2308.00688v1)
+- 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1),Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/pdf/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-08-01, **Applicability of scaling laws to vision encoding models**, Takuya Matsuyama et.al., Paper: [http://arxiv.org/abs/2308.00678v1](http://arxiv.org/abs/2308.00678v1), Paper: [http://arxiv.org/abs/2308.00678v1](http://arxiv.org/pdf/2308.00678v1)
 - 2023-08-01, **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**, Cheng-Yu Hsieh et.al., Paper: [http://arxiv.org/abs/2308.00675v1](http://arxiv.org/abs/2308.00675v1), Paper: [http://arxiv.org/abs/2308.00675v1](http://arxiv.org/pdf/2308.00675v1)
 - 2023-08-01, **Hessian-Aware Bayesian Optimization for Decision Making Systems**, Mohit Rajpal et.al., Paper: [http://arxiv.org/abs/2308.00629v1](http://arxiv.org/abs/2308.00629v1), Paper: [http://arxiv.org/abs/2308.00629v1](http://arxiv.org/pdf/2308.00629v1)
