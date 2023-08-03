@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-02**|**Shadows near supermassive black holes: from a theoretical concept to GR test**|Alexander F. Zakharov et.al.|[2308.01301v1](http://arxiv.org/abs/2308.01301v1)|[2308.01301v1](http://arxiv.org/pdf/2308.01301v1)|null|
+|**2023-08-02**|**The Star Formation Across Cosmic Time (SFACT) Survey. III. Spectroscopy of the Initial Catalog of Emission-Line Objects**|David J. Carr et.al.|[2308.01297v1](http://arxiv.org/abs/2308.01297v1)|[2308.01297v1](http://arxiv.org/pdf/2308.01297v1)|null|
+|**2023-08-02**|**A Parsec-Scale Galactic 3D Dust Map out to 1.25 kpc from the Sun**|Gordian Edenhofer et.al.|[2308.01295v1](http://arxiv.org/abs/2308.01295v1)|[2308.01295v1](http://arxiv.org/pdf/2308.01295v1)|null|
+|**2023-08-02**|**The Star Formation Across Cosmic Time (SFACT) Survey. II. The First Catalog from a New Narrow-Band Survey for Emission-Line Objects**|Jennifer Sieben et.al.|[2308.01292v1](http://arxiv.org/abs/2308.01292v1)|[2308.01292v1](http://arxiv.org/pdf/2308.01292v1)|null|
+|**2023-08-02**|**Moment tracking and their coordinate transformations for macroparticles with an application to plasmas around black holes**|Alexander Warwick et.al.|[2308.01276v1](http://arxiv.org/abs/2308.01276v1)|[2308.01276v1](http://arxiv.org/pdf/2308.01276v1)|null|
+|**2023-08-02**|**Generating ultra compact boson stars with modified scalar potentials**|Sarah Louisa Pitz et.al.|[2308.01254v1](http://arxiv.org/abs/2308.01254v1)|[2308.01254v1](http://arxiv.org/pdf/2308.01254v1)|null|
+|**2023-08-02**|**IXPE and XMM-Newton observations of the Soft Gamma Repeater SGR 1806-20**|Roberto Turolla et.al.|[2308.01238v1](http://arxiv.org/abs/2308.01238v1)|[2308.01238v1](http://arxiv.org/pdf/2308.01238v1)|null|
+|**2023-08-02**|**Eccentric Gas Disk Orbiting the White Dwarf SDSS J1228+1040**|Ates Goksu et.al.|[2308.01234v1](http://arxiv.org/abs/2308.01234v1)|[2308.01234v1](http://arxiv.org/pdf/2308.01234v1)|null|
+|**2023-08-02**|**Swampland criteria and neutrino generation in a non-cold dark matter universe**|Martiros Khurshudyan et.al.|[2308.01233v1](http://arxiv.org/abs/2308.01233v1)|[2308.01233v1](http://arxiv.org/pdf/2308.01233v1)|null|
+|**2023-08-02**|**JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty**|Roberto Maiolino et.al.|[2308.01230v1](http://arxiv.org/abs/2308.01230v1)|[2308.01230v1](http://arxiv.org/pdf/2308.01230v1)|null|
 |**2023-08-01**|**Statistical methods for exoplanet detection with radial velocities**|Nathan C. Hara et.al.|[2308.00701v1](http://arxiv.org/abs/2308.00701v1)|[2308.00701v1](http://arxiv.org/pdf/2308.00701v1)|null|
 |**2023-08-01**|**The current state of disk wind observations in BHLMXBs through X-ray absorption lines in the iron band**|M. Parra et.al.|[2308.00691v1](http://arxiv.org/abs/2308.00691v1)|[2308.00691v1](http://arxiv.org/pdf/2308.00691v1)|null|
 |**2023-08-01**|**Electromagnetic conversion into kinetic and thermal energies**|Axel Brandenburg et.al.|[2308.00662v1](http://arxiv.org/abs/2308.00662v1)|[2308.00662v1](http://arxiv.org/pdf/2308.00662v1)|null|
@@ -2799,6 +2809,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317v1](http://arxiv.org/abs/2308.01317v1)|[2308.01317v1](http://arxiv.org/pdf/2308.01317v1)|null|
+|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313v1](http://arxiv.org/abs/2308.01313v1)|[2308.01313v1](http://arxiv.org/pdf/2308.01313v1)|**[link](https://github.com/umd-huang-lab/perceptionclip)**|
+|**2023-08-02**|**Lode Encoder: AI-constrained co-creativity**|Debosmita Bhaumik et.al.|[2308.01312v1](http://arxiv.org/abs/2308.01312v1)|[2308.01312v1](http://arxiv.org/pdf/2308.01312v1)|null|
+|**2023-08-02**|**Flows: Building Blocks of Reasoning and Collaborating AI**|Martin Josifoski et.al.|[2308.01285v1](http://arxiv.org/abs/2308.01285v1)|[2308.01285v1](http://arxiv.org/pdf/2308.01285v1)|null|
+|**2023-08-02**|**Fighting Fire with Fire: Can ChatGPT Detect AI-generated Text?**|Amrita Bhattacharjee et.al.|[2308.01284v1](http://arxiv.org/abs/2308.01284v1)|[2308.01284v1](http://arxiv.org/pdf/2308.01284v1)|**[link](https://github.com/amritabh/chatgpt-as-detector)**|
+|**2023-08-02**|**BRNES: Enabling Security and Privacy-aware Experience Sharing in Multiagent Robotic and Autonomous Systems**|Md Tamjid Hossain et.al.|[2308.01274v1](http://arxiv.org/abs/2308.01274v1)|[2308.01274v1](http://arxiv.org/pdf/2308.01274v1)|**[link](https://github.com/aralab-unr/brnes)**|
+|**2023-08-02**|**A Probabilistic Approach to Self-Supervised Learning using Cyclical Stochastic Gradient MCMC**|Masoumeh Javanbakhat et.al.|[2308.01271v1](http://arxiv.org/abs/2308.01271v1)|[2308.01271v1](http://arxiv.org/pdf/2308.01271v1)|null|
+|**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|[2308.01264v1](http://arxiv.org/pdf/2308.01264v1)|null|
+|**2023-08-02**|**XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models**|Paul Röttger et.al.|[2308.01263v1](http://arxiv.org/abs/2308.01263v1)|[2308.01263v1](http://arxiv.org/pdf/2308.01263v1)|null|
+|**2023-08-02**|**Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation**|Zhiqiang Yuan et.al.|[2308.01240v1](http://arxiv.org/abs/2308.01240v1)|[2308.01240v1](http://arxiv.org/pdf/2308.01240v1)|null|
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|[2308.00688v1](http://arxiv.org/pdf/2308.00688v1)|**[link](https://github.com/AnyLoc/AnyLoc)**|
 |**2023-08-01**|**Applicability of scaling laws to vision encoding models**|Takuya Matsuyama et.al.|[2308.00678v1](http://arxiv.org/abs/2308.00678v1)|[2308.00678v1](http://arxiv.org/pdf/2308.00678v1)|null|
 |**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675v1](http://arxiv.org/abs/2308.00675v1)|[2308.00675v1](http://arxiv.org/pdf/2308.00675v1)|null|
