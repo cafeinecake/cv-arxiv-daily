@@ -1,14 +1,14 @@
-> Updated on 2023.08.07
+> Updated on 2023.08.08
 
 ## Astrophysics
 
-- 2023-08-04, **Why are Quasiperiodic Eruptions only Found in Low-Mass Galaxies?**, Andrew King et.al., Paper: [http://arxiv.org/abs/2308.02489v1](http://arxiv.org/abs/2308.02489v1), Paper: [http://arxiv.org/abs/2308.02489v1](http://arxiv.org/pdf/2308.02489v1)
+- 2023-08-07, **Why are Quasiperiodic Eruptions only Found in Low-Mass Galaxies?**, Andrew King et.al., Paper: [http://arxiv.org/abs/2308.02489v2](http://arxiv.org/abs/2308.02489v2), Paper: [http://arxiv.org/abs/2308.02489v2](http://arxiv.org/pdf/2308.02489v2)
 - 2023-08-04, **JWST/NIRCam Coronagraphy of the Young Planet-hosting Debris Disk AU Microscopii**, Kellen Lawson et.al., Paper: [http://arxiv.org/abs/2308.02486v1](http://arxiv.org/abs/2308.02486v1), Paper: [http://arxiv.org/abs/2308.02486v1](http://arxiv.org/pdf/2308.02486v1)
 - 2023-08-04, **The Cepheid Extragalactic Distance Scale: Past, Present and Future**, Wendy L. Freedman et.al., Paper: [http://arxiv.org/abs/2308.02474v1](http://arxiv.org/abs/2308.02474v1), Paper: [http://arxiv.org/abs/2308.02474v1](http://arxiv.org/pdf/2308.02474v1)
 - 2023-08-04, **Pure Gravitational Wave Estimation of Hubble's Constant using Neutron Star-Black Hole Mergers**, Leo W. H. Fung et.al., Paper: [http://arxiv.org/abs/2308.02440v1](http://arxiv.org/abs/2308.02440v1), Paper: [http://arxiv.org/abs/2308.02440v1](http://arxiv.org/pdf/2308.02440v1)
 - 2023-08-04, **Tilt-to-length coupling in LISA Pathfinder: a data analysis**, M Armano et.al., Paper: [http://arxiv.org/abs/2308.02398v1](http://arxiv.org/abs/2308.02398v1), Paper: [http://arxiv.org/abs/2308.02398v1](http://arxiv.org/pdf/2308.02398v1)
 - 2023-08-04, **Discontinuous collocation and symmetric integration methods for distributionally-sourced hyperboloidal partial differential equations**, Michael F. O'Boyle et.al., Paper: [http://arxiv.org/abs/2308.02385v1](http://arxiv.org/abs/2308.02385v1), Paper: [http://arxiv.org/abs/2308.02385v1](http://arxiv.org/pdf/2308.02385v1)
-- 2023-08-04, **Extreme mass ratios and fast rotation in three massive binaries**, Yael Naze et.al., Paper: [http://arxiv.org/abs/2308.02368v1](http://arxiv.org/abs/2308.02368v1), Paper: [http://arxiv.org/abs/2308.02368v1](http://arxiv.org/pdf/2308.02368v1)
+- 2023-08-07, **Extreme mass ratios and fast rotation in three massive binaries**, Yael Naze et.al., Paper: [http://arxiv.org/abs/2308.02368v2](http://arxiv.org/abs/2308.02368v2), Paper: [http://arxiv.org/abs/2308.02368v2](http://arxiv.org/pdf/2308.02368v2)
 - 2023-08-04, **The Formation of Star-forming Disks in the TNG50 Simulation**, Enci Wang et.al., Paper: [http://arxiv.org/abs/2308.02366v1](http://arxiv.org/abs/2308.02366v1), Paper: [http://arxiv.org/abs/2308.02366v1](http://arxiv.org/pdf/2308.02366v1)
 - 2023-08-04, **Long-term Evolution of Warps in Debris Disks -- Application to the Gyr-old system HD 202628**, Madison Brady et.al., Paper: [http://arxiv.org/abs/2308.02333v1](http://arxiv.org/abs/2308.02333v1), Paper: [http://arxiv.org/abs/2308.02333v1](http://arxiv.org/pdf/2308.02333v1)
 - 2023-08-04, **Cosmic Ray Anisotropy with 11 Years of IceCube Data**, Frank McNally et.al., Paper: [http://arxiv.org/abs/2308.02331v1](http://arxiv.org/abs/2308.02331v1), Paper: [http://arxiv.org/abs/2308.02331v1](http://arxiv.org/pdf/2308.02331v1)
