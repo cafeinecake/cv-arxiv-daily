@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-08**|**Magnetohydrodynamic Mode Conversion in the Solar Corona: Insights from Fresnel-like Models of Waves at Sharp Interfaces**|Steven R. Cranmer et.al.|[2308.04394v1](http://arxiv.org/abs/2308.04394v1)|[2308.04394v1](http://arxiv.org/pdf/2308.04394v1)|null|
+|**2023-08-08**|**Galactic Outflow Emission Line Profiles: Evidence for Dusty, Radiatively-Driven Ionized Winds in Mrk 462**|Sophia R. Flury et.al.|[2308.04393v1](http://arxiv.org/abs/2308.04393v1)|[2308.04393v1](http://arxiv.org/pdf/2308.04393v1)|null|
+|**2023-08-08**|**Chandra X-Ray Observations of Abell 119: Cold Fronts And A Shock In An Evolved Off-Axis Merger**|Courtney B. Watson et.al.|[2308.04367v1](http://arxiv.org/abs/2308.04367v1)|[2308.04367v1](http://arxiv.org/pdf/2308.04367v1)|null|
+|**2023-08-08**|**Cosmic ray interactions with matter and radiation**|Pasquale Dario Serpico et.al.|[2308.04361v1](http://arxiv.org/abs/2308.04361v1)|[2308.04361v1](http://arxiv.org/pdf/2308.04361v1)|null|
+|**2023-08-08**|**A time variability test for neutrino sources identified by IceCube**|Pranav Dave et.al.|[2308.04342v1](http://arxiv.org/abs/2308.04342v1)|[2308.04342v1](http://arxiv.org/pdf/2308.04342v1)|null|
+|**2023-08-08**|**Size-dependent charging of dust particles in protoplanetary disks Can turbulence cause charge separation and lightning?**|Thorsten Balduin et.al.|[2308.04335v1](http://arxiv.org/abs/2308.04335v1)|[2308.04335v1](http://arxiv.org/pdf/2308.04335v1)|null|
+|**2023-08-08**|**Predicting gravitational waves from jittering-jets-driven core collapse supernovae**|Noam Soker et.al.|[2308.04329v1](http://arxiv.org/abs/2308.04329v1)|[2308.04329v1](http://arxiv.org/pdf/2308.04329v1)|null|
+|**2023-08-08**|**VLBI Probes of Jet Physics in Neutrino-Candidate Blazars**|F. Eppel et.al.|[2308.04311v1](http://arxiv.org/abs/2308.04311v1)|[2308.04311v1](http://arxiv.org/pdf/2308.04311v1)|null|
+|**2023-08-08**|**FRB 20121102A: images of the bursts and the varying radio counterpart**|L. Rhodes et.al.|[2308.04298v1](http://arxiv.org/abs/2308.04298v1)|[2308.04298v1](http://arxiv.org/pdf/2308.04298v1)|null|
+|**2023-08-08**|**TCF periodogram's high sensitivity: A method for optimizing detection of small transiting planets**|Yash Gondhalekar et.al.|[2308.04282v1](http://arxiv.org/abs/2308.04282v1)|[2308.04282v1](http://arxiv.org/pdf/2308.04282v1)|null|
 |**2023-08-07**|**Rearrangement of Granular Surfaces on Asteroids due to Thermal Cycling**|Danielle Bovie et.al.|[2308.03749v1](http://arxiv.org/abs/2308.03749v1)|[2308.03749v1](http://arxiv.org/pdf/2308.03749v1)|null|
 |**2023-08-07**|**Metrewave Galactic Plane with the uGMRT (MeGaPluG) Survey: Lessons from the Pilot Study**|Rohit Dokara et.al.|[2308.03746v1](http://arxiv.org/abs/2308.03746v1)|[2308.03746v1](http://arxiv.org/pdf/2308.03746v1)|null|
 |**2023-08-07**|**UNCOVER: Illuminating the Early Universe -- JWST/NIRSpec Confirmation of $z > 12$ Galaxies**|Bingjie Wang et.al.|[2308.03745v1](http://arxiv.org/abs/2308.03745v1)|[2308.03745v1](http://arxiv.org/pdf/2308.03745v1)|null|
@@ -2839,6 +2849,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-08**|**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore**|Sewon Min et.al.|[2308.04430v1](http://arxiv.org/abs/2308.04430v1)|[2308.04430v1](http://arxiv.org/pdf/2308.04430v1)|**[link](https://github.com/kernelmachine/silo-lm)**|
+|**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|[2308.04426v1](http://arxiv.org/pdf/2308.04426v1)|null|
+|**2023-08-08**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412v1](http://arxiv.org/abs/2308.04412v1)|[2308.04412v1](http://arxiv.org/pdf/2308.04412v1)|null|
+|**2023-08-08**|**Fine-Tuning Games: Bargaining and Adaptation for General-Purpose Models**|Benjamin Laufer et.al.|[2308.04399v1](http://arxiv.org/abs/2308.04399v1)|[2308.04399v1](http://arxiv.org/pdf/2308.04399v1)|null|
+|**2023-08-08**|**Event Abstraction for Enterprise Collaboration Systems to Support Social Process Mining**|Jonas Blatt et.al.|[2308.04396v1](http://arxiv.org/abs/2308.04396v1)|[2308.04396v1](http://arxiv.org/pdf/2308.04396v1)|null|
+|**2023-08-08**|**Harnessing Artificial Intelligence To Reduce Phototoxicity in Live Imaging**|Estibaliz Gómez-de-Mariscal et.al.|[2308.04387v1](http://arxiv.org/abs/2308.04387v1)|[2308.04387v1](http://arxiv.org/pdf/2308.04387v1)|null|
+|**2023-08-08**|**Understanding the Effect of Counterfactual Explanations on Trust and Reliance on AI for Human-AI Collaborative Clinical Decision Making**|Min Hun Lee et.al.|[2308.04375v1](http://arxiv.org/abs/2308.04375v1)|[2308.04375v1](http://arxiv.org/pdf/2308.04375v1)|null|
+|**2023-08-08**|**Some Options for Instantiation of Bipolar Argument Graphs with Deductive Arguments**|Anthony Hunter et.al.|[2308.04372v1](http://arxiv.org/abs/2308.04372v1)|[2308.04372v1](http://arxiv.org/pdf/2308.04372v1)|null|
+|**2023-08-08**|**Cumulative Reasoning With Large Language Models**|Yifan Zhang et.al.|[2308.04371v1](http://arxiv.org/abs/2308.04371v1)|[2308.04371v1](http://arxiv.org/pdf/2308.04371v1)|null|
+|**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[2308.04369v1](http://arxiv.org/pdf/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
 |**2023-08-07**|**A Cost Analysis of Generative Language Models and Influence Operations**|Micah Musser et.al.|[2308.03740v1](http://arxiv.org/abs/2308.03740v1)|[2308.03740v1](http://arxiv.org/pdf/2308.03740v1)|null|
 |**2023-08-07**|**SurvBeX: An explanation method of the machine learning survival models based on the Beran estimator**|Lev V. Utkin et.al.|[2308.03730v1](http://arxiv.org/abs/2308.03730v1)|[2308.03730v1](http://arxiv.org/pdf/2308.03730v1)|**[link](https://github.com/danilaeremenko/survbex)**|
 |**2023-08-07**|**Tiny LVLM-eHub: Early Multimodal Experiments with Bard**|Wenqi Shao et.al.|[2308.03729v1](http://arxiv.org/abs/2308.03729v1)|[2308.03729v1](http://arxiv.org/pdf/2308.03729v1)|**[link](https://github.com/opengvlab/multi-modality-arena)**|
