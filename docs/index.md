@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-09**|**The contribution of faint Lyman-$α$ emitters to extended Lyman-$α$ halos constrained by MUSE clustering measurements**|Yohana Herrero Alonso et.al.|[2308.05105v1](http://arxiv.org/abs/2308.05105v1)|[2308.05105v1](http://arxiv.org/pdf/2308.05105v1)|null|
+|**2023-08-09**|**Two of a Kind: Comparing big and small black holes in binaries with gravitational waves**|Amanda M. Farah et.al.|[2308.05102v1](http://arxiv.org/abs/2308.05102v1)|[2308.05102v1](http://arxiv.org/pdf/2308.05102v1)|null|
+|**2023-08-09**|**Inferring spin tilts of binary black holes at formation with plus-era gravitational wave detectors**|Sumeet Kulkarni et.al.|[2308.05098v1](http://arxiv.org/abs/2308.05098v1)|[2308.05098v1](http://arxiv.org/pdf/2308.05098v1)|null|
+|**2023-08-09**|**Chemodynamic analysis of four $r$-process enhanced stars observed with GTC**|Pallavi Saraf et.al.|[2308.05097v1](http://arxiv.org/abs/2308.05097v1)|[2308.05097v1](http://arxiv.org/pdf/2308.05097v1)|null|
+|**2023-08-09**|**Search for a Non-Relativistic Boson in Two-Body Antimuon Decay**|J. I. Collar et.al.|[2308.05064v1](http://arxiv.org/abs/2308.05064v1)|[2308.05064v1](http://arxiv.org/pdf/2308.05064v1)|null|
+|**2023-08-09**|**Deuterium Escape on Sub-Neptunes**|Pin-Gao Gu et.al.|[2308.05057v1](http://arxiv.org/abs/2308.05057v1)|[2308.05057v1](http://arxiv.org/pdf/2308.05057v1)|null|
+|**2023-08-09**|**Enhanced Sub-kpc Scale Star-formation: Results From A JWST Size Analysis of 339 Galaxies At 5<z<14**|Takahiro Morishita et.al.|[2308.05018v1](http://arxiv.org/abs/2308.05018v1)|[2308.05018v1](http://arxiv.org/pdf/2308.05018v1)|null|
+|**2023-08-09**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Pérez-Carrasco Manuel et.al.|[2308.05011v1](http://arxiv.org/abs/2308.05011v1)|[2308.05011v1](http://arxiv.org/pdf/2308.05011v1)|**[link](https://github.com/mperezcarrasco/AnomalyALeRCE)**|
+|**2023-08-09**|**Study of Jupiter's Interior with Quadratic Monte Carlo Simulations**|Burkhard Militzer et.al.|[2308.05008v1](http://arxiv.org/abs/2308.05008v1)|[2308.05008v1](http://arxiv.org/pdf/2308.05008v1)|null|
+|**2023-08-09**|**Constraining Supernova Ia Progenitors by their Locations in Host Galactic Disc**|A. A. Hakobyan et.al.|[2308.04989v1](http://arxiv.org/abs/2308.04989v1)|[2308.04989v1](http://arxiv.org/pdf/2308.04989v1)|null|
 |**2023-08-08**|**Magnetohydrodynamic Mode Conversion in the Solar Corona: Insights from Fresnel-like Models of Waves at Sharp Interfaces**|Steven R. Cranmer et.al.|[2308.04394v1](http://arxiv.org/abs/2308.04394v1)|[2308.04394v1](http://arxiv.org/pdf/2308.04394v1)|null|
 |**2023-08-08**|**Galactic Outflow Emission Line Profiles: Evidence for Dusty, Radiatively-Driven Ionized Winds in Mrk 462**|Sophia R. Flury et.al.|[2308.04393v1](http://arxiv.org/abs/2308.04393v1)|[2308.04393v1](http://arxiv.org/pdf/2308.04393v1)|null|
 |**2023-08-09**|**Chandra X-Ray Observations of Abell 119: Cold Fronts And A Shock In An Evolved Off-Axis Merger**|Courtney B. Watson et.al.|[2308.04367v2](http://arxiv.org/abs/2308.04367v2)|[2308.04367v2](http://arxiv.org/pdf/2308.04367v2)|null|
@@ -2853,6 +2863,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-09**|**DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**|Soumadeep Saha et.al.|[2308.05101v1](http://arxiv.org/abs/2308.05101v1)|[2308.05101v1](http://arxiv.org/pdf/2308.05101v1)|null|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|[2308.05095v1](http://arxiv.org/pdf/2308.05095v1)|null|
+|**2023-08-09**|**Organizational Bulk Email Systems: Their Role and Performance in Remote Work**|Ruoyan Kong et.al.|[2308.05085v1](http://arxiv.org/abs/2308.05085v1)|[2308.05085v1](http://arxiv.org/pdf/2308.05085v1)|null|
+|**2023-08-09**|**Drones4Good: Supporting Disaster Relief Through Remote Sensing and AI**|Nina Merkle et.al.|[2308.05074v1](http://arxiv.org/abs/2308.05074v1)|[2308.05074v1](http://arxiv.org/pdf/2308.05074v1)|null|
+|**2023-08-09**|**Volumetric Fast Fourier Convolution for Detecting Ink on the Carbonized Herculaneum Papyri**|Fabio Quattrini et.al.|[2308.05070v1](http://arxiv.org/abs/2308.05070v1)|[2308.05070v1](http://arxiv.org/pdf/2308.05070v1)|**[link](https://github.com/aimagelab/vffc)**|
+|**2023-08-09**|**Competitions in AI -- Robustly Ranking Solvers Using Statistical Resampling**|Chris Fawcett et.al.|[2308.05062v1](http://arxiv.org/abs/2308.05062v1)|[2308.05062v1](http://arxiv.org/pdf/2308.05062v1)|null|
+|**2023-08-09**|**Separate Anything You Describe**|Xubo Liu et.al.|[2308.05037v1](http://arxiv.org/abs/2308.05037v1)|[2308.05037v1](http://arxiv.org/pdf/2308.05037v1)|**[link](https://github.com/audio-agi/audiosep)**|
+|**2023-08-09**|**Expert load matters: operating networks at high accuracy and low manual effort**|Sara Sangalli et.al.|[2308.05035v1](http://arxiv.org/abs/2308.05035v1)|[2308.05035v1](http://arxiv.org/pdf/2308.05035v1)|null|
+|**2023-08-09**|**MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model**|Michael Leong et.al.|[2308.05012v1](http://arxiv.org/abs/2308.05012v1)|[2308.05012v1](http://arxiv.org/pdf/2308.05012v1)|null|
+|**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992v1](http://arxiv.org/abs/2308.04992v1)|[2308.04992v1](http://arxiv.org/pdf/2308.04992v1)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore**|Sewon Min et.al.|[2308.04430v1](http://arxiv.org/abs/2308.04430v1)|[2308.04430v1](http://arxiv.org/pdf/2308.04430v1)|**[link](https://github.com/kernelmachine/silo-lm)**|
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|[2308.04426v1](http://arxiv.org/pdf/2308.04426v1)|null|
 |**2023-08-08**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412v1](http://arxiv.org/abs/2308.04412v1)|[2308.04412v1](http://arxiv.org/pdf/2308.04412v1)|null|
