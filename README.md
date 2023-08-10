@@ -1,4 +1,4 @@
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 
 ## Astrophysics
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2023-08-08**|**Magnetohydrodynamic Mode Conversion in the Solar Corona: Insights from Fresnel-like Models of Waves at Sharp Interfaces**|Steven R. Cranmer et.al.|[2308.04394v1](http://arxiv.org/abs/2308.04394v1)|[2308.04394v1](http://arxiv.org/pdf/2308.04394v1)|null|
 |**2023-08-08**|**Galactic Outflow Emission Line Profiles: Evidence for Dusty, Radiatively-Driven Ionized Winds in Mrk 462**|Sophia R. Flury et.al.|[2308.04393v1](http://arxiv.org/abs/2308.04393v1)|[2308.04393v1](http://arxiv.org/pdf/2308.04393v1)|null|
-|**2023-08-08**|**Chandra X-Ray Observations of Abell 119: Cold Fronts And A Shock In An Evolved Off-Axis Merger**|Courtney B. Watson et.al.|[2308.04367v1](http://arxiv.org/abs/2308.04367v1)|[2308.04367v1](http://arxiv.org/pdf/2308.04367v1)|null|
+|**2023-08-09**|**Chandra X-Ray Observations of Abell 119: Cold Fronts And A Shock In An Evolved Off-Axis Merger**|Courtney B. Watson et.al.|[2308.04367v2](http://arxiv.org/abs/2308.04367v2)|[2308.04367v2](http://arxiv.org/pdf/2308.04367v2)|null|
 |**2023-08-08**|**Cosmic ray interactions with matter and radiation**|Pasquale Dario Serpico et.al.|[2308.04361v1](http://arxiv.org/abs/2308.04361v1)|[2308.04361v1](http://arxiv.org/pdf/2308.04361v1)|null|
 |**2023-08-08**|**A time variability test for neutrino sources identified by IceCube**|Pranav Dave et.al.|[2308.04342v1](http://arxiv.org/abs/2308.04342v1)|[2308.04342v1](http://arxiv.org/pdf/2308.04342v1)|null|
 |**2023-08-08**|**Size-dependent charging of dust particles in protoplanetary disks Can turbulence cause charge separation and lightning?**|Thorsten Balduin et.al.|[2308.04335v1](http://arxiv.org/abs/2308.04335v1)|[2308.04335v1](http://arxiv.org/pdf/2308.04335v1)|null|
@@ -2853,11 +2853,11 @@
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|[2308.04426v1](http://arxiv.org/pdf/2308.04426v1)|null|
 |**2023-08-08**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412v1](http://arxiv.org/abs/2308.04412v1)|[2308.04412v1](http://arxiv.org/pdf/2308.04412v1)|null|
 |**2023-08-08**|**Fine-Tuning Games: Bargaining and Adaptation for General-Purpose Models**|Benjamin Laufer et.al.|[2308.04399v1](http://arxiv.org/abs/2308.04399v1)|[2308.04399v1](http://arxiv.org/pdf/2308.04399v1)|null|
-|**2023-08-08**|**Event Abstraction for Enterprise Collaboration Systems to Support Social Process Mining**|Jonas Blatt et.al.|[2308.04396v1](http://arxiv.org/abs/2308.04396v1)|[2308.04396v1](http://arxiv.org/pdf/2308.04396v1)|null|
+|**2023-08-09**|**Event Abstraction for Enterprise Collaboration Systems to Support Social Process Mining**|Jonas Blatt et.al.|[2308.04396v2](http://arxiv.org/abs/2308.04396v2)|[2308.04396v2](http://arxiv.org/pdf/2308.04396v2)|null|
 |**2023-08-08**|**Harnessing Artificial Intelligence To Reduce Phototoxicity in Live Imaging**|Estibaliz Gómez-de-Mariscal et.al.|[2308.04387v1](http://arxiv.org/abs/2308.04387v1)|[2308.04387v1](http://arxiv.org/pdf/2308.04387v1)|null|
 |**2023-08-08**|**Understanding the Effect of Counterfactual Explanations on Trust and Reliance on AI for Human-AI Collaborative Clinical Decision Making**|Min Hun Lee et.al.|[2308.04375v1](http://arxiv.org/abs/2308.04375v1)|[2308.04375v1](http://arxiv.org/pdf/2308.04375v1)|null|
 |**2023-08-08**|**Some Options for Instantiation of Bipolar Argument Graphs with Deductive Arguments**|Anthony Hunter et.al.|[2308.04372v1](http://arxiv.org/abs/2308.04372v1)|[2308.04372v1](http://arxiv.org/pdf/2308.04372v1)|null|
-|**2023-08-08**|**Cumulative Reasoning With Large Language Models**|Yifan Zhang et.al.|[2308.04371v1](http://arxiv.org/abs/2308.04371v1)|[2308.04371v1](http://arxiv.org/pdf/2308.04371v1)|null|
+|**2023-08-09**|**Cumulative Reasoning with Large Language Models**|Yifan Zhang et.al.|[2308.04371v2](http://arxiv.org/abs/2308.04371v2)|[2308.04371v2](http://arxiv.org/pdf/2308.04371v2)|null|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[2308.04369v1](http://arxiv.org/pdf/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
 |**2023-08-07**|**A Cost Analysis of Generative Language Models and Influence Operations**|Micah Musser et.al.|[2308.03740v1](http://arxiv.org/abs/2308.03740v1)|[2308.03740v1](http://arxiv.org/pdf/2308.03740v1)|null|
 |**2023-08-07**|**SurvBeX: An explanation method of the machine learning survival models based on the Beran estimator**|Lev V. Utkin et.al.|[2308.03730v1](http://arxiv.org/abs/2308.03730v1)|[2308.03730v1](http://arxiv.org/pdf/2308.03730v1)|**[link](https://github.com/danilaeremenko/survbex)**|
