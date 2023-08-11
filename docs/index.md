@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 
 ## Astrophysics
 
@@ -15,7 +15,7 @@ layout: default
 |**2023-08-09**|**Search for a Non-Relativistic Boson in Two-Body Antimuon Decay**|J. I. Collar et.al.|[2308.05064v1](http://arxiv.org/abs/2308.05064v1)|[2308.05064v1](http://arxiv.org/pdf/2308.05064v1)|null|
 |**2023-08-09**|**Deuterium Escape on Sub-Neptunes**|Pin-Gao Gu et.al.|[2308.05057v1](http://arxiv.org/abs/2308.05057v1)|[2308.05057v1](http://arxiv.org/pdf/2308.05057v1)|null|
 |**2023-08-09**|**Enhanced Sub-kpc Scale Star-formation: Results From A JWST Size Analysis of 339 Galaxies At 5<z<14**|Takahiro Morishita et.al.|[2308.05018v1](http://arxiv.org/abs/2308.05018v1)|[2308.05018v1](http://arxiv.org/pdf/2308.05018v1)|null|
-|**2023-08-09**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Pérez-Carrasco Manuel et.al.|[2308.05011v1](http://arxiv.org/abs/2308.05011v1)|[2308.05011v1](http://arxiv.org/pdf/2308.05011v1)|**[link](https://github.com/mperezcarrasco/AnomalyALeRCE)**|
+|**2023-08-10**|**Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories**|Manuel Pérez-Carrasco et.al.|[2308.05011v2](http://arxiv.org/abs/2308.05011v2)|[2308.05011v2](http://arxiv.org/pdf/2308.05011v2)|**[link](https://github.com/mperezcarrasco/AnomalyALeRCE)**|
 |**2023-08-09**|**Study of Jupiter's Interior with Quadratic Monte Carlo Simulations**|Burkhard Militzer et.al.|[2308.05008v1](http://arxiv.org/abs/2308.05008v1)|[2308.05008v1](http://arxiv.org/pdf/2308.05008v1)|null|
 |**2023-08-09**|**Constraining Supernova Ia Progenitors by their Locations in Host Galactic Disc**|A. A. Hakobyan et.al.|[2308.04989v1](http://arxiv.org/abs/2308.04989v1)|[2308.04989v1](http://arxiv.org/pdf/2308.04989v1)|null|
 |**2023-08-08**|**Magnetohydrodynamic Mode Conversion in the Solar Corona: Insights from Fresnel-like Models of Waves at Sharp Interfaces**|Steven R. Cranmer et.al.|[2308.04394v1](http://arxiv.org/abs/2308.04394v1)|[2308.04394v1](http://arxiv.org/pdf/2308.04394v1)|null|
