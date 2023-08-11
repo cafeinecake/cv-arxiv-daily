@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-10**|**A supermassive black hole in the early universe growing in the shadows**|Lukas J. Furtak et.al.|[2308.05735v1](http://arxiv.org/abs/2308.05735v1)|[2308.05735v1](http://arxiv.org/pdf/2308.05735v1)|null|
+|**2023-08-10**|**CUTE reveals escaping metals in the upper atmosphere of the ultra-hot Jupiter WASP-189b**|A. G. Sreejith et.al.|[2308.05726v1](http://arxiv.org/abs/2308.05726v1)|[2308.05726v1](http://arxiv.org/pdf/2308.05726v1)|null|
+|**2023-08-10**|**Temporal and Spatial Characteristics of Hard X-Ray Sources in Flare Model with a Vertical Current Sheet**|Alexander N. Shabalin et.al.|[2308.05718v1](http://arxiv.org/abs/2308.05718v1)|[2308.05718v1](http://arxiv.org/pdf/2308.05718v1)|null|
+|**2023-08-10**|**JIRAM Observations of Volcanic Flux on Io: Distribution and Comparison to Tidal Heat Flow Models**|M. Pettine et.al.|[2308.05717v1](http://arxiv.org/abs/2308.05717v1)|[2308.05717v1](http://arxiv.org/pdf/2308.05717v1)|null|
+|**2023-08-10**|**Quantifying the Consistency and Characterizing the Confidence of Coronal Holes Detected by Active Contours without Edges (ACWE)**|Jeremy A. Grajeda et.al.|[2308.05679v1](http://arxiv.org/abs/2308.05679v1)|[2308.05679v1](http://arxiv.org/pdf/2308.05679v1)|null|
+|**2023-08-10**|**A review of planetary systems around HD 99492, HD 147379 and HD 190007 with HARPS-N**|M. Stalport et.al.|[2308.05669v1](http://arxiv.org/abs/2308.05669v1)|[2308.05669v1](http://arxiv.org/pdf/2308.05669v1)|null|
+|**2023-08-10**|**Analysis of Downward Terrestrial Gamma-ray Flashes Using a Large-Area Cosmic Ray Scintillation Detector**|Jackson Remington et.al.|[2308.05662v1](http://arxiv.org/abs/2308.05662v1)|[2308.05662v1](http://arxiv.org/pdf/2308.05662v1)|null|
+|**2023-08-10**|**Sublimation of refractory minerals in the gas envelopes of accreting rocky planets**|Marie-Luise Steinmeyer et.al.|[2308.05647v1](http://arxiv.org/abs/2308.05647v1)|[2308.05647v1](http://arxiv.org/pdf/2308.05647v1)|null|
+|**2023-08-10**|**The White Dwarf Mass-Orbital Period Relation Under Wind Mass Loss**|Shi-Jie Gao et.al.|[2308.05641v1](http://arxiv.org/abs/2308.05641v1)|[2308.05641v1](http://arxiv.org/pdf/2308.05641v1)|null|
+|**2023-08-10**|**Model-independent reconstruction of the primordial curvature power spectrum from PTA data**|Zhu Yi et.al.|[2308.05632v1](http://arxiv.org/abs/2308.05632v1)|[2308.05632v1](http://arxiv.org/pdf/2308.05632v1)|null|
 |**2023-08-09**|**The contribution of faint Lyman-$α$ emitters to extended Lyman-$α$ halos constrained by MUSE clustering measurements**|Yohana Herrero Alonso et.al.|[2308.05105v1](http://arxiv.org/abs/2308.05105v1)|[2308.05105v1](http://arxiv.org/pdf/2308.05105v1)|null|
 |**2023-08-09**|**Two of a Kind: Comparing big and small black holes in binaries with gravitational waves**|Amanda M. Farah et.al.|[2308.05102v1](http://arxiv.org/abs/2308.05102v1)|[2308.05102v1](http://arxiv.org/pdf/2308.05102v1)|null|
 |**2023-08-09**|**Inferring spin tilts of binary black holes at formation with plus-era gravitational wave detectors**|Sumeet Kulkarni et.al.|[2308.05098v1](http://arxiv.org/abs/2308.05098v1)|[2308.05098v1](http://arxiv.org/pdf/2308.05098v1)|null|
@@ -2863,6 +2873,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-10**|**Neural Progressive Meshes**|Yun-Chun Chen et.al.|[2308.05741v1](http://arxiv.org/abs/2308.05741v1)|[2308.05741v1](http://arxiv.org/pdf/2308.05741v1)|null|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|[2308.05734v1](http://arxiv.org/pdf/2308.05734v1)|null|
+|**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|[2308.05732v1](http://arxiv.org/pdf/2308.05732v1)|null|
+|**2023-08-10**|**Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review**|Steffen Hagedorn et.al.|[2308.05731v1](http://arxiv.org/abs/2308.05731v1)|[2308.05731v1](http://arxiv.org/pdf/2308.05731v1)|null|
+|**2023-08-10**|**Testing GPT-4 with Wolfram Alpha and Code Interpreter plug-ins on math and science problems**|Ernest Davis et.al.|[2308.05713v1](http://arxiv.org/abs/2308.05713v1)|[2308.05713v1](http://arxiv.org/pdf/2308.05713v1)|null|
+|**2023-08-10**|**Exploring the Potential of World Models for Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2308.05701v1](http://arxiv.org/abs/2308.05701v1)|[2308.05701v1](http://arxiv.org/pdf/2308.05701v1)|null|
+|**2023-08-10**|**SSLRec: A Self-Supervised Learning Library for Recommendation**|Xubin Ren et.al.|[2308.05697v1](http://arxiv.org/abs/2308.05697v1)|[2308.05697v1](http://arxiv.org/pdf/2308.05697v1)|**[link](https://github.com/hkuds/sslrec)**|
+|**2023-08-10**|**Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient**|Zhengzhi Lu et.al.|[2308.05681v1](http://arxiv.org/abs/2308.05681v1)|[2308.05681v1](http://arxiv.org/pdf/2308.05681v1)|null|
+|**2023-08-10**|**Coupling kinetic and continuum using data-driven maximum entropy distribution**|Mohsen Sadr et.al.|[2308.05672v1](http://arxiv.org/abs/2308.05672v1)|[2308.05672v1](http://arxiv.org/pdf/2308.05672v1)|null|
+|**2023-08-10**|**Exploring Deep Learning Approaches to Predict Person and Vehicle Trips: An Analysis of NHTS Data**|Kojo Adu-Gyamfi et.al.|[2308.05665v1](http://arxiv.org/abs/2308.05665v1)|[2308.05665v1](http://arxiv.org/pdf/2308.05665v1)|null|
 |**2023-08-09**|**DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**|Soumadeep Saha et.al.|[2308.05101v1](http://arxiv.org/abs/2308.05101v1)|[2308.05101v1](http://arxiv.org/pdf/2308.05101v1)|null|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|[2308.05095v1](http://arxiv.org/pdf/2308.05095v1)|null|
 |**2023-08-09**|**Organizational Bulk Email Systems: Their Role and Performance in Remote Work**|Ruoyan Kong et.al.|[2308.05085v1](http://arxiv.org/abs/2308.05085v1)|[2308.05085v1](http://arxiv.org/pdf/2308.05085v1)|null|
