@@ -1,4 +1,4 @@
-> Updated on 2023.08.13
+> Updated on 2023.08.14
 
 ## Astrophysics
 
@@ -6,7 +6,7 @@
 - 2023-08-10, **CUTE reveals escaping metals in the upper atmosphere of the ultra-hot Jupiter WASP-189b**, A. G. Sreejith et.al., Paper: [http://arxiv.org/abs/2308.05726v1](http://arxiv.org/abs/2308.05726v1), Paper: [http://arxiv.org/abs/2308.05726v1](http://arxiv.org/pdf/2308.05726v1)
 - 2023-08-10, **Temporal and Spatial Characteristics of Hard X-Ray Sources in Flare Model with a Vertical Current Sheet**, Alexander N. Shabalin et.al., Paper: [http://arxiv.org/abs/2308.05718v1](http://arxiv.org/abs/2308.05718v1), Paper: [http://arxiv.org/abs/2308.05718v1](http://arxiv.org/pdf/2308.05718v1)
 - 2023-08-10, **JIRAM Observations of Volcanic Flux on Io: Distribution and Comparison to Tidal Heat Flow Models**, M. Pettine et.al., Paper: [http://arxiv.org/abs/2308.05717v1](http://arxiv.org/abs/2308.05717v1), Paper: [http://arxiv.org/abs/2308.05717v1](http://arxiv.org/pdf/2308.05717v1)
-- 2023-08-10, **Quantifying the Consistency and Characterizing the Confidence of Coronal Holes Detected by Active Contours without Edges (ACWE)**, Jeremy A. Grajeda et.al., Paper: [http://arxiv.org/abs/2308.05679v1](http://arxiv.org/abs/2308.05679v1), Paper: [http://arxiv.org/abs/2308.05679v1](http://arxiv.org/pdf/2308.05679v1)
+- 2023-08-10, **Quantifying the Consistency and Characterizing the Confidence of Coronal Holes Detected by Active Contours without Edges (ACWE)**, Jeremy A. Grajeda et.al., Paper: [http://arxiv.org/abs/2308.05679v1](http://arxiv.org/abs/2308.05679v1),Paper: [http://arxiv.org/abs/2308.05679v1](http://arxiv.org/pdf/2308.05679v1), Code: **[https://github.com/duckduckpig/ch-acwe](https://github.com/duckduckpig/ch-acwe)**
 - 2023-08-10, **A review of planetary systems around HD 99492, HD 147379 and HD 190007 with HARPS-N**, M. Stalport et.al., Paper: [http://arxiv.org/abs/2308.05669v1](http://arxiv.org/abs/2308.05669v1), Paper: [http://arxiv.org/abs/2308.05669v1](http://arxiv.org/pdf/2308.05669v1)
 - 2023-08-10, **Analysis of Downward Terrestrial Gamma-ray Flashes Using a Large-Area Cosmic Ray Scintillation Detector**, Jackson Remington et.al., Paper: [http://arxiv.org/abs/2308.05662v1](http://arxiv.org/abs/2308.05662v1), Paper: [http://arxiv.org/abs/2308.05662v1](http://arxiv.org/pdf/2308.05662v1)
 - 2023-08-10, **Sublimation of refractory minerals in the gas envelopes of accreting rocky planets**, Marie-Luise Steinmeyer et.al., Paper: [http://arxiv.org/abs/2308.05647v1](http://arxiv.org/abs/2308.05647v1), Paper: [http://arxiv.org/abs/2308.05647v1](http://arxiv.org/pdf/2308.05647v1)
