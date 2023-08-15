@@ -1,4 +1,4 @@
-> Updated on 2023.08.14
+> Updated on 2023.08.15
 
 ## Astrophysics
 
@@ -9,7 +9,7 @@
 - 2023-08-11, **A Multi-tracer Analysis for the eBOSS galaxy sample based on the Effective Field Theory of Large-scale Structure**, Ruiyang Zhao et.al., Paper: [http://arxiv.org/abs/2308.06206v1](http://arxiv.org/abs/2308.06206v1), Paper: [http://arxiv.org/abs/2308.06206v1](http://arxiv.org/pdf/2308.06206v1)
 - 2023-08-11, **Hot Stellar Populations of Berkeley 39 using Swift/UVOT**, Komal Chand et.al., Paper: [http://arxiv.org/abs/2308.06195v1](http://arxiv.org/abs/2308.06195v1), Paper: [http://arxiv.org/abs/2308.06195v1](http://arxiv.org/pdf/2308.06195v1)
 - 2023-08-11, **A peculiar galaxy near M104**, E. Quiroga et.al., Paper: [http://arxiv.org/abs/2308.06187v1](http://arxiv.org/abs/2308.06187v1), Paper: [http://arxiv.org/abs/2308.06187v1](http://arxiv.org/pdf/2308.06187v1)
-- 2023-08-11, **LeHaMoC: a versatile time-dependent lepto-hadronic modeling code for high-energy astrophysical sources**, S. I. Stathopoulos et.al., Paper: [http://arxiv.org/abs/2308.06174v1](http://arxiv.org/abs/2308.06174v1), Paper: [http://arxiv.org/abs/2308.06174v1](http://arxiv.org/pdf/2308.06174v1)
+- 2023-08-11, **LeHaMoC: a versatile time-dependent lepto-hadronic modeling code for high-energy astrophysical sources**, S. I. Stathopoulos et.al., Paper: [http://arxiv.org/abs/2308.06174v1](http://arxiv.org/abs/2308.06174v1),Paper: [http://arxiv.org/abs/2308.06174v1](http://arxiv.org/pdf/2308.06174v1), Code: **[https://github.com/mariapetro/lehamoc](https://github.com/mariapetro/lehamoc)**
 - 2023-08-11, **GRB221009A events from the mediator of dark matter self-interactions**, Debasish Borah et.al., Paper: [http://arxiv.org/abs/2308.06172v1](http://arxiv.org/abs/2308.06172v1), Paper: [http://arxiv.org/abs/2308.06172v1](http://arxiv.org/pdf/2308.06172v1)
 - 2023-08-11, **Black hole spin measurements in LMC X-1 are highly model-dependent**, Andrzej A. Zdziarski et.al., Paper: [http://arxiv.org/abs/2308.06167v1](http://arxiv.org/abs/2308.06167v1), Paper: [http://arxiv.org/abs/2308.06167v1](http://arxiv.org/pdf/2308.06167v1)
 - 2023-08-10, **A supermassive black hole in the early universe growing in the shadows**, Lukas J. Furtak et.al., Paper: [http://arxiv.org/abs/2308.05735v1](http://arxiv.org/abs/2308.05735v1), Paper: [http://arxiv.org/abs/2308.05735v1](http://arxiv.org/pdf/2308.05735v1)
