@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-15**|**Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**|Zhandos Moldabekov et.al.|[2308.07916v1](http://arxiv.org/abs/2308.07916v1)|[2308.07916v1](http://arxiv.org/pdf/2308.07916v1)|null|
+|**2023-08-15**|**Ultra-low mass PBHs in the early universe can explain the PTA signal**|Nilanjandev Bhaumik et.al.|[2308.07912v1](http://arxiv.org/abs/2308.07912v1)|[2308.07912v1](http://arxiv.org/pdf/2308.07912v1)|null|
+|**2023-08-15**|**Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD169142 disk**|Alice S. Booth et.al.|[2308.07910v1](http://arxiv.org/abs/2308.07910v1)|[2308.07910v1](http://arxiv.org/pdf/2308.07910v1)|null|
+|**2023-08-15**|**Understanding the Nature of the Optical Emission in Gamma-Ray Bursts: Analysis from TAROT, COATLI, and RATIR Observations**|R. L. Becerra et.al.|[2308.07882v1](http://arxiv.org/abs/2308.07882v1)|[2308.07882v1](http://arxiv.org/pdf/2308.07882v1)|null|
+|**2023-08-15**|**Discovery of seven volcanic outbursts on Io from an IRTF observation campaign 2016 to 2022**|Christian D. Tate et.al.|[2308.07864v1](http://arxiv.org/abs/2308.07864v1)|[2308.07864v1](http://arxiv.org/pdf/2308.07864v1)|null|
+|**2023-08-15**|**Profound optical flares from the relativistic jets of active galactic nuclei**|Gopal Bhatta et.al.|[2308.07861v1](http://arxiv.org/abs/2308.07861v1)|[2308.07861v1](http://arxiv.org/pdf/2308.07861v1)|null|
+|**2023-08-15**|**Cosmic inflation and $(g-2)_μ$ in minimal gauged $L_μ-L_τ$ model**|Arnab Paul et.al.|[2308.07855v1](http://arxiv.org/abs/2308.07855v1)|[2308.07855v1](http://arxiv.org/pdf/2308.07855v1)|null|
+|**2023-08-15**|**Tidal interactions shape period ratios in planetary systems with three-body resonant chains**|Carolina Charalambous et.al.|[2308.07839v1](http://arxiv.org/abs/2308.07839v1)|[2308.07839v1](http://arxiv.org/pdf/2308.07839v1)|null|
+|**2023-08-15**|**Theoretical Study of Inelastic Processes in Collisions of Y and Y$^+$ with Hydrogen Atom**|Yu Wang et.al.|[2308.07831v1](http://arxiv.org/abs/2308.07831v1)|[2308.07831v1](http://arxiv.org/pdf/2308.07831v1)|null|
+|**2023-08-15**|**Post-superhumps maximum on intranight time scales of the AM CVn star CR Boo**|Daniela Boneva et.al.|[2308.07794v1](http://arxiv.org/abs/2308.07794v1)|[2308.07794v1](http://arxiv.org/pdf/2308.07794v1)|null|
 |**2023-08-14**|**A novel radio imaging method for physical spectral index modelling**|E. Ceccotti et.al.|[2308.07306v1](http://arxiv.org/abs/2308.07306v1)|[2308.07306v1](http://arxiv.org/pdf/2308.07306v1)|null|
 |**2023-08-14**|**Symmetric Teleparallel Gauss-Bonnet Gravity and its Extensions**|Juan Manuel Armaleo et.al.|[2308.07299v1](http://arxiv.org/abs/2308.07299v1)|[2308.07299v1](http://arxiv.org/pdf/2308.07299v1)|null|
 |**2023-08-14**|**Calibration and Physics with ARA Station 1: A Unique Askaryan Radio Array Detector**|M. F. H Seikh et.al.|[2308.07292v1](http://arxiv.org/abs/2308.07292v1)|[2308.07292v1](http://arxiv.org/pdf/2308.07292v1)|null|
@@ -2889,6 +2899,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-15**|**RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models**|Jie Huang et.al.|[2308.07922v1](http://arxiv.org/abs/2308.07922v1)|[2308.07922v1](http://arxiv.org/pdf/2308.07922v1)|null|
+|**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|[2308.07921v1](http://arxiv.org/pdf/2308.07921v1)|null|
+|**2023-08-15**|**Sequential Monte Carlo with Cross-validated Neural Networks for Complexity of Hyperbolic Black Hole Solutions in 4D**|Armin Hatefi et.al.|[2308.07907v1](http://arxiv.org/abs/2308.07907v1)|[2308.07907v1](http://arxiv.org/pdf/2308.07907v1)|null|
+|**2023-08-15**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903v1](http://arxiv.org/abs/2308.07903v1)|[2308.07903v1](http://arxiv.org/pdf/2308.07903v1)|null|
+|**2023-08-15**|**Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**|Ziyu Zhuang et.al.|[2308.07902v1](http://arxiv.org/abs/2308.07902v1)|[2308.07902v1](http://arxiv.org/pdf/2308.07902v1)|null|
+|**2023-08-15**|**Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**|Ming-Chiang Chang et.al.|[2308.07897v1](http://arxiv.org/abs/2308.07897v1)|[2308.07897v1](http://arxiv.org/pdf/2308.07897v1)|null|
+|**2023-08-15**|**EduSAT: A Pedagogical Tool for Theory and Applications of Boolean Satisfiability**|Yiqi Zhao et.al.|[2308.07890v1](http://arxiv.org/abs/2308.07890v1)|[2308.07890v1](http://arxiv.org/pdf/2308.07890v1)|**[link](https://github.com/zhaoy37/sat_solver)**|
+|**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889v1](http://arxiv.org/abs/2308.07889v1)|[2308.07889v1](http://arxiv.org/pdf/2308.07889v1)|null|
+|**2023-08-15**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations**|Lekang Jiang et.al.|[2308.07883v1](http://arxiv.org/abs/2308.07883v1)|[2308.07883v1](http://arxiv.org/pdf/2308.07883v1)|**[link](https://github.com/scylj1/gnn_edge_regression)**|
+|**2023-08-15**|**The $10 Million ANA Avatar XPRIZE Competition Advanced Immersive Telepresence Systems**|Sven Behnke et.al.|[2308.07878v1](http://arxiv.org/abs/2308.07878v1)|[2308.07878v1](http://arxiv.org/pdf/2308.07878v1)|null|
 |**2023-08-15**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308v2](http://arxiv.org/abs/2308.07308v2)|[2308.07308v2](http://arxiv.org/pdf/2308.07308v2)|null|
 |**2023-08-14**|**Extend Wave Function Collapse to Large-Scale Content Generation**|Yuhe Nie et.al.|[2308.07307v1](http://arxiv.org/abs/2308.07307v1)|[2308.07307v1](http://arxiv.org/pdf/2308.07307v1)|null|
 |**2023-08-14**|**Neural Authorship Attribution: Stylometric Analysis on Large Language Models**|Tharindu Kumarage et.al.|[2308.07305v1](http://arxiv.org/abs/2308.07305v1)|[2308.07305v1](http://arxiv.org/pdf/2308.07305v1)|null|
