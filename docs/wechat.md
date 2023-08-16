@@ -1,4 +1,4 @@
-> Updated on 2023.08.15
+> Updated on 2023.08.16
 
 ## Astrophysics
 
@@ -2885,10 +2885,10 @@
 
 ## AI
 
-- 2023-08-14, **LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**, Alec Helbling et.al., Paper: [http://arxiv.org/abs/2308.07308v1](http://arxiv.org/abs/2308.07308v1), Paper: [http://arxiv.org/abs/2308.07308v1](http://arxiv.org/pdf/2308.07308v1)
+- 2023-08-15, **LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**, Alec Helbling et.al., Paper: [http://arxiv.org/abs/2308.07308v2](http://arxiv.org/abs/2308.07308v2), Paper: [http://arxiv.org/abs/2308.07308v2](http://arxiv.org/pdf/2308.07308v2)
 - 2023-08-14, **Extend Wave Function Collapse to Large-Scale Content Generation**, Yuhe Nie et.al., Paper: [http://arxiv.org/abs/2308.07307v1](http://arxiv.org/abs/2308.07307v1), Paper: [http://arxiv.org/abs/2308.07307v1](http://arxiv.org/pdf/2308.07307v1)
 - 2023-08-14, **Neural Authorship Attribution: Stylometric Analysis on Large Language Models**, Tharindu Kumarage et.al., Paper: [http://arxiv.org/abs/2308.07305v1](http://arxiv.org/abs/2308.07305v1), Paper: [http://arxiv.org/abs/2308.07305v1](http://arxiv.org/pdf/2308.07305v1)
-- 2023-08-14, **Why Not? Explaining Missing Entailments with $\rm E{\scriptsize VEE}$ (Technical Report)**, Christian Alrabbaa et.al., Paper: [http://arxiv.org/abs/2308.07294v1](http://arxiv.org/abs/2308.07294v1), Paper: [http://arxiv.org/abs/2308.07294v1](http://arxiv.org/pdf/2308.07294v1)
+- 2023-08-15, **Why Not? Explaining Missing Entailments with Evee (Technical Report)**, Christian Alrabbaa et.al., Paper: [http://arxiv.org/abs/2308.07294v2](http://arxiv.org/abs/2308.07294v2), Paper: [http://arxiv.org/abs/2308.07294v2](http://arxiv.org/pdf/2308.07294v2)
 - 2023-08-14, **Cross-Attribute Matrix Factorization Model with Shared User Embedding**, Wen Liang et.al., Paper: [http://arxiv.org/abs/2308.07284v1](http://arxiv.org/abs/2308.07284v1), Paper: [http://arxiv.org/abs/2308.07284v1](http://arxiv.org/pdf/2308.07284v1)
 - 2023-08-14, **Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid**, Alexander Kyuroson et.al., Paper: [http://arxiv.org/abs/2308.07283v1](http://arxiv.org/abs/2308.07283v1), Paper: [http://arxiv.org/abs/2308.07283v1](http://arxiv.org/pdf/2308.07283v1)
 - 2023-08-14, **Data-Efficient Energy-Aware Participant Selection for UAV-Enabled Federated Learning**, Youssra Cheriguene et.al., Paper: [http://arxiv.org/abs/2308.07273v1](http://arxiv.org/abs/2308.07273v1), Paper: [http://arxiv.org/abs/2308.07273v1](http://arxiv.org/pdf/2308.07273v1)
