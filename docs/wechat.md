@@ -1,4 +1,4 @@
-> Updated on 2023.08.16
+> Updated on 2023.08.17
 
 ## Astrophysics
 
@@ -2900,7 +2900,7 @@
 - 2023-08-15, **Sequential Monte Carlo with Cross-validated Neural Networks for Complexity of Hyperbolic Black Hole Solutions in 4D**, Armin Hatefi et.al., Paper: [http://arxiv.org/abs/2308.07907v1](http://arxiv.org/abs/2308.07907v1), Paper: [http://arxiv.org/abs/2308.07907v1](http://arxiv.org/pdf/2308.07907v1)
 - 2023-08-15, **Relightable and Animatable Neural Avatar from Sparse-View Video**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2308.07903v1](http://arxiv.org/abs/2308.07903v1), Paper: [http://arxiv.org/abs/2308.07903v1](http://arxiv.org/pdf/2308.07903v1)
 - 2023-08-15, **Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**, Ziyu Zhuang et.al., Paper: [http://arxiv.org/abs/2308.07902v1](http://arxiv.org/abs/2308.07902v1), Paper: [http://arxiv.org/abs/2308.07902v1](http://arxiv.org/pdf/2308.07902v1)
-- 2023-08-15, **Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**, Ming-Chiang Chang et.al., Paper: [http://arxiv.org/abs/2308.07897v1](http://arxiv.org/abs/2308.07897v1), Paper: [http://arxiv.org/abs/2308.07897v1](http://arxiv.org/pdf/2308.07897v1)
+- 2023-08-15, **Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**, Ming-Chiang Chang et.al., Paper: [http://arxiv.org/abs/2308.07897v1](http://arxiv.org/abs/2308.07897v1),Paper: [http://arxiv.org/abs/2308.07897v1](http://arxiv.org/pdf/2308.07897v1), Code: **[https://github.com/mingchiangchang/crystaltree.jl](https://github.com/mingchiangchang/crystaltree.jl)**
 - 2023-08-15, **EduSAT: A Pedagogical Tool for Theory and Applications of Boolean Satisfiability**, Yiqi Zhao et.al., Paper: [http://arxiv.org/abs/2308.07890v1](http://arxiv.org/abs/2308.07890v1),Paper: [http://arxiv.org/abs/2308.07890v1](http://arxiv.org/pdf/2308.07890v1), Code: **[https://github.com/zhaoy37/sat_solver](https://github.com/zhaoy37/sat_solver)**
 - 2023-08-15, **A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**, Long Jin et.al., Paper: [http://arxiv.org/abs/2308.07889v1](http://arxiv.org/abs/2308.07889v1), Paper: [http://arxiv.org/abs/2308.07889v1](http://arxiv.org/pdf/2308.07889v1)
 - 2023-08-15, **Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations**, Lekang Jiang et.al., Paper: [http://arxiv.org/abs/2308.07883v1](http://arxiv.org/abs/2308.07883v1),Paper: [http://arxiv.org/abs/2308.07883v1](http://arxiv.org/pdf/2308.07883v1), Code: **[https://github.com/scylj1/gnn_edge_regression](https://github.com/scylj1/gnn_edge_regression)**
