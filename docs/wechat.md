@@ -1,4 +1,4 @@
-> Updated on 2023.08.17
+> Updated on 2023.08.18
 
 ## Astrophysics
 
@@ -2911,7 +2911,7 @@
 - 2023-08-16, **Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**, Yuhao Yang et.al., Paper: [http://arxiv.org/abs/2308.08518v1](http://arxiv.org/abs/2308.08518v1), Paper: [http://arxiv.org/abs/2308.08518v1](http://arxiv.org/pdf/2308.08518v1)
 - 2023-08-16, **Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**, Munib Mesinovic et.al., Paper: [http://arxiv.org/abs/2308.08407v1](http://arxiv.org/abs/2308.08407v1), Paper: [http://arxiv.org/abs/2308.08407v1](http://arxiv.org/pdf/2308.08407v1)
 - 2023-08-16, **Precision and Recall Reject Curves for Classification**, Lydia Fischer et.al., Paper: [http://arxiv.org/abs/2308.08381v1](http://arxiv.org/abs/2308.08381v1), Paper: [http://arxiv.org/abs/2308.08381v1](http://arxiv.org/pdf/2308.08381v1)
-- 2023-08-16, **PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**, Richard Nordsieck et.al., Paper: [http://arxiv.org/abs/2308.08371v1](http://arxiv.org/abs/2308.08371v1), Paper: [http://arxiv.org/abs/2308.08371v1](http://arxiv.org/pdf/2308.08371v1)
+- 2023-08-16, **PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**, Richard Nordsieck et.al., Paper: [http://arxiv.org/abs/2308.08371v1](http://arxiv.org/abs/2308.08371v1),Paper: [http://arxiv.org/abs/2308.08371v1](http://arxiv.org/pdf/2308.08371v1), Code: **[https://github.com/0x14d/embedding-operator-knowledge](https://github.com/0x14d/embedding-operator-knowledge)**
 - 2023-08-16, **Agglomerative Transformer for Human-Object Interaction Detection**, Danyang Tu et.al., Paper: [http://arxiv.org/abs/2308.08370v1](http://arxiv.org/abs/2308.08370v1), Paper: [http://arxiv.org/abs/2308.08370v1](http://arxiv.org/pdf/2308.08370v1)
 - 2023-08-16, **Is Meta-Learning the Right Approach for the Cold-Start Problem in Recommender Systems?**, Davide Buffelli et.al., Paper: [http://arxiv.org/abs/2308.08354v1](http://arxiv.org/abs/2308.08354v1), Paper: [http://arxiv.org/abs/2308.08354v1](http://arxiv.org/pdf/2308.08354v1)
 - 2023-08-16, **Graph Out-of-Distribution Generalization with Controllable Data Augmentation**, Bin Lu et.al., Paper: [http://arxiv.org/abs/2308.08344v1](http://arxiv.org/abs/2308.08344v1), Paper: [http://arxiv.org/abs/2308.08344v1](http://arxiv.org/pdf/2308.08344v1)
