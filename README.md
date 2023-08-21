@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-18**|**Modelling UX Ori Star Eclipses based on Spectral Observations with the Nordic Optical Telescope. I. RR Tau**|V. P. Grinin et.al.|[2308.09688v1](http://arxiv.org/abs/2308.09688v1)|[2308.09688v1](http://arxiv.org/pdf/2308.09688v1)|null|
+|**2023-08-18**|**EPOCHS IX. When cosmic dawn breaks: Evidence for evolved stellar populations in $7 < z < 12$ galaxies from PEARLS GTO and public NIRCam imaging**|James A. A. Trussler et.al.|[2308.09665v1](http://arxiv.org/abs/2308.09665v1)|[2308.09665v1](http://arxiv.org/pdf/2308.09665v1)|null|
+|**2023-08-18**|**Production of 44Ti and iron-group nuclei in the ejecta of 3D neutrino-driven supernovae**|Andre Sieverding et.al.|[2308.09659v1](http://arxiv.org/abs/2308.09659v1)|[2308.09659v1](http://arxiv.org/pdf/2308.09659v1)|null|
+|**2023-08-18**|**A deep learning approach for the 3D reconstruction of dust density and temperature in star-forming regions**|Victor F. Ksoll et.al.|[2308.09657v1](http://arxiv.org/abs/2308.09657v1)|[2308.09657v1](http://arxiv.org/pdf/2308.09657v1)|null|
+|**2023-08-18**|**Large Interferometer For Exoplanets (LIFE). X. Detectability of currently known exoplanets and synergies with future IR/O/UV reflected-starlight imaging missions**|Óscar Carrión-González et.al.|[2308.09646v1](http://arxiv.org/abs/2308.09646v1)|[2308.09646v1](http://arxiv.org/pdf/2308.09646v1)|null|
+|**2023-08-18**|**Physical modelling of near-Earth asteroid (23187) 2000 PN9 with ground-based optical and radar observations**|L. Dover et.al.|[2308.09630v1](http://arxiv.org/abs/2308.09630v1)|[2308.09630v1](http://arxiv.org/pdf/2308.09630v1)|null|
+|**2023-08-18**|**Milliarcsecond Core Size Dependence of the Radio Variability of Blazars**|Po Chih Hsu et.al.|[2308.09626v1](http://arxiv.org/abs/2308.09626v1)|[2308.09626v1](http://arxiv.org/pdf/2308.09626v1)|null|
+|**2023-08-18**|**Identification of the Top TESS Objects of Interest for Atmospheric Characterization of Transiting Exoplanets with JWST**|Benjamin J. Hord et.al.|[2308.09617v1](http://arxiv.org/abs/2308.09617v1)|[2308.09617v1](http://arxiv.org/pdf/2308.09617v1)|null|
+|**2023-08-18**|**The face-on projection of the Miyamoto & Nagai disks**|Luca Ciotti et.al.|[2308.09615v1](http://arxiv.org/abs/2308.09615v1)|[2308.09615v1](http://arxiv.org/pdf/2308.09615v1)|null|
+|**2023-08-18**|**Statistical association between the candidate repeating FRB 20200320A and a galaxy group**|Masoud Rafiei-Ravandi et.al.|[2308.09608v1](http://arxiv.org/abs/2308.09608v1)|[2308.09608v1](http://arxiv.org/pdf/2308.09608v1)|null|
 |**2023-08-16**|**What is the source of the PTA GW signal?**|John Ellis et.al.|[2308.08546v1](http://arxiv.org/abs/2308.08546v1)|[2308.08546v1](http://arxiv.org/pdf/2308.08546v1)|null|
 |**2023-08-18**|**First spectroscopic observations of the galaxies that reionized the Universe**|Hakim Atek et.al.|[2308.08540v2](http://arxiv.org/abs/2308.08540v2)|[2308.08540v2](http://arxiv.org/pdf/2308.08540v2)|null|
 |**2023-08-16**|**Survey of Bare Active Galactic Nuclei in the local universe (z < 0.2): I. On the origin of Soft-Excess**|Prantik Nandi et.al.|[2308.08528v1](http://arxiv.org/abs/2308.08528v1)|[2308.08528v1](http://arxiv.org/pdf/2308.08528v1)|null|
@@ -2909,6 +2919,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716v1](http://arxiv.org/abs/2308.09716v1)|[2308.09716v1](http://arxiv.org/pdf/2308.09716v1)|**[link](https://github.com/soumik-kanad/diff2lip)**|
+|**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|[2308.09710v1](http://arxiv.org/pdf/2308.09710v1)|null|
+|**2023-08-18**|**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**|Maciej Besta et.al.|[2308.09687v1](http://arxiv.org/abs/2308.09687v1)|[2308.09687v1](http://arxiv.org/pdf/2308.09687v1)|**[link](https://github.com/spcl/graph-of-thoughts)**|
+|**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678v1](http://arxiv.org/abs/2308.09678v1)|[2308.09678v1](http://arxiv.org/pdf/2308.09678v1)|**[link](https://github.com/hbing-l/posynda)**|
+|**2023-08-18**|**GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction**|Yucheng Shi et.al.|[2308.09663v1](http://arxiv.org/abs/2308.09663v1)|[2308.09663v1](http://arxiv.org/pdf/2308.09663v1)|**[link](https://github.com/sycny/gigamae)**|
+|**2023-08-18**|**Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**|Pengbo Hu et.al.|[2308.09658v1](http://arxiv.org/abs/2308.09658v1)|[2308.09658v1](http://arxiv.org/pdf/2308.09658v1)|null|
+|**2023-08-18**|**Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction**|Daniel Bethell et.al.|[2308.09647v1](http://arxiv.org/abs/2308.09647v1)|[2308.09647v1](http://arxiv.org/pdf/2308.09647v1)|**[link](https://github.com/team-daniel/mc-cp)**|
+|**2023-08-18**|**Revisiting Skin Tone Fairness in Dermatological Lesion Classification**|Thorsten Kalb et.al.|[2308.09640v1](http://arxiv.org/abs/2308.09640v1)|[2308.09640v1](http://arxiv.org/pdf/2308.09640v1)|**[link](https://github.com/tkalbl/revisitingskintonefairness)**|
+|**2023-08-18**|**VALERIE22 -- A photorealistic, richly metadata annotated dataset of urban environments**|Oliver Grau et.al.|[2308.09632v1](http://arxiv.org/abs/2308.09632v1)|[2308.09632v1](http://arxiv.org/pdf/2308.09632v1)|null|
+|**2023-08-18**|**Minimum Coverage Sets for Training Robust Ad Hoc Teamwork Agents**|Arrasy Rahman et.al.|[2308.09595v1](http://arxiv.org/abs/2308.09595v1)|[2308.09595v1](http://arxiv.org/pdf/2308.09595v1)|null|
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v1](http://arxiv.org/abs/2308.08545v1)|[2308.08545v1](http://arxiv.org/pdf/2308.08545v1)|null|
 |**2023-08-16**|**Can Transformers Learn Optimal Filtering for Unknown Systems?**|Haldun Balim et.al.|[2308.08536v1](http://arxiv.org/abs/2308.08536v1)|[2308.08536v1](http://arxiv.org/pdf/2308.08536v1)|null|
 |**2023-08-16**|**Generalizing the Min-Max Regret Criterion using Ordered Weighted Averaging**|Werner Baak et.al.|[2308.08522v1](http://arxiv.org/abs/2308.08522v1)|[2308.08522v1](http://arxiv.org/pdf/2308.08522v1)|null|
