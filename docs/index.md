@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-08-16**|**What is the source of the PTA GW signal?**|John Ellis et.al.|[2308.08546v1](http://arxiv.org/abs/2308.08546v1)|[2308.08546v1](http://arxiv.org/pdf/2308.08546v1)|null|
-|**2023-08-16**|**First spectroscopic observations of the galaxies that reionized the Universe**|Hakim Atek et.al.|[2308.08540v1](http://arxiv.org/abs/2308.08540v1)|[2308.08540v1](http://arxiv.org/pdf/2308.08540v1)|null|
+|**2023-08-18**|**First spectroscopic observations of the galaxies that reionized the Universe**|Hakim Atek et.al.|[2308.08540v2](http://arxiv.org/abs/2308.08540v2)|[2308.08540v2](http://arxiv.org/pdf/2308.08540v2)|null|
 |**2023-08-16**|**Survey of Bare Active Galactic Nuclei in the local universe (z < 0.2): I. On the origin of Soft-Excess**|Prantik Nandi et.al.|[2308.08528v1](http://arxiv.org/abs/2308.08528v1)|[2308.08528v1](http://arxiv.org/pdf/2308.08528v1)|null|
 |**2023-08-16**|**Performance Studies of the Acoustic Module for the IceCube Upgrade**|Charlotte Benning et.al.|[2308.08506v1](http://arxiv.org/abs/2308.08506v1)|[2308.08506v1](http://arxiv.org/pdf/2308.08506v1)|null|
 |**2023-08-16**|**Galactic Archaeology: Tracing the Milky Way's Formation and Evolution through Stellar Populations**|J. Alfredo Collazos et.al.|[2308.08492v1](http://arxiv.org/abs/2308.08492v1)|[2308.08492v1](http://arxiv.org/pdf/2308.08492v1)|null|
@@ -17,7 +17,7 @@ layout: default
 |**2023-08-16**|**Detecting Ultra-light Dark Matter with Stimulated Annihilation**|Yuanlin Gong et.al.|[2308.08477v1](http://arxiv.org/abs/2308.08477v1)|[2308.08477v1](http://arxiv.org/pdf/2308.08477v1)|null|
 |**2023-08-16**|**Variations in climate habitability parameters and their effect on Earth's biosphere during the Phanerozoic Eon**|Iva Vilović et.al.|[2308.08470v1](http://arxiv.org/abs/2308.08470v1)|[2308.08470v1](http://arxiv.org/pdf/2308.08470v1)|null|
 |**2023-08-16**|**Gravitational Wave Emission from a Cosmic String Loop, I: Global Case**|Jorge Baeza-Ballesteros et.al.|[2308.08456v1](http://arxiv.org/abs/2308.08456v1)|[2308.08456v1](http://arxiv.org/pdf/2308.08456v1)|null|
-|**2023-08-16**|**Detection of Binary Black Hole Mergers from the Signal-to-Noise Ratio Time Series Using Deep Learning**|Damon Beveridge et.al.|[2308.08429v1](http://arxiv.org/abs/2308.08429v1)|[2308.08429v1](http://arxiv.org/pdf/2308.08429v1)|null|
+|**2023-08-17**|**Detection of Binary Black Hole Mergers from the Signal-to-Noise Ratio Time Series Using Deep Learning**|Damon Beveridge et.al.|[2308.08429v2](http://arxiv.org/abs/2308.08429v2)|[2308.08429v2](http://arxiv.org/pdf/2308.08429v2)|null|
 |**2023-08-15**|**Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**|Zhandos Moldabekov et.al.|[2308.07916v1](http://arxiv.org/abs/2308.07916v1)|[2308.07916v1](http://arxiv.org/pdf/2308.07916v1)|null|
 |**2023-08-15**|**Ultra-low mass PBHs in the early universe can explain the PTA signal**|Nilanjandev Bhaumik et.al.|[2308.07912v1](http://arxiv.org/abs/2308.07912v1)|[2308.07912v1](http://arxiv.org/pdf/2308.07912v1)|null|
 |**2023-08-15**|**Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD169142 disk**|Alice S. Booth et.al.|[2308.07910v1](http://arxiv.org/abs/2308.07910v1)|[2308.07910v1](http://arxiv.org/pdf/2308.07910v1)|null|
@@ -2916,9 +2916,9 @@ layout: default
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v1](http://arxiv.org/abs/2308.08545v1)|[2308.08545v1](http://arxiv.org/pdf/2308.08545v1)|null|
 |**2023-08-16**|**Can Transformers Learn Optimal Filtering for Unknown Systems?**|Haldun Balim et.al.|[2308.08536v1](http://arxiv.org/abs/2308.08536v1)|[2308.08536v1](http://arxiv.org/pdf/2308.08536v1)|null|
 |**2023-08-16**|**Generalizing the Min-Max Regret Criterion using Ordered Weighted Averaging**|Werner Baak et.al.|[2308.08522v1](http://arxiv.org/abs/2308.08522v1)|[2308.08522v1](http://arxiv.org/pdf/2308.08522v1)|null|
-|**2023-08-16**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518v1](http://arxiv.org/abs/2308.08518v1)|[2308.08518v1](http://arxiv.org/pdf/2308.08518v1)|null|
+|**2023-08-17**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518v2](http://arxiv.org/abs/2308.08518v2)|[2308.08518v2](http://arxiv.org/pdf/2308.08518v2)|null|
 |**2023-08-16**|**Explainable AI for clinical risk prediction: a survey of concepts, methods, and modalities**|Munib Mesinovic et.al.|[2308.08407v1](http://arxiv.org/abs/2308.08407v1)|[2308.08407v1](http://arxiv.org/pdf/2308.08407v1)|null|
-|**2023-08-16**|**Precision and Recall Reject Curves for Classification**|Lydia Fischer et.al.|[2308.08381v1](http://arxiv.org/abs/2308.08381v1)|[2308.08381v1](http://arxiv.org/pdf/2308.08381v1)|null|
+|**2023-08-17**|**Precision and Recall Reject Curves for Classification**|Lydia Fischer et.al.|[2308.08381v2](http://arxiv.org/abs/2308.08381v2)|[2308.08381v2](http://arxiv.org/pdf/2308.08381v2)|null|
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371v1](http://arxiv.org/abs/2308.08371v1)|[2308.08371v1](http://arxiv.org/pdf/2308.08371v1)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
 |**2023-08-16**|**Agglomerative Transformer for Human-Object Interaction Detection**|Danyang Tu et.al.|[2308.08370v1](http://arxiv.org/abs/2308.08370v1)|[2308.08370v1](http://arxiv.org/pdf/2308.08370v1)|null|
 |**2023-08-16**|**Is Meta-Learning the Right Approach for the Cold-Start Problem in Recommender Systems?**|Davide Buffelli et.al.|[2308.08354v1](http://arxiv.org/abs/2308.08354v1)|[2308.08354v1](http://arxiv.org/pdf/2308.08354v1)|null|
