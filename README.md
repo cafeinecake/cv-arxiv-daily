@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-21**|**Little Red Dots or Brown Dwarfs? NIRSpec Confirmation of Three Brown Dwarfs Masquerading as NIRCam-Selected Highly-Reddened AGNs**|Danial Langeroodi et.al.|[2308.10900v1](http://arxiv.org/abs/2308.10900v1)|[2308.10900v1](http://arxiv.org/pdf/2308.10900v1)|null|
+|**2023-08-21**|**Dynamics of supermassive black hole triples in the ROMULUS25 cosmological simulation**|Hauke Koehn et.al.|[2308.10894v1](http://arxiv.org/abs/2308.10894v1)|[2308.10894v1](http://arxiv.org/pdf/2308.10894v1)|null|
+|**2023-08-21**|**Binary black hole mergers in nuclear star clusters: eccentricities, spins, masses, and the growth of massive seeds**|Debatri Chattopadhyay et.al.|[2308.10884v1](http://arxiv.org/abs/2308.10884v1)|[2308.10884v1](http://arxiv.org/pdf/2308.10884v1)|null|
+|**2023-08-21**|**Detailed study of the Bootes field using 300-500 MHz uGMRT observations: Source Properties and radio--infrared correlations**|Akriti Sinha et.al.|[2308.10880v1](http://arxiv.org/abs/2308.10880v1)|[2308.10880v1](http://arxiv.org/pdf/2308.10880v1)|null|
+|**2023-08-21**|**Cosmology from weak lensing peaks and minima with Subaru Hyper Suprime-Cam survey first-year data**|Gabriela A. Marques et.al.|[2308.10866v1](http://arxiv.org/abs/2308.10866v1)|[2308.10866v1](http://arxiv.org/pdf/2308.10866v1)|null|
+|**2023-08-21**|**3D hydrodynamics simulations of a 3 $M_{\odot}$ core-helium burning star**|Simon Blouin et.al.|[2308.10865v1](http://arxiv.org/abs/2308.10865v1)|[2308.10865v1](http://arxiv.org/pdf/2308.10865v1)|null|
+|**2023-08-21**|**The UHECR-FR0 Radio Galaxy Connection: A Multi-Messenger Study of Energy Spectra/Composition Emission and Intergalactic Magnetic Field Propagation**|J. P. Lundquist et.al.|[2308.10803v1](http://arxiv.org/abs/2308.10803v1)|[2308.10803v1](http://arxiv.org/pdf/2308.10803v1)|null|
+|**2023-08-21**|**Simulating Hydrogen-poor Interaction-Powered Supernovae with CHIPS**|Yuki Takei et.al.|[2308.10785v1](http://arxiv.org/abs/2308.10785v1)|[2308.10785v1](http://arxiv.org/pdf/2308.10785v1)|null|
+|**2023-08-21**|**Transit Timing Variations in the three-planet system: TOI-270**|Laurel Kaye et.al.|[2308.10763v1](http://arxiv.org/abs/2308.10763v1)|[2308.10763v1](http://arxiv.org/pdf/2308.10763v1)|null|
+|**2023-08-21**|**A radical transition in the post-main-sequence system U Equulei**|Tomek Kaminski et.al.|[2308.10747v1](http://arxiv.org/abs/2308.10747v1)|[2308.10747v1](http://arxiv.org/pdf/2308.10747v1)|null|
 |**2023-08-18**|**Modelling UX Ori Star Eclipses based on Spectral Observations with the Nordic Optical Telescope. I. RR Tau**|V. P. Grinin et.al.|[2308.09688v1](http://arxiv.org/abs/2308.09688v1)|[2308.09688v1](http://arxiv.org/pdf/2308.09688v1)|null|
 |**2023-08-18**|**EPOCHS IX. When cosmic dawn breaks: Evidence for evolved stellar populations in $7 < z < 12$ galaxies from PEARLS GTO and public NIRCam imaging**|James A. A. Trussler et.al.|[2308.09665v1](http://arxiv.org/abs/2308.09665v1)|[2308.09665v1](http://arxiv.org/pdf/2308.09665v1)|null|
 |**2023-08-18**|**Production of 44Ti and iron-group nuclei in the ejecta of 3D neutrino-driven supernovae**|Andre Sieverding et.al.|[2308.09659v1](http://arxiv.org/abs/2308.09659v1)|[2308.09659v1](http://arxiv.org/pdf/2308.09659v1)|null|
@@ -2919,6 +2929,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-21**|**Structured World Models from Human Videos**|Russell Mendonca et.al.|[2308.10901v1](http://arxiv.org/abs/2308.10901v1)|[2308.10901v1](http://arxiv.org/pdf/2308.10901v1)|null|
+|**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|[2308.10899v1](http://arxiv.org/pdf/2308.10899v1)|null|
+|**2023-08-21**|**Giraffe: Adventures in Expanding Context Lengths in LLMs**|Arka Pal et.al.|[2308.10882v1](http://arxiv.org/abs/2308.10882v1)|[2308.10882v1](http://arxiv.org/pdf/2308.10882v1)|null|
+|**2023-08-21**|**Analyzing Transformer Dynamics as Movement through Embedding Space**|Sumeet S. Singh et.al.|[2308.10874v1](http://arxiv.org/abs/2308.10874v1)|[2308.10874v1](http://arxiv.org/pdf/2308.10874v1)|null|
+|**2023-08-21**|**Majorana Demonstrator Data Release for AI/ML Applications**|I. J. Arnquist et.al.|[2308.10856v1](http://arxiv.org/abs/2308.10856v1)|[2308.10856v1](http://arxiv.org/pdf/2308.10856v1)|null|
+|**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851v1](http://arxiv.org/abs/2308.10851v1)|[2308.10851v1](http://arxiv.org/pdf/2308.10851v1)|null|
+|**2023-08-21**|**Evaluating quantum generative models via imbalanced data classification benchmarks**|Graham R. Enos et.al.|[2308.10847v1](http://arxiv.org/abs/2308.10847v1)|[2308.10847v1](http://arxiv.org/pdf/2308.10847v1)|null|
+|**2023-08-21**|**Real World Time Series Benchmark Datasets with Distribution Shifts: Global Crude Oil Price and Volatility**|Pranay Pasula et.al.|[2308.10846v1](http://arxiv.org/abs/2308.10846v1)|[2308.10846v1](http://arxiv.org/pdf/2308.10846v1)|null|
+|**2023-08-21**|**Neural Networks Optimizations Against Concept and Data Drift in Malware Detection**|William Maillet et.al.|[2308.10821v1](http://arxiv.org/abs/2308.10821v1)|[2308.10821v1](http://arxiv.org/pdf/2308.10821v1)|null|
+|**2023-08-21**|**Differentiable Frank-Wolfe Optimization Layer**|Zixuan Liu et.al.|[2308.10806v1](http://arxiv.org/abs/2308.10806v1)|[2308.10806v1](http://arxiv.org/pdf/2308.10806v1)|null|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716v1](http://arxiv.org/abs/2308.09716v1)|[2308.09716v1](http://arxiv.org/pdf/2308.09716v1)|**[link](https://github.com/soumik-kanad/diff2lip)**|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|[2308.09710v1](http://arxiv.org/pdf/2308.09710v1)|null|
 |**2023-08-21**|**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**|Maciej Besta et.al.|[2308.09687v2](http://arxiv.org/abs/2308.09687v2)|[2308.09687v2](http://arxiv.org/pdf/2308.09687v2)|**[link](https://github.com/spcl/graph-of-thoughts)**|
