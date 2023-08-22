@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 
 ## Astrophysics
 
@@ -14,7 +14,7 @@ layout: default
 |**2023-08-18**|**A deep learning approach for the 3D reconstruction of dust density and temperature in star-forming regions**|Victor F. Ksoll et.al.|[2308.09657v1](http://arxiv.org/abs/2308.09657v1)|[2308.09657v1](http://arxiv.org/pdf/2308.09657v1)|null|
 |**2023-08-18**|**Large Interferometer For Exoplanets (LIFE). X. Detectability of currently known exoplanets and synergies with future IR/O/UV reflected-starlight imaging missions**|Óscar Carrión-González et.al.|[2308.09646v1](http://arxiv.org/abs/2308.09646v1)|[2308.09646v1](http://arxiv.org/pdf/2308.09646v1)|null|
 |**2023-08-18**|**Physical modelling of near-Earth asteroid (23187) 2000 PN9 with ground-based optical and radar observations**|L. Dover et.al.|[2308.09630v1](http://arxiv.org/abs/2308.09630v1)|[2308.09630v1](http://arxiv.org/pdf/2308.09630v1)|null|
-|**2023-08-18**|**Milliarcsecond Core Size Dependence of the Radio Variability of Blazars**|Po Chih Hsu et.al.|[2308.09626v1](http://arxiv.org/abs/2308.09626v1)|[2308.09626v1](http://arxiv.org/pdf/2308.09626v1)|null|
+|**2023-08-21**|**Milliarcsecond Core Size Dependence of the Radio Variability of Blazars**|Po Chih Hsu et.al.|[2308.09626v2](http://arxiv.org/abs/2308.09626v2)|[2308.09626v2](http://arxiv.org/pdf/2308.09626v2)|null|
 |**2023-08-18**|**Identification of the Top TESS Objects of Interest for Atmospheric Characterization of Transiting Exoplanets with JWST**|Benjamin J. Hord et.al.|[2308.09617v1](http://arxiv.org/abs/2308.09617v1)|[2308.09617v1](http://arxiv.org/pdf/2308.09617v1)|null|
 |**2023-08-18**|**The face-on projection of the Miyamoto & Nagai disks**|Luca Ciotti et.al.|[2308.09615v1](http://arxiv.org/abs/2308.09615v1)|[2308.09615v1](http://arxiv.org/pdf/2308.09615v1)|null|
 |**2023-08-18**|**Statistical association between the candidate repeating FRB 20200320A and a galaxy group**|Masoud Rafiei-Ravandi et.al.|[2308.09608v1](http://arxiv.org/abs/2308.09608v1)|[2308.09608v1](http://arxiv.org/pdf/2308.09608v1)|null|
@@ -2925,10 +2925,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716v1](http://arxiv.org/abs/2308.09716v1)|[2308.09716v1](http://arxiv.org/pdf/2308.09716v1)|**[link](https://github.com/soumik-kanad/diff2lip)**|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|[2308.09710v1](http://arxiv.org/pdf/2308.09710v1)|null|
-|**2023-08-18**|**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**|Maciej Besta et.al.|[2308.09687v1](http://arxiv.org/abs/2308.09687v1)|[2308.09687v1](http://arxiv.org/pdf/2308.09687v1)|**[link](https://github.com/spcl/graph-of-thoughts)**|
+|**2023-08-21**|**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**|Maciej Besta et.al.|[2308.09687v2](http://arxiv.org/abs/2308.09687v2)|[2308.09687v2](http://arxiv.org/pdf/2308.09687v2)|**[link](https://github.com/spcl/graph-of-thoughts)**|
 |**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678v1](http://arxiv.org/abs/2308.09678v1)|[2308.09678v1](http://arxiv.org/pdf/2308.09678v1)|**[link](https://github.com/hbing-l/posynda)**|
 |**2023-08-18**|**GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction**|Yucheng Shi et.al.|[2308.09663v1](http://arxiv.org/abs/2308.09663v1)|[2308.09663v1](http://arxiv.org/pdf/2308.09663v1)|**[link](https://github.com/sycny/gigamae)**|
-|**2023-08-18**|**Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**|Pengbo Hu et.al.|[2308.09658v1](http://arxiv.org/abs/2308.09658v1)|[2308.09658v1](http://arxiv.org/pdf/2308.09658v1)|null|
+|**2023-08-21**|**Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**|Pengbo Hu et.al.|[2308.09658v2](http://arxiv.org/abs/2308.09658v2)|[2308.09658v2](http://arxiv.org/pdf/2308.09658v2)|null|
 |**2023-08-18**|**Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction**|Daniel Bethell et.al.|[2308.09647v1](http://arxiv.org/abs/2308.09647v1)|[2308.09647v1](http://arxiv.org/pdf/2308.09647v1)|**[link](https://github.com/team-daniel/mc-cp)**|
 |**2023-08-18**|**Revisiting Skin Tone Fairness in Dermatological Lesion Classification**|Thorsten Kalb et.al.|[2308.09640v1](http://arxiv.org/abs/2308.09640v1)|[2308.09640v1](http://arxiv.org/pdf/2308.09640v1)|**[link](https://github.com/tkalbl/revisitingskintonefairness)**|
 |**2023-08-18**|**VALERIE22 -- A photorealistic, richly metadata annotated dataset of urban environments**|Oliver Grau et.al.|[2308.09632v1](http://arxiv.org/abs/2308.09632v1)|[2308.09632v1](http://arxiv.org/pdf/2308.09632v1)|null|
