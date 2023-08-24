@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-23**|**Constraining Circumgalactic Turbulence with QSO Absorption-line Measurements**|Brad Koplitz et.al.|[2308.12283v1](http://arxiv.org/abs/2308.12283v1)|[2308.12283v1](http://arxiv.org/pdf/2308.12283v1)|null|
+|**2023-08-23**|**Predicting the Yields of $z$ > 6.5 Quasar Surveys in the Era of Roman and Rubin**|Wei Leong Tee et.al.|[2308.12278v1](http://arxiv.org/abs/2308.12278v1)|[2308.12278v1](http://arxiv.org/pdf/2308.12278v1)|null|
+|**2023-08-23**|**A Generalized Double Chaplygin Model for Anisotropic Matter: The Newtonian Case**|Gabriel Abellán et.al.|[2308.12236v1](http://arxiv.org/abs/2308.12236v1)|[2308.12236v1](http://arxiv.org/pdf/2308.12236v1)|null|
+|**2023-08-23**|**Uniform probability in cosmology**|Sylvia Wenmackers et.al.|[2308.12229v1](http://arxiv.org/abs/2308.12229v1)|[2308.12229v1](http://arxiv.org/pdf/2308.12229v1)|null|
+|**2023-08-23**|**VERITAS observations of the Be/X-ray binary system LS V +44 17 during a major outburst**|Jamie Holder et.al.|[2308.12214v1](http://arxiv.org/abs/2308.12214v1)|[2308.12214v1](http://arxiv.org/pdf/2308.12214v1)|null|
+|**2023-08-23**|**Mitigating the effect of population model uncertainty on strong lensing Bayes factor using nonparametric methods**|Damon H. T. Cheung et.al.|[2308.12182v1](http://arxiv.org/abs/2308.12182v1)|[2308.12182v1](http://arxiv.org/pdf/2308.12182v1)|null|
+|**2023-08-23**|**The DAMIC excess from WIMP-nucleus elastic scattering**|A. E. Chavarria et.al.|[2308.12176v1](http://arxiv.org/abs/2308.12176v1)|[2308.12176v1](http://arxiv.org/pdf/2308.12176v1)|null|
+|**2023-08-23**|**Scalar- and Vector Dark Matter Admixed Neutron Stars**|Cédric Jockel et.al.|[2308.12174v1](http://arxiv.org/abs/2308.12174v1)|[2308.12174v1](http://arxiv.org/pdf/2308.12174v1)|null|
+|**2023-08-23**|**The potential of VLTI observations for the study of circumstellar disk variability**|A. Bensberg et.al.|[2308.12160v1](http://arxiv.org/abs/2308.12160v1)|[2308.12160v1](http://arxiv.org/pdf/2308.12160v1)|null|
+|**2023-08-23**|**QCD Axion Hybrid Inflation**|Yuma Narita et.al.|[2308.12154v1](http://arxiv.org/abs/2308.12154v1)|[2308.12154v1](http://arxiv.org/pdf/2308.12154v1)|null|
 |**2023-08-22**|**The Panchromatic Hubble Andromeda Treasury: Triangulum Extended Region (PHATTER). V. The Structure of M33 in Resolved Stellar Populations**|Adam Smercina et.al.|[2308.11618v1](http://arxiv.org/abs/2308.11618v1)|[2308.11618v1](http://arxiv.org/pdf/2308.11618v1)|null|
 |**2023-08-23**|**UNCOVER: A NIRSpec Identification of a Broad Line AGN at z = 8.50**|Vasily Kokorev et.al.|[2308.11610v2](http://arxiv.org/abs/2308.11610v2)|[2308.11610v2](http://arxiv.org/pdf/2308.11610v2)|null|
 |**2023-08-22**|**UNCOVER: A NIRSpec Census of Lensed Galaxies at z=8.50-13.08 Probing a High AGN Fraction and Ionized Bubbles in the Shadow**|Seiji Fujimoto et.al.|[2308.11609v1](http://arxiv.org/abs/2308.11609v1)|[2308.11609v1](http://arxiv.org/pdf/2308.11609v1)|null|
@@ -2943,6 +2953,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288v1](http://arxiv.org/abs/2308.12288v1)|[2308.12288v1](http://arxiv.org/pdf/2308.12288v1)|null|
+|**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|[2308.12284v1](http://arxiv.org/pdf/2308.12284v1)|null|
+|**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272v1](http://arxiv.org/abs/2308.12272v1)|[2308.12272v1](http://arxiv.org/pdf/2308.12272v1)|null|
+|**2023-08-23**|**A Generative Approach for Image Registration of Visible-Thermal (VT) Cancer Faces**|Catherine Ordun et.al.|[2308.12271v1](http://arxiv.org/abs/2308.12271v1)|[2308.12271v1](http://arxiv.org/pdf/2308.12271v1)|null|
+|**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270v1](http://arxiv.org/abs/2308.12270v1)|[2308.12270v1](http://arxiv.org/pdf/2308.12270v1)|**[link](https://github.com/ademiadeniji/lamp)**|
+|**2023-08-23**|**FECoM: A Step towards Fine-Grained Energy Measurement for Deep Learning**|Saurabhsingh Rajput et.al.|[2308.12264v1](http://arxiv.org/abs/2308.12264v1)|[2308.12264v1](http://arxiv.org/pdf/2308.12264v1)|null|
+|**2023-08-23**|**Multi-Objective Optimization for Sparse Deep Neural Network Training**|S. S. Hotegni et.al.|[2308.12243v1](http://arxiv.org/abs/2308.12243v1)|[2308.12243v1](http://arxiv.org/pdf/2308.12243v1)|**[link](https://github.com/salomonhotegni/mdmtn)**|
+|**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241v1](http://arxiv.org/abs/2308.12241v1)|[2308.12241v1](http://arxiv.org/pdf/2308.12241v1)|**[link](https://github.com/williamliujl/llmrec)**|
+|**2023-08-23**|**Enhancing cardiovascular risk prediction through AI-enabled calcium-omics**|Ammar Hoori et.al.|[2308.12224v1](http://arxiv.org/abs/2308.12224v1)|[2308.12224v1](http://arxiv.org/pdf/2308.12224v1)|null|
+|**2023-08-23**|**Critical Learning Periods Emerge Even in Deep Linear Networks**|Michael Kleinman et.al.|[2308.12221v1](http://arxiv.org/abs/2308.12221v1)|[2308.12221v1](http://arxiv.org/pdf/2308.12221v1)|null|
 |**2023-08-23**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|[2308.11601v2](http://arxiv.org/pdf/2308.11601v2)|null|
 |**2023-08-22**|**Low Tensor Rank Learning of Neural Dynamics**|Arthur Pellegrino et.al.|[2308.11567v1](http://arxiv.org/abs/2308.11567v1)|[2308.11567v1](http://arxiv.org/pdf/2308.11567v1)|null|
 |**2023-08-22**|**Refugee status determination: how cooperation with machine learning tools can lead to more justice**|Claire Barale et.al.|[2308.11541v1](http://arxiv.org/abs/2308.11541v1)|[2308.11541v1](http://arxiv.org/pdf/2308.11541v1)|null|
