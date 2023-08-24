@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-08-22**|**The Panchromatic Hubble Andromeda Treasury: Triangulum Extended Region (PHATTER). V. The Structure of M33 in Resolved Stellar Populations**|Adam Smercina et.al.|[2308.11618v1](http://arxiv.org/abs/2308.11618v1)|[2308.11618v1](http://arxiv.org/pdf/2308.11618v1)|null|
-|**2023-08-22**|**UNCOVER: A NIRSpec Identification of a Broad Line AGN at z = 8.50**|Vasily Kokorev et.al.|[2308.11610v1](http://arxiv.org/abs/2308.11610v1)|[2308.11610v1](http://arxiv.org/pdf/2308.11610v1)|null|
+|**2023-08-23**|**UNCOVER: A NIRSpec Identification of a Broad Line AGN at z = 8.50**|Vasily Kokorev et.al.|[2308.11610v2](http://arxiv.org/abs/2308.11610v2)|[2308.11610v2](http://arxiv.org/pdf/2308.11610v2)|null|
 |**2023-08-22**|**UNCOVER: A NIRSpec Census of Lensed Galaxies at z=8.50-13.08 Probing a High AGN Fraction and Ionized Bubbles in the Shadow**|Seiji Fujimoto et.al.|[2308.11609v1](http://arxiv.org/abs/2308.11609v1)|[2308.11609v1](http://arxiv.org/pdf/2308.11609v1)|null|
 |**2023-08-22**|**A Measurement of Gravitational Lensing of the Cosmic Microwave Background Using SPT-3G 2018 Data**|Z. Pan et.al.|[2308.11608v1](http://arxiv.org/abs/2308.11608v1)|[2308.11608v1](http://arxiv.org/pdf/2308.11608v1)|null|
 |**2023-08-22**|**The Impact of Cross-Covariances Between the CMB and Reconstructed Lensing Power**|Cynthia Trendafilova et.al.|[2308.11588v1](http://arxiv.org/abs/2308.11588v1)|[2308.11588v1](http://arxiv.org/pdf/2308.11588v1)|null|
@@ -2943,7 +2943,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Model**|Surya Narayanan Hari et.al.|[2308.11601v1](http://arxiv.org/abs/2308.11601v1)|[2308.11601v1](http://arxiv.org/pdf/2308.11601v1)|null|
+|**2023-08-23**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|[2308.11601v2](http://arxiv.org/pdf/2308.11601v2)|null|
 |**2023-08-22**|**Low Tensor Rank Learning of Neural Dynamics**|Arthur Pellegrino et.al.|[2308.11567v1](http://arxiv.org/abs/2308.11567v1)|[2308.11567v1](http://arxiv.org/pdf/2308.11567v1)|null|
 |**2023-08-22**|**Refugee status determination: how cooperation with machine learning tools can lead to more justice**|Claire Barale et.al.|[2308.11541v1](http://arxiv.org/abs/2308.11541v1)|[2308.11541v1](http://arxiv.org/pdf/2308.11541v1)|null|
 |**2023-08-22**|**Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**|Claire Barale et.al.|[2308.11531v1](http://arxiv.org/abs/2308.11531v1)|[2308.11531v1](http://arxiv.org/pdf/2308.11531v1)|null|
@@ -2951,7 +2951,7 @@ layout: default
 |**2023-08-22**|**TrackFlow: Multi-Object Tracking with Normalizing Flows**|Gianluca Mancusi et.al.|[2308.11513v1](http://arxiv.org/abs/2308.11513v1)|[2308.11513v1](http://arxiv.org/pdf/2308.11513v1)|null|
 |**2023-08-22**|**Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**|Pouya Pezeshkpour et.al.|[2308.11483v1](http://arxiv.org/abs/2308.11483v1)|[2308.11483v1](http://arxiv.org/pdf/2308.11483v1)|null|
 |**2023-08-22**|**Expecting The Unexpected: Towards Broad Out-Of-Distribution Detection**|Charles Guille-Escuret et.al.|[2308.11480v1](http://arxiv.org/abs/2308.11480v1)|[2308.11480v1](http://arxiv.org/pdf/2308.11480v1)|**[link](https://github.com/servicenow/broad-openood)**|
-|**2023-08-22**|**Revisiting column-generation-based matheuristic for learning classification trees**|Krunal Kishor Patel et.al.|[2308.11477v1](http://arxiv.org/abs/2308.11477v1)|[2308.11477v1](http://arxiv.org/pdf/2308.11477v1)|null|
+|**2023-08-22**|**Revisiting column-generation-based matheuristic for learning classification trees**|Krunal Kishor Patel et.al.|[2308.11477v1](http://arxiv.org/abs/2308.11477v1)|[2308.11477v1](http://arxiv.org/pdf/2308.11477v1)|**[link](https://github.com/krooonal/col_gen_estimator)**|
 |**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473v1](http://arxiv.org/abs/2308.11473v1)|[2308.11473v1](http://arxiv.org/pdf/2308.11473v1)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
 |**2023-08-21**|**Structured World Models from Human Videos**|Russell Mendonca et.al.|[2308.10901v1](http://arxiv.org/abs/2308.10901v1)|[2308.10901v1](http://arxiv.org/pdf/2308.10901v1)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|[2308.10899v1](http://arxiv.org/pdf/2308.10899v1)|null|

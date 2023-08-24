@@ -1,9 +1,9 @@
-> Updated on 2023.08.23
+> Updated on 2023.08.24
 
 ## Astrophysics
 
 - 2023-08-22, **The Panchromatic Hubble Andromeda Treasury: Triangulum Extended Region (PHATTER). V. The Structure of M33 in Resolved Stellar Populations**, Adam Smercina et.al., Paper: [http://arxiv.org/abs/2308.11618v1](http://arxiv.org/abs/2308.11618v1), Paper: [http://arxiv.org/abs/2308.11618v1](http://arxiv.org/pdf/2308.11618v1)
-- 2023-08-22, **UNCOVER: A NIRSpec Identification of a Broad Line AGN at z = 8.50**, Vasily Kokorev et.al., Paper: [http://arxiv.org/abs/2308.11610v1](http://arxiv.org/abs/2308.11610v1), Paper: [http://arxiv.org/abs/2308.11610v1](http://arxiv.org/pdf/2308.11610v1)
+- 2023-08-23, **UNCOVER: A NIRSpec Identification of a Broad Line AGN at z = 8.50**, Vasily Kokorev et.al., Paper: [http://arxiv.org/abs/2308.11610v2](http://arxiv.org/abs/2308.11610v2), Paper: [http://arxiv.org/abs/2308.11610v2](http://arxiv.org/pdf/2308.11610v2)
 - 2023-08-22, **UNCOVER: A NIRSpec Census of Lensed Galaxies at z=8.50-13.08 Probing a High AGN Fraction and Ionized Bubbles in the Shadow**, Seiji Fujimoto et.al., Paper: [http://arxiv.org/abs/2308.11609v1](http://arxiv.org/abs/2308.11609v1), Paper: [http://arxiv.org/abs/2308.11609v1](http://arxiv.org/pdf/2308.11609v1)
 - 2023-08-22, **A Measurement of Gravitational Lensing of the Cosmic Microwave Background Using SPT-3G 2018 Data**, Z. Pan et.al., Paper: [http://arxiv.org/abs/2308.11608v1](http://arxiv.org/abs/2308.11608v1), Paper: [http://arxiv.org/abs/2308.11608v1](http://arxiv.org/pdf/2308.11608v1)
 - 2023-08-22, **The Impact of Cross-Covariances Between the CMB and Reconstructed Lensing Power**, Cynthia Trendafilova et.al., Paper: [http://arxiv.org/abs/2308.11588v1](http://arxiv.org/abs/2308.11588v1), Paper: [http://arxiv.org/abs/2308.11588v1](http://arxiv.org/pdf/2308.11588v1)
@@ -2935,7 +2935,7 @@
 
 ## AI
 
-- 2023-08-22, **Tryage: Real-time, intelligent Routing of User Prompts to Large Language Model**, Surya Narayanan Hari et.al., Paper: [http://arxiv.org/abs/2308.11601v1](http://arxiv.org/abs/2308.11601v1), Paper: [http://arxiv.org/abs/2308.11601v1](http://arxiv.org/pdf/2308.11601v1)
+- 2023-08-23, **Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**, Surya Narayanan Hari et.al., Paper: [http://arxiv.org/abs/2308.11601v2](http://arxiv.org/abs/2308.11601v2), Paper: [http://arxiv.org/abs/2308.11601v2](http://arxiv.org/pdf/2308.11601v2)
 - 2023-08-22, **Low Tensor Rank Learning of Neural Dynamics**, Arthur Pellegrino et.al., Paper: [http://arxiv.org/abs/2308.11567v1](http://arxiv.org/abs/2308.11567v1), Paper: [http://arxiv.org/abs/2308.11567v1](http://arxiv.org/pdf/2308.11567v1)
 - 2023-08-22, **Refugee status determination: how cooperation with machine learning tools can lead to more justice**, Claire Barale et.al., Paper: [http://arxiv.org/abs/2308.11541v1](http://arxiv.org/abs/2308.11541v1), Paper: [http://arxiv.org/abs/2308.11541v1](http://arxiv.org/pdf/2308.11541v1)
 - 2023-08-22, **Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**, Claire Barale et.al., Paper: [http://arxiv.org/abs/2308.11531v1](http://arxiv.org/abs/2308.11531v1), Paper: [http://arxiv.org/abs/2308.11531v1](http://arxiv.org/pdf/2308.11531v1)
@@ -2943,7 +2943,7 @@
 - 2023-08-22, **TrackFlow: Multi-Object Tracking with Normalizing Flows**, Gianluca Mancusi et.al., Paper: [http://arxiv.org/abs/2308.11513v1](http://arxiv.org/abs/2308.11513v1), Paper: [http://arxiv.org/abs/2308.11513v1](http://arxiv.org/pdf/2308.11513v1)
 - 2023-08-22, **Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**, Pouya Pezeshkpour et.al., Paper: [http://arxiv.org/abs/2308.11483v1](http://arxiv.org/abs/2308.11483v1), Paper: [http://arxiv.org/abs/2308.11483v1](http://arxiv.org/pdf/2308.11483v1)
 - 2023-08-22, **Expecting The Unexpected: Towards Broad Out-Of-Distribution Detection**, Charles Guille-Escuret et.al., Paper: [http://arxiv.org/abs/2308.11480v1](http://arxiv.org/abs/2308.11480v1),Paper: [http://arxiv.org/abs/2308.11480v1](http://arxiv.org/pdf/2308.11480v1), Code: **[https://github.com/servicenow/broad-openood](https://github.com/servicenow/broad-openood)**
-- 2023-08-22, **Revisiting column-generation-based matheuristic for learning classification trees**, Krunal Kishor Patel et.al., Paper: [http://arxiv.org/abs/2308.11477v1](http://arxiv.org/abs/2308.11477v1), Paper: [http://arxiv.org/abs/2308.11477v1](http://arxiv.org/pdf/2308.11477v1)
+- 2023-08-22, **Revisiting column-generation-based matheuristic for learning classification trees**, Krunal Kishor Patel et.al., Paper: [http://arxiv.org/abs/2308.11477v1](http://arxiv.org/abs/2308.11477v1),Paper: [http://arxiv.org/abs/2308.11477v1](http://arxiv.org/pdf/2308.11477v1), Code: **[https://github.com/krooonal/col_gen_estimator](https://github.com/krooonal/col_gen_estimator)**
 - 2023-08-22, **IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**, Yiwen Chen et.al., Paper: [http://arxiv.org/abs/2308.11473v1](http://arxiv.org/abs/2308.11473v1),Paper: [http://arxiv.org/abs/2308.11473v1](http://arxiv.org/pdf/2308.11473v1), Code: **[https://github.com/buaacyw/it3d-text-to-3d](https://github.com/buaacyw/it3d-text-to-3d)**
 - 2023-08-21, **Structured World Models from Human Videos**, Russell Mendonca et.al., Paper: [http://arxiv.org/abs/2308.10901v1](http://arxiv.org/abs/2308.10901v1), Paper: [http://arxiv.org/abs/2308.10901v1](http://arxiv.org/pdf/2308.10901v1)
 - 2023-08-21, **TADA! Text to Animatable Digital Avatars**, Tingting Liao et.al., Paper: [http://arxiv.org/abs/2308.10899v1](http://arxiv.org/abs/2308.10899v1), Paper: [http://arxiv.org/abs/2308.10899v1](http://arxiv.org/pdf/2308.10899v1)
