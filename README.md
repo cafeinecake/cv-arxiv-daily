@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-24**|**On the importance of disc chemistry in the formation of protoplanetary disc rings**|C. A. Nolan et.al.|[2308.12946v1](http://arxiv.org/abs/2308.12946v1)|[2308.12946v1](http://arxiv.org/pdf/2308.12946v1)|null|
+|**2023-08-24**|**Characterization of the gravitational wave spectrum from sound waves within the sound shell model**|Alberto Roper Pol et.al.|[2308.12943v1](http://arxiv.org/abs/2308.12943v1)|[2308.12943v1](http://arxiv.org/pdf/2308.12943v1)|null|
+|**2023-08-24**|**Links Between Optical and X-ray Light in Scorpius X-1**|Alexander B. Igl et.al.|[2308.12934v1](http://arxiv.org/abs/2308.12934v1)|[2308.12934v1](http://arxiv.org/pdf/2308.12934v1)|null|
+|**2023-08-24**|**Shallow relic gravitational wave spectrum with acoustic peak**|Ramkishor Sharma et.al.|[2308.12916v1](http://arxiv.org/abs/2308.12916v1)|[2308.12916v1](http://arxiv.org/pdf/2308.12916v1)|null|
+|**2023-08-24**|**Tracing Dense Gas in Six Resolved GMCs of the Andromeda Galaxy**|Jan Forbrich et.al.|[2308.12906v1](http://arxiv.org/abs/2308.12906v1)|[2308.12906v1](http://arxiv.org/pdf/2308.12906v1)|null|
+|**2023-08-24**|**Forming Gas Giants Around a Range of Protostellar M-dwarfs by Gas Disk Gravitational Instability**|Alan P. Boss et.al.|[2308.12903v1](http://arxiv.org/abs/2308.12903v1)|[2308.12903v1](http://arxiv.org/pdf/2308.12903v1)|null|
+|**2023-08-24**|**Pulse Profile Modelling of Thermonuclear Burst Oscillations II: Handling variability**|Yves Kini et.al.|[2308.12895v1](http://arxiv.org/abs/2308.12895v1)|[2308.12895v1](http://arxiv.org/pdf/2308.12895v1)|null|
+|**2023-08-24**|**Spectral determination of the colour and vertical structure of dark spots in Neptune's atmosphere**|Patrick G. J. Irwin et.al.|[2308.12889v1](http://arxiv.org/abs/2308.12889v1)|[2308.12889v1](http://arxiv.org/pdf/2308.12889v1)|null|
+|**2023-08-24**|**Lowest accreting protoplanetary discs consistent with X-ray photoevaporation driving their final dispersal**|Barbara Ercolano et.al.|[2308.12854v1](http://arxiv.org/abs/2308.12854v1)|[2308.12854v1](http://arxiv.org/pdf/2308.12854v1)|null|
+|**2023-08-24**|**Thermal properties of accretion disc in non-Kerr spacetime: distinguishing black hole and naked singularity**|Subhankar Patra et.al.|[2308.12839v1](http://arxiv.org/abs/2308.12839v1)|[2308.12839v1](http://arxiv.org/pdf/2308.12839v1)|null|
 |**2023-08-23**|**Constraining Circumgalactic Turbulence with QSO Absorption-line Measurements**|Brad Koplitz et.al.|[2308.12283v1](http://arxiv.org/abs/2308.12283v1)|[2308.12283v1](http://arxiv.org/pdf/2308.12283v1)|null|
 |**2023-08-23**|**Predicting the Yields of $z$ > 6.5 Quasar Surveys in the Era of Roman and Rubin**|Wei Leong Tee et.al.|[2308.12278v1](http://arxiv.org/abs/2308.12278v1)|[2308.12278v1](http://arxiv.org/pdf/2308.12278v1)|null|
 |**2023-08-23**|**A Generalized Double Chaplygin Model for Anisotropic Matter: The Newtonian Case**|Gabriel Abellán et.al.|[2308.12236v1](http://arxiv.org/abs/2308.12236v1)|[2308.12236v1](http://arxiv.org/pdf/2308.12236v1)|null|
@@ -2949,6 +2959,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967v1](http://arxiv.org/abs/2308.12967v1)|[2308.12967v1](http://arxiv.org/pdf/2308.12967v1)|null|
+|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|[2308.12966v1](http://arxiv.org/pdf/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
+|**2023-08-24**|**DLIP: Distilling Language-Image Pre-training**|Huafeng Kuang et.al.|[2308.12956v1](http://arxiv.org/abs/2308.12956v1)|[2308.12956v1](http://arxiv.org/pdf/2308.12956v1)|null|
+|**2023-08-24**|**Low-count Time Series Anomaly Detection**|Philipp Renz et.al.|[2308.12925v1](http://arxiv.org/abs/2308.12925v1)|[2308.12925v1](http://arxiv.org/pdf/2308.12925v1)|null|
+|**2023-08-24**|**Evaluating the Vulnerabilities in ML systems in terms of adversarial attacks**|John Harshith et.al.|[2308.12918v1](http://arxiv.org/abs/2308.12918v1)|[2308.12918v1](http://arxiv.org/pdf/2308.12918v1)|null|
+|**2023-08-24**|**Language as Reality: A Co-Creative Storytelling Game Experience in 1001 Nights using Generative AI**|Yuqian Sun et.al.|[2308.12915v1](http://arxiv.org/abs/2308.12915v1)|[2308.12915v1](http://arxiv.org/pdf/2308.12915v1)|null|
+|**2023-08-24**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902v1](http://arxiv.org/abs/2308.12902v1)|[2308.12902v1](http://arxiv.org/pdf/2308.12902v1)|null|
+|**2023-08-24**|**Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?**|Fei Wang et.al.|[2308.12898v1](http://arxiv.org/abs/2308.12898v1)|[2308.12898v1](http://arxiv.org/pdf/2308.12898v1)|**[link](https://github.com/wangfei-2019/snare)**|
+|**2023-08-24**|**Large Language Models Vote: Prompting for Rare Disease Identification**|David Oniani et.al.|[2308.12890v1](http://arxiv.org/abs/2308.12890v1)|[2308.12890v1](http://arxiv.org/pdf/2308.12890v1)|**[link](https://github.com/oniani/llms-vote)**|
+|**2023-08-24**|**Inducing Causal Structure for Abstractive Text Summarization**|Lu Chen et.al.|[2308.12888v1](http://arxiv.org/abs/2308.12888v1)|[2308.12888v1](http://arxiv.org/pdf/2308.12888v1)|null|
 |**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288v1](http://arxiv.org/abs/2308.12288v1)|[2308.12288v1](http://arxiv.org/pdf/2308.12288v1)|null|
 |**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|[2308.12284v1](http://arxiv.org/pdf/2308.12284v1)|null|
 |**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272v1](http://arxiv.org/abs/2308.12272v1)|[2308.12272v1](http://arxiv.org/pdf/2308.12272v1)|null|
