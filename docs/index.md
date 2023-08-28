@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 
 ## Astrophysics
 
@@ -2970,7 +2970,7 @@ layout: default
 |**2023-08-24**|**Evaluating the Vulnerabilities in ML systems in terms of adversarial attacks**|John Harshith et.al.|[2308.12918v1](http://arxiv.org/abs/2308.12918v1)|[2308.12918v1](http://arxiv.org/pdf/2308.12918v1)|null|
 |**2023-08-24**|**Language as Reality: A Co-Creative Storytelling Game Experience in 1001 Nights using Generative AI**|Yuqian Sun et.al.|[2308.12915v1](http://arxiv.org/abs/2308.12915v1)|[2308.12915v1](http://arxiv.org/pdf/2308.12915v1)|null|
 |**2023-08-24**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902v1](http://arxiv.org/abs/2308.12902v1)|[2308.12902v1](http://arxiv.org/pdf/2308.12902v1)|null|
-|**2023-08-24**|**Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?**|Fei Wang et.al.|[2308.12898v1](http://arxiv.org/abs/2308.12898v1)|[2308.12898v1](http://arxiv.org/pdf/2308.12898v1)|**[link](https://github.com/wangfei-2019/snare)**|
+|**2023-08-25**|**Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?**|Fei Wang et.al.|[2308.12898v2](http://arxiv.org/abs/2308.12898v2)|[2308.12898v2](http://arxiv.org/pdf/2308.12898v2)|**[link](https://github.com/wangfei-2019/snare)**|
 |**2023-08-24**|**Large Language Models Vote: Prompting for Rare Disease Identification**|David Oniani et.al.|[2308.12890v1](http://arxiv.org/abs/2308.12890v1)|[2308.12890v1](http://arxiv.org/pdf/2308.12890v1)|**[link](https://github.com/oniani/llms-vote)**|
 |**2023-08-24**|**Inducing Causal Structure for Abstractive Text Summarization**|Lu Chen et.al.|[2308.12888v1](http://arxiv.org/abs/2308.12888v1)|[2308.12888v1](http://arxiv.org/pdf/2308.12888v1)|null|
 |**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288v1](http://arxiv.org/abs/2308.12288v1)|[2308.12288v1](http://arxiv.org/pdf/2308.12288v1)|null|
