@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-25**|**Tracing the Origins of Mass Segregation in M35: Evidence for Primordially Segregated Binaries**|Erin Motherway et.al.|[2308.13520v1](http://arxiv.org/abs/2308.13520v1)|[2308.13520v1](http://arxiv.org/pdf/2308.13520v1)|null|
+|**2023-08-25**|**CECILIA: The Faint Emission Line Spectrum of z~2-3 Star-forming Galaxies**|Allison L. Strom et.al.|[2308.13508v1](http://arxiv.org/abs/2308.13508v1)|[2308.13508v1](http://arxiv.org/pdf/2308.13508v1)|null|
+|**2023-08-25**|**Machine Learning for the EUSO-SPB2 Fluorescence Telescope Data Analysis**|George Filippatos et.al.|[2308.13481v1](http://arxiv.org/abs/2308.13481v1)|[2308.13481v1](http://arxiv.org/pdf/2308.13481v1)|null|
+|**2023-08-25**|**EUSO-SPB2 Fluorescence Telescope in-flight performance and preliminary results**|George Filippatos et.al.|[2308.13477v1](http://arxiv.org/abs/2308.13477v1)|[2308.13477v1](http://arxiv.org/pdf/2308.13477v1)|null|
+|**2023-08-25**|**Cluster halo shapes in CDM and SIDM models: Unveiling the DM particle nature using a weak lensing approach**|Elizabeth Johana Gonzalez et.al.|[2308.13461v1](http://arxiv.org/abs/2308.13461v1)|[2308.13461v1](http://arxiv.org/pdf/2308.13461v1)|null|
+|**2023-08-25**|**Density calculations of NGC 3783 warm absorbers using a time-dependent photoionization model**|Chen Li et.al.|[2308.13446v1](http://arxiv.org/abs/2308.13446v1)|[2308.13446v1](http://arxiv.org/pdf/2308.13446v1)|null|
+|**2023-08-25**|**Unraveling the Effects of Dense Medium on a Near to Bohm-Limit Acceleration in Kepler's SNR**|Vincenzo Sapienza et.al.|[2308.13435v1](http://arxiv.org/abs/2308.13435v1)|[2308.13435v1](http://arxiv.org/pdf/2308.13435v1)|null|
+|**2023-08-25**|**Gammapy: present status and future roadmap**|B. Khélifi et.al.|[2308.13389v1](http://arxiv.org/abs/2308.13389v1)|[2308.13389v1](http://arxiv.org/pdf/2308.13389v1)|null|
+|**2023-08-25**|**The Very-high-energy Open Data Format: towards a shared, open data format in very-high-energy astronomy**|B. Khélifi et.al.|[2308.13385v1](http://arxiv.org/abs/2308.13385v1)|[2308.13385v1](http://arxiv.org/pdf/2308.13385v1)|null|
+|**2023-08-25**|**Helioseismic determination of the solar metal mass fraction**|G. Buldgen et.al.|[2308.13368v1](http://arxiv.org/abs/2308.13368v1)|[2308.13368v1](http://arxiv.org/pdf/2308.13368v1)|null|
 |**2023-08-24**|**On the importance of disc chemistry in the formation of protoplanetary disc rings**|C. A. Nolan et.al.|[2308.12946v1](http://arxiv.org/abs/2308.12946v1)|[2308.12946v1](http://arxiv.org/pdf/2308.12946v1)|null|
 |**2023-08-24**|**Characterization of the gravitational wave spectrum from sound waves within the sound shell model**|Alberto Roper Pol et.al.|[2308.12943v1](http://arxiv.org/abs/2308.12943v1)|[2308.12943v1](http://arxiv.org/pdf/2308.12943v1)|null|
 |**2023-08-24**|**Links Between Optical and X-ray Light in Scorpius X-1**|Alexander B. Igl et.al.|[2308.12934v1](http://arxiv.org/abs/2308.12934v1)|[2308.12934v1](http://arxiv.org/pdf/2308.12934v1)|null|
@@ -2963,6 +2973,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-08-25**|**ChatGPT as Data Augmentation for Compositional Generalization: A Case Study in Open Intent Detection**|Yihao Fang et.al.|[2308.13517v1](http://arxiv.org/abs/2308.13517v1)|[2308.13517v1](http://arxiv.org/pdf/2308.13517v1)|null|
+|**2023-08-25**|**Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models**|Jie JW Wu et.al.|[2308.13507v1](http://arxiv.org/abs/2308.13507v1)|[2308.13507v1](http://arxiv.org/pdf/2308.13507v1)|null|
+|**2023-08-25**|**Attending Generalizability in Course of Deep Fake Detection by Exploring Multi-task Learning**|Pranav Balaji et.al.|[2308.13503v1](http://arxiv.org/abs/2308.13503v1)|[2308.13503v1](http://arxiv.org/pdf/2308.13503v1)|null|
+|**2023-08-25**|**Escaping the Sample Trap: Fast and Accurate Epistemic Uncertainty Estimation with Pairwise-Distance Estimators**|Lucas Berry et.al.|[2308.13498v1](http://arxiv.org/abs/2308.13498v1)|[2308.13498v1](http://arxiv.org/pdf/2308.13498v1)|null|
+|**2023-08-25**|**Open Gaze: An Open-Source Implementation Replicating Google's Eye Tracking Paper**|Sushmanth reddy Mereddy et.al.|[2308.13495v1](http://arxiv.org/abs/2308.13495v1)|[2308.13495v1](http://arxiv.org/pdf/2308.13495v1)|null|
+|**2023-08-25**|**Ultrafast-and-Ultralight ConvNet-Based Intelligent Monitoring System for Diagnosing Early-Stage Mpox Anytime and Anywhere**|Yubiao Yue et.al.|[2308.13492v1](http://arxiv.org/abs/2308.13492v1)|[2308.13492v1](http://arxiv.org/pdf/2308.13492v1)|null|
+|**2023-08-25**|**Towards Optimal Head-to-head Autonomous Racing with Curriculum Reinforcement Learning**|Dvij Kalaria et.al.|[2308.13491v1](http://arxiv.org/abs/2308.13491v1)|[2308.13491v1](http://arxiv.org/pdf/2308.13491v1)|null|
+|**2023-08-25**|**Temporal Uncertainty Localization to Enable Human-in-the-loop Analysis of Dynamic Contrast-enhanced Cardiac MRI Datasets**|Dilek M. Yalcinkaya et.al.|[2308.13488v1](http://arxiv.org/abs/2308.13488v1)|[2308.13488v1](http://arxiv.org/pdf/2308.13488v1)|null|
+|**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467v1](http://arxiv.org/abs/2308.13467v1)|[2308.13467v1](http://arxiv.org/pdf/2308.13467v1)|null|
+|**2023-08-25**|**ARTIST: ARTificial Intelligence for Simplified Text**|Lorenzo Corti et.al.|[2308.13458v1](http://arxiv.org/abs/2308.13458v1)|[2308.13458v1](http://arxiv.org/pdf/2308.13458v1)|**[link](https://github.com/delftcrowd/artist)**|
 |**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967v1](http://arxiv.org/abs/2308.12967v1)|[2308.12967v1](http://arxiv.org/pdf/2308.12967v1)|null|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|[2308.12966v1](http://arxiv.org/pdf/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-24**|**DLIP: Distilling Language-Image Pre-training**|Huafeng Kuang et.al.|[2308.12956v1](http://arxiv.org/abs/2308.12956v1)|[2308.12956v1](http://arxiv.org/pdf/2308.12956v1)|null|
