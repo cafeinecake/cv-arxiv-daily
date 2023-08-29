@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-28**|**The Impact of the WHIM on the IGM Thermal State Determined from the Low-$z$ Lyman-$α$ Forest**|Teng Hu et.al.|[2308.14738v1](http://arxiv.org/abs/2308.14738v1)|[2308.14738v1](http://arxiv.org/pdf/2308.14738v1)|null|
+|**2023-08-28**|**An adaptive optics upgrade for the Automated Planet Finder Telescope using an adaptive secondary mirror**|Rachel Bowens-Rubin et.al.|[2308.14709v1](http://arxiv.org/abs/2308.14709v1)|[2308.14709v1](http://arxiv.org/pdf/2308.14709v1)|null|
+|**2023-08-28**|**The puzzling properties of the MACS1149-JD1 galaxy at z=9.11**|Massimo Stiavelli et.al.|[2308.14696v1](http://arxiv.org/abs/2308.14696v1)|[2308.14696v1](http://arxiv.org/pdf/2308.14696v1)|null|
+|**2023-08-28**|**Scalar Field Dark Matter: Impact of Supernovae-driven blowouts on the soliton structure of low mass dark matter halos**|Victor H. Robles et.al.|[2308.14691v1](http://arxiv.org/abs/2308.14691v1)|[2308.14691v1](http://arxiv.org/pdf/2308.14691v1)|null|
+|**2023-08-28**|**Exploring the NANOGrav Signal and Planet-mass Primordial Black Holes through Higgs Inflation**|Zhu Yi et.al.|[2308.14688v1](http://arxiv.org/abs/2308.14688v1)|[2308.14688v1](http://arxiv.org/pdf/2308.14688v1)|null|
+|**2023-08-28**|**Noctalgia (sky grief): Our Brightening Night Skies and Loss of Environment for Astronomy and Sky Traditions**|Aparna Venkatesan et.al.|[2308.14685v1](http://arxiv.org/abs/2308.14685v1)|[2308.14685v1](http://arxiv.org/pdf/2308.14685v1)|null|
+|**2023-08-28**|**Explaining the oblate morphology of dwarf spheroidals with Wave Dark Matter perturbations**|Riccardo Della Monica et.al.|[2308.14664v1](http://arxiv.org/abs/2308.14664v1)|[2308.14664v1](http://arxiv.org/pdf/2308.14664v1)|null|
+|**2023-08-28**|**Study of blazars detected by Fermi-LAT as high-energy neutrino sources**|Antonio Galván et.al.|[2308.14655v1](http://arxiv.org/abs/2308.14655v1)|[2308.14655v1](http://arxiv.org/pdf/2308.14655v1)|null|
+|**2023-08-28**|**The eruption of a magnetic flux rope observed by \textit{Solar Orbiter} and \textit{Parker Solar Probe}**|David M. Long et.al.|[2308.14651v1](http://arxiv.org/abs/2308.14651v1)|[2308.14651v1](http://arxiv.org/pdf/2308.14651v1)|null|
+|**2023-08-28**|**Comparison of automated crater catalogs for Mars from Benedix et al. (2020) and Lee and Hogan (2021)**|Christopher Lee et.al.|[2308.14650v1](http://arxiv.org/abs/2308.14650v1)|[2308.14650v1](http://arxiv.org/pdf/2308.14650v1)|null|
 |**2023-08-25**|**Tracing the Origins of Mass Segregation in M35: Evidence for Primordially Segregated Binaries**|Erin Motherway et.al.|[2308.13520v1](http://arxiv.org/abs/2308.13520v1)|[2308.13520v1](http://arxiv.org/pdf/2308.13520v1)|null|
 |**2023-08-25**|**CECILIA: The Faint Emission Line Spectrum of z~2-3 Star-forming Galaxies**|Allison L. Strom et.al.|[2308.13508v1](http://arxiv.org/abs/2308.13508v1)|[2308.13508v1](http://arxiv.org/pdf/2308.13508v1)|null|
 |**2023-08-25**|**Machine Learning for the EUSO-SPB2 Fluorescence Telescope Data Analysis**|George Filippatos et.al.|[2308.13481v1](http://arxiv.org/abs/2308.13481v1)|[2308.13481v1](http://arxiv.org/pdf/2308.13481v1)|null|
@@ -2969,6 +2979,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-28**|**AI Deception: A Survey of Examples, Risks, and Potential Solutions**|Peter S. Park et.al.|[2308.14752v1](http://arxiv.org/abs/2308.14752v1)|[2308.14752v1](http://arxiv.org/pdf/2308.14752v1)|null|
+|**2023-08-28**|**Probing Majorana localization in minimal Kitaev chains through a quantum dot**|Rubén Seoane Souto et.al.|[2308.14751v1](http://arxiv.org/abs/2308.14751v1)|[2308.14751v1](http://arxiv.org/pdf/2308.14751v1)|null|
+|**2023-08-28**|**Flexible Techniques for Differentiable Rendering with 3D Gaussians**|Leonid Keselman et.al.|[2308.14737v1](http://arxiv.org/abs/2308.14737v1)|[2308.14737v1](http://arxiv.org/pdf/2308.14737v1)|null|
+|**2023-08-28**|**Bayesian artificial brain with ChatGPT**|Renato A. Krohling et.al.|[2308.14732v1](http://arxiv.org/abs/2308.14732v1)|[2308.14732v1](http://arxiv.org/pdf/2308.14732v1)|null|
+|**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731v1](http://arxiv.org/abs/2308.14731v1)|[2308.14731v1](http://arxiv.org/pdf/2308.14731v1)|**[link](https://github.com/apcl-research/jam-cgpt)**|
+|**2023-08-28**|**PanoSwin: a Pano-style Swin Transformer for Panorama Understanding**|Zhixin Ling et.al.|[2308.14726v1](http://arxiv.org/abs/2308.14726v1)|[2308.14726v1](http://arxiv.org/pdf/2308.14726v1)|null|
+|**2023-08-28**|**Hierarchical Time Series Forecasting with Bayesian Modeling**|Gal Elgavish et.al.|[2308.14719v1](http://arxiv.org/abs/2308.14719v1)|[2308.14719v1](http://arxiv.org/pdf/2308.14719v1)|null|
+|**2023-08-28**|**Fast Feedforward Networks**|Peter Belcak et.al.|[2308.14711v1](http://arxiv.org/abs/2308.14711v1)|[2308.14711v1](http://arxiv.org/pdf/2308.14711v1)|**[link](https://github.com/pbelcak/fastfeedforward)**|
+|**2023-08-28**|**VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation**|Xudong Wang et.al.|[2308.14710v1](http://arxiv.org/abs/2308.14710v1)|[2308.14710v1](http://arxiv.org/pdf/2308.14710v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-08-28**|**TRIVEA: Transparent Ranking Interpretation using Visual Explanation of Black-Box Algorithmic Rankers**|Jun Yuan et.al.|[2308.14622v1](http://arxiv.org/abs/2308.14622v1)|[2308.14622v1](http://arxiv.org/pdf/2308.14622v1)|null|
 |**2023-08-25**|**ChatGPT as Data Augmentation for Compositional Generalization: A Case Study in Open Intent Detection**|Yihao Fang et.al.|[2308.13517v1](http://arxiv.org/abs/2308.13517v1)|[2308.13517v1](http://arxiv.org/pdf/2308.13517v1)|null|
 |**2023-08-25**|**Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models**|Jie JW Wu et.al.|[2308.13507v1](http://arxiv.org/abs/2308.13507v1)|[2308.13507v1](http://arxiv.org/pdf/2308.13507v1)|null|
 |**2023-08-25**|**Attending Generalizability in Course of Deep Fake Detection by Exploring Multi-task Learning**|Pranav Balaji et.al.|[2308.13503v1](http://arxiv.org/abs/2308.13503v1)|[2308.13503v1](http://arxiv.org/pdf/2308.13503v1)|null|
