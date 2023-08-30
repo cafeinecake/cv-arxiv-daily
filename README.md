@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-29**|**Detecting single gravitons with quantum sensing**|Germain Tobar et.al.|[2308.15440v1](http://arxiv.org/abs/2308.15440v1)|[2308.15440v1](http://arxiv.org/pdf/2308.15440v1)|null|
+|**2023-08-29**|**Geometry and unitarity of scalar fields coupled to gravity**|Minxi He et.al.|[2308.15420v1](http://arxiv.org/abs/2308.15420v1)|[2308.15420v1](http://arxiv.org/pdf/2308.15420v1)|null|
+|**2023-08-29**|**High Resolution Observations of the Low Atmospheric Response to Small Coronal Heating Events in an Active Region Core**|Paola Testa et.al.|[2308.15417v1](http://arxiv.org/abs/2308.15417v1)|[2308.15417v1](http://arxiv.org/pdf/2308.15417v1)|null|
+|**2023-08-29**|**Probabilistic solar flare forecasting using historical magnetogram data**|Kiera van der Sande et.al.|[2308.15410v1](http://arxiv.org/abs/2308.15410v1)|[2308.15410v1](http://arxiv.org/pdf/2308.15410v1)|**[link](https://github.com/swri-idea-lab/idea-lab-flare-forecast)**|
+|**2023-08-29**|**Are there any extragalactic high speed dark matter particles in the Solar neighborhood?**|Isabel Santos-Santos et.al.|[2308.15388v1](http://arxiv.org/abs/2308.15388v1)|[2308.15388v1](http://arxiv.org/pdf/2308.15388v1)|null|
+|**2023-08-29**|**A search for pulsars around Sgr A* in the first Event Horizon Telescope dataset**|Pablo Torne et.al.|[2308.15381v1](http://arxiv.org/abs/2308.15381v1)|[2308.15381v1](http://arxiv.org/pdf/2308.15381v1)|null|
+|**2023-08-29**|**Searching Gravitational-Wave Bursts with Space-Borne Detectors**|Zheng Wu et.al.|[2308.15354v1](http://arxiv.org/abs/2308.15354v1)|[2308.15354v1](http://arxiv.org/pdf/2308.15354v1)|null|
+|**2023-08-29**|**Bayesian Survey of the Dense Matter Equation of State built upon Skyrme effective interactions**|Mikhail V. Beznogov et.al.|[2308.15351v1](http://arxiv.org/abs/2308.15351v1)|[2308.15351v1](http://arxiv.org/pdf/2308.15351v1)|null|
+|**2023-08-29**|**The Terzina instrument onboard the NUSES space mission**|R. Aloisio et.al.|[2308.15342v1](http://arxiv.org/abs/2308.15342v1)|[2308.15342v1](http://arxiv.org/pdf/2308.15342v1)|null|
+|**2023-08-29**|**Explaining Pulsar Timing Array Observations with Primordial Gravitational Waves in Parity-Violating Gravity**|Chengjie Fu et.al.|[2308.15329v1](http://arxiv.org/abs/2308.15329v1)|[2308.15329v1](http://arxiv.org/pdf/2308.15329v1)|null|
 |**2023-08-28**|**The Impact of the WHIM on the IGM Thermal State Determined from the Low-$z$ Lyman-$α$ Forest**|Teng Hu et.al.|[2308.14738v1](http://arxiv.org/abs/2308.14738v1)|[2308.14738v1](http://arxiv.org/pdf/2308.14738v1)|null|
 |**2023-08-28**|**An adaptive optics upgrade for the Automated Planet Finder Telescope using an adaptive secondary mirror**|Rachel Bowens-Rubin et.al.|[2308.14709v1](http://arxiv.org/abs/2308.14709v1)|[2308.14709v1](http://arxiv.org/pdf/2308.14709v1)|null|
 |**2023-08-28**|**The puzzling properties of the MACS1149-JD1 galaxy at z=9.11**|Massimo Stiavelli et.al.|[2308.14696v1](http://arxiv.org/abs/2308.14696v1)|[2308.14696v1](http://arxiv.org/pdf/2308.14696v1)|null|
@@ -2979,6 +2989,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|[2308.15474v1](http://arxiv.org/pdf/2308.15474v1)|null|
+|**2023-08-29**|**Multimodal Contrastive Learning and Tabular Attention for Automated Alzheimer's Disease Prediction**|Weichen Huang et.al.|[2308.15469v1](http://arxiv.org/abs/2308.15469v1)|[2308.15469v1](http://arxiv.org/pdf/2308.15469v1)|null|
+|**2023-08-29**|**A Comparative Study of Loss Functions: Traffic Predictions in Regular and Congestion Scenarios**|Yangxinyu Xie et.al.|[2308.15464v1](http://arxiv.org/abs/2308.15464v1)|[2308.15464v1](http://arxiv.org/pdf/2308.15464v1)|**[link](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)**|
+|**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|[2308.15459v1](http://arxiv.org/pdf/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
+|**2023-08-29**|**From SMOTE to Mixup for Deep Imbalanced Classification**|Wei-Chao Cheng et.al.|[2308.15457v1](http://arxiv.org/abs/2308.15457v1)|[2308.15457v1](http://arxiv.org/pdf/2308.15457v1)|**[link](https://github.com/ntucllab/imbalanced-dl)**|
+|**2023-08-29**|**When Do Program-of-Thoughts Work for Reasoning?**|Zhen Bi et.al.|[2308.15452v1](http://arxiv.org/abs/2308.15452v1)|[2308.15452v1](http://arxiv.org/pdf/2308.15452v1)|**[link](https://github.com/zjunlp/easyinstruct)**|
+|**2023-08-29**|**Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction**|Wenjie Gao et.al.|[2308.15427v1](http://arxiv.org/abs/2308.15427v1)|[2308.15427v1](http://arxiv.org/pdf/2308.15427v1)|null|
+|**2023-08-29**|**Color Aesthetics: Fuzzy based User-driven Method for Harmony and Preference Prediction**|Pakizar Shamoi et.al.|[2308.15397v1](http://arxiv.org/abs/2308.15397v1)|[2308.15397v1](http://arxiv.org/pdf/2308.15397v1)|null|
+|**2023-08-29**|**Decentralized Multi-agent Reinforcement Learning based State-of-Charge Balancing Strategy for Distributed Energy Storage System**|Zheng Xiong et.al.|[2308.15394v1](http://arxiv.org/abs/2308.15394v1)|[2308.15394v1](http://arxiv.org/pdf/2308.15394v1)|null|
+|**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390v1](http://arxiv.org/abs/2308.15390v1)|[2308.15390v1](http://arxiv.org/pdf/2308.15390v1)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-28**|**AI Deception: A Survey of Examples, Risks, and Potential Solutions**|Peter S. Park et.al.|[2308.14752v1](http://arxiv.org/abs/2308.14752v1)|[2308.14752v1](http://arxiv.org/pdf/2308.14752v1)|null|
 |**2023-08-28**|**Probing Majorana localization in minimal Kitaev chains through a quantum dot**|Rubén Seoane Souto et.al.|[2308.14751v1](http://arxiv.org/abs/2308.14751v1)|[2308.14751v1](http://arxiv.org/pdf/2308.14751v1)|null|
 |**2023-08-28**|**Flexible Techniques for Differentiable Rendering with 3D Gaussians**|Leonid Keselman et.al.|[2308.14737v1](http://arxiv.org/abs/2308.14737v1)|[2308.14737v1](http://arxiv.org/pdf/2308.14737v1)|null|
