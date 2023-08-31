@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-30**|**Hierarchical Reconstruction of the Cosmic Web, The H-Spine method**|M. A. Aragon-Calvo et.al.|[2308.16186v1](http://arxiv.org/abs/2308.16186v1)|[2308.16186v1](http://arxiv.org/pdf/2308.16186v1)|null|
+|**2023-08-30**|**Late Time Modification of Structure Growth and the S8 Tension**|Meng-Xiang Lin et.al.|[2308.16183v1](http://arxiv.org/abs/2308.16183v1)|[2308.16183v1](http://arxiv.org/pdf/2308.16183v1)|null|
+|**2023-08-30**|**First Targeted Search for Gravitational Waves from Highly Spinning Light Compact Binaries**|Yi-Fan Wang et.al.|[2308.16173v1](http://arxiv.org/abs/2308.16173v1)|[2308.16173v1](http://arxiv.org/pdf/2308.16173v1)|null|
+|**2023-08-30**|**The Inhomogeneity Effect III: Weather Impacts on the Heat Flow of Hot Jupiters**|Xi Zhang et.al.|[2308.16165v1](http://arxiv.org/abs/2308.16165v1)|[2308.16165v1](http://arxiv.org/pdf/2308.16165v1)|null|
+|**2023-08-30**|**Three-body periodic collisionless equal-mass free-fall orbits revisited**|Ivan Hristov et.al.|[2308.16159v1](http://arxiv.org/abs/2308.16159v1)|[2308.16159v1](http://arxiv.org/pdf/2308.16159v1)|null|
+|**2023-08-30**|**The Inhomogeneity Effect II: Rotational and Orbital States Impact Planetary Cooling**|Xi Zhang et.al.|[2308.16156v1](http://arxiv.org/abs/2308.16156v1)|[2308.16156v1](http://arxiv.org/pdf/2308.16156v1)|null|
+|**2023-08-30**|**The Inhomogeneity Effect I: Inhomogeneous Surface and Atmosphere Accelerate Planetary Cooling**|Xi Zhang et.al.|[2308.16155v1](http://arxiv.org/abs/2308.16155v1)|[2308.16155v1](http://arxiv.org/pdf/2308.16155v1)|null|
+|**2023-08-30**|**A FUV and optical study of star formation in closely interacting galaxies: star forming rings, tidal arms and nuclear outflows**|Jyoti Yadav et.al.|[2308.16152v1](http://arxiv.org/abs/2308.16152v1)|[2308.16152v1](http://arxiv.org/pdf/2308.16152v1)|null|
+|**2023-08-30**|**Neutrino constraints on inelastic dark matter captured in the Sun**|Bhavesh Chauhan et.al.|[2308.16134v1](http://arxiv.org/abs/2308.16134v1)|[2308.16134v1](http://arxiv.org/pdf/2308.16134v1)|null|
+|**2023-08-30**|**A LOFAR prompt search for radio emission accompanying X-ray flares in GRB 210112A**|A. Hennessy et.al.|[2308.16121v1](http://arxiv.org/abs/2308.16121v1)|[2308.16121v1](http://arxiv.org/pdf/2308.16121v1)|null|
 |**2023-08-29**|**Detecting single gravitons with quantum sensing**|Germain Tobar et.al.|[2308.15440v1](http://arxiv.org/abs/2308.15440v1)|[2308.15440v1](http://arxiv.org/pdf/2308.15440v1)|null|
 |**2023-08-29**|**Geometry and unitarity of scalar fields coupled to gravity**|Minxi He et.al.|[2308.15420v1](http://arxiv.org/abs/2308.15420v1)|[2308.15420v1](http://arxiv.org/pdf/2308.15420v1)|null|
 |**2023-08-29**|**High Resolution Observations of the Low Atmospheric Response to Small Coronal Heating Events in an Active Region Core**|Paola Testa et.al.|[2308.15417v1](http://arxiv.org/abs/2308.15417v1)|[2308.15417v1](http://arxiv.org/pdf/2308.15417v1)|null|
@@ -2989,6 +2999,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-08-30**|**Learning Vision-based Pursuit-Evasion Robot Policies**|Andrea Bajcsy et.al.|[2308.16185v1](http://arxiv.org/abs/2308.16185v1)|[2308.16185v1](http://arxiv.org/pdf/2308.16185v1)|null|
+|**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181v1](http://arxiv.org/abs/2308.16181v1)|[2308.16181v1](http://arxiv.org/pdf/2308.16181v1)|null|
+|**2023-08-30**|**Quantifying Uncertainty in Answers from any Language Model via Intrinsic and Extrinsic Confidence Assessment**|Jiuhai Chen et.al.|[2308.16175v1](http://arxiv.org/abs/2308.16175v1)|[2308.16175v1](http://arxiv.org/pdf/2308.16175v1)|null|
+|**2023-08-30**|**Algebraic, Topological, and Mereological Foundations of Existential Granules**|Mani A et.al.|[2308.16157v1](http://arxiv.org/abs/2308.16157v1)|[2308.16157v1](http://arxiv.org/pdf/2308.16157v1)|null|
+|**2023-08-30**|**Automatic assessment of text-based responses in post-secondary education: A systematic review**|Rujun Gao et.al.|[2308.16151v1](http://arxiv.org/abs/2308.16151v1)|[2308.16151v1](http://arxiv.org/pdf/2308.16151v1)|null|
+|**2023-08-30**|**Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models**|Neha Sengupta et.al.|[2308.16149v1](http://arxiv.org/abs/2308.16149v1)|[2308.16149v1](http://arxiv.org/pdf/2308.16149v1)|null|
+|**2023-08-30**|**LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models**|Chi Han et.al.|[2308.16137v1](http://arxiv.org/abs/2308.16137v1)|[2308.16137v1](http://arxiv.org/pdf/2308.16137v1)|null|
+|**2023-08-30**|**CorrEmbed: Evaluating Pre-trained Model Image Similarity Efficacy with a Novel Metric**|Karl Audun Kagnes Borgersen et.al.|[2308.16126v1](http://arxiv.org/abs/2308.16126v1)|[2308.16126v1](http://arxiv.org/pdf/2308.16126v1)|null|
+|**2023-08-30**|**Response: Emergent analogical reasoning in large language models**|Damian Hodel et.al.|[2308.16118v1](http://arxiv.org/abs/2308.16118v1)|[2308.16118v1](http://arxiv.org/pdf/2308.16118v1)|**[link](https://github.com/hodeld/emergent_analogies_llm_fork)**|
+|**2023-08-30**|**survex: an R package for explaining machine learning survival models**|Mikołaj Spytek et.al.|[2308.16113v1](http://arxiv.org/abs/2308.16113v1)|[2308.16113v1](http://arxiv.org/pdf/2308.16113v1)|null|
 |**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|[2308.15474v1](http://arxiv.org/pdf/2308.15474v1)|null|
 |**2023-08-29**|**Multimodal Contrastive Learning and Tabular Attention for Automated Alzheimer's Disease Prediction**|Weichen Huang et.al.|[2308.15469v1](http://arxiv.org/abs/2308.15469v1)|[2308.15469v1](http://arxiv.org/pdf/2308.15469v1)|null|
 |**2023-08-29**|**A Comparative Study of Loss Functions: Traffic Predictions in Regular and Congestion Scenarios**|Yangxinyu Xie et.al.|[2308.15464v1](http://arxiv.org/abs/2308.15464v1)|[2308.15464v1](http://arxiv.org/pdf/2308.15464v1)|**[link](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)**|
