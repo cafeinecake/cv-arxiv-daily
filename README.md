@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-01**|**Bayesian deep learning for cosmic volumes with modified gravity**|Jorge Enrique García-Farieta et.al.|[2309.00612v1](http://arxiv.org/abs/2309.00612v1)|[2309.00612v1](http://arxiv.org/pdf/2309.00612v1)|null|
+|**2023-09-01**|**A mathematical construction of the 260 day mesoamerican calendar**|Sergio Mendoza et.al.|[2309.00598v1](http://arxiv.org/abs/2309.00598v1)|[2309.00598v1](http://arxiv.org/pdf/2309.00598v1)|null|
+|**2023-09-01**|**ALP-Assisted Strong First-Order Electroweak Phase Transition and Baryogenesis**|Keisuke Harigaya et.al.|[2309.00587v1](http://arxiv.org/abs/2309.00587v1)|[2309.00587v1](http://arxiv.org/pdf/2309.00587v1)|null|
+|**2023-09-01**|**Photodissociation and induced chemical asymmetries on ultra-hot gas giants. A case study of HCN on WASP-76 b**|Robin Baeyens et.al.|[2309.00573v1](http://arxiv.org/abs/2309.00573v1)|[2309.00573v1](http://arxiv.org/pdf/2309.00573v1)|null|
+|**2023-09-01**|**Do Type Ia Supernovae Explode Inside Planetary Nebulae?**|Travis Court et.al.|[2309.00572v1](http://arxiv.org/abs/2309.00572v1)|[2309.00572v1](http://arxiv.org/pdf/2309.00572v1)|null|
+|**2023-09-01**|**On a Class of Exact Arbitrarily Differentiable de Sitter Cores with Kerr Exteriors: Possible gravastar or regular black hole mimickers**|Sasa Ilijic et.al.|[2309.00551v1](http://arxiv.org/abs/2309.00551v1)|[2309.00551v1](http://arxiv.org/pdf/2309.00551v1)|null|
+|**2023-09-01**|**Revisiting a flux recovery systematic error arising from common deconvolution methods used in aperture-synthesis imaging**|Jack F. Radcliffe et.al.|[2309.00533v1](http://arxiv.org/abs/2309.00533v1)|[2309.00533v1](http://arxiv.org/pdf/2309.00533v1)|null|
+|**2023-09-01**|**POLAR-2, the next generation of GRB polarization detector**|Nicolas Produit et.al.|[2309.00518v1](http://arxiv.org/abs/2309.00518v1)|[2309.00518v1](http://arxiv.org/pdf/2309.00518v1)|null|
+|**2023-09-01**|**Enriching inner discs and giant planets with heavy elements**|Bertram Bitsch et.al.|[2309.00509v1](http://arxiv.org/abs/2309.00509v1)|[2309.00509v1](http://arxiv.org/pdf/2309.00509v1)|null|
+|**2023-09-01**|**Energy-dependent polarization of Gamma-Ray Bursts' prompt emission with the POLAR and POLAR-2 instruments**|Nicolas De Angelis et.al.|[2309.00507v1](http://arxiv.org/abs/2309.00507v1)|[2309.00507v1](http://arxiv.org/pdf/2309.00507v1)|null|
 |**2023-08-31**|**Karhunen-Loève Data Imputation in High Contrast Imaging**|Bin B. Ren et.al.|[2308.16912v1](http://arxiv.org/abs/2308.16912v1)|[2308.16912v1](http://arxiv.org/pdf/2308.16912v1)|null|
 |**2023-08-31**|**MIDIS: JWST/MIRI reveals the Stellar Structure of ALMA-selected Galaxies in the Hubble-UDF at Cosmic Noon**|Leindert A. Boogaard et.al.|[2308.16895v1](http://arxiv.org/abs/2308.16895v1)|[2308.16895v1](http://arxiv.org/pdf/2308.16895v1)|**[link](https://github.com/lboogaard/midis_psf)**|
 |**2023-08-31**|**Unravelling multi-temperature dust populations in the dwarf galaxy Holmberg II**|Olag Pratim Bordoloi et.al.|[2308.16883v1](http://arxiv.org/abs/2308.16883v1)|[2308.16883v1](http://arxiv.org/pdf/2308.16883v1)|null|
@@ -3009,6 +3019,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo et.al.|[2309.00615v1](http://arxiv.org/abs/2309.00615v1)|[2309.00615v1](http://arxiv.org/pdf/2309.00615v1)|**[link](https://github.com/ziyuguo99/point-bind_point-llm)**|
+|**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613v1](http://arxiv.org/abs/2309.00613v1)|[2309.00613v1](http://arxiv.org/pdf/2309.00613v1)|null|
+|**2023-09-01**|**Neural blind deconvolution for simultaneous partial volume correction and super-sampling of PSMA PET images**|Caleb Sample et.al.|[2309.00590v1](http://arxiv.org/abs/2309.00590v1)|[2309.00590v1](http://arxiv.org/pdf/2309.00590v1)|null|
+|**2023-09-01**|**Curating Naturally Adversarial Datasets for Trustworthy AI in Healthcare**|Sydney Pugh et.al.|[2309.00543v1](http://arxiv.org/abs/2309.00543v1)|[2309.00543v1](http://arxiv.org/pdf/2309.00543v1)|null|
+|**2023-09-01**|**Enabling Inverse Design in Chemical Compound Space: Mapping Quantum Properties to Structures for Small Organic Molecules**|Alessio Fallani et.al.|[2309.00506v1](http://arxiv.org/abs/2309.00506v1)|[2309.00506v1](http://arxiv.org/pdf/2309.00506v1)|null|
+|**2023-09-01**|**Learning-based NLOS Detection and Uncertainty Prediction of GNSS Observations with Transformer-Enhanced LSTM Network**|Haoming Zhang et.al.|[2309.00480v1](http://arxiv.org/abs/2309.00480v1)|[2309.00480v1](http://arxiv.org/pdf/2309.00480v1)|**[link](https://github.com/rwth-irt/deepnlosdetection)**|
+|**2023-09-01**|**A Theoretical and Practical Framework for Evaluating Uncertainty Calibration in Object Detection**|Pedro Conde et.al.|[2309.00464v1](http://arxiv.org/abs/2309.00464v1)|[2309.00464v1](http://arxiv.org/pdf/2309.00464v1)|**[link](https://github.com/pedrormconde/uncertainty_calibration_object_detection)**|
+|**2023-09-01**|**New metrics for analyzing continual learners**|Nicolas Michel et.al.|[2309.00462v1](http://arxiv.org/abs/2309.00462v1)|[2309.00462v1](http://arxiv.org/pdf/2309.00462v1)|null|
+|**2023-09-01**|**CPSP: Learning Speech Concepts From Phoneme Supervision**|Chunyu Qiang et.al.|[2309.00424v1](http://arxiv.org/abs/2309.00424v1)|[2309.00424v1](http://arxiv.org/pdf/2309.00424v1)|null|
+|**2023-09-01**|**Declarative Reasoning on Explanations Using Constraint Logic Programming**|Laura State et.al.|[2309.00422v1](http://arxiv.org/abs/2309.00422v1)|[2309.00422v1](http://arxiv.org/pdf/2309.00422v1)|null|
 |**2023-08-31**|**PointLLM: Empowering Large Language Models to Understand Point Clouds**|Runsen Xu et.al.|[2308.16911v1](http://arxiv.org/abs/2308.16911v1)|[2308.16911v1](http://arxiv.org/pdf/2308.16911v1)|**[link](https://github.com/openrobotlab/pointllm)**|
 |**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909v1](http://arxiv.org/abs/2308.16909v1)|[2308.16909v1](http://arxiv.org/pdf/2308.16909v1)|**[link](https://github.com/johannwyh/styleinv)**|
 |**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905v1](http://arxiv.org/abs/2308.16905v1)|[2308.16905v1](http://arxiv.org/pdf/2308.16905v1)|**[link](https://github.com/Sirui-Xu/InterDiff)**|
