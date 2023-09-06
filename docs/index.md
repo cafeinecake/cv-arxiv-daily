@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-05**|**A Photon Burst Clears the Earliest Dusty Galaxies: Modelling Dust in High-redshift Galaxies from ALMA to JWST**|Daichi Tsuna et.al.|[2309.02415v1](http://arxiv.org/abs/2309.02415v1)|[2309.02415v1](http://arxiv.org/pdf/2309.02415v1)|null|
+|**2023-09-05**|**B/PS bulges and barlenses from a kinematic viewpoint. I**|Daria Zakharova et.al.|[2309.02410v1](http://arxiv.org/abs/2309.02410v1)|[2309.02410v1](http://arxiv.org/pdf/2309.02410v1)|null|
+|**2023-09-05**|**Exploring magnetic coupling of solar atmosphere through frequency modulations of 3-min slow magnetoacoustic waves**|Ananya Rawat et.al.|[2309.02398v1](http://arxiv.org/abs/2309.02398v1)|[2309.02398v1](http://arxiv.org/pdf/2309.02398v1)|null|
+|**2023-09-05**|**A morphological segmentation approach to determining bar lengths**|Mitchell K. Cavanagh et.al.|[2309.02380v1](http://arxiv.org/abs/2309.02380v1)|[2309.02380v1](http://arxiv.org/pdf/2309.02380v1)|null|
+|**2023-09-05**|**Sesquinary Catastrophe For Close-In Moons with Dynamically Excited Orbits**|Matija Ćuk et.al.|[2309.02378v1](http://arxiv.org/abs/2309.02378v1)|[2309.02378v1](http://arxiv.org/pdf/2309.02378v1)|null|
+|**2023-09-05**|**SU(3) Parity Doubling in Cold Neutron Star Matter**|Eduardo S. Fraga et.al.|[2309.02368v1](http://arxiv.org/abs/2309.02368v1)|[2309.02368v1](http://arxiv.org/pdf/2309.02368v1)|null|
+|**2023-09-05**|**Disentangling the primordial nature of stochastic gravitational wave backgrounds with CMB spectral distortions**|Bryce Cyr et.al.|[2309.02366v1](http://arxiv.org/abs/2309.02366v1)|[2309.02366v1](http://arxiv.org/pdf/2309.02366v1)|null|
+|**2023-09-05**|**Gas Kinematics in the Magellanic-Type Galaxy NGC 7292**|A. S. Gusev et.al.|[2309.02360v1](http://arxiv.org/abs/2309.02360v1)|[2309.02360v1](http://arxiv.org/pdf/2309.02360v1)|null|
+|**2023-09-05**|**Nontrivial features in the speed of sound inside neutron stars**|Debora Mroczek et.al.|[2309.02345v1](http://arxiv.org/abs/2309.02345v1)|[2309.02345v1](http://arxiv.org/pdf/2309.02345v1)|null|
+|**2023-09-05**|**Compact Metasurface Terahertz Spectrometer**|Wenye Ji et.al.|[2309.02341v1](http://arxiv.org/abs/2309.02341v1)|[2309.02341v1](http://arxiv.org/pdf/2309.02341v1)|null|
 |**2023-09-01**|**Bayesian deep learning for cosmic volumes with modified gravity**|Jorge Enrique García-Farieta et.al.|[2309.00612v1](http://arxiv.org/abs/2309.00612v1)|[2309.00612v1](http://arxiv.org/pdf/2309.00612v1)|null|
 |**2023-09-01**|**A mathematical construction of the 260 day mesoamerican calendar**|Sergio Mendoza et.al.|[2309.00598v1](http://arxiv.org/abs/2309.00598v1)|[2309.00598v1](http://arxiv.org/pdf/2309.00598v1)|null|
 |**2023-09-01**|**ALP-Assisted Strong First-Order Electroweak Phase Transition and Baryogenesis**|Keisuke Harigaya et.al.|[2309.00587v1](http://arxiv.org/abs/2309.00587v1)|[2309.00587v1](http://arxiv.org/pdf/2309.00587v1)|null|
@@ -3023,6 +3033,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-05**|**Efficient RL via Disentangled Environment and Agent Representations**|Kevin Gmelin et.al.|[2309.02435v1](http://arxiv.org/abs/2309.02435v1)|[2309.02435v1](http://arxiv.org/pdf/2309.02435v1)|null|
+|**2023-09-05**|**Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach**|Vimal K B et.al.|[2309.02429v1](http://arxiv.org/abs/2309.02429v1)|[2309.02429v1](http://arxiv.org/pdf/2309.02429v1)|null|
+|**2023-09-05**|**Cognitive Architectures for Language Agents**|Theodore Sumers et.al.|[2309.02427v1](http://arxiv.org/abs/2309.02427v1)|[2309.02427v1](http://arxiv.org/pdf/2309.02427v1)|null|
+|**2023-09-05**|**Contextual Predictive Mutation Testing**|Kush Jain et.al.|[2309.02389v1](http://arxiv.org/abs/2309.02389v1)|[2309.02389v1](http://arxiv.org/pdf/2309.02389v1)|null|
+|**2023-09-05**|**Information Processing by Neuron Populations in the Central Nervous System: Mathematical Structure of Data and Operations**|Martin N. P. Nilsson et.al.|[2309.02332v1](http://arxiv.org/abs/2309.02332v1)|[2309.02332v1](http://arxiv.org/pdf/2309.02332v1)|null|
+|**2023-09-05**|**Neurosymbolic Meta-Reinforcement Lookahead Learning Achieves Safe Self-Driving in Non-Stationary Environments**|Haozhe Lei et.al.|[2309.02328v1](http://arxiv.org/abs/2309.02328v1)|[2309.02328v1](http://arxiv.org/pdf/2309.02328v1)|null|
+|**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326v1](http://arxiv.org/abs/2309.02326v1)|[2309.02326v1](http://arxiv.org/pdf/2309.02326v1)|null|
+|**2023-09-05**|**SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction**|Xu Si et.al.|[2309.02320v1](http://arxiv.org/abs/2309.02320v1)|[2309.02320v1](http://arxiv.org/pdf/2309.02320v1)|**[link](https://github.com/sixu0/SeisCLIP)**|
+|**2023-09-05**|**Graph Self-Contrast Representation Learning**|Minjie Chen et.al.|[2309.02304v1](http://arxiv.org/abs/2309.02304v1)|[2309.02304v1](http://arxiv.org/pdf/2309.02304v1)|null|
+|**2023-09-05**|**Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure**|Kim Hammar et.al.|[2309.02287v1](http://arxiv.org/abs/2309.02287v1)|[2309.02287v1](http://arxiv.org/pdf/2309.02287v1)|null|
 |**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo et.al.|[2309.00615v1](http://arxiv.org/abs/2309.00615v1)|[2309.00615v1](http://arxiv.org/pdf/2309.00615v1)|**[link](https://github.com/ziyuguo99/point-bind_point-llm)**|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613v1](http://arxiv.org/abs/2309.00613v1)|[2309.00613v1](http://arxiv.org/pdf/2309.00613v1)|null|
 |**2023-09-01**|**Neural blind deconvolution for simultaneous partial volume correction and super-sampling of PSMA PET images**|Caleb Sample et.al.|[2309.00590v1](http://arxiv.org/abs/2309.00590v1)|[2309.00590v1](http://arxiv.org/pdf/2309.00590v1)|**[link](https://github.com/samplecm/neural_blind_deconv_psma)**|
