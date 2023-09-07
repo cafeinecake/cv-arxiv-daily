@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-06**|**Leo T Dissected with the MUSE-Faint Survey**|Daniel Vaz et.al.|[2309.03188v1](http://arxiv.org/abs/2309.03188v1)|[2309.03188v1](http://arxiv.org/pdf/2309.03188v1)|null|
+|**2023-09-06**|**HCN emission from translucent gas and UV-illuminated cloud edges revealed by wide-field IRAM 30m maps of Orion B GMC: Revisiting its role as tracer of the dense gas reservoir for star formation**|M. G. Santa-Maria et.al.|[2309.03186v1](http://arxiv.org/abs/2309.03186v1)|[2309.03186v1](http://arxiv.org/pdf/2309.03186v1)|null|
+|**2023-09-06**|**Constraining the halo-ISM connection through multi-transition carbon monoxide line-intensity mapping**|Dongwoo T. Chung et.al.|[2309.03184v1](http://arxiv.org/abs/2309.03184v1)|[2309.03184v1](http://arxiv.org/pdf/2309.03184v1)|null|
+|**2023-09-06**|**Possible wormholes in a Friedmann universe**|Kirill A. Bronnikov et.al.|[2309.03166v1](http://arxiv.org/abs/2309.03166v1)|[2309.03166v1](http://arxiv.org/pdf/2309.03166v1)|null|
+|**2023-09-06**|**Magnetized Baryonic layer and a novel BPS bound in the gauged-Non-Linear-Sigma-Model-Maxwell theory in (3+1)-dimensions through Hamilton-Jacobi equation**|Fabrizio Canfora et.al.|[2309.03153v1](http://arxiv.org/abs/2309.03153v1)|[2309.03153v1](http://arxiv.org/pdf/2309.03153v1)|null|
+|**2023-09-06**|**Timing Analysis of the Intermediate Polar V709 Cas**|Srinivas M Rao et.al.|[2309.03150v1](http://arxiv.org/abs/2309.03150v1)|[2309.03150v1](http://arxiv.org/pdf/2309.03150v1)|null|
+|**2023-09-06**|**Spectroscopy for asymmetric binary black hole mergers**|Jahed Abedi et.al.|[2309.03121v1](http://arxiv.org/abs/2309.03121v1)|[2309.03121v1](http://arxiv.org/pdf/2309.03121v1)|null|
+|**2023-09-06**|**The Spectra of IceCube Neutrino (SIN) candidate sources -- IV. Spectral energy distributions and multi-wavelength variability**|Martina Karl et.al.|[2309.03119v1](http://arxiv.org/abs/2309.03119v1)|[2309.03119v1](http://arxiv.org/pdf/2309.03119v1)|null|
+|**2023-09-06**|**Correlating high-energy IceCube neutrinos with 5BZCAT blazars and RFC sources**|Chiara Bellenghi et.al.|[2309.03115v1](http://arxiv.org/abs/2309.03115v1)|[2309.03115v1](http://arxiv.org/pdf/2309.03115v1)|null|
+|**2023-09-06**|**An advanced multipole model of the (130) Elektra quadruple system**|M. Fuksa et.al.|[2309.03109v1](http://arxiv.org/abs/2309.03109v1)|[2309.03109v1](http://arxiv.org/pdf/2309.03109v1)|null|
 |**2023-09-05**|**A Photon Burst Clears the Earliest Dusty Galaxies: Modelling Dust in High-redshift Galaxies from ALMA to JWST**|Daichi Tsuna et.al.|[2309.02415v1](http://arxiv.org/abs/2309.02415v1)|[2309.02415v1](http://arxiv.org/pdf/2309.02415v1)|null|
 |**2023-09-05**|**B/PS bulges and barlenses from a kinematic viewpoint. I**|Daria Zakharova et.al.|[2309.02410v1](http://arxiv.org/abs/2309.02410v1)|[2309.02410v1](http://arxiv.org/pdf/2309.02410v1)|null|
 |**2023-09-05**|**Exploring magnetic coupling of solar atmosphere through frequency modulations of 3-min slow magnetoacoustic waves**|Ananya Rawat et.al.|[2309.02398v1](http://arxiv.org/abs/2309.02398v1)|[2309.02398v1](http://arxiv.org/pdf/2309.02398v1)|null|
@@ -3029,6 +3039,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|[2309.03198v1](http://arxiv.org/pdf/2309.03198v1)|null|
+|**2023-09-06**|**Signatures of Bayesian inference emerge from energy efficient synapses**|James Malkin et.al.|[2309.03194v1](http://arxiv.org/abs/2309.03194v1)|[2309.03194v1](http://arxiv.org/pdf/2309.03194v1)|null|
+|**2023-09-06**|**treams -- A T-matrix scattering code for nanophotonic computations**|Dominik Beutel et.al.|[2309.03182v1](http://arxiv.org/abs/2309.03182v1)|[2309.03182v1](http://arxiv.org/pdf/2309.03182v1)|null|
+|**2023-09-06**|**Split-Boost Neural Networks**|Raffaele Giuseppe Cestari et.al.|[2309.03167v1](http://arxiv.org/abs/2309.03167v1)|[2309.03167v1](http://arxiv.org/pdf/2309.03167v1)|null|
+|**2023-09-06**|**J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News**|Tharindu Kumarage et.al.|[2309.03164v1](http://arxiv.org/abs/2309.03164v1)|[2309.03164v1](http://arxiv.org/pdf/2309.03164v1)|null|
+|**2023-09-06**|**Risk-reducing design and operations toolkit: 90 strategies for managing risk and uncertainty in decision problems**|Alexander Gutfraind et.al.|[2309.03133v1](http://arxiv.org/abs/2309.03133v1)|[2309.03133v1](http://arxiv.org/pdf/2309.03133v1)|null|
+|**2023-09-06**|**MyoDex: A Generalizable Prior for Dexterous Manipulation**|Vittorio Caggiano et.al.|[2309.03130v1](http://arxiv.org/abs/2309.03130v1)|[2309.03130v1](http://arxiv.org/pdf/2309.03130v1)|null|
+|**2023-09-06**|**Detecting Manufacturing Defects in PCBs via Data-Centric Machine Learning on Solder Paste Inspection Features**|Jubilee Prasad-Rao et.al.|[2309.03113v1](http://arxiv.org/abs/2309.03113v1)|[2309.03113v1](http://arxiv.org/pdf/2309.03113v1)|null|
+|**2023-09-06**|**Disarming Steganography Attacks Inside Neural Network Models**|Ran Dubin et.al.|[2309.03071v1](http://arxiv.org/abs/2309.03071v1)|[2309.03071v1](http://arxiv.org/pdf/2309.03071v1)|null|
+|**2023-09-06**|**A Multimodal Analysis of Influencer Content on Twitter**|Danae Sánchez Villegas et.al.|[2309.03064v1](http://arxiv.org/abs/2309.03064v1)|[2309.03064v1](http://arxiv.org/pdf/2309.03064v1)|null|
 |**2023-09-05**|**Efficient RL via Disentangled Environment and Agent Representations**|Kevin Gmelin et.al.|[2309.02435v1](http://arxiv.org/abs/2309.02435v1)|[2309.02435v1](http://arxiv.org/pdf/2309.02435v1)|null|
 |**2023-09-05**|**Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach**|Vimal K B et.al.|[2309.02429v1](http://arxiv.org/abs/2309.02429v1)|[2309.02429v1](http://arxiv.org/pdf/2309.02429v1)|null|
 |**2023-09-05**|**Cognitive Architectures for Language Agents**|Theodore Sumers et.al.|[2309.02427v1](http://arxiv.org/abs/2309.02427v1)|[2309.02427v1](http://arxiv.org/pdf/2309.02427v1)|null|
