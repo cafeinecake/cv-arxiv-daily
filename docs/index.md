@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-07**|**Rapid neutron star cooling triggered by accumulated dark matter**|Afonso Ávila et.al.|[2309.03894v1](http://arxiv.org/abs/2309.03894v1)|[2309.03894v1](http://arxiv.org/pdf/2309.03894v1)|null|
+|**2023-09-07**|**Neutron star cooling with lepton-flavor-violating axions**|Hong-Yi Zhang et.al.|[2309.03889v1](http://arxiv.org/abs/2309.03889v1)|[2309.03889v1](http://arxiv.org/pdf/2309.03889v1)|null|
+|**2023-09-07**|**Full L- and M-band high resolution spectroscopy of the S CrA binary disks with VLT-CRIRES+**|Sierra L. Grant et.al.|[2309.03888v1](http://arxiv.org/abs/2309.03888v1)|[2309.03888v1](http://arxiv.org/pdf/2309.03888v1)|null|
+|**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. IV. Shock-Ionized Jets**|Emiko C. Gardiner et.al.|[2309.03887v1](http://arxiv.org/abs/2309.03887v1)|[2309.03887v1](http://arxiv.org/pdf/2309.03887v1)|null|
+|**2023-09-07**|**Past the outer rim, into the unknown: structures beyond the Kuiper Cliff**|C. de la Fuente Marcos et.al.|[2309.03885v1](http://arxiv.org/abs/2309.03885v1)|[2309.03885v1](http://arxiv.org/pdf/2309.03885v1)|null|
+|**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. III. Synthetic CO Line Emission**|Duo Xu et.al.|[2309.03868v1](http://arxiv.org/abs/2309.03868v1)|[2309.03868v1](http://arxiv.org/pdf/2309.03868v1)|null|
+|**2023-09-07**|**Constraining Hot Dark Matter Sub-Species with Weak Lensing and the Cosmic Microwave Background Radiation**|Fabian Hervas Peters et.al.|[2309.03865v1](http://arxiv.org/abs/2309.03865v1)|[2309.03865v1](http://arxiv.org/pdf/2309.03865v1)|null|
+|**2023-09-07**|**On the Radio Emission from $ε$ Eridani**|Luis F. Rodriguez et.al.|[2309.03862v1](http://arxiv.org/abs/2309.03862v1)|[2309.03862v1](http://arxiv.org/pdf/2309.03862v1)|null|
+|**2023-09-07**|**Saturn's ancient regular satellites**|Emily. W. Wong et.al.|[2309.03861v1](http://arxiv.org/abs/2309.03861v1)|[2309.03861v1](http://arxiv.org/pdf/2309.03861v1)|null|
+|**2023-09-07**|**B-modes from galaxy cluster alignments in future surveys**|Christos Georgiou et.al.|[2309.03841v1](http://arxiv.org/abs/2309.03841v1)|[2309.03841v1](http://arxiv.org/pdf/2309.03841v1)|null|
 |**2023-09-06**|**Leo T Dissected with the MUSE-Faint Survey**|Daniel Vaz et.al.|[2309.03188v1](http://arxiv.org/abs/2309.03188v1)|[2309.03188v1](http://arxiv.org/pdf/2309.03188v1)|null|
 |**2023-09-06**|**HCN emission from translucent gas and UV-illuminated cloud edges revealed by wide-field IRAM 30m maps of Orion B GMC: Revisiting its role as tracer of the dense gas reservoir for star formation**|M. G. Santa-Maria et.al.|[2309.03186v1](http://arxiv.org/abs/2309.03186v1)|[2309.03186v1](http://arxiv.org/pdf/2309.03186v1)|null|
 |**2023-09-06**|**Constraining the halo-ISM connection through multi-transition carbon monoxide line-intensity mapping**|Dongwoo T. Chung et.al.|[2309.03184v1](http://arxiv.org/abs/2309.03184v1)|[2309.03184v1](http://arxiv.org/pdf/2309.03184v1)|null|
@@ -3043,6 +3053,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|[2309.03895v1](http://arxiv.org/pdf/2309.03895v1)|null|
+|**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893v1](http://arxiv.org/abs/2309.03893v1)|[2309.03893v1](http://arxiv.org/pdf/2309.03893v1)|null|
+|**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886v1](http://arxiv.org/abs/2309.03886v1)|[2309.03886v1](http://arxiv.org/pdf/2309.03886v1)|null|
+|**2023-09-07**|**DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**|Yung-Sung Chuang et.al.|[2309.03883v1](http://arxiv.org/abs/2309.03883v1)|[2309.03883v1](http://arxiv.org/pdf/2309.03883v1)|null|
+|**2023-09-07**|**OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs**|Patrick Haller et.al.|[2309.03876v1](http://arxiv.org/abs/2309.03876v1)|[2309.03876v1](http://arxiv.org/pdf/2309.03876v1)|null|
+|**2023-09-07**|**FLM-101B: An Open LLM and How to Train It with $100K Budget**|Xiang Li et.al.|[2309.03852v1](http://arxiv.org/abs/2309.03852v1)|[2309.03852v1](http://arxiv.org/pdf/2309.03852v1)|null|
+|**2023-09-07**|**Experimental Study of Adversarial Attacks on ML-based xApps in O-RAN**|Naveen Naik Sapavath et.al.|[2309.03844v1](http://arxiv.org/abs/2309.03844v1)|[2309.03844v1](http://arxiv.org/pdf/2309.03844v1)|null|
+|**2023-09-07**|**Uncovering Drift in Textual Data: An Unsupervised Method for Detecting and Mitigating Drift in Machine Learning Models**|Saeed Khaki et.al.|[2309.03831v1](http://arxiv.org/abs/2309.03831v1)|[2309.03831v1](http://arxiv.org/pdf/2309.03831v1)|null|
+|**2023-09-07**|**Gænice: a general model for magnon band structure of artificial spin ices**|Ghanem Alatteili et.al.|[2309.03826v1](http://arxiv.org/abs/2309.03826v1)|[2309.03826v1](http://arxiv.org/pdf/2309.03826v1)|null|
+|**2023-09-07**|**Training Acceleration of Low-Rank Decomposed Networks using Sequential Freezing and Rank Quantization**|Habib Hajimolahoseini et.al.|[2309.03824v1](http://arxiv.org/abs/2309.03824v1)|[2309.03824v1](http://arxiv.org/pdf/2309.03824v1)|null|
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|[2309.03198v1](http://arxiv.org/pdf/2309.03198v1)|null|
 |**2023-09-06**|**Signatures of Bayesian inference emerge from energy efficient synapses**|James Malkin et.al.|[2309.03194v1](http://arxiv.org/abs/2309.03194v1)|[2309.03194v1](http://arxiv.org/pdf/2309.03194v1)|null|
 |**2023-09-06**|**treams -- A T-matrix scattering code for nanophotonic computations**|Dominik Beutel et.al.|[2309.03182v1](http://arxiv.org/abs/2309.03182v1)|[2309.03182v1](http://arxiv.org/pdf/2309.03182v1)|null|
