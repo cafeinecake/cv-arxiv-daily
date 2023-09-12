@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-11**|**Stellar Cruise Control: Weakened Magnetic Braking Leads to Sustained Rapid Rotation of Old Stars**|Nicholas Saunders et.al.|[2309.05666v1](http://arxiv.org/abs/2309.05666v1)|[2309.05666v1](http://arxiv.org/pdf/2309.05666v1)|null|
+|**2023-09-11**|**The Atacama Cosmology Telescope: Cosmology from cross-correlations of unWISE galaxies and ACT DR6 CMB lensing**|Gerrit S. Farren et.al.|[2309.05659v1](http://arxiv.org/abs/2309.05659v1)|[2309.05659v1](http://arxiv.org/pdf/2309.05659v1)|null|
+|**2023-09-11**|**Amalgame: Cosmological Constraints from the First Combined Photometric Supernova Sample**|Brodie Popovic et.al.|[2309.05654v1](http://arxiv.org/abs/2309.05654v1)|[2309.05654v1](http://arxiv.org/pdf/2309.05654v1)|null|
+|**2023-09-11**|**Testing external photoevaporation in the $σ$-Orionis cluster with spectroscopy and disk mass measurements**|K. Maucó et.al.|[2309.05651v1](http://arxiv.org/abs/2309.05651v1)|[2309.05651v1](http://arxiv.org/pdf/2309.05651v1)|null|
+|**2023-09-11**|**Forecasting constraints on the high-z IGM thermal state from the Lyman-$α$ forest flux auto-correlation function**|Molly Wolfson et.al.|[2309.05647v1](http://arxiv.org/abs/2309.05647v1)|[2309.05647v1](http://arxiv.org/pdf/2309.05647v1)|null|
+|**2023-09-11**|**Rapidly rotating neutron stars: Universal relations and EOS inference**|Christian J. Krüger et.al.|[2309.05643v1](http://arxiv.org/abs/2309.05643v1)|[2309.05643v1](http://arxiv.org/pdf/2309.05643v1)|null|
+|**2023-09-11**|**Can massive stars form in low mass clouds?**|Jamie D. Smith et.al.|[2309.05635v1](http://arxiv.org/abs/2309.05635v1)|[2309.05635v1](http://arxiv.org/pdf/2309.05635v1)|null|
+|**2023-09-11**|**Progress in Direct Measurements of the Hubble Constant**|Wendy L. Freedman et.al.|[2309.05618v1](http://arxiv.org/abs/2309.05618v1)|[2309.05618v1](http://arxiv.org/pdf/2309.05618v1)|null|
+|**2023-09-11**|**On the Comparison of AGN with GRMHD Simulations: II. M87**|Richard Anantua et.al.|[2309.05602v1](http://arxiv.org/abs/2309.05602v1)|[2309.05602v1](http://arxiv.org/pdf/2309.05602v1)|null|
+|**2023-09-11**|**Towards inferring the geometry of kilonovae**|Christine E. Collins et.al.|[2309.05579v1](http://arxiv.org/abs/2309.05579v1)|[2309.05579v1](http://arxiv.org/pdf/2309.05579v1)|null|
 |**2023-09-08**|**Bayesian and frequentist investigation of prior effects in EFTofLSS analyses of full-shape BOSS and eBOSS data**|Emil Brinch Holm et.al.|[2309.04468v1](http://arxiv.org/abs/2309.04468v1)|[2309.04468v1](http://arxiv.org/pdf/2309.04468v1)|null|
 |**2023-09-08**|**A search for faint resolved galaxies beyond the Milky Way in DES Year 6: A new faint, diffuse dwarf satellite of NGC 55**|M. McNanna et.al.|[2309.04467v1](http://arxiv.org/abs/2309.04467v1)|[2309.04467v1](http://arxiv.org/pdf/2309.04467v1)|null|
 |**2023-09-08**|**The Local Group Symbiotic Star Population and its Weak Relation with Type Ia Supernovae**|M. Laversveiler et.al.|[2309.04466v1](http://arxiv.org/abs/2309.04466v1)|[2309.04466v1](http://arxiv.org/pdf/2309.04466v1)|null|
@@ -3059,6 +3069,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-11**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665v1](http://arxiv.org/abs/2309.05665v1)|[2309.05665v1](http://arxiv.org/pdf/2309.05665v1)|null|
+|**2023-09-11**|**Hypothesis Search: Inductive Reasoning with Language Models**|Ruocheng Wang et.al.|[2309.05660v1](http://arxiv.org/abs/2309.05660v1)|[2309.05660v1](http://arxiv.org/pdf/2309.05660v1)|null|
+|**2023-09-11**|**Potentials of Deterministic Radio Propagation Simulation for AI-Enabled Localization and Sensing**|Albrecht Michler et.al.|[2309.05650v1](http://arxiv.org/abs/2309.05650v1)|[2309.05650v1](http://arxiv.org/pdf/2309.05650v1)|null|
+|**2023-09-11**|**Combinative Cumulative Knowledge Processes**|Anna Brandenberger et.al.|[2309.05638v1](http://arxiv.org/abs/2309.05638v1)|[2309.05638v1](http://arxiv.org/pdf/2309.05638v1)|null|
+|**2023-09-11**|**Memory Injections: Correcting Multi-Hop Reasoning Failures during Inference in Transformer-Based Language Models**|Mansi Sakarvadia et.al.|[2309.05605v1](http://arxiv.org/abs/2309.05605v1)|[2309.05605v1](http://arxiv.org/pdf/2309.05605v1)|null|
+|**2023-09-11**|**Temporal Action Localization with Enhanced Instant Discriminability**|Dingfeng Shi et.al.|[2309.05590v1](http://arxiv.org/abs/2309.05590v1)|[2309.05590v1](http://arxiv.org/pdf/2309.05590v1)|**[link](https://github.com/dingfengshi/tridetplus)**|
+|**2023-09-11**|**Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning**|Marin Vlastelica et.al.|[2309.05582v1](http://arxiv.org/abs/2309.05582v1)|[2309.05582v1](http://arxiv.org/pdf/2309.05582v1)|null|
+|**2023-09-11**|**ITI-GEN: Inclusive Text-to-Image Generation**|Cheng Zhang et.al.|[2309.05569v1](http://arxiv.org/abs/2309.05569v1)|[2309.05569v1](http://arxiv.org/pdf/2309.05569v1)|null|
+|**2023-09-11**|**An Empirical Study of NetOps Capability of Pre-Trained Large Language Models**|Yukai Miao et.al.|[2309.05557v1](http://arxiv.org/abs/2309.05557v1)|[2309.05557v1](http://arxiv.org/pdf/2309.05557v1)|null|
+|**2023-09-11**|**Itinerant ferromagnetism in transition metal dichalcogenides moiré superlattices**|Pawel Potasz et.al.|[2309.05556v1](http://arxiv.org/abs/2309.05556v1)|[2309.05556v1](http://arxiv.org/pdf/2309.05556v1)|null|
 |**2023-09-08**|**On the Actionability of Outcome Prediction**|Lydia T. Liu et.al.|[2309.04470v1](http://arxiv.org/abs/2309.04470v1)|[2309.04470v1](http://arxiv.org/pdf/2309.04470v1)|null|
 |**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459v1](http://arxiv.org/abs/2309.04459v1)|[2309.04459v1](http://arxiv.org/pdf/2309.04459v1)|null|
 |**2023-09-08**|**Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**|Zhiyong Hu et.al.|[2309.04455v1](http://arxiv.org/abs/2309.04455v1)|[2309.04455v1](http://arxiv.org/pdf/2309.04455v1)|null|
