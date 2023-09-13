@@ -1,4 +1,4 @@
-> Updated on 2023.09.12
+> Updated on 2023.09.13
 
 ## Astrophysics
 
@@ -3065,7 +3065,7 @@
 
 ## AI
 
-- 2023-09-11, **Robot Parkour Learning**, Ziwen Zhuang et.al., Paper: [http://arxiv.org/abs/2309.05665v1](http://arxiv.org/abs/2309.05665v1), Paper: [http://arxiv.org/abs/2309.05665v1](http://arxiv.org/pdf/2309.05665v1)
+- 2023-09-12, **Robot Parkour Learning**, Ziwen Zhuang et.al., Paper: [http://arxiv.org/abs/2309.05665v2](http://arxiv.org/abs/2309.05665v2), Paper: [http://arxiv.org/abs/2309.05665v2](http://arxiv.org/pdf/2309.05665v2)
 - 2023-09-11, **Hypothesis Search: Inductive Reasoning with Language Models**, Ruocheng Wang et.al., Paper: [http://arxiv.org/abs/2309.05660v1](http://arxiv.org/abs/2309.05660v1), Paper: [http://arxiv.org/abs/2309.05660v1](http://arxiv.org/pdf/2309.05660v1)
 - 2023-09-11, **Potentials of Deterministic Radio Propagation Simulation for AI-Enabled Localization and Sensing**, Albrecht Michler et.al., Paper: [http://arxiv.org/abs/2309.05650v1](http://arxiv.org/abs/2309.05650v1), Paper: [http://arxiv.org/abs/2309.05650v1](http://arxiv.org/pdf/2309.05650v1)
 - 2023-09-11, **Combinative Cumulative Knowledge Processes**, Anna Brandenberger et.al., Paper: [http://arxiv.org/abs/2309.05638v1](http://arxiv.org/abs/2309.05638v1), Paper: [http://arxiv.org/abs/2309.05638v1](http://arxiv.org/pdf/2309.05638v1)
@@ -3073,7 +3073,7 @@
 - 2023-09-11, **Temporal Action Localization with Enhanced Instant Discriminability**, Dingfeng Shi et.al., Paper: [http://arxiv.org/abs/2309.05590v1](http://arxiv.org/abs/2309.05590v1),Paper: [http://arxiv.org/abs/2309.05590v1](http://arxiv.org/pdf/2309.05590v1), Code: **[https://github.com/dingfengshi/tridetplus](https://github.com/dingfengshi/tridetplus)**
 - 2023-09-11, **Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning**, Marin Vlastelica et.al., Paper: [http://arxiv.org/abs/2309.05582v1](http://arxiv.org/abs/2309.05582v1), Paper: [http://arxiv.org/abs/2309.05582v1](http://arxiv.org/pdf/2309.05582v1)
 - 2023-09-11, **ITI-GEN: Inclusive Text-to-Image Generation**, Cheng Zhang et.al., Paper: [http://arxiv.org/abs/2309.05569v1](http://arxiv.org/abs/2309.05569v1), Paper: [http://arxiv.org/abs/2309.05569v1](http://arxiv.org/pdf/2309.05569v1)
-- 2023-09-11, **An Empirical Study of NetOps Capability of Pre-Trained Large Language Models**, Yukai Miao et.al., Paper: [http://arxiv.org/abs/2309.05557v1](http://arxiv.org/abs/2309.05557v1), Paper: [http://arxiv.org/abs/2309.05557v1](http://arxiv.org/pdf/2309.05557v1)
+- 2023-09-12, **An Empirical Study of NetOps Capability of Pre-Trained Large Language Models**, Yukai Miao et.al., Paper: [http://arxiv.org/abs/2309.05557v2](http://arxiv.org/abs/2309.05557v2), Paper: [http://arxiv.org/abs/2309.05557v2](http://arxiv.org/pdf/2309.05557v2)
 - 2023-09-11, **Itinerant ferromagnetism in transition metal dichalcogenides moiré superlattices**, Pawel Potasz et.al., Paper: [http://arxiv.org/abs/2309.05556v1](http://arxiv.org/abs/2309.05556v1), Paper: [http://arxiv.org/abs/2309.05556v1](http://arxiv.org/pdf/2309.05556v1)
 - 2023-09-08, **On the Actionability of Outcome Prediction**, Lydia T. Liu et.al., Paper: [http://arxiv.org/abs/2309.04470v1](http://arxiv.org/abs/2309.04470v1), Paper: [http://arxiv.org/abs/2309.04470v1](http://arxiv.org/pdf/2309.04470v1)
 - 2023-09-08, **Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**, David Yunis et.al., Paper: [http://arxiv.org/abs/2309.04459v1](http://arxiv.org/abs/2309.04459v1), Paper: [http://arxiv.org/abs/2309.04459v1](http://arxiv.org/pdf/2309.04459v1)
