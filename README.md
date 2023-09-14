@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-13**|**Monitoring H$α$ Emission from the Wide-orbit Brown-dwarf Companion FU Tau B**|Ya-Lin Wu et.al.|[2309.07114v1](http://arxiv.org/abs/2309.07114v1)|[2309.07114v1](http://arxiv.org/pdf/2309.07114v1)|null|
+|**2023-09-13**|**Real-time Monitoring for the Next Core-Collapse Supernova in JUNO**|Angel Abusleme et.al.|[2309.07109v1](http://arxiv.org/abs/2309.07109v1)|[2309.07109v1](http://arxiv.org/pdf/2309.07109v1)|null|
+|**2023-09-13**|**Keck Infrared Transient Survey I: Survey Description and Data Release 1**|S. Tinyanont et.al.|[2309.07102v1](http://arxiv.org/abs/2309.07102v1)|[2309.07102v1](http://arxiv.org/pdf/2309.07102v1)|null|
+|**2023-09-13**|**Revisiting the classics: On the evolutionary origin of the "Fe II" and "He/N" spectral classes of novae**|E. Aydi et.al.|[2309.07097v1](http://arxiv.org/abs/2309.07097v1)|[2309.07097v1](http://arxiv.org/pdf/2309.07097v1)|null|
+|**2023-09-13**|**A full reconstruction of two galaxy clusters intra-cluster medium with strong gravitational lensing**|Joseph F. V. Allingham et.al.|[2309.07076v1](http://arxiv.org/abs/2309.07076v1)|[2309.07076v1](http://arxiv.org/pdf/2309.07076v1)|null|
+|**2023-09-13**|**Swarming Proxima Centauri: Optical Communication Over Interstellar Distances**|T. Marshall Eubanks W. Paul Blase Andreas Hein Adam Hibberd Robert G. Kennedy III et.al.|[2309.07061v1](http://arxiv.org/abs/2309.07061v1)|[2309.07061v1](http://arxiv.org/pdf/2309.07061v1)|null|
+|**2023-09-13**|**Atmospheric Reconnaissance of TRAPPIST-1 b with JWST/NIRISS: Evidence for Strong Stellar Contamination in the Transmission Spectra**|Olivia Lim et.al.|[2309.07047v1](http://arxiv.org/abs/2309.07047v1)|[2309.07047v1](http://arxiv.org/pdf/2309.07047v1)|null|
+|**2023-09-13**|**The impact of lake shape and size on lake breezes and air-lake exchanges on Titan**|Audrey Chatain et.al.|[2309.07042v1](http://arxiv.org/abs/2309.07042v1)|[2309.07042v1](http://arxiv.org/pdf/2309.07042v1)|null|
+|**2023-09-13**|**JWST imaging of edge-on protoplanetary disks. I. Fully vertically mixed 10$μ$m grains in the outer regions of a 1000 au disk**|G. Duchene et.al.|[2309.07040v1](http://arxiv.org/abs/2309.07040v1)|[2309.07040v1](http://arxiv.org/pdf/2309.07040v1)|null|
+|**2023-09-13**|**Temperature dependent convective parameters for RRc 1D-models**|Gábor B. Kovács et.al.|[2309.07039v1](http://arxiv.org/abs/2309.07039v1)|[2309.07039v1](http://arxiv.org/pdf/2309.07039v1)|null|
 |**2023-09-12**|**DESI luminous red galaxy samples for cross-correlations**|Rongpu Zhou et.al.|[2309.06443v1](http://arxiv.org/abs/2309.06443v1)|[2309.06443v1](http://arxiv.org/pdf/2309.06443v1)|null|
 |**2023-09-12**|**Can the Parker Solar Probe Detect a CME-flare Current Sheet?**|Yuhao Chen et.al.|[2309.06432v1](http://arxiv.org/abs/2309.06432v1)|[2309.06432v1](http://arxiv.org/pdf/2309.06432v1)|null|
 |**2023-09-12**|**Into the Mystic: ALMA ACA observations of the Mystic Mountains in Carina**|Megan Reiter et.al.|[2309.06430v1](http://arxiv.org/abs/2309.06430v1)|[2309.06430v1](http://arxiv.org/pdf/2309.06430v1)|null|
@@ -3079,6 +3089,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-13**|**Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics**|Haoqin Tu et.al.|[2309.07120v1](http://arxiv.org/abs/2309.07120v1)|[2309.07120v1](http://arxiv.org/pdf/2309.07120v1)|**[link](https://github.com/ucsc-vlaa/sight-beyond-text)**|
+|**2023-09-13**|**Characterizing Speed Performance of Multi-Agent Reinforcement Learning**|Samuel Wiggins et.al.|[2309.07108v1](http://arxiv.org/abs/2309.07108v1)|[2309.07108v1](http://arxiv.org/pdf/2309.07108v1)|null|
+|**2023-09-13**|**Mitigating Group Bias in Federated Learning for Heterogeneous Devices**|Khotso Selialia et.al.|[2309.07085v1](http://arxiv.org/abs/2309.07085v1)|[2309.07085v1](http://arxiv.org/pdf/2309.07085v1)|null|
+|**2023-09-13**|**A Comprehensive Analysis of the Role of Artificial Intelligence and Machine Learning in Modern Digital Forensics and Incident Response**|Dipo Dunsin et.al.|[2309.07064v1](http://arxiv.org/abs/2309.07064v1)|[2309.07064v1](http://arxiv.org/pdf/2309.07064v1)|null|
+|**2023-09-13**|**Deep Quantum Graph Dreaming: Deciphering Neural Network Insights into Quantum Experiments**|Tareq Jaouni et.al.|[2309.07056v1](http://arxiv.org/abs/2309.07056v1)|[2309.07056v1](http://arxiv.org/pdf/2309.07056v1)|null|
+|**2023-09-13**|**Pearl's and Jeffrey's Update as Modes of Learning in Probabilistic Programming**|Bart Jacobs et.al.|[2309.07053v1](http://arxiv.org/abs/2309.07053v1)|[2309.07053v1](http://arxiv.org/pdf/2309.07053v1)|null|
+|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051v1](http://arxiv.org/abs/2309.07051v1)|[2309.07051v1](http://arxiv.org/pdf/2309.07051v1)|null|
+|**2023-09-13**|**Efficient Reinforcement Learning for Jumping Monopods**|Riccardo Bussola et.al.|[2309.07038v1](http://arxiv.org/abs/2309.07038v1)|[2309.07038v1](http://arxiv.org/pdf/2309.07038v1)|**[link](https://github.com/mfocchi/jump_rl)**|
+|**2023-09-13**|**How (Not) to Use Sociodemographic Information for Subjective NLP Tasks**|Tilman Beck et.al.|[2309.07034v1](http://arxiv.org/abs/2309.07034v1)|[2309.07034v1](http://arxiv.org/pdf/2309.07034v1)|null|
+|**2023-09-13**|**Human-Machine Co-Creativity with Older Adults -- A Learning Community to Study Explainable Dialogues**|Marianne Bossema et.al.|[2309.07028v1](http://arxiv.org/abs/2309.07028v1)|[2309.07028v1](http://arxiv.org/pdf/2309.07028v1)|null|
 |**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441v1](http://arxiv.org/abs/2309.06441v1)|[2309.06441v1](http://arxiv.org/pdf/2309.06441v1)|null|
 |**2023-09-12**|**LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning**|Kenneth Shaw et.al.|[2309.06440v1](http://arxiv.org/abs/2309.06440v1)|[2309.06440v1](http://arxiv.org/pdf/2309.06440v1)|null|
 |**2023-09-12**|**Unveiling the potential of large language models in generating semantic and cross-language clones**|Palash R. Roy et.al.|[2309.06424v1](http://arxiv.org/abs/2309.06424v1)|[2309.06424v1](http://arxiv.org/pdf/2309.06424v1)|null|
