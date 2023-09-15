@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-14**|**Expanding on the Fundamental Metallicity Relation in Dwarf Galaxies with MUSE**|Teodora-Elena Bulichi et.al.|[2309.07919v1](http://arxiv.org/abs/2309.07919v1)|[2309.07919v1](http://arxiv.org/pdf/2309.07919v1)|null|
+|**2023-09-14**|**Why would you put a flashlight in a dark matter detector?**|R. Gibbons et.al.|[2309.07913v1](http://arxiv.org/abs/2309.07913v1)|[2309.07913v1](http://arxiv.org/pdf/2309.07913v1)|null|
+|**2023-09-14**|**An Observationally Driven Multifield Approach for Probing the Circum-Galactic Medium with Convolutional Neural Networks**|Naomi Gluck et.al.|[2309.07912v1](http://arxiv.org/abs/2309.07912v1)|[2309.07912v1](http://arxiv.org/pdf/2309.07912v1)|null|
+|**2023-09-14**|**Nuclear Recoil Identification in a Scientific Charge-Coupled Device**|K. J. McGuire et.al.|[2309.07869v1](http://arxiv.org/abs/2309.07869v1)|[2309.07869v1](http://arxiv.org/pdf/2309.07869v1)|null|
+|**2023-09-14**|**Cosmological constraints from low redshift 21 cm intensity mapping with machine learning**|Camila P. Novaes et.al.|[2309.07868v1](http://arxiv.org/abs/2309.07868v1)|[2309.07868v1](http://arxiv.org/pdf/2309.07868v1)|null|
+|**2023-09-14**|**Hints of point-symmetric structures in SN 1987A: the jittering jets explosion mechanism**|Noam Soker et.al.|[2309.07863v1](http://arxiv.org/abs/2309.07863v1)|[2309.07863v1](http://arxiv.org/pdf/2309.07863v1)|null|
+|**2023-09-14**|**Local proton heating at magnetic discontinuities in Alfvenic and non-Alfvenic solar wind**|C. A. Gonzalez et.al.|[2309.07862v1](http://arxiv.org/abs/2309.07862v1)|[2309.07862v1](http://arxiv.org/pdf/2309.07862v1)|null|
+|**2023-09-14**|**A Differentiable Model of the Evolution of Dark Matter Halo Concentration**|Dash Stevanovich et.al.|[2309.07854v1](http://arxiv.org/abs/2309.07854v1)|[2309.07854v1](http://arxiv.org/pdf/2309.07854v1)|null|
+|**2023-09-14**|**Recent Progress in Low Energy Neutrino Scattering Physics and Its Implications for the Standard and Beyond the Standard Model Physics**|V. Pandey et.al.|[2309.07840v1](http://arxiv.org/abs/2309.07840v1)|[2309.07840v1](http://arxiv.org/pdf/2309.07840v1)|null|
+|**2023-09-14**|**Interplay between Higgs inflation and dark matter models with dark $U(1)$ gauge symmetry**|Sarif Khan et.al.|[2309.07839v1](http://arxiv.org/abs/2309.07839v1)|[2309.07839v1](http://arxiv.org/pdf/2309.07839v1)|null|
 |**2023-09-13**|**Monitoring H$α$ Emission from the Wide-orbit Brown-dwarf Companion FU Tau B**|Ya-Lin Wu et.al.|[2309.07114v1](http://arxiv.org/abs/2309.07114v1)|[2309.07114v1](http://arxiv.org/pdf/2309.07114v1)|null|
 |**2023-09-13**|**Real-time Monitoring for the Next Core-Collapse Supernova in JUNO**|Angel Abusleme et.al.|[2309.07109v1](http://arxiv.org/abs/2309.07109v1)|[2309.07109v1](http://arxiv.org/pdf/2309.07109v1)|null|
 |**2023-09-13**|**Keck Infrared Transient Survey I: Survey Description and Data Release 1**|S. Tinyanont et.al.|[2309.07102v1](http://arxiv.org/abs/2309.07102v1)|[2309.07102v1](http://arxiv.org/pdf/2309.07102v1)|null|
@@ -3093,6 +3103,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|[2309.07915v1](http://arxiv.org/pdf/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
+|**2023-09-14**|**Agents: An Open-source Framework for Autonomous Language Agents**|Wangchunshu Zhou et.al.|[2309.07870v1](http://arxiv.org/abs/2309.07870v1)|[2309.07870v1](http://arxiv.org/pdf/2309.07870v1)|**[link](https://github.com/aiwaves-cn/agents)**|
+|**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867v1](http://arxiv.org/abs/2309.07867v1)|[2309.07867v1](http://arxiv.org/pdf/2309.07867v1)|null|
+|**2023-09-14**|**The Rise and Potential of Large Language Model Based Agents: A Survey**|Zhiheng Xi et.al.|[2309.07864v1](http://arxiv.org/abs/2309.07864v1)|[2309.07864v1](http://arxiv.org/pdf/2309.07864v1)|**[link](https://github.com/woooodyy/llm-agent-paper-list)**|
+|**2023-09-14**|**CiwaGAN: Articulatory information exchange**|Gašper Beguš et.al.|[2309.07861v1](http://arxiv.org/abs/2309.07861v1)|[2309.07861v1](http://arxiv.org/pdf/2309.07861v1)|null|
+|**2023-09-14**|**ExpertQA: Expert-Curated Questions and Attributed Answers**|Chaitanya Malaviya et.al.|[2309.07852v1](http://arxiv.org/abs/2309.07852v1)|[2309.07852v1](http://arxiv.org/pdf/2309.07852v1)|**[link](https://github.com/chaitanyamalaviya/expertqa)**|
+|**2023-09-14**|**Applying Deep Learning to Calibrate Stochastic Volatility Models**|Abir Sridi et.al.|[2309.07843v1](http://arxiv.org/abs/2309.07843v1)|[2309.07843v1](http://arxiv.org/pdf/2309.07843v1)|null|
+|**2023-09-14**|**Two Timin': Repairing Smart Contracts With A Two-Layered Approach**|Abhinav Jain et.al.|[2309.07841v1](http://arxiv.org/abs/2309.07841v1)|[2309.07841v1](http://arxiv.org/pdf/2309.07841v1)|null|
+|**2023-09-14**|**VAPOR: Holonomic Legged Robot Navigation in Outdoor Vegetation Using Offline Reinforcement Learning**|Kasun Weerakoon et.al.|[2309.07832v1](http://arxiv.org/abs/2309.07832v1)|[2309.07832v1](http://arxiv.org/pdf/2309.07832v1)|null|
+|**2023-09-14**|**Large-scale Weakly Supervised Learning for Road Extraction from Satellite Imagery**|Shiqiao Meng et.al.|[2309.07823v1](http://arxiv.org/abs/2309.07823v1)|[2309.07823v1](http://arxiv.org/pdf/2309.07823v1)|null|
 |**2023-09-13**|**Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics**|Haoqin Tu et.al.|[2309.07120v1](http://arxiv.org/abs/2309.07120v1)|[2309.07120v1](http://arxiv.org/pdf/2309.07120v1)|**[link](https://github.com/ucsc-vlaa/sight-beyond-text)**|
 |**2023-09-13**|**Characterizing Speed Performance of Multi-Agent Reinforcement Learning**|Samuel Wiggins et.al.|[2309.07108v1](http://arxiv.org/abs/2309.07108v1)|[2309.07108v1](http://arxiv.org/pdf/2309.07108v1)|null|
 |**2023-09-13**|**Mitigating Group Bias in Federated Learning for Heterogeneous Devices**|Khotso Selialia et.al.|[2309.07085v1](http://arxiv.org/abs/2309.07085v1)|[2309.07085v1](http://arxiv.org/pdf/2309.07085v1)|null|
