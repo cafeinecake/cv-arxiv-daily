@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-15**|**The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**|Claire Lamman et.al.|[2309.08605v1](http://arxiv.org/abs/2309.08605v1)|[2309.08605v1](http://arxiv.org/pdf/2309.08605v1)|null|
+|**2023-09-15**|**KiDS-1000 analysis with second- and third-order shear statistics**|Pierre A. Burger et.al.|[2309.08602v1](http://arxiv.org/abs/2309.08602v1)|[2309.08602v1](http://arxiv.org/pdf/2309.08602v1)|null|
+|**2023-09-15**|**A roadmap to cosmological parameter analysis with third-order shear statistics III: Efficient estimation of third-order shear correlation functions and an application to the KiDS-1000 data**|Lucas Porth et.al.|[2309.08601v1](http://arxiv.org/abs/2309.08601v1)|[2309.08601v1](http://arxiv.org/pdf/2309.08601v1)|null|
+|**2023-09-15**|**Confirmation of an anomalously low dark matter content for the galaxy NGC1052-DF4 from deep, high resolution continuum spectroscopy**|Zili Shen et.al.|[2309.08592v1](http://arxiv.org/abs/2309.08592v1)|[2309.08592v1](http://arxiv.org/pdf/2309.08592v1)|null|
+|**2023-09-15**|**Non-equilibrium effects on stability of hybrid stars with first-order phase transitions**|Peter B. Rau et.al.|[2309.08540v1](http://arxiv.org/abs/2309.08540v1)|[2309.08540v1](http://arxiv.org/pdf/2309.08540v1)|null|
+|**2023-09-15**|**From Hubble to Bubble**|Maciej Kierkla et.al.|[2309.08530v1](http://arxiv.org/abs/2309.08530v1)|[2309.08530v1](http://arxiv.org/pdf/2309.08530v1)|null|
+|**2023-09-15**|**MIDIS. JWST NIRCam and MIRI unveil the stellar population properties of Ly$α$-emitters and Lyman-Break galaxies at z ~ 3-7**|Edoardo Iani et.al.|[2309.08515v1](http://arxiv.org/abs/2309.08515v1)|[2309.08515v1](http://arxiv.org/pdf/2309.08515v1)|null|
+|**2023-09-15**|**Slowly Rotating Close Binary Stars in Cassini States**|Catherine Felce et.al.|[2309.08506v1](http://arxiv.org/abs/2309.08506v1)|[2309.08506v1](http://arxiv.org/pdf/2309.08506v1)|null|
+|**2023-09-15**|**Super Slowly Spinning Stars in Close Binaries**|Jim Fuller et.al.|[2309.08505v1](http://arxiv.org/abs/2309.08505v1)|[2309.08505v1](http://arxiv.org/pdf/2309.08505v1)|null|
+|**2023-09-15**|**Statistical anisotropy of primordial gravitational waves from generalized $δN$ formalism**|Takahiro Tanaka et.al.|[2309.08497v1](http://arxiv.org/abs/2309.08497v1)|[2309.08497v1](http://arxiv.org/pdf/2309.08497v1)|null|
 |**2023-09-14**|**Expanding on the Fundamental Metallicity Relation in Dwarf Galaxies with MUSE**|Teodora-Elena Bulichi et.al.|[2309.07919v1](http://arxiv.org/abs/2309.07919v1)|[2309.07919v1](http://arxiv.org/pdf/2309.07919v1)|null|
 |**2023-09-14**|**Why would you put a flashlight in a dark matter detector?**|R. Gibbons et.al.|[2309.07913v1](http://arxiv.org/abs/2309.07913v1)|[2309.07913v1](http://arxiv.org/pdf/2309.07913v1)|null|
 |**2023-09-14**|**An Observationally Driven Multifield Approach for Probing the Circum-Galactic Medium with Convolutional Neural Networks**|Naomi Gluck et.al.|[2309.07912v1](http://arxiv.org/abs/2309.07912v1)|[2309.07912v1](http://arxiv.org/pdf/2309.07912v1)|null|
@@ -3103,6 +3113,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-15**|**Chain-of-Thought Reasoning is a Policy Improvement Operator**|Hugh Zhang et.al.|[2309.08589v1](http://arxiv.org/abs/2309.08589v1)|[2309.08589v1](http://arxiv.org/pdf/2309.08589v1)|null|
+|**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587v1](http://arxiv.org/abs/2309.08587v1)|[2309.08587v1](http://arxiv.org/pdf/2309.08587v1)|null|
+|**2023-09-15**|**How Transferable are Attribute Controllers on Pretrained Multilingual Translation Models?**|Danni Liu et.al.|[2309.08565v1](http://arxiv.org/abs/2309.08565v1)|[2309.08565v1](http://arxiv.org/pdf/2309.08565v1)|**[link](https://github.com/dannigt/attribute-controller-transfer)**|
+|**2023-09-15**|**Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources**|Yikuan Li et.al.|[2309.08560v1](http://arxiv.org/abs/2309.08560v1)|[2309.08560v1](http://arxiv.org/pdf/2309.08560v1)|null|
+|**2023-09-15**|**HINT: Healthy Influential-Noise based Training to Defend against Data Poisoning Attacks**|Minh-Hao Van et.al.|[2309.08549v1](http://arxiv.org/abs/2309.08549v1)|[2309.08549v1](http://arxiv.org/pdf/2309.08549v1)|null|
+|**2023-09-15**|**When do Generative Query and Document Expansions Fail? A Comprehensive Study Across Methods, Retrievers, and Datasets**|Orion Weller et.al.|[2309.08541v1](http://arxiv.org/abs/2309.08541v1)|[2309.08541v1](http://arxiv.org/pdf/2309.08541v1)|null|
+|**2023-09-15**|**Visual Speech Recognition for Low-resource Languages with Automatic Labels From Whisper Model**|Jeong Hun Yeo et.al.|[2309.08535v1](http://arxiv.org/abs/2309.08535v1)|[2309.08535v1](http://arxiv.org/pdf/2309.08535v1)|**[link](https://github.com/jeonghun0716/visual-speech-recognition-for-low-resource-languages)**|
+|**2023-09-15**|**Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers**|Qingyan Guo et.al.|[2309.08532v1](http://arxiv.org/abs/2309.08532v1)|[2309.08532v1](http://arxiv.org/pdf/2309.08532v1)|null|
+|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v1](http://arxiv.org/abs/2309.08513v1)|[2309.08513v1](http://arxiv.org/pdf/2309.08513v1)|**[link](https://github.com/zhaohengyuan1/sct)**|
+|**2023-09-15**|**HealthFC: A Dataset of Health Claims for Evidence-Based Medical Fact-Checking**|Juraj Vladika et.al.|[2309.08503v1](http://arxiv.org/abs/2309.08503v1)|[2309.08503v1](http://arxiv.org/pdf/2309.08503v1)|**[link](https://github.com/jvladika/healthfc)**|
 |**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|[2309.07915v1](http://arxiv.org/pdf/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
 |**2023-09-14**|**Agents: An Open-source Framework for Autonomous Language Agents**|Wangchunshu Zhou et.al.|[2309.07870v1](http://arxiv.org/abs/2309.07870v1)|[2309.07870v1](http://arxiv.org/pdf/2309.07870v1)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867v1](http://arxiv.org/abs/2309.07867v1)|[2309.07867v1](http://arxiv.org/pdf/2309.07867v1)|null|
