@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-18**|**Impact of Galactic dust non-Gaussianity on searches for B-modes from inflation**|Irene Abril-Cabezas et.al.|[2309.09978v1](http://arxiv.org/abs/2309.09978v1)|[2309.09978v1](http://arxiv.org/pdf/2309.09978v1)|null|
+|**2023-09-18**|**Gravitational Wave Resonance in Ultra-Light Dark Matter Halos**|Paola C. M. Delgado et.al.|[2309.09946v1](http://arxiv.org/abs/2309.09946v1)|[2309.09946v1](http://arxiv.org/pdf/2309.09946v1)|null|
+|**2023-09-18**|**TESS Spots a Super-Puff: The Remarkably Low Density of TOI-1420b**|Stephanie Yoshida et.al.|[2309.09945v1](http://arxiv.org/abs/2309.09945v1)|[2309.09945v1](http://arxiv.org/pdf/2309.09945v1)|null|
+|**2023-09-18**|**Testing the near-far connection with FIRE simulations: inferring the stellar mass function of the proto-Local Group at z > 6 using the fossil record of present-day galaxies**|Pratik J. Gandhi et.al.|[2309.09940v1](http://arxiv.org/abs/2309.09940v1)|[2309.09940v1](http://arxiv.org/pdf/2309.09940v1)|null|
+|**2023-09-18**|**TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**|Zhuoyang Chen et.al.|[2309.09937v1](http://arxiv.org/abs/2309.09937v1)|[2309.09937v1](http://arxiv.org/pdf/2309.09937v1)|null|
+|**2023-09-18**|**An HST survey of 33 T8 to Y1 brown dwarfs: NIR photometry and multiplicity of the coldest isolated objects**|Clemence Fontanive et.al.|[2309.09923v1](http://arxiv.org/abs/2309.09923v1)|[2309.09923v1](http://arxiv.org/pdf/2309.09923v1)|null|
+|**2023-09-18**|**Radio multifrequency observations of Abell~781 with the WSRT**|B. V. Hugo et.al.|[2309.09909v1](http://arxiv.org/abs/2309.09909v1)|[2309.09909v1](http://arxiv.org/pdf/2309.09909v1)|null|
+|**2023-09-18**|**SPT-SZ MCMF: An extension of the SPT-SZ catalog over the DES region**|M. Klein et.al.|[2309.09908v1](http://arxiv.org/abs/2309.09908v1)|[2309.09908v1](http://arxiv.org/pdf/2309.09908v1)|null|
+|**2023-09-18**|**Probing the nature of the X-ray source IGR J16327-4940 with Chandra**|L. Sidoli et.al.|[2309.09850v1](http://arxiv.org/abs/2309.09850v1)|[2309.09850v1](http://arxiv.org/pdf/2309.09850v1)|null|
+|**2023-09-18**|**Quasi-periodic oscillations during magnetar giant flares in the strangeon star model**|Hong-Bo Li et.al.|[2309.09847v1](http://arxiv.org/abs/2309.09847v1)|[2309.09847v1](http://arxiv.org/pdf/2309.09847v1)|null|
 |**2023-09-15**|**The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**|Claire Lamman et.al.|[2309.08605v1](http://arxiv.org/abs/2309.08605v1)|[2309.08605v1](http://arxiv.org/pdf/2309.08605v1)|null|
 |**2023-09-18**|**KiDS-1000 cosmology: Combined second- and third-order shear statistics**|Pierre A. Burger et.al.|[2309.08602v2](http://arxiv.org/abs/2309.08602v2)|[2309.08602v2](http://arxiv.org/pdf/2309.08602v2)|null|
 |**2023-09-15**|**A roadmap to cosmological parameter analysis with third-order shear statistics III: Efficient estimation of third-order shear correlation functions and an application to the KiDS-1000 data**|Lucas Porth et.al.|[2309.08601v1](http://arxiv.org/abs/2309.08601v1)|[2309.08601v1](http://arxiv.org/pdf/2309.08601v1)|null|
@@ -3113,6 +3123,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|[2309.09979v1](http://arxiv.org/pdf/2309.09979v1)|null|
+|**2023-09-18**|**MindAgent: Emergent Gaming Interaction**|Ran Gong et.al.|[2309.09971v1](http://arxiv.org/abs/2309.09971v1)|[2309.09971v1](http://arxiv.org/pdf/2309.09971v1)|null|
+|**2023-09-18**|**How to Generate Popular Post Headlines on Social Media?**|Zhouxiang Fang et.al.|[2309.09949v1](http://arxiv.org/abs/2309.09949v1)|[2309.09949v1](http://arxiv.org/pdf/2309.09949v1)|null|
+|**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944v1](http://arxiv.org/abs/2309.09944v1)|[2309.09944v1](http://arxiv.org/pdf/2309.09944v1)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
+|**2023-09-18**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921v1](http://arxiv.org/abs/2309.09921v1)|[2309.09921v1](http://arxiv.org/pdf/2309.09921v1)|null|
+|**2023-09-18**|**Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents**|Ziyi Yang et.al.|[2309.09919v1](http://arxiv.org/abs/2309.09919v1)|[2309.09919v1](http://arxiv.org/pdf/2309.09919v1)|null|
+|**2023-09-18**|**Evaluation of Human-Understandability of Global Model Explanations using Decision Tree**|Adarsa Sivaprasad et.al.|[2309.09917v1](http://arxiv.org/abs/2309.09917v1)|[2309.09917v1](http://arxiv.org/pdf/2309.09917v1)|null|
+|**2023-09-18**|**Wait, That Feels Familiar: Learning to Extrapolate Human Preferences for Preference Aligned Path Planning**|Haresh Karnan et.al.|[2309.09912v1](http://arxiv.org/abs/2309.09912v1)|[2309.09912v1](http://arxiv.org/pdf/2309.09912v1)|null|
+|**2023-09-18**|**The role of causality in explainable artificial intelligence**|Gianluca Carloni et.al.|[2309.09901v1](http://arxiv.org/abs/2309.09901v1)|[2309.09901v1](http://arxiv.org/pdf/2309.09901v1)|null|
+|**2023-09-18**|**Towards Ontology Construction with Language Models**|Maurice Funk et.al.|[2309.09898v1](http://arxiv.org/abs/2309.09898v1)|[2309.09898v1](http://arxiv.org/pdf/2309.09898v1)|null|
 |**2023-09-15**|**Chain-of-Thought Reasoning is a Policy Improvement Operator**|Hugh Zhang et.al.|[2309.08589v1](http://arxiv.org/abs/2309.08589v1)|[2309.08589v1](http://arxiv.org/pdf/2309.08589v1)|null|
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587v1](http://arxiv.org/abs/2309.08587v1)|[2309.08587v1](http://arxiv.org/pdf/2309.08587v1)|null|
 |**2023-09-15**|**How Transferable are Attribute Controllers on Pretrained Multilingual Translation Models?**|Danni Liu et.al.|[2309.08565v1](http://arxiv.org/abs/2309.08565v1)|[2309.08565v1](http://arxiv.org/pdf/2309.08565v1)|**[link](https://github.com/dannigt/attribute-controller-transfer)**|
