@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-09-15**|**The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**|Claire Lamman et.al.|[2309.08605v1](http://arxiv.org/abs/2309.08605v1)|[2309.08605v1](http://arxiv.org/pdf/2309.08605v1)|null|
-|**2023-09-15**|**KiDS-1000 analysis with second- and third-order shear statistics**|Pierre A. Burger et.al.|[2309.08602v1](http://arxiv.org/abs/2309.08602v1)|[2309.08602v1](http://arxiv.org/pdf/2309.08602v1)|null|
+|**2023-09-18**|**KiDS-1000 cosmology: Combined second- and third-order shear statistics**|Pierre A. Burger et.al.|[2309.08602v2](http://arxiv.org/abs/2309.08602v2)|[2309.08602v2](http://arxiv.org/pdf/2309.08602v2)|null|
 |**2023-09-15**|**A roadmap to cosmological parameter analysis with third-order shear statistics III: Efficient estimation of third-order shear correlation functions and an application to the KiDS-1000 data**|Lucas Porth et.al.|[2309.08601v1](http://arxiv.org/abs/2309.08601v1)|[2309.08601v1](http://arxiv.org/pdf/2309.08601v1)|null|
 |**2023-09-15**|**Confirmation of an anomalously low dark matter content for the galaxy NGC1052-DF4 from deep, high resolution continuum spectroscopy**|Zili Shen et.al.|[2309.08592v1](http://arxiv.org/abs/2309.08592v1)|[2309.08592v1](http://arxiv.org/pdf/2309.08592v1)|null|
 |**2023-09-15**|**Non-equilibrium effects on stability of hybrid stars with first-order phase transitions**|Peter B. Rau et.al.|[2309.08540v1](http://arxiv.org/abs/2309.08540v1)|[2309.08540v1](http://arxiv.org/pdf/2309.08540v1)|null|
@@ -3121,7 +3121,7 @@ layout: default
 |**2023-09-15**|**When do Generative Query and Document Expansions Fail? A Comprehensive Study Across Methods, Retrievers, and Datasets**|Orion Weller et.al.|[2309.08541v1](http://arxiv.org/abs/2309.08541v1)|[2309.08541v1](http://arxiv.org/pdf/2309.08541v1)|null|
 |**2023-09-15**|**Visual Speech Recognition for Low-resource Languages with Automatic Labels From Whisper Model**|Jeong Hun Yeo et.al.|[2309.08535v1](http://arxiv.org/abs/2309.08535v1)|[2309.08535v1](http://arxiv.org/pdf/2309.08535v1)|**[link](https://github.com/jeonghun0716/visual-speech-recognition-for-low-resource-languages)**|
 |**2023-09-15**|**Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers**|Qingyan Guo et.al.|[2309.08532v1](http://arxiv.org/abs/2309.08532v1)|[2309.08532v1](http://arxiv.org/pdf/2309.08532v1)|null|
-|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v1](http://arxiv.org/abs/2309.08513v1)|[2309.08513v1](http://arxiv.org/pdf/2309.08513v1)|**[link](https://github.com/zhaohengyuan1/sct)**|
+|**2023-09-18**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v2](http://arxiv.org/abs/2309.08513v2)|[2309.08513v2](http://arxiv.org/pdf/2309.08513v2)|**[link](https://github.com/zhaohengyuan1/sct)**|
 |**2023-09-15**|**HealthFC: A Dataset of Health Claims for Evidence-Based Medical Fact-Checking**|Juraj Vladika et.al.|[2309.08503v1](http://arxiv.org/abs/2309.08503v1)|[2309.08503v1](http://arxiv.org/pdf/2309.08503v1)|**[link](https://github.com/jvladika/healthfc)**|
 |**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|[2309.07915v1](http://arxiv.org/pdf/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
 |**2023-09-14**|**Agents: An Open-source Framework for Autonomous Language Agents**|Wangchunshu Zhou et.al.|[2309.07870v1](http://arxiv.org/abs/2309.07870v1)|[2309.07870v1](http://arxiv.org/pdf/2309.07870v1)|**[link](https://github.com/aiwaves-cn/agents)**|
