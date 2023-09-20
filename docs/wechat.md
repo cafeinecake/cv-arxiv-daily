@@ -1,4 +1,4 @@
-> Updated on 2023.09.19
+> Updated on 2023.09.20
 
 ## Astrophysics
 
@@ -3116,7 +3116,7 @@
 ## AI
 
 - 2023-09-18, **General In-Hand Object Rotation with Vision and Touch**, Haozhi Qi et.al., Paper: [http://arxiv.org/abs/2309.09979v1](http://arxiv.org/abs/2309.09979v1), Paper: [http://arxiv.org/abs/2309.09979v1](http://arxiv.org/pdf/2309.09979v1)
-- 2023-09-18, **MindAgent: Emergent Gaming Interaction**, Ran Gong et.al., Paper: [http://arxiv.org/abs/2309.09971v1](http://arxiv.org/abs/2309.09971v1), Paper: [http://arxiv.org/abs/2309.09971v1](http://arxiv.org/pdf/2309.09971v1)
+- 2023-09-19, **MindAgent: Emergent Gaming Interaction**, Ran Gong et.al., Paper: [http://arxiv.org/abs/2309.09971v2](http://arxiv.org/abs/2309.09971v2), Paper: [http://arxiv.org/abs/2309.09971v2](http://arxiv.org/pdf/2309.09971v2)
 - 2023-09-18, **How to Generate Popular Post Headlines on Social Media?**, Zhouxiang Fang et.al., Paper: [http://arxiv.org/abs/2309.09949v1](http://arxiv.org/abs/2309.09949v1), Paper: [http://arxiv.org/abs/2309.09949v1](http://arxiv.org/pdf/2309.09949v1)
 - 2023-09-18, **What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**, Zoe De Simone et.al., Paper: [http://arxiv.org/abs/2309.09944v1](http://arxiv.org/abs/2309.09944v1),Paper: [http://arxiv.org/abs/2309.09944v1](http://arxiv.org/pdf/2309.09944v1), Code: **[https://github.com/zoedesimone/diffusionworldviewer](https://github.com/zoedesimone/diffusionworldviewer)**
 - 2023-09-18, **A Heterogeneous Graph-Based Multi-Task Learning for Fault Event Diagnosis in Smart Grid**, Dibaloke Chanda et.al., Paper: [http://arxiv.org/abs/2309.09921v1](http://arxiv.org/abs/2309.09921v1), Paper: [http://arxiv.org/abs/2309.09921v1](http://arxiv.org/pdf/2309.09921v1)
