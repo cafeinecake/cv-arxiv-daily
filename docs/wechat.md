@@ -1,4 +1,4 @@
-> Updated on 2023.09.20
+> Updated on 2023.09.21
 
 ## Astrophysics
 
@@ -3126,7 +3126,7 @@
 ## AI
 
 - 2023-09-19, **SlimPajama-DC: Understanding Data Combinations for LLM Training**, Zhiqiang Shen et.al., Paper: [http://arxiv.org/abs/2309.10818v1](http://arxiv.org/abs/2309.10818v1), Paper: [http://arxiv.org/abs/2309.10818v1](http://arxiv.org/pdf/2309.10818v1)
-- 2023-09-19, **AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**, S. Karthik Mukkavilli et.al., Paper: [http://arxiv.org/abs/2309.10808v1](http://arxiv.org/abs/2309.10808v1), Paper: [http://arxiv.org/abs/2309.10808v1](http://arxiv.org/pdf/2309.10808v1)
+- 2023-09-20, **AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**, S. Karthik Mukkavilli et.al., Paper: [http://arxiv.org/abs/2309.10808v2](http://arxiv.org/abs/2309.10808v2), Paper: [http://arxiv.org/abs/2309.10808v2](http://arxiv.org/pdf/2309.10808v2)
 - 2023-09-19, **Heuristic Search for Path Finding with Refuelling**, Anushtup Nandy et.al., Paper: [http://arxiv.org/abs/2309.10796v1](http://arxiv.org/abs/2309.10796v1), Paper: [http://arxiv.org/abs/2309.10796v1](http://arxiv.org/pdf/2309.10796v1)
 - 2023-09-19, **Guide Your Agent with Adaptive Multimodal Rewards**, Changyeon Kim et.al., Paper: [http://arxiv.org/abs/2309.10790v1](http://arxiv.org/abs/2309.10790v1),Paper: [http://arxiv.org/abs/2309.10790v1](http://arxiv.org/pdf/2309.10790v1), Code: **[https://github.com/csmile-1006/arp](https://github.com/csmile-1006/arp)**
 - 2023-09-19, **Language as the Medium: Multimodal Video Classification through text only**, Laura Hanu et.al., Paper: [http://arxiv.org/abs/2309.10783v1](http://arxiv.org/abs/2309.10783v1), Paper: [http://arxiv.org/abs/2309.10783v1](http://arxiv.org/pdf/2309.10783v1)
