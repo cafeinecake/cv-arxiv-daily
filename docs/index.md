@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-20**|**On the damping of tidally driven oscillations**|Janosz W. Dewberry et.al.|[2309.11502v1](http://arxiv.org/abs/2309.11502v1)|[2309.11502v1](http://arxiv.org/pdf/2309.11502v1)|null|
+|**2023-09-20**|**Unveiling dark forces with the Large Scale Structure of the Universe**|Salvatore Bottaro et.al.|[2309.11496v1](http://arxiv.org/abs/2309.11496v1)|[2309.11496v1](http://arxiv.org/pdf/2309.11496v1)|null|
+|**2023-09-20**|**Investigating the Atmospheric Mass Loss of the Kepler-105 Planets Straddling the Radius Gap**|Aaron Householder et.al.|[2309.11494v1](http://arxiv.org/abs/2309.11494v1)|[2309.11494v1](http://arxiv.org/pdf/2309.11494v1)|null|
+|**2023-09-20**|**Visible in the laboratory and invisible in cosmology: decaying sterile neutrinos**|Kevork N. Abazajian et.al.|[2309.11492v1](http://arxiv.org/abs/2309.11492v1)|[2309.11492v1](http://arxiv.org/pdf/2309.11492v1)|null|
+|**2023-09-20**|**Vacuum Spacetime With Multipole Moments: The Minimal Size Conjecture, Black Hole Shadow, and Gravitational Wave Observables**|Shammi Tahura et.al.|[2309.11491v1](http://arxiv.org/abs/2309.11491v1)|[2309.11491v1](http://arxiv.org/pdf/2309.11491v1)|null|
+|**2023-09-20**|**First detection of CO$_2$ emission in a Centaur: JWST NIRSpec observations of 39P/Oterma**|O. Harrington Pinto et.al.|[2309.11486v1](http://arxiv.org/abs/2309.11486v1)|[2309.11486v1](http://arxiv.org/pdf/2309.11486v1)|null|
+|**2023-09-20**|**X-rays Trace the Volatile Content of Interstellar Objects**|Samuel H. C. Cabot et.al.|[2309.11482v1](http://arxiv.org/abs/2309.11482v1)|[2309.11482v1](http://arxiv.org/pdf/2309.11482v1)|null|
+|**2023-09-20**|**Did atmospheric thermal tides cause a daylength locking in the Precambrian? A review on recent results**|Jacques Laskar et.al.|[2309.11479v1](http://arxiv.org/abs/2309.11479v1)|[2309.11479v1](http://arxiv.org/pdf/2309.11479v1)|null|
+|**2023-09-20**|**Galaxy Zoo DESI: Detailed Morphology Measurements for 8.7M Galaxies in the DESI Legacy Imaging Surveys**|Mike Walmsley et.al.|[2309.11425v1](http://arxiv.org/abs/2309.11425v1)|[2309.11425v1](http://arxiv.org/pdf/2309.11425v1)|null|
+|**2023-09-20**|**Stellar Populations in STARFORGE: The Origin and Evolution of Star Clusters and Associations**|Juan P. Farias et.al.|[2309.11415v1](http://arxiv.org/abs/2309.11415v1)|[2309.11415v1](http://arxiv.org/pdf/2309.11415v1)|null|
 |**2023-09-19**|**First X-ray polarization measurement confirms the low black-hole spin in LMC X-3**|Jiří Svoboda et.al.|[2309.10813v1](http://arxiv.org/abs/2309.10813v1)|[2309.10813v1](http://arxiv.org/pdf/2309.10813v1)|null|
 |**2023-09-19**|**Dependence of stellar differential rotation on effective temperature and rotation: an analysis from starspot transit mapping**|Araújo et.al.|[2309.10805v1](http://arxiv.org/abs/2309.10805v1)|[2309.10805v1](http://arxiv.org/pdf/2309.10805v1)|null|
 |**2023-09-19**|**Probing the spatial and velocity anisotropies in stellar halos from the Aquarius simulations**|Amit Mondal et.al.|[2309.10798v1](http://arxiv.org/abs/2309.10798v1)|[2309.10798v1](http://arxiv.org/pdf/2309.10798v1)|null|
@@ -3133,6 +3143,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-20**|**Chain-of-Verification Reduces Hallucination in Large Language Models**|Shehzaad Dhuliawala et.al.|[2309.11495v1](http://arxiv.org/abs/2309.11495v1)|[2309.11495v1](http://arxiv.org/pdf/2309.11495v1)|null|
+|**2023-09-20**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489v1](http://arxiv.org/abs/2309.11489v1)|[2309.11489v1](http://arxiv.org/pdf/2309.11489v1)|null|
+|**2023-09-20**|**Fictional Worlds, Real Connections: Developing Community Storytelling Social Chatbots through LLMs**|Yuqian Sun et.al.|[2309.11478v1](http://arxiv.org/abs/2309.11478v1)|[2309.11478v1](http://arxiv.org/pdf/2309.11478v1)|null|
+|**2023-09-20**|**Multi-view Fuzzy Representation Learning with Rules based Model**|Wei Zhang et.al.|[2309.11473v1](http://arxiv.org/abs/2309.11473v1)|[2309.11473v1](http://arxiv.org/pdf/2309.11473v1)|null|
+|**2023-09-20**|**Multi-Label Takagi-Sugeno-Kang Fuzzy System**|Qiongdan Lou et.al.|[2309.11469v1](http://arxiv.org/abs/2309.11469v1)|[2309.11469v1](http://arxiv.org/pdf/2309.11469v1)|null|
+|**2023-09-20**|**AudioFool: Fast, Universal and synchronization-free Cross-Domain Attack on Speech Recognition**|Mohamad Fakih et.al.|[2309.11462v1](http://arxiv.org/abs/2309.11462v1)|[2309.11462v1](http://arxiv.org/pdf/2309.11462v1)|null|
+|**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456v1](http://arxiv.org/abs/2309.11456v1)|[2309.11456v1](http://arxiv.org/pdf/2309.11456v1)|null|
+|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|[2309.11452v1](http://arxiv.org/pdf/2309.11452v1)|null|
+|**2023-09-20**|**Brain-inspired computing with fluidic iontronic nanochannels**|T. M. Kamsma et.al.|[2309.11438v1](http://arxiv.org/abs/2309.11438v1)|[2309.11438v1](http://arxiv.org/pdf/2309.11438v1)|null|
+|**2023-09-20**|**You Only Look at Screens: Multimodal Chain-of-Action Agents**|Zhuosheng Zhan et.al.|[2309.11436v1](http://arxiv.org/abs/2309.11436v1)|[2309.11436v1](http://arxiv.org/pdf/2309.11436v1)|null|
 |**2023-09-19**|**SlimPajama-DC: Understanding Data Combinations for LLM Training**|Zhiqiang Shen et.al.|[2309.10818v1](http://arxiv.org/abs/2309.10818v1)|[2309.10818v1](http://arxiv.org/pdf/2309.10818v1)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|[2309.10808v2](http://arxiv.org/pdf/2309.10808v2)|null|
 |**2023-09-19**|**Heuristic Search for Path Finding with Refuelling**|Anushtup Nandy et.al.|[2309.10796v1](http://arxiv.org/abs/2309.10796v1)|[2309.10796v1](http://arxiv.org/pdf/2309.10796v1)|null|
