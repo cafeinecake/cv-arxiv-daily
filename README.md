@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-21**|**Gamma-ray burst precursors from tidally resonant neutron star oceans: potential implications for GRB 211211A**|Andrew G. Sullivan et.al.|[2309.12305v1](http://arxiv.org/abs/2309.12305v1)|[2309.12305v1](http://arxiv.org/pdf/2309.12305v1)|null|
+|**2023-09-21**|**Checking the second law at cosmic scales**|Narayan Banerjee et.al.|[2309.12298v1](http://arxiv.org/abs/2309.12298v1)|[2309.12298v1](http://arxiv.org/pdf/2309.12298v1)|null|
+|**2023-09-21**|**Constraining dark energy cosmologies with spatial curvature using Supernovae JWST forecasting**|Pablo M. Maldonado Alonso et.al.|[2309.12292v1](http://arxiv.org/abs/2309.12292v1)|[2309.12292v1](http://arxiv.org/pdf/2309.12292v1)|null|
+|**2023-09-21**|**Gravitational Wave non-Gaussianity from trans-Planckian Quantum Noise**|Mattia Cielo et.al.|[2309.12285v1](http://arxiv.org/abs/2309.12285v1)|[2309.12285v1](http://arxiv.org/pdf/2309.12285v1)|null|
+|**2023-09-21**|**Life Cycle Analysis of the GRAND Experiment**|Leidy T. Vargas-Ibáñez et.al.|[2309.12282v1](http://arxiv.org/abs/2309.12282v1)|[2309.12282v1](http://arxiv.org/pdf/2309.12282v1)|null|
+|**2023-09-21**|**The stellar occultation by (319) Leona on 13 September 2023 in preparation for the occultation of Betelgeuse**|J. L. Ortiz et.al.|[2309.12272v1](http://arxiv.org/abs/2309.12272v1)|[2309.12272v1](http://arxiv.org/pdf/2309.12272v1)|null|
+|**2023-09-21**|**GRB221009A gamma-ray events from non-standard neutrino self-interactions**|Mansi Dhuria et.al.|[2309.12264v1](http://arxiv.org/abs/2309.12264v1)|[2309.12264v1](http://arxiv.org/pdf/2309.12264v1)|null|
+|**2023-09-21**|**Primordial Black Hole Neutrinogenesis of Sterile Neutrino Dark Matter**|Muping Chen et.al.|[2309.12258v1](http://arxiv.org/abs/2309.12258v1)|[2309.12258v1](http://arxiv.org/pdf/2309.12258v1)|null|
+|**2023-09-21**|**TeV Detection of the Extreme HSP Blazar RBS 1366 by VERITAS**|Deivid Ribeiro et.al.|[2309.12230v1](http://arxiv.org/abs/2309.12230v1)|[2309.12230v1](http://arxiv.org/pdf/2309.12230v1)|null|
+|**2023-09-21**|**Optimizing the Wasserstein GAN for TeV Gamma Ray Detection with VERITAS**|Deivid Ribeiro et.al.|[2309.12221v1](http://arxiv.org/abs/2309.12221v1)|[2309.12221v1](http://arxiv.org/pdf/2309.12221v1)|null|
 |**2023-09-20**|**On the damping of tidally driven oscillations**|Janosz W. Dewberry et.al.|[2309.11502v1](http://arxiv.org/abs/2309.11502v1)|[2309.11502v1](http://arxiv.org/pdf/2309.11502v1)|null|
 |**2023-09-20**|**Unveiling dark forces with the Large Scale Structure of the Universe**|Salvatore Bottaro et.al.|[2309.11496v1](http://arxiv.org/abs/2309.11496v1)|[2309.11496v1](http://arxiv.org/pdf/2309.11496v1)|null|
 |**2023-09-20**|**Investigating the Atmospheric Mass Loss of the Kepler-105 Planets Straddling the Radius Gap**|Aaron Householder et.al.|[2309.11494v1](http://arxiv.org/abs/2309.11494v1)|[2309.11494v1](http://arxiv.org/pdf/2309.11494v1)|null|
@@ -3139,6 +3149,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312v1](http://arxiv.org/abs/2309.12312v1)|[2309.12312v1](http://arxiv.org/pdf/2309.12312v1)|null|
+|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|[2309.12311v1](http://arxiv.org/pdf/2309.12311v1)|null|
+|**2023-09-21**|**Rehearsal: Simulating Conflict to Teach Conflict Resolution**|Omar Shaikh et.al.|[2309.12309v1](http://arxiv.org/abs/2309.12309v1)|[2309.12309v1](http://arxiv.org/pdf/2309.12309v1)|null|
+|**2023-09-21**|**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**|Yukang Chen et.al.|[2309.12307v1](http://arxiv.org/abs/2309.12307v1)|[2309.12307v1](http://arxiv.org/pdf/2309.12307v1)|**[link](https://github.com/dvlab-research/longlora)**|
+|**2023-09-21**|**Environment-biased Feature Ranking for Novelty Detection Robustness**|Stefan Smeu et.al.|[2309.12301v1](http://arxiv.org/abs/2309.12301v1)|[2309.12301v1](http://arxiv.org/pdf/2309.12301v1)|null|
+|**2023-09-21**|**See to Touch: Learning Tactile Dexterity through Visual Incentives**|Irmak Guzey et.al.|[2309.12300v1](http://arxiv.org/abs/2309.12300v1)|[2309.12300v1](http://arxiv.org/pdf/2309.12300v1)|null|
+|**2023-09-21**|**Learning to Drive Anywhere**|Ruizhao Zhu et.al.|[2309.12295v1](http://arxiv.org/abs/2309.12295v1)|[2309.12295v1](http://arxiv.org/pdf/2309.12295v1)|null|
+|**2023-09-21**|**The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"**|Lukas Berglund et.al.|[2309.12288v1](http://arxiv.org/abs/2309.12288v1)|[2309.12288v1](http://arxiv.org/pdf/2309.12288v1)|**[link](https://github.com/lukasberglund/reversal_curse)**|
+|**2023-09-21**|**MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**|Longhui Yu et.al.|[2309.12284v1](http://arxiv.org/abs/2309.12284v1)|[2309.12284v1](http://arxiv.org/pdf/2309.12284v1)|null|
+|**2023-09-21**|**LLMR: Real-time Prompting of Interactive Worlds using Large Language Models**|Fernanda De La Torre et.al.|[2309.12276v1](http://arxiv.org/abs/2309.12276v1)|[2309.12276v1](http://arxiv.org/pdf/2309.12276v1)|null|
 |**2023-09-20**|**Chain-of-Verification Reduces Hallucination in Large Language Models**|Shehzaad Dhuliawala et.al.|[2309.11495v1](http://arxiv.org/abs/2309.11495v1)|[2309.11495v1](http://arxiv.org/pdf/2309.11495v1)|null|
 |**2023-09-20**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489v1](http://arxiv.org/abs/2309.11489v1)|[2309.11489v1](http://arxiv.org/pdf/2309.11489v1)|null|
 |**2023-09-20**|**Fictional Worlds, Real Connections: Developing Community Storytelling Social Chatbots through LLMs**|Yuqian Sun et.al.|[2309.11478v1](http://arxiv.org/abs/2309.11478v1)|[2309.11478v1](http://arxiv.org/pdf/2309.11478v1)|null|
