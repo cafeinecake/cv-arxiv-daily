@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 
 ## Astrophysics
 
@@ -16,7 +16,7 @@ layout: default
 |**2023-09-20**|**First detection of CO$_2$ emission in a Centaur: JWST NIRSpec observations of 39P/Oterma**|O. Harrington Pinto et.al.|[2309.11486v1](http://arxiv.org/abs/2309.11486v1)|[2309.11486v1](http://arxiv.org/pdf/2309.11486v1)|null|
 |**2023-09-20**|**X-rays Trace the Volatile Content of Interstellar Objects**|Samuel H. C. Cabot et.al.|[2309.11482v1](http://arxiv.org/abs/2309.11482v1)|[2309.11482v1](http://arxiv.org/pdf/2309.11482v1)|null|
 |**2023-09-20**|**Did atmospheric thermal tides cause a daylength locking in the Precambrian? A review on recent results**|Jacques Laskar et.al.|[2309.11479v1](http://arxiv.org/abs/2309.11479v1)|[2309.11479v1](http://arxiv.org/pdf/2309.11479v1)|null|
-|**2023-09-20**|**Galaxy Zoo DESI: Detailed Morphology Measurements for 8.7M Galaxies in the DESI Legacy Imaging Surveys**|Mike Walmsley et.al.|[2309.11425v1](http://arxiv.org/abs/2309.11425v1)|[2309.11425v1](http://arxiv.org/pdf/2309.11425v1)|null|
+|**2023-09-20**|**Galaxy Zoo DESI: Detailed Morphology Measurements for 8.7M Galaxies in the DESI Legacy Imaging Surveys**|Mike Walmsley et.al.|[2309.11425v1](http://arxiv.org/abs/2309.11425v1)|[2309.11425v1](http://arxiv.org/pdf/2309.11425v1)|**[link](https://github.com/mwalmsley/zoobot)**|
 |**2023-09-20**|**Stellar Populations in STARFORGE: The Origin and Evolution of Star Clusters and Associations**|Juan P. Farias et.al.|[2309.11415v1](http://arxiv.org/abs/2309.11415v1)|[2309.11415v1](http://arxiv.org/pdf/2309.11415v1)|null|
 |**2023-09-19**|**First X-ray polarization measurement confirms the low black-hole spin in LMC X-3**|Jiří Svoboda et.al.|[2309.10813v1](http://arxiv.org/abs/2309.10813v1)|[2309.10813v1](http://arxiv.org/pdf/2309.10813v1)|null|
 |**2023-09-19**|**Dependence of stellar differential rotation on effective temperature and rotation: an analysis from starspot transit mapping**|Araújo et.al.|[2309.10805v1](http://arxiv.org/abs/2309.10805v1)|[2309.10805v1](http://arxiv.org/pdf/2309.10805v1)|null|
