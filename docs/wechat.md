@@ -1,4 +1,4 @@
-> Updated on 2023.09.24
+> Updated on 2023.09.25
 
 ## Astrophysics
 
@@ -3153,7 +3153,7 @@
 - 2023-09-21, **See to Touch: Learning Tactile Dexterity through Visual Incentives**, Irmak Guzey et.al., Paper: [http://arxiv.org/abs/2309.12300v1](http://arxiv.org/abs/2309.12300v1), Paper: [http://arxiv.org/abs/2309.12300v1](http://arxiv.org/pdf/2309.12300v1)
 - 2023-09-21, **Learning to Drive Anywhere**, Ruizhao Zhu et.al., Paper: [http://arxiv.org/abs/2309.12295v1](http://arxiv.org/abs/2309.12295v1), Paper: [http://arxiv.org/abs/2309.12295v1](http://arxiv.org/pdf/2309.12295v1)
 - 2023-09-21, **The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"**, Lukas Berglund et.al., Paper: [http://arxiv.org/abs/2309.12288v1](http://arxiv.org/abs/2309.12288v1),Paper: [http://arxiv.org/abs/2309.12288v1](http://arxiv.org/pdf/2309.12288v1), Code: **[https://github.com/lukasberglund/reversal_curse](https://github.com/lukasberglund/reversal_curse)**
-- 2023-09-21, **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**, Longhui Yu et.al., Paper: [http://arxiv.org/abs/2309.12284v1](http://arxiv.org/abs/2309.12284v1), Paper: [http://arxiv.org/abs/2309.12284v1](http://arxiv.org/pdf/2309.12284v1)
+- 2023-09-22, **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**, Longhui Yu et.al., Paper: [http://arxiv.org/abs/2309.12284v2](http://arxiv.org/abs/2309.12284v2), Paper: [http://arxiv.org/abs/2309.12284v2](http://arxiv.org/pdf/2309.12284v2)
 - 2023-09-21, **LLMR: Real-time Prompting of Interactive Worlds using Large Language Models**, Fernanda De La Torre et.al., Paper: [http://arxiv.org/abs/2309.12276v1](http://arxiv.org/abs/2309.12276v1), Paper: [http://arxiv.org/abs/2309.12276v1](http://arxiv.org/pdf/2309.12276v1)
 - 2023-09-20, **Chain-of-Verification Reduces Hallucination in Large Language Models**, Shehzaad Dhuliawala et.al., Paper: [http://arxiv.org/abs/2309.11495v1](http://arxiv.org/abs/2309.11495v1), Paper: [http://arxiv.org/abs/2309.11495v1](http://arxiv.org/pdf/2309.11495v1)
 - 2023-09-20, **Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**, Tianbao Xie et.al., Paper: [http://arxiv.org/abs/2309.11489v1](http://arxiv.org/abs/2309.11489v1), Paper: [http://arxiv.org/abs/2309.11489v1](http://arxiv.org/pdf/2309.11489v1)
