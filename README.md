@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-25**|**The true fraction of repeating fast radio bursts revealed through CHIME source count evolution**|Shotaro Yamasaki et.al.|[2309.14337v1](http://arxiv.org/abs/2309.14337v1)|[2309.14337v1](http://arxiv.org/pdf/2309.14337v1)|null|
+|**2023-09-25**|**Palomar discovery and initial characterization of naked-eye long period comet C/2022 E3 (ZTF)**|B. T. Bolin et.al.|[2309.14336v1](http://arxiv.org/abs/2309.14336v1)|[2309.14336v1](http://arxiv.org/pdf/2309.14336v1)|null|
+|**2023-09-25**|**Intraday variations of polarization vector in blazars: a key to the optical jet structure?**|Elena Shablovinskaya et.al.|[2309.14299v1](http://arxiv.org/abs/2309.14299v1)|[2309.14299v1](http://arxiv.org/pdf/2309.14299v1)|null|
+|**2023-09-25**|**AspGap: Augmented Stellar Parameters and Abundances for 23 million RGB stars from Gaia XP low-resolution spectra**|Jiadong Li et.al.|[2309.14294v1](http://arxiv.org/abs/2309.14294v1)|[2309.14294v1](http://arxiv.org/pdf/2309.14294v1)|null|
+|**2023-09-25**|**Using the Gerchberg-Saxton algorithm to reconstruct non-modulated pyramid wavefront sensor measurements**|Vincent Chambouleyron et.al.|[2309.14283v1](http://arxiv.org/abs/2309.14283v1)|[2309.14283v1](http://arxiv.org/pdf/2309.14283v1)|null|
+|**2023-09-25**|**MOND via Matrix General Relativity**|Ivan G. Avramidi et.al.|[2309.14270v1](http://arxiv.org/abs/2309.14270v1)|[2309.14270v1](http://arxiv.org/pdf/2309.14270v1)|null|
+|**2023-09-25**|**Gravitational production of matter and radiation during reheating**|Simon Cléry et.al.|[2309.14264v1](http://arxiv.org/abs/2309.14264v1)|[2309.14264v1](http://arxiv.org/pdf/2309.14264v1)|null|
+|**2023-09-25**|**iMaNGA: mock MaNGA galaxies based on IllustrisTNG and MaStar SSPs. -- III. Stellar metallicity drivers in MaNGA and TNG50**|Lorenza Nanni et.al.|[2309.14257v1](http://arxiv.org/abs/2309.14257v1)|[2309.14257v1](http://arxiv.org/pdf/2309.14257v1)|null|
+|**2023-09-25**|**A Multi-Frequency View of the Radio Phoenix in the Abell 85 Cluster**|Ramij Raja et.al.|[2309.14244v1](http://arxiv.org/abs/2309.14244v1)|[2309.14244v1](http://arxiv.org/pdf/2309.14244v1)|null|
+|**2023-09-25**|**Explaining PTA Data with Inflationary GWs in a PBH-Dominated Universe**|Satyabrata Datta et.al.|[2309.14238v1](http://arxiv.org/abs/2309.14238v1)|[2309.14238v1](http://arxiv.org/pdf/2309.14238v1)|null|
 |**2023-09-22**|**Optical Cluster Cosmology with SDSS redMaPPer clusters and HSC-Y3 lensing measurements**|Tomomi Sunayama et.al.|[2309.13025v1](http://arxiv.org/abs/2309.13025v1)|[2309.13025v1](http://arxiv.org/pdf/2309.13025v1)|null|
 |**2023-09-22**|**JWST NIRCam Observations of SN 1987A: Spitzer Comparison and Spectral Decomposition**|Richard G. Arendt et.al.|[2309.13011v1](http://arxiv.org/abs/2309.13011v1)|[2309.13011v1](http://arxiv.org/pdf/2309.13011v1)|null|
 |**2023-09-22**|**PEARLS: JWST counterparts of micro-Jy radio sources in the Time Domain Field**|S. P. Willner et.al.|[2309.13008v1](http://arxiv.org/abs/2309.13008v1)|[2309.13008v1](http://arxiv.org/pdf/2309.13008v1)|null|
@@ -3159,6 +3169,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|[2309.14341v1](http://arxiv.org/pdf/2309.14341v1)|null|
+|**2023-09-25**|**UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation**|Jianglin Fu et.al.|[2309.14335v1](http://arxiv.org/abs/2309.14335v1)|[2309.14335v1](http://arxiv.org/pdf/2309.14335v1)|**[link](https://github.com/unitedhuman/unitedhuman)**|
+|**2023-09-25**|**LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference**|Hongwu Peng et.al.|[2309.14331v1](http://arxiv.org/abs/2309.14331v1)|[2309.14331v1](http://arxiv.org/pdf/2309.14331v1)|**[link](https://github.com/harveyp123/lingcn-neurips23)**|
+|**2023-09-25**|**Physics of Language Models: Part 3.1, Knowledge Storage and Extraction**|Zeyuan Allen Zhu et.al.|[2309.14316v1](http://arxiv.org/abs/2309.14316v1)|[2309.14316v1](http://arxiv.org/pdf/2309.14316v1)|null|
+|**2023-09-25**|**Multiple Different Explanations for Image Classifiers**|Hana Chockler et.al.|[2309.14309v1](http://arxiv.org/abs/2309.14309v1)|[2309.14309v1](http://arxiv.org/pdf/2309.14309v1)|null|
+|**2023-09-25**|**Overview of Class Activation Maps for Visualization Explainability**|Anh Pham Thi Minh et.al.|[2309.14304v1](http://arxiv.org/abs/2309.14304v1)|[2309.14304v1](http://arxiv.org/pdf/2309.14304v1)|null|
+|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|[2309.14293v1](http://arxiv.org/pdf/2309.14293v1)|null|
+|**2023-09-25**|**Comparison of One- Two- and Three- Dimensional CNN models for Drawing-Test-Based Diagnostics of the Parkinson's Disease**|Xuechao Wang et.al.|[2309.14288v1](http://arxiv.org/abs/2309.14288v1)|[2309.14288v1](http://arxiv.org/pdf/2309.14288v1)|null|
+|**2023-09-25**|**Perception-and-Energy-aware Motion Planning for UAV using Learning-based Model under Heteroscedastic Uncertainty**|Reiya Takemura et.al.|[2309.14272v1](http://arxiv.org/abs/2309.14272v1)|[2309.14272v1](http://arxiv.org/pdf/2309.14272v1)|**[link](https://gitlab.com/rei08/perception-energy-planner)**|
+|**2023-09-25**|**Unsupervised correspondence with combined geometric learning and imaging for radiotherapy applications**|Edward G. A. Henderson et.al.|[2309.14269v1](http://arxiv.org/abs/2309.14269v1)|[2309.14269v1](http://arxiv.org/pdf/2309.14269v1)|**[link](https://github.com/rrr-uom-projects/unsup-rt-corr-net)**|
 |**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|[2309.13043v1](http://arxiv.org/pdf/2309.13043v1)|null|
 |**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042v1](http://arxiv.org/abs/2309.13042v1)|[2309.13042v1](http://arxiv.org/pdf/2309.13042v1)|**[link](https://github.com/jiahao000/mosaicfusion)**|
 |**2023-09-22**|**Memory-augmented conformer for improved end-to-end long-form ASR**|Carlos Carvalho et.al.|[2309.13029v1](http://arxiv.org/abs/2309.13029v1)|[2309.13029v1](http://arxiv.org/pdf/2309.13029v1)|**[link](https://github.com/miamoto/conformer-ntm)**|
