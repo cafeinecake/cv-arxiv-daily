@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-26**|**Probing light relics through cosmic dawn**|Nanoom Lee et.al.|[2309.15119v1](http://arxiv.org/abs/2309.15119v1)|[2309.15119v1](http://arxiv.org/pdf/2309.15119v1)|null|
+|**2023-09-26**|**A Single Ejection Model of the DART/Dimorphos Debris Trail**|Yoonyoung Kim et.al.|[2309.15116v1](http://arxiv.org/abs/2309.15116v1)|[2309.15116v1](http://arxiv.org/pdf/2309.15116v1)|null|
+|**2023-09-26**|**Seimei KOOLS-IFU mapping of the gas and dust distributions in Galactic PNe: Unveiling the origin and evolution of Galactic halo PN H4-1**|Masaaki Otsuka et.al.|[2309.15099v1](http://arxiv.org/abs/2309.15099v1)|[2309.15099v1](http://arxiv.org/pdf/2309.15099v1)|null|
+|**2023-09-26**|**Point-symmetry in SNR G1.9+0.3: A supernova that destroyed its planetary nebula progenitor**|Noam Soker et.al.|[2309.15093v1](http://arxiv.org/abs/2309.15093v1)|[2309.15093v1](http://arxiv.org/pdf/2309.15093v1)|null|
+|**2023-09-26**|**Formation of the hydrogen line 21-cm in Dark Ages and Cosmic Dawn: dependences on cosmology and first light**|Bohdan Novosyadlyj et.al.|[2309.15092v1](http://arxiv.org/abs/2309.15092v1)|[2309.15092v1](http://arxiv.org/pdf/2309.15092v1)|null|
+|**2023-09-26**|**Sensitivity Analysis of Simulation-Based Inference for Galaxy Clustering**|Chirag Modi et.al.|[2309.15071v1](http://arxiv.org/abs/2309.15071v1)|[2309.15071v1](http://arxiv.org/pdf/2309.15071v1)|null|
+|**2023-09-26**|**High Frequency Gravitational Waves from Pulsar Timing Arrays**|Junsong Cang et.al.|[2309.15069v1](http://arxiv.org/abs/2309.15069v1)|[2309.15069v1](http://arxiv.org/pdf/2309.15069v1)|null|
+|**2023-09-26**|**Rayleigh-Taylor Unstable Flames: the Coupled Effect of Multiple Perturbations**|Mingxuan Liu et.al.|[2309.15046v1](http://arxiv.org/abs/2309.15046v1)|[2309.15046v1](http://arxiv.org/pdf/2309.15046v1)|null|
+|**2023-09-26**|**On the Distances to the X-ray Binaries Cygnus X-3 and GRS 1915+105**|M. J. Reid et.al.|[2309.15027v1](http://arxiv.org/abs/2309.15027v1)|[2309.15027v1](http://arxiv.org/pdf/2309.15027v1)|null|
+|**2023-09-26**|**GWSpace: a multi-mission science data simulator for space-based gravitational wave detection**|En-Kun Li et.al.|[2309.15020v1](http://arxiv.org/abs/2309.15020v1)|[2309.15020v1](http://arxiv.org/pdf/2309.15020v1)|null|
 |**2023-09-25**|**The true fraction of repeating fast radio bursts revealed through CHIME source count evolution**|Shotaro Yamasaki et.al.|[2309.14337v1](http://arxiv.org/abs/2309.14337v1)|[2309.14337v1](http://arxiv.org/pdf/2309.14337v1)|null|
 |**2023-09-25**|**Palomar discovery and initial characterization of naked-eye long period comet C/2022 E3 (ZTF)**|B. T. Bolin et.al.|[2309.14336v1](http://arxiv.org/abs/2309.14336v1)|[2309.14336v1](http://arxiv.org/pdf/2309.14336v1)|null|
 |**2023-09-25**|**Intraday variations of polarization vector in blazars: a key to the optical jet structure?**|Elena Shablovinskaya et.al.|[2309.14299v1](http://arxiv.org/abs/2309.14299v1)|[2309.14299v1](http://arxiv.org/pdf/2309.14299v1)|null|
@@ -3169,6 +3179,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-09-26**|**Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**|Zhenyu Jiang et.al.|[2309.15110v1](http://arxiv.org/abs/2309.15110v1)|[2309.15110v1](http://arxiv.org/pdf/2309.15110v1)|null|
+|**2023-09-26**|**Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models**|Mert Yuksekgonul et.al.|[2309.15098v1](http://arxiv.org/abs/2309.15098v1)|[2309.15098v1](http://arxiv.org/pdf/2309.15098v1)|null|
+|**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091v1](http://arxiv.org/abs/2309.15091v1)|[2309.15091v1](http://arxiv.org/pdf/2309.15091v1)|null|
+|**2023-09-26**|**QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers**|Daniel Silver et.al.|[2309.15056v1](http://arxiv.org/abs/2309.15056v1)|[2309.15056v1](http://arxiv.org/pdf/2309.15056v1)|null|
+|**2023-09-26**|**When Prolog meets generative models: a new approach for managing knowledge and planning in robotic applications**|Enrico Saccon et.al.|[2309.15049v1](http://arxiv.org/abs/2309.15049v1)|[2309.15049v1](http://arxiv.org/pdf/2309.15049v1)|null|
+|**2023-09-26**|**Class Incremental Learning via Likelihood Ratio Based Task Prediction**|Haowei Lin et.al.|[2309.15048v1](http://arxiv.org/abs/2309.15048v1)|[2309.15048v1](http://arxiv.org/pdf/2309.15048v1)|**[link](https://github.com/linhaowei1/tplr)**|
+|**2023-09-26**|**Combining Survival Analysis and Machine Learning for Mass Cancer Risk Prediction using EHR data**|Petr Philonenko et.al.|[2309.15039v1](http://arxiv.org/abs/2309.15039v1)|[2309.15039v1](http://arxiv.org/pdf/2309.15039v1)|null|
+|**2023-09-26**|**Making PPO even better: Value-Guided Monte-Carlo Tree Search decoding**|Jiacheng Liu et.al.|[2309.15028v1](http://arxiv.org/abs/2309.15028v1)|[2309.15028v1](http://arxiv.org/pdf/2309.15028v1)|null|
+|**2023-09-26**|**Large Language Model Alignment: A Survey**|Tianhao Shen et.al.|[2309.15025v1](http://arxiv.org/abs/2309.15025v1)|[2309.15025v1](http://arxiv.org/pdf/2309.15025v1)|null|
+|**2023-09-26**|**Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex**|Ruixing Liang et.al.|[2309.15018v1](http://arxiv.org/abs/2309.15018v1)|[2309.15018v1](http://arxiv.org/pdf/2309.15018v1)|**[link](https://github.com/rxliang/vision)**|
 |**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|[2309.14341v1](http://arxiv.org/pdf/2309.14341v1)|null|
 |**2023-09-25**|**UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation**|Jianglin Fu et.al.|[2309.14335v1](http://arxiv.org/abs/2309.14335v1)|[2309.14335v1](http://arxiv.org/pdf/2309.14335v1)|**[link](https://github.com/unitedhuman/unitedhuman)**|
 |**2023-09-25**|**LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference**|Hongwu Peng et.al.|[2309.14331v1](http://arxiv.org/abs/2309.14331v1)|[2309.14331v1](http://arxiv.org/pdf/2309.14331v1)|**[link](https://github.com/harveyp123/lingcn-neurips23)**|
