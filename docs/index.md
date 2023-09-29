@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 
 ## Astrophysics
 
@@ -16,7 +16,7 @@ layout: default
 |**2023-09-27**|**Exploring Modified Gravity: Constraints on the $μ$ and $Σ$ Parametrization with WMAP, ACT, and SPT**|Uendert Andrade et.al.|[2309.15781v1](http://arxiv.org/abs/2309.15781v1)|[2309.15781v1](http://arxiv.org/pdf/2309.15781v1)|null|
 |**2023-09-27**|**Temperature inversion in a gravitationally bound plasma: the case of the solar corona**|Luca Barbieri et.al.|[2309.15772v1](http://arxiv.org/abs/2309.15772v1)|[2309.15772v1](http://arxiv.org/pdf/2309.15772v1)|null|
 |**2023-09-27**|**Phases of Pseudo-Nambu-Goldstone Bosons**|Fotis Koutroulis et.al.|[2309.15749v1](http://arxiv.org/abs/2309.15749v1)|[2309.15749v1](http://arxiv.org/pdf/2309.15749v1)|null|
-|**2023-09-27**|**The informativeness of [C II] line-intensity mapping as a probe of the H I content and metallicity of galaxies at the end of reionization**|Patrick Horlaville et.al.|[2309.15733v1](http://arxiv.org/abs/2309.15733v1)|[2309.15733v1](http://arxiv.org/pdf/2309.15733v1)|null|
+|**2023-09-28**|**The informativeness of [C II] line-intensity mapping as a probe of the H I content and metallicity of galaxies at the end of reionization**|Patrick Horlaville et.al.|[2309.15733v2](http://arxiv.org/abs/2309.15733v2)|[2309.15733v2](http://arxiv.org/pdf/2309.15733v2)|null|
 |**2023-09-27**|**Identification of a transition from stochastic to secular star formation around $z=9$ with JWST**|L. Ciesla et.al.|[2309.15720v1](http://arxiv.org/abs/2309.15720v1)|[2309.15720v1](http://arxiv.org/pdf/2309.15720v1)|null|
 |**2023-09-26**|**Probing light relics through cosmic dawn**|Nanoom Lee et.al.|[2309.15119v1](http://arxiv.org/abs/2309.15119v1)|[2309.15119v1](http://arxiv.org/pdf/2309.15119v1)|null|
 |**2023-09-26**|**A Single Ejection Model of the DART/Dimorphos Debris Trail**|Yoonyoung Kim et.al.|[2309.15116v1](http://arxiv.org/abs/2309.15116v1)|[2309.15116v1](http://arxiv.org/pdf/2309.15116v1)|null|
@@ -3198,7 +3198,7 @@ layout: default
 |**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830v1](http://arxiv.org/abs/2309.15830v1)|[2309.15830v1](http://arxiv.org/pdf/2309.15830v1)|null|
 |**2023-09-27**|**Lyra: Orchestrating Dual Correction in Automated Theorem Proving**|Chuanyang Zheng et.al.|[2309.15806v1](http://arxiv.org/abs/2309.15806v1)|[2309.15806v1](http://arxiv.org/pdf/2309.15806v1)|**[link](https://github.com/chuanyang-zheng/lyra-theorem-prover)**|
 |**2023-09-27**|**AI in Software Engineering: Case Studies and Prospects**|Lei Wang et.al.|[2309.15768v1](http://arxiv.org/abs/2309.15768v1)|[2309.15768v1](http://arxiv.org/pdf/2309.15768v1)|null|
-|**2023-09-27**|**Latent Graph Powered Semi-Supervised Learning on Biomedical Tabular Data**|Boshko Koloski et.al.|[2309.15757v1](http://arxiv.org/abs/2309.15757v1)|[2309.15757v1](http://arxiv.org/pdf/2309.15757v1)|null|
+|**2023-09-28**|**Latent Graph Powered Semi-Supervised Learning on Biomedical Tabular Data**|Boshko Koloski et.al.|[2309.15757v2](http://arxiv.org/abs/2309.15757v2)|[2309.15757v2](http://arxiv.org/pdf/2309.15757v2)|null|
 |**2023-09-27**|**Experience and Evidence are the eyes of an excellent summarizer! Towards Knowledge Infused Multi-modal Clinical Conversation Summarization**|Abhisek Tiwari et.al.|[2309.15739v1](http://arxiv.org/abs/2309.15739v1)|[2309.15739v1](http://arxiv.org/pdf/2309.15739v1)|**[link](https://github.com/nlp-rl/mm-cliconsummation)**|
 |**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729v1](http://arxiv.org/abs/2309.15729v1)|[2309.15729v1](http://arxiv.org/pdf/2309.15729v1)|null|
 |**2023-09-27**|**Where Are We So Far? Understanding Data Storytelling Tools from the Perspective of Human-AI Collaboration**|Haotian Li et.al.|[2309.15723v1](http://arxiv.org/abs/2309.15723v1)|[2309.15723v1](http://arxiv.org/pdf/2309.15723v1)|null|
