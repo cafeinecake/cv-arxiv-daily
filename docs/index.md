@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-28**|**Probing Parity Violation in the Stochastic Gravitational Wave Background with Astrometry**|Qiuyue Liang et.al.|[2309.16666v1](http://arxiv.org/abs/2309.16666v1)|[2309.16666v1](http://arxiv.org/pdf/2309.16666v1)|null|
+|**2023-09-28**|**The Eccentric Kozai-Lidov Mechanism as the Cause of Exocomet Transits of KIC 8462852**|Steven D. Young et.al.|[2309.16659v1](http://arxiv.org/abs/2309.16659v1)|[2309.16659v1](http://arxiv.org/pdf/2309.16659v1)|null|
+|**2023-09-28**|**Chemical evolution of local post-starburst galaxies: Implications for the mass-metallicity relation**|Ho-Hin Leung et.al.|[2309.16626v1](http://arxiv.org/abs/2309.16626v1)|[2309.16626v1](http://arxiv.org/pdf/2309.16626v1)|null|
+|**2023-09-28**|**Higgs-Portal Dark Matter in Brane-World Cosmology**|Taoli Liu et.al.|[2309.16625v1](http://arxiv.org/abs/2309.16625v1)|[2309.16625v1](http://arxiv.org/pdf/2309.16625v1)|null|
+|**2023-09-28**|**The anatomy of real intermediate state-subtraction scheme**|Kalle Ala-Mattinen et.al.|[2309.16615v1](http://arxiv.org/abs/2309.16615v1)|[2309.16615v1](http://arxiv.org/pdf/2309.16615v1)|null|
+|**2023-09-28**|**Constraining Ultralight Dark Matter through an Accelerated Resonant Search**|Zitong Xu et.al.|[2309.16600v1](http://arxiv.org/abs/2309.16600v1)|[2309.16600v1](http://arxiv.org/pdf/2309.16600v1)|null|
+|**2023-09-28**|**1-arcsecond imaging strategy for the LoTSS survey using the International LOFAR Telescope**|Haoyang Ye et.al.|[2309.16560v1](http://arxiv.org/abs/2309.16560v1)|[2309.16560v1](http://arxiv.org/pdf/2309.16560v1)|null|
+|**2023-09-28**|**Cosmological constraints from density-split clustering in the BOSS CMASS galaxy sample**|Enrique Paillas et.al.|[2309.16541v1](http://arxiv.org/abs/2309.16541v1)|[2309.16541v1](http://arxiv.org/pdf/2309.16541v1)|null|
+|**2023-09-28**|**SUNBIRD: A simulation-based model for full-shape density-split clustering**|Carolina Cuesta-Lazaro et.al.|[2309.16539v1](http://arxiv.org/abs/2309.16539v1)|[2309.16539v1](http://arxiv.org/pdf/2309.16539v1)|null|
+|**2023-09-28**|**The GW Vir instability strip in the light of new observations of PG 1159 stars. Discovery of pulsations in the central star of Abell 72 and variability of RX J0122.9-7521**|Paulina Sowicka et.al.|[2309.16537v1](http://arxiv.org/abs/2309.16537v1)|[2309.16537v1](http://arxiv.org/pdf/2309.16537v1)|null|
 |**2023-09-27**|**Period Evolution of Repeating Transients in Galactic Nuclei**|Itai Linial et.al.|[2309.15849v1](http://arxiv.org/abs/2309.15849v1)|[2309.15849v1](http://arxiv.org/pdf/2309.15849v1)|null|
 |**2023-09-27**|**To Fit or not to Fit: Unraveling Parameter Degeneracy in GRB Data Analysis**|Keneth Garcia-Cifuentes et.al.|[2309.15825v1](http://arxiv.org/abs/2309.15825v1)|[2309.15825v1](http://arxiv.org/pdf/2309.15825v1)|null|
 |**2023-09-27**|**Induced gravitational waves from flipped SU(5) superstring theory at $\mathrm{nHz}$**|Spyros Basilakos et.al.|[2309.15820v1](http://arxiv.org/abs/2309.15820v1)|[2309.15820v1](http://arxiv.org/pdf/2309.15820v1)|null|
@@ -3193,6 +3203,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|[2309.16668v1](http://arxiv.org/pdf/2309.16668v1)|null|
+|**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661v1](http://arxiv.org/abs/2309.16661v1)|[2309.16661v1](http://arxiv.org/pdf/2309.16661v1)|**[link](https://github.com/mustansarfiaz/sa2-net)**|
+|**2023-09-28**|**MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention**|Ruolan Wu et.al.|[2309.16639v1](http://arxiv.org/abs/2309.16639v1)|[2309.16639v1](http://arxiv.org/pdf/2309.16639v1)|null|
+|**2023-09-28**|**Mixup Your Own Pairs**|Yilei Wu et.al.|[2309.16633v1](http://arxiv.org/abs/2309.16633v1)|[2309.16633v1](http://arxiv.org/pdf/2309.16633v1)|**[link](https://github.com/yilei-wu/supremix)**|
+|**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|[2309.16621v1](http://arxiv.org/pdf/2309.16621v1)|null|
+|**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|[2309.16620v1](http://arxiv.org/pdf/2309.16620v1)|null|
+|**2023-09-28**|**Revisiting Neural Program Smoothing for Fuzzing**|Maria-Irina Nicolae et.al.|[2309.16618v1](http://arxiv.org/abs/2309.16618v1)|[2309.16618v1](http://arxiv.org/pdf/2309.16618v1)|null|
+|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|[2309.16609v1](http://arxiv.org/pdf/2309.16609v1)|null|
+|**2023-09-28**|**"AI enhances our performance, I have no doubt this one will do the same": The Placebo effect is robust to negative descriptions of AI**|Agnes M. Kloft et.al.|[2309.16606v1](http://arxiv.org/abs/2309.16606v1)|[2309.16606v1](http://arxiv.org/pdf/2309.16606v1)|null|
+|**2023-09-28**|**Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces**|Zhou Fan et.al.|[2309.16597v1](http://arxiv.org/abs/2309.16597v1)|[2309.16597v1](http://arxiv.org/pdf/2309.16597v1)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848v1](http://arxiv.org/abs/2309.15848v1)|[2309.15848v1](http://arxiv.org/pdf/2309.15848v1)|null|
 |**2023-09-27**|**Examining the Values Reflected by Children during AI Problem Formulation**|Utkarsh Dwivedi et.al.|[2309.15839v1](http://arxiv.org/abs/2309.15839v1)|[2309.15839v1](http://arxiv.org/pdf/2309.15839v1)|null|
 |**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830v1](http://arxiv.org/abs/2309.15830v1)|[2309.15830v1](http://arxiv.org/pdf/2309.15830v1)|null|
