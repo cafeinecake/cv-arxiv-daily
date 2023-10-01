@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.30
+## Updated on 2023.10.01
 
 ## Astrophysics
 
@@ -3210,7 +3210,7 @@ layout: default
 |**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|[2309.16621v1](http://arxiv.org/pdf/2309.16621v1)|null|
 |**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|[2309.16620v1](http://arxiv.org/pdf/2309.16620v1)|null|
 |**2023-09-28**|**Revisiting Neural Program Smoothing for Fuzzing**|Maria-Irina Nicolae et.al.|[2309.16618v1](http://arxiv.org/abs/2309.16618v1)|[2309.16618v1](http://arxiv.org/pdf/2309.16618v1)|null|
-|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|[2309.16609v1](http://arxiv.org/pdf/2309.16609v1)|null|
+|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|[2309.16609v1](http://arxiv.org/pdf/2309.16609v1)|**[link](https://github.com/QwenLM/Qwen-7B)**|
 |**2023-09-28**|**"AI enhances our performance, I have no doubt this one will do the same": The Placebo effect is robust to negative descriptions of AI**|Agnes M. Kloft et.al.|[2309.16606v1](http://arxiv.org/abs/2309.16606v1)|[2309.16606v1](http://arxiv.org/pdf/2309.16606v1)|null|
 |**2023-09-28**|**Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces**|Zhou Fan et.al.|[2309.16597v1](http://arxiv.org/abs/2309.16597v1)|[2309.16597v1](http://arxiv.org/pdf/2309.16597v1)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848v1](http://arxiv.org/abs/2309.15848v1)|[2309.15848v1](http://arxiv.org/pdf/2309.15848v1)|null|
