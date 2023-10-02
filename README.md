@@ -1,4 +1,4 @@
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 
 ## Astrophysics
 
@@ -11,8 +11,8 @@
 |**2023-09-28**|**The anatomy of real intermediate state-subtraction scheme**|Kalle Ala-Mattinen et.al.|[2309.16615v1](http://arxiv.org/abs/2309.16615v1)|[2309.16615v1](http://arxiv.org/pdf/2309.16615v1)|null|
 |**2023-09-28**|**Constraining Ultralight Dark Matter through an Accelerated Resonant Search**|Zitong Xu et.al.|[2309.16600v1](http://arxiv.org/abs/2309.16600v1)|[2309.16600v1](http://arxiv.org/pdf/2309.16600v1)|null|
 |**2023-09-28**|**1-arcsecond imaging strategy for the LoTSS survey using the International LOFAR Telescope**|Haoyang Ye et.al.|[2309.16560v1](http://arxiv.org/abs/2309.16560v1)|[2309.16560v1](http://arxiv.org/pdf/2309.16560v1)|null|
-|**2023-09-28**|**Cosmological constraints from density-split clustering in the BOSS CMASS galaxy sample**|Enrique Paillas et.al.|[2309.16541v1](http://arxiv.org/abs/2309.16541v1)|[2309.16541v1](http://arxiv.org/pdf/2309.16541v1)|null|
-|**2023-09-28**|**SUNBIRD: A simulation-based model for full-shape density-split clustering**|Carolina Cuesta-Lazaro et.al.|[2309.16539v1](http://arxiv.org/abs/2309.16539v1)|[2309.16539v1](http://arxiv.org/pdf/2309.16539v1)|null|
+|**2023-09-28**|**Cosmological constraints from density-split clustering in the BOSS CMASS galaxy sample**|Enrique Paillas et.al.|[2309.16541v1](http://arxiv.org/abs/2309.16541v1)|[2309.16541v1](http://arxiv.org/pdf/2309.16541v1)|**[link](https://github.com/florpi/sunbird)**|
+|**2023-09-28**|**SUNBIRD: A simulation-based model for full-shape density-split clustering**|Carolina Cuesta-Lazaro et.al.|[2309.16539v1](http://arxiv.org/abs/2309.16539v1)|[2309.16539v1](http://arxiv.org/pdf/2309.16539v1)|**[link](https://github.com/florpi/sunbird)**|
 |**2023-09-28**|**The GW Vir instability strip in the light of new observations of PG 1159 stars. Discovery of pulsations in the central star of Abell 72 and variability of RX J0122.9-7521**|Paulina Sowicka et.al.|[2309.16537v1](http://arxiv.org/abs/2309.16537v1)|[2309.16537v1](http://arxiv.org/pdf/2309.16537v1)|null|
 |**2023-09-27**|**Period Evolution of Repeating Transients in Galactic Nuclei**|Itai Linial et.al.|[2309.15849v1](http://arxiv.org/abs/2309.15849v1)|[2309.15849v1](http://arxiv.org/pdf/2309.15849v1)|null|
 |**2023-09-27**|**To Fit or not to Fit: Unraveling Parameter Degeneracy in GRB Data Analysis**|Keneth Garcia-Cifuentes et.al.|[2309.15825v1](http://arxiv.org/abs/2309.15825v1)|[2309.15825v1](http://arxiv.org/pdf/2309.15825v1)|null|
@@ -3202,7 +3202,7 @@
 |**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|[2309.16668v1](http://arxiv.org/pdf/2309.16668v1)|null|
 |**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661v1](http://arxiv.org/abs/2309.16661v1)|[2309.16661v1](http://arxiv.org/pdf/2309.16661v1)|**[link](https://github.com/mustansarfiaz/sa2-net)**|
 |**2023-09-28**|**MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention**|Ruolan Wu et.al.|[2309.16639v1](http://arxiv.org/abs/2309.16639v1)|[2309.16639v1](http://arxiv.org/pdf/2309.16639v1)|null|
-|**2023-09-28**|**Mixup Your Own Pairs**|Yilei Wu et.al.|[2309.16633v1](http://arxiv.org/abs/2309.16633v1)|[2309.16633v1](http://arxiv.org/pdf/2309.16633v1)|**[link](https://github.com/yilei-wu/supremix)**|
+|**2023-09-29**|**Mixup Your Own Pairs**|Yilei Wu et.al.|[2309.16633v2](http://arxiv.org/abs/2309.16633v2)|[2309.16633v2](http://arxiv.org/pdf/2309.16633v2)|**[link](https://github.com/yilei-wu/supremix)**|
 |**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|[2309.16621v1](http://arxiv.org/pdf/2309.16621v1)|null|
 |**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|[2309.16620v1](http://arxiv.org/pdf/2309.16620v1)|null|
 |**2023-09-28**|**Revisiting Neural Program Smoothing for Fuzzing**|Maria-Irina Nicolae et.al.|[2309.16618v1](http://arxiv.org/abs/2309.16618v1)|[2309.16618v1](http://arxiv.org/pdf/2309.16618v1)|null|
