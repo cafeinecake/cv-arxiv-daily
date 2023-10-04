@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-03**|**Detecting New Visual Binaries in Gaia DR3 with Gaia and 2MASS Photometry I. New Candidate Binaries Within 200 pc of the Sun**|Ilija Medan et.al.|[2310.02256v1](http://arxiv.org/abs/2310.02256v1)|[2310.02256v1](http://arxiv.org/pdf/2310.02256v1)|null|
+|**2023-10-03**|**High Angular Resolution Imaging of the V892 Tau Binary System: A New Circumprimary Disk Detection and Updated Orbital Constraints**|Christina Vides et.al.|[2310.02241v1](http://arxiv.org/abs/2310.02241v1)|[2310.02241v1](http://arxiv.org/pdf/2310.02241v1)|null|
+|**2023-10-03**|**Mapping the Intracluster Medium in the Era of High-resolution X-ray Spectroscopy**|Congyao Zhang et.al.|[2310.02225v1](http://arxiv.org/abs/2310.02225v1)|[2310.02225v1](http://arxiv.org/pdf/2310.02225v1)|null|
+|**2023-10-03**|**Spectro-polarimetry of 4U 1957+115 with IXPE: Effects of spin and returning radiation on polarised emission of black hole in thermal state**|Ankur Kushwaha et.al.|[2310.02222v1](http://arxiv.org/abs/2310.02222v1)|[2310.02222v1](http://arxiv.org/pdf/2310.02222v1)|null|
+|**2023-10-03**|**The orbital period of the nova V1674 Her as observed with TESS**|G. J. M. Luna et.al.|[2310.02220v1](http://arxiv.org/abs/2310.02220v1)|[2310.02220v1](http://arxiv.org/pdf/2310.02220v1)|null|
+|**2023-10-03**|**Turbulent Structure In Supernova Remnants G46.8-0.3 And G39.2-0.3 From THOR Polarimetry**|Russell Shanahan et.al.|[2310.02213v1](http://arxiv.org/abs/2310.02213v1)|[2310.02213v1](http://arxiv.org/pdf/2310.02213v1)|null|
+|**2023-10-03**|**Neutrino Emissions of TXS 0506+056 caused by a Supermassive Binary Black Hole Inspiral?**|Ilja Jaroschewski et.al.|[2310.02212v1](http://arxiv.org/abs/2310.02212v1)|[2310.02212v1](http://arxiv.org/pdf/2310.02212v1)|null|
+|**2023-10-03**|**H I content of selected mid-infrared bright, starburst blue compact dwarf galaxies**|Yogesh Chandola et.al.|[2310.02202v1](http://arxiv.org/abs/2310.02202v1)|[2310.02202v1](http://arxiv.org/pdf/2310.02202v1)|null|
+|**2023-10-03**|**Multimodality for improved CNN photometric redshifts**|R. Ait-Ouahmed et.al.|[2310.02185v1](http://arxiv.org/abs/2310.02185v1)|[2310.02185v1](http://arxiv.org/pdf/2310.02185v1)|null|
+|**2023-10-03**|**Atmospheric dynamics and shock waves in RR Lyr**|D. Gillet et.al.|[2310.02180v1](http://arxiv.org/abs/2310.02180v1)|[2310.02180v1](http://arxiv.org/pdf/2310.02180v1)|null|
 |**2023-09-29**|**Are Odd Radio Circles virial shocks around massive galaxies? Implications for cosmic-ray diffusion in the circumgalactic medium**|Shotaro Yamasaki et.al.|[2309.17451v1](http://arxiv.org/abs/2309.17451v1)|[2309.17451v1](http://arxiv.org/pdf/2309.17451v1)|null|
 |**2023-09-29**|**Experimental demonstration of spectral linear dark field control at NASA's high contrast imaging testbeds**|Phillip K. Poon et.al.|[2309.17449v1](http://arxiv.org/abs/2309.17449v1)|[2309.17449v1](http://arxiv.org/pdf/2309.17449v1)|null|
 |**2023-09-29**|**Investigating the Drivers of Electron Temperature Variations in HII Regions with Keck-KCWI and VLT-MUSE**|Ryan J. Rickards Vaught et.al.|[2309.17440v1](http://arxiv.org/abs/2309.17440v1)|[2309.17440v1](http://arxiv.org/pdf/2309.17440v1)|null|
@@ -3209,6 +3219,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263v1](http://arxiv.org/abs/2310.02263v1)|[2310.02263v1](http://arxiv.org/pdf/2310.02263v1)|null|
+|**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260v1](http://arxiv.org/abs/2310.02260v1)|[2310.02260v1](http://arxiv.org/pdf/2310.02260v1)|**[link](https://github.com/yahidar/transradar)**|
+|**2023-10-03**|**A Neural Scaling Law from Lottery Ticket Ensembling**|Ziming Liu et.al.|[2310.02258v1](http://arxiv.org/abs/2310.02258v1)|[2310.02258v1](http://arxiv.org/pdf/2310.02258v1)|null|
+|**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|[2310.02255v1](http://arxiv.org/pdf/2310.02255v1)|null|
+|**2023-10-03**|**Learning to Relax: Setting Solver Parameters Across a Sequence of Linear System Instances**|Mikhail Khodak et.al.|[2310.02246v1](http://arxiv.org/abs/2310.02246v1)|[2310.02246v1](http://arxiv.org/pdf/2310.02246v1)|null|
+|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239v1](http://arxiv.org/abs/2310.02239v1)|[2310.02239v1](http://arxiv.org/pdf/2310.02239v1)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
+|**2023-10-03**|**Who's Harry Potter? Approximate Unlearning in LLMs**|Ronen Eldan et.al.|[2310.02238v1](http://arxiv.org/abs/2310.02238v1)|[2310.02238v1](http://arxiv.org/pdf/2310.02238v1)|null|
+|**2023-10-03**|**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**|Yanzhao Wu et.al.|[2310.02237v1](http://arxiv.org/abs/2310.02237v1)|[2310.02237v1](http://arxiv.org/pdf/2310.02237v1)|null|
+|**2023-10-03**|**Automatic Quality Assessment of Wikipedia Articles -- A Systematic Literature Review**|Pedro Miguel Moás et.al.|[2310.02235v1](http://arxiv.org/abs/2310.02235v1)|[2310.02235v1](http://arxiv.org/pdf/2310.02235v1)|null|
+|**2023-10-03**|**MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**|Vinaya Sree Katamneni et.al.|[2310.02234v1](http://arxiv.org/abs/2310.02234v1)|[2310.02234v1](http://arxiv.org/pdf/2310.02234v1)|null|
 |**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453v1](http://arxiv.org/abs/2309.17453v1)|[2309.17453v1](http://arxiv.org/pdf/2309.17453v1)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
 |**2023-09-29**|**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**|Zhibin Gou et.al.|[2309.17452v1](http://arxiv.org/abs/2309.17452v1)|[2309.17452v1](http://arxiv.org/pdf/2309.17452v1)|**[link](https://github.com/microsoft/tora)**|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|[2309.17444v2](http://arxiv.org/pdf/2309.17444v2)|null|
