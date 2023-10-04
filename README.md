@@ -1,4 +1,4 @@
-## Updated on 2023.10.03
+## Updated on 2023.10.04
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@
 |**2023-09-29**|**Rotation in stellar interiors: General formulation and an asteroseismic-calibrated transport by the Tayler instability**|P. Eggenberger et.al.|[2309.17396v1](http://arxiv.org/abs/2309.17396v1)|[2309.17396v1](http://arxiv.org/pdf/2309.17396v1)|null|
 |**2023-09-29**|**Instability cascade of strongly nonlinear gravity waves in a vertically sheared atmosphere**|Georg Sebastian Voelker et.al.|[2309.17392v1](http://arxiv.org/abs/2309.17392v1)|[2309.17392v1](http://arxiv.org/pdf/2309.17392v1)|null|
 |**2023-09-29**|**The ALMA REBELS survey: obscured star formation in massive Lyman-break galaxies at z = 4-8 revealed by the IRX-$β$ and $M_{\star}$ relations**|R. A. A. Bowler et.al.|[2309.17386v1](http://arxiv.org/abs/2309.17386v1)|[2309.17386v1](http://arxiv.org/pdf/2309.17386v1)|null|
-|**2023-09-29**|**Inferring coupling strengths of mixed-mode oscillations in red-giant stars using deep learning**|Siddharth Dhanpal et.al.|[2309.17372v1](http://arxiv.org/abs/2309.17372v1)|[2309.17372v1](http://arxiv.org/pdf/2309.17372v1)|null|
+|**2023-10-03**|**Inferring coupling strengths of mixed-mode oscillations in red-giant stars using deep learning**|Siddharth Dhanpal et.al.|[2309.17372v2](http://arxiv.org/abs/2309.17372v2)|[2309.17372v2](http://arxiv.org/pdf/2309.17372v2)|null|
 |**2023-09-29**|**A Babcock-Leighton dynamo model of the Sun incorporating toroidal flux loss and the helioseismically-inferred meridional flow**|S. Cloutier et.al.|[2309.17328v1](http://arxiv.org/abs/2309.17328v1)|[2309.17328v1](http://arxiv.org/pdf/2309.17328v1)|null|
 |**2023-09-28**|**Probing Parity Violation in the Stochastic Gravitational Wave Background with Astrometry**|Qiuyue Liang et.al.|[2309.16666v1](http://arxiv.org/abs/2309.16666v1)|[2309.16666v1](http://arxiv.org/pdf/2309.16666v1)|null|
 |**2023-09-28**|**The Eccentric Kozai-Lidov Mechanism as the Cause of Exocomet Transits of KIC 8462852**|Steven D. Young et.al.|[2309.16659v1](http://arxiv.org/abs/2309.16659v1)|[2309.16659v1](http://arxiv.org/pdf/2309.16659v1)|null|
