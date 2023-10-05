@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-04**|**AstroCLIP: Cross-Modal Pre-Training for Astronomical Foundation Models**|Francois Lanusse et.al.|[2310.03024v1](http://arxiv.org/abs/2310.03024v1)|[2310.03024v1](http://arxiv.org/pdf/2310.03024v1)|null|
+|**2023-10-04**|**Effects of feedback-free starburst galaxies on the 21-cm signal and reionization history**|Sarah Libanore et.al.|[2310.03021v1](http://arxiv.org/abs/2310.03021v1)|[2310.03021v1](http://arxiv.org/pdf/2310.03021v1)|null|
+|**2023-10-04**|**FRAMEx IV: Mechanical Feedback from the Active Galactic Nucleus in NGC 3079**|Luis C. Fernandez et.al.|[2310.03019v1](http://arxiv.org/abs/2310.03019v1)|[2310.03019v1](http://arxiv.org/pdf/2310.03019v1)|null|
+|**2023-10-04**|**The Data Processor of the SPB2 Fluorescence Telescope: in flight performance**|Valentina Scotti et.al.|[2310.03012v1](http://arxiv.org/abs/2310.03012v1)|[2310.03012v1](http://arxiv.org/pdf/2310.03012v1)|null|
+|**2023-10-04**|**Exploring X-ray Properties of Low Metallicity Dwarf Galaxies**|Jenna M. Cann et.al.|[2310.02999v1](http://arxiv.org/abs/2310.02999v1)|[2310.02999v1](http://arxiv.org/pdf/2310.02999v1)|null|
+|**2023-10-04**|**Apparent luminosity and pulsed fraction affected by gravitational lensing of accretion columns in bright X-ray pulsars**|Ivan D. Markozov et.al.|[2310.02981v1](http://arxiv.org/abs/2310.02981v1)|[2310.02981v1](http://arxiv.org/pdf/2310.02981v1)|null|
+|**2023-10-04**|**Identifying physical structures in our Galaxy with Gaussian Mixture Models: An unsupervised machine learning technique**|M. Tiwari et.al.|[2310.02939v1](http://arxiv.org/abs/2310.02939v1)|[2310.02939v1](http://arxiv.org/pdf/2310.02939v1)|null|
+|**2023-10-04**|**Probing statistical isotropy of the universe with the Planck CMB data**|C. E. Kester et.al.|[2310.02928v1](http://arxiv.org/abs/2310.02928v1)|[2310.02928v1](http://arxiv.org/pdf/2310.02928v1)|null|
+|**2023-10-04**|**Rainbow: a colorful approach on multi-passband light curve estimation**|E. Russeil et.al.|[2310.02916v1](http://arxiv.org/abs/2310.02916v1)|[2310.02916v1](http://arxiv.org/pdf/2310.02916v1)|null|
+|**2023-10-04**|**X-rays from a Central "Exhaust Vent" of the Galactic Center Chimney**|Scott C. Mackey et.al.|[2310.02892v1](http://arxiv.org/abs/2310.02892v1)|[2310.02892v1](http://arxiv.org/pdf/2310.02892v1)|null|
 |**2023-10-03**|**Detecting New Visual Binaries in Gaia DR3 with Gaia and 2MASS Photometry I. New Candidate Binaries Within 200 pc of the Sun**|Ilija Medan et.al.|[2310.02256v1](http://arxiv.org/abs/2310.02256v1)|[2310.02256v1](http://arxiv.org/pdf/2310.02256v1)|null|
 |**2023-10-03**|**High Angular Resolution Imaging of the V892 Tau Binary System: A New Circumprimary Disk Detection and Updated Orbital Constraints**|Christina Vides et.al.|[2310.02241v1](http://arxiv.org/abs/2310.02241v1)|[2310.02241v1](http://arxiv.org/pdf/2310.02241v1)|null|
 |**2023-10-03**|**Mapping the Intracluster Medium in the Era of High-resolution X-ray Spectroscopy**|Congyao Zhang et.al.|[2310.02225v1](http://arxiv.org/abs/2310.02225v1)|[2310.02225v1](http://arxiv.org/pdf/2310.02225v1)|null|
@@ -3219,6 +3229,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026v1](http://arxiv.org/abs/2310.03026v1)|[2310.03026v1](http://arxiv.org/pdf/2310.03026v1)|null|
+|**2023-10-04**|**Retrieval meets Long Context Large Language Models**|Peng Xu et.al.|[2310.03025v1](http://arxiv.org/abs/2310.03025v1)|[2310.03025v1](http://arxiv.org/pdf/2310.03025v1)|null|
+|**2023-10-04**|**AstroCLIP: Cross-Modal Pre-Training for Astronomical Foundation Models**|Francois Lanusse et.al.|[2310.03024v1](http://arxiv.org/abs/2310.03024v1)|[2310.03024v1](http://arxiv.org/pdf/2310.03024v1)|null|
+|**2023-10-04**|**Human-oriented Representation Learning for Robotic Manipulation**|Mingxiao Huo et.al.|[2310.03023v1](http://arxiv.org/abs/2310.03023v1)|[2310.03023v1](http://arxiv.org/pdf/2310.03023v1)|null|
+|**2023-10-04**|**SemiReward: A General Reward Model for Semi-supervised Learning**|Siyuan Li et.al.|[2310.03013v1](http://arxiv.org/abs/2310.03013v1)|[2310.03013v1](http://arxiv.org/pdf/2310.03013v1)|**[link](https://github.com/Westlake-AI/SemiReward)**|
+|**2023-10-04**|**Soft Convex Quantization: Revisiting Vector Quantization with Convex Optimization**|Tanmay Gautam et.al.|[2310.03004v1](http://arxiv.org/abs/2310.03004v1)|[2310.03004v1](http://arxiv.org/pdf/2310.03004v1)|null|
+|**2023-10-04**|**Learning characteristic parameters and dynamics of centrifugal pumps under multi-phase flow using physics-informed neural networks**|Felipe de Castro Teixeira Carvalho et.al.|[2310.03001v1](http://arxiv.org/abs/2310.03001v1)|[2310.03001v1](http://arxiv.org/pdf/2310.03001v1)|null|
+|**2023-10-04**|**ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models**|Yi-Lin Sung et.al.|[2310.02998v1](http://arxiv.org/abs/2310.02998v1)|[2310.02998v1](http://arxiv.org/pdf/2310.02998v1)|null|
+|**2023-10-04**|**Multiple Physics Pretraining for Physical Surrogate Models**|Michael McCabe et.al.|[2310.02994v1](http://arxiv.org/abs/2310.02994v1)|[2310.02994v1](http://arxiv.org/pdf/2310.02994v1)|null|
+|**2023-10-04**|**xVal: A Continuous Number Encoding for Large Language Models**|Siavash Golkar et.al.|[2310.02989v1](http://arxiv.org/abs/2310.02989v1)|[2310.02989v1](http://arxiv.org/pdf/2310.02989v1)|null|
 |**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263v1](http://arxiv.org/abs/2310.02263v1)|[2310.02263v1](http://arxiv.org/pdf/2310.02263v1)|null|
 |**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260v1](http://arxiv.org/abs/2310.02260v1)|[2310.02260v1](http://arxiv.org/pdf/2310.02260v1)|**[link](https://github.com/yahidar/transradar)**|
 |**2023-10-03**|**A Neural Scaling Law from Lottery Ticket Ensembling**|Ziming Liu et.al.|[2310.02258v1](http://arxiv.org/abs/2310.02258v1)|[2310.02258v1](http://arxiv.org/pdf/2310.02258v1)|null|
