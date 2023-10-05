@@ -1,4 +1,4 @@
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 
 ## Astrophysics
 
@@ -3225,7 +3225,7 @@
 |**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|[2310.02255v1](http://arxiv.org/pdf/2310.02255v1)|null|
 |**2023-10-03**|**Learning to Relax: Setting Solver Parameters Across a Sequence of Linear System Instances**|Mikhail Khodak et.al.|[2310.02246v1](http://arxiv.org/abs/2310.02246v1)|[2310.02246v1](http://arxiv.org/pdf/2310.02246v1)|null|
 |**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239v1](http://arxiv.org/abs/2310.02239v1)|[2310.02239v1](http://arxiv.org/pdf/2310.02239v1)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
-|**2023-10-03**|**Who's Harry Potter? Approximate Unlearning in LLMs**|Ronen Eldan et.al.|[2310.02238v1](http://arxiv.org/abs/2310.02238v1)|[2310.02238v1](http://arxiv.org/pdf/2310.02238v1)|null|
+|**2023-10-04**|**Who's Harry Potter? Approximate Unlearning in LLMs**|Ronen Eldan et.al.|[2310.02238v2](http://arxiv.org/abs/2310.02238v2)|[2310.02238v2](http://arxiv.org/pdf/2310.02238v2)|null|
 |**2023-10-03**|**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**|Yanzhao Wu et.al.|[2310.02237v1](http://arxiv.org/abs/2310.02237v1)|[2310.02237v1](http://arxiv.org/pdf/2310.02237v1)|null|
 |**2023-10-03**|**Automatic Quality Assessment of Wikipedia Articles -- A Systematic Literature Review**|Pedro Miguel Moás et.al.|[2310.02235v1](http://arxiv.org/abs/2310.02235v1)|[2310.02235v1](http://arxiv.org/pdf/2310.02235v1)|null|
 |**2023-10-03**|**MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**|Vinaya Sree Katamneni et.al.|[2310.02234v1](http://arxiv.org/abs/2310.02234v1)|[2310.02234v1](http://arxiv.org/pdf/2310.02234v1)|null|
