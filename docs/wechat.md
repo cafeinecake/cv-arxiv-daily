@@ -1,4 +1,4 @@
-> Updated on 2023.10.05
+> Updated on 2023.10.06
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 - 2023-10-04, **Apparent luminosity and pulsed fraction affected by gravitational lensing of accretion columns in bright X-ray pulsars**, Ivan D. Markozov et.al., Paper: [http://arxiv.org/abs/2310.02981v1](http://arxiv.org/abs/2310.02981v1), Paper: [http://arxiv.org/abs/2310.02981v1](http://arxiv.org/pdf/2310.02981v1)
 - 2023-10-04, **Identifying physical structures in our Galaxy with Gaussian Mixture Models: An unsupervised machine learning technique**, M. Tiwari et.al., Paper: [http://arxiv.org/abs/2310.02939v1](http://arxiv.org/abs/2310.02939v1), Paper: [http://arxiv.org/abs/2310.02939v1](http://arxiv.org/pdf/2310.02939v1)
 - 2023-10-04, **Probing statistical isotropy of the universe with the Planck CMB data**, C. E. Kester et.al., Paper: [http://arxiv.org/abs/2310.02928v1](http://arxiv.org/abs/2310.02928v1), Paper: [http://arxiv.org/abs/2310.02928v1](http://arxiv.org/pdf/2310.02928v1)
-- 2023-10-04, **Rainbow: a colorful approach on multi-passband light curve estimation**, E. Russeil et.al., Paper: [http://arxiv.org/abs/2310.02916v1](http://arxiv.org/abs/2310.02916v1), Paper: [http://arxiv.org/abs/2310.02916v1](http://arxiv.org/pdf/2310.02916v1)
+- 2023-10-05, **Rainbow: a colorful approach on multi-passband light curve estimation**, E. Russeil et.al., Paper: [http://arxiv.org/abs/2310.02916v2](http://arxiv.org/abs/2310.02916v2), Paper: [http://arxiv.org/abs/2310.02916v2](http://arxiv.org/pdf/2310.02916v2)
 - 2023-10-04, **X-rays from a Central "Exhaust Vent" of the Galactic Center Chimney**, Scott C. Mackey et.al., Paper: [http://arxiv.org/abs/2310.02892v1](http://arxiv.org/abs/2310.02892v1), Paper: [http://arxiv.org/abs/2310.02892v1](http://arxiv.org/pdf/2310.02892v1)
 - 2023-10-03, **Detecting New Visual Binaries in Gaia DR3 with Gaia and 2MASS Photometry I. New Candidate Binaries Within 200 pc of the Sun**, Ilija Medan et.al., Paper: [http://arxiv.org/abs/2310.02256v1](http://arxiv.org/abs/2310.02256v1), Paper: [http://arxiv.org/abs/2310.02256v1](http://arxiv.org/pdf/2310.02256v1)
 - 2023-10-03, **High Angular Resolution Imaging of the V892 Tau Binary System: A New Circumprimary Disk Detection and Updated Orbital Constraints**, Christina Vides et.al., Paper: [http://arxiv.org/abs/2310.02241v1](http://arxiv.org/abs/2310.02241v1), Paper: [http://arxiv.org/abs/2310.02241v1](http://arxiv.org/pdf/2310.02241v1)
