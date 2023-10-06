@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-05**|**EFTofLSS meets simulation-based inference: $σ_8$ from biased tracers**|Beatriz Tucci et.al.|[2310.03741v1](http://arxiv.org/abs/2310.03741v1)|[2310.03741v1](http://arxiv.org/pdf/2310.03741v1)|null|
+|**2023-10-05**|**Bringing 2D Eclipse Mapping out of the Shadows with Leave-one-out Cross-validation**|Ryan C. Challener et.al.|[2310.03733v1](http://arxiv.org/abs/2310.03733v1)|[2310.03733v1](http://arxiv.org/pdf/2310.03733v1)|null|
+|**2023-10-05**|**Singlet-doublet fermion dark matter with Dirac neutrino mass, $(g-2)_μ$ and $ΔN_{\rm eff}$**|Debasish Borah et.al.|[2310.03721v1](http://arxiv.org/abs/2310.03721v1)|[2310.03721v1](http://arxiv.org/pdf/2310.03721v1)|null|
+|**2023-10-05**|**Methods for Incorporating Model Uncertainty into Exoplanet Atmospheric Analysis**|Matthew C. Nixon et.al.|[2310.03713v1](http://arxiv.org/abs/2310.03713v1)|[2310.03713v1](http://arxiv.org/pdf/2310.03713v1)|null|
+|**2023-10-05**|**Hadronic processes at work in 5BZB J0630-2406**|Gaëtan Fichet de Clairfontaine et.al.|[2310.03698v1](http://arxiv.org/abs/2310.03698v1)|[2310.03698v1](http://arxiv.org/pdf/2310.03698v1)|null|
+|**2023-10-05**|**The DECam Ecliptic Exploration Project (DEEP) VI: first multi-year observations of trans-Neptunian objects**|Hayden Smotherman et.al.|[2310.03678v1](http://arxiv.org/abs/2310.03678v1)|[2310.03678v1](http://arxiv.org/pdf/2310.03678v1)|null|
+|**2023-10-05**|**The DECam Ecliptic Exploration Project (DEEP) III: Survey characterization and simulation methods**|Pedro H. Bernardinelli et.al.|[2310.03671v1](http://arxiv.org/abs/2310.03671v1)|[2310.03671v1](http://arxiv.org/pdf/2310.03671v1)|null|
+|**2023-10-05**|**Investigating Gaia EDR3 parallax systematics using asteroseismology of Cool Giant Stars observed by Kepler, K2, and TESS II. Deciphering Gaia parallax systematics using red clump stars**|Saniya Khan et.al.|[2310.03654v1](http://arxiv.org/abs/2310.03654v1)|[2310.03654v1](http://arxiv.org/pdf/2310.03654v1)|null|
+|**2023-10-05**|**A combined LOFAR and XMM-Newton analysis of the disturbed cluster PSZ2G113.91-37.01**|M. G. Campitiello et.al.|[2310.03645v1](http://arxiv.org/abs/2310.03645v1)|[2310.03645v1](http://arxiv.org/pdf/2310.03645v1)|null|
+|**2023-10-05**|**New Directions for ALP Searches Combining Nuclear Reactors and Haloscopes**|Fernando Arias-Aragón et.al.|[2310.03631v1](http://arxiv.org/abs/2310.03631v1)|[2310.03631v1](http://arxiv.org/pdf/2310.03631v1)|null|
 |**2023-10-04**|**AstroCLIP: Cross-Modal Pre-Training for Astronomical Foundation Models**|Francois Lanusse et.al.|[2310.03024v1](http://arxiv.org/abs/2310.03024v1)|[2310.03024v1](http://arxiv.org/pdf/2310.03024v1)|null|
 |**2023-10-04**|**Effects of feedback-free starburst galaxies on the 21-cm signal and reionization history**|Sarah Libanore et.al.|[2310.03021v1](http://arxiv.org/abs/2310.03021v1)|[2310.03021v1](http://arxiv.org/pdf/2310.03021v1)|null|
 |**2023-10-04**|**FRAMEx IV: Mechanical Feedback from the Active Galactic Nucleus in NGC 3079**|Luis C. Fernandez et.al.|[2310.03019v1](http://arxiv.org/abs/2310.03019v1)|[2310.03019v1](http://arxiv.org/pdf/2310.03019v1)|null|
@@ -3229,6 +3239,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-05**|**Improved Baselines with Visual Instruction Tuning**|Haotian Liu et.al.|[2310.03744v1](http://arxiv.org/abs/2310.03744v1)|[2310.03744v1](http://arxiv.org/pdf/2310.03744v1)|null|
+|**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|[2310.03739v1](http://arxiv.org/pdf/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
+|**2023-10-05**|**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**|Ke Wang et.al.|[2310.03731v1](http://arxiv.org/abs/2310.03731v1)|[2310.03731v1](http://arxiv.org/pdf/2310.03731v1)|**[link](https://github.com/mathllm/mathcoder)**|
+|**2023-10-05**|**Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning**|Yihang Yao et.al.|[2310.03718v1](http://arxiv.org/abs/2310.03718v1)|[2310.03718v1](http://arxiv.org/pdf/2310.03718v1)|null|
+|**2023-10-05**|**Artificial Intelligence Index Report 2023**|Nestor Maslej et.al.|[2310.03715v1](http://arxiv.org/abs/2310.03715v1)|[2310.03715v1](http://arxiv.org/pdf/2310.03715v1)|null|
+|**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714v1](http://arxiv.org/abs/2310.03714v1)|[2310.03714v1](http://arxiv.org/pdf/2310.03714v1)|**[link](https://github.com/stanfordnlp/dspy)**|
+|**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710v1](http://arxiv.org/abs/2310.03710v1)|[2310.03710v1](http://arxiv.org/pdf/2310.03710v1)|**[link](https://github.com/wang-research-lab/agentinstruct)**|
+|**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708v1](http://arxiv.org/abs/2310.03708v1)|[2310.03708v1](http://arxiv.org/pdf/2310.03708v1)|null|
+|**2023-10-05**|**Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**|Xiangyu Qi et.al.|[2310.03693v1](http://arxiv.org/abs/2310.03693v1)|[2310.03693v1](http://arxiv.org/pdf/2310.03693v1)|null|
+|**2023-10-05**|**Probabilistic Generative Modeling for Procedural Roundabout Generation for Developing Countries**|Zarif Ikram et.al.|[2310.03687v1](http://arxiv.org/abs/2310.03687v1)|[2310.03687v1](http://arxiv.org/pdf/2310.03687v1)|null|
 |**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026v1](http://arxiv.org/abs/2310.03026v1)|[2310.03026v1](http://arxiv.org/pdf/2310.03026v1)|null|
 |**2023-10-04**|**Retrieval meets Long Context Large Language Models**|Peng Xu et.al.|[2310.03025v1](http://arxiv.org/abs/2310.03025v1)|[2310.03025v1](http://arxiv.org/pdf/2310.03025v1)|null|
 |**2023-10-04**|**AstroCLIP: Cross-Modal Pre-Training for Astronomical Foundation Models**|Francois Lanusse et.al.|[2310.03024v1](http://arxiv.org/abs/2310.03024v1)|[2310.03024v1](http://arxiv.org/pdf/2310.03024v1)|null|
