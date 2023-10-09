@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-06**|**Evidence for Spatial Separation of Galactic Dust Components**|Corwin Shiu et.al.|[2310.04410v1](http://arxiv.org/abs/2310.04410v1)|[2310.04410v1](http://arxiv.org/pdf/2310.04410v1)|null|
+|**2023-10-06**|**Seeding the CGM: How Satellites Populate the Cold Phase of Milky Way Halos**|Manami Roy et.al.|[2310.04404v1](http://arxiv.org/abs/2310.04404v1)|[2310.04404v1](http://arxiv.org/pdf/2310.04404v1)|null|
+|**2023-10-06**|**A CMB lensing analysis of the extended mass distribution of clusters**|Facundo Toscano et.al.|[2310.04387v1](http://arxiv.org/abs/2310.04387v1)|[2310.04387v1](http://arxiv.org/pdf/2310.04387v1)|null|
+|**2023-10-06**|**Supernova Remnants in the Irregular Galaxy NGC4449**|P. Frank Winkler et.al.|[2310.04382v1](http://arxiv.org/abs/2310.04382v1)|[2310.04382v1](http://arxiv.org/pdf/2310.04382v1)|null|
+|**2023-10-06**|**Rotation Curve Fitting Model**|Sophia Natalia Cisneros et.al.|[2310.04372v1](http://arxiv.org/abs/2310.04372v1)|[2310.04372v1](http://arxiv.org/pdf/2310.04372v1)|null|
+|**2023-10-06**|**First Adiabatic Invariant and the Brightness Temperature of Relativistic Jets**|Vasily Semyonovich Beskin et.al.|[2310.04370v1](http://arxiv.org/abs/2310.04370v1)|[2310.04370v1](http://arxiv.org/pdf/2310.04370v1)|null|
+|**2023-10-06**|**A Serverless Architecture for Efficient and Scalable Monte Carlo Markov Chain Computation**|Fabio Castagna et.al.|[2310.04346v1](http://arxiv.org/abs/2310.04346v1)|[2310.04346v1](http://arxiv.org/pdf/2310.04346v1)|null|
+|**2023-10-06**|**A detailed study of the polarisation convention of the Giant Metrewave Radio Telescope**|Poonam Chandra et.al.|[2310.04335v1](http://arxiv.org/abs/2310.04335v1)|[2310.04335v1](http://arxiv.org/pdf/2310.04335v1)|null|
+|**2023-10-06**|**Discriminating interacting dark energy models using Statefinder diagnostic**|Raul Carrasco et.al.|[2310.04324v1](http://arxiv.org/abs/2310.04324v1)|[2310.04324v1](http://arxiv.org/pdf/2310.04324v1)|null|
+|**2023-10-06**|**Living with a Red Dwarf: X-ray, UV, and Ca II Activity-Age Relationships of M Dwarfs**|Scott G. Engle et.al.|[2310.04302v1](http://arxiv.org/abs/2310.04302v1)|[2310.04302v1](http://arxiv.org/pdf/2310.04302v1)|null|
 |**2023-10-05**|**EFTofLSS meets simulation-based inference: $σ_8$ from biased tracers**|Beatriz Tucci et.al.|[2310.03741v1](http://arxiv.org/abs/2310.03741v1)|[2310.03741v1](http://arxiv.org/pdf/2310.03741v1)|null|
 |**2023-10-05**|**Bringing 2D Eclipse Mapping out of the Shadows with Leave-one-out Cross-validation**|Ryan C. Challener et.al.|[2310.03733v1](http://arxiv.org/abs/2310.03733v1)|[2310.03733v1](http://arxiv.org/pdf/2310.03733v1)|null|
 |**2023-10-05**|**Singlet-doublet fermion dark matter with Dirac neutrino mass, $(g-2)_μ$ and $ΔN_{\rm eff}$**|Debasish Borah et.al.|[2310.03721v1](http://arxiv.org/abs/2310.03721v1)|[2310.03721v1](http://arxiv.org/pdf/2310.03721v1)|null|
@@ -3243,6 +3253,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413v1](http://arxiv.org/abs/2310.04413v1)|[2310.04413v1](http://arxiv.org/pdf/2310.04413v1)|null|
+|**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407v1](http://arxiv.org/abs/2310.04407v1)|[2310.04407v1](http://arxiv.org/pdf/2310.04407v1)|null|
+|**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406v1](http://arxiv.org/abs/2310.04406v1)|[2310.04406v1](http://arxiv.org/pdf/2310.04406v1)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
+|**2023-10-06**|**The impact of high-dimensional phase space correlations on the beam dynamics in a linear accelerator**|A. Hoover et.al.|[2310.04403v1](http://arxiv.org/abs/2310.04403v1)|[2310.04403v1](http://arxiv.org/pdf/2310.04403v1)|null|
+|**2023-10-06**|**Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference**|Marvin Schmitt et.al.|[2310.04395v1](http://arxiv.org/abs/2310.04395v1)|[2310.04395v1](http://arxiv.org/pdf/2310.04395v1)|null|
+|**2023-10-06**|**Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications**|Abdullah Al Ishtiaq et.al.|[2310.04381v1](http://arxiv.org/abs/2310.04381v1)|[2310.04381v1](http://arxiv.org/pdf/2310.04381v1)|**[link](https://github.com/synsec-den/hermes-spec-to-fsm)**|
+|**2023-10-06**|**Confronting Reward Model Overoptimization with Constrained RLHF**|Ted Moskovitz et.al.|[2310.04373v1](http://arxiv.org/abs/2310.04373v1)|[2310.04373v1](http://arxiv.org/pdf/2310.04373v1)|null|
+|**2023-10-06**|**Computation of viscoelastic shear shock waves using finite volume schemes with artificial compressibility**|Harold Berjamin et.al.|[2310.04355v1](http://arxiv.org/abs/2310.04355v1)|[2310.04355v1](http://arxiv.org/pdf/2310.04355v1)|null|
+|**2023-10-06**|**A Language-Agent Approach to Formal Theorem-Proving**|Amitayush Thakur et.al.|[2310.04353v1](http://arxiv.org/abs/2310.04353v1)|[2310.04353v1](http://arxiv.org/pdf/2310.04353v1)|null|
+|**2023-10-06**|**Fair Feature Importance Scores for Interpreting Tree-Based Methods and Surrogates**|Camille Olivia Little et.al.|[2310.04352v1](http://arxiv.org/abs/2310.04352v1)|[2310.04352v1](http://arxiv.org/pdf/2310.04352v1)|null|
 |**2023-10-05**|**Improved Baselines with Visual Instruction Tuning**|Haotian Liu et.al.|[2310.03744v1](http://arxiv.org/abs/2310.03744v1)|[2310.03744v1](http://arxiv.org/pdf/2310.03744v1)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|[2310.03739v1](http://arxiv.org/pdf/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**|Ke Wang et.al.|[2310.03731v1](http://arxiv.org/abs/2310.03731v1)|[2310.03731v1](http://arxiv.org/pdf/2310.03731v1)|**[link](https://github.com/mathllm/mathcoder)**|
