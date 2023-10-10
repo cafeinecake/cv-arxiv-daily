@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-09**|**Trans-Planckian censorship constraints on properties and cosmological applications of axion-like fields**|David Shlivko et.al.|[2310.05901v1](http://arxiv.org/abs/2310.05901v1)|[2310.05901v1](http://arxiv.org/pdf/2310.05901v1)|null|
+|**2023-10-09**|**Solaris photometric survey: Search for circumbinary companions using eclipse timing variations**|Ayush Moharana et.al.|[2310.05890v1](http://arxiv.org/abs/2310.05890v1)|[2310.05890v1](http://arxiv.org/pdf/2310.05890v1)|null|
+|**2023-10-09**|**The Sun's Alfven Surface: Recent Insights and Prospects for the Polarimeter to Unify the Corona and Heliosphere (PUNCH)**|Steven R. Cranmer et.al.|[2310.05887v1](http://arxiv.org/abs/2310.05887v1)|[2310.05887v1](http://arxiv.org/pdf/2310.05887v1)|null|
+|**2023-10-09**|**The orbital period of the recurrent nova V2487 Oph revealed**|Pablo Rodríguez-Gil et.al.|[2310.05877v1](http://arxiv.org/abs/2310.05877v1)|[2310.05877v1](http://arxiv.org/pdf/2310.05877v1)|null|
+|**2023-10-09**|**Helium identification with LHCb**|LHCb collaboration et.al.|[2310.05864v1](http://arxiv.org/abs/2310.05864v1)|[2310.05864v1](http://arxiv.org/pdf/2310.05864v1)|null|
+|**2023-10-09**|**Optical features of rotating quintessential charged black holes in de-Sitter spacetime**|Saeed Ullah Khan et.al.|[2310.05860v1](http://arxiv.org/abs/2310.05860v1)|[2310.05860v1](http://arxiv.org/pdf/2310.05860v1)|null|
+|**2023-10-09**|**Modeling a Coronal Mass Ejection from an Extended Filament Channel. II. Interplanetary Propagation to 1 au**|Erika Palmerio et.al.|[2310.05846v1](http://arxiv.org/abs/2310.05846v1)|[2310.05846v1](http://arxiv.org/pdf/2310.05846v1)|null|
+|**2023-10-09**|**Observations of Multiphase, High-Velocity, Shocked Gas in the Vela Supernova Remnant**|Adam M. Ritchey et.al.|[2310.05834v1](http://arxiv.org/abs/2310.05834v1)|[2310.05834v1](http://arxiv.org/pdf/2310.05834v1)|null|
+|**2023-10-09**|**Unveiling the Intricate Symphony of Nonlinear Pulsation Mode Interactions in High-Amplitude $δ$ Scuti Stars**|Jia-Shu Niu et.al.|[2310.05831v1](http://arxiv.org/abs/2310.05831v1)|[2310.05831v1](http://arxiv.org/pdf/2310.05831v1)|null|
+|**2023-10-09**|**Radio pulsars resonantly accelerating electrons**|Zaza N. Osmanov et.al.|[2310.05830v1](http://arxiv.org/abs/2310.05830v1)|[2310.05830v1](http://arxiv.org/pdf/2310.05830v1)|null|
 |**2023-10-06**|**Evidence for Spatial Separation of Galactic Dust Components**|Corwin Shiu et.al.|[2310.04410v1](http://arxiv.org/abs/2310.04410v1)|[2310.04410v1](http://arxiv.org/pdf/2310.04410v1)|null|
 |**2023-10-06**|**Seeding the CGM: How Satellites Populate the Cold Phase of Milky Way Halos**|Manami Roy et.al.|[2310.04404v1](http://arxiv.org/abs/2310.04404v1)|[2310.04404v1](http://arxiv.org/pdf/2310.04404v1)|null|
 |**2023-10-06**|**A CMB lensing analysis of the extended mass distribution of clusters**|Facundo Toscano et.al.|[2310.04387v1](http://arxiv.org/abs/2310.04387v1)|[2310.04387v1](http://arxiv.org/pdf/2310.04387v1)|null|
@@ -3249,6 +3259,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-09**|**Grokking as Compression: A Nonlinear Complexity Perspective**|Ziming Liu et.al.|[2310.05918v1](http://arxiv.org/abs/2310.05918v1)|[2310.05918v1](http://arxiv.org/pdf/2310.05918v1)|null|
+|**2023-10-09**|**Interpreting CLIP's Image Representation via Text-Based Decomposition**|Yossi Gandelsman et.al.|[2310.05916v1](http://arxiv.org/abs/2310.05916v1)|[2310.05916v1](http://arxiv.org/pdf/2310.05916v1)|null|
+|**2023-10-09**|**FireAct: Toward Language Agent Fine-tuning**|Baian Chen et.al.|[2310.05915v1](http://arxiv.org/abs/2310.05915v1)|[2310.05915v1](http://arxiv.org/pdf/2310.05915v1)|null|
+|**2023-10-09**|**SALMON: Self-Alignment with Principle-Following Reward Models**|Zhiqing Sun et.al.|[2310.05910v1](http://arxiv.org/abs/2310.05910v1)|[2310.05910v1](http://arxiv.org/pdf/2310.05910v1)|null|
+|**2023-10-09**|**TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models**|Zuxin Liu et.al.|[2310.05905v1](http://arxiv.org/abs/2310.05905v1)|[2310.05905v1](http://arxiv.org/pdf/2310.05905v1)|null|
+|**2023-10-09**|**Lion Secretly Solves Constrained Optimization: As Lyapunov Predicts**|Lizhang Chen et.al.|[2310.05898v1](http://arxiv.org/abs/2310.05898v1)|[2310.05898v1](http://arxiv.org/pdf/2310.05898v1)|null|
+|**2023-10-09**|**Streaming Anchor Loss: Augmenting Supervision with Temporal Significance**|Utkarsh et.al.|[2310.05886v1](http://arxiv.org/abs/2310.05886v1)|[2310.05886v1](http://arxiv.org/pdf/2310.05886v1)|null|
+|**2023-10-09**|**A Meta-Learning Perspective on Transformers for Causal Language Modeling**|Xinbo Wu et.al.|[2310.05884v1](http://arxiv.org/abs/2310.05884v1)|[2310.05884v1](http://arxiv.org/pdf/2310.05884v1)|null|
+|**2023-10-09**|**Coarse-Graining Hamiltonian Systems Using WSINDy**|Daniel A. Messenger et.al.|[2310.05879v1](http://arxiv.org/abs/2310.05879v1)|[2310.05879v1](http://arxiv.org/pdf/2310.05879v1)|null|
+|**2023-10-09**|**AI Systems of Concern**|Kayla Matteucci et.al.|[2310.05876v1](http://arxiv.org/abs/2310.05876v1)|[2310.05876v1](http://arxiv.org/pdf/2310.05876v1)|null|
 |**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413v1](http://arxiv.org/abs/2310.04413v1)|[2310.04413v1](http://arxiv.org/pdf/2310.04413v1)|null|
 |**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407v1](http://arxiv.org/abs/2310.04407v1)|[2310.04407v1](http://arxiv.org/pdf/2310.04407v1)|null|
 |**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406v1](http://arxiv.org/abs/2310.04406v1)|[2310.04406v1](http://arxiv.org/pdf/2310.04406v1)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
