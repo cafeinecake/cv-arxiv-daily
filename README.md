@@ -1,4 +1,4 @@
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@
 |**2023-10-06**|**Rotation Curve Fitting Model**|Sophia Natalia Cisneros et.al.|[2310.04372v1](http://arxiv.org/abs/2310.04372v1)|[2310.04372v1](http://arxiv.org/pdf/2310.04372v1)|null|
 |**2023-10-06**|**First Adiabatic Invariant and the Brightness Temperature of Relativistic Jets**|Vasily Semyonovich Beskin et.al.|[2310.04370v1](http://arxiv.org/abs/2310.04370v1)|[2310.04370v1](http://arxiv.org/pdf/2310.04370v1)|null|
 |**2023-10-06**|**A Serverless Architecture for Efficient and Scalable Monte Carlo Markov Chain Computation**|Fabio Castagna et.al.|[2310.04346v1](http://arxiv.org/abs/2310.04346v1)|[2310.04346v1](http://arxiv.org/pdf/2310.04346v1)|null|
-|**2023-10-06**|**A detailed study of the polarisation convention of the Giant Metrewave Radio Telescope**|Poonam Chandra et.al.|[2310.04335v1](http://arxiv.org/abs/2310.04335v1)|[2310.04335v1](http://arxiv.org/pdf/2310.04335v1)|null|
+|**2023-10-09**|**A detailed study of the polarisation convention of the Giant Metrewave Radio Telescope**|Poonam Chandra et.al.|[2310.04335v2](http://arxiv.org/abs/2310.04335v2)|[2310.04335v2](http://arxiv.org/pdf/2310.04335v2)|null|
 |**2023-10-06**|**Discriminating interacting dark energy models using Statefinder diagnostic**|Raul Carrasco et.al.|[2310.04324v1](http://arxiv.org/abs/2310.04324v1)|[2310.04324v1](http://arxiv.org/pdf/2310.04324v1)|null|
 |**2023-10-06**|**Living with a Red Dwarf: X-ray, UV, and Ca II Activity-Age Relationships of M Dwarfs**|Scott G. Engle et.al.|[2310.04302v1](http://arxiv.org/abs/2310.04302v1)|[2310.04302v1](http://arxiv.org/pdf/2310.04302v1)|null|
 |**2023-10-05**|**EFTofLSS meets simulation-based inference: $σ_8$ from biased tracers**|Beatriz Tucci et.al.|[2310.03741v1](http://arxiv.org/abs/2310.03741v1)|[2310.03741v1](http://arxiv.org/pdf/2310.03741v1)|null|
