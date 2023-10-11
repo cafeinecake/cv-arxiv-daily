@@ -1,11 +1,11 @@
-> Updated on 2023.10.10
+> Updated on 2023.10.11
 
 ## Astrophysics
 
 - 2023-10-09, **Trans-Planckian censorship constraints on properties and cosmological applications of axion-like fields**, David Shlivko et.al., Paper: [http://arxiv.org/abs/2310.05901v1](http://arxiv.org/abs/2310.05901v1), Paper: [http://arxiv.org/abs/2310.05901v1](http://arxiv.org/pdf/2310.05901v1)
 - 2023-10-09, **Solaris photometric survey: Search for circumbinary companions using eclipse timing variations**, Ayush Moharana et.al., Paper: [http://arxiv.org/abs/2310.05890v1](http://arxiv.org/abs/2310.05890v1), Paper: [http://arxiv.org/abs/2310.05890v1](http://arxiv.org/pdf/2310.05890v1)
 - 2023-10-09, **The Sun's Alfven Surface: Recent Insights and Prospects for the Polarimeter to Unify the Corona and Heliosphere (PUNCH)**, Steven R. Cranmer et.al., Paper: [http://arxiv.org/abs/2310.05887v1](http://arxiv.org/abs/2310.05887v1), Paper: [http://arxiv.org/abs/2310.05887v1](http://arxiv.org/pdf/2310.05887v1)
-- 2023-10-09, **The orbital period of the recurrent nova V2487 Oph revealed**, Pablo Rodríguez-Gil et.al., Paper: [http://arxiv.org/abs/2310.05877v1](http://arxiv.org/abs/2310.05877v1), Paper: [http://arxiv.org/abs/2310.05877v1](http://arxiv.org/pdf/2310.05877v1)
+- 2023-10-10, **The orbital period of the recurrent nova V2487 Oph revealed**, Pablo Rodríguez-Gil et.al., Paper: [http://arxiv.org/abs/2310.05877v2](http://arxiv.org/abs/2310.05877v2), Paper: [http://arxiv.org/abs/2310.05877v2](http://arxiv.org/pdf/2310.05877v2)
 - 2023-10-09, **Helium identification with LHCb**, LHCb collaboration et.al., Paper: [http://arxiv.org/abs/2310.05864v1](http://arxiv.org/abs/2310.05864v1), Paper: [http://arxiv.org/abs/2310.05864v1](http://arxiv.org/pdf/2310.05864v1)
 - 2023-10-09, **Optical features of rotating quintessential charged black holes in de-Sitter spacetime**, Saeed Ullah Khan et.al., Paper: [http://arxiv.org/abs/2310.05860v1](http://arxiv.org/abs/2310.05860v1), Paper: [http://arxiv.org/abs/2310.05860v1](http://arxiv.org/pdf/2310.05860v1)
 - 2023-10-09, **Modeling a Coronal Mass Ejection from an Extended Filament Channel. II. Interplanetary Propagation to 1 au**, Erika Palmerio et.al., Paper: [http://arxiv.org/abs/2310.05846v1](http://arxiv.org/abs/2310.05846v1), Paper: [http://arxiv.org/abs/2310.05846v1](http://arxiv.org/pdf/2310.05846v1)
@@ -3256,7 +3256,7 @@
 ## AI
 
 - 2023-10-09, **Grokking as Compression: A Nonlinear Complexity Perspective**, Ziming Liu et.al., Paper: [http://arxiv.org/abs/2310.05918v1](http://arxiv.org/abs/2310.05918v1), Paper: [http://arxiv.org/abs/2310.05918v1](http://arxiv.org/pdf/2310.05918v1)
-- 2023-10-09, **Interpreting CLIP's Image Representation via Text-Based Decomposition**, Yossi Gandelsman et.al., Paper: [http://arxiv.org/abs/2310.05916v1](http://arxiv.org/abs/2310.05916v1), Paper: [http://arxiv.org/abs/2310.05916v1](http://arxiv.org/pdf/2310.05916v1)
+- 2023-10-10, **Interpreting CLIP's Image Representation via Text-Based Decomposition**, Yossi Gandelsman et.al., Paper: [http://arxiv.org/abs/2310.05916v2](http://arxiv.org/abs/2310.05916v2), Paper: [http://arxiv.org/abs/2310.05916v2](http://arxiv.org/pdf/2310.05916v2)
 - 2023-10-09, **FireAct: Toward Language Agent Fine-tuning**, Baian Chen et.al., Paper: [http://arxiv.org/abs/2310.05915v1](http://arxiv.org/abs/2310.05915v1), Paper: [http://arxiv.org/abs/2310.05915v1](http://arxiv.org/pdf/2310.05915v1)
 - 2023-10-09, **SALMON: Self-Alignment with Principle-Following Reward Models**, Zhiqing Sun et.al., Paper: [http://arxiv.org/abs/2310.05910v1](http://arxiv.org/abs/2310.05910v1), Paper: [http://arxiv.org/abs/2310.05910v1](http://arxiv.org/pdf/2310.05910v1)
 - 2023-10-09, **TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models**, Zuxin Liu et.al., Paper: [http://arxiv.org/abs/2310.05905v1](http://arxiv.org/abs/2310.05905v1), Paper: [http://arxiv.org/abs/2310.05905v1](http://arxiv.org/pdf/2310.05905v1)
