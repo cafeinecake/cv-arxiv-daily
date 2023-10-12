@@ -1,4 +1,4 @@
-> Updated on 2023.10.11
+> Updated on 2023.10.12
 
 ## Astrophysics
 
@@ -3270,7 +3270,7 @@
 - 2023-10-10, **Mistral 7B**, Albert Q. Jiang et.al., Paper: [http://arxiv.org/abs/2310.06825v1](http://arxiv.org/abs/2310.06825v1),Paper: [http://arxiv.org/abs/2310.06825v1](http://arxiv.org/pdf/2310.06825v1), Code: **[https://github.com/mistralai/mistral-src](https://github.com/mistralai/mistral-src)**
 - 2023-10-10, **The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets**, Samuel Marks et.al., Paper: [http://arxiv.org/abs/2310.06824v1](http://arxiv.org/abs/2310.06824v1), Paper: [http://arxiv.org/abs/2310.06824v1](http://arxiv.org/pdf/2310.06824v1)
 - 2023-10-10, **NECO: NEural Collapse Based Out-of-distribution detection**, Mouïn Ben Ammar et.al., Paper: [http://arxiv.org/abs/2310.06823v1](http://arxiv.org/abs/2310.06823v1), Paper: [http://arxiv.org/abs/2310.06823v1](http://arxiv.org/pdf/2310.06823v1)
-- 2023-10-10, **Advancing Transformer's Capabilities in Commonsense Reasoning**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2310.06803v1](http://arxiv.org/abs/2310.06803v1), Paper: [http://arxiv.org/abs/2310.06803v1](http://arxiv.org/pdf/2310.06803v1)
+- 2023-10-10, **Advancing Transformer's Capabilities in Commonsense Reasoning**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2310.06803v1](http://arxiv.org/abs/2310.06803v1),Paper: [http://arxiv.org/abs/2310.06803v1](http://arxiv.org/pdf/2310.06803v1), Code: **[https://github.com/bryanzhou008/advancing-commonsense-reasoning](https://github.com/bryanzhou008/advancing-commonsense-reasoning)**
 - 2023-10-10, **$f$-Policy Gradients: A General Framework for Goal Conditioned RL using $f$-Divergences**, Siddhant Agarwal et.al., Paper: [http://arxiv.org/abs/2310.06794v1](http://arxiv.org/abs/2310.06794v1), Paper: [http://arxiv.org/abs/2310.06794v1](http://arxiv.org/pdf/2310.06794v1)
 - 2023-10-10, **OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text**, Keiran Paster et.al., Paper: [http://arxiv.org/abs/2310.06786v1](http://arxiv.org/abs/2310.06786v1), Paper: [http://arxiv.org/abs/2310.06786v1](http://arxiv.org/pdf/2310.06786v1)
 - 2023-10-10, **A Supervised Embedding and Clustering Anomaly Detection method for classification of Mobile Network Faults**, R. Mosayebi et.al., Paper: [http://arxiv.org/abs/2310.06779v1](http://arxiv.org/abs/2310.06779v1), Paper: [http://arxiv.org/abs/2310.06779v1](http://arxiv.org/pdf/2310.06779v1)
