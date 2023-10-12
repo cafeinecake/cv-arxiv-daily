@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-11**|**Clouds and Clarity: Revisiting Atmospheric Feature Trends in Neptune-size Exoplanets**|Jonathan Brande et.al.|[2310.07714v1](http://arxiv.org/abs/2310.07714v1)|[2310.07714v1](http://arxiv.org/pdf/2310.07714v1)|null|
+|**2023-10-11**|**Dust depletion of of metals from local to distant galaxies II: Cosmic dust-to-metal ratio and dust composition**|Christina Konstantopoulou et.al.|[2310.07709v1](http://arxiv.org/abs/2310.07709v1)|[2310.07709v1](http://arxiv.org/pdf/2310.07709v1)|null|
+|**2023-10-11**|**The sulphur species in hot rocky exoplanet atmospheres**|L. J. Janssen et.al.|[2310.07701v1](http://arxiv.org/abs/2310.07701v1)|[2310.07701v1](http://arxiv.org/pdf/2310.07701v1)|null|
+|**2023-10-11**|**Strong lensing by galaxies: past highlights, current status, and future prospects**|Anowar J. Shajib et.al.|[2310.07695v1](http://arxiv.org/abs/2310.07695v1)|[2310.07695v1](http://arxiv.org/pdf/2310.07695v1)|null|
+|**2023-10-11**|**General backreaction force of cosmological bubble expansion**|Jun-Chen Wang et.al.|[2310.07691v1](http://arxiv.org/abs/2310.07691v1)|[2310.07691v1](http://arxiv.org/pdf/2310.07691v1)|null|
+|**2023-10-11**|**Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole**|Aviad Levis et.al.|[2310.07687v1](http://arxiv.org/abs/2310.07687v1)|[2310.07687v1](http://arxiv.org/pdf/2310.07687v1)|null|
+|**2023-10-11**|**Constraining Bianchi-I universe with Pantheon SNIa data**|Anshul Verma et.al.|[2310.07661v1](http://arxiv.org/abs/2310.07661v1)|[2310.07661v1](http://arxiv.org/pdf/2310.07661v1)|null|
+|**2023-10-11**|**RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors**|M. Rouble et.al.|[2310.07657v1](http://arxiv.org/abs/2310.07657v1)|[2310.07657v1](http://arxiv.org/pdf/2310.07657v1)|null|
+|**2023-10-11**|**Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Cross-correlation with Cosmic Microwave Background**|S. J. Nakoneczny et.al.|[2310.07642v1](http://arxiv.org/abs/2310.07642v1)|[2310.07642v1](http://arxiv.org/pdf/2310.07642v1)|null|
+|**2023-10-11**|**Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Angular Clustering of Radio Sources**|C. L. Hale et.al.|[2310.07627v1](http://arxiv.org/abs/2310.07627v1)|[2310.07627v1](http://arxiv.org/pdf/2310.07627v1)|null|
 |**2023-10-10**|**Impacts of the Local arm on the local circular velocity inferred from the Gaia DR3 young stars in the Milky Way**|Aisha S. Almannaei et.al.|[2310.06831v1](http://arxiv.org/abs/2310.06831v1)|[2310.06831v1](http://arxiv.org/pdf/2310.06831v1)|null|
 |**2023-10-10**|**Understanding the Broadband Emission Process of 3C 279 through Longterm Spectral Analysis**|Aminabi Thekkoth et.al.|[2310.06819v1](http://arxiv.org/abs/2310.06819v1)|[2310.06819v1](http://arxiv.org/pdf/2310.06819v1)|null|
 |**2023-10-10**|**3D simulations of the Archean Earth including photochemical haze profiles**|M. T. Mak et.al.|[2310.06818v1](http://arxiv.org/abs/2310.06818v1)|[2310.06818v1](http://arxiv.org/pdf/2310.06818v1)|null|
@@ -3269,6 +3279,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716v1](http://arxiv.org/abs/2310.07716v1)|[2310.07716v1](http://arxiv.org/pdf/2310.07716v1)|**[link](https://github.com/ericlee0224/pad)**|
+|**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|[2310.07713v1](http://arxiv.org/pdf/2310.07713v1)|null|
+|**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711v1](http://arxiv.org/abs/2310.07711v1)|[2310.07711v1](http://arxiv.org/pdf/2310.07711v1)|null|
+|**2023-10-11**|**Pixel State Value Network for Combined Prediction and Planning in Interactive Environments**|Sascha Rosbach et.al.|[2310.07706v1](http://arxiv.org/abs/2310.07706v1)|[2310.07706v1](http://arxiv.org/pdf/2310.07706v1)|null|
+|**2023-10-11**|**From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions**|Zhengfeng Lai et.al.|[2310.07699v1](http://arxiv.org/abs/2310.07699v1)|[2310.07699v1](http://arxiv.org/pdf/2310.07699v1)|null|
+|**2023-10-11**|**SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation**|Bo Pan et.al.|[2310.07698v1](http://arxiv.org/abs/2310.07698v1)|[2310.07698v1](http://arxiv.org/pdf/2310.07698v1)|null|
+|**2023-10-11**|**Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole**|Aviad Levis et.al.|[2310.07687v1](http://arxiv.org/abs/2310.07687v1)|[2310.07687v1](http://arxiv.org/pdf/2310.07687v1)|null|
+|**2023-10-11**|**Hypergraph Neural Networks through the Lens of Message Passing: A Common Perspective to Homophily and Architecture Design**|Lev Telyatnikov et.al.|[2310.07684v1](http://arxiv.org/abs/2310.07684v1)|[2310.07684v1](http://arxiv.org/pdf/2310.07684v1)|null|
+|**2023-10-11**|**Controllable Data Generation Via Iterative Data-Property Mutual Mappings**|Bo Pan et.al.|[2310.07683v1](http://arxiv.org/abs/2310.07683v1)|[2310.07683v1](http://arxiv.org/pdf/2310.07683v1)|null|
+|**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678v1](http://arxiv.org/abs/2310.07678v1)|[2310.07678v1](http://arxiv.org/pdf/2310.07678v1)|null|
 |**2023-10-10**|**Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning**|Kaustuv Mukherji et.al.|[2310.06835v1](http://arxiv.org/abs/2310.06835v1)|[2310.06835v1](http://arxiv.org/pdf/2310.06835v1)|null|
 |**2023-10-10**|**RoboHive: A Unified Framework for Robot Learning**|Vikash Kumar et.al.|[2310.06828v1](http://arxiv.org/abs/2310.06828v1)|[2310.06828v1](http://arxiv.org/pdf/2310.06828v1)|null|
 |**2023-10-10**|**Mistral 7B**|Albert Q. Jiang et.al.|[2310.06825v1](http://arxiv.org/abs/2310.06825v1)|[2310.06825v1](http://arxiv.org/pdf/2310.06825v1)|**[link](https://github.com/mistralai/mistral-src)**|
