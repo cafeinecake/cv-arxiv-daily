@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-12**|**Protoplanetary disks in $K_s$-band total intensity and polarized light**|Bin B. Ren et.al.|[2310.08589v1](http://arxiv.org/abs/2310.08589v1)|[2310.08589v1](http://arxiv.org/pdf/2310.08589v1)|null|
+|**2023-10-12**|**An extensively validated C/H/O/N chemical network for hot exoplanet disequilibrium chemistry**|R. Veillet et.al.|[2310.08561v1](http://arxiv.org/abs/2310.08561v1)|[2310.08561v1](http://arxiv.org/pdf/2310.08561v1)|null|
+|**2023-10-12**|**The quest of CMB spectral distortions to probe the scalar-induced gravitational wave background interpretation in PTA data**|Matteo Tagliazucchi et.al.|[2310.08527v1](http://arxiv.org/abs/2310.08527v1)|[2310.08527v1](http://arxiv.org/pdf/2310.08527v1)|null|
+|**2023-10-12**|**Recycled Dark Matter**|Thomas C. Gehrman et.al.|[2310.08526v1](http://arxiv.org/abs/2310.08526v1)|[2310.08526v1](http://arxiv.org/pdf/2310.08526v1)|null|
+|**2023-10-12**|**An enhanced abundance of bright galaxies in protocluster candidates at z~3-5**|Jun Toshikawa et.al.|[2310.08525v1](http://arxiv.org/abs/2310.08525v1)|[2310.08525v1](http://arxiv.org/pdf/2310.08525v1)|null|
+|**2023-10-12**|**Bottom-up dust nucleation theory in oxygen-rich evolved stars II. Magnesium and calcium aluminate clusters**|David Gobrecht et.al.|[2310.08521v1](http://arxiv.org/abs/2310.08521v1)|[2310.08521v1](http://arxiv.org/pdf/2310.08521v1)|null|
+|**2023-10-12**|**Revealing characteristics of dark GRB 150309A: dust extinguished or high-z?**|A. J. Castro-Tirado et.al.|[2310.08503v1](http://arxiv.org/abs/2310.08503v1)|[2310.08503v1](http://arxiv.org/pdf/2310.08503v1)|null|
+|**2023-10-12**|**Strengthening interacting agegraphic dark energy DGP constraints with supernovae and multimessenger forecastings**|Maribel Hernández et.al.|[2310.08502v1](http://arxiv.org/abs/2310.08502v1)|[2310.08502v1](http://arxiv.org/pdf/2310.08502v1)|null|
+|**2023-10-12**|**Progress towards ultracold Sr for the AION project -- sub-microkelvin atoms and an optical-heterodyne diagnostic tool for injection-locked laser diodes**|E. Pasatembou et.al.|[2310.08500v1](http://arxiv.org/abs/2310.08500v1)|[2310.08500v1](http://arxiv.org/pdf/2310.08500v1)|null|
+|**2023-10-12**|**Balancing ACT: weighing prior dependency and global tensions of DR6 lensing with other datasets**|A. N. Ormondroyd et.al.|[2310.08490v1](http://arxiv.org/abs/2310.08490v1)|[2310.08490v1](http://arxiv.org/pdf/2310.08490v1)|null|
 |**2023-10-11**|**Clouds and Clarity: Revisiting Atmospheric Feature Trends in Neptune-size Exoplanets**|Jonathan Brande et.al.|[2310.07714v1](http://arxiv.org/abs/2310.07714v1)|[2310.07714v1](http://arxiv.org/pdf/2310.07714v1)|null|
 |**2023-10-11**|**Dust depletion of of metals from local to distant galaxies II: Cosmic dust-to-metal ratio and dust composition**|Christina Konstantopoulou et.al.|[2310.07709v1](http://arxiv.org/abs/2310.07709v1)|[2310.07709v1](http://arxiv.org/pdf/2310.07709v1)|null|
 |**2023-10-11**|**The sulphur species in hot rocky exoplanet atmospheres**|L. J. Janssen et.al.|[2310.07701v1](http://arxiv.org/abs/2310.07701v1)|[2310.07701v1](http://arxiv.org/pdf/2310.07701v1)|null|
@@ -3279,6 +3289,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|[2310.08588v1](http://arxiv.org/pdf/2310.08588v1)|null|
+|**2023-10-12**|**Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**|Mengkang Hu et.al.|[2310.08582v1](http://arxiv.org/abs/2310.08582v1)|[2310.08582v1](http://arxiv.org/pdf/2310.08582v1)|null|
+|**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574v1](http://arxiv.org/abs/2310.08574v1)|[2310.08574v1](http://arxiv.org/pdf/2310.08574v1)|null|
+|**2023-10-12**|**A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings**|Judah Goldfeder et.al.|[2310.08569v1](http://arxiv.org/abs/2310.08569v1)|[2310.08569v1](http://arxiv.org/pdf/2310.08569v1)|null|
+|**2023-10-12**|**Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining**|Licong Lin et.al.|[2310.08566v1](http://arxiv.org/abs/2310.08566v1)|[2310.08566v1](http://arxiv.org/pdf/2310.08566v1)|null|
+|**2023-10-12**|**Security Considerations in AI-Robotics: A Survey of Current Methods, Challenges, and Opportunities**|Subash Neupane et.al.|[2310.08565v1](http://arxiv.org/abs/2310.08565v1)|[2310.08565v1](http://arxiv.org/pdf/2310.08565v1)|null|
+|**2023-10-12**|**MemGPT: Towards LLMs as Operating Systems**|Charles Packer et.al.|[2310.08560v1](http://arxiv.org/abs/2310.08560v1)|[2310.08560v1](http://arxiv.org/pdf/2310.08560v1)|null|
+|**2023-10-12**|**Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement**|Linlu Qiu et.al.|[2310.08559v1](http://arxiv.org/abs/2310.08559v1)|[2310.08559v1](http://arxiv.org/pdf/2310.08559v1)|null|
+|**2023-10-12**|**Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias**|Max Sobol Mark et.al.|[2310.08558v1](http://arxiv.org/abs/2310.08558v1)|[2310.08558v1](http://arxiv.org/pdf/2310.08558v1)|null|
+|**2023-10-12**|**Cross-Episodic Curriculum for Transformer Agents**|Lucy Xiaoyang Shi et.al.|[2310.08549v1](http://arxiv.org/abs/2310.08549v1)|[2310.08549v1](http://arxiv.org/pdf/2310.08549v1)|null|
 |**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716v1](http://arxiv.org/abs/2310.07716v1)|[2310.07716v1](http://arxiv.org/pdf/2310.07716v1)|**[link](https://github.com/ericlee0224/pad)**|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|[2310.07713v1](http://arxiv.org/pdf/2310.07713v1)|null|
 |**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711v1](http://arxiv.org/abs/2310.07711v1)|[2310.07711v1](http://arxiv.org/pdf/2310.07711v1)|null|
