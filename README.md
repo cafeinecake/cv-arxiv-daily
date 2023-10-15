@@ -1,4 +1,4 @@
-## Updated on 2023.10.14
+## Updated on 2023.10.15
 
 ## Astrophysics
 
@@ -3289,14 +3289,14 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|[2310.08588v1](http://arxiv.org/pdf/2310.08588v1)|null|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|[2310.08588v1](http://arxiv.org/pdf/2310.08588v1)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**|Mengkang Hu et.al.|[2310.08582v1](http://arxiv.org/abs/2310.08582v1)|[2310.08582v1](http://arxiv.org/pdf/2310.08582v1)|null|
 |**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574v1](http://arxiv.org/abs/2310.08574v1)|[2310.08574v1](http://arxiv.org/pdf/2310.08574v1)|null|
 |**2023-10-12**|**A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings**|Judah Goldfeder et.al.|[2310.08569v1](http://arxiv.org/abs/2310.08569v1)|[2310.08569v1](http://arxiv.org/pdf/2310.08569v1)|null|
 |**2023-10-12**|**Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining**|Licong Lin et.al.|[2310.08566v1](http://arxiv.org/abs/2310.08566v1)|[2310.08566v1](http://arxiv.org/pdf/2310.08566v1)|null|
 |**2023-10-12**|**Security Considerations in AI-Robotics: A Survey of Current Methods, Challenges, and Opportunities**|Subash Neupane et.al.|[2310.08565v1](http://arxiv.org/abs/2310.08565v1)|[2310.08565v1](http://arxiv.org/pdf/2310.08565v1)|null|
 |**2023-10-12**|**MemGPT: Towards LLMs as Operating Systems**|Charles Packer et.al.|[2310.08560v1](http://arxiv.org/abs/2310.08560v1)|[2310.08560v1](http://arxiv.org/pdf/2310.08560v1)|null|
-|**2023-10-12**|**Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement**|Linlu Qiu et.al.|[2310.08559v1](http://arxiv.org/abs/2310.08559v1)|[2310.08559v1](http://arxiv.org/pdf/2310.08559v1)|**[link](https://github.com/linlu-qiu/lm-inductive-reasoning)**|
+|**2023-10-12**|**Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement**|Linlu Qiu et.al.|[2310.08559v1](http://arxiv.org/abs/2310.08559v1)|[2310.08559v1](http://arxiv.org/pdf/2310.08559v1)|null|
 |**2023-10-12**|**Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias**|Max Sobol Mark et.al.|[2310.08558v1](http://arxiv.org/abs/2310.08558v1)|[2310.08558v1](http://arxiv.org/pdf/2310.08558v1)|**[link](https://github.com/MaxSobolMark/OOO)**|
 |**2023-10-12**|**Cross-Episodic Curriculum for Transformer Agents**|Lucy Xiaoyang Shi et.al.|[2310.08549v1](http://arxiv.org/abs/2310.08549v1)|[2310.08549v1](http://arxiv.org/pdf/2310.08549v1)|null|
 |**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716v1](http://arxiv.org/abs/2310.07716v1)|[2310.07716v1](http://arxiv.org/pdf/2310.07716v1)|**[link](https://github.com/ericlee0224/pad)**|
