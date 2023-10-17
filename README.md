@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-16**|**Exploring spin of ultralight dark matter with gravitational wave detectors**|Yusuke Manita et.al.|[2310.10646v1](http://arxiv.org/abs/2310.10646v1)|[2310.10646v1](http://arxiv.org/pdf/2310.10646v1)|null|
+|**2023-10-16**|**Delayed Massive-Star Mechanical Feedback at Low Metallicity**|Michelle C. Jecmen et.al.|[2310.10589v1](http://arxiv.org/abs/2310.10589v1)|[2310.10589v1](http://arxiv.org/pdf/2310.10589v1)|null|
+|**2023-10-16**|**Kerr-Taub-NUT spacetime to explain the jet power and the radiative efficiency of astrophysical black holes**|Bakhtiyor Narzilloev et.al.|[2310.10554v1](http://arxiv.org/abs/2310.10554v1)|[2310.10554v1](http://arxiv.org/pdf/2310.10554v1)|null|
+|**2023-10-16**|**Observation of GRB 221009A early afterglow in X/$γ$-ray energy band**|Chao Zheng et.al.|[2310.10522v1](http://arxiv.org/abs/2310.10522v1)|[2310.10522v1](http://arxiv.org/pdf/2310.10522v1)|null|
+|**2023-10-16**|**Reproducing Bayesian Posterior Distributions for Exoplanet Atmospheric Parameter Retrievals with a Machine Learning Surrogate Model**|Eyup B. Unlu et.al.|[2310.10521v1](http://arxiv.org/abs/2310.10521v1)|[2310.10521v1](http://arxiv.org/pdf/2310.10521v1)|null|
+|**2023-10-16**|**Wavelet-based image decomposition method for NuSTAR stray light background studies**|Andrey Mukhin et.al.|[2310.10516v1](http://arxiv.org/abs/2310.10516v1)|[2310.10516v1](http://arxiv.org/pdf/2310.10516v1)|null|
+|**2023-10-16**|**Active Asteroid 311P/PANSTARRS: Rotational Instability as the Origin of Multi-tails?**|Bin Liu et.al.|[2310.10455v1](http://arxiv.org/abs/2310.10455v1)|[2310.10455v1](http://arxiv.org/pdf/2310.10455v1)|null|
+|**2023-10-16**|**Searching for X-Ray Counterparts of Degree Wide TeV Halos Around Middle-Aged Pulsars with SRG/eROSITA**|A. Khokhriakova et.al.|[2310.10454v1](http://arxiv.org/abs/2310.10454v1)|[2310.10454v1](http://arxiv.org/pdf/2310.10454v1)|null|
+|**2023-10-16**|**Constraints on charged black holes from merger-ringdown signals in GWTC-3 and prospects for the Einstein Telescope**|Hua-Peng Gu et.al.|[2310.10447v1](http://arxiv.org/abs/2310.10447v1)|[2310.10447v1](http://arxiv.org/pdf/2310.10447v1)|null|
+|**2023-10-16**|**Spectral Properties of GX~339--4 in the Intermediate State Using AstroSat Observation**|Arghajit Jana et.al.|[2310.10444v1](http://arxiv.org/abs/2310.10444v1)|[2310.10444v1](http://arxiv.org/pdf/2310.10444v1)|null|
 |**2023-10-13**|**Rotation periods and colours of 10-m scale near-Earth asteroids from CFHT target of opportunity streak photometry**|B. T. Bolin et.al.|[2310.09290v1](http://arxiv.org/abs/2310.09290v1)|[2310.09290v1](http://arxiv.org/pdf/2310.09290v1)|null|
 |**2023-10-13**|**A halo model for cosmological Lyman-limit systems**|Tom Theuns et.al.|[2310.09228v1](http://arxiv.org/abs/2310.09228v1)|[2310.09228v1](http://arxiv.org/pdf/2310.09228v1)|null|
 |**2023-10-13**|**Early phases of star formation: testing chemical tools**|N. C. Martinez et.al.|[2310.09226v1](http://arxiv.org/abs/2310.09226v1)|[2310.09226v1](http://arxiv.org/pdf/2310.09226v1)|null|
@@ -3299,6 +3309,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648v1](http://arxiv.org/abs/2310.10648v1)|[2310.10648v1](http://arxiv.org/pdf/2310.10648v1)|null|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|[2310.10647v1](http://arxiv.org/pdf/2310.10647v1)|null|
+|**2023-10-16**|**Interactive Task Planning with Language Models**|Boyi Li et.al.|[2310.10645v1](http://arxiv.org/abs/2310.10645v1)|[2310.10645v1](http://arxiv.org/pdf/2310.10645v1)|null|
+|**2023-10-16**|**In-Context Pretraining: Language Modeling Beyond Document Boundaries**|Weijia Shi et.al.|[2310.10638v1](http://arxiv.org/abs/2310.10638v1)|[2310.10638v1](http://arxiv.org/pdf/2310.10638v1)|null|
+|**2023-10-16**|**Towards Scenario-based Safety Validation for Autonomous Trains with Deep Generative Models**|Thomas Decker et.al.|[2310.10635v1](http://arxiv.org/abs/2310.10635v1)|[2310.10635v1](http://arxiv.org/pdf/2310.10635v1)|null|
+|**2023-10-16**|**OpenAgents: An Open Platform for Language Agents in the Wild**|Tianbao Xie et.al.|[2310.10634v1](http://arxiv.org/abs/2310.10634v1)|[2310.10634v1](http://arxiv.org/pdf/2310.10634v1)|null|
+|**2023-10-16**|**BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology**|Odhran O'Donoghue et.al.|[2310.10632v1](http://arxiv.org/abs/2310.10632v1)|[2310.10632v1](http://arxiv.org/pdf/2310.10632v1)|null|
+|**2023-10-16**|**Llemma: An Open Language Model For Mathematics**|Zhangir Azerbayev et.al.|[2310.10631v1](http://arxiv.org/abs/2310.10631v1)|[2310.10631v1](http://arxiv.org/pdf/2310.10631v1)|null|
+|**2023-10-16**|**Factored Verification: Detecting and Reducing Hallucination in Summaries of Academic Papers**|Charlie George et.al.|[2310.10627v1](http://arxiv.org/abs/2310.10627v1)|[2310.10627v1](http://arxiv.org/pdf/2310.10627v1)|null|
+|**2023-10-16**|**Video Language Planning**|Yilun Du et.al.|[2310.10625v1](http://arxiv.org/abs/2310.10625v1)|[2310.10625v1](http://arxiv.org/pdf/2310.10625v1)|null|
 |**2023-10-13**|**Retro-fallback: retrosynthetic planning in an uncertain world**|Austin Tripp et.al.|[2310.09270v1](http://arxiv.org/abs/2310.09270v1)|[2310.09270v1](http://arxiv.org/pdf/2310.09270v1)|null|
 |**2023-10-13**|**Table-GPT: Table-tuned GPT for Diverse Table Tasks**|Peng Li et.al.|[2310.09263v1](http://arxiv.org/abs/2310.09263v1)|[2310.09263v1](http://arxiv.org/pdf/2310.09263v1)|null|
 |**2023-10-13**|**It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models**|Lin Chen et.al.|[2310.09250v1](http://arxiv.org/abs/2310.09250v1)|[2310.09250v1](http://arxiv.org/pdf/2310.09250v1)|null|
