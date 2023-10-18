@@ -1,4 +1,4 @@
-> Updated on 2023.10.17
+> Updated on 2023.10.18
 
 ## Astrophysics
 
@@ -3306,14 +3306,14 @@
 ## AI
 
 - 2023-10-16, **Step-by-Step Remediation of Students' Mathematical Mistakes**, Rose E. Wang et.al., Paper: [http://arxiv.org/abs/2310.10648v1](http://arxiv.org/abs/2310.10648v1), Paper: [http://arxiv.org/abs/2310.10648v1](http://arxiv.org/pdf/2310.10648v1)
-- 2023-10-16, **A Survey on Video Diffusion Models**, Zhen Xing et.al., Paper: [http://arxiv.org/abs/2310.10647v1](http://arxiv.org/abs/2310.10647v1), Paper: [http://arxiv.org/abs/2310.10647v1](http://arxiv.org/pdf/2310.10647v1)
+- 2023-10-16, **A Survey on Video Diffusion Models**, Zhen Xing et.al., Paper: [http://arxiv.org/abs/2310.10647v1](http://arxiv.org/abs/2310.10647v1),Paper: [http://arxiv.org/abs/2310.10647v1](http://arxiv.org/pdf/2310.10647v1), Code: **[https://github.com/ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**
 - 2023-10-16, **Interactive Task Planning with Language Models**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2310.10645v1](http://arxiv.org/abs/2310.10645v1), Paper: [http://arxiv.org/abs/2310.10645v1](http://arxiv.org/pdf/2310.10645v1)
 - 2023-10-16, **In-Context Pretraining: Language Modeling Beyond Document Boundaries**, Weijia Shi et.al., Paper: [http://arxiv.org/abs/2310.10638v1](http://arxiv.org/abs/2310.10638v1), Paper: [http://arxiv.org/abs/2310.10638v1](http://arxiv.org/pdf/2310.10638v1)
 - 2023-10-16, **Towards Scenario-based Safety Validation for Autonomous Trains with Deep Generative Models**, Thomas Decker et.al., Paper: [http://arxiv.org/abs/2310.10635v1](http://arxiv.org/abs/2310.10635v1), Paper: [http://arxiv.org/abs/2310.10635v1](http://arxiv.org/pdf/2310.10635v1)
-- 2023-10-16, **OpenAgents: An Open Platform for Language Agents in the Wild**, Tianbao Xie et.al., Paper: [http://arxiv.org/abs/2310.10634v1](http://arxiv.org/abs/2310.10634v1), Paper: [http://arxiv.org/abs/2310.10634v1](http://arxiv.org/pdf/2310.10634v1)
-- 2023-10-16, **BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology**, Odhran O'Donoghue et.al., Paper: [http://arxiv.org/abs/2310.10632v1](http://arxiv.org/abs/2310.10632v1), Paper: [http://arxiv.org/abs/2310.10632v1](http://arxiv.org/pdf/2310.10632v1)
-- 2023-10-16, **Llemma: An Open Language Model For Mathematics**, Zhangir Azerbayev et.al., Paper: [http://arxiv.org/abs/2310.10631v1](http://arxiv.org/abs/2310.10631v1), Paper: [http://arxiv.org/abs/2310.10631v1](http://arxiv.org/pdf/2310.10631v1)
-- 2023-10-16, **Factored Verification: Detecting and Reducing Hallucination in Summaries of Academic Papers**, Charlie George et.al., Paper: [http://arxiv.org/abs/2310.10627v1](http://arxiv.org/abs/2310.10627v1), Paper: [http://arxiv.org/abs/2310.10627v1](http://arxiv.org/pdf/2310.10627v1)
+- 2023-10-16, **OpenAgents: An Open Platform for Language Agents in the Wild**, Tianbao Xie et.al., Paper: [http://arxiv.org/abs/2310.10634v1](http://arxiv.org/abs/2310.10634v1),Paper: [http://arxiv.org/abs/2310.10634v1](http://arxiv.org/pdf/2310.10634v1), Code: **[https://github.com/xlang-ai/openagents](https://github.com/xlang-ai/openagents)**
+- 2023-10-16, **BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology**, Odhran O'Donoghue et.al., Paper: [http://arxiv.org/abs/2310.10632v1](http://arxiv.org/abs/2310.10632v1),Paper: [http://arxiv.org/abs/2310.10632v1](http://arxiv.org/pdf/2310.10632v1), Code: **[https://github.com/bioplanner/bioplanner](https://github.com/bioplanner/bioplanner)**
+- 2023-10-16, **Llemma: An Open Language Model For Mathematics**, Zhangir Azerbayev et.al., Paper: [http://arxiv.org/abs/2310.10631v1](http://arxiv.org/abs/2310.10631v1),Paper: [http://arxiv.org/abs/2310.10631v1](http://arxiv.org/pdf/2310.10631v1), Code: **[https://github.com/EleutherAI/math-lm](https://github.com/EleutherAI/math-lm)**
+- 2023-10-16, **Factored Verification: Detecting and Reducing Hallucination in Summaries of Academic Papers**, Charlie George et.al., Paper: [http://arxiv.org/abs/2310.10627v1](http://arxiv.org/abs/2310.10627v1),Paper: [http://arxiv.org/abs/2310.10627v1](http://arxiv.org/pdf/2310.10627v1), Code: **[https://github.com/elicit/fave-dataset](https://github.com/elicit/fave-dataset)**
 - 2023-10-16, **Video Language Planning**, Yilun Du et.al., Paper: [http://arxiv.org/abs/2310.10625v1](http://arxiv.org/abs/2310.10625v1), Paper: [http://arxiv.org/abs/2310.10625v1](http://arxiv.org/pdf/2310.10625v1)
 - 2023-10-13, **Retro-fallback: retrosynthetic planning in an uncertain world**, Austin Tripp et.al., Paper: [http://arxiv.org/abs/2310.09270v1](http://arxiv.org/abs/2310.09270v1), Paper: [http://arxiv.org/abs/2310.09270v1](http://arxiv.org/pdf/2310.09270v1)
 - 2023-10-13, **Table-GPT: Table-tuned GPT for Diverse Table Tasks**, Peng Li et.al., Paper: [http://arxiv.org/abs/2310.09263v1](http://arxiv.org/abs/2310.09263v1), Paper: [http://arxiv.org/abs/2310.09263v1](http://arxiv.org/pdf/2310.09263v1)
