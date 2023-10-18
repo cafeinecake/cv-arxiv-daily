@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-17**|**An empirical connection between line-emitting regions and X-rays heating the accretion disc in BH-LMXB MAXI J1820$+$070**|B. E. Tetarenko et.al.|[2310.11438v1](http://arxiv.org/abs/2310.11438v1)|[2310.11438v1](http://arxiv.org/pdf/2310.11438v1)|null|
+|**2023-10-17**|**Prebiotic Vitamin B$_3$ Synthesis in Carbonaceous Planetesimals**|Klaus Paschek et.al.|[2310.11433v1](http://arxiv.org/abs/2310.11433v1)|[2310.11433v1](http://arxiv.org/pdf/2310.11433v1)|null|
+|**2023-10-17**|**Induced Gravitational Waves from Non-attractor Inflation and NANOGrav data**|Amin Nassiri-Rad et.al.|[2310.11427v1](http://arxiv.org/abs/2310.11427v1)|[2310.11427v1](http://arxiv.org/pdf/2310.11427v1)|null|
+|**2023-10-17**|**A Full Accounting of the Visible Mass in SDSS MaNGA Disk Galaxies**|Nitya Ravi et.al.|[2310.11422v1](http://arxiv.org/abs/2310.11422v1)|[2310.11422v1](http://arxiv.org/pdf/2310.11422v1)|null|
+|**2023-10-17**|**Exploring Late-Time Cosmic Acceleration with EoS Parameterizations in Horava-Lifshitz Gravity via Baryon Acoustic Oscillations**|Madhur Khurana et.al.|[2310.11413v1](http://arxiv.org/abs/2310.11413v1)|[2310.11413v1](http://arxiv.org/pdf/2310.11413v1)|null|
+|**2023-10-17**|**Stellar mass-metallicity relation throughout the large-scale of the Universe: CAVITY mother sample**|Jesús Domínguez-Gómez et.al.|[2310.11412v1](http://arxiv.org/abs/2310.11412v1)|[2310.11412v1](http://arxiv.org/pdf/2310.11412v1)|null|
+|**2023-10-17**|**Updates on the FRi3D CME model in EUHFORIA**|Anwesha Maharana et.al.|[2310.11402v1](http://arxiv.org/abs/2310.11402v1)|[2310.11402v1](http://arxiv.org/pdf/2310.11402v1)|null|
+|**2023-10-17**|**Constraints on Axion-like Particles from the Observation of GRB 221009A by LHAASO**|Lin-Qing Gao et.al.|[2310.11391v1](http://arxiv.org/abs/2310.11391v1)|[2310.11391v1](http://arxiv.org/pdf/2310.11391v1)|null|
+|**2023-10-17**|**Irregular proton injection to high energies at interplanetary shocks**|Domenico Trotta et.al.|[2310.11390v1](http://arxiv.org/abs/2310.11390v1)|[2310.11390v1](http://arxiv.org/pdf/2310.11390v1)|null|
+|**2023-10-17**|**Shocking Sgr B2(N1) with its own outflow: A new perspective on segregation between O- and N-bearing molecules**|Laura A. Busch et.al.|[2310.11339v1](http://arxiv.org/abs/2310.11339v1)|[2310.11339v1](http://arxiv.org/pdf/2310.11339v1)|null|
 |**2023-10-16**|**Exploring spin of ultralight dark matter with gravitational wave detectors**|Yusuke Manita et.al.|[2310.10646v1](http://arxiv.org/abs/2310.10646v1)|[2310.10646v1](http://arxiv.org/pdf/2310.10646v1)|null|
 |**2023-10-16**|**Delayed Massive-Star Mechanical Feedback at Low Metallicity**|Michelle C. Jecmen et.al.|[2310.10589v1](http://arxiv.org/abs/2310.10589v1)|[2310.10589v1](http://arxiv.org/pdf/2310.10589v1)|null|
 |**2023-10-16**|**Kerr-Taub-NUT spacetime to explain the jet power and the radiative efficiency of astrophysical black holes**|Bakhtiyor Narzilloev et.al.|[2310.10554v1](http://arxiv.org/abs/2310.10554v1)|[2310.10554v1](http://arxiv.org/pdf/2310.10554v1)|null|
@@ -3313,6 +3323,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451v1](http://arxiv.org/abs/2310.11451v1)|[2310.11451v1](http://arxiv.org/pdf/2310.11451v1)|null|
+|**2023-10-17**|**Explaining Deep Neural Networks for Bearing Fault Detection with Vibration Concepts**|Thomas Decker et.al.|[2310.11450v1](http://arxiv.org/abs/2310.11450v1)|[2310.11450v1](http://arxiv.org/pdf/2310.11450v1)|null|
+|**2023-10-17**|**Functional Invariants to Watermark Large Transformers**|Fernandez Pierre et.al.|[2310.11446v1](http://arxiv.org/abs/2310.11446v1)|[2310.11446v1](http://arxiv.org/pdf/2310.11446v1)|null|
+|**2023-10-17**|**Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**|Jianwei Yang et.al.|[2310.11441v1](http://arxiv.org/abs/2310.11441v1)|[2310.11441v1](http://arxiv.org/pdf/2310.11441v1)|null|
+|**2023-10-17**|**Understanding deep neural networks through the lens of their non-linearity**|Quentin Bouniot et.al.|[2310.11439v1](http://arxiv.org/abs/2310.11439v1)|[2310.11439v1](http://arxiv.org/pdf/2310.11439v1)|null|
+|**2023-10-17**|**Identifying Interpretable Visual Features in Artificial and Biological Neural Systems**|David Klindt et.al.|[2310.11431v1](http://arxiv.org/abs/2310.11431v1)|[2310.11431v1](http://arxiv.org/pdf/2310.11431v1)|null|
+|**2023-10-17**|**High kinetic inductance NbTiN films for quantum limited travelling wave parametric amplifiers**|Felix Ahrens et.al.|[2310.11410v1](http://arxiv.org/abs/2310.11410v1)|[2310.11410v1](http://arxiv.org/pdf/2310.11410v1)|null|
+|**2023-10-17**|**Evaluating LLMs for Privilege-Escalation Scenarios**|Andreas Happe et.al.|[2310.11409v1](http://arxiv.org/abs/2310.11409v1)|[2310.11409v1](http://arxiv.org/pdf/2310.11409v1)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
+|**2023-10-17**|**Real-time data assimilation for the thermodynamic modeling of cryogenic storage tanks**|Pedro Afonso Marques et.al.|[2310.11399v1](http://arxiv.org/abs/2310.11399v1)|[2310.11399v1](http://arxiv.org/pdf/2310.11399v1)|null|
+|**2023-10-17**|**Neural Attention: Enhancing QKV Calculation in Self-Attention Mechanism with Neural Networks**|Muhan Zhang et.al.|[2310.11398v1](http://arxiv.org/abs/2310.11398v1)|[2310.11398v1](http://arxiv.org/pdf/2310.11398v1)|**[link](https://github.com/ocislyjrti/neuralattention)**|
 |**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648v1](http://arxiv.org/abs/2310.10648v1)|[2310.10648v1](http://arxiv.org/pdf/2310.10648v1)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|[2310.10647v1](http://arxiv.org/pdf/2310.10647v1)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**Interactive Task Planning with Language Models**|Boyi Li et.al.|[2310.10645v1](http://arxiv.org/abs/2310.10645v1)|[2310.10645v1](http://arxiv.org/pdf/2310.10645v1)|null|
