@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-18**|**The NANOGrav 15-year data set: Search for Transverse Polarization Modes in the Gravitational-Wave Background**|Gabriella Agazie et.al.|[2310.12138v1](http://arxiv.org/abs/2310.12138v1)|[2310.12138v1](http://arxiv.org/pdf/2310.12138v1)|null|
+|**2023-10-18**|**Are Switchback boundaries observed by Parker Solar Probe closed?**|Nina Bizien et.al.|[2310.12134v1](http://arxiv.org/abs/2310.12134v1)|[2310.12134v1](http://arxiv.org/pdf/2310.12134v1)|null|
+|**2023-10-18**|**Comprehensive High-resolution Chemical Spectroscopy of Barnard's Star with SPIRou**|Farbod Jahandar et.al.|[2310.12125v1](http://arxiv.org/abs/2310.12125v1)|[2310.12125v1](http://arxiv.org/pdf/2310.12125v1)|null|
+|**2023-10-18**|**Dissipationless collapse and the dynamical mass-ellipticity relation of elliptical galaxies in Newtonian gravity and MOND**|Pierfrancesco Di Cintio et.al.|[2310.12114v1](http://arxiv.org/abs/2310.12114v1)|[2310.12114v1](http://arxiv.org/pdf/2310.12114v1)|null|
+|**2023-10-18**|**New Black Hole Spin Values for Sagittarius A* Obtained with the Outflow Method**|Ruth A. Daly et.al.|[2310.12108v1](http://arxiv.org/abs/2310.12108v1)|[2310.12108v1](http://arxiv.org/pdf/2310.12108v1)|null|
+|**2023-10-18**|**Blind-search constraints on the sub-kiloparsec population of continuous gravitational-wave sources**|Rodrigo Tenorio et.al.|[2310.12097v1](http://arxiv.org/abs/2310.12097v1)|[2310.12097v1](http://arxiv.org/pdf/2310.12097v1)|null|
+|**2023-10-18**|**Ion kinetics of plasma interchange reconnection in the lower solar corona**|Vladimir Krasnoselskikh et.al.|[2310.12093v1](http://arxiv.org/abs/2310.12093v1)|[2310.12093v1](http://arxiv.org/pdf/2310.12093v1)|null|
+|**2023-10-18**|**Chemical Analysis of the Brightest Star of the Cetus II Ultra-Faint Dwarf Galaxy Candidate**|K. B. Webber et.al.|[2310.12090v1](http://arxiv.org/abs/2310.12090v1)|[2310.12090v1](http://arxiv.org/pdf/2310.12090v1)|null|
+|**2023-10-18**|**Ejecta Evolution Following a Planned Impact into an Asteroid: The First Five Weeks**|Theodore Kareta et.al.|[2310.12089v1](http://arxiv.org/abs/2310.12089v1)|[2310.12089v1](http://arxiv.org/pdf/2310.12089v1)|null|
+|**2023-10-18**|**Quantum Radio Astronomy: Data Encodings and Quantum Image Processing**|Thomas Brunet et.al.|[2310.12084v1](http://arxiv.org/abs/2310.12084v1)|[2310.12084v1](http://arxiv.org/pdf/2310.12084v1)|null|
 |**2023-10-17**|**An empirical connection between line-emitting regions and X-rays heating the accretion disc in BH-LMXB MAXI J1820$+$070**|B. E. Tetarenko et.al.|[2310.11438v1](http://arxiv.org/abs/2310.11438v1)|[2310.11438v1](http://arxiv.org/pdf/2310.11438v1)|null|
 |**2023-10-17**|**Prebiotic Vitamin B$_3$ Synthesis in Carbonaceous Planetesimals**|Klaus Paschek et.al.|[2310.11433v1](http://arxiv.org/abs/2310.11433v1)|[2310.11433v1](http://arxiv.org/pdf/2310.11433v1)|null|
 |**2023-10-17**|**Induced Gravitational Waves from Non-attractor Inflation and NANOGrav data**|Amin Nassiri-Rad et.al.|[2310.11427v1](http://arxiv.org/abs/2310.11427v1)|[2310.11427v1](http://arxiv.org/pdf/2310.11427v1)|null|
@@ -3323,6 +3333,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-18**|**Probabilistic Sampling of Balanced K-Means using Adiabatic Quantum Computing**|Jan-Nico Zaech et.al.|[2310.12153v1](http://arxiv.org/abs/2310.12153v1)|[2310.12153v1](http://arxiv.org/pdf/2310.12153v1)|null|
+|**2023-10-18**|**Fairer and More Accurate Tabular Models Through NAS**|Richeek Das et.al.|[2310.12145v1](http://arxiv.org/abs/2310.12145v1)|[2310.12145v1](http://arxiv.org/pdf/2310.12145v1)|null|
+|**2023-10-18**|**A comprehensible analysis of the efficacy of Ensemble Models for Bug Prediction**|Ingrid Marçal et.al.|[2310.12133v1](http://arxiv.org/abs/2310.12133v1)|[2310.12133v1](http://arxiv.org/pdf/2310.12133v1)|null|
+|**2023-10-18**|**Automated Attribute Extraction from Legal Proceedings**|Subinay Adhikary et.al.|[2310.12131v1](http://arxiv.org/abs/2310.12131v1)|[2310.12131v1](http://arxiv.org/pdf/2310.12131v1)|null|
+|**2023-10-18**|**DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**|Abhay Zala et.al.|[2310.12128v1](http://arxiv.org/abs/2310.12128v1)|[2310.12128v1](http://arxiv.org/pdf/2310.12128v1)|null|
+|**2023-10-18**|**SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks**|Mohammadreza Salehi et.al.|[2310.12126v1](http://arxiv.org/abs/2310.12126v1)|[2310.12126v1](http://arxiv.org/pdf/2310.12126v1)|null|
+|**2023-10-18**|**A Cautionary Tale: On the Role of Reference Data in Empirical Privacy Defenses**|Caelin G. Kaplan et.al.|[2310.12112v1](http://arxiv.org/abs/2310.12112v1)|[2310.12112v1](http://arxiv.org/pdf/2310.12112v1)|null|
+|**2023-10-18**|**DASA: Difficulty-Aware Semantic Augmentation for Speaker Verification**|Yuanyuan Wang et.al.|[2310.12111v1](http://arxiv.org/abs/2310.12111v1)|[2310.12111v1](http://arxiv.org/pdf/2310.12111v1)|null|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103v1](http://arxiv.org/abs/2310.12103v1)|[2310.12103v1](http://arxiv.org/pdf/2310.12103v1)|null|
+|**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100v1](http://arxiv.org/abs/2310.12100v1)|[2310.12100v1](http://arxiv.org/pdf/2310.12100v1)|null|
 |**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451v1](http://arxiv.org/abs/2310.11451v1)|[2310.11451v1](http://arxiv.org/pdf/2310.11451v1)|null|
 |**2023-10-17**|**Explaining Deep Neural Networks for Bearing Fault Detection with Vibration Concepts**|Thomas Decker et.al.|[2310.11450v1](http://arxiv.org/abs/2310.11450v1)|[2310.11450v1](http://arxiv.org/pdf/2310.11450v1)|null|
 |**2023-10-17**|**Functional Invariants to Watermark Large Transformers**|Fernandez Pierre et.al.|[2310.11446v1](http://arxiv.org/abs/2310.11446v1)|[2310.11446v1](http://arxiv.org/pdf/2310.11446v1)|null|
