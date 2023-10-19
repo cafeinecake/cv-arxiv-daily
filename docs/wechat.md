@@ -1,4 +1,4 @@
-> Updated on 2023.10.18
+> Updated on 2023.10.19
 
 ## Astrophysics
 
@@ -3320,8 +3320,8 @@
 - 2023-10-17, **Functional Invariants to Watermark Large Transformers**, Fernandez Pierre et.al., Paper: [http://arxiv.org/abs/2310.11446v1](http://arxiv.org/abs/2310.11446v1), Paper: [http://arxiv.org/abs/2310.11446v1](http://arxiv.org/pdf/2310.11446v1)
 - 2023-10-17, **Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**, Jianwei Yang et.al., Paper: [http://arxiv.org/abs/2310.11441v1](http://arxiv.org/abs/2310.11441v1), Paper: [http://arxiv.org/abs/2310.11441v1](http://arxiv.org/pdf/2310.11441v1)
 - 2023-10-17, **Understanding deep neural networks through the lens of their non-linearity**, Quentin Bouniot et.al., Paper: [http://arxiv.org/abs/2310.11439v1](http://arxiv.org/abs/2310.11439v1), Paper: [http://arxiv.org/abs/2310.11439v1](http://arxiv.org/pdf/2310.11439v1)
-- 2023-10-17, **Identifying Interpretable Visual Features in Artificial and Biological Neural Systems**, David Klindt et.al., Paper: [http://arxiv.org/abs/2310.11431v1](http://arxiv.org/abs/2310.11431v1), Paper: [http://arxiv.org/abs/2310.11431v1](http://arxiv.org/pdf/2310.11431v1)
-- 2023-10-17, **High kinetic inductance NbTiN films for quantum limited travelling wave parametric amplifiers**, Felix Ahrens et.al., Paper: [http://arxiv.org/abs/2310.11410v1](http://arxiv.org/abs/2310.11410v1), Paper: [http://arxiv.org/abs/2310.11410v1](http://arxiv.org/pdf/2310.11410v1)
+- 2023-10-18, **Identifying Interpretable Visual Features in Artificial and Biological Neural Systems**, David Klindt et.al., Paper: [http://arxiv.org/abs/2310.11431v2](http://arxiv.org/abs/2310.11431v2), Paper: [http://arxiv.org/abs/2310.11431v2](http://arxiv.org/pdf/2310.11431v2)
+- 2023-10-18, **High kinetic inductance NbTiN films for quantum limited travelling wave parametric amplifiers**, Federica Mantegazzini et.al., Paper: [http://arxiv.org/abs/2310.11410v2](http://arxiv.org/abs/2310.11410v2), Paper: [http://arxiv.org/abs/2310.11410v2](http://arxiv.org/pdf/2310.11410v2)
 - 2023-10-17, **Evaluating LLMs for Privilege-Escalation Scenarios**, Andreas Happe et.al., Paper: [http://arxiv.org/abs/2310.11409v1](http://arxiv.org/abs/2310.11409v1),Paper: [http://arxiv.org/abs/2310.11409v1](http://arxiv.org/pdf/2310.11409v1), Code: **[https://github.com/ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT)**
 - 2023-10-17, **Real-time data assimilation for the thermodynamic modeling of cryogenic storage tanks**, Pedro Afonso Marques et.al., Paper: [http://arxiv.org/abs/2310.11399v1](http://arxiv.org/abs/2310.11399v1), Paper: [http://arxiv.org/abs/2310.11399v1](http://arxiv.org/pdf/2310.11399v1)
 - 2023-10-17, **Neural Attention: Enhancing QKV Calculation in Self-Attention Mechanism with Neural Networks**, Muhan Zhang et.al., Paper: [http://arxiv.org/abs/2310.11398v1](http://arxiv.org/abs/2310.11398v1),Paper: [http://arxiv.org/abs/2310.11398v1](http://arxiv.org/pdf/2310.11398v1), Code: **[https://github.com/ocislyjrti/neuralattention](https://github.com/ocislyjrti/neuralattention)**
