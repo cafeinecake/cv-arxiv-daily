@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-20**|**A dark siren measurement of the Hubble constant using gravitational wave events from the first three LIGO/Virgo observing runs and DELVE**|V. Alfradique et.al.|[2310.13695v1](http://arxiv.org/abs/2310.13695v1)|[2310.13695v1](http://arxiv.org/pdf/2310.13695v1)|null|
+|**2023-10-20**|**Planet Gap-opening Feedback on Disk Thermal Structure and Composition**|Kan Chen et.al.|[2310.13690v1](http://arxiv.org/abs/2310.13690v1)|[2310.13690v1](http://arxiv.org/pdf/2310.13690v1)|null|
+|**2023-10-20**|**Light mass window of inert doublet dark matter with lepton portal interaction**|Ryo Higuchi et.al.|[2310.13685v1](http://arxiv.org/abs/2310.13685v1)|[2310.13685v1](http://arxiv.org/pdf/2310.13685v1)|null|
+|**2023-10-20**|**Intriguing Plasma Composition Pattern in a Solar Active Region: a Result of Non-Resonant Alfvén Waves?**|Teodora Mihailescu et.al.|[2310.13677v1](http://arxiv.org/abs/2310.13677v1)|[2310.13677v1](http://arxiv.org/pdf/2310.13677v1)|null|
+|**2023-10-20**|**Probing eccentric higher order modes through effective chirp mass model**|Ravikiran Hegde et.al.|[2310.13662v1](http://arxiv.org/abs/2310.13662v1)|[2310.13662v1](http://arxiv.org/pdf/2310.13662v1)|null|
+|**2023-10-20**|**Perturbative and semi-analytical solutions to Teukolsky equations for massive fermions**|Mattia Villani et.al.|[2310.13645v1](http://arxiv.org/abs/2310.13645v1)|[2310.13645v1](http://arxiv.org/pdf/2310.13645v1)|null|
+|**2023-10-20**|**Achieving Single-Electron Sensitivity at Enhanced Speed in Fully-Depleted CCDs with Double-Gate MOSFETs**|Miguel Sofo-Haro et.al.|[2310.13644v1](http://arxiv.org/abs/2310.13644v1)|[2310.13644v1](http://arxiv.org/pdf/2310.13644v1)|null|
+|**2023-10-20**|**How Pulsars Shine II: TeV emission**|Andrei Gruzinov et.al.|[2310.13638v1](http://arxiv.org/abs/2310.13638v1)|[2310.13638v1](http://arxiv.org/pdf/2310.13638v1)|null|
+|**2023-10-20**|**Evaluating Physically Motivated Loss Functions for Photometric Redshift Estimation**|Andrew Engel et.al.|[2310.13624v1](http://arxiv.org/abs/2310.13624v1)|[2310.13624v1](http://arxiv.org/pdf/2310.13624v1)|null|
+|**2023-10-20**|**A hot mini-Neptune and a temperate, highly eccentric sub-Saturn around the bright K-dwarf TOI-2134**|F. Rescigno et.al.|[2310.13623v1](http://arxiv.org/abs/2310.13623v1)|[2310.13623v1](http://arxiv.org/pdf/2310.13623v1)|null|
 |**2023-10-19**|**Consistently constraining $f_{\rm NL}$ with the squeezed lensing bispectrum using consistency relations**|Samuel Goldstein et.al.|[2310.12959v1](http://arxiv.org/abs/2310.12959v1)|[2310.12959v1](http://arxiv.org/pdf/2310.12959v1)|null|
 |**2023-10-19**|**Microphysics of Particle Reflection in Weibel-Mediated Shocks**|Jasmine Parsons et.al.|[2310.12950v1](http://arxiv.org/abs/2310.12950v1)|[2310.12950v1](http://arxiv.org/pdf/2310.12950v1)|null|
 |**2023-10-19**|**Clustering and physical properties of the star-forming galaxies and AGN: does assembly bias have a role in AGN activity?**|Amrita Banerjee et.al.|[2310.12943v1](http://arxiv.org/abs/2310.12943v1)|[2310.12943v1](http://arxiv.org/pdf/2310.12943v1)|null|
@@ -3339,6 +3349,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691v1](http://arxiv.org/abs/2310.13691v1)|[2310.13691v1](http://arxiv.org/pdf/2310.13691v1)|null|
+|**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682v1](http://arxiv.org/abs/2310.13682v1)|[2310.13682v1](http://arxiv.org/pdf/2310.13682v1)|**[link](https://github.com/mosheber/token_elimination)**|
+|**2023-10-20**|**Improving Long-form Speech Translation through Segmentation with Large Language Models and Finite State Decoding Constraints**|Arya D. McCarthy et.al.|[2310.13678v1](http://arxiv.org/abs/2310.13678v1)|[2310.13678v1](http://arxiv.org/pdf/2310.13678v1)|null|
+|**2023-10-20**|**Using Human-like Mechanism to Weaken Effect of Pre-training Weight Bias in Face-Recognition Convolutional Neural Network**|Haojiang Ying et.al.|[2310.13674v1](http://arxiv.org/abs/2310.13674v1)|[2310.13674v1](http://arxiv.org/pdf/2310.13674v1)|null|
+|**2023-10-20**|**Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models**|Ruida Wang et.al.|[2310.13671v1](http://arxiv.org/abs/2310.13671v1)|[2310.13671v1](http://arxiv.org/pdf/2310.13671v1)|**[link](https://github.com/rickyskywalker/synthesis_step-by-step_official)**|
+|**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670v1](http://arxiv.org/abs/2310.13670v1)|[2310.13670v1](http://arxiv.org/pdf/2310.13670v1)|null|
+|**2023-10-20**|**Automatic Unit Test Data Generation and Actor-Critic Reinforcement Learning for Code Synthesis**|Philip John Gorinski et.al.|[2310.13669v1](http://arxiv.org/abs/2310.13669v1)|[2310.13669v1](http://arxiv.org/pdf/2310.13669v1)|**[link](https://github.com/huawei-noah/noah-research)**|
+|**2023-10-20**|**EXPLORA: AI/ML EXPLainability for the Open RAN**|Claudio Fiandrino et.al.|[2310.13667v1](http://arxiv.org/abs/2310.13667v1)|[2310.13667v1](http://arxiv.org/pdf/2310.13667v1)|**[link](https://github.com/wineslab/explora)**|
+|**2023-10-20**|**An experimental study for early diagnosing Parkinson's disease using machine learning**|Md. Taufiqul Haque Khan Tusar et.al.|[2310.13654v1](http://arxiv.org/abs/2310.13654v1)|[2310.13654v1](http://arxiv.org/pdf/2310.13654v1)|null|
+|**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639v1](http://arxiv.org/abs/2310.13639v1)|[2310.13639v1](http://arxiv.org/pdf/2310.13639v1)|**[link](https://github.com/jhejna/cpl)**|
 |**2023-10-19**|**Variational Inference for SDEs Driven by Fractional Noise**|Rembert Daems et.al.|[2310.12975v1](http://arxiv.org/abs/2310.12975v1)|[2310.12975v1](http://arxiv.org/pdf/2310.12975v1)|null|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|[2310.12973v1](http://arxiv.org/pdf/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
 |**2023-10-19**|**Does Your Model Think Like an Engineer? Explainable AI for Bearing Fault Detection with Deep Learning**|Thomas Decker et.al.|[2310.12967v1](http://arxiv.org/abs/2310.12967v1)|[2310.12967v1](http://arxiv.org/pdf/2310.12967v1)|null|
