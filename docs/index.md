@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-23**|**Oxygen abundance of gamma Vel from [O III] 88um Herschel/PACS spectroscopy**|Paul A Crowther et.al.|[2310.15170v1](http://arxiv.org/abs/2310.15170v1)|[2310.15170v1](http://arxiv.org/pdf/2310.15170v1)|null|
+|**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162v1](http://arxiv.org/abs/2310.15162v1)|[2310.15162v1](http://arxiv.org/pdf/2310.15162v1)|null|
+|**2023-10-23**|**Ages and metallicities of stellar clusters using S-PLUS narrow-band integrated photometry: the Small Magellanic Cloud**|Gabriel Fabiano de Souza et.al.|[2310.15158v1](http://arxiv.org/abs/2310.15158v1)|[2310.15158v1](http://arxiv.org/pdf/2310.15158v1)|null|
+|**2023-10-23**|**A Realist Interpretation of Unitarity in Quantum Gravity**|Indrajit Sen et.al.|[2310.15157v1](http://arxiv.org/abs/2310.15157v1)|[2310.15157v1](http://arxiv.org/pdf/2310.15157v1)|null|
+|**2023-10-23**|**Hyperparameter optimization of hp-greedy reduced basis for gravitational wave surrogates**|Franco Cerino et.al.|[2310.15143v1](http://arxiv.org/abs/2310.15143v1)|[2310.15143v1](http://arxiv.org/pdf/2310.15143v1)|null|
+|**2023-10-23**|**Separated twins or just siblings? A multi-planet system around an M dwarf including a cool sub-Neptune**|Mallory Harris et.al.|[2310.15118v1](http://arxiv.org/abs/2310.15118v1)|[2310.15118v1](http://arxiv.org/pdf/2310.15118v1)|null|
+|**2023-10-23**|**Assembling a high-precision abundance catalogue of solar twins in GALAH for phylogenetic studies**|Kurt Walsen et.al.|[2310.15107v1](http://arxiv.org/abs/2310.15107v1)|[2310.15107v1](http://arxiv.org/pdf/2310.15107v1)|null|
+|**2023-10-23**|**HD152843 b & c: the masses and orbital periods of a sub-Neptune and a super-puff Neptune**|B. A. Nicholson et.al.|[2310.15068v1](http://arxiv.org/abs/2310.15068v1)|[2310.15068v1](http://arxiv.org/pdf/2310.15068v1)|null|
+|**2023-10-23**|**Constraining the cosmological model of modified $f(Q)$ gravity: Phantom dark energy and observational insights**|M. Koussour et.al.|[2310.15067v1](http://arxiv.org/abs/2310.15067v1)|[2310.15067v1](http://arxiv.org/pdf/2310.15067v1)|null|
+|**2023-10-23**|**Weak Lensing Reconstruction by Counting DECaLS Galaxies**|Jian Qin et.al.|[2310.15053v1](http://arxiv.org/abs/2310.15053v1)|[2310.15053v1](http://arxiv.org/pdf/2310.15053v1)|null|
 |**2023-10-20**|**A dark siren measurement of the Hubble constant using gravitational wave events from the first three LIGO/Virgo observing runs and DELVE**|V. Alfradique et.al.|[2310.13695v1](http://arxiv.org/abs/2310.13695v1)|[2310.13695v1](http://arxiv.org/pdf/2310.13695v1)|null|
 |**2023-10-20**|**Planet Gap-opening Feedback on Disk Thermal Structure and Composition**|Kan Chen et.al.|[2310.13690v1](http://arxiv.org/abs/2310.13690v1)|[2310.13690v1](http://arxiv.org/pdf/2310.13690v1)|null|
 |**2023-10-20**|**Light mass window of inert doublet dark matter with lepton portal interaction**|Ryo Higuchi et.al.|[2310.13685v1](http://arxiv.org/abs/2310.13685v1)|[2310.13685v1](http://arxiv.org/pdf/2310.13685v1)|null|
@@ -3353,6 +3363,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-23**|**Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition**|Sara Pieri et.al.|[2310.15165v1](http://arxiv.org/abs/2310.15165v1)|[2310.15165v1](http://arxiv.org/pdf/2310.15165v1)|**[link](https://github.com/sarapieri/fed_het)**|
+|**2023-10-23**|**LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**|Theo X. Olausson et.al.|[2310.15164v1](http://arxiv.org/abs/2310.15164v1)|[2310.15164v1](http://arxiv.org/pdf/2310.15164v1)|**[link](https://github.com/benlipkin/linc)**|
+|**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154v1](http://arxiv.org/abs/2310.15154v1)|[2310.15154v1](http://arxiv.org/pdf/2310.15154v1)|null|
+|**2023-10-23**|**Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number**|Sophie Hao et.al.|[2310.15151v1](http://arxiv.org/abs/2310.15151v1)|[2310.15151v1](http://arxiv.org/pdf/2310.15151v1)|null|
+|**2023-10-23**|**Physics informed neural networks learning a two-qubit Hamiltonian**|Leonardo K. Castelano et.al.|[2310.15148v1](http://arxiv.org/abs/2310.15148v1)|[2310.15148v1](http://arxiv.org/pdf/2310.15148v1)|null|
+|**2023-10-23**|**Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning**|Jingyun Yang et.al.|[2310.15145v1](http://arxiv.org/abs/2310.15145v1)|[2310.15145v1](http://arxiv.org/pdf/2310.15145v1)|null|
+|**2023-10-23**|**AutoDAN: Automatic and Interpretable Adversarial Attacks on Large Language Models**|Sicheng Zhu et.al.|[2310.15140v1](http://arxiv.org/abs/2310.15140v1)|[2310.15140v1](http://arxiv.org/pdf/2310.15140v1)|null|
+|**2023-10-23**|**Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models**|Gabriel Sarch et.al.|[2310.15127v1](http://arxiv.org/abs/2310.15127v1)|[2310.15127v1](http://arxiv.org/pdf/2310.15127v1)|null|
+|**2023-10-23**|**Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**|Swarnadeep Saha et.al.|[2310.15123v1](http://arxiv.org/abs/2310.15123v1)|[2310.15123v1](http://arxiv.org/pdf/2310.15123v1)|null|
+|**2023-10-23**|**Causal Inference Using LLM-Guided Discovery**|Aniket Vashishtha et.al.|[2310.15117v1](http://arxiv.org/abs/2310.15117v1)|[2310.15117v1](http://arxiv.org/pdf/2310.15117v1)|null|
 |**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691v1](http://arxiv.org/abs/2310.13691v1)|[2310.13691v1](http://arxiv.org/pdf/2310.13691v1)|null|
 |**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682v1](http://arxiv.org/abs/2310.13682v1)|[2310.13682v1](http://arxiv.org/pdf/2310.13682v1)|**[link](https://github.com/mosheber/token_elimination)**|
 |**2023-10-20**|**Improving Long-form Speech Translation through Segmentation with Large Language Models and Finite State Decoding Constraints**|Arya D. McCarthy et.al.|[2310.13678v1](http://arxiv.org/abs/2310.13678v1)|[2310.13678v1](http://arxiv.org/pdf/2310.13678v1)|null|
