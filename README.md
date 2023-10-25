@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-24**|**Tully-Fisher relation**|Khaled Said et.al.|[2310.16053v1](http://arxiv.org/abs/2310.16053v1)|[2310.16053v1](http://arxiv.org/pdf/2310.16053v1)|null|
+|**2023-10-24**|**LEM All-Sky Survey: Soft X-ray Sky at Microcalorimeter Resolution**|Ildar Khabibullin et.al.|[2310.16038v1](http://arxiv.org/abs/2310.16038v1)|[2310.16038v1](http://arxiv.org/pdf/2310.16038v1)|null|
+|**2023-10-24**|**Star Formation Efficiency in Nearby Galaxies Revealed with a New CO-to-H2 Conversion Factor Prescription**|Yu-Hsuan Teng et.al.|[2310.16037v1](http://arxiv.org/abs/2310.16037v1)|[2310.16037v1](http://arxiv.org/pdf/2310.16037v1)|null|
+|**2023-10-24**|**Retrievals of Protoplanetary Disk Parameters using Thermochemical Models: I. Disk Gas Mass from Hydrogen Deuteride Spectroscopy**|Young Min Seo et.al.|[2310.16026v1](http://arxiv.org/abs/2310.16026v1)|[2310.16026v1](http://arxiv.org/pdf/2310.16026v1)|null|
+|**2023-10-24**|**GW190521: a binary black hole merger inside an active galactic nucleus?**|Sophia Morton et.al.|[2310.16025v1](http://arxiv.org/abs/2310.16025v1)|[2310.16025v1](http://arxiv.org/pdf/2310.16025v1)|null|
+|**2023-10-24**|**Experimental measurement of the quality factor of a Fabry-Pérot open-cavity axion haloscope**|Juan F. Hernández-Cabrera et.al.|[2310.16013v1](http://arxiv.org/abs/2310.16013v1)|[2310.16013v1](http://arxiv.org/pdf/2310.16013v1)|null|
+|**2023-10-24**|**Searching for sub-populations within the gamma-ray solar flares catalog: a graph-based clustering analysis**|Jonathan Mauro et.al.|[2310.16011v1](http://arxiv.org/abs/2310.16011v1)|[2310.16011v1](http://arxiv.org/pdf/2310.16011v1)|null|
+|**2023-10-24**|**Cosmological Perturbation Theory in Metric-Affine Gravity**|Katsuki Aoki et.al.|[2310.16007v1](http://arxiv.org/abs/2310.16007v1)|[2310.16007v1](http://arxiv.org/pdf/2310.16007v1)|null|
+|**2023-10-24**|**Probing extreme black-hole outflows on short timescales via high spectral-resolution X-ray imagers**|Ciro Pinto et.al.|[2310.15997v1](http://arxiv.org/abs/2310.15997v1)|[2310.15997v1](http://arxiv.org/pdf/2310.15997v1)|null|
+|**2023-10-24**|**A New 2D Energy Balance Model For Simulating the Climates of Rapidly- and Slowly-Rotating Terrestrial Planets**|Ramses M. Ramirez et.al.|[2310.15992v1](http://arxiv.org/abs/2310.15992v1)|[2310.15992v1](http://arxiv.org/pdf/2310.15992v1)|null|
 |**2023-10-23**|**Oxygen abundance of gamma Vel from [O III] 88um Herschel/PACS spectroscopy**|Paul A Crowther et.al.|[2310.15170v1](http://arxiv.org/abs/2310.15170v1)|[2310.15170v1](http://arxiv.org/pdf/2310.15170v1)|null|
 |**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162v1](http://arxiv.org/abs/2310.15162v1)|[2310.15162v1](http://arxiv.org/pdf/2310.15162v1)|null|
 |**2023-10-23**|**Ages and metallicities of stellar clusters using S-PLUS narrow-band integrated photometry: the Small Magellanic Cloud**|Gabriel Fabiano de Souza et.al.|[2310.15158v1](http://arxiv.org/abs/2310.15158v1)|[2310.15158v1](http://arxiv.org/pdf/2310.15158v1)|null|
@@ -3359,6 +3369,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|[2310.16052v1](http://arxiv.org/pdf/2310.16052v1)|null|
+|**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048v1](http://arxiv.org/abs/2310.16048v1)|[2310.16048v1](http://arxiv.org/pdf/2310.16048v1)|null|
+|**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|[2310.16045v1](http://arxiv.org/pdf/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
+|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|[2310.16042v1](http://arxiv.org/pdf/2310.16042v1)|null|
+|**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|[2310.16040v1](http://arxiv.org/pdf/2310.16040v1)|null|
+|**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035v1](http://arxiv.org/abs/2310.16035v1)|[2310.16035v1](http://arxiv.org/pdf/2310.16035v1)|**[link](https://github.com/joyhsu0504/left)**|
+|**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029v1](http://arxiv.org/abs/2310.16029v1)|[2310.16029v1](http://arxiv.org/pdf/2310.16029v1)|null|
+|**2023-10-24**|**What Algorithms can Transformers Learn? A Study in Length Generalization**|Hattie Zhou et.al.|[2310.16028v1](http://arxiv.org/abs/2310.16028v1)|[2310.16028v1](http://arxiv.org/pdf/2310.16028v1)|null|
+|**2023-10-24**|**Human-in-the-Loop Task and Motion Planning for Imitation Learning**|Ajay Mandlekar et.al.|[2310.16014v1](http://arxiv.org/abs/2310.16014v1)|[2310.16014v1](http://arxiv.org/pdf/2310.16014v1)|null|
+|**2023-10-24**|**Machine-learning the phase diagram of a strongly-interacting Fermi gas**|M. Link et.al.|[2310.16006v1](http://arxiv.org/abs/2310.16006v1)|[2310.16006v1](http://arxiv.org/pdf/2310.16006v1)|null|
 |**2023-10-23**|**Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition**|Sara Pieri et.al.|[2310.15165v1](http://arxiv.org/abs/2310.15165v1)|[2310.15165v1](http://arxiv.org/pdf/2310.15165v1)|**[link](https://github.com/sarapieri/fed_het)**|
 |**2023-10-23**|**LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**|Theo X. Olausson et.al.|[2310.15164v1](http://arxiv.org/abs/2310.15164v1)|[2310.15164v1](http://arxiv.org/pdf/2310.15164v1)|**[link](https://github.com/benlipkin/linc)**|
 |**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154v1](http://arxiv.org/abs/2310.15154v1)|[2310.15154v1](http://arxiv.org/pdf/2310.15154v1)|null|
