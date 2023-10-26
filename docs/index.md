@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 
 ## Astrophysics
 
@@ -3376,7 +3376,7 @@ layout: default
 |**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|[2310.16052v1](http://arxiv.org/pdf/2310.16052v1)|null|
 |**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048v1](http://arxiv.org/abs/2310.16048v1)|[2310.16048v1](http://arxiv.org/pdf/2310.16048v1)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|[2310.16045v1](http://arxiv.org/pdf/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
-|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|[2310.16042v1](http://arxiv.org/pdf/2310.16042v1)|null|
+|**2023-10-25**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v2](http://arxiv.org/abs/2310.16042v2)|[2310.16042v2](http://arxiv.org/pdf/2310.16042v2)|null|
 |**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|[2310.16040v1](http://arxiv.org/pdf/2310.16040v1)|null|
 |**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035v1](http://arxiv.org/abs/2310.16035v1)|[2310.16035v1](http://arxiv.org/pdf/2310.16035v1)|**[link](https://github.com/joyhsu0504/left)**|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029v1](http://arxiv.org/abs/2310.16029v1)|[2310.16029v1](http://arxiv.org/pdf/2310.16029v1)|null|
