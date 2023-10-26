@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-25**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826v1](http://arxiv.org/abs/2310.16826v1)|[2310.16826v1](http://arxiv.org/pdf/2310.16826v1)|null|
+|**2023-10-25**|**Quasithermal GeV neutrinos from neutron-loaded magnetized outflows in core-collapse supernovae: spectra and light curves**|Jose Alonso Carpio et.al.|[2310.16823v1](http://arxiv.org/abs/2310.16823v1)|[2310.16823v1](http://arxiv.org/pdf/2310.16823v1)|null|
+|**2023-10-25**|**Uncovering a new group of T Tauri stars in the Taurus-Auriga molecular complex from Gaia and GALEX data**|Ana Inés Gómez de Castro et.al.|[2310.16820v1](http://arxiv.org/abs/2310.16820v1)|[2310.16820v1](http://arxiv.org/pdf/2310.16820v1)|null|
+|**2023-10-25**|**Can acoustic early dark energy still resolve the Hubble tension?**|Théo Simon et.al.|[2310.16800v1](http://arxiv.org/abs/2310.16800v1)|[2310.16800v1](http://arxiv.org/pdf/2310.16800v1)|null|
+|**2023-10-25**|**Measuring Supermassive Black Hole Properties via Gravitational Radiation from Eccentrically Orbiting Stellar Mass Black Hole Binaries**|Andrew Laeuger et.al.|[2310.16799v1](http://arxiv.org/abs/2310.16799v1)|[2310.16799v1](http://arxiv.org/pdf/2310.16799v1)|null|
+|**2023-10-25**|**Sky location of Galactic white dwarf binaries in space-based gravitational wave detection**|Pan Guo et.al.|[2310.16796v1](http://arxiv.org/abs/2310.16796v1)|[2310.16796v1](http://arxiv.org/pdf/2310.16796v1)|null|
+|**2023-10-25**|**The Simplest Inflationary Potentials**|Tomás Sousa et.al.|[2310.16786v1](http://arxiv.org/abs/2310.16786v1)|[2310.16786v1](http://arxiv.org/pdf/2310.16786v1)|null|
+|**2023-10-25**|**Spectral Background-Subtracted Activity Maps**|Carsten Denker et.al.|[2310.16747v1](http://arxiv.org/abs/2310.16747v1)|[2310.16747v1](http://arxiv.org/pdf/2310.16747v1)|null|
+|**2023-10-25**|**Breaking up with the continuous exoplanet mass-radius relation**|Kathryn Edmondson et.al.|[2310.16733v1](http://arxiv.org/abs/2310.16733v1)|[2310.16733v1](http://arxiv.org/pdf/2310.16733v1)|null|
+|**2023-10-25**|**STRAW-b (STRings for Absorption length in Water-b): the second pathfinder mission for the Pacific Ocean Neutrino Experiment**|Kilian Holzapfel et.al.|[2310.16714v1](http://arxiv.org/abs/2310.16714v1)|[2310.16714v1](http://arxiv.org/pdf/2310.16714v1)|null|
 |**2023-10-24**|**Tully-Fisher relation**|Khaled Said et.al.|[2310.16053v1](http://arxiv.org/abs/2310.16053v1)|[2310.16053v1](http://arxiv.org/pdf/2310.16053v1)|null|
 |**2023-10-24**|**LEM All-Sky Survey: Soft X-ray Sky at Microcalorimeter Resolution**|Ildar Khabibullin et.al.|[2310.16038v1](http://arxiv.org/abs/2310.16038v1)|[2310.16038v1](http://arxiv.org/pdf/2310.16038v1)|null|
 |**2023-10-24**|**Star Formation Efficiency in Nearby Galaxies Revealed with a New CO-to-H2 Conversion Factor Prescription**|Yu-Hsuan Teng et.al.|[2310.16037v1](http://arxiv.org/abs/2310.16037v1)|[2310.16037v1](http://arxiv.org/pdf/2310.16037v1)|null|
@@ -3369,6 +3379,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|[2310.16837v1](http://arxiv.org/pdf/2310.16837v1)|**[link](https://github.com/jiaxuanyou/dbgym)**|
+|**2023-10-25**|**LLM-FP4: 4-Bit Floating-Point Quantized Transformers**|Shih-yang Liu et.al.|[2310.16836v1](http://arxiv.org/abs/2310.16836v1)|[2310.16836v1](http://arxiv.org/pdf/2310.16836v1)|**[link](https://github.com/nbasyl/llm-fp4)**|
+|**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835v1](http://arxiv.org/abs/2310.16835v1)|[2310.16835v1](http://arxiv.org/pdf/2310.16835v1)|null|
+|**2023-10-25**|**TD-MPC2: Scalable, Robust World Models for Continuous Control**|Nicklas Hansen et.al.|[2310.16828v1](http://arxiv.org/abs/2310.16828v1)|[2310.16828v1](http://arxiv.org/pdf/2310.16828v1)|null|
+|**2023-10-25**|**Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction**|Xuming Hu et.al.|[2310.16822v1](http://arxiv.org/abs/2310.16822v1)|[2310.16822v1](http://arxiv.org/pdf/2310.16822v1)|null|
+|**2023-10-25**|**Manipulating Plasma Excitations with Terahertz Light Pulses in Superconducting Cuprates**|Jacopo Fiore et.al.|[2310.16815v1](http://arxiv.org/abs/2310.16815v1)|[2310.16815v1](http://arxiv.org/pdf/2310.16815v1)|null|
+|**2023-10-25**|**Can GPT models Follow Human Summarization Guidelines? Evaluating ChatGPT and GPT-4 for Dialogue Summarization**|Yongxin Zhou et.al.|[2310.16810v1](http://arxiv.org/abs/2310.16810v1)|[2310.16810v1](http://arxiv.org/pdf/2310.16810v1)|null|
+|**2023-10-25**|**Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances**|Zhendong Chu et.al.|[2310.16790v1](http://arxiv.org/abs/2310.16790v1)|[2310.16790v1](http://arxiv.org/pdf/2310.16790v1)|null|
+|**2023-10-25**|**The Data Provenance Initiative: A Large Scale Audit of Dataset Licensing & Attribution in AI**|Shayne Longpre et.al.|[2310.16787v1](http://arxiv.org/abs/2310.16787v1)|[2310.16787v1](http://arxiv.org/pdf/2310.16787v1)|null|
+|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v1](http://arxiv.org/abs/2310.16779v1)|[2310.16779v1](http://arxiv.org/pdf/2310.16779v1)|null|
 |**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|[2310.16052v1](http://arxiv.org/pdf/2310.16052v1)|null|
 |**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048v1](http://arxiv.org/abs/2310.16048v1)|[2310.16048v1](http://arxiv.org/pdf/2310.16048v1)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|[2310.16045v1](http://arxiv.org/pdf/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
