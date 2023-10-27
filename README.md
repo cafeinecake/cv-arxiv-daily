@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-26**|**Black hole formation in gravitational collapse and their astrophysical implications**|Annu Jaiswal et.al.|[2310.17647v1](http://arxiv.org/abs/2310.17647v1)|[2310.17647v1](http://arxiv.org/pdf/2310.17647v1)|null|
+|**2023-10-26**|**The metallicity dependence and evolutionary times of merging binary black holes: Combined constraints from individual gravitational-wave detections and the stochastic background**|Kevin Turbang et.al.|[2310.17625v1](http://arxiv.org/abs/2310.17625v1)|[2310.17625v1](http://arxiv.org/pdf/2310.17625v1)|null|
+|**2023-10-26**|**Mimicking two field inflationary features with a single field**|Anvy Moly Tom et.al.|[2310.17619v1](http://arxiv.org/abs/2310.17619v1)|[2310.17619v1](http://arxiv.org/pdf/2310.17619v1)|null|
+|**2023-10-26**|**Characterization of acetonitrile ice irradiated by X-rays employing the PROCODA code: II. Desorption processes**|G. A. Carvalho et.al.|[2310.17604v1](http://arxiv.org/abs/2310.17604v1)|[2310.17604v1](http://arxiv.org/pdf/2310.17604v1)|null|
+|**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602v1](http://arxiv.org/abs/2310.17602v1)|[2310.17602v1](http://arxiv.org/pdf/2310.17602v1)|null|
+|**2023-10-26**|**Gravitational lensing for interstellar power transmission**|Slava G. Turyshev et.al.|[2310.17578v1](http://arxiv.org/abs/2310.17578v1)|[2310.17578v1](http://arxiv.org/pdf/2310.17578v1)|null|
+|**2023-10-26**|**Synthetic Detections of Interstellar Objects with The Rubin Observatory Legacy Survey of Space and Time**|Dušan Marčeta et.al.|[2310.17575v1](http://arxiv.org/abs/2310.17575v1)|[2310.17575v1](http://arxiv.org/pdf/2310.17575v1)|null|
+|**2023-10-26**|**Wave transformations near a coronal magnetic null-point**|Nitin Yadav et.al.|[2310.17573v1](http://arxiv.org/abs/2310.17573v1)|[2310.17573v1](http://arxiv.org/pdf/2310.17573v1)|null|
+|**2023-10-26**|**Breakthroughs in Cool Star Physics with the Line Emission Mapper X-ray Probe**|Jeremy J. Drake et.al.|[2310.17563v1](http://arxiv.org/abs/2310.17563v1)|[2310.17563v1](http://arxiv.org/pdf/2310.17563v1)|null|
+|**2023-10-26**|**Pitch-Angle Anisotropy Imprinted by Relativistic Magnetic Reconnection**|Luca Comisso et.al.|[2310.17560v1](http://arxiv.org/abs/2310.17560v1)|[2310.17560v1](http://arxiv.org/pdf/2310.17560v1)|null|
 |**2023-10-26**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826v2](http://arxiv.org/abs/2310.16826v2)|[2310.16826v2](http://arxiv.org/pdf/2310.16826v2)|null|
 |**2023-10-25**|**Quasithermal GeV neutrinos from neutron-loaded magnetized outflows in core-collapse supernovae: spectra and light curves**|Jose Alonso Carpio et.al.|[2310.16823v1](http://arxiv.org/abs/2310.16823v1)|[2310.16823v1](http://arxiv.org/pdf/2310.16823v1)|null|
 |**2023-10-25**|**Uncovering a new group of T Tauri stars in the Taurus-Auriga molecular complex from Gaia and GALEX data**|Ana Inés Gómez de Castro et.al.|[2310.16820v1](http://arxiv.org/abs/2310.16820v1)|[2310.16820v1](http://arxiv.org/pdf/2310.16820v1)|null|
@@ -3379,6 +3389,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-26**|**Defending Against Transfer Attacks From Public Models**|Chawin Sitawarin et.al.|[2310.17645v1](http://arxiv.org/abs/2310.17645v1)|[2310.17645v1](http://arxiv.org/pdf/2310.17645v1)|**[link](https://github.com/wagner-group/pubdef)**|
+|**2023-10-26**|**In-Context Learning Dynamics with Random Binary Sequences**|Eric J. Bigelow et.al.|[2310.17639v1](http://arxiv.org/abs/2310.17639v1)|[2310.17639v1](http://arxiv.org/pdf/2310.17639v1)|null|
+|**2023-10-26**|**Grow Your Limits: Continuous Improvement with Real-World RL for Robotic Locomotion**|Laura Smith et.al.|[2310.17634v1](http://arxiv.org/abs/2310.17634v1)|[2310.17634v1](http://arxiv.org/pdf/2310.17634v1)|null|
+|**2023-10-26**|**JudgeLM: Fine-tuned Large Language Models are Scalable Judges**|Lianghui Zhu et.al.|[2310.17631v1](http://arxiv.org/abs/2310.17631v1)|[2310.17631v1](http://arxiv.org/pdf/2310.17631v1)|**[link](https://github.com/baaivision/judgelm)**|
+|**2023-10-26**|**Using State-of-the-Art Speech Models to Evaluate Oral Reading Fluency in Ghana**|Owen Henkel et.al.|[2310.17606v1](http://arxiv.org/abs/2310.17606v1)|[2310.17606v1](http://arxiv.org/pdf/2310.17606v1)|null|
+|**2023-10-26**|**MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations**|Ajay Mandlekar et.al.|[2310.17596v1](http://arxiv.org/abs/2310.17596v1)|[2310.17596v1](http://arxiv.org/pdf/2310.17596v1)|null|
+|**2023-10-26**|**SPA: A Graph Spectral Alignment Perspective for Domain Adaptation**|Zhiqing Xiao et.al.|[2310.17594v1](http://arxiv.org/abs/2310.17594v1)|[2310.17594v1](http://arxiv.org/pdf/2310.17594v1)|null|
+|**2023-10-26**|**An Open Source Data Contamination Report for Llama Series Models**|Yucheng Li et.al.|[2310.17589v1](http://arxiv.org/abs/2310.17589v1)|[2310.17589v1](http://arxiv.org/pdf/2310.17589v1)|**[link](https://github.com/liyucheng09/contamination_detector)**|
+|**2023-10-26**|**Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models**|Dingli Yu et.al.|[2310.17567v1](http://arxiv.org/abs/2310.17567v1)|[2310.17567v1](http://arxiv.org/pdf/2310.17567v1)|null|
+|**2023-10-26**|**Bifurcations and loss jumps in RNN training**|Lukas Eisenmann et.al.|[2310.17561v1](http://arxiv.org/abs/2310.17561v1)|[2310.17561v1](http://arxiv.org/pdf/2310.17561v1)|null|
 |**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|[2310.16837v1](http://arxiv.org/pdf/2310.16837v1)|**[link](https://github.com/jiaxuanyou/dbgym)**|
 |**2023-10-25**|**LLM-FP4: 4-Bit Floating-Point Quantized Transformers**|Shih-yang Liu et.al.|[2310.16836v1](http://arxiv.org/abs/2310.16836v1)|[2310.16836v1](http://arxiv.org/pdf/2310.16836v1)|**[link](https://github.com/nbasyl/llm-fp4)**|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835v1](http://arxiv.org/abs/2310.16835v1)|[2310.16835v1](http://arxiv.org/pdf/2310.16835v1)|null|
