@@ -1,4 +1,4 @@
-> Updated on 2023.10.29
+> Updated on 2023.10.30
 
 ## Astrophysics
 
@@ -3391,7 +3391,7 @@
 - 2023-10-26, **JudgeLM: Fine-tuned Large Language Models are Scalable Judges**, Lianghui Zhu et.al., Paper: [http://arxiv.org/abs/2310.17631v1](http://arxiv.org/abs/2310.17631v1),Paper: [http://arxiv.org/abs/2310.17631v1](http://arxiv.org/pdf/2310.17631v1), Code: **[https://github.com/baaivision/judgelm](https://github.com/baaivision/judgelm)**
 - 2023-10-26, **Using State-of-the-Art Speech Models to Evaluate Oral Reading Fluency in Ghana**, Owen Henkel et.al., Paper: [http://arxiv.org/abs/2310.17606v1](http://arxiv.org/abs/2310.17606v1), Paper: [http://arxiv.org/abs/2310.17606v1](http://arxiv.org/pdf/2310.17606v1)
 - 2023-10-26, **MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations**, Ajay Mandlekar et.al., Paper: [http://arxiv.org/abs/2310.17596v1](http://arxiv.org/abs/2310.17596v1), Paper: [http://arxiv.org/abs/2310.17596v1](http://arxiv.org/pdf/2310.17596v1)
-- 2023-10-26, **SPA: A Graph Spectral Alignment Perspective for Domain Adaptation**, Zhiqing Xiao et.al., Paper: [http://arxiv.org/abs/2310.17594v1](http://arxiv.org/abs/2310.17594v1), Paper: [http://arxiv.org/abs/2310.17594v1](http://arxiv.org/pdf/2310.17594v1)
+- 2023-10-27, **SPA: A Graph Spectral Alignment Perspective for Domain Adaptation**, Zhiqing Xiao et.al., Paper: [http://arxiv.org/abs/2310.17594v2](http://arxiv.org/abs/2310.17594v2), Paper: [http://arxiv.org/abs/2310.17594v2](http://arxiv.org/pdf/2310.17594v2)
 - 2023-10-26, **An Open Source Data Contamination Report for Llama Series Models**, Yucheng Li et.al., Paper: [http://arxiv.org/abs/2310.17589v1](http://arxiv.org/abs/2310.17589v1),Paper: [http://arxiv.org/abs/2310.17589v1](http://arxiv.org/pdf/2310.17589v1), Code: **[https://github.com/liyucheng09/contamination_detector](https://github.com/liyucheng09/contamination_detector)**
 - 2023-10-26, **Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models**, Dingli Yu et.al., Paper: [http://arxiv.org/abs/2310.17567v1](http://arxiv.org/abs/2310.17567v1), Paper: [http://arxiv.org/abs/2310.17567v1](http://arxiv.org/pdf/2310.17567v1)
 - 2023-10-26, **Bifurcations and loss jumps in RNN training**, Lukas Eisenmann et.al., Paper: [http://arxiv.org/abs/2310.17561v1](http://arxiv.org/abs/2310.17561v1), Paper: [http://arxiv.org/abs/2310.17561v1](http://arxiv.org/pdf/2310.17561v1)
