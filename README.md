@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-27**|**The physical origins of gas in the circumgalactic medium using observationally-motivated TNG50 mocks**|Simon Weng et.al.|[2310.18310v1](http://arxiv.org/abs/2310.18310v1)|[2310.18310v1](http://arxiv.org/pdf/2310.18310v1)|null|
+|**2023-10-27**|**Impact of Property Covariance on Cluster Weak lensing Scaling Relations**|Zhuowen Zhang et.al.|[2310.18266v1](http://arxiv.org/abs/2310.18266v1)|[2310.18266v1](http://arxiv.org/pdf/2310.18266v1)|null|
+|**2023-10-27**|**The Milky Way in Context: Building an integral-field spectrograph data cube of the Galaxy**|Zixian Wang et.al.|[2310.18258v1](http://arxiv.org/abs/2310.18258v1)|[2310.18258v1](http://arxiv.org/pdf/2310.18258v1)|null|
+|**2023-10-27**|**TeV neutrinos and hard X-rays from relativistic reconnection in the corona of NGC 1068**|Damiano F. G. Fiorillo et.al.|[2310.18254v1](http://arxiv.org/abs/2310.18254v1)|[2310.18254v1](http://arxiv.org/pdf/2310.18254v1)|null|
+|**2023-10-27**|**Effects of general relativity on habitable zone particles under the presence of an inner perturber around solar-mass stars**|Coronel Carla Florencia et.al.|[2310.18253v1](http://arxiv.org/abs/2310.18253v1)|[2310.18253v1](http://arxiv.org/pdf/2310.18253v1)|null|
+|**2023-10-27**|**Dynamical feasibility of (3) Juno as a parent body of the H chondrites**|John W. Noonan et.al.|[2310.18252v1](http://arxiv.org/abs/2310.18252v1)|[2310.18252v1](http://arxiv.org/pdf/2310.18252v1)|null|
+|**2023-10-27**|**Understanding Shape and Centroid Deviations in 39 Strong Lensing Galaxy Clusters in Various Dynamical States**|Raven Gassis et.al.|[2310.18250v1](http://arxiv.org/abs/2310.18250v1)|[2310.18250v1](http://arxiv.org/pdf/2310.18250v1)|null|
+|**2023-10-27**|**SWASTi-CME: A physics-based model to study CME evolution and its interaction with Solar Wind**|Prateek Mayank et.al.|[2310.18219v1](http://arxiv.org/abs/2310.18219v1)|[2310.18219v1](http://arxiv.org/pdf/2310.18219v1)|null|
+|**2023-10-27**|**Phase-space entropy cascade and irreversibility of stochastic heating in nearly collisionless plasma turbulence**|Michael L. Nastac et.al.|[2310.18211v1](http://arxiv.org/abs/2310.18211v1)|[2310.18211v1](http://arxiv.org/pdf/2310.18211v1)|null|
+|**2023-10-27**|**Molecular clouds in M51 from high-resolution extinction mapping**|Helena Faustino Vieira et.al.|[2310.18210v1](http://arxiv.org/abs/2310.18210v1)|[2310.18210v1](http://arxiv.org/pdf/2310.18210v1)|null|
 |**2023-10-26**|**Black hole formation in gravitational collapse and their astrophysical implications**|Annu Jaiswal et.al.|[2310.17647v1](http://arxiv.org/abs/2310.17647v1)|[2310.17647v1](http://arxiv.org/pdf/2310.17647v1)|null|
 |**2023-10-26**|**The metallicity dependence and evolutionary times of merging binary black holes: Combined constraints from individual gravitational-wave detections and the stochastic background**|Kevin Turbang et.al.|[2310.17625v1](http://arxiv.org/abs/2310.17625v1)|[2310.17625v1](http://arxiv.org/pdf/2310.17625v1)|**[link](https://github.com/kevinturbang/bbh_gwb_time_delay_inference)**|
 |**2023-10-26**|**Mimicking two field inflationary features with a single field**|Anvy Moly Tom et.al.|[2310.17619v1](http://arxiv.org/abs/2310.17619v1)|[2310.17619v1](http://arxiv.org/pdf/2310.17619v1)|null|
@@ -3389,6 +3399,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|[2310.18308v1](http://arxiv.org/pdf/2310.18308v1)|null|
+|**2023-10-27**|**A Stability Principle for Learning under Non-Stationarity**|Chengpiao Huang et.al.|[2310.18304v1](http://arxiv.org/abs/2310.18304v1)|[2310.18304v1](http://arxiv.org/pdf/2310.18304v1)|null|
+|**2023-10-27**|**Socially Cognizant Robotics for a Technology Enhanced Society**|Kristin J. Dana et.al.|[2310.18303v1](http://arxiv.org/abs/2310.18303v1)|[2310.18303v1](http://arxiv.org/pdf/2310.18303v1)|null|
+|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301v1](http://arxiv.org/abs/2310.18301v1)|[2310.18301v1](http://arxiv.org/pdf/2310.18301v1)|null|
+|**2023-10-27**|**Image Clustering Conditioned on Text Criteria**|Sehyun Kwon et.al.|[2310.18297v1](http://arxiv.org/abs/2310.18297v1)|[2310.18297v1](http://arxiv.org/pdf/2310.18297v1)|**[link](https://github.com/sehyunkwon/ictc)**|
+|**2023-10-27**|**Moments for Perceptive Narration Analysis Through the Emotional Attachment of Audience to Discourse and Story**|Gary Bruins et.al.|[2310.18273v1](http://arxiv.org/abs/2310.18273v1)|[2310.18273v1](http://arxiv.org/pdf/2310.18273v1)|null|
+|**2023-10-27**|**Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**|Yining Ma et.al.|[2310.18264v1](http://arxiv.org/abs/2310.18264v1)|[2310.18264v1](http://arxiv.org/pdf/2310.18264v1)|**[link](https://github.com/yining043/neuopt)**|
+|**2023-10-27**|**A Review of the Evidence for Existential Risk from AI via Misaligned Power-Seeking**|Rose Hadshar et.al.|[2310.18244v1](http://arxiv.org/abs/2310.18244v1)|[2310.18244v1](http://arxiv.org/pdf/2310.18244v1)|null|
+|**2023-10-27**|**Fine-Tuning Language Models Using Formal Methods Feedback**|Yunhao Yang et.al.|[2310.18239v1](http://arxiv.org/abs/2310.18239v1)|[2310.18239v1](http://arxiv.org/pdf/2310.18239v1)|null|
+|**2023-10-27**|**Generative AI Model for Artistic Style Transfer Using Convolutional Neural Networks**|Jonayet Miah et.al.|[2310.18237v1](http://arxiv.org/abs/2310.18237v1)|[2310.18237v1](http://arxiv.org/pdf/2310.18237v1)|null|
 |**2023-10-26**|**Defending Against Transfer Attacks From Public Models**|Chawin Sitawarin et.al.|[2310.17645v1](http://arxiv.org/abs/2310.17645v1)|[2310.17645v1](http://arxiv.org/pdf/2310.17645v1)|**[link](https://github.com/wagner-group/pubdef)**|
 |**2023-10-26**|**In-Context Learning Dynamics with Random Binary Sequences**|Eric J. Bigelow et.al.|[2310.17639v1](http://arxiv.org/abs/2310.17639v1)|[2310.17639v1](http://arxiv.org/pdf/2310.17639v1)|null|
 |**2023-10-26**|**Grow Your Limits: Continuous Improvement with Real-World RL for Robotic Locomotion**|Laura Smith et.al.|[2310.17634v1](http://arxiv.org/abs/2310.17634v1)|[2310.17634v1](http://arxiv.org/pdf/2310.17634v1)|null|
