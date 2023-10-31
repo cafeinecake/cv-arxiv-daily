@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-30**|**Simultaneous Horizontal and Vertical Oscillation of a Quiescent Filament observed by CHASE and SDO**|Jun Dai et.al.|[2310.19228v1](http://arxiv.org/abs/2310.19228v1)|[2310.19228v1](http://arxiv.org/pdf/2310.19228v1)|null|
+|**2023-10-30**|**The unprecedented flaring activities around Mrk 421 in 2012 and 2013: The test for neutrino and UHECR event connection**|Nissim Fraija et.al.|[2310.19227v1](http://arxiv.org/abs/2310.19227v1)|[2310.19227v1](http://arxiv.org/pdf/2310.19227v1)|null|
+|**2023-10-29**|**Industrial-Scale Mass Measurements of Isolated Black Holes**|Andrew Gould et.al.|[2310.19164v1](http://arxiv.org/abs/2310.19164v1)|[2310.19164v1](http://arxiv.org/pdf/2310.19164v1)|null|
+|**2023-10-29**|**Spectrum of gravitational waves from long-lasting primordial sources**|Sabir Ramazanov et.al.|[2310.19148v1](http://arxiv.org/abs/2310.19148v1)|[2310.19148v1](http://arxiv.org/pdf/2310.19148v1)|null|
+|**2023-10-29**|**Bridging Scales in Black Hole Accretion and Feedback: Magnetized Bondi Accretion in 3D GRMHD**|Hyerin Cho et.al.|[2310.19135v1](http://arxiv.org/abs/2310.19135v1)|[2310.19135v1](http://arxiv.org/pdf/2310.19135v1)|null|
+|**2023-10-29**|**Versatile spaceborne photonics with chalcogenide phase-change materials**|Hyun Jung Kim et.al.|[2310.19131v1](http://arxiv.org/abs/2310.19131v1)|[2310.19131v1](http://arxiv.org/pdf/2310.19131v1)|null|
+|**2023-10-29**|**Where have all the low-metallicity galaxies gone? Tracing evolution in the mass--metallicity plane since a redshift of 0.7**|Shuang Zhou et.al.|[2310.19107v1](http://arxiv.org/abs/2310.19107v1)|[2310.19107v1](http://arxiv.org/pdf/2310.19107v1)|null|
+|**2023-10-29**|**Hall magnetohydrodynamics in a relativistically strong mean magnetic field**|Y. Kawazura et.al.|[2310.19072v1](http://arxiv.org/abs/2310.19072v1)|[2310.19072v1](http://arxiv.org/pdf/2310.19072v1)|null|
+|**2023-10-29**|**One-loop thermal radiation exchange in gravitational wave power spectrum**|Atsuhisa Ota et.al.|[2310.19071v1](http://arxiv.org/abs/2310.19071v1)|[2310.19071v1](http://arxiv.org/pdf/2310.19071v1)|null|
+|**2023-10-29**|**Spherically Symmetric Configurations in Unimodular Gravity**|Júlio C. Fabris et.al.|[2310.19037v1](http://arxiv.org/abs/2310.19037v1)|[2310.19037v1](http://arxiv.org/pdf/2310.19037v1)|null|
 |**2023-10-27**|**The physical origins of gas in the circumgalactic medium using observationally-motivated TNG50 mocks**|Simon Weng et.al.|[2310.18310v1](http://arxiv.org/abs/2310.18310v1)|[2310.18310v1](http://arxiv.org/pdf/2310.18310v1)|null|
 |**2023-10-27**|**Impact of Property Covariance on Cluster Weak lensing Scaling Relations**|Zhuowen Zhang et.al.|[2310.18266v1](http://arxiv.org/abs/2310.18266v1)|[2310.18266v1](http://arxiv.org/pdf/2310.18266v1)|null|
 |**2023-10-27**|**The Milky Way in Context: Building an integral-field spectrograph data cube of the Galaxy**|Zixian Wang et.al.|[2310.18258v1](http://arxiv.org/abs/2310.18258v1)|[2310.18258v1](http://arxiv.org/pdf/2310.18258v1)|null|
@@ -3403,6 +3413,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-30**|**Tunable Atomically Wide Electrostatic Barriers Embedded in a Graphene WSe2 Heterostructure**|Hui-Ying Ren et.al.|[2310.19238v1](http://arxiv.org/abs/2310.19238v1)|[2310.19238v1](http://arxiv.org/pdf/2310.19238v1)|null|
+|**2023-10-30**|**There Are No Data Like More Data- Datasets for Deep Learning in Earth Observation**|Michael Schmitt et.al.|[2310.19231v1](http://arxiv.org/abs/2310.19231v1)|[2310.19231v1](http://arxiv.org/pdf/2310.19231v1)|null|
+|**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225v1](http://arxiv.org/abs/2310.19225v1)|[2310.19225v1](http://arxiv.org/pdf/2310.19225v1)|null|
+|**2023-10-30**|**EHRTutor: Enhancing Patient Understanding of Discharge Instructions**|Zihao Zhang et.al.|[2310.19212v1](http://arxiv.org/abs/2310.19212v1)|[2310.19212v1](http://arxiv.org/pdf/2310.19212v1)|null|
+|**2023-10-30**|**Leveraging generative artificial intelligence to simulate student learning behavior**|Songlin Xu et.al.|[2310.19206v1](http://arxiv.org/abs/2310.19206v1)|[2310.19206v1](http://arxiv.org/pdf/2310.19206v1)|null|
+|**2023-10-30**|**Can ChatGPT advance software testing intelligence? An experience report on metamorphic testing**|Quang-Hung Luu et.al.|[2310.19204v1](http://arxiv.org/abs/2310.19204v1)|[2310.19204v1](http://arxiv.org/pdf/2310.19204v1)|null|
+|**2023-10-29**|**Popularity, face and voice: Predicting and interpreting livestreamers' retail performance using machine learning techniques**|Xiong Xiong et.al.|[2310.19200v1](http://arxiv.org/abs/2310.19200v1)|[2310.19200v1](http://arxiv.org/pdf/2310.19200v1)|null|
+|**2023-10-29**|**JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation**|Yao Yao et.al.|[2310.19180v1](http://arxiv.org/abs/2310.19180v1)|[2310.19180v1](http://arxiv.org/pdf/2310.19180v1)|null|
+|**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174v1](http://arxiv.org/abs/2310.19174v1)|[2310.19174v1](http://arxiv.org/pdf/2310.19174v1)|null|
+|**2023-10-29**|**Rare Event Probability Learning by Normalizing Flows**|Zhenggqi Gao et.al.|[2310.19167v1](http://arxiv.org/abs/2310.19167v1)|[2310.19167v1](http://arxiv.org/pdf/2310.19167v1)|null|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|[2310.18308v1](http://arxiv.org/pdf/2310.18308v1)|null|
 |**2023-10-27**|**A Stability Principle for Learning under Non-Stationarity**|Chengpiao Huang et.al.|[2310.18304v1](http://arxiv.org/abs/2310.18304v1)|[2310.18304v1](http://arxiv.org/pdf/2310.18304v1)|null|
 |**2023-10-27**|**Socially Cognizant Robotics for a Technology Enhanced Society**|Kristin J. Dana et.al.|[2310.18303v1](http://arxiv.org/abs/2310.18303v1)|[2310.18303v1](http://arxiv.org/pdf/2310.18303v1)|null|
