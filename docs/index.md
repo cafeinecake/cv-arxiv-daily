@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-31**|**Observing the LMC with APEX: Signatures of Large-scale Feedback in the Molecular Clouds of 30 Doradus**|Konstantin Grishunin et.al.|[2310.20701v1](http://arxiv.org/abs/2310.20701v1)|[2310.20701v1](http://arxiv.org/pdf/2310.20701v1)|null|
+|**2023-10-31**|**Explosions in Roche-Lobe Distorted Stars: Relativistic Bullets in Binaries**|Marcus DuPont et.al.|[2310.20692v1](http://arxiv.org/abs/2310.20692v1)|[2310.20692v1](http://arxiv.org/pdf/2310.20692v1)|null|
+|**2023-10-31**|**NOEMA reveals the true nature of luminous red JWST z>10 galaxy candidates**|R. A. Meyer et.al.|[2310.20675v1](http://arxiv.org/abs/2310.20675v1)|[2310.20675v1](http://arxiv.org/pdf/2310.20675v1)|null|
+|**2023-10-31**|**Evaluating the reconstruction of individual haloes in constrained cosmological simulations**|Richard Stiskalek et.al.|[2310.20672v1](http://arxiv.org/abs/2310.20672v1)|[2310.20672v1](http://arxiv.org/pdf/2310.20672v1)|null|
+|**2023-10-31**|**Black holes: accretion processes in X-ray binaries**|Qingcui Bu et.al.|[2310.20637v1](http://arxiv.org/abs/2310.20637v1)|[2310.20637v1](http://arxiv.org/pdf/2310.20637v1)|null|
+|**2023-10-31**|**TOI-5344 b: A Saturn-like planet orbiting a super-Solar metallicity M0 dwarf**|Te Han et.al.|[2310.20634v1](http://arxiv.org/abs/2310.20634v1)|[2310.20634v1](http://arxiv.org/pdf/2310.20634v1)|null|
+|**2023-10-31**|**On the possible jet contribution to the $γ$-ray luminosity in NGC 1068**|S. Salvatore et.al.|[2310.20629v1](http://arxiv.org/abs/2310.20629v1)|[2310.20629v1](http://arxiv.org/pdf/2310.20629v1)|null|
+|**2023-10-31**|**Reply to Comment on "Analysis of Ringdown Overtones in GW150914"**|Gregorio Carullo et.al.|[2310.20625v1](http://arxiv.org/abs/2310.20625v1)|[2310.20625v1](http://arxiv.org/pdf/2310.20625v1)|null|
+|**2023-10-31**|**Primordial Orbital Alignment of Sednoids**|Yukun Huang et.al.|[2310.20614v1](http://arxiv.org/abs/2310.20614v1)|[2310.20614v1](http://arxiv.org/pdf/2310.20614v1)|null|
+|**2023-10-31**|**Strongly Magnetized Tidal Disruption Event Disks via Stream Injection in GRMHD**|Brandon Curd et.al.|[2310.20592v1](http://arxiv.org/abs/2310.20592v1)|[2310.20592v1](http://arxiv.org/pdf/2310.20592v1)|null|
 |**2023-10-30**|**Simultaneous Horizontal and Vertical Oscillation of a Quiescent Filament observed by CHASE and SDO**|Jun Dai et.al.|[2310.19228v1](http://arxiv.org/abs/2310.19228v1)|[2310.19228v1](http://arxiv.org/pdf/2310.19228v1)|null|
 |**2023-10-30**|**The unprecedented flaring activities around Mrk 421 in 2012 and 2013: The test for neutrino and UHECR event connection**|Nissim Fraija et.al.|[2310.19227v1](http://arxiv.org/abs/2310.19227v1)|[2310.19227v1](http://arxiv.org/pdf/2310.19227v1)|null|
 |**2023-10-29**|**Industrial-Scale Mass Measurements of Isolated Black Holes**|Andrew Gould et.al.|[2310.19164v1](http://arxiv.org/abs/2310.19164v1)|[2310.19164v1](http://arxiv.org/pdf/2310.19164v1)|null|
@@ -3413,6 +3423,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704v1](http://arxiv.org/abs/2310.20704v1)|[2310.20704v1](http://arxiv.org/pdf/2310.20704v1)|null|
+|**2023-10-31**|**Vanishing Gradients in Reinforcement Finetuning of Language Models**|Noam Razin et.al.|[2310.20703v1](http://arxiv.org/abs/2310.20703v1)|[2310.20703v1](http://arxiv.org/pdf/2310.20703v1)|null|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695v1](http://arxiv.org/abs/2310.20695v1)|[2310.20695v1](http://arxiv.org/pdf/2310.20695v1)|null|
+|**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689v1](http://arxiv.org/abs/2310.20689v1)|[2310.20689v1](http://arxiv.org/pdf/2310.20689v1)|**[link](https://github.com/microsoft/codet)**|
+|**2023-10-31**|**Offline RL with Observation Histories: Analyzing and Improving Sample Complexity**|Joey Hong et.al.|[2310.20663v1](http://arxiv.org/abs/2310.20663v1)|[2310.20663v1](http://arxiv.org/pdf/2310.20663v1)|null|
+|**2023-10-31**|**"Pick-and-Pass" as a Hat-Trick Class for First-Principle Memory, Generalizability, and Interpretability Benchmarks**|Jason Wang et.al.|[2310.20654v1](http://arxiv.org/abs/2310.20654v1)|[2310.20654v1](http://arxiv.org/pdf/2310.20654v1)|null|
+|**2023-10-31**|**Histopathological Image Analysis with Style-Augmented Feature Domain Mixing for Improved Generalization**|Vaibhav Khamankar et.al.|[2310.20638v1](http://arxiv.org/abs/2310.20638v1)|[2310.20638v1](http://arxiv.org/pdf/2310.20638v1)|**[link](https://github.com/vaibhav-khamankar/fusestyle)**|
+|**2023-10-31**|**LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B**|Simon Lermen et.al.|[2310.20624v1](http://arxiv.org/abs/2310.20624v1)|[2310.20624v1](http://arxiv.org/pdf/2310.20624v1)|null|
+|**2023-10-31**|**Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback**|Max Balsells et.al.|[2310.20608v1](http://arxiv.org/abs/2310.20608v1)|[2310.20608v1](http://arxiv.org/pdf/2310.20608v1)|null|
+|**2023-10-31**|**What a Whole Slide Image Can Tell? Subtype-guided Masked Transformer for Pathological Image Captioning**|Wenkang Qin et.al.|[2310.20607v1](http://arxiv.org/abs/2310.20607v1)|[2310.20607v1](http://arxiv.org/pdf/2310.20607v1)|null|
 |**2023-10-30**|**Tunable Atomically Wide Electrostatic Barriers Embedded in a Graphene WSe2 Heterostructure**|Hui-Ying Ren et.al.|[2310.19238v1](http://arxiv.org/abs/2310.19238v1)|[2310.19238v1](http://arxiv.org/pdf/2310.19238v1)|null|
 |**2023-10-30**|**There Are No Data Like More Data- Datasets for Deep Learning in Earth Observation**|Michael Schmitt et.al.|[2310.19231v1](http://arxiv.org/abs/2310.19231v1)|[2310.19231v1](http://arxiv.org/pdf/2310.19231v1)|null|
 |**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225v1](http://arxiv.org/abs/2310.19225v1)|[2310.19225v1](http://arxiv.org/pdf/2310.19225v1)|null|
