@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-01**|**Gravastar in the framework of Loop Quantum Cosmology**|Shounak Ghosh et.al.|[2311.00692v1](http://arxiv.org/abs/2311.00692v1)|[2311.00692v1](http://arxiv.org/pdf/2311.00692v1)|null|
+|**2023-11-01**|**VaTEST III: Validation of 8 Potential Super-Earths from TESS Data**|Priyashkumar Mistry et.al.|[2311.00688v1](http://arxiv.org/abs/2311.00688v1)|[2311.00688v1](http://arxiv.org/pdf/2311.00688v1)|null|
+|**2023-11-01**|**Surface Geometry of Some Meaningful Extreme Kerr-Newman Black Holes**|Giorgio Sonnino et.al.|[2311.00665v1](http://arxiv.org/abs/2311.00665v1)|[2311.00665v1](http://arxiv.org/pdf/2311.00665v1)|null|
+|**2023-11-01**|**Propagation of light and retarded time of radiation in a strong gravitational wave**|Konstantin E. Osetrin et.al.|[2311.00659v1](http://arxiv.org/abs/2311.00659v1)|[2311.00659v1](http://arxiv.org/pdf/2311.00659v1)|null|
+|**2023-11-01**|**Rediscussion of eclipsing binaries. Paper XV. The B-type supergiant system V1765 Cygni**|John Southworth et.al.|[2311.00655v1](http://arxiv.org/abs/2311.00655v1)|[2311.00655v1](http://arxiv.org/pdf/2311.00655v1)|null|
+|**2023-11-01**|**Weak-Lensing Analysis of the Complex Cluster Merger Abell 746 with Subaru/Hyper Suprime-Cam**|Kim HyeongHan et.al.|[2311.00643v1](http://arxiv.org/abs/2311.00643v1)|[2311.00643v1](http://arxiv.org/pdf/2311.00643v1)|null|
+|**2023-11-01**|**VLA monitoring of LS V +44 17 reveals scatter in the X-ray--radio correlation of Be/X-ray binaries**|J. van den Eijnden et.al.|[2311.00631v1](http://arxiv.org/abs/2311.00631v1)|[2311.00631v1](http://arxiv.org/pdf/2311.00631v1)|**[link](https://github.com/jvandeneijnden/LSV44_17_RepPackage)**|
+|**2023-11-01**|**Keck and Hubble Observations Show That MOA-2008-BLG-379Lb Is a Super-Jupiter Orbiting an M Dwarf**|David P. Bennett et.al.|[2311.00627v1](http://arxiv.org/abs/2311.00627v1)|[2311.00627v1](http://arxiv.org/pdf/2311.00627v1)|null|
+|**2023-11-01**|**2023 Astrophotonics Roadmap: pathways to realizing multi-functional integrated astrophotonic instruments**|Nemanja Jovanovic et.al.|[2311.00615v1](http://arxiv.org/abs/2311.00615v1)|[2311.00615v1](http://arxiv.org/pdf/2311.00615v1)|null|
+|**2023-11-01**|**A Systematic Observational Study on Galactic Interstellar Ratio 18O/17O. II. C18O and C17O J=2-1 Data Analysis**|Y. P. Zou et.al.|[2311.00547v1](http://arxiv.org/abs/2311.00547v1)|[2311.00547v1](http://arxiv.org/pdf/2311.00547v1)|null|
 |**2023-10-31**|**Observing the LMC with APEX: Signatures of Large-scale Feedback in the Molecular Clouds of 30 Doradus**|Konstantin Grishunin et.al.|[2310.20701v1](http://arxiv.org/abs/2310.20701v1)|[2310.20701v1](http://arxiv.org/pdf/2310.20701v1)|null|
 |**2023-10-31**|**Explosions in Roche-Lobe Distorted Stars: Relativistic Bullets in Binaries**|Marcus DuPont et.al.|[2310.20692v1](http://arxiv.org/abs/2310.20692v1)|[2310.20692v1](http://arxiv.org/pdf/2310.20692v1)|null|
 |**2023-10-31**|**NOEMA reveals the true nature of luminous red JWST z>10 galaxy candidates**|R. A. Meyer et.al.|[2310.20675v1](http://arxiv.org/abs/2310.20675v1)|[2310.20675v1](http://arxiv.org/pdf/2310.20675v1)|null|
@@ -3423,6 +3433,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-01**|**The Moving Discontinuous Galerkin Method with Interface Condition Enforcement for Robust Simulations of High-Speed Viscous Flows**|Eric J. Ching et.al.|[2311.00701v1](http://arxiv.org/abs/2311.00701v1)|[2311.00701v1](http://arxiv.org/pdf/2311.00701v1)|null|
+|**2023-11-01**|**Unleashing the Creative Mind: Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving**|Zhan Ling et.al.|[2311.00694v1](http://arxiv.org/abs/2311.00694v1)|[2311.00694v1](http://arxiv.org/pdf/2311.00694v1)|**[link](https://github.com/lz1oceani/llm-as-hierarchical-policy)**|
+|**2023-11-01**|**On Task-personalized Multimodal Few-shot Learning for Visually-rich Document Entity Retrieval**|Jiayi Chen et.al.|[2311.00693v1](http://arxiv.org/abs/2311.00693v1)|[2311.00693v1](http://arxiv.org/pdf/2311.00693v1)|null|
+|**2023-11-01**|**Improving Interpersonal Communication by Simulating Audiences with Language Models**|Ryan Liu et.al.|[2311.00687v1](http://arxiv.org/abs/2311.00687v1)|[2311.00687v1](http://arxiv.org/pdf/2311.00687v1)|**[link](https://github.com/theryanl/egs)**|
+|**2023-11-01**|**Phase separation dependent active motion of Janus lipid vesicles**|Vivien Willems et.al.|[2311.00685v1](http://arxiv.org/abs/2311.00685v1)|[2311.00685v1](http://arxiv.org/pdf/2311.00685v1)|null|
+|**2023-11-01**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651v1](http://arxiv.org/abs/2311.00651v1)|[2311.00651v1](http://arxiv.org/pdf/2311.00651v1)|null|
+|**2023-11-01**|**FAIRLABEL: Correcting Bias in Labels**|Srinivasan H Sengamedu et.al.|[2311.00638v1](http://arxiv.org/abs/2311.00638v1)|[2311.00638v1](http://arxiv.org/pdf/2311.00638v1)|null|
+|**2023-11-01**|**A Bi-level Framework for Traffic Accident Duration Prediction: Leveraging Weather and Road Condition Data within a Practical Optimum Pipeline**|Rafat Tabassum Sukonna et.al.|[2311.00634v1](http://arxiv.org/abs/2311.00634v1)|[2311.00634v1](http://arxiv.org/pdf/2311.00634v1)|null|
+|**2023-11-01**|**Loss Modeling for Multi-Annotator Datasets**|Uthman Jinadu et.al.|[2311.00619v1](http://arxiv.org/abs/2311.00619v1)|[2311.00619v1](http://arxiv.org/pdf/2311.00619v1)|null|
+|**2023-11-01**|**Rethinking Variational Inference for Probabilistic Programs with Stochastic Support**|Tim Reichelt et.al.|[2311.00594v1](http://arxiv.org/abs/2311.00594v1)|[2311.00594v1](http://arxiv.org/pdf/2311.00594v1)|**[link](https://github.com/treigerm/sdvi_neurips)**|
 |**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704v1](http://arxiv.org/abs/2310.20704v1)|[2310.20704v1](http://arxiv.org/pdf/2310.20704v1)|null|
 |**2023-10-31**|**Vanishing Gradients in Reinforcement Finetuning of Language Models**|Noam Razin et.al.|[2310.20703v1](http://arxiv.org/abs/2310.20703v1)|[2310.20703v1](http://arxiv.org/pdf/2310.20703v1)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695v1](http://arxiv.org/abs/2310.20695v1)|[2310.20695v1](http://arxiv.org/pdf/2310.20695v1)|null|
