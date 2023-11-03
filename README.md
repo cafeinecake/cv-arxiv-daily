@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-02**|**Induced Circular Polarization on Photons Due to Interaction with Axion-Like Particles in Rotating Magnetic Field of Neutron Stars**|Mohammad Sharifian et.al.|[2311.01445v1](http://arxiv.org/abs/2311.01445v1)|[2311.01445v1](http://arxiv.org/pdf/2311.01445v1)|null|
+|**2023-11-02**|**Filaments of The Slime Mold Cosmic Web And How They Affect Galaxy Evolution**|Farhanul Hasan et.al.|[2311.01443v1](http://arxiv.org/abs/2311.01443v1)|[2311.01443v1](http://arxiv.org/pdf/2311.01443v1)|null|
+|**2023-11-02**|**Cosmological foundations revisited with Pantheon+**|Zachary G. Lane et.al.|[2311.01438v1](http://arxiv.org/abs/2311.01438v1)|[2311.01438v1](http://arxiv.org/pdf/2311.01438v1)|null|
+|**2023-11-02**|**Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets**|Megan G. Li et.al.|[2311.01427v1](http://arxiv.org/abs/2311.01427v1)|[2311.01427v1](http://arxiv.org/pdf/2311.01427v1)|null|
+|**2023-11-02**|**Spectral Redundancy for Calibrating Interferometers and Suppressing the Foreground Wedge in 21\,cm Cosmology**|Tyler A. Cox et.al.|[2311.01422v1](http://arxiv.org/abs/2311.01422v1)|[2311.01422v1](http://arxiv.org/pdf/2311.01422v1)|null|
+|**2023-11-02**|**High-Spectral Resolution Dark Holes: Concept, Results, and Promise**|William Thompson et.al.|[2311.01421v1](http://arxiv.org/abs/2311.01421v1)|[2311.01421v1](http://arxiv.org/pdf/2311.01421v1)|null|
+|**2023-11-02**|**Coronal bright point statistics I. Lifetime, shape, and coronal co-rotation**|I. Kraus et.al.|[2311.01408v1](http://arxiv.org/abs/2311.01408v1)|[2311.01408v1](http://arxiv.org/pdf/2311.01408v1)|null|
+|**2023-11-02**|**Search for the wide-orbit massive companion of XO-7b in the follow-up radial-velocity and transit-timing data: no significant clues**|Z. Garai et.al.|[2311.01402v1](http://arxiv.org/abs/2311.01402v1)|[2311.01402v1](http://arxiv.org/pdf/2311.01402v1)|null|
+|**2023-11-02**|**A Cosmological Bootstrap for Resonant Non-Gaussianity**|Carlos Duaso Pueyo et.al.|[2311.01395v1](http://arxiv.org/abs/2311.01395v1)|[2311.01395v1](http://arxiv.org/pdf/2311.01395v1)|null|
+|**2023-11-02**|**Ultra-Fast Generation of Air Shower Images for Imaging Air Cherenkov Telescopes using Generative Adversarial Networks**|Christian Elflein et.al.|[2311.01385v1](http://arxiv.org/abs/2311.01385v1)|[2311.01385v1](http://arxiv.org/pdf/2311.01385v1)|null|
 |**2023-11-01**|**Gravastar in the framework of Loop Quantum Cosmology**|Shounak Ghosh et.al.|[2311.00692v1](http://arxiv.org/abs/2311.00692v1)|[2311.00692v1](http://arxiv.org/pdf/2311.00692v1)|null|
 |**2023-11-01**|**VaTEST III: Validation of 8 Potential Super-Earths from TESS Data**|Priyashkumar Mistry et.al.|[2311.00688v1](http://arxiv.org/abs/2311.00688v1)|[2311.00688v1](http://arxiv.org/pdf/2311.00688v1)|null|
 |**2023-11-01**|**Surface Geometry of Some Meaningful Extreme Kerr-Newman Black Holes**|Giorgio Sonnino et.al.|[2311.00665v1](http://arxiv.org/abs/2311.00665v1)|[2311.00665v1](http://arxiv.org/pdf/2311.00665v1)|null|
@@ -3429,6 +3439,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-02**|**Implicit Chain of Thought Reasoning via Knowledge Distillation**|Yuntian Deng et.al.|[2311.01460v1](http://arxiv.org/abs/2311.01460v1)|[2311.01460v1](http://arxiv.org/pdf/2311.01460v1)|**[link](https://github.com/da03/implicit_chain_of_thought)**|
+|**2023-11-02**|**Conformal Policy Learning for Sensorimotor Control Under Distribution Shifts**|Huang Huang et.al.|[2311.01457v1](http://arxiv.org/abs/2311.01457v1)|[2311.01457v1](http://arxiv.org/pdf/2311.01457v1)|null|
+|**2023-11-02**|**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**|Yufei Wang et.al.|[2311.01455v1](http://arxiv.org/abs/2311.01455v1)|[2311.01455v1](http://arxiv.org/pdf/2311.01455v1)|null|
+|**2023-11-02**|**NOIR: Neural Signal Operated Intelligent Robots for Everyday Activities**|Ruohan Zhang et.al.|[2311.01454v1](http://arxiv.org/abs/2311.01454v1)|[2311.01454v1](http://arxiv.org/pdf/2311.01454v1)|null|
+|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452v1](http://arxiv.org/abs/2311.01452v1)|[2311.01452v1](http://arxiv.org/pdf/2311.01452v1)|null|
+|**2023-11-02**|**DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing**|Vint Lee et.al.|[2311.01450v1](http://arxiv.org/abs/2311.01450v1)|[2311.01450v1](http://arxiv.org/pdf/2311.01450v1)|null|
+|**2023-11-02**|**Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models**|Andy Zhou et.al.|[2311.01441v1](http://arxiv.org/abs/2311.01441v1)|[2311.01441v1](http://arxiv.org/pdf/2311.01441v1)|**[link](https://github.com/andyz245/discreteadversarialdistillation)**|
+|**2023-11-02**|**Tailoring Mixup to Data using Kernel Warping functions**|Quentin Bouniot et.al.|[2311.01434v1](http://arxiv.org/abs/2311.01434v1)|[2311.01434v1](http://arxiv.org/pdf/2311.01434v1)|**[link](https://github.com/ensta-u2is/torch-uncertainty)**|
+|**2023-11-02**|**A Comprehensive Study of Governance Issues in Decentralized Finance Applications**|Wei Ma et.al.|[2311.01433v1](http://arxiv.org/abs/2311.01433v1)|[2311.01433v1](http://arxiv.org/pdf/2311.01433v1)|null|
+|**2023-11-02**|**Castor: Causal Temporal Regime Structure Learning**|Abdellah Rahmani et.al.|[2311.01412v1](http://arxiv.org/abs/2311.01412v1)|[2311.01412v1](http://arxiv.org/pdf/2311.01412v1)|null|
 |**2023-11-01**|**The Moving Discontinuous Galerkin Method with Interface Condition Enforcement for Robust Simulations of High-Speed Viscous Flows**|Eric J. Ching et.al.|[2311.00701v1](http://arxiv.org/abs/2311.00701v1)|[2311.00701v1](http://arxiv.org/pdf/2311.00701v1)|null|
 |**2023-11-01**|**Unleashing the Creative Mind: Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving**|Zhan Ling et.al.|[2311.00694v1](http://arxiv.org/abs/2311.00694v1)|[2311.00694v1](http://arxiv.org/pdf/2311.00694v1)|**[link](https://github.com/lz1oceani/llm-as-hierarchical-policy)**|
 |**2023-11-01**|**On Task-personalized Multimodal Few-shot Learning for Visually-rich Document Entity Retrieval**|Jiayi Chen et.al.|[2311.00693v1](http://arxiv.org/abs/2311.00693v1)|[2311.00693v1](http://arxiv.org/pdf/2311.00693v1)|null|
