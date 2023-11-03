@@ -1,4 +1,4 @@
-> Updated on 2023.11.02
+> Updated on 2023.11.03
 
 ## Astrophysics
 
@@ -3430,7 +3430,7 @@
 - 2023-11-01, **On Task-personalized Multimodal Few-shot Learning for Visually-rich Document Entity Retrieval**, Jiayi Chen et.al., Paper: [http://arxiv.org/abs/2311.00693v1](http://arxiv.org/abs/2311.00693v1), Paper: [http://arxiv.org/abs/2311.00693v1](http://arxiv.org/pdf/2311.00693v1)
 - 2023-11-01, **Improving Interpersonal Communication by Simulating Audiences with Language Models**, Ryan Liu et.al., Paper: [http://arxiv.org/abs/2311.00687v1](http://arxiv.org/abs/2311.00687v1),Paper: [http://arxiv.org/abs/2311.00687v1](http://arxiv.org/pdf/2311.00687v1), Code: **[https://github.com/theryanl/egs](https://github.com/theryanl/egs)**
 - 2023-11-01, **Phase separation dependent active motion of Janus lipid vesicles**, Vivien Willems et.al., Paper: [http://arxiv.org/abs/2311.00685v1](http://arxiv.org/abs/2311.00685v1), Paper: [http://arxiv.org/abs/2311.00685v1](http://arxiv.org/pdf/2311.00685v1)
-- 2023-11-01, **Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**, Richard Bornemann et.al., Paper: [http://arxiv.org/abs/2311.00651v1](http://arxiv.org/abs/2311.00651v1), Paper: [http://arxiv.org/abs/2311.00651v1](http://arxiv.org/pdf/2311.00651v1)
+- 2023-11-02, **Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**, Richard Bornemann et.al., Paper: [http://arxiv.org/abs/2311.00651v2](http://arxiv.org/abs/2311.00651v2), Paper: [http://arxiv.org/abs/2311.00651v2](http://arxiv.org/pdf/2311.00651v2)
 - 2023-11-01, **FAIRLABEL: Correcting Bias in Labels**, Srinivasan H Sengamedu et.al., Paper: [http://arxiv.org/abs/2311.00638v1](http://arxiv.org/abs/2311.00638v1), Paper: [http://arxiv.org/abs/2311.00638v1](http://arxiv.org/pdf/2311.00638v1)
 - 2023-11-01, **A Bi-level Framework for Traffic Accident Duration Prediction: Leveraging Weather and Road Condition Data within a Practical Optimum Pipeline**, Rafat Tabassum Sukonna et.al., Paper: [http://arxiv.org/abs/2311.00634v1](http://arxiv.org/abs/2311.00634v1), Paper: [http://arxiv.org/abs/2311.00634v1](http://arxiv.org/pdf/2311.00634v1)
 - 2023-11-01, **Loss Modeling for Multi-Annotator Datasets**, Uthman Jinadu et.al., Paper: [http://arxiv.org/abs/2311.00619v1](http://arxiv.org/abs/2311.00619v1), Paper: [http://arxiv.org/abs/2311.00619v1](http://arxiv.org/pdf/2311.00619v1)
