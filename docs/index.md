@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-03**|**First systematic study reporting the changes in eclipse cut-off frequency for pulsar J1544+4937**|Sangita Kumari et.al.|[2311.02071v1](http://arxiv.org/abs/2311.02071v1)|[2311.02071v1](http://arxiv.org/pdf/2311.02071v1)|null|
+|**2023-11-03**|**Cosmological Gravitational Waves from Isocurvature Fluctuations**|Guillem Domènech et.al.|[2311.02065v1](http://arxiv.org/abs/2311.02065v1)|[2311.02065v1](http://arxiv.org/pdf/2311.02065v1)|null|
+|**2023-11-03**|**Physical properties of the eclipsing binary KIC 9851944 and analysis of its tidally-perturbed p- and g-mode pulsations**|Zachary Jennings et.al.|[2311.02064v1](http://arxiv.org/abs/2311.02064v1)|[2311.02064v1](http://arxiv.org/pdf/2311.02064v1)|null|
+|**2023-11-03**|**Neural ODEs as a discovery tool to characterize the structure of the hot galactic wind of M82**|Dustin Nguyen et.al.|[2311.02057v1](http://arxiv.org/abs/2311.02057v1)|[2311.02057v1](http://arxiv.org/pdf/2311.02057v1)|null|
+|**2023-11-03**|**The Poincaré pear and Poincaré-Darwin fission theory in astrophysics, 1885-1901**|Scott A. Walter et.al.|[2311.02054v1](http://arxiv.org/abs/2311.02054v1)|[2311.02054v1](http://arxiv.org/pdf/2311.02054v1)|null|
+|**2023-11-03**|**Extreme Axions Unveiled: a Novel Fluid Approach for Cosmological Modeling**|Harrison Winch et.al.|[2311.02052v1](http://arxiv.org/abs/2311.02052v1)|[2311.02052v1](http://arxiv.org/pdf/2311.02052v1)|null|
+|**2023-11-03**|**Nebular dominated galaxies in the early Universe with top-heavy stellar initial mass functions**|Alex J. Cameron et.al.|[2311.02051v1](http://arxiv.org/abs/2311.02051v1)|[2311.02051v1](http://arxiv.org/pdf/2311.02051v1)|null|
+|**2023-11-03**|**Pits on Jupiter Family Comets and the age of cometary surfaces**|Aurélie Guilbert-Lepoutre et.al.|[2311.02036v1](http://arxiv.org/abs/2311.02036v1)|[2311.02036v1](http://arxiv.org/pdf/2311.02036v1)|null|
+|**2023-11-03**|**CMS ECAL VFE design, production and testing**|W. Lustermann et.al.|[2311.02021v1](http://arxiv.org/abs/2311.02021v1)|[2311.02021v1](http://arxiv.org/pdf/2311.02021v1)|null|
+|**2023-11-03**|**Extremely strong CIV 1550 nebular emission in the extremely low-metallicity star-forming galaxy J2229+2725**|Y. I. Izotov et.al.|[2311.02015v1](http://arxiv.org/abs/2311.02015v1)|[2311.02015v1](http://arxiv.org/pdf/2311.02015v1)|null|
 |**2023-11-02**|**Induced Circular Polarization on Photons Due to Interaction with Axion-Like Particles in Rotating Magnetic Field of Neutron Stars**|Mohammad Sharifian et.al.|[2311.01445v1](http://arxiv.org/abs/2311.01445v1)|[2311.01445v1](http://arxiv.org/pdf/2311.01445v1)|null|
 |**2023-11-02**|**Filaments of The Slime Mold Cosmic Web And How They Affect Galaxy Evolution**|Farhanul Hasan et.al.|[2311.01443v1](http://arxiv.org/abs/2311.01443v1)|[2311.01443v1](http://arxiv.org/pdf/2311.01443v1)|null|
 |**2023-11-02**|**Cosmological foundations revisited with Pantheon+**|Zachary G. Lane et.al.|[2311.01438v1](http://arxiv.org/abs/2311.01438v1)|[2311.01438v1](http://arxiv.org/pdf/2311.01438v1)|**[link](https://github.com/antosft/sne-pantheonplus-analysis)**|
@@ -3443,6 +3453,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-03**|**Post Turing: Mapping the landscape of LLM Evaluation**|Alexey Tikhonov et.al.|[2311.02049v1](http://arxiv.org/abs/2311.02049v1)|[2311.02049v1](http://arxiv.org/pdf/2311.02049v1)|null|
+|**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041v1](http://arxiv.org/abs/2311.02041v1)|[2311.02041v1](http://arxiv.org/pdf/2311.02041v1)|**[link](https://github.com/florianfuerrutter/genqc)**|
+|**2023-11-03**|**APRICOT: Acuity Prediction in Intensive Care Unit (ICU): Predicting Stability, Transitions, and Life-Sustaining Therapies**|Miguel Contreras et.al.|[2311.02026v1](http://arxiv.org/abs/2311.02026v1)|[2311.02026v1](http://arxiv.org/pdf/2311.02026v1)|null|
+|**2023-11-03**|**Active Reasoning in an Open-World Environment**|Manjie Xu et.al.|[2311.02018v1](http://arxiv.org/abs/2311.02018v1)|[2311.02018v1](http://arxiv.org/pdf/2311.02018v1)|null|
+|**2023-11-03**|**DeliverAI: Reinforcement Learning Based Distributed Path-Sharing Network for Food Deliveries**|Ashman Mehra et.al.|[2311.02017v1](http://arxiv.org/abs/2311.02017v1)|[2311.02017v1](http://arxiv.org/pdf/2311.02017v1)|null|
+|**2023-11-03**|**Score Models for Offline Goal-Conditioned Reinforcement Learning**|Harshit Sikchi et.al.|[2311.02013v1](http://arxiv.org/abs/2311.02013v1)|[2311.02013v1](http://arxiv.org/pdf/2311.02013v1)|null|
+|**2023-11-03**|**Investigation of Random Laser in the Machine Learning Approach**|Emanuel P. Santos et.al.|[2311.02004v1](http://arxiv.org/abs/2311.02004v1)|[2311.02004v1](http://arxiv.org/pdf/2311.02004v1)|null|
+|**2023-11-03**|**Obtaining Explainable Classification Models using Distributionally Robust Optimization**|Sanjeeb Dash et.al.|[2311.01994v1](http://arxiv.org/abs/2311.01994v1)|[2311.01994v1](http://arxiv.org/pdf/2311.01994v1)|null|
+|**2023-11-03**|**RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**|Jiayuan Gu et.al.|[2311.01977v1](http://arxiv.org/abs/2311.01977v1)|[2311.01977v1](http://arxiv.org/pdf/2311.01977v1)|null|
+|**2023-11-03**|**VQPy: An Object-Oriented Approach to Modern Video Analytics**|Shan Yu et.al.|[2311.01623v1](http://arxiv.org/abs/2311.01623v1)|[2311.01623v1](http://arxiv.org/pdf/2311.01623v1)|null|
 |**2023-11-02**|**Implicit Chain of Thought Reasoning via Knowledge Distillation**|Yuntian Deng et.al.|[2311.01460v1](http://arxiv.org/abs/2311.01460v1)|[2311.01460v1](http://arxiv.org/pdf/2311.01460v1)|**[link](https://github.com/da03/implicit_chain_of_thought)**|
 |**2023-11-02**|**Conformal Policy Learning for Sensorimotor Control Under Distribution Shifts**|Huang Huang et.al.|[2311.01457v1](http://arxiv.org/abs/2311.01457v1)|[2311.01457v1](http://arxiv.org/pdf/2311.01457v1)|null|
 |**2023-11-02**|**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**|Yufei Wang et.al.|[2311.01455v1](http://arxiv.org/abs/2311.01455v1)|[2311.01455v1](http://arxiv.org/pdf/2311.01455v1)|null|
