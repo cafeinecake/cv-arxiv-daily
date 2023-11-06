@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.05
+## Updated on 2023.11.06
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-11-02**|**Induced Circular Polarization on Photons Due to Interaction with Axion-Like Particles in Rotating Magnetic Field of Neutron Stars**|Mohammad Sharifian et.al.|[2311.01445v1](http://arxiv.org/abs/2311.01445v1)|[2311.01445v1](http://arxiv.org/pdf/2311.01445v1)|null|
 |**2023-11-02**|**Filaments of The Slime Mold Cosmic Web And How They Affect Galaxy Evolution**|Farhanul Hasan et.al.|[2311.01443v1](http://arxiv.org/abs/2311.01443v1)|[2311.01443v1](http://arxiv.org/pdf/2311.01443v1)|null|
-|**2023-11-02**|**Cosmological foundations revisited with Pantheon+**|Zachary G. Lane et.al.|[2311.01438v1](http://arxiv.org/abs/2311.01438v1)|[2311.01438v1](http://arxiv.org/pdf/2311.01438v1)|null|
+|**2023-11-02**|**Cosmological foundations revisited with Pantheon+**|Zachary G. Lane et.al.|[2311.01438v1](http://arxiv.org/abs/2311.01438v1)|[2311.01438v1](http://arxiv.org/pdf/2311.01438v1)|**[link](https://github.com/antosft/sne-pantheonplus-analysis)**|
 |**2023-11-02**|**Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets**|Megan G. Li et.al.|[2311.01427v1](http://arxiv.org/abs/2311.01427v1)|[2311.01427v1](http://arxiv.org/pdf/2311.01427v1)|null|
 |**2023-11-02**|**Spectral Redundancy for Calibrating Interferometers and Suppressing the Foreground Wedge in 21\,cm Cosmology**|Tyler A. Cox et.al.|[2311.01422v1](http://arxiv.org/abs/2311.01422v1)|[2311.01422v1](http://arxiv.org/pdf/2311.01422v1)|null|
 |**2023-11-02**|**High-Spectral Resolution Dark Holes: Concept, Results, and Promise**|William Thompson et.al.|[2311.01421v1](http://arxiv.org/abs/2311.01421v1)|[2311.01421v1](http://arxiv.org/pdf/2311.01421v1)|null|
