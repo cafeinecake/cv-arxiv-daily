@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-07**|**The miniJPAS survey: Maximising the photo-z accuracy from multi-survey datasets with probability conflation**|A. Hernán-Caballero et.al.|[2311.04220v1](http://arxiv.org/abs/2311.04220v1)|[2311.04220v1](http://arxiv.org/pdf/2311.04220v1)|null|
+|**2023-11-07**|**Detection of the CMB lensing -- galaxy bispectrum**|Gerrit S. Farren et.al.|[2311.04213v1](http://arxiv.org/abs/2311.04213v1)|[2311.04213v1](http://arxiv.org/pdf/2311.04213v1)|null|
+|**2023-11-07**|**On the pathological character of modifications of Coincident General Relativity: Cosmological strong coupling and ghosts in $f(\mathbb{Q})$ theories**|Débora Aguiar Gomes et.al.|[2311.04201v1](http://arxiv.org/abs/2311.04201v1)|[2311.04201v1](http://arxiv.org/pdf/2311.04201v1)|null|
+|**2023-11-07**|**The Near-surface Shear Layer (NSSL) of the Sun: A Theoretical Model**|Arnab Rai Choudhuri et.al.|[2311.04197v1](http://arxiv.org/abs/2311.04197v1)|[2311.04197v1](http://arxiv.org/pdf/2311.04197v1)|null|
+|**2023-11-07**|**Linear to circular conversion in the polarized radio emission of a magnetar**|Marcus E. Lower et.al.|[2311.04195v1](http://arxiv.org/abs/2311.04195v1)|[2311.04195v1](http://arxiv.org/pdf/2311.04195v1)|null|
+|**2023-11-07**|**Cloud-cloud collisions triggering star formation in galaxy simulations**|Shu Horie et.al.|[2311.04175v1](http://arxiv.org/abs/2311.04175v1)|[2311.04175v1](http://arxiv.org/pdf/2311.04175v1)|null|
+|**2023-11-07**|**The early evolution of young massive clusters. II. The kinematic history of NGC 6618 / M 17**|Mitchel Stoop et.al.|[2311.04174v1](http://arxiv.org/abs/2311.04174v1)|[2311.04174v1](http://arxiv.org/pdf/2311.04174v1)|null|
+|**2023-11-07**|**Cosmic magnification in beyond-Horndeski gravity**|Didam Duniya et.al.|[2311.04169v1](http://arxiv.org/abs/2311.04169v1)|[2311.04169v1](http://arxiv.org/pdf/2311.04169v1)|null|
+|**2023-11-07**|**Exploring Climate with Obliquity in a Variable-eccentricity Earth-like World**|M. J. Way et.al.|[2311.04167v1](http://arxiv.org/abs/2311.04167v1)|[2311.04167v1](http://arxiv.org/pdf/2311.04167v1)|null|
+|**2023-11-07**|**Kernel-, mean- and noise-marginalised Gaussian processes for exoplanet transits and $H_0$ inference**|Namu Kroupa et.al.|[2311.04153v1](http://arxiv.org/abs/2311.04153v1)|[2311.04153v1](http://arxiv.org/pdf/2311.04153v1)|null|
 |**2023-11-06**|**Impact of a mean field dynamo on neutron star mergers leading to magnetar remnants**|Elias R. Most et.al.|[2311.03333v1](http://arxiv.org/abs/2311.03333v1)|[2311.03333v1](http://arxiv.org/pdf/2311.03333v1)|null|
 |**2023-11-06**|**Gravitational memory signal from neutrino self-interactions in supernova**|Soumya Bhattacharya et.al.|[2311.03315v1](http://arxiv.org/abs/2311.03315v1)|[2311.03315v1](http://arxiv.org/pdf/2311.03315v1)|null|
 |**2023-11-06**|**The Distance to the Stars**|Ralf Siebenmorgen et.al.|[2311.03310v1](http://arxiv.org/abs/2311.03310v1)|[2311.03310v1](http://arxiv.org/pdf/2311.03310v1)|null|
@@ -3459,6 +3469,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219v1](http://arxiv.org/abs/2311.04219v1)|[2311.04219v1](http://arxiv.org/pdf/2311.04219v1)|null|
+|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|[2311.04218v1](http://arxiv.org/pdf/2311.04218v1)|null|
+|**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216v1](http://arxiv.org/abs/2311.04216v1)|[2311.04216v1](http://arxiv.org/pdf/2311.04216v1)|null|
+|**2023-11-07**|**Wearable data from subjects playing Super Mario, sitting university exams, or performing physical exercise help detect acute mood episodes via self-supervised learning**|Filippo Corponi et.al.|[2311.04215v1](http://arxiv.org/abs/2311.04215v1)|[2311.04215v1](http://arxiv.org/pdf/2311.04215v1)|null|
+|**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205v1](http://arxiv.org/abs/2311.04205v1)|[2311.04205v1](http://arxiv.org/pdf/2311.04205v1)|null|
+|**2023-11-07**|**JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**|Zhongfen Deng et.al.|[2311.04196v1](http://arxiv.org/abs/2311.04196v1)|[2311.04196v1](http://arxiv.org/pdf/2311.04196v1)|**[link](https://github.com/zhongfendeng/jpave)**|
+|**2023-11-07**|**Selective Visual Representations Improve Convergence and Generalization for Embodied AI**|Ainaz Eftekhar et.al.|[2311.04193v1](http://arxiv.org/abs/2311.04193v1)|[2311.04193v1](http://arxiv.org/pdf/2311.04193v1)|null|
+|**2023-11-07**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al.|[2311.04190v1](http://arxiv.org/abs/2311.04190v1)|[2311.04190v1](http://arxiv.org/pdf/2311.04190v1)|null|
+|**2023-11-07**|**On Leakage in Machine Learning Pipelines**|Leonard Sasse et.al.|[2311.04179v1](http://arxiv.org/abs/2311.04179v1)|[2311.04179v1](http://arxiv.org/pdf/2311.04179v1)|null|
+|**2023-11-07**|**Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation**|Eric Melz et.al.|[2311.04177v1](http://arxiv.org/abs/2311.04177v1)|[2311.04177v1](http://arxiv.org/pdf/2311.04177v1)|null|
 |**2023-11-06**|**Exploitation-Guided Exploration for Semantic Embodied Navigation**|Justin Wasserman et.al.|[2311.03357v1](http://arxiv.org/abs/2311.03357v1)|[2311.03357v1](http://arxiv.org/pdf/2311.03357v1)|null|
 |**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356v1](http://arxiv.org/abs/2311.03356v1)|[2311.03356v1](http://arxiv.org/pdf/2311.03356v1)|null|
 |**2023-11-06**|**SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis**|Hanrong Ye et.al.|[2311.03355v1](http://arxiv.org/abs/2311.03355v1)|[2311.03355v1](http://arxiv.org/pdf/2311.03355v1)|null|
