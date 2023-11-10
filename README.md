@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-09**|**Modeling the Evolution from Massive Stars to Supernovae and Supernova Remnants**|Salvatore Orlando et.al.|[2311.05612v1](http://arxiv.org/abs/2311.05612v1)|[2311.05612v1](http://arxiv.org/pdf/2311.05612v1)|null|
+|**2023-11-09**|**Pulsar Timing Anomalies: A Window into Baryon Number Violation**|Mohammadreza Zakeri et.al.|[2311.05586v1](http://arxiv.org/abs/2311.05586v1)|[2311.05586v1](http://arxiv.org/pdf/2311.05586v1)|null|
+|**2023-11-09**|**The Simons Observatory: Large-Scale Characterization of 90/150 GHz TES Detector Modules**|Daniel Dutcher et.al.|[2311.05583v1](http://arxiv.org/abs/2311.05583v1)|[2311.05583v1](http://arxiv.org/pdf/2311.05583v1)|null|
+|**2023-11-09**|**Evidence for stellar mergers of evolved massive binaries: blue supergiants in the Large Magellanic Cloud**|Athira Menon et.al.|[2311.05581v1](http://arxiv.org/abs/2311.05581v1)|[2311.05581v1](http://arxiv.org/pdf/2311.05581v1)|null|
+|**2023-11-09**|**Unveiling the white dwarf in J191213.72-441045.1 through ultraviolet observations**|Ingrid Pelisoli et.al.|[2311.05558v1](http://arxiv.org/abs/2311.05558v1)|[2311.05558v1](http://arxiv.org/pdf/2311.05558v1)|null|
+|**2023-11-09**|**Testing the Existence of Event Horizons against Rotating Reflecting Surfaces**|Joost de Kleuver et.al.|[2311.05555v1](http://arxiv.org/abs/2311.05555v1)|[2311.05555v1](http://arxiv.org/pdf/2311.05555v1)|null|
+|**2023-11-09**|**On the transition radiation interpretation of anomalous ANITA events**|Juan Ammerman-Yebra et.al.|[2311.05554v1](http://arxiv.org/abs/2311.05554v1)|[2311.05554v1](http://arxiv.org/pdf/2311.05554v1)|null|
+|**2023-11-09**|**Scale-invariant Mode in Collisionless Spherical Stellar Systems**|Evgeny V. Polyachenko et.al.|[2311.05551v1](http://arxiv.org/abs/2311.05551v1)|[2311.05551v1](http://arxiv.org/pdf/2311.05551v1)|null|
+|**2023-11-09**|**Inferring properties of dark galactic halos using strongly lensed gravitational waves**|Eungwang Seo et.al.|[2311.05543v1](http://arxiv.org/abs/2311.05543v1)|[2311.05543v1](http://arxiv.org/pdf/2311.05543v1)|null|
+|**2023-11-09**|**The expansion of the GRB 221009A afterglow**|S. Giarratana et.al.|[2311.05527v1](http://arxiv.org/abs/2311.05527v1)|[2311.05527v1](http://arxiv.org/pdf/2311.05527v1)|null|
 |**2023-11-08**|**TESS photometry of the nova eruption in V606 Vul: asymmetric photosphere and multiple ejections?**|Kirill V. Sokolovsky et.al.|[2311.04903v1](http://arxiv.org/abs/2311.04903v1)|[2311.04903v1](http://arxiv.org/pdf/2311.04903v1)|null|
 |**2023-11-08**|**Light Fields during Inflation from BOSS and Future Galaxy Surveys**|Daniel Green et.al.|[2311.04882v1](http://arxiv.org/abs/2311.04882v1)|[2311.04882v1](http://arxiv.org/pdf/2311.04882v1)|null|
 |**2023-11-08**|**Connecting Core Galaxy Properties to the Massive Black Hole Binary Population**|CJ Harris et.al.|[2311.04877v1](http://arxiv.org/abs/2311.04877v1)|[2311.04877v1](http://arxiv.org/pdf/2311.04877v1)|null|
@@ -3479,6 +3489,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-09**|**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608v1](http://arxiv.org/abs/2311.05608v1)|[2311.05608v1](http://arxiv.org/pdf/2311.05608v1)|**[link](https://github.com/thuccslab/figstep)**|
+|**2023-11-09**|**Real-Time Neural Rasterization for Large Scenes**|Jeffrey Yunfan Liu et.al.|[2311.05607v1](http://arxiv.org/abs/2311.05607v1)|[2311.05607v1](http://arxiv.org/pdf/2311.05607v1)|null|
+|**2023-11-09**|**SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers**|Sammy Christen et.al.|[2311.05599v1](http://arxiv.org/abs/2311.05599v1)|[2311.05599v1](http://arxiv.org/pdf/2311.05599v1)|null|
+|**2023-11-09**|**LLM Augmented Hierarchical Agents**|Bharat Prakash et.al.|[2311.05596v1](http://arxiv.org/abs/2311.05596v1)|[2311.05596v1](http://arxiv.org/pdf/2311.05596v1)|null|
+|**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591v1](http://arxiv.org/abs/2311.05591v1)|[2311.05591v1](http://arxiv.org/pdf/2311.05591v1)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
+|**2023-11-09**|**Conversational AI Threads for Visualizing Multidimensional Datasets**|Matt-Heun Hong et.al.|[2311.05590v1](http://arxiv.org/abs/2311.05590v1)|[2311.05590v1](http://arxiv.org/pdf/2311.05590v1)|null|
+|**2023-11-09**|**Bayesian Methods for Media Mix Modelling with shape and funnel effects**|Javier Marin et.al.|[2311.05587v1](http://arxiv.org/abs/2311.05587v1)|[2311.05587v1](http://arxiv.org/pdf/2311.05587v1)|null|
+|**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584v1](http://arxiv.org/abs/2311.05584v1)|[2311.05584v1](http://arxiv.org/pdf/2311.05584v1)|null|
+|**2023-11-09**|**Inference for Probabilistic Dependency Graphs**|Oliver E. Richardson et.al.|[2311.05580v1](http://arxiv.org/abs/2311.05580v1)|[2311.05580v1](http://arxiv.org/pdf/2311.05580v1)|**[link](https://github.com/orichardson/pdg-infer-uai)**|
+|**2023-11-09**|**Removing RLHF Protections in GPT-4 via Fine-Tuning**|Qiusi Zhan et.al.|[2311.05553v1](http://arxiv.org/abs/2311.05553v1)|[2311.05553v1](http://arxiv.org/pdf/2311.05553v1)|null|
 |**2023-11-08**|**Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models**|Rocktim Jyoti Das et.al.|[2311.04902v1](http://arxiv.org/abs/2311.04902v1)|[2311.04902v1](http://arxiv.org/pdf/2311.04902v1)|**[link](https://github.com/rocktimjyotidas/gblm-pruner)**|
 |**2023-11-08**|**Two Complementary Perspectives to Continual Learning: Ask Not Only What to Optimize, But Also How**|Timm Hess et.al.|[2311.04898v1](http://arxiv.org/abs/2311.04898v1)|[2311.04898v1](http://arxiv.org/pdf/2311.04898v1)|null|
 |**2023-11-08**|**DAMEX: Dataset-aware Mixture-of-Experts for visual understanding of mixture-of-datasets**|Yash Jain et.al.|[2311.04894v1](http://arxiv.org/abs/2311.04894v1)|[2311.04894v1](http://arxiv.org/pdf/2311.04894v1)|**[link](https://github.com/jinga-lala/damex)**|
