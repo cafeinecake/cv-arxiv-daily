@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-10**|**Prospects for realtime characterization of core-collapse supernova and neutrino properties**|Meriem Bendahman et.al.|[2311.06216v1](http://arxiv.org/abs/2311.06216v1)|[2311.06216v1](http://arxiv.org/pdf/2311.06216v1)|null|
+|**2023-11-10**|**Evidence for the emergence of dust-free stellar populations at z > 10**|F. Cullen et.al.|[2311.06209v1](http://arxiv.org/abs/2311.06209v1)|[2311.06209v1](http://arxiv.org/pdf/2311.06209v1)|null|
+|**2023-11-10**|**Center-to-limb variation of spectral lines and their effect on full-disk observations**|Alexander G. M. Pietrow et.al.|[2311.06200v1](http://arxiv.org/abs/2311.06200v1)|[2311.06200v1](http://arxiv.org/pdf/2311.06200v1)|null|
+|**2023-11-10**|**Hints of tensions in the cosmic microwave background temperature and polarization quadrupoles**|Jahmour J. Givans et.al.|[2311.06196v1](http://arxiv.org/abs/2311.06196v1)|[2311.06196v1](http://arxiv.org/pdf/2311.06196v1)|null|
+|**2023-11-10**|**WInDI: a Warp-Induced Dust Instability in protoplanetary discs**|Hossam Aly et.al.|[2311.06182v1](http://arxiv.org/abs/2311.06182v1)|[2311.06182v1](http://arxiv.org/pdf/2311.06182v1)|null|
+|**2023-11-10**|**Application of neural networks to synchro-Compton blazar emission models**|A. Tzavellas et.al.|[2311.06181v1](http://arxiv.org/abs/2311.06181v1)|[2311.06181v1](http://arxiv.org/pdf/2311.06181v1)|null|
+|**2023-11-10**|**Evaluating the Consistency of Cosmological Distances Using Supernova Siblings in the Near-Infrared**|Arianna M. Dwomoh et.al.|[2311.06178v1](http://arxiv.org/abs/2311.06178v1)|[2311.06178v1](http://arxiv.org/pdf/2311.06178v1)|null|
+|**2023-11-10**|**Detection of the infrared aurora at Uranus with Keck-NIRSPEC**|Emma M. Thomas et.al.|[2311.06172v1](http://arxiv.org/abs/2311.06172v1)|[2311.06172v1](http://arxiv.org/pdf/2311.06172v1)|null|
+|**2023-11-10**|**Challenges Modeling the Low-Luminosity Type Iax Supernovae**|Catherine Feldman et.al.|[2311.06168v1](http://arxiv.org/abs/2311.06168v1)|[2311.06168v1](http://arxiv.org/pdf/2311.06168v1)|null|
+|**2023-11-10**|**Gain variations as induced by the diffuse night sky background: the ASTRI-Horn experience**|D. Impiombato et.al.|[2311.06155v1](http://arxiv.org/abs/2311.06155v1)|[2311.06155v1](http://arxiv.org/pdf/2311.06155v1)|null|
 |**2023-11-09**|**Modeling the Evolution from Massive Stars to Supernovae and Supernova Remnants**|Salvatore Orlando et.al.|[2311.05612v1](http://arxiv.org/abs/2311.05612v1)|[2311.05612v1](http://arxiv.org/pdf/2311.05612v1)|null|
 |**2023-11-09**|**Pulsar Timing Anomalies: A Window into Baryon Number Violation**|Mohammadreza Zakeri et.al.|[2311.05586v1](http://arxiv.org/abs/2311.05586v1)|[2311.05586v1](http://arxiv.org/pdf/2311.05586v1)|null|
 |**2023-11-09**|**The Simons Observatory: Large-Scale Characterization of 90/150 GHz TES Detector Modules**|Daniel Dutcher et.al.|[2311.05583v1](http://arxiv.org/abs/2311.05583v1)|[2311.05583v1](http://arxiv.org/pdf/2311.05583v1)|null|
@@ -3489,6 +3499,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|[2311.06243v1](http://arxiv.org/pdf/2311.06243v1)|null|
+|**2023-11-10**|**Data Contamination Quiz: A Tool to Detect and Estimate Contamination in Large Language Models**|Shahriar Golchin et.al.|[2311.06233v1](http://arxiv.org/abs/2311.06233v1)|[2311.06233v1](http://arxiv.org/pdf/2311.06233v1)|null|
+|**2023-11-10**|**Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization**|Elior Benarous et.al.|[2311.06224v1](http://arxiv.org/abs/2311.06224v1)|[2311.06224v1](http://arxiv.org/pdf/2311.06224v1)|null|
+|**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|[2311.06222v1](http://arxiv.org/pdf/2311.06222v1)|null|
+|**2023-11-10**|**A Comparison of Lexicon-Based and ML-Based Sentiment Analysis: Are There Outlier Words?**|Siddhant Jaydeep Mahajani et.al.|[2311.06221v1](http://arxiv.org/abs/2311.06221v1)|[2311.06221v1](http://arxiv.org/pdf/2311.06221v1)|null|
+|**2023-11-10**|**MultiIoT: Towards Large-scale Multisensory Learning for the Internet of Things**|Shentong Mo et.al.|[2311.06217v1](http://arxiv.org/abs/2311.06217v1)|[2311.06217v1](http://arxiv.org/pdf/2311.06217v1)|null|
+|**2023-11-10**|**Vox Populi, Vox ChatGPT: Large Language Models, Education and Democracy**|Niina Zuber et.al.|[2311.06207v1](http://arxiv.org/abs/2311.06207v1)|[2311.06207v1](http://arxiv.org/pdf/2311.06207v1)|null|
+|**2023-11-10**|**BanglaBait: Semi-Supervised Adversarial Approach for Clickbait Detection on Bangla Clickbait Dataset**|Md. Motahar Mahtab et.al.|[2311.06204v1](http://arxiv.org/abs/2311.06204v1)|[2311.06204v1](http://arxiv.org/pdf/2311.06204v1)|**[link](https://github.com/mdmotaharmahtab/banglabait)**|
+|**2023-11-10**|**Greedy PIG: Adaptive Integrated Gradients**|Kyriakos Axiotis et.al.|[2311.06192v1](http://arxiv.org/abs/2311.06192v1)|[2311.06192v1](http://arxiv.org/pdf/2311.06192v1)|null|
+|**2023-11-10**|**FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective**|Kun Yi et.al.|[2311.06190v1](http://arxiv.org/abs/2311.06190v1)|[2311.06190v1](http://arxiv.org/pdf/2311.06190v1)|null|
 |**2023-11-09**|**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608v1](http://arxiv.org/abs/2311.05608v1)|[2311.05608v1](http://arxiv.org/pdf/2311.05608v1)|**[link](https://github.com/thuccslab/figstep)**|
 |**2023-11-09**|**Real-Time Neural Rasterization for Large Scenes**|Jeffrey Yunfan Liu et.al.|[2311.05607v1](http://arxiv.org/abs/2311.05607v1)|[2311.05607v1](http://arxiv.org/pdf/2311.05607v1)|null|
 |**2023-11-09**|**SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers**|Sammy Christen et.al.|[2311.05599v1](http://arxiv.org/abs/2311.05599v1)|[2311.05599v1](http://arxiv.org/pdf/2311.05599v1)|null|
