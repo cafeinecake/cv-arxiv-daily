@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-13**|**On the connection between AGN radiative feedback and massive black hole spin**|Francesco Bollati et.al.|[2311.07576v1](http://arxiv.org/abs/2311.07576v1)|[2311.07576v1](http://arxiv.org/pdf/2311.07576v1)|null|
+|**2023-11-13**|**Backreaction of axion-SU(2) dynamics during inflation**|Oksana Iarygina et.al.|[2311.07557v1](http://arxiv.org/abs/2311.07557v1)|[2311.07557v1](http://arxiv.org/pdf/2311.07557v1)|null|
+|**2023-11-13**|**Retrievals Applied To A Decision Tree Framework Can Characterize Earth-like Exoplanet Analogs**|Amber V. Young et.al.|[2311.07530v1](http://arxiv.org/abs/2311.07530v1)|[2311.07530v1](http://arxiv.org/pdf/2311.07530v1)|null|
+|**2023-11-13**|**The Effects of Wind Roche-lobe Overflow on Binary Evolution**|Meng Sun et.al.|[2311.07528v1](http://arxiv.org/abs/2311.07528v1)|[2311.07528v1](http://arxiv.org/pdf/2311.07528v1)|null|
+|**2023-11-13**|**CCD Photometry of the Globular Cluster NGC 5897**|A. Ruelas-Mayorga et.al.|[2311.07525v1](http://arxiv.org/abs/2311.07525v1)|[2311.07525v1](http://arxiv.org/pdf/2311.07525v1)|null|
+|**2023-11-13**|**Galaxy Clusters Discovered via the Thermal Sunyaev-Zel'dovich Effect in the 500-square-degree SPTpol Survey**|L. E. Bleem et.al.|[2311.07512v1](http://arxiv.org/abs/2311.07512v1)|[2311.07512v1](http://arxiv.org/pdf/2311.07512v1)|null|
+|**2023-11-13**|**The eROSITA view of the Abell 3391/95 field: Cluster Outskirts and Filaments**|Angie Veronica et.al.|[2311.07488v1](http://arxiv.org/abs/2311.07488v1)|[2311.07488v1](http://arxiv.org/pdf/2311.07488v1)|null|
+|**2023-11-13**|**The galaxies missed by Hubble and ALMA: the contribution of extremely red galaxies to the cosmic census at 3<z<8**|Christina C. Williams et.al.|[2311.07483v1](http://arxiv.org/abs/2311.07483v1)|[2311.07483v1](http://arxiv.org/pdf/2311.07483v1)|null|
+|**2023-11-13**|**HESS J1809-193: Gamma-Ray Emission by Cosmic Rays from Past Explosion**|Sovan Boxi et.al.|[2311.07481v1](http://arxiv.org/abs/2311.07481v1)|[2311.07481v1](http://arxiv.org/pdf/2311.07481v1)|null|
+|**2023-11-13**|**NRTidalv3: A New and Robust Gravitational-Waveform Model for High-Mass-Ratio Binary Neutron Star Systems with Dynamical Tidal Effects**|Adrian Abac et.al.|[2311.07456v1](http://arxiv.org/abs/2311.07456v1)|[2311.07456v1](http://arxiv.org/pdf/2311.07456v1)|null|
 |**2023-11-10**|**Prospects for realtime characterization of core-collapse supernova and neutrino properties**|Meriem Bendahman et.al.|[2311.06216v1](http://arxiv.org/abs/2311.06216v1)|[2311.06216v1](http://arxiv.org/pdf/2311.06216v1)|null|
 |**2023-11-10**|**Evidence for the emergence of dust-free stellar populations at z > 10**|F. Cullen et.al.|[2311.06209v1](http://arxiv.org/abs/2311.06209v1)|[2311.06209v1](http://arxiv.org/pdf/2311.06209v1)|null|
 |**2023-11-10**|**Center-to-limb variation of spectral lines and their effect on full-disk observations**|Alexander G. M. Pietrow et.al.|[2311.06200v1](http://arxiv.org/abs/2311.06200v1)|[2311.06200v1](http://arxiv.org/pdf/2311.06200v1)|null|
@@ -3503,6 +3513,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|[2311.07575v1](http://arxiv.org/pdf/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|[2311.07562v1](http://arxiv.org/pdf/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
+|**2023-11-13**|**An Extensive Study on Adversarial Attack against Pre-trained Models of Code**|Xiaohu Du et.al.|[2311.07553v1](http://arxiv.org/abs/2311.07553v1)|[2311.07553v1](http://arxiv.org/pdf/2311.07553v1)|**[link](https://github.com/cgcl-codes/attack_ptmc)**|
+|**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547v1](http://arxiv.org/abs/2311.07547v1)|[2311.07547v1](http://arxiv.org/pdf/2311.07547v1)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
+|**2023-11-13**|**mlscorecheck: Testing the consistency of reported performance scores and experiments in machine learning**|György Kovács et.al.|[2311.07541v1](http://arxiv.org/abs/2311.07541v1)|[2311.07541v1](http://arxiv.org/pdf/2311.07541v1)|null|
+|**2023-11-13**|**Grounding Neuroscience in Behavioral Changes using Artificial Neural Networks**|Grace W. Lindsay et.al.|[2311.07526v1](http://arxiv.org/abs/2311.07526v1)|[2311.07526v1](http://arxiv.org/pdf/2311.07526v1)|null|
+|**2023-11-13**|**A Hypothesis on Good Practices for AI-based Systems for Financial Time Series Forecasting: Towards Domain-Driven XAI Methods**|Branka Hadji Misheva et.al.|[2311.07513v1](http://arxiv.org/abs/2311.07513v1)|[2311.07513v1](http://arxiv.org/pdf/2311.07513v1)|null|
+|**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509v1](http://arxiv.org/abs/2311.07509v1)|[2311.07509v1](http://arxiv.org/pdf/2311.07509v1)|null|
+|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485v1](http://arxiv.org/abs/2311.07485v1)|[2311.07485v1](http://arxiv.org/pdf/2311.07485v1)|null|
+|**2023-11-13**|**Psychometric Predictive Power of Large Language Models**|Tatsuki Kuribayashi et.al.|[2311.07484v1](http://arxiv.org/abs/2311.07484v1)|[2311.07484v1](http://arxiv.org/pdf/2311.07484v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|[2311.06243v1](http://arxiv.org/pdf/2311.06243v1)|null|
 |**2023-11-10**|**Data Contamination Quiz: A Tool to Detect and Estimate Contamination in Large Language Models**|Shahriar Golchin et.al.|[2311.06233v1](http://arxiv.org/abs/2311.06233v1)|[2311.06233v1](http://arxiv.org/pdf/2311.06233v1)|null|
 |**2023-11-10**|**Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization**|Elior Benarous et.al.|[2311.06224v1](http://arxiv.org/abs/2311.06224v1)|[2311.06224v1](http://arxiv.org/pdf/2311.06224v1)|null|
