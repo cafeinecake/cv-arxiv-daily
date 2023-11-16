@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-15**|**Topology of Pulsar Profiles (ToPP). I. Graph theory method and classification of the EPN**|D. Vohl et.al.|[2311.09201v1](http://arxiv.org/abs/2311.09201v1)|[2311.09201v1](http://arxiv.org/pdf/2311.09201v1)|null|
+|**2023-11-15**|**Planetary nebulae as tracers of stellar population properties: unlocking their potential with integral-field spectroscopy**|Ana Ennis et.al.|[2311.09176v1](http://arxiv.org/abs/2311.09176v1)|[2311.09176v1](http://arxiv.org/pdf/2311.09176v1)|null|
+|**2023-11-15**|**Leaving No Branches Behind: Predicting Baryonic Properties of Galaxies from Merger Trees**|Chen-Yu Chuang et.al.|[2311.09162v1](http://arxiv.org/abs/2311.09162v1)|[2311.09162v1](http://arxiv.org/pdf/2311.09162v1)|null|
+|**2023-11-15**|**The black hole occupation fraction of local dwarf galaxies with AXIS**|Elena Gallo et.al.|[2311.09161v1](http://arxiv.org/abs/2311.09161v1)|[2311.09161v1](http://arxiv.org/pdf/2311.09161v1)|null|
+|**2023-11-15**|**Characterizing the efficacy of methods to subtract terrestrial transient noise near gravitational wave events and the effects on parameter estimation**|Sudarshan Ghonge et.al.|[2311.09159v1](http://arxiv.org/abs/2311.09159v1)|[2311.09159v1](http://arxiv.org/pdf/2311.09159v1)|null|
+|**2023-11-15**|**Differential Rotation in Compact Objects with Hyperons and Delta Isobars**|Delaney Farrell et.al.|[2311.09158v1](http://arxiv.org/abs/2311.09158v1)|[2311.09158v1](http://arxiv.org/pdf/2311.09158v1)|null|
+|**2023-11-15**|**Hints of Neutrino Dark Matter scattering in the CMB? Constraints from the Marginalized and Profile Distributions**|William Giarè et.al.|[2311.09116v1](http://arxiv.org/abs/2311.09116v1)|[2311.09116v1](http://arxiv.org/pdf/2311.09116v1)|null|
+|**2023-11-15**|**Nature of 4FGL J1838.2+3223: a flaring `spider' pulsar candidate**|D. A. Zyuzin et.al.|[2311.09108v1](http://arxiv.org/abs/2311.09108v1)|[2311.09108v1](http://arxiv.org/pdf/2311.09108v1)|null|
+|**2023-11-15**|**Plasma Radiation Model of Fast Radio Bursts from Magnetars**|Edison Liang et.al.|[2311.09097v1](http://arxiv.org/abs/2311.09097v1)|[2311.09097v1](http://arxiv.org/pdf/2311.09097v1)|null|
+|**2023-11-15**|**On the mass and wind luminosity of young Galactic open clusters in Gaia DR2**|Silvia Celli et.al.|[2311.09089v1](http://arxiv.org/abs/2311.09089v1)|[2311.09089v1](http://arxiv.org/pdf/2311.09089v1)|null|
 |**2023-11-14**|**Exploring Be phenomena in OBA stars: a mid-infrared search**|Mingjie Jian et.al.|[2311.08395v1](http://arxiv.org/abs/2311.08395v1)|[2311.08395v1](http://arxiv.org/pdf/2311.08395v1)|null|
 |**2023-11-14**|**Proposing a Physical Mechanism to Explain Various Observed Sources of QPOs by Simulating the Dynamics of Accretion Disks around the Black Holes**|Orhan Donmez et.al.|[2311.08388v1](http://arxiv.org/abs/2311.08388v1)|[2311.08388v1](http://arxiv.org/pdf/2311.08388v1)|null|
 |**2023-11-14**|**Evaporation Ages: a New Dating Method for Young Star Clusters**|V. -M. Pelkonen et.al.|[2311.08363v1](http://arxiv.org/abs/2311.08363v1)|[2311.08363v1](http://arxiv.org/pdf/2311.08363v1)|null|
@@ -3523,6 +3533,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-15**|**Assessing Translation capabilities of Large Language Models involving English and Indian Languages**|Vandan Mujadia et.al.|[2311.09216v1](http://arxiv.org/abs/2311.09216v1)|[2311.09216v1](http://arxiv.org/pdf/2311.09216v1)|null|
+|**2023-11-15**|**Controllable Text Summarization: Unraveling Challenges, Approaches, and Prospects -- A Survey**|Ashok Urlana et.al.|[2311.09212v1](http://arxiv.org/abs/2311.09212v1)|[2311.09212v1](http://arxiv.org/pdf/2311.09212v1)|null|
+|**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210v1](http://arxiv.org/abs/2311.09210v1)|[2311.09210v1](http://arxiv.org/pdf/2311.09210v1)|null|
+|**2023-11-15**|**Fusion-Eval: Integrating Evaluators with LLMs**|Lei Shu et.al.|[2311.09204v1](http://arxiv.org/abs/2311.09204v1)|[2311.09204v1](http://arxiv.org/pdf/2311.09204v1)|null|
+|**2023-11-15**|**ExpM+NF: Differentially Private Machine Learning that Surpasses DPSGD**|Robert A. Bridges et.al.|[2311.09200v1](http://arxiv.org/abs/2311.09200v1)|[2311.09200v1](http://arxiv.org/pdf/2311.09200v1)|null|
+|**2023-11-15**|**Never Lost in the Middle: Improving Large Language Models via Attention Strengthening Question Answering**|He Junqing et.al.|[2311.09198v1](http://arxiv.org/abs/2311.09198v1)|[2311.09198v1](http://arxiv.org/pdf/2311.09198v1)|null|
+|**2023-11-15**|**The Role of Chain-of-Thought in Complex Vision-Language Reasoning Task**|Yifan Wu et.al.|[2311.09193v1](http://arxiv.org/abs/2311.09193v1)|[2311.09193v1](http://arxiv.org/pdf/2311.09193v1)|null|
+|**2023-11-15**|**Towards Verifiable Text Generation with Symbolic References**|Lucas Torroba Hennigen et.al.|[2311.09188v1](http://arxiv.org/abs/2311.09188v1)|[2311.09188v1](http://arxiv.org/pdf/2311.09188v1)|null|
+|**2023-11-15**|**Generate, Filter, and Fuse: Query Expansion via Multi-Step Keyword Generation for Zero-Shot Neural Rankers**|Minghan Li et.al.|[2311.09175v1](http://arxiv.org/abs/2311.09175v1)|[2311.09175v1](http://arxiv.org/pdf/2311.09175v1)|null|
+|**2023-11-15**|**AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph**|Zhaowei Wang et.al.|[2311.09174v1](http://arxiv.org/abs/2311.09174v1)|[2311.09174v1](http://arxiv.org/pdf/2311.09174v1)|null|
 |**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403v1](http://arxiv.org/abs/2311.08403v1)|[2311.08403v1](http://arxiv.org/pdf/2311.08403v1)|null|
 |**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401v1](http://arxiv.org/abs/2311.08401v1)|[2311.08401v1](http://arxiv.org/pdf/2311.08401v1)|null|
 |**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398v1](http://arxiv.org/abs/2311.08398v1)|[2311.08398v1](http://arxiv.org/pdf/2311.08398v1)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
