@@ -1,4 +1,4 @@
-## Updated on 2023.11.16
+## Updated on 2023.11.17
 
 ## Astrophysics
 
@@ -3534,7 +3534,7 @@
 |**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210v1](http://arxiv.org/abs/2311.09210v1)|[2311.09210v1](http://arxiv.org/pdf/2311.09210v1)|null|
 |**2023-11-15**|**Fusion-Eval: Integrating Evaluators with LLMs**|Lei Shu et.al.|[2311.09204v1](http://arxiv.org/abs/2311.09204v1)|[2311.09204v1](http://arxiv.org/pdf/2311.09204v1)|null|
 |**2023-11-15**|**ExpM+NF: Differentially Private Machine Learning that Surpasses DPSGD**|Robert A. Bridges et.al.|[2311.09200v1](http://arxiv.org/abs/2311.09200v1)|[2311.09200v1](http://arxiv.org/pdf/2311.09200v1)|null|
-|**2023-11-15**|**Never Lost in the Middle: Improving Large Language Models via Attention Strengthening Question Answering**|He Junqing et.al.|[2311.09198v1](http://arxiv.org/abs/2311.09198v1)|[2311.09198v1](http://arxiv.org/pdf/2311.09198v1)|null|
+|**2023-11-15**|**Never Lost in the Middle: Improving Large Language Models via Attention Strengthening Question Answering**|Junqing He et.al.|[2311.09198v1](http://arxiv.org/abs/2311.09198v1)|[2311.09198v1](http://arxiv.org/pdf/2311.09198v1)|null|
 |**2023-11-15**|**The Role of Chain-of-Thought in Complex Vision-Language Reasoning Task**|Yifan Wu et.al.|[2311.09193v1](http://arxiv.org/abs/2311.09193v1)|[2311.09193v1](http://arxiv.org/pdf/2311.09193v1)|null|
 |**2023-11-15**|**Towards Verifiable Text Generation with Symbolic References**|Lucas Torroba Hennigen et.al.|[2311.09188v1](http://arxiv.org/abs/2311.09188v1)|[2311.09188v1](http://arxiv.org/pdf/2311.09188v1)|null|
 |**2023-11-15**|**Generate, Filter, and Fuse: Query Expansion via Multi-Step Keyword Generation for Zero-Shot Neural Rankers**|Minghan Li et.al.|[2311.09175v1](http://arxiv.org/abs/2311.09175v1)|[2311.09175v1](http://arxiv.org/pdf/2311.09175v1)|null|
