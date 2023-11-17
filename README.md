@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088v1](http://arxiv.org/abs/2311.10088v1)|[2311.10088v1](http://arxiv.org/pdf/2311.10088v1)|null|
+|**2023-11-16**|**Prospects for detecting the circum- and intergalactic medium in X-ray absorption using the extended intracluster medium as a backlight**|Lýdia Štofanová et.al.|[2311.10062v1](http://arxiv.org/abs/2311.10062v1)|[2311.10062v1](http://arxiv.org/pdf/2311.10062v1)|null|
+|**2023-11-16**|**A Collection of German Science Interests in the Next Generation Very Large Array**|M. Kadler et.al.|[2311.10056v1](http://arxiv.org/abs/2311.10056v1)|[2311.10056v1](http://arxiv.org/pdf/2311.10056v1)|null|
+|**2023-11-16**|**On the potential of Carbon-Enhanced Metal-Poor stars for Galactic Archaeology**|Aruna Goswami et.al.|[2311.10043v1](http://arxiv.org/abs/2311.10043v1)|[2311.10043v1](http://arxiv.org/pdf/2311.10043v1)|null|
+|**2023-11-16**|**PALANTIR: an updated prediction tool for exoplanetary radio emissions**|E. Mauduit et.al.|[2311.10033v1](http://arxiv.org/abs/2311.10033v1)|[2311.10033v1](http://arxiv.org/pdf/2311.10033v1)|null|
+|**2023-11-16**|**On the evolution of Betti curves in the Cosmic web**|Vitalii Tymchyshyn et.al.|[2311.10029v1](http://arxiv.org/abs/2311.10029v1)|[2311.10029v1](http://arxiv.org/pdf/2311.10029v1)|null|
+|**2023-11-16**|**Formation scenarios of Ba stars: new evidence from the masses of the companion AGBs**|Partha Pratim Goswami et.al.|[2311.10015v1](http://arxiv.org/abs/2311.10015v1)|[2311.10015v1](http://arxiv.org/pdf/2311.10015v1)|null|
+|**2023-11-16**|**Finding Real-World Orbital Motion Laws from Data**|João Funenga et.al.|[2311.10012v1](http://arxiv.org/abs/2311.10012v1)|[2311.10012v1](http://arxiv.org/pdf/2311.10012v1)|null|
+|**2023-11-16**|**Antineutrino Opacity in Neutron Stars in the Models Constrained by Recent Terrestrial Experiments and Astrophysical Observations**|Parada T. P. Hutauruk et.al.|[2311.09986v1](http://arxiv.org/abs/2311.09986v1)|[2311.09986v1](http://arxiv.org/pdf/2311.09986v1)|null|
+|**2023-11-16**|**Concurrent Kink and Sausage Waves in A Crescent Shaped Structure Over A Limb Prominence**|Maryam Ghiasi et.al.|[2311.09981v1](http://arxiv.org/abs/2311.09981v1)|[2311.09981v1](http://arxiv.org/pdf/2311.09981v1)|null|
 |**2023-11-15**|**Topology of Pulsar Profiles (ToPP). I. Graph theory method and classification of the EPN**|D. Vohl et.al.|[2311.09201v1](http://arxiv.org/abs/2311.09201v1)|[2311.09201v1](http://arxiv.org/pdf/2311.09201v1)|null|
 |**2023-11-15**|**Planetary nebulae as tracers of stellar population properties: unlocking their potential with integral-field spectroscopy**|Ana Ennis et.al.|[2311.09176v1](http://arxiv.org/abs/2311.09176v1)|[2311.09176v1](http://arxiv.org/pdf/2311.09176v1)|null|
 |**2023-11-15**|**Leaving No Branches Behind: Predicting Baryonic Properties of Galaxies from Merger Trees**|Chen-Yu Chuang et.al.|[2311.09162v1](http://arxiv.org/abs/2311.09162v1)|[2311.09162v1](http://arxiv.org/pdf/2311.09162v1)|null|
@@ -3529,6 +3539,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-16**|**JaxMARL: Multi-Agent RL Environments in JAX**|Alexander Rutherford et.al.|[2311.10090v1](http://arxiv.org/abs/2311.10090v1)|[2311.10090v1](http://arxiv.org/pdf/2311.10090v1)|**[link](https://github.com/flairox/jaxmarl)**|
+|**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|[2311.10089v1](http://arxiv.org/pdf/2311.10089v1)|null|
+|**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075v1](http://arxiv.org/abs/2311.10075v1)|[2311.10075v1](http://arxiv.org/pdf/2311.10075v1)|null|
+|**2023-11-16**|**The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation**|Ilaria Manco et.al.|[2311.10057v1](http://arxiv.org/abs/2311.10057v1)|[2311.10057v1](http://arxiv.org/pdf/2311.10057v1)|null|
+|**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054v1](http://arxiv.org/abs/2311.10054v1)|[2311.10054v1](http://arxiv.org/pdf/2311.10054v1)|null|
+|**2023-11-16**|**Inherently Interpretable Time Series Classification via Multiple Instance Learning**|Joseph Early et.al.|[2311.10049v1](http://arxiv.org/abs/2311.10049v1)|[2311.10049v1](http://arxiv.org/pdf/2311.10049v1)|**[link](https://github.com/jaearly/miltimeseriesclassification)**|
+|**2023-11-16**|**A Novel Neural Network-Based Federated Learning System for Imbalanced and Non-IID Data**|Mahfuzur Rahman Chowdhury et.al.|[2311.10025v1](http://arxiv.org/abs/2311.10025v1)|[2311.10025v1](http://arxiv.org/pdf/2311.10025v1)|null|
+|**2023-11-16**|**Online Optimization for Network Resource Allocation and Comparison with Reinforcement Learning Techniques**|Ahmed Sid-Ali et.al.|[2311.10023v1](http://arxiv.org/abs/2311.10023v1)|[2311.10023v1](http://arxiv.org/pdf/2311.10023v1)|null|
+|**2023-11-16**|**Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network**|Hongda Wu et.al.|[2311.10002v1](http://arxiv.org/abs/2311.10002v1)|[2311.10002v1](http://arxiv.org/pdf/2311.10002v1)|null|
+|**2023-11-16**|**Towards more Practical Threat Models in Artificial Intelligence Security**|Kathrin Grosse et.al.|[2311.09994v1](http://arxiv.org/abs/2311.09994v1)|[2311.09994v1](http://arxiv.org/pdf/2311.09994v1)|null|
 |**2023-11-15**|**Assessing Translation capabilities of Large Language Models involving English and Indian Languages**|Vandan Mujadia et.al.|[2311.09216v1](http://arxiv.org/abs/2311.09216v1)|[2311.09216v1](http://arxiv.org/pdf/2311.09216v1)|null|
 |**2023-11-15**|**Controllable Text Summarization: Unraveling Challenges, Approaches, and Prospects -- A Survey**|Ashok Urlana et.al.|[2311.09212v1](http://arxiv.org/abs/2311.09212v1)|[2311.09212v1](http://arxiv.org/pdf/2311.09212v1)|null|
 |**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210v1](http://arxiv.org/abs/2311.09210v1)|[2311.09210v1](http://arxiv.org/pdf/2311.09210v1)|null|
