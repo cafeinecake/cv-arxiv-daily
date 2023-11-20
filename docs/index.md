@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-17**|**Direct Optimal Mapping Image Power Spectrum and its Window Functions**|Zhilei Xu et.al.|[2311.10711v1](http://arxiv.org/abs/2311.10711v1)|[2311.10711v1](http://arxiv.org/pdf/2311.10711v1)|null|
+|**2023-11-17**|**A Method for Obtaining Cosmological Models Consistency Relations and Gaussian Processes Testing**|J. F. Jesus et.al.|[2311.10703v1](http://arxiv.org/abs/2311.10703v1)|[2311.10703v1](http://arxiv.org/pdf/2311.10703v1)|null|
+|**2023-11-17**|**Polarimetric Geometric Modeling for mm-VLBI Observations of Black Holes**|Freek Roelofs et.al.|[2311.10695v1](http://arxiv.org/abs/2311.10695v1)|[2311.10695v1](http://arxiv.org/pdf/2311.10695v1)|null|
+|**2023-11-17**|**Absolutely Scintillating: constraining $ν$ mass with black hole-forming supernovae**|George Parker et.al.|[2311.10682v1](http://arxiv.org/abs/2311.10682v1)|[2311.10682v1](http://arxiv.org/pdf/2311.10682v1)|null|
+|**2023-11-17**|**Revisiting $ε$ Eridani with NEID: Identifying New Activity-Sensitive Lines in a Young K Dwarf Star**|Sarah Jiang et.al.|[2311.10677v1](http://arxiv.org/abs/2311.10677v1)|[2311.10677v1](http://arxiv.org/pdf/2311.10677v1)|null|
+|**2023-11-17**|**A BRAIN study to tackle image analysis with artificial intelligence in the ALMA 2030 era**|Fabrizia Guglielmetti et.al.|[2311.10657v1](http://arxiv.org/abs/2311.10657v1)|[2311.10657v1](http://arxiv.org/pdf/2311.10657v1)|null|
+|**2023-11-17**|**The isolated dark matter-poor galaxy that ran away. An example from IllustrisTNG**|Ana Mitrašinović et.al.|[2311.10643v1](http://arxiv.org/abs/2311.10643v1)|[2311.10643v1](http://arxiv.org/pdf/2311.10643v1)|null|
+|**2023-11-17**|**Predicting the linear response of self-gravitating stellar spheres and discs with LinearResponse.jl**|Michael S. Petersen et.al.|[2311.10630v1](http://arxiv.org/abs/2311.10630v1)|[2311.10630v1](http://arxiv.org/pdf/2311.10630v1)|null|
+|**2023-11-17**|**Gravity-Induced Ice Compaction and Subsurface Porosity on Icy Moons**|Cyril Mergny et.al.|[2311.10627v1](http://arxiv.org/abs/2311.10627v1)|[2311.10627v1](http://arxiv.org/pdf/2311.10627v1)|null|
+|**2023-11-17**|**Exploring the Potential for Detecting Rotational Instabilities in Binary Neutron Star Merger Remnants with Gravitational Wave Detectors**|Argyro Sasli et.al.|[2311.10626v1](http://arxiv.org/abs/2311.10626v1)|[2311.10626v1](http://arxiv.org/pdf/2311.10626v1)|null|
 |**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088v1](http://arxiv.org/abs/2311.10088v1)|[2311.10088v1](http://arxiv.org/pdf/2311.10088v1)|null|
 |**2023-11-16**|**Prospects for detecting the circum- and intergalactic medium in X-ray absorption using the extended intracluster medium as a backlight**|Lýdia Štofanová et.al.|[2311.10062v1](http://arxiv.org/abs/2311.10062v1)|[2311.10062v1](http://arxiv.org/pdf/2311.10062v1)|null|
 |**2023-11-16**|**A Collection of German Science Interests in the Next Generation Very Large Array**|M. Kadler et.al.|[2311.10056v1](http://arxiv.org/abs/2311.10056v1)|[2311.10056v1](http://arxiv.org/pdf/2311.10056v1)|null|
@@ -3543,6 +3553,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|[2311.10709v1](http://arxiv.org/pdf/2311.10709v1)|null|
+|**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707v1](http://arxiv.org/abs/2311.10707v1)|[2311.10707v1](http://arxiv.org/pdf/2311.10707v1)|null|
+|**2023-11-17**|**Using linear initialisation to improve speed of convergence and fully-trained error in Autoencoders**|Marcel Marais et.al.|[2311.10699v1](http://arxiv.org/abs/2311.10699v1)|[2311.10699v1](http://arxiv.org/pdf/2311.10699v1)|**[link](https://github.com/artefactory-uk/autoencoder-paper)**|
+|**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697v1](http://arxiv.org/abs/2311.10697v1)|[2311.10697v1](http://arxiv.org/pdf/2311.10697v1)|null|
+|**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678v1](http://arxiv.org/abs/2311.10678v1)|[2311.10678v1](http://arxiv.org/pdf/2311.10678v1)|**[link](https://github.com/Stanford-ILIAD/droc)**|
+|**2023-11-17**|**Optimal Path Planning for Aerial Load Transportation in Complex Environments using PSO-Improved Artificial Potential Fields**|Ali Akbar Rezaei Lori et.al.|[2311.10675v1](http://arxiv.org/abs/2311.10675v1)|[2311.10675v1](http://arxiv.org/pdf/2311.10675v1)|null|
+|**2023-11-17**|**Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference**|Marvin Schmitt et.al.|[2311.10671v1](http://arxiv.org/abs/2311.10671v1)|[2311.10671v1](http://arxiv.org/pdf/2311.10671v1)|null|
+|**2023-11-17**|**Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems**|Said Ouala et.al.|[2311.10665v1](http://arxiv.org/abs/2311.10665v1)|[2311.10665v1](http://arxiv.org/pdf/2311.10665v1)|null|
+|**2023-11-17**|**A BRAIN study to tackle image analysis with artificial intelligence in the ALMA 2030 era**|Fabrizia Guglielmetti et.al.|[2311.10657v1](http://arxiv.org/abs/2311.10657v1)|[2311.10657v1](http://arxiv.org/pdf/2311.10657v1)|null|
+|**2023-11-17**|**Multi-delay arterial spin-labeled perfusion estimation with biophysics simulation and deep learning**|Renjiu Hu et.al.|[2311.10640v1](http://arxiv.org/abs/2311.10640v1)|[2311.10640v1](http://arxiv.org/pdf/2311.10640v1)|null|
 |**2023-11-16**|**JaxMARL: Multi-Agent RL Environments in JAX**|Alexander Rutherford et.al.|[2311.10090v1](http://arxiv.org/abs/2311.10090v1)|[2311.10090v1](http://arxiv.org/pdf/2311.10090v1)|**[link](https://github.com/flairox/jaxmarl)**|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|[2311.10089v1](http://arxiv.org/pdf/2311.10089v1)|null|
 |**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075v1](http://arxiv.org/abs/2311.10075v1)|[2311.10075v1](http://arxiv.org/pdf/2311.10075v1)|null|
