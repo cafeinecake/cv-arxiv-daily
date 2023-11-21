@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-20**|**UV to near-IR observations of the DART-Dimorphos collision**|E. O. Ofek et.al.|[2311.12007v1](http://arxiv.org/abs/2311.12007v1)|[2311.12007v1](http://arxiv.org/pdf/2311.12007v1)|null|
+|**2023-11-20**|**A gamma ray study of Galactic PeVatron candidates LHAASO J1825-1236 and J1839-0545**|Rubens Jr. Costa et.al.|[2311.12005v1](http://arxiv.org/abs/2311.12005v1)|[2311.12005v1](http://arxiv.org/pdf/2311.12005v1)|null|
+|**2023-11-20**|**Multiwavelength properties of the low-redshift isolated galaxies with active nuclei modelled with CIGALE**|O. Kompaniiets et.al.|[2311.12000v1](http://arxiv.org/abs/2311.12000v1)|[2311.12000v1](http://arxiv.org/pdf/2311.12000v1)|null|
+|**2023-11-20**|**The stellar bar - dark matter halo connection in the TNG50 simulations**|Sioree Ansar et.al.|[2311.11998v1](http://arxiv.org/abs/2311.11998v1)|[2311.11998v1](http://arxiv.org/pdf/2311.11998v1)|null|
+|**2023-11-20**|**Black Hole Phenomenology and Dark Matter Searches**|Francesca Scarcella et.al.|[2311.11975v1](http://arxiv.org/abs/2311.11975v1)|[2311.11975v1](http://arxiv.org/pdf/2311.11975v1)|null|
+|**2023-11-20**|**Neutrino fast flavor oscillations with moments: linear stability analysis and application to neutron star mergers**|Julien Froustey et.al.|[2311.11968v1](http://arxiv.org/abs/2311.11968v1)|[2311.11968v1](http://arxiv.org/pdf/2311.11968v1)|null|
+|**2023-11-20**|**Characterisation of high velocity stars in the S-PLUS internal fourth data release**|F. Quispe-Huaynasi et.al.|[2311.11940v1](http://arxiv.org/abs/2311.11940v1)|[2311.11940v1](http://arxiv.org/pdf/2311.11940v1)|null|
+|**2023-11-20**|**The westward drift of Jupiter's polar cyclones explained by a center-of-mass approach**|Nimrod Gavriel et.al.|[2311.11917v1](http://arxiv.org/abs/2311.11917v1)|[2311.11917v1](http://arxiv.org/pdf/2311.11917v1)|null|
+|**2023-11-20**|**Deciphering the solar coronal heating: Energizing small-scale loops through surface convection**|D. Nóbrega-Siverio et.al.|[2311.11912v1](http://arxiv.org/abs/2311.11912v1)|[2311.11912v1](http://arxiv.org/pdf/2311.11912v1)|null|
+|**2023-11-20**|**Near-Infrared Observations of Outflows and YSOs in the Massive Star-Forming Region AFGL 5180**|S. Crowe et.al.|[2311.11909v1](http://arxiv.org/abs/2311.11909v1)|[2311.11909v1](http://arxiv.org/pdf/2311.11909v1)|null|
 |**2023-11-17**|**Direct Optimal Mapping Image Power Spectrum and its Window Functions**|Zhilei Xu et.al.|[2311.10711v1](http://arxiv.org/abs/2311.10711v1)|[2311.10711v1](http://arxiv.org/pdf/2311.10711v1)|null|
 |**2023-11-17**|**A Method for Obtaining Cosmological Models Consistency Relations and Gaussian Processes Testing**|J. F. Jesus et.al.|[2311.10703v1](http://arxiv.org/abs/2311.10703v1)|[2311.10703v1](http://arxiv.org/pdf/2311.10703v1)|null|
 |**2023-11-17**|**Polarimetric Geometric Modeling for mm-VLBI Observations of Black Holes**|Freek Roelofs et.al.|[2311.10695v1](http://arxiv.org/abs/2311.10695v1)|[2311.10695v1](http://arxiv.org/pdf/2311.10695v1)|null|
@@ -3553,6 +3563,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028v1](http://arxiv.org/abs/2311.12028v1)|[2311.12028v1](http://arxiv.org/pdf/2311.12028v1)|null|
+|**2023-11-20**|**GPQA: A Graduate-Level Google-Proof Q&A Benchmark**|David Rein et.al.|[2311.12022v1](http://arxiv.org/abs/2311.12022v1)|[2311.12022v1](http://arxiv.org/pdf/2311.12022v1)|**[link](https://github.com/idavidrein/gpqa)**|
+|**2023-11-20**|**Steering Responsible AI: A Case for Algorithmic Pluralism**|Stefaan G. Verhulst et.al.|[2311.12010v1](http://arxiv.org/abs/2311.12010v1)|[2311.12010v1](http://arxiv.org/pdf/2311.12010v1)|null|
+|**2023-11-20**|**BrainWash: A Poisoning Attack to Forget in Continual Learning**|Ali Abbasi et.al.|[2311.11995v1](http://arxiv.org/abs/2311.11995v1)|[2311.11995v1](http://arxiv.org/pdf/2311.11995v1)|null|
+|**2023-11-20**|**Exploring Lip Segmentation Techniques in Computer Vision: A Comparative Analysis**|Pietro B. S. Masur et.al.|[2311.11992v1](http://arxiv.org/abs/2311.11992v1)|[2311.11992v1](http://arxiv.org/pdf/2311.11992v1)|null|
+|**2023-11-20**|**Categorizing the Visual Environment and Analyzing the Visual Attention of Dogs**|Shreyas Sundara Raman et.al.|[2311.11988v1](http://arxiv.org/abs/2311.11988v1)|[2311.11988v1](http://arxiv.org/pdf/2311.11988v1)|null|
+|**2023-11-20**|**The Fractions Skill Score doesn't always measure skill**|Bobby Antonio et.al.|[2311.11985v1](http://arxiv.org/abs/2311.11985v1)|[2311.11985v1](http://arxiv.org/pdf/2311.11985v1)|null|
+|**2023-11-20**|**Leveraging Previous Facial Action Units Knowledge for Emotion Recognition on Faces**|Pietro B. S. Masur et.al.|[2311.11980v1](http://arxiv.org/abs/2311.11980v1)|[2311.11980v1](http://arxiv.org/pdf/2311.11980v1)|null|
+|**2023-11-20**|**Evaluating Supervision Levels Trade-Offs for Infrared-Based People Counting**|David Latortue et.al.|[2311.11974v1](http://arxiv.org/abs/2311.11974v1)|[2311.11974v1](http://arxiv.org/pdf/2311.11974v1)|null|
+|**2023-11-20**|**SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks**|Jin Ye et.al.|[2311.11969v1](http://arxiv.org/abs/2311.11969v1)|[2311.11969v1](http://arxiv.org/pdf/2311.11969v1)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
 |**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|[2311.10709v1](http://arxiv.org/pdf/2311.10709v1)|null|
 |**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707v1](http://arxiv.org/abs/2311.10707v1)|[2311.10707v1](http://arxiv.org/pdf/2311.10707v1)|null|
 |**2023-11-17**|**Using linear initialisation to improve speed of convergence and fully-trained error in Autoencoders**|Marcel Marais et.al.|[2311.10699v1](http://arxiv.org/abs/2311.10699v1)|[2311.10699v1](http://arxiv.org/pdf/2311.10699v1)|**[link](https://github.com/artefactory-uk/autoencoder-paper)**|
