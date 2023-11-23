@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-22**|**Exploring the photometric variability of ultra-cool dwarfs with TESS**|Romina P. Petrucci et.al.|[2311.13591v1](http://arxiv.org/abs/2311.13591v1)|[2311.13591v1](http://arxiv.org/pdf/2311.13591v1)|null|
+|**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566v1](http://arxiv.org/abs/2311.13566v1)|[2311.13566v1](http://arxiv.org/pdf/2311.13566v1)|null|
+|**2023-11-22**|**Detection of the relativistic Shapiro delay in a highly inclined millisecond pulsar binary PSR J1012$-$4235**|T. Gautam et.al.|[2311.13563v1](http://arxiv.org/abs/2311.13563v1)|[2311.13563v1](http://arxiv.org/pdf/2311.13563v1)|null|
+|**2023-11-22**|**Euclid preparation TBD. Modelling spectroscopic clustering on mildly nonlinear scales in beyond-$Λ$CDM models**|Euclid Collaboration et.al.|[2311.13529v1](http://arxiv.org/abs/2311.13529v1)|[2311.13529v1](http://arxiv.org/pdf/2311.13529v1)|null|
+|**2023-11-22**|**$β$ Pictoris b through the eyes of the upgraded CRIRES+**|Rico Landman et.al.|[2311.13527v1](http://arxiv.org/abs/2311.13527v1)|[2311.13527v1](http://arxiv.org/pdf/2311.13527v1)|null|
+|**2023-11-22**|**Imprint of massive neutrinos on Persistent Homology of large-scale structure**|M. H. Jalali Kanafi et.al.|[2311.13520v1](http://arxiv.org/abs/2311.13520v1)|[2311.13520v1](http://arxiv.org/pdf/2311.13520v1)|null|
+|**2023-11-22**|**The SOPHIE search for northern extrasolar planets-XIX. A system including a cold sub-Neptune potentially transiting a V = 6.5 star HD88986**|N. Heidari et.al.|[2311.13513v1](http://arxiv.org/abs/2311.13513v1)|[2311.13513v1](http://arxiv.org/pdf/2311.13513v1)|null|
+|**2023-11-22**|**Unveiling $Ω_{\rm m0}$ independently: a journey and consistency quest with first-order perturbation theory**|Bikash R. Dinda et.al.|[2311.13498v1](http://arxiv.org/abs/2311.13498v1)|[2311.13498v1](http://arxiv.org/pdf/2311.13498v1)|null|
+|**2023-11-22**|**Evidence for enhanced star formation rates in z~0.35 cluster galaxies undergoing ram pressure stripping**|Benedetta Vulcani et.al.|[2311.13486v1](http://arxiv.org/abs/2311.13486v1)|[2311.13486v1](http://arxiv.org/pdf/2311.13486v1)|null|
+|**2023-11-22**|**Polarimetry of Didymos-Dimorphos: Unexpected Long-Term Effects of the DART Impact**|Zuri Gray et.al.|[2311.13483v1](http://arxiv.org/abs/2311.13483v1)|[2311.13483v1](http://arxiv.org/pdf/2311.13483v1)|null|
 |**2023-11-21**|**Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). VI. Nuclear Star Clusters**|Mika Lambert et.al.|[2311.12795v1](http://arxiv.org/abs/2311.12795v1)|[2311.12795v1](http://arxiv.org/pdf/2311.12795v1)|null|
 |**2023-11-21**|**The need for spatially resolved observations of PAHs in protoplanetary discs**|K. Lange et.al.|[2311.12794v1](http://arxiv.org/abs/2311.12794v1)|[2311.12794v1](http://arxiv.org/pdf/2311.12794v1)|null|
 |**2023-11-21**|**Formation of a Bose Star in a Rotating Cloud**|Kuldeep J. Purohit et.al.|[2311.12789v1](http://arxiv.org/abs/2311.12789v1)|[2311.12789v1](http://arxiv.org/pdf/2311.12789v1)|null|
@@ -3569,6 +3579,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|[2311.13601v1](http://arxiv.org/pdf/2311.13601v1)|null|
+|**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594v1](http://arxiv.org/abs/2311.13594v1)|[2311.13594v1](http://arxiv.org/pdf/2311.13594v1)|null|
+|**2023-11-22**|**$σ$-PCA: a unified neural model for linear and nonlinear principal component analysis**|Fahdi Kanavati et.al.|[2311.13580v1](http://arxiv.org/abs/2311.13580v1)|[2311.13580v1](http://arxiv.org/pdf/2311.13580v1)|null|
+|**2023-11-22**|**Physical Reasoning and Object Planning for Household Embodied Agents**|Ayush Agrawal et.al.|[2311.13577v1](http://arxiv.org/abs/2311.13577v1)|[2311.13577v1](http://arxiv.org/pdf/2311.13577v1)|null|
+|**2023-11-22**|**Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering**|Inderjeet Nair et.al.|[2311.13565v1](http://arxiv.org/abs/2311.13565v1)|[2311.13565v1](http://arxiv.org/pdf/2311.13565v1)|null|
+|**2023-11-22**|**Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object**|Junhao Chen et.al.|[2311.13562v1](http://arxiv.org/abs/2311.13562v1)|[2311.13562v1](http://arxiv.org/pdf/2311.13562v1)|null|
+|**2023-11-22**|**Transfer Learning-based Real-time Handgun Detection**|Youssef Elmir et.al.|[2311.13559v1](http://arxiv.org/abs/2311.13559v1)|[2311.13559v1](http://arxiv.org/pdf/2311.13559v1)|null|
+|**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547v1](http://arxiv.org/abs/2311.13547v1)|[2311.13547v1](http://arxiv.org/pdf/2311.13547v1)|null|
+|**2023-11-22**|**Enigma: Privacy-Preserving Execution of QAOA on Untrusted Quantum Computers**|Ramin Ayanzadeh et.al.|[2311.13546v1](http://arxiv.org/abs/2311.13546v1)|[2311.13546v1](http://arxiv.org/pdf/2311.13546v1)|null|
+|**2023-11-22**|**Linear Log-Normal Attention with Unbiased Concentration**|Yury Nahshan et.al.|[2311.13541v1](http://arxiv.org/abs/2311.13541v1)|[2311.13541v1](http://arxiv.org/pdf/2311.13541v1)|null|
 |**2023-11-21**|**The need for spatially resolved observations of PAHs in protoplanetary discs**|K. Lange et.al.|[2311.12794v1](http://arxiv.org/abs/2311.12794v1)|[2311.12794v1](http://arxiv.org/pdf/2311.12794v1)|null|
 |**2023-11-21**|**Intrinsic Image Decomposition via Ordinal Shading**|Chris Careaga et.al.|[2311.12792v1](http://arxiv.org/abs/2311.12792v1)|[2311.12792v1](http://arxiv.org/pdf/2311.12792v1)|null|
 |**2023-11-21**|**Quantifying Impairment and Disease Severity Using AI Models Trained on Healthy Subjects**|Boyang Yu et.al.|[2311.12781v1](http://arxiv.org/abs/2311.12781v1)|[2311.12781v1](http://arxiv.org/pdf/2311.12781v1)|**[link](https://github.com/fishneck/cobra)**|
