@@ -1,4 +1,4 @@
-> Updated on 2023.11.24
+> Updated on 2023.11.25
 
 ## Astrophysics
 
@@ -3575,12 +3575,12 @@
 
 ## AI
 
-- 2023-11-22, **Visual In-Context Prompting**, Feng Li et.al., Paper: [http://arxiv.org/abs/2311.13601v1](http://arxiv.org/abs/2311.13601v1), Paper: [http://arxiv.org/abs/2311.13601v1](http://arxiv.org/pdf/2311.13601v1)
+- 2023-11-22, **Visual In-Context Prompting**, Feng Li et.al., Paper: [http://arxiv.org/abs/2311.13601v1](http://arxiv.org/abs/2311.13601v1),Paper: [http://arxiv.org/abs/2311.13601v1](http://arxiv.org/pdf/2311.13601v1), Code: **[https://github.com/ux-decoder/dinov](https://github.com/ux-decoder/dinov)**
 - 2023-11-22, **Labeling Neural Representations with Inverse Recognition**, Kirill Bykov et.al., Paper: [http://arxiv.org/abs/2311.13594v1](http://arxiv.org/abs/2311.13594v1), Paper: [http://arxiv.org/abs/2311.13594v1](http://arxiv.org/pdf/2311.13594v1)
 - 2023-11-22, **$σ$-PCA: a unified neural model for linear and nonlinear principal component analysis**, Fahdi Kanavati et.al., Paper: [http://arxiv.org/abs/2311.13580v1](http://arxiv.org/abs/2311.13580v1), Paper: [http://arxiv.org/abs/2311.13580v1](http://arxiv.org/pdf/2311.13580v1)
-- 2023-11-22, **Physical Reasoning and Object Planning for Household Embodied Agents**, Ayush Agrawal et.al., Paper: [http://arxiv.org/abs/2311.13577v1](http://arxiv.org/abs/2311.13577v1), Paper: [http://arxiv.org/abs/2311.13577v1](http://arxiv.org/pdf/2311.13577v1)
+- 2023-11-22, **Physical Reasoning and Object Planning for Household Embodied Agents**, Ayush Agrawal et.al., Paper: [http://arxiv.org/abs/2311.13577v1](http://arxiv.org/abs/2311.13577v1),Paper: [http://arxiv.org/abs/2311.13577v1](http://arxiv.org/pdf/2311.13577v1), Code: **[https://github.com/com-phy-affordance/coat](https://github.com/com-phy-affordance/coat)**
 - 2023-11-22, **Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering**, Inderjeet Nair et.al., Paper: [http://arxiv.org/abs/2311.13565v1](http://arxiv.org/abs/2311.13565v1), Paper: [http://arxiv.org/abs/2311.13565v1](http://arxiv.org/pdf/2311.13565v1)
-- 2023-11-22, **Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object**, Junhao Chen et.al., Paper: [http://arxiv.org/abs/2311.13562v1](http://arxiv.org/abs/2311.13562v1), Paper: [http://arxiv.org/abs/2311.13562v1](http://arxiv.org/pdf/2311.13562v1)
+- 2023-11-22, **Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object**, Junhao Chen et.al., Paper: [http://arxiv.org/abs/2311.13562v1](http://arxiv.org/abs/2311.13562v1),Paper: [http://arxiv.org/abs/2311.13562v1](http://arxiv.org/pdf/2311.13562v1), Code: **[https://github.com/yisuanwang/soulstyler](https://github.com/yisuanwang/soulstyler)**
 - 2023-11-22, **Transfer Learning-based Real-time Handgun Detection**, Youssef Elmir et.al., Paper: [http://arxiv.org/abs/2311.13559v1](http://arxiv.org/abs/2311.13559v1), Paper: [http://arxiv.org/abs/2311.13559v1](http://arxiv.org/pdf/2311.13559v1)
 - 2023-11-22, **Medical Image Retrieval Using Pretrained Embeddings**, Farnaz Khun Jush et.al., Paper: [http://arxiv.org/abs/2311.13547v1](http://arxiv.org/abs/2311.13547v1), Paper: [http://arxiv.org/abs/2311.13547v1](http://arxiv.org/pdf/2311.13547v1)
 - 2023-11-22, **Enigma: Privacy-Preserving Execution of QAOA on Untrusted Quantum Computers**, Ramin Ayanzadeh et.al., Paper: [http://arxiv.org/abs/2311.13546v1](http://arxiv.org/abs/2311.13546v1), Paper: [http://arxiv.org/abs/2311.13546v1](http://arxiv.org/pdf/2311.13546v1)
