@@ -1,4 +1,4 @@
-> Updated on 2023.11.25
+> Updated on 2023.11.26
 
 ## Astrophysics
 
@@ -6,7 +6,7 @@
 - 2023-11-22, **Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**, Suraj Poolakkil et.al., Paper: [http://arxiv.org/abs/2311.13566v1](http://arxiv.org/abs/2311.13566v1), Paper: [http://arxiv.org/abs/2311.13566v1](http://arxiv.org/pdf/2311.13566v1)
 - 2023-11-22, **Detection of the relativistic Shapiro delay in a highly inclined millisecond pulsar binary PSR J1012$-$4235**, T. Gautam et.al., Paper: [http://arxiv.org/abs/2311.13563v1](http://arxiv.org/abs/2311.13563v1), Paper: [http://arxiv.org/abs/2311.13563v1](http://arxiv.org/pdf/2311.13563v1)
 - 2023-11-22, **Euclid preparation TBD. Modelling spectroscopic clustering on mildly nonlinear scales in beyond-$Λ$CDM models**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2311.13529v1](http://arxiv.org/abs/2311.13529v1), Paper: [http://arxiv.org/abs/2311.13529v1](http://arxiv.org/pdf/2311.13529v1)
-- 2023-11-22, **$β$ Pictoris b through the eyes of the upgraded CRIRES+**, Rico Landman et.al., Paper: [http://arxiv.org/abs/2311.13527v1](http://arxiv.org/abs/2311.13527v1), Paper: [http://arxiv.org/abs/2311.13527v1](http://arxiv.org/pdf/2311.13527v1)
+- 2023-11-22, **$β$ Pictoris b through the eyes of the upgraded CRIRES+**, Rico Landman et.al., Paper: [http://arxiv.org/abs/2311.13527v1](http://arxiv.org/abs/2311.13527v1),Paper: [http://arxiv.org/abs/2311.13527v1](http://arxiv.org/pdf/2311.13527v1), Code: **[https://github.com/tomasstolker/pycrires](https://github.com/tomasstolker/pycrires)**
 - 2023-11-22, **Imprint of massive neutrinos on Persistent Homology of large-scale structure**, M. H. Jalali Kanafi et.al., Paper: [http://arxiv.org/abs/2311.13520v1](http://arxiv.org/abs/2311.13520v1), Paper: [http://arxiv.org/abs/2311.13520v1](http://arxiv.org/pdf/2311.13520v1)
 - 2023-11-22, **The SOPHIE search for northern extrasolar planets-XIX. A system including a cold sub-Neptune potentially transiting a V = 6.5 star HD88986**, N. Heidari et.al., Paper: [http://arxiv.org/abs/2311.13513v1](http://arxiv.org/abs/2311.13513v1), Paper: [http://arxiv.org/abs/2311.13513v1](http://arxiv.org/pdf/2311.13513v1)
 - 2023-11-22, **Unveiling $Ω_{\rm m0}$ independently: a journey and consistency quest with first-order perturbation theory**, Bikash R. Dinda et.al., Paper: [http://arxiv.org/abs/2311.13498v1](http://arxiv.org/abs/2311.13498v1), Paper: [http://arxiv.org/abs/2311.13498v1](http://arxiv.org/pdf/2311.13498v1)
