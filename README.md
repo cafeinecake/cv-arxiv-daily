@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670v1](http://arxiv.org/abs/2311.14670v1)|[2311.14670v1](http://arxiv.org/pdf/2311.14670v1)|**[link](https://github.com/astro-informatics/s2fft)**|
+|**2023-11-24**|**Feedback-Free Starbursts at Cosmic Dawn: Observable Predictions for JWST**|Zhaozhou Li et.al.|[2311.14662v1](http://arxiv.org/abs/2311.14662v1)|[2311.14662v1](http://arxiv.org/pdf/2311.14662v1)|null|
+|**2023-11-24**|**The mass profiles of dwarf galaxies from Dark Energy Survey lensing**|Joseph Thornton et.al.|[2311.14659v1](http://arxiv.org/abs/2311.14659v1)|[2311.14659v1](http://arxiv.org/pdf/2311.14659v1)|null|
+|**2023-11-24**|**A nearby source of ultra-high energy cosmic rays**|Mikhail Yu. Kuznetsov et.al.|[2311.14628v1](http://arxiv.org/abs/2311.14628v1)|[2311.14628v1](http://arxiv.org/pdf/2311.14628v1)|null|
+|**2023-11-24**|**Strong Constraints on Dark Matter Annihilation in Ursa Major III/UNIONS 1**|Milena Crnogorčević et.al.|[2311.14611v1](http://arxiv.org/abs/2311.14611v1)|[2311.14611v1](http://arxiv.org/pdf/2311.14611v1)|null|
+|**2023-11-24**|**Spectrometer to Explore Isotopologues of Lunar Volatiles on Luna-27 Lander**|Viacheslav Meshcherinov et.al.|[2311.14608v1](http://arxiv.org/abs/2311.14608v1)|[2311.14608v1](http://arxiv.org/pdf/2311.14608v1)|null|
+|**2023-11-24**|**A Uniform Analysis of Debris Disks with the Gemini Planet Imager I: An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images**|Katie A. Crotts et.al.|[2311.14599v1](http://arxiv.org/abs/2311.14599v1)|[2311.14599v1](http://arxiv.org/pdf/2311.14599v1)|null|
+|**2023-11-24**|**Constraining axion-like particles with invisible neutrino decay using the IceCube observations of NGC 1068**|Bhanu Prakash Pant et.al.|[2311.14597v1](http://arxiv.org/abs/2311.14597v1)|[2311.14597v1](http://arxiv.org/pdf/2311.14597v1)|null|
+|**2023-11-24**|**Stability of domain walls with inflationary fluctuations under potential bias, and gravitational wave signatures**|Naoya Kitajima et.al.|[2311.14590v1](http://arxiv.org/abs/2311.14590v1)|[2311.14590v1](http://arxiv.org/pdf/2311.14590v1)|null|
+|**2023-11-24**|**Towards cosmology with Void Lensing: how to find voids sensitive to weak-lensing and numerically interpret them**|Renan Boschetti et.al.|[2311.14586v1](http://arxiv.org/abs/2311.14586v1)|[2311.14586v1](http://arxiv.org/pdf/2311.14586v1)|null|
 |**2023-11-22**|**Exploring the photometric variability of ultra-cool dwarfs with TESS**|Romina P. Petrucci et.al.|[2311.13591v1](http://arxiv.org/abs/2311.13591v1)|[2311.13591v1](http://arxiv.org/pdf/2311.13591v1)|null|
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566v1](http://arxiv.org/abs/2311.13566v1)|[2311.13566v1](http://arxiv.org/pdf/2311.13566v1)|null|
 |**2023-11-22**|**Detection of the relativistic Shapiro delay in a highly inclined millisecond pulsar binary PSR J1012$-$4235**|T. Gautam et.al.|[2311.13563v1](http://arxiv.org/abs/2311.13563v1)|[2311.13563v1](http://arxiv.org/pdf/2311.13563v1)|null|
@@ -3579,6 +3589,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-24**|**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**|Jonathan Roberts et.al.|[2311.14656v1](http://arxiv.org/abs/2311.14656v1)|[2311.14656v1](http://arxiv.org/pdf/2311.14656v1)|**[link](https://github.com/jonathan-roberts1/charting-new-territories)**|
+|**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651v1](http://arxiv.org/abs/2311.14651v1)|[2311.14651v1](http://arxiv.org/pdf/2311.14651v1)|null|
+|**2023-11-24**|**Calibrated Language Models Must Hallucinate**|Adam Tauman Kalai et.al.|[2311.14648v1](http://arxiv.org/abs/2311.14648v1)|[2311.14648v1](http://arxiv.org/pdf/2311.14648v1)|null|
+|**2023-11-24**|**One Strike, You're Out: Detecting Markush Structures in Low Signal-to-Noise Ratio Images**|Thomas Jurriaans et.al.|[2311.14633v1](http://arxiv.org/abs/2311.14633v1)|[2311.14633v1](http://arxiv.org/pdf/2311.14633v1)|**[link](https://github.com/thomasjurriaans/markush-recognition-msc-thesis)**|
+|**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625v1](http://arxiv.org/abs/2311.14625v1)|[2311.14625v1](http://arxiv.org/pdf/2311.14625v1)|null|
+|**2023-11-24**|**A Metalearned Neural Circuit for Nonparametric Bayesian Inference**|Jake C. Snell et.al.|[2311.14601v1](http://arxiv.org/abs/2311.14601v1)|[2311.14601v1](http://arxiv.org/pdf/2311.14601v1)|**[link](https://github.com/jakesnell/neural-circuits)**|
+|**2023-11-24**|**A Survey and Analysis of Evolutionary Operators for Permutations**|Vincent A. Cicirello et.al.|[2311.14595v1](http://arxiv.org/abs/2311.14595v1)|[2311.14595v1](http://arxiv.org/pdf/2311.14595v1)|null|
+|**2023-11-24**|**GPT Struct Me: Probing GPT Models on Narrative Entity Extraction**|Hugo Sousa et.al.|[2311.14583v1](http://arxiv.org/abs/2311.14583v1)|[2311.14583v1](http://arxiv.org/pdf/2311.14583v1)|**[link](https://github.com/hmosousa/gpt_struct_me)**|
+|**2023-11-24**|**Counting Solutions to Conjunctive Queries: Structural and Hybrid Tractability**|Hubie Chen et.al.|[2311.14579v1](http://arxiv.org/abs/2311.14579v1)|[2311.14579v1](http://arxiv.org/pdf/2311.14579v1)|null|
+|**2023-11-24**|**RAISE -- Radiology AI Safety, an End-to-end lifecycle approach**|M. Jorge Cardoso et.al.|[2311.14570v1](http://arxiv.org/abs/2311.14570v1)|[2311.14570v1](http://arxiv.org/pdf/2311.14570v1)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|[2311.13601v1](http://arxiv.org/pdf/2311.13601v1)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594v1](http://arxiv.org/abs/2311.13594v1)|[2311.13594v1](http://arxiv.org/pdf/2311.13594v1)|null|
 |**2023-11-22**|**$σ$-PCA: a unified neural model for linear and nonlinear principal component analysis**|Fahdi Kanavati et.al.|[2311.13580v1](http://arxiv.org/abs/2311.13580v1)|[2311.13580v1](http://arxiv.org/pdf/2311.13580v1)|null|
