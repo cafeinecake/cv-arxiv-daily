@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-27**|**Analysis of the subsolar-mass black hole candidate SSM200308 from the second part of the third observing run of Advanced LIGO-Virgo**|Marine Prunier et.al.|[2311.16085v1](http://arxiv.org/abs/2311.16085v1)|[2311.16085v1](http://arxiv.org/pdf/2311.16085v1)|null|
+|**2023-11-27**|**The magnetically quiet solar surface dominates HARPS-N solar RVs during low activity**|Ben S. Lakeland et.al.|[2311.16076v1](http://arxiv.org/abs/2311.16076v1)|[2311.16076v1](http://arxiv.org/pdf/2311.16076v1)|null|
+|**2023-11-27**|**SAX J1810.8-2609]{SAX J1810.8-2609: An Outbursting Neutron Star X-ray Binary with Persistent Spatially Coincident Radio Emission**|A. K. Hughes et.al.|[2311.16072v1](http://arxiv.org/abs/2311.16072v1)|[2311.16072v1](http://arxiv.org/pdf/2311.16072v1)|null|
+|**2023-11-27**|**Metal and dust evolution in ALMA REBELS galaxies: insights for future JWST observations**|Marco Palla et.al.|[2311.16071v1](http://arxiv.org/abs/2311.16071v1)|[2311.16071v1](http://arxiv.org/pdf/2311.16071v1)|null|
+|**2023-11-27**|**Correlated Spectral and Recurrence Variations of Cygnus X-1**|E. M. Broadbent et.al.|[2311.16070v1](http://arxiv.org/abs/2311.16070v1)|[2311.16070v1](http://arxiv.org/pdf/2311.16070v1)|null|
+|**2023-11-27**|**Narrow absorption line Outflow in Seyfert 1 galaxy J1429+4518: Outflows distance from the central source and its energetics**|Maryam Dehghanian et.al.|[2311.16059v1](http://arxiv.org/abs/2311.16059v1)|[2311.16059v1](http://arxiv.org/pdf/2311.16059v1)|null|
+|**2023-11-27**|**Isotopic Trichotomy of Main Belt Asteroids from Implantation of Outer Solar System Planetesimals**|David Nesvorny et.al.|[2311.16053v1](http://arxiv.org/abs/2311.16053v1)|[2311.16053v1](http://arxiv.org/pdf/2311.16053v1)|null|
+|**2023-11-27**|**Energy Dissipation of Fast Electrons in Polymethylmetacrylate (PMMA): Towards a Universal Curve for Electron Beam Attenuation in Solids for Energies between ~0 eV and 100 keV**|Wolfgang S. M. Werner et.al.|[2311.16046v1](http://arxiv.org/abs/2311.16046v1)|[2311.16046v1](http://arxiv.org/pdf/2311.16046v1)|null|
+|**2023-11-27**|**Deep Learning Voigt Profiles I. Single-Cloud Doublets**|Bryson Stemock et.al.|[2311.16029v1](http://arxiv.org/abs/2311.16029v1)|[2311.16029v1](http://arxiv.org/pdf/2311.16029v1)|null|
+|**2023-11-27**|**Bayesian Analysis for Remote Biosignature Identification on exoEarths (BARBIE) II: Using Grid-Based Nested Sampling in Coronagraphy Observation Simulations for O2 and O3**|Natasha Latouf et.al.|[2311.16015v1](http://arxiv.org/abs/2311.16015v1)|[2311.16015v1](http://arxiv.org/pdf/2311.16015v1)|null|
 |**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670v1](http://arxiv.org/abs/2311.14670v1)|[2311.14670v1](http://arxiv.org/pdf/2311.14670v1)|**[link](https://github.com/astro-informatics/s2fft)**|
 |**2023-11-24**|**Feedback-Free Starbursts at Cosmic Dawn: Observable Predictions for JWST**|Zhaozhou Li et.al.|[2311.14662v1](http://arxiv.org/abs/2311.14662v1)|[2311.14662v1](http://arxiv.org/pdf/2311.14662v1)|null|
 |**2023-11-24**|**The mass profiles of dwarf galaxies from Dark Energy Survey lensing**|Joseph Thornton et.al.|[2311.14659v1](http://arxiv.org/abs/2311.14659v1)|[2311.14659v1](http://arxiv.org/pdf/2311.14659v1)|null|
@@ -3593,6 +3603,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103v1](http://arxiv.org/abs/2311.16103v1)|[2311.16103v1](http://arxiv.org/pdf/2311.16103v1)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102v1](http://arxiv.org/abs/2311.16102v1)|[2311.16102v1](http://arxiv.org/pdf/2311.16102v1)|null|
+|**2023-11-27**|**On Bringing Robots Home**|Nur Muhammad Mahi Shafiullah et.al.|[2311.16098v1](http://arxiv.org/abs/2311.16098v1)|[2311.16098v1](http://arxiv.org/pdf/2311.16098v1)|**[link](https://github.com/notmahi/dobb-e)**|
+|**2023-11-27**|**Have we built machines that think like people?**|Luca M. Schulze Buschoff et.al.|[2311.16093v1](http://arxiv.org/abs/2311.16093v1)|[2311.16093v1](http://arxiv.org/pdf/2311.16093v1)|null|
+|**2023-11-27**|**Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation**|Jiachen Li et.al.|[2311.16091v1](http://arxiv.org/abs/2311.16091v1)|[2311.16091v1](http://arxiv.org/pdf/2311.16091v1)|null|
+|**2023-11-27**|**MAST: Model-Agnostic Sparsified Training**|Yury Demidovich et.al.|[2311.16086v1](http://arxiv.org/abs/2311.16086v1)|[2311.16086v1](http://arxiv.org/pdf/2311.16086v1)|null|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082v1](http://arxiv.org/abs/2311.16082v1)|[2311.16082v1](http://arxiv.org/pdf/2311.16082v1)|null|
+|**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081v1](http://arxiv.org/abs/2311.16081v1)|[2311.16081v1](http://arxiv.org/pdf/2311.16081v1)|**[link](https://github.com/TencentARC/ViT-Lens)**|
+|**2023-11-27**|**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**|Zeming Chen et.al.|[2311.16079v1](http://arxiv.org/abs/2311.16079v1)|[2311.16079v1](http://arxiv.org/pdf/2311.16079v1)|**[link](https://github.com/epfllm/meditron)**|
+|**2023-11-27**|**BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights**|François Remy et.al.|[2311.16075v1](http://arxiv.org/abs/2311.16075v1)|[2311.16075v1](http://arxiv.org/pdf/2311.16075v1)|null|
 |**2023-11-24**|**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**|Jonathan Roberts et.al.|[2311.14656v1](http://arxiv.org/abs/2311.14656v1)|[2311.14656v1](http://arxiv.org/pdf/2311.14656v1)|**[link](https://github.com/jonathan-roberts1/charting-new-territories)**|
 |**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651v1](http://arxiv.org/abs/2311.14651v1)|[2311.14651v1](http://arxiv.org/pdf/2311.14651v1)|null|
 |**2023-11-24**|**Calibrated Language Models Must Hallucinate**|Adam Tauman Kalai et.al.|[2311.14648v1](http://arxiv.org/abs/2311.14648v1)|[2311.14648v1](http://arxiv.org/pdf/2311.14648v1)|null|
