@@ -1,4 +1,4 @@
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 
 ## Astrophysics
 
@@ -3595,7 +3595,7 @@
 |**2023-11-24**|**One Strike, You're Out: Detecting Markush Structures in Low Signal-to-Noise Ratio Images**|Thomas Jurriaans et.al.|[2311.14633v1](http://arxiv.org/abs/2311.14633v1)|[2311.14633v1](http://arxiv.org/pdf/2311.14633v1)|**[link](https://github.com/thomasjurriaans/markush-recognition-msc-thesis)**|
 |**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625v1](http://arxiv.org/abs/2311.14625v1)|[2311.14625v1](http://arxiv.org/pdf/2311.14625v1)|null|
 |**2023-11-24**|**A Metalearned Neural Circuit for Nonparametric Bayesian Inference**|Jake C. Snell et.al.|[2311.14601v1](http://arxiv.org/abs/2311.14601v1)|[2311.14601v1](http://arxiv.org/pdf/2311.14601v1)|**[link](https://github.com/jakesnell/neural-circuits)**|
-|**2023-11-24**|**A Survey and Analysis of Evolutionary Operators for Permutations**|Vincent A. Cicirello et.al.|[2311.14595v1](http://arxiv.org/abs/2311.14595v1)|[2311.14595v1](http://arxiv.org/pdf/2311.14595v1)|null|
+|**2023-11-24**|**A Survey and Analysis of Evolutionary Operators for Permutations**|Vincent A. Cicirello et.al.|[2311.14595v1](http://arxiv.org/abs/2311.14595v1)|[2311.14595v1](http://arxiv.org/pdf/2311.14595v1)|**[link](https://github.com/cicirello/permutation-crossover-landscape-analysis)**|
 |**2023-11-24**|**GPT Struct Me: Probing GPT Models on Narrative Entity Extraction**|Hugo Sousa et.al.|[2311.14583v1](http://arxiv.org/abs/2311.14583v1)|[2311.14583v1](http://arxiv.org/pdf/2311.14583v1)|**[link](https://github.com/hmosousa/gpt_struct_me)**|
 |**2023-11-24**|**Counting Solutions to Conjunctive Queries: Structural and Hybrid Tractability**|Hubie Chen et.al.|[2311.14579v1](http://arxiv.org/abs/2311.14579v1)|[2311.14579v1](http://arxiv.org/pdf/2311.14579v1)|null|
 |**2023-11-24**|**RAISE -- Radiology AI Safety, an End-to-end lifecycle approach**|M. Jorge Cardoso et.al.|[2311.14570v1](http://arxiv.org/abs/2311.14570v1)|[2311.14570v1](http://arxiv.org/pdf/2311.14570v1)|null|

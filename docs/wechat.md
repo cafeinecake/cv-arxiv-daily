@@ -1,4 +1,4 @@
-> Updated on 2023.11.27
+> Updated on 2023.11.28
 
 ## Astrophysics
 
@@ -3591,7 +3591,7 @@
 - 2023-11-24, **One Strike, You're Out: Detecting Markush Structures in Low Signal-to-Noise Ratio Images**, Thomas Jurriaans et.al., Paper: [http://arxiv.org/abs/2311.14633v1](http://arxiv.org/abs/2311.14633v1),Paper: [http://arxiv.org/abs/2311.14633v1](http://arxiv.org/pdf/2311.14633v1), Code: **[https://github.com/thomasjurriaans/markush-recognition-msc-thesis](https://github.com/thomasjurriaans/markush-recognition-msc-thesis)**
 - 2023-11-24, **ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**, Vasilis Siomos et.al., Paper: [http://arxiv.org/abs/2311.14625v1](http://arxiv.org/abs/2311.14625v1), Paper: [http://arxiv.org/abs/2311.14625v1](http://arxiv.org/pdf/2311.14625v1)
 - 2023-11-24, **A Metalearned Neural Circuit for Nonparametric Bayesian Inference**, Jake C. Snell et.al., Paper: [http://arxiv.org/abs/2311.14601v1](http://arxiv.org/abs/2311.14601v1),Paper: [http://arxiv.org/abs/2311.14601v1](http://arxiv.org/pdf/2311.14601v1), Code: **[https://github.com/jakesnell/neural-circuits](https://github.com/jakesnell/neural-circuits)**
-- 2023-11-24, **A Survey and Analysis of Evolutionary Operators for Permutations**, Vincent A. Cicirello et.al., Paper: [http://arxiv.org/abs/2311.14595v1](http://arxiv.org/abs/2311.14595v1), Paper: [http://arxiv.org/abs/2311.14595v1](http://arxiv.org/pdf/2311.14595v1)
+- 2023-11-24, **A Survey and Analysis of Evolutionary Operators for Permutations**, Vincent A. Cicirello et.al., Paper: [http://arxiv.org/abs/2311.14595v1](http://arxiv.org/abs/2311.14595v1),Paper: [http://arxiv.org/abs/2311.14595v1](http://arxiv.org/pdf/2311.14595v1), Code: **[https://github.com/cicirello/permutation-crossover-landscape-analysis](https://github.com/cicirello/permutation-crossover-landscape-analysis)**
 - 2023-11-24, **GPT Struct Me: Probing GPT Models on Narrative Entity Extraction**, Hugo Sousa et.al., Paper: [http://arxiv.org/abs/2311.14583v1](http://arxiv.org/abs/2311.14583v1),Paper: [http://arxiv.org/abs/2311.14583v1](http://arxiv.org/pdf/2311.14583v1), Code: **[https://github.com/hmosousa/gpt_struct_me](https://github.com/hmosousa/gpt_struct_me)**
 - 2023-11-24, **Counting Solutions to Conjunctive Queries: Structural and Hybrid Tractability**, Hubie Chen et.al., Paper: [http://arxiv.org/abs/2311.14579v1](http://arxiv.org/abs/2311.14579v1), Paper: [http://arxiv.org/abs/2311.14579v1](http://arxiv.org/pdf/2311.14579v1)
 - 2023-11-24, **RAISE -- Radiology AI Safety, an End-to-end lifecycle approach**, M. Jorge Cardoso et.al., Paper: [http://arxiv.org/abs/2311.14570v1](http://arxiv.org/abs/2311.14570v1), Paper: [http://arxiv.org/abs/2311.14570v1](http://arxiv.org/pdf/2311.14570v1)
