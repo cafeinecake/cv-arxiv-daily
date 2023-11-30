@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-29**|**Spin Dynamics of Planets in Resonant Chains**|Sarah C. Millholland et.al.|[2311.17908v1](http://arxiv.org/abs/2311.17908v1)|[2311.17908v1](http://arxiv.org/pdf/2311.17908v1)|null|
+|**2023-11-29**|**Number count of Gravitational Waves and Supernovae in Luminosity Distance space for LCDM and Scalar-Tensor theories**|Anna Balaudo et.al.|[2311.17904v1](http://arxiv.org/abs/2311.17904v1)|[2311.17904v1](http://arxiv.org/pdf/2311.17904v1)|null|
+|**2023-11-29**|**Measurements of the Thermal and Ionization State of the Intergalactic Medium during the Cosmic Afternoon**|Teng Hu et.al.|[2311.17895v1](http://arxiv.org/abs/2311.17895v1)|[2311.17895v1](http://arxiv.org/pdf/2311.17895v1)|null|
+|**2023-11-29**|**Spectroscopic distance, mass, and age estimations for APOGEE DR17**|Alexander Stone-Martinez et.al.|[2311.17887v1](http://arxiv.org/abs/2311.17887v1)|[2311.17887v1](http://arxiv.org/pdf/2311.17887v1)|null|
+|**2023-11-29**|**S 308 and other X-ray emitting bubbles around Wolf-Rayet stars**|Francesco Camilloni et.al.|[2311.17879v1](http://arxiv.org/abs/2311.17879v1)|[2311.17879v1](http://arxiv.org/pdf/2311.17879v1)|null|
+|**2023-11-29**|**Detecting cosmological scalar fields using orbital networks of quantum sensors**|Yu Li et.al.|[2311.17873v1](http://arxiv.org/abs/2311.17873v1)|[2311.17873v1](http://arxiv.org/pdf/2311.17873v1)|null|
+|**2023-11-29**|**A Pilot Search for Gravitational Self-Lensing Binaries with the Zwicky Transient Facility**|Allison Crossland et.al.|[2311.17862v1](http://arxiv.org/abs/2311.17862v1)|[2311.17862v1](http://arxiv.org/pdf/2311.17862v1)|null|
+|**2023-11-29**|**WISDOM Project -- XIX. The link between circumnuclear molecular gas reservoirs and active galactic nucleus fuelling**|Jacob S. Elford et.al.|[2311.17848v1](http://arxiv.org/abs/2311.17848v1)|[2311.17848v1](http://arxiv.org/pdf/2311.17848v1)|null|
+|**2023-11-29**|**Analysis of Chiral Oxirane Molecules in Preparation for Next Generation Telescopes: A Review, New Analysis, & a Chiral Molecule Database**|Chenoa D. Tremblay et.al.|[2311.17844v1](http://arxiv.org/abs/2311.17844v1)|[2311.17844v1](http://arxiv.org/pdf/2311.17844v1)|null|
+|**2023-11-29**|**Co-Existence Test of Primordial Black Holes and Particle Dark Matter**|Han Gil Choi et.al.|[2311.17829v1](http://arxiv.org/abs/2311.17829v1)|[2311.17829v1](http://arxiv.org/pdf/2311.17829v1)|null|
 |**2023-11-28**|**Impact of astrophysical scatter on the Epoch of Reionization [H I]$_{\rm 21cm}$ bispectrum**|Chandra Shekhar Murmu et.al.|[2311.17062v1](http://arxiv.org/abs/2311.17062v1)|[2311.17062v1](http://arxiv.org/pdf/2311.17062v1)|null|
 |**2023-11-28**|**High-contrast JWST-MIRI spectroscopy of planet-forming disks for the JDISC Survey**|Klaus M. Pontoppidan et.al.|[2311.17020v1](http://arxiv.org/abs/2311.17020v1)|[2311.17020v1](http://arxiv.org/pdf/2311.17020v1)|null|
 |**2023-11-28**|**Superradiance Termination: The Cloud Strikes Back**|Kaiyuan Fan et.al.|[2311.17013v1](http://arxiv.org/abs/2311.17013v1)|[2311.17013v1](http://arxiv.org/pdf/2311.17013v1)|null|
@@ -3609,6 +3619,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907v1](http://arxiv.org/abs/2311.17907v1)|[2311.17907v1](http://arxiv.org/pdf/2311.17907v1)|null|
+|**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901v1](http://arxiv.org/abs/2311.17901v1)|[2311.17901v1](http://arxiv.org/pdf/2311.17901v1)|null|
+|**2023-11-29**|**A Pipeline For Discourse Circuits From CCG**|Jonathon Liu et.al.|[2311.17892v1](http://arxiv.org/abs/2311.17892v1)|[2311.17892v1](http://arxiv.org/pdf/2311.17892v1)|null|
+|**2023-11-29**|**SAIBench: A Structural Interpretation of AI for Science Through Benchmarks**|Yatao Li et.al.|[2311.17869v1](http://arxiv.org/abs/2311.17869v1)|[2311.17869v1](http://arxiv.org/pdf/2311.17869v1)|null|
+|**2023-11-29**|**Maximum Entropy Model Correction in Reinforcement Learning**|Amin Rakhsha et.al.|[2311.17855v1](http://arxiv.org/abs/2311.17855v1)|[2311.17855v1](http://arxiv.org/pdf/2311.17855v1)|null|
+|**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842v1](http://arxiv.org/abs/2311.17842v1)|[2311.17842v1](http://arxiv.org/pdf/2311.17842v1)|null|
+|**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833v1](http://arxiv.org/abs/2311.17833v1)|[2311.17833v1](http://arxiv.org/pdf/2311.17833v1)|null|
+|**2023-11-29**|**Anomalous Behavior Detection in Trajectory Data of Older Drivers**|Seyedeh Gol Ara Ghoreishi et.al.|[2311.17822v1](http://arxiv.org/abs/2311.17822v1)|[2311.17822v1](http://arxiv.org/pdf/2311.17822v1)|null|
+|**2023-11-29**|**A Survey on Design Methodologies for Accelerating Deep Learning on Heterogeneous Architectures**|Fabrizio Ferrandi et.al.|[2311.17815v1](http://arxiv.org/abs/2311.17815v1)|[2311.17815v1](http://arxiv.org/pdf/2311.17815v1)|null|
+|**2023-11-29**|**Propagate & Distill: Towards Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.17781v1](http://arxiv.org/abs/2311.17781v1)|[2311.17781v1](http://arxiv.org/pdf/2311.17781v1)|null|
 |**2023-11-28**|**Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**|Jun Wang et.al.|[2311.17059v1](http://arxiv.org/abs/2311.17059v1)|[2311.17059v1](http://arxiv.org/pdf/2311.17059v1)|null|
 |**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|[2311.17058v1](http://arxiv.org/pdf/2311.17058v1)|**[link](https://github.com/jingkang50/openpvsg)**|
 |**2023-11-28**|**No Representation Rules Them All in Category Discovery**|Sagar Vaze et.al.|[2311.17055v1](http://arxiv.org/abs/2311.17055v1)|[2311.17055v1](http://arxiv.org/pdf/2311.17055v1)|null|
