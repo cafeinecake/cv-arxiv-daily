@@ -1,4 +1,4 @@
-> Updated on 2023.11.29
+> Updated on 2023.11.30
 
 ## Astrophysics
 
@@ -3606,7 +3606,7 @@
 ## AI
 
 - 2023-11-28, **Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2311.17059v1](http://arxiv.org/abs/2311.17059v1), Paper: [http://arxiv.org/abs/2311.17059v1](http://arxiv.org/pdf/2311.17059v1)
-- 2023-11-28, **Panoptic Video Scene Graph Generation**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2311.17058v1](http://arxiv.org/abs/2311.17058v1),Paper: [http://arxiv.org/abs/2311.17058v1](http://arxiv.org/pdf/2311.17058v1), Code: **[https://github.com/lilydaytoy/pvsgannotation](https://github.com/lilydaytoy/pvsgannotation)**
+- 2023-11-28, **Panoptic Video Scene Graph Generation**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2311.17058v1](http://arxiv.org/abs/2311.17058v1),Paper: [http://arxiv.org/abs/2311.17058v1](http://arxiv.org/pdf/2311.17058v1), Code: **[https://github.com/jingkang50/openpvsg](https://github.com/jingkang50/openpvsg)**
 - 2023-11-28, **No Representation Rules Them All in Category Discovery**, Sagar Vaze et.al., Paper: [http://arxiv.org/abs/2311.17055v1](http://arxiv.org/abs/2311.17055v1), Paper: [http://arxiv.org/abs/2311.17055v1](http://arxiv.org/pdf/2311.17055v1)
 - 2023-11-28, **DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**, Tsun-Hsuan Wang et.al., Paper: [http://arxiv.org/abs/2311.17053v1](http://arxiv.org/abs/2311.17053v1), Paper: [http://arxiv.org/abs/2311.17053v1](http://arxiv.org/pdf/2311.17053v1)
 - 2023-11-28, **Efficient In-Context Learning in Vision-Language Models for Egocentric Videos**, Keunwoo Peter Yu et.al., Paper: [http://arxiv.org/abs/2311.17041v1](http://arxiv.org/abs/2311.17041v1), Paper: [http://arxiv.org/abs/2311.17041v1](http://arxiv.org/pdf/2311.17041v1)
