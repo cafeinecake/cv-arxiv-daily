@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-30**|**On the maximum black hole mass at solar metallicity**|Amedeo Romagnolo et.al.|[2311.18841v1](http://arxiv.org/abs/2311.18841v1)|[2311.18841v1](http://arxiv.org/pdf/2311.18841v1)|null|
+|**2023-11-30**|**VLA FRAMEx. I. Wideband Radio Properties of the AGN in NGC 4388**|Andrew J. Sargent et.al.|[2311.18833v1](http://arxiv.org/abs/2311.18833v1)|[2311.18833v1](http://arxiv.org/pdf/2311.18833v1)|null|
+|**2023-11-30**|**Structure in the speed of sound: from neutron stars to heavy-ion collisions**|Nanxi Yao et.al.|[2311.18819v1](http://arxiv.org/abs/2311.18819v1)|[2311.18819v1](http://arxiv.org/pdf/2311.18819v1)|null|
+|**2023-11-30**|**GYOTO 2.0: a polarized relativistic ray-tracing code**|N. Aimar et.al.|[2311.18802v1](http://arxiv.org/abs/2311.18802v1)|[2311.18802v1](http://arxiv.org/pdf/2311.18802v1)|null|
+|**2023-11-30**|**Differential Rotation of the Solar Chromosphere: A Century-long Perspective from Kodaikanal Solar Observatory Ca II K Data**|Dibya Kirti Mishra et.al.|[2311.18800v1](http://arxiv.org/abs/2311.18800v1)|[2311.18800v1](http://arxiv.org/pdf/2311.18800v1)|null|
+|**2023-11-30**|**Electrobaryonic axion: hair of neutron stars**|Yang Bai et.al.|[2311.18794v1](http://arxiv.org/abs/2311.18794v1)|[2311.18794v1](http://arxiv.org/pdf/2311.18794v1)|null|
+|**2023-11-30**|**Effects of anisotropic pressure on interacting quark star structure**|Juan M. Z. Pretel et.al.|[2311.18770v1](http://arxiv.org/abs/2311.18770v1)|[2311.18770v1](http://arxiv.org/pdf/2311.18770v1)|null|
+|**2023-11-30**|**Joint Cosmic Density Reconstruction from Photometric and Spectroscopic Samples**|Benjamin Horowitz et.al.|[2311.18738v1](http://arxiv.org/abs/2311.18738v1)|[2311.18738v1](http://arxiv.org/pdf/2311.18738v1)|null|
+|**2023-11-30**|**JADES: A large population of obscured, narrow line AGN at high redshift**|Jan Scholtz et.al.|[2311.18731v1](http://arxiv.org/abs/2311.18731v1)|[2311.18731v1](http://arxiv.org/pdf/2311.18731v1)|null|
+|**2023-11-30**|**Compton scattering of electrons in the intergalactic medium**|Yuanyuan Yang et.al.|[2311.18721v1](http://arxiv.org/abs/2311.18721v1)|[2311.18721v1](http://arxiv.org/pdf/2311.18721v1)|null|
 |**2023-11-29**|**Spin Dynamics of Planets in Resonant Chains**|Sarah C. Millholland et.al.|[2311.17908v1](http://arxiv.org/abs/2311.17908v1)|[2311.17908v1](http://arxiv.org/pdf/2311.17908v1)|null|
 |**2023-11-29**|**Number count of Gravitational Waves and Supernovae in Luminosity Distance space for LCDM and Scalar-Tensor theories**|Anna Balaudo et.al.|[2311.17904v1](http://arxiv.org/abs/2311.17904v1)|[2311.17904v1](http://arxiv.org/pdf/2311.17904v1)|null|
 |**2023-11-29**|**Measurements of the Thermal and Ionization State of the Intergalactic Medium during the Cosmic Afternoon**|Teng Hu et.al.|[2311.17895v1](http://arxiv.org/abs/2311.17895v1)|[2311.17895v1](http://arxiv.org/pdf/2311.17895v1)|null|
@@ -3623,6 +3633,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-11-30**|**Dataset Distillation in Large Data Era**|Zeyuan Yin et.al.|[2311.18838v1](http://arxiv.org/abs/2311.18838v1)|[2311.18838v1](http://arxiv.org/pdf/2311.18838v1)|**[link](https://github.com/VILA-Lab/SRe2L)**|
+|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|[2311.18837v1](http://arxiv.org/pdf/2311.18837v1)|null|
+|**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|[2311.18835v1](http://arxiv.org/pdf/2311.18835v1)|**[link](https://github.com/rongyaofang/instructseq)**|
+|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827v1](http://arxiv.org/abs/2311.18827v1)|[2311.18827v1](http://arxiv.org/pdf/2311.18827v1)|null|
+|**2023-11-30**|**Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking**|Kaifeng Lyu et.al.|[2311.18817v1](http://arxiv.org/abs/2311.18817v1)|[2311.18817v1](http://arxiv.org/pdf/2311.18817v1)|**[link](https://github.com/vfleaking/grokking-dichotomy)**|
+|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|[2311.18805v1](http://arxiv.org/pdf/2311.18805v1)|null|
+|**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801v1](http://arxiv.org/abs/2311.18801v1)|[2311.18801v1](http://arxiv.org/pdf/2311.18801v1)|null|
+|**2023-11-30**|**Automated interpretation of congenital heart disease from multi-view echocardiograms**|Jing Wang et.al.|[2311.18788v1](http://arxiv.org/abs/2311.18788v1)|[2311.18788v1](http://arxiv.org/pdf/2311.18788v1)|null|
+|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|[2311.18775v1](http://arxiv.org/pdf/2311.18775v1)|null|
+|**2023-11-30**|**Evaluating the Impact of Flaky Simulators on Testing Autonomous Driving Systems**|Mohammad Hossein Amini et.al.|[2311.18768v1](http://arxiv.org/abs/2311.18768v1)|[2311.18768v1](http://arxiv.org/pdf/2311.18768v1)|**[link](https://github.com/anonoymous9423013/anonymous_paper)**|
 |**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907v1](http://arxiv.org/abs/2311.17907v1)|[2311.17907v1](http://arxiv.org/pdf/2311.17907v1)|null|
 |**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901v1](http://arxiv.org/abs/2311.17901v1)|[2311.17901v1](http://arxiv.org/pdf/2311.17901v1)|null|
 |**2023-11-29**|**A Pipeline For Discourse Circuits From CCG**|Jonathon Liu et.al.|[2311.17892v1](http://arxiv.org/abs/2311.17892v1)|[2311.17892v1](http://arxiv.org/pdf/2311.17892v1)|null|
