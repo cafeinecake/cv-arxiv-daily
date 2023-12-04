@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-01**|**XMM-Newton --NuSTAR monitoring campaign of the Seyfert 1 galaxy IC 4329A**|A. Tortosa et.al.|[2312.00783v1](http://arxiv.org/abs/2312.00783v1)|[2312.00783v1](http://arxiv.org/pdf/2312.00783v1)|null|
+|**2023-12-01**|**Quantifying chaos and randomness in magnetar bursts**|Shotaro Yamasaki et.al.|[2312.00782v1](http://arxiv.org/abs/2312.00782v1)|[2312.00782v1](http://arxiv.org/pdf/2312.00782v1)|null|
+|**2023-12-01**|**Environmental Quenching of Low Surface Brightness Galaxies near Milky Way mass Hosts**|J. Bhattacharyya et.al.|[2312.00773v1](http://arxiv.org/abs/2312.00773v1)|[2312.00773v1](http://arxiv.org/pdf/2312.00773v1)|null|
+|**2023-12-01**|**Automated Evaluation of Environmental Coupling for Advanced LIGO Gravitational Wave Detections**|Adrian Helmling-Cornell et.al.|[2312.00735v1](http://arxiv.org/abs/2312.00735v1)|[2312.00735v1](http://arxiv.org/pdf/2312.00735v1)|null|
+|**2023-12-01**|**Characterization of the M1 and M2 layers in the undisturbed Martian ionosphere at solar minimum with MAVEN ROSE**|Jennifer Segale et.al.|[2312.00734v1](http://arxiv.org/abs/2312.00734v1)|[2312.00734v1](http://arxiv.org/pdf/2312.00734v1)|null|
+|**2023-12-01**|**LiteBIRD Science Goals and Forecasts. A Case Study of the Origin of Primordial Gravitational Waves using Large-Scale CMB Polarization**|P. Campeti et.al.|[2312.00717v1](http://arxiv.org/abs/2312.00717v1)|[2312.00717v1](http://arxiv.org/pdf/2312.00717v1)|null|
+|**2023-12-01**|**Primordial Black Holes and Higgs Vacuum Decay**|Ruth Gregory et.al.|[2312.00716v1](http://arxiv.org/abs/2312.00716v1)|[2312.00716v1](http://arxiv.org/pdf/2312.00716v1)|null|
+|**2023-12-01**|**Euclid preparation. TBD. Galaxy power spectrum modelling in real space**|Euclid Collaboration et.al.|[2312.00679v1](http://arxiv.org/abs/2312.00679v1)|[2312.00679v1](http://arxiv.org/pdf/2312.00679v1)|null|
+|**2023-12-01**|**The Automatic Identification and Tracking of Coronal Flux Ropes -- Part II: New Mathematical Morphology-based Flux Rope Extraction Method and Deflection Analysis**|Andreas Wagner et.al.|[2312.00673v1](http://arxiv.org/abs/2312.00673v1)|[2312.00673v1](http://arxiv.org/pdf/2312.00673v1)|null|
+|**2023-12-01**|**What Makes A Discovery**|Dan Hooper et.al.|[2312.00672v1](http://arxiv.org/abs/2312.00672v1)|[2312.00672v1](http://arxiv.org/pdf/2312.00672v1)|null|
 |**2023-11-30**|**On the maximum black hole mass at solar metallicity**|Amedeo Romagnolo et.al.|[2311.18841v1](http://arxiv.org/abs/2311.18841v1)|[2311.18841v1](http://arxiv.org/pdf/2311.18841v1)|null|
 |**2023-11-30**|**VLA FRAMEx. I. Wideband Radio Properties of the AGN in NGC 4388**|Andrew J. Sargent et.al.|[2311.18833v1](http://arxiv.org/abs/2311.18833v1)|[2311.18833v1](http://arxiv.org/pdf/2311.18833v1)|null|
 |**2023-11-30**|**Structure in the speed of sound: from neutron stars to heavy-ion collisions**|Nanxi Yao et.al.|[2311.18819v1](http://arxiv.org/abs/2311.18819v1)|[2311.18819v1](http://arxiv.org/pdf/2311.18819v1)|null|
@@ -3629,6 +3639,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-01**|**Making Large Multimodal Models Understand Arbitrary Visual Prompts**|Mu Cai et.al.|[2312.00784v1](http://arxiv.org/abs/2312.00784v1)|[2312.00784v1](http://arxiv.org/pdf/2312.00784v1)|null|
+|**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774v1](http://arxiv.org/abs/2312.00774v1)|[2312.00774v1](http://arxiv.org/pdf/2312.00774v1)|null|
+|**2023-12-01**|**Automated Material Properties Extraction For Enhanced Beauty Product Discovery and Makeup Virtual Try-on**|Fatemeh Taheri Dezaki et.al.|[2312.00766v1](http://arxiv.org/abs/2312.00766v1)|[2312.00766v1](http://arxiv.org/pdf/2312.00766v1)|null|
+|**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763v1](http://arxiv.org/abs/2312.00763v1)|[2312.00763v1](http://arxiv.org/pdf/2312.00763v1)|null|
+|**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761v1](http://arxiv.org/abs/2312.00761v1)|[2312.00761v1](http://arxiv.org/pdf/2312.00761v1)|null|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752v1](http://arxiv.org/abs/2312.00752v1)|[2312.00752v1](http://arxiv.org/pdf/2312.00752v1)|null|
+|**2023-12-01**|**Mitigating Over-smoothing in Transformers via Regularized Nonlocal Functionals**|Tam Nguyen et.al.|[2312.00751v1](http://arxiv.org/abs/2312.00751v1)|[2312.00751v1](http://arxiv.org/pdf/2312.00751v1)|null|
+|**2023-12-01**|**Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**|Dekun Wu et.al.|[2312.00746v1](http://arxiv.org/abs/2312.00746v1)|[2312.00746v1](http://arxiv.org/pdf/2312.00746v1)|null|
+|**2023-12-01**|**Scalable Meta-Learning with Gaussian Processes**|Petru Tighineanu et.al.|[2312.00742v1](http://arxiv.org/abs/2312.00742v1)|[2312.00742v1](http://arxiv.org/pdf/2312.00742v1)|null|
+|**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|[2312.00732v1](http://arxiv.org/pdf/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**Dataset Distillation in Large Data Era**|Zeyuan Yin et.al.|[2311.18838v1](http://arxiv.org/abs/2311.18838v1)|[2311.18838v1](http://arxiv.org/pdf/2311.18838v1)|**[link](https://github.com/VILA-Lab/SRe2L)**|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|[2311.18837v1](http://arxiv.org/pdf/2311.18837v1)|null|
 |**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|[2311.18835v1](http://arxiv.org/pdf/2311.18835v1)|**[link](https://github.com/rongyaofang/instructseq)**|
