@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-05**|**Probing supermassive black hole seed scenarios with gravitational wave measurements**|John Ellis et.al.|[2312.02983v1](http://arxiv.org/abs/2312.02983v1)|[2312.02983v1](http://arxiv.org/pdf/2312.02983v1)|null|
+|**2023-12-05**|**PROSPECT: A profile likelihood code for frequentist cosmological parameter inference**|Emil Brinch Holm et.al.|[2312.02972v1](http://arxiv.org/abs/2312.02972v1)|[2312.02972v1](http://arxiv.org/pdf/2312.02972v1)|null|
+|**2023-12-05**|**Fast particle-mesh code for Milgromian dynamics**|P. M. Visser et.al.|[2312.02968v1](http://arxiv.org/abs/2312.02968v1)|[2312.02968v1](http://arxiv.org/pdf/2312.02968v1)|null|
+|**2023-12-05**|**Improving Constraints on Inflation with CMB Delensing**|Cynthia Trendafilova et.al.|[2312.02954v1](http://arxiv.org/abs/2312.02954v1)|[2312.02954v1](http://arxiv.org/pdf/2312.02954v1)|null|
+|**2023-12-05**|**Zero and extremely low metallicity rotating massive stars: evolution, explosion, and nucleosynthesis up to the heaviest nuclei**|Lorenzo Roberti et.al.|[2312.02942v1](http://arxiv.org/abs/2312.02942v1)|[2312.02942v1](http://arxiv.org/pdf/2312.02942v1)|null|
+|**2023-12-05**|**Accretion processes onto black holes: theoretical problems, observational constraints**|Bozena Czerny et.al.|[2312.02911v1](http://arxiv.org/abs/2312.02911v1)|[2312.02911v1](http://arxiv.org/pdf/2312.02911v1)|null|
+|**2023-12-05**|**Rare Galaxy Classes Identified In Foundation Model Representations**|Mike Walmsley et.al.|[2312.02910v1](http://arxiv.org/abs/2312.02910v1)|[2312.02910v1](http://arxiv.org/pdf/2312.02910v1)|null|
+|**2023-12-05**|**Deep Learning Segmentation of Spiral Arms and Bars**|Mike Walmsley et.al.|[2312.02908v1](http://arxiv.org/abs/2312.02908v1)|[2312.02908v1](http://arxiv.org/pdf/2312.02908v1)|null|
+|**2023-12-05**|**Propagation of Gravitational Waves in a Dynamical Wormhole Background for Two-scalar Einstein-Gauss-Bonnet Theory**|E. Elizalde et.al.|[2312.02889v1](http://arxiv.org/abs/2312.02889v1)|[2312.02889v1](http://arxiv.org/pdf/2312.02889v1)|null|
+|**2023-12-05**|**Compensation of front-end and modulation delays in phase and ranging measurements for time-delay interferometry**|Philipp Euringer et.al.|[2312.02888v1](http://arxiv.org/abs/2312.02888v1)|[2312.02888v1](http://arxiv.org/pdf/2312.02888v1)|null|
 |**2023-12-04**|**MMT/Binospec Spectroscopic Survey of Two $z\sim$ 0.8 Galaxy Clusters in the Eye of Horus Field**|Jiyun Di et.al.|[2312.02140v1](http://arxiv.org/abs/2312.02140v1)|[2312.02140v1](http://arxiv.org/pdf/2312.02140v1)|null|
 |**2023-12-04**|**Fundamental Physics Opportunities with the Next-Generation Event Horizon Telescope**|Dimitry Ayzenberg et.al.|[2312.02130v1](http://arxiv.org/abs/2312.02130v1)|[2312.02130v1](http://arxiv.org/pdf/2312.02130v1)|null|
 |**2023-12-04**|**Exact solutions of Cotton Gravity**|Roberto A Sussman et.al.|[2312.02115v1](http://arxiv.org/abs/2312.02115v1)|[2312.02115v1](http://arxiv.org/pdf/2312.02115v1)|null|
@@ -3649,6 +3659,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-05**|**Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**|Kiana Ehsani et.al.|[2312.02976v1](http://arxiv.org/abs/2312.02976v1)|[2312.02976v1](http://arxiv.org/pdf/2312.02976v1)|null|
+|**2023-12-05**|**Dexterous Functional Grasping**|Ananye Agarwal et.al.|[2312.02975v1](http://arxiv.org/abs/2312.02975v1)|[2312.02975v1](http://arxiv.org/pdf/2312.02975v1)|null|
+|**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970v1](http://arxiv.org/abs/2312.02970v1)|[2312.02970v1](http://arxiv.org/pdf/2312.02970v1)|null|
+|**2023-12-05**|**Detecting algorithmic bias in medical AI-models**|Jeffrey Smith et.al.|[2312.02959v1](http://arxiv.org/abs/2312.02959v1)|[2312.02959v1](http://arxiv.org/pdf/2312.02959v1)|null|
+|**2023-12-05**|**Classification for everyone : Building geography agnostic models for fairer recognition**|Akshat Jindal et.al.|[2312.02957v1](http://arxiv.org/abs/2312.02957v1)|[2312.02957v1](http://arxiv.org/pdf/2312.02957v1)|null|
+|**2023-12-05**|**WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words**|Lukas Wolf et.al.|[2312.02931v1](http://arxiv.org/abs/2312.02931v1)|[2312.02931v1](http://arxiv.org/pdf/2312.02931v1)|null|
+|**2023-12-05**|**Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions**|Zahra Abbasiantaeb et.al.|[2312.02913v1](http://arxiv.org/abs/2312.02913v1)|[2312.02913v1](http://arxiv.org/pdf/2312.02913v1)|**[link](https://github.com/zahraabbasiantaeb/simquac)**|
+|**2023-12-05**|**Toward autocorrection of chemical process flowsheets using large language models**|Lukas Schulze Balhorn et.al.|[2312.02873v1](http://arxiv.org/abs/2312.02873v1)|[2312.02873v1](http://arxiv.org/pdf/2312.02873v1)|null|
+|**2023-12-05**|**Experimental Insights Towards Explainable and Interpretable Pedestrian Crossing Prediction**|Angie Nataly Melo et.al.|[2312.02872v1](http://arxiv.org/abs/2312.02872v1)|[2312.02872v1](http://arxiv.org/pdf/2312.02872v1)|null|
+|**2023-12-05**|**Towards Causal Representations of Climate Model Data**|Julien Boussard et.al.|[2312.02858v1](http://arxiv.org/abs/2312.02858v1)|[2312.02858v1](http://arxiv.org/pdf/2312.02858v1)|null|
 |**2023-12-04**|**PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**|Anh-Quan Cao et.al.|[2312.02158v1](http://arxiv.org/abs/2312.02158v1)|[2312.02158v1](http://arxiv.org/pdf/2312.02158v1)|null|
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156v1](http://arxiv.org/abs/2312.02156v1)|[2312.02156v1](http://arxiv.org/pdf/2312.02156v1)|null|
 |**2023-12-04**|**Guarding Barlow Twins Against Overfitting with Mixed Samples**|Wele Gedara Chaminda Bandara et.al.|[2312.02151v1](http://arxiv.org/abs/2312.02151v1)|[2312.02151v1](http://arxiv.org/pdf/2312.02151v1)|**[link](https://github.com/wgcban/mix-bt)**|
