@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-06**|**Bayesian estimation of cross-coupling and reflection systematics in 21cm array visibility data**|Geoff G. Murphy et.al.|[2312.03697v1](http://arxiv.org/abs/2312.03697v1)|[2312.03697v1](http://arxiv.org/pdf/2312.03697v1)|null|
+|**2023-12-06**|**Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**|Trevor N. Wolf et.al.|[2312.03671v1](http://arxiv.org/abs/2312.03671v1)|[2312.03671v1](http://arxiv.org/pdf/2312.03671v1)|null|
+|**2023-12-06**|**Neutral Hydrogen Mass in Galaxies Estimated via Optical Spectroscopy**|Dmitry Bizyaev et.al.|[2312.03662v1](http://arxiv.org/abs/2312.03662v1)|[2312.03662v1](http://arxiv.org/pdf/2312.03662v1)|null|
+|**2023-12-06**|**The SAMI Galaxy Survey: $Σ_{\rm SFR}$ drives the presence of complex emission line profiles in star-forming galaxies**|Henry R. M. Zovaro et.al.|[2312.03659v1](http://arxiv.org/abs/2312.03659v1)|[2312.03659v1](http://arxiv.org/pdf/2312.03659v1)|null|
+|**2023-12-06**|**The Initial Mass Function Based on the Full-sky 20-pc Census of $\sim$3,600 Stars and Brown Dwarfs**|J. Davy Kirkpatrick et.al.|[2312.03639v1](http://arxiv.org/abs/2312.03639v1)|[2312.03639v1](http://arxiv.org/pdf/2312.03639v1)|null|
+|**2023-12-06**|**Quasi-periodic oscillations in rotating and deformed spacetimes**|Kuantay Boshkayev et.al.|[2312.03630v1](http://arxiv.org/abs/2312.03630v1)|[2312.03630v1](http://arxiv.org/pdf/2312.03630v1)|null|
+|**2023-12-06**|**Post-starburst galaxies in SDSS-IV MaNGA: Two broad categories of evolutionary pathways**|Zhuo Cheng et.al.|[2312.03616v1](http://arxiv.org/abs/2312.03616v1)|[2312.03616v1](http://arxiv.org/pdf/2312.03616v1)|null|
+|**2023-12-06**|**Physical Symbolic Optimization**|Wassim Tenachi et.al.|[2312.03612v1](http://arxiv.org/abs/2312.03612v1)|[2312.03612v1](http://arxiv.org/pdf/2312.03612v1)|**[link](https://github.com/wassimtenachi/physo)**|
+|**2023-12-06**|**Criss Cross Nebula: Case study of shock regions with resolved microstructures at scales of $\sim$1000 AU**|Tao Jing et.al.|[2312.03602v1](http://arxiv.org/abs/2312.03602v1)|[2312.03602v1](http://arxiv.org/pdf/2312.03602v1)|null|
+|**2023-12-06**|**On the existence, rareness and uniqueness of quenched HI-rich galaxies in the local Universe**|Xiao Li et.al.|[2312.03601v1](http://arxiv.org/abs/2312.03601v1)|[2312.03601v1](http://arxiv.org/pdf/2312.03601v1)|null|
 |**2023-12-05**|**Probing supermassive black hole seed scenarios with gravitational wave measurements**|John Ellis et.al.|[2312.02983v1](http://arxiv.org/abs/2312.02983v1)|[2312.02983v1](http://arxiv.org/pdf/2312.02983v1)|null|
 |**2023-12-05**|**PROSPECT: A profile likelihood code for frequentist cosmological parameter inference**|Emil Brinch Holm et.al.|[2312.02972v1](http://arxiv.org/abs/2312.02972v1)|[2312.02972v1](http://arxiv.org/pdf/2312.02972v1)|null|
 |**2023-12-05**|**Fast particle-mesh code for Milgromian dynamics**|P. M. Visser et.al.|[2312.02968v1](http://arxiv.org/abs/2312.02968v1)|[2312.02968v1](http://arxiv.org/pdf/2312.02968v1)|null|
@@ -3659,6 +3669,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700v1](http://arxiv.org/abs/2312.03700v1)|[2312.03700v1](http://arxiv.org/pdf/2312.03700v1)|**[link](https://github.com/csuhan/onellm)**|
+|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v1](http://arxiv.org/abs/2312.03698v1)|[2312.03698v1](http://arxiv.org/pdf/2312.03698v1)|null|
+|**2023-12-06**|**MatterGen: a generative model for inorganic materials design**|Claudio Zeni et.al.|[2312.03687v1](http://arxiv.org/abs/2312.03687v1)|[2312.03687v1](http://arxiv.org/pdf/2312.03687v1)|null|
+|**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682v1](http://arxiv.org/abs/2312.03682v1)|[2312.03682v1](http://arxiv.org/pdf/2312.03682v1)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
+|**2023-12-06**|**An Integration of Pre-Trained Speech and Language Models for End-to-End Speech Recognition**|Yukiya Hono et.al.|[2312.03668v1](http://arxiv.org/abs/2312.03668v1)|[2312.03668v1](http://arxiv.org/pdf/2312.03668v1)|null|
+|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664v1](http://arxiv.org/abs/2312.03664v1)|[2312.03664v1](http://arxiv.org/pdf/2312.03664v1)|null|
+|**2023-12-06**|**Efficient Inverse Design Optimization through Multi-fidelity Simulations, Machine Learning, and Search Space Reduction Strategies**|Luka Grbcic et.al.|[2312.03654v1](http://arxiv.org/abs/2312.03654v1)|[2312.03654v1](http://arxiv.org/pdf/2312.03654v1)|null|
+|**2023-12-06**|**Quantum Optics with Rydberg Superatoms**|Jan Kumlin et.al.|[2312.03649v1](http://arxiv.org/abs/2312.03649v1)|[2312.03649v1](http://arxiv.org/pdf/2312.03649v1)|null|
+|**2023-12-06**|**Fairness and Deception in Human Interactions with Artificial Agents**|Theodor Cimpeanu et.al.|[2312.03645v1](http://arxiv.org/abs/2312.03645v1)|[2312.03645v1](http://arxiv.org/pdf/2312.03645v1)|null|
+|**2023-12-06**|**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation**|Zhouxia Wang et.al.|[2312.03641v1](http://arxiv.org/abs/2312.03641v1)|[2312.03641v1](http://arxiv.org/pdf/2312.03641v1)|null|
 |**2023-12-05**|**Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**|Kiana Ehsani et.al.|[2312.02976v1](http://arxiv.org/abs/2312.02976v1)|[2312.02976v1](http://arxiv.org/pdf/2312.02976v1)|null|
 |**2023-12-05**|**Dexterous Functional Grasping**|Ananye Agarwal et.al.|[2312.02975v1](http://arxiv.org/abs/2312.02975v1)|[2312.02975v1](http://arxiv.org/pdf/2312.02975v1)|null|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970v1](http://arxiv.org/abs/2312.02970v1)|[2312.02970v1](http://arxiv.org/pdf/2312.02970v1)|null|
