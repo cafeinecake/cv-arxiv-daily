@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-07**|**Bar Properties as a Function of Wavelength: A Local Baseline with S4G for High-Redshift Studies**|Karín Menéndez-Delmestre et.al.|[2312.04545v1](http://arxiv.org/abs/2312.04545v1)|[2312.04545v1](http://arxiv.org/pdf/2312.04545v1)|null|
+|**2023-12-07**|**Redshift-dependent RSD bias from Intrinsic Alignment with DESI Year 1 Spectra**|Claire Lamman et.al.|[2312.04518v1](http://arxiv.org/abs/2312.04518v1)|[2312.04518v1](http://arxiv.org/pdf/2312.04518v1)|null|
+|**2023-12-07**|**False vacuum decay rates, more precisely**|Wen-Yuan Ai et.al.|[2312.04482v1](http://arxiv.org/abs/2312.04482v1)|[2312.04482v1](http://arxiv.org/pdf/2312.04482v1)|null|
+|**2023-12-07**|**On the Role of Alfvenic Fluctuations as Mediators of Coherence within Interplanetary Coronal Mass Ejections: Investigation of Multi-Spacecraft Measurements at 1 au**|Camilla Scolini et.al.|[2312.04480v1](http://arxiv.org/abs/2312.04480v1)|[2312.04480v1](http://arxiv.org/pdf/2312.04480v1)|null|
+|**2023-12-07**|**FRAMEx. V. Radio Spectral Shape at Central Sub-parsec Region of AGNs**|Onic I. Shuvo et.al.|[2312.04452v1](http://arxiv.org/abs/2312.04452v1)|[2312.04452v1](http://arxiv.org/pdf/2312.04452v1)|null|
+|**2023-12-07**|**Nonlinear aspects of stochastic particle acceleration**|M. Lemoine et.al.|[2312.04443v1](http://arxiv.org/abs/2312.04443v1)|[2312.04443v1](http://arxiv.org/pdf/2312.04443v1)|null|
+|**2023-12-07**|**SN2023ixf in Messier 101: the twilight years of the progenitor as seen by Pan-STARRS**|Conor L. Ransome et.al.|[2312.04426v1](http://arxiv.org/abs/2312.04426v1)|[2312.04426v1](http://arxiv.org/pdf/2312.04426v1)|null|
+|**2023-12-07**|**PWN-powered Galactic Center X-ray filament G0.13-0.11: Proof of the synchrotron nature by IXPE**|Eugene Churazov et.al.|[2312.04421v1](http://arxiv.org/abs/2312.04421v1)|[2312.04421v1](http://arxiv.org/pdf/2312.04421v1)|null|
+|**2023-12-07**|**On the role of numerical diffusivity in MHD simulations of global accretion disc dynamos**|C. J. Nixon et.al.|[2312.04400v1](http://arxiv.org/abs/2312.04400v1)|[2312.04400v1](http://arxiv.org/pdf/2312.04400v1)|null|
+|**2023-12-07**|**Detecting the prompt optical flashes of gamma-ray bursts with small telescope arrays**|Iftach Sadeh et.al.|[2312.04361v1](http://arxiv.org/abs/2312.04361v1)|[2312.04361v1](http://arxiv.org/pdf/2312.04361v1)|null|
 |**2023-12-06**|**Bayesian estimation of cross-coupling and reflection systematics in 21cm array visibility data**|Geoff G. Murphy et.al.|[2312.03697v1](http://arxiv.org/abs/2312.03697v1)|[2312.03697v1](http://arxiv.org/pdf/2312.03697v1)|null|
 |**2023-12-06**|**Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**|Trevor N. Wolf et.al.|[2312.03671v1](http://arxiv.org/abs/2312.03671v1)|[2312.03671v1](http://arxiv.org/pdf/2312.03671v1)|null|
 |**2023-12-06**|**Neutral Hydrogen Mass in Galaxies Estimated via Optical Spectroscopy**|Dmitry Bizyaev et.al.|[2312.03662v1](http://arxiv.org/abs/2312.03662v1)|[2312.03662v1](http://arxiv.org/pdf/2312.03662v1)|null|
@@ -3673,6 +3683,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-07**|**NeRFiller: Completing Scenes via Generative 3D Inpainting**|Ethan Weber et.al.|[2312.04560v1](http://arxiv.org/abs/2312.04560v1)|[2312.04560v1](http://arxiv.org/pdf/2312.04560v1)|null|
+|**2023-12-07**|**Large Language Models for Mathematicians**|Simon Frieder et.al.|[2312.04556v1](http://arxiv.org/abs/2312.04556v1)|[2312.04556v1](http://arxiv.org/pdf/2312.04556v1)|null|
+|**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552v1](http://arxiv.org/abs/2312.04552v1)|[2312.04552v1](http://arxiv.org/pdf/2312.04552v1)|null|
+|**2023-12-07**|**PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**|Lili Chen et.al.|[2312.04549v1](http://arxiv.org/abs/2312.04549v1)|[2312.04549v1](http://arxiv.org/pdf/2312.04549v1)|null|
+|**2023-12-07**|**Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?**|Aritra Dutta et.al.|[2312.04548v1](http://arxiv.org/abs/2312.04548v1)|[2312.04548v1](http://arxiv.org/pdf/2312.04548v1)|null|
+|**2023-12-07**|**Adversarial Learning for Feature Shift Detection and Correction**|Miriam Barrabes et.al.|[2312.04546v1](http://arxiv.org/abs/2312.04546v1)|[2312.04546v1](http://arxiv.org/pdf/2312.04546v1)|**[link](https://github.com/ai-sandbox/datafix)**|
+|**2023-12-07**|**Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations**|Yuejiang Liu et.al.|[2312.04540v1](http://arxiv.org/abs/2312.04540v1)|[2312.04540v1](http://arxiv.org/pdf/2312.04540v1)|null|
+|**2023-12-07**|**Using Large Language Models for Hyperparameter Optimization**|Michael R. Zhang et.al.|[2312.04528v1](http://arxiv.org/abs/2312.04528v1)|[2312.04528v1](http://arxiv.org/pdf/2312.04528v1)|null|
+|**2023-12-07**|**Coordination-free Decentralised Federated Learning on Complex Networks: Overcoming Heterogeneity**|Lorenzo Valerio et.al.|[2312.04504v1](http://arxiv.org/abs/2312.04504v1)|[2312.04504v1](http://arxiv.org/pdf/2312.04504v1)|null|
+|**2023-12-07**|**Data-Driven Robust Reinforcement Learning Control of Uncertain Nonlinear Systems: Towards a Fully-Automated, Insulin-Based Artificial Pancreas**|Alexandros Tanzanakis et.al.|[2312.04503v1](http://arxiv.org/abs/2312.04503v1)|[2312.04503v1](http://arxiv.org/pdf/2312.04503v1)|null|
 |**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700v1](http://arxiv.org/abs/2312.03700v1)|[2312.03700v1](http://arxiv.org/pdf/2312.03700v1)|**[link](https://github.com/csuhan/onellm)**|
 |**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v1](http://arxiv.org/abs/2312.03698v1)|[2312.03698v1](http://arxiv.org/pdf/2312.03698v1)|null|
 |**2023-12-06**|**MatterGen: a generative model for inorganic materials design**|Claudio Zeni et.al.|[2312.03687v1](http://arxiv.org/abs/2312.03687v1)|[2312.03687v1](http://arxiv.org/pdf/2312.03687v1)|null|
