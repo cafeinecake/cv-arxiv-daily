@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-08**|**The Long Secondary Period (LSP) Variables: Overview and Some Analysis**|John R. Percy et.al.|[2312.05255v1](http://arxiv.org/abs/2312.05255v1)|[2312.05255v1](http://arxiv.org/pdf/2312.05255v1)|null|
+|**2023-12-08**|**Disentangling CO Chemistry in a Protoplanetary Disk Using Explanatory Machine Learning Techniques**|Amina Diop et.al.|[2312.05254v1](http://arxiv.org/abs/2312.05254v1)|[2312.05254v1](http://arxiv.org/pdf/2312.05254v1)|null|
+|**2023-12-08**|**Laboratory realization of relativistic pair-plasma beams**|C. D. Arrowsmith et.al.|[2312.05244v1](http://arxiv.org/abs/2312.05244v1)|[2312.05244v1](http://arxiv.org/pdf/2312.05244v1)|null|
+|**2023-12-08**|**HI Galaxy Signatures in the SARAO MeerKAT Galactic Plane Survey -- II. The Local Void and its substructure**|Sushma Kurapati et.al.|[2312.05237v1](http://arxiv.org/abs/2312.05237v1)|[2312.05237v1](http://arxiv.org/pdf/2312.05237v1)|null|
+|**2023-12-08**|**LiteBIRD Science Goals and Forecasts: Improving Sensitivity to Inflationary Gravitational Waves with Multitracer Delensing**|T. Namikawa et.al.|[2312.05194v1](http://arxiv.org/abs/2312.05194v1)|[2312.05194v1](http://arxiv.org/pdf/2312.05194v1)|null|
+|**2023-12-08**|**First GMVA observations with the upgraded NOEMA facility: VLBI imaging of BL Lacertae in a flaring state**|Dae-Won Kim et.al.|[2312.05191v1](http://arxiv.org/abs/2312.05191v1)|[2312.05191v1](http://arxiv.org/pdf/2312.05191v1)|null|
+|**2023-12-08**|**LiteBIRD Science Goals and Forecasts: A full-sky measurement of gravitational lensing of the CMB**|A. I. Lonappan et.al.|[2312.05184v1](http://arxiv.org/abs/2312.05184v1)|[2312.05184v1](http://arxiv.org/pdf/2312.05184v1)|**[link](https://github.com/antolonappan/dell)**|
+|**2023-12-08**|**Compressed baryon acoustic oscillation analysis is robust to modified-gravity models**|Jiaming Pan et.al.|[2312.05177v1](http://arxiv.org/abs/2312.05177v1)|[2312.05177v1](http://arxiv.org/pdf/2312.05177v1)|null|
+|**2023-12-08**|**Bipolar Outflows out to 10~kpc for Massive Galaxies at Redshift $z\approx 1$**|Yucheng Guo et.al.|[2312.05167v1](http://arxiv.org/abs/2312.05167v1)|[2312.05167v1](http://arxiv.org/pdf/2312.05167v1)|null|
+|**2023-12-08**|**Secular change in the spin states of asteroids due to radiation and gravitation torques. New detections and updates of the YORP effect**|J. Ďurech et.al.|[2312.05157v1](http://arxiv.org/abs/2312.05157v1)|[2312.05157v1](http://arxiv.org/pdf/2312.05157v1)|null|
 |**2023-12-07**|**Bar Properties as a Function of Wavelength: A Local Baseline with S4G for High-Redshift Studies**|Karín Menéndez-Delmestre et.al.|[2312.04545v1](http://arxiv.org/abs/2312.04545v1)|[2312.04545v1](http://arxiv.org/pdf/2312.04545v1)|null|
 |**2023-12-07**|**Redshift-dependent RSD bias from Intrinsic Alignment with DESI Year 1 Spectra**|Claire Lamman et.al.|[2312.04518v1](http://arxiv.org/abs/2312.04518v1)|[2312.04518v1](http://arxiv.org/pdf/2312.04518v1)|**[link](https://github.com/cmlamman/ellipse_alignment)**|
 |**2023-12-07**|**False vacuum decay rates, more precisely**|Wen-Yuan Ai et.al.|[2312.04482v1](http://arxiv.org/abs/2312.04482v1)|[2312.04482v1](http://arxiv.org/pdf/2312.04482v1)|null|
@@ -3683,6 +3693,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|[2312.05253v1](http://arxiv.org/pdf/2312.05253v1)|null|
+|**2023-12-08**|**TaskMet: Task-Driven Metric Learning for Model Learning**|Dishank Bansal et.al.|[2312.05250v1](http://arxiv.org/abs/2312.05250v1)|[2312.05250v1](http://arxiv.org/pdf/2312.05250v1)|null|
+|**2023-12-08**|**Contra generative AI detection in higher education assessments**|Cesare G. Ardito et.al.|[2312.05241v1](http://arxiv.org/abs/2312.05241v1)|[2312.05241v1](http://arxiv.org/pdf/2312.05241v1)|null|
+|**2023-12-08**|**Seeing ChatGPT Through Universities' Policies, Resources and Guidelines**|Hui Wang et.al.|[2312.05235v1](http://arxiv.org/abs/2312.05235v1)|[2312.05235v1](http://arxiv.org/pdf/2312.05235v1)|null|
+|**2023-12-08**|**High-Order Entropy Correction with SIAC Filters**|Matthew J. Picklo et.al.|[2312.05232v1](http://arxiv.org/abs/2312.05232v1)|[2312.05232v1](http://arxiv.org/pdf/2312.05232v1)|null|
+|**2023-12-08**|**Modeling Risk in Reinforcement Learning: A Literature Mapping**|Leonardo Villalobos-Arias et.al.|[2312.05231v1](http://arxiv.org/abs/2312.05231v1)|[2312.05231v1](http://arxiv.org/pdf/2312.05231v1)|null|
+|**2023-12-08**|**Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**|Zhiting Hu et.al.|[2312.05230v1](http://arxiv.org/abs/2312.05230v1)|[2312.05230v1](http://arxiv.org/pdf/2312.05230v1)|null|
+|**2023-12-08**|**HALO: An Ontology for Representing Hallucinations in Generative Models**|Navapat Nananukul et.al.|[2312.05209v1](http://arxiv.org/abs/2312.05209v1)|[2312.05209v1](http://arxiv.org/pdf/2312.05209v1)|null|
+|**2023-12-08**|**Conformal Prediction in Multi-User Settings: An Evaluation**|Enrique Garcia-Ceja et.al.|[2312.05195v1](http://arxiv.org/abs/2312.05195v1)|[2312.05195v1](http://arxiv.org/pdf/2312.05195v1)|**[link](https://github.com/enriquegit/conformal-prediction-multiuser)**|
+|**2023-12-08**|**AI Competitions and Benchmarks: Competition platforms**|Andrey Ustyuzhanin et.al.|[2312.05185v1](http://arxiv.org/abs/2312.05185v1)|[2312.05185v1](http://arxiv.org/pdf/2312.05185v1)|null|
 |**2023-12-07**|**NeRFiller: Completing Scenes via Generative 3D Inpainting**|Ethan Weber et.al.|[2312.04560v1](http://arxiv.org/abs/2312.04560v1)|[2312.04560v1](http://arxiv.org/pdf/2312.04560v1)|null|
 |**2023-12-07**|**Large Language Models for Mathematicians**|Simon Frieder et.al.|[2312.04556v1](http://arxiv.org/abs/2312.04556v1)|[2312.04556v1](http://arxiv.org/pdf/2312.04556v1)|null|
 |**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552v1](http://arxiv.org/abs/2312.04552v1)|[2312.04552v1](http://arxiv.org/pdf/2312.04552v1)|null|
