@@ -1,9 +1,9 @@
-> Updated on 2023.12.10
+> Updated on 2023.12.11
 
 ## Astrophysics
 
 - 2023-12-07, **Bar Properties as a Function of Wavelength: A Local Baseline with S4G for High-Redshift Studies**, Karín Menéndez-Delmestre et.al., Paper: [http://arxiv.org/abs/2312.04545v1](http://arxiv.org/abs/2312.04545v1), Paper: [http://arxiv.org/abs/2312.04545v1](http://arxiv.org/pdf/2312.04545v1)
-- 2023-12-07, **Redshift-dependent RSD bias from Intrinsic Alignment with DESI Year 1 Spectra**, Claire Lamman et.al., Paper: [http://arxiv.org/abs/2312.04518v1](http://arxiv.org/abs/2312.04518v1), Paper: [http://arxiv.org/abs/2312.04518v1](http://arxiv.org/pdf/2312.04518v1)
+- 2023-12-07, **Redshift-dependent RSD bias from Intrinsic Alignment with DESI Year 1 Spectra**, Claire Lamman et.al., Paper: [http://arxiv.org/abs/2312.04518v1](http://arxiv.org/abs/2312.04518v1),Paper: [http://arxiv.org/abs/2312.04518v1](http://arxiv.org/pdf/2312.04518v1), Code: **[https://github.com/cmlamman/ellipse_alignment](https://github.com/cmlamman/ellipse_alignment)**
 - 2023-12-07, **False vacuum decay rates, more precisely**, Wen-Yuan Ai et.al., Paper: [http://arxiv.org/abs/2312.04482v1](http://arxiv.org/abs/2312.04482v1), Paper: [http://arxiv.org/abs/2312.04482v1](http://arxiv.org/pdf/2312.04482v1)
 - 2023-12-07, **On the Role of Alfvenic Fluctuations as Mediators of Coherence within Interplanetary Coronal Mass Ejections: Investigation of Multi-Spacecraft Measurements at 1 au**, Camilla Scolini et.al., Paper: [http://arxiv.org/abs/2312.04480v1](http://arxiv.org/abs/2312.04480v1), Paper: [http://arxiv.org/abs/2312.04480v1](http://arxiv.org/pdf/2312.04480v1)
 - 2023-12-07, **FRAMEx. V. Radio Spectral Shape at Central Sub-parsec Region of AGNs**, Onic I. Shuvo et.al., Paper: [http://arxiv.org/abs/2312.04452v1](http://arxiv.org/abs/2312.04452v1), Paper: [http://arxiv.org/abs/2312.04452v1](http://arxiv.org/pdf/2312.04452v1)
