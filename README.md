@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-11**|**New black hole mergers in the LIGO-Virgo O3 data from a gravitational wave search including higher-order harmonics**|Digvijay Wadekar et.al.|[2312.06631v1](http://arxiv.org/abs/2312.06631v1)|[2312.06631v1](http://arxiv.org/pdf/2312.06631v1)|null|
+|**2023-12-11**|**Modeling line-of-sight magnetograms of active regions**|M. Poisson et.al.|[2312.06599v1](http://arxiv.org/abs/2312.06599v1)|[2312.06599v1](http://arxiv.org/pdf/2312.06599v1)|null|
+|**2023-12-11**|**A Lensing-Band Approach to Spacetime Constraints**|Alejandro Cárdenas-Avendaño et.al.|[2312.06590v1](http://arxiv.org/abs/2312.06590v1)|[2312.06590v1](http://arxiv.org/pdf/2312.06590v1)|null|
+|**2023-12-11**|**ESO/HARPS Radial Velocities Catalog**|Mauro Barbieri et.al.|[2312.06586v1](http://arxiv.org/abs/2312.06586v1)|[2312.06586v1](http://arxiv.org/pdf/2312.06586v1)|null|
+|**2023-12-11**|**The Cosmological Flow: A Systematic Approach to Primordial Correlators**|Lucas Pinol et.al.|[2312.06559v1](http://arxiv.org/abs/2312.06559v1)|[2312.06559v1](http://arxiv.org/pdf/2312.06559v1)|null|
+|**2023-12-11**|**Fast Conversion of Neutrinos: Energy Dependence of Flavor Instabilities**|Pedro Dedin Neto et.al.|[2312.06556v1](http://arxiv.org/abs/2312.06556v1)|[2312.06556v1](http://arxiv.org/pdf/2312.06556v1)|null|
+|**2023-12-11**|**Comparing HAWC blazars light curves with different data reconstruction versions**|J. A. García-González et.al.|[2312.06536v1](http://arxiv.org/abs/2312.06536v1)|[2312.06536v1](http://arxiv.org/pdf/2312.06536v1)|null|
+|**2023-12-11**|**Big bang nucleosynthesis with rapidly varying G**|Anish Giri et.al.|[2312.06525v1](http://arxiv.org/abs/2312.06525v1)|[2312.06525v1](http://arxiv.org/pdf/2312.06525v1)|null|
+|**2023-12-11**|**Massive Star Cluster Formation I. High Star Formation Efficiency While Resolving Feedback of Individual Stars**|Brooke Polak et.al.|[2312.06509v1](http://arxiv.org/abs/2312.06509v1)|[2312.06509v1](http://arxiv.org/pdf/2312.06509v1)|null|
+|**2023-12-11**|**Fierce Feedback in an Obscured, Sub-Eddington State of the Seyfert 1.2 Markarian 817**|Miranda K. Zak et.al.|[2312.06487v1](http://arxiv.org/abs/2312.06487v1)|[2312.06487v1](http://arxiv.org/pdf/2312.06487v1)|null|
 |**2023-12-08**|**The Long Secondary Period (LSP) Variables: Overview and Some Analysis**|John R. Percy et.al.|[2312.05255v1](http://arxiv.org/abs/2312.05255v1)|[2312.05255v1](http://arxiv.org/pdf/2312.05255v1)|null|
 |**2023-12-08**|**Disentangling CO Chemistry in a Protoplanetary Disk Using Explanatory Machine Learning Techniques**|Amina Diop et.al.|[2312.05254v1](http://arxiv.org/abs/2312.05254v1)|[2312.05254v1](http://arxiv.org/pdf/2312.05254v1)|null|
 |**2023-12-08**|**Laboratory realization of relativistic pair-plasma beams**|C. D. Arrowsmith et.al.|[2312.05244v1](http://arxiv.org/abs/2312.05244v1)|[2312.05244v1](http://arxiv.org/pdf/2312.05244v1)|null|
@@ -3689,6 +3699,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|[2312.06662v1](http://arxiv.org/pdf/2312.06662v1)|null|
+|**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652v1](http://arxiv.org/abs/2312.06652v1)|[2312.06652v1](http://arxiv.org/pdf/2312.06652v1)|null|
+|**2023-12-11**|**Dense X Retrieval: What Retrieval Granularity Should We Use?**|Tong Chen et.al.|[2312.06648v1](http://arxiv.org/abs/2312.06648v1)|[2312.06648v1](http://arxiv.org/pdf/2312.06648v1)|**[link](https://github.com/ct123098/factoid-wiki)**|
+|**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647v1](http://arxiv.org/abs/2312.06647v1)|[2312.06647v1](http://arxiv.org/pdf/2312.06647v1)|null|
+|**2023-12-11**|**Computational Copyright: Towards A Royalty Model for AI Music Generation Platforms**|Junwei Deng et.al.|[2312.06646v1](http://arxiv.org/abs/2312.06646v1)|[2312.06646v1](http://arxiv.org/pdf/2312.06646v1)|null|
+|**2023-12-11**|**AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes**|Zehao Wen et.al.|[2312.06644v1](http://arxiv.org/abs/2312.06644v1)|[2312.06644v1](http://arxiv.org/pdf/2312.06644v1)|null|
+|**2023-12-11**|**Gaze Detection and Analysis for Initiating Joint Activity in Industrial Human-Robot Collaboration**|Pooja Prajod et.al.|[2312.06643v1](http://arxiv.org/abs/2312.06643v1)|[2312.06643v1](http://arxiv.org/pdf/2312.06643v1)|null|
+|**2023-12-11**|**Harmonic Mobile Manipulation**|Ruihan Yang et.al.|[2312.06639v1](http://arxiv.org/abs/2312.06639v1)|[2312.06639v1](http://arxiv.org/pdf/2312.06639v1)|null|
+|**2023-12-11**|**SurvBeNIM: The Beran-Based Neural Importance Model for Explaining the Survival Models**|Lev V. Utkin et.al.|[2312.06638v1](http://arxiv.org/abs/2312.06638v1)|[2312.06638v1](http://arxiv.org/pdf/2312.06638v1)|**[link](https://github.com/danilaeremenko/survbenim)**|
+|**2023-12-11**|**Examining the Effect of Implementation Factors on Deep Learning Reproducibility**|Kevin Coakley et.al.|[2312.06633v1](http://arxiv.org/abs/2312.06633v1)|[2312.06633v1](http://arxiv.org/pdf/2312.06633v1)|null|
 |**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|[2312.05253v1](http://arxiv.org/pdf/2312.05253v1)|null|
 |**2023-12-08**|**TaskMet: Task-Driven Metric Learning for Model Learning**|Dishank Bansal et.al.|[2312.05250v1](http://arxiv.org/abs/2312.05250v1)|[2312.05250v1](http://arxiv.org/pdf/2312.05250v1)|null|
 |**2023-12-08**|**Contra generative AI detection in higher education assessments**|Cesare G. Ardito et.al.|[2312.05241v1](http://arxiv.org/abs/2312.05241v1)|[2312.05241v1](http://arxiv.org/pdf/2312.05241v1)|null|
