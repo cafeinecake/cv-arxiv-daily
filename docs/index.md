@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-12**|**Cosmological Field Emulation and Parameter Inference with Diffusion Models**|Nayantara Mudur et.al.|[2312.07534v1](http://arxiv.org/abs/2312.07534v1)|[2312.07534v1](http://arxiv.org/pdf/2312.07534v1)|null|
+|**2023-12-12**|**Anomalous cosmic-ray correlations revisited with a complete full-sky sample of BL Lac type objects**|M. A. Kudenko et.al.|[2312.07525v1](http://arxiv.org/abs/2312.07525v1)|[2312.07525v1](http://arxiv.org/pdf/2312.07525v1)|null|
+|**2023-12-12**|**A cosmological "Big Storm Scenario" following the QCD phase transition**|Edward Shuryak et.al.|[2312.07524v1](http://arxiv.org/abs/2312.07524v1)|[2312.07524v1](http://arxiv.org/pdf/2312.07524v1)|null|
+|**2023-12-12**|**An isotropic full-sky sample of optically selected blazars**|Maria Kudenko et.al.|[2312.07508v1](http://arxiv.org/abs/2312.07508v1)|[2312.07508v1](http://arxiv.org/pdf/2312.07508v1)|null|
+|**2023-12-12**|**Aliasing from Galactic Plane Setting in Widefield Radio Interferometry**|N. Barry et.al.|[2312.07506v1](http://arxiv.org/abs/2312.07506v1)|[2312.07506v1](http://arxiv.org/pdf/2312.07506v1)|null|
+|**2023-12-12**|**Black hole shadows of massive particles and photons in plasma**|Kirill Kobialko et.al.|[2312.07498v1](http://arxiv.org/abs/2312.07498v1)|[2312.07498v1](http://arxiv.org/pdf/2312.07498v1)|null|
+|**2023-12-12**|**Dark energy from topology change induced by microscopic Gauss-Bonnet wormholes**|Stylianos A. Tsilioukas et.al.|[2312.07486v1](http://arxiv.org/abs/2312.07486v1)|[2312.07486v1](http://arxiv.org/pdf/2312.07486v1)|null|
+|**2023-12-12**|**Turning Earth into Venus: A Stochastic Model of Possible Evolutions of Terrestrial Topography**|Arthur D. Adams et.al.|[2312.07483v1](http://arxiv.org/abs/2312.07483v1)|[2312.07483v1](http://arxiv.org/pdf/2312.07483v1)|null|
+|**2023-12-12**|**The Green Bank North Celestial Cap Survey IX: Timing Follow-up for 128 Pulsars**|A. E. McEwen et.al.|[2312.07471v1](http://arxiv.org/abs/2312.07471v1)|[2312.07471v1](http://arxiv.org/pdf/2312.07471v1)|null|
+|**2023-12-12**|**Baryon-induced collapse of dark matter cores into supermassive black holes**|C. R. Arguelles et.al.|[2312.07461v1](http://arxiv.org/abs/2312.07461v1)|[2312.07461v1](http://arxiv.org/pdf/2312.07461v1)|null|
 |**2023-12-11**|**New black hole mergers in the LIGO-Virgo O3 data from a gravitational wave search including higher-order harmonics**|Digvijay Wadekar et.al.|[2312.06631v1](http://arxiv.org/abs/2312.06631v1)|[2312.06631v1](http://arxiv.org/pdf/2312.06631v1)|**[link](https://github.com/jaywadekar/gw_higher_harmonics_search)**|
 |**2023-12-11**|**Modeling line-of-sight magnetograms of active regions**|M. Poisson et.al.|[2312.06599v1](http://arxiv.org/abs/2312.06599v1)|[2312.06599v1](http://arxiv.org/pdf/2312.06599v1)|null|
 |**2023-12-11**|**A Lensing-Band Approach to Spacetime Constraints**|Alejandro Cárdenas-Avendaño et.al.|[2312.06590v1](http://arxiv.org/abs/2312.06590v1)|[2312.06590v1](http://arxiv.org/pdf/2312.06590v1)|null|
@@ -3703,6 +3713,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-12**|**diff History for Long-Context Language Agents**|Ulyana Piterbarg et.al.|[2312.07540v1](http://arxiv.org/abs/2312.07540v1)|[2312.07540v1](http://arxiv.org/pdf/2312.07540v1)|null|
+|**2023-12-12**|**Interfacing Foundation Models' Embeddings**|Xueyan Zou et.al.|[2312.07532v1](http://arxiv.org/abs/2312.07532v1)|[2312.07532v1](http://arxiv.org/pdf/2312.07532v1)|**[link](https://github.com/ux-decoder/find)**|
+|**2023-12-12**|**BaRDa: A Belief and Reasoning Dataset that Separates Factual Accuracy and Reasoning Ability**|Peter Clark et.al.|[2312.07527v1](http://arxiv.org/abs/2312.07527v1)|[2312.07527v1](http://arxiv.org/pdf/2312.07527v1)|null|
+|**2023-12-12**|**SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models**|Manish Nagireddy et.al.|[2312.07492v1](http://arxiv.org/abs/2312.07492v1)|[2312.07492v1](http://arxiv.org/pdf/2312.07492v1)|null|
+|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488v1](http://arxiv.org/abs/2312.07488v1)|[2312.07488v1](http://arxiv.org/pdf/2312.07488v1)|null|
+|**2023-12-12**|**Classification of retail products: From probabilistic ranking to neural networks**|Manar Mohamed Hafez et.al.|[2312.07482v1](http://arxiv.org/abs/2312.07482v1)|[2312.07482v1](http://arxiv.org/pdf/2312.07482v1)|null|
+|**2023-12-12**|**Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection**|Caoyun Fan et.al.|[2312.07476v1](http://arxiv.org/abs/2312.07476v1)|[2312.07476v1](http://arxiv.org/pdf/2312.07476v1)|null|
+|**2023-12-12**|**Efficient Object Detection in Autonomous Driving using Spiking Neural Networks: Performance, Energy Consumption Analysis, and Insights into Open-set Object Discovery**|Aitor Martinez Seras et.al.|[2312.07466v1](http://arxiv.org/abs/2312.07466v1)|[2312.07466v1](http://arxiv.org/pdf/2312.07466v1)|**[link](https://github.com/aitor-martinez-seras/snn-automotive-object-detection)**|
+|**2023-12-12**|**Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling**|Daniel Ordoñez-Apraez et.al.|[2312.07457v1](http://arxiv.org/abs/2312.07457v1)|[2312.07457v1](http://arxiv.org/pdf/2312.07457v1)|null|
+|**2023-12-12**|**BIRB: A Generalization Benchmark for Information Retrieval in Bioacoustics**|Jenny Hamer et.al.|[2312.07439v1](http://arxiv.org/abs/2312.07439v1)|[2312.07439v1](http://arxiv.org/pdf/2312.07439v1)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|[2312.06662v1](http://arxiv.org/pdf/2312.06662v1)|null|
 |**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652v1](http://arxiv.org/abs/2312.06652v1)|[2312.06652v1](http://arxiv.org/pdf/2312.06652v1)|**[link](https://github.com/shabazpatel/domain-specific-llm)**|
 |**2023-12-11**|**Dense X Retrieval: What Retrieval Granularity Should We Use?**|Tong Chen et.al.|[2312.06648v1](http://arxiv.org/abs/2312.06648v1)|[2312.06648v1](http://arxiv.org/pdf/2312.06648v1)|**[link](https://github.com/ct123098/factoid-wiki)**|
