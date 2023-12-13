@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2023-12-11**|**New black hole mergers in the LIGO-Virgo O3 data from a gravitational wave search including higher-order harmonics**|Digvijay Wadekar et.al.|[2312.06631v1](http://arxiv.org/abs/2312.06631v1)|[2312.06631v1](http://arxiv.org/pdf/2312.06631v1)|null|
+|**2023-12-11**|**New black hole mergers in the LIGO-Virgo O3 data from a gravitational wave search including higher-order harmonics**|Digvijay Wadekar et.al.|[2312.06631v1](http://arxiv.org/abs/2312.06631v1)|[2312.06631v1](http://arxiv.org/pdf/2312.06631v1)|**[link](https://github.com/jaywadekar/gw_higher_harmonics_search)**|
 |**2023-12-11**|**Modeling line-of-sight magnetograms of active regions**|M. Poisson et.al.|[2312.06599v1](http://arxiv.org/abs/2312.06599v1)|[2312.06599v1](http://arxiv.org/pdf/2312.06599v1)|null|
 |**2023-12-11**|**A Lensing-Band Approach to Spacetime Constraints**|Alejandro Cárdenas-Avendaño et.al.|[2312.06590v1](http://arxiv.org/abs/2312.06590v1)|[2312.06590v1](http://arxiv.org/pdf/2312.06590v1)|null|
 |**2023-12-11**|**ESO/HARPS Radial Velocities Catalog**|Mauro Barbieri et.al.|[2312.06586v1](http://arxiv.org/abs/2312.06586v1)|[2312.06586v1](http://arxiv.org/pdf/2312.06586v1)|null|
@@ -3704,7 +3704,7 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|[2312.06662v1](http://arxiv.org/pdf/2312.06662v1)|null|
-|**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652v1](http://arxiv.org/abs/2312.06652v1)|[2312.06652v1](http://arxiv.org/pdf/2312.06652v1)|null|
+|**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652v1](http://arxiv.org/abs/2312.06652v1)|[2312.06652v1](http://arxiv.org/pdf/2312.06652v1)|**[link](https://github.com/shabazpatel/domain-specific-llm)**|
 |**2023-12-11**|**Dense X Retrieval: What Retrieval Granularity Should We Use?**|Tong Chen et.al.|[2312.06648v1](http://arxiv.org/abs/2312.06648v1)|[2312.06648v1](http://arxiv.org/pdf/2312.06648v1)|**[link](https://github.com/ct123098/factoid-wiki)**|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647v1](http://arxiv.org/abs/2312.06647v1)|[2312.06647v1](http://arxiv.org/pdf/2312.06647v1)|null|
 |**2023-12-11**|**Computational Copyright: Towards A Royalty Model for AI Music Generation Platforms**|Junwei Deng et.al.|[2312.06646v1](http://arxiv.org/abs/2312.06646v1)|[2312.06646v1](http://arxiv.org/pdf/2312.06646v1)|null|
