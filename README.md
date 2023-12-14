@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-13**|**DEATHSTAR: A system for confirming planets and identifying false positive signals in TESS data using ground-based time domain surveys**|Gabrielle Ross et.al.|[2312.08373v1](http://arxiv.org/abs/2312.08373v1)|[2312.08373v1](http://arxiv.org/pdf/2312.08373v1)|null|
+|**2023-12-13**|**Subhalos in Galaxy Clusters: Coherent Accretion and Internal Orbits**|Chi Han et.al.|[2312.08337v1](http://arxiv.org/abs/2312.08337v1)|[2312.08337v1](http://arxiv.org/pdf/2312.08337v1)|null|
+|**2023-12-13**|**Optimising spectroscopic observations of transiting exoplanets**|Linn Boldt-Christmas et.al.|[2312.08320v1](http://arxiv.org/abs/2312.08320v1)|[2312.08320v1](http://arxiv.org/pdf/2312.08320v1)|null|
+|**2023-12-13**|**Making waves in massive star asteroseismology**|Dominic M. Bowman et.al.|[2312.08319v1](http://arxiv.org/abs/2312.08319v1)|[2312.08319v1](http://arxiv.org/pdf/2312.08319v1)|null|
+|**2023-12-13**|**Modelling time-dependent convective penetration in 1D stellar evolution**|Cole Johnston et.al.|[2312.08315v1](http://arxiv.org/abs/2312.08315v1)|[2312.08315v1](http://arxiv.org/pdf/2312.08315v1)|null|
+|**2023-12-13**|**Spectro-photometric properties of CoPhyLab's dust mixtures**|C. Feller et.al.|[2312.08311v1](http://arxiv.org/abs/2312.08311v1)|[2312.08311v1](http://arxiv.org/pdf/2312.08311v1)|null|
+|**2023-12-13**|**Large and complex X-ray time lags from black hole accretion disks with compact inner coronae**|Phil Uttley et.al.|[2312.08302v1](http://arxiv.org/abs/2312.08302v1)|[2312.08302v1](http://arxiv.org/pdf/2312.08302v1)|null|
+|**2023-12-13**|**Adaptive Optics Telemetry Standard: Design and specification of a novel data exchange format**|Tiago Gomes et.al.|[2312.08300v1](http://arxiv.org/abs/2312.08300v1)|[2312.08300v1](http://arxiv.org/pdf/2312.08300v1)|null|
+|**2023-12-13**|**Inferring Atmospheric Properties of Exoplanets with Flow Matching and Neural Importance Sampling**|Timothy D. Gebhard et.al.|[2312.08295v1](http://arxiv.org/abs/2312.08295v1)|[2312.08295v1](http://arxiv.org/pdf/2312.08295v1)|null|
+|**2023-12-13**|**An Argentinian window to the fast transient sky and to the very high resolution observations**|B. Marcote et.al.|[2312.08292v1](http://arxiv.org/abs/2312.08292v1)|[2312.08292v1](http://arxiv.org/pdf/2312.08292v1)|null|
 |**2023-12-12**|**Cosmological Field Emulation and Parameter Inference with Diffusion Models**|Nayantara Mudur et.al.|[2312.07534v1](http://arxiv.org/abs/2312.07534v1)|[2312.07534v1](http://arxiv.org/pdf/2312.07534v1)|null|
 |**2023-12-12**|**Anomalous cosmic-ray correlations revisited with a complete full-sky sample of BL Lac type objects**|M. A. Kudenko et.al.|[2312.07525v1](http://arxiv.org/abs/2312.07525v1)|[2312.07525v1](http://arxiv.org/pdf/2312.07525v1)|null|
 |**2023-12-12**|**A cosmological "Big Storm Scenario" following the QCD phase transition**|Edward Shuryak et.al.|[2312.07524v1](http://arxiv.org/abs/2312.07524v1)|[2312.07524v1](http://arxiv.org/pdf/2312.07524v1)|null|
@@ -3709,6 +3719,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-13**|**The Effective Horizon Explains Deep RL Performance in Stochastic Environments**|Cassidy Laidlaw et.al.|[2312.08369v1](http://arxiv.org/abs/2312.08369v1)|[2312.08369v1](http://arxiv.org/pdf/2312.08369v1)|null|
+|**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365v1](http://arxiv.org/abs/2312.08365v1)|[2312.08365v1](http://arxiv.org/pdf/2312.08365v1)|null|
+|**2023-12-13**|**Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF**|Anand Siththaranjan et.al.|[2312.08358v1](http://arxiv.org/abs/2312.08358v1)|[2312.08358v1](http://arxiv.org/pdf/2312.08358v1)|**[link](https://github.com/cassidylaidlaw/hidden-context)**|
+|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|[2312.08344v1](http://arxiv.org/pdf/2312.08344v1)|null|
+|**2023-12-13**|**Parametric Frequency Divider based Ising Machines**|Nicolas Casilli et.al.|[2312.08329v1](http://arxiv.org/abs/2312.08329v1)|[2312.08329v1](http://arxiv.org/pdf/2312.08329v1)|null|
+|**2023-12-13**|**Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4**|Pei Yan et.al.|[2312.08317v1](http://arxiv.org/abs/2312.08317v1)|[2312.08317v1](http://arxiv.org/pdf/2312.08317v1)|**[link](https://github.com/yan-scnu/prompted_dynamic_detection)**|
+|**2023-12-13**|**Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models**|Jiang Zhang et.al.|[2312.08303v1](http://arxiv.org/abs/2312.08303v1)|[2312.08303v1](http://arxiv.org/pdf/2312.08303v1)|null|
+|**2023-12-13**|**Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data**|Van Minh Nguyen et.al.|[2312.08299v1](http://arxiv.org/abs/2312.08299v1)|[2312.08299v1](http://arxiv.org/pdf/2312.08299v1)|**[link](https://github.com/fit-suicide-prevention-research/token-attribution-analysis)**|
+|**2023-12-13**|**On the verification of Embeddings using Hybrid Markov Logic**|Anup Shakya et.al.|[2312.08287v1](http://arxiv.org/abs/2312.08287v1)|[2312.08287v1](http://arxiv.org/pdf/2312.08287v1)|null|
+|**2023-12-13**|**Prompting LLMs with content plans to enhance the summarization of scientific articles**|Aldan Creo et.al.|[2312.08282v1](http://arxiv.org/abs/2312.08282v1)|[2312.08282v1](http://arxiv.org/pdf/2312.08282v1)|null|
 |**2023-12-12**|**diff History for Long-Context Language Agents**|Ulyana Piterbarg et.al.|[2312.07540v1](http://arxiv.org/abs/2312.07540v1)|[2312.07540v1](http://arxiv.org/pdf/2312.07540v1)|null|
 |**2023-12-12**|**Interfacing Foundation Models' Embeddings**|Xueyan Zou et.al.|[2312.07532v1](http://arxiv.org/abs/2312.07532v1)|[2312.07532v1](http://arxiv.org/pdf/2312.07532v1)|**[link](https://github.com/ux-decoder/find)**|
 |**2023-12-12**|**BaRDa: A Belief and Reasoning Dataset that Separates Factual Accuracy and Reasoning Ability**|Peter Clark et.al.|[2312.07527v1](http://arxiv.org/abs/2312.07527v1)|[2312.07527v1](http://arxiv.org/pdf/2312.07527v1)|null|
