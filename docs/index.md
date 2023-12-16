@@ -2,12 +2,22 @@
 layout: default
 ---
 
-## Updated on 2023.12.15
+## Updated on 2023.12.16
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233v1](http://arxiv.org/abs/2312.09233v1)|[2312.09233v1](http://arxiv.org/pdf/2312.09233v1)|null|
+|**2023-12-14**|**Diagnostic diagrams for ram-pressure stripped candidates**|A. C. Krabbe et.al.|[2312.09220v1](http://arxiv.org/abs/2312.09220v1)|[2312.09220v1](http://arxiv.org/pdf/2312.09220v1)|null|
+|**2023-12-14**|**Analytical strong line diagnostics and their redshift evolution**|Shengqi Yang et.al.|[2312.09213v1](http://arxiv.org/abs/2312.09213v1)|[2312.09213v1](http://arxiv.org/pdf/2312.09213v1)|null|
+|**2023-12-14**|**X-ray Reflection from the Plunging Region of Black Hole Accretion Disks**|Jameson Dong et.al.|[2312.09210v1](http://arxiv.org/abs/2312.09210v1)|[2312.09210v1](http://arxiv.org/pdf/2312.09210v1)|null|
+|**2023-12-14**|**Solar flare catalog from 3 years of Chandrayaan-2 XSM observations**|Aravind Bharathi Valluvan et.al.|[2312.09191v1](http://arxiv.org/abs/2312.09191v1)|[2312.09191v1](http://arxiv.org/pdf/2312.09191v1)|null|
+|**2023-12-14**|**JWST Reveals Star Formation Across a Spiral Arm in M33**|Joshua Peltonen et.al.|[2312.09188v1](http://arxiv.org/abs/2312.09188v1)|[2312.09188v1](http://arxiv.org/pdf/2312.09188v1)|null|
+|**2023-12-14**|**The Narrow Line Region properties of ESO138-G001 unveiled by SOAR/SIFS observations**|A. Rodríguez-Ardila et.al.|[2312.09184v1](http://arxiv.org/abs/2312.09184v1)|[2312.09184v1](http://arxiv.org/pdf/2312.09184v1)|null|
+|**2023-12-14**|**MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs**|Nianyi Chen et.al.|[2312.09183v1](http://arxiv.org/abs/2312.09183v1)|[2312.09183v1](http://arxiv.org/pdf/2312.09183v1)|null|
+|**2023-12-14**|**Dust Dynamics in Hall-effected Protoplanetary Disks. I. Background Drift Hall Instability**|Yinhao Wu et.al.|[2312.09180v1](http://arxiv.org/abs/2312.09180v1)|[2312.09180v1](http://arxiv.org/pdf/2312.09180v1)|null|
+|**2023-12-14**|**Swift/XRT observations of superorbital modulations in wind-fed supergiant X-ray binaries**|P. Romano et.al.|[2312.09172v1](http://arxiv.org/abs/2312.09172v1)|[2312.09172v1](http://arxiv.org/pdf/2312.09172v1)|null|
 |**2023-12-13**|**DEATHSTAR: A system for confirming planets and identifying false positive signals in TESS data using ground-based time domain surveys**|Gabrielle Ross et.al.|[2312.08373v1](http://arxiv.org/abs/2312.08373v1)|[2312.08373v1](http://arxiv.org/pdf/2312.08373v1)|null|
 |**2023-12-13**|**Subhalos in Galaxy Clusters: Coherent Accretion and Internal Orbits**|Chi Han et.al.|[2312.08337v1](http://arxiv.org/abs/2312.08337v1)|[2312.08337v1](http://arxiv.org/pdf/2312.08337v1)|null|
 |**2023-12-13**|**Optimising spectroscopic observations of transiting exoplanets**|Linn Boldt-Christmas et.al.|[2312.08320v1](http://arxiv.org/abs/2312.08320v1)|[2312.08320v1](http://arxiv.org/pdf/2312.08320v1)|null|
@@ -3723,6 +3733,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238v1](http://arxiv.org/abs/2312.09238v1)|[2312.09238v1](http://arxiv.org/pdf/2312.09238v1)|null|
+|**2023-12-14**|**DVQI: A Multi-task, Hardware-integrated Artificial Intelligence System for Automated Visual Inspection in Electronics Manufacturing**|Audrey Chung et.al.|[2312.09232v1](http://arxiv.org/abs/2312.09232v1)|[2312.09232v1](http://arxiv.org/pdf/2312.09232v1)|null|
+|**2023-12-14**|**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**|Rhys Gould et.al.|[2312.09230v1](http://arxiv.org/abs/2312.09230v1)|[2312.09230v1](http://arxiv.org/pdf/2312.09230v1)|null|
+|**2023-12-14**|**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**|Bo Xiong et.al.|[2312.09219v1](http://arxiv.org/abs/2312.09219v1)|[2312.09219v1](http://arxiv.org/pdf/2312.09219v1)|null|
+|**2023-12-14**|**Weaving Pathways for Justice with GPT: LLM-driven automated drafting of interactive legal applications**|Quinten Steenhuis et.al.|[2312.09198v1](http://arxiv.org/abs/2312.09198v1)|[2312.09198v1](http://arxiv.org/pdf/2312.09198v1)|**[link](https://github.com/suffolklitlab/formfyxer)**|
+|**2023-12-14**|**DIRECT: Deep Active Learning under Imbalance and Label Noise**|Shyam Nuggehalli et.al.|[2312.09196v1](http://arxiv.org/abs/2312.09196v1)|[2312.09196v1](http://arxiv.org/pdf/2312.09196v1)|null|
+|**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193v1](http://arxiv.org/abs/2312.09193v1)|[2312.09193v1](http://arxiv.org/pdf/2312.09193v1)|null|
+|**2023-12-14**|**Preserving large-scale features in simulations of elastic turbulence**|Sumithra R. Yerasi et.al.|[2312.09165v1](http://arxiv.org/abs/2312.09165v1)|[2312.09165v1](http://arxiv.org/pdf/2312.09165v1)|null|
+|**2023-12-14**|**Approximation Algorithms for Preference Aggregation Using CP-Nets**|Abu Mohammmad Hammad Ali et.al.|[2312.09162v1](http://arxiv.org/abs/2312.09162v1)|[2312.09162v1](http://arxiv.org/pdf/2312.09162v1)|null|
+|**2023-12-14**|**Less is more -- the Dispatcher/ Executor principle for multi-task Reinforcement Learning**|Martin Riedmiller et.al.|[2312.09120v1](http://arxiv.org/abs/2312.09120v1)|[2312.09120v1](http://arxiv.org/pdf/2312.09120v1)|null|
 |**2023-12-13**|**The Effective Horizon Explains Deep RL Performance in Stochastic Environments**|Cassidy Laidlaw et.al.|[2312.08369v1](http://arxiv.org/abs/2312.08369v1)|[2312.08369v1](http://arxiv.org/pdf/2312.08369v1)|null|
 |**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365v1](http://arxiv.org/abs/2312.08365v1)|[2312.08365v1](http://arxiv.org/pdf/2312.08365v1)|null|
 |**2023-12-13**|**Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF**|Anand Siththaranjan et.al.|[2312.08358v1](http://arxiv.org/abs/2312.08358v1)|[2312.08358v1](http://arxiv.org/pdf/2312.08358v1)|**[link](https://github.com/cassidylaidlaw/hidden-context)**|
