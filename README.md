@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233v1](http://arxiv.org/abs/2312.09233v1)|[2312.09233v1](http://arxiv.org/pdf/2312.09233v1)|null|
 |**2023-12-14**|**Diagnostic diagrams for ram-pressure stripped candidates**|A. C. Krabbe et.al.|[2312.09220v1](http://arxiv.org/abs/2312.09220v1)|[2312.09220v1](http://arxiv.org/pdf/2312.09220v1)|null|
-|**2023-12-14**|**Analytical strong line diagnostics and their redshift evolution**|Shengqi Yang et.al.|[2312.09213v1](http://arxiv.org/abs/2312.09213v1)|[2312.09213v1](http://arxiv.org/pdf/2312.09213v1)|null|
+|**2023-12-14**|**Analytical strong line diagnostics and their redshift evolution**|Shengqi Yang et.al.|[2312.09213v1](http://arxiv.org/abs/2312.09213v1)|[2312.09213v1](http://arxiv.org/pdf/2312.09213v1)|**[link](https://github.com/sheng-qi-yang/hiilines)**|
 |**2023-12-14**|**X-ray Reflection from the Plunging Region of Black Hole Accretion Disks**|Jameson Dong et.al.|[2312.09210v1](http://arxiv.org/abs/2312.09210v1)|[2312.09210v1](http://arxiv.org/pdf/2312.09210v1)|null|
 |**2023-12-14**|**Solar flare catalog from 3 years of Chandrayaan-2 XSM observations**|Aravind Bharathi Valluvan et.al.|[2312.09191v1](http://arxiv.org/abs/2312.09191v1)|[2312.09191v1](http://arxiv.org/pdf/2312.09191v1)|null|
 |**2023-12-14**|**JWST Reveals Star Formation Across a Spiral Arm in M33**|Joshua Peltonen et.al.|[2312.09188v1](http://arxiv.org/abs/2312.09188v1)|[2312.09188v1](http://arxiv.org/pdf/2312.09188v1)|null|
@@ -3732,7 +3732,7 @@
 |**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238v1](http://arxiv.org/abs/2312.09238v1)|[2312.09238v1](http://arxiv.org/pdf/2312.09238v1)|null|
 |**2023-12-14**|**DVQI: A Multi-task, Hardware-integrated Artificial Intelligence System for Automated Visual Inspection in Electronics Manufacturing**|Audrey Chung et.al.|[2312.09232v1](http://arxiv.org/abs/2312.09232v1)|[2312.09232v1](http://arxiv.org/pdf/2312.09232v1)|null|
 |**2023-12-14**|**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**|Rhys Gould et.al.|[2312.09230v1](http://arxiv.org/abs/2312.09230v1)|[2312.09230v1](http://arxiv.org/pdf/2312.09230v1)|null|
-|**2023-12-14**|**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**|Bo Xiong et.al.|[2312.09219v1](http://arxiv.org/abs/2312.09219v1)|[2312.09219v1](http://arxiv.org/pdf/2312.09219v1)|null|
+|**2023-12-14**|**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**|Bo Xiong et.al.|[2312.09219v1](http://arxiv.org/abs/2312.09219v1)|[2312.09219v1](http://arxiv.org/pdf/2312.09219v1)|**[link](https://github.com/xiongbo010/neste)**|
 |**2023-12-14**|**Weaving Pathways for Justice with GPT: LLM-driven automated drafting of interactive legal applications**|Quinten Steenhuis et.al.|[2312.09198v1](http://arxiv.org/abs/2312.09198v1)|[2312.09198v1](http://arxiv.org/pdf/2312.09198v1)|**[link](https://github.com/suffolklitlab/formfyxer)**|
 |**2023-12-14**|**DIRECT: Deep Active Learning under Imbalance and Label Noise**|Shyam Nuggehalli et.al.|[2312.09196v1](http://arxiv.org/abs/2312.09196v1)|[2312.09196v1](http://arxiv.org/pdf/2312.09196v1)|null|
 |**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193v1](http://arxiv.org/abs/2312.09193v1)|[2312.09193v1](http://arxiv.org/pdf/2312.09193v1)|null|
