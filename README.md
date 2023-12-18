@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-15**|**Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang**|Brant Robertson et.al.|[2312.10033v1](http://arxiv.org/abs/2312.10033v1)|[2312.10033v1](http://arxiv.org/pdf/2312.10033v1)|null|
+|**2023-12-15**|**Secular Dynamics of Compact Three-Planet Systems**|Qing Yang et.al.|[2312.10031v1](http://arxiv.org/abs/2312.10031v1)|[2312.10031v1](http://arxiv.org/pdf/2312.10031v1)|null|
+|**2023-12-15**|**PhenomXO4a: a phenomenological gravitational-wave model for precessing black-hole binaries with higher multipoles and asymmetries**|Jonathan E. Thompson et.al.|[2312.10025v1](http://arxiv.org/abs/2312.10025v1)|[2312.10025v1](http://arxiv.org/pdf/2312.10025v1)|null|
+|**2023-12-15**|**Reconstructing the metric in group field theory**|Steffen Gielen et.al.|[2312.10016v1](http://arxiv.org/abs/2312.10016v1)|[2312.10016v1](http://arxiv.org/pdf/2312.10016v1)|null|
+|**2023-12-15**|**Charting Circumstellar Chemistry of Carbon-rich AGB Stars: I. ALMA 3 mm spectral surveys**|R. Unnikrishnan et.al.|[2312.10014v1](http://arxiv.org/abs/2312.10014v1)|[2312.10014v1](http://arxiv.org/pdf/2312.10014v1)|null|
+|**2023-12-15**|**The anomaly of the CMB power with the latest Planck data**|M. Billi et.al.|[2312.09989v1](http://arxiv.org/abs/2312.09989v1)|[2312.09989v1](http://arxiv.org/pdf/2312.09989v1)|null|
+|**2023-12-15**|**Four new eclipsing accreting ultracompact white dwarf binaries found with the Zwicky Transient Facility**|J. M. Khalil et.al.|[2312.09980v1](http://arxiv.org/abs/2312.09980v1)|[2312.09980v1](http://arxiv.org/pdf/2312.09980v1)|null|
+|**2023-12-15**|**The Next Generation Deep Extragalactic Exploratory Public Near-Infrared Slitless Survey Epoch 1 (NGDEEP-NISS1): Extra-Galactic Star-formation and Active Galactic Nuclei at 0.5 < z < 3.6**|Nor Pirzkal et.al.|[2312.09972v1](http://arxiv.org/abs/2312.09972v1)|[2312.09972v1](http://arxiv.org/pdf/2312.09972v1)|null|
+|**2023-12-15**|**Causality Bounds on Dissipative General-Relativistic Magnetohydrodynamics**|Ian Cordeiro et.al.|[2312.09970v1](http://arxiv.org/abs/2312.09970v1)|[2312.09970v1](http://arxiv.org/pdf/2312.09970v1)|null|
+|**2023-12-15**|**Quark matter and nuclear astrophysics: recent developments**|Tyler Gorda et.al.|[2312.09967v1](http://arxiv.org/abs/2312.09967v1)|[2312.09967v1](http://arxiv.org/pdf/2312.09967v1)|null|
 |**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233v1](http://arxiv.org/abs/2312.09233v1)|[2312.09233v1](http://arxiv.org/pdf/2312.09233v1)|null|
 |**2023-12-14**|**Diagnostic diagrams for ram-pressure stripped candidates**|A. C. Krabbe et.al.|[2312.09220v1](http://arxiv.org/abs/2312.09220v1)|[2312.09220v1](http://arxiv.org/pdf/2312.09220v1)|null|
 |**2023-12-14**|**Analytical strong line diagnostics and their redshift evolution**|Shengqi Yang et.al.|[2312.09213v1](http://arxiv.org/abs/2312.09213v1)|[2312.09213v1](http://arxiv.org/pdf/2312.09213v1)|**[link](https://github.com/sheng-qi-yang/hiilines)**|
@@ -3729,6 +3739,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029v1](http://arxiv.org/abs/2312.10029v1)|[2312.10029v1](http://arxiv.org/pdf/2312.10029v1)|null|
+|**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008v1](http://arxiv.org/abs/2312.10008v1)|[2312.10008v1](http://arxiv.org/pdf/2312.10008v1)|null|
+|**2023-12-15**|**One Self-Configurable Model to Solve Many Abstract Visual Reasoning Problems**|Mikołaj Małkiński et.al.|[2312.09997v1](http://arxiv.org/abs/2312.09997v1)|[2312.09997v1](http://arxiv.org/pdf/2312.09997v1)|null|
+|**2023-12-15**|**SAT-Based Algorithms for Regular Graph Pattern Matching**|Miguel Terra-Neves et.al.|[2312.09995v1](http://arxiv.org/abs/2312.09995v1)|[2312.09995v1](http://arxiv.org/pdf/2312.09995v1)|null|
+|**2023-12-15**|**Toward Computationally Efficient Inverse Reinforcement Learning via Reward Shaping**|Lauren H. Cooke et.al.|[2312.09983v1](http://arxiv.org/abs/2312.09983v1)|[2312.09983v1](http://arxiv.org/pdf/2312.09983v1)|null|
+|**2023-12-15**|**ACPO: AI-Enabled Compiler-Driven Program Optimization**|Amir H. Ashouri et.al.|[2312.09982v1](http://arxiv.org/abs/2312.09982v1)|[2312.09982v1](http://arxiv.org/pdf/2312.09982v1)|null|
+|**2023-12-15**|**GreenLightningAI: An Efficient AI System with Decoupled Structural and Quantitative Knowledge**|Jose Duato et.al.|[2312.09971v1](http://arxiv.org/abs/2312.09971v1)|[2312.09971v1](http://arxiv.org/pdf/2312.09971v1)|null|
+|**2023-12-15**|**Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication**|Thorben Schomacker et.al.|[2312.09966v1](http://arxiv.org/abs/2312.09966v1)|[2312.09966v1](http://arxiv.org/pdf/2312.09966v1)|null|
+|**2023-12-15**|**Symbolic Numeric Planning with Patterns**|Matteo Cardellini et.al.|[2312.09963v1](http://arxiv.org/abs/2312.09963v1)|[2312.09963v1](http://arxiv.org/pdf/2312.09963v1)|null|
+|**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958v1](http://arxiv.org/abs/2312.09958v1)|[2312.09958v1](http://arxiv.org/pdf/2312.09958v1)|null|
 |**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238v1](http://arxiv.org/abs/2312.09238v1)|[2312.09238v1](http://arxiv.org/pdf/2312.09238v1)|null|
 |**2023-12-14**|**DVQI: A Multi-task, Hardware-integrated Artificial Intelligence System for Automated Visual Inspection in Electronics Manufacturing**|Audrey Chung et.al.|[2312.09232v1](http://arxiv.org/abs/2312.09232v1)|[2312.09232v1](http://arxiv.org/pdf/2312.09232v1)|null|
 |**2023-12-14**|**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**|Rhys Gould et.al.|[2312.09230v1](http://arxiv.org/abs/2312.09230v1)|[2312.09230v1](http://arxiv.org/pdf/2312.09230v1)|null|
