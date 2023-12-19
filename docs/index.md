@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-18**|**Extreme Variability Quasars in Their Various States. II: Spectral Variation Revealed with Multi-epoch Spectra**|Wenke Ren et.al.|[2312.10869v1](http://arxiv.org/abs/2312.10869v1)|[2312.10869v1](http://arxiv.org/pdf/2312.10869v1)|null|
+|**2023-12-17**|**Measuring precise radial velocities on individual spectral lines. IV. Stellar activity correlation with line formation temperature**|K. Al Moulla et.al.|[2312.10836v1](http://arxiv.org/abs/2312.10836v1)|[2312.10836v1](http://arxiv.org/pdf/2312.10836v1)|null|
+|**2023-12-17**|**Jupiter Mass Binaries and Cosmic Ray Viscosity**|Jonathan I. Katz et.al.|[2312.10834v1](http://arxiv.org/abs/2312.10834v1)|[2312.10834v1](http://arxiv.org/pdf/2312.10834v1)|null|
+|**2023-12-17**|**Direct detection of heavy dark matter particles (> ~1 GeV)**|Marcin Kuźniak et.al.|[2312.10828v1](http://arxiv.org/abs/2312.10828v1)|[2312.10828v1](http://arxiv.org/pdf/2312.10828v1)|null|
+|**2023-12-17**|**An outburst and FU Ori-type disk of a former low luminosity protostar**|Mizna Ashraf et.al.|[2312.10827v1](http://arxiv.org/abs/2312.10827v1)|[2312.10827v1](http://arxiv.org/pdf/2312.10827v1)|null|
+|**2023-12-17**|**Simulating Electromagnetic Cascades with Lorentz Invariance Violation**|Andrey Saveliev et.al.|[2312.10803v1](http://arxiv.org/abs/2312.10803v1)|[2312.10803v1](http://arxiv.org/pdf/2312.10803v1)|null|
+|**2023-12-17**|**Probing the galactic and extragalactic gravitational wave backgrounds with space-based interferometers**|Giorgio Mentasti et.al.|[2312.10792v1](http://arxiv.org/abs/2312.10792v1)|[2312.10792v1](http://arxiv.org/pdf/2312.10792v1)|null|
+|**2023-12-17**|**XMM-Newton-discovered Fast X-ray Transients: Host galaxies and limits on contemporaneous detections of optical counterparts**|D. Eappachen et.al.|[2312.10786v1](http://arxiv.org/abs/2312.10786v1)|[2312.10786v1](http://arxiv.org/pdf/2312.10786v1)|null|
+|**2023-12-17**|**Self-interacting Vectorial Dark Matter in a SM-like Dark Sector**|Van Que Tran et.al.|[2312.10785v1](http://arxiv.org/abs/2312.10785v1)|[2312.10785v1](http://arxiv.org/pdf/2312.10785v1)|null|
+|**2023-12-17**|**GIARPS High-resolution Observations of T Tauri stars (GHOST) V. New insights into disk winds from 3 km/s resolution observations**|Brunella Nisini et.al.|[2312.10777v1](http://arxiv.org/abs/2312.10777v1)|[2312.10777v1](http://arxiv.org/pdf/2312.10777v1)|null|
 |**2023-12-15**|**Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang**|Brant Robertson et.al.|[2312.10033v1](http://arxiv.org/abs/2312.10033v1)|[2312.10033v1](http://arxiv.org/pdf/2312.10033v1)|null|
 |**2023-12-15**|**Secular Dynamics of Compact Three-Planet Systems**|Qing Yang et.al.|[2312.10031v1](http://arxiv.org/abs/2312.10031v1)|[2312.10031v1](http://arxiv.org/pdf/2312.10031v1)|null|
 |**2023-12-15**|**PhenomXO4a: a phenomenological gravitational-wave model for precessing black-hole binaries with higher multipoles and asymmetries**|Jonathan E. Thompson et.al.|[2312.10025v1](http://arxiv.org/abs/2312.10025v1)|[2312.10025v1](http://arxiv.org/pdf/2312.10025v1)|null|
@@ -3743,6 +3753,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887v1](http://arxiv.org/abs/2312.10887v1)|[2312.10887v1](http://arxiv.org/pdf/2312.10887v1)|null|
+|**2023-12-18**|**Contextual Reinforcement Learning for Offshore Wind Farm Bidding**|David Cole et.al.|[2312.10884v1](http://arxiv.org/abs/2312.10884v1)|[2312.10884v1](http://arxiv.org/pdf/2312.10884v1)|null|
+|**2023-12-18**|**Development and Evaluation of Ensemble Learning-based Environmental Methane Detection and Intensity Prediction Models**|Reek Majumder et.al.|[2312.10879v1](http://arxiv.org/abs/2312.10879v1)|[2312.10879v1](http://arxiv.org/pdf/2312.10879v1)|null|
+|**2023-12-18**|**From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape**|Timothy R. McIntosh et.al.|[2312.10868v1](http://arxiv.org/abs/2312.10868v1)|[2312.10868v1](http://arxiv.org/pdf/2312.10868v1)|null|
+|**2023-12-18**|**Code Ownership in Open-Source AI Software Security**|Jiawen Wen et.al.|[2312.10861v1](http://arxiv.org/abs/2312.10861v1)|[2312.10861v1](http://arxiv.org/pdf/2312.10861v1)|**[link](https://github.com/jemjemzzz/code-ownership)**|
+|**2023-12-18**|**Minimal Macro-Based Rewritings of Formal Languages: Theory and Applications in Ontology Engineering (and beyond)**|Christian Kindermann et.al.|[2312.10857v1](http://arxiv.org/abs/2312.10857v1)|[2312.10857v1](http://arxiv.org/pdf/2312.10857v1)|null|
+|**2023-12-17**|**Online Boosting Adaptive Learning under Concept Drift for Multistream Classification**|En Yu et.al.|[2312.10841v1](http://arxiv.org/abs/2312.10841v1)|[2312.10841v1](http://arxiv.org/pdf/2312.10841v1)|null|
+|**2023-12-17**|**AI Gender Bias, Disparities, and Fairness: Does Training Data Matter?**|Ehsan Latif et.al.|[2312.10833v1](http://arxiv.org/abs/2312.10833v1)|[2312.10833v1](http://arxiv.org/pdf/2312.10833v1)|null|
+|**2023-12-17**|**Revealing Networks: Understanding Effective Teacher Practices in AI-Supported Classrooms using Transmodal Ordered Network Analysis**|Conrad Borchers et.al.|[2312.10826v1](http://arxiv.org/abs/2312.10826v1)|[2312.10826v1](http://arxiv.org/pdf/2312.10826v1)|**[link](https://github.com/ashiqwisc/lak24-teacher-practices)**|
+|**2023-12-17**|**Learning to Act without Actions**|Dominik Schmidt et.al.|[2312.10812v1](http://arxiv.org/abs/2312.10812v1)|[2312.10812v1](http://arxiv.org/pdf/2312.10812v1)|null|
 |**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029v1](http://arxiv.org/abs/2312.10029v1)|[2312.10029v1](http://arxiv.org/pdf/2312.10029v1)|null|
 |**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008v1](http://arxiv.org/abs/2312.10008v1)|[2312.10008v1](http://arxiv.org/pdf/2312.10008v1)|null|
 |**2023-12-15**|**One Self-Configurable Model to Solve Many Abstract Visual Reasoning Problems**|Mikołaj Małkiński et.al.|[2312.09997v1](http://arxiv.org/abs/2312.09997v1)|[2312.09997v1](http://arxiv.org/pdf/2312.09997v1)|null|
