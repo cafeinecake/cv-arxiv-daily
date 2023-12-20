@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-19**|**Velocity reconstruction in the era of DESI and Rubin (part I): Exploring spectroscopic, photometric & hybrid samples**|Bernardita Ried Guachalla et.al.|[2312.12435v1](http://arxiv.org/abs/2312.12435v1)|[2312.12435v1](http://arxiv.org/pdf/2312.12435v1)|null|
+|**2023-12-19**|**Velocity reconstruction in the era of DESI and Rubin (part II): Realistic samples on the light cone**|Boryana Hadzhiyska et.al.|[2312.12434v1](http://arxiv.org/abs/2312.12434v1)|[2312.12434v1](http://arxiv.org/pdf/2312.12434v1)|null|
+|**2023-12-19**|**Loop corrections in the separate universe picture**|Laura Iacconi et.al.|[2312.12424v1](http://arxiv.org/abs/2312.12424v1)|[2312.12424v1](http://arxiv.org/pdf/2312.12424v1)|null|
+|**2023-12-19**|**The Hubble tension as a window on the gravitation of the dark matter sector: exploration of a family of models**|Jean-Philippe Uzan et.al.|[2312.12408v1](http://arxiv.org/abs/2312.12408v1)|[2312.12408v1](http://arxiv.org/pdf/2312.12408v1)|null|
+|**2023-12-19**|**PNG-UNITsims: the response of halo clustering to Primodial Non-Gaussianities as a function of mass**|Adrian G. Adame et.al.|[2312.12405v1](http://arxiv.org/abs/2312.12405v1)|[2312.12405v1](http://arxiv.org/pdf/2312.12405v1)|null|
+|**2023-12-19**|**JWST Reveals a Surprisingly High Fraction of Galaxies Being Spiral-like at $0.5\leq z\leq4$**|Vicki Kuhn et.al.|[2312.12389v1](http://arxiv.org/abs/2312.12389v1)|[2312.12389v1](http://arxiv.org/pdf/2312.12389v1)|null|
+|**2023-12-19**|**The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters**|Adit H. Edward et.al.|[2312.12380v1](http://arxiv.org/abs/2312.12380v1)|[2312.12380v1](http://arxiv.org/pdf/2312.12380v1)|null|
+|**2023-12-19**|**Fluorescent Fe K line emission of gamma Cas stars I. Do gamma Cas stars host propelling neutron stars?**|Gregor Rauw et.al.|[2312.12373v1](http://arxiv.org/abs/2312.12373v1)|[2312.12373v1](http://arxiv.org/pdf/2312.12373v1)|null|
+|**2023-12-19**|**Anti-de Sitter $\to$ de Sitter transition driven by Casimir forces and mitigating tensions in cosmological parameters**|Luis A. Anchordoqui et.al.|[2312.12352v1](http://arxiv.org/abs/2312.12352v1)|[2312.12352v1](http://arxiv.org/pdf/2312.12352v1)|null|
+|**2023-12-19**|**The He abundance in NGC 1850 A and B: are we observing the early stage of formation of multiple populations in a stellar cluster?**|R. Carini et.al.|[2312.12351v1](http://arxiv.org/abs/2312.12351v1)|[2312.12351v1](http://arxiv.org/pdf/2312.12351v1)|null|
 |**2023-12-18**|**Extreme Variability Quasars in Their Various States. II: Spectral Variation Revealed with Multi-epoch Spectra**|Wenke Ren et.al.|[2312.10869v1](http://arxiv.org/abs/2312.10869v1)|[2312.10869v1](http://arxiv.org/pdf/2312.10869v1)|null|
 |**2023-12-17**|**Measuring precise radial velocities on individual spectral lines. IV. Stellar activity correlation with line formation temperature**|K. Al Moulla et.al.|[2312.10836v1](http://arxiv.org/abs/2312.10836v1)|[2312.10836v1](http://arxiv.org/pdf/2312.10836v1)|null|
 |**2023-12-17**|**Jupiter Mass Binaries and Cosmic Ray Viscosity**|Jonathan I. Katz et.al.|[2312.10834v1](http://arxiv.org/abs/2312.10834v1)|[2312.10834v1](http://arxiv.org/pdf/2312.10834v1)|null|
@@ -3749,6 +3759,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|[2312.12436v1](http://arxiv.org/pdf/2312.12436v1)|null|
+|**2023-12-19**|**Tracking Any Object Amodally**|Cheng-Yen Hsieh et.al.|[2312.12433v1](http://arxiv.org/abs/2312.12433v1)|[2312.12433v1](http://arxiv.org/pdf/2312.12433v1)|null|
+|**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v1](http://arxiv.org/abs/2312.12430v1)|[2312.12430v1](http://arxiv.org/pdf/2312.12430v1)|null|
+|**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423v1](http://arxiv.org/abs/2312.12423v1)|[2312.12423v1](http://arxiv.org/pdf/2312.12423v1)|null|
+|**2023-12-19**|**Towards Automatic Support of Software Model Evolution with Large Language~Models**|Christof Tinnes et.al.|[2312.12404v1](http://arxiv.org/abs/2312.12404v1)|[2312.12404v1](http://arxiv.org/pdf/2312.12404v1)|null|
+|**2023-12-19**|**On Alternating-time Temporal Logic, Hyperproperties, and Strategy Sharing**|Raven Beutner et.al.|[2312.12403v1](http://arxiv.org/abs/2312.12403v1)|[2312.12403v1](http://arxiv.org/pdf/2312.12403v1)|null|
+|**2023-12-19**|**JWST Reveals a Surprisingly High Fraction of Galaxies Being Spiral-like at $0.5\leq z\leq4$**|Vicki Kuhn et.al.|[2312.12389v1](http://arxiv.org/abs/2312.12389v1)|[2312.12389v1](http://arxiv.org/pdf/2312.12389v1)|null|
+|**2023-12-19**|**Chasing Fairness in Graphs: A GNN Architecture Perspective**|Zhimeng Jiang et.al.|[2312.12369v1](http://arxiv.org/abs/2312.12369v1)|[2312.12369v1](http://arxiv.org/pdf/2312.12369v1)|**[link](https://github.com/zhimengj0326/fmp)**|
+|**2023-12-19**|**Auditable Algorithms for Approximate Model Counting**|Kuldeep S. Meel et.al.|[2312.12362v1](http://arxiv.org/abs/2312.12362v1)|[2312.12362v1](http://arxiv.org/pdf/2312.12362v1)|null|
+|**2023-12-19**|**Avoiding Data Contamination in Language Model Evaluation: Dynamic Test Construction with Latest Materials**|Yucheng Li et.al.|[2312.12343v1](http://arxiv.org/abs/2312.12343v1)|[2312.12343v1](http://arxiv.org/pdf/2312.12343v1)|**[link](https://github.com/liyucheng09/latesteval)**|
 |**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887v1](http://arxiv.org/abs/2312.10887v1)|[2312.10887v1](http://arxiv.org/pdf/2312.10887v1)|null|
 |**2023-12-18**|**Contextual Reinforcement Learning for Offshore Wind Farm Bidding**|David Cole et.al.|[2312.10884v1](http://arxiv.org/abs/2312.10884v1)|[2312.10884v1](http://arxiv.org/pdf/2312.10884v1)|null|
 |**2023-12-18**|**Development and Evaluation of Ensemble Learning-based Environmental Methane Detection and Intensity Prediction Models**|Reek Majumder et.al.|[2312.10879v1](http://arxiv.org/abs/2312.10879v1)|[2312.10879v1](http://arxiv.org/pdf/2312.10879v1)|null|
