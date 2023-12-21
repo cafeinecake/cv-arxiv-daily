@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-20**|**Dust growth and evolution in protoplanetary disks**|Tilman Birnstiel et.al.|[2312.13287v1](http://arxiv.org/abs/2312.13287v1)|[2312.13287v1](http://arxiv.org/pdf/2312.13287v1)|null|
+|**2023-12-20**|**Three-body encounters in black hole discs around a supermassive black hole: The disc velocity dispersion and the Keplerian tidal field determine the eccentricity and spin-orbit alignment of gravitational wave mergers**|Alessandro Alberto Trani et.al.|[2312.13281v1](http://arxiv.org/abs/2312.13281v1)|[2312.13281v1](http://arxiv.org/pdf/2312.13281v1)|null|
+|**2023-12-20**|**SN 2021adxl: A luminous nearby interacting supernova in an extremely low metallicity environment**|S. J. Brennan et.al.|[2312.13280v1](http://arxiv.org/abs/2312.13280v1)|[2312.13280v1](http://arxiv.org/pdf/2312.13280v1)|null|
+|**2023-12-20**|**Where Did the Amaterasu Particle Come From?**|Michael Unger et.al.|[2312.13273v1](http://arxiv.org/abs/2312.13273v1)|[2312.13273v1](http://arxiv.org/pdf/2312.13273v1)|null|
+|**2023-12-20**|**Astrometric Microlensing by Primordial Black Holes with The Roman Space Telescope**|James Fardeen et.al.|[2312.13249v1](http://arxiv.org/abs/2312.13249v1)|[2312.13249v1](http://arxiv.org/pdf/2312.13249v1)|null|
+|**2023-12-20**|**Mass Distribution and Maximum Mass of Neutron Stars: Effects of Orbital Inclination Angle**|Lívia S. Rocha et.al.|[2312.13244v1](http://arxiv.org/abs/2312.13244v1)|[2312.13244v1](http://arxiv.org/pdf/2312.13244v1)|null|
+|**2023-12-20**|**Demographics of Tidal Disruption Events with L-Galaxies: I. Volumetric TDE rates and the abundance of Nuclear Star Clusters**|M. Polkas et.al.|[2312.13242v1](http://arxiv.org/abs/2312.13242v1)|[2312.13242v1](http://arxiv.org/pdf/2312.13242v1)|null|
+|**2023-12-20**|**Inflation (2023)**|John Ellis et.al.|[2312.13238v1](http://arxiv.org/abs/2312.13238v1)|[2312.13238v1](http://arxiv.org/pdf/2312.13238v1)|null|
+|**2023-12-20**|**Comprehensive Constraints on Dark Radiation Injection After BBN**|Alexander C. Sobotka et.al.|[2312.13235v1](http://arxiv.org/abs/2312.13235v1)|[2312.13235v1](http://arxiv.org/pdf/2312.13235v1)|null|
+|**2023-12-20**|**MIGHTEE Polarization Early Science Fields: The Deep Polarized Sky**|A. R. Taylor et.al.|[2312.13230v1](http://arxiv.org/abs/2312.13230v1)|[2312.13230v1](http://arxiv.org/pdf/2312.13230v1)|null|
 |**2023-12-19**|**Velocity reconstruction in the era of DESI and Rubin (part I): Exploring spectroscopic, photometric & hybrid samples**|Bernardita Ried Guachalla et.al.|[2312.12435v1](http://arxiv.org/abs/2312.12435v1)|[2312.12435v1](http://arxiv.org/pdf/2312.12435v1)|null|
 |**2023-12-19**|**Velocity reconstruction in the era of DESI and Rubin (part II): Realistic samples on the light cone**|Boryana Hadzhiyska et.al.|[2312.12434v1](http://arxiv.org/abs/2312.12434v1)|[2312.12434v1](http://arxiv.org/pdf/2312.12434v1)|null|
 |**2023-12-19**|**Loop corrections in the separate universe picture**|Laura Iacconi et.al.|[2312.12424v1](http://arxiv.org/abs/2312.12424v1)|[2312.12424v1](http://arxiv.org/pdf/2312.12424v1)|null|
@@ -3763,6 +3773,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-20**|**dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models**|Pablo M. Rodriguez Bertorello et.al.|[2312.13264v1](http://arxiv.org/abs/2312.13264v1)|[2312.13264v1](http://arxiv.org/pdf/2312.13264v1)|null|
+|**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|[2312.13253v1](http://arxiv.org/pdf/2312.13253v1)|null|
+|**2023-12-20**|**SISMIK for brain MRI: Deep-learning-based motion estimation and model-based motion correction in k-space**|Oscar Dabrowski et.al.|[2312.13220v1](http://arxiv.org/abs/2312.13220v1)|[2312.13220v1](http://arxiv.org/pdf/2312.13220v1)|null|
+|**2023-12-20**|**Interactive Visual Task Learning for Robots**|Weiwei Gu et.al.|[2312.13219v1](http://arxiv.org/abs/2312.13219v1)|[2312.13219v1](http://arxiv.org/pdf/2312.13219v1)|null|
+|**2023-12-20**|**FiFAR: A Fraud Detection Dataset for Learning to Defer**|Jean V. Alves et.al.|[2312.13218v1](http://arxiv.org/abs/2312.13218v1)|[2312.13218v1](http://arxiv.org/pdf/2312.13218v1)|**[link](https://github.com/feedzai/fifar-dataset)**|
+|**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212v1](http://arxiv.org/abs/2312.13212v1)|[2312.13212v1](http://arxiv.org/pdf/2312.13212v1)|null|
+|**2023-12-20**|**HCDIR: End-to-end Hate Context Detection, and Intensity Reduction model for online comments**|Neeraj Kumar Singh et.al.|[2312.13193v1](http://arxiv.org/abs/2312.13193v1)|[2312.13193v1](http://arxiv.org/pdf/2312.13193v1)|null|
+|**2023-12-20**|**Learning Fair Policies for Multi-stage Selection Problems from Observational Data**|Zhuangzhuang Jia et.al.|[2312.13173v1](http://arxiv.org/abs/2312.13173v1)|[2312.13173v1](http://arxiv.org/pdf/2312.13173v1)|null|
+|**2023-12-20**|**AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model**|Lening Wang et.al.|[2312.13156v1](http://arxiv.org/abs/2312.13156v1)|[2312.13156v1](http://arxiv.org/pdf/2312.13156v1)|null|
+|**2023-12-20**|**Scaling Compute Is Not All You Need for Adversarial Robustness**|Edoardo Debenedetti et.al.|[2312.13131v1](http://arxiv.org/abs/2312.13131v1)|[2312.13131v1](http://arxiv.org/pdf/2312.13131v1)|null|
 |**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|[2312.12436v1](http://arxiv.org/pdf/2312.12436v1)|null|
 |**2023-12-19**|**Tracking Any Object Amodally**|Cheng-Yen Hsieh et.al.|[2312.12433v1](http://arxiv.org/abs/2312.12433v1)|[2312.12433v1](http://arxiv.org/pdf/2312.12433v1)|null|
 |**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v1](http://arxiv.org/abs/2312.12430v1)|[2312.12430v1](http://arxiv.org/pdf/2312.12430v1)|null|
