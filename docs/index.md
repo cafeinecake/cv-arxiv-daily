@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-21**|**New Constraints on Axion-Like Particles from IXPE Polarization Data for Magnetars**|Ephraim Gau et.al.|[2312.14153v1](http://arxiv.org/abs/2312.14153v1)|[2312.14153v1](http://arxiv.org/pdf/2312.14153v1)|null|
+|**2023-12-21**|**Optical Quasi-periodic Oscillations in the TESS light curves of three blazars**|Ashutosh Tripathi et.al.|[2312.14144v1](http://arxiv.org/abs/2312.14144v1)|[2312.14144v1](http://arxiv.org/pdf/2312.14144v1)|null|
+|**2023-12-21**|**Morphologies of Bright Complex Fast Radio Bursts with CHIME/FRB Voltage Data**|Jakob T. Faber et.al.|[2312.14133v1](http://arxiv.org/abs/2312.14133v1)|[2312.14133v1](http://arxiv.org/pdf/2312.14133v1)|null|
+|**2023-12-21**|**Equation of state at neutron-star densities and beyond from perturbative QCD**|Oleg Komoltsev et.al.|[2312.14127v1](http://arxiv.org/abs/2312.14127v1)|[2312.14127v1](http://arxiv.org/pdf/2312.14127v1)|null|
+|**2023-12-21**|**The interacting vacuum and tensions: a comparison of theoretical models**|Marco Sebastianutti et.al.|[2312.14123v1](http://arxiv.org/abs/2312.14123v1)|[2312.14123v1](http://arxiv.org/pdf/2312.14123v1)|null|
+|**2023-12-21**|**Low evidence for ringdown overtone in GW150914 when marginalizing over time and sky location uncertainty**|Alex Correia et.al.|[2312.14118v1](http://arxiv.org/abs/2312.14118v1)|[2312.14118v1](http://arxiv.org/pdf/2312.14118v1)|null|
+|**2023-12-21**|**Clustering of dark matter in the cosmic web as a probe of massive neutrinos**|Mohadese Khoshtinat et.al.|[2312.14117v1](http://arxiv.org/abs/2312.14117v1)|[2312.14117v1](http://arxiv.org/pdf/2312.14117v1)|null|
+|**2023-12-21**|**Magnetar-powered Neutrinos and Magnetic Moment Signatures at IceCube**|Ting Cheng et.al.|[2312.14113v1](http://arxiv.org/abs/2312.14113v1)|[2312.14113v1](http://arxiv.org/pdf/2312.14113v1)|null|
+|**2023-12-21**|**Axionic defects in the CMB: birefringence and gravitational waves**|Ricardo Z. Ferreira et.al.|[2312.14104v1](http://arxiv.org/abs/2312.14104v1)|[2312.14104v1](http://arxiv.org/pdf/2312.14104v1)|null|
+|**2023-12-21**|**Comparing indirect methods for black hole masses in AGN: the good, the bad, and the ugly**|M. Gliozzi et.al.|[2312.14098v1](http://arxiv.org/abs/2312.14098v1)|[2312.14098v1](http://arxiv.org/pdf/2312.14098v1)|null|
 |**2023-12-20**|**Dust growth and evolution in protoplanetary disks**|Tilman Birnstiel et.al.|[2312.13287v1](http://arxiv.org/abs/2312.13287v1)|[2312.13287v1](http://arxiv.org/pdf/2312.13287v1)|null|
 |**2023-12-20**|**Three-body encounters in black hole discs around a supermassive black hole: The disc velocity dispersion and the Keplerian tidal field determine the eccentricity and spin-orbit alignment of gravitational wave mergers**|Alessandro Alberto Trani et.al.|[2312.13281v1](http://arxiv.org/abs/2312.13281v1)|[2312.13281v1](http://arxiv.org/pdf/2312.13281v1)|null|
 |**2023-12-20**|**SN 2021adxl: A luminous nearby interacting supernova in an extremely low metallicity environment**|S. J. Brennan et.al.|[2312.13280v1](http://arxiv.org/abs/2312.13280v1)|[2312.13280v1](http://arxiv.org/pdf/2312.13280v1)|null|
@@ -3773,6 +3783,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|[2312.14149v1](http://arxiv.org/pdf/2312.14149v1)|null|
+|**2023-12-21**|**WellFactor: Patient Profiling using Integrative Embedding of Healthcare Data**|Dongjin Choi et.al.|[2312.14129v1](http://arxiv.org/abs/2312.14129v1)|[2312.14129v1](http://arxiv.org/pdf/2312.14129v1)|null|
+|**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125v1](http://arxiv.org/abs/2312.14125v1)|[2312.14125v1](http://arxiv.org/pdf/2312.14125v1)|null|
+|**2023-12-21**|**Fast and Knowledge-Free Deep Learning for General Game Playing (Student Abstract)**|Michał Maras et.al.|[2312.14121v1](http://arxiv.org/abs/2312.14121v1)|[2312.14121v1](http://arxiv.org/pdf/2312.14121v1)|null|
+|**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[2312.14115v1](http://arxiv.org/abs/2312.14115v1)|[2312.14115v1](http://arxiv.org/pdf/2312.14115v1)|**[link](https://github.com/wayveai/lingoqa)**|
+|**2023-12-21**|**Learning Human-like Representations to Enable Learning Human Values**|Andrea Wynn et.al.|[2312.14106v1](http://arxiv.org/abs/2312.14106v1)|[2312.14106v1](http://arxiv.org/pdf/2312.14106v1)|null|
+|**2023-12-21**|**RetailSynth: Synthetic Data Generation for Retail AI Systems Evaluation**|Yu Xia et.al.|[2312.14095v1](http://arxiv.org/abs/2312.14095v1)|[2312.14095v1](http://arxiv.org/pdf/2312.14095v1)|null|
+|**2023-12-21**|**Designing Artificial Intelligence Equipped Social Decentralized Autonomous Organizations for Tackling Sextortion Cases Version 0.7**|Norta Alex et.al.|[2312.14090v1](http://arxiv.org/abs/2312.14090v1)|[2312.14090v1](http://arxiv.org/pdf/2312.14090v1)|null|
+|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053v1](http://arxiv.org/abs/2312.14053v1)|[2312.14053v1](http://arxiv.org/pdf/2312.14053v1)|**[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)**|
+|**2023-12-21**|**Neural Contextual Bandits for Personalized Recommendation**|Yikun Ban et.al.|[2312.14037v1](http://arxiv.org/abs/2312.14037v1)|[2312.14037v1](http://arxiv.org/pdf/2312.14037v1)|null|
 |**2023-12-20**|**dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models**|Pablo M. Rodriguez Bertorello et.al.|[2312.13264v1](http://arxiv.org/abs/2312.13264v1)|[2312.13264v1](http://arxiv.org/pdf/2312.13264v1)|null|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|[2312.13253v1](http://arxiv.org/pdf/2312.13253v1)|null|
 |**2023-12-20**|**SISMIK for brain MRI: Deep-learning-based motion estimation and model-based motion correction in k-space**|Oscar Dabrowski et.al.|[2312.13220v1](http://arxiv.org/abs/2312.13220v1)|[2312.13220v1](http://arxiv.org/pdf/2312.13220v1)|null|
