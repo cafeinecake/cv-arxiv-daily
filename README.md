@@ -1,4 +1,4 @@
-## Updated on 2023.12.24
+## Updated on 2023.12.25
 
 ## Astrophysics
 
@@ -3779,7 +3779,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|[2312.14149v1](http://arxiv.org/pdf/2312.14149v1)|null|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|[2312.14149v1](http://arxiv.org/pdf/2312.14149v1)|**[link](https://github.com/Qinying-Liu/TagAlign_code)**|
 |**2023-12-21**|**WellFactor: Patient Profiling using Integrative Embedding of Healthcare Data**|Dongjin Choi et.al.|[2312.14129v1](http://arxiv.org/abs/2312.14129v1)|[2312.14129v1](http://arxiv.org/pdf/2312.14129v1)|null|
 |**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125v1](http://arxiv.org/abs/2312.14125v1)|[2312.14125v1](http://arxiv.org/pdf/2312.14125v1)|null|
 |**2023-12-21**|**Fast and Knowledge-Free Deep Learning for General Game Playing (Student Abstract)**|Michał Maras et.al.|[2312.14121v1](http://arxiv.org/abs/2312.14121v1)|[2312.14121v1](http://arxiv.org/pdf/2312.14121v1)|null|
