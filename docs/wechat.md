@@ -1,4 +1,4 @@
-> Updated on 2023.12.25
+> Updated on 2023.12.26
 
 ## Astrophysics
 
@@ -3788,7 +3788,7 @@
 - 2023-12-22, **A Survey of Reinforcement Learning from Human Feedback**, Timo Kaufmann et.al., Paper: [http://arxiv.org/abs/2312.14925v1](http://arxiv.org/abs/2312.14925v1), Paper: [http://arxiv.org/abs/2312.14925v1](http://arxiv.org/pdf/2312.14925v1)
 - 2023-12-22, **Training Convolutional Neural Networks with the Forward-Forward algorithm**, Riccardo Scodellaro et.al., Paper: [http://arxiv.org/abs/2312.14924v1](http://arxiv.org/abs/2312.14924v1), Paper: [http://arxiv.org/abs/2312.14924v1](http://arxiv.org/pdf/2312.14924v1)
 - 2023-12-22, **A Novel Sampled Clustering Algorithm for Rice Phenotypic Data**, Mithun Singh et.al., Paper: [http://arxiv.org/abs/2312.14920v1](http://arxiv.org/abs/2312.14920v1), Paper: [http://arxiv.org/abs/2312.14920v1](http://arxiv.org/pdf/2312.14920v1)
-- 2023-12-22, **FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models**, Subhodip Panda et.al., Paper: [http://arxiv.org/abs/2312.14895v1](http://arxiv.org/abs/2312.14895v1), Paper: [http://arxiv.org/abs/2312.14895v1](http://arxiv.org/pdf/2312.14895v1)
+- 2023-12-22, **FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models**, Subhodip Panda et.al., Paper: [http://arxiv.org/abs/2312.14895v1](http://arxiv.org/abs/2312.14895v1),Paper: [http://arxiv.org/abs/2312.14895v1](http://arxiv.org/pdf/2312.14895v1), Code: **[https://github.com/Subhodip123/weak-unlearning-gan](https://github.com/Subhodip123/weak-unlearning-gan)**
 - 2023-12-22, **NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes**, Lizhou Fan et.al., Paper: [http://arxiv.org/abs/2312.14890v1](http://arxiv.org/abs/2312.14890v1), Paper: [http://arxiv.org/abs/2312.14890v1](http://arxiv.org/pdf/2312.14890v1)
 - 2023-12-22, **SutraNets: Sub-series Autoregressive Networks for Long-Sequence, Probabilistic Forecasting**, Shane Bergsma et.al., Paper: [http://arxiv.org/abs/2312.14880v1](http://arxiv.org/abs/2312.14880v1), Paper: [http://arxiv.org/abs/2312.14880v1](http://arxiv.org/pdf/2312.14880v1)
 - 2023-12-22, **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**, Filippos Christianos et.al., Paper: [http://arxiv.org/abs/2312.14878v1](http://arxiv.org/abs/2312.14878v1), Paper: [http://arxiv.org/abs/2312.14878v1](http://arxiv.org/pdf/2312.14878v1)
