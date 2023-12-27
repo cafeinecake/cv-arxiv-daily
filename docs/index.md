@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-26**|**Balanced Turbulence and the Helicity Barrier in Black Hole Accretion**|George N. Wong et.al.|[2312.16172v1](http://arxiv.org/abs/2312.16172v1)|[2312.16172v1](http://arxiv.org/pdf/2312.16172v1)|null|
+|**2023-12-26**|**Causal bounds on cosmological angular correlation**|Craig Hogan et.al.|[2312.16147v1](http://arxiv.org/abs/2312.16147v1)|[2312.16147v1](http://arxiv.org/pdf/2312.16147v1)|null|
+|**2023-12-26**|**A Hamiltonian for 1:1 Rotational Secondary Resonances, and Application to Small Satellites of Saturn and Jupiter**|Nelson Callegari Jr et.al.|[2312.16137v1](http://arxiv.org/abs/2312.16137v1)|[2312.16137v1](http://arxiv.org/pdf/2312.16137v1)|null|
+|**2023-12-26**|**Accretion-induced flickering variability among symbiotic stars from space photometry with NASA TESS**|J. Merc et.al.|[2312.16126v1](http://arxiv.org/abs/2312.16126v1)|[2312.16126v1](http://arxiv.org/pdf/2312.16126v1)|null|
+|**2023-12-26**|**Excluded volume effects in the quark-mass density-dependent model: implications for the equation of state and compact star structure**|G. Lugones et.al.|[2312.16095v1](http://arxiv.org/abs/2312.16095v1)|[2312.16095v1](http://arxiv.org/pdf/2312.16095v1)|null|
+|**2023-12-26**|**Dynamical simulations of colliding superconducting strings**|Takashi Hiramatsu et.al.|[2312.16091v1](http://arxiv.org/abs/2312.16091v1)|[2312.16091v1](http://arxiv.org/pdf/2312.16091v1)|null|
+|**2023-12-26**|**Sub-GeV Gamma Rays from Nearby Seyfert Galaxies and Implications for Coronal Neutrino Emission**|Kohta Murase et.al.|[2312.16089v1](http://arxiv.org/abs/2312.16089v1)|[2312.16089v1](http://arxiv.org/pdf/2312.16089v1)|null|
+|**2023-12-26**|**Phase-space analysis in non-minimal symmetric-teleparallel dark energy**|Youri Carloni et.al.|[2312.16088v1](http://arxiv.org/abs/2312.16088v1)|[2312.16088v1](http://arxiv.org/pdf/2312.16088v1)|null|
+|**2023-12-26**|**ODIN: Improved Narrowband Ly$α$ Emitter Selection Techniques for $z$ = 2.4, 3.1, and 4.5**|Nicole M. Firestone et.al.|[2312.16075v1](http://arxiv.org/abs/2312.16075v1)|[2312.16075v1](http://arxiv.org/pdf/2312.16075v1)|null|
+|**2023-12-26**|**The globular cluster VVV CL002 falling down to the hazardous Galactic centre**|D. Minniti et.al.|[2312.16028v1](http://arxiv.org/abs/2312.16028v1)|[2312.16028v1](http://arxiv.org/pdf/2312.16028v1)|null|
 |**2023-12-22**|**Virialized Profiles and Oscillations of Self-interacting Fuzzy Dark Matter Solitons**|Milos Indjin et.al.|[2312.14917v1](http://arxiv.org/abs/2312.14917v1)|[2312.14917v1](http://arxiv.org/pdf/2312.14917v1)|null|
 |**2023-12-22**|**Truncated, Tilted Discs as a Possible Source of Quasi-Periodic Oscillations**|A. Deepika Bollimpalli et.al.|[2312.14876v1](http://arxiv.org/abs/2312.14876v1)|[2312.14876v1](http://arxiv.org/pdf/2312.14876v1)|null|
 |**2023-12-22**|**Investigation of the correlation between optical and $γ$-ray flux variation in the blazar Ton 599**|Bhoomika Rajput et.al.|[2312.14857v1](http://arxiv.org/abs/2312.14857v1)|[2312.14857v1](http://arxiv.org/pdf/2312.14857v1)|null|
@@ -3793,6 +3803,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2023-12-26**|**Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**|Sondos Mahmoud Bsharat et.al.|[2312.16171v1](http://arxiv.org/abs/2312.16171v1)|[2312.16171v1](http://arxiv.org/pdf/2312.16171v1)|**[link](https://github.com/vila-lab/atlas)**|
+|**2023-12-26**|**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**|Tai Wang et.al.|[2312.16170v1](http://arxiv.org/abs/2312.16170v1)|[2312.16170v1](http://arxiv.org/pdf/2312.16170v1)|**[link](https://github.com/openrobotlab/embodiedscan)**|
+|**2023-12-26**|**Microwave signal processing using an analog quantum reservoir computer**|Alen Senanian et.al.|[2312.16166v1](http://arxiv.org/abs/2312.16166v1)|[2312.16166v1](http://arxiv.org/pdf/2312.16166v1)|null|
+|**2023-12-26**|**Association rule mining with earthquake data collected from Turkiye region**|Baha Alturan et.al.|[2312.16158v1](http://arxiv.org/abs/2312.16158v1)|[2312.16158v1](http://arxiv.org/pdf/2312.16158v1)|null|
+|**2023-12-26**|**From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems**|Gulsum Yigit et.al.|[2312.16156v1](http://arxiv.org/abs/2312.16156v1)|[2312.16156v1](http://arxiv.org/pdf/2312.16156v1)|null|
+|**2023-12-26**|**The Clustered Orienteering Problem with Subgroups**|Luciano E. Almeida et.al.|[2312.16154v1](http://arxiv.org/abs/2312.16154v1)|[2312.16154v1](http://arxiv.org/pdf/2312.16154v1)|**[link](https://github.com/verlab/cops)**|
+|**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145v1](http://arxiv.org/abs/2312.16145v1)|[2312.16145v1](http://arxiv.org/pdf/2312.16145v1)|null|
+|**2023-12-26**|**JaColBERT and Hard Negatives, Towards Better Japanese-First Embeddings for Retrieval: Early Technical Report**|Benjamin Clavié et.al.|[2312.16144v1](http://arxiv.org/abs/2312.16144v1)|[2312.16144v1](http://arxiv.org/pdf/2312.16144v1)|null|
+|**2023-12-26**|**Does PML exponentially absorb outgoing waves scattering from a periodic surface?**|Wangtao Lu et.al.|[2312.16134v1](http://arxiv.org/abs/2312.16134v1)|[2312.16134v1](http://arxiv.org/pdf/2312.16134v1)|null|
+|**2023-12-26**|**Large Language Model Situational Awareness Based Planning**|Liman Wang et.al.|[2312.16127v1](http://arxiv.org/abs/2312.16127v1)|[2312.16127v1](http://arxiv.org/pdf/2312.16127v1)|null|
 |**2023-12-22**|**A Survey of Reinforcement Learning from Human Feedback**|Timo Kaufmann et.al.|[2312.14925v1](http://arxiv.org/abs/2312.14925v1)|[2312.14925v1](http://arxiv.org/pdf/2312.14925v1)|null|
 |**2023-12-22**|**Training Convolutional Neural Networks with the Forward-Forward algorithm**|Riccardo Scodellaro et.al.|[2312.14924v1](http://arxiv.org/abs/2312.14924v1)|[2312.14924v1](http://arxiv.org/pdf/2312.14924v1)|null|
 |**2023-12-22**|**A Novel Sampled Clustering Algorithm for Rice Phenotypic Data**|Mithun Singh et.al.|[2312.14920v1](http://arxiv.org/abs/2312.14920v1)|[2312.14920v1](http://arxiv.org/pdf/2312.14920v1)|null|
