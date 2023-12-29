@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-28**|**Dark matter freeze-in from non-equilibrium QFT: towards a consistent treatment of thermal effects**|Mathias Becker et.al.|[2312.17246v1](http://arxiv.org/abs/2312.17246v1)|[2312.17246v1](http://arxiv.org/pdf/2312.17246v1)|null|
+|**2023-12-28**|**Interacting supernovae as high-energy multimessenger transients**|Kohta Murase et.al.|[2312.17239v1](http://arxiv.org/abs/2312.17239v1)|[2312.17239v1](http://arxiv.org/pdf/2312.17239v1)|null|
+|**2023-12-28**|**Hydrodynamics and Nucleosynthesis of Jet-Driven Supernovae II: Comparisons with Abundances of Extremely Metal-Poor Galaxies and Constraints on Supernova Progenitors**|Shing-Chi Leung et.al.|[2312.17226v1](http://arxiv.org/abs/2312.17226v1)|[2312.17226v1](http://arxiv.org/pdf/2312.17226v1)|null|
+|**2023-12-28**|**Spectroastrometric Survey of Protoplanetary Disks with Inner Dust Cavities**|Stanley K. Jensen Jr et.al.|[2312.17218v1](http://arxiv.org/abs/2312.17218v1)|[2312.17218v1](http://arxiv.org/pdf/2312.17218v1)|null|
+|**2023-12-28**|**Close encounters of the primordial kind: a new observable for primordial black holes as dark matter**|Tung X. Tran et.al.|[2312.17217v1](http://arxiv.org/abs/2312.17217v1)|[2312.17217v1](http://arxiv.org/pdf/2312.17217v1)|null|
+|**2023-12-28**|**Gravitational Wave Signatures of a Chiral Fermion Dark Matter Model**|Tomohiro Abe et.al.|[2312.17203v1](http://arxiv.org/abs/2312.17203v1)|[2312.17203v1](http://arxiv.org/pdf/2312.17203v1)|null|
+|**2023-12-28**|**Cosmological Correlators at Finite Coupling**|Lorenzo Di Pietro et.al.|[2312.17195v1](http://arxiv.org/abs/2312.17195v1)|[2312.17195v1](http://arxiv.org/pdf/2312.17195v1)|null|
+|**2023-12-28**|**Imprints of light dark matter on the evolution of cosmic neutrinos**|Isaac R. Wang et.al.|[2312.17151v1](http://arxiv.org/abs/2312.17151v1)|[2312.17151v1](http://arxiv.org/pdf/2312.17151v1)|null|
+|**2023-12-28**|**Cosmic-Ray-modified and driven instabilities**|Alexandre Marcowith et.al.|[2312.17134v1](http://arxiv.org/abs/2312.17134v1)|[2312.17134v1](http://arxiv.org/pdf/2312.17134v1)|null|
+|**2023-12-28**|**Anisotropic particle creation from $T-$vacuum in the radiation dominated universe**|Dhamar S. Astilla et.al.|[2312.17129v1](http://arxiv.org/abs/2312.17129v1)|[2312.17129v1](http://arxiv.org/pdf/2312.17129v1)|null|
 |**2023-12-26**|**Balanced Turbulence and the Helicity Barrier in Black Hole Accretion**|George N. Wong et.al.|[2312.16172v1](http://arxiv.org/abs/2312.16172v1)|[2312.16172v1](http://arxiv.org/pdf/2312.16172v1)|null|
 |**2023-12-26**|**Causal bounds on cosmological angular correlation**|Craig Hogan et.al.|[2312.16147v1](http://arxiv.org/abs/2312.16147v1)|[2312.16147v1](http://arxiv.org/pdf/2312.16147v1)|null|
 |**2023-12-26**|**A Hamiltonian for 1:1 Rotational Secondary Resonances, and Application to Small Satellites of Saturn and Jupiter**|Nelson Callegari Jr et.al.|[2312.16137v1](http://arxiv.org/abs/2312.16137v1)|[2312.16137v1](http://arxiv.org/pdf/2312.16137v1)|null|
@@ -3799,6 +3809,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249v1](http://arxiv.org/abs/2312.17249v1)|[2312.17249v1](http://arxiv.org/pdf/2312.17249v1)|null|
+|**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248v1](http://arxiv.org/abs/2312.17248v1)|[2312.17248v1](http://arxiv.org/pdf/2312.17248v1)|null|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238v1](http://arxiv.org/abs/2312.17238v1)|[2312.17238v1](http://arxiv.org/pdf/2312.17238v1)|null|
+|**2023-12-28**|**Gradient-based Planning with World Models**|Jyothir S V et.al.|[2312.17227v1](http://arxiv.org/abs/2312.17227v1)|[2312.17227v1](http://arxiv.org/pdf/2312.17227v1)|null|
+|**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216v1](http://arxiv.org/abs/2312.17216v1)|[2312.17216v1](http://arxiv.org/pdf/2312.17216v1)|**[link](https://github.com/rainerengelken/sparseprop)**|
+|**2023-12-28**|**Continual Learning via Sequential Function-Space Variational Inference**|Tim G. J. Rudner et.al.|[2312.17210v1](http://arxiv.org/abs/2312.17210v1)|[2312.17210v1](http://arxiv.org/pdf/2312.17210v1)|null|
+|**2023-12-28**|**Tractable Function-Space Variational Inference in Bayesian Neural Networks**|Tim G. J. Rudner et.al.|[2312.17199v1](http://arxiv.org/abs/2312.17199v1)|[2312.17199v1](http://arxiv.org/pdf/2312.17199v1)|**[link](https://github.com/timrudner/fsvi)**|
+|**2023-12-28**|**Virtual Scientific Companion for Synchrotron Beamlines: A Prototype**|Daniel Potemkin et.al.|[2312.17180v1](http://arxiv.org/abs/2312.17180v1)|[2312.17180v1](http://arxiv.org/pdf/2312.17180v1)|null|
+|**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174v1](http://arxiv.org/abs/2312.17174v1)|[2312.17174v1](http://arxiv.org/pdf/2312.17174v1)|**[link](https://github.com/yingwangg/m2ib)**|
+|**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172v1](http://arxiv.org/abs/2312.17172v1)|[2312.17172v1](http://arxiv.org/pdf/2312.17172v1)|null|
 |**2023-12-26**|**Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**|Sondos Mahmoud Bsharat et.al.|[2312.16171v1](http://arxiv.org/abs/2312.16171v1)|[2312.16171v1](http://arxiv.org/pdf/2312.16171v1)|**[link](https://github.com/vila-lab/atlas)**|
 |**2023-12-26**|**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**|Tai Wang et.al.|[2312.16170v1](http://arxiv.org/abs/2312.16170v1)|[2312.16170v1](http://arxiv.org/pdf/2312.16170v1)|**[link](https://github.com/openrobotlab/embodiedscan)**|
 |**2023-12-26**|**Microwave signal processing using an analog quantum reservoir computer**|Alen Senanian et.al.|[2312.16166v1](http://arxiv.org/abs/2312.16166v1)|[2312.16166v1](http://arxiv.org/pdf/2312.16166v1)|null|
