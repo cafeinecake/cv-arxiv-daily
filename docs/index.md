@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.29
+## Updated on 2023.12.30
 
 ## Astrophysics
 
@@ -3815,7 +3815,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249v1](http://arxiv.org/abs/2312.17249v1)|[2312.17249v1](http://arxiv.org/pdf/2312.17249v1)|null|
 |**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248v1](http://arxiv.org/abs/2312.17248v1)|[2312.17248v1](http://arxiv.org/pdf/2312.17248v1)|null|
-|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238v1](http://arxiv.org/abs/2312.17238v1)|[2312.17238v1](http://arxiv.org/pdf/2312.17238v1)|null|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238v1](http://arxiv.org/abs/2312.17238v1)|[2312.17238v1](http://arxiv.org/pdf/2312.17238v1)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
 |**2023-12-28**|**Gradient-based Planning with World Models**|Jyothir S V et.al.|[2312.17227v1](http://arxiv.org/abs/2312.17227v1)|[2312.17227v1](http://arxiv.org/pdf/2312.17227v1)|null|
 |**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216v1](http://arxiv.org/abs/2312.17216v1)|[2312.17216v1](http://arxiv.org/pdf/2312.17216v1)|**[link](https://github.com/rainerengelken/sparseprop)**|
 |**2023-12-28**|**Continual Learning via Sequential Function-Space Variational Inference**|Tim G. J. Rudner et.al.|[2312.17210v1](http://arxiv.org/abs/2312.17210v1)|[2312.17210v1](http://arxiv.org/pdf/2312.17210v1)|null|

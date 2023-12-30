@@ -1,4 +1,4 @@
-> Updated on 2023.12.29
+> Updated on 2023.12.30
 
 ## Astrophysics
 
@@ -3807,7 +3807,7 @@
 
 - 2023-12-28, **Do Androids Know They're Only Dreaming of Electric Sheep?**, Sky CH-Wang et.al., Paper: [http://arxiv.org/abs/2312.17249v1](http://arxiv.org/abs/2312.17249v1), Paper: [http://arxiv.org/abs/2312.17249v1](http://arxiv.org/pdf/2312.17249v1)
 - 2023-12-28, **Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**, Guhao Feng et.al., Paper: [http://arxiv.org/abs/2312.17248v1](http://arxiv.org/abs/2312.17248v1), Paper: [http://arxiv.org/abs/2312.17248v1](http://arxiv.org/pdf/2312.17248v1)
-- 2023-12-28, **Fast Inference of Mixture-of-Experts Language Models with Offloading**, Artyom Eliseev et.al., Paper: [http://arxiv.org/abs/2312.17238v1](http://arxiv.org/abs/2312.17238v1), Paper: [http://arxiv.org/abs/2312.17238v1](http://arxiv.org/pdf/2312.17238v1)
+- 2023-12-28, **Fast Inference of Mixture-of-Experts Language Models with Offloading**, Artyom Eliseev et.al., Paper: [http://arxiv.org/abs/2312.17238v1](http://arxiv.org/abs/2312.17238v1),Paper: [http://arxiv.org/abs/2312.17238v1](http://arxiv.org/pdf/2312.17238v1), Code: **[https://github.com/dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading)**
 - 2023-12-28, **Gradient-based Planning with World Models**, Jyothir S V et.al., Paper: [http://arxiv.org/abs/2312.17227v1](http://arxiv.org/abs/2312.17227v1), Paper: [http://arxiv.org/abs/2312.17227v1](http://arxiv.org/pdf/2312.17227v1)
 - 2023-12-28, **SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**, Rainer Engelken et.al., Paper: [http://arxiv.org/abs/2312.17216v1](http://arxiv.org/abs/2312.17216v1),Paper: [http://arxiv.org/abs/2312.17216v1](http://arxiv.org/pdf/2312.17216v1), Code: **[https://github.com/rainerengelken/sparseprop](https://github.com/rainerengelken/sparseprop)**
 - 2023-12-28, **Continual Learning via Sequential Function-Space Variational Inference**, Tim G. J. Rudner et.al., Paper: [http://arxiv.org/abs/2312.17210v1](http://arxiv.org/abs/2312.17210v1), Paper: [http://arxiv.org/abs/2312.17210v1](http://arxiv.org/pdf/2312.17210v1)
