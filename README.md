@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-29**|**Cluster Formation in a Filamentary Cloud: The Case of the Stellar Cluster NGC 2316**|Saurabh Sharma et.al.|[2312.17699v1](http://arxiv.org/abs/2312.17699v1)|[2312.17699v1](http://arxiv.org/pdf/2312.17699v1)|null|
+|**2023-12-29**|**Cotton gravity is not predictive**|Gérard Clément et.al.|[2312.17662v1](http://arxiv.org/abs/2312.17662v1)|[2312.17662v1](http://arxiv.org/pdf/2312.17662v1)|null|
+|**2023-12-29**|**Inverse Gertsenshtein effect as a probe of high-frequency gravitational waves**|Yutong He et.al.|[2312.17636v1](http://arxiv.org/abs/2312.17636v1)|[2312.17636v1](http://arxiv.org/pdf/2312.17636v1)|null|
+|**2023-12-29**|**Probing interacting dark sector models with future weak lensing-informed galaxy cluster abundance constraints from SPT-3G and CMB-S4**|Asmaa Mazoun et.al.|[2312.17622v1](http://arxiv.org/abs/2312.17622v1)|[2312.17622v1](http://arxiv.org/pdf/2312.17622v1)|null|
+|**2023-12-29**|**Light dark matter confronted with the 95 GeV diphoton excess**|Weichao Li et.al.|[2312.17599v1](http://arxiv.org/abs/2312.17599v1)|[2312.17599v1](http://arxiv.org/pdf/2312.17599v1)|null|
+|**2023-12-29**|**The deep eclipses of RW Aur revisited by long-term photometric and spectroscopic monitoring**|O. Lux et.al.|[2312.17598v1](http://arxiv.org/abs/2312.17598v1)|[2312.17598v1](http://arxiv.org/pdf/2312.17598v1)|null|
+|**2023-12-29**|**Limiting the Number of Extra Dimensions with Shortcuts**|Zi-Chao Lin et.al.|[2312.17549v1](http://arxiv.org/abs/2312.17549v1)|[2312.17549v1](http://arxiv.org/pdf/2312.17549v1)|null|
+|**2023-12-29**|**Liquid-phase epitaxy of neutron star crusts and white dwarf cores**|D. A. Baiko et.al.|[2312.17544v1](http://arxiv.org/abs/2312.17544v1)|[2312.17544v1](http://arxiv.org/pdf/2312.17544v1)|null|
+|**2023-12-29**|**Probing warm and mixed dark matter models using lensing shift power spectrum**|Kaiki Taro Inoue et.al.|[2312.17536v1](http://arxiv.org/abs/2312.17536v1)|[2312.17536v1](http://arxiv.org/pdf/2312.17536v1)|null|
+|**2023-12-29**|**Smuon contribution to muon g-2 in Grand Unified supersymmetric theories**|Weichao Li et.al.|[2312.17523v1](http://arxiv.org/abs/2312.17523v1)|[2312.17523v1](http://arxiv.org/pdf/2312.17523v1)|null|
 |**2023-12-28**|**Dark matter freeze-in from non-equilibrium QFT: towards a consistent treatment of thermal effects**|Mathias Becker et.al.|[2312.17246v1](http://arxiv.org/abs/2312.17246v1)|[2312.17246v1](http://arxiv.org/pdf/2312.17246v1)|null|
 |**2023-12-28**|**Interacting supernovae as high-energy multimessenger transients**|Kohta Murase et.al.|[2312.17239v1](http://arxiv.org/abs/2312.17239v1)|[2312.17239v1](http://arxiv.org/pdf/2312.17239v1)|null|
 |**2023-12-28**|**Hydrodynamics and Nucleosynthesis of Jet-Driven Supernovae II: Comparisons with Abundances of Extremely Metal-Poor Galaxies and Constraints on Supernova Progenitors**|Shing-Chi Leung et.al.|[2312.17226v1](http://arxiv.org/abs/2312.17226v1)|[2312.17226v1](http://arxiv.org/pdf/2312.17226v1)|null|
@@ -3809,6 +3819,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2023-12-29**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673v1](http://arxiv.org/abs/2312.17673v1)|[2312.17673v1](http://arxiv.org/pdf/2312.17673v1)|null|
+|**2023-12-29**|**Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models**|Yuqing Wang et.al.|[2312.17661v1](http://arxiv.org/abs/2312.17661v1)|[2312.17661v1](http://arxiv.org/pdf/2312.17661v1)|**[link](https://github.com/eternityyw/gemini-commonsense-evaluation)**|
+|**2023-12-29**|**Bridging Modality Gap for Visual Grounding with Effecitve Cross-modal Distillation**|Jiaxi Wang et.al.|[2312.17648v1](http://arxiv.org/abs/2312.17648v1)|[2312.17648v1](http://arxiv.org/pdf/2312.17648v1)|null|
+|**2023-12-29**|**Research on the Laws of Multimodal Perception and Cognition from a Cross-cultural Perspective -- Taking Overseas Chinese Gardens as an Example**|Ran Chen et.al.|[2312.17642v1](http://arxiv.org/abs/2312.17642v1)|[2312.17642v1](http://arxiv.org/pdf/2312.17642v1)|null|
+|**2023-12-29**|**XAI for In-hospital Mortality Prediction via Multimodal ICU Data**|Xingqiao Li et.al.|[2312.17624v1](http://arxiv.org/abs/2312.17624v1)|[2312.17624v1](http://arxiv.org/pdf/2312.17624v1)|null|
+|**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606v1](http://arxiv.org/abs/2312.17606v1)|[2312.17606v1](http://arxiv.org/pdf/2312.17606v1)|null|
+|**2023-12-29**|**Unified Task and Motion Planning using Object-centric Abstractions of Motion Constraints**|Alejandro Agostini et.al.|[2312.17605v1](http://arxiv.org/abs/2312.17605v1)|[2312.17605v1](http://arxiv.org/pdf/2312.17605v1)|null|
+|**2023-12-29**|**The Tyranny of Possibilities in the Design of Task-Oriented LLM Systems: A Scoping Survey**|Dhruv Dhamani et.al.|[2312.17601v1](http://arxiv.org/abs/2312.17601v1)|[2312.17601v1](http://arxiv.org/pdf/2312.17601v1)|null|
+|**2023-12-29**|**A Tool for the Procedural Generation of Shaders using Interactive Evolutionary Algorithms**|Elio Sasso et.al.|[2312.17587v1](http://arxiv.org/abs/2312.17587v1)|[2312.17587v1](http://arxiv.org/pdf/2312.17587v1)|**[link](https://github.com/pierlucalanzi/procedural-generation-of-shaders-using-interactive-evolutionary-algorithms)**|
+|**2023-12-29**|**Interpretable and Explainable Machine Learning Methods for Predictive Process Monitoring: A Systematic Literature Review**|Nijat Mehdiyev et.al.|[2312.17584v1](http://arxiv.org/abs/2312.17584v1)|[2312.17584v1](http://arxiv.org/pdf/2312.17584v1)|null|
 |**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249v1](http://arxiv.org/abs/2312.17249v1)|[2312.17249v1](http://arxiv.org/pdf/2312.17249v1)|null|
 |**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248v1](http://arxiv.org/abs/2312.17248v1)|[2312.17248v1](http://arxiv.org/pdf/2312.17248v1)|null|
 |**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238v1](http://arxiv.org/abs/2312.17238v1)|[2312.17238v1](http://arxiv.org/pdf/2312.17238v1)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
