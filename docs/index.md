@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2023-12-29**|**Cluster Formation in a Filamentary Cloud: The Case of the Stellar Cluster NGC 2316**|Saurabh Sharma et.al.|[2312.17699v1](http://arxiv.org/abs/2312.17699v1)|[2312.17699v1](http://arxiv.org/pdf/2312.17699v1)|null|
-|**2023-12-29**|**Cotton gravity is not predictive**|Gérard Clément et.al.|[2312.17662v1](http://arxiv.org/abs/2312.17662v1)|[2312.17662v1](http://arxiv.org/pdf/2312.17662v1)|null|
+|**2024-01-01**|**Cotton gravity is not predictive**|Gérard Clément et.al.|[2312.17662v2](http://arxiv.org/abs/2312.17662v2)|[2312.17662v2](http://arxiv.org/pdf/2312.17662v2)|null|
 |**2023-12-29**|**Inverse Gertsenshtein effect as a probe of high-frequency gravitational waves**|Yutong He et.al.|[2312.17636v1](http://arxiv.org/abs/2312.17636v1)|[2312.17636v1](http://arxiv.org/pdf/2312.17636v1)|null|
 |**2023-12-29**|**Probing interacting dark sector models with future weak lensing-informed galaxy cluster abundance constraints from SPT-3G and CMB-S4**|Asmaa Mazoun et.al.|[2312.17622v1](http://arxiv.org/abs/2312.17622v1)|[2312.17622v1](http://arxiv.org/pdf/2312.17622v1)|null|
 |**2023-12-29**|**Light dark matter confronted with the 95 GeV diphoton excess**|Weichao Li et.al.|[2312.17599v1](http://arxiv.org/abs/2312.17599v1)|[2312.17599v1](http://arxiv.org/pdf/2312.17599v1)|null|
