@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-02**|**Metastability of stratified magnetohydrostatic equilibria and their relaxation**|David N. Hosking et.al.|[2401.01336v1](http://arxiv.org/abs/2401.01336v1)|[2401.01336v1](http://arxiv.org/pdf/2401.01336v1)|null|
+|**2024-01-02**|**Neutron Stars in modified $f(R,T)$ gravity framework with $\mathcal{O}(T, T^2)$ terms**|Premachand Mahapatra et.al.|[2401.01321v1](http://arxiv.org/abs/2401.01321v1)|[2401.01321v1](http://arxiv.org/pdf/2401.01321v1)|null|
+|**2024-01-02**|**Changing CO Bands in Near-IR Spectra of CP Cephei**|Scott G. Call et.al.|[2401.01318v1](http://arxiv.org/abs/2401.01318v1)|[2401.01318v1](http://arxiv.org/pdf/2401.01318v1)|null|
+|**2024-01-02**|**On the evolution of a twisted thin accretion disc in eccentric inclined supermassive binary black holes**|P. B. Ivanov et.al.|[2401.01317v1](http://arxiv.org/abs/2401.01317v1)|[2401.01317v1](http://arxiv.org/pdf/2401.01317v1)|null|
+|**2024-01-02**|**Pruning: a tool to optimize the layout of large scale arrays for ultra-high-energy air-shower detection**|A et.al.|[2401.01267v1](http://arxiv.org/abs/2401.01267v1)|[2401.01267v1](http://arxiv.org/pdf/2401.01267v1)|null|
+|**2024-01-02**|**Optically-thick Structure in Early B Type Supergiant Stellar Winds at Low Metallicities**|Timothy N. Parsons et.al.|[2401.01240v1](http://arxiv.org/abs/2401.01240v1)|[2401.01240v1](http://arxiv.org/pdf/2401.01240v1)|null|
+|**2024-01-02**|**New Horizons Venetia Burney Student Dust Counter Observes Higher than Expected Fluxes Approaching 60 AU**|Alex Doner et.al.|[2401.01230v1](http://arxiv.org/abs/2401.01230v1)|[2401.01230v1](http://arxiv.org/pdf/2401.01230v1)|null|
+|**2024-01-02**|**Blind source separation for decomposing X-ray pulsar profiles. Introducing phase-correlated variability analysis (PCVA) with a case study of Cen X-3**|Inga Saathoff et.al.|[2401.01226v1](http://arxiv.org/abs/2401.01226v1)|[2401.01226v1](http://arxiv.org/pdf/2401.01226v1)|null|
+|**2024-01-02**|**PDRs4All. V. Modelling the dust evolution across the illuminated edge of the Orion Bar**|M. Elyajouri et.al.|[2401.01221v1](http://arxiv.org/abs/2401.01221v1)|[2401.01221v1](http://arxiv.org/pdf/2401.01221v1)|null|
+|**2024-01-02**|**Numerical behavior of the Keplerian Integral methods for initial orbit determination**|Óscar Rodríguez et.al.|[2401.01210v1](http://arxiv.org/abs/2401.01210v1)|[2401.01210v1](http://arxiv.org/pdf/2401.01210v1)|null|
 |**2023-12-29**|**Cluster Formation in a Filamentary Cloud: The Case of the Stellar Cluster NGC 2316**|Saurabh Sharma et.al.|[2312.17699v1](http://arxiv.org/abs/2312.17699v1)|[2312.17699v1](http://arxiv.org/pdf/2312.17699v1)|null|
 |**2024-01-01**|**Cotton gravity is not predictive**|Gérard Clément et.al.|[2312.17662v2](http://arxiv.org/abs/2312.17662v2)|[2312.17662v2](http://arxiv.org/pdf/2312.17662v2)|null|
 |**2023-12-29**|**Inverse Gertsenshtein effect as a probe of high-frequency gravitational waves**|Yutong He et.al.|[2312.17636v1](http://arxiv.org/abs/2312.17636v1)|[2312.17636v1](http://arxiv.org/pdf/2312.17636v1)|null|
@@ -3819,6 +3829,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et.al.|[2401.01335v1](http://arxiv.org/abs/2401.01335v1)|[2401.01335v1](http://arxiv.org/pdf/2401.01335v1)|null|
+|**2024-01-02**|**TREC iKAT 2023: The Interactive Knowledge Assistance Track Overview**|Mohammad Aliannejadi et.al.|[2401.01330v1](http://arxiv.org/abs/2401.01330v1)|[2401.01330v1](http://arxiv.org/pdf/2401.01330v1)|null|
+|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|[2401.01326v1](http://arxiv.org/pdf/2401.01326v1)|null|
+|**2024-01-02**|**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**|Hongye Jin et.al.|[2401.01325v1](http://arxiv.org/abs/2401.01325v1)|[2401.01325v1](http://arxiv.org/pdf/2401.01325v1)|null|
+|**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304v1](http://arxiv.org/abs/2401.01304v1)|[2401.01304v1](http://arxiv.org/pdf/2401.01304v1)|null|
+|**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl et.al.|[2401.01301v1](http://arxiv.org/abs/2401.01301v1)|[2401.01301v1](http://arxiv.org/pdf/2401.01301v1)|null|
+|**2024-01-02**|**Generative AI is already widespread in the public sector**|Jonathan Bright et.al.|[2401.01291v1](http://arxiv.org/abs/2401.01291v1)|[2401.01291v1](http://arxiv.org/pdf/2401.01291v1)|null|
+|**2024-01-02**|**Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**|Ethan Zhu et.al.|[2401.01288v1](http://arxiv.org/abs/2401.01288v1)|[2401.01288v1](http://arxiv.org/pdf/2401.01288v1)|null|
+|**2024-01-02**|**A Comprehensive Study of Knowledge Editing for Large Language Models**|Ningyu Zhang et.al.|[2401.01286v1](http://arxiv.org/abs/2401.01286v1)|[2401.01286v1](http://arxiv.org/pdf/2401.01286v1)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-01-02**|**LLbezpeky: Leveraging Large Language Models for Vulnerability Detection**|Noble Saji Mathews et.al.|[2401.01269v1](http://arxiv.org/abs/2401.01269v1)|[2401.01269v1](http://arxiv.org/pdf/2401.01269v1)|null|
 |**2023-12-29**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673v1](http://arxiv.org/abs/2312.17673v1)|[2312.17673v1](http://arxiv.org/pdf/2312.17673v1)|null|
 |**2023-12-29**|**Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models**|Yuqing Wang et.al.|[2312.17661v1](http://arxiv.org/abs/2312.17661v1)|[2312.17661v1](http://arxiv.org/pdf/2312.17661v1)|**[link](https://github.com/eternityyw/gemini-commonsense-evaluation)**|
 |**2023-12-29**|**Bridging Modality Gap for Visual Grounding with Effecitve Cross-modal Distillation**|Jiaxi Wang et.al.|[2312.17648v1](http://arxiv.org/abs/2312.17648v1)|[2312.17648v1](http://arxiv.org/pdf/2312.17648v1)|null|
