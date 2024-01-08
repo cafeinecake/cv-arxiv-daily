@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-05**|**Phantom Fluid Cosmology $\it or\ $ Ghosts for Gordon**|James M. Cline et.al.|[2401.02958v1](http://arxiv.org/abs/2401.02958v1)|[2401.02958v1](http://arxiv.org/pdf/2401.02958v1)|null|
+|**2024-01-05**|**The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties**|M. Vincenzi et.al.|[2401.02945v1](http://arxiv.org/abs/2401.02945v1)|[2401.02945v1](http://arxiv.org/pdf/2401.02945v1)|null|
+|**2024-01-05**|**Joint analysis of the iron emission in the optical and near-infrared spectrum of I Zw 1**|Denimara Dias dos Santos et.al.|[2401.02936v1](http://arxiv.org/abs/2401.02936v1)|[2401.02936v1](http://arxiv.org/pdf/2401.02936v1)|null|
+|**2024-01-05**|**The Fate of Primary Iron Sulfides in the CM1 Carbonaceous Chondrites: Effects of Advanced Aqueous Alteration on Primary Components**|Sheryl A. Singerling et.al.|[2401.02932v1](http://arxiv.org/abs/2401.02932v1)|[2401.02932v1](http://arxiv.org/pdf/2401.02932v1)|null|
+|**2024-01-05**|**The Dark Energy Survey: Cosmology Results With ~1500 New High-redshift Type Ia Supernovae Using The Full 5-year Dataset**|The Dark Energy Survey Collaboration et.al.|[2401.02929v1](http://arxiv.org/abs/2401.02929v1)|[2401.02929v1](http://arxiv.org/pdf/2401.02929v1)|null|
+|**2024-01-05**|**Searching for Bumps in the Cosmological Road: Do Type Ia Supernovae with Early Excesses Have Biased Hubble Residuals?**|Christine Ye et.al.|[2401.02926v1](http://arxiv.org/abs/2401.02926v1)|[2401.02926v1](http://arxiv.org/pdf/2401.02926v1)|null|
+|**2024-01-05**|**Decoding the thermal history of the merging cluster Cygnus A**|Anwesh Majumder et.al.|[2401.02912v1](http://arxiv.org/abs/2401.02912v1)|[2401.02912v1](http://arxiv.org/pdf/2401.02912v1)|null|
+|**2024-01-05**|**OSIRIS-GR: General relativistic activation of the polar cap of a compact neutron star**|R. Torres et.al.|[2401.02908v1](http://arxiv.org/abs/2401.02908v1)|[2401.02908v1](http://arxiv.org/pdf/2401.02908v1)|null|
+|**2024-01-05**|**New detailed characterization of the residual luminescence emitted by the GAGG:Ce scintillator crystals for the HERMES Pathfinder mission**|Giovanni Della Casa et.al.|[2401.02900v1](http://arxiv.org/abs/2401.02900v1)|[2401.02900v1](http://arxiv.org/pdf/2401.02900v1)|null|
+|**2024-01-05**|**A novel approach to cosmological particle production**|Bartomeu Fiol et.al.|[2401.02894v1](http://arxiv.org/abs/2401.02894v1)|[2401.02894v1](http://arxiv.org/pdf/2401.02894v1)|null|
 |**2024-01-04**|**asimulation: Domain formation and impact on observables in resolved cosmological simulations of the (a)symmetron**|Øyvind Christiansen et.al.|[2401.02410v1](http://arxiv.org/abs/2401.02410v1)|[2401.02410v1](http://arxiv.org/pdf/2401.02410v1)|**[link](https://github.com/oyvach/asevolution)**|
 |**2024-01-04**|**Gravitational waves from dark domain walls**|Øyvind Christiansen et.al.|[2401.02409v1](http://arxiv.org/abs/2401.02409v1)|[2401.02409v1](http://arxiv.org/pdf/2401.02409v1)|**[link](https://github.com/oyvach/asgrd)**|
 |**2024-01-04**|**Long-Term Evolution of Relativistic Unmagnetized Collisionless Shocks**|Daniel Groselj et.al.|[2401.02392v1](http://arxiv.org/abs/2401.02392v1)|[2401.02392v1](http://arxiv.org/pdf/2401.02392v1)|null|
@@ -3853,6 +3863,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-05**|**DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**|DeepSeek-AI et.al.|[2401.02954v1](http://arxiv.org/abs/2401.02954v1)|[2401.02954v1](http://arxiv.org/pdf/2401.02954v1)|null|
+|**2024-01-05**|**Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving**|Jason Rute et.al.|[2401.02949v1](http://arxiv.org/abs/2401.02949v1)|[2401.02949v1](http://arxiv.org/pdf/2401.02949v1)|null|
+|**2024-01-05**|**Analytically-Driven Resource Management for Cloud-Native Microservices**|Yanqi Zhang et.al.|[2401.02920v1](http://arxiv.org/abs/2401.02920v1)|[2401.02920v1](http://arxiv.org/pdf/2401.02920v1)|null|
+|**2024-01-05**|**H2G2-Net: A Hierarchical Heterogeneous Graph Generative Network Framework for Discovery of Multi-Modal Physiological Responses**|Haidong Gu et.al.|[2401.02905v1](http://arxiv.org/abs/2401.02905v1)|[2401.02905v1](http://arxiv.org/pdf/2401.02905v1)|null|
+|**2024-01-05**|**MsDC-DEQ-Net: Deep Equilibrium Model (DEQ) with Multi-scale Dilated Convolution for Image Compressive Sensing (CS)**|Youhao Yu et.al.|[2401.02884v1](http://arxiv.org/abs/2401.02884v1)|[2401.02884v1](http://arxiv.org/pdf/2401.02884v1)|null|
+|**2024-01-05**|**Optimal Chaining of Vehicle Plans with Time Windows**|David Fiedler et.al.|[2401.02873v1](http://arxiv.org/abs/2401.02873v1)|[2401.02873v1](http://arxiv.org/pdf/2401.02873v1)|null|
+|**2024-01-05**|**AFSPP: Agent Framework for Shaping Preference and Personality with Large Language Models**|Zihong He et.al.|[2401.02870v1](http://arxiv.org/abs/2401.02870v1)|[2401.02870v1](http://arxiv.org/pdf/2401.02870v1)|null|
+|**2024-01-05**|**Framework for Variable-lag Motif Following Relation Inference In Time Series using Matrix Profile analysis**|Naaek Chinpattanakarn et.al.|[2401.02860v1](http://arxiv.org/abs/2401.02860v1)|[2401.02860v1](http://arxiv.org/pdf/2401.02860v1)|null|
+|**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851v1](http://arxiv.org/abs/2401.02851v1)|[2401.02851v1](http://arxiv.org/pdf/2401.02851v1)|null|
+|**2024-01-05**|**Thousands of AI Authors on the Future of AI**|Katja Grace et.al.|[2401.02843v1](http://arxiv.org/abs/2401.02843v1)|[2401.02843v1](http://arxiv.org/pdf/2401.02843v1)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416v1](http://arxiv.org/abs/2401.02416v1)|[2401.02416v1](http://arxiv.org/pdf/2401.02416v1)|null|
 |**2024-01-04**|**LLM Augmented LLMs: Expanding Capabilities through Composition**|Rachit Bansal et.al.|[2401.02412v1](http://arxiv.org/abs/2401.02412v1)|[2401.02412v1](http://arxiv.org/pdf/2401.02412v1)|null|
 |**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411v1](http://arxiv.org/abs/2401.02411v1)|[2401.02411v1](http://arxiv.org/pdf/2401.02411v1)|null|
