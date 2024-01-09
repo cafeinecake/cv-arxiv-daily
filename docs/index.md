@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-08**|**Evidence for inflows and outflows in the nearby black hole transient Swift J1727.8-162**|D. Mata Sánchez et.al.|[2401.04107v1](http://arxiv.org/abs/2401.04107v1)|[2401.04107v1](http://arxiv.org/pdf/2401.04107v1)|null|
+|**2024-01-08**|**Geometric and thermodynamic characterization of binary neutron star accretion discs**|Alessandro Camilletti et.al.|[2401.04102v1](http://arxiv.org/abs/2401.04102v1)|[2401.04102v1](http://arxiv.org/pdf/2401.04102v1)|null|
+|**2024-01-08**|**Stringy Spacetime Uncertainty Principle and a Modified Trans-Planckian Censorship Criterion**|Robert Brandenberger et.al.|[2401.04097v1](http://arxiv.org/abs/2401.04097v1)|[2401.04097v1](http://arxiv.org/pdf/2401.04097v1)|null|
+|**2024-01-08**|**Spherical collapse and halo abundance in shift-symmetric Galileon theory**|Inês S. Albuquerque et.al.|[2401.04096v1](http://arxiv.org/abs/2401.04096v1)|[2401.04096v1](http://arxiv.org/pdf/2401.04096v1)|null|
+|**2024-01-08**|**Testing magnetospheric accretion as an H$α$ emission mechanism of embedded giant planets: The case study for the disk exhibiting meridional flow around HD 163296**|Yasuhiro Hasegawa et.al.|[2401.04093v1](http://arxiv.org/abs/2401.04093v1)|[2401.04093v1](http://arxiv.org/pdf/2401.04093v1)|null|
+|**2024-01-08**|**One model to rule them all: magnetic braking from CVs to low-mass stars**|Arnab Sarkar et.al.|[2401.04090v1](http://arxiv.org/abs/2401.04090v1)|[2401.04090v1](http://arxiv.org/pdf/2401.04090v1)|null|
+|**2024-01-08**|**String Theory and the First Half of the Universe**|Fien Apers et.al.|[2401.04064v1](http://arxiv.org/abs/2401.04064v1)|[2401.04064v1](http://arxiv.org/pdf/2401.04064v1)|null|
+|**2024-01-08**|**Disentangling the association of PAH molecules with star formation : Insights from JWST and UVIT**|K. Ujjwal et.al.|[2401.04061v1](http://arxiv.org/abs/2401.04061v1)|[2401.04061v1](http://arxiv.org/pdf/2401.04061v1)|null|
+|**2024-01-08**|**Magnetic field amplification in massive primordial halos: Influence of Lyman-Werner radiation**|V. B. Díaz et.al.|[2401.04054v1](http://arxiv.org/abs/2401.04054v1)|[2401.04054v1](http://arxiv.org/pdf/2401.04054v1)|null|
+|**2024-01-08**|**Hidden high ionization lines in the low luminosity type II SN 2021gmj**|Nicolas Meza Retamal et.al.|[2401.04027v1](http://arxiv.org/abs/2401.04027v1)|[2401.04027v1](http://arxiv.org/pdf/2401.04027v1)|null|
 |**2024-01-05**|**Phantom Fluid Cosmology $\it or\ $ Ghosts for Gordon**|James M. Cline et.al.|[2401.02958v1](http://arxiv.org/abs/2401.02958v1)|[2401.02958v1](http://arxiv.org/pdf/2401.02958v1)|null|
 |**2024-01-05**|**The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties**|M. Vincenzi et.al.|[2401.02945v1](http://arxiv.org/abs/2401.02945v1)|[2401.02945v1](http://arxiv.org/pdf/2401.02945v1)|null|
 |**2024-01-05**|**Joint analysis of the iron emission in the optical and near-infrared spectrum of I Zw 1**|Denimara Dias dos Santos et.al.|[2401.02936v1](http://arxiv.org/abs/2401.02936v1)|[2401.02936v1](http://arxiv.org/pdf/2401.02936v1)|null|
@@ -3863,6 +3873,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-08**|**Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105v1](http://arxiv.org/abs/2401.04105v1)|[2401.04105v1](http://arxiv.org/pdf/2401.04105v1)|null|
+|**2024-01-08**|**MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts**|Maciej Pióro et.al.|[2401.04081v1](http://arxiv.org/abs/2401.04081v1)|[2401.04081v1](http://arxiv.org/pdf/2401.04081v1)|null|
+|**2024-01-08**|**RudolfV: A Foundation Model by Pathologists for Pathologists**|Jonas Dippel et.al.|[2401.04079v1](http://arxiv.org/abs/2401.04079v1)|[2401.04079v1](http://arxiv.org/pdf/2401.04079v1)|null|
+|**2024-01-08**|**Accelerating computational materials discovery with artificial intelligence and cloud high-performance computing: from large-scale screening to experimental validation**|Chi Chen et.al.|[2401.04070v1](http://arxiv.org/abs/2401.04070v1)|[2401.04070v1](http://arxiv.org/pdf/2401.04070v1)|null|
+|**2024-01-08**|**Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems**|Chandan Kumar Sah et.al.|[2401.04057v1](http://arxiv.org/abs/2401.04057v1)|[2401.04057v1](http://arxiv.org/pdf/2401.04057v1)|null|
+|**2024-01-08**|**Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04023v1](http://arxiv.org/abs/2401.04023v1)|[2401.04023v1](http://arxiv.org/pdf/2401.04023v1)|null|
+|**2024-01-08**|**Resident space object detection method based on the connection between Fourier spectrum of the video data difference frame and the linear velocity projection**|V. S. Baranova et.al.|[2401.04021v1](http://arxiv.org/abs/2401.04021v1)|[2401.04021v1](http://arxiv.org/pdf/2401.04021v1)|null|
+|**2024-01-08**|**Simultaneous Task Allocation and Planning for Multi-Robots under Hierarchical Temporal Logic Specifications**|Xusheng Luo et.al.|[2401.04003v1](http://arxiv.org/abs/2401.04003v1)|[2401.04003v1](http://arxiv.org/pdf/2401.04003v1)|null|
+|**2024-01-08**|**Polynomial Precision Dependence Solutions to Alignment Research Center Matrix Completion Problems**|Rico Angell et.al.|[2401.03999v1](http://arxiv.org/abs/2401.03999v1)|[2401.03999v1](http://arxiv.org/pdf/2401.03999v1)|null|
+|**2024-01-08**|**Nigeria's ICT and Economic Sustainability in the Digital Age**|Abayomi Agbeyangi et.al.|[2401.03996v1](http://arxiv.org/abs/2401.03996v1)|[2401.03996v1](http://arxiv.org/pdf/2401.03996v1)|null|
 |**2024-01-05**|**DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**|DeepSeek-AI et.al.|[2401.02954v1](http://arxiv.org/abs/2401.02954v1)|[2401.02954v1](http://arxiv.org/pdf/2401.02954v1)|null|
 |**2024-01-05**|**Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving**|Jason Rute et.al.|[2401.02949v1](http://arxiv.org/abs/2401.02949v1)|[2401.02949v1](http://arxiv.org/pdf/2401.02949v1)|null|
 |**2024-01-05**|**Analytically-Driven Resource Management for Cloud-Native Microservices**|Yanqi Zhang et.al.|[2401.02920v1](http://arxiv.org/abs/2401.02920v1)|[2401.02920v1](http://arxiv.org/pdf/2401.02920v1)|null|
