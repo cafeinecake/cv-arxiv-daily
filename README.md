@@ -1,4 +1,4 @@
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 |**2024-01-05**|**The Fate of Primary Iron Sulfides in the CM1 Carbonaceous Chondrites: Effects of Advanced Aqueous Alteration on Primary Components**|Sheryl A. Singerling et.al.|[2401.02932v1](http://arxiv.org/abs/2401.02932v1)|[2401.02932v1](http://arxiv.org/pdf/2401.02932v1)|null|
 |**2024-01-05**|**The Dark Energy Survey: Cosmology Results With ~1500 New High-redshift Type Ia Supernovae Using The Full 5-year Dataset**|The Dark Energy Survey Collaboration et.al.|[2401.02929v1](http://arxiv.org/abs/2401.02929v1)|[2401.02929v1](http://arxiv.org/pdf/2401.02929v1)|null|
 |**2024-01-05**|**Searching for Bumps in the Cosmological Road: Do Type Ia Supernovae with Early Excesses Have Biased Hubble Residuals?**|Christine Ye et.al.|[2401.02926v1](http://arxiv.org/abs/2401.02926v1)|[2401.02926v1](http://arxiv.org/pdf/2401.02926v1)|null|
-|**2024-01-05**|**Decoding the thermal history of the merging cluster Cygnus A**|Anwesh Majumder et.al.|[2401.02912v1](http://arxiv.org/abs/2401.02912v1)|[2401.02912v1](http://arxiv.org/pdf/2401.02912v1)|null|
+|**2024-01-05**|**Decoding the thermal history of the merging cluster Cygnus A**|Anwesh Majumder et.al.|[2401.02912v1](http://arxiv.org/abs/2401.02912v1)|[2401.02912v1](http://arxiv.org/pdf/2401.02912v1)|**[link](https://zenodo.org/record/10462251)**|
 |**2024-01-05**|**OSIRIS-GR: General relativistic activation of the polar cap of a compact neutron star**|R. Torres et.al.|[2401.02908v1](http://arxiv.org/abs/2401.02908v1)|[2401.02908v1](http://arxiv.org/pdf/2401.02908v1)|null|
 |**2024-01-05**|**New detailed characterization of the residual luminescence emitted by the GAGG:Ce scintillator crystals for the HERMES Pathfinder mission**|Giovanni Della Casa et.al.|[2401.02900v1](http://arxiv.org/abs/2401.02900v1)|[2401.02900v1](http://arxiv.org/pdf/2401.02900v1)|null|
 |**2024-01-05**|**A novel approach to cosmological particle production**|Bartomeu Fiol et.al.|[2401.02894v1](http://arxiv.org/abs/2401.02894v1)|[2401.02894v1](http://arxiv.org/pdf/2401.02894v1)|null|
