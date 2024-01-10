@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-09**|**Re-energisation of AGN head-tail radio galaxies in the galaxy cluster ZwCl0634.1+47474**|G. Lusetti et.al.|[2401.04710v1](http://arxiv.org/abs/2401.04710v1)|[2401.04710v1](http://arxiv.org/pdf/2401.04710v1)|null|
+|**2024-01-09**|**The infalling elliptical galaxy M89: The chemical composition of the AGN disturbed hot atmosphere**|Sinancan Kara et.al.|[2401.04709v1](http://arxiv.org/abs/2401.04709v1)|[2401.04709v1](http://arxiv.org/pdf/2401.04709v1)|null|
+|**2024-01-09**|**Astrobiological Potential of Venus Atmosphere Chemical Anomalies and Other Unexplained Cloud Properties**|Janusz J. Petkowski et.al.|[2401.04708v1](http://arxiv.org/abs/2401.04708v1)|[2401.04708v1](http://arxiv.org/pdf/2401.04708v1)|null|
+|**2024-01-09**|**Caustic and hydrostatic mass bias: Implications for modified gravity**|Minahil Adil Butt et.al.|[2401.04698v1](http://arxiv.org/abs/2401.04698v1)|[2401.04698v1](http://arxiv.org/pdf/2401.04698v1)|null|
+|**2024-01-09**|**North-South asymmetries in the Galactic thin disk associated with the vertical phase spiral as seen using LAMOST-Gaia stars**|Jun Lin et.al.|[2401.04688v1](http://arxiv.org/abs/2401.04688v1)|[2401.04688v1](http://arxiv.org/pdf/2401.04688v1)|null|
+|**2024-01-09**|**Improved Weak Lensing Photometric Redshift Calibration via StratLearn and Hierarchical Modeling**|Maximilian Autenrieth et.al.|[2401.04687v1](http://arxiv.org/abs/2401.04687v1)|[2401.04687v1](http://arxiv.org/pdf/2401.04687v1)|null|
+|**2024-01-09**|**The Uranus System from Occultation Observations (1977-2006): Rings, Pole Direction, Gravity Field, and Masses of Cressida, Cordelia, and Ophelia**|Richard G. French et.al.|[2401.04634v1](http://arxiv.org/abs/2401.04634v1)|[2401.04634v1](http://arxiv.org/pdf/2401.04634v1)|null|
+|**2024-01-09**|**AstroInformatics: Recommendations for Global Cooperation**|Ashish Mahabal et.al.|[2401.04623v1](http://arxiv.org/abs/2401.04623v1)|[2401.04623v1](http://arxiv.org/pdf/2401.04623v1)|null|
+|**2024-01-09**|**Quantitative grain size estimation on airless bodies from the negative polarization branch. I. Insights from experiments and lunar observations**|Yoonsoo P. Bach et.al.|[2401.04611v1](http://arxiv.org/abs/2401.04611v1)|[2401.04611v1](http://arxiv.org/pdf/2401.04611v1)|null|
+|**2024-01-09**|**Dreicer electric field definition and runaway electrons in solar flares**|Yu. T. Tsap et.al.|[2401.04591v1](http://arxiv.org/abs/2401.04591v1)|[2401.04591v1](http://arxiv.org/pdf/2401.04591v1)|null|
 |**2024-01-08**|**Evidence for inflows and outflows in the nearby black hole transient Swift J1727.8-162**|D. Mata Sánchez et.al.|[2401.04107v1](http://arxiv.org/abs/2401.04107v1)|[2401.04107v1](http://arxiv.org/pdf/2401.04107v1)|null|
 |**2024-01-08**|**Geometric and thermodynamic characterization of binary neutron star accretion discs**|Alessandro Camilletti et.al.|[2401.04102v1](http://arxiv.org/abs/2401.04102v1)|[2401.04102v1](http://arxiv.org/pdf/2401.04102v1)|null|
 |**2024-01-08**|**Stringy Spacetime Uncertainty Principle and a Modified Trans-Planckian Censorship Criterion**|Robert Brandenberger et.al.|[2401.04097v1](http://arxiv.org/abs/2401.04097v1)|[2401.04097v1](http://arxiv.org/pdf/2401.04097v1)|null|
@@ -3869,6 +3879,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-09**|**On the Effect of Contextual Information on Human Delegation Behavior in Human-AI collaboration**|Philipp Spitzer et.al.|[2401.04729v1](http://arxiv.org/abs/2401.04729v1)|[2401.04729v1](http://arxiv.org/pdf/2401.04729v1)|null|
+|**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728v1](http://arxiv.org/abs/2401.04728v1)|[2401.04728v1](http://arxiv.org/pdf/2401.04728v1)|null|
+|**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692v1](http://arxiv.org/abs/2401.04692v1)|[2401.04692v1](http://arxiv.org/pdf/2401.04692v1)|null|
+|**2024-01-09**|**RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**|Mahdi Nikdan et.al.|[2401.04679v1](http://arxiv.org/abs/2401.04679v1)|[2401.04679v1](http://arxiv.org/pdf/2401.04679v1)|null|
+|**2024-01-09**|**Benchmark Analysis of Various Pre-trained Deep Learning Models on ASSIRA Cats and Dogs Dataset**|Galib Muhammad Shahriar Himel et.al.|[2401.04666v1](http://arxiv.org/abs/2401.04666v1)|[2401.04666v1](http://arxiv.org/pdf/2401.04666v1)|null|
+|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658v1](http://arxiv.org/abs/2401.04658v1)|[2401.04658v1](http://arxiv.org/pdf/2401.04658v1)|null|
+|**2024-01-09**|**A novel framework for generalization of deep hidden physics models**|Vijay Kag et.al.|[2401.04648v1](http://arxiv.org/abs/2401.04648v1)|[2401.04648v1](http://arxiv.org/pdf/2401.04648v1)|null|
+|**2024-01-09**|**Advancing Ante-Hoc Explainable Models through Generative Adversarial Networks**|Tanmay Garg et.al.|[2401.04647v1](http://arxiv.org/abs/2401.04647v1)|[2401.04647v1](http://arxiv.org/pdf/2401.04647v1)|null|
+|**2024-01-09**|**Assembling dipolar quantum solids with semiconductor excitons**|Camille Lagoin et.al.|[2401.04639v1](http://arxiv.org/abs/2401.04639v1)|[2401.04639v1](http://arxiv.org/pdf/2401.04639v1)|null|
+|**2024-01-09**|**Applying Large Language Models API to Issue Classification Problem**|Gabriel Aracena et.al.|[2401.04637v1](http://arxiv.org/abs/2401.04637v1)|[2401.04637v1](http://arxiv.org/pdf/2401.04637v1)|null|
 |**2024-01-08**|**Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105v1](http://arxiv.org/abs/2401.04105v1)|[2401.04105v1](http://arxiv.org/pdf/2401.04105v1)|null|
 |**2024-01-08**|**MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts**|Maciej Pióro et.al.|[2401.04081v1](http://arxiv.org/abs/2401.04081v1)|[2401.04081v1](http://arxiv.org/pdf/2401.04081v1)|null|
 |**2024-01-08**|**RudolfV: A Foundation Model by Pathologists for Pathologists**|Jonas Dippel et.al.|[2401.04079v1](http://arxiv.org/abs/2401.04079v1)|[2401.04079v1](http://arxiv.org/pdf/2401.04079v1)|null|
