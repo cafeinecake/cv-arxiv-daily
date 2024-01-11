@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-10**|**New dark matter analysis of Milky Way dwarf satellite galaxies with MADHATv2**|Kimberly K. Boddy et.al.|[2401.05327v1](http://arxiv.org/abs/2401.05327v1)|[2401.05327v1](http://arxiv.org/pdf/2401.05327v1)|null|
+|**2024-01-10**|**SOFIA/HAWC+ Far-Infrared Polarimetric Large-Area CMZ Exploration (FIREPLACE) Survey III: Full Survey Data Set**|Dylan Paré et.al.|[2401.05317v1](http://arxiv.org/abs/2401.05317v1)|[2401.05317v1](http://arxiv.org/pdf/2401.05317v1)|null|
+|**2024-01-10**|**A Comparison of Star-Formation Histories Derived from UniverseMachine and LEGA-C at $0.6 < z < 1$**|Cecilia Steel et.al.|[2401.05313v1](http://arxiv.org/abs/2401.05313v1)|[2401.05313v1](http://arxiv.org/pdf/2401.05313v1)|null|
+|**2024-01-10**|**Understanding the relative importance of magnetic field, gravity, and turbulence in star formation at the hub of the giant molecular cloud G148.24+00.41**|Vineet Rawat et.al.|[2401.05310v1](http://arxiv.org/abs/2401.05310v1)|[2401.05310v1](http://arxiv.org/pdf/2401.05310v1)|null|
+|**2024-01-10**|**Improved modelling of SEP event onset within the WSA-Enlil-SEPMOD framework**|Erika Palmerio et.al.|[2401.05309v1](http://arxiv.org/abs/2401.05309v1)|[2401.05309v1](http://arxiv.org/pdf/2401.05309v1)|null|
+|**2024-01-10**|**Spatio-temporal map of star clusters in the Magellanic Clouds using Gaia: Synchronized peaks and radial shrinkage of cluster formation**|S. R. Dhanush et.al.|[2401.05307v1](http://arxiv.org/abs/2401.05307v1)|[2401.05307v1](http://arxiv.org/pdf/2401.05307v1)|null|
+|**2024-01-10**|**Gnuastro: measuring radial profiles from images**|Raúl Infante-Sainz et.al.|[2401.05303v1](http://arxiv.org/abs/2401.05303v1)|[2401.05303v1](http://arxiv.org/pdf/2401.05303v1)|null|
+|**2024-01-10**|**Inhomogeneous Kinetic Equation for Mixed Neutrinos: Tracing the Missing Energy**|Damiano F. G. Fiorillo et.al.|[2401.05278v1](http://arxiv.org/abs/2401.05278v1)|[2401.05278v1](http://arxiv.org/pdf/2401.05278v1)|null|
+|**2024-01-10**|**JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the $β$ Pictoris disk with NIRCam and MIRI**|Isabel Rebollido et.al.|[2401.05271v1](http://arxiv.org/abs/2401.05271v1)|[2401.05271v1](http://arxiv.org/pdf/2401.05271v1)|null|
+|**2024-01-10**|**diffSph: a Python tool to compute diffuse signals from dwarf spheroidal galaxies**|Martin Vollmann et.al.|[2401.05255v1](http://arxiv.org/abs/2401.05255v1)|[2401.05255v1](http://arxiv.org/pdf/2401.05255v1)|null|
 |**2024-01-09**|**Re-energisation of AGN head-tail radio galaxies in the galaxy cluster ZwCl0634.1+47474**|G. Lusetti et.al.|[2401.04710v1](http://arxiv.org/abs/2401.04710v1)|[2401.04710v1](http://arxiv.org/pdf/2401.04710v1)|null|
 |**2024-01-09**|**The infalling elliptical galaxy M89: The chemical composition of the AGN disturbed hot atmosphere**|Sinancan Kara et.al.|[2401.04709v1](http://arxiv.org/abs/2401.04709v1)|[2401.04709v1](http://arxiv.org/pdf/2401.04709v1)|null|
 |**2024-01-09**|**Astrobiological Potential of Venus Atmosphere Chemical Anomalies and Other Unexplained Cloud Properties**|Janusz J. Petkowski et.al.|[2401.04708v1](http://arxiv.org/abs/2401.04708v1)|[2401.04708v1](http://arxiv.org/pdf/2401.04708v1)|null|
@@ -3879,6 +3889,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-10**|**Theory of Mind abilities of Large Language Models in Human-Robot Interaction : An Illusion?**|Mudit Verma et.al.|[2401.05302v1](http://arxiv.org/abs/2401.05302v1)|[2401.05302v1](http://arxiv.org/pdf/2401.05302v1)|null|
+|**2024-01-10**|**I am a Strange Dataset: Metalinguistic Tests for Language Models**|Tristan Thrush et.al.|[2401.05300v1](http://arxiv.org/abs/2401.05300v1)|[2401.05300v1](http://arxiv.org/pdf/2401.05300v1)|**[link](https://github.com/tristanthrush/i-am-a-strange-dataset)**|
+|**2024-01-10**|**Synthesis of pulses from particle detectors with a Generative Adversarial Network (GAN)**|Alberto Regadío et.al.|[2401.05295v1](http://arxiv.org/abs/2401.05295v1)|[2401.05295v1](http://arxiv.org/pdf/2401.05295v1)|null|
+|**2024-01-10**|**INACIA: Integrating Large Language Models in Brazilian Audit Courts: Opportunities and Challenges**|Jayr Pereira et.al.|[2401.05273v1](http://arxiv.org/abs/2401.05273v1)|[2401.05273v1](http://arxiv.org/pdf/2401.05273v1)|null|
+|**2024-01-10**|**AUTOACT: Automatic Agent Learning from Scratch via Self-Planning**|Shuofei Qiao et.al.|[2401.05268v1](http://arxiv.org/abs/2401.05268v1)|[2401.05268v1](http://arxiv.org/pdf/2401.05268v1)|**[link](https://github.com/zjunlp/autoact)**|
+|**2024-01-10**|**Stability of superfluids in tilted optical lattices with periodic driving**|Robbie Cruickshank et.al.|[2401.05265v1](http://arxiv.org/abs/2401.05265v1)|[2401.05265v1](http://arxiv.org/pdf/2401.05265v1)|null|
+|**2024-01-10**|**ReACT: Reinforcement Learning for Controller Parametrization using B-Spline Geometries**|Thomas Rudolf et.al.|[2401.05251v1](http://arxiv.org/abs/2401.05251v1)|[2401.05251v1](http://arxiv.org/pdf/2401.05251v1)|null|
+|**2024-01-10**|**Do Vision and Language Encoders Represent the World Similarly?**|Mayug Maniparambil et.al.|[2401.05224v1](http://arxiv.org/abs/2401.05224v1)|[2401.05224v1](http://arxiv.org/pdf/2401.05224v1)|null|
+|**2024-01-10**|**Distributed Monitoring for Data Distribution Shifts in Edge-ML Fraud Detection**|Nader Karayanni et.al.|[2401.05219v1](http://arxiv.org/abs/2401.05219v1)|[2401.05219v1](http://arxiv.org/pdf/2401.05219v1)|**[link](https://github.com/karayanni/distributed-ks-test)**|
+|**2024-01-10**|**Pre-trained Large Language Models for Financial Sentiment Analysis**|Wei Luo et.al.|[2401.05215v1](http://arxiv.org/abs/2401.05215v1)|[2401.05215v1](http://arxiv.org/pdf/2401.05215v1)|null|
 |**2024-01-09**|**On the Effect of Contextual Information on Human Delegation Behavior in Human-AI collaboration**|Philipp Spitzer et.al.|[2401.04729v1](http://arxiv.org/abs/2401.04729v1)|[2401.04729v1](http://arxiv.org/pdf/2401.04729v1)|null|
 |**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728v1](http://arxiv.org/abs/2401.04728v1)|[2401.04728v1](http://arxiv.org/pdf/2401.04728v1)|null|
 |**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692v1](http://arxiv.org/abs/2401.04692v1)|[2401.04692v1](http://arxiv.org/pdf/2401.04692v1)|null|
