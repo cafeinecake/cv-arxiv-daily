@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-12**|**Circumstellar disk accretion across the Lagoon Nebula: the influence of environment and stellar mass**|L. Venuti et.al.|[2401.06767v1](http://arxiv.org/abs/2401.06767v1)|[2401.06767v1](http://arxiv.org/pdf/2401.06767v1)|null|
+|**2024-01-12**|**High Resolution Study of $^{40}$Ca to Constrain Potassium Nucleosynthesis in NGC 2419**|William Fox et.al.|[2401.06754v1](http://arxiv.org/abs/2401.06754v1)|[2401.06754v1](http://arxiv.org/pdf/2401.06754v1)|null|
+|**2024-01-12**|**Binary black hole mergers and intermediate-mass black holes in dense star clusters with collisional runaways**|Rujuta A. Purohit et.al.|[2401.06731v1](http://arxiv.org/abs/2401.06731v1)|[2401.06731v1](http://arxiv.org/pdf/2401.06731v1)|null|
+|**2024-01-12**|**The connection between internetwork magnetic elements and supergranular flows**|D. Orozco Suárez et.al.|[2401.06720v1](http://arxiv.org/abs/2401.06720v1)|[2401.06720v1](http://arxiv.org/pdf/2401.06720v1)|null|
+|**2024-01-12**|**Tracing the History of Obscured Star Formation with Cosmological Galaxy Evolution Simulations**|Dhruv T. Zimmerman et.al.|[2401.06719v1](http://arxiv.org/abs/2401.06719v1)|[2401.06719v1](http://arxiv.org/pdf/2401.06719v1)|null|
+|**2024-01-12**|**Compact objects in and beyond the Standard Model from non-perturbative vacuum scalarization**|Loris Del Grosso et.al.|[2401.06716v1](http://arxiv.org/abs/2401.06716v1)|[2401.06716v1](http://arxiv.org/pdf/2401.06716v1)|null|
+|**2024-01-12**|**Core shift in parabolic accelerating jets**|Nokhrina E. E. et.al.|[2401.06698v1](http://arxiv.org/abs/2401.06698v1)|[2401.06698v1](http://arxiv.org/pdf/2401.06698v1)|null|
+|**2024-01-12**|**A JWST project on 47 Tucanae. Overview, photometry and early spectroscopic results of M dwarfs, and observation of brown dwarfs**|A. F. Marino et.al.|[2401.06681v1](http://arxiv.org/abs/2401.06681v1)|[2401.06681v1](http://arxiv.org/pdf/2401.06681v1)|null|
+|**2024-01-12**|**$Fermi$-LAT follow-up observations in seven years of realtime high-energy neutrino alerts**|S. Garrappa et.al.|[2401.06666v1](http://arxiv.org/abs/2401.06666v1)|[2401.06666v1](http://arxiv.org/pdf/2401.06666v1)|null|
+|**2024-01-12**|**Consecutive Narrow and Broad Quasi-periodic Fast-propagating Wave Trains Associated with a Flare**|Xinping Zhou et.al.|[2401.06661v1](http://arxiv.org/abs/2401.06661v1)|[2401.06661v1](http://arxiv.org/pdf/2401.06661v1)|null|
 |**2024-01-11**|**Probing the Diversity of Type Ia Supernova Light Curves in the Open Supernova Catalog**|Chang Bi et.al.|[2401.06087v1](http://arxiv.org/abs/2401.06087v1)|[2401.06087v1](http://arxiv.org/pdf/2401.06087v1)|null|
 |**2024-01-11**|**Post-Newtonian effects in compact binaries with a dark matter spike: A Lagrangian approach**|Diego Montalvo et.al.|[2401.06084v1](http://arxiv.org/abs/2401.06084v1)|[2401.06084v1](http://arxiv.org/pdf/2401.06084v1)|null|
 |**2024-01-11**|**Nanofluidic platform for studying the first-order phase transitions in superfluid helium-3**|Petri J. Heikkinen et.al.|[2401.06079v1](http://arxiv.org/abs/2401.06079v1)|[2401.06079v1](http://arxiv.org/pdf/2401.06079v1)|null|
@@ -3899,6 +3909,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757v1](http://arxiv.org/abs/2401.06757v1)|[2401.06757v1](http://arxiv.org/pdf/2401.06757v1)|null|
+|**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755v1](http://arxiv.org/abs/2401.06755v1)|[2401.06755v1](http://arxiv.org/pdf/2401.06755v1)|null|
+|**2024-01-12**|**Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**|Muhammad Tayyab Zamir et.al.|[2401.06752v1](http://arxiv.org/abs/2401.06752v1)|[2401.06752v1](http://arxiv.org/pdf/2401.06752v1)|null|
+|**2024-01-12**|**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**|Peter Hase et.al.|[2401.06751v1](http://arxiv.org/abs/2401.06751v1)|[2401.06751v1](http://arxiv.org/pdf/2401.06751v1)|**[link](https://github.com/allenai/easy-to-hard-generalization)**|
+|**2024-01-12**|**Using Natural Language Inference to Improve Persona Extraction from Dialogue in a New Domain**|Alexandra DeLucia et.al.|[2401.06742v1](http://arxiv.org/abs/2401.06742v1)|[2401.06742v1](http://arxiv.org/pdf/2401.06742v1)|null|
+|**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740v1](http://arxiv.org/abs/2401.06740v1)|[2401.06740v1](http://arxiv.org/pdf/2401.06740v1)|null|
+|**2024-01-12**|**Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty**|Kaitlyn Zhou et.al.|[2401.06730v1](http://arxiv.org/abs/2401.06730v1)|[2401.06730v1](http://arxiv.org/pdf/2401.06730v1)|null|
+|**2024-01-12**|**Reframing Tax Law Entailment as Analogical Reasoning**|Xinrui Zou et.al.|[2401.06715v1](http://arxiv.org/abs/2401.06715v1)|[2401.06715v1](http://arxiv.org/pdf/2401.06715v1)|null|
+|**2024-01-12**|**Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**|Muskan Garg et.al.|[2401.06709v1](http://arxiv.org/abs/2401.06709v1)|[2401.06709v1](http://arxiv.org/pdf/2401.06709v1)|null|
+|**2024-01-12**|**A Closed-form Solution for Weight Optimization in Fully-connected Feed-forward Neural Networks**|Slavisa Tomic et.al.|[2401.06699v1](http://arxiv.org/abs/2401.06699v1)|[2401.06699v1](http://arxiv.org/pdf/2401.06699v1)|null|
 |**2024-01-11**|**E$^{2}$GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127v1](http://arxiv.org/abs/2401.06127v1)|[2401.06127v1](http://arxiv.org/pdf/2401.06127v1)|null|
 |**2024-01-11**|**Manipulating Feature Visualizations with Gradient Slingshots**|Dilyara Bareeva et.al.|[2401.06122v1](http://arxiv.org/abs/2401.06122v1)|[2401.06122v1](http://arxiv.org/pdf/2401.06122v1)|**[link](https://github.com/dilyabareeva/grad-slingshot)**|
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102v1](http://arxiv.org/abs/2401.06102v1)|[2401.06102v1](http://arxiv.org/pdf/2401.06102v1)|null|
