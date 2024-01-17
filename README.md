@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-16**|**Shear oscillations in neutron stars and the nuclear symmetry energy**|Hajime Sotani et.al.|[2401.08382v1](http://arxiv.org/abs/2401.08382v1)|[2401.08382v1](http://arxiv.org/pdf/2401.08382v1)|null|
+|**2024-01-16**|**Exploring Radial Oscillations in Slow Stable and Hybrid Neutron Stars**|Sayantan Ghosh et.al.|[2401.08347v1](http://arxiv.org/abs/2401.08347v1)|[2401.08347v1](http://arxiv.org/pdf/2401.08347v1)|null|
+|**2024-01-16**|**Graviton-Photon Oscillations in an Expanding Universe**|Peter Anninos et.al.|[2401.08346v1](http://arxiv.org/abs/2401.08346v1)|[2401.08346v1](http://arxiv.org/pdf/2401.08346v1)|null|
+|**2024-01-16**|**On the chemical abundance differences between the solar twin visual binary system 16 Cygni A and B**|Yoichi Takeda et.al.|[2401.08337v1](http://arxiv.org/abs/2401.08337v1)|[2401.08337v1](http://arxiv.org/pdf/2401.08337v1)|null|
+|**2024-01-16**|**Constraints on the isovector properties of finite nuclei from neutron stars observations**|M. Divaris et.al.|[2401.08322v1](http://arxiv.org/abs/2401.08322v1)|[2401.08322v1](http://arxiv.org/pdf/2401.08322v1)|null|
+|**2024-01-16**|**The hidden companion in J1527: a 0.69 solar-mass white dwarf?**|Zhi-Xiang Zhang et.al.|[2401.08289v1](http://arxiv.org/abs/2401.08289v1)|[2401.08289v1](http://arxiv.org/pdf/2401.08289v1)|null|
+|**2024-01-16**|**On the origins of CMB anomalies and testing a new theory of inflationary quantum fluctuations**|Enrique Gaztañaga et.al.|[2401.08288v1](http://arxiv.org/abs/2401.08288v1)|[2401.08288v1](http://arxiv.org/pdf/2401.08288v1)|null|
+|**2024-01-16**|**Characterising the intra-cluster light in The Three Hundred simulations**|Ana Contreras-Santos et.al.|[2401.08283v1](http://arxiv.org/abs/2401.08283v1)|[2401.08283v1](http://arxiv.org/pdf/2401.08283v1)|null|
+|**2024-01-16**|**Hitomi-HXT deconvolution imaging of the Crab Nebula dazzled by the Crab pulsar**|Mikio Morii et.al.|[2401.08278v1](http://arxiv.org/abs/2401.08278v1)|[2401.08278v1](http://arxiv.org/pdf/2401.08278v1)|null|
+|**2024-01-16**|**Euclid: Improving the efficiency of weak lensing shear bias calibration. Pixel noise cancellation and the response method on trial**|H. Jansen et.al.|[2401.08239v1](http://arxiv.org/abs/2401.08239v1)|[2401.08239v1](http://arxiv.org/pdf/2401.08239v1)|null|
 |**2024-01-12**|**Circumstellar disk accretion across the Lagoon Nebula: the influence of environment and stellar mass**|L. Venuti et.al.|[2401.06767v1](http://arxiv.org/abs/2401.06767v1)|[2401.06767v1](http://arxiv.org/pdf/2401.06767v1)|null|
 |**2024-01-12**|**High Resolution Study of $^{40}$Ca to Constrain Potassium Nucleosynthesis in NGC 2419**|William Fox et.al.|[2401.06754v1](http://arxiv.org/abs/2401.06754v1)|[2401.06754v1](http://arxiv.org/pdf/2401.06754v1)|null|
 |**2024-01-12**|**Binary black hole mergers and intermediate-mass black holes in dense star clusters with collisional runaways**|Rujuta A. Purohit et.al.|[2401.06731v1](http://arxiv.org/abs/2401.06731v1)|[2401.06731v1](http://arxiv.org/pdf/2401.06731v1)|null|
@@ -3909,6 +3919,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-16**|**KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation**|Wei Tao et.al.|[2401.08376v1](http://arxiv.org/abs/2401.08376v1)|[2401.08376v1](http://arxiv.org/pdf/2401.08376v1)|**[link](https://github.com/deepsoftwareanalytics/kadel)**|
+|**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358v1](http://arxiv.org/abs/2401.08358v1)|[2401.08358v1](http://arxiv.org/pdf/2401.08358v1)|null|
+|**2024-01-16**|**Boosting Gradient Ascent for Continuous DR-submodular Maximization**|Qixin Zhang et.al.|[2401.08330v1](http://arxiv.org/abs/2401.08330v1)|[2401.08330v1](http://arxiv.org/pdf/2401.08330v1)|null|
+|**2024-01-16**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326v1](http://arxiv.org/abs/2401.08326v1)|[2401.08326v1](http://arxiv.org/pdf/2401.08326v1)|null|
+|**2024-01-16**|**Anchor function: a type of benchmark functions for studying language models**|Zhongwang Zhang et.al.|[2401.08309v1](http://arxiv.org/abs/2401.08309v1)|[2401.08309v1](http://arxiv.org/pdf/2401.08309v1)|null|
+|**2024-01-16**|**Large Language Models are Null-Shot Learners**|Pittawat Taveekitworachai et.al.|[2401.08273v1](http://arxiv.org/abs/2401.08273v1)|[2401.08273v1](http://arxiv.org/pdf/2401.08273v1)|null|
+|**2024-01-16**|**An Explainable Proxy Model for Multiabel Audio Segmentation**|Théo Mariotte et.al.|[2401.08268v1](http://arxiv.org/abs/2401.08268v1)|[2401.08268v1](http://arxiv.org/pdf/2401.08268v1)|null|
+|**2024-01-16**|**Probabilistically Robust Watermarking of Neural Networks**|Mikhail Pautov et.al.|[2401.08261v1](http://arxiv.org/abs/2401.08261v1)|[2401.08261v1](http://arxiv.org/pdf/2401.08261v1)|null|
+|**2024-01-16**|**A Generative Adversarial Attack for Multilingual Text Classifiers**|Tom Roth et.al.|[2401.08255v1](http://arxiv.org/abs/2401.08255v1)|[2401.08255v1](http://arxiv.org/pdf/2401.08255v1)|null|
+|**2024-01-16**|**Towards Causal Relationship in Indefinite Data: Baseline Model and New Datasets**|Hang Chen et.al.|[2401.08221v1](http://arxiv.org/abs/2401.08221v1)|[2401.08221v1](http://arxiv.org/pdf/2401.08221v1)|null|
 |**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757v1](http://arxiv.org/abs/2401.06757v1)|[2401.06757v1](http://arxiv.org/pdf/2401.06757v1)|null|
 |**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755v1](http://arxiv.org/abs/2401.06755v1)|[2401.06755v1](http://arxiv.org/pdf/2401.06755v1)|**[link](https://github.com/bc1chen/ai4pde)**|
 |**2024-01-12**|**Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**|Muhammad Tayyab Zamir et.al.|[2401.06752v1](http://arxiv.org/abs/2401.06752v1)|[2401.06752v1](http://arxiv.org/pdf/2401.06752v1)|null|
