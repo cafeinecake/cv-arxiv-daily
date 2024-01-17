@@ -1,4 +1,4 @@
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 
 ## Astrophysics
 
@@ -3910,7 +3910,7 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757v1](http://arxiv.org/abs/2401.06757v1)|[2401.06757v1](http://arxiv.org/pdf/2401.06757v1)|null|
-|**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755v1](http://arxiv.org/abs/2401.06755v1)|[2401.06755v1](http://arxiv.org/pdf/2401.06755v1)|null|
+|**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755v1](http://arxiv.org/abs/2401.06755v1)|[2401.06755v1](http://arxiv.org/pdf/2401.06755v1)|**[link](https://github.com/bc1chen/ai4pde)**|
 |**2024-01-12**|**Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**|Muhammad Tayyab Zamir et.al.|[2401.06752v1](http://arxiv.org/abs/2401.06752v1)|[2401.06752v1](http://arxiv.org/pdf/2401.06752v1)|null|
 |**2024-01-12**|**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**|Peter Hase et.al.|[2401.06751v1](http://arxiv.org/abs/2401.06751v1)|[2401.06751v1](http://arxiv.org/pdf/2401.06751v1)|**[link](https://github.com/allenai/easy-to-hard-generalization)**|
 |**2024-01-12**|**Using Natural Language Inference to Improve Persona Extraction from Dialogue in a New Domain**|Alexandra DeLucia et.al.|[2401.06742v1](http://arxiv.org/abs/2401.06742v1)|[2401.06742v1](http://arxiv.org/pdf/2401.06742v1)|null|
