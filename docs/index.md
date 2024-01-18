@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-17**|**Slaying Axion-Like Particles via Gravitational Waves and Primordial Black Holes from Supercooled Phase Transition**|Angela Conaci et.al.|[2401.09411v1](http://arxiv.org/abs/2401.09411v1)|[2401.09411v1](http://arxiv.org/pdf/2401.09411v1)|null|
+|**2024-01-17**|**Were you born in an aborted primordial black hole?**|Emilie Despontin et.al.|[2401.09408v1](http://arxiv.org/abs/2401.09408v1)|[2401.09408v1](http://arxiv.org/pdf/2401.09408v1)|null|
+|**2024-01-17**|**The Role of Drag and Gravity on Dust Concentration in a Gravitationally Unstable Disc**|Sahl Rowther et.al.|[2401.09380v1](http://arxiv.org/abs/2401.09380v1)|[2401.09380v1](http://arxiv.org/pdf/2401.09380v1)|null|
+|**2024-01-17**|**AT2021lwx: Another Neutrino-Coincident Tidal Disruption Event with a Strong Dust Echo?**|Chengchao Yuan et.al.|[2401.09320v1](http://arxiv.org/abs/2401.09320v1)|[2401.09320v1](http://arxiv.org/pdf/2401.09320v1)|null|
+|**2024-01-17**|**Inflationary Krylov complexity**|Tao Li et.al.|[2401.09307v1](http://arxiv.org/abs/2401.09307v1)|[2401.09307v1](http://arxiv.org/pdf/2401.09307v1)|null|
+|**2024-01-17**|**Simultaneously search for multi-target Galactic binary gravitational waves in reduced parameter space with LMPSO-CV**|Pin Gao et.al.|[2401.09300v1](http://arxiv.org/abs/2401.09300v1)|[2401.09300v1](http://arxiv.org/pdf/2401.09300v1)|null|
+|**2024-01-17**|**Direct $N$-body simulations of satellite formation around small asteroids: insights from DART's encounter with the Didymos system**|Harrison F. Agrusa et.al.|[2401.09269v1](http://arxiv.org/abs/2401.09269v1)|[2401.09269v1](http://arxiv.org/pdf/2401.09269v1)|null|
+|**2024-01-17**|**A New Approach to Find the Böhm-Vitense gap**|Tahereh Ramezani et.al.|[2401.09264v1](http://arxiv.org/abs/2401.09264v1)|[2401.09264v1](http://arxiv.org/pdf/2401.09264v1)|null|
+|**2024-01-17**|**Empirical derivation of the metallicity evolution with time and radius using TNG50 Milky Way/Andromeda analogues**|B. Ratcliffe et.al.|[2401.09260v1](http://arxiv.org/abs/2401.09260v1)|[2401.09260v1](http://arxiv.org/pdf/2401.09260v1)|null|
+|**2024-01-17**|**Calibrating the metallicity of M dwarfs in wide physical binaries with F-, G-, and K-primaries -- II: Carbon, oxygen, and odd-Z iron-peak abundances of the primary stars**|C. Duque-Arribas et.al.|[2401.09250v1](http://arxiv.org/abs/2401.09250v1)|[2401.09250v1](http://arxiv.org/pdf/2401.09250v1)|null|
 |**2024-01-16**|**Shear oscillations in neutron stars and the nuclear symmetry energy**|Hajime Sotani et.al.|[2401.08382v1](http://arxiv.org/abs/2401.08382v1)|[2401.08382v1](http://arxiv.org/pdf/2401.08382v1)|null|
 |**2024-01-16**|**Exploring Radial Oscillations in Slow Stable and Hybrid Neutron Stars**|Sayantan Ghosh et.al.|[2401.08347v1](http://arxiv.org/abs/2401.08347v1)|[2401.08347v1](http://arxiv.org/pdf/2401.08347v1)|null|
 |**2024-01-16**|**Graviton-Photon Oscillations in an Expanding Universe**|Peter Anninos et.al.|[2401.08346v1](http://arxiv.org/abs/2401.08346v1)|[2401.08346v1](http://arxiv.org/pdf/2401.08346v1)|null|
@@ -3923,6 +3933,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414v1](http://arxiv.org/abs/2401.09414v1)|[2401.09414v1](http://arxiv.org/pdf/2401.09414v1)|**[link](https://github.com/zhuangshaobin/vlogger)**|
+|**2024-01-17**|**Through the Looking-Glass: Transparency Implications and Challenges in Enterprise AI Knowledge Systems**|Karina Cortiñas-Lorenzo et.al.|[2401.09410v1](http://arxiv.org/abs/2401.09410v1)|[2401.09410v1](http://arxiv.org/pdf/2401.09410v1)|null|
+|**2024-01-17**|**A Novel Approach to Fair Power Allocation for NOMA in Visible Light Communication**|Serkan Vela et.al.|[2401.09378v1](http://arxiv.org/abs/2401.09378v1)|[2401.09378v1](http://arxiv.org/pdf/2401.09378v1)|null|
+|**2024-01-17**|**Neural Contractive Dynamical Systems**|Hadi Beik-Mohammadi et.al.|[2401.09352v1](http://arxiv.org/abs/2401.09352v1)|[2401.09352v1](http://arxiv.org/pdf/2401.09352v1)|null|
+|**2024-01-17**|**SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**|Baoxiong Jia et.al.|[2401.09340v1](http://arxiv.org/abs/2401.09340v1)|[2401.09340v1](http://arxiv.org/pdf/2401.09340v1)|null|
+|**2024-01-17**|**Large Language Models Are Neurosymbolic Reasoners**|Meng Fang et.al.|[2401.09334v1](http://arxiv.org/abs/2401.09334v1)|[2401.09334v1](http://arxiv.org/pdf/2401.09334v1)|null|
+|**2024-01-17**|**FIT-SLAM -- Fisher Information and Traversability estimation-based Active SLAM for exploration in 3D environments**|Suchetan Saravanan et.al.|[2401.09322v1](http://arxiv.org/abs/2401.09322v1)|[2401.09322v1](http://arxiv.org/pdf/2401.09322v1)|null|
+|**2024-01-17**|**T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis**|Yoonjin Chung et.al.|[2401.09294v1](http://arxiv.org/abs/2401.09294v1)|[2401.09294v1](http://arxiv.org/pdf/2401.09294v1)|null|
+|**2024-01-17**|**Deployable Reinforcement Learning with Variable Control Rate**|Dong Wang et.al.|[2401.09286v1](http://arxiv.org/abs/2401.09286v1)|[2401.09286v1](http://arxiv.org/pdf/2401.09286v1)|null|
+|**2024-01-17**|**3D Scene Geometry Estimation from 360$^\circ$ Imagery: A Survey**|Thiago Lopes Trugillo da Silveira et.al.|[2401.09252v1](http://arxiv.org/abs/2401.09252v1)|[2401.09252v1](http://arxiv.org/pdf/2401.09252v1)|null|
 |**2024-01-16**|**KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation**|Wei Tao et.al.|[2401.08376v1](http://arxiv.org/abs/2401.08376v1)|[2401.08376v1](http://arxiv.org/pdf/2401.08376v1)|**[link](https://github.com/deepsoftwareanalytics/kadel)**|
 |**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358v1](http://arxiv.org/abs/2401.08358v1)|[2401.08358v1](http://arxiv.org/pdf/2401.08358v1)|null|
 |**2024-01-16**|**Boosting Gradient Ascent for Continuous DR-submodular Maximization**|Qixin Zhang et.al.|[2401.08330v1](http://arxiv.org/abs/2401.08330v1)|[2401.08330v1](http://arxiv.org/pdf/2401.08330v1)|null|
