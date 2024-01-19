@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-18**|**Polarization Leakage and the IXPE PSF**|Jack T. Dinsmore et.al.|[2401.10231v1](http://arxiv.org/abs/2401.10231v1)|[2401.10231v1](http://arxiv.org/pdf/2401.10231v1)|null|
+|**2024-01-18**|**Non-perturbative Wavefunction of the Universe in Inflation with (Resonant) Features**|Paolo Creminelli et.al.|[2401.10212v1](http://arxiv.org/abs/2401.10212v1)|[2401.10212v1](http://arxiv.org/pdf/2401.10212v1)|null|
+|**2024-01-18**|**SPARC galaxies prefer Dark Matter over MOND**|Mariia Khelashvili et.al.|[2401.10202v1](http://arxiv.org/abs/2401.10202v1)|[2401.10202v1](http://arxiv.org/pdf/2401.10202v1)|null|
+|**2024-01-18**|**Highly-coherent quasi-periodic oscillations in the 'heartbeat' black hole X-ray binary IGR J17091-3624**|Jingyi Wang et.al.|[2401.10195v1](http://arxiv.org/abs/2401.10195v1)|[2401.10195v1](http://arxiv.org/pdf/2401.10195v1)|null|
+|**2024-01-18**|**The 2022 Outburst of IGR J17091-3624: Connecting the exotic GRS 1915+105 to standard black hole X-ray binaries**|Jingyi Wang et.al.|[2401.10192v1](http://arxiv.org/abs/2401.10192v1)|[2401.10192v1](http://arxiv.org/pdf/2401.10192v1)|null|
+|**2024-01-18**|**New-generation Maximum Entropy Method (ngMEM): a Lagrangian-based algorithm for dynamic reconstruction of interferometric data**|A. Mus et.al.|[2401.10177v1](http://arxiv.org/abs/2401.10177v1)|[2401.10177v1](http://arxiv.org/pdf/2401.10177v1)|null|
+|**2024-01-18**|**COOL-LAMPS VI: Lens model and New Constraints on the Properties of COOL J1241+2219, a Bright z = 5 Lyman Break Galaxy and its z = 1 Cluster Lens**|Maxwell Klein et.al.|[2401.10168v1](http://arxiv.org/abs/2401.10168v1)|[2401.10168v1](http://arxiv.org/pdf/2401.10168v1)|null|
+|**2024-01-18**|**The Mass Dependence of Hα Emission and Stellar Spindown for Fully Convective M Dwarfs**|Emily K. Pass et.al.|[2401.10167v1](http://arxiv.org/abs/2401.10167v1)|[2401.10167v1](http://arxiv.org/pdf/2401.10167v1)|null|
+|**2024-01-18**|**An Outbursting Protostar: The environment of L1251 VLA 6**|Ava Nederlander et.al.|[2401.10131v1](http://arxiv.org/abs/2401.10131v1)|[2401.10131v1](http://arxiv.org/pdf/2401.10131v1)|null|
+|**2024-01-18**|**Interpreting deviations between AR-VTG and GR**|Roberto Dale et.al.|[2401.10116v1](http://arxiv.org/abs/2401.10116v1)|[2401.10116v1](http://arxiv.org/pdf/2401.10116v1)|null|
 |**2024-01-17**|**Slaying Axion-Like Particles via Gravitational Waves and Primordial Black Holes from Supercooled Phase Transition**|Angela Conaci et.al.|[2401.09411v1](http://arxiv.org/abs/2401.09411v1)|[2401.09411v1](http://arxiv.org/pdf/2401.09411v1)|null|
 |**2024-01-17**|**Were you born in an aborted primordial black hole?**|Emilie Despontin et.al.|[2401.09408v1](http://arxiv.org/abs/2401.09408v1)|[2401.09408v1](http://arxiv.org/pdf/2401.09408v1)|null|
 |**2024-01-17**|**The Role of Drag and Gravity on Dust Concentration in a Gravitationally Unstable Disc**|Sahl Rowther et.al.|[2401.09380v1](http://arxiv.org/abs/2401.09380v1)|[2401.09380v1](http://arxiv.org/pdf/2401.09380v1)|null|
@@ -3929,6 +3939,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-18**|**Polarization Leakage and the IXPE PSF**|Jack T. Dinsmore et.al.|[2401.10231v1](http://arxiv.org/abs/2401.10231v1)|[2401.10231v1](http://arxiv.org/pdf/2401.10231v1)|null|
+|**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225v1](http://arxiv.org/abs/2401.10225v1)|[2401.10225v1](http://arxiv.org/pdf/2401.10225v1)|null|
+|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|[2401.10222v1](http://arxiv.org/pdf/2401.10222v1)|null|
+|**2024-01-18**|**Eclectic Rule Extraction for Explainability of Deep Neural Network based Intrusion Detection Systems**|Jesse Ables et.al.|[2401.10207v1](http://arxiv.org/abs/2401.10207v1)|[2401.10207v1](http://arxiv.org/pdf/2401.10207v1)|null|
+|**2024-01-18**|**Chem-FINESE: Validating Fine-Grained Few-shot Entity Extraction through Text Reconstruction**|Qingyun Wang et.al.|[2401.10189v1](http://arxiv.org/abs/2401.10189v1)|[2401.10189v1](http://arxiv.org/pdf/2401.10189v1)|**[link](https://github.com/EagleW/Chem-FINESE)**|
+|**2024-01-18**|**Neural Echos: Depthwise Convolutional Filters Replicate Biological Receptive Fields**|Zahra Babaiee et.al.|[2401.10178v1](http://arxiv.org/abs/2401.10178v1)|[2401.10178v1](http://arxiv.org/pdf/2401.10178v1)|null|
+|**2024-01-18**|**Explicitly Disentangled Representations in Object-Centric Learning**|Riccardo Majellaro et.al.|[2401.10148v1](http://arxiv.org/abs/2401.10148v1)|[2401.10148v1](http://arxiv.org/pdf/2401.10148v1)|**[link](https://github.com/riccardomajellaro/disentangled-slot-attention)**|
+|**2024-01-18**|**Model Compression Techniques in Biometrics Applications: A Survey**|Eduarda Caldeira et.al.|[2401.10139v1](http://arxiv.org/abs/2401.10139v1)|[2401.10139v1](http://arxiv.org/pdf/2401.10139v1)|**[link](https://github.com/eduardacaldeira/compression_bias_survey)**|
+|**2024-01-18**|**Observation of Dirac cones and room temperature polariton lasing in an organic honeycomb lattice**|Simon Betzold et.al.|[2401.10126v1](http://arxiv.org/abs/2401.10126v1)|[2401.10126v1](http://arxiv.org/pdf/2401.10126v1)|null|
+|**2024-01-18**|**Towards Principled Graph Transformers**|Luis Müller et.al.|[2401.10119v1](http://arxiv.org/abs/2401.10119v1)|[2401.10119v1](http://arxiv.org/pdf/2401.10119v1)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414v1](http://arxiv.org/abs/2401.09414v1)|[2401.09414v1](http://arxiv.org/pdf/2401.09414v1)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**Through the Looking-Glass: Transparency Implications and Challenges in Enterprise AI Knowledge Systems**|Karina Cortiñas-Lorenzo et.al.|[2401.09410v1](http://arxiv.org/abs/2401.09410v1)|[2401.09410v1](http://arxiv.org/pdf/2401.09410v1)|null|
 |**2024-01-17**|**A Novel Approach to Fair Power Allocation for NOMA in Visible Light Communication**|Serkan Vela et.al.|[2401.09378v1](http://arxiv.org/abs/2401.09378v1)|[2401.09378v1](http://arxiv.org/pdf/2401.09378v1)|null|
