@@ -3945,7 +3945,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-01-18**|**Polarization Leakage and the IXPE PSF**|Jack T. Dinsmore et.al.|[2401.10231v1](http://arxiv.org/abs/2401.10231v1)|[2401.10231v1](http://arxiv.org/pdf/2401.10231v1)|null|
 |**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225v1](http://arxiv.org/abs/2401.10225v1)|[2401.10225v1](http://arxiv.org/pdf/2401.10225v1)|null|
-|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|[2401.10222v1](http://arxiv.org/pdf/2401.10222v1)|null|
+|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|[2401.10222v1](http://arxiv.org/pdf/2401.10222v1)|**[link](https://github.com/tencentarc/visft)**|
 |**2024-01-18**|**Eclectic Rule Extraction for Explainability of Deep Neural Network based Intrusion Detection Systems**|Jesse Ables et.al.|[2401.10207v1](http://arxiv.org/abs/2401.10207v1)|[2401.10207v1](http://arxiv.org/pdf/2401.10207v1)|null|
 |**2024-01-18**|**Chem-FINESE: Validating Fine-Grained Few-shot Entity Extraction through Text Reconstruction**|Qingyun Wang et.al.|[2401.10189v1](http://arxiv.org/abs/2401.10189v1)|[2401.10189v1](http://arxiv.org/pdf/2401.10189v1)|**[link](https://github.com/EagleW/Chem-FINESE)**|
 |**2024-01-18**|**Neural Echos: Depthwise Convolutional Filters Replicate Biological Receptive Fields**|Zahra Babaiee et.al.|[2401.10178v1](http://arxiv.org/abs/2401.10178v1)|[2401.10178v1](http://arxiv.org/pdf/2401.10178v1)|null|
