@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-22**|**Cataclysmic Variables and the disc instability model in the Gaia DR3 colour-magnitude diagram**|Guillaume Dubus et.al.|[2401.12206v1](http://arxiv.org/abs/2401.12206v1)|[2401.12206v1](http://arxiv.org/pdf/2401.12206v1)|null|
+|**2024-01-22**|**Inner Edge Habitable Zone Limits Around Main Sequence Stars: Cloudy Estimates**|James D. Windsor et.al.|[2401.12204v1](http://arxiv.org/abs/2401.12204v1)|[2401.12204v1](http://arxiv.org/pdf/2401.12204v1)|null|
+|**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203v1](http://arxiv.org/abs/2401.12203v1)|[2401.12203v1](http://arxiv.org/pdf/2401.12203v1)|**[link](https://github.com/samuelperezdi/umlcaxs)**|
+|**2024-01-22**|**Widespread AGN feedback in a forming brightest cluster galaxy at $z=4.1$ unveiled by JWST**|Aayush Saxena et.al.|[2401.12199v1](http://arxiv.org/abs/2401.12199v1)|[2401.12199v1](http://arxiv.org/pdf/2401.12199v1)|null|
+|**2024-01-22**|**LONEStar: The Lunar Flashlight Optical Navigation Experiment**|Michael Krause et.al.|[2401.12198v1](http://arxiv.org/abs/2401.12198v1)|[2401.12198v1](http://arxiv.org/pdf/2401.12198v1)|null|
+|**2024-01-22**|**A Snapshot Survey of Nearby Supernovae with the Hubble Space Telescope**|Raphael Baer-Way et.al.|[2401.12185v1](http://arxiv.org/abs/2401.12185v1)|[2401.12185v1](http://arxiv.org/pdf/2401.12185v1)|null|
+|**2024-01-22**|**Control of OSIRIS-REx OTES Observations using OCAMS TAG Images**|Kris J. Becker et.al.|[2401.12177v1](http://arxiv.org/abs/2401.12177v1)|[2401.12177v1](http://arxiv.org/pdf/2401.12177v1)|null|
+|**2024-01-22**|**Study of Jupiter's Interior: Comparison of 2, 3, 4, 5, and 6 Layer Models**|Burkhard Militzer et.al.|[2401.12166v1](http://arxiv.org/abs/2401.12166v1)|[2401.12166v1](http://arxiv.org/pdf/2401.12166v1)|null|
+|**2024-01-22**|**Bayesian analysis of nontrivial features in the speed of sound inside neutron stars in light of astrophysical and pQCD constraints**|Debora Mroczek et.al.|[2401.12165v1](http://arxiv.org/abs/2401.12165v1)|[2401.12165v1](http://arxiv.org/pdf/2401.12165v1)|null|
+|**2024-01-22**|**Wolf 327b: A new member of the pack of ultra-short-period super-Earths around M dwarfs**|F. Murgas et.al.|[2401.12150v1](http://arxiv.org/abs/2401.12150v1)|[2401.12150v1](http://arxiv.org/pdf/2401.12150v1)|null|
 |**2024-01-19**|**Efficient selection of gravitationally lensed OH megamasers with MeerKAT and the Square Kilometre Array**|Charissa Button et.al.|[2401.10887v1](http://arxiv.org/abs/2401.10887v1)|[2401.10887v1](http://arxiv.org/pdf/2401.10887v1)|null|
 |**2024-01-19**|**Identifying synergies between VLBI and STIX imaging**|Hendrik Müller et.al.|[2401.10875v1](http://arxiv.org/abs/2401.10875v1)|[2401.10875v1](http://arxiv.org/pdf/2401.10875v1)|null|
 |**2024-01-19**|**The California-Kepler Survey. XI. A Survey of Chromospheric Activity Through the Lens of Precise Stellar Properties**|Howard Isaacson et.al.|[2401.10864v1](http://arxiv.org/abs/2401.10864v1)|[2401.10864v1](http://arxiv.org/pdf/2401.10864v1)|null|
@@ -3953,6 +3963,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-22**|**Active Inference Demonstrated with Artificial Spin Ice**|R. L. Stamps et.al.|[2401.12211v1](http://arxiv.org/abs/2401.12211v1)|[2401.12211v1](http://arxiv.org/pdf/2401.12211v1)|null|
+|**2024-01-22**|**Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization**|Animesh Basak Chowdhury et.al.|[2401.12205v1](http://arxiv.org/abs/2401.12205v1)|[2401.12205v1](http://arxiv.org/pdf/2401.12205v1)|null|
+|**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203v1](http://arxiv.org/abs/2401.12203v1)|[2401.12203v1](http://arxiv.org/pdf/2401.12203v1)|**[link](https://github.com/samuelperezdi/umlcaxs)**|
+|**2024-01-22**|**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**|Peiqi Liu et.al.|[2401.12202v1](http://arxiv.org/abs/2401.12202v1)|[2401.12202v1](http://arxiv.org/pdf/2401.12202v1)|null|
+|**2024-01-22**|**Text Embedding Inversion Attacks on Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192v1](http://arxiv.org/abs/2401.12192v1)|[2401.12192v1](http://arxiv.org/pdf/2401.12192v1)|null|
+|**2024-01-22**|**WARM: On the Benefits of Weight Averaged Reward Models**|Alexandre Ramé et.al.|[2401.12187v1](http://arxiv.org/abs/2401.12187v1)|[2401.12187v1](http://arxiv.org/pdf/2401.12187v1)|null|
+|**2024-01-22**|**Universal Neurons in GPT2 Language Models**|Wes Gurnee et.al.|[2401.12181v1](http://arxiv.org/abs/2401.12181v1)|[2401.12181v1](http://arxiv.org/pdf/2401.12181v1)|**[link](https://github.com/wesg52/universal-neurons)**|
+|**2024-01-22**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179v1](http://arxiv.org/abs/2401.12179v1)|[2401.12179v1](http://arxiv.org/pdf/2401.12179v1)|null|
+|**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178v1](http://arxiv.org/abs/2401.12178v1)|[2401.12178v1](http://arxiv.org/pdf/2401.12178v1)|null|
+|**2024-01-22**|**Broiler-Net: A Deep Convolutional Framework for Broiler Behavior Analysis in Poultry Houses**|Tahereh Zarrat Ehsan et.al.|[2401.12176v1](http://arxiv.org/abs/2401.12176v1)|[2401.12176v1](http://arxiv.org/pdf/2401.12176v1)|**[link](https://github.com/taherehzarratehsan/chicken-behavior-analysis)**|
 |**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889v1](http://arxiv.org/abs/2401.10889v1)|[2401.10889v1](http://arxiv.org/pdf/2401.10889v1)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|[2401.10886v1](http://arxiv.org/pdf/2401.10886v1)|null|
 |**2024-01-19**|**Reinforcement learning for question answering in programming domain using public community scoring as a human feedback**|Alexey Gorbatovski et.al.|[2401.10882v1](http://arxiv.org/abs/2401.10882v1)|[2401.10882v1](http://arxiv.org/pdf/2401.10882v1)|null|
