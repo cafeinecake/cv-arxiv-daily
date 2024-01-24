@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-23**|**Mapping dust in the giant molecular cloud Orion A**|Amery Gration et.al.|[2401.12976v1](http://arxiv.org/abs/2401.12976v1)|[2401.12976v1](http://arxiv.org/pdf/2401.12976v1)|null|
+|**2024-01-23**|**Constraining gravity with a new precision $E_G$ estimator using Planck + SDSS BOSS**|Lukas Wenzl et.al.|[2401.12971v1](http://arxiv.org/abs/2401.12971v1)|[2401.12971v1](http://arxiv.org/pdf/2401.12971v1)|null|
+|**2024-01-23**|**The Concerning S$H_0$ES Hubble Constant**|Daniel Majaess et.al.|[2401.12964v1](http://arxiv.org/abs/2401.12964v1)|[2401.12964v1](http://arxiv.org/pdf/2401.12964v1)|null|
+|**2024-01-23**|**Non-Gaussianity consistency relations and their consequences for the peaks**|Mohammad Hossein Namjoo et.al.|[2401.12958v1](http://arxiv.org/abs/2401.12958v1)|[2401.12958v1](http://arxiv.org/pdf/2401.12958v1)|null|
+|**2024-01-23**|**The role of environment and AGN feedback in quenching local galaxies: Comparing cosmological hydrodynamical simulations to the SDSS**|Paul H. Goubert et.al.|[2401.12953v1](http://arxiv.org/abs/2401.12953v1)|[2401.12953v1](http://arxiv.org/pdf/2401.12953v1)|null|
+|**2024-01-23**|**Modern nuclear and astrophysical constraints of dense matter in a renormalized chiral approach**|Rajesh Kumar et.al.|[2401.12944v1](http://arxiv.org/abs/2401.12944v1)|[2401.12944v1](http://arxiv.org/pdf/2401.12944v1)|null|
+|**2024-01-23**|**Mars 2020 Perseverance rover studies of the Martian atmosphere over Jezero from pressure measurements**|A. Sánchez-Lavega et.al.|[2401.12931v1](http://arxiv.org/abs/2401.12931v1)|[2401.12931v1](http://arxiv.org/pdf/2401.12931v1)|null|
+|**2024-01-23**|**Dynamical phenomena in the Martian atmosphere through Mars Express imaging**|A. Sánchez-Lavega et.al.|[2401.12928v1](http://arxiv.org/abs/2401.12928v1)|[2401.12928v1](http://arxiv.org/pdf/2401.12928v1)|null|
+|**2024-01-23**|**Boron Abundances in Early B Dwarfs of the Galactic Open Cluster NGC 3293**|Charles R. Proffitt et.al.|[2401.12918v1](http://arxiv.org/abs/2401.12918v1)|[2401.12918v1](http://arxiv.org/pdf/2401.12918v1)|null|
+|**2024-01-23**|**Advancing Glitch Classification in Gravity Spy: Multi-view Fusion with Attention-based Machine Learning for Advanced LIGO's Fourth Observing Run**|Yunan Wu et.al.|[2401.12913v1](http://arxiv.org/abs/2401.12913v1)|[2401.12913v1](http://arxiv.org/pdf/2401.12913v1)|null|
 |**2024-01-22**|**Cataclysmic Variables and the disc instability model in the Gaia DR3 colour-magnitude diagram**|Guillaume Dubus et.al.|[2401.12206v1](http://arxiv.org/abs/2401.12206v1)|[2401.12206v1](http://arxiv.org/pdf/2401.12206v1)|null|
 |**2024-01-22**|**Inner Edge Habitable Zone Limits Around Main Sequence Stars: Cloudy Estimates**|James D. Windsor et.al.|[2401.12204v1](http://arxiv.org/abs/2401.12204v1)|[2401.12204v1](http://arxiv.org/pdf/2401.12204v1)|null|
 |**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203v1](http://arxiv.org/abs/2401.12203v1)|[2401.12203v1](http://arxiv.org/pdf/2401.12203v1)|**[link](https://github.com/samuelperezdi/umlcaxs)**|
@@ -3959,6 +3969,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-23**|**Mapping dust in the giant molecular cloud Orion A**|Amery Gration et.al.|[2401.12976v1](http://arxiv.org/abs/2401.12976v1)|[2401.12976v1](http://arxiv.org/pdf/2401.12976v1)|null|
+|**2024-01-23**|**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**|Qinhong Zhou et.al.|[2401.12975v1](http://arxiv.org/abs/2401.12975v1)|[2401.12975v1](http://arxiv.org/pdf/2401.12975v1)|**[link](https://github.com/umass-foundation-model/hazard)**|
+|**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972v1](http://arxiv.org/abs/2401.12972v1)|[2401.12972v1](http://arxiv.org/pdf/2401.12972v1)|null|
+|**2024-01-23**|**AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**|Michael Ahn et.al.|[2401.12963v1](http://arxiv.org/abs/2401.12963v1)|[2401.12963v1](http://arxiv.org/pdf/2401.12963v1)|null|
+|**2024-01-23**|**Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding**|Mirac Suzgun et.al.|[2401.12954v1](http://arxiv.org/abs/2401.12954v1)|[2401.12954v1](http://arxiv.org/pdf/2401.12954v1)|**[link](https://github.com/suzgunmirac/meta-prompting)**|
+|**2024-01-23**|**Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion**|Dylan Zhang et.al.|[2401.12947v1](http://arxiv.org/abs/2401.12947v1)|[2401.12947v1](http://arxiv.org/pdf/2401.12947v1)|null|
+|**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920v1](http://arxiv.org/abs/2401.12920v1)|[2401.12920v1](http://arxiv.org/pdf/2401.12920v1)|null|
+|**2024-01-23**|**Active Inference as a Model of Agency**|Lancelot Da Costa et.al.|[2401.12917v1](http://arxiv.org/abs/2401.12917v1)|[2401.12917v1](http://arxiv.org/pdf/2401.12917v1)|null|
+|**2024-01-23**|**Red Teaming Visual Language Models**|Mukai Li et.al.|[2401.12915v1](http://arxiv.org/abs/2401.12915v1)|[2401.12915v1](http://arxiv.org/pdf/2401.12915v1)|null|
+|**2024-01-23**|**Emergent Communication Protocol Learning for Task Offloading in Industrial Internet of Things**|Salwa Mostafa et.al.|[2401.12914v1](http://arxiv.org/abs/2401.12914v1)|[2401.12914v1](http://arxiv.org/pdf/2401.12914v1)|null|
 |**2024-01-22**|**Active Inference Demonstrated with Artificial Spin Ice**|R. L. Stamps et.al.|[2401.12211v1](http://arxiv.org/abs/2401.12211v1)|[2401.12211v1](http://arxiv.org/pdf/2401.12211v1)|null|
 |**2024-01-22**|**Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization**|Animesh Basak Chowdhury et.al.|[2401.12205v1](http://arxiv.org/abs/2401.12205v1)|[2401.12205v1](http://arxiv.org/pdf/2401.12205v1)|null|
 |**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203v1](http://arxiv.org/abs/2401.12203v1)|[2401.12203v1](http://arxiv.org/pdf/2401.12203v1)|**[link](https://github.com/samuelperezdi/umlcaxs)**|
