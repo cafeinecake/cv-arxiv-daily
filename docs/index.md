@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-24**|**Artificial Precision Timing Array: bridging the decihertz gravitational-wave sensitivity gap with clock satellites**|Lucas M. B. Alves et.al.|[2401.13668v1](http://arxiv.org/abs/2401.13668v1)|[2401.13668v1](http://arxiv.org/pdf/2401.13668v1)|null|
+|**2024-01-24**|**The limitations (and potential) of non-parametric morphology statistics for post-merger identification**|Scott Wilkinson et.al.|[2401.13654v1](http://arxiv.org/abs/2401.13654v1)|[2401.13654v1](http://arxiv.org/pdf/2401.13654v1)|null|
+|**2024-01-24**|**Joint gravitational wave-short GRB detection of Binary Neutron Star mergers with existing and future facilities**|Soumyadeep Bhattacharjee et.al.|[2401.13636v1](http://arxiv.org/abs/2401.13636v1)|[2401.13636v1](http://arxiv.org/pdf/2401.13636v1)|null|
+|**2024-01-24**|**Observations of scattered light from exoplanet atmospheres**|Brett M. Morris et.al.|[2401.13635v1](http://arxiv.org/abs/2401.13635v1)|[2401.13635v1](http://arxiv.org/pdf/2401.13635v1)|null|
+|**2024-01-24**|**The Infrared Absorption Spectrum of Phenylacetylene and its Deuterated Isotopologue in the Mid- to Far-IR**|Vincent J. Esposito et.al.|[2401.13634v1](http://arxiv.org/abs/2401.13634v1)|[2401.13634v1](http://arxiv.org/pdf/2401.13634v1)|null|
+|**2024-01-24**|**Study of SVOM/ECLAIRs inhomogeneities in the detection plane below 8 keV and their mitigation for the trigger performances**|Wenjin Xie et.al.|[2401.13619v1](http://arxiv.org/abs/2401.13619v1)|[2401.13619v1](http://arxiv.org/pdf/2401.13619v1)|null|
+|**2024-01-24**|**Effects of dilute neutron matter on the neutron star crust equation of state**|Guilherme Grams et.al.|[2401.13590v1](http://arxiv.org/abs/2401.13590v1)|[2401.13590v1](http://arxiv.org/pdf/2401.13590v1)|null|
+|**2024-01-24**|**Revisiting the warm sub-Saturn TOI-1710b**|J. Orell-Miquel et.al.|[2401.13574v1](http://arxiv.org/abs/2401.13574v1)|[2401.13574v1](http://arxiv.org/pdf/2401.13574v1)|null|
+|**2024-01-24**|**Scalarized Hybrid Neutron Stars in Scalar Tensor Gravity**|Fahimeh Rahimi et.al.|[2401.13557v1](http://arxiv.org/abs/2401.13557v1)|[2401.13557v1](http://arxiv.org/pdf/2401.13557v1)|null|
+|**2024-01-24**|**Magnetic activity of red giants: a near-UV and H$α$ view, and the enhancing role of tidal interactions**|C. Gehan et.al.|[2401.13549v1](http://arxiv.org/abs/2401.13549v1)|[2401.13549v1](http://arxiv.org/pdf/2401.13549v1)|null|
 |**2024-01-23**|**Mapping dust in the giant molecular cloud Orion A**|Amery Gration et.al.|[2401.12976v1](http://arxiv.org/abs/2401.12976v1)|[2401.12976v1](http://arxiv.org/pdf/2401.12976v1)|null|
 |**2024-01-23**|**Constraining gravity with a new precision $E_G$ estimator using Planck + SDSS BOSS**|Lukas Wenzl et.al.|[2401.12971v1](http://arxiv.org/abs/2401.12971v1)|[2401.12971v1](http://arxiv.org/pdf/2401.12971v1)|null|
 |**2024-01-23**|**The Concerning S$H_0$ES Hubble Constant**|Daniel Majaess et.al.|[2401.12964v1](http://arxiv.org/abs/2401.12964v1)|[2401.12964v1](http://arxiv.org/pdf/2401.12964v1)|null|
@@ -3973,6 +3983,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-24**|**Artificial Precision Timing Array: bridging the decihertz gravitational-wave sensitivity gap with clock satellites**|Lucas M. B. Alves et.al.|[2401.13668v1](http://arxiv.org/abs/2401.13668v1)|[2401.13668v1](http://arxiv.org/pdf/2401.13668v1)|null|
+|**2024-01-24**|**The Definitive Guide to Policy Gradients in Deep Reinforcement Learning: Theory, Algorithms and Implementations**|Matthias Lehmann et.al.|[2401.13662v1](http://arxiv.org/abs/2401.13662v1)|[2401.13662v1](http://arxiv.org/pdf/2401.13662v1)|**[link](https://github.com/matt00n/policygradientsjax)**|
+|**2024-01-24**|**Inadequacy of common stochastic neural networks for reliable clinical decision support**|Adrian Lindenmeyer et.al.|[2401.13657v1](http://arxiv.org/abs/2401.13657v1)|[2401.13657v1](http://arxiv.org/pdf/2401.13657v1)|null|
+|**2024-01-24**|**Graph-Informed Neural Networks for Sparse Grid-Based Discontinuity Detectors**|Francesco Della Santa et.al.|[2401.13652v1](http://arxiv.org/abs/2401.13652v1)|[2401.13652v1](http://arxiv.org/pdf/2401.13652v1)|null|
+|**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641v1](http://arxiv.org/abs/2401.13641v1)|[2401.13641v1](http://arxiv.org/pdf/2401.13641v1)|null|
+|**2024-01-24**|**Current-Driven Domain Wall Motion in Curved Ferrimagnetic Strips Above and Below the Angular Momentum Compensation**|David Osuna Ruiz et.al.|[2401.13617v1](http://arxiv.org/abs/2401.13617v1)|[2401.13617v1](http://arxiv.org/pdf/2401.13617v1)|null|
+|**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613v1](http://arxiv.org/abs/2401.13613v1)|[2401.13613v1](http://arxiv.org/pdf/2401.13613v1)|null|
+|**2024-01-24**|**Non-Intrusive Speech Intelligibility Prediction for Hearing-Impaired Users using Intermediate ASR Features and Human Memory Models**|Rhiannon Mogridge et.al.|[2401.13611v1](http://arxiv.org/abs/2401.13611v1)|[2401.13611v1](http://arxiv.org/pdf/2401.13611v1)|null|
+|**2024-01-24**|**Stream-based perception for cognitive agents in mobile ecosystems**|Jeremias Dötterl et.al.|[2401.13604v1](http://arxiv.org/abs/2401.13604v1)|[2401.13604v1](http://arxiv.org/pdf/2401.13604v1)|null|
+|**2024-01-24**|**Graph Guided Question Answer Generation for Procedural Question-Answering**|Hai X. Pham et.al.|[2401.13594v1](http://arxiv.org/abs/2401.13594v1)|[2401.13594v1](http://arxiv.org/pdf/2401.13594v1)|null|
 |**2024-01-23**|**Mapping dust in the giant molecular cloud Orion A**|Amery Gration et.al.|[2401.12976v1](http://arxiv.org/abs/2401.12976v1)|[2401.12976v1](http://arxiv.org/pdf/2401.12976v1)|null|
 |**2024-01-23**|**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**|Qinhong Zhou et.al.|[2401.12975v1](http://arxiv.org/abs/2401.12975v1)|[2401.12975v1](http://arxiv.org/pdf/2401.12975v1)|**[link](https://github.com/umass-foundation-model/hazard)**|
 |**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972v1](http://arxiv.org/abs/2401.12972v1)|[2401.12972v1](http://arxiv.org/pdf/2401.12972v1)|null|
