@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-25**|**Nucleosynthesis in magnetorotational supernovae: impact of the magnetic field configuration**|M. Reichert et.al.|[2401.14402v1](http://arxiv.org/abs/2401.14402v1)|[2401.14402v1](http://arxiv.org/pdf/2401.14402v1)|null|
+|**2024-01-25**|**Small-scale radio jets and tidal disruption events: A theory of high-luminosity compact symmetric objects**|Andrew G. Sullivan et.al.|[2401.14399v1](http://arxiv.org/abs/2401.14399v1)|[2401.14399v1](http://arxiv.org/pdf/2401.14399v1)|null|
+|**2024-01-25**|**Ultrashort-period WD binaries are not undergoing strong tidal heating**|Peter Scherbak et.al.|[2401.14397v1](http://arxiv.org/abs/2401.14397v1)|[2401.14397v1](http://arxiv.org/pdf/2401.14397v1)|null|
+|**2024-01-25**|**Weakening of magnetic braking in cataclysmic variables explains the dearth of period bouncers**|Arnab Sarkar et.al.|[2401.14389v1](http://arxiv.org/abs/2401.14389v1)|[2401.14389v1](http://arxiv.org/pdf/2401.14389v1)|null|
+|**2024-01-25**|**The BLAST Observatory: A Sensitivity Study for Far-IR Balloon-borne Polarimeters**|The BLAST Observatory Collaboration et.al.|[2401.14370v1](http://arxiv.org/abs/2401.14370v1)|[2401.14370v1](http://arxiv.org/pdf/2401.14370v1)|null|
+|**2024-01-25**|**Uncovering Heterogeneity of Solar Flare Mechanism With Mixture Models**|Bach Viet Do et.al.|[2401.14345v1](http://arxiv.org/abs/2401.14345v1)|[2401.14345v1](http://arxiv.org/pdf/2401.14345v1)|null|
+|**2024-01-25**|**Collapsing Domain Wall Networks: Impact on Pulsar Timing Arrays and Primordial Black Holes**|Ricardo Z. Ferreira et.al.|[2401.14331v1](http://arxiv.org/abs/2401.14331v1)|[2401.14331v1](http://arxiv.org/pdf/2401.14331v1)|null|
+|**2024-01-25**|**Pulsar Timing Array source ensembles**|Bruce Allen et.al.|[2401.14329v1](http://arxiv.org/abs/2401.14329v1)|[2401.14329v1](http://arxiv.org/pdf/2401.14329v1)|null|
+|**2024-01-25**|**Circumbinary discs for stellar population models**|Robert G. Izzard et.al.|[2401.14315v1](http://arxiv.org/abs/2401.14315v1)|[2401.14315v1](http://arxiv.org/pdf/2401.14315v1)|null|
+|**2024-01-25**|**Temperature Separation in a Vortex Tube and Solar Convection**|Haibin Chen et.al.|[2401.14313v1](http://arxiv.org/abs/2401.14313v1)|[2401.14313v1](http://arxiv.org/pdf/2401.14313v1)|null|
 |**2024-01-24**|**Artificial Precision Timing Array: bridging the decihertz gravitational-wave sensitivity gap with clock satellites**|Lucas M. B. Alves et.al.|[2401.13668v1](http://arxiv.org/abs/2401.13668v1)|[2401.13668v1](http://arxiv.org/pdf/2401.13668v1)|null|
 |**2024-01-24**|**The limitations (and potential) of non-parametric morphology statistics for post-merger identification**|Scott Wilkinson et.al.|[2401.13654v1](http://arxiv.org/abs/2401.13654v1)|[2401.13654v1](http://arxiv.org/pdf/2401.13654v1)|null|
 |**2024-01-24**|**Joint gravitational wave-short GRB detection of Binary Neutron Star mergers with existing and future facilities**|Soumyadeep Bhattacharjee et.al.|[2401.13636v1](http://arxiv.org/abs/2401.13636v1)|[2401.13636v1](http://arxiv.org/pdf/2401.13636v1)|null|
@@ -3979,6 +3989,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405v1](http://arxiv.org/abs/2401.14405v1)|[2401.14405v1](http://arxiv.org/pdf/2401.14405v1)|**[link](https://github.com/ailab-cvc/m2pt)**|
+|**2024-01-25**|**Adaptive Mobile Manipulation for Articulated Objects In the Open World**|Haoyu Xiong et.al.|[2401.14403v1](http://arxiv.org/abs/2401.14403v1)|[2401.14403v1](http://arxiv.org/pdf/2401.14403v1)|null|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|[2401.14379v1](http://arxiv.org/pdf/2401.14379v1)|null|
+|**2024-01-25**|**Electrotaxis of self-propelling artificial swimmers in microchannels**|Carola M. Buness et.al.|[2401.14376v1](http://arxiv.org/abs/2401.14376v1)|[2401.14376v1](http://arxiv.org/pdf/2401.14376v1)|null|
+|**2024-01-25**|**TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation**|Gökçe Uludoğan et.al.|[2401.14373v1](http://arxiv.org/abs/2401.14373v1)|[2401.14373v1](http://arxiv.org/pdf/2401.14373v1)|null|
+|**2024-01-25**|**Efficient Optimisation of Physical Reservoir Computers using only a Delayed Input**|Enrico Picco et.al.|[2401.14371v1](http://arxiv.org/abs/2401.14371v1)|[2401.14371v1](http://arxiv.org/pdf/2401.14371v1)|null|
+|**2024-01-25**|**Genie: Achieving Human Parity in Content-Grounded Datasets Generation**|Asaf Yehudai et.al.|[2401.14367v1](http://arxiv.org/abs/2401.14367v1)|[2401.14367v1](http://arxiv.org/pdf/2401.14367v1)|null|
+|**2024-01-25**|**The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support**|Inhwa Song et.al.|[2401.14362v1](http://arxiv.org/abs/2401.14362v1)|[2401.14362v1](http://arxiv.org/pdf/2401.14362v1)|null|
+|**2024-01-25**|**Evolving higher-order synergies reveals a trade-off between stability and information integration capacity in complex systems**|Thomas F. Varley et.al.|[2401.14347v1](http://arxiv.org/abs/2401.14347v1)|[2401.14347v1](http://arxiv.org/pdf/2401.14347v1)|null|
+|**2024-01-25**|**Progressive Multi-task Anti-Noise Learning and Distilling Frameworks for Fine-grained Vehicle Recognition**|Dichao Liu et.al.|[2401.14336v1](http://arxiv.org/abs/2401.14336v1)|[2401.14336v1](http://arxiv.org/pdf/2401.14336v1)|**[link](https://github.com/dichao-liu/anti-noise_fgvr)**|
 |**2024-01-24**|**Artificial Precision Timing Array: bridging the decihertz gravitational-wave sensitivity gap with clock satellites**|Lucas M. B. Alves et.al.|[2401.13668v1](http://arxiv.org/abs/2401.13668v1)|[2401.13668v1](http://arxiv.org/pdf/2401.13668v1)|null|
 |**2024-01-24**|**The Definitive Guide to Policy Gradients in Deep Reinforcement Learning: Theory, Algorithms and Implementations**|Matthias Lehmann et.al.|[2401.13662v1](http://arxiv.org/abs/2401.13662v1)|[2401.13662v1](http://arxiv.org/pdf/2401.13662v1)|**[link](https://github.com/matt00n/policygradientsjax)**|
 |**2024-01-24**|**Inadequacy of common stochastic neural networks for reliable clinical decision support**|Adrian Lindenmeyer et.al.|[2401.13657v1](http://arxiv.org/abs/2401.13657v1)|[2401.13657v1](http://arxiv.org/pdf/2401.13657v1)|null|
