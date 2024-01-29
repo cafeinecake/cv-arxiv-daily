@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-26**|**${\rm S{\scriptsize IM}BIG}$: Cosmological Constraints from the Redshift-Space Galaxy Skew Spectra**|Jiamin Hou et.al.|[2401.15074v1](http://arxiv.org/abs/2401.15074v1)|[2401.15074v1](http://arxiv.org/pdf/2401.15074v1)|null|
+|**2024-01-26**|**Long-term study of the first Galactic ultraluminous X-ray source Swift J0243.6+6124 using NICER**|Birendra Chhotaray et.al.|[2401.15058v1](http://arxiv.org/abs/2401.15058v1)|[2401.15058v1](http://arxiv.org/pdf/2401.15058v1)|null|
+|**2024-01-26**|**The 2024 BBN baryon abundance update**|Nils Schöneberg et.al.|[2401.15054v1](http://arxiv.org/abs/2401.15054v1)|[2401.15054v1](http://arxiv.org/pdf/2401.15054v1)|null|
+|**2024-01-26**|**The metamorphosis of the Type Ib SN 2019yvr: late-time interaction**|Lucía Ferrari et.al.|[2401.15052v1](http://arxiv.org/abs/2401.15052v1)|[2401.15052v1](http://arxiv.org/pdf/2401.15052v1)|null|
+|**2024-01-26**|**Weak-lensing mass bias in the dissociative galaxy cluster Abell 56**|Richards P. Albuquerque et.al.|[2401.15044v1](http://arxiv.org/abs/2401.15044v1)|[2401.15044v1](http://arxiv.org/pdf/2401.15044v1)|null|
+|**2024-01-26**|**Parameterized Ekman boundary layers on the tilted $f$-plane**|Sara Tro et.al.|[2401.15010v1](http://arxiv.org/abs/2401.15010v1)|[2401.15010v1](http://arxiv.org/pdf/2401.15010v1)|null|
+|**2024-01-26**|**A ThermalKinetic Inductance Detectors Pixel Design for Cosmic Microwave Background Observations at 90/150 GHz bands**|Ye Chai et.al.|[2401.14995v1](http://arxiv.org/abs/2401.14995v1)|[2401.14995v1](http://arxiv.org/pdf/2401.14995v1)|null|
+|**2024-01-26**|**Interparticle normal force in highly porous granular matter during compression**|Sota Arakawa et.al.|[2401.14990v1](http://arxiv.org/abs/2401.14990v1)|[2401.14990v1](http://arxiv.org/pdf/2401.14990v1)|null|
+|**2024-01-26**|**Linking Mg II and [O II] spatial distribution to ionizing photon escape in confirmed LyC leakers and non-leakers**|Floriane Leclercq et.al.|[2401.14981v1](http://arxiv.org/abs/2401.14981v1)|[2401.14981v1](http://arxiv.org/pdf/2401.14981v1)|null|
+|**2024-01-26**|**Time-resolved Spectral Properties of Fermi-GBM Bright Long Gamma-Ray Bursts**|Wan-Kai Wang et.al.|[2401.14969v1](http://arxiv.org/abs/2401.14969v1)|[2401.14969v1](http://arxiv.org/pdf/2401.14969v1)|null|
 |**2024-01-25**|**Nucleosynthesis in magnetorotational supernovae: impact of the magnetic field configuration**|M. Reichert et.al.|[2401.14402v1](http://arxiv.org/abs/2401.14402v1)|[2401.14402v1](http://arxiv.org/pdf/2401.14402v1)|null|
 |**2024-01-25**|**Small-scale radio jets and tidal disruption events: A theory of high-luminosity compact symmetric objects**|Andrew G. Sullivan et.al.|[2401.14399v1](http://arxiv.org/abs/2401.14399v1)|[2401.14399v1](http://arxiv.org/pdf/2401.14399v1)|null|
 |**2024-01-25**|**Ultrashort-period WD binaries are not undergoing strong tidal heating**|Peter Scherbak et.al.|[2401.14397v1](http://arxiv.org/abs/2401.14397v1)|[2401.14397v1](http://arxiv.org/pdf/2401.14397v1)|null|
@@ -3993,6 +4003,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075v1](http://arxiv.org/abs/2401.15075v1)|[2401.15075v1](http://arxiv.org/pdf/2401.15075v1)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
+|**2024-01-26**|**Deep learning-based approach for tomato classification in complex scenes**|Mikael A. Mousse et.al.|[2401.15055v1](http://arxiv.org/abs/2401.15055v1)|[2401.15055v1](http://arxiv.org/pdf/2401.15055v1)|null|
+|**2024-01-26**|**Unrecognizable Yet Identifiable: Image Distortion with Preserved Embeddings**|Dmytro Zakharov et.al.|[2401.15048v1](http://arxiv.org/abs/2401.15048v1)|[2401.15048v1](http://arxiv.org/pdf/2401.15048v1)|null|
+|**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045v1](http://arxiv.org/abs/2401.15045v1)|[2401.15045v1](http://arxiv.org/pdf/2401.15045v1)|null|
+|**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043v1](http://arxiv.org/abs/2401.15043v1)|[2401.15043v1](http://arxiv.org/pdf/2401.15043v1)|null|
+|**2024-01-26**|**PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**|Haochen Tan et.al.|[2401.15042v1](http://arxiv.org/abs/2401.15042v1)|[2401.15042v1](http://arxiv.org/pdf/2401.15042v1)|null|
+|**2024-01-26**|**Multi-Agent Coordination for a Partially Observable and Dynamic Robot Soccer Environment with Limited Communication**|Daniele Affinita et.al.|[2401.15026v1](http://arxiv.org/abs/2401.15026v1)|[2401.15026v1](http://arxiv.org/pdf/2401.15026v1)|null|
+|**2024-01-26**|**Airavata: Introducing Hindi Instruction-tuned LLM**|Jay Gala et.al.|[2401.15006v1](http://arxiv.org/abs/2401.15006v1)|[2401.15006v1](http://arxiv.org/pdf/2401.15006v1)|null|
+|**2024-01-26**|**Atmosphere: Context and situational-aware collaborative IoT architecture for edge-fog-cloud computing**|Guadalupe Ortiz et.al.|[2401.14968v1](http://arxiv.org/abs/2401.14968v1)|[2401.14968v1](http://arxiv.org/pdf/2401.14968v1)|null|
+|**2024-01-26**|**Learning Universal Predictors**|Jordi Grau-Moya et.al.|[2401.14953v1](http://arxiv.org/abs/2401.14953v1)|[2401.14953v1](http://arxiv.org/pdf/2401.14953v1)|null|
 |**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405v1](http://arxiv.org/abs/2401.14405v1)|[2401.14405v1](http://arxiv.org/pdf/2401.14405v1)|**[link](https://github.com/ailab-cvc/m2pt)**|
 |**2024-01-25**|**Adaptive Mobile Manipulation for Articulated Objects In the Open World**|Haoyu Xiong et.al.|[2401.14403v1](http://arxiv.org/abs/2401.14403v1)|[2401.14403v1](http://arxiv.org/pdf/2401.14403v1)|null|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|[2401.14379v1](http://arxiv.org/pdf/2401.14379v1)|null|
