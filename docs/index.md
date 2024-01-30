@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.29
+## Updated on 2024.01.30
 
 ## Astrophysics
 
@@ -4005,7 +4005,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075v1](http://arxiv.org/abs/2401.15075v1)|[2401.15075v1](http://arxiv.org/pdf/2401.15075v1)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
 |**2024-01-26**|**Deep learning-based approach for tomato classification in complex scenes**|Mikael A. Mousse et.al.|[2401.15055v1](http://arxiv.org/abs/2401.15055v1)|[2401.15055v1](http://arxiv.org/pdf/2401.15055v1)|null|
-|**2024-01-26**|**Unrecognizable Yet Identifiable: Image Distortion with Preserved Embeddings**|Dmytro Zakharov et.al.|[2401.15048v1](http://arxiv.org/abs/2401.15048v1)|[2401.15048v1](http://arxiv.org/pdf/2401.15048v1)|null|
+|**2024-01-26**|**Unrecognizable Yet Identifiable: Image Distortion with Preserved Embeddings**|Dmytro Zakharov et.al.|[2401.15048v1](http://arxiv.org/abs/2401.15048v1)|[2401.15048v1](http://arxiv.org/pdf/2401.15048v1)|**[link](https://github.com/zamdimon/distortion-generator)**|
 |**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045v1](http://arxiv.org/abs/2401.15045v1)|[2401.15045v1](http://arxiv.org/pdf/2401.15045v1)|null|
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043v1](http://arxiv.org/abs/2401.15043v1)|[2401.15043v1](http://arxiv.org/pdf/2401.15043v1)|null|
 |**2024-01-26**|**PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**|Haochen Tan et.al.|[2401.15042v1](http://arxiv.org/abs/2401.15042v1)|[2401.15042v1](http://arxiv.org/pdf/2401.15042v1)|null|
