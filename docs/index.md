@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|[2401.17312v1](http://arxiv.org/pdf/2401.17312v1)|null|
+|**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|[2401.17311v1](http://arxiv.org/pdf/2401.17311v1)|null|
+|**2024-01-30**|**eROSITA narrowband maps at the energies of soft X-ray emission lines**|Xueying Zheng et.al.|[2401.17310v1](http://arxiv.org/abs/2401.17310v1)|[2401.17310v1](http://arxiv.org/pdf/2401.17310v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|[2401.17309v1](http://arxiv.org/pdf/2401.17309v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|[2401.17308v1](http://arxiv.org/pdf/2401.17308v1)|null|
+|**2024-01-30**|**First Study of the Supernova Remnant Population in the Large Magellanic Cloud with eROSITA**|Federico Zangrandi et.al.|[2401.17307v1](http://arxiv.org/abs/2401.17307v1)|[2401.17307v1](http://arxiv.org/pdf/2401.17307v1)|null|
+|**2024-01-30**|**The SRG/eROSITA all-sky survey: Hard X-ray selected Active Galactic Nuclei**|Sophia G. H. Waddell et.al.|[2401.17306v1](http://arxiv.org/abs/2401.17306v1)|[2401.17306v1](http://arxiv.org/pdf/2401.17306v1)|null|
+|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|[2401.17305v1](http://arxiv.org/pdf/2401.17305v1)|null|
+|**2024-01-30**|**Compact white-dwarf binaries in the combined SRG/eROSITA/SDSS eFEDS survey**|A. Schwope et.al.|[2401.17304v1](http://arxiv.org/abs/2401.17304v1)|[2401.17304v1](http://arxiv.org/pdf/2401.17304v1)|null|
+|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|[2401.17303v1](http://arxiv.org/pdf/2401.17303v1)|null|
 |**2024-01-29**|**Localisation of Gamma Ray Bursts using AstroSat Mass Model**|Divita Saraogi et.al.|[2401.16404v1](http://arxiv.org/abs/2401.16404v1)|[2401.16404v1](http://arxiv.org/pdf/2401.16404v1)|null|
 |**2024-01-29**|**Majority of water hides deep in the interiors of exoplanets**|Haiyang Luo et.al.|[2401.16394v1](http://arxiv.org/abs/2401.16394v1)|[2401.16394v1](http://arxiv.org/pdf/2401.16394v1)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388v1](http://arxiv.org/abs/2401.16388v1)|[2401.16388v1](http://arxiv.org/pdf/2401.16388v1)|null|
@@ -4013,6 +4023,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|[2401.17268v1](http://arxiv.org/pdf/2401.17268v1)|null|
+|**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|[2401.17264v1](http://arxiv.org/pdf/2401.17264v1)|null|
+|**2024-01-30**|**Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks**|Andy Zhou et.al.|[2401.17263v1](http://arxiv.org/abs/2401.17263v1)|[2401.17263v1](http://arxiv.org/pdf/2401.17263v1)|**[link](https://github.com/andyz245/rpo)**|
+|**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244v1](http://arxiv.org/abs/2401.17244v1)|[2401.17244v1](http://arxiv.org/pdf/2401.17244v1)|null|
+|**2024-01-30**|**ReAlnet: Achieving More Human Brain-Like Vision via Human Neural Representational Alignment**|Zitong Lu et.al.|[2401.17231v1](http://arxiv.org/abs/2401.17231v1)|[2401.17231v1](http://arxiv.org/pdf/2401.17231v1)|null|
+|**2024-01-30**|**ESPnet-SPK: full pipeline speaker embedding toolkit with reproducible recipes, self-supervised front-ends, and off-the-shelf models**|Jee-weon Jung et.al.|[2401.17230v1](http://arxiv.org/abs/2401.17230v1)|[2401.17230v1](http://arxiv.org/pdf/2401.17230v1)|null|
+|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221v1](http://arxiv.org/abs/2401.17221v1)|[2401.17221v1](http://arxiv.org/pdf/2401.17221v1)|null|
+|**2024-01-30**|**Adaptive Experiment Design with Synthetic Controls**|Alihan Hüyük et.al.|[2401.17205v1](http://arxiv.org/abs/2401.17205v1)|[2401.17205v1](http://arxiv.org/pdf/2401.17205v1)|null|
+|**2024-01-30**|**NormEnsembleXAI: Unveiling the Strengths and Weaknesses of XAI Ensemble Techniques**|Weronika Hryniewska-Guzik et.al.|[2401.17200v1](http://arxiv.org/abs/2401.17200v1)|[2401.17200v1](http://arxiv.org/pdf/2401.17200v1)|null|
+|**2024-01-30**|**Nested Construction of Polar Codes via Transformers**|Sravan Kumar Ankireddy et.al.|[2401.17188v1](http://arxiv.org/abs/2401.17188v1)|[2401.17188v1](http://arxiv.org/pdf/2401.17188v1)|null|
 |**2024-01-29**|**Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation**|Zhenyu He et.al.|[2401.16421v1](http://arxiv.org/abs/2401.16421v1)|[2401.16421v1](http://arxiv.org/pdf/2401.16421v1)|null|
 |**2024-01-29**|**Learning to Manipulate under Limited Information**|Wesley H. Holliday et.al.|[2401.16412v1](http://arxiv.org/abs/2401.16412v1)|[2401.16412v1](http://arxiv.org/pdf/2401.16412v1)|null|
 |**2024-01-29**|**Scaling Sparse Fine-Tuning to Large Language Models**|Alan Ansell et.al.|[2401.16405v1](http://arxiv.org/abs/2401.16405v1)|[2401.16405v1](http://arxiv.org/pdf/2401.16405v1)|null|
