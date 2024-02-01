@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 
 ## Astrophysics
 
@@ -4024,14 +4024,14 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|[2401.17268v1](http://arxiv.org/pdf/2401.17268v1)|null|
-|**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|[2401.17264v1](http://arxiv.org/pdf/2401.17264v1)|null|
+|**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|[2401.17264v1](http://arxiv.org/pdf/2401.17264v1)|**[link](https://github.com/facebookresearch/audioseal)**|
 |**2024-01-30**|**Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks**|Andy Zhou et.al.|[2401.17263v1](http://arxiv.org/abs/2401.17263v1)|[2401.17263v1](http://arxiv.org/pdf/2401.17263v1)|**[link](https://github.com/andyz245/rpo)**|
 |**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244v1](http://arxiv.org/abs/2401.17244v1)|[2401.17244v1](http://arxiv.org/pdf/2401.17244v1)|null|
 |**2024-01-30**|**ReAlnet: Achieving More Human Brain-Like Vision via Human Neural Representational Alignment**|Zitong Lu et.al.|[2401.17231v1](http://arxiv.org/abs/2401.17231v1)|[2401.17231v1](http://arxiv.org/pdf/2401.17231v1)|null|
 |**2024-01-30**|**ESPnet-SPK: full pipeline speaker embedding toolkit with reproducible recipes, self-supervised front-ends, and off-the-shelf models**|Jee-weon Jung et.al.|[2401.17230v1](http://arxiv.org/abs/2401.17230v1)|[2401.17230v1](http://arxiv.org/pdf/2401.17230v1)|null|
-|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221v1](http://arxiv.org/abs/2401.17221v1)|[2401.17221v1](http://arxiv.org/pdf/2401.17221v1)|null|
+|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221v1](http://arxiv.org/abs/2401.17221v1)|[2401.17221v1](http://arxiv.org/pdf/2401.17221v1)|**[link](https://github.com/fudannlplab/mousi)**|
 |**2024-01-30**|**Adaptive Experiment Design with Synthetic Controls**|Alihan Hüyük et.al.|[2401.17205v1](http://arxiv.org/abs/2401.17205v1)|[2401.17205v1](http://arxiv.org/pdf/2401.17205v1)|null|
-|**2024-01-30**|**NormEnsembleXAI: Unveiling the Strengths and Weaknesses of XAI Ensemble Techniques**|Weronika Hryniewska-Guzik et.al.|[2401.17200v1](http://arxiv.org/abs/2401.17200v1)|[2401.17200v1](http://arxiv.org/pdf/2401.17200v1)|null|
+|**2024-01-30**|**NormEnsembleXAI: Unveiling the Strengths and Weaknesses of XAI Ensemble Techniques**|Weronika Hryniewska-Guzik et.al.|[2401.17200v1](http://arxiv.org/abs/2401.17200v1)|[2401.17200v1](http://arxiv.org/pdf/2401.17200v1)|**[link](https://github.com/hryniewska/ensemblexai)**|
 |**2024-01-30**|**Nested Construction of Polar Codes via Transformers**|Sravan Kumar Ankireddy et.al.|[2401.17188v1](http://arxiv.org/abs/2401.17188v1)|[2401.17188v1](http://arxiv.org/pdf/2401.17188v1)|null|
 |**2024-01-29**|**Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation**|Zhenyu He et.al.|[2401.16421v1](http://arxiv.org/abs/2401.16421v1)|[2401.16421v1](http://arxiv.org/pdf/2401.16421v1)|null|
 |**2024-01-29**|**Learning to Manipulate under Limited Information**|Wesley H. Holliday et.al.|[2401.16412v1](http://arxiv.org/abs/2401.16412v1)|[2401.16412v1](http://arxiv.org/pdf/2401.16412v1)|null|
