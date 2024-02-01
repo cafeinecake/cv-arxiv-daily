@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-31**|**Strong Bow Shocks: Turbulence and An Exact Self-Similar Asymptotic**|Marcus DuPont et.al.|[2401.18080v1](http://arxiv.org/abs/2401.18080v1)|[2401.18080v1](http://arxiv.org/pdf/2401.18080v1)|null|
+|**2024-01-31**|**Searching for scalar field dark matter with LIGO**|Alexandre S. Göttel et.al.|[2401.18076v1](http://arxiv.org/abs/2401.18076v1)|[2401.18076v1](http://arxiv.org/pdf/2401.18076v1)|null|
+|**2024-01-31**|**GODMAX: Modeling gas thermodynamics and matter distribution using JAX**|Shivam Pandey et.al.|[2401.18072v1](http://arxiv.org/abs/2401.18072v1)|[2401.18072v1](http://arxiv.org/pdf/2401.18072v1)|null|
+|**2024-01-31**|**New theoretical Fe II templates for bright quasars**|Ashwani Pandey et.al.|[2401.18052v1](http://arxiv.org/abs/2401.18052v1)|[2401.18052v1](http://arxiv.org/pdf/2401.18052v1)|null|
+|**2024-01-31**|**Plasma lensing interpretation of FRB 20201124A bursts at the end of September 2021**|Xuechun Chen et.al.|[2401.18036v1](http://arxiv.org/abs/2401.18036v1)|[2401.18036v1](http://arxiv.org/pdf/2401.18036v1)|null|
+|**2024-01-31**|**Massive Debris Disks May Hinder Secular Stirring by Planetary Companions: An Analytic Proof of Concept**|Antranik A. Sefilian et.al.|[2401.18020v1](http://arxiv.org/abs/2401.18020v1)|[2401.18020v1](http://arxiv.org/pdf/2401.18020v1)|null|
+|**2024-01-31**|**Dark Matter Searches with Levitated Sensors**|Eva Kilian et.al.|[2401.17990v1](http://arxiv.org/abs/2401.17990v1)|[2401.17990v1](http://arxiv.org/pdf/2401.17990v1)|null|
+|**2024-01-31**|**Diagnosing the particle transport mechanism in the pulsar halo via X-ray observations**|Qi-Zuo Wu et.al.|[2401.17982v1](http://arxiv.org/abs/2401.17982v1)|[2401.17982v1](http://arxiv.org/pdf/2401.17982v1)|null|
+|**2024-01-31**|**The detection prospect of the Counter Jet radiation in the Late Afterglow of GRB 170817A**|Jia-Ning Li et.al.|[2401.17978v1](http://arxiv.org/abs/2401.17978v1)|[2401.17978v1](http://arxiv.org/pdf/2401.17978v1)|null|
+|**2024-01-31**|**A Pan-STARRS1 Search for Planet Nine**|Michael E. Brown et.al.|[2401.17977v1](http://arxiv.org/abs/2401.17977v1)|[2401.17977v1](http://arxiv.org/pdf/2401.17977v1)|null|
 |**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|[2401.17312v1](http://arxiv.org/pdf/2401.17312v1)|null|
 |**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|[2401.17311v1](http://arxiv.org/pdf/2401.17311v1)|null|
 |**2024-01-30**|**eROSITA narrowband maps at the energies of soft X-ray emission lines**|Xueying Zheng et.al.|[2401.17310v1](http://arxiv.org/abs/2401.17310v1)|[2401.17310v1](http://arxiv.org/pdf/2401.17310v1)|null|
@@ -4019,6 +4029,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-01-31**|**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**|Andreas Opedal et.al.|[2401.18070v1](http://arxiv.org/abs/2401.18070v1)|[2401.18070v1](http://arxiv.org/pdf/2401.18070v1)|null|
+|**2024-01-31**|**SpeechComposer: Unifying Multiple Speech Tasks with Prompt Composition**|Yihan Wu et.al.|[2401.18045v1](http://arxiv.org/abs/2401.18045v1)|[2401.18045v1](http://arxiv.org/pdf/2401.18045v1)|null|
+|**2024-01-31**|**Enhancing End-to-End Multi-Task Dialogue Systems: A Study on Intrinsic Motivation Reinforcement Learning Algorithms for Improved Training and Adaptability**|Navin Kamuni et.al.|[2401.18040v1](http://arxiv.org/abs/2401.18040v1)|[2401.18040v1](http://arxiv.org/pdf/2401.18040v1)|null|
+|**2024-01-31**|**Paramanu: A Family of Novel Efficient Indic Generative Foundation Language Models**|Mitodru Niyogi et.al.|[2401.18034v1](http://arxiv.org/abs/2401.18034v1)|[2401.18034v1](http://arxiv.org/pdf/2401.18034v1)|null|
+|**2024-01-31**|**Supporting Anticipatory Governance using LLMs: Evaluating and Aligning Large Language Models with the News Media to Anticipate the Negative Impacts of AI**|Mowafak Allaham et.al.|[2401.18028v1](http://arxiv.org/abs/2401.18028v1)|[2401.18028v1](http://arxiv.org/pdf/2401.18028v1)|null|
+|**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024v1](http://arxiv.org/abs/2401.18024v1)|[2401.18024v1](http://arxiv.org/pdf/2401.18024v1)|null|
+|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018v1](http://arxiv.org/abs/2401.18018v1)|[2401.18018v1](http://arxiv.org/pdf/2401.18018v1)|null|
+|**2024-01-31**|**Shrub of a thousand faces: an individual segmentation from satellite images using deep learning**|Rohaifa Khaldi et.al.|[2401.17985v1](http://arxiv.org/abs/2401.17985v1)|[2401.17985v1](http://arxiv.org/pdf/2401.17985v1)|null|
+|**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981v1](http://arxiv.org/abs/2401.17981v1)|[2401.17981v1](http://arxiv.org/pdf/2401.17981v1)|null|
+|**2024-01-31**|**Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning**|Arnau Pastor et.al.|[2401.17976v1](http://arxiv.org/abs/2401.17976v1)|[2401.17976v1](http://arxiv.org/pdf/2401.17976v1)|null|
 |**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|[2401.17268v1](http://arxiv.org/pdf/2401.17268v1)|null|
 |**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|[2401.17264v1](http://arxiv.org/pdf/2401.17264v1)|**[link](https://github.com/facebookresearch/audioseal)**|
 |**2024-01-30**|**Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks**|Andy Zhou et.al.|[2401.17263v1](http://arxiv.org/abs/2401.17263v1)|[2401.17263v1](http://arxiv.org/pdf/2401.17263v1)|**[link](https://github.com/andyz245/rpo)**|
