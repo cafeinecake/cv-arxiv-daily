@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-01**|**JWST-MIRI Spectroscopy of Warm Molecular Emission and Variability in the AS 209 Disk**|Carlos E. Muñoz-Romero et.al.|[2402.00860v1](http://arxiv.org/abs/2402.00860v1)|[2402.00860v1](http://arxiv.org/pdf/2402.00860v1)|null|
+|**2024-02-01**|**Kinematic reconstruction of torsion as dark energy in Friedmann cosmology**|A. M. Vicente et.al.|[2402.00844v1](http://arxiv.org/abs/2402.00844v1)|[2402.00844v1](http://arxiv.org/pdf/2402.00844v1)|null|
+|**2024-02-01**|**Further understanding the interaction between dark energy and dark matter: current status and future directions**|B Wang et.al.|[2402.00819v1](http://arxiv.org/abs/2402.00819v1)|[2402.00819v1](http://arxiv.org/pdf/2402.00819v1)|null|
+|**2024-02-01**|**The Energy and Dynamics of Trapped Radiative Feedback with Stellar Winds**|Sam Geen et.al.|[2402.00797v1](http://arxiv.org/abs/2402.00797v1)|[2402.00797v1](http://arxiv.org/pdf/2402.00797v1)|null|
+|**2024-02-01**|**Analytical methods in Celestial Mechanics: satellites' stability and galactic billiards**|Irene De Blasi et.al.|[2402.00796v1](http://arxiv.org/abs/2402.00796v1)|[2402.00796v1](http://arxiv.org/pdf/2402.00796v1)|null|
+|**2024-02-01**|**The Sonora Substellar Atmosphere Models. III. Diamondback: Atmospheric Properties, Spectra, and Evolution for Warm Cloudy Substellar Objects**|Caroline V. Morley et.al.|[2402.00758v1](http://arxiv.org/abs/2402.00758v1)|[2402.00758v1](http://arxiv.org/pdf/2402.00758v1)|null|
+|**2024-02-01**|**The Sonora Substellar Atmosphere Models. IV. Elf Owl: Atmospheric Mixing and Chemical Disequilibrium with Varying Metallicity and C/O Ratios**|Sagnick Mukherjee et.al.|[2402.00756v1](http://arxiv.org/abs/2402.00756v1)|[2402.00756v1](http://arxiv.org/pdf/2402.00756v1)|null|
+|**2024-02-01**|**Axion Dark Matters from Cosmic String Network**|Heejoo Kim et.al.|[2402.00741v1](http://arxiv.org/abs/2402.00741v1)|[2402.00741v1](http://arxiv.org/pdf/2402.00741v1)|null|
+|**2024-02-01**|**Gravitational Wave Emission from Close-in Strange Quark Planets Around Strange Stars**|Xiao-Li Zhang et.al.|[2402.00730v1](http://arxiv.org/abs/2402.00730v1)|[2402.00730v1](http://arxiv.org/pdf/2402.00730v1)|null|
+|**2024-02-01**|**Multi-scale magnetic field investigation of the M-dwarf eclipsing binary CU Cancri**|A. Hahlin et.al.|[2402.00721v1](http://arxiv.org/abs/2402.00721v1)|[2402.00721v1](http://arxiv.org/pdf/2402.00721v1)|null|
 |**2024-01-31**|**Strong Bow Shocks: Turbulence and An Exact Self-Similar Asymptotic**|Marcus DuPont et.al.|[2401.18080v1](http://arxiv.org/abs/2401.18080v1)|[2401.18080v1](http://arxiv.org/pdf/2401.18080v1)|null|
 |**2024-01-31**|**Searching for scalar field dark matter with LIGO**|Alexandre S. Göttel et.al.|[2401.18076v1](http://arxiv.org/abs/2401.18076v1)|[2401.18076v1](http://arxiv.org/pdf/2401.18076v1)|null|
 |**2024-01-31**|**GODMAX: Modeling gas thermodynamics and matter distribution using JAX**|Shivam Pandey et.al.|[2401.18072v1](http://arxiv.org/abs/2401.18072v1)|[2401.18072v1](http://arxiv.org/pdf/2401.18072v1)|null|
@@ -4033,6 +4043,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861v1](http://arxiv.org/abs/2402.00861v1)|[2402.00861v1](http://arxiv.org/pdf/2402.00861v1)|null|
+|**2024-02-01**|**SymbolicAI: A framework for logic-based approaches combining generative models and solvers**|Marius-Constantin Dinu et.al.|[2402.00854v1](http://arxiv.org/abs/2402.00854v1)|[2402.00854v1](http://arxiv.org/pdf/2402.00854v1)|**[link](https://github.com/extensityai/benchmark)**|
+|**2024-02-01**|**X-CBA: Explainability Aided CatBoosted Anomal-E for Intrusion Detection System**|Kiymet Kaya et.al.|[2402.00839v1](http://arxiv.org/abs/2402.00839v1)|[2402.00839v1](http://arxiv.org/pdf/2402.00839v1)|null|
+|**2024-02-01**|**ALISON: Fast and Effective Stylometric Authorship Obfuscation**|Eric Xing et.al.|[2402.00835v1](http://arxiv.org/abs/2402.00835v1)|[2402.00835v1](http://arxiv.org/pdf/2402.00835v1)|**[link](https://github.com/ericx003/alison)**|
+|**2024-02-01**|**A YANG-aided Unified Strategy for Black Hole Detection for Backbone Networks**|Elif Ak et.al.|[2402.00831v1](http://arxiv.org/abs/2402.00831v1)|[2402.00831v1](http://arxiv.org/pdf/2402.00831v1)|null|
+|**2024-02-01**|**Efficient Fine-tuning of Audio Spectrogram Transformers via Soft Mixture of Adapters**|Umberto Cappellazzo et.al.|[2402.00828v1](http://arxiv.org/abs/2402.00828v1)|[2402.00828v1](http://arxiv.org/pdf/2402.00828v1)|**[link](https://github.com/umbertocappellazzo/petl_ast)**|
+|**2024-02-01**|**SLIM: Skill Learning with Multiple Critics**|David Emukpere et.al.|[2402.00823v1](http://arxiv.org/abs/2402.00823v1)|[2402.00823v1](http://arxiv.org/pdf/2402.00823v1)|null|
+|**2024-02-01**|**WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework**|Xiang Zhang et.al.|[2402.00822v1](http://arxiv.org/abs/2402.00822v1)|[2402.00822v1](http://arxiv.org/pdf/2402.00822v1)|**[link](https://github.com/purpleleaves007/wiopen)**|
+|**2024-02-01**|**Leveraging Approximate Model-based Shielding for Probabilistic Safety Guarantees in Continuous Environments**|Alexander W. Goodall et.al.|[2402.00816v1](http://arxiv.org/abs/2402.00816v1)|[2402.00816v1](http://arxiv.org/pdf/2402.00816v1)|null|
+|**2024-02-01**|**Exploring the Dynamics between Cobot's Production Rhythm, Locus of Control and Emotional State in a Collaborative Assembly Scenario**|Marta Mondellini et.al.|[2402.00808v1](http://arxiv.org/abs/2402.00808v1)|[2402.00808v1](http://arxiv.org/pdf/2402.00808v1)|null|
 |**2024-01-31**|**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**|Andreas Opedal et.al.|[2401.18070v1](http://arxiv.org/abs/2401.18070v1)|[2401.18070v1](http://arxiv.org/pdf/2401.18070v1)|null|
 |**2024-01-31**|**SpeechComposer: Unifying Multiple Speech Tasks with Prompt Composition**|Yihan Wu et.al.|[2401.18045v1](http://arxiv.org/abs/2401.18045v1)|[2401.18045v1](http://arxiv.org/pdf/2401.18045v1)|null|
 |**2024-01-31**|**Enhancing End-to-End Multi-Task Dialogue Systems: A Study on Intrinsic Motivation Reinforcement Learning Algorithms for Improved Training and Adaptability**|Navin Kamuni et.al.|[2401.18040v1](http://arxiv.org/abs/2401.18040v1)|[2401.18040v1](http://arxiv.org/pdf/2401.18040v1)|null|
