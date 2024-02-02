@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 
 ## Astrophysics
 
@@ -4039,7 +4039,7 @@ layout: default
 |**2024-01-31**|**Paramanu: A Family of Novel Efficient Indic Generative Foundation Language Models**|Mitodru Niyogi et.al.|[2401.18034v1](http://arxiv.org/abs/2401.18034v1)|[2401.18034v1](http://arxiv.org/pdf/2401.18034v1)|null|
 |**2024-01-31**|**Supporting Anticipatory Governance using LLMs: Evaluating and Aligning Large Language Models with the News Media to Anticipate the Negative Impacts of AI**|Mowafak Allaham et.al.|[2401.18028v1](http://arxiv.org/abs/2401.18028v1)|[2401.18028v1](http://arxiv.org/pdf/2401.18028v1)|null|
 |**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024v1](http://arxiv.org/abs/2401.18024v1)|[2401.18024v1](http://arxiv.org/pdf/2401.18024v1)|null|
-|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018v1](http://arxiv.org/abs/2401.18018v1)|[2401.18018v1](http://arxiv.org/pdf/2401.18018v1)|null|
+|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018v1](http://arxiv.org/abs/2401.18018v1)|[2401.18018v1](http://arxiv.org/pdf/2401.18018v1)|**[link](https://github.com/chujiezheng/llm-safeguard)**|
 |**2024-01-31**|**Shrub of a thousand faces: an individual segmentation from satellite images using deep learning**|Rohaifa Khaldi et.al.|[2401.17985v1](http://arxiv.org/abs/2401.17985v1)|[2401.17985v1](http://arxiv.org/pdf/2401.17985v1)|null|
 |**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981v1](http://arxiv.org/abs/2401.17981v1)|[2401.17981v1](http://arxiv.org/pdf/2401.17981v1)|null|
 |**2024-01-31**|**Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning**|Arnau Pastor et.al.|[2401.17976v1](http://arxiv.org/abs/2401.17976v1)|[2401.17976v1](http://arxiv.org/pdf/2401.17976v1)|null|
