@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-05**|**The origin of kinematically-persistent planes of satellite galaxies as driven by the early evolution of the local Cosmic Web in $Λ$CDM**|Matías Gámez-Marín et.al.|[2402.03288v1](http://arxiv.org/abs/2402.03288v1)|[2402.03288v1](http://arxiv.org/pdf/2402.03288v1)|null|
+|**2024-02-05**|**Characteristics and development of the main phase disturbance in geomagnetic storms (Dst $\le$ -50 nT)**|Osman M. Ahmed et.al.|[2402.03261v1](http://arxiv.org/abs/2402.03261v1)|[2402.03261v1](http://arxiv.org/pdf/2402.03261v1)|null|
+|**2024-02-05**|**The Disruption of Dark Matter Minihalos by Successive Stellar Encounters**|Ian DSouza et.al.|[2402.03236v1](http://arxiv.org/abs/2402.03236v1)|[2402.03236v1](http://arxiv.org/pdf/2402.03236v1)|null|
+|**2024-02-05**|**Spectroscopic Insights into the Quiescent Stages of RS Ophiuchi (2006-2021): Photoionization Modeling and Accretion Dynamics**|Gesesew R. Habtie et.al.|[2402.03234v1](http://arxiv.org/abs/2402.03234v1)|[2402.03234v1](http://arxiv.org/pdf/2402.03234v1)|null|
+|**2024-02-05**|**Turbulence modelling in neutron star merger simulations**|David Radice et.al.|[2402.03224v1](http://arxiv.org/abs/2402.03224v1)|[2402.03224v1](http://arxiv.org/pdf/2402.03224v1)|null|
+|**2024-02-05**|**Angular Momentum Transport in Binary Star Formation: The Enhancement of Magneto-Rotational Instability and Role of Outflows**|Tomoaki Matsumoto et.al.|[2402.03212v1](http://arxiv.org/abs/2402.03212v1)|[2402.03212v1](http://arxiv.org/pdf/2402.03212v1)|null|
+|**2024-02-05**|**Quantum tunneling in the early universe: Stable magnetic monopoles from metastable cosmic strings**|George Lazarides et.al.|[2402.03128v1](http://arxiv.org/abs/2402.03128v1)|[2402.03128v1](http://arxiv.org/pdf/2402.03128v1)|null|
+|**2024-02-05**|**Nonlinear feedback of the electrostatic instability on the blazar-induced pair beam and GeV cascade**|Mahmoud Alawashra et.al.|[2402.03127v1](http://arxiv.org/abs/2402.03127v1)|[2402.03127v1](http://arxiv.org/pdf/2402.03127v1)|null|
+|**2024-02-05**|**Cosmography with next-generation gravitational wave detectors**|Hsin-Yu Chen et.al.|[2402.03120v1](http://arxiv.org/abs/2402.03120v1)|[2402.03120v1](http://arxiv.org/pdf/2402.03120v1)|null|
+|**2024-02-05**|**Reply to: Effects of density and temperature variations on the metallicity of Mrk 71**|Yuguang Chen et.al.|[2402.03105v1](http://arxiv.org/abs/2402.03105v1)|[2402.03105v1](http://arxiv.org/pdf/2402.03105v1)|null|
 |**2024-02-02**|**Tidal Forces in Majumdar-Papapetrou Spacetimes**|Eduardo Albacete et.al.|[2402.01634v1](http://arxiv.org/abs/2402.01634v1)|[2402.01634v1](http://arxiv.org/pdf/2402.01634v1)|null|
 |**2024-02-02**|**From gas to stars: MUSEings on the internal evolution of IC 1613**|S. Taibi et.al.|[2402.01631v1](http://arxiv.org/abs/2402.01631v1)|[2402.01631v1](http://arxiv.org/pdf/2402.01631v1)|null|
 |**2024-02-02**|**Asymmetry of the spectral lines of the coronal hole and quiet Sun in the transition region**|Razieh Hosseini et.al.|[2402.01628v1](http://arxiv.org/abs/2402.01628v1)|[2402.01628v1](http://arxiv.org/pdf/2402.01628v1)|null|
@@ -4053,6 +4063,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-05**|**HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**|Shengcao Cao et.al.|[2402.03311v1](http://arxiv.org/abs/2402.03311v1)|[2402.03311v1](http://arxiv.org/pdf/2402.03311v1)|null|
+|**2024-02-05**|**V-IRL: Grounding Virtual Intelligence in Real Life**|Jihan Yang et.al.|[2402.03310v1](http://arxiv.org/abs/2402.03310v1)|[2402.03310v1](http://arxiv.org/pdf/2402.03310v1)|null|
+|**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|[2402.03305v1](http://arxiv.org/pdf/2402.03305v1)|null|
+|**2024-02-05**|**Nevermind: Instruction Override and Moderation in Large Language Models**|Edward Kim et.al.|[2402.03303v1](http://arxiv.org/abs/2402.03303v1)|[2402.03303v1](http://arxiv.org/pdf/2402.03303v1)|null|
+|**2024-02-05**|**DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**|Zhihong Shao et.al.|[2402.03300v1](http://arxiv.org/abs/2402.03300v1)|[2402.03300v1](http://arxiv.org/pdf/2402.03300v1)|**[link](https://github.com/deepseek-ai/deepseek-math)**|
+|**2024-02-05**|**Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks**|Yongchang Hao et.al.|[2402.03295v1](http://arxiv.org/abs/2402.03295v1)|[2402.03295v1](http://arxiv.org/pdf/2402.03295v1)|null|
+|**2024-02-05**|**Flora: Low-Rank Adapters Are Secretly Gradient Compressors**|Yongchang Hao et.al.|[2402.03293v1](http://arxiv.org/abs/2402.03293v1)|[2402.03293v1](http://arxiv.org/pdf/2402.03293v1)|null|
+|**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290v1](http://arxiv.org/abs/2402.03290v1)|[2402.03290v1](http://arxiv.org/pdf/2402.03290v1)|null|
+|**2024-02-05**|**Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS**|Matthew DeLorenzo et.al.|[2402.03289v1](http://arxiv.org/abs/2402.03289v1)|[2402.03289v1](http://arxiv.org/pdf/2402.03289v1)|null|
+|**2024-02-05**|**Training-Free Consistent Text-to-Image Generation**|Yoad Tewel et.al.|[2402.03286v1](http://arxiv.org/abs/2402.03286v1)|[2402.03286v1](http://arxiv.org/pdf/2402.03286v1)|null|
 |**2024-02-02**|**TravelPlanner: A Benchmark for Real-World Planning with Language Agents**|Jian Xie et.al.|[2402.01622v1](http://arxiv.org/abs/2402.01622v1)|[2402.01622v1](http://arxiv.org/pdf/2402.01622v1)|null|
 |**2024-02-02**|**L2G2G: a Scalable Local-to-Global Network Embedding with Graph Autoencoders**|Ruikang Ouyang et.al.|[2402.01614v1](http://arxiv.org/abs/2402.01614v1)|[2402.01614v1](http://arxiv.org/pdf/2402.01614v1)|**[link](https://github.com/tonyauyeung/local2gae2global)**|
 |**2024-02-02**|**Nomic Embed: Training a Reproducible Long Context Text Embedder**|Zach Nussbaum et.al.|[2402.01613v1](http://arxiv.org/abs/2402.01613v1)|[2402.01613v1](http://arxiv.org/pdf/2402.01613v1)|**[link](https://github.com/nomic-ai/contrastors)**|
