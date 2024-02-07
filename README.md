@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-06**|**JWST reveals a high fraction of disk breaks at $1\leq z\leq 3$**|Dewang Xu et.al.|[2402.04233v1](http://arxiv.org/abs/2402.04233v1)|[2402.04233v1](http://arxiv.org/pdf/2402.04233v1)|null|
+|**2024-02-06**|**Medium Resolution 0.97-5.3 micron spectra of Very Young Benchmark Brown Dwarfs with NIRSpec onboard the James Webb Space Telescope**|Elena Manjavacas et.al.|[2402.04230v1](http://arxiv.org/abs/2402.04230v1)|[2402.04230v1](http://arxiv.org/pdf/2402.04230v1)|null|
+|**2024-02-06**|**An overview of existing and new nuclear and astrophysical constraints on the equation of state of neutron-rich dense matter**|Hauke Koehn et.al.|[2402.04172v1](http://arxiv.org/abs/2402.04172v1)|[2402.04172v1](http://arxiv.org/pdf/2402.04172v1)|null|
+|**2024-02-06**|**Black holes and gravitational waves from slow phase transitions**|Marek Lewicki et.al.|[2402.04158v1](http://arxiv.org/abs/2402.04158v1)|[2402.04158v1](http://arxiv.org/pdf/2402.04158v1)|null|
+|**2024-02-06**|**On the fate of slow boulders ejected after DART impact on Dimorphos**|Fernando Moreno et.al.|[2402.04145v1](http://arxiv.org/abs/2402.04145v1)|[2402.04145v1](http://arxiv.org/pdf/2402.04145v1)|null|
+|**2024-02-06**|**The Stellar "Snake" -- II: The Mass Function**|Xiang-Ming Yang et.al.|[2402.04130v1](http://arxiv.org/abs/2402.04130v1)|[2402.04130v1](http://arxiv.org/pdf/2402.04130v1)|null|
+|**2024-02-06**|**TESS and ESPRESSO discover a super-Earth and a mini-Neptune orbiting the K-dwarf TOI-238**|A. Suárez Mascareño et.al.|[2402.04113v1](http://arxiv.org/abs/2402.04113v1)|[2402.04113v1](http://arxiv.org/pdf/2402.04113v1)|null|
+|**2024-02-06**|**Bayesian sensitivity of binary pulsars to ultra-light dark matter**|Pavel Kůs et.al.|[2402.04099v1](http://arxiv.org/abs/2402.04099v1)|[2402.04099v1](http://arxiv.org/pdf/2402.04099v1)|null|
+|**2024-02-06**|**Design and implementation of a real-time onboard system for a stratospheric balloon mission using commercial off-the-self components and a model-based approach**|Angel-Grover Perez-Munoz et.al.|[2402.04079v1](http://arxiv.org/abs/2402.04079v1)|[2402.04079v1](http://arxiv.org/pdf/2402.04079v1)|null|
+|**2024-02-06**|**iSLAT: the Interactive Spectral-Line Analysis Tool for JWST and beyond**|Evan Jellison et.al.|[2402.04060v1](http://arxiv.org/abs/2402.04060v1)|[2402.04060v1](http://arxiv.org/pdf/2402.04060v1)|null|
 |**2024-02-05**|**The origin of kinematically-persistent planes of satellite galaxies as driven by the early evolution of the local Cosmic Web in $Λ$CDM**|Matías Gámez-Marín et.al.|[2402.03288v1](http://arxiv.org/abs/2402.03288v1)|[2402.03288v1](http://arxiv.org/pdf/2402.03288v1)|null|
 |**2024-02-05**|**Characteristics and development of the main phase disturbance in geomagnetic storms (Dst $\le$ -50 nT)**|Osman M. Ahmed et.al.|[2402.03261v1](http://arxiv.org/abs/2402.03261v1)|[2402.03261v1](http://arxiv.org/pdf/2402.03261v1)|null|
 |**2024-02-05**|**The Disruption of Dark Matter Minihalos by Successive Stellar Encounters**|Ian DSouza et.al.|[2402.03236v1](http://arxiv.org/abs/2402.03236v1)|[2402.03236v1](http://arxiv.org/pdf/2402.03236v1)|null|
@@ -4059,6 +4069,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-06**|**AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**|Yu Du et.al.|[2402.04253v1](http://arxiv.org/abs/2402.04253v1)|[2402.04253v1](http://arxiv.org/pdf/2402.04253v1)|null|
+|**2024-02-06**|**HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal**|Mantas Mazeika et.al.|[2402.04249v1](http://arxiv.org/abs/2402.04249v1)|[2402.04249v1](http://arxiv.org/pdf/2402.04249v1)|**[link](https://github.com/centerforaisafety/harmbench)**|
+|**2024-02-06**|**Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**|Xiangru Tang et.al.|[2402.04247v1](http://arxiv.org/abs/2402.04247v1)|[2402.04247v1](http://arxiv.org/pdf/2402.04247v1)|null|
+|**2024-02-06**|**Can Generative Agents Predict Emotion?**|Ciaran Regan et.al.|[2402.04232v1](http://arxiv.org/abs/2402.04232v1)|[2402.04232v1](http://arxiv.org/pdf/2402.04232v1)|null|
+|**2024-02-06**|**Intelligent Collective Escape of Swarm Robots Based on a Novel Fish-inspired Self-adaptive Approach with Neurodynamic Models**|Junfei Li et.al.|[2402.04228v1](http://arxiv.org/abs/2402.04228v1)|[2402.04228v1](http://arxiv.org/pdf/2402.04228v1)|null|
+|**2024-02-06**|**"Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors**|Lin Guan et.al.|[2402.04210v1](http://arxiv.org/abs/2402.04210v1)|[2402.04210v1](http://arxiv.org/pdf/2402.04210v1)|null|
+|**2024-02-06**|**Acute kidney injury prediction for non-critical care patients: a retrospective external and internal validation study**|Esra Adiyeke et.al.|[2402.04209v1](http://arxiv.org/abs/2402.04209v1)|[2402.04209v1](http://arxiv.org/pdf/2402.04209v1)|null|
+|**2024-02-06**|**Human-Like Geometric Abstraction in Large Pre-trained Neural Networks**|Declan Campbell et.al.|[2402.04203v1](http://arxiv.org/abs/2402.04203v1)|[2402.04203v1](http://arxiv.org/pdf/2402.04203v1)|null|
+|**2024-02-06**|**COPS: A Compact On-device Pipeline for real-time Smishing detection**|Harichandana B S S et.al.|[2402.04173v1](http://arxiv.org/abs/2402.04173v1)|[2402.04173v1](http://arxiv.org/pdf/2402.04173v1)|null|
+|**2024-02-06**|**Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction**|Yonggang Jin et.al.|[2402.04154v1](http://arxiv.org/abs/2402.04154v1)|[2402.04154v1](http://arxiv.org/pdf/2402.04154v1)|**[link](https://github.com/ygjin11/r2-play)**|
 |**2024-02-05**|**HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**|Shengcao Cao et.al.|[2402.03311v1](http://arxiv.org/abs/2402.03311v1)|[2402.03311v1](http://arxiv.org/pdf/2402.03311v1)|null|
 |**2024-02-05**|**V-IRL: Grounding Virtual Intelligence in Real Life**|Jihan Yang et.al.|[2402.03310v1](http://arxiv.org/abs/2402.03310v1)|[2402.03310v1](http://arxiv.org/pdf/2402.03310v1)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|[2402.03305v1](http://arxiv.org/pdf/2402.03305v1)|null|
