@@ -4071,8 +4071,8 @@
 |---|---|---|---|---|---|
 |**2024-02-06**|**AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**|Yu Du et.al.|[2402.04253v1](http://arxiv.org/abs/2402.04253v1)|[2402.04253v1](http://arxiv.org/pdf/2402.04253v1)|null|
 |**2024-02-06**|**HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal**|Mantas Mazeika et.al.|[2402.04249v1](http://arxiv.org/abs/2402.04249v1)|[2402.04249v1](http://arxiv.org/pdf/2402.04249v1)|**[link](https://github.com/centerforaisafety/harmbench)**|
-|**2024-02-06**|**Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**|Xiangru Tang et.al.|[2402.04247v1](http://arxiv.org/abs/2402.04247v1)|[2402.04247v1](http://arxiv.org/pdf/2402.04247v1)|null|
-|**2024-02-06**|**Can Generative Agents Predict Emotion?**|Ciaran Regan et.al.|[2402.04232v1](http://arxiv.org/abs/2402.04232v1)|[2402.04232v1](http://arxiv.org/pdf/2402.04232v1)|null|
+|**2024-02-07**|**Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**|Xiangru Tang et.al.|[2402.04247v2](http://arxiv.org/abs/2402.04247v2)|[2402.04247v2](http://arxiv.org/pdf/2402.04247v2)|null|
+|**2024-02-07**|**Can Generative Agents Predict Emotion?**|Ciaran Regan et.al.|[2402.04232v2](http://arxiv.org/abs/2402.04232v2)|[2402.04232v2](http://arxiv.org/pdf/2402.04232v2)|null|
 |**2024-02-06**|**Intelligent Collective Escape of Swarm Robots Based on a Novel Fish-inspired Self-adaptive Approach with Neurodynamic Models**|Junfei Li et.al.|[2402.04228v1](http://arxiv.org/abs/2402.04228v1)|[2402.04228v1](http://arxiv.org/pdf/2402.04228v1)|null|
 |**2024-02-06**|**"Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors**|Lin Guan et.al.|[2402.04210v1](http://arxiv.org/abs/2402.04210v1)|[2402.04210v1](http://arxiv.org/pdf/2402.04210v1)|null|
 |**2024-02-06**|**Acute kidney injury prediction for non-critical care patients: a retrospective external and internal validation study**|Esra Adiyeke et.al.|[2402.04209v1](http://arxiv.org/abs/2402.04209v1)|[2402.04209v1](http://arxiv.org/pdf/2402.04209v1)|null|
