@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925v1](http://arxiv.org/abs/2402.05925v1)|[2402.05925v1](http://arxiv.org/pdf/2402.05925v1)|null|
+|**2024-02-08**|**Horizontal branch structure, age, and chemical composition for very metal-poor extragalactic globular clusters**|M. E. Sharina et.al.|[2402.05922v1](http://arxiv.org/abs/2402.05922v1)|[2402.05922v1](http://arxiv.org/pdf/2402.05922v1)|null|
+|**2024-02-08**|**Cosmic-ray induced ionization rates and non-thermal emissions from nuclei of starburst galaxies**|Vo Hong Minh Phan et.al.|[2402.05915v1](http://arxiv.org/abs/2402.05915v1)|[2402.05915v1](http://arxiv.org/pdf/2402.05915v1)|null|
+|**2024-02-08**|**Towards a holistic magnetic braking model -- II: explaining several long-term internal- and surface-spin properties of solar-like stars and the Sun**|Arnab Sarkar et.al.|[2402.05912v1](http://arxiv.org/abs/2402.05912v1)|[2402.05912v1](http://arxiv.org/pdf/2402.05912v1)|null|
+|**2024-02-08**|**Transition dynamics in the $Λ_{s}$CDM model: Implications for bound cosmic structures**|Evangelos A. Paraskevas et.al.|[2402.05908v1](http://arxiv.org/abs/2402.05908v1)|[2402.05908v1](http://arxiv.org/pdf/2402.05908v1)|null|
+|**2024-02-08**|**High-precision atmospheric characterization of a Y dwarf with JWST NIRSpec G395H spectroscopy: isotopologue, C/O ratio, metallicity, and the abundances of six molecular species**|Ben W. P. Lew et.al.|[2402.05900v1](http://arxiv.org/abs/2402.05900v1)|[2402.05900v1](http://arxiv.org/pdf/2402.05900v1)|null|
+|**2024-02-08**|**Scalar Radiation with a Quartic Galileon**|Claudia de Rham et.al.|[2402.05898v1](http://arxiv.org/abs/2402.05898v1)|[2402.05898v1](http://arxiv.org/pdf/2402.05898v1)|null|
+|**2024-02-08**|**Simulating a numerical UV Completion of Quartic Galileons**|Mary Gerhardinger et.al.|[2402.05897v1](http://arxiv.org/abs/2402.05897v1)|[2402.05897v1](http://arxiv.org/pdf/2402.05897v1)|null|
+|**2024-02-08**|**Probing the small scale structure of the Inter-Galactic Medium with ESPRESSO: spectroscopy of the lensed QSO UM673**|Stefano Cristiani et.al.|[2402.05896v1](http://arxiv.org/abs/2402.05896v1)|[2402.05896v1](http://arxiv.org/pdf/2402.05896v1)|null|
+|**2024-02-08**|**Kilonova Light-Curve Interpolation with Neural Networks**|Yinglei Peng et.al.|[2402.05871v1](http://arxiv.org/abs/2402.05871v1)|[2402.05871v1](http://arxiv.org/pdf/2402.05871v1)|null|
 |**2024-02-07**|**Nature of the diffuse emission sources in the H I supershell in the galaxy IC 1613**|Anastasiya D. Yarovova et.al.|[2402.05107v1](http://arxiv.org/abs/2402.05107v1)|[2402.05107v1](http://arxiv.org/pdf/2402.05107v1)|null|
 |**2024-02-07**|**Measuring Neutron Star Radius with second and third generation Gravitational Wave Detector Networks**|Ananya Bandopadhyay et.al.|[2402.05056v1](http://arxiv.org/abs/2402.05056v1)|[2402.05056v1](http://arxiv.org/pdf/2402.05056v1)|null|
 |**2024-02-07**|**Laboratory study of magnetic reconnection in lunar-relevant mini-magnetospheres**|Lucas Rovige et.al.|[2402.05043v1](http://arxiv.org/abs/2402.05043v1)|[2402.05043v1](http://arxiv.org/pdf/2402.05043v1)|null|
@@ -4079,6 +4089,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935v1](http://arxiv.org/abs/2402.05935v1)|[2402.05935v1](http://arxiv.org/pdf/2402.05935v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933v1](http://arxiv.org/abs/2402.05933v1)|[2402.05933v1](http://arxiv.org/pdf/2402.05933v1)|null|
+|**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[2402.05932v1](http://arxiv.org/abs/2402.05932v1)|[2402.05932v1](http://arxiv.org/pdf/2402.05932v1)|null|
+|**2024-02-08**|**An Interactive Agent Foundation Model**|Zane Durante et.al.|[2402.05929v1](http://arxiv.org/abs/2402.05929v1)|[2402.05929v1](http://arxiv.org/pdf/2402.05929v1)|null|
+|**2024-02-08**|**On the Use of Decision Tree Regression for Predicting Vibration Frequency Response of Handheld Probes**|Roberto San Millán-Castillo et.al.|[2402.05921v1](http://arxiv.org/abs/2402.05921v1)|[2402.05921v1](http://arxiv.org/pdf/2402.05921v1)|null|
+|**2024-02-08**|**Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games**|Hafez Ghaemi et.al.|[2402.05906v1](http://arxiv.org/abs/2402.05906v1)|[2402.05906v1](http://arxiv.org/pdf/2402.05906v1)|**[link](https://github.com/hafezgh/risk-sensitive-marl-namg)**|
+|**2024-02-08**|**ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation**|Aimee Guo et.al.|[2402.05902v1](http://arxiv.org/abs/2402.05902v1)|[2402.05902v1](http://arxiv.org/pdf/2402.05902v1)|null|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|[2402.05894v1](http://arxiv.org/pdf/2402.05894v1)|null|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889v1](http://arxiv.org/abs/2402.05889v1)|[2402.05889v1](http://arxiv.org/pdf/2402.05889v1)|null|
+|**2024-02-08**|**Generative Echo Chamber? Effects of LLM-Powered Search Systems on Diverse Information Seeking**|Nikhil Sharma et.al.|[2402.05880v1](http://arxiv.org/abs/2402.05880v1)|[2402.05880v1](http://arxiv.org/pdf/2402.05880v1)|null|
 |**2024-02-07**|**Edu-ConvoKit: An Open-Source Library for Education Conversation Data**|Rose E. Wang et.al.|[2402.05111v1](http://arxiv.org/abs/2402.05111v1)|[2402.05111v1](http://arxiv.org/pdf/2402.05111v1)|**[link](https://github.com/stanfordnlp/edu-convokit)**|
 |**2024-02-07**|**Image captioning for Brazilian Portuguese using GRIT model**|Rafael Silva de Alencar et.al.|[2402.05106v1](http://arxiv.org/abs/2402.05106v1)|[2402.05106v1](http://arxiv.org/pdf/2402.05106v1)|null|
 |**2024-02-07**|**A Roadmap to Pluralistic Alignment**|Taylor Sorensen et.al.|[2402.05070v1](http://arxiv.org/abs/2402.05070v1)|[2402.05070v1](http://arxiv.org/pdf/2402.05070v1)|null|
