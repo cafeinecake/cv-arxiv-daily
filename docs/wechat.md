@@ -1,4 +1,4 @@
-> Updated on 2024.02.10
+> Updated on 2024.02.11
 
 ## Astrophysics
 
@@ -4086,7 +4086,7 @@
 ## AI
 
 - 2024-02-08, **SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**, Peng Gao et.al., Paper: [http://arxiv.org/abs/2402.05935v1](http://arxiv.org/abs/2402.05935v1),Paper: [http://arxiv.org/abs/2402.05935v1](http://arxiv.org/pdf/2402.05935v1), Code: **[https://github.com/alpha-vllm/llama2-accessory](https://github.com/alpha-vllm/llama2-accessory)**
-- 2024-02-08, **Time Series Diffusion in the Frequency Domain**, Jonathan Crabbé et.al., Paper: [http://arxiv.org/abs/2402.05933v1](http://arxiv.org/abs/2402.05933v1), Paper: [http://arxiv.org/abs/2402.05933v1](http://arxiv.org/pdf/2402.05933v1)
+- 2024-02-08, **Time Series Diffusion in the Frequency Domain**, Jonathan Crabbé et.al., Paper: [http://arxiv.org/abs/2402.05933v1](http://arxiv.org/abs/2402.05933v1),Paper: [http://arxiv.org/abs/2402.05933v1](http://arxiv.org/pdf/2402.05933v1), Code: **[https://github.com/jonathancrabbe/fourierdiffusion](https://github.com/jonathancrabbe/fourierdiffusion)**
 - 2024-02-08, **Driving Everywhere with Large Language Model Policy Adaptation**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2402.05932v1](http://arxiv.org/abs/2402.05932v1), Paper: [http://arxiv.org/abs/2402.05932v1](http://arxiv.org/pdf/2402.05932v1)
 - 2024-02-08, **An Interactive Agent Foundation Model**, Zane Durante et.al., Paper: [http://arxiv.org/abs/2402.05929v1](http://arxiv.org/abs/2402.05929v1), Paper: [http://arxiv.org/abs/2402.05929v1](http://arxiv.org/pdf/2402.05929v1)
 - 2024-02-08, **On the Use of Decision Tree Regression for Predicting Vibration Frequency Response of Handheld Probes**, Roberto San Millán-Castillo et.al., Paper: [http://arxiv.org/abs/2402.05921v1](http://arxiv.org/abs/2402.05921v1), Paper: [http://arxiv.org/abs/2402.05921v1](http://arxiv.org/pdf/2402.05921v1)
