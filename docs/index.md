@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-09**|**Stellar populations of massive early-type galaxies observed by MUSE**|Taniya Parikh et.al.|[2402.06628v1](http://arxiv.org/abs/2402.06628v1)|[2402.06628v1](http://arxiv.org/pdf/2402.06628v1)|null|
+|**2024-02-09**|**Primordial Black Holes and Scalar-induced Gravitational Waves in Radiative Hybrid Inflation**|Adeela Afzal et.al.|[2402.06613v1](http://arxiv.org/abs/2402.06613v1)|[2402.06613v1](http://arxiv.org/pdf/2402.06613v1)|null|
+|**2024-02-09**|**Damping of density oscillations from bulk viscosity in quark matter**|Jose Luis Hernandez et.al.|[2402.06595v1](http://arxiv.org/abs/2402.06595v1)|[2402.06595v1](http://arxiv.org/pdf/2402.06595v1)|null|
+|**2024-02-09**|**Time resolved spectroscopy of a GRS 1915+105 flare during its unusual low state using AstroSat**|Sajad Boked et.al.|[2402.06569v1](http://arxiv.org/abs/2402.06569v1)|[2402.06569v1](http://arxiv.org/pdf/2402.06569v1)|null|
+|**2024-02-09**|**Axion Star Explosions and the Reionization History of the Universe**|Miguel Escudero et.al.|[2402.06547v1](http://arxiv.org/abs/2402.06547v1)|[2402.06547v1](http://arxiv.org/pdf/2402.06547v1)|null|
+|**2024-02-09**|**Supernova dust destruction in the magnetized turbulent ISM**|Florian Kirchschlager et.al.|[2402.06543v1](http://arxiv.org/abs/2402.06543v1)|[2402.06543v1](http://arxiv.org/pdf/2402.06543v1)|null|
+|**2024-02-09**|**Polarization of circumstellar debris disk light echoes**|Austin J. King et.al.|[2402.06540v1](http://arxiv.org/abs/2402.06540v1)|[2402.06540v1](http://arxiv.org/pdf/2402.06540v1)|null|
+|**2024-02-09**|**Isochrone fitting of Galactic globular clusters -- V. NGC6397 and NGC6809 (M55)**|George A. Gontcharov et.al.|[2402.06524v1](http://arxiv.org/abs/2402.06524v1)|[2402.06524v1](http://arxiv.org/pdf/2402.06524v1)|null|
+|**2024-02-09**|**UV Irradiation Facility for Solar Effects Simulations**|Ali Behcet Alpat et.al.|[2402.06517v1](http://arxiv.org/abs/2402.06517v1)|[2402.06517v1](http://arxiv.org/pdf/2402.06517v1)|null|
+|**2024-02-09**|**Signatures of Nuclear Isomers in Gamma-Ray Bursts from Binary Neutron Star Mergers**|Maria C. Babiuc Hamilton et.al.|[2402.06498v1](http://arxiv.org/abs/2402.06498v1)|[2402.06498v1](http://arxiv.org/pdf/2402.06498v1)|null|
 |**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925v1](http://arxiv.org/abs/2402.05925v1)|[2402.05925v1](http://arxiv.org/pdf/2402.05925v1)|null|
 |**2024-02-08**|**Horizontal branch structure, age, and chemical composition for very metal-poor extragalactic globular clusters**|M. E. Sharina et.al.|[2402.05922v1](http://arxiv.org/abs/2402.05922v1)|[2402.05922v1](http://arxiv.org/pdf/2402.05922v1)|null|
 |**2024-02-08**|**Cosmic-ray induced ionization rates and non-thermal emissions from nuclei of starburst galaxies**|Vo Hong Minh Phan et.al.|[2402.05915v1](http://arxiv.org/abs/2402.05915v1)|[2402.05915v1](http://arxiv.org/pdf/2402.05915v1)|null|
@@ -4093,6 +4103,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-09**|**Feedback Loops With Language Models Drive In-Context Reward Hacking**|Alexander Pan et.al.|[2402.06627v1](http://arxiv.org/abs/2402.06627v1)|[2402.06627v1](http://arxiv.org/pdf/2402.06627v1)|null|
+|**2024-02-09**|**Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning**|Shivalika Singh et.al.|[2402.06619v1](http://arxiv.org/abs/2402.06619v1)|[2402.06619v1](http://arxiv.org/pdf/2402.06619v1)|null|
+|**2024-02-09**|**Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures**|Madhumita Mondal et.al.|[2402.06616v1](http://arxiv.org/abs/2402.06616v1)|[2402.06616v1](http://arxiv.org/pdf/2402.06616v1)|null|
+|**2024-02-09**|**TIC: Translate-Infer-Compile for accurate 'text to plan' using LLMs and logical intermediate representations**|Sudhir Agarwal et.al.|[2402.06608v1](http://arxiv.org/abs/2402.06608v1)|[2402.06608v1](http://arxiv.org/pdf/2402.06608v1)|null|
+|**2024-02-09**|**RQP-SGD: Differential Private Machine Learning through Noisy SGD and Randomized Quantization**|Ce Feng et.al.|[2402.06606v1](http://arxiv.org/abs/2402.06606v1)|[2402.06606v1](http://arxiv.org/pdf/2402.06606v1)|null|
+|**2024-02-09**|**On the Out-Of-Distribution Generalization of Multimodal Large Language Models**|Xingxuan Zhang et.al.|[2402.06599v1](http://arxiv.org/abs/2402.06599v1)|[2402.06599v1](http://arxiv.org/pdf/2402.06599v1)|null|
+|**2024-02-09**|**Understanding the Weakness of Large Language Model Agents within a Complex Android Environment**|Mingzhe Xing et.al.|[2402.06596v1](http://arxiv.org/abs/2402.06596v1)|[2402.06596v1](http://arxiv.org/pdf/2402.06596v1)|**[link](https://github.com/androidarenaagent/androidarena)**|
+|**2024-02-09**|**Predictive representations: building blocks of intelligence**|Wilka Carvalho et.al.|[2402.06590v1](http://arxiv.org/abs/2402.06590v1)|[2402.06590v1](http://arxiv.org/pdf/2402.06590v1)|null|
+|**2024-02-09**|**Generating Higher Order Modes from Binary Black Hole mergers with Machine Learning**|Tim Grimbergen et.al.|[2402.06587v1](http://arxiv.org/abs/2402.06587v1)|[2402.06587v1](http://arxiv.org/pdf/2402.06587v1)|null|
+|**2024-02-09**|**G-SciEdBERT: A Contextualized LLM for Science Assessment Tasks in German**|Ehsan Latif et.al.|[2402.06584v1](http://arxiv.org/abs/2402.06584v1)|[2402.06584v1](http://arxiv.org/pdf/2402.06584v1)|null|
 |**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935v1](http://arxiv.org/abs/2402.05935v1)|[2402.05935v1](http://arxiv.org/pdf/2402.05935v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933v1](http://arxiv.org/abs/2402.05933v1)|[2402.05933v1](http://arxiv.org/pdf/2402.05933v1)|**[link](https://github.com/jonathancrabbe/fourierdiffusion)**|
 |**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[2402.05932v1](http://arxiv.org/abs/2402.05932v1)|[2402.05932v1](http://arxiv.org/pdf/2402.05932v1)|null|
