@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-12**|**Ephemeris Matching Reveals False Positive Validated and Candidate Planets from the K2 Mission**|Drake A. Lehmann et.al.|[2402.07903v1](http://arxiv.org/abs/2402.07903v1)|[2402.07903v1](http://arxiv.org/pdf/2402.07903v1)|null|
+|**2024-02-12**|**CHIME/FRB Outriggers: KKO Station System and Commissioning Results**|Adam E. Lanman et.al.|[2402.07898v1](http://arxiv.org/abs/2402.07898v1)|[2402.07898v1](http://arxiv.org/pdf/2402.07898v1)|null|
+|**2024-02-12**|**The TESS-Keck Survey XXI: 13 New Planets and Homogeneous Properties for 21 Subgiant Systems**|Ashley Chontos et.al.|[2402.07893v1](http://arxiv.org/abs/2402.07893v1)|[2402.07893v1](http://arxiv.org/pdf/2402.07893v1)|null|
+|**2024-02-12**|**Consistent eccentricities for gravitational wave astronomy: Resolving discrepancies between astrophysical simulations and waveform models**|Aditya Vijaykumar et.al.|[2402.07892v1](http://arxiv.org/abs/2402.07892v1)|[2402.07892v1](http://arxiv.org/pdf/2402.07892v1)|null|
+|**2024-02-12**|**Stellar flares**|Adam F. Kowalski et.al.|[2402.07885v1](http://arxiv.org/abs/2402.07885v1)|[2402.07885v1](http://arxiv.org/pdf/2402.07885v1)|null|
+|**2024-02-12**|**3D physical structure and angular expansion of the remnant of the recurrent nova T Pyx**|E. Santamaría et.al.|[2402.07879v1](http://arxiv.org/abs/2402.07879v1)|[2402.07879v1](http://arxiv.org/pdf/2402.07879v1)|null|
+|**2024-02-12**|**TOI-1199\:b and TOI-1273\:b: Two new transiting hot Saturns detected and characterized with SOPHIE and TESS**|J. Serrano Bell et.al.|[2402.07861v1](http://arxiv.org/abs/2402.07861v1)|[2402.07861v1](http://arxiv.org/pdf/2402.07861v1)|null|
+|**2024-02-12**|**The Physical Properties of Low Redshift FeLoBAL Quasars. IV. Optical-Near IR Spectral Energy Distributions and Near-IR Variability Properties**|Karen M. Leighly et.al.|[2402.07855v1](http://arxiv.org/abs/2402.07855v1)|[2402.07855v1](http://arxiv.org/pdf/2402.07855v1)|null|
+|**2024-02-12**|**Uranus's influence on Neptune's exterior mean motion resonances**|Severance Graham et.al.|[2402.07824v1](http://arxiv.org/abs/2402.07824v1)|[2402.07824v1](http://arxiv.org/pdf/2402.07824v1)|null|
+|**2024-02-12**|**Protoplanet collisions: new scaling laws from SPH simulations**|Samuele Crespi et.al.|[2402.07803v1](http://arxiv.org/abs/2402.07803v1)|[2402.07803v1](http://arxiv.org/pdf/2402.07803v1)|null|
 |**2024-02-09**|**Stellar populations of massive early-type galaxies observed by MUSE**|Taniya Parikh et.al.|[2402.06628v1](http://arxiv.org/abs/2402.06628v1)|[2402.06628v1](http://arxiv.org/pdf/2402.06628v1)|null|
 |**2024-02-09**|**Primordial Black Holes and Scalar-induced Gravitational Waves in Radiative Hybrid Inflation**|Adeela Afzal et.al.|[2402.06613v1](http://arxiv.org/abs/2402.06613v1)|[2402.06613v1](http://arxiv.org/pdf/2402.06613v1)|null|
 |**2024-02-09**|**Damping of density oscillations from bulk viscosity in quark matter**|Jose Luis Hernandez et.al.|[2402.06595v1](http://arxiv.org/abs/2402.06595v1)|[2402.06595v1](http://arxiv.org/pdf/2402.06595v1)|null|
@@ -4099,6 +4109,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-12**|**FAST: Factorizable Attention for Speeding up Transformers**|Armin Gerami et.al.|[2402.07901v1](http://arxiv.org/abs/2402.07901v1)|[2402.07901v1](http://arxiv.org/pdf/2402.07901v1)|null|
+|**2024-02-12**|**Detection of Spider Mites on Labrador Beans through Machine Learning Approaches Using Custom Datasets**|Violet Liu et.al.|[2402.07895v1](http://arxiv.org/abs/2402.07895v1)|[2402.07895v1](http://arxiv.org/pdf/2402.07895v1)|null|
+|**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890v1](http://arxiv.org/abs/2402.07890v1)|[2402.07890v1](http://arxiv.org/pdf/2402.07890v1)|null|
+|**2024-02-12**|**Using Graph Theory for Improving Machine Learning-based Detection of Cyber Attacks**|Giacomo Zonneveld et.al.|[2402.07878v1](http://arxiv.org/abs/2402.07878v1)|[2402.07878v1](http://arxiv.org/pdf/2402.07878v1)|null|
+|**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877v1](http://arxiv.org/abs/2402.07877v1)|[2402.07877v1](http://arxiv.org/pdf/2402.07877v1)|null|
+|**2024-02-12**|**Policy Improvement using Language Feedback Models**|Victor Zhong et.al.|[2402.07876v1](http://arxiv.org/abs/2402.07876v1)|[2402.07876v1](http://arxiv.org/pdf/2402.07876v1)|null|
+|**2024-02-12**|**Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States**|Noam Razin et.al.|[2402.07875v1](http://arxiv.org/abs/2402.07875v1)|[2402.07875v1](http://arxiv.org/pdf/2402.07875v1)|**[link](https://github.com/noamrazin/imp_bias_control)**|
+|**2024-02-12**|**Scaling Laws for Fine-Grained Mixture of Experts**|Jakub Krajewski et.al.|[2402.07871v1](http://arxiv.org/abs/2402.07871v1)|[2402.07871v1](http://arxiv.org/pdf/2402.07871v1)|null|
+|**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865v1](http://arxiv.org/abs/2402.07865v1)|[2402.07865v1](http://arxiv.org/pdf/2402.07865v1)|null|
+|**2024-02-12**|**AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy**|Philipp Schoenegger et.al.|[2402.07862v1](http://arxiv.org/abs/2402.07862v1)|[2402.07862v1](http://arxiv.org/pdf/2402.07862v1)|null|
 |**2024-02-09**|**Feedback Loops With Language Models Drive In-Context Reward Hacking**|Alexander Pan et.al.|[2402.06627v1](http://arxiv.org/abs/2402.06627v1)|[2402.06627v1](http://arxiv.org/pdf/2402.06627v1)|null|
 |**2024-02-09**|**Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning**|Shivalika Singh et.al.|[2402.06619v1](http://arxiv.org/abs/2402.06619v1)|[2402.06619v1](http://arxiv.org/pdf/2402.06619v1)|null|
 |**2024-02-09**|**Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures**|Madhumita Mondal et.al.|[2402.06616v1](http://arxiv.org/abs/2402.06616v1)|[2402.06616v1](http://arxiv.org/pdf/2402.06616v1)|null|
