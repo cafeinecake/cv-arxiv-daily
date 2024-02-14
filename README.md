@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-13**|**A demonstration of the effect of fringe-rate filtering in the Hydrogen Epoch of Reionization Array delay power spectrum pipeline**|Hugh Garsden et.al.|[2402.08659v1](http://arxiv.org/abs/2402.08659v1)|[2402.08659v1](http://arxiv.org/pdf/2402.08659v1)|null|
+|**2024-02-13**|**The formation of the magnetic symbiotic star FN Sgr**|Diogo Belloni et.al.|[2402.08647v1](http://arxiv.org/abs/2402.08647v1)|[2402.08647v1](http://arxiv.org/pdf/2402.08647v1)|null|
+|**2024-02-13**|**Clustering of primordial black holes from quantum diffusion during inflation**|Chiara Animali et.al.|[2402.08642v1](http://arxiv.org/abs/2402.08642v1)|[2402.08642v1](http://arxiv.org/pdf/2402.08642v1)|null|
+|**2024-02-13**|**Cosmological evolution of metallicity correlation functions from the Auriga simulations**|Zefeng Li et.al.|[2402.08632v1](http://arxiv.org/abs/2402.08632v1)|[2402.08632v1](http://arxiv.org/pdf/2402.08632v1)|null|
+|**2024-02-13**|**Constraints on Variation of the Weak Scale from Big Bang Nucleosynthesis**|Anne-Katherine Burns et.al.|[2402.08626v1](http://arxiv.org/abs/2402.08626v1)|[2402.08626v1](http://arxiv.org/pdf/2402.08626v1)|null|
+|**2024-02-13**|**A Wave-Corrected Assessment of the Local Midplane**|Ziyuan Yin et.al.|[2402.08624v1](http://arxiv.org/abs/2402.08624v1)|[2402.08624v1](http://arxiv.org/pdf/2402.08624v1)|null|
+|**2024-02-13**|**GRB 231115A -- a magnetar giant flare in the M82 galaxy**|P. Yu. Minaev et.al.|[2402.08623v1](http://arxiv.org/abs/2402.08623v1)|[2402.08623v1](http://arxiv.org/pdf/2402.08623v1)|null|
+|**2024-02-13**|**An X-ray and radio view of the 2022 reactivation of the magnetar SGRJ1935+2154**|A. Y. Ibrahim et.al.|[2402.08596v1](http://arxiv.org/abs/2402.08596v1)|[2402.08596v1](http://arxiv.org/pdf/2402.08596v1)|null|
+|**2024-02-13**|**Tracking solar radio bursts using Bayesian multilateration**|L. A. Cañizares et.al.|[2402.08590v1](http://arxiv.org/abs/2402.08590v1)|[2402.08590v1](http://arxiv.org/pdf/2402.08590v1)|null|
+|**2024-02-13**|**Machine Learning based Pointing Models for Radio/Sub-millimeter Telescopes**|Bendik Nyheim et.al.|[2402.08589v1](http://arxiv.org/abs/2402.08589v1)|[2402.08589v1](http://arxiv.org/pdf/2402.08589v1)|null|
 |**2024-02-12**|**Ephemeris Matching Reveals False Positive Validated and Candidate Planets from the K2 Mission**|Drake A. Lehmann et.al.|[2402.07903v1](http://arxiv.org/abs/2402.07903v1)|[2402.07903v1](http://arxiv.org/pdf/2402.07903v1)|null|
 |**2024-02-12**|**CHIME/FRB Outriggers: KKO Station System and Commissioning Results**|Adam E. Lanman et.al.|[2402.07898v1](http://arxiv.org/abs/2402.07898v1)|[2402.07898v1](http://arxiv.org/pdf/2402.07898v1)|null|
 |**2024-02-12**|**The TESS-Keck Survey XXI: 13 New Planets and Homogeneous Properties for 21 Subgiant Systems**|Ashley Chontos et.al.|[2402.07893v1](http://arxiv.org/abs/2402.07893v1)|[2402.07893v1](http://arxiv.org/pdf/2402.07893v1)|null|
@@ -4109,6 +4119,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682v1](http://arxiv.org/abs/2402.08682v1)|[2402.08682v1](http://arxiv.org/pdf/2402.08682v1)|null|
+|**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680v1](http://arxiv.org/abs/2402.08680v1)|[2402.08680v1](http://arxiv.org/pdf/2402.08680v1)|null|
+|**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679v1](http://arxiv.org/abs/2402.08679v1)|[2402.08679v1](http://arxiv.org/pdf/2402.08679v1)|**[link](https://github.com/yu-fangxu/cold-attack)**|
+|**2024-02-13**|**Model Assessment and Selection under Temporal Distribution Shift**|Elise Han et.al.|[2402.08672v1](http://arxiv.org/abs/2402.08672v1)|[2402.08672v1](http://arxiv.org/pdf/2402.08672v1)|**[link](https://github.com/eliselyhan/arw)**|
+|**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671v1](http://arxiv.org/abs/2402.08671v1)|[2402.08671v1](http://arxiv.org/pdf/2402.08671v1)|null|
+|**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670v1](http://arxiv.org/abs/2402.08670v1)|[2402.08670v1](http://arxiv.org/pdf/2402.08670v1)|null|
+|**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658v1](http://arxiv.org/abs/2402.08658v1)|[2402.08658v1](http://arxiv.org/pdf/2402.08658v1)|null|
+|**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|[2402.08653v1](http://arxiv.org/pdf/2402.08653v1)|null|
+|**2024-02-13**|**Generating Universal Adversarial Perturbations for Quantum Classifiers**|Gautham Anil et.al.|[2402.08648v1](http://arxiv.org/abs/2402.08648v1)|[2402.08648v1](http://arxiv.org/pdf/2402.08648v1)|null|
+|**2024-02-13**|**Inference of Abstraction for a Unified Account of Symbolic Reasoning from Data**|Hiroyuki Kido et.al.|[2402.08646v1](http://arxiv.org/abs/2402.08646v1)|[2402.08646v1](http://arxiv.org/pdf/2402.08646v1)|null|
 |**2024-02-12**|**FAST: Factorizable Attention for Speeding up Transformers**|Armin Gerami et.al.|[2402.07901v1](http://arxiv.org/abs/2402.07901v1)|[2402.07901v1](http://arxiv.org/pdf/2402.07901v1)|null|
 |**2024-02-12**|**Detection of Spider Mites on Labrador Beans through Machine Learning Approaches Using Custom Datasets**|Violet Liu et.al.|[2402.07895v1](http://arxiv.org/abs/2402.07895v1)|[2402.07895v1](http://arxiv.org/pdf/2402.07895v1)|null|
 |**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890v1](http://arxiv.org/abs/2402.07890v1)|[2402.07890v1](http://arxiv.org/pdf/2402.07890v1)|null|
