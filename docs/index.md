@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|[2402.10204v1](http://arxiv.org/pdf/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187v1](http://arxiv.org/abs/2402.10187v1)|[2402.10187v1](http://arxiv.org/pdf/2402.10187v1)|null|
+|**2024-02-15**|**Curves of growth for transiting exocomets: Application to Fe II lines in the Beta Pictoris system**|T. Vrignaud et.al.|[2402.10169v1](http://arxiv.org/abs/2402.10169v1)|[2402.10169v1](http://arxiv.org/pdf/2402.10169v1)|null|
+|**2024-02-15**|**The double low-mass white dwarf eclipsing binary system J2102-4145 and its possible evolution**|Larissa Antunes Amaral et.al.|[2402.10159v1](http://arxiv.org/abs/2402.10159v1)|[2402.10159v1](http://arxiv.org/pdf/2402.10159v1)|null|
+|**2024-02-15**|**A Case for a Binary Black Hole System Revealed via Quasi-Periodic Outflows**|Dheeraj R. Pasham et.al.|[2402.10140v1](http://arxiv.org/abs/2402.10140v1)|[2402.10140v1](http://arxiv.org/pdf/2402.10140v1)|null|
+|**2024-02-15**|**Limitations to the energy resolution of single-photon sensitive Microwave Kinetic Inductance Detectors**|Mario De Lucia et.al.|[2402.10108v1](http://arxiv.org/abs/2402.10108v1)|[2402.10108v1](http://arxiv.org/pdf/2402.10108v1)|null|
+|**2024-02-15**|**Dynamics of cold circumstellar gas in debris disks**|Can Cui et.al.|[2402.10042v1](http://arxiv.org/abs/2402.10042v1)|[2402.10042v1](http://arxiv.org/pdf/2402.10042v1)|null|
+|**2024-02-15**|**An Étude on the Regularization and Renormalization of Divergences in Primordial Observables**|Anna Negro et.al.|[2402.10008v1](http://arxiv.org/abs/2402.10008v1)|[2402.10008v1](http://arxiv.org/pdf/2402.10008v1)|null|
+|**2024-02-15**|**The challenge of identifying INTEGRAL sources on the Galactic plane**|Raffaella Landi et.al.|[2402.10007v1](http://arxiv.org/abs/2402.10007v1)|[2402.10007v1](http://arxiv.org/pdf/2402.10007v1)|null|
+|**2024-02-15**|**Gauge-Independent Metric Reconstruction of Perturbations of Vacuum Spherically-Symmetric Spacetimes**|Michele Lenzi et.al.|[2402.10004v1](http://arxiv.org/abs/2402.10004v1)|[2402.10004v1](http://arxiv.org/pdf/2402.10004v1)|null|
 |**2024-02-14**|**Effects of physical conditions on the stellar initial mass function: The low-metallicity star-forming region Sh 2-209**|Marie Zinnkann et.al.|[2402.09405v1](http://arxiv.org/abs/2402.09405v1)|[2402.09405v1](http://arxiv.org/pdf/2402.09405v1)|null|
 |**2024-02-14**|**Chronology of our Galaxy from Gaia Colour-Magnitude Diagram-fitting (ChronoGal). I. The formation and evolution of the thin disk from the Gaia Catalogue of Nearby Stars**|C. Gallart et.al.|[2402.09399v1](http://arxiv.org/abs/2402.09399v1)|[2402.09399v1](http://arxiv.org/pdf/2402.09399v1)|null|
 |**2024-02-14**|**A 350-MHz Green Bank Telescope Survey of Unassociated Fermi LAT Sources: Discovery and Timing of Ten Millisecond Pulsars**|P. Bangale et.al.|[2402.09366v1](http://arxiv.org/abs/2402.09366v1)|[2402.09366v1](http://arxiv.org/pdf/2402.09366v1)|null|
@@ -4133,6 +4143,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|[2402.10210v1](http://arxiv.org/pdf/2402.10210v1)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|[2402.10207v1](http://arxiv.org/pdf/2402.10207v1)|null|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|[2402.10206v1](http://arxiv.org/pdf/2402.10206v1)|null|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|[2402.10204v1](http://arxiv.org/pdf/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202v1](http://arxiv.org/abs/2402.10202v1)|[2402.10202v1](http://arxiv.org/pdf/2402.10202v1)|null|
+|**2024-02-15**|**A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents**|Lingbo Mo et.al.|[2402.10196v1](http://arxiv.org/abs/2402.10196v1)|[2402.10196v1](http://arxiv.org/pdf/2402.10196v1)|**[link](https://github.com/osu-nlp-group/agentattack)**|
+|**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192v1](http://arxiv.org/abs/2402.10192v1)|[2402.10192v1](http://arxiv.org/pdf/2402.10192v1)|null|
+|**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184v1](http://arxiv.org/abs/2402.10184v1)|[2402.10184v1](http://arxiv.org/pdf/2402.10184v1)|null|
+|**2024-02-15**|**Approaching the absorption limit with monolayer semiconductor superlattices**|Sara A. Elrafei et.al.|[2402.10179v1](http://arxiv.org/abs/2402.10179v1)|[2402.10179v1](http://arxiv.org/pdf/2402.10179v1)|null|
+|**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177v1](http://arxiv.org/abs/2402.10177v1)|[2402.10177v1](http://arxiv.org/pdf/2402.10177v1)|null|
 |**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404v1](http://arxiv.org/abs/2402.09404v1)|[2402.09404v1](http://arxiv.org/pdf/2402.09404v1)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401v1](http://arxiv.org/abs/2402.09401v1)|[2402.09401v1](http://arxiv.org/pdf/2402.09401v1)|null|
 |**2024-02-14**|**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**|Harry Dong et.al.|[2402.09398v1](http://arxiv.org/abs/2402.09398v1)|[2402.09398v1](http://arxiv.org/pdf/2402.09398v1)|null|
