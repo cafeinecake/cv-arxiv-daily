@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|[2402.10204v1](http://arxiv.org/pdf/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187v1](http://arxiv.org/abs/2402.10187v1)|[2402.10187v1](http://arxiv.org/pdf/2402.10187v1)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187v1](http://arxiv.org/abs/2402.10187v1)|[2402.10187v1](http://arxiv.org/pdf/2402.10187v1)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**Curves of growth for transiting exocomets: Application to Fe II lines in the Beta Pictoris system**|T. Vrignaud et.al.|[2402.10169v1](http://arxiv.org/abs/2402.10169v1)|[2402.10169v1](http://arxiv.org/pdf/2402.10169v1)|null|
 |**2024-02-15**|**The double low-mass white dwarf eclipsing binary system J2102-4145 and its possible evolution**|Larissa Antunes Amaral et.al.|[2402.10159v1](http://arxiv.org/abs/2402.10159v1)|[2402.10159v1](http://arxiv.org/pdf/2402.10159v1)|null|
 |**2024-02-15**|**A Case for a Binary Black Hole System Revealed via Quasi-Periodic Outflows**|Dheeraj R. Pasham et.al.|[2402.10140v1](http://arxiv.org/abs/2402.10140v1)|[2402.10140v1](http://arxiv.org/pdf/2402.10140v1)|null|
