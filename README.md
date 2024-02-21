@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-20**|**On the Contribution of Very Massive Stars to the Sulfur Abundance in Star-Forming Galaxies: the Role of PISN**|S. Goswami et.al.|[2402.13240v1](http://arxiv.org/abs/2402.13240v1)|[2402.13240v1](http://arxiv.org/pdf/2402.13240v1)|null|
+|**2024-02-20**|**Chemical abundances and ionizing mechanisms in the star-forming double-ring of AM 0644-741 using MUSE data**|V. M. A. Gómez-González et.al.|[2402.13230v1](http://arxiv.org/abs/2402.13230v1)|[2402.13230v1](http://arxiv.org/pdf/2402.13230v1)|null|
+|**2024-02-20**|**Metallicities and Refined Stellar Parameters for 52 Cool Dwarfs with Transiting Planets and Planet Candidates**|Rebecca Gore et.al.|[2402.13223v1](http://arxiv.org/abs/2402.13223v1)|[2402.13223v1](http://arxiv.org/pdf/2402.13223v1)|null|
+|**2024-02-20**|**European VLBI Network observations of the peculiar radio source 4C 35.06 overlapping with a compact group of nine galaxies**|Patrik Milán Veres et.al.|[2402.13207v1](http://arxiv.org/abs/2402.13207v1)|[2402.13207v1](http://arxiv.org/pdf/2402.13207v1)|null|
+|**2024-02-20**|**A novel image correction method for cloud-affected observations with Imaging Atmospheric Cherenkov Telescopes**|Natalia Żywucka et.al.|[2402.13190v1](http://arxiv.org/abs/2402.13190v1)|[2402.13190v1](http://arxiv.org/pdf/2402.13190v1)|null|
+|**2024-02-20**|**Effects of pair freeze-out on photon distributions in BBN epoch**|Jeongyoon Choi et.al.|[2402.13186v1](http://arxiv.org/abs/2402.13186v1)|[2402.13186v1](http://arxiv.org/pdf/2402.13186v1)|null|
+|**2024-02-20**|**Fits for the convective envelope mass in massive stars**|Lewis Picker et.al.|[2402.13180v1](http://arxiv.org/abs/2402.13180v1)|[2402.13180v1](http://arxiv.org/pdf/2402.13180v1)|null|
+|**2024-02-20**|**Long-term evolution of solar activity and prediction of the following solar cycles**|Peixin Luo et.al.|[2402.13173v1](http://arxiv.org/abs/2402.13173v1)|[2402.13173v1](http://arxiv.org/pdf/2402.13173v1)|null|
+|**2024-02-20**|**Towards a new model-independent calibration of Gamma-Ray Bursts**|Arianna Favale et.al.|[2402.13115v1](http://arxiv.org/abs/2402.13115v1)|[2402.13115v1](http://arxiv.org/pdf/2402.13115v1)|null|
+|**2024-02-20**|**Gravitational Wave Signal Extraction Against Non-Stationary Instrumental Noises with Deep Neural Network**|Yuxiang Xu et.al.|[2402.13091v1](http://arxiv.org/abs/2402.13091v1)|[2402.13091v1](http://arxiv.org/pdf/2402.13091v1)|null|
 |**2024-02-19**|**Radio surface fluctuations in radio relics**|Paola Domínguez-Fernández et.al.|[2402.12375v1](http://arxiv.org/abs/2402.12375v1)|[2402.12375v1](http://arxiv.org/pdf/2402.12375v1)|null|
 |**2024-02-19**|**Short-Period Variables in TESS Full-Frame Image Light Curves Identified via Convolutional Neural Networks**|Greg Olmschenk et.al.|[2402.12369v1](http://arxiv.org/abs/2402.12369v1)|[2402.12369v1](http://arxiv.org/pdf/2402.12369v1)|null|
 |**2024-02-19**|**The first all-sky survey of star-forming galaxies with eROSITA: Scaling relations and a population of X-ray luminous starbursts**|E. Kyritsis et.al.|[2402.12367v1](http://arxiv.org/abs/2402.12367v1)|[2402.12367v1](http://arxiv.org/pdf/2402.12367v1)|null|
@@ -4159,6 +4169,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254v1](http://arxiv.org/abs/2402.13254v1)|[2402.13254v1](http://arxiv.org/pdf/2402.13254v1)|null|
+|**2024-02-20**|**TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization**|Liyan Tang et.al.|[2402.13249v1](http://arxiv.org/abs/2402.13249v1)|[2402.13249v1](http://arxiv.org/pdf/2402.13249v1)|**[link](https://github.com/amazon-science/tofueval)**|
+|**2024-02-20**|**Federated Causal Discovery from Heterogeneous Data**|Loka Li et.al.|[2402.13241v1](http://arxiv.org/abs/2402.13241v1)|[2402.13241v1](http://arxiv.org/pdf/2402.13241v1)|**[link](https://github.com/lokali/fedcdh)**|
+|**2024-02-20**|**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**|Arka Pal et.al.|[2402.13228v1](http://arxiv.org/abs/2402.13228v1)|[2402.13228v1](http://arxiv.org/pdf/2402.13228v1)|null|
+|**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226v1](http://arxiv.org/abs/2402.13226v1)|[2402.13226v1](http://arxiv.org/pdf/2402.13226v1)|null|
+|**2024-02-20**|**AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**|Qiao Jin et.al.|[2402.13225v1](http://arxiv.org/abs/2402.13225v1)|[2402.13225v1](http://arxiv.org/pdf/2402.13225v1)|null|
+|**2024-02-20**|**Controlling Large Electric Vehicle Charging Stations via User Behavior Modeling and Stochastic Programming**|Alban Puech et.al.|[2402.13224v1](http://arxiv.org/abs/2402.13224v1)|[2402.13224v1](http://arxiv.org/pdf/2402.13224v1)|null|
+|**2024-02-20**|**Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies**|Ammar N. Abbas et.al.|[2402.13219v1](http://arxiv.org/abs/2402.13219v1)|[2402.13219v1](http://arxiv.org/pdf/2402.13219v1)|null|
+|**2024-02-20**|**VideoPrism: A Foundational Visual Encoder for Video Understanding**|Long Zhao et.al.|[2402.13217v1](http://arxiv.org/abs/2402.13217v1)|[2402.13217v1](http://arxiv.org/pdf/2402.13217v1)|null|
+|**2024-02-20**|**Softmax Probabilities (Mostly) Predict Large Language Model Correctness on Multiple-Choice Q&A**|Benjamin Plaut et.al.|[2402.13213v1](http://arxiv.org/abs/2402.13213v1)|[2402.13213v1](http://arxiv.org/pdf/2402.13213v1)|**[link](https://github.com/bplaut/softmax-probs-predict-llm-correctness)**|
 |**2024-02-19**|**LTL learning on GPUs**|Mojtaba Valizadeh et.al.|[2402.12373v1](http://arxiv.org/abs/2402.12373v1)|[2402.12373v1](http://arxiv.org/pdf/2402.12373v1)|null|
 |**2024-02-19**|**AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies**|Xiao Ye et.al.|[2402.12370v1](http://arxiv.org/abs/2402.12370v1)|[2402.12370v1](http://arxiv.org/pdf/2402.12370v1)|null|
 |**2024-02-19**|**A Critical Evaluation of AI Feedback for Aligning Large Language Models**|Archit Sharma et.al.|[2402.12366v1](http://arxiv.org/abs/2402.12366v1)|[2402.12366v1](http://arxiv.org/pdf/2402.12366v1)|**[link](https://github.com/architsharma97/dpo-rlaif)**|
