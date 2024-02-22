@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-21**|**JWST MIRI Imager Observations of Supernova SN 1987A**|P. Bouchet et.al.|[2402.14014v1](http://arxiv.org/abs/2402.14014v1)|[2402.14014v1](http://arxiv.org/pdf/2402.14014v1)|null|
+|**2024-02-21**|**A formally motivated retrieval framework applied to the high resolution transmission spectrum of HD 189733 b**|Doriann Blain et.al.|[2402.14001v1](http://arxiv.org/abs/2402.14001v1)|[2402.14001v1](http://arxiv.org/pdf/2402.14001v1)|null|
+|**2024-02-21**|**Switchback Patches Evolve into Microstreams via Magnetic Relaxation**|Shirsh Lata Soni et.al.|[2402.13964v1](http://arxiv.org/abs/2402.13964v1)|[2402.13964v1](http://arxiv.org/pdf/2402.13964v1)|null|
+|**2024-02-21**|**Planetary atmospheres Through Time: Effects of Mass Loss and Thermal Evolution**|Daria Kubyshkina et.al.|[2402.13931v1](http://arxiv.org/abs/2402.13931v1)|[2402.13931v1](http://arxiv.org/pdf/2402.13931v1)|null|
+|**2024-02-21**|**Exploring Primordial Black Holes and Gravitational Waves with R-Symmetric GUT Higgs Inflation**|Nadir Ijaz et.al.|[2402.13924v1](http://arxiv.org/abs/2402.13924v1)|[2402.13924v1](http://arxiv.org/pdf/2402.13924v1)|null|
+|**2024-02-21**|**An Automated Chemical Exploration of NGC 6334I at 340 au Resolution**|Samer J. El-Abd et.al.|[2402.13913v1](http://arxiv.org/abs/2402.13913v1)|[2402.13913v1](http://arxiv.org/pdf/2402.13913v1)|null|
+|**2024-02-21**|**Comparing Mass Mapping Reconstruction Methods with Minkowski Functionals**|Nisha Grewal et.al.|[2402.13912v1](http://arxiv.org/abs/2402.13912v1)|[2402.13912v1](http://arxiv.org/pdf/2402.13912v1)|null|
+|**2024-02-21**|**A Dragon's Flame of Many Colours: Multi-wavelength Observations of Flares from the Active M Binary CR Draconis**|James A. G. Jackman et.al.|[2402.13885v1](http://arxiv.org/abs/2402.13885v1)|[2402.13885v1](http://arxiv.org/pdf/2402.13885v1)|null|
+|**2024-02-21**|**Dark population transfer mechanism for sterile neutrino dark matter**|George M. Fuller et.al.|[2402.13878v1](http://arxiv.org/abs/2402.13878v1)|[2402.13878v1](http://arxiv.org/pdf/2402.13878v1)|null|
+|**2024-02-21**|**RFI-DRUnet: Restoring dynamic spectra corrupted by radio frequency interference -- Application to pulsar observations**|Xiao Zhang et.al.|[2402.13867v1](http://arxiv.org/abs/2402.13867v1)|[2402.13867v1](http://arxiv.org/pdf/2402.13867v1)|null|
 |**2024-02-20**|**On the Contribution of Very Massive Stars to the Sulfur Abundance in Star-Forming Galaxies: the Role of PISN**|S. Goswami et.al.|[2402.13240v1](http://arxiv.org/abs/2402.13240v1)|[2402.13240v1](http://arxiv.org/pdf/2402.13240v1)|null|
 |**2024-02-20**|**Chemical abundances and ionizing mechanisms in the star-forming double-ring of AM 0644-741 using MUSE data**|V. M. A. Gómez-González et.al.|[2402.13230v1](http://arxiv.org/abs/2402.13230v1)|[2402.13230v1](http://arxiv.org/pdf/2402.13230v1)|null|
 |**2024-02-20**|**Metallicities and Refined Stellar Parameters for 52 Cool Dwarfs with Transiting Planets and Planet Candidates**|Rebecca Gore et.al.|[2402.13223v1](http://arxiv.org/abs/2402.13223v1)|[2402.13223v1](http://arxiv.org/pdf/2402.13223v1)|null|
@@ -4169,6 +4179,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-21**|**Corrective Machine Unlearning**|Shashwat Goel et.al.|[2402.14015v1](http://arxiv.org/abs/2402.14015v1)|[2402.14015v1](http://arxiv.org/pdf/2402.14015v1)|null|
+|**2024-02-21**|**Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models**|Zhiwei He et.al.|[2402.14007v1](http://arxiv.org/abs/2402.14007v1)|[2402.14007v1](http://arxiv.org/pdf/2402.14007v1)|null|
+|**2024-02-21**|**The Importance of Architecture Choice in Deep Learning for Climate Applications**|Simon Dräger et.al.|[2402.13979v1](http://arxiv.org/abs/2402.13979v1)|[2402.13979v1](http://arxiv.org/pdf/2402.13979v1)|null|
+|**2024-02-21**|**Probabilistic Neural Networks (PNNs) for Modeling Aleatoric Uncertainty in Scientific Machine Learning**|Farhad Pourkamali-Anaraki et.al.|[2402.13945v1](http://arxiv.org/abs/2402.13945v1)|[2402.13945v1](http://arxiv.org/pdf/2402.13945v1)|null|
+|**2024-02-21**|**What is the focus of XAI in UI design? Prioritizing UI design principles for enhancing XAI user experience**|Dian Lei et.al.|[2402.13939v1](http://arxiv.org/abs/2402.13939v1)|[2402.13939v1](http://arxiv.org/pdf/2402.13939v1)|null|
+|**2024-02-21**|**Do Efficient Transformers Really Save Computation?**|Kai Yang et.al.|[2402.13934v1](http://arxiv.org/abs/2402.13934v1)|[2402.13934v1](http://arxiv.org/pdf/2402.13934v1)|null|
+|**2024-02-21**|**SDXL-Lightning: Progressive Adversarial Diffusion Distillation**|Shanchuan Lin et.al.|[2402.13929v1](http://arxiv.org/abs/2402.13929v1)|[2402.13929v1](http://arxiv.org/pdf/2402.13929v1)|null|
+|**2024-02-21**|**The Delusional Hedge Algorithm as a Model of Human Learning from Diverse Opinions**|Yun-Shiuan Chuang et.al.|[2402.13927v1](http://arxiv.org/abs/2402.13927v1)|[2402.13927v1](http://arxiv.org/pdf/2402.13927v1)|null|
+|**2024-02-21**|**Large Language Models are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content**|Federico Bianchi et.al.|[2402.13926v1](http://arxiv.org/abs/2402.13926v1)|[2402.13926v1](http://arxiv.org/pdf/2402.13926v1)|null|
+|**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919v1](http://arxiv.org/abs/2402.13919v1)|[2402.13919v1](http://arxiv.org/pdf/2402.13919v1)|null|
 |**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254v1](http://arxiv.org/abs/2402.13254v1)|[2402.13254v1](http://arxiv.org/pdf/2402.13254v1)|null|
 |**2024-02-20**|**TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization**|Liyan Tang et.al.|[2402.13249v1](http://arxiv.org/abs/2402.13249v1)|[2402.13249v1](http://arxiv.org/pdf/2402.13249v1)|**[link](https://github.com/amazon-science/tofueval)**|
 |**2024-02-20**|**Federated Causal Discovery from Heterogeneous Data**|Loka Li et.al.|[2402.13241v1](http://arxiv.org/abs/2402.13241v1)|[2402.13241v1](http://arxiv.org/pdf/2402.13241v1)|**[link](https://github.com/lokali/fedcdh)**|
