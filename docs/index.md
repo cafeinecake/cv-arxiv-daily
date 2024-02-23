@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-22**|**Automated chemical reaction network generation and its application to exoplanet atmospheres**|Jeehyun Yang et.al.|[2402.14784v1](http://arxiv.org/abs/2402.14784v1)|[2402.14784v1](http://arxiv.org/pdf/2402.14784v1)|null|
+|**2024-02-22**|**Antisymmetric galaxy cross-correlations in and beyond $Λ$CDM**|Eleonora Vanzan et.al.|[2402.14782v1](http://arxiv.org/abs/2402.14782v1)|[2402.14782v1](http://arxiv.org/pdf/2402.14782v1)|null|
+|**2024-02-22**|**The Spectrum of He$^+$ as a Proving Ground for Bohr's Model of the Atom: A Legacy of Williamina Fleming's Astrophysical Discovery**|Maria McEachern et.al.|[2402.14734v1](http://arxiv.org/abs/2402.14734v1)|[2402.14734v1](http://arxiv.org/pdf/2402.14734v1)|null|
+|**2024-02-22**|**Constraining spherically symmetric metrics by the gap between photon rings**|Fabio Aratore et.al.|[2402.14733v1](http://arxiv.org/abs/2402.14733v1)|[2402.14733v1](http://arxiv.org/pdf/2402.14733v1)|null|
+|**2024-02-22**|**The cosmological constant and scale hierarchies with emergent gauge symmetries**|Steven D. Bass et.al.|[2402.14719v1](http://arxiv.org/abs/2402.14719v1)|[2402.14719v1](http://arxiv.org/pdf/2402.14719v1)|null|
+|**2024-02-22**|**High-resolution spectroscopic analysis of four unevolved barium stars**|M. P. Roriz et.al.|[2402.14709v1](http://arxiv.org/abs/2402.14709v1)|[2402.14709v1](http://arxiv.org/pdf/2402.14709v1)|null|
+|**2024-02-22**|**Birth of Rapidly Spinning, Overmassive Black Holes in the Early Universe**|Kohei Inayoshi et.al.|[2402.14706v1](http://arxiv.org/abs/2402.14706v1)|[2402.14706v1](http://arxiv.org/pdf/2402.14706v1)|null|
+|**2024-02-22**|**Internal magnetic field structures observed by PSP/WISPR in a filament related coronal mass ejection**|G. M. Cappello et.al.|[2402.14682v1](http://arxiv.org/abs/2402.14682v1)|[2402.14682v1](http://arxiv.org/pdf/2402.14682v1)|null|
+|**2024-02-22**|**An upper limit to differential magnification effects in strongly gravitationally lensed galaxies**|Stephen Serjeant et.al.|[2402.14663v1](http://arxiv.org/abs/2402.14663v1)|[2402.14663v1](http://arxiv.org/pdf/2402.14663v1)|null|
+|**2024-02-22**|**PRODIGE -- Planet-forming disks in Taurus with NOEMA. I. Overview and first results for 12CO, 13CO, and C18O**|D. Semenov et.al.|[2402.14653v1](http://arxiv.org/abs/2402.14653v1)|[2402.14653v1](http://arxiv.org/pdf/2402.14653v1)|null|
 |**2024-02-21**|**JWST MIRI Imager Observations of Supernova SN 1987A**|P. Bouchet et.al.|[2402.14014v1](http://arxiv.org/abs/2402.14014v1)|[2402.14014v1](http://arxiv.org/pdf/2402.14014v1)|null|
 |**2024-02-21**|**A formally motivated retrieval framework applied to the high resolution transmission spectrum of HD 189733 b**|Doriann Blain et.al.|[2402.14001v1](http://arxiv.org/abs/2402.14001v1)|[2402.14001v1](http://arxiv.org/pdf/2402.14001v1)|null|
 |**2024-02-21**|**Switchback Patches Evolve into Microstreams via Magnetic Relaxation**|Shirsh Lata Soni et.al.|[2402.13964v1](http://arxiv.org/abs/2402.13964v1)|[2402.13964v1](http://arxiv.org/pdf/2402.13964v1)|null|
@@ -4183,6 +4193,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-22**|**Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging**|Yuzhe Yang et.al.|[2402.14815v1](http://arxiv.org/abs/2402.14815v1)|[2402.14815v1](http://arxiv.org/pdf/2402.14815v1)|**[link](https://github.com/yyzharry/vlm-fairness)**|
+|**2024-02-22**|**WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**|Lianghui Zhu et.al.|[2402.14812v1](http://arxiv.org/abs/2402.14812v1)|[2402.14812v1](http://arxiv.org/pdf/2402.14812v1)|**[link](https://github.com/hustvl/weaksam)**|
+|**2024-02-22**|**GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion**|Xueyi Liu et.al.|[2402.14810v1](http://arxiv.org/abs/2402.14810v1)|[2402.14810v1](http://arxiv.org/pdf/2402.14810v1)|**[link](https://github.com/meowuu7/geneoh-diffusion)**|
+|**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809v1](http://arxiv.org/abs/2402.14809v1)|[2402.14809v1](http://arxiv.org/pdf/2402.14809v1)|**[link](https://github.com/CriticBench/CriticBench)**|
+|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807v1](http://arxiv.org/abs/2402.14807v1)|[2402.14807v1](http://arxiv.org/pdf/2402.14807v1)|null|
+|**2024-02-22**|**Identifying Multiple Personalities in Large Language Models with External Evaluation**|Xiaoyang Song et.al.|[2402.14805v1](http://arxiv.org/abs/2402.14805v1)|[2402.14805v1](http://arxiv.org/pdf/2402.14805v1)|null|
+|**2024-02-22**|**Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset**|Ke Wang et.al.|[2402.14804v1](http://arxiv.org/abs/2402.14804v1)|[2402.14804v1](http://arxiv.org/pdf/2402.14804v1)|null|
+|**2024-02-22**|**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**|Xudong Lu et.al.|[2402.14800v1](http://arxiv.org/abs/2402.14800v1)|[2402.14800v1](http://arxiv.org/pdf/2402.14800v1)|**[link](https://github.com/lucky-lance/expert_sparsity)**|
+|**2024-02-22**|**Enhancing Systematic Decompositional Natural Language Inference Using Informal Logic**|Nathaniel Weir et.al.|[2402.14798v1](http://arxiv.org/abs/2402.14798v1)|[2402.14798v1](http://arxiv.org/pdf/2402.14798v1)|null|
+|**2024-02-22**|**Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis**|Willi Menapace et.al.|[2402.14797v1](http://arxiv.org/abs/2402.14797v1)|[2402.14797v1](http://arxiv.org/pdf/2402.14797v1)|null|
 |**2024-02-21**|**Corrective Machine Unlearning**|Shashwat Goel et.al.|[2402.14015v1](http://arxiv.org/abs/2402.14015v1)|[2402.14015v1](http://arxiv.org/pdf/2402.14015v1)|null|
 |**2024-02-21**|**Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models**|Zhiwei He et.al.|[2402.14007v1](http://arxiv.org/abs/2402.14007v1)|[2402.14007v1](http://arxiv.org/pdf/2402.14007v1)|null|
 |**2024-02-21**|**The Importance of Architecture Choice in Deep Learning for Climate Applications**|Simon Dräger et.al.|[2402.13979v1](http://arxiv.org/abs/2402.13979v1)|[2402.13979v1](http://arxiv.org/pdf/2402.13979v1)|null|
