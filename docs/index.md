@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-23**|**A Model for the Redshift-Space Galaxy 4-Point Correlation Function**|William Ortolá Leonard et.al.|[2402.15510v1](http://arxiv.org/abs/2402.15510v1)|[2402.15510v1](http://arxiv.org/pdf/2402.15510v1)|null|
+|**2024-02-23**|**The α-element enrichment of gas in distant galaxies**|Anna Velichko et.al.|[2402.15508v1](http://arxiv.org/abs/2402.15508v1)|[2402.15508v1](http://arxiv.org/pdf/2402.15508v1)|null|
+|**2024-02-23**|**Length and Velocity Scales in Protoplanetary Disk Turbulence**|Debanjan Sengupta et.al.|[2402.15475v1](http://arxiv.org/abs/2402.15475v1)|[2402.15475v1](http://arxiv.org/pdf/2402.15475v1)|null|
+|**2024-02-23**|**The dynamics of self-gravity wakes in the Mimas 5:3 bending wave: modifying the linear theory**|Daniel D. Sega et.al.|[2402.15456v1](http://arxiv.org/abs/2402.15456v1)|[2402.15456v1](http://arxiv.org/pdf/2402.15456v1)|null|
+|**2024-02-23**|**Abundant sub-micron grains revealed in newly discovered extreme debris discs**|A. Moór et.al.|[2402.15438v1](http://arxiv.org/abs/2402.15438v1)|[2402.15438v1](http://arxiv.org/pdf/2402.15438v1)|null|
+|**2024-02-23**|**GQL-Based Bound-Preserving and Locally Divergence-Free Central Discontinuous Galerkin Schemes for Relativistic Magnetohydrodynamics**|Shengrong Ding et.al.|[2402.15437v1](http://arxiv.org/abs/2402.15437v1)|[2402.15437v1](http://arxiv.org/pdf/2402.15437v1)|null|
+|**2024-02-23**|**CON-quest II. Spatially and spectrally-resolved HCN/HCO+ line ratios in local luminous and ultraluminous infrared galaxies**|Y. Nishimura et.al.|[2402.15436v1](http://arxiv.org/abs/2402.15436v1)|[2402.15436v1](http://arxiv.org/pdf/2402.15436v1)|null|
+|**2024-02-23**|**Particle selection from an equilibrium DF**|J A Sellwood et.al.|[2402.15435v1](http://arxiv.org/abs/2402.15435v1)|[2402.15435v1](http://arxiv.org/pdf/2402.15435v1)|null|
+|**2024-02-23**|**Detailed Report on the Measurement of the Positive Muon Anomalous Magnetic Moment to 0.20 ppm**|D. P. Aguillard et.al.|[2402.15410v1](http://arxiv.org/abs/2402.15410v1)|[2402.15410v1](http://arxiv.org/pdf/2402.15410v1)|null|
+|**2024-02-23**|**Bubble-wall velocity in local thermal equilibrium: hydrodynamical simulations vs analytical treatment**|Tomasz Krajewski et.al.|[2402.15408v1](http://arxiv.org/abs/2402.15408v1)|[2402.15408v1](http://arxiv.org/pdf/2402.15408v1)|null|
 |**2024-02-22**|**Automated chemical reaction network generation and its application to exoplanet atmospheres**|Jeehyun Yang et.al.|[2402.14784v1](http://arxiv.org/abs/2402.14784v1)|[2402.14784v1](http://arxiv.org/pdf/2402.14784v1)|null|
 |**2024-02-22**|**Antisymmetric galaxy cross-correlations in and beyond $Λ$CDM**|Eleonora Vanzan et.al.|[2402.14782v1](http://arxiv.org/abs/2402.14782v1)|[2402.14782v1](http://arxiv.org/pdf/2402.14782v1)|null|
 |**2024-02-22**|**The Spectrum of He$^+$ as a Proving Ground for Bohr's Model of the Atom: A Legacy of Williamina Fleming's Astrophysical Discovery**|Maria McEachern et.al.|[2402.14734v1](http://arxiv.org/abs/2402.14734v1)|[2402.14734v1](http://arxiv.org/pdf/2402.14734v1)|null|
@@ -4193,6 +4203,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-23**|**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**|Jianguo Zhang et.al.|[2402.15506v1](http://arxiv.org/abs/2402.15506v1)|[2402.15506v1](http://arxiv.org/pdf/2402.15506v1)|null|
+|**2024-02-23**|**Co-Supervised Learning: Improving Weak-to-Strong Generalization with Hierarchical Mixture of Experts**|Yuejiang Liu et.al.|[2402.15505v1](http://arxiv.org/abs/2402.15505v1)|[2402.15505v1](http://arxiv.org/pdf/2402.15505v1)|null|
+|**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504v1](http://arxiv.org/abs/2402.15504v1)|[2402.15504v1](http://arxiv.org/pdf/2402.15504v1)|**[link](https://github.com/louisYen/Gen4Gen)**|
+|**2024-02-23**|**API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs**|Kinjal Basu et.al.|[2402.15491v1](http://arxiv.org/abs/2402.15491v1)|[2402.15491v1](http://arxiv.org/pdf/2402.15491v1)|null|
+|**2024-02-23**|**RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation**|Hanxiao Jiang et.al.|[2402.15487v1](http://arxiv.org/abs/2402.15487v1)|[2402.15487v1](http://arxiv.org/pdf/2402.15487v1)|null|
+|**2024-02-23**|**Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review**|Opeyemi Bamigbade et.al.|[2402.15448v1](http://arxiv.org/abs/2402.15448v1)|[2402.15448v1](http://arxiv.org/pdf/2402.15448v1)|null|
+|**2024-02-23**|**Can we forget how we learned? Doxastic redundancy in iterated belief revision**|Paolo Liberatore et.al.|[2402.15445v1](http://arxiv.org/abs/2402.15445v1)|[2402.15445v1](http://arxiv.org/pdf/2402.15445v1)|null|
+|**2024-02-23**|**Hierarchical Invariance for Robust and Interpretable Vision Tasks at Larger Scales**|Shuren Qi et.al.|[2402.15430v1](http://arxiv.org/abs/2402.15430v1)|[2402.15430v1](http://arxiv.org/pdf/2402.15430v1)|**[link](https://github.com/shurenqi/hir)**|
+|**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429v1](http://arxiv.org/abs/2402.15429v1)|[2402.15429v1](http://arxiv.org/pdf/2402.15429v1)|**[link](https://github.com/wellzline/protip)**|
+|**2024-02-23**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427v1](http://arxiv.org/abs/2402.15427v1)|[2402.15427v1](http://arxiv.org/pdf/2402.15427v1)|null|
 |**2024-02-22**|**Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging**|Yuzhe Yang et.al.|[2402.14815v1](http://arxiv.org/abs/2402.14815v1)|[2402.14815v1](http://arxiv.org/pdf/2402.14815v1)|**[link](https://github.com/yyzharry/vlm-fairness)**|
 |**2024-02-22**|**WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**|Lianghui Zhu et.al.|[2402.14812v1](http://arxiv.org/abs/2402.14812v1)|[2402.14812v1](http://arxiv.org/pdf/2402.14812v1)|**[link](https://github.com/hustvl/weaksam)**|
 |**2024-02-22**|**GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion**|Xueyi Liu et.al.|[2402.14810v1](http://arxiv.org/abs/2402.14810v1)|[2402.14810v1](http://arxiv.org/pdf/2402.14810v1)|**[link](https://github.com/meowuu7/geneoh-diffusion)**|
