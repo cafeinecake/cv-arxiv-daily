@@ -2,6 +2,10 @@
 
 ## Astrophysics
 
+- 2024-02-26, **Small-Scale Anisotropies of Cosmic Rays from Turbulent Flow**, Yiran Zhang et.al., Paper: [http://arxiv.org/abs/2402.16554v1](http://arxiv.org/abs/2402.16554v1), Paper: [http://arxiv.org/abs/2402.16554v1](http://arxiv.org/pdf/2402.16554v1)
+- 2024-02-26, **PDRs4All VII. The 3.3 $μ$m aromatic infrared band as a tracer of physical properties of the ISM in galaxies**, Ilane Schroetter et.al., Paper: [http://arxiv.org/abs/2402.16535v1](http://arxiv.org/abs/2402.16535v1), Paper: [http://arxiv.org/abs/2402.16535v1](http://arxiv.org/pdf/2402.16535v1)
+- 2024-02-26, **Black hole in a combined magnetic field: ionized accretion disks in the jetlike and looplike configurations**, Saltanat Kenzhebayeva et.al., Paper: [http://arxiv.org/abs/2402.16529v1](http://arxiv.org/abs/2402.16529v1), Paper: [http://arxiv.org/abs/2402.16529v1](http://arxiv.org/pdf/2402.16529v1)
+- 2024-02-26, **Discovery of magnetically guided metal accretion onto a polluted white dwarf**, S. Bagnulo et.al., Paper: [http://arxiv.org/abs/2402.16526v1](http://arxiv.org/abs/2402.16526v1), Paper: [http://arxiv.org/abs/2402.16526v1](http://arxiv.org/pdf/2402.16526v1)
 - 2024-02-26, **Note on cosmographic approach to determining parameters of Barrow entropic dark energy model**, Yu. L. Bolotin et.al., Paper: [http://arxiv.org/abs/2402.16507v1](http://arxiv.org/abs/2402.16507v1), Paper: [http://arxiv.org/abs/2402.16507v1](http://arxiv.org/pdf/2402.16507v1)
 - 2024-02-26, **Multi-Messenger Windows on the Universe: detecting precursor emission to compacts' mergers**, Maxim Lyutikov et.al., Paper: [http://arxiv.org/abs/2402.16504v1](http://arxiv.org/abs/2402.16504v1), Paper: [http://arxiv.org/abs/2402.16504v1](http://arxiv.org/pdf/2402.16504v1)
 - 2024-02-26, **Results of the follow-up of ANTARES neutrino alerts**, A. Albert et.al., Paper: [http://arxiv.org/abs/2402.16498v1](http://arxiv.org/abs/2402.16498v1), Paper: [http://arxiv.org/abs/2402.16498v1](http://arxiv.org/pdf/2402.16498v1)
@@ -4205,6 +4209,12 @@
 
 ## AI
 
+- 2024-02-26, **Q-FOX Learning: Breaking Tradition in Reinforcement Learning**, Mahmood Alqaseer et.al., Paper: [http://arxiv.org/abs/2402.16562v1](http://arxiv.org/abs/2402.16562v1), Paper: [http://arxiv.org/abs/2402.16562v1](http://arxiv.org/pdf/2402.16562v1)
+- 2024-02-26, **Beyond Accuracy: An Empirical Study on Unit Testing in Open-source Deep Learning Projects**, Han Wang et.al., Paper: [http://arxiv.org/abs/2402.16546v1](http://arxiv.org/abs/2402.16546v1), Paper: [http://arxiv.org/abs/2402.16546v1](http://arxiv.org/pdf/2402.16546v1)
+- 2024-02-27, **RoboGrind: Intuitive and Interactive Surface Treatment with Industrial Robots**, Benjamin Alt et.al., Paper: [http://arxiv.org/abs/2402.16542v2](http://arxiv.org/abs/2402.16542v2), Paper: [http://arxiv.org/abs/2402.16542v2](http://arxiv.org/pdf/2402.16542v2)
+- 2024-02-26, **Discovering Artificial Viscosity Models for Discontinuous Galerkin Approximation of Conservation Laws using Physics-Informed Machine Learning**, Matteo Caldana et.al., Paper: [http://arxiv.org/abs/2402.16517v1](http://arxiv.org/abs/2402.16517v1), Paper: [http://arxiv.org/abs/2402.16517v1](http://arxiv.org/pdf/2402.16517v1)
+- 2024-02-26, **Enhancement of 3D Camera Synthetic Training Data with Noise Models**, Katarína Osvaldová et.al., Paper: [http://arxiv.org/abs/2402.16514v1](http://arxiv.org/abs/2402.16514v1), Paper: [http://arxiv.org/abs/2402.16514v1](http://arxiv.org/pdf/2402.16514v1)
+- 2024-02-26, **Photonic Neural Network Fabricated on Thin Film Lithium Niobate for High-Fidelity and Power-Efficient Matrix Computation**, Yong Zheng et.al., Paper: [http://arxiv.org/abs/2402.16513v1](http://arxiv.org/abs/2402.16513v1), Paper: [http://arxiv.org/abs/2402.16513v1](http://arxiv.org/pdf/2402.16513v1)
 - 2024-02-26, **Memory GAPS: Would LLM pass the Tulving Test?**, Jean-Marie Chauvet et.al., Paper: [http://arxiv.org/abs/2402.16505v1](http://arxiv.org/abs/2402.16505v1), Paper: [http://arxiv.org/abs/2402.16505v1](http://arxiv.org/pdf/2402.16505v1)
 - 2024-02-26, **Trajectory Prediction for Autonomous Driving Using a Transformer Network**, Zhenning Li et.al., Paper: [http://arxiv.org/abs/2402.16501v1](http://arxiv.org/abs/2402.16501v1), Paper: [http://arxiv.org/abs/2402.16501v1](http://arxiv.org/pdf/2402.16501v1)
 - 2024-02-26, **Intelligent Known and Novel Aircraft Recognition -- A Shift from Classification to Similarity Learning for Combat Identification**, Ahmad Saeed et.al., Paper: [http://arxiv.org/abs/2402.16486v1](http://arxiv.org/abs/2402.16486v1), Paper: [http://arxiv.org/abs/2402.16486v1](http://arxiv.org/pdf/2402.16486v1)
