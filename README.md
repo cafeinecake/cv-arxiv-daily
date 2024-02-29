@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-28**|**Measuring Tracers of Planet Formation in the Atmosphere of WASP-77A b: Sub-stellar O/H and C/H ratios, with a stellar C/O ratio and a potentially Super-stellar Ti/H ratio**|Billy Edwards et.al.|[2402.18574v1](http://arxiv.org/abs/2402.18574v1)|[2402.18574v1](http://arxiv.org/pdf/2402.18574v1)|null|
+|**2024-02-28**|**A New Probe of Cosmic Birefringence Using Galaxy Polarization and Shapes**|Weichen Winston Yin et.al.|[2402.18568v1](http://arxiv.org/abs/2402.18568v1)|[2402.18568v1](http://arxiv.org/pdf/2402.18568v1)|null|
+|**2024-02-28**|**Primordial Magnetic Fields in Light of Dark Ages Global 21-cm Signal**|Vivekanand Mohapatra et.al.|[2402.18565v1](http://arxiv.org/abs/2402.18565v1)|[2402.18565v1](http://arxiv.org/pdf/2402.18565v1)|null|
+|**2024-02-28**|**Dark Scattering: accelerated constraints from KiDS-1000 with $\tt{ReACT}$ and $\tt{CosmoPower}$**|Karim Carrion et.al.|[2402.18562v1](http://arxiv.org/abs/2402.18562v1)|[2402.18562v1](http://arxiv.org/pdf/2402.18562v1)|null|
+|**2024-02-28**|**Dark matter from mediator decay in early matter domination**|Rouzbeh Allahverdi et.al.|[2402.18557v1](http://arxiv.org/abs/2402.18557v1)|[2402.18557v1](http://arxiv.org/pdf/2402.18557v1)|null|
+|**2024-02-28**|**Primordial Rotating Disk Composed of $\geq$15 Dense Star-Forming Clumps at Cosmic Dawn**|S. Fujimoto et.al.|[2402.18543v1](http://arxiv.org/abs/2402.18543v1)|[2402.18543v1](http://arxiv.org/pdf/2402.18543v1)|null|
+|**2024-02-28**|**On the Age Calibration of Open Clusters using Red Clump Stars**|Abigail R. Chriss et.al.|[2402.18538v1](http://arxiv.org/abs/2402.18538v1)|[2402.18538v1](http://arxiv.org/pdf/2402.18538v1)|null|
+|**2024-02-28**|**Dark matter bound-state formation in the Sun**|Xiaoyong Chu et.al.|[2402.18535v1](http://arxiv.org/abs/2402.18535v1)|[2402.18535v1](http://arxiv.org/pdf/2402.18535v1)|null|
+|**2024-02-28**|**High angular momentum hot differentially rotating equilibrium star evolutions in conformally flat spacetime**|Patrick Chi-Kit Cheong et.al.|[2402.18529v1](http://arxiv.org/abs/2402.18529v1)|[2402.18529v1](http://arxiv.org/pdf/2402.18529v1)|null|
+|**2024-02-28**|**Bayesian model reconstruction based on spectral line observations**|Frederik De Ceuster et.al.|[2402.18525v1](http://arxiv.org/abs/2402.18525v1)|[2402.18525v1](http://arxiv.org/pdf/2402.18525v1)|null|
 |**2024-02-27**|**Testing the isotropy of cosmic acceleration with Pantheon+SH0ES: A cosmographic analysis**|Carlos A. P. Bengaly et.al.|[2402.17741v1](http://arxiv.org/abs/2402.17741v1)|[2402.17741v1](http://arxiv.org/pdf/2402.17741v1)|null|
 |**2024-02-27**|**Automated Scheduling of Doppler Exoplanet Observations at Keck Observatory**|Luke B. Handley et.al.|[2402.17734v1](http://arxiv.org/abs/2402.17734v1)|[2402.17734v1](http://arxiv.org/pdf/2402.17734v1)|null|
 |**2024-02-27**|**Attention-based Neural Network Emulators for Multi-Probe Data Vectors Part I: Forecasting the Growth-Geometry split**|Kunhao Zhong et.al.|[2402.17716v1](http://arxiv.org/abs/2402.17716v1)|[2402.17716v1](http://arxiv.org/pdf/2402.17716v1)|null|
@@ -4223,6 +4233,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571v1](http://arxiv.org/abs/2402.18571v1)|[2402.18571v1](http://arxiv.org/pdf/2402.18571v1)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563v1](http://arxiv.org/abs/2402.18563v1)|[2402.18563v1](http://arxiv.org/pdf/2402.18563v1)|null|
+|**2024-02-28**|**Crowdsourcing Dermatology Images with Google Search Ads: Creating a Real-World Skin Condition Dataset**|Abbi Ward et.al.|[2402.18545v1](http://arxiv.org/abs/2402.18545v1)|[2402.18545v1](http://arxiv.org/pdf/2402.18545v1)|null|
+|**2024-02-28**|**Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates**|Kaifeng Lyu et.al.|[2402.18540v1](http://arxiv.org/abs/2402.18540v1)|[2402.18540v1](http://arxiv.org/pdf/2402.18540v1)|null|
+|**2024-02-28**|**Language Models Represent Beliefs of Self and Others**|Wentao Zhu et.al.|[2402.18496v1](http://arxiv.org/abs/2402.18496v1)|[2402.18496v1](http://arxiv.org/pdf/2402.18496v1)|null|
+|**2024-02-28**|**Human-Centric Aware UAV Trajectory Planning in Search and Rescue Missions Employing Multi-Objective Reinforcement Learning with AHP and Similarity-Based Experience Replay**|Mahya Ramezani et.al.|[2402.18487v1](http://arxiv.org/abs/2402.18487v1)|[2402.18487v1](http://arxiv.org/pdf/2402.18487v1)|null|
+|**2024-02-28**|**FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**|Wentao Zhang et.al.|[2402.18485v1](http://arxiv.org/abs/2402.18485v1)|[2402.18485v1](http://arxiv.org/pdf/2402.18485v1)|null|
+|**2024-02-28**|**Signature Kernel Conditional Independence Tests in Causal Discovery for Stochastic Processes**|Georg Manten et.al.|[2402.18477v1](http://arxiv.org/abs/2402.18477v1)|[2402.18477v1](http://arxiv.org/pdf/2402.18477v1)|null|
+|**2024-02-28**|**Understanding the Impact of AI Generated Content on Social Media: The Pixiv Case**|Yiluo Wei et.al.|[2402.18463v1](http://arxiv.org/abs/2402.18463v1)|[2402.18463v1](http://arxiv.org/pdf/2402.18463v1)|null|
+|**2024-02-28**|**HOP to the Next Tasks and Domains for Continual Learning in NLP**|Umberto Michieli et.al.|[2402.18449v1](http://arxiv.org/abs/2402.18449v1)|[2402.18449v1](http://arxiv.org/pdf/2402.18449v1)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|[2402.17768v1](http://arxiv.org/pdf/2402.17768v1)|null|
 |**2024-02-27**|**Opening Cabinets and Drawers in the Real World using a Commodity Mobile Manipulator**|Arjun Gupta et.al.|[2402.17767v1](http://arxiv.org/abs/2402.17767v1)|[2402.17767v1](http://arxiv.org/pdf/2402.17767v1)|null|
 |**2024-02-27**|**Learning to Program Variational Quantum Circuits with Fast Weights**|Samuel Yen-Chi Chen et.al.|[2402.17760v1](http://arxiv.org/abs/2402.17760v1)|[2402.17760v1](http://arxiv.org/pdf/2402.17760v1)|null|
