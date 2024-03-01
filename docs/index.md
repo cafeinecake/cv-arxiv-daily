@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-29**|**Impact of weak lensing on bright standard siren analyses**|Charlie T. Mpetha et.al.|[2402.19476v1](http://arxiv.org/abs/2402.19476v1)|[2402.19476v1](http://arxiv.org/pdf/2402.19476v1)|null|
+|**2024-02-29**|**The effect of cloudy atmospheres on the thermal evolution of warm giant planets from an interior modelling perspective**|Anna Julia Poser et.al.|[2402.19466v1](http://arxiv.org/abs/2402.19466v1)|[2402.19466v1](http://arxiv.org/pdf/2402.19466v1)|null|
+|**2024-02-29**|**Anomalous contribution to galactic rotation curves due to stochastic spacetime**|Jonathan Oppenheim et.al.|[2402.19459v1](http://arxiv.org/abs/2402.19459v1)|[2402.19459v1](http://arxiv.org/pdf/2402.19459v1)|null|
+|**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455v1](http://arxiv.org/abs/2402.19455v1)|[2402.19455v1](http://arxiv.org/pdf/2402.19455v1)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
+|**2024-02-29**|**A Model for Pair Production Limit Cycles in Pulsar Magnetospheres**|Takuya Okawa et.al.|[2402.19436v1](http://arxiv.org/abs/2402.19436v1)|[2402.19436v1](http://arxiv.org/pdf/2402.19436v1)|null|
+|**2024-02-29**|**The nature of compact radio-loud AGN: a systematic look at the LOFAR AGN population**|J. Chilufya et.al.|[2402.19424v1](http://arxiv.org/abs/2402.19424v1)|[2402.19424v1](http://arxiv.org/pdf/2402.19424v1)|null|
+|**2024-02-29**|**A Newborn AGN in a Starforming Galaxy**|P. Arévalo et.al.|[2402.19403v1](http://arxiv.org/abs/2402.19403v1)|[2402.19403v1](http://arxiv.org/pdf/2402.19403v1)|null|
+|**2024-02-29**|**Testing gravitational waveforms in full General Relativity**|Fabio D'Ambrosio et.al.|[2402.19397v1](http://arxiv.org/abs/2402.19397v1)|[2402.19397v1](http://arxiv.org/pdf/2402.19397v1)|null|
+|**2024-02-29**|**New Physics with PeV Astrophysical Neutrino Beams**|Ibrahim Safa et.al.|[2402.19393v1](http://arxiv.org/abs/2402.19393v1)|[2402.19393v1](http://arxiv.org/pdf/2402.19393v1)|null|
+|**2024-02-29**|**Rapid Variability of Mrk 421 During Extreme Flaring as Seen Through the Eyes of XMM-Newton**|A. Gokus et.al.|[2402.19377v1](http://arxiv.org/abs/2402.19377v1)|[2402.19377v1](http://arxiv.org/pdf/2402.19377v1)|null|
 |**2024-02-28**|**Measuring Tracers of Planet Formation in the Atmosphere of WASP-77A b: Sub-stellar O/H and C/H ratios, with a stellar C/O ratio and a potentially Super-stellar Ti/H ratio**|Billy Edwards et.al.|[2402.18574v1](http://arxiv.org/abs/2402.18574v1)|[2402.18574v1](http://arxiv.org/pdf/2402.18574v1)|null|
 |**2024-02-28**|**A New Probe of Cosmic Birefringence Using Galaxy Polarization and Shapes**|Weichen Winston Yin et.al.|[2402.18568v1](http://arxiv.org/abs/2402.18568v1)|[2402.18568v1](http://arxiv.org/pdf/2402.18568v1)|null|
 |**2024-02-28**|**Primordial Magnetic Fields in Light of Dark Ages Global 21-cm Signal**|Vivekanand Mohapatra et.al.|[2402.18565v1](http://arxiv.org/abs/2402.18565v1)|[2402.18565v1](http://arxiv.org/pdf/2402.18565v1)|null|
@@ -4237,6 +4247,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-02-29**|**The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?**|Alex Gu et.al.|[2402.19475v1](http://arxiv.org/abs/2402.19475v1)|[2402.19475v1](http://arxiv.org/pdf/2402.19475v1)|null|
+|**2024-02-29**|**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**|Weiyun Wang et.al.|[2402.19474v1](http://arxiv.org/abs/2402.19474v1)|[2402.19474v1](http://arxiv.org/pdf/2402.19474v1)|null|
+|**2024-02-29**|**Retrieval-Augmented Generation for AI-Generated Content: A Survey**|Penghao Zhao et.al.|[2402.19473v1](http://arxiv.org/abs/2402.19473v1)|[2402.19473v1](http://arxiv.org/pdf/2402.19473v1)|**[link](https://github.com/hymie122/rag-survey)**|
+|**2024-02-29**|**Loose LIPS Sink Ships: Asking Questions in Battleship with Language-Informed Program Sampling**|Gabriel Grand et.al.|[2402.19471v1](http://arxiv.org/abs/2402.19471v1)|[2402.19471v1](http://arxiv.org/pdf/2402.19471v1)|null|
+|**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470v1](http://arxiv.org/abs/2402.19470v1)|[2402.19470v1](http://arxiv.org/pdf/2402.19470v1)|null|
+|**2024-02-29**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467v1](http://arxiv.org/abs/2402.19467v1)|[2402.19467v1](http://arxiv.org/pdf/2402.19467v1)|null|
+|**2024-02-29**|**Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**|Chen Qian et.al.|[2402.19465v1](http://arxiv.org/abs/2402.19465v1)|[2402.19465v1](http://arxiv.org/pdf/2402.19465v1)|**[link](https://github.com/chnq/tracingllm)**|
+|**2024-02-29**|**Curiosity-driven Red-teaming for Large Language Models**|Zhang-Wei Hong et.al.|[2402.19464v1](http://arxiv.org/abs/2402.19464v1)|[2402.19464v1](http://arxiv.org/pdf/2402.19464v1)|**[link](https://github.com/improbable-ai/curiosity_redteam)**|
+|**2024-02-29**|**$\texttt{COSMIC}$: Mutual Information for Task-Agnostic Summarization Evaluation**|Maxime Darrin et.al.|[2402.19457v1](http://arxiv.org/abs/2402.19457v1)|[2402.19457v1](http://arxiv.org/pdf/2402.19457v1)|null|
+|**2024-02-29**|**Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap**|Saurabh Srivastava et.al.|[2402.19450v1](http://arxiv.org/abs/2402.19450v1)|[2402.19450v1](http://arxiv.org/pdf/2402.19450v1)|**[link](https://github.com/consequentai/fneval)**|
 |**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571v1](http://arxiv.org/abs/2402.18571v1)|[2402.18571v1](http://arxiv.org/pdf/2402.18571v1)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
 |**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563v1](http://arxiv.org/abs/2402.18563v1)|[2402.18563v1](http://arxiv.org/pdf/2402.18563v1)|null|
 |**2024-02-28**|**Crowdsourcing Dermatology Images with Google Search Ads: Creating a Real-World Skin Condition Dataset**|Abbi Ward et.al.|[2402.18545v1](http://arxiv.org/abs/2402.18545v1)|[2402.18545v1](http://arxiv.org/pdf/2402.18545v1)|null|
