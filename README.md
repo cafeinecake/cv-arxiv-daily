@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-03**|**Improving Convolutional Neural Networks for Cosmological Fields with Random Permutation**|Kunhao Zhong et.al.|[2403.01368v1](http://arxiv.org/abs/2403.01368v1)|[2403.01368v1](http://arxiv.org/pdf/2403.01368v1)|null|
 |**2024-03-02**|**Europa's structural conditions for the existence of subsurface ocean and the absence of metallic core-driven magnetic field**|Jun Kimura et.al.|[2403.01336v1](http://arxiv.org/abs/2403.01336v1)|[2403.01336v1](http://arxiv.org/pdf/2403.01336v1)|null|
 |**2024-03-02**|**A Search for Temporal Atmospheric Variability of $\textit{Kepler}$ Hot Jupiters**|Canis Li et.al.|[2403.01295v1](http://arxiv.org/abs/2403.01295v1)|[2403.01295v1](http://arxiv.org/pdf/2403.01295v1)|null|
 |**2024-03-02**|**On the Arnold diffusion mechanism in Medium Earth Orbit**|Elisa Maria Alessi et.al.|[2403.01283v1](http://arxiv.org/abs/2403.01283v1)|[2403.01283v1](http://arxiv.org/pdf/2403.01283v1)|null|
@@ -4253,6 +4254,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-03**|**A Closer Look at Wav2Vec2 Embeddings for On-Device Single-Channel Speech Enhancement**|Ravi Shankar et.al.|[2403.01369v1](http://arxiv.org/abs/2403.01369v1)|[2403.01369v1](http://arxiv.org/pdf/2403.01369v1)|null|
 |**2024-03-03**|**SANGRIA: Stacked Autoencoder Neural Networks with Gradient Boosting for Indoor Localization**|Danish Gufran et.al.|[2403.01348v1](http://arxiv.org/abs/2403.01348v1)|[2403.01348v1](http://arxiv.org/pdf/2403.01348v1)|null|
 |**2024-03-02**|**Chaining thoughts and LLMs to learn DNA structural biophysics**|Tyler D. Ross et.al.|[2403.01332v1](http://arxiv.org/abs/2403.01332v1)|[2403.01332v1](http://arxiv.org/pdf/2403.01332v1)|null|
 |**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329v1](http://arxiv.org/abs/2403.01329v1)|[2403.01329v1](http://arxiv.org/pdf/2403.01329v1)|null|
