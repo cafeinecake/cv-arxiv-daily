@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-02**|**Europa's structural conditions for the existence of subsurface ocean and the absence of metallic core-driven magnetic field**|Jun Kimura et.al.|[2403.01336v1](http://arxiv.org/abs/2403.01336v1)|[2403.01336v1](http://arxiv.org/pdf/2403.01336v1)|null|
+|**2024-03-02**|**A Search for Temporal Atmospheric Variability of $\textit{Kepler}$ Hot Jupiters**|Canis Li et.al.|[2403.01295v1](http://arxiv.org/abs/2403.01295v1)|[2403.01295v1](http://arxiv.org/pdf/2403.01295v1)|null|
+|**2024-03-02**|**On the Arnold diffusion mechanism in Medium Earth Orbit**|Elisa Maria Alessi et.al.|[2403.01283v1](http://arxiv.org/abs/2403.01283v1)|[2403.01283v1](http://arxiv.org/pdf/2403.01283v1)|null|
+|**2024-03-02**|**Feedback and ionized gas outflows in four low-radio power AGN at z $\sim$0.15**|L. Ulivi et.al.|[2403.01258v1](http://arxiv.org/abs/2403.01258v1)|[2403.01258v1](http://arxiv.org/pdf/2403.01258v1)|null|
+|**2024-03-02**|**First-principle event reconstruction by time-charge readouts for the Taishan Antineutrino Observatory**|Xuewei Liu et.al.|[2403.01239v1](http://arxiv.org/abs/2403.01239v1)|[2403.01239v1](http://arxiv.org/pdf/2403.01239v1)|null|
+|**2024-03-02**|**The origin of lopsided satellite galaxy distribution around isolated systems in MillenniumTNG**|Yikai Liu et.al.|[2403.01217v1](http://arxiv.org/abs/2403.01217v1)|[2403.01217v1](http://arxiv.org/pdf/2403.01217v1)|null|
+|**2024-03-02**|**Atacama Large Aperture Submillimeter Telescope (AtLAST) science: Gas and dust in nearby galaxies**|Daizhong Liu et.al.|[2403.01202v1](http://arxiv.org/abs/2403.01202v1)|[2403.01202v1](http://arxiv.org/pdf/2403.01202v1)|null|
+|**2024-03-02**|**Modelling ion acceleration and transport in corotating interaction regions: the mass-to-charge ratio dependence of the particle spectrum**|Zheyi Ding et.al.|[2403.01201v1](http://arxiv.org/abs/2403.01201v1)|[2403.01201v1](http://arxiv.org/pdf/2403.01201v1)|null|
+|**2024-03-02**|**Spectra of phosphorus ions for astrophysical modeling: P I - P XV**|Sultana N. Nahar et.al.|[2403.01148v1](http://arxiv.org/abs/2403.01148v1)|[2403.01148v1](http://arxiv.org/pdf/2403.01148v1)|null|
+|**2024-03-02**|**The evolution of the phase space structure along pitchfork and period-doubling bifurcations in a 3D galactic bar potential**|Henok Tenaw Moges et.al.|[2403.01140v1](http://arxiv.org/abs/2403.01140v1)|[2403.01140v1](http://arxiv.org/pdf/2403.01140v1)|null|
 |**2024-02-29**|**Impact of weak lensing on bright standard siren analyses**|Charlie T. Mpetha et.al.|[2402.19476v1](http://arxiv.org/abs/2402.19476v1)|[2402.19476v1](http://arxiv.org/pdf/2402.19476v1)|null|
 |**2024-02-29**|**The effect of cloudy atmospheres on the thermal evolution of warm giant planets from an interior modelling perspective**|Anna Julia Poser et.al.|[2402.19466v1](http://arxiv.org/abs/2402.19466v1)|[2402.19466v1](http://arxiv.org/pdf/2402.19466v1)|null|
 |**2024-02-29**|**Anomalous contribution to galactic rotation curves due to stochastic spacetime**|Jonathan Oppenheim et.al.|[2402.19459v1](http://arxiv.org/abs/2402.19459v1)|[2402.19459v1](http://arxiv.org/pdf/2402.19459v1)|null|
@@ -4247,6 +4257,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-03**|**SANGRIA: Stacked Autoencoder Neural Networks with Gradient Boosting for Indoor Localization**|Danish Gufran et.al.|[2403.01348v1](http://arxiv.org/abs/2403.01348v1)|[2403.01348v1](http://arxiv.org/pdf/2403.01348v1)|null|
+|**2024-03-02**|**Chaining thoughts and LLMs to learn DNA structural biophysics**|Tyler D. Ross et.al.|[2403.01332v1](http://arxiv.org/abs/2403.01332v1)|[2403.01332v1](http://arxiv.org/pdf/2403.01332v1)|null|
+|**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329v1](http://arxiv.org/abs/2403.01329v1)|[2403.01329v1](http://arxiv.org/pdf/2403.01329v1)|null|
+|**2024-03-02**|**A non-cubic space-filling modular robot**|Tyler Hummer et.al.|[2403.01323v1](http://arxiv.org/abs/2403.01323v1)|[2403.01323v1](http://arxiv.org/pdf/2403.01323v1)|null|
+|**2024-03-02**|**VNLP: Turkish NLP Package**|Meliksah Turker et.al.|[2403.01309v1](http://arxiv.org/abs/2403.01309v1)|[2403.01309v1](http://arxiv.org/pdf/2403.01309v1)|null|
+|**2024-03-02**|**VBART: The Turkish LLM**|Meliksah Turker et.al.|[2403.01308v1](http://arxiv.org/abs/2403.01308v1)|[2403.01308v1](http://arxiv.org/pdf/2403.01308v1)|null|
+|**2024-03-02**|**Summary Paper: Use Case on Building Collaborative Safe Autonomous Systems-A Robotdog for Guiding Visually Impaired People**|Aman Malhotra et.al.|[2403.01286v1](http://arxiv.org/abs/2403.01286v1)|[2403.01286v1](http://arxiv.org/pdf/2403.01286v1)|null|
+|**2024-03-02**|**Fast Low-parameter Video Activity Localization in Collaborative Learning Environments**|Venkatesh Jatla et.al.|[2403.01281v1](http://arxiv.org/abs/2403.01281v1)|[2403.01281v1](http://arxiv.org/pdf/2403.01281v1)|null|
+|**2024-03-02**|**Optimal Integrated Task and Path Planning and Its Application to Multi-Robot Pickup and Delivery**|Aman Aryan et.al.|[2403.01277v1](http://arxiv.org/abs/2403.01277v1)|[2403.01277v1](http://arxiv.org/pdf/2403.01277v1)|null|
+|**2024-03-02**|**NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention**|Tianyi Zhang et.al.|[2403.01273v1](http://arxiv.org/abs/2403.01273v1)|[2403.01273v1](http://arxiv.org/pdf/2403.01273v1)|null|
 |**2024-02-29**|**The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?**|Alex Gu et.al.|[2402.19475v1](http://arxiv.org/abs/2402.19475v1)|[2402.19475v1](http://arxiv.org/pdf/2402.19475v1)|null|
 |**2024-02-29**|**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**|Weiyun Wang et.al.|[2402.19474v1](http://arxiv.org/abs/2402.19474v1)|[2402.19474v1](http://arxiv.org/pdf/2402.19474v1)|**[link](https://github.com/opengvlab/all-seeing)**|
 |**2024-02-29**|**Retrieval-Augmented Generation for AI-Generated Content: A Survey**|Penghao Zhao et.al.|[2402.19473v1](http://arxiv.org/abs/2402.19473v1)|[2402.19473v1](http://arxiv.org/pdf/2402.19473v1)|**[link](https://github.com/hymie122/rag-survey)**|
