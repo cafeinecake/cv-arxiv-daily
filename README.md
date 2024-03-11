@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-08**|**Non-parametric Bayesian reconstruction of Galactic magnetic fields using Information Field Theory: The inclusion of line-of-sight information in ultra-high energy cosmic ray backtracking**|Alexandros Tsouros et.al.|[2403.05531v1](http://arxiv.org/abs/2403.05531v1)|[2403.05531v1](http://arxiv.org/pdf/2403.05531v1)|null|
+|**2024-03-08**|**The NIRSpec Wide GTO Survey**|Michael V. Maseda et.al.|[2403.05506v1](http://arxiv.org/abs/2403.05506v1)|[2403.05506v1](http://arxiv.org/pdf/2403.05506v1)|null|
+|**2024-03-08**|**Absence of concordance in a simple self-interacting neutrino cosmology**|David Camarena et.al.|[2403.05496v1](http://arxiv.org/abs/2403.05496v1)|[2403.05496v1](http://arxiv.org/pdf/2403.05496v1)|null|
+|**2024-03-08**|**Bayesian mass mapping with weak lensing data using KARMMA -- validation with simulations and application to Dark Energy Survey Year 3 data**|Supranta S. Boruah et.al.|[2403.05484v1](http://arxiv.org/abs/2403.05484v1)|[2403.05484v1](http://arxiv.org/pdf/2403.05484v1)|null|
+|**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452v1](http://arxiv.org/abs/2403.05452v1)|[2403.05452v1](http://arxiv.org/pdf/2403.05452v1)|null|
+|**2024-03-08**|**Modelling Triatomic Biosignatures: Ozone and Isotopomers**|Thomas M. Cross et.al.|[2403.05442v1](http://arxiv.org/abs/2403.05442v1)|[2403.05442v1](http://arxiv.org/pdf/2403.05442v1)|null|
+|**2024-03-08**|**Radiation transport methods in star formation simulations**|Richard Wünsch et.al.|[2403.05410v1](http://arxiv.org/abs/2403.05410v1)|[2403.05410v1](http://arxiv.org/pdf/2403.05410v1)|null|
+|**2024-03-08**|**The Wide-field Spectroscopic Telescope (WST) Science White Paper**|Vincenzo Mainieri et.al.|[2403.05398v1](http://arxiv.org/abs/2403.05398v1)|[2403.05398v1](http://arxiv.org/pdf/2403.05398v1)|null|
+|**2024-03-08**|**Super-adiabatic Temperature Gradient at Jupiter's Equatorial Zone and Implications for the Water Abundance**|Cheng Li et.al.|[2403.05363v1](http://arxiv.org/abs/2403.05363v1)|[2403.05363v1](http://arxiv.org/pdf/2403.05363v1)|null|
+|**2024-03-08**|**Physical properties of extreme emission-line galaxies at $z\sim 4-9$ from the JWST CEERS survey**|M. Llerena et.al.|[2403.05362v1](http://arxiv.org/abs/2403.05362v1)|[2403.05362v1](http://arxiv.org/pdf/2403.05362v1)|null|
 |**2024-03-07**|**Observability of substructures in planet-forming disk in (sub)cm wavelength with SKA and ngVLA**|Yinhao Wu et.al.|[2403.04754v1](http://arxiv.org/abs/2403.04754v1)|[2403.04754v1](http://arxiv.org/pdf/2403.04754v1)|null|
 |**2024-03-07**|**Testing an entropy estimator related to the dynamical state of galaxy clusters**|J. M. Zúniga et.al.|[2403.04723v1](http://arxiv.org/abs/2403.04723v1)|[2403.04723v1](http://arxiv.org/pdf/2403.04723v1)|null|
 |**2024-03-07**|**Molecular Gas Tracers in Young and Old Protoplanetary Disks**|Dana E. Anderson et.al.|[2403.04715v1](http://arxiv.org/abs/2403.04715v1)|[2403.04715v1](http://arxiv.org/pdf/2403.04715v1)|null|
@@ -4284,6 +4294,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-08**|**Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos**|Tarun Kalluri et.al.|[2403.05535v1](http://arxiv.org/abs/2403.05535v1)|[2403.05535v1](http://arxiv.org/pdf/2403.05535v1)|null|
+|**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530v1](http://arxiv.org/abs/2403.05530v1)|[2403.05530v1](http://arxiv.org/pdf/2403.05530v1)|null|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527v1](http://arxiv.org/abs/2403.05527v1)|[2403.05527v1](http://arxiv.org/pdf/2403.05527v1)|null|
+|**2024-03-08**|**DeepSeek-VL: Towards Real-World Vision-Language Understanding**|Haoyu Lu et.al.|[2403.05525v1](http://arxiv.org/abs/2403.05525v1)|[2403.05525v1](http://arxiv.org/pdf/2403.05525v1)|**[link](https://github.com/deepseek-ai/deepseek-vl)**|
+|**2024-03-08**|**Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought**|James Chua et.al.|[2403.05518v1](http://arxiv.org/abs/2403.05518v1)|[2403.05518v1](http://arxiv.org/pdf/2403.05518v1)|**[link](https://github.com/raybears/cot-transparency)**|
+|**2024-03-08**|**To Err Is Human, but Llamas Can Learn It Too**|Agnes Luhtaru et.al.|[2403.05493v1](http://arxiv.org/abs/2403.05493v1)|[2403.05493v1](http://arxiv.org/pdf/2403.05493v1)|null|
+|**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490v1](http://arxiv.org/abs/2403.05490v1)|[2403.05490v1](http://arxiv.org/pdf/2403.05490v1)|null|
+|**2024-03-08**|**Will GPT-4 Run DOOM?**|Adrian de Wynter et.al.|[2403.05468v1](http://arxiv.org/abs/2403.05468v1)|[2403.05468v1](http://arxiv.org/pdf/2403.05468v1)|null|
+|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465v1](http://arxiv.org/abs/2403.05465v1)|[2403.05465v1](http://arxiv.org/pdf/2403.05465v1)|null|
+|**2024-03-08**|**Algorithmic Identification of Essential Exogenous Nodes for Causal Sufficiency in Brain Networks**|Abdolmahdi Bagheri et.al.|[2403.05407v1](http://arxiv.org/abs/2403.05407v1)|[2403.05407v1](http://arxiv.org/pdf/2403.05407v1)|null|
 |**2024-03-07**|**iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries**|Adam Coscia et.al.|[2403.04760v1](http://arxiv.org/abs/2403.04760v1)|[2403.04760v1](http://arxiv.org/pdf/2403.04760v1)|**[link](https://github.com/adamcoscia/iscore)**|
 |**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758v1](http://arxiv.org/abs/2403.04758v1)|[2403.04758v1](http://arxiv.org/pdf/2403.04758v1)|**[link](https://github.com/adamcoscia/knowledgevis)**|
 |**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|[2403.04747v1](http://arxiv.org/pdf/2403.04747v1)|**[link](https://github.com/ml-jku/gnn-vpa)**|
