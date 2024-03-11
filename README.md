@@ -1,4 +1,4 @@
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 
 ## Astrophysics
 
@@ -4286,9 +4286,9 @@
 |---|---|---|---|---|---|
 |**2024-03-07**|**iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries**|Adam Coscia et.al.|[2403.04760v1](http://arxiv.org/abs/2403.04760v1)|[2403.04760v1](http://arxiv.org/pdf/2403.04760v1)|**[link](https://github.com/adamcoscia/iscore)**|
 |**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758v1](http://arxiv.org/abs/2403.04758v1)|[2403.04758v1](http://arxiv.org/pdf/2403.04758v1)|**[link](https://github.com/adamcoscia/knowledgevis)**|
-|**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|[2403.04747v1](http://arxiv.org/pdf/2403.04747v1)|null|
+|**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|[2403.04747v1](http://arxiv.org/pdf/2403.04747v1)|**[link](https://github.com/ml-jku/gnn-vpa)**|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746v1](http://arxiv.org/abs/2403.04746v1)|[2403.04746v1](http://arxiv.org/pdf/2403.04746v1)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
-|**2024-03-07**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732v1](http://arxiv.org/abs/2403.04732v1)|[2403.04732v1](http://arxiv.org/pdf/2403.04732v1)|**[link](https://github.com/apple/ml-rpm-bench)**|
+|**2024-03-08**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732v2](http://arxiv.org/abs/2403.04732v2)|[2403.04732v2](http://arxiv.org/pdf/2403.04732v2)|**[link](https://github.com/apple/ml-rpm-bench)**|
 |**2024-03-07**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729v1](http://arxiv.org/abs/2403.04729v1)|[2403.04729v1](http://arxiv.org/pdf/2403.04729v1)|null|
 |**2024-03-07**|**Common 7B Language Models Already Possess Strong Math Capabilities**|Chen Li et.al.|[2403.04706v1](http://arxiv.org/abs/2403.04706v1)|[2403.04706v1](http://arxiv.org/pdf/2403.04706v1)|null|
 |**2024-03-07**|**Convergence of a Ramshaw-Mesina Iteration**|Aytekin Çibik et.al.|[2403.04702v1](http://arxiv.org/abs/2403.04702v1)|[2403.04702v1](http://arxiv.org/pdf/2403.04702v1)|null|
