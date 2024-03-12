@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-11**|**Imaging of I Zw 18 by JWST: I. Strategy and First Results of Dusty Stellar Populations**|Alec S. Hirschauer et.al.|[2403.06980v1](http://arxiv.org/abs/2403.06980v1)|[2403.06980v1](http://arxiv.org/pdf/2403.06980v1)|null|
+|**2024-03-11**|**Tidal synchronization trapping in stars and planets with convective envelopes**|Janosz W. Dewberry et.al.|[2403.06979v1](http://arxiv.org/abs/2403.06979v1)|[2403.06979v1](http://arxiv.org/pdf/2403.06979v1)|null|
+|**2024-03-11**|**Investigating model dependencies for obscured Active Galactic Nuclei: a case study of NGC 3982**|Kristína Kallová et.al.|[2403.06972v1](http://arxiv.org/abs/2403.06972v1)|[2403.06972v1](http://arxiv.org/pdf/2403.06972v1)|null|
+|**2024-03-11**|**Fully non-Gaussian Scalar-Induced Gravitational Waves**|Gabriele Perna et.al.|[2403.06962v1](http://arxiv.org/abs/2403.06962v1)|[2403.06962v1](http://arxiv.org/pdf/2403.06962v1)|null|
+|**2024-03-11**|**The MODEST catalog of depth-dependent spatially coupled inversions of sunspots observed by Hinode/SOT-SP**|J. S. Castellanos Durán et.al.|[2403.06960v1](http://arxiv.org/abs/2403.06960v1)|[2403.06960v1](http://arxiv.org/pdf/2403.06960v1)|null|
+|**2024-03-11**|**3D simulations of TRAPPIST-1e with varying CO2, CH4 and haze profiles**|Mei Ting Mak et.al.|[2403.06928v1](http://arxiv.org/abs/2403.06928v1)|[2403.06928v1](http://arxiv.org/pdf/2403.06928v1)|null|
+|**2024-03-11**|**Hydrogen Column Density Variability in a Sample of Local Compton-Thin AGN II**|A. Pizzetti et.al.|[2403.06919v1](http://arxiv.org/abs/2403.06919v1)|[2403.06919v1](http://arxiv.org/pdf/2403.06919v1)|null|
+|**2024-03-11**|**QED Effects on Kerr-Newman Black Hole Shadows**|Shaobing Yuan et.al.|[2403.06886v1](http://arxiv.org/abs/2403.06886v1)|[2403.06886v1](http://arxiv.org/pdf/2403.06886v1)|null|
+|**2024-03-11**|**Radial Tully-Fisher relation and the local variance of Hubble parameter**|Balakrishna S. Haridasu et.al.|[2403.06859v1](http://arxiv.org/abs/2403.06859v1)|[2403.06859v1](http://arxiv.org/pdf/2403.06859v1)|null|
+|**2024-03-11**|**ExoCubed: A Riemann-Solver based Cubed-Sphere Dynamic Core for Planetary Atmospheres**|Sihe Chen et.al.|[2403.06844v1](http://arxiv.org/abs/2403.06844v1)|[2403.06844v1](http://arxiv.org/pdf/2403.06844v1)|null|
 |**2024-03-08**|**Non-parametric Bayesian reconstruction of Galactic magnetic fields using Information Field Theory: The inclusion of line-of-sight information in ultra-high energy cosmic ray backtracking**|Alexandros Tsouros et.al.|[2403.05531v1](http://arxiv.org/abs/2403.05531v1)|[2403.05531v1](http://arxiv.org/pdf/2403.05531v1)|null|
 |**2024-03-08**|**The NIRSpec Wide GTO Survey**|Michael V. Maseda et.al.|[2403.05506v1](http://arxiv.org/abs/2403.05506v1)|[2403.05506v1](http://arxiv.org/pdf/2403.05506v1)|null|
 |**2024-03-08**|**Absence of concordance in a simple self-interacting neutrino cosmology**|David Camarena et.al.|[2403.05496v1](http://arxiv.org/abs/2403.05496v1)|[2403.05496v1](http://arxiv.org/pdf/2403.05496v1)|null|
@@ -4298,6 +4308,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963v1](http://arxiv.org/abs/2403.06963v1)|[2403.06963v1](http://arxiv.org/pdf/2403.06963v1)|null|
+|**2024-03-11**|**Explainable Transformer Prototypes for Medical Diagnoses**|Ugur Demir et.al.|[2403.06961v1](http://arxiv.org/abs/2403.06961v1)|[2403.06961v1](http://arxiv.org/pdf/2403.06961v1)|**[link](https://github.com/nubagcilab/r2r_proto)**|
+|**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952v1](http://arxiv.org/abs/2403.06952v1)|[2403.06952v1](http://arxiv.org/pdf/2403.06952v1)|null|
+|**2024-03-11**|**Grid Monitoring and Protection with Continuous Point-on-Wave Measurements and Generative AI**|Lang Tong et.al.|[2403.06942v1](http://arxiv.org/abs/2403.06942v1)|[2403.06942v1](http://arxiv.org/pdf/2403.06942v1)|null|
+|**2024-03-11**|**Counterfactual Reasoning with Knowledge Graph Embeddings**|Lena Zellinger et.al.|[2403.06936v1](http://arxiv.org/abs/2403.06936v1)|[2403.06936v1](http://arxiv.org/pdf/2403.06936v1)|**[link](https://github.com/lenazellinger/counterfactual_kgr)**|
+|**2024-03-11**|**Simplicity Bias of Transformers to Learn Low Sensitivity Functions**|Bhavya Vasudeva et.al.|[2403.06925v1](http://arxiv.org/abs/2403.06925v1)|[2403.06925v1](http://arxiv.org/pdf/2403.06925v1)|null|
+|**2024-03-11**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914v1](http://arxiv.org/abs/2403.06914v1)|[2403.06914v1](http://arxiv.org/pdf/2403.06914v1)|null|
+|**2024-03-11**|**Responsible Artificial Intelligence: A Structured Literature Review**|Sabrina Goellner et.al.|[2403.06910v1](http://arxiv.org/abs/2403.06910v1)|[2403.06910v1](http://arxiv.org/pdf/2403.06910v1)|null|
+|**2024-03-11**|**Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints**|Jean V. Alves et.al.|[2403.06906v1](http://arxiv.org/abs/2403.06906v1)|[2403.06906v1](http://arxiv.org/pdf/2403.06906v1)|null|
+|**2024-03-11**|**LIBR+: Improving Intraoperative Liver Registration by Learning the Residual of Biomechanics-Based Deformable Registration**|Dingrong Wang et.al.|[2403.06901v1](http://arxiv.org/abs/2403.06901v1)|[2403.06901v1](http://arxiv.org/pdf/2403.06901v1)|null|
 |**2024-03-08**|**Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos**|Tarun Kalluri et.al.|[2403.05535v1](http://arxiv.org/abs/2403.05535v1)|[2403.05535v1](http://arxiv.org/pdf/2403.05535v1)|null|
 |**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530v1](http://arxiv.org/abs/2403.05530v1)|[2403.05530v1](http://arxiv.org/pdf/2403.05530v1)|null|
 |**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527v1](http://arxiv.org/abs/2403.05527v1)|[2403.05527v1](http://arxiv.org/pdf/2403.05527v1)|**[link](https://github.com/haokang-timmy/gear)**|
