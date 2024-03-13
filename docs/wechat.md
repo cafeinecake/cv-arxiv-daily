@@ -1,4 +1,4 @@
-> Updated on 2024.03.12
+> Updated on 2024.03.13
 
 ## Astrophysics
 
@@ -4306,7 +4306,7 @@
 - 2024-03-11, **Grid Monitoring and Protection with Continuous Point-on-Wave Measurements and Generative AI**, Lang Tong et.al., Paper: [http://arxiv.org/abs/2403.06942v1](http://arxiv.org/abs/2403.06942v1), Paper: [http://arxiv.org/abs/2403.06942v1](http://arxiv.org/pdf/2403.06942v1)
 - 2024-03-11, **Counterfactual Reasoning with Knowledge Graph Embeddings**, Lena Zellinger et.al., Paper: [http://arxiv.org/abs/2403.06936v1](http://arxiv.org/abs/2403.06936v1),Paper: [http://arxiv.org/abs/2403.06936v1](http://arxiv.org/pdf/2403.06936v1), Code: **[https://github.com/lenazellinger/counterfactual_kgr](https://github.com/lenazellinger/counterfactual_kgr)**
 - 2024-03-11, **Simplicity Bias of Transformers to Learn Low Sensitivity Functions**, Bhavya Vasudeva et.al., Paper: [http://arxiv.org/abs/2403.06925v1](http://arxiv.org/abs/2403.06925v1), Paper: [http://arxiv.org/abs/2403.06925v1](http://arxiv.org/pdf/2403.06925v1)
-- 2024-03-11, **MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**, Yichuan Li et.al., Paper: [http://arxiv.org/abs/2403.06914v1](http://arxiv.org/abs/2403.06914v1), Paper: [http://arxiv.org/abs/2403.06914v1](http://arxiv.org/pdf/2403.06914v1)
+- 2024-03-12, **MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**, Yichuan Li et.al., Paper: [http://arxiv.org/abs/2403.06914v2](http://arxiv.org/abs/2403.06914v2), Paper: [http://arxiv.org/abs/2403.06914v2](http://arxiv.org/pdf/2403.06914v2)
 - 2024-03-11, **Responsible Artificial Intelligence: A Structured Literature Review**, Sabrina Goellner et.al., Paper: [http://arxiv.org/abs/2403.06910v1](http://arxiv.org/abs/2403.06910v1), Paper: [http://arxiv.org/abs/2403.06910v1](http://arxiv.org/pdf/2403.06910v1)
 - 2024-03-11, **Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints**, Jean V. Alves et.al., Paper: [http://arxiv.org/abs/2403.06906v1](http://arxiv.org/abs/2403.06906v1), Paper: [http://arxiv.org/abs/2403.06906v1](http://arxiv.org/pdf/2403.06906v1)
 - 2024-03-11, **LIBR+: Improving Intraoperative Liver Registration by Learning the Residual of Biomechanics-Based Deformable Registration**, Dingrong Wang et.al., Paper: [http://arxiv.org/abs/2403.06901v1](http://arxiv.org/abs/2403.06901v1), Paper: [http://arxiv.org/abs/2403.06901v1](http://arxiv.org/pdf/2403.06901v1)
