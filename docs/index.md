@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-03-12**|**SIDE-real: Truncated marginal neural ratio estimation for Supernova Ia Dust Extinction with real data**|Konstantin Karchev et.al.|[2403.07871v1](http://arxiv.org/abs/2403.07871v1)|[2403.07871v1](http://arxiv.org/pdf/2403.07871v1)|null|
+|**2024-03-12**|**SIDE-real: Truncated marginal neural ratio estimation for Supernova Ia Dust Extinction with real data**|Konstantin Karchev et.al.|[2403.07871v1](http://arxiv.org/abs/2403.07871v1)|[2403.07871v1](http://arxiv.org/pdf/2403.07871v1)|**[link](https://github.com/kosiokarchev/slicsim)**|
 |**2024-03-12**|**Type IV-like Solar Radio Burst Consisting of a Series of Spikes Observed by PSP**|Bing Ma et.al.|[2403.07804v1](http://arxiv.org/abs/2403.07804v1)|[2403.07804v1](http://arxiv.org/pdf/2403.07804v1)|null|
 |**2024-03-12**|**The Importance of Optical Wavelength Data on Atmospheric Retrievals of Exoplanet Transmission Spectra**|Charlotte Fairman et.al.|[2403.07801v1](http://arxiv.org/abs/2403.07801v1)|[2403.07801v1](http://arxiv.org/pdf/2403.07801v1)|null|
 |**2024-03-12**|**Second gadolinium loading to Super-Kamiokande**|K. Abe et.al.|[2403.07796v1](http://arxiv.org/abs/2403.07796v1)|[2403.07796v1](http://arxiv.org/pdf/2403.07796v1)|null|
@@ -4325,8 +4325,8 @@ layout: default
 |**2024-03-12**|**Fusing Climate Data Products using a Spatially Varying Autoencoder**|Jacob A. Johnson et.al.|[2403.07822v1](http://arxiv.org/abs/2403.07822v1)|[2403.07822v1](http://arxiv.org/pdf/2403.07822v1)|null|
 |**2024-03-12**|**Label Dropout: Improved Deep Learning Echocardiography Segmentation Using Multiple Datasets With Domain Shift and Partial Labelling**|Iman Islam et.al.|[2403.07818v1](http://arxiv.org/abs/2403.07818v1)|[2403.07818v1](http://arxiv.org/pdf/2403.07818v1)|null|
 |**2024-03-12**|**Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM**|Sainbayar Sukhbaatar et.al.|[2403.07816v1](http://arxiv.org/abs/2403.07816v1)|[2403.07816v1](http://arxiv.org/pdf/2403.07816v1)|null|
-|**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815v1](http://arxiv.org/abs/2403.07815v1)|[2403.07815v1](http://arxiv.org/pdf/2403.07815v1)|null|
-|**2024-03-12**|**Beyond Memorization: The Challenge of Random Memory Access in Language Models**|Tongyao Zhu et.al.|[2403.07805v1](http://arxiv.org/abs/2403.07805v1)|[2403.07805v1](http://arxiv.org/pdf/2403.07805v1)|**[link](https://github.com/sail-sg/lm-random-memory-access)**|
+|**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815v1](http://arxiv.org/abs/2403.07815v1)|[2403.07815v1](http://arxiv.org/pdf/2403.07815v1)|**[link](https://github.com/amazon-science/chronos-forecasting)**|
+|**2024-03-13**|**Beyond Memorization: The Challenge of Random Memory Access in Language Models**|Tongyao Zhu et.al.|[2403.07805v2](http://arxiv.org/abs/2403.07805v2)|[2403.07805v2](http://arxiv.org/pdf/2403.07805v2)|**[link](https://github.com/sail-sg/lm-random-memory-access)**|
 |**2024-03-12**|**Joint Selection: Adaptively Incorporating Public Information for Private Synthetic Data**|Miguel Fuentes et.al.|[2403.07797v1](http://arxiv.org/abs/2403.07797v1)|[2403.07797v1](http://arxiv.org/pdf/2403.07797v1)|**[link](https://github.com/miguel-fuentes/jam_aistats)**|
 |**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963v1](http://arxiv.org/abs/2403.06963v1)|[2403.06963v1](http://arxiv.org/pdf/2403.06963v1)|null|
 |**2024-03-11**|**Explainable Transformer Prototypes for Medical Diagnoses**|Ugur Demir et.al.|[2403.06961v1](http://arxiv.org/abs/2403.06961v1)|[2403.06961v1](http://arxiv.org/pdf/2403.06961v1)|**[link](https://github.com/nubagcilab/r2r_proto)**|
