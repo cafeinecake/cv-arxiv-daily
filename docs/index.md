@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-14**|**Tidal evolution of cored and cuspy dark matter halos**|Xiaolong Du et.al.|[2403.09597v1](http://arxiv.org/abs/2403.09597v1)|[2403.09597v1](http://arxiv.org/pdf/2403.09597v1)|null|
+|**2024-03-14**|**A comprehensive study of orbital evolution of LMC X-4: Existence of a second derivative of the orbital period**|Chetana Jain et.al.|[2403.09595v1](http://arxiv.org/abs/2403.09595v1)|[2403.09595v1](http://arxiv.org/pdf/2403.09595v1)|null|
+|**2024-03-14**|**The Size-Linewidth Relation and Signatures of Feedback from Quiescent to Active Star Forming Regions in the LMC**|Alex Green et.al.|[2403.09594v1](http://arxiv.org/abs/2403.09594v1)|[2403.09594v1](http://arxiv.org/pdf/2403.09594v1)|null|
+|**2024-03-14**|**cosmocnc: A fast, flexible, and accurate galaxy cluster number count likelihood code for cosmology**|Íñigo Zubeldia et.al.|[2403.09589v1](http://arxiv.org/abs/2403.09589v1)|[2403.09589v1](http://arxiv.org/pdf/2403.09589v1)|null|
+|**2024-03-14**|**Determining stellar accretion rates from $Pa_α$ and $Br_β$ emission lines with JWST NIRSpec**|Ciaràn Rogers et.al.|[2403.09568v1](http://arxiv.org/abs/2403.09568v1)|[2403.09568v1](http://arxiv.org/pdf/2403.09568v1)|null|
+|**2024-03-14**|**Testing MOND on small bodies in the remote solar system**|David Vokrouhlický et.al.|[2403.09555v1](http://arxiv.org/abs/2403.09555v1)|[2403.09555v1](http://arxiv.org/pdf/2403.09555v1)|null|
+|**2024-03-14**|**A targeted radio pulsar survey of redback candidates with MeerKAT**|T. Thongmeearkom et.al.|[2403.09553v1](http://arxiv.org/abs/2403.09553v1)|[2403.09553v1](http://arxiv.org/pdf/2403.09553v1)|null|
+|**2024-03-14**|**Supermassive Black Hole Winds in X-rays -- SUBWAYS. III. A population study on Ultra-Fast Outflows**|V. E. Gianolli et.al.|[2403.09538v1](http://arxiv.org/abs/2403.09538v1)|[2403.09538v1](http://arxiv.org/pdf/2403.09538v1)|null|
+|**2024-03-14**|**An Extreme Ultra-Compact X-ray Binary in a Globular Cluster: Multi-Wavelength Observations of RZ2109 Explored in a Triple System Framework**|Kristen C. Dage et.al.|[2403.09525v1](http://arxiv.org/abs/2403.09525v1)|[2403.09525v1](http://arxiv.org/pdf/2403.09525v1)|null|
+|**2024-03-14**|**Gravitational waves from glitch-induced f-mode oscillations in quark and neutron stars**|Oliver H. Wilson et.al.|[2403.09489v1](http://arxiv.org/abs/2403.09489v1)|[2403.09489v1](http://arxiv.org/pdf/2403.09489v1)|null|
 |**2024-03-13**|**The thermalization of $γ$-rays in radioactive expanding ejecta: A simple model and its application for Kilonovae and Ia SNe**|Or Guttman et.al.|[2403.08769v1](http://arxiv.org/abs/2403.08769v1)|[2403.08769v1](http://arxiv.org/pdf/2403.08769v1)|null|
 |**2024-03-13**|**An Analytic Description of Electron Thermalization in Kilonovae Ejecta**|Ben Shenhar et.al.|[2403.08765v1](http://arxiv.org/abs/2403.08765v1)|[2403.08765v1](http://arxiv.org/pdf/2403.08765v1)|null|
 |**2024-03-13**|**Observational tests in scale invariance I: galaxy clusters and rotation of galaxies**|Andre Maeder et.al.|[2403.08759v1](http://arxiv.org/abs/2403.08759v1)|[2403.08759v1](http://arxiv.org/pdf/2403.08759v1)|null|
@@ -4328,6 +4338,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635v1](http://arxiv.org/abs/2403.09635v1)|[2403.09635v1](http://arxiv.org/pdf/2403.09635v1)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631v1](http://arxiv.org/abs/2403.09631v1)|[2403.09631v1](http://arxiv.org/pdf/2403.09631v1)|null|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629v1](http://arxiv.org/abs/2403.09629v1)|[2403.09629v1](http://arxiv.org/pdf/2403.09629v1)|null|
+|**2024-03-14**|**Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning**|Zhishuai Liu et.al.|[2403.09621v1](http://arxiv.org/abs/2403.09621v1)|[2403.09621v1](http://arxiv.org/pdf/2403.09621v1)|null|
+|**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606v1](http://arxiv.org/abs/2403.09606v1)|[2403.09606v1](http://arxiv.org/pdf/2403.09606v1)|null|
+|**2024-03-14**|**Counterfactual contrastive learning: robust representations via causal image synthesis**|Melanie Roschewitz et.al.|[2403.09605v1](http://arxiv.org/abs/2403.09605v1)|[2403.09605v1](http://arxiv.org/pdf/2403.09605v1)|**[link](https://github.com/biomedia-mira/counterfactual-contrastive)**|
+|**2024-03-14**|**Optimistic Verifiable Training by Controlling Hardware Nondeterminism**|Megha Srivastava et.al.|[2403.09603v1](http://arxiv.org/abs/2403.09603v1)|[2403.09603v1](http://arxiv.org/pdf/2403.09603v1)|null|
+|**2024-03-14**|**Algorithmic syntactic causal identification**|Dhurim Cakiqi et.al.|[2403.09580v1](http://arxiv.org/abs/2403.09580v1)|[2403.09580v1](http://arxiv.org/pdf/2403.09580v1)|null|
+|**2024-03-14**|**Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models**|Laura Fernández-Becerra et.al.|[2403.09567v1](http://arxiv.org/abs/2403.09567v1)|[2403.09567v1](http://arxiv.org/pdf/2403.09567v1)|null|
+|**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565v1](http://arxiv.org/abs/2403.09565v1)|[2403.09565v1](http://arxiv.org/pdf/2403.09565v1)|null|
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770v1](http://arxiv.org/abs/2403.08770v1)|[2403.08770v1](http://arxiv.org/pdf/2403.08770v1)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763v1](http://arxiv.org/abs/2403.08763v1)|[2403.08763v1](http://arxiv.org/pdf/2403.08763v1)|null|
 |**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758v1](http://arxiv.org/abs/2403.08758v1)|[2403.08758v1](http://arxiv.org/pdf/2403.08758v1)|null|
