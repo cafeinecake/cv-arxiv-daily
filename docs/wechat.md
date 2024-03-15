@@ -1,4 +1,4 @@
-> Updated on 2024.03.14
+> Updated on 2024.03.15
 
 ## Astrophysics
 
@@ -8,7 +8,7 @@
 - 2024-03-13, **Euclid: Testing photometric selection of emission-line galaxy targets**, M. S. Cagliari et.al., Paper: [http://arxiv.org/abs/2403.08726v1](http://arxiv.org/abs/2403.08726v1), Paper: [http://arxiv.org/abs/2403.08726v1](http://arxiv.org/pdf/2403.08726v1)
 - 2024-03-13, **A too-many dwarf galaxy satellites problem in the M83 group**, Oliver Müller et.al., Paper: [http://arxiv.org/abs/2403.08717v1](http://arxiv.org/abs/2403.08717v1), Paper: [http://arxiv.org/abs/2403.08717v1](http://arxiv.org/pdf/2403.08717v1)
 - 2024-03-13, **Limits on the OH Molecule in the Smith High Velocity Cloud**, Anthony H. Minter et.al., Paper: [http://arxiv.org/abs/2403.08704v1](http://arxiv.org/abs/2403.08704v1), Paper: [http://arxiv.org/abs/2403.08704v1](http://arxiv.org/pdf/2403.08704v1)
-- 2024-03-13, **The Enigma of Gaia18cjb: a Rare Hybrid of Four and EXor?**, Eleonora Fiorellino et.al., Paper: [http://arxiv.org/abs/2403.08698v1](http://arxiv.org/abs/2403.08698v1), Paper: [http://arxiv.org/abs/2403.08698v1](http://arxiv.org/pdf/2403.08698v1)
+- 2024-03-13, **The Enigma of Gaia18cjb: a Rare Hybrid of FUor and EXor?**, Eleonora Fiorellino et.al., Paper: [http://arxiv.org/abs/2403.08698v1](http://arxiv.org/abs/2403.08698v1), Paper: [http://arxiv.org/abs/2403.08698v1](http://arxiv.org/pdf/2403.08698v1)
 - 2024-03-13, **Towards a Consistent Calculation of the Lunar Response to Gravitational Waves**, Han Yan et.al., Paper: [http://arxiv.org/abs/2403.08681v1](http://arxiv.org/abs/2403.08681v1), Paper: [http://arxiv.org/abs/2403.08681v1](http://arxiv.org/pdf/2403.08681v1)
 - 2024-03-13, **BHAC-QGP: three-dimensional MHD simulations of relativistic heavy-ion collisions, II. Application to Au-Au collisions**, Markus Mayer et.al., Paper: [http://arxiv.org/abs/2403.08669v1](http://arxiv.org/abs/2403.08669v1), Paper: [http://arxiv.org/abs/2403.08669v1](http://arxiv.org/pdf/2403.08669v1)
 - 2024-03-13, **BHAC-QGP: three-dimensional MHD simulations of relativistic heavy-ion collisions, I. Methods and tests**, Markus Mayer et.al., Paper: [http://arxiv.org/abs/2403.08668v1](http://arxiv.org/abs/2403.08668v1), Paper: [http://arxiv.org/abs/2403.08668v1](http://arxiv.org/pdf/2403.08668v1)
@@ -4323,7 +4323,7 @@
 - 2024-03-13, **FastMAC: Stochastic Spectral Sampling of Correspondence Graph**, Yifei Zhang et.al., Paper: [http://arxiv.org/abs/2403.08770v1](http://arxiv.org/abs/2403.08770v1), Paper: [http://arxiv.org/abs/2403.08770v1](http://arxiv.org/pdf/2403.08770v1)
 - 2024-03-13, **Simple and Scalable Strategies to Continually Pre-train Large Language Models**, Adam Ibrahim et.al., Paper: [http://arxiv.org/abs/2403.08763v1](http://arxiv.org/abs/2403.08763v1), Paper: [http://arxiv.org/abs/2403.08763v1](http://arxiv.org/pdf/2403.08763v1)
 - 2024-03-13, **Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**, Shihan Qiu et.al., Paper: [http://arxiv.org/abs/2403.08758v1](http://arxiv.org/abs/2403.08758v1), Paper: [http://arxiv.org/abs/2403.08758v1](http://arxiv.org/pdf/2403.08758v1)
-- 2024-03-13, **Efficient Combinatorial Optimization via Heat Diffusion**, Hengyuan Ma et.al., Paper: [http://arxiv.org/abs/2403.08757v1](http://arxiv.org/abs/2403.08757v1), Paper: [http://arxiv.org/abs/2403.08757v1](http://arxiv.org/pdf/2403.08757v1)
+- 2024-03-14, **Efficient Combinatorial Optimization via Heat Diffusion**, Hengyuan Ma et.al., Paper: [http://arxiv.org/abs/2403.08757v2](http://arxiv.org/abs/2403.08757v2), Paper: [http://arxiv.org/abs/2403.08757v2](http://arxiv.org/pdf/2403.08757v2)
 - 2024-03-13, **DAM: Dynamic Adapter Merging for Continual Video QA Learning**, Feng Cheng et.al., Paper: [http://arxiv.org/abs/2403.08755v1](http://arxiv.org/abs/2403.08755v1),Paper: [http://arxiv.org/abs/2403.08755v1](http://arxiv.org/pdf/2403.08755v1), Code: **[https://github.com/klauscc/dam](https://github.com/klauscc/dam)**
 - 2024-03-13, **Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**, Jingling Li et.al., Paper: [http://arxiv.org/abs/2403.08743v1](http://arxiv.org/abs/2403.08743v1), Paper: [http://arxiv.org/abs/2403.08743v1](http://arxiv.org/pdf/2403.08743v1)
 - 2024-03-13, **The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**, Carlo Nicolini et.al., Paper: [http://arxiv.org/abs/2403.08739v1](http://arxiv.org/abs/2403.08739v1), Paper: [http://arxiv.org/abs/2403.08739v1](http://arxiv.org/pdf/2403.08739v1)
