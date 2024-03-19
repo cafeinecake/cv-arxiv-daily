@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-18**|**ARTEMIS emulator: exploring the effect of cosmology and galaxy formation physics on Milky Way-mass haloes and their satellites**|Shaun T. Brown et.al.|[2403.11692v1](http://arxiv.org/abs/2403.11692v1)|[2403.11692v1](http://arxiv.org/pdf/2403.11692v1)|null|
+|**2024-03-18**|**Hubble tension in a nonminimally coupled curvature-matter gravity model**|Miguel Barroso Varela et.al.|[2403.11683v1](http://arxiv.org/abs/2403.11683v1)|[2403.11683v1](http://arxiv.org/pdf/2403.11683v1)|null|
+|**2024-03-18**|**An in-depth analysis of the variable cyclotron lines in GX 301$-$2**|Nicolas Zalot et.al.|[2403.11682v1](http://arxiv.org/abs/2403.11682v1)|[2403.11682v1](http://arxiv.org/pdf/2403.11682v1)|null|
+|**2024-03-18**|**Narrow absorption lines from intervening material in supernovae I. Measurements and temporal evolution**|Santiago González-Gaitán et.al.|[2403.11677v1](http://arxiv.org/abs/2403.11677v1)|[2403.11677v1](http://arxiv.org/pdf/2403.11677v1)|null|
+|**2024-03-18**|**The fuzzy cores of Jupiter and Saturn**|Ravit Helled et.al.|[2403.11657v1](http://arxiv.org/abs/2403.11657v1)|[2403.11657v1](http://arxiv.org/pdf/2403.11657v1)|null|
+|**2024-03-18**|**The temperature of the neutral Interstellar Medium in the Galaxy**|Narendra Nath Patra et.al.|[2403.11653v1](http://arxiv.org/abs/2403.11653v1)|[2403.11653v1](http://arxiv.org/pdf/2403.11653v1)|null|
+|**2024-03-18**|**Small-scale magnetic flux emergence preceding a chain of energetic solar atmospheric events**|D. Nóbrega-Siverio et.al.|[2403.11652v1](http://arxiv.org/abs/2403.11652v1)|[2403.11652v1](http://arxiv.org/pdf/2403.11652v1)|null|
+|**2024-03-18**|**The FAST Galactic Plane Pulsar Snapshot Survey: V. PSR J1901+0658 in a double neutron star system**|W. Q. Su et.al.|[2403.11635v1](http://arxiv.org/abs/2403.11635v1)|[2403.11635v1](http://arxiv.org/pdf/2403.11635v1)|null|
+|**2024-03-18**|**GLACE survey: OSIRIS/GTC tuneable imaging of the galaxy cluster ZwCl 0024.0+1652 II. The mass--metallicity relationship and the effect of the environment**|Bernabé Cedrés et.al.|[2403.11629v1](http://arxiv.org/abs/2403.11629v1)|[2403.11629v1](http://arxiv.org/pdf/2403.11629v1)|null|
+|**2024-03-18**|**Effects of galaxy environment on merger fraction**|W. J. Pearson et.al.|[2403.11615v1](http://arxiv.org/abs/2403.11615v1)|[2403.11615v1](http://arxiv.org/pdf/2403.11615v1)|null|
 |**2024-03-15**|**Inflationary non-Gaussianities in alpha vacua and consistency with conformal symmetries**|Arhum Ansari et.al.|[2403.10513v1](http://arxiv.org/abs/2403.10513v1)|[2403.10513v1](http://arxiv.org/pdf/2403.10513v1)|null|
 |**2024-03-15**|**Detection of ionized hydrogen and oxygen from a very luminous and young galaxy 13.4 billion years ago**|Jorge A. Zavala et.al.|[2403.10491v1](http://arxiv.org/abs/2403.10491v1)|[2403.10491v1](http://arxiv.org/pdf/2403.10491v1)|null|
 |**2024-03-15**|**Does the Correlation between 2MRS Galaxies and the CMB Indicate an Unmodeled CMB Foreground?**|Graeme E. Addison et.al.|[2403.10490v1](http://arxiv.org/abs/2403.10490v1)|[2403.10490v1](http://arxiv.org/pdf/2403.10490v1)|null|
@@ -4348,6 +4358,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-18**|**LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images**|Ruyi Xu et.al.|[2403.11703v1](http://arxiv.org/abs/2403.11703v1)|[2403.11703v1](http://arxiv.org/pdf/2403.11703v1)|**[link](https://github.com/thunlp/llava-uhd)**|
+|**2024-03-18**|**HDLdebugger: Streamlining HDL debugging with Large Language Models**|Xufeng Yao et.al.|[2403.11671v1](http://arxiv.org/abs/2403.11671v1)|[2403.11671v1](http://arxiv.org/pdf/2403.11671v1)|null|
+|**2024-03-18**|**Calibration-Based ALE Model Order Reduction for Hyperbolic Problems with Self-Similar Travelling Discontinuities**|Monica Nonino et.al.|[2403.11664v1](http://arxiv.org/abs/2403.11664v1)|[2403.11664v1](http://arxiv.org/pdf/2403.11664v1)|null|
+|**2024-03-18**|**Guiding the generation of counterfactual explanations through temporal background knowledge for Predictive Process Monitoring**|Andrei Buliga et.al.|[2403.11642v1](http://arxiv.org/abs/2403.11642v1)|[2403.11642v1](http://arxiv.org/pdf/2403.11642v1)|**[link](https://github.com/abuliga/nirdizati_light_counterfactuals)**|
+|**2024-03-18**|**QEAN: Quaternion-Enhanced Attention Network for Visual Dance Generation**|Zhizhen Zhou et.al.|[2403.11626v1](http://arxiv.org/abs/2403.11626v1)|[2403.11626v1](http://arxiv.org/pdf/2403.11626v1)|null|
+|**2024-03-18**|**Optimal Layout Synthesis for Deep Quantum Circuits on NISQ Processors with 100+ Qubits**|Irfansha Shaik et.al.|[2403.11598v1](http://arxiv.org/abs/2403.11598v1)|[2403.11598v1](http://arxiv.org/pdf/2403.11598v1)|null|
+|**2024-03-18**|**Linguacodus: A Synergistic Framework for Transformative Code Generation in Machine Learning Pipelines**|Ekaterina Trofimova et.al.|[2403.11585v1](http://arxiv.org/abs/2403.11585v1)|[2403.11585v1](http://arxiv.org/pdf/2403.11585v1)|null|
+|**2024-03-18**|**MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**|Chih-Chung Hsu et.al.|[2403.11576v1](http://arxiv.org/abs/2403.11576v1)|[2403.11576v1](http://arxiv.org/pdf/2403.11576v1)|null|
+|**2024-03-18**|**Augment Before Copy-Paste: Data and Memory Efficiency-Oriented Instance Segmentation Framework for Sport-scenes**|Chih-Chung Hsu et.al.|[2403.11572v1](http://arxiv.org/abs/2403.11572v1)|[2403.11572v1](http://arxiv.org/pdf/2403.11572v1)|null|
+|**2024-03-18**|**Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection**|Liren He et.al.|[2403.11561v1](http://arxiv.org/abs/2403.11561v1)|[2403.11561v1](http://arxiv.org/pdf/2403.11561v1)|null|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517v1](http://arxiv.org/abs/2403.10517v1)|[2403.10517v1](http://arxiv.org/pdf/2403.10517v1)|null|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516v1](http://arxiv.org/abs/2403.10516v1)|[2403.10516v1](http://arxiv.org/pdf/2403.10516v1)|**[link](https://github.com/mhamilton723/FeatUp)**|
 |**2024-03-15**|**HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation**|Carmelo Sferrazza et.al.|[2403.10506v1](http://arxiv.org/abs/2403.10506v1)|[2403.10506v1](http://arxiv.org/pdf/2403.10506v1)|null|
