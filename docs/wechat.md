@@ -1,7 +1,8 @@
-> Updated on 2024.03.19
+> Updated on 2024.03.20
 
 ## Astrophysics
 
+- 2024-03-18, **Irradiation induced mineral changes of NWA10580 meteorite determined by infrared analysis**, I. Gyollai et.al., Paper: [http://arxiv.org/abs/2403.11725v1](http://arxiv.org/abs/2403.11725v1), Paper: [http://arxiv.org/abs/2403.11725v1](http://arxiv.org/pdf/2403.11725v1)
 - 2024-03-18, **ARTEMIS emulator: exploring the effect of cosmology and galaxy formation physics on Milky Way-mass haloes and their satellites**, Shaun T. Brown et.al., Paper: [http://arxiv.org/abs/2403.11692v1](http://arxiv.org/abs/2403.11692v1), Paper: [http://arxiv.org/abs/2403.11692v1](http://arxiv.org/pdf/2403.11692v1)
 - 2024-03-18, **Hubble tension in a nonminimally coupled curvature-matter gravity model**, Miguel Barroso Varela et.al., Paper: [http://arxiv.org/abs/2403.11683v1](http://arxiv.org/abs/2403.11683v1), Paper: [http://arxiv.org/abs/2403.11683v1](http://arxiv.org/pdf/2403.11683v1)
 - 2024-03-18, **An in-depth analysis of the variable cyclotron lines in GX 301$-$2**, Nicolas Zalot et.al., Paper: [http://arxiv.org/abs/2403.11682v1](http://arxiv.org/abs/2403.11682v1), Paper: [http://arxiv.org/abs/2403.11682v1](http://arxiv.org/pdf/2403.11682v1)
@@ -4350,6 +4351,9 @@
 
 ## AI
 
+- 2024-03-18, **S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**, Pierre Guetschel et.al., Paper: [http://arxiv.org/abs/2403.11772v1](http://arxiv.org/abs/2403.11772v1), Paper: [http://arxiv.org/abs/2403.11772v1](http://arxiv.org/pdf/2403.11772v1)
+- 2024-03-18, **Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**, M. Jehanzeb Mirza et.al., Paper: [http://arxiv.org/abs/2403.11755v1](http://arxiv.org/abs/2403.11755v1), Paper: [http://arxiv.org/abs/2403.11755v1](http://arxiv.org/pdf/2403.11755v1)
+- 2024-03-18, **Learning General Policies for Classical Planning Domains: Getting Beyond C$_2$**, Simon Ståhlberg et.al., Paper: [http://arxiv.org/abs/2403.11734v1](http://arxiv.org/abs/2403.11734v1), Paper: [http://arxiv.org/abs/2403.11734v1](http://arxiv.org/pdf/2403.11734v1)
 - 2024-03-18, **LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images**, Ruyi Xu et.al., Paper: [http://arxiv.org/abs/2403.11703v1](http://arxiv.org/abs/2403.11703v1),Paper: [http://arxiv.org/abs/2403.11703v1](http://arxiv.org/pdf/2403.11703v1), Code: **[https://github.com/thunlp/llava-uhd](https://github.com/thunlp/llava-uhd)**
 - 2024-03-18, **HDLdebugger: Streamlining HDL debugging with Large Language Models**, Xufeng Yao et.al., Paper: [http://arxiv.org/abs/2403.11671v1](http://arxiv.org/abs/2403.11671v1), Paper: [http://arxiv.org/abs/2403.11671v1](http://arxiv.org/pdf/2403.11671v1)
 - 2024-03-18, **Calibration-Based ALE Model Order Reduction for Hyperbolic Problems with Self-Similar Travelling Discontinuities**, Monica Nonino et.al., Paper: [http://arxiv.org/abs/2403.11664v1](http://arxiv.org/abs/2403.11664v1), Paper: [http://arxiv.org/abs/2403.11664v1](http://arxiv.org/pdf/2403.11664v1)
