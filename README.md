@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-19**|**The FLAMINGO project: the coupling between baryonic feedback and cosmology in light of the $S_8$ tension**|Willem Elbers et.al.|[2403.12967v1](http://arxiv.org/abs/2403.12967v1)|[2403.12967v1](http://arxiv.org/pdf/2403.12967v1)|null|
+|**2024-03-19**|**The physics of Core-Collapse Supernovae: explosion mechanism and explosive nucleosynthesis**|Luca Boccioli et.al.|[2403.12942v1](http://arxiv.org/abs/2403.12942v1)|[2403.12942v1](http://arxiv.org/pdf/2403.12942v1)|null|
+|**2024-03-19**|**Chemical differentiation and gas kinematics around massive young stellar objects in RCW 120**|K. V. Plakitina et.al.|[2403.12934v1](http://arxiv.org/abs/2403.12934v1)|[2403.12934v1](http://arxiv.org/pdf/2403.12934v1)|null|
+|**2024-03-19**|**Revisiting the abundance pattern and charge-exchange emission in the M82 centre**|K. Fukushima et.al.|[2403.12932v1](http://arxiv.org/abs/2403.12932v1)|[2403.12932v1](http://arxiv.org/pdf/2403.12932v1)|null|
+|**2024-03-19**|**Feedback and galaxy dynamics: A study of turbulence and star formation in 34 galaxies using the PHANGS survey**|Bruce G. Elmegreen et.al.|[2403.12927v1](http://arxiv.org/abs/2403.12927v1)|[2403.12927v1](http://arxiv.org/pdf/2403.12927v1)|null|
+|**2024-03-19**|**Discovery of a hot post-AGB star in Galactic globular cluster E3**|R. Kumar et.al.|[2403.12907v1](http://arxiv.org/abs/2403.12907v1)|[2403.12907v1](http://arxiv.org/pdf/2403.12907v1)|null|
+|**2024-03-19**|**Comments Concerning a Hypothetical Mesoscopic Dark Dimension**|John H. Schwarz et.al.|[2403.12899v1](http://arxiv.org/abs/2403.12899v1)|[2403.12899v1](http://arxiv.org/pdf/2403.12899v1)|null|
+|**2024-03-19**|**General properties of the electric Penrose process**|O. B. Zaslavskii et.al.|[2403.12879v1](http://arxiv.org/abs/2403.12879v1)|[2403.12879v1](http://arxiv.org/pdf/2403.12879v1)|null|
+|**2024-03-19**|**H$α$/H$β$ a Galactic Low Energy Cosmic Rays tracer**|I. Busa et.al.|[2403.12872v1](http://arxiv.org/abs/2403.12872v1)|[2403.12872v1](http://arxiv.org/pdf/2403.12872v1)|null|
+|**2024-03-19**|**Observation of spectral lines in the exceptional GRB 221009A**|Yan-Qiu Zhang et.al.|[2403.12851v1](http://arxiv.org/abs/2403.12851v1)|[2403.12851v1](http://arxiv.org/pdf/2403.12851v1)|null|
 |**2024-03-18**|**Irradiation induced mineral changes of NWA10580 meteorite determined by infrared analysis**|I. Gyollai et.al.|[2403.11725v1](http://arxiv.org/abs/2403.11725v1)|[2403.11725v1](http://arxiv.org/pdf/2403.11725v1)|null|
 |**2024-03-18**|**ARTEMIS emulator: exploring the effect of cosmology and galaxy formation physics on Milky Way-mass haloes and their satellites**|Shaun T. Brown et.al.|[2403.11692v1](http://arxiv.org/abs/2403.11692v1)|[2403.11692v1](http://arxiv.org/pdf/2403.11692v1)|null|
 |**2024-03-18**|**Hubble tension in a nonminimally coupled curvature-matter gravity model**|Miguel Barroso Varela et.al.|[2403.11683v1](http://arxiv.org/abs/2403.11683v1)|[2403.11683v1](http://arxiv.org/pdf/2403.11683v1)|null|
@@ -4355,6 +4365,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961v1](http://arxiv.org/abs/2403.12961v1)|[2403.12961v1](http://arxiv.org/pdf/2403.12961v1)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|[2403.12959v1](http://arxiv.org/pdf/2403.12959v1)|null|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952v1](http://arxiv.org/abs/2403.12952v1)|[2403.12952v1](http://arxiv.org/pdf/2403.12952v1)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers**|Vidhi Jain et.al.|[2403.12943v1](http://arxiv.org/abs/2403.12943v1)|[2403.12943v1](http://arxiv.org/pdf/2403.12943v1)|null|
+|**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936v1](http://arxiv.org/abs/2403.12936v1)|[2403.12936v1](http://arxiv.org/pdf/2403.12936v1)|null|
+|**2024-03-19**|**Rapid AIdeation: Generating Ideas With the Self and in Collaboration With Large Language Models**|Gionnieve Lim et.al.|[2403.12928v1](http://arxiv.org/abs/2403.12928v1)|[2403.12928v1](http://arxiv.org/pdf/2403.12928v1)|null|
+|**2024-03-19**|**Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**|Sai Ashish Somayajula et.al.|[2403.12918v1](http://arxiv.org/abs/2403.12918v1)|[2403.12918v1](http://arxiv.org/pdf/2403.12918v1)|**[link](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**|
+|**2024-03-19**|**Fact Checking Chatbot: A Misinformation Intervention for Instant Messaging Apps and an Analysis of Trust in the Fact Checkers**|Gionnieve Lim et.al.|[2403.12913v1](http://arxiv.org/abs/2403.12913v1)|[2403.12913v1](http://arxiv.org/pdf/2403.12913v1)|null|
+|**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910v1](http://arxiv.org/abs/2403.12910v1)|[2403.12910v1](http://arxiv.org/pdf/2403.12910v1)|null|
+|**2024-03-19**|**Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference**|Baolin Li et.al.|[2403.12900v1](http://arxiv.org/abs/2403.12900v1)|[2403.12900v1](http://arxiv.org/pdf/2403.12900v1)|null|
 |**2024-03-18**|**S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**|Pierre Guetschel et.al.|[2403.11772v1](http://arxiv.org/abs/2403.11772v1)|[2403.11772v1](http://arxiv.org/pdf/2403.11772v1)|null|
 |**2024-03-18**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755v1](http://arxiv.org/abs/2403.11755v1)|[2403.11755v1](http://arxiv.org/pdf/2403.11755v1)|null|
 |**2024-03-18**|**Learning General Policies for Classical Planning Domains: Getting Beyond C$_2$**|Simon Ståhlberg et.al.|[2403.11734v1](http://arxiv.org/abs/2403.11734v1)|[2403.11734v1](http://arxiv.org/pdf/2403.11734v1)|null|
