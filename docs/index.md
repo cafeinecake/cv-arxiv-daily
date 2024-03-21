@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-20**|**The VELOCE Modulation Zoo I. Spectroscopic detection of non-radial modes in the first-overtone Cepheids BG Crucis, QZ Normae, V0391 Normae, and V0411 Lacertae**|H. Netzel et.al.|[2403.13796v1](http://arxiv.org/abs/2403.13796v1)|[2403.13796v1](http://arxiv.org/pdf/2403.13796v1)|null|
+|**2024-03-20**|**Cosmic shear with small scales: DES-Y3, KiDS-1000 and HSC-DR1**|Carlos García-García et.al.|[2403.13794v1](http://arxiv.org/abs/2403.13794v1)|[2403.13794v1](http://arxiv.org/pdf/2403.13794v1)|null|
+|**2024-03-20**|**High-dimensional inference of radio interferometer beam patterns I: Parametric model of the HERA beams**|Michael J. Wilensky et.al.|[2403.13769v1](http://arxiv.org/abs/2403.13769v1)|[2403.13769v1](http://arxiv.org/pdf/2403.13769v1)|null|
+|**2024-03-20**|**Disentangling the anisotropic radio sky: Fisher forecasts for 21cm arrays**|Zheng Zhang et.al.|[2403.13768v1](http://arxiv.org/abs/2403.13768v1)|[2403.13768v1](http://arxiv.org/pdf/2403.13768v1)|null|
+|**2024-03-20**|**Sensitivity of Bayesian 21 cm power spectrum estimation to foreground model errors**|Jacob Burba et.al.|[2403.13767v1](http://arxiv.org/abs/2403.13767v1)|[2403.13767v1](http://arxiv.org/pdf/2403.13767v1)|null|
+|**2024-03-20**|**Statistical estimation of full-sky radio maps from 21cm array visibility data using Gaussian Constrained Realisations**|Katrine A. Glasscock et.al.|[2403.13766v1](http://arxiv.org/abs/2403.13766v1)|[2403.13766v1](http://arxiv.org/pdf/2403.13766v1)|null|
+|**2024-03-20**|**The Brown Dwarf Kinematics Project (BDKP). VI. Ultracool Dwarf Radial and Rotational Velocities from SDSS/APOGEE High-resolution Spectroscopy**|Chih-Chun Hsu et.al.|[2403.13760v1](http://arxiv.org/abs/2403.13760v1)|[2403.13760v1](http://arxiv.org/pdf/2403.13760v1)|null|
+|**2024-03-20**|**Generation and effects of primordial magnetic fields during inflation**|Ashu Kushwaha et.al.|[2403.13753v1](http://arxiv.org/abs/2403.13753v1)|[2403.13753v1](http://arxiv.org/pdf/2403.13753v1)|null|
+|**2024-03-20**|**The properties and kinematics of HCN emission across the closest starburst galaxy NGC 253 observed with ALMA**|Ivana Beslic et.al.|[2403.13751v1](http://arxiv.org/abs/2403.13751v1)|[2403.13751v1](http://arxiv.org/pdf/2403.13751v1)|null|
+|**2024-03-20**|**Examining a hadronic $γ$-ray scenario for the radiative shell & molecular clouds of the old GeV supernova remnant G298.6$-$0.0**|Paul K. H. Yeung et.al.|[2403.13723v1](http://arxiv.org/abs/2403.13723v1)|[2403.13723v1](http://arxiv.org/pdf/2403.13723v1)|null|
 |**2024-03-19**|**The FLAMINGO project: the coupling between baryonic feedback and cosmology in light of the $S_8$ tension**|Willem Elbers et.al.|[2403.12967v1](http://arxiv.org/abs/2403.12967v1)|[2403.12967v1](http://arxiv.org/pdf/2403.12967v1)|null|
 |**2024-03-19**|**The physics of Core-Collapse Supernovae: explosion mechanism and explosive nucleosynthesis**|Luca Boccioli et.al.|[2403.12942v1](http://arxiv.org/abs/2403.12942v1)|[2403.12942v1](http://arxiv.org/pdf/2403.12942v1)|null|
 |**2024-03-19**|**Chemical differentiation and gas kinematics around massive young stellar objects in RCW 120**|K. V. Plakitina et.al.|[2403.12934v1](http://arxiv.org/abs/2403.12934v1)|[2403.12934v1](http://arxiv.org/pdf/2403.12934v1)|null|
@@ -4369,6 +4379,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|[2403.13808v1](http://arxiv.org/pdf/2403.13808v1)|null|
+|**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|[2403.13805v1](http://arxiv.org/pdf/2403.13805v1)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|[2403.13802v1](http://arxiv.org/pdf/2403.13802v1)|null|
+|**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|[2403.13801v1](http://arxiv.org/pdf/2403.13801v1)|**[link](https://github.com/shure-dev/NLaP)**|
+|**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799v1](http://arxiv.org/abs/2403.13799v1)|[2403.13799v1](http://arxiv.org/pdf/2403.13799v1)|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|[2403.13798v1](http://arxiv.org/pdf/2403.13798v1)|null|
+|**2024-03-20**|**The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency and Usability in AI**|Matt White et.al.|[2403.13784v1](http://arxiv.org/abs/2403.13784v1)|[2403.13784v1](http://arxiv.org/pdf/2403.13784v1)|null|
+|**2024-03-20**|**Information-Theoretic Distillation for Reference-less Summarization**|Jaehun Jung et.al.|[2403.13780v1](http://arxiv.org/abs/2403.13780v1)|[2403.13780v1](http://arxiv.org/pdf/2403.13780v1)|null|
+|**2024-03-20**|**Towards Principled Representation Learning from Videos for Reinforcement Learning**|Dipendra Misra et.al.|[2403.13765v1](http://arxiv.org/abs/2403.13765v1)|[2403.13765v1](http://arxiv.org/pdf/2403.13765v1)|null|
+|**2024-03-20**|**Different Tokenization Schemes Lead to Comparable Performance in Spanish Number Agreement**|Catherine Arnett et.al.|[2403.13754v1](http://arxiv.org/abs/2403.13754v1)|[2403.13754v1](http://arxiv.org/pdf/2403.13754v1)|null|
 |**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961v1](http://arxiv.org/abs/2403.12961v1)|[2403.12961v1](http://arxiv.org/pdf/2403.12961v1)|null|
 |**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|[2403.12959v1](http://arxiv.org/pdf/2403.12959v1)|null|
 |**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952v1](http://arxiv.org/abs/2403.12952v1)|[2403.12952v1](http://arxiv.org/pdf/2403.12952v1)|**[link](https://github.com/elaine-sui/tps)**|
