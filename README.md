@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-25**|**Polarisation properties of X-ray emission from accreting supermassive black holes**|Jakub Podgorný et.al.|[2403.16746v1](http://arxiv.org/abs/2403.16746v1)|[2403.16746v1](http://arxiv.org/pdf/2403.16746v1)|null|
+|**2024-03-25**|**A primary study of CMB delensing for future CMB observations**|Wen-Zheng Chen et.al.|[2403.16726v1](http://arxiv.org/abs/2403.16726v1)|[2403.16726v1](http://arxiv.org/pdf/2403.16726v1)|null|
+|**2024-03-25**|**JWST MIRI Flight Performance: Imaging**|Dan Dicken et.al.|[2403.16686v1](http://arxiv.org/abs/2403.16686v1)|[2403.16686v1](http://arxiv.org/pdf/2403.16686v1)|null|
+|**2024-03-25**|**CHANG-ES. XXX. 10 kpc Radio Lobes in The Sombrero Galaxy**|Yang Yang et.al.|[2403.16682v1](http://arxiv.org/abs/2403.16682v1)|[2403.16682v1](http://arxiv.org/pdf/2403.16682v1)|null|
+|**2024-03-25**|**Self-similar solutions in cylindrical magneto-hydrodynamic blast waves with energy injection at the centre**|Antoine Gintrand et.al.|[2403.16675v1](http://arxiv.org/abs/2403.16675v1)|[2403.16675v1](http://arxiv.org/pdf/2403.16675v1)|null|
+|**2024-03-25**|**Six new eccentric eclipsing systems with a third body**|P. Zasche et.al.|[2403.16657v1](http://arxiv.org/abs/2403.16657v1)|[2403.16657v1](http://arxiv.org/pdf/2403.16657v1)|null|
+|**2024-03-25**|**Probing Stellar Clusters from Gaia DR2 as Galactic PeVatrons: I -- Expected Gamma-ray and Neutrino Emission**|Alison M. W. Mitchell et.al.|[2403.16650v1](http://arxiv.org/abs/2403.16650v1)|[2403.16650v1](http://arxiv.org/pdf/2403.16650v1)|null|
+|**2024-03-25**|**SASHIMI-SIDM: Semi-analytical subhalo modelling for self-interacting dark matter at sub-galactic scales**|Shin'ichiro Ando et.al.|[2403.16633v1](http://arxiv.org/abs/2403.16633v1)|[2403.16633v1](http://arxiv.org/pdf/2403.16633v1)|null|
+|**2024-03-25**|**Precise characterisation of HD 15337 with CHEOPS: a laboratory for planet formation and evolution**|N. M. Rosário et.al.|[2403.16621v1](http://arxiv.org/abs/2403.16621v1)|[2403.16621v1](http://arxiv.org/pdf/2403.16621v1)|null|
+|**2024-03-25**|**Calibration of detector time constant with a thermal source for the POLARBEAR-2A CMB polarization experiment**|S. Takatori et.al.|[2403.16620v1](http://arxiv.org/abs/2403.16620v1)|[2403.16620v1](http://arxiv.org/pdf/2403.16620v1)|null|
 |**2024-03-22**|**Can the NANOGrav observations constrain the geometry of the universe?**|Matteo Califano et.al.|[2403.15373v1](http://arxiv.org/abs/2403.15373v1)|[2403.15373v1](http://arxiv.org/pdf/2403.15373v1)|null|
 |**2024-03-22**|**Energy-dependent Boosted Dark Matter from Diffuse Supernova Neutrino Background**|Anirban Das et.al.|[2403.15367v1](http://arxiv.org/abs/2403.15367v1)|[2403.15367v1](http://arxiv.org/pdf/2403.15367v1)|null|
 |**2024-03-22**|**Simulation of radio signals from cosmic-ray cascades in air and ice as observed by in-ice Askaryan radio detectors**|Simon De Kockere et.al.|[2403.15358v1](http://arxiv.org/abs/2403.15358v1)|[2403.15358v1](http://arxiv.org/pdf/2403.15358v1)|null|
@@ -4395,6 +4405,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-25**|**Enabling Uncertainty Estimation in Iterative Neural Networks**|Nikita Durasov et.al.|[2403.16732v1](http://arxiv.org/abs/2403.16732v1)|[2403.16732v1](http://arxiv.org/pdf/2403.16732v1)|null|
+|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728v1](http://arxiv.org/abs/2403.16728v1)|[2403.16728v1](http://arxiv.org/pdf/2403.16728v1)|null|
+|**2024-03-25**|**Towards a Formalisation of Value-based Actions and Consequentialist Ethics**|Adam Wyner et.al.|[2403.16719v1](http://arxiv.org/abs/2403.16719v1)|[2403.16719v1](http://arxiv.org/pdf/2403.16719v1)|null|
+|**2024-03-25**|**One-Shot Domain Incremental Learning**|Yasushi Esaki et.al.|[2403.16707v1](http://arxiv.org/abs/2403.16707v1)|[2403.16707v1](http://arxiv.org/pdf/2403.16707v1)|null|
+|**2024-03-25**|**Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer**|Dominik Müller et.al.|[2403.16695v1](http://arxiv.org/abs/2403.16695v1)|[2403.16695v1](http://arxiv.org/pdf/2403.16695v1)|null|
+|**2024-03-25**|**Investigation of the effectiveness of applying ChatGPT in Dialogic Teaching Using Electroencephalography**|Jiayue Zhang et.al.|[2403.16687v1](http://arxiv.org/abs/2403.16687v1)|[2403.16687v1](http://arxiv.org/pdf/2403.16687v1)|null|
+|**2024-03-25**|**DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks**|Dominik Müller et.al.|[2403.16678v1](http://arxiv.org/abs/2403.16678v1)|[2403.16678v1](http://arxiv.org/pdf/2403.16678v1)|**[link](https://github.com/frankkramer-lab/deepgleason)**|
+|**2024-03-25**|**Understanding the Functional Roles of Modelling Components in Spiking Neural Networks**|Huifeng Yin et.al.|[2403.16674v1](http://arxiv.org/abs/2403.16674v1)|[2403.16674v1](http://arxiv.org/pdf/2403.16674v1)|null|
+|**2024-03-25**|**Deep Reinforcement Learning and Mean-Variance Strategies for Responsible Portfolio Optimization**|Fernando Acero et.al.|[2403.16667v1](http://arxiv.org/abs/2403.16667v1)|[2403.16667v1](http://arxiv.org/pdf/2403.16667v1)|null|
+|**2024-03-25**|**Revisiting the Sleeping Beauty problem**|Paulo S. Piva et.al.|[2403.16666v1](http://arxiv.org/abs/2403.16666v1)|[2403.16666v1](http://arxiv.org/pdf/2403.16666v1)|null|
 |**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388v1](http://arxiv.org/abs/2403.15388v1)|[2403.15388v1](http://arxiv.org/pdf/2403.15388v1)|null|
 |**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385v1](http://arxiv.org/abs/2403.15385v1)|[2403.15385v1](http://arxiv.org/pdf/2403.15385v1)|null|
 |**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371v1](http://arxiv.org/abs/2403.15371v1)|[2403.15371v1](http://arxiv.org/pdf/2403.15371v1)|null|
