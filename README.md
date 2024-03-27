@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-26**|**The instability mechanism of compact multiplanet systems**|Caleb Lammers et.al.|[2403.17928v1](http://arxiv.org/abs/2403.17928v1)|[2403.17928v1](http://arxiv.org/pdf/2403.17928v1)|null|
+|**2024-03-26**|**Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G**|K. Prabhu et.al.|[2403.17925v1](http://arxiv.org/abs/2403.17925v1)|[2403.17925v1](http://arxiv.org/pdf/2403.17925v1)|null|
+|**2024-03-26**|**Quasar Island - Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903v1](http://arxiv.org/abs/2403.17903v1)|[2403.17903v1](http://arxiv.org/pdf/2403.17903v1)|null|
+|**2024-03-26**|**Dynamical evolution of the Uranian satellite system II. Crossing of the 5/3 Ariel-Umbriel mean motion resonance**|Sérgio R. A. Gomes et.al.|[2403.17897v1](http://arxiv.org/abs/2403.17897v1)|[2403.17897v1](http://arxiv.org/pdf/2403.17897v1)|null|
+|**2024-03-26**|**Dynamical evolution of the Uranian satellite system I. From the 5/3 Ariel-Umbriel mean motion resonance to the present**|Sérgio R. A. Gomes et.al.|[2403.17896v1](http://arxiv.org/abs/2403.17896v1)|[2403.17896v1](http://arxiv.org/pdf/2403.17896v1)|null|
+|**2024-03-26**|**Searching for large dark matter clumps using the Galileo Satnav clock variations**|Bruno Bertrand et.al.|[2403.17890v1](http://arxiv.org/abs/2403.17890v1)|[2403.17890v1](http://arxiv.org/pdf/2403.17890v1)|null|
+|**2024-03-26**|**Double polytropic cosmic acceleration from the Murnaghan equation of state**|Peter K. S. Dunsby et.al.|[2403.17880v1](http://arxiv.org/abs/2403.17880v1)|[2403.17880v1](http://arxiv.org/pdf/2403.17880v1)|null|
+|**2024-03-26**|**X-ray Properties of the Luminous Quasar PG 1634+706 at z = 1.337 from SRG and XMM-Newton Data**|Grigory Uskov et.al.|[2403.17865v1](http://arxiv.org/abs/2403.17865v1)|[2403.17865v1](http://arxiv.org/pdf/2403.17865v1)|null|
+|**2024-03-26**|**The Relativistic Spin Precession in the Compact Double Neutron Star System PSR~J1946+2052**|Lingqi Meng et.al.|[2403.17828v1](http://arxiv.org/abs/2403.17828v1)|[2403.17828v1](http://arxiv.org/pdf/2403.17828v1)|null|
+|**2024-03-26**|**Ultrafast Heating Induced Suppression of $d$-band Dominance in the Electronic Excitation Spectrum of Cuprum**|Zhandos Moldabekov et.al.|[2403.17815v1](http://arxiv.org/abs/2403.17815v1)|[2403.17815v1](http://arxiv.org/pdf/2403.17815v1)|null|
 |**2024-03-25**|**Polarisation properties of X-ray emission from accreting supermassive black holes**|Jakub Podgorný et.al.|[2403.16746v1](http://arxiv.org/abs/2403.16746v1)|[2403.16746v1](http://arxiv.org/pdf/2403.16746v1)|null|
 |**2024-03-25**|**A primary study of CMB delensing for future CMB observations**|Wen-Zheng Chen et.al.|[2403.16726v1](http://arxiv.org/abs/2403.16726v1)|[2403.16726v1](http://arxiv.org/pdf/2403.16726v1)|null|
 |**2024-03-25**|**JWST MIRI Flight Performance: Imaging**|Dan Dicken et.al.|[2403.16686v1](http://arxiv.org/abs/2403.16686v1)|[2403.16686v1](http://arxiv.org/pdf/2403.16686v1)|null|
@@ -4407,6 +4417,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933v1](http://arxiv.org/abs/2403.17933v1)|[2403.17933v1](http://arxiv.org/pdf/2403.17933v1)|null|
+|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927v1](http://arxiv.org/abs/2403.17927v1)|[2403.17927v1](http://arxiv.org/pdf/2403.17927v1)|null|
+|**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924v1](http://arxiv.org/abs/2403.17924v1)|[2403.17924v1](http://arxiv.org/pdf/2403.17924v1)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
+|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919v1](http://arxiv.org/abs/2403.17919v1)|[2403.17919v1](http://arxiv.org/pdf/2403.17919v1)|null|
+|**2024-03-26**|**AgentStudio: A Toolkit for Building General Virtual Agents**|Longtao Zheng et.al.|[2403.17918v1](http://arxiv.org/abs/2403.17918v1)|[2403.17918v1](http://arxiv.org/pdf/2403.17918v1)|null|
+|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916v1](http://arxiv.org/abs/2403.17916v1)|[2403.17916v1](http://arxiv.org/pdf/2403.17916v1)|null|
+|**2024-03-26**|**Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports**|Xinyu Zhao et.al.|[2403.17914v1](http://arxiv.org/abs/2403.17914v1)|[2403.17914v1](http://arxiv.org/pdf/2403.17914v1)|null|
+|**2024-03-26**|**Search and Society: Reimagining Information Access for Radical Futures**|Bhaskar Mitra et.al.|[2403.17901v1](http://arxiv.org/abs/2403.17901v1)|[2403.17901v1](http://arxiv.org/pdf/2403.17901v1)|null|
+|**2024-03-26**|**Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels**|Nurettin Sergin et.al.|[2403.17891v1](http://arxiv.org/abs/2403.17891v1)|[2403.17891v1](http://arxiv.org/pdf/2403.17891v1)|null|
+|**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873v1](http://arxiv.org/abs/2403.17873v1)|[2403.17873v1](http://arxiv.org/pdf/2403.17873v1)|null|
 |**2024-03-25**|**Enabling Uncertainty Estimation in Iterative Neural Networks**|Nikita Durasov et.al.|[2403.16732v1](http://arxiv.org/abs/2403.16732v1)|[2403.16732v1](http://arxiv.org/pdf/2403.16732v1)|null|
 |**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728v1](http://arxiv.org/abs/2403.16728v1)|[2403.16728v1](http://arxiv.org/pdf/2403.16728v1)|null|
 |**2024-03-25**|**Towards a Formalisation of Value-based Actions and Consequentialist Ethics**|Adam Wyner et.al.|[2403.16719v1](http://arxiv.org/abs/2403.16719v1)|[2403.16719v1](http://arxiv.org/pdf/2403.16719v1)|null|
