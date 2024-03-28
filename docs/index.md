@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-27**|**The relative prevalence of wave-packets and coherent structures in the inertial and kinetic ranges of turbulence as seen by Solar Orbiter**|Alina Bendt et.al.|[2403.18792v1](http://arxiv.org/abs/2403.18792v1)|[2403.18792v1](http://arxiv.org/pdf/2403.18792v1)|null|
+|**2024-03-27**|**Constraining primordial non-Gaussianity from the large scale structure two-point and three-point correlation functions**|Z. Brown et.al.|[2403.18789v1](http://arxiv.org/abs/2403.18789v1)|[2403.18789v1](http://arxiv.org/pdf/2403.18789v1)|null|
+|**2024-03-27**|**Measuring the Lense-Thirring precession and the neutron star moment of inertia with pulsars**|Huanchen Hu et.al.|[2403.18785v1](http://arxiv.org/abs/2403.18785v1)|[2403.18785v1](http://arxiv.org/pdf/2403.18785v1)|null|
+|**2024-03-27**|**Symmetries of the Large Scale Structures of the Universe as a Phenomenology of a Fractal Turbulence: The Role of the Plasma Component**|Giovanni Montani et.al.|[2403.18759v1](http://arxiv.org/abs/2403.18759v1)|[2403.18759v1](http://arxiv.org/pdf/2403.18759v1)|null|
+|**2024-03-27**|**Long gamma-ray burst light curves as the result of a common stochastic pulse-avalanche process**|Lorenzo Bazzanini et.al.|[2403.18754v1](http://arxiv.org/abs/2403.18754v1)|[2403.18754v1](http://arxiv.org/pdf/2403.18754v1)|null|
+|**2024-03-27**|**Neutron Stars Mass-Radius relations analysis in the Quintessence scenario**|A. Campitelli et.al.|[2403.18752v1](http://arxiv.org/abs/2403.18752v1)|[2403.18752v1](http://arxiv.org/pdf/2403.18752v1)|null|
+|**2024-03-27**|**Identifying the electromagnetic counterparts of LISA massive black hole binaries in archival LSST data**|Chengcheng Xin et.al.|[2403.18751v1](http://arxiv.org/abs/2403.18751v1)|[2403.18751v1](http://arxiv.org/pdf/2403.18751v1)|null|
+|**2024-03-27**|**Effects of Dark Matter on $f$-mode oscillations of Neutron Stars**|Swarnim Shirke et.al.|[2403.18740v1](http://arxiv.org/abs/2403.18740v1)|[2403.18740v1](http://arxiv.org/pdf/2403.18740v1)|null|
+|**2024-03-27**|**Phasing segmented telescopes via deep learning methods: application to a deployable CubeSat**|Maxime Dumont et.al.|[2403.18712v1](http://arxiv.org/abs/2403.18712v1)|[2403.18712v1](http://arxiv.org/pdf/2403.18712v1)|null|
+|**2024-03-27**|**Supernova Archaeology with X-Ray Binary Winds -- The Case of GRO J1655-40**|Noa Keshet et.al.|[2403.18689v1](http://arxiv.org/abs/2403.18689v1)|[2403.18689v1](http://arxiv.org/pdf/2403.18689v1)|null|
 |**2024-03-26**|**The instability mechanism of compact multiplanet systems**|Caleb Lammers et.al.|[2403.17928v1](http://arxiv.org/abs/2403.17928v1)|[2403.17928v1](http://arxiv.org/pdf/2403.17928v1)|null|
 |**2024-03-26**|**Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G**|K. Prabhu et.al.|[2403.17925v1](http://arxiv.org/abs/2403.17925v1)|[2403.17925v1](http://arxiv.org/pdf/2403.17925v1)|null|
 |**2024-03-26**|**Quasar Island - Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903v1](http://arxiv.org/abs/2403.17903v1)|[2403.17903v1](http://arxiv.org/pdf/2403.17903v1)|null|
@@ -4421,6 +4431,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814v1](http://arxiv.org/abs/2403.18814v1)|[2403.18814v1](http://arxiv.org/pdf/2403.18814v1)|**[link](https://github.com/dvlab-research/minigemini)**|
+|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v1](http://arxiv.org/abs/2403.18807v1)|[2403.18807v1](http://arxiv.org/pdf/2403.18807v1)|**[link](https://github.com/aradhye2002/ecodepth)**|
+|**2024-03-27**|**Long-form factuality in large language models**|Jerry Wei et.al.|[2403.18802v1](http://arxiv.org/abs/2403.18802v1)|[2403.18802v1](http://arxiv.org/pdf/2403.18802v1)|**[link](https://github.com/google-deepmind/long-form-factuality)**|
+|**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795v1](http://arxiv.org/abs/2403.18795v1)|[2403.18795v1](http://arxiv.org/pdf/2403.18795v1)|null|
+|**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775v1](http://arxiv.org/abs/2403.18775v1)|[2403.18775v1](http://arxiv.org/pdf/2403.18775v1)|**[link](https://github.com/chenshuang-zhang/imagenet_d)**|
+|**2024-03-27**|**Superior Parallel Big Data Clustering through Competitive Stochastic Sample Size Optimization in Big-means**|Rustam Mussabayev et.al.|[2403.18766v1](http://arxiv.org/abs/2403.18766v1)|[2403.18766v1](http://arxiv.org/pdf/2403.18766v1)|null|
+|**2024-03-27**|**ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition**|Weidong Xie et.al.|[2403.18762v1](http://arxiv.org/abs/2403.18762v1)|[2403.18762v1](http://arxiv.org/pdf/2403.18762v1)|**[link](https://github.com/haomo-ai/modalink)**|
+|**2024-03-27**|**Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray**|Guglielmo Gallone et.al.|[2403.18756v1](http://arxiv.org/abs/2403.18756v1)|[2403.18756v1](http://arxiv.org/pdf/2403.18756v1)|null|
+|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755v1](http://arxiv.org/abs/2403.18755v1)|[2403.18755v1](http://arxiv.org/pdf/2403.18755v1)|null|
+|**2024-03-27**|**Understanding the Learning Dynamics of Alignment with Human Feedback**|Shawn Im et.al.|[2403.18742v1](http://arxiv.org/abs/2403.18742v1)|[2403.18742v1](http://arxiv.org/pdf/2403.18742v1)|null|
 |**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933v1](http://arxiv.org/abs/2403.17933v1)|[2403.17933v1](http://arxiv.org/pdf/2403.17933v1)|null|
 |**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927v1](http://arxiv.org/abs/2403.17927v1)|[2403.17927v1](http://arxiv.org/pdf/2403.17927v1)|null|
 |**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924v1](http://arxiv.org/abs/2403.17924v1)|[2403.17924v1](http://arxiv.org/pdf/2403.17924v1)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
