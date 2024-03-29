@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-28**|**Consistency of JWST Black Hole Observations with NANOGrav Gravitational Wave Measurements**|John Ellis et.al.|[2403.19650v1](http://arxiv.org/abs/2403.19650v1)|[2403.19650v1](http://arxiv.org/pdf/2403.19650v1)|null|
+|**2024-03-28**|**Radio properties of Green Pea galaxies**|Abhijeet Borkar et.al.|[2403.19635v1](http://arxiv.org/abs/2403.19635v1)|[2403.19635v1](http://arxiv.org/pdf/2403.19635v1)|null|
+|**2024-03-28**|**NELIOTA: New results and updated statistics after 6.5 years of lunar impact flashes monitoring**|Alexios Liakos et.al.|[2403.19613v1](http://arxiv.org/abs/2403.19613v1)|[2403.19613v1](http://arxiv.org/pdf/2403.19613v1)|null|
+|**2024-03-28**|**More on Black Holes Perceiving the Dark Dimension**|Luis A. Anchordoqui et.al.|[2403.19604v1](http://arxiv.org/abs/2403.19604v1)|[2403.19604v1](http://arxiv.org/pdf/2403.19604v1)|null|
+|**2024-03-28**|**Non-Linear Matter Power Spectrum Modeling in Interacting Dark Energy Cosmologies**|Emanuelly Silva et.al.|[2403.19590v1](http://arxiv.org/abs/2403.19590v1)|[2403.19590v1](http://arxiv.org/pdf/2403.19590v1)|null|
+|**2024-03-28**|**A search for super-imposed oscillations to the primordial power spectrum in Planck and SPT-3G 2018 data**|Akhil Antony et.al.|[2403.19575v1](http://arxiv.org/abs/2403.19575v1)|[2403.19575v1](http://arxiv.org/pdf/2403.19575v1)|null|
+|**2024-03-28**|**Probing the dark Universe with gravitational waves**|Antonio Enea Romano et.al.|[2403.19552v1](http://arxiv.org/abs/2403.19552v1)|[2403.19552v1](http://arxiv.org/pdf/2403.19552v1)|null|
+|**2024-03-28**|**Cosmological inference from combining Planck and ACT cluster counts**|Eunseong Lee et.al.|[2403.19542v1](http://arxiv.org/abs/2403.19542v1)|[2403.19542v1](http://arxiv.org/pdf/2403.19542v1)|null|
+|**2024-03-28**|**Joint ALMA/X-ray monitoring of the radio-quiet type 1 AGN IC 4329A**|E. Shablovinskaya et.al.|[2403.19524v1](http://arxiv.org/abs/2403.19524v1)|[2403.19524v1](http://arxiv.org/pdf/2403.19524v1)|null|
+|**2024-03-28**|**Effects of lunisolar perturbations on TianQin constellation: An analytical model**|Bobing Ye et.al.|[2403.19491v1](http://arxiv.org/abs/2403.19491v1)|[2403.19491v1](http://arxiv.org/pdf/2403.19491v1)|null|
 |**2024-03-27**|**The relative prevalence of wave-packets and coherent structures in the inertial and kinetic ranges of turbulence as seen by Solar Orbiter**|Alina Bendt et.al.|[2403.18792v1](http://arxiv.org/abs/2403.18792v1)|[2403.18792v1](http://arxiv.org/pdf/2403.18792v1)|null|
 |**2024-03-27**|**Constraining primordial non-Gaussianity from the large scale structure two-point and three-point correlation functions**|Z. Brown et.al.|[2403.18789v1](http://arxiv.org/abs/2403.18789v1)|[2403.18789v1](http://arxiv.org/pdf/2403.18789v1)|null|
 |**2024-03-27**|**Measuring the Lense-Thirring precession and the neutron star moment of inertia with pulsars**|Huanchen Hu et.al.|[2403.18785v1](http://arxiv.org/abs/2403.18785v1)|[2403.18785v1](http://arxiv.org/pdf/2403.18785v1)|null|
@@ -4427,6 +4437,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|[2403.19652v1](http://arxiv.org/pdf/2403.19652v1)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651v1](http://arxiv.org/abs/2403.19651v1)|[2403.19651v1](http://arxiv.org/pdf/2403.19651v1)|null|
+|**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648v1](http://arxiv.org/abs/2403.19648v1)|[2403.19648v1](http://arxiv.org/pdf/2403.19648v1)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
+|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[2403.19647v1](http://arxiv.org/pdf/2403.19647v1)|**[link](https://github.com/saprmarks/feature-circuits)**|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631v1](http://arxiv.org/abs/2403.19631v1)|[2403.19631v1](http://arxiv.org/pdf/2403.19631v1)|null|
+|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620v1](http://arxiv.org/abs/2403.19620v1)|[2403.19620v1](http://arxiv.org/pdf/2403.19620v1)|null|
+|**2024-03-28**|**Semantic Map-based Generation of Navigation Instructions**|Chengzu Li et.al.|[2403.19603v1](http://arxiv.org/abs/2403.19603v1)|[2403.19603v1](http://arxiv.org/pdf/2403.19603v1)|**[link](https://github.com/chengzu-li/vlgen)**|
+|**2024-03-28**|**Situation Awareness for Driver-Centric Driving Style Adaptation**|Johann Haselberger et.al.|[2403.19595v1](http://arxiv.org/abs/2403.19595v1)|[2403.19595v1](http://arxiv.org/pdf/2403.19595v1)|**[link](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)**|
+|**2024-03-28**|**Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation**|Zhongliang Zhou et.al.|[2403.19584v1](http://arxiv.org/abs/2403.19584v1)|[2403.19584v1](http://arxiv.org/pdf/2403.19584v1)|null|
+|**2024-03-28**|**Self-Improved Learning for Scalable Neural Combinatorial Optimization**|Fu Luo et.al.|[2403.19561v1](http://arxiv.org/abs/2403.19561v1)|[2403.19561v1](http://arxiv.org/pdf/2403.19561v1)|null|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814v1](http://arxiv.org/abs/2403.18814v1)|[2403.18814v1](http://arxiv.org/pdf/2403.18814v1)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v2](http://arxiv.org/abs/2403.18807v2)|[2403.18807v2](http://arxiv.org/pdf/2403.18807v2)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**Long-form factuality in large language models**|Jerry Wei et.al.|[2403.18802v1](http://arxiv.org/abs/2403.18802v1)|[2403.18802v1](http://arxiv.org/pdf/2403.18802v1)|**[link](https://github.com/google-deepmind/long-form-factuality)**|
