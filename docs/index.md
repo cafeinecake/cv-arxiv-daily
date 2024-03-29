@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 
 ## Astrophysics
 
@@ -4432,14 +4432,14 @@ layout: default
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814v1](http://arxiv.org/abs/2403.18814v1)|[2403.18814v1](http://arxiv.org/pdf/2403.18814v1)|**[link](https://github.com/dvlab-research/minigemini)**|
-|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v1](http://arxiv.org/abs/2403.18807v1)|[2403.18807v1](http://arxiv.org/pdf/2403.18807v1)|**[link](https://github.com/aradhye2002/ecodepth)**|
+|**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v2](http://arxiv.org/abs/2403.18807v2)|[2403.18807v2](http://arxiv.org/pdf/2403.18807v2)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**Long-form factuality in large language models**|Jerry Wei et.al.|[2403.18802v1](http://arxiv.org/abs/2403.18802v1)|[2403.18802v1](http://arxiv.org/pdf/2403.18802v1)|**[link](https://github.com/google-deepmind/long-form-factuality)**|
 |**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795v1](http://arxiv.org/abs/2403.18795v1)|[2403.18795v1](http://arxiv.org/pdf/2403.18795v1)|null|
 |**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775v1](http://arxiv.org/abs/2403.18775v1)|[2403.18775v1](http://arxiv.org/pdf/2403.18775v1)|**[link](https://github.com/chenshuang-zhang/imagenet_d)**|
 |**2024-03-27**|**Superior Parallel Big Data Clustering through Competitive Stochastic Sample Size Optimization in Big-means**|Rustam Mussabayev et.al.|[2403.18766v1](http://arxiv.org/abs/2403.18766v1)|[2403.18766v1](http://arxiv.org/pdf/2403.18766v1)|null|
 |**2024-03-27**|**ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition**|Weidong Xie et.al.|[2403.18762v1](http://arxiv.org/abs/2403.18762v1)|[2403.18762v1](http://arxiv.org/pdf/2403.18762v1)|**[link](https://github.com/haomo-ai/modalink)**|
 |**2024-03-27**|**Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray**|Guglielmo Gallone et.al.|[2403.18756v1](http://arxiv.org/abs/2403.18756v1)|[2403.18756v1](http://arxiv.org/pdf/2403.18756v1)|null|
-|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755v1](http://arxiv.org/abs/2403.18755v1)|[2403.18755v1](http://arxiv.org/pdf/2403.18755v1)|**[link](https://github.com/eliacunegatti/moeim)**|
+|**2024-03-28**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755v2](http://arxiv.org/abs/2403.18755v2)|[2403.18755v2](http://arxiv.org/pdf/2403.18755v2)|**[link](https://github.com/eliacunegatti/moeim)**|
 |**2024-03-27**|**Understanding the Learning Dynamics of Alignment with Human Feedback**|Shawn Im et.al.|[2403.18742v1](http://arxiv.org/abs/2403.18742v1)|[2403.18742v1](http://arxiv.org/pdf/2403.18742v1)|null|
 |**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933v1](http://arxiv.org/abs/2403.17933v1)|[2403.17933v1](http://arxiv.org/pdf/2403.17933v1)|null|
 |**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927v1](http://arxiv.org/abs/2403.17927v1)|[2403.17927v1](http://arxiv.org/pdf/2403.17927v1)|null|
