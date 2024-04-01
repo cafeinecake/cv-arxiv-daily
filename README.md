@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-29**|**Exploring the baryonic effect signature in the Hyper Suprime-Cam Year 3 cosmic shear two-point correlations on small scales: the $S_8$ tension remains present**|Ryo Terasawa et.al.|[2403.20323v1](http://arxiv.org/abs/2403.20323v1)|[2403.20323v1](http://arxiv.org/pdf/2403.20323v1)|null|
+|**2024-03-29**|**Structure and Dynamics of Magneto-Inertial, Differentially Rotating Laboratory Plasmas**|V. Valenzuela-Villaseca et.al.|[2403.20321v1](http://arxiv.org/abs/2403.20321v1)|[2403.20321v1](http://arxiv.org/pdf/2403.20321v1)|null|
+|**2024-03-29**|**pastamarkers: astrophysical data visualization with pasta-like markers**|PASTA Collaboration et.al.|[2403.20314v1](http://arxiv.org/abs/2403.20314v1)|[2403.20314v1](http://arxiv.org/pdf/2403.20314v1)|null|
+|**2024-03-29**|**I'm in AGNi: A new standard for AGN pluralisation**|Andrew D. Gow et.al.|[2403.20302v1](http://arxiv.org/abs/2403.20302v1)|[2403.20302v1](http://arxiv.org/pdf/2403.20302v1)|null|
+|**2024-03-29**|**A catalogue of asteroseismically calibrated ages for APOGEE DR17. The predictions of a CatBoost machine learning model based on the [Mg/Ce] chemical clock and other stellar parameters**|Thibault Boulet et.al.|[2403.20291v1](http://arxiv.org/abs/2403.20291v1)|[2403.20291v1](http://arxiv.org/pdf/2403.20291v1)|null|
+|**2024-03-29**|**A reanalysis of the LHS 1140 b atmosphere observed with the Hubble Space Telescope**|Alfredo Biagini et.al.|[2403.20285v1](http://arxiv.org/abs/2403.20285v1)|[2403.20285v1](http://arxiv.org/pdf/2403.20285v1)|null|
+|**2024-03-29**|**Vulcan: Retreading a Tired Hypothesis with the 2024 Total Solar Eclipse**|Michael B. Lund et.al.|[2403.20281v1](http://arxiv.org/abs/2403.20281v1)|[2403.20281v1](http://arxiv.org/pdf/2403.20281v1)|null|
+|**2024-03-29**|**In Violation of the Prime Directive: Simulating detriments to Delta-Quadrant civilizations from the starship Voyager's impact on planetary rings**|J. Fowler et.al.|[2403.20268v1](http://arxiv.org/abs/2403.20268v1)|[2403.20268v1](http://arxiv.org/pdf/2403.20268v1)|null|
+|**2024-03-29**|**The Effect of Starspots on Spectroscopic Age and Mass Estimates of Non-Accreting T~Tauri Stars in the Taurus-Auriga Star Forming Region**|Facundo Pérez Paolino et.al.|[2403.20255v1](http://arxiv.org/abs/2403.20255v1)|[2403.20255v1](http://arxiv.org/pdf/2403.20255v1)|null|
+|**2024-03-29**|**Deriving Neutron Star Equation of State from AdS/QCD**|Wei Li et.al.|[2403.20240v1](http://arxiv.org/abs/2403.20240v1)|[2403.20240v1](http://arxiv.org/pdf/2403.20240v1)|null|
 |**2024-03-28**|**Consistency of JWST Black Hole Observations with NANOGrav Gravitational Wave Measurements**|John Ellis et.al.|[2403.19650v1](http://arxiv.org/abs/2403.19650v1)|[2403.19650v1](http://arxiv.org/pdf/2403.19650v1)|null|
 |**2024-03-28**|**Radio properties of Green Pea galaxies**|Abhijeet Borkar et.al.|[2403.19635v1](http://arxiv.org/abs/2403.19635v1)|[2403.19635v1](http://arxiv.org/pdf/2403.19635v1)|null|
 |**2024-03-28**|**NELIOTA: New results and updated statistics after 6.5 years of lunar impact flashes monitoring**|Alexios Liakos et.al.|[2403.19613v1](http://arxiv.org/abs/2403.19613v1)|[2403.19613v1](http://arxiv.org/pdf/2403.19613v1)|null|
@@ -4437,6 +4447,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331v1](http://arxiv.org/abs/2403.20331v1)|[2403.20331v1](http://arxiv.org/pdf/2403.20331v1)|**[link](https://github.com/atsumiyai/upd)**|
+|**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329v1](http://arxiv.org/abs/2403.20329v1)|[2403.20329v1](http://arxiv.org/pdf/2403.20329v1)|null|
+|**2024-03-29**|**Gecko: Versatile Text Embeddings Distilled from Large Language Models**|Jinhyuk Lee et.al.|[2403.20327v1](http://arxiv.org/abs/2403.20327v1)|[2403.20327v1](http://arxiv.org/pdf/2403.20327v1)|null|
+|**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320v1](http://arxiv.org/abs/2403.20320v1)|[2403.20320v1](http://arxiv.org/pdf/2403.20320v1)|**[link](https://github.com/scale-lab/mtlora)**|
+|**2024-03-29**|**SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects**|Abhinav Kumar et.al.|[2403.20318v1](http://arxiv.org/abs/2403.20318v1)|[2403.20318v1](http://arxiv.org/pdf/2403.20318v1)|**[link](https://github.com/abhi1kumar/seabird)**|
+|**2024-03-29**|**Predicting the impact of e-commerce indices on international trade in Iran and other selected members of the Organization for Economic Co-operation and Development (OECD) by using the artificial intelligence and P-VAR model**|Soheila Khajoui et.al.|[2403.20310v1](http://arxiv.org/abs/2403.20310v1)|[2403.20310v1](http://arxiv.org/pdf/2403.20310v1)|null|
+|**2024-03-29**|**ChainNet: Structured Metaphor and Metonymy in WordNet**|Rowan Hall Maudslay et.al.|[2403.20308v1](http://arxiv.org/abs/2403.20308v1)|[2403.20308v1](http://arxiv.org/pdf/2403.20308v1)|null|
+|**2024-03-29**|**Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference**|Jovan Stojkovic et.al.|[2403.20306v1](http://arxiv.org/abs/2403.20306v1)|[2403.20306v1](http://arxiv.org/pdf/2403.20306v1)|null|
+|**2024-03-29**|**Improving Learnt Local MAPF Policies with Heuristic Search**|Rishi Veerapaneni et.al.|[2403.20300v1](http://arxiv.org/abs/2403.20300v1)|[2403.20300v1](http://arxiv.org/pdf/2403.20300v1)|null|
+|**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288v1](http://arxiv.org/abs/2403.20288v1)|[2403.20288v1](http://arxiv.org/pdf/2403.20288v1)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|[2403.19652v1](http://arxiv.org/pdf/2403.19652v1)|null|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651v1](http://arxiv.org/abs/2403.19651v1)|[2403.19651v1](http://arxiv.org/pdf/2403.19651v1)|null|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648v1](http://arxiv.org/abs/2403.19648v1)|[2403.19648v1](http://arxiv.org/pdf/2403.19648v1)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
