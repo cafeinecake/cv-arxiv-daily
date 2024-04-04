@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-03**|**New Herbig-Haro Objects associated with Embedded Sources**|T. A. Movsessian et.al.|[2404.02891v1](http://arxiv.org/abs/2404.02891v1)|[2404.02891v1](http://arxiv.org/pdf/2404.02891v1)|null|
+|**2024-04-03**|**Modelling the star-formation activity and ionizing properties of high-redshift galaxies**|Anirban Chakraborty et.al.|[2404.02879v1](http://arxiv.org/abs/2404.02879v1)|[2404.02879v1](http://arxiv.org/pdf/2404.02879v1)|null|
+|**2024-04-03**|**Planck dust polarization power spectra are consistent with strongly supersonic turbulence**|Kye A. Stalpes et.al.|[2404.02874v1](http://arxiv.org/abs/2404.02874v1)|[2404.02874v1](http://arxiv.org/pdf/2404.02874v1)|null|
+|**2024-04-03**|**Forecasting the sensitivity of Pulsar Timing Arrays to gravitational wave backgrounds**|Stanislav Babak et.al.|[2404.02864v1](http://arxiv.org/abs/2404.02864v1)|[2404.02864v1](http://arxiv.org/pdf/2404.02864v1)|null|
+|**2024-04-03**|**Study of complex nitrogen and oxygen-bearing molecules towards the high-mass protostar IRAS 18089$-$1732**|Arijit Manna et.al.|[2404.02857v1](http://arxiv.org/abs/2404.02857v1)|[2404.02857v1](http://arxiv.org/pdf/2404.02857v1)|null|
+|**2024-04-03**|**Sensitivity of Polarization to Grain Shape: II. Aggregates**|B. T. Draine et.al.|[2404.02836v1](http://arxiv.org/abs/2404.02836v1)|[2404.02836v1](http://arxiv.org/pdf/2404.02836v1)|null|
+|**2024-04-03**|**An Error-Bounded Lossy Compression Method with Bit-Adaptive Quantization for Particle Data**|Congrong Ren et.al.|[2404.02826v1](http://arxiv.org/abs/2404.02826v1)|[2404.02826v1](http://arxiv.org/pdf/2404.02826v1)|null|
+|**2024-04-03**|**First Light and Reionization Epoch Simulations (FLARES) -- XV: The physical properties of super-massive black holes and their impact on galaxies in the early universe**|Stephen M. Wilkins et.al.|[2404.02815v1](http://arxiv.org/abs/2404.02815v1)|[2404.02815v1](http://arxiv.org/pdf/2404.02815v1)|null|
+|**2024-04-03**|**The ALMA Legacy survey of Class 0/I disks in Corona australis, Aquila, chaMaeleon, oPhiuchus north, Ophiuchus, Serpens (CAMPOS). I. Evolution of Protostellar disk radii**|Cheng-Han Hsieh et.al.|[2404.02809v1](http://arxiv.org/abs/2404.02809v1)|[2404.02809v1](http://arxiv.org/pdf/2404.02809v1)|null|
+|**2024-04-03**|**The Primordial Black Hole Formation -- Null Geodesic Correspondence**|Andrea Ianniccari et.al.|[2404.02801v1](http://arxiv.org/abs/2404.02801v1)|[2404.02801v1](http://arxiv.org/pdf/2404.02801v1)|null|
 |**2024-04-02**|**Mass calibration of DES Year-3 clusters via SPT-3G CMB cluster lensing**|B. Ansarinejad et.al.|[2404.02153v1](http://arxiv.org/abs/2404.02153v1)|[2404.02153v1](http://arxiv.org/pdf/2404.02153v1)|null|
 |**2024-04-02**|**Probing the Physics of Star-Formation (ProPStar): II. The first systematic search for streamers toward protostars**|María Teresa Valdivia-Mena et.al.|[2404.02144v1](http://arxiv.org/abs/2404.02144v1)|[2404.02144v1](http://arxiv.org/pdf/2404.02144v1)|null|
 |**2024-04-02**|**An Informed and Systematic Method to Identify Variable mid-L dwarfs**|Natalia Oliveros-Gomez et.al.|[2404.02140v1](http://arxiv.org/abs/2404.02140v1)|[2404.02140v1](http://arxiv.org/pdf/2404.02140v1)|null|
@@ -4457,6 +4467,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v1](http://arxiv.org/abs/2404.02905v1)|[2404.02905v1](http://arxiv.org/pdf/2404.02905v1)|**[link](https://github.com/FoundationVision/VAR)**|
+|**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904v1](http://arxiv.org/abs/2404.02904v1)|[2404.02904v1](http://arxiv.org/pdf/2404.02904v1)|null|
+|**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900v1](http://arxiv.org/abs/2404.02900v1)|[2404.02900v1](http://arxiv.org/pdf/2404.02900v1)|**[link](https://github.com/val-iisc/DeiT-LT)**|
+|**2024-04-03**|**Steganographic Passport: An Owner and User Verifiable Credential for Deep Model IP Protection Without Retraining**|Qi Cui et.al.|[2404.02889v1](http://arxiv.org/abs/2404.02889v1)|[2404.02889v1](http://arxiv.org/pdf/2404.02889v1)|null|
+|**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883v1](http://arxiv.org/abs/2404.02883v1)|[2404.02883v1](http://arxiv.org/pdf/2404.02883v1)|null|
+|**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877v1](http://arxiv.org/abs/2404.02877v1)|[2404.02877v1](http://arxiv.org/pdf/2404.02877v1)|**[link](https://github.com/toelt-llc/flightscope_bench)**|
+|**2024-04-03**|**Integrating Explanations in Learning LTL Specifications from Demonstrations**|Ashutosh Gupta et.al.|[2404.02872v1](http://arxiv.org/abs/2404.02872v1)|[2404.02872v1](http://arxiv.org/pdf/2404.02872v1)|null|
+|**2024-04-03**|**Human Activity Recognition using Smartphones**|Mayur Sonawane et.al.|[2404.02869v1](http://arxiv.org/abs/2404.02869v1)|[2404.02869v1](http://arxiv.org/pdf/2404.02869v1)|null|
+|**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838v1](http://arxiv.org/abs/2404.02838v1)|[2404.02838v1](http://arxiv.org/pdf/2404.02838v1)|null|
+|**2024-04-03**|**Empowering Biomedical Discovery with AI Agents**|Shanghua Gao et.al.|[2404.02831v1](http://arxiv.org/abs/2404.02831v1)|[2404.02831v1](http://arxiv.org/pdf/2404.02831v1)|null|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157v1](http://arxiv.org/abs/2404.02157v1)|[2404.02157v1](http://arxiv.org/pdf/2404.02157v1)|null|
 |**2024-04-02**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151v1](http://arxiv.org/abs/2404.02151v1)|[2404.02151v1](http://arxiv.org/pdf/2404.02151v1)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
 |**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus et.al.|[2404.02127v1](http://arxiv.org/abs/2404.02127v1)|[2404.02127v1](http://arxiv.org/pdf/2404.02127v1)|**[link](https://github.com/joelniklaus/lawinstruct)**|
