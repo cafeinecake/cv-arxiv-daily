@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-04**|**Magnetic fields from small-scale primordial perturbations**|Nanoom Lee et.al.|[2404.03655v1](http://arxiv.org/abs/2404.03655v1)|[2404.03655v1](http://arxiv.org/pdf/2404.03655v1)|null|
+|**2024-04-04**|**Identifying Quasars from the DESI Bright Galaxy Survey**|S. Juneau et.al.|[2404.03621v1](http://arxiv.org/abs/2404.03621v1)|[2404.03621v1](http://arxiv.org/pdf/2404.03621v1)|null|
+|**2024-04-04**|**Testing the Boundary-to-Bound Correspondence with Numerical Relativity**|Anuj Kankani et.al.|[2404.03607v1](http://arxiv.org/abs/2404.03607v1)|[2404.03607v1](http://arxiv.org/pdf/2404.03607v1)|null|
+|**2024-04-04**|**Nuclear Matter Equation of State in the Brueckner-Hartree-Fock Approach and Standard Skyrme Energy-Density Functionals**|Isaac Vidaña et.al.|[2404.03583v1](http://arxiv.org/abs/2404.03583v1)|[2404.03583v1](http://arxiv.org/pdf/2404.03583v1)|null|
+|**2024-04-04**|**The Rise of Faint, Red AGN at $z>4$: A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields**|Dale D. Kocevski et.al.|[2404.03576v1](http://arxiv.org/abs/2404.03576v1)|[2404.03576v1](http://arxiv.org/pdf/2404.03576v1)|null|
+|**2024-04-04**|**High redshift LBGs from deep broadband imaging for future spectroscopic surveys**|Vanina Ruhlmann-Kleider et.al.|[2404.03569v1](http://arxiv.org/abs/2404.03569v1)|[2404.03569v1](http://arxiv.org/pdf/2404.03569v1)|null|
+|**2024-04-04**|**Signal-preserving CMB component separation with machine learning**|Fiona McCarthy et.al.|[2404.03557v1](http://arxiv.org/abs/2404.03557v1)|[2404.03557v1](http://arxiv.org/pdf/2404.03557v1)|null|
+|**2024-04-04**|**Impact of the Magnetic Horizon on the Interpretation of the Pierre Auger Observatory Spectrum and Composition Data**|The Pierre Auger Collaboration et.al.|[2404.03533v1](http://arxiv.org/abs/2404.03533v1)|[2404.03533v1](http://arxiv.org/pdf/2404.03533v1)|null|
+|**2024-04-04**|**Experimental studies of black holes: status and future prospects**|Reinhard Genzel et.al.|[2404.03522v1](http://arxiv.org/abs/2404.03522v1)|[2404.03522v1](http://arxiv.org/pdf/2404.03522v1)|null|
+|**2024-04-04**|**SUSHI: An algorithm for source separation of hyperspectral images with non-stationary spectral variation**|Julia Lascar et.al.|[2404.03490v1](http://arxiv.org/abs/2404.03490v1)|[2404.03490v1](http://arxiv.org/pdf/2404.03490v1)|null|
 |**2024-04-03**|**New Herbig-Haro Objects associated with Embedded Sources**|T. A. Movsessian et.al.|[2404.02891v1](http://arxiv.org/abs/2404.02891v1)|[2404.02891v1](http://arxiv.org/pdf/2404.02891v1)|null|
 |**2024-04-03**|**Modelling the star-formation activity and ionizing properties of high-redshift galaxies**|Anirban Chakraborty et.al.|[2404.02879v1](http://arxiv.org/abs/2404.02879v1)|[2404.02879v1](http://arxiv.org/pdf/2404.02879v1)|null|
 |**2024-04-03**|**Planck dust polarization power spectra are consistent with strongly supersonic turbulence**|Kye A. Stalpes et.al.|[2404.02874v1](http://arxiv.org/abs/2404.02874v1)|[2404.02874v1](http://arxiv.org/pdf/2404.02874v1)|null|
@@ -4467,6 +4477,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657v1](http://arxiv.org/abs/2404.03657v1)|[2404.03657v1](http://arxiv.org/pdf/2404.03657v1)|null|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653v1](http://arxiv.org/abs/2404.03653v1)|[2404.03653v1](http://arxiv.org/pdf/2404.03653v1)|null|
+|**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647v1](http://arxiv.org/abs/2404.03647v1)|[2404.03647v1](http://arxiv.org/pdf/2404.03647v1)|null|
+|**2024-04-04**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635v1](http://arxiv.org/abs/2404.03635v1)|[2404.03635v1](http://arxiv.org/pdf/2404.03635v1)|null|
+|**2024-04-04**|**Standardizing Knowledge Engineering Practices with a Reference Architecture**|Bradley P. Allen et.al.|[2404.03624v1](http://arxiv.org/abs/2404.03624v1)|[2404.03624v1](http://arxiv.org/pdf/2404.03624v1)|null|
+|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623v1](http://arxiv.org/abs/2404.03623v1)|[2404.03623v1](http://arxiv.org/pdf/2404.03623v1)|null|
+|**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611v1](http://arxiv.org/abs/2404.03611v1)|[2404.03611v1](http://arxiv.org/pdf/2404.03611v1)|null|
+|**2024-04-04**|**Sailor: Open Language Models for South-East Asia**|Longxu Dou et.al.|[2404.03608v1](http://arxiv.org/abs/2404.03608v1)|[2404.03608v1](http://arxiv.org/pdf/2404.03608v1)|**[link](https://github.com/sail-sg/sailor-llm)**|
+|**2024-04-04**|**Analyzing Musical Characteristics of National Anthems in Relation to Global Indices**|S M Rakib Hasan et.al.|[2404.03606v1](http://arxiv.org/abs/2404.03606v1)|[2404.03606v1](http://arxiv.org/pdf/2404.03606v1)|null|
+|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596v1](http://arxiv.org/abs/2404.03596v1)|[2404.03596v1](http://arxiv.org/pdf/2404.03596v1)|**[link](https://github.com/yamoling/lle)**|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v1](http://arxiv.org/abs/2404.02905v1)|[2404.02905v1](http://arxiv.org/pdf/2404.02905v1)|**[link](https://github.com/FoundationVision/VAR)**|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904v1](http://arxiv.org/abs/2404.02904v1)|[2404.02904v1](http://arxiv.org/pdf/2404.02904v1)|null|
 |**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900v1](http://arxiv.org/abs/2404.02900v1)|[2404.02900v1](http://arxiv.org/pdf/2404.02900v1)|**[link](https://github.com/val-iisc/DeiT-LT)**|
