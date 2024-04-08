@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-05**|**Bounds on galaxy stochasticity from halo occupation distribution modeling**|Dylan Britt et.al.|[2404.04252v1](http://arxiv.org/abs/2404.04252v1)|[2404.04252v1](http://arxiv.org/pdf/2404.04252v1)|null|
+|**2024-04-05**|**Observation of Gravitational Waves from the Coalescence of a $2.5-4.5~M_\odot$ Compact Object and a Neutron Star**|The LIGO Scientific Collaboration et.al.|[2404.04248v1](http://arxiv.org/abs/2404.04248v1)|[2404.04248v1](http://arxiv.org/pdf/2404.04248v1)|null|
+|**2024-04-05**|**Probing the Circumstellar Environment of highly luminous type IIn SN ASASSN-14il**|Naveen Dukiya et.al.|[2404.04235v1](http://arxiv.org/abs/2404.04235v1)|[2404.04235v1](http://arxiv.org/pdf/2404.04235v1)|null|
+|**2024-04-05**|**{\sc SimBIG}: Cosmological Constraints using Simulation-Based Inference of Galaxy Clustering with Marked Power Spectra**|Elena Massara et.al.|[2404.04228v1](http://arxiv.org/abs/2404.04228v1)|[2404.04228v1](http://arxiv.org/pdf/2404.04228v1)|null|
+|**2024-04-05**|**Early evolution of spin direction in dark matter halos and the effect of the surrounding large-scale tidal field**|Pablo López et.al.|[2404.04223v1](http://arxiv.org/abs/2404.04223v1)|[2404.04223v1](http://arxiv.org/pdf/2404.04223v1)|null|
+|**2024-04-05**|**Into the thick of it: ALMA 0.45 mm observations of HL Tau at 2 au resolution**|Osmar M. Guerra-Alvarado et.al.|[2404.04164v1](http://arxiv.org/abs/2404.04164v1)|[2404.04164v1](http://arxiv.org/pdf/2404.04164v1)|null|
+|**2024-04-05**|**On the plasma quasi-thermal noise in the outer heliosphere**|Nicole Meyer-Vernet et.al.|[2404.04150v1](http://arxiv.org/abs/2404.04150v1)|[2404.04150v1](http://arxiv.org/pdf/2404.04150v1)|null|
+|**2024-04-05**|**GA-NIFS: An extremely nitrogen-loud and chemically stratified galaxy at $z\sim 5.55$**|Xihan Ji et.al.|[2404.04148v1](http://arxiv.org/abs/2404.04148v1)|[2404.04148v1](http://arxiv.org/pdf/2404.04148v1)|null|
+|**2024-04-05**|**Quadratic Rastall Gravity: from low-mass HESS J1731-347 to high-mass PSR J0952-0607 pulsars**|Waleed El Hanafy et.al.|[2404.04143v1](http://arxiv.org/abs/2404.04143v1)|[2404.04143v1](http://arxiv.org/pdf/2404.04143v1)|null|
+|**2024-04-05**|**Aperture photometry on asteroid trails: detection of the fastest rotating near-Earth object**|Maxime Devogèle et.al.|[2404.04142v1](http://arxiv.org/abs/2404.04142v1)|[2404.04142v1](http://arxiv.org/pdf/2404.04142v1)|null|
 |**2024-04-04**|**Magnetic fields from small-scale primordial perturbations**|Nanoom Lee et.al.|[2404.03655v1](http://arxiv.org/abs/2404.03655v1)|[2404.03655v1](http://arxiv.org/pdf/2404.03655v1)|null|
 |**2024-04-04**|**Identifying Quasars from the DESI Bright Galaxy Survey**|S. Juneau et.al.|[2404.03621v1](http://arxiv.org/abs/2404.03621v1)|[2404.03621v1](http://arxiv.org/pdf/2404.03621v1)|null|
 |**2024-04-04**|**Testing the Boundary-to-Bound Correspondence with Numerical Relativity**|Anuj Kankani et.al.|[2404.03607v1](http://arxiv.org/abs/2404.03607v1)|[2404.03607v1](http://arxiv.org/pdf/2404.03607v1)|null|
@@ -4477,6 +4487,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254v1](http://arxiv.org/abs/2404.04254v1)|[2404.04254v1](http://arxiv.org/pdf/2404.04254v1)|null|
+|**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253v1](http://arxiv.org/abs/2404.04253v1)|[2404.04253v1](http://arxiv.org/pdf/2404.04253v1)|null|
+|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251v1](http://arxiv.org/abs/2404.04251v1)|[2404.04251v1](http://arxiv.org/pdf/2404.04251v1)|null|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243v1](http://arxiv.org/abs/2404.04243v1)|[2404.04243v1](http://arxiv.org/pdf/2404.04243v1)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242v1](http://arxiv.org/abs/2404.04242v1)|[2404.04242v1](http://arxiv.org/pdf/2404.04242v1)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234v1](http://arxiv.org/abs/2404.04234v1)|[2404.04234v1](http://arxiv.org/pdf/2404.04234v1)|null|
+|**2024-04-05**|**Twins in rotational spectroscopy: Does a rotational spectrum uniquely identify a molecule?**|Marcus Schwarting et.al.|[2404.04225v1](http://arxiv.org/abs/2404.04225v1)|[2404.04225v1](http://arxiv.org/pdf/2404.04225v1)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|[2404.04220v1](http://arxiv.org/pdf/2404.04220v1)|null|
+|**2024-04-05**|**Continual Policy Distillation of Reinforcement Learning-based Controllers for Soft Robotic In-Hand Manipulation**|Lanpei Li et.al.|[2404.04219v1](http://arxiv.org/abs/2404.04219v1)|[2404.04219v1](http://arxiv.org/pdf/2404.04219v1)|null|
+|**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205v1](http://arxiv.org/abs/2404.04205v1)|[2404.04205v1](http://arxiv.org/pdf/2404.04205v1)|null|
 |**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657v1](http://arxiv.org/abs/2404.03657v1)|[2404.03657v1](http://arxiv.org/pdf/2404.03657v1)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653v1](http://arxiv.org/abs/2404.03653v1)|[2404.03653v1](http://arxiv.org/pdf/2404.03653v1)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647v1](http://arxiv.org/abs/2404.03647v1)|[2404.03647v1](http://arxiv.org/pdf/2404.03647v1)|null|
