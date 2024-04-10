@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-09**|**Horizon-penetrating form of parametrized metrics for static and stationary black holes**|Yixuan Ma et.al.|[2404.06509v1](http://arxiv.org/abs/2404.06509v1)|[2404.06509v1](http://arxiv.org/pdf/2404.06509v1)|null|
+|**2024-04-09**|**Primordial black holes and curvature perturbations from false-vacuum islands**|Rong-Gen Cai et.al.|[2404.06506v1](http://arxiv.org/abs/2404.06506v1)|[2404.06506v1](http://arxiv.org/pdf/2404.06506v1)|null|
+|**2024-04-09**|**Evidence for Primordial Alignment: Insights from Stellar Obliquity Measurements for Compact Sub-Saturn Systems**|Brandon T. Radzom et.al.|[2404.06504v1](http://arxiv.org/abs/2404.06504v1)|[2404.06504v1](http://arxiv.org/pdf/2404.06504v1)|null|
+|**2024-04-09**|**Detection of Rydberg lines from the atmosphere of Betelgeuse**|W. R. F. Dent et.al.|[2404.06501v1](http://arxiv.org/abs/2404.06501v1)|[2404.06501v1](http://arxiv.org/pdf/2404.06501v1)|null|
+|**2024-04-09**|**The jet of BP Tau**|A. V. Dodin et.al.|[2404.06491v1](http://arxiv.org/abs/2404.06491v1)|[2404.06491v1](http://arxiv.org/pdf/2404.06491v1)|null|
+|**2024-04-09**|**Uncovering Tidal Treasures: Automated Classification of Faint Tidal Features in DECaLS Data**|Alexander J. Gordon et.al.|[2404.06487v1](http://arxiv.org/abs/2404.06487v1)|[2404.06487v1](http://arxiv.org/pdf/2404.06487v1)|null|
+|**2024-04-09**|**Constraining electron number density in the Sun via Earth-based neutrino flavor data**|Caroline Laber-Smith et.al.|[2404.06468v1](http://arxiv.org/abs/2404.06468v1)|[2404.06468v1](http://arxiv.org/pdf/2404.06468v1)|null|
+|**2024-04-09**|**Thermal fluctuations of matter composition and quark nucleation in compact stars**|Mirco Guerrini et.al.|[2404.06463v1](http://arxiv.org/abs/2404.06463v1)|[2404.06463v1](http://arxiv.org/pdf/2404.06463v1)|null|
+|**2024-04-09**|**Cosmic Clues: DESI, Dark Energy, and the Cosmological Constant Problem**|Wen Yin et.al.|[2404.06444v1](http://arxiv.org/abs/2404.06444v1)|[2404.06444v1](http://arxiv.org/pdf/2404.06444v1)|null|
+|**2024-04-09**|**A minimal solution to the axion isocurvature problem from a non-minimal coupling**|Maximilian Berbig et.al.|[2404.06441v1](http://arxiv.org/abs/2404.06441v1)|[2404.06441v1](http://arxiv.org/pdf/2404.06441v1)|null|
 |**2024-04-08**|**The MOSDEF Survey: Properties of Warm Ionised Outflows at $z=$ 1.4-3.8**|Andrew Weldon et.al.|[2404.05725v1](http://arxiv.org/abs/2404.05725v1)|[2404.05725v1](http://arxiv.org/pdf/2404.05725v1)|null|
 |**2024-04-08**|**JADES: Primeval Lyman-$\mathrmα$ emitting galaxies reveal early sites of reionisation out to redshift $z \sim 9$**|Joris Witstok et.al.|[2404.05724v1](http://arxiv.org/abs/2404.05724v1)|[2404.05724v1](http://arxiv.org/pdf/2404.05724v1)|null|
 |**2024-04-08**|**Quintessential interpretation of the evolving dark energy in light of DESI**|Yuichiro Tada et.al.|[2404.05722v1](http://arxiv.org/abs/2404.05722v1)|[2404.05722v1](http://arxiv.org/pdf/2404.05722v1)|null|
@@ -4497,6 +4507,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511v1](http://arxiv.org/abs/2404.06511v1)|[2404.06511v1](http://arxiv.org/pdf/2404.06511v1)|null|
+|**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499v1](http://arxiv.org/abs/2404.06499v1)|[2404.06499v1](http://arxiv.org/pdf/2404.06499v1)|null|
+|**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492v1](http://arxiv.org/abs/2404.06492v1)|[2404.06492v1](http://arxiv.org/pdf/2404.06492v1)|null|
+|**2024-04-09**|**Pitfalls of Conversational LLMs on News Debiasing**|Ipek Baris Schlicht et.al.|[2404.06488v1](http://arxiv.org/abs/2404.06488v1)|[2404.06488v1](http://arxiv.org/pdf/2404.06488v1)|null|
+|**2024-04-09**|**Public-private funding models in open source software development: A case study on scikit-learn**|Cailean Osborne et.al.|[2404.06484v1](http://arxiv.org/abs/2404.06484v1)|[2404.06484v1](http://arxiv.org/pdf/2404.06484v1)|null|
+|**2024-04-09**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480v1](http://arxiv.org/abs/2404.06480v1)|[2404.06480v1](http://arxiv.org/pdf/2404.06480v1)|**[link](https://github.com/open-compass/ada-leval)**|
+|**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v1](http://arxiv.org/abs/2404.06479v1)|[2404.06479v1](http://arxiv.org/pdf/2404.06479v1)|null|
+|**2024-04-09**|**Autonomous Evaluation and Refinement of Digital Agents**|Jiayi Pan et.al.|[2404.06474v1](http://arxiv.org/abs/2404.06474v1)|[2404.06474v1](http://arxiv.org/pdf/2404.06474v1)|**[link](https://github.com/berkeley-nlp/agent-eval-refine)**|
+|**2024-04-09**|**High-skilled Human Workers in Non-Routine Jobs are Susceptible to AI Automation but Wage Benefits Differ between Occupations**|Pelin Ozgul et.al.|[2404.06472v1](http://arxiv.org/abs/2404.06472v1)|[2404.06472v1](http://arxiv.org/pdf/2404.06472v1)|null|
+|**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469v1](http://arxiv.org/abs/2404.06469v1)|[2404.06469v1](http://arxiv.org/pdf/2404.06469v1)|null|
 |**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723v1](http://arxiv.org/abs/2404.05723v1)|[2404.05723v1](http://arxiv.org/pdf/2404.05723v1)|null|
 |**2024-04-08**|**Language-Independent Representations Improve Zero-Shot Summarization**|Vladimir Solovyev et.al.|[2404.05720v1](http://arxiv.org/abs/2404.05720v1)|[2404.05720v1](http://arxiv.org/pdf/2404.05720v1)|null|
 |**2024-04-08**|**SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing**|Jing Gu et.al.|[2404.05717v1](http://arxiv.org/abs/2404.05717v1)|[2404.05717v1](http://arxiv.org/pdf/2404.05717v1)|null|
