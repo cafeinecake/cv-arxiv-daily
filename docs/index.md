@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 
 ## Astrophysics
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-04-08**|**Reconstructing the recombination history by combining early and late cosmological probes**|Gabriel P. Lynch et.al.|[2404.05715v1](http://arxiv.org/abs/2404.05715v1)|[2404.05715v1](http://arxiv.org/pdf/2404.05715v1)|null|
 |**2024-04-08**|**GW230529_181500: A Potential Primordial Binary Black Hole Merger in the Mass Gap**|Qing-Guo Huang et.al.|[2404.05691v1](http://arxiv.org/abs/2404.05691v1)|[2404.05691v1](http://arxiv.org/pdf/2404.05691v1)|null|
 |**2024-04-08**|**The neutrino background from non-jetted active galactic nuclei**|P. Padovani et.al.|[2404.05690v1](http://arxiv.org/abs/2404.05690v1)|[2404.05690v1](http://arxiv.org/pdf/2404.05690v1)|null|
-|**2024-04-08**|**Efficient formation of a massive quiescent galaxy at redshift 4.9**|Anna de Graaff et.al.|[2404.05683v1](http://arxiv.org/abs/2404.05683v1)|[2404.05683v1](http://arxiv.org/pdf/2404.05683v1)|null|
+|**2024-04-09**|**Efficient formation of a massive quiescent galaxy at redshift 4.9**|Anna de Graaff et.al.|[2404.05683v2](http://arxiv.org/abs/2404.05683v2)|[2404.05683v2](http://arxiv.org/pdf/2404.05683v2)|null|
 |**2024-04-08**|**Pulsar Timing Array Harmonic Analysis and Source Angular Correlations**|Bruce Allen et.al.|[2404.05677v1](http://arxiv.org/abs/2404.05677v1)|[2404.05677v1](http://arxiv.org/pdf/2404.05677v1)|null|
 |**2024-04-08**|**Dark matter free dwarf galaxy formation at the the tips of the tentacles of jellyfish galaxies**|V. Lora et.al.|[2404.05676v1](http://arxiv.org/abs/2404.05676v1)|[2404.05676v1](http://arxiv.org/pdf/2404.05676v1)|null|
 |**2024-04-08**|**The impact of large-scale galaxy clustering on the variance of the Hellings-Downs correlation**|Nastassia Grimm et.al.|[2404.05670v1](http://arxiv.org/abs/2404.05670v1)|[2404.05670v1](http://arxiv.org/pdf/2404.05670v1)|null|
