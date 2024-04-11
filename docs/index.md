@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-10**|**Quasars as standard candles VI: spectroscopic validation of the cosmological sample**|Bartolomeo Trefoloni et.al.|[2404.07205v1](http://arxiv.org/abs/2404.07205v1)|[2404.07205v1](http://arxiv.org/pdf/2404.07205v1)|null|
+|**2024-04-10**|**Searching for Cosmological Collider in the Planck CMB Data**|Wuhyun Sohn et.al.|[2404.07203v1](http://arxiv.org/abs/2404.07203v1)|[2404.07203v1](http://arxiv.org/pdf/2404.07203v1)|null|
+|**2024-04-10**|**One-loop power spectrum in ultra slow-roll inflation and implications for primordial black hole dark matter**|Guillermo Ballesteros et.al.|[2404.07196v1](http://arxiv.org/abs/2404.07196v1)|[2404.07196v1](http://arxiv.org/pdf/2404.07196v1)|null|
+|**2024-04-10**|**Wave optics lensing of gravitational waves: theory and phenomenology of triple systems in the LISA band**|Martin Pijnenburg et.al.|[2404.07186v1](http://arxiv.org/abs/2404.07186v1)|[2404.07186v1](http://arxiv.org/pdf/2404.07186v1)|null|
+|**2024-04-10**|**Studying the Supernova Absolute Magnitude Constancy with Baryonic Acoustic Oscillations**|Denitsa Staicova et.al.|[2404.07182v1](http://arxiv.org/abs/2404.07182v1)|[2404.07182v1](http://arxiv.org/pdf/2404.07182v1)|null|
+|**2024-04-10**|**Crossing walls and windows: the curious escape of Lyman-$α$ photons through ionised channels**|Silvia Almada Monter et.al.|[2404.07169v1](http://arxiv.org/abs/2404.07169v1)|[2404.07169v1](http://arxiv.org/pdf/2404.07169v1)|null|
+|**2024-04-10**|**Like a candle in the wind: The embers of once aflame, now smouldering galaxies at $5 < z < 8$**|James Trussler et.al.|[2404.07163v1](http://arxiv.org/abs/2404.07163v1)|[2404.07163v1](http://arxiv.org/pdf/2404.07163v1)|null|
+|**2024-04-10**|**Polluting White Dwarfs with Oort Cloud Comets**|Dang Pham et.al.|[2404.07160v1](http://arxiv.org/abs/2404.07160v1)|[2404.07160v1](http://arxiv.org/pdf/2404.07160v1)|null|
+|**2024-04-10**|**Spectroscopic Survey of Faint Planetary-Nebula Nuclei. IV. The Abell 35-Type Central Star of Pa 27**|Howard E. Bond et.al.|[2404.07152v1](http://arxiv.org/abs/2404.07152v1)|[2404.07152v1](http://arxiv.org/pdf/2404.07152v1)|null|
+|**2024-04-10**|**Tianyu: search for the second solar system and explore the dynamic universe**|Fabo Feng et.al.|[2404.07149v1](http://arxiv.org/abs/2404.07149v1)|[2404.07149v1](http://arxiv.org/pdf/2404.07149v1)|null|
 |**2024-04-09**|**Horizon-penetrating form of parametrized metrics for static and stationary black holes**|Yixuan Ma et.al.|[2404.06509v1](http://arxiv.org/abs/2404.06509v1)|[2404.06509v1](http://arxiv.org/pdf/2404.06509v1)|null|
 |**2024-04-09**|**Primordial black holes and curvature perturbations from false-vacuum islands**|Rong-Gen Cai et.al.|[2404.06506v1](http://arxiv.org/abs/2404.06506v1)|[2404.06506v1](http://arxiv.org/pdf/2404.06506v1)|null|
 |**2024-04-09**|**Evidence for Primordial Alignment: Insights from Stellar Obliquity Measurements for Compact Sub-Saturn Systems**|Brandon T. Radzom et.al.|[2404.06504v1](http://arxiv.org/abs/2404.06504v1)|[2404.06504v1](http://arxiv.org/pdf/2404.06504v1)|null|
@@ -4511,6 +4521,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206v1](http://arxiv.org/abs/2404.07206v1)|[2404.07206v1](http://arxiv.org/pdf/2404.07206v1)|null|
+|**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204v1](http://arxiv.org/abs/2404.07204v1)|[2404.07204v1](http://arxiv.org/pdf/2404.07204v1)|null|
+|**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202v1](http://arxiv.org/abs/2404.07202v1)|[2404.07202v1](http://arxiv.org/pdf/2404.07202v1)|null|
+|**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199v1](http://arxiv.org/abs/2404.07199v1)|[2404.07199v1](http://arxiv.org/pdf/2404.07199v1)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198v1](http://arxiv.org/abs/2404.07198v1)|[2404.07198v1](http://arxiv.org/pdf/2404.07198v1)|null|
+|**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194v1](http://arxiv.org/abs/2404.07194v1)|[2404.07194v1](http://arxiv.org/pdf/2404.07194v1)|**[link](https://github.com/ml-jku/vnegnn)**|
+|**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185v1](http://arxiv.org/abs/2404.07185v1)|[2404.07185v1](http://arxiv.org/pdf/2404.07185v1)|null|
+|**2024-04-10**|**Studying the Supernova Absolute Magnitude Constancy with Baryonic Acoustic Oscillations**|Denitsa Staicova et.al.|[2404.07182v1](http://arxiv.org/abs/2404.07182v1)|[2404.07182v1](http://arxiv.org/pdf/2404.07182v1)|null|
+|**2024-04-10**|**Worst-Case Convergence Time of ML Algorithms via Extreme Value Theory**|Saeid Tizpaz-Niari et.al.|[2404.07170v1](http://arxiv.org/abs/2404.07170v1)|[2404.07170v1](http://arxiv.org/pdf/2404.07170v1)|null|
+|**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168v1](http://arxiv.org/abs/2404.07168v1)|[2404.07168v1](http://arxiv.org/pdf/2404.07168v1)|null|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511v1](http://arxiv.org/abs/2404.06511v1)|[2404.06511v1](http://arxiv.org/pdf/2404.06511v1)|null|
 |**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499v1](http://arxiv.org/abs/2404.06499v1)|[2404.06499v1](http://arxiv.org/pdf/2404.06499v1)|null|
 |**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492v1](http://arxiv.org/abs/2404.06492v1)|[2404.06492v1](http://arxiv.org/pdf/2404.06492v1)|null|
