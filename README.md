@@ -1,4 +1,4 @@
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 
 ## Astrophysics
 
@@ -4511,10 +4511,10 @@
 |**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499v1](http://arxiv.org/abs/2404.06499v1)|[2404.06499v1](http://arxiv.org/pdf/2404.06499v1)|null|
 |**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492v1](http://arxiv.org/abs/2404.06492v1)|[2404.06492v1](http://arxiv.org/pdf/2404.06492v1)|null|
 |**2024-04-09**|**Pitfalls of Conversational LLMs on News Debiasing**|Ipek Baris Schlicht et.al.|[2404.06488v1](http://arxiv.org/abs/2404.06488v1)|[2404.06488v1](http://arxiv.org/pdf/2404.06488v1)|null|
-|**2024-04-09**|**Public-private funding models in open source software development: A case study on scikit-learn**|Cailean Osborne et.al.|[2404.06484v1](http://arxiv.org/abs/2404.06484v1)|[2404.06484v1](http://arxiv.org/pdf/2404.06484v1)|null|
-|**2024-04-09**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480v1](http://arxiv.org/abs/2404.06480v1)|[2404.06480v1](http://arxiv.org/pdf/2404.06480v1)|**[link](https://github.com/open-compass/ada-leval)**|
-|**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v1](http://arxiv.org/abs/2404.06479v1)|[2404.06479v1](http://arxiv.org/pdf/2404.06479v1)|null|
-|**2024-04-09**|**Autonomous Evaluation and Refinement of Digital Agents**|Jiayi Pan et.al.|[2404.06474v1](http://arxiv.org/abs/2404.06474v1)|[2404.06474v1](http://arxiv.org/pdf/2404.06474v1)|**[link](https://github.com/berkeley-nlp/agent-eval-refine)**|
+|**2024-04-10**|**Public-private funding models in open source software development: A case study on scikit-learn**|Cailean Osborne et.al.|[2404.06484v2](http://arxiv.org/abs/2404.06484v2)|[2404.06484v2](http://arxiv.org/pdf/2404.06484v2)|null|
+|**2024-04-10**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480v2](http://arxiv.org/abs/2404.06480v2)|[2404.06480v2](http://arxiv.org/pdf/2404.06480v2)|**[link](https://github.com/open-compass/ada-leval)**|
+|**2024-04-10**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|[2404.06479v2](http://arxiv.org/pdf/2404.06479v2)|null|
+|**2024-04-10**|**Autonomous Evaluation and Refinement of Digital Agents**|Jiayi Pan et.al.|[2404.06474v2](http://arxiv.org/abs/2404.06474v2)|[2404.06474v2](http://arxiv.org/pdf/2404.06474v2)|**[link](https://github.com/berkeley-nlp/agent-eval-refine)**|
 |**2024-04-09**|**High-skilled Human Workers in Non-Routine Jobs are Susceptible to AI Automation but Wage Benefits Differ between Occupations**|Pelin Ozgul et.al.|[2404.06472v1](http://arxiv.org/abs/2404.06472v1)|[2404.06472v1](http://arxiv.org/pdf/2404.06472v1)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469v1](http://arxiv.org/abs/2404.06469v1)|[2404.06469v1](http://arxiv.org/pdf/2404.06469v1)|null|
 |**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723v1](http://arxiv.org/abs/2404.05723v1)|[2404.05723v1](http://arxiv.org/pdf/2404.05723v1)|null|
