@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-11**|**Astrophysics and Nuclear Physics Informed Interactions in Dense Matter: Insights from PSR J0437-4715**|Tuhin Malik et.al.|[2404.07936v1](http://arxiv.org/abs/2404.07936v1)|[2404.07936v1](http://arxiv.org/pdf/2404.07936v1)|null|
+|**2024-04-11**|**The expected kinematic matter dipole is robust against source evolution**|Sebastian von Hausegger et.al.|[2404.07929v1](http://arxiv.org/abs/2404.07929v1)|[2404.07929v1](http://arxiv.org/pdf/2404.07929v1)|null|
+|**2024-04-11**|**The effects of stellar feedback on molecular clumps in the Lagoon Nebula (M8)**|K. Angelique Kahle et.al.|[2404.07920v1](http://arxiv.org/abs/2404.07920v1)|[2404.07920v1](http://arxiv.org/pdf/2404.07920v1)|null|
+|**2024-04-11**|**Distributions and Collision Rates of ALP Stars in the Milky Way**|Dennis Maseizik et.al.|[2404.07908v1](http://arxiv.org/abs/2404.07908v1)|[2404.07908v1](http://arxiv.org/pdf/2404.07908v1)|null|
+|**2024-04-11**|**Supernova remnants of red supergiants: from barrels to Cygnus loops**|D M A Meyer et.al.|[2404.07873v1](http://arxiv.org/abs/2404.07873v1)|[2404.07873v1](http://arxiv.org/pdf/2404.07873v1)|null|
+|**2024-04-11**|**Efficiency of dynamos from autonomous generation of chiral asymmetry**|Jennifer Schober et.al.|[2404.07845v1](http://arxiv.org/abs/2404.07845v1)|[2404.07845v1](http://arxiv.org/pdf/2404.07845v1)|null|
+|**2024-04-11**|**Approaches to photon absorption in a Lorentz invariance violation scenario**|J. M. Carmona et.al.|[2404.07842v1](http://arxiv.org/abs/2404.07842v1)|[2404.07842v1](http://arxiv.org/pdf/2404.07842v1)|null|
+|**2024-04-11**|**M-dwarf flares in the Zwicky Transient Facility data and what we can learn from them**|A. S. Voloshina et.al.|[2404.07812v1](http://arxiv.org/abs/2404.07812v1)|[2404.07812v1](http://arxiv.org/pdf/2404.07812v1)|null|
+|**2024-04-11**|**A broad linewidth, compact, millimeter-bright molecular emission line source near the Galactic Center**|Adam Ginsburg et.al.|[2404.07808v1](http://arxiv.org/abs/2404.07808v1)|[2404.07808v1](http://arxiv.org/pdf/2404.07808v1)|null|
+|**2024-04-11**|**Probing Three-Dimensional Magnetic Fields: III -- Synchrotron Emission and Machine Learning**|Yue Hu et.al.|[2404.07806v1](http://arxiv.org/abs/2404.07806v1)|[2404.07806v1](http://arxiv.org/pdf/2404.07806v1)|null|
 |**2024-04-10**|**Quasars as standard candles VI: spectroscopic validation of the cosmological sample**|Bartolomeo Trefoloni et.al.|[2404.07205v1](http://arxiv.org/abs/2404.07205v1)|[2404.07205v1](http://arxiv.org/pdf/2404.07205v1)|null|
 |**2024-04-10**|**Searching for Cosmological Collider in the Planck CMB Data**|Wuhyun Sohn et.al.|[2404.07203v1](http://arxiv.org/abs/2404.07203v1)|[2404.07203v1](http://arxiv.org/pdf/2404.07203v1)|null|
 |**2024-04-10**|**One-loop power spectrum in ultra slow-roll inflation and implications for primordial black hole dark matter**|Guillermo Ballesteros et.al.|[2404.07196v1](http://arxiv.org/abs/2404.07196v1)|[2404.07196v1](http://arxiv.org/pdf/2404.07196v1)|null|
@@ -4521,6 +4531,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990v1](http://arxiv.org/abs/2404.07990v1)|[2404.07990v1](http://arxiv.org/pdf/2404.07990v1)|null|
+|**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989v1](http://arxiv.org/abs/2404.07989v1)|[2404.07989v1](http://arxiv.org/pdf/2404.07989v1)|**[link](https://github.com/ivan-tang-3d/any2point)**|
+|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987v1](http://arxiv.org/abs/2404.07987v1)|[2404.07987v1](http://arxiv.org/pdf/2404.07987v1)|null|
+|**2024-04-11**|**Manipulating Large Language Models to Increase Product Visibility**|Aounon Kumar et.al.|[2404.07981v1](http://arxiv.org/abs/2404.07981v1)|[2404.07981v1](http://arxiv.org/pdf/2404.07981v1)|**[link](https://github.com/aounon/llm-rank-optimizer)**|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979v1](http://arxiv.org/abs/2404.07979v1)|[2404.07979v1](http://arxiv.org/pdf/2404.07979v1)|null|
+|**2024-04-11**|**Self-supervised Dataset Distillation: A Good Compression Is All You Need**|Muxin Zhou et.al.|[2404.07976v1](http://arxiv.org/abs/2404.07976v1)|[2404.07976v1](http://arxiv.org/pdf/2404.07976v1)|**[link](https://github.com/VILA-Lab/SRe2L)**|
+|**2024-04-11**|**OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**|Tianbao Xie et.al.|[2404.07972v1](http://arxiv.org/abs/2404.07972v1)|[2404.07972v1](http://arxiv.org/pdf/2404.07972v1)|null|
+|**2024-04-11**|**Rho-1: Not All Tokens Are What You Need**|Zhenghao Lin et.al.|[2404.07965v1](http://arxiv.org/abs/2404.07965v1)|[2404.07965v1](http://arxiv.org/pdf/2404.07965v1)|**[link](https://github.com/microsoft/rho)**|
+|**2024-04-11**|**Lyapunov-stable Neural Control for State and Output Feedback: A Novel Formulation for Efficient Synthesis and Verification**|Lujie Yang et.al.|[2404.07956v1](http://arxiv.org/abs/2404.07956v1)|[2404.07956v1](http://arxiv.org/pdf/2404.07956v1)|**[link](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)**|
+|**2024-04-11**|**On Unified Prompt Tuning for Request Quality Assurance in Public Code Review**|Xinyu Chen et.al.|[2404.07942v1](http://arxiv.org/abs/2404.07942v1)|[2404.07942v1](http://arxiv.org/pdf/2404.07942v1)|null|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206v1](http://arxiv.org/abs/2404.07206v1)|[2404.07206v1](http://arxiv.org/pdf/2404.07206v1)|null|
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204v1](http://arxiv.org/abs/2404.07204v1)|[2404.07204v1](http://arxiv.org/pdf/2404.07204v1)|null|
 |**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202v1](http://arxiv.org/abs/2404.07202v1)|[2404.07202v1](http://arxiv.org/pdf/2404.07202v1)|null|
