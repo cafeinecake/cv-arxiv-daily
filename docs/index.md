@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 
 ## Astrophysics
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-04-10**|**Like a candle in the wind: The embers of once aflame, now smouldering galaxies at $5 < z < 8$**|James Trussler et.al.|[2404.07163v1](http://arxiv.org/abs/2404.07163v1)|[2404.07163v1](http://arxiv.org/pdf/2404.07163v1)|null|
 |**2024-04-10**|**Polluting White Dwarfs with Oort Cloud Comets**|Dang Pham et.al.|[2404.07160v1](http://arxiv.org/abs/2404.07160v1)|[2404.07160v1](http://arxiv.org/pdf/2404.07160v1)|null|
 |**2024-04-10**|**Spectroscopic Survey of Faint Planetary-Nebula Nuclei. IV. The Abell 35-Type Central Star of Pa 27**|Howard E. Bond et.al.|[2404.07152v1](http://arxiv.org/abs/2404.07152v1)|[2404.07152v1](http://arxiv.org/pdf/2404.07152v1)|null|
-|**2024-04-10**|**Tianyu: search for the second solar system and explore the dynamic universe**|Fabo Feng et.al.|[2404.07149v1](http://arxiv.org/abs/2404.07149v1)|[2404.07149v1](http://arxiv.org/pdf/2404.07149v1)|null|
+|**2024-04-11**|**Tianyu: search for the second solar system and explore the dynamic universe**|Fabo Feng et.al.|[2404.07149v2](http://arxiv.org/abs/2404.07149v2)|[2404.07149v2](http://arxiv.org/pdf/2404.07149v2)|null|
 |**2024-04-09**|**Horizon-penetrating form of parametrized metrics for static and stationary black holes**|Yixuan Ma et.al.|[2404.06509v1](http://arxiv.org/abs/2404.06509v1)|[2404.06509v1](http://arxiv.org/pdf/2404.06509v1)|null|
 |**2024-04-09**|**Primordial black holes and curvature perturbations from false-vacuum islands**|Rong-Gen Cai et.al.|[2404.06506v1](http://arxiv.org/abs/2404.06506v1)|[2404.06506v1](http://arxiv.org/pdf/2404.06506v1)|null|
 |**2024-04-09**|**Evidence for Primordial Alignment: Insights from Stellar Obliquity Measurements for Compact Sub-Saturn Systems**|Brandon T. Radzom et.al.|[2404.06504v1](http://arxiv.org/abs/2404.06504v1)|[2404.06504v1](http://arxiv.org/pdf/2404.06504v1)|null|
