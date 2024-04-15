@@ -1,9 +1,19 @@
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-12**|**Does DESI 2024 Confirm $Λ$CDM?**|Eoin Ó Colgáin et.al.|[2404.08633v1](http://arxiv.org/abs/2404.08633v1)|[2404.08633v1](http://arxiv.org/pdf/2404.08633v1)|null|
+|**2024-04-12**|**The role of stochastic Fermi-type particle acceleration in the inner jets of Active Galactic Nuclei**|Jieshuang Wang et.al.|[2404.08625v1](http://arxiv.org/abs/2404.08625v1)|[2404.08625v1](http://arxiv.org/pdf/2404.08625v1)|null|
+|**2024-04-12**|**Jupiter Co-Orbital Comet P/2023 V6 (PANSTARRS): Orbital History and Modern Activity State**|Theodore Kareta et.al.|[2404.08618v1](http://arxiv.org/abs/2404.08618v1)|[2404.08618v1](http://arxiv.org/pdf/2404.08618v1)|null|
+|**2024-04-12**|**Exploring the borderline between stable mass transfer and mergers in close binary evolution**|Christoph Schürmann et.al.|[2404.08615v1](http://arxiv.org/abs/2404.08615v1)|[2404.08615v1](http://arxiv.org/pdf/2404.08615v1)|null|
+|**2024-04-12**|**Analytic approximations for massive close post-mass transfer binary systems**|Christoph Schürmann et.al.|[2404.08612v1](http://arxiv.org/abs/2404.08612v1)|[2404.08612v1](http://arxiv.org/pdf/2404.08612v1)|null|
+|**2024-04-12**|**Absolute dimensions of solar-type eclipsing binaries. NY Hya: A test for magnetic stellar evolution models**|T. C. Hinse et.al.|[2404.08594v1](http://arxiv.org/abs/2404.08594v1)|[2404.08594v1](http://arxiv.org/pdf/2404.08594v1)|null|
+|**2024-04-12**|**A Radical Solution to the Hubble Tension Problem**|Timothy Clifton et.al.|[2404.08586v1](http://arxiv.org/abs/2404.08586v1)|[2404.08586v1](http://arxiv.org/pdf/2404.08586v1)|null|
+|**2024-04-12**|**Fast Waveform Generation for Gravitational Waves using Evolutionary Algorithms**|Quirijn Meijer et.al.|[2404.08576v1](http://arxiv.org/abs/2404.08576v1)|[2404.08576v1](http://arxiv.org/pdf/2404.08576v1)|null|
+|**2024-04-12**|**Cosmic variance of the Hellings and Downs correlation for ensembles of universes having non-zero angular power spectra**|Deepali Agarwal et.al.|[2404.08574v1](http://arxiv.org/abs/2404.08574v1)|[2404.08574v1](http://arxiv.org/pdf/2404.08574v1)|null|
+|**2024-04-12**|**A Coordinate-Independent Formalism for Detecting High-Frequency Gravitational Waves**|Wolfram Ratzinger et.al.|[2404.08572v1](http://arxiv.org/abs/2404.08572v1)|[2404.08572v1](http://arxiv.org/pdf/2404.08572v1)|null|
 |**2024-04-11**|**Astrophysics and Nuclear Physics Informed Interactions in Dense Matter: Insights from PSR J0437-4715**|Tuhin Malik et.al.|[2404.07936v1](http://arxiv.org/abs/2404.07936v1)|[2404.07936v1](http://arxiv.org/pdf/2404.07936v1)|null|
 |**2024-04-11**|**The expected kinematic matter dipole is robust against source evolution**|Sebastian von Hausegger et.al.|[2404.07929v1](http://arxiv.org/abs/2404.07929v1)|[2404.07929v1](http://arxiv.org/pdf/2404.07929v1)|null|
 |**2024-04-11**|**The effects of stellar feedback on molecular clumps in the Lagoon Nebula (M8)**|K. Angelique Kahle et.al.|[2404.07920v1](http://arxiv.org/abs/2404.07920v1)|[2404.07920v1](http://arxiv.org/pdf/2404.07920v1)|null|
@@ -4527,6 +4537,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634v1](http://arxiv.org/abs/2404.08634v1)|[2404.08634v1](http://arxiv.org/pdf/2404.08634v1)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
+|**2024-04-12**|**A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process**|Leif Azzopardi et.al.|[2404.08630v1](http://arxiv.org/abs/2404.08630v1)|[2404.08630v1](http://arxiv.org/pdf/2404.08630v1)|null|
+|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627v1](http://arxiv.org/abs/2404.08627v1)|[2404.08627v1](http://arxiv.org/pdf/2404.08627v1)|null|
+|**2024-04-12**|**Using Explainable AI and Transfer Learning to understand and predict the maintenance of Atlantic blocking with limited observational data**|Huan Zhang et.al.|[2404.08613v1](http://arxiv.org/abs/2404.08613v1)|[2404.08613v1](http://arxiv.org/pdf/2404.08613v1)|null|
+|**2024-04-12**|**Automatic Quantification of Serial PET/CT Images for Pediatric Hodgkin Lymphoma Patients Using a Longitudinally-Aware Segmentation Network**|Xin Tie et.al.|[2404.08611v1](http://arxiv.org/abs/2404.08611v1)|[2404.08611v1](http://arxiv.org/pdf/2404.08611v1)|**[link](https://github.com/xtie97/las-net)**|
+|**2024-04-12**|**Improving Referring Image Segmentation using Vision-Aware Text Features**|Hai Nguyen-Truong et.al.|[2404.08590v1](http://arxiv.org/abs/2404.08590v1)|[2404.08590v1](http://arxiv.org/pdf/2404.08590v1)|null|
+|**2024-04-12**|**Enhancing Visual Question Answering through Question-Driven Image Captions as Prompts**|Övgü Özdemir et.al.|[2404.08589v1](http://arxiv.org/abs/2404.08589v1)|[2404.08589v1](http://arxiv.org/pdf/2404.08589v1)|**[link](https://github.com/ovguyo/captions-in-vqa)**|
+|**2024-04-12**|**Advanced wood species identification based on multiple anatomical sections and using deep feature transfer and fusion**|Kallil M. Zielinski et.al.|[2404.08585v1](http://arxiv.org/abs/2404.08585v1)|[2404.08585v1](http://arxiv.org/pdf/2404.08585v1)|null|
+|**2024-04-12**|**FashionFail: Addressing Failure Cases in Fashion Object Detection and Segmentation**|Riza Velioglu et.al.|[2404.08582v1](http://arxiv.org/abs/2404.08582v1)|[2404.08582v1](http://arxiv.org/pdf/2404.08582v1)|null|
+|**2024-04-12**|**Small Models Are (Still) Effective Cross-Domain Argument Extractors**|William Gantt et.al.|[2404.08579v1](http://arxiv.org/abs/2404.08579v1)|[2404.08579v1](http://arxiv.org/pdf/2404.08579v1)|null|
 |**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990v1](http://arxiv.org/abs/2404.07990v1)|[2404.07990v1](http://arxiv.org/pdf/2404.07990v1)|null|
 |**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989v1](http://arxiv.org/abs/2404.07989v1)|[2404.07989v1](http://arxiv.org/pdf/2404.07989v1)|**[link](https://github.com/ivan-tang-3d/any2point)**|
 |**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987v1](http://arxiv.org/abs/2404.07987v1)|[2404.07987v1](http://arxiv.org/pdf/2404.07987v1)|null|
