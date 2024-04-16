@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-15**|**Revisiting the barometric equation and the extent of a planetary atmosphere**|Marcos Grimsditch et.al.|[2404.09700v1](http://arxiv.org/abs/2404.09700v1)|[2404.09700v1](http://arxiv.org/pdf/2404.09700v1)|null|
+|**2024-04-15**|**Multiwavelength Modeling for the Shallow Decay Phase of Gamma-Ray Burst Afterglows**|Katsuaki Asano et.al.|[2404.09675v1](http://arxiv.org/abs/2404.09675v1)|[2404.09675v1](http://arxiv.org/pdf/2404.09675v1)|null|
+|**2024-04-15**|**Astrochemistry of the molecular gas in Dusty Star-Forming Galaxies at the Cosmic Noon**|Francesca Perrotta et.al.|[2404.09673v1](http://arxiv.org/abs/2404.09673v1)|[2404.09673v1](http://arxiv.org/pdf/2404.09673v1)|null|
+|**2024-04-15**|**Millimeter-wave CO and SiO Observations toward the Broad-velocity-width Molecular Feature CO 16.134-0.553: a Smith cloud scenario?**|Hiroki Yokozuka et.al.|[2404.09670v1](http://arxiv.org/abs/2404.09670v1)|[2404.09670v1](http://arxiv.org/pdf/2404.09670v1)|null|
+|**2024-04-15**|**Exploring field-evolution and dynamical-capture coalescing binary black holes in GWTC-3**|Yin-Jie Li et.al.|[2404.09668v1](http://arxiv.org/abs/2404.09668v1)|[2404.09668v1](http://arxiv.org/pdf/2404.09668v1)|null|
+|**2024-04-15**|**Cluster analysis of the Roma-BZCAT blazars**|D. O. Kudryavtsev et.al.|[2404.09667v1](http://arxiv.org/abs/2404.09667v1)|[2404.09667v1](http://arxiv.org/pdf/2404.09667v1)|null|
+|**2024-04-15**|**Physical properties of strong 1 < z < 3 Balmer and Paschen lines emitters observed with JWST**|L. -M. Seillé et.al.|[2404.09659v1](http://arxiv.org/abs/2404.09659v1)|[2404.09659v1](http://arxiv.org/pdf/2404.09659v1)|null|
+|**2024-04-15**|**Spectro-polarimetric study of a newly discovered Galactic transient Swift J151857.0-572147 using IXPE and NuSTAR observations**|Santanu Mondal et.al.|[2404.09643v1](http://arxiv.org/abs/2404.09643v1)|[2404.09643v1](http://arxiv.org/pdf/2404.09643v1)|null|
+|**2024-04-15**|**Hot Jupiter Diversity and the Onset of TiO/VO Revealed by a Large Grid of Non-Grey Global Circulation Models**|Alexander Roth et.al.|[2404.09626v1](http://arxiv.org/abs/2404.09626v1)|[2404.09626v1](http://arxiv.org/pdf/2404.09626v1)|null|
+|**2024-04-15**|**The "C": The large Chameleon-Musca-Coalsack cloud**|Gordian Edenhofer et.al.|[2404.09592v1](http://arxiv.org/abs/2404.09592v1)|[2404.09592v1](http://arxiv.org/pdf/2404.09592v1)|null|
 |**2024-04-12**|**Does DESI 2024 Confirm $Λ$CDM?**|Eoin Ó Colgáin et.al.|[2404.08633v1](http://arxiv.org/abs/2404.08633v1)|[2404.08633v1](http://arxiv.org/pdf/2404.08633v1)|null|
 |**2024-04-12**|**The role of stochastic Fermi-type particle acceleration in the inner jets of Active Galactic Nuclei**|Jieshuang Wang et.al.|[2404.08625v1](http://arxiv.org/abs/2404.08625v1)|[2404.08625v1](http://arxiv.org/pdf/2404.08625v1)|null|
 |**2024-04-12**|**Jupiter Co-Orbital Comet P/2023 V6 (PANSTARRS): Orbital History and Modern Activity State**|Theodore Kareta et.al.|[2404.08618v1](http://arxiv.org/abs/2404.08618v1)|[2404.08618v1](http://arxiv.org/pdf/2404.08618v1)|null|
@@ -4541,6 +4551,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-15**|**Can We Break Free from Strong Data Augmentations in Self-Supervised Learning?**|Shruthi Gowda et.al.|[2404.09752v1](http://arxiv.org/abs/2404.09752v1)|[2404.09752v1](http://arxiv.org/pdf/2404.09752v1)|null|
+|**2024-04-15**|**AMPCliff: quantitative definition and benchmarking of activity cliffs in antimicrobial peptides**|Kewei Li et.al.|[2404.09738v1](http://arxiv.org/abs/2404.09738v1)|[2404.09738v1](http://arxiv.org/pdf/2404.09738v1)|**[link](https://github.com/kewei2023/ampcliff-generation)**|
+|**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722v1](http://arxiv.org/abs/2404.09722v1)|[2404.09722v1](http://arxiv.org/pdf/2404.09722v1)|null|
+|**2024-04-15**|**Unveiling Imitation Learning: Exploring the Impact of Data Falsity to Large Language Model**|Hyunsoo Cho et.al.|[2404.09717v1](http://arxiv.org/abs/2404.09717v1)|[2404.09717v1](http://arxiv.org/pdf/2404.09717v1)|null|
+|**2024-04-15**|**Higher Replay Ratio Empowers Sample-Efficient Multi-Agent Reinforcement Learning**|Linjie Xu et.al.|[2404.09715v1](http://arxiv.org/abs/2404.09715v1)|[2404.09715v1](http://arxiv.org/pdf/2404.09715v1)|null|
+|**2024-04-15**|**Adaptive Patching for High-resolution Image Segmentation with Transformers**|Enzhi Zhang et.al.|[2404.09707v1](http://arxiv.org/abs/2404.09707v1)|[2404.09707v1](http://arxiv.org/pdf/2404.09707v1)|null|
+|**2024-04-15**|**Generative AI for Game Theory-based Mobile Networking**|Long He et.al.|[2404.09699v1](http://arxiv.org/abs/2404.09699v1)|[2404.09699v1](http://arxiv.org/pdf/2404.09699v1)|null|
+|**2024-04-15**|**Are Large Language Models Reliable Argument Quality Annotators?**|Nailia Mirzakhmedova et.al.|[2404.09696v1](http://arxiv.org/abs/2404.09696v1)|[2404.09696v1](http://arxiv.org/pdf/2404.09696v1)|null|
+|**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695v1](http://arxiv.org/abs/2404.09695v1)|[2404.09695v1](http://arxiv.org/pdf/2404.09695v1)|null|
+|**2024-04-15**|**Harnessing GPT-4V(ision) for Insurance: A Preliminary Exploration**|Chenwei Lin et.al.|[2404.09690v1](http://arxiv.org/abs/2404.09690v1)|[2404.09690v1](http://arxiv.org/pdf/2404.09690v1)|null|
 |**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634v1](http://arxiv.org/abs/2404.08634v1)|[2404.08634v1](http://arxiv.org/pdf/2404.08634v1)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
 |**2024-04-12**|**A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process**|Leif Azzopardi et.al.|[2404.08630v1](http://arxiv.org/abs/2404.08630v1)|[2404.08630v1](http://arxiv.org/pdf/2404.08630v1)|null|
 |**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627v1](http://arxiv.org/abs/2404.08627v1)|[2404.08627v1](http://arxiv.org/pdf/2404.08627v1)|null|
