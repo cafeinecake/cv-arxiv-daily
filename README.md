@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-16**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773v1](http://arxiv.org/abs/2404.10773v1)|[2404.10773v1](http://arxiv.org/pdf/2404.10773v1)|null|
+|**2024-04-16**|**Unveiling the Cosmic Gems Arc at $z\sim10.2$ with JWST**|Larry D. Bradley et.al.|[2404.10770v1](http://arxiv.org/abs/2404.10770v1)|[2404.10770v1](http://arxiv.org/pdf/2404.10770v1)|null|
+|**2024-04-16**|**H-alpha emission and HII regions at the locations of recent supernovae in nearby galaxies**|Ness Mayker Chen et.al.|[2404.10762v1](http://arxiv.org/abs/2404.10762v1)|[2404.10762v1](http://arxiv.org/pdf/2404.10762v1)|null|
+|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757v1](http://arxiv.org/abs/2404.10757v1)|[2404.10757v1](http://arxiv.org/pdf/2404.10757v1)|null|
+|**2024-04-16**|**A Young Super Star Cluster Powering a Nebula of Retained Massive Star Ejecta**|Massimo Pascale et.al.|[2404.10755v1](http://arxiv.org/abs/2404.10755v1)|[2404.10755v1](http://arxiv.org/pdf/2404.10755v1)|null|
+|**2024-04-16**|**EPOCHS III: Unbiased UV continuum slopes at 6.5<z<13 from combined PEARLS GTO and public JWST NIRCam imaging**|Duncan Austin et.al.|[2404.10751v1](http://arxiv.org/abs/2404.10751v1)|[2404.10751v1](http://arxiv.org/pdf/2404.10751v1)|null|
+|**2024-04-16**|**Superradiant instability of area quantized Kerr black hole with discrete reflectivity**|Zhong-Hao Luo et.al.|[2404.10742v1](http://arxiv.org/abs/2404.10742v1)|[2404.10742v1](http://arxiv.org/pdf/2404.10742v1)|null|
+|**2024-04-16**|**Maser Flares Driven by Isothermal Shock Waves**|M. D. Gray et.al.|[2404.10741v1](http://arxiv.org/abs/2404.10741v1)|[2404.10741v1](http://arxiv.org/pdf/2404.10741v1)|null|
+|**2024-04-16**|**Evidence of Pop~III stars' chemical signature in neutral gas at $z\sim6$. A study based on the E-XQR-30 spectroscopic sample**|Alessio Sodini et.al.|[2404.10722v1](http://arxiv.org/abs/2404.10722v1)|[2404.10722v1](http://arxiv.org/pdf/2404.10722v1)|null|
+|**2024-04-16**|**Dependence of spicule properties on magnetic field - results from Magnetohydrodynamics simulations**|Kartav Kesri et.al.|[2404.10720v1](http://arxiv.org/abs/2404.10720v1)|[2404.10720v1](http://arxiv.org/pdf/2404.10720v1)|null|
 |**2024-04-15**|**Revisiting the barometric equation and the extent of a planetary atmosphere**|Marcos Grimsditch et.al.|[2404.09700v1](http://arxiv.org/abs/2404.09700v1)|[2404.09700v1](http://arxiv.org/pdf/2404.09700v1)|null|
 |**2024-04-15**|**Multiwavelength Modeling for the Shallow Decay Phase of Gamma-Ray Burst Afterglows**|Katsuaki Asano et.al.|[2404.09675v1](http://arxiv.org/abs/2404.09675v1)|[2404.09675v1](http://arxiv.org/pdf/2404.09675v1)|null|
 |**2024-04-15**|**Astrochemistry of the molecular gas in Dusty Star-Forming Galaxies at the Cosmic Noon**|Francesca Perrotta et.al.|[2404.09673v1](http://arxiv.org/abs/2404.09673v1)|[2404.09673v1](http://arxiv.org/pdf/2404.09673v1)|null|
@@ -4547,6 +4557,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775v1](http://arxiv.org/abs/2404.10775v1)|[2404.10775v1](http://arxiv.org/pdf/2404.10775v1)|null|
+|**2024-04-16**|**MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents**|Liyan Tang et.al.|[2404.10774v1](http://arxiv.org/abs/2404.10774v1)|[2404.10774v1](http://arxiv.org/pdf/2404.10774v1)|**[link](https://github.com/liyan06/minicheck)**|
+|**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763v1](http://arxiv.org/abs/2404.10763v1)|[2404.10763v1](http://arxiv.org/pdf/2404.10763v1)|**[link](https://github.com/wangyuchi369/ladic)**|
+|**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740v1](http://arxiv.org/abs/2404.10740v1)|[2404.10740v1](http://arxiv.org/pdf/2404.10740v1)|null|
+|**2024-04-16**|**Bootstrapping Linear Models for Fast Online Adaptation in Human-Agent Collaboration**|Benjamin A Newman et.al.|[2404.10733v1](http://arxiv.org/abs/2404.10733v1)|[2404.10733v1](http://arxiv.org/pdf/2404.10733v1)|null|
+|**2024-04-16**|**What is Meant by AGI? On the Definition of Artificial General Intelligence**|Bowen Xu et.al.|[2404.10731v1](http://arxiv.org/abs/2404.10731v1)|[2404.10731v1](http://arxiv.org/pdf/2404.10731v1)|null|
+|**2024-04-16**|**Insight Gained from Migrating a Machine Learning Model to Intelligence Processing Units**|Hieu Le et.al.|[2404.10730v1](http://arxiv.org/abs/2404.10730v1)|[2404.10730v1](http://arxiv.org/pdf/2404.10730v1)|null|
+|**2024-04-16**|**Mixed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation**|Lijian Li et.al.|[2404.10717v1](http://arxiv.org/abs/2404.10717v1)|[2404.10717v1](http://arxiv.org/pdf/2404.10717v1)|null|
+|**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704v1](http://arxiv.org/abs/2404.10704v1)|[2404.10704v1](http://arxiv.org/pdf/2404.10704v1)|null|
+|**2024-04-16**|**Simplex Decomposition for Portfolio Allocation Constraints in Reinforcement Learning**|David Winkel et.al.|[2404.10683v1](http://arxiv.org/abs/2404.10683v1)|[2404.10683v1](http://arxiv.org/pdf/2404.10683v1)|null|
 |**2024-04-15**|**Can We Break Free from Strong Data Augmentations in Self-Supervised Learning?**|Shruthi Gowda et.al.|[2404.09752v1](http://arxiv.org/abs/2404.09752v1)|[2404.09752v1](http://arxiv.org/pdf/2404.09752v1)|null|
 |**2024-04-15**|**AMPCliff: quantitative definition and benchmarking of activity cliffs in antimicrobial peptides**|Kewei Li et.al.|[2404.09738v1](http://arxiv.org/abs/2404.09738v1)|[2404.09738v1](http://arxiv.org/pdf/2404.09738v1)|**[link](https://github.com/kewei2023/ampcliff-generation)**|
 |**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722v1](http://arxiv.org/abs/2404.09722v1)|[2404.09722v1](http://arxiv.org/pdf/2404.09722v1)|null|
