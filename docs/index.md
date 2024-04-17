@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 
 ## Astrophysics
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-04-15**|**Millimeter-wave CO and SiO Observations toward the Broad-velocity-width Molecular Feature CO 16.134-0.553: a Smith cloud scenario?**|Hiroki Yokozuka et.al.|[2404.09670v1](http://arxiv.org/abs/2404.09670v1)|[2404.09670v1](http://arxiv.org/pdf/2404.09670v1)|null|
 |**2024-04-15**|**Exploring field-evolution and dynamical-capture coalescing binary black holes in GWTC-3**|Yin-Jie Li et.al.|[2404.09668v1](http://arxiv.org/abs/2404.09668v1)|[2404.09668v1](http://arxiv.org/pdf/2404.09668v1)|null|
 |**2024-04-15**|**Cluster analysis of the Roma-BZCAT blazars**|D. O. Kudryavtsev et.al.|[2404.09667v1](http://arxiv.org/abs/2404.09667v1)|[2404.09667v1](http://arxiv.org/pdf/2404.09667v1)|null|
-|**2024-04-15**|**Physical properties of strong 1 < z < 3 Balmer and Paschen lines emitters observed with JWST**|L. -M. Seillé et.al.|[2404.09659v1](http://arxiv.org/abs/2404.09659v1)|[2404.09659v1](http://arxiv.org/pdf/2404.09659v1)|null|
+|**2024-04-16**|**Physical properties of strong 1 < z < 3 Balmer and Paschen lines emitters observed with JWST**|L. -M. Seillé et.al.|[2404.09659v2](http://arxiv.org/abs/2404.09659v2)|[2404.09659v2](http://arxiv.org/pdf/2404.09659v2)|null|
 |**2024-04-15**|**Spectro-polarimetric study of a newly discovered Galactic transient Swift J151857.0-572147 using IXPE and NuSTAR observations**|Santanu Mondal et.al.|[2404.09643v1](http://arxiv.org/abs/2404.09643v1)|[2404.09643v1](http://arxiv.org/pdf/2404.09643v1)|null|
 |**2024-04-15**|**Hot Jupiter Diversity and the Onset of TiO/VO Revealed by a Large Grid of Non-Grey Global Circulation Models**|Alexander Roth et.al.|[2404.09626v1](http://arxiv.org/abs/2404.09626v1)|[2404.09626v1](http://arxiv.org/pdf/2404.09626v1)|null|
 |**2024-04-15**|**The "C": The large Chameleon-Musca-Coalsack cloud**|Gordian Edenhofer et.al.|[2404.09592v1](http://arxiv.org/abs/2404.09592v1)|[2404.09592v1](http://arxiv.org/pdf/2404.09592v1)|null|
