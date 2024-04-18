@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-17**|**Biosignatures from pre-oxygen photosynthesising life on TRAPPIST-1e**|Jake K. Eager-Nash et.al.|[2404.11611v1](http://arxiv.org/abs/2404.11611v1)|[2404.11611v1](http://arxiv.org/pdf/2404.11611v1)|null|
+|**2024-04-17**|**Unlocking New Physics with Joint Power Spectrum and Voxel Intensity Distribution Forecasts in Line-Intensity Mapping**|Vivian I. Sabla et.al.|[2404.11609v1](http://arxiv.org/abs/2404.11609v1)|[2404.11609v1](http://arxiv.org/pdf/2404.11609v1)|null|
+|**2024-04-17**|**The 33 M$_\odot$ black hole Gaia BH3 is part of the disrupted ED-2 star cluster**|E. Balbinot et.al.|[2404.11604v1](http://arxiv.org/abs/2404.11604v1)|[2404.11604v1](http://arxiv.org/pdf/2404.11604v1)|null|
+|**2024-04-17**|**Gravitational waves from sub-solar mass primordial black holes**|Andrew L. Miller et.al.|[2404.11601v1](http://arxiv.org/abs/2404.11601v1)|[2404.11601v1](http://arxiv.org/pdf/2404.11601v1)|null|
+|**2024-04-17**|**Generation of Low-Inclination, Neptune-Crossing TNOs by Planet Nine**|Konstantin Batygin et.al.|[2404.11594v1](http://arxiv.org/abs/2404.11594v1)|[2404.11594v1](http://arxiv.org/pdf/2404.11594v1)|null|
+|**2024-04-17**|**Ring momentum distributions as a general feature of Vlasov dynamics in the synchrotron dominated regime**|Pablo. J. Bilbao et.al.|[2404.11586v1](http://arxiv.org/abs/2404.11586v1)|[2404.11586v1](http://arxiv.org/pdf/2404.11586v1)|null|
+|**2024-04-17**|**Quasinormal Modes in Modified Gravity using Physics-Informed Neural Networks**|Raimon Luna et.al.|[2404.11583v1](http://arxiv.org/abs/2404.11583v1)|[2404.11583v1](http://arxiv.org/pdf/2404.11583v1)|null|
+|**2024-04-17**|**The Low-Mass Stellar Initial Mass Function in Nearby Ultra-Faint Dwarf Galaxies**|Carrie Filion et.al.|[2404.11571v1](http://arxiv.org/abs/2404.11571v1)|[2404.11571v1](http://arxiv.org/pdf/2404.11571v1)|null|
+|**2024-04-17**|**Extreme-value modelling of the brightest galaxies at $z\gtrsim9$**|Cameron Heather et.al.|[2404.11567v1](http://arxiv.org/abs/2404.11567v1)|[2404.11567v1](http://arxiv.org/pdf/2404.11567v1)|null|
+|**2024-04-17**|**The Reliability of Type Ia Supernovae Delay Time Distributions Recovered from Galaxy Star Formation Histories**|Bhavin A. Joshi et.al.|[2404.11555v1](http://arxiv.org/abs/2404.11555v1)|[2404.11555v1](http://arxiv.org/pdf/2404.11555v1)|null|
 |**2024-04-16**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773v1](http://arxiv.org/abs/2404.10773v1)|[2404.10773v1](http://arxiv.org/pdf/2404.10773v1)|null|
 |**2024-04-16**|**Unveiling the Cosmic Gems Arc at $z\sim10.2$ with JWST**|Larry D. Bradley et.al.|[2404.10770v1](http://arxiv.org/abs/2404.10770v1)|[2404.10770v1](http://arxiv.org/pdf/2404.10770v1)|null|
 |**2024-04-16**|**H-alpha emission and HII regions at the locations of recent supernovae in nearby galaxies**|Ness Mayker Chen et.al.|[2404.10762v1](http://arxiv.org/abs/2404.10762v1)|[2404.10762v1](http://arxiv.org/pdf/2404.10762v1)|null|
@@ -4561,6 +4571,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606v1](http://arxiv.org/abs/2404.11606v1)|[2404.11606v1](http://arxiv.org/pdf/2404.11606v1)|null|
+|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605v1](http://arxiv.org/abs/2404.11605v1)|[2404.11605v1](http://arxiv.org/pdf/2404.11605v1)|**[link](https://github.com/shark0-0/vg4d)**|
+|**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597v1](http://arxiv.org/abs/2404.11597v1)|[2404.11597v1](http://arxiv.org/pdf/2404.11597v1)|null|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589v1](http://arxiv.org/abs/2404.11589v1)|[2404.11589v1](http://arxiv.org/pdf/2404.11589v1)|null|
+|**2024-04-17**|**Spatial Context-based Self-Supervised Learning for Handwritten Text Recognition**|Carlos Penarrubia et.al.|[2404.11585v1](http://arxiv.org/abs/2404.11585v1)|[2404.11585v1](http://arxiv.org/pdf/2404.11585v1)|null|
+|**2024-04-17**|**The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey**|Tula Masterman et.al.|[2404.11584v1](http://arxiv.org/abs/2404.11584v1)|[2404.11584v1](http://arxiv.org/pdf/2404.11584v1)|null|
+|**2024-04-17**|**LLMTune: Accelerate Database Knob Tuning with Large Language Models**|Xinmei Huang et.al.|[2404.11581v1](http://arxiv.org/abs/2404.11581v1)|[2404.11581v1](http://arxiv.org/pdf/2404.11581v1)|null|
+|**2024-04-17**|**Deep Policy Optimization with Temporal Logic Constraints**|Ameesh Shah et.al.|[2404.11578v1](http://arxiv.org/abs/2404.11578v1)|[2404.11578v1](http://arxiv.org/pdf/2404.11578v1)|null|
+|**2024-04-17**|**Towards Reliable Empirical Machine Unlearning Evaluation: A Game-Theoretic View**|Yiwen Tu et.al.|[2404.11577v1](http://arxiv.org/abs/2404.11577v1)|[2404.11577v1](http://arxiv.org/pdf/2404.11577v1)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565v1](http://arxiv.org/abs/2404.11565v1)|[2404.11565v1](http://arxiv.org/pdf/2404.11565v1)|null|
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775v1](http://arxiv.org/abs/2404.10775v1)|[2404.10775v1](http://arxiv.org/pdf/2404.10775v1)|null|
 |**2024-04-16**|**MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents**|Liyan Tang et.al.|[2404.10774v1](http://arxiv.org/abs/2404.10774v1)|[2404.10774v1](http://arxiv.org/pdf/2404.10774v1)|**[link](https://github.com/liyan06/minicheck)**|
 |**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763v1](http://arxiv.org/abs/2404.10763v1)|[2404.10763v1](http://arxiv.org/pdf/2404.10763v1)|**[link](https://github.com/wangyuchi369/ladic)**|
