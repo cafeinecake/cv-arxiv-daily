@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-18**|**Sound speed as a source of the gravitational field in modified gravity**|P. P. Avelino et.al.|[2404.12373v1](http://arxiv.org/abs/2404.12373v1)|[2404.12373v1](http://arxiv.org/pdf/2404.12373v1)|null|
+|**2024-04-18**|**CRIRES$^+$ transmission spectroscopy of WASP-127b. Detection of the resolved signatures of a supersonic equatorial jet and cool poles in a hot planet**|L. Nortmann et.al.|[2404.12363v1](http://arxiv.org/abs/2404.12363v1)|[2404.12363v1](http://arxiv.org/pdf/2404.12363v1)|null|
+|**2024-04-18**|**A link to the past: characterizing wandering black holes in Milky Way-type galaxies**|Julen Untzaga et.al.|[2404.12354v1](http://arxiv.org/abs/2404.12354v1)|[2404.12354v1](http://arxiv.org/pdf/2404.12354v1)|null|
+|**2024-04-18**|**Gravitational wave luminosity distance-weighted anisotropies**|A. Begnoni et.al.|[2404.12351v1](http://arxiv.org/abs/2404.12351v1)|[2404.12351v1](http://arxiv.org/pdf/2404.12351v1)|null|
+|**2024-04-18**|**Radio Observations as an Extrasolar Planet Discovery and Characterization: Interior Structure and Habitability**|T. Joseph W. Lazio et.al.|[2404.12348v1](http://arxiv.org/abs/2404.12348v1)|[2404.12348v1](http://arxiv.org/pdf/2404.12348v1)|null|
+|**2024-04-18**|**Modeling nonlinear scales with COLA: preparing for LSST-Y1**|Jonathan Gordon et.al.|[2404.12344v1](http://arxiv.org/abs/2404.12344v1)|[2404.12344v1](http://arxiv.org/pdf/2404.12344v1)|null|
+|**2024-04-18**|**Gemini Near Infrared Spectrograph -- Distant Quasar Survey: Rest-Frame Ultraviolet-Optical Spectral Properties of Broad Absorption Line Quasars**|Harum Ahmed et.al.|[2404.12343v1](http://arxiv.org/abs/2404.12343v1)|[2404.12343v1](http://arxiv.org/pdf/2404.12343v1)|null|
+|**2024-04-18**|**On the roles of stellar rotation and binarity in NGC 2423's main-sequence turnoff region**|Yutian Bu et.al.|[2404.12331v1](http://arxiv.org/abs/2404.12331v1)|[2404.12331v1](http://arxiv.org/pdf/2404.12331v1)|null|
+|**2024-04-18**|**A Multiwavelength Survey of Nearby M dwarfs: Optical and Near-Ultraviolet Flares and Activity with Contemporaneous TESS, Kepler/K2, \textit{Swift}, and HST Observations**|Rishi R. Paudel et.al.|[2404.12310v1](http://arxiv.org/abs/2404.12310v1)|[2404.12310v1](http://arxiv.org/pdf/2404.12310v1)|null|
+|**2024-04-18**|**floZ: Evidence estimation from posterior samples with normalizing flows**|Rahul Srinivasan et.al.|[2404.12294v1](http://arxiv.org/abs/2404.12294v1)|[2404.12294v1](http://arxiv.org/pdf/2404.12294v1)|null|
 |**2024-04-17**|**Biosignatures from pre-oxygen photosynthesising life on TRAPPIST-1e**|Jake K. Eager-Nash et.al.|[2404.11611v1](http://arxiv.org/abs/2404.11611v1)|[2404.11611v1](http://arxiv.org/pdf/2404.11611v1)|null|
 |**2024-04-17**|**Unlocking New Physics with Joint Power Spectrum and Voxel Intensity Distribution Forecasts in Line-Intensity Mapping**|Vivian I. Sabla et.al.|[2404.11609v1](http://arxiv.org/abs/2404.11609v1)|[2404.11609v1](http://arxiv.org/pdf/2404.11609v1)|null|
 |**2024-04-17**|**The 33 M$_\odot$ black hole Gaia BH3 is part of the disrupted ED-2 star cluster**|E. Balbinot et.al.|[2404.11604v1](http://arxiv.org/abs/2404.11604v1)|[2404.11604v1](http://arxiv.org/pdf/2404.11604v1)|null|
@@ -4571,6 +4581,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390v1](http://arxiv.org/abs/2404.12390v1)|[2404.12390v1](http://arxiv.org/pdf/2404.12390v1)|null|
+|**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382v1](http://arxiv.org/abs/2404.12382v1)|[2404.12382v1](http://arxiv.org/pdf/2404.12382v1)|null|
+|**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378v1](http://arxiv.org/abs/2404.12378v1)|[2404.12378v1](http://arxiv.org/pdf/2404.12378v1)|**[link](https://github.com/continental/6img-to-3d)**|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365v1](http://arxiv.org/abs/2404.12365v1)|[2404.12365v1](http://arxiv.org/pdf/2404.12365v1)|null|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361v1](http://arxiv.org/abs/2404.12361v1)|[2404.12361v1](http://arxiv.org/pdf/2404.12361v1)|null|
+|**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353v1](http://arxiv.org/abs/2404.12353v1)|[2404.12353v1](http://arxiv.org/pdf/2404.12353v1)|null|
+|**2024-04-18**|**Evaluating AI for Law: Bridging the Gap with Open-Source Solutions**|Rohan Bhambhoria et.al.|[2404.12349v1](http://arxiv.org/abs/2404.12349v1)|[2404.12349v1](http://arxiv.org/pdf/2404.12349v1)|null|
+|**2024-04-18**|**Generalizable Face Landmarking Guided by Conditional Face Warping**|Jiayi Liang et.al.|[2404.12322v1](http://arxiv.org/abs/2404.12322v1)|[2404.12322v1](http://arxiv.org/pdf/2404.12322v1)|null|
+|**2024-04-18**|**Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems**|Jiangbo Yu et.al.|[2404.12317v1](http://arxiv.org/abs/2404.12317v1)|[2404.12317v1](http://arxiv.org/pdf/2404.12317v1)|null|
+|**2024-04-18**|**Guided Discrete Diffusion for Electronic Health Record Generation**|Zixiang Chen et.al.|[2404.12314v1](http://arxiv.org/abs/2404.12314v1)|[2404.12314v1](http://arxiv.org/pdf/2404.12314v1)|null|
 |**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606v1](http://arxiv.org/abs/2404.11606v1)|[2404.11606v1](http://arxiv.org/pdf/2404.11606v1)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605v1](http://arxiv.org/abs/2404.11605v1)|[2404.11605v1](http://arxiv.org/pdf/2404.11605v1)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597v1](http://arxiv.org/abs/2404.11597v1)|[2404.11597v1](http://arxiv.org/pdf/2404.11597v1)|null|
