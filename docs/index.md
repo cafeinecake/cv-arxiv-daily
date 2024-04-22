@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-19**|**Formation of a $33\,M_{\odot}$ black hole in a low-metallicity binary**|Kareem El-Badry et.al.|[2404.13047v1](http://arxiv.org/abs/2404.13047v1)|[2404.13047v1](http://arxiv.org/pdf/2404.13047v1)|null|
+|**2024-04-19**|**NIRSpec View of the Appearance and Evolution of Balmer Breaks and the Transition from Bursty to Smooth Star Formation Histories from Deep Within the Epoch of Reionization to Cosmic Noon**|Danial Langeroodi et.al.|[2404.13045v1](http://arxiv.org/abs/2404.13045v1)|[2404.13045v1](http://arxiv.org/pdf/2404.13045v1)|null|
+|**2024-04-19**|**Comment on "Anomalous contribution to galactic rotation curves due to stochastic spacetime"**|Mark P. Hertzberg et.al.|[2404.13037v1](http://arxiv.org/abs/2404.13037v1)|[2404.13037v1](http://arxiv.org/pdf/2404.13037v1)|null|
+|**2024-04-19**|**Dynamical formation of Gaia BH3 in the progenitor globular cluster of the ED-2 stream**|Daniel Marín Pina et.al.|[2404.13036v1](http://arxiv.org/abs/2404.13036v1)|[2404.13036v1](http://arxiv.org/pdf/2404.13036v1)|null|
+|**2024-04-19**|**Embedded Domain Walls and Electroweak Baryogenesis**|Tobias Schröder et.al.|[2404.13035v1](http://arxiv.org/abs/2404.13035v1)|[2404.13035v1](http://arxiv.org/pdf/2404.13035v1)|null|
+|**2024-04-19**|**The James Webb Interferometer: Space-based interferometric detections of PDS 70 b and c at 4.8 $μ$m**|Dori Blakely et.al.|[2404.13032v1](http://arxiv.org/abs/2404.13032v1)|[2404.13032v1](http://arxiv.org/pdf/2404.13032v1)|null|
+|**2024-04-19**|**OGLE-2015-BLG-0845L: A low-mass M dwarf from the microlensing parallax and xallarap effects**|Zhecheng Hu et.al.|[2404.13031v1](http://arxiv.org/abs/2404.13031v1)|[2404.13031v1](http://arxiv.org/pdf/2404.13031v1)|null|
+|**2024-04-19**|**Cliff collapse on Comet 67P/Churyumov-Gerasimenko -- II. Imhotep and Hathor**|Björn J. R. Davidsson et.al.|[2404.13030v1](http://arxiv.org/abs/2404.13030v1)|[2404.13030v1](http://arxiv.org/pdf/2404.13030v1)|null|
+|**2024-04-19**|**Gravitational wave probes of Barrow cosmology with LISA standard sirens**|Mahnaz Asghari et.al.|[2404.13025v1](http://arxiv.org/abs/2404.13025v1)|[2404.13025v1](http://arxiv.org/pdf/2404.13025v1)|null|
+|**2024-04-19**|**A multigrain-multilayer astrochemical model with variable desorption energy for surface species**|Juris Kalvans et.al.|[2404.13011v1](http://arxiv.org/abs/2404.13011v1)|[2404.13011v1](http://arxiv.org/pdf/2404.13011v1)|null|
 |**2024-04-18**|**Sound speed as a source of the gravitational field in modified gravity**|P. P. Avelino et.al.|[2404.12373v1](http://arxiv.org/abs/2404.12373v1)|[2404.12373v1](http://arxiv.org/pdf/2404.12373v1)|null|
 |**2024-04-18**|**CRIRES$^+$ transmission spectroscopy of WASP-127b. Detection of the resolved signatures of a supersonic equatorial jet and cool poles in a hot planet**|L. Nortmann et.al.|[2404.12363v1](http://arxiv.org/abs/2404.12363v1)|[2404.12363v1](http://arxiv.org/pdf/2404.12363v1)|null|
 |**2024-04-18**|**A link to the past: characterizing wandering black holes in Milky Way-type galaxies**|Julen Untzaga et.al.|[2404.12354v1](http://arxiv.org/abs/2404.12354v1)|[2404.12354v1](http://arxiv.org/pdf/2404.12354v1)|null|
@@ -4581,6 +4591,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-19**|**Mapping Social Choice Theory to RLHF**|Jessica Dai et.al.|[2404.13038v1](http://arxiv.org/abs/2404.13038v1)|[2404.13038v1](http://arxiv.org/pdf/2404.13038v1)|null|
+|**2024-04-19**|**When Life gives you LLMs, make LLM-ADE: Large Language Models with Adaptive Data Engineering**|Stephen Choi et.al.|[2404.13028v1](http://arxiv.org/abs/2404.13028v1)|[2404.13028v1](http://arxiv.org/pdf/2404.13028v1)|null|
+|**2024-04-19**|**PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**|Tianyuan Zhang et.al.|[2404.13026v1](http://arxiv.org/abs/2404.13026v1)|[2404.13026v1](http://arxiv.org/pdf/2404.13026v1)|null|
+|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013v1](http://arxiv.org/abs/2404.13013v1)|[2404.13013v1](http://arxiv.org/pdf/2404.13013v1)|null|
+|**2024-04-19**|**FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data**|Yu Lei et.al.|[2404.13004v1](http://arxiv.org/abs/2404.13004v1)|[2404.13004v1](http://arxiv.org/pdf/2404.13004v1)|**[link](https://github.com/leiyu0210/finlangnet)**|
+|**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002v1](http://arxiv.org/abs/2404.13002v1)|[2404.13002v1](http://arxiv.org/pdf/2404.13002v1)|null|
+|**2024-04-19**|**Goal Exploration via Adaptive Skill Distribution for Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2404.12999v1](http://arxiv.org/abs/2404.12999v1)|[2404.12999v1](http://arxiv.org/pdf/2404.12999v1)|null|
+|**2024-04-19**|**Eye-tracking in Mixed Reality for Diagnosis of Neurodegenerative Diseases**|Mateusz Daniol et.al.|[2404.12984v1](http://arxiv.org/abs/2404.12984v1)|[2404.12984v1](http://arxiv.org/pdf/2404.12984v1)|null|
+|**2024-04-19**|**FineRec:Exploring Fine-grained Sequential Recommendation**|Xiaokun Zhang et.al.|[2404.12975v1](http://arxiv.org/abs/2404.12975v1)|[2404.12975v1](http://arxiv.org/pdf/2404.12975v1)|null|
+|**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969v1](http://arxiv.org/abs/2404.12969v1)|[2404.12969v1](http://arxiv.org/pdf/2404.12969v1)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390v1](http://arxiv.org/abs/2404.12390v1)|[2404.12390v1](http://arxiv.org/pdf/2404.12390v1)|null|
 |**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382v1](http://arxiv.org/abs/2404.12382v1)|[2404.12382v1](http://arxiv.org/pdf/2404.12382v1)|null|
 |**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378v1](http://arxiv.org/abs/2404.12378v1)|[2404.12378v1](http://arxiv.org/pdf/2404.12378v1)|**[link](https://github.com/continental/6img-to-3d)**|
