@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-22**|**A covariant formulation for cosmological radiative transfer of the 21-cm line**|Jennifer Y. H. Chan et.al.|[2404.14407v1](http://arxiv.org/abs/2404.14407v1)|[2404.14407v1](http://arxiv.org/pdf/2404.14407v1)|null|
+|**2024-04-22**|**Towards testing the general bounce cosmology with the CMB B-mode auto-bispectrum**|Shingo Akama et.al.|[2404.14393v1](http://arxiv.org/abs/2404.14393v1)|[2404.14393v1](http://arxiv.org/pdf/2404.14393v1)|null|
+|**2024-04-22**|**Observational characterisation of large-scale transport and horizontal turbulent diffusivity in the quiet Sun**|F. Rincon et.al.|[2404.14383v1](http://arxiv.org/abs/2404.14383v1)|[2404.14383v1](http://arxiv.org/pdf/2404.14383v1)|null|
+|**2024-04-22**|**Pipeline Provenance for Analysis, Evaluation, Trust or Reproducibility**|Michael A. C. Johnson et.al.|[2404.14378v1](http://arxiv.org/abs/2404.14378v1)|[2404.14378v1](http://arxiv.org/pdf/2404.14378v1)|null|
+|**2024-04-22**|**A Fresh Look into the Interaction of Exoplanets Magnetosphere with Stellar Winds using MHD Simulations**|Fatemeh Bagheri et.al.|[2404.14377v1](http://arxiv.org/abs/2404.14377v1)|[2404.14377v1](http://arxiv.org/pdf/2404.14377v1)|null|
+|**2024-04-22**|**On the incidence rate of RR Lyrae stars with non-radial modes**|H. Netzel et.al.|[2404.14373v1](http://arxiv.org/abs/2404.14373v1)|[2404.14373v1](http://arxiv.org/pdf/2404.14373v1)|null|
+|**2024-04-22**|**Infrared-Radio-follow-up Observations for Detection of the Magnetic Radio Emission of Extra-Solar Planets: A New Window to Detect Exoplanets**|Fatemeh Bagheri et.al.|[2404.14359v1](http://arxiv.org/abs/2404.14359v1)|[2404.14359v1](http://arxiv.org/pdf/2404.14359v1)|null|
+|**2024-04-22**|**Direct Comparison of SiPM and PMT Sensor Performances in a large-size imaging air Cherenkov telescope**|A. Hahn et.al.|[2404.14346v1](http://arxiv.org/abs/2404.14346v1)|[2404.14346v1](http://arxiv.org/pdf/2404.14346v1)|null|
+|**2024-04-22**|**Recommendations for Early Definition Science with the Nancy Grace Roman Space Telescope**|Robyn E. Sanderson et.al.|[2404.14342v1](http://arxiv.org/abs/2404.14342v1)|[2404.14342v1](http://arxiv.org/pdf/2404.14342v1)|null|
+|**2024-04-22**|**Quantifying Scalar Field Dynamics with DESI 2024 Y1 BAO measurements**|Kim V. Berghaus et.al.|[2404.14341v1](http://arxiv.org/abs/2404.14341v1)|[2404.14341v1](http://arxiv.org/pdf/2404.14341v1)|null|
 |**2024-04-19**|**Formation of a $33\,M_{\odot}$ black hole in a low-metallicity binary**|Kareem El-Badry et.al.|[2404.13047v1](http://arxiv.org/abs/2404.13047v1)|[2404.13047v1](http://arxiv.org/pdf/2404.13047v1)|null|
 |**2024-04-19**|**NIRSpec View of the Appearance and Evolution of Balmer Breaks and the Transition from Bursty to Smooth Star Formation Histories from Deep Within the Epoch of Reionization to Cosmic Noon**|Danial Langeroodi et.al.|[2404.13045v1](http://arxiv.org/abs/2404.13045v1)|[2404.13045v1](http://arxiv.org/pdf/2404.13045v1)|null|
 |**2024-04-19**|**Comment on "Anomalous contribution to galactic rotation curves due to stochastic spacetime"**|Mark P. Hertzberg et.al.|[2404.13037v1](http://arxiv.org/abs/2404.13037v1)|[2404.13037v1](http://arxiv.org/pdf/2404.13037v1)|null|
@@ -4587,6 +4597,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408v1](http://arxiv.org/abs/2404.14408v1)|[2404.14408v1](http://arxiv.org/pdf/2404.14408v1)|**[link](https://github.com/kjslag/spacebyte)**|
+|**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395v1](http://arxiv.org/abs/2404.14395v1)|[2404.14395v1](http://arxiv.org/pdf/2404.14395v1)|null|
+|**2024-04-22**|**A Multimodal Automated Interpretability Agent**|Tamar Rott Shaham et.al.|[2404.14394v1](http://arxiv.org/abs/2404.14394v1)|[2404.14394v1](http://arxiv.org/pdf/2404.14394v1)|null|
+|**2024-04-22**|**A Survey on Self-Evolution of Large Language Models**|Zhengwei Tao et.al.|[2404.14387v1](http://arxiv.org/abs/2404.14387v1)|[2404.14387v1](http://arxiv.org/pdf/2404.14387v1)|null|
+|**2024-04-22**|**Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph**|Xiaochen Kev Gao et.al.|[2404.14372v1](http://arxiv.org/abs/2404.14372v1)|[2404.14372v1](http://arxiv.org/pdf/2404.14372v1)|**[link](https://github.com/shangdatalab/flan-graph)**|
+|**2024-04-22**|**Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation**|Gábor Antal et.al.|[2404.14370v1](http://arxiv.org/abs/2404.14370v1)|[2404.14370v1](http://arxiv.org/pdf/2404.14370v1)|null|
+|**2024-04-22**|**Graphic Design with Large Multimodal Model**|Yutao Cheng et.al.|[2404.14368v1](http://arxiv.org/abs/2404.14368v1)|[2404.14368v1](http://arxiv.org/pdf/2404.14368v1)|**[link](https://github.com/graphic-design-ai/graphist)**|
+|**2024-04-22**|**Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**|Vishruth Veerendranath et.al.|[2404.14355v1](http://arxiv.org/abs/2404.14355v1)|[2404.14355v1](http://arxiv.org/pdf/2404.14355v1)|**[link](https://github.com/calc-cmu/pre-calc)**|
+|**2024-04-22**|**Automatic Discovery of Visual Circuits**|Achyuta Rajaram et.al.|[2404.14349v1](http://arxiv.org/abs/2404.14349v1)|[2404.14349v1](http://arxiv.org/pdf/2404.14349v1)|**[link](https://github.com/multimodal-interpretability/visual-circuits)**|
+|**2024-04-22**|**Full Event Particle-Level Unfolding with Variable-Length Latent Variational Diffusion**|Alexander Shmakov et.al.|[2404.14332v1](http://arxiv.org/abs/2404.14332v1)|[2404.14332v1](http://arxiv.org/pdf/2404.14332v1)|null|
 |**2024-04-19**|**Mapping Social Choice Theory to RLHF**|Jessica Dai et.al.|[2404.13038v1](http://arxiv.org/abs/2404.13038v1)|[2404.13038v1](http://arxiv.org/pdf/2404.13038v1)|null|
 |**2024-04-19**|**When Life gives you LLMs, make LLM-ADE: Large Language Models with Adaptive Data Engineering**|Stephen Choi et.al.|[2404.13028v1](http://arxiv.org/abs/2404.13028v1)|[2404.13028v1](http://arxiv.org/pdf/2404.13028v1)|null|
 |**2024-04-19**|**PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**|Tianyuan Zhang et.al.|[2404.13026v1](http://arxiv.org/abs/2404.13026v1)|[2404.13026v1](http://arxiv.org/pdf/2404.13026v1)|null|
