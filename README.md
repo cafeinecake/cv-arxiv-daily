@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-23**|**Interacting Dark Energy after DESI Baryon Acoustic Oscillation measurements**|William Giarè et.al.|[2404.15232v1](http://arxiv.org/abs/2404.15232v1)|[2404.15232v1](http://arxiv.org/pdf/2404.15232v1)|null|
+|**2024-04-23**|**Dark Radiation with Baryon Acoustic Oscillations from DESI 2024 and the $H_0$ tension**|Itamar J. Allali et.al.|[2404.15220v1](http://arxiv.org/abs/2404.15220v1)|[2404.15220v1](http://arxiv.org/pdf/2404.15220v1)|null|
+|**2024-04-23**|**The Sensitivity of NEO Surveyor to Low-Perihelion Asteroids**|Joseph R. Masiero et.al.|[2404.15195v1](http://arxiv.org/abs/2404.15195v1)|[2404.15195v1](http://arxiv.org/pdf/2404.15195v1)|null|
+|**2024-04-23**|**A Unified Treatment of Kepler Occurrence to Trace Planet Evolution II: The Radius Cliff Formed by Atmospheric Escape**|Anne Dattilo et.al.|[2404.15172v1](http://arxiv.org/abs/2404.15172v1)|[2404.15172v1](http://arxiv.org/pdf/2404.15172v1)|null|
+|**2024-04-23**|**Signature of Particle Diffusion on the X-ray Spectra of the blazar Mkn 421**|C. Baheeja et.al.|[2404.15171v1](http://arxiv.org/abs/2404.15171v1)|[2404.15171v1](http://arxiv.org/pdf/2404.15171v1)|null|
+|**2024-04-23**|**QCD topology and axion properties in an isotropic hot and dense medium**|Hong-Fang Gong et.al.|[2404.15136v1](http://arxiv.org/abs/2404.15136v1)|[2404.15136v1](http://arxiv.org/pdf/2404.15136v1)|null|
+|**2024-04-23**|**Life Cycle Assessment of the Athena X-ray Integral Field Unit**|Didier Barret et.al.|[2404.15122v1](http://arxiv.org/abs/2404.15122v1)|[2404.15122v1](http://arxiv.org/pdf/2404.15122v1)|null|
+|**2024-04-23**|**What can cosmic-ray knees reveal about source populations?**|Myrto Falalaki et.al.|[2404.15097v1](http://arxiv.org/abs/2404.15097v1)|[2404.15097v1](http://arxiv.org/pdf/2404.15097v1)|null|
+|**2024-04-23**|**Vanilla Inflation Predicts Negative Running**|Jerome Martin et.al.|[2404.15089v1](http://arxiv.org/abs/2404.15089v1)|[2404.15089v1](http://arxiv.org/pdf/2404.15089v1)|null|
+|**2024-04-23**|**Resolving Red Giant Winds with the Hubble Space Telescope**|Brian E. Wood et.al.|[2404.15086v1](http://arxiv.org/abs/2404.15086v1)|[2404.15086v1](http://arxiv.org/pdf/2404.15086v1)|null|
 |**2024-04-22**|**A covariant formulation for cosmological radiative transfer of the 21-cm line**|Jennifer Y. H. Chan et.al.|[2404.14407v1](http://arxiv.org/abs/2404.14407v1)|[2404.14407v1](http://arxiv.org/pdf/2404.14407v1)|null|
 |**2024-04-22**|**Towards testing the general bounce cosmology with the CMB B-mode auto-bispectrum**|Shingo Akama et.al.|[2404.14393v1](http://arxiv.org/abs/2404.14393v1)|[2404.14393v1](http://arxiv.org/pdf/2404.14393v1)|null|
 |**2024-04-22**|**Observational characterisation of large-scale transport and horizontal turbulent diffusivity in the quiet Sun**|F. Rincon et.al.|[2404.14383v1](http://arxiv.org/abs/2404.14383v1)|[2404.14383v1](http://arxiv.org/pdf/2404.14383v1)|null|
@@ -4597,6 +4607,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|[2404.15276v1](http://arxiv.org/pdf/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
+|**2024-04-23**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272v1](http://arxiv.org/abs/2404.15272v1)|[2404.15272v1](http://arxiv.org/pdf/2404.15272v1)|null|
+|**2024-04-23**|**Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models**|Wanrong Zhu et.al.|[2404.15271v1](http://arxiv.org/abs/2404.15271v1)|[2404.15271v1](http://arxiv.org/pdf/2404.15271v1)|null|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269v1](http://arxiv.org/abs/2404.15269v1)|[2404.15269v1](http://arxiv.org/pdf/2404.15269v1)|null|
+|**2024-04-23**|**TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation**|Junli Ren et.al.|[2404.15256v1](http://arxiv.org/abs/2404.15256v1)|[2404.15256v1](http://arxiv.org/pdf/2404.15256v1)|null|
+|**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247v1](http://arxiv.org/abs/2404.15247v1)|[2404.15247v1](http://arxiv.org/pdf/2404.15247v1)|**[link](https://github.com/ise-uiuc/xft)**|
+|**2024-04-23**|**CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**|Weiyan Shi et.al.|[2404.15238v1](http://arxiv.org/abs/2404.15238v1)|[2404.15238v1](http://arxiv.org/pdf/2404.15238v1)|**[link](https://github.com/salt-nlp/culturebank)**|
+|**2024-04-23**|**Massively Annotated Datasets for Assessment of Synthetic and Real Data in Face Recognition**|Pedro C. Neto et.al.|[2404.15234v1](http://arxiv.org/abs/2404.15234v1)|[2404.15234v1](http://arxiv.org/pdf/2404.15234v1)|null|
+|**2024-04-23**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231v1](http://arxiv.org/abs/2404.15231v1)|[2404.15231v1](http://arxiv.org/pdf/2404.15231v1)|null|
+|**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224v1](http://arxiv.org/abs/2404.15224v1)|[2404.15224v1](http://arxiv.org/pdf/2404.15224v1)|null|
 |**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408v1](http://arxiv.org/abs/2404.14408v1)|[2404.14408v1](http://arxiv.org/pdf/2404.14408v1)|**[link](https://github.com/kjslag/spacebyte)**|
 |**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395v1](http://arxiv.org/abs/2404.14395v1)|[2404.14395v1](http://arxiv.org/pdf/2404.14395v1)|null|
 |**2024-04-22**|**A Multimodal Automated Interpretability Agent**|Tamar Rott Shaham et.al.|[2404.14394v1](http://arxiv.org/abs/2404.14394v1)|[2404.14394v1](http://arxiv.org/pdf/2404.14394v1)|null|
