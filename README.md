@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-24**|**Jitter Characterization of the HyTI Satellite**|Chase Urasaki et.al.|[2404.15575v1](http://arxiv.org/abs/2404.15575v1)|[2404.15575v1](http://arxiv.org/pdf/2404.15575v1)|null|
+|**2024-04-23**|**Planet formation -- observational constraints, physical processes, and compositional patterns**|Christoph Mordasini et.al.|[2404.15555v1](http://arxiv.org/abs/2404.15555v1)|[2404.15555v1](http://arxiv.org/pdf/2404.15555v1)|null|
+|**2024-04-23**|**Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensionality Reduction for Clustering Gravitational Wave Glitches**|Yi Li et.al.|[2404.15552v1](http://arxiv.org/abs/2404.15552v1)|[2404.15552v1](http://arxiv.org/pdf/2404.15552v1)|**[link](https://github.com/zod-l/ctsae)**|
+|**2024-04-23**|**High Contrast, High Angular Resolution Optical Speckle Imaging: Uncovering Hidden Stellar Companions**|Steve B. Howell et.al.|[2404.15528v1](http://arxiv.org/abs/2404.15528v1)|[2404.15528v1](http://arxiv.org/pdf/2404.15528v1)|null|
+|**2024-04-23**|**NGC1856: Using machine learning techniques to uncover detailed stellar abundances from MUSE data**|Randa Asa'd et.al.|[2404.15527v1](http://arxiv.org/abs/2404.15527v1)|[2404.15527v1](http://arxiv.org/pdf/2404.15527v1)|null|
+|**2024-04-23**|**A Ramsey Neutron-Beam Experiment to Search for Ultralight Axion Dark Matter at the ESS**|P. Fierlinger et.al.|[2404.15521v1](http://arxiv.org/abs/2404.15521v1)|[2404.15521v1](http://arxiv.org/pdf/2404.15521v1)|null|
+|**2024-04-23**|**Are early-type galaxies quenched by present-day environment? A study of dwarfs in the Fornax Cluster**|Romero-Gómez et.al.|[2404.15519v1](http://arxiv.org/abs/2404.15519v1)|[2404.15519v1](http://arxiv.org/pdf/2404.15519v1)|null|
+|**2024-04-23**|**A Population Analysis of 20 Exoplanets Observed from the Optical of the Near-infrared Wavelengths with HST: Evidence for Widespread Stellar Contamination**|Arianna Saba et.al.|[2404.15505v1](http://arxiv.org/abs/2404.15505v1)|[2404.15505v1](http://arxiv.org/pdf/2404.15505v1)|null|
+|**2024-04-23**|**Simultaneous Chandra and HST observations of the quiescent neutron-star low-mass X-ray binaries in 47 Tucanae**|Maureen van den Berg et.al.|[2404.15504v1](http://arxiv.org/abs/2404.15504v1)|[2404.15504v1](http://arxiv.org/pdf/2404.15504v1)|null|
+|**2024-04-23**|**A New Parameterization for Finding Solutions for Microlensing Exoplanet Light Curves**|Kylie E. Hall et.al.|[2404.15502v1](http://arxiv.org/abs/2404.15502v1)|[2404.15502v1](http://arxiv.org/pdf/2404.15502v1)|null|
 |**2024-04-23**|**Interacting Dark Energy after DESI Baryon Acoustic Oscillation measurements**|William Giarè et.al.|[2404.15232v1](http://arxiv.org/abs/2404.15232v1)|[2404.15232v1](http://arxiv.org/pdf/2404.15232v1)|null|
 |**2024-04-23**|**Dark Radiation with Baryon Acoustic Oscillations from DESI 2024 and the $H_0$ tension**|Itamar J. Allali et.al.|[2404.15220v1](http://arxiv.org/abs/2404.15220v1)|[2404.15220v1](http://arxiv.org/pdf/2404.15220v1)|null|
 |**2024-04-23**|**The Sensitivity of NEO Surveyor to Low-Perihelion Asteroids**|Joseph R. Masiero et.al.|[2404.15195v1](http://arxiv.org/abs/2404.15195v1)|[2404.15195v1](http://arxiv.org/pdf/2404.15195v1)|null|
@@ -4607,6 +4617,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627v1](http://arxiv.org/abs/2404.15627v1)|[2404.15627v1](http://arxiv.org/pdf/2404.15627v1)|null|
+|**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621v1](http://arxiv.org/abs/2404.15621v1)|[2404.15621v1](http://arxiv.org/pdf/2404.15621v1)|null|
+|**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617v1](http://arxiv.org/abs/2404.15617v1)|[2404.15617v1](http://arxiv.org/pdf/2404.15617v1)|null|
+|**2024-04-24**|**A Bi-directional Quantum Search Algorithm**|Debanjan Konar et.al.|[2404.15616v1](http://arxiv.org/abs/2404.15616v1)|[2404.15616v1](http://arxiv.org/pdf/2404.15616v1)|**[link](https://github.com/hafeezzwiz21/dfgs-bdgs)**|
+|**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604v1](http://arxiv.org/abs/2404.15604v1)|[2404.15604v1](http://arxiv.org/pdf/2404.15604v1)|null|
+|**2024-04-24**|**Deepfakes and Higher Education: A Research Agenda and Scoping Review of Synthetic Media**|Jasper Roe et.al.|[2404.15601v1](http://arxiv.org/abs/2404.15601v1)|[2404.15601v1](http://arxiv.org/pdf/2404.15601v1)|null|
+|**2024-04-24**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599v1](http://arxiv.org/abs/2404.15599v1)|[2404.15599v1](http://arxiv.org/pdf/2404.15599v1)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597v1](http://arxiv.org/abs/2404.15597v1)|[2404.15597v1](http://arxiv.org/pdf/2404.15597v1)|null|
+|**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592v1](http://arxiv.org/abs/2404.15592v1)|[2404.15592v1](http://arxiv.org/pdf/2404.15592v1)|null|
+|**2024-04-24**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583v1](http://arxiv.org/abs/2404.15583v1)|[2404.15583v1](http://arxiv.org/pdf/2404.15583v1)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|[2404.15276v1](http://arxiv.org/pdf/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272v1](http://arxiv.org/abs/2404.15272v1)|[2404.15272v1](http://arxiv.org/pdf/2404.15272v1)|null|
 |**2024-04-23**|**Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models**|Wanrong Zhu et.al.|[2404.15271v1](http://arxiv.org/abs/2404.15271v1)|[2404.15271v1](http://arxiv.org/pdf/2404.15271v1)|null|
