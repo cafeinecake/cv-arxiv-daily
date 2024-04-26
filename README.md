@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-25**|**The Black-Hole Masses of High-Redshift QSOs**|Andrew King et.al.|[2404.16832v1](http://arxiv.org/abs/2404.16832v1)|[2404.16832v1](http://arxiv.org/pdf/2404.16832v1)|null|
+|**2024-04-25**|**Cosmological probes of Dark Radiation from Neutrino Mixing**|Itamar J. Allali et.al.|[2404.16822v1](http://arxiv.org/abs/2404.16822v1)|[2404.16822v1](http://arxiv.org/pdf/2404.16822v1)|null|
+|**2024-04-25**|**Quantum effects on the evaporation of PBHs: contributions to dark matter**|Md Riajul Haque et.al.|[2404.16815v1](http://arxiv.org/abs/2404.16815v1)|[2404.16815v1](http://arxiv.org/pdf/2404.16815v1)|null|
+|**2024-04-25**|**Atmospheric Retrievals of the Phase-resolved Spectra of Irradiated Brown Dwarfs WD-0137B and EPIC-2122B**|Joshua D. Lothringer et.al.|[2404.16813v1](http://arxiv.org/abs/2404.16813v1)|[2404.16813v1](http://arxiv.org/pdf/2404.16813v1)|null|
+|**2024-04-25**|**Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing**|Frank J. Qu et.al.|[2404.16805v1](http://arxiv.org/abs/2404.16805v1)|[2404.16805v1](http://arxiv.org/pdf/2404.16805v1)|null|
+|**2024-04-25**|**Spherical bispectrum expansion and quadratic estimators**|Julien Carron et.al.|[2404.16797v1](http://arxiv.org/abs/2404.16797v1)|[2404.16797v1](http://arxiv.org/pdf/2404.16797v1)|null|
+|**2024-04-25**|**Structure-Preserving Oscillation-Eliminating Discontinuous Galerkin Schemes for Ideal MHD Equations: Locally Divergence-Free and Positivity-Preserving**|Mengqing Liu et.al.|[2404.16794v1](http://arxiv.org/abs/2404.16794v1)|[2404.16794v1](http://arxiv.org/pdf/2404.16794v1)|null|
+|**2024-04-25**|**Characterizing Solar Center-to-Limb Radial-Velocity Variability with SDO**|Michael L. Palumbo III et.al.|[2404.16747v1](http://arxiv.org/abs/2404.16747v1)|[2404.16747v1](http://arxiv.org/pdf/2404.16747v1)|null|
+|**2024-04-25**|**The MOPYS project: A survey of 70 planets in search of extended He I and H atmospheres. No evidence of enhanced evaporation in young planets**|J. Orell-Miquel et.al.|[2404.16732v1](http://arxiv.org/abs/2404.16732v1)|[2404.16732v1](http://arxiv.org/pdf/2404.16732v1)|null|
+|**2024-04-25**|**Bulk flows, general relativity and the fundamental role of the "peculiar" flux**|Christos G. Tsagas et.al.|[2404.16719v1](http://arxiv.org/abs/2404.16719v1)|[2404.16719v1](http://arxiv.org/pdf/2404.16719v1)|null|
 |**2024-04-24**|**Jitter Characterization of the HyTI Satellite**|Chase Urasaki et.al.|[2404.15575v1](http://arxiv.org/abs/2404.15575v1)|[2404.15575v1](http://arxiv.org/pdf/2404.15575v1)|null|
 |**2024-04-23**|**Planet formation -- observational constraints, physical processes, and compositional patterns**|Christoph Mordasini et.al.|[2404.15555v1](http://arxiv.org/abs/2404.15555v1)|[2404.15555v1](http://arxiv.org/pdf/2404.15555v1)|null|
 |**2024-04-23**|**Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensionality Reduction for Clustering Gravitational Wave Glitches**|Yi Li et.al.|[2404.15552v1](http://arxiv.org/abs/2404.15552v1)|[2404.15552v1](http://arxiv.org/pdf/2404.15552v1)|**[link](https://github.com/zod-l/ctsae)**|
@@ -4617,6 +4627,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829v1](http://arxiv.org/abs/2404.16829v1)|[2404.16829v1](http://arxiv.org/pdf/2404.16829v1)|null|
+|**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823v1](http://arxiv.org/abs/2404.16823v1)|[2404.16823v1](http://arxiv.org/pdf/2404.16823v1)|null|
+|**2024-04-25**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811v1](http://arxiv.org/abs/2404.16811v1)|[2404.16811v1](http://arxiv.org/pdf/2404.16811v1)|**[link](https://github.com/microsoft/FILM)**|
+|**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804v1](http://arxiv.org/abs/2404.16804v1)|[2404.16804v1](http://arxiv.org/pdf/2404.16804v1)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
+|**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792v1](http://arxiv.org/abs/2404.16792v1)|[2404.16792v1](http://arxiv.org/pdf/2404.16792v1)|null|
+|**2024-04-25**|**Continual Learning of Large Language Models: A Comprehensive Survey**|Haizhou Shi et.al.|[2404.16789v1](http://arxiv.org/abs/2404.16789v1)|[2404.16789v1](http://arxiv.org/pdf/2404.16789v1)|**[link](https://github.com/wang-ml-lab/llm-continual-learning-survey)**|
+|**2024-04-25**|**DrS: Learning Reusable Dense Rewards for Multi-Stage Tasks**|Tongzhou Mu et.al.|[2404.16779v1](http://arxiv.org/abs/2404.16779v1)|[2404.16779v1](http://arxiv.org/pdf/2404.16779v1)|null|
+|**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771v1](http://arxiv.org/abs/2404.16771v1)|[2404.16771v1](http://arxiv.org/pdf/2404.16771v1)|**[link](https://github.com/JackAILab/ConsistentID)**|
+|**2024-04-25**|**Redefining Safety for Autonomous Vehicles**|Philip Koopman et.al.|[2404.16768v1](http://arxiv.org/abs/2404.16768v1)|[2404.16768v1](http://arxiv.org/pdf/2404.16768v1)|null|
+|**2024-04-25**|**Prefix Text as a Yarn: Eliciting Non-English Alignment in Foundation Language Model**|Runzhe Zhan et.al.|[2404.16766v1](http://arxiv.org/abs/2404.16766v1)|[2404.16766v1](http://arxiv.org/pdf/2404.16766v1)|null|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627v1](http://arxiv.org/abs/2404.15627v1)|[2404.15627v1](http://arxiv.org/pdf/2404.15627v1)|null|
 |**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621v1](http://arxiv.org/abs/2404.15621v1)|[2404.15621v1](http://arxiv.org/pdf/2404.15621v1)|null|
 |**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617v1](http://arxiv.org/abs/2404.15617v1)|[2404.15617v1](http://arxiv.org/pdf/2404.15617v1)|null|
