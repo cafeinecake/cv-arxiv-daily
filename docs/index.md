@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.28
+## Updated on 2024.04.29
 
 ## Astrophysics
 
@@ -4633,13 +4633,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829v1](http://arxiv.org/abs/2404.16829v1)|[2404.16829v1](http://arxiv.org/pdf/2404.16829v1)|null|
 |**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823v1](http://arxiv.org/abs/2404.16823v1)|[2404.16823v1](http://arxiv.org/pdf/2404.16823v1)|**[link](https://github.com/ToruOwO/hato)**|
-|**2024-04-25**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811v1](http://arxiv.org/abs/2404.16811v1)|[2404.16811v1](http://arxiv.org/pdf/2404.16811v1)|**[link](https://github.com/microsoft/FILM)**|
+|**2024-04-26**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811v2](http://arxiv.org/abs/2404.16811v2)|[2404.16811v2](http://arxiv.org/pdf/2404.16811v2)|**[link](https://github.com/microsoft/FILM)**|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804v1](http://arxiv.org/abs/2404.16804v1)|[2404.16804v1](http://arxiv.org/pdf/2404.16804v1)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
 |**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792v1](http://arxiv.org/abs/2404.16792v1)|[2404.16792v1](http://arxiv.org/pdf/2404.16792v1)|**[link](https://github.com/chujiezheng/llm-extrapolation)**|
 |**2024-04-25**|**Continual Learning of Large Language Models: A Comprehensive Survey**|Haizhou Shi et.al.|[2404.16789v1](http://arxiv.org/abs/2404.16789v1)|[2404.16789v1](http://arxiv.org/pdf/2404.16789v1)|**[link](https://github.com/wang-ml-lab/llm-continual-learning-survey)**|
 |**2024-04-25**|**DrS: Learning Reusable Dense Rewards for Multi-Stage Tasks**|Tongzhou Mu et.al.|[2404.16779v1](http://arxiv.org/abs/2404.16779v1)|[2404.16779v1](http://arxiv.org/pdf/2404.16779v1)|null|
 |**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771v1](http://arxiv.org/abs/2404.16771v1)|[2404.16771v1](http://arxiv.org/pdf/2404.16771v1)|**[link](https://github.com/JackAILab/ConsistentID)**|
-|**2024-04-25**|**Redefining Safety for Autonomous Vehicles**|Philip Koopman et.al.|[2404.16768v1](http://arxiv.org/abs/2404.16768v1)|[2404.16768v1](http://arxiv.org/pdf/2404.16768v1)|null|
+|**2024-04-26**|**Redefining Safety for Autonomous Vehicles**|Philip Koopman et.al.|[2404.16768v2](http://arxiv.org/abs/2404.16768v2)|[2404.16768v2](http://arxiv.org/pdf/2404.16768v2)|null|
 |**2024-04-25**|**Prefix Text as a Yarn: Eliciting Non-English Alignment in Foundation Language Model**|Runzhe Zhan et.al.|[2404.16766v1](http://arxiv.org/abs/2404.16766v1)|[2404.16766v1](http://arxiv.org/pdf/2404.16766v1)|null|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627v1](http://arxiv.org/abs/2404.15627v1)|[2404.15627v1](http://arxiv.org/pdf/2404.15627v1)|null|
 |**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621v1](http://arxiv.org/abs/2404.15621v1)|[2404.15621v1](http://arxiv.org/pdf/2404.15621v1)|null|
