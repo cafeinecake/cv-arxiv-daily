@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-26**|**The boring history of Gaia BH3 from isolated binary evolution**|Giuliano Iorio et.al.|[2404.17568v1](http://arxiv.org/abs/2404.17568v1)|[2404.17568v1](http://arxiv.org/pdf/2404.17568v1)|null|
+|**2024-04-26**|**Sensitivity-Improved Polarization Maps at 40 GHz with CLASS and WMAP data**|Rui Shi et.al.|[2404.17567v1](http://arxiv.org/abs/2404.17567v1)|[2404.17567v1](http://arxiv.org/pdf/2404.17567v1)|null|
+|**2024-04-26**|**Probing the Propeller Regime with Symbiotic X-ray Binaries**|M. D. Afonina et.al.|[2404.17549v1](http://arxiv.org/abs/2404.17549v1)|[2404.17549v1](http://arxiv.org/pdf/2404.17549v1)|null|
+|**2024-04-26**|**[OI] fine structure line profiles in Mon R2 and M17 SW: the puzzling nature of cold foreground material identified by [12CII] self-absorption**|C. Guevara et.al.|[2404.17538v1](http://arxiv.org/abs/2404.17538v1)|[2404.17538v1](http://arxiv.org/pdf/2404.17538v1)|null|
+|**2024-04-26**|**Forming Mercury from excited initial conditions**|Jennifer Scora et.al.|[2404.17523v1](http://arxiv.org/abs/2404.17523v1)|[2404.17523v1](http://arxiv.org/pdf/2404.17523v1)|null|
+|**2024-04-26**|**Statistical relations between spectropolarimetric observables and the polar strength of the stellar dipolar magnetic field**|O. Kochukhov et.al.|[2404.17517v1](http://arxiv.org/abs/2404.17517v1)|[2404.17517v1](http://arxiv.org/pdf/2404.17517v1)|null|
+|**2024-04-26**|**An Online Framework for Fitting Fast Transient Lightcurves**|Tyler Barna et.al.|[2404.17515v1](http://arxiv.org/abs/2404.17515v1)|[2404.17515v1](http://arxiv.org/pdf/2404.17515v1)|null|
+|**2024-04-26**|**The death of Vulcan: NEID reveals the planet candidate orbiting HD 26965 is stellar activity**|Abigail Burrows et.al.|[2404.17494v1](http://arxiv.org/abs/2404.17494v1)|[2404.17494v1](http://arxiv.org/pdf/2404.17494v1)|null|
+|**2024-04-26**|**A Very-High-Energy Gamma-Ray View of the Transient Sky**|Alessandro Carosi et.al.|[2404.17480v1](http://arxiv.org/abs/2404.17480v1)|[2404.17480v1](http://arxiv.org/pdf/2404.17480v1)|null|
+|**2024-04-26**|**The Most Common Habitable Planets III -- Modeling Temperature Forcing and Surface Conditions on Rocky Exoplanets and Exomoons**|Beatriz B. Siffert et.al.|[2404.17448v1](http://arxiv.org/abs/2404.17448v1)|[2404.17448v1](http://arxiv.org/pdf/2404.17448v1)|null|
 |**2024-04-25**|**The Black-Hole Masses of High-Redshift QSOs**|Andrew King et.al.|[2404.16832v1](http://arxiv.org/abs/2404.16832v1)|[2404.16832v1](http://arxiv.org/pdf/2404.16832v1)|null|
 |**2024-04-25**|**Cosmological probes of Dark Radiation from Neutrino Mixing**|Itamar J. Allali et.al.|[2404.16822v1](http://arxiv.org/abs/2404.16822v1)|[2404.16822v1](http://arxiv.org/pdf/2404.16822v1)|null|
 |**2024-04-25**|**Quantum effects on the evaporation of PBHs: contributions to dark matter**|Md Riajul Haque et.al.|[2404.16815v1](http://arxiv.org/abs/2404.16815v1)|[2404.16815v1](http://arxiv.org/pdf/2404.16815v1)|null|
@@ -4627,6 +4637,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-04-26**|**Enhancing Longitudinal Clinical Trial Efficiency with Digital Twins and Prognostic Covariate-Adjusted Mixed Models for Repeated Measures (PROCOVA-MMRM)**|Jessica L. Ross et.al.|[2404.17576v1](http://arxiv.org/abs/2404.17576v1)|[2404.17576v1](http://arxiv.org/pdf/2404.17576v1)|null|
+|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546v1](http://arxiv.org/abs/2404.17546v1)|[2404.17546v1](http://arxiv.org/pdf/2404.17546v1)|null|
+|**2024-04-26**|**Using Neural Implicit Flow To Represent Latent Dynamics Of Canonical Systems**|Imran Nasim et.al.|[2404.17535v1](http://arxiv.org/abs/2404.17535v1)|[2404.17535v1](http://arxiv.org/pdf/2404.17535v1)|null|
+|**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525v1](http://arxiv.org/abs/2404.17525v1)|[2404.17525v1](http://arxiv.org/pdf/2404.17525v1)|null|
+|**2024-04-26**|**On the Use of Large Language Models to Generate Capability Ontologies**|Luis Miguel Vieira da Silva et.al.|[2404.17524v1](http://arxiv.org/abs/2404.17524v1)|[2404.17524v1](http://arxiv.org/pdf/2404.17524v1)|null|
+|**2024-04-26**|**Enhancing Legal Compliance and Regulation Analysis with Large Language Models**|Shabnam Hassani et.al.|[2404.17522v1](http://arxiv.org/abs/2404.17522v1)|[2404.17522v1](http://arxiv.org/pdf/2404.17522v1)|null|
+|**2024-04-26**|**A Comprehensive Evaluation on Event Reasoning of Large Language Models**|Zhengwei Tao et.al.|[2404.17513v1](http://arxiv.org/abs/2404.17513v1)|[2404.17513v1](http://arxiv.org/pdf/2404.17513v1)|**[link](https://github.com/tzwwww/ev2)**|
+|**2024-04-26**|**Causally Abstracted Multi-armed Bandits**|Fabio Massimo Zennaro et.al.|[2404.17493v1](http://arxiv.org/abs/2404.17493v1)|[2404.17493v1](http://arxiv.org/pdf/2404.17493v1)|null|
+|**2024-04-26**|**Tabular Data Contrastive Learning via Class-Conditioned and Feature-Correlation Based Augmentation**|Wei Cui et.al.|[2404.17489v1](http://arxiv.org/abs/2404.17489v1)|[2404.17489v1](http://arxiv.org/pdf/2404.17489v1)|**[link](https://github.com/willtop/tabular-class-conditioned-ssl)**|
+|**2024-04-26**|**Conformal Prediction with Learned Features**|Shayan Kiyani et.al.|[2404.17487v1](http://arxiv.org/abs/2404.17487v1)|[2404.17487v1](http://arxiv.org/pdf/2404.17487v1)|null|
 |**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829v1](http://arxiv.org/abs/2404.16829v1)|[2404.16829v1](http://arxiv.org/pdf/2404.16829v1)|null|
 |**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823v1](http://arxiv.org/abs/2404.16823v1)|[2404.16823v1](http://arxiv.org/pdf/2404.16823v1)|**[link](https://github.com/ToruOwO/hato)**|
 |**2024-04-26**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811v2](http://arxiv.org/abs/2404.16811v2)|[2404.16811v2](http://arxiv.org/pdf/2404.16811v2)|**[link](https://github.com/microsoft/FILM)**|
