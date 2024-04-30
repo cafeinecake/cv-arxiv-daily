@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-29**|**Searching for planet-driven dust spirals in ALMA visibilities**|Edward T. Stevenson et.al.|[2404.18925v1](http://arxiv.org/abs/2404.18925v1)|[2404.18925v1](http://arxiv.org/pdf/2404.18925v1)|null|
+|**2024-04-29**|**Neural network prediction of model parameters for strong lensing samples from Hyper Suprime-Cam Survey**|Priyanka Gawade et.al.|[2404.18897v1](http://arxiv.org/abs/2404.18897v1)|[2404.18897v1](http://arxiv.org/pdf/2404.18897v1)|null|
+|**2024-04-29**|**Comprehensive Synthesis of Magnetic Tornado: Co-spatial Incidence of Chromospheric Swirls and EUV Brightening**|Hidetaka Kuniyoshi et.al.|[2404.18892v1](http://arxiv.org/abs/2404.18892v1)|[2404.18892v1](http://arxiv.org/pdf/2404.18892v1)|null|
+|**2024-04-29**|**Mapping eccentricity evolutions between numerical relativity and effective-one-body gravitational waveforms**|Alice Bonino et.al.|[2404.18875v1](http://arxiv.org/abs/2404.18875v1)|[2404.18875v1](http://arxiv.org/pdf/2404.18875v1)|null|
+|**2024-04-29**|**Phantom matter: a challenging solution to the cosmological tensions**|Adria Gomez-Valent et.al.|[2404.18845v1](http://arxiv.org/abs/2404.18845v1)|[2404.18845v1](http://arxiv.org/pdf/2404.18845v1)|null|
+|**2024-04-29**|**NEOMOD 3: The Debiased Size Distribution of Near Earth Objects**|David Nesvorny et.al.|[2404.18805v1](http://arxiv.org/abs/2404.18805v1)|[2404.18805v1](http://arxiv.org/pdf/2404.18805v1)|null|
+|**2024-04-29**|**Detection of Fe and Ti on the dayside of the ultrahot Jupiter MASCARA-1b with CARMENES**|B. Guo et.al.|[2404.18788v1](http://arxiv.org/abs/2404.18788v1)|[2404.18788v1](http://arxiv.org/pdf/2404.18788v1)|null|
+|**2024-04-29**|**Summary of SatHub, and the current observational status of satellite constellations**|Mike W. Peel et.al.|[2404.18742v1](http://arxiv.org/abs/2404.18742v1)|[2404.18742v1](http://arxiv.org/pdf/2404.18742v1)|null|
+|**2024-04-29**|**Dynamical friction in the quasi-linear formulation of MOND**|Pierfrancesco Di Cintio et.al.|[2404.18733v1](http://arxiv.org/abs/2404.18733v1)|[2404.18733v1](http://arxiv.org/pdf/2404.18733v1)|null|
+|**2024-04-29**|**Sausage, kink, and fluting MHD wave modes identified in solar magnetic pores by Solar Orbiter/PHI**|S. Jafarzadeh et.al.|[2404.18717v1](http://arxiv.org/abs/2404.18717v1)|[2404.18717v1](http://arxiv.org/pdf/2404.18717v1)|null|
 |**2024-04-26**|**The boring history of Gaia BH3 from isolated binary evolution**|Giuliano Iorio et.al.|[2404.17568v1](http://arxiv.org/abs/2404.17568v1)|[2404.17568v1](http://arxiv.org/pdf/2404.17568v1)|null|
 |**2024-04-26**|**Sensitivity-Improved Polarization Maps at 40 GHz with CLASS and WMAP data**|Rui Shi et.al.|[2404.17567v1](http://arxiv.org/abs/2404.17567v1)|[2404.17567v1](http://arxiv.org/pdf/2404.17567v1)|null|
 |**2024-04-26**|**Probing the Propeller Regime with Symbiotic X-ray Binaries**|M. D. Afonina et.al.|[2404.17549v1](http://arxiv.org/abs/2404.17549v1)|[2404.17549v1](http://arxiv.org/pdf/2404.17549v1)|null|
@@ -4641,6 +4651,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928v1](http://arxiv.org/abs/2404.18928v1)|[2404.18928v1](http://arxiv.org/pdf/2404.18928v1)|null|
+|**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922v1](http://arxiv.org/abs/2404.18922v1)|[2404.18922v1](http://arxiv.org/pdf/2404.18922v1)|null|
+|**2024-04-29**|**Detecting critical treatment effect bias in small subgroups**|Piersilvio De Bartolomeis et.al.|[2404.18905v1](http://arxiv.org/abs/2404.18905v1)|[2404.18905v1](http://arxiv.org/pdf/2404.18905v1)|null|
+|**2024-04-29**|**IPixMatch: Boost Semi-supervised Semantic Segmentation with Inter-Pixel Relation**|Kebin Wu et.al.|[2404.18891v1](http://arxiv.org/abs/2404.18891v1)|[2404.18891v1](http://arxiv.org/pdf/2404.18891v1)|null|
+|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|[2404.18886v1](http://arxiv.org/pdf/2404.18886v1)|null|
+|**2024-04-29**|**OpenStreetView-5M: The Many Roads to Global Visual Geolocation**|Guillaume Astruc et.al.|[2404.18873v1](http://arxiv.org/abs/2404.18873v1)|[2404.18873v1](http://arxiv.org/pdf/2404.18873v1)|**[link](https://github.com/gastruc/osv5m)**|
+|**2024-04-29**|**More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**|Aaron J. Li et.al.|[2404.18870v1](http://arxiv.org/abs/2404.18870v1)|[2404.18870v1](http://arxiv.org/pdf/2404.18870v1)|**[link](https://github.com/aaron-jx-li/rlhf-trustworthiness)**|
+|**2024-04-29**|**Performance-Aligned LLMs for Generating Fast Code**|Daniel Nichols et.al.|[2404.18864v1](http://arxiv.org/abs/2404.18864v1)|[2404.18864v1](http://arxiv.org/pdf/2404.18864v1)|null|
+|**2024-04-29**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848v1](http://arxiv.org/abs/2404.18848v1)|[2404.18848v1](http://arxiv.org/pdf/2404.18848v1)|null|
+|**2024-04-29**|**ConPro: Learning Severity Representation for Medical Images using Contrastive Learning and Preference Optimization**|Hong Nguyen et.al.|[2404.18831v1](http://arxiv.org/abs/2404.18831v1)|[2404.18831v1](http://arxiv.org/pdf/2404.18831v1)|null|
 |**2024-04-26**|**Enhancing Longitudinal Clinical Trial Efficiency with Digital Twins and Prognostic Covariate-Adjusted Mixed Models for Repeated Measures (PROCOVA-MMRM)**|Jessica L. Ross et.al.|[2404.17576v1](http://arxiv.org/abs/2404.17576v1)|[2404.17576v1](http://arxiv.org/pdf/2404.17576v1)|null|
 |**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546v1](http://arxiv.org/abs/2404.17546v1)|[2404.17546v1](http://arxiv.org/pdf/2404.17546v1)|null|
 |**2024-04-26**|**Using Neural Implicit Flow To Represent Latent Dynamics Of Canonical Systems**|Imran Nasim et.al.|[2404.17535v1](http://arxiv.org/abs/2404.17535v1)|[2404.17535v1](http://arxiv.org/pdf/2404.17535v1)|null|
