@@ -1,4 +1,4 @@
-> Updated on 2024.04.30
+> Updated on 2024.05.01
 
 ## Astrophysics
 
@@ -4651,7 +4651,7 @@
 - 2024-04-29, **OpenStreetView-5M: The Many Roads to Global Visual Geolocation**, Guillaume Astruc et.al., Paper: [http://arxiv.org/abs/2404.18873v1](http://arxiv.org/abs/2404.18873v1),Paper: [http://arxiv.org/abs/2404.18873v1](http://arxiv.org/pdf/2404.18873v1), Code: **[https://github.com/gastruc/osv5m](https://github.com/gastruc/osv5m)**
 - 2024-04-29, **More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**, Aaron J. Li et.al., Paper: [http://arxiv.org/abs/2404.18870v1](http://arxiv.org/abs/2404.18870v1),Paper: [http://arxiv.org/abs/2404.18870v1](http://arxiv.org/pdf/2404.18870v1), Code: **[https://github.com/aaron-jx-li/rlhf-trustworthiness](https://github.com/aaron-jx-li/rlhf-trustworthiness)**
 - 2024-04-29, **Performance-Aligned LLMs for Generating Fast Code**, Daniel Nichols et.al., Paper: [http://arxiv.org/abs/2404.18864v1](http://arxiv.org/abs/2404.18864v1), Paper: [http://arxiv.org/abs/2404.18864v1](http://arxiv.org/pdf/2404.18864v1)
-- 2024-04-29, **FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**, Yuxuan Yan et.al., Paper: [http://arxiv.org/abs/2404.18848v1](http://arxiv.org/abs/2404.18848v1), Paper: [http://arxiv.org/abs/2404.18848v1](http://arxiv.org/pdf/2404.18848v1)
+- 2024-04-30, **FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**, Yuxuan Yan et.al., Paper: [http://arxiv.org/abs/2404.18848v2](http://arxiv.org/abs/2404.18848v2), Paper: [http://arxiv.org/abs/2404.18848v2](http://arxiv.org/pdf/2404.18848v2)
 - 2024-04-29, **ConPro: Learning Severity Representation for Medical Images using Contrastive Learning and Preference Optimization**, Hong Nguyen et.al., Paper: [http://arxiv.org/abs/2404.18831v1](http://arxiv.org/abs/2404.18831v1), Paper: [http://arxiv.org/abs/2404.18831v1](http://arxiv.org/pdf/2404.18831v1)
 - 2024-04-26, **Enhancing Longitudinal Clinical Trial Efficiency with Digital Twins and Prognostic Covariate-Adjusted Mixed Models for Repeated Measures (PROCOVA-MMRM)**, Jessica L. Ross et.al., Paper: [http://arxiv.org/abs/2404.17576v1](http://arxiv.org/abs/2404.17576v1), Paper: [http://arxiv.org/abs/2404.17576v1](http://arxiv.org/pdf/2404.17576v1)
 - 2024-04-26, **Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**, Stephen Zhao et.al., Paper: [http://arxiv.org/abs/2404.17546v1](http://arxiv.org/abs/2404.17546v1), Paper: [http://arxiv.org/abs/2404.17546v1](http://arxiv.org/pdf/2404.17546v1)
