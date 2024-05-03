@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-02**|**Confronting sparse Gaia DR3 photometry with TESS for a sample of about 60,000 hot massive non-radial pulsators**|Daniel Hey et.al.|[2405.01539v1](http://arxiv.org/abs/2405.01539v1)|[2405.01539v1](http://arxiv.org/pdf/2405.01539v1)|null|
+|**2024-05-02**|**Grand Design vs. Multi-Armed Spiral Galaxies: Dependence on Galaxy Structure**|Beverly J. Smith et.al.|[2405.01516v1](http://arxiv.org/abs/2405.01516v1)|[2405.01516v1](http://arxiv.org/pdf/2405.01516v1)|null|
+|**2024-05-02**|**Symbiotic stars in X-rays IV: XMM-Newton, Swift and TESS observations**|Isabel J. Lima et.al.|[2405.01508v1](http://arxiv.org/abs/2405.01508v1)|[2405.01508v1](http://arxiv.org/pdf/2405.01508v1)|null|
+|**2024-05-02**|**Advancements in Streamlining Time-Domain and Multi-Messenger Astronomy Follow-Up Infrastructure at Keck Observatory**|Chien-Hsiu Lee et.al.|[2405.01500v1](http://arxiv.org/abs/2405.01500v1)|[2405.01500v1](http://arxiv.org/pdf/2405.01500v1)|null|
+|**2024-05-02**|**Insight-HXMT View of the BHC Swift J1727.8-1613 during its outburst in 2023**|Kaushik Chatterjee et.al.|[2405.01498v1](http://arxiv.org/abs/2405.01498v1)|[2405.01498v1](http://arxiv.org/pdf/2405.01498v1)|null|
+|**2024-05-02**|**The Effect of a Dark Matter Core on the Structure of a Rotating Neutron Star**|Andreas Konstantinou et.al.|[2405.01487v1](http://arxiv.org/abs/2405.01487v1)|[2405.01487v1](http://arxiv.org/pdf/2405.01487v1)|null|
+|**2024-05-02**|**Surviving tidal tails around the Milky Way bulge globular cluster NGC 6355**|Andrés E. Piatti et.al.|[2405.01485v1](http://arxiv.org/abs/2405.01485v1)|[2405.01485v1](http://arxiv.org/pdf/2405.01485v1)|null|
+|**2024-05-02**|**Experimental demonstration of frequency downconverted arm length stabilization for a future upgraded gravitational wave detector**|Satoshi Tanioka et.al.|[2405.01475v1](http://arxiv.org/abs/2405.01475v1)|[2405.01475v1](http://arxiv.org/pdf/2405.01475v1)|null|
+|**2024-05-02**|**RUBIES: Evolved Stellar Populations with Extended Formation Histories at $z \sim 7-8$ in Candidate Massive Galaxies Identified with JWST/NIRSpec**|Bingjie Wang et.al.|[2405.01473v1](http://arxiv.org/abs/2405.01473v1)|[2405.01473v1](http://arxiv.org/pdf/2405.01473v1)|null|
+|**2024-05-02**|**The Digitization of Photographic Spectra in the Dominion Astrophysical Observatory Plate Collection with Commercial Scanners: A Pilot Study**|T. J. Davidge et.al.|[2405.01456v1](http://arxiv.org/abs/2405.01456v1)|[2405.01456v1](http://arxiv.org/pdf/2405.01456v1)|null|
 |**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669v1](http://arxiv.org/abs/2405.00669v1)|[2405.00669v1](http://arxiv.org/pdf/2405.00669v1)|null|
 |**2024-05-01**|**Environmental cosmic acceleration from a phase transition in the dark sector**|Øyvind Christiansen et.al.|[2405.00668v1](http://arxiv.org/abs/2405.00668v1)|[2405.00668v1](http://arxiv.org/pdf/2405.00668v1)|null|
 |**2024-05-01**|**Tomography of flavoured leptogenesis with primordial blue gravitational waves**|Marco Chianese et.al.|[2405.00641v1](http://arxiv.org/abs/2405.00641v1)|[2405.00641v1](http://arxiv.org/pdf/2405.00641v1)|null|
@@ -4667,6 +4677,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534v1](http://arxiv.org/abs/2405.01534v1)|[2405.01534v1](http://arxiv.org/pdf/2405.01534v1)|null|
+|**2024-05-02**|**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**|Nishad Singhi et.al.|[2405.01531v1](http://arxiv.org/abs/2405.01531v1)|[2405.01531v1](http://arxiv.org/pdf/2405.01531v1)|null|
+|**2024-05-02**|**FLAME: Factuality-Aware Alignment for Large Language Models**|Sheng-Chieh Lin et.al.|[2405.01525v1](http://arxiv.org/abs/2405.01525v1)|[2405.01525v1](http://arxiv.org/pdf/2405.01525v1)|null|
+|**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524v1](http://arxiv.org/abs/2405.01524v1)|[2405.01524v1](http://arxiv.org/pdf/2405.01524v1)|null|
+|**2024-05-02**|**AI for Manufacturing and Healthcare: a chemistry and engineering perspective**|Jihua Chen et.al.|[2405.01520v1](http://arxiv.org/abs/2405.01520v1)|[2405.01520v1](http://arxiv.org/pdf/2405.01520v1)|null|
+|**2024-05-02**|**Analyzing the Role of Semantic Representations in the Era of Large Language Models**|Zhijing Jin et.al.|[2405.01502v1](http://arxiv.org/abs/2405.01502v1)|[2405.01502v1](http://arxiv.org/pdf/2405.01502v1)|**[link](https://github.com/causalnlp/amr_llm)**|
+|**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490v1](http://arxiv.org/abs/2405.01490v1)|[2405.01490v1](http://arxiv.org/pdf/2405.01490v1)|null|
+|**2024-05-02**|**MANTIS: Interleaved Multi-Image Instruction Tuning**|Dongfu Jiang et.al.|[2405.01483v1](http://arxiv.org/abs/2405.01483v1)|[2405.01483v1](http://arxiv.org/pdf/2405.01483v1)|null|
+|**2024-05-02**|**NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment**|Gerald Shen et.al.|[2405.01481v1](http://arxiv.org/abs/2405.01481v1)|[2405.01481v1](http://arxiv.org/pdf/2405.01481v1)|**[link](https://github.com/nvidia/nemo-aligner)**|
+|**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474v1](http://arxiv.org/abs/2405.01474v1)|[2405.01474v1](http://arxiv.org/pdf/2405.01474v1)|null|
 |**2024-05-01**|**Self-Play Preference Optimization for Language Model Alignment**|Yue Wu et.al.|[2405.00675v1](http://arxiv.org/abs/2405.00675v1)|[2405.00675v1](http://arxiv.org/pdf/2405.00675v1)|null|
 |**2024-05-01**|**Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3**|Junsang Yoon et.al.|[2405.00664v1](http://arxiv.org/abs/2405.00664v1)|[2405.00664v1](http://arxiv.org/pdf/2405.00664v1)|null|
 |**2024-05-01**|**RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization**|Dongqi Pu et.al.|[2405.00657v1](http://arxiv.org/abs/2405.00657v1)|[2405.00657v1](http://arxiv.org/pdf/2405.00657v1)|null|
