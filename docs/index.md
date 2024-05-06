@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-03**|**Accurate standard siren cosmology with joint gravitational-wave and $γ$-ray burst observations**|Michele Mancarella et.al.|[2405.02286v1](http://arxiv.org/abs/2405.02286v1)|[2405.02286v1](http://arxiv.org/pdf/2405.02286v1)|null|
+|**2024-05-03**|**Reviving Horndeski after GW170817 by Kaluza-Klein compactifications**|S. Mironov et.al.|[2405.02281v1](http://arxiv.org/abs/2405.02281v1)|[2405.02281v1](http://arxiv.org/pdf/2405.02281v1)|null|
+|**2024-05-03**|**How Rare are TESS Free-Floating Planets?**|Hongjing Yang et.al.|[2405.02279v1](http://arxiv.org/abs/2405.02279v1)|[2405.02279v1](http://arxiv.org/pdf/2405.02279v1)|null|
+|**2024-05-03**|**Early flash-ionization lines in SN 2024ggi revealed by high-resolution spectroscopy**|Thallis Pessi et.al.|[2405.02274v1](http://arxiv.org/abs/2405.02274v1)|[2405.02274v1](http://arxiv.org/pdf/2405.02274v1)|null|
+|**2024-05-03**|**On its way to the neutron star-white dwarf binary graveyard, IGR J16194-2810, a first ascent M giant X-ray binary**|K. H. Hinkle et.al.|[2405.02270v1](http://arxiv.org/abs/2405.02270v1)|[2405.02270v1](http://arxiv.org/pdf/2405.02270v1)|null|
+|**2024-05-03**|**Validating Gaia DR3 Pulsating Variable Classifications with TESS: Building Reliable $δ$ Scuti and $γ$ Doradus Stars Catalogs (In Progress)**|Ai-Ying Zhou et.al.|[2405.02264v1](http://arxiv.org/abs/2405.02264v1)|[2405.02264v1](http://arxiv.org/pdf/2405.02264v1)|null|
+|**2024-05-03**|**An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution**|M. G. Dainotti et.al.|[2405.02263v1](http://arxiv.org/abs/2405.02263v1)|[2405.02263v1](http://arxiv.org/pdf/2405.02263v1)|null|
+|**2024-05-03**|**A Parameter-Masked Mock Data Challenge for Beyond-Two-Point Galaxy Clustering Statistics**|Beyond-2pt Collaboration et.al.|[2405.02252v1](http://arxiv.org/abs/2405.02252v1)|[2405.02252v1](http://arxiv.org/pdf/2405.02252v1)|null|
+|**2024-05-03**|**The JWST EXCELS survey: Too much, too young, too fast? Ultra-massive quiescent galaxies at 3 < z < 5**|A. C. Carnall et.al.|[2405.02242v1](http://arxiv.org/abs/2405.02242v1)|[2405.02242v1](http://arxiv.org/pdf/2405.02242v1)|null|
+|**2024-05-03**|**Estimating microlensing parameters from observables and stellar isochrones with pyLIMASS**|E. Bachelet et.al.|[2405.02230v1](http://arxiv.org/abs/2405.02230v1)|[2405.02230v1](http://arxiv.org/pdf/2405.02230v1)|null|
 |**2024-05-02**|**Confronting sparse Gaia DR3 photometry with TESS for a sample of about 60,000 hot massive non-radial pulsators**|Daniel Hey et.al.|[2405.01539v1](http://arxiv.org/abs/2405.01539v1)|[2405.01539v1](http://arxiv.org/pdf/2405.01539v1)|null|
 |**2024-05-02**|**Grand Design vs. Multi-Armed Spiral Galaxies: Dependence on Galaxy Structure**|Beverly J. Smith et.al.|[2405.01516v1](http://arxiv.org/abs/2405.01516v1)|[2405.01516v1](http://arxiv.org/pdf/2405.01516v1)|null|
 |**2024-05-02**|**Symbiotic stars in X-rays IV: XMM-Newton, Swift and TESS observations**|Isabel J. Lima et.al.|[2405.01508v1](http://arxiv.org/abs/2405.01508v1)|[2405.01508v1](http://arxiv.org/pdf/2405.01508v1)|null|
@@ -4681,6 +4691,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287v1](http://arxiv.org/abs/2405.02287v1)|[2405.02287v1](http://arxiv.org/pdf/2405.02287v1)|**[link](https://github.com/reka-ai/reka-vibe-eval)**|
+|**2024-05-03**|**Geometric Fabrics: a Safe Guiding Medium for Policy Learning**|Karl Van Wyk et.al.|[2405.02250v1](http://arxiv.org/abs/2405.02250v1)|[2405.02250v1](http://arxiv.org/pdf/2405.02250v1)|null|
+|**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246v1](http://arxiv.org/abs/2405.02246v1)|[2405.02246v1](http://arxiv.org/pdf/2405.02246v1)|null|
+|**2024-05-03**|**REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs**|Deepa Tilwani et.al.|[2405.02228v1](http://arxiv.org/abs/2405.02228v1)|[2405.02228v1](http://arxiv.org/pdf/2405.02228v1)|null|
+|**2024-05-03**|**Fair Risk Control: A Generalized Framework for Calibrating Multi-group Fairness Risks**|Lujing Zhang et.al.|[2405.02225v1](http://arxiv.org/abs/2405.02225v1)|[2405.02225v1](http://arxiv.org/pdf/2405.02225v1)|null|
+|**2024-05-03**|**Automatic Programming: Large Language Models and Beyond**|Michael R. Lyu et.al.|[2405.02213v1](http://arxiv.org/abs/2405.02213v1)|[2405.02213v1](http://arxiv.org/pdf/2405.02213v1)|null|
+|**2024-05-03**|**Optimistic Regret Bounds for Online Learning in Adversarial Markov Decision Processes**|Sang Bin Moon et.al.|[2405.02188v1](http://arxiv.org/abs/2405.02188v1)|[2405.02188v1](http://arxiv.org/pdf/2405.02188v1)|null|
+|**2024-05-03**|**Assessing and Verifying Task Utility in LLM-Powered Applications**|Negar Arabzadeh et.al.|[2405.02178v1](http://arxiv.org/abs/2405.02178v1)|[2405.02178v1](http://arxiv.org/pdf/2405.02178v1)|null|
+|**2024-05-03**|**Hoaxpedia: A Unified Wikipedia Hoax Articles Dataset**|Hsuvas Borkakoty et.al.|[2405.02175v1](http://arxiv.org/abs/2405.02175v1)|[2405.02175v1](http://arxiv.org/pdf/2405.02175v1)|null|
+|**2024-05-03**|**EEG2TEXT: Open Vocabulary EEG-to-Text Decoding with EEG Pre-Training and Multi-View Transformer**|Hanwen Liu et.al.|[2405.02165v1](http://arxiv.org/abs/2405.02165v1)|[2405.02165v1](http://arxiv.org/pdf/2405.02165v1)|null|
 |**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534v1](http://arxiv.org/abs/2405.01534v1)|[2405.01534v1](http://arxiv.org/pdf/2405.01534v1)|null|
 |**2024-05-02**|**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**|Nishad Singhi et.al.|[2405.01531v1](http://arxiv.org/abs/2405.01531v1)|[2405.01531v1](http://arxiv.org/pdf/2405.01531v1)|null|
 |**2024-05-02**|**FLAME: Factuality-Aware Alignment for Large Language Models**|Sheng-Chieh Lin et.al.|[2405.01525v1](http://arxiv.org/abs/2405.01525v1)|[2405.01525v1](http://arxiv.org/pdf/2405.01525v1)|null|
