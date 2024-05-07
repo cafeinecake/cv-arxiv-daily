@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-06**|**JWST Observations of Starbursts: Cold Clouds and Plumes Launching in the M82 Outflow**|Deanne B. Fisher et.al.|[2405.03686v1](http://arxiv.org/abs/2405.03686v1)|[2405.03686v1](http://arxiv.org/pdf/2405.03686v1)|null|
+|**2024-05-06**|**Planetary Nebulae of the Large Magellanic Cloud I: A multiwavelength analysis**|Silvia Tosi et.al.|[2405.03640v1](http://arxiv.org/abs/2405.03640v1)|[2405.03640v1](http://arxiv.org/pdf/2405.03640v1)|null|
+|**2024-05-06**|**Investigating the Hubble Tension and $σ_8$ Discrepancy in f(Q) Cosmology**|Ziad Sakr et.al.|[2405.03627v1](http://arxiv.org/abs/2405.03627v1)|[2405.03627v1](http://arxiv.org/pdf/2405.03627v1)|null|
+|**2024-05-06**|**Emergence of Cosmic Space and Horizon Thermodynamics from Kaniadakis Entropy**|Pranav Prasanthan et.al.|[2405.03592v1](http://arxiv.org/abs/2405.03592v1)|[2405.03592v1](http://arxiv.org/pdf/2405.03592v1)|null|
+|**2024-05-06**|**Opening a meV mass window for Axion-like particles with a microwave-laser-mixed stimulated resonant photon collider**|Kensuke Homma et.al.|[2405.03577v1](http://arxiv.org/abs/2405.03577v1)|[2405.03577v1](http://arxiv.org/pdf/2405.03577v1)|null|
+|**2024-05-06**|**Impact of Planetary Parameters on Water Clouds Microphysics**|Huanzhou Yang et.al.|[2405.03570v1](http://arxiv.org/abs/2405.03570v1)|[2405.03570v1](http://arxiv.org/pdf/2405.03570v1)|null|
+|**2024-05-06**|**Connection formulae in the Collision Limit I: Case Studies in Lifshitz Geometry**|Hao Zhao et.al.|[2405.03564v1](http://arxiv.org/abs/2405.03564v1)|[2405.03564v1](http://arxiv.org/pdf/2405.03564v1)|null|
+|**2024-05-06**|**On the source of the Fe K-alpha emission in T Tauri Stars. Radiation induced by relativistic electrons during flares. An application to RY Tau**|Ana I. Gomez de Castro et.al.|[2405.03563v1](http://arxiv.org/abs/2405.03563v1)|[2405.03563v1](http://arxiv.org/pdf/2405.03563v1)|null|
+|**2024-05-06**|**New physics as a possible explanation for the Amaterasu particle**|Rodrigo Guedes Lang et.al.|[2405.03528v1](http://arxiv.org/abs/2405.03528v1)|[2405.03528v1](http://arxiv.org/pdf/2405.03528v1)|null|
+|**2024-05-06**|**Classical general relativity effects by magnetars with slow rotation and a magnetic dipole**|Alexander Mora-Chaverri et.al.|[2405.03503v1](http://arxiv.org/abs/2405.03503v1)|[2405.03503v1](http://arxiv.org/pdf/2405.03503v1)|null|
 |**2024-05-03**|**Accurate standard siren cosmology with joint gravitational-wave and $γ$-ray burst observations**|Michele Mancarella et.al.|[2405.02286v1](http://arxiv.org/abs/2405.02286v1)|[2405.02286v1](http://arxiv.org/pdf/2405.02286v1)|null|
 |**2024-05-03**|**Reviving Horndeski after GW170817 by Kaluza-Klein compactifications**|S. Mironov et.al.|[2405.02281v1](http://arxiv.org/abs/2405.02281v1)|[2405.02281v1](http://arxiv.org/pdf/2405.02281v1)|null|
 |**2024-05-03**|**How Rare are TESS Free-Floating Planets?**|Hongjing Yang et.al.|[2405.02279v1](http://arxiv.org/abs/2405.02279v1)|[2405.02279v1](http://arxiv.org/pdf/2405.02279v1)|null|
@@ -4687,6 +4697,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685v1](http://arxiv.org/abs/2405.03685v1)|[2405.03685v1](http://arxiv.org/pdf/2405.03685v1)|null|
+|**2024-05-06**|**Towards A Human-in-the-Loop LLM Approach to Collaborative Discourse Analysis**|Clayton Cohn et.al.|[2405.03677v1](http://arxiv.org/abs/2405.03677v1)|[2405.03677v1](http://arxiv.org/pdf/2405.03677v1)|null|
+|**2024-05-06**|**MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**|Qianning Wang et.al.|[2405.03673v1](http://arxiv.org/abs/2405.03673v1)|[2405.03673v1](http://arxiv.org/pdf/2405.03673v1)|null|
+|**2024-05-06**|**Prompting Task Trees using Gemini: Methodologies and Insights**|Pallavi Tandra et.al.|[2405.03671v1](http://arxiv.org/abs/2405.03671v1)|[2405.03671v1](http://arxiv.org/pdf/2405.03671v1)|null|
+|**2024-05-06**|**ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection**|Arpit Bahety et.al.|[2405.03666v1](http://arxiv.org/abs/2405.03666v1)|[2405.03666v1](http://arxiv.org/pdf/2405.03666v1)|null|
+|**2024-05-06**|**Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent**|Shang Shang et.al.|[2405.03654v1](http://arxiv.org/abs/2405.03654v1)|[2405.03654v1](http://arxiv.org/pdf/2405.03654v1)|null|
+|**2024-05-06**|**Generated Contents Enrichment**|Mahdi Naseri et.al.|[2405.03650v1](http://arxiv.org/abs/2405.03650v1)|[2405.03650v1](http://arxiv.org/pdf/2405.03650v1)|null|
+|**2024-05-06**|**When LLMs Meet Cybersecurity: A Systematic Literature Review**|Jie Zhang et.al.|[2405.03644v1](http://arxiv.org/abs/2405.03644v1)|[2405.03644v1](http://arxiv.org/pdf/2405.03644v1)|null|
+|**2024-05-06**|**Detecting Android Malware: From Neural Embeddings to Hands-On Validation with BERTroid**|Meryam Chaieb et.al.|[2405.03620v1](http://arxiv.org/abs/2405.03620v1)|[2405.03620v1](http://arxiv.org/pdf/2405.03620v1)|null|
+|**2024-05-06**|**A Controlled Experiment on the Energy Efficiency of the Source Code Generated by Code Llama**|Vlad-Andrei Cursaru et.al.|[2405.03616v1](http://arxiv.org/abs/2405.03616v1)|[2405.03616v1](http://arxiv.org/pdf/2405.03616v1)|null|
 |**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287v1](http://arxiv.org/abs/2405.02287v1)|[2405.02287v1](http://arxiv.org/pdf/2405.02287v1)|**[link](https://github.com/reka-ai/reka-vibe-eval)**|
 |**2024-05-03**|**Geometric Fabrics: a Safe Guiding Medium for Policy Learning**|Karl Van Wyk et.al.|[2405.02250v1](http://arxiv.org/abs/2405.02250v1)|[2405.02250v1](http://arxiv.org/pdf/2405.02250v1)|null|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246v1](http://arxiv.org/abs/2405.02246v1)|[2405.02246v1](http://arxiv.org/pdf/2405.02246v1)|null|
