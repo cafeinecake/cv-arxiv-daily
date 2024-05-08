@@ -1,11 +1,11 @@
-> Updated on 2024.05.07
+> Updated on 2024.05.08
 
 ## Astrophysics
 
 - 2024-05-06, **JWST Observations of Starbursts: Cold Clouds and Plumes Launching in the M82 Outflow**, Deanne B. Fisher et.al., Paper: [http://arxiv.org/abs/2405.03686v1](http://arxiv.org/abs/2405.03686v1), Paper: [http://arxiv.org/abs/2405.03686v1](http://arxiv.org/pdf/2405.03686v1)
-- 2024-05-06, **Planetary Nebulae of the Large Magellanic Cloud I: A multiwavelength analysis**, Silvia Tosi et.al., Paper: [http://arxiv.org/abs/2405.03640v1](http://arxiv.org/abs/2405.03640v1), Paper: [http://arxiv.org/abs/2405.03640v1](http://arxiv.org/pdf/2405.03640v1)
+- 2024-05-07, **Planetary Nebulae of the Large Magellanic Cloud I: A multiwavelength analysis**, Silvia Tosi et.al., Paper: [http://arxiv.org/abs/2405.03640v2](http://arxiv.org/abs/2405.03640v2), Paper: [http://arxiv.org/abs/2405.03640v2](http://arxiv.org/pdf/2405.03640v2)
 - 2024-05-06, **Investigating the Hubble Tension and $σ_8$ Discrepancy in f(Q) Cosmology**, Ziad Sakr et.al., Paper: [http://arxiv.org/abs/2405.03627v1](http://arxiv.org/abs/2405.03627v1), Paper: [http://arxiv.org/abs/2405.03627v1](http://arxiv.org/pdf/2405.03627v1)
-- 2024-05-06, **Emergence of Cosmic Space and Horizon Thermodynamics from Kaniadakis Entropy**, Pranav Prasanthan et.al., Paper: [http://arxiv.org/abs/2405.03592v1](http://arxiv.org/abs/2405.03592v1), Paper: [http://arxiv.org/abs/2405.03592v1](http://arxiv.org/pdf/2405.03592v1)
+- 2024-05-07, **Emergence of Cosmic Space and Horizon Thermodynamics from Kaniadakis Entropy**, Pranav Prasanthan et.al., Paper: [http://arxiv.org/abs/2405.03592v2](http://arxiv.org/abs/2405.03592v2), Paper: [http://arxiv.org/abs/2405.03592v2](http://arxiv.org/pdf/2405.03592v2)
 - 2024-05-06, **Opening a meV mass window for Axion-like particles with a microwave-laser-mixed stimulated resonant photon collider**, Kensuke Homma et.al., Paper: [http://arxiv.org/abs/2405.03577v1](http://arxiv.org/abs/2405.03577v1), Paper: [http://arxiv.org/abs/2405.03577v1](http://arxiv.org/pdf/2405.03577v1)
 - 2024-05-06, **Impact of Planetary Parameters on Water Clouds Microphysics**, Huanzhou Yang et.al., Paper: [http://arxiv.org/abs/2405.03570v1](http://arxiv.org/abs/2405.03570v1), Paper: [http://arxiv.org/abs/2405.03570v1](http://arxiv.org/pdf/2405.03570v1)
 - 2024-05-06, **Connection formulae in the Collision Limit I: Case Studies in Lifshitz Geometry**, Hao Zhao et.al., Paper: [http://arxiv.org/abs/2405.03564v1](http://arxiv.org/abs/2405.03564v1), Paper: [http://arxiv.org/abs/2405.03564v1](http://arxiv.org/pdf/2405.03564v1)
@@ -4698,7 +4698,7 @@
 - 2024-05-06, **MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**, Qianning Wang et.al., Paper: [http://arxiv.org/abs/2405.03673v1](http://arxiv.org/abs/2405.03673v1), Paper: [http://arxiv.org/abs/2405.03673v1](http://arxiv.org/pdf/2405.03673v1)
 - 2024-05-06, **Prompting Task Trees using Gemini: Methodologies and Insights**, Pallavi Tandra et.al., Paper: [http://arxiv.org/abs/2405.03671v1](http://arxiv.org/abs/2405.03671v1), Paper: [http://arxiv.org/abs/2405.03671v1](http://arxiv.org/pdf/2405.03671v1)
 - 2024-05-06, **ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection**, Arpit Bahety et.al., Paper: [http://arxiv.org/abs/2405.03666v1](http://arxiv.org/abs/2405.03666v1), Paper: [http://arxiv.org/abs/2405.03666v1](http://arxiv.org/pdf/2405.03666v1)
-- 2024-05-06, **Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent**, Shang Shang et.al., Paper: [http://arxiv.org/abs/2405.03654v1](http://arxiv.org/abs/2405.03654v1), Paper: [http://arxiv.org/abs/2405.03654v1](http://arxiv.org/pdf/2405.03654v1)
+- 2024-05-07, **Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent**, Shang Shang et.al., Paper: [http://arxiv.org/abs/2405.03654v2](http://arxiv.org/abs/2405.03654v2), Paper: [http://arxiv.org/abs/2405.03654v2](http://arxiv.org/pdf/2405.03654v2)
 - 2024-05-06, **Generated Contents Enrichment**, Mahdi Naseri et.al., Paper: [http://arxiv.org/abs/2405.03650v1](http://arxiv.org/abs/2405.03650v1), Paper: [http://arxiv.org/abs/2405.03650v1](http://arxiv.org/pdf/2405.03650v1)
 - 2024-05-06, **When LLMs Meet Cybersecurity: A Systematic Literature Review**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2405.03644v1](http://arxiv.org/abs/2405.03644v1), Paper: [http://arxiv.org/abs/2405.03644v1](http://arxiv.org/pdf/2405.03644v1)
 - 2024-05-06, **Detecting Android Malware: From Neural Embeddings to Hands-On Validation with BERTroid**, Meryam Chaieb et.al., Paper: [http://arxiv.org/abs/2405.03620v1](http://arxiv.org/abs/2405.03620v1), Paper: [http://arxiv.org/abs/2405.03620v1](http://arxiv.org/pdf/2405.03620v1)
