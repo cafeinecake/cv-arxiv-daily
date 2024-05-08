@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-07**|**On-orbit Degradation of the JWST/NIRSpec Micro-Shutter Array: Multiplexing and Target Acquisition**|Peter Jakobsen et.al.|[2405.04530v1](http://arxiv.org/abs/2405.04530v1)|[2405.04530v1](http://arxiv.org/pdf/2405.04530v1)|null|
+|**2024-05-07**|**The six-planet resonant chain of HD 110067**|Caleb Lammers et.al.|[2405.04527v1](http://arxiv.org/abs/2405.04527v1)|[2405.04527v1](http://arxiv.org/pdf/2405.04527v1)|null|
+|**2024-05-07**|**Astrometric Redshifts of Supernovae**|Jaemyoung et.al.|[2405.04522v1](http://arxiv.org/abs/2405.04522v1)|[2405.04522v1](http://arxiv.org/pdf/2405.04522v1)|null|
+|**2024-05-07**|**SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45$^\circ$598 Debris Disk**|Maria Vincent et.al.|[2405.04521v1](http://arxiv.org/abs/2405.04521v1)|[2405.04521v1](http://arxiv.org/pdf/2405.04521v1)|null|
+|**2024-05-07**|**The Chemical Composition of Ryugu: Prospects as a Reference Material for Solar System Composition**|Tetsuya Yokoyama et.al.|[2405.04500v1](http://arxiv.org/abs/2405.04500v1)|[2405.04500v1](http://arxiv.org/pdf/2405.04500v1)|null|
+|**2024-05-07**|**Galactic transient sources with the Cherenkov Telescope Array**|Cherenkov Telescope Array Consortium et.al.|[2405.04469v1](http://arxiv.org/abs/2405.04469v1)|[2405.04469v1](http://arxiv.org/pdf/2405.04469v1)|null|
+|**2024-05-07**|**SPIRou spectropolarimetry of the T Tauri star TW Hydrae: magnetic fields, accretion and planets**|J. -F. Donati et.al.|[2405.04461v1](http://arxiv.org/abs/2405.04461v1)|[2405.04461v1](http://arxiv.org/pdf/2405.04461v1)|null|
+|**2024-05-07**|**Chemical abundances along the quasar main sequence**|A. Floris et.al.|[2405.04456v1](http://arxiv.org/abs/2405.04456v1)|[2405.04456v1](http://arxiv.org/pdf/2405.04456v1)|null|
+|**2024-05-07**|**Robust constraints on tensor perturbations from cosmological data: a comparative analysis from Bayesian and frequentist perspectives**|Giacomo Galloni et.al.|[2405.04455v1](http://arxiv.org/abs/2405.04455v1)|[2405.04455v1](http://arxiv.org/pdf/2405.04455v1)|null|
+|**2024-05-07**|**Constraining Millicharged dark matter with Gravitational positivity bounds**|Suro Kim et.al.|[2405.04454v1](http://arxiv.org/abs/2405.04454v1)|[2405.04454v1](http://arxiv.org/pdf/2405.04454v1)|null|
 |**2024-05-06**|**JWST Observations of Starbursts: Cold Clouds and Plumes Launching in the M82 Outflow**|Deanne B. Fisher et.al.|[2405.03686v1](http://arxiv.org/abs/2405.03686v1)|[2405.03686v1](http://arxiv.org/pdf/2405.03686v1)|null|
 |**2024-05-07**|**Planetary Nebulae of the Large Magellanic Cloud I: A multiwavelength analysis**|Silvia Tosi et.al.|[2405.03640v2](http://arxiv.org/abs/2405.03640v2)|[2405.03640v2](http://arxiv.org/pdf/2405.03640v2)|null|
 |**2024-05-06**|**Investigating the Hubble Tension and $σ_8$ Discrepancy in f(Q) Cosmology**|Ziad Sakr et.al.|[2405.03627v1](http://arxiv.org/abs/2405.03627v1)|[2405.03627v1](http://arxiv.org/pdf/2405.03627v1)|null|
@@ -4701,6 +4711,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-07**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532v1](http://arxiv.org/abs/2405.04532v1)|[2405.04532v1](http://arxiv.org/pdf/2405.04532v1)|**[link](https://github.com/mit-han-lab/qserve)**|
+|**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517v1](http://arxiv.org/abs/2405.04517v1)|[2405.04517v1](http://arxiv.org/pdf/2405.04517v1)|null|
+|**2024-05-07**|**Switchable Decision: Dynamic Neural Generation Networks**|Shujian Zhang et.al.|[2405.04513v1](http://arxiv.org/abs/2405.04513v1)|[2405.04513v1](http://arxiv.org/pdf/2405.04513v1)|null|
+|**2024-05-07**|**Toward In-Context Teaching: Adapting Examples to Students' Misconceptions**|Alexis Ross et.al.|[2405.04495v1](http://arxiv.org/abs/2405.04495v1)|[2405.04495v1](http://arxiv.org/pdf/2405.04495v1)|null|
+|**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491v1](http://arxiv.org/abs/2405.04491v1)|[2405.04491v1](http://arxiv.org/pdf/2405.04491v1)|null|
+|**2024-05-07**|**Concentration Tail-Bound Analysis of Coevolutionary and Bandit Learning Algorithms**|Per Kristian Lehre et.al.|[2405.04480v1](http://arxiv.org/abs/2405.04480v1)|[2405.04480v1](http://arxiv.org/pdf/2405.04480v1)|null|
+|**2024-05-07**|**A Significantly Better Class of Activation Functions Than ReLU Like Activation Functions**|Mathew Mithra Noel et.al.|[2405.04459v1](http://arxiv.org/abs/2405.04459v1)|[2405.04459v1](http://arxiv.org/pdf/2405.04459v1)|null|
+|**2024-05-07**|**Towards Continual Knowledge Graph Embedding via Incremental Distillation**|Jiajun Liu et.al.|[2405.04453v1](http://arxiv.org/abs/2405.04453v1)|[2405.04453v1](http://arxiv.org/pdf/2405.04453v1)|**[link](https://github.com/seukgcode/incde)**|
+|**2024-05-07**|**POV Learning: Individual Alignment of Multimodal Models using Human Perception**|Simon Werner et.al.|[2405.04443v1](http://arxiv.org/abs/2405.04443v1)|[2405.04443v1](http://arxiv.org/pdf/2405.04443v1)|null|
+|**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442v1](http://arxiv.org/abs/2405.04442v1)|[2405.04442v1](http://arxiv.org/pdf/2405.04442v1)|**[link](https://github.com/smartory/augmentory)**|
 |**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685v1](http://arxiv.org/abs/2405.03685v1)|[2405.03685v1](http://arxiv.org/pdf/2405.03685v1)|null|
 |**2024-05-06**|**Towards A Human-in-the-Loop LLM Approach to Collaborative Discourse Analysis**|Clayton Cohn et.al.|[2405.03677v1](http://arxiv.org/abs/2405.03677v1)|[2405.03677v1](http://arxiv.org/pdf/2405.03677v1)|null|
 |**2024-05-06**|**MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**|Qianning Wang et.al.|[2405.03673v1](http://arxiv.org/abs/2405.03673v1)|[2405.03673v1](http://arxiv.org/pdf/2405.03673v1)|null|
