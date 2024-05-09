@@ -1,4 +1,4 @@
-> Updated on 2024.05.08
+> Updated on 2024.05.09
 
 ## Astrophysics
 
@@ -6,7 +6,7 @@
 - 2024-05-07, **The six-planet resonant chain of HD 110067**, Caleb Lammers et.al., Paper: [http://arxiv.org/abs/2405.04527v1](http://arxiv.org/abs/2405.04527v1), Paper: [http://arxiv.org/abs/2405.04527v1](http://arxiv.org/pdf/2405.04527v1)
 - 2024-05-07, **Astrometric Redshifts of Supernovae**, Jaemyoung et.al., Paper: [http://arxiv.org/abs/2405.04522v1](http://arxiv.org/abs/2405.04522v1), Paper: [http://arxiv.org/abs/2405.04522v1](http://arxiv.org/pdf/2405.04522v1)
 - 2024-05-07, **SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45$^\circ$598 Debris Disk**, Maria Vincent et.al., Paper: [http://arxiv.org/abs/2405.04521v1](http://arxiv.org/abs/2405.04521v1), Paper: [http://arxiv.org/abs/2405.04521v1](http://arxiv.org/pdf/2405.04521v1)
-- 2024-05-07, **The Chemical Composition of Ryugu: Prospects as a Reference Material for Solar System Composition**, Tetsuya Yokoyama et.al., Paper: [http://arxiv.org/abs/2405.04500v1](http://arxiv.org/abs/2405.04500v1), Paper: [http://arxiv.org/abs/2405.04500v1](http://arxiv.org/pdf/2405.04500v1)
+- 2024-05-08, **The Chemical Composition of Ryugu: Prospects as a Reference Material for Solar System Composition**, Tetsuya Yokoyama et.al., Paper: [http://arxiv.org/abs/2405.04500v2](http://arxiv.org/abs/2405.04500v2), Paper: [http://arxiv.org/abs/2405.04500v2](http://arxiv.org/pdf/2405.04500v2)
 - 2024-05-07, **Galactic transient sources with the Cherenkov Telescope Array**, Cherenkov Telescope Array Consortium et.al., Paper: [http://arxiv.org/abs/2405.04469v1](http://arxiv.org/abs/2405.04469v1), Paper: [http://arxiv.org/abs/2405.04469v1](http://arxiv.org/pdf/2405.04469v1)
 - 2024-05-07, **SPIRou spectropolarimetry of the T Tauri star TW Hydrae: magnetic fields, accretion and planets**, J. -F. Donati et.al., Paper: [http://arxiv.org/abs/2405.04461v1](http://arxiv.org/abs/2405.04461v1), Paper: [http://arxiv.org/abs/2405.04461v1](http://arxiv.org/pdf/2405.04461v1)
 - 2024-05-07, **Chemical abundances along the quasar main sequence**, A. Floris et.al., Paper: [http://arxiv.org/abs/2405.04456v1](http://arxiv.org/abs/2405.04456v1), Paper: [http://arxiv.org/abs/2405.04456v1](http://arxiv.org/pdf/2405.04456v1)
@@ -4712,7 +4712,7 @@
 - 2024-05-07, **A Significantly Better Class of Activation Functions Than ReLU Like Activation Functions**, Mathew Mithra Noel et.al., Paper: [http://arxiv.org/abs/2405.04459v1](http://arxiv.org/abs/2405.04459v1), Paper: [http://arxiv.org/abs/2405.04459v1](http://arxiv.org/pdf/2405.04459v1)
 - 2024-05-07, **Towards Continual Knowledge Graph Embedding via Incremental Distillation**, Jiajun Liu et.al., Paper: [http://arxiv.org/abs/2405.04453v1](http://arxiv.org/abs/2405.04453v1),Paper: [http://arxiv.org/abs/2405.04453v1](http://arxiv.org/pdf/2405.04453v1), Code: **[https://github.com/seukgcode/incde](https://github.com/seukgcode/incde)**
 - 2024-05-07, **POV Learning: Individual Alignment of Multimodal Models using Human Perception**, Simon Werner et.al., Paper: [http://arxiv.org/abs/2405.04443v1](http://arxiv.org/abs/2405.04443v1), Paper: [http://arxiv.org/abs/2405.04443v1](http://arxiv.org/pdf/2405.04443v1)
-- 2024-05-07, **AugmenTory: A Fast and Flexible Polygon Augmentation Library**, Tanaz Ghahremani et.al., Paper: [http://arxiv.org/abs/2405.04442v1](http://arxiv.org/abs/2405.04442v1),Paper: [http://arxiv.org/abs/2405.04442v1](http://arxiv.org/pdf/2405.04442v1), Code: **[https://github.com/smartory/augmentory](https://github.com/smartory/augmentory)**
+- 2024-05-07, **AugmenTory: A Fast and Flexible Polygon Augmentation Library**, Tanaz Ghahremani et.al., Paper: [http://arxiv.org/abs/2405.04442v1](http://arxiv.org/abs/2405.04442v1), Paper: [http://arxiv.org/abs/2405.04442v1](http://arxiv.org/pdf/2405.04442v1)
 - 2024-05-06, **Language-Image Models with 3D Understanding**, Jang Hyun Cho et.al., Paper: [http://arxiv.org/abs/2405.03685v1](http://arxiv.org/abs/2405.03685v1), Paper: [http://arxiv.org/abs/2405.03685v1](http://arxiv.org/pdf/2405.03685v1)
 - 2024-05-06, **Towards A Human-in-the-Loop LLM Approach to Collaborative Discourse Analysis**, Clayton Cohn et.al., Paper: [http://arxiv.org/abs/2405.03677v1](http://arxiv.org/abs/2405.03677v1), Paper: [http://arxiv.org/abs/2405.03677v1](http://arxiv.org/pdf/2405.03677v1)
 - 2024-05-06, **MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**, Qianning Wang et.al., Paper: [http://arxiv.org/abs/2405.03673v1](http://arxiv.org/abs/2405.03673v1), Paper: [http://arxiv.org/abs/2405.03673v1](http://arxiv.org/pdf/2405.03673v1)
