@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255v1](http://arxiv.org/abs/2405.05255v1)|[2405.05255v1](http://arxiv.org/pdf/2405.05255v1)|null|
+|**2024-05-08**|**DanceCam: atmospheric turbulence mitigation in wide-field astronomical images with short-exposure video streams**|Spencer Bialek et.al.|[2405.05250v1](http://arxiv.org/abs/2405.05250v1)|[2405.05250v1](http://arxiv.org/pdf/2405.05250v1)|null|
+|**2024-05-08**|**Neutrinos and gamma rays from beta decays in an active galactic nucleus NGC 1068 jet**|Koichiro Yasuda et.al.|[2405.05247v1](http://arxiv.org/abs/2405.05247v1)|[2405.05247v1](http://arxiv.org/pdf/2405.05247v1)|null|
+|**2024-05-08**|**XMM-Newton observations of the extragalactic microquasar S26 and their implications for PeV cosmic rays**|L. Abaroa et.al.|[2405.05221v1](http://arxiv.org/abs/2405.05221v1)|[2405.05221v1](http://arxiv.org/pdf/2405.05221v1)|null|
+|**2024-05-08**|**Why the Universal Threshold for Primordial Black Hole Formation is Universal**|Alex Kehagias et.al.|[2405.05208v1](http://arxiv.org/abs/2405.05208v1)|[2405.05208v1](http://arxiv.org/pdf/2405.05208v1)|null|
+|**2024-05-08**|**In-depth analysis of LISA Pathfinder performance results: time evolution, noise projection, physical models, and implications for LISA**|M. Armano et.al.|[2405.05207v1](http://arxiv.org/abs/2405.05207v1)|[2405.05207v1](http://arxiv.org/pdf/2405.05207v1)|null|
+|**2024-05-08**|**Automation of MKID Simulations for Array Building with AEM (Automated Electromagnetic MKID Simulations)**|Cáthal McAleer et.al.|[2405.05198v1](http://arxiv.org/abs/2405.05198v1)|[2405.05198v1](http://arxiv.org/pdf/2405.05198v1)|null|
+|**2024-05-08**|**ContEvol formalism: possibly a new twist on computational physics**|Kaili Cao et.al.|[2405.05188v1](http://arxiv.org/abs/2405.05188v1)|[2405.05188v1](http://arxiv.org/pdf/2405.05188v1)|null|
+|**2024-05-08**|**Machine Learning Assisted Dynamical Classification of Trans-Neptunian Objects**|Kathryn Volk et.al.|[2405.05185v1](http://arxiv.org/abs/2405.05185v1)|[2405.05185v1](http://arxiv.org/pdf/2405.05185v1)|null|
+|**2024-05-08**|**The role of AGN winds in galaxy formation: connecting AGN outflows at low redshifts to the formation/evolution of their host galaxies**|Juan Pablo Torres-Papaqui et.al.|[2405.05184v1](http://arxiv.org/abs/2405.05184v1)|[2405.05184v1](http://arxiv.org/pdf/2405.05184v1)|null|
 |**2024-05-07**|**On-orbit Degradation of the JWST/NIRSpec Micro-Shutter Array: Multiplexing and Target Acquisition**|Peter Jakobsen et.al.|[2405.04530v1](http://arxiv.org/abs/2405.04530v1)|[2405.04530v1](http://arxiv.org/pdf/2405.04530v1)|null|
 |**2024-05-07**|**The six-planet resonant chain of HD 110067**|Caleb Lammers et.al.|[2405.04527v1](http://arxiv.org/abs/2405.04527v1)|[2405.04527v1](http://arxiv.org/pdf/2405.04527v1)|null|
 |**2024-05-07**|**Astrometric Redshifts of Supernovae**|Jaemyoung et.al.|[2405.04522v1](http://arxiv.org/abs/2405.04522v1)|[2405.04522v1](http://arxiv.org/pdf/2405.04522v1)|null|
@@ -4711,6 +4721,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256v1](http://arxiv.org/abs/2405.05256v1)|[2405.05256v1](http://arxiv.org/pdf/2405.05256v1)|null|
+|**2024-05-08**|**Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge**|Charles Koutcheme et.al.|[2405.05253v1](http://arxiv.org/abs/2405.05253v1)|[2405.05253v1](http://arxiv.org/pdf/2405.05253v1)|**[link](https://github.com/koutchemecharles/iticse24)**|
+|**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252v1](http://arxiv.org/abs/2405.05252v1)|[2405.05252v1](http://arxiv.org/pdf/2405.05252v1)|null|
+|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v1](http://arxiv.org/abs/2405.05248v1)|[2405.05248v1](http://arxiv.org/pdf/2405.05248v1)|null|
+|**2024-05-08**|**SVDD Challenge 2024: A Singing Voice Deepfake Detection Challenge Evaluation Plan**|You Zhang et.al.|[2405.05244v1](http://arxiv.org/abs/2405.05244v1)|[2405.05244v1](http://arxiv.org/pdf/2405.05244v1)|**[link](https://github.com/svddchallenge/ctrsvdd2024_baseline)**|
+|**2024-05-08**|**EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning**|Jingfeng Yao et.al.|[2405.05237v1](http://arxiv.org/abs/2405.05237v1)|[2405.05237v1](http://arxiv.org/pdf/2405.05237v1)|**[link](https://github.com/hustvl/eva-x)**|
+|**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219v1](http://arxiv.org/abs/2405.05219v1)|[2405.05219v1](http://arxiv.org/pdf/2405.05219v1)|null|
+|**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189v1](http://arxiv.org/abs/2405.05189v1)|[2405.05189v1](http://arxiv.org/pdf/2405.05189v1)|null|
+|**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173v1](http://arxiv.org/abs/2405.05173v1)|[2405.05173v1](http://arxiv.org/pdf/2405.05173v1)|null|
+|**2024-05-08**|**Selective Classification Under Distribution Shifts**|Hengyue Liang et.al.|[2405.05160v1](http://arxiv.org/abs/2405.05160v1)|[2405.05160v1](http://arxiv.org/pdf/2405.05160v1)|null|
 |**2024-05-07**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532v1](http://arxiv.org/abs/2405.04532v1)|[2405.04532v1](http://arxiv.org/pdf/2405.04532v1)|**[link](https://github.com/mit-han-lab/qserve)**|
 |**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517v1](http://arxiv.org/abs/2405.04517v1)|[2405.04517v1](http://arxiv.org/pdf/2405.04517v1)|null|
 |**2024-05-07**|**Switchable Decision: Dynamic Neural Generation Networks**|Shujian Zhang et.al.|[2405.04513v1](http://arxiv.org/abs/2405.04513v1)|[2405.04513v1](http://arxiv.org/pdf/2405.04513v1)|null|
