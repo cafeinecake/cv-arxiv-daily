@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-09**|**Learned harmonic mean estimation of the Bayesian evidence with normalizing flows**|Alicja Polanska et.al.|[2405.05969v1](http://arxiv.org/abs/2405.05969v1)|[2405.05969v1](http://arxiv.org/pdf/2405.05969v1)|null|
+|**2024-05-09**|**The effects of bar strength and kinematics on galaxy evolution: slow strong bars affect their hosts the most**|Tobias Géron et.al.|[2405.05960v1](http://arxiv.org/abs/2405.05960v1)|[2405.05960v1](http://arxiv.org/pdf/2405.05960v1)|null|
+|**2024-05-09**|**Alleviating $H_0$ and $S_8$ Tensions Simultaneously in K-essence Cosmology**|Seyed Ali Hosseini Mansoori et.al.|[2405.05843v1](http://arxiv.org/abs/2405.05843v1)|[2405.05843v1](http://arxiv.org/pdf/2405.05843v1)|null|
+|**2024-05-09**|**FREmu: Power Spectrum Emulator for $f(R)$ Gravity**|Jiachen Bai et.al.|[2405.05840v1](http://arxiv.org/abs/2405.05840v1)|[2405.05840v1](http://arxiv.org/pdf/2405.05840v1)|null|
+|**2024-05-09**|**X-ray signatures of galactic outflows into the circumgalactic medium**|Ranita Jana et.al.|[2405.05819v1](http://arxiv.org/abs/2405.05819v1)|[2405.05819v1](http://arxiv.org/pdf/2405.05819v1)|null|
+|**2024-05-09**|**Time-dependent long-term hydrodynamic simulations of the inner protoplanetary disk III: The influence of photoevaporation**|M. Cecil et.al.|[2405.05816v1](http://arxiv.org/abs/2405.05816v1)|[2405.05816v1](http://arxiv.org/pdf/2405.05816v1)|null|
+|**2024-05-09**|**A Sagittarius-like simulated dwarf spheroidal galaxy from TNG50**|Ewa L. Lokas et.al.|[2405.05805v1](http://arxiv.org/abs/2405.05805v1)|[2405.05805v1](http://arxiv.org/pdf/2405.05805v1)|null|
+|**2024-05-09**|**A PAge-like Unified Dark Fluid Model**|Junchao Wang et.al.|[2405.05798v1](http://arxiv.org/abs/2405.05798v1)|[2405.05798v1](http://arxiv.org/pdf/2405.05798v1)|null|
+|**2024-05-09**|**Determining the population of Large Meteoroids in Major Meteor Showers**|Kasia Wisniewski et.al.|[2405.05788v1](http://arxiv.org/abs/2405.05788v1)|[2405.05788v1](http://arxiv.org/pdf/2405.05788v1)|null|
+|**2024-05-09**|**JADES - The small blue bump in GN-z11: insights into the nuclear region of a galaxy at z=10.6**|Xihan Ji et.al.|[2405.05772v1](http://arxiv.org/abs/2405.05772v1)|[2405.05772v1](http://arxiv.org/pdf/2405.05772v1)|null|
 |**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255v1](http://arxiv.org/abs/2405.05255v1)|[2405.05255v1](http://arxiv.org/pdf/2405.05255v1)|**[link](https://github.com/nmudur/diffusion-hmc)**|
 |**2024-05-08**|**DanceCam: atmospheric turbulence mitigation in wide-field astronomical images with short-exposure video streams**|Spencer Bialek et.al.|[2405.05250v1](http://arxiv.org/abs/2405.05250v1)|[2405.05250v1](http://arxiv.org/pdf/2405.05250v1)|null|
 |**2024-05-08**|**Neutrinos and gamma rays from beta decays in an active galactic nucleus NGC 1068 jet**|Koichiro Yasuda et.al.|[2405.05247v1](http://arxiv.org/abs/2405.05247v1)|[2405.05247v1](http://arxiv.org/pdf/2405.05247v1)|null|
@@ -4717,6 +4727,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-09**|**Natural Language Processing RELIES on Linguistics**|Juri Opitz et.al.|[2405.05966v1](http://arxiv.org/abs/2405.05966v1)|[2405.05966v1](http://arxiv.org/pdf/2405.05966v1)|null|
+|**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|[2405.05959v1](http://arxiv.org/pdf/2405.05959v1)|**[link](https://github.com/eqtpartners/tsde)**|
+|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|[2405.05950v1](http://arxiv.org/pdf/2405.05950v1)|null|
+|**2024-05-09**|**Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness**|Siyuan Li et.al.|[2405.05930v1](http://arxiv.org/abs/2405.05930v1)|[2405.05930v1](http://arxiv.org/pdf/2405.05930v1)|null|
+|**2024-05-09**|**FuXi-ENS: A machine learning model for medium-range ensemble weather forecasting**|Xiaohui Zhong et.al.|[2405.05925v1](http://arxiv.org/abs/2405.05925v1)|[2405.05925v1](http://arxiv.org/pdf/2405.05925v1)|null|
+|**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908v1](http://arxiv.org/abs/2405.05908v1)|[2405.05908v1](http://arxiv.org/pdf/2405.05908v1)|null|
+|**2024-05-09**|**Truthful Aggregation of LLMs with an Application to Online Advertising**|Ermis Soumalias et.al.|[2405.05905v1](http://arxiv.org/abs/2405.05905v1)|[2405.05905v1](http://arxiv.org/pdf/2405.05905v1)|null|
+|**2024-05-09**|**Safe Exploration Using Bayesian World Models and Log-Barrier Optimization**|Yarden As et.al.|[2405.05890v1](http://arxiv.org/abs/2405.05890v1)|[2405.05890v1](http://arxiv.org/pdf/2405.05890v1)|null|
+|**2024-05-09**|**Composable Part-Based Manipulation**|Weiyu Liu et.al.|[2405.05876v1](http://arxiv.org/abs/2405.05876v1)|[2405.05876v1](http://arxiv.org/pdf/2405.05876v1)|null|
+|**2024-05-09**|**Selecting the Most Conflicting Pair of Candidates**|Théo Delemazure et.al.|[2405.05870v1](http://arxiv.org/abs/2405.05870v1)|[2405.05870v1](http://arxiv.org/pdf/2405.05870v1)|**[link](https://github.com/project-pragma/conflictual-rules--ijcai-24)**|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256v1](http://arxiv.org/abs/2405.05256v1)|[2405.05256v1](http://arxiv.org/pdf/2405.05256v1)|null|
 |**2024-05-08**|**Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge**|Charles Koutcheme et.al.|[2405.05253v1](http://arxiv.org/abs/2405.05253v1)|[2405.05253v1](http://arxiv.org/pdf/2405.05253v1)|**[link](https://github.com/koutchemecharles/iticse24)**|
 |**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252v1](http://arxiv.org/abs/2405.05252v1)|[2405.05252v1](http://arxiv.org/pdf/2405.05252v1)|null|
