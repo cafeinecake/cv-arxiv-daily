@@ -1,4 +1,4 @@
-## Updated on 2024.05.11
+## Updated on 2024.05.12
 
 ## Astrophysics
 
@@ -13,7 +13,7 @@
 |**2024-05-09**|**A Sagittarius-like simulated dwarf spheroidal galaxy from TNG50**|Ewa L. Lokas et.al.|[2405.05805v1](http://arxiv.org/abs/2405.05805v1)|[2405.05805v1](http://arxiv.org/pdf/2405.05805v1)|null|
 |**2024-05-09**|**A PAge-like Unified Dark Fluid Model**|Junchao Wang et.al.|[2405.05798v1](http://arxiv.org/abs/2405.05798v1)|[2405.05798v1](http://arxiv.org/pdf/2405.05798v1)|null|
 |**2024-05-09**|**Determining the population of Large Meteoroids in Major Meteor Showers**|Kasia Wisniewski et.al.|[2405.05788v1](http://arxiv.org/abs/2405.05788v1)|[2405.05788v1](http://arxiv.org/pdf/2405.05788v1)|null|
-|**2024-05-09**|**JADES - The small blue bump in GN-z11: insights into the nuclear region of a galaxy at z=10.6**|Xihan Ji et.al.|[2405.05772v1](http://arxiv.org/abs/2405.05772v1)|[2405.05772v1](http://arxiv.org/pdf/2405.05772v1)|null|
+|**2024-05-09**|**JADES -- The small blue bump in GN-z11: insights into the nuclear region of a galaxy at z=10.6**|Xihan Ji et.al.|[2405.05772v1](http://arxiv.org/abs/2405.05772v1)|[2405.05772v1](http://arxiv.org/pdf/2405.05772v1)|null|
 |**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255v1](http://arxiv.org/abs/2405.05255v1)|[2405.05255v1](http://arxiv.org/pdf/2405.05255v1)|**[link](https://github.com/nmudur/diffusion-hmc)**|
 |**2024-05-08**|**DanceCam: atmospheric turbulence mitigation in wide-field astronomical images with short-exposure video streams**|Spencer Bialek et.al.|[2405.05250v1](http://arxiv.org/abs/2405.05250v1)|[2405.05250v1](http://arxiv.org/pdf/2405.05250v1)|null|
 |**2024-05-08**|**Neutrinos and gamma rays from beta decays in an active galactic nucleus NGC 1068 jet**|Koichiro Yasuda et.al.|[2405.05247v1](http://arxiv.org/abs/2405.05247v1)|[2405.05247v1](http://arxiv.org/pdf/2405.05247v1)|null|
