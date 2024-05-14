@@ -1,4 +1,4 @@
-> Updated on 2024.05.13
+> Updated on 2024.05.14
 
 ## Astrophysics
 
@@ -4733,7 +4733,7 @@
 
 ## AI
 
-- 2024-05-10, **Value Augmented Sampling for Language Model Alignment and Personalization**, Seungwook Han et.al., Paper: [http://arxiv.org/abs/2405.06639v1](http://arxiv.org/abs/2405.06639v1), Paper: [http://arxiv.org/abs/2405.06639v1](http://arxiv.org/pdf/2405.06639v1)
+- 2024-05-10, **Value Augmented Sampling for Language Model Alignment and Personalization**, Seungwook Han et.al., Paper: [http://arxiv.org/abs/2405.06639v1](http://arxiv.org/abs/2405.06639v1),Paper: [http://arxiv.org/abs/2405.06639v1](http://arxiv.org/pdf/2405.06639v1), Code: **[https://github.com/idanshen/Value-Augmented-Sampling](https://github.com/idanshen/Value-Augmented-Sampling)**
 - 2024-05-10, **Federated Document Visual Question Answering: A Pilot Study**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2405.06636v1](http://arxiv.org/abs/2405.06636v1), Paper: [http://arxiv.org/abs/2405.06636v1](http://arxiv.org/pdf/2405.06636v1)
 - 2024-05-10, **Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**, Evan M. Williams et.al., Paper: [http://arxiv.org/abs/2405.06634v1](http://arxiv.org/abs/2405.06634v1), Paper: [http://arxiv.org/abs/2405.06634v1](http://arxiv.org/pdf/2405.06634v1)
 - 2024-05-10, **Conformal Validity Guarantees Exist for Any Data Distribution**, Drew Prinster et.al., Paper: [http://arxiv.org/abs/2405.06627v1](http://arxiv.org/abs/2405.06627v1),Paper: [http://arxiv.org/abs/2405.06627v1](http://arxiv.org/pdf/2405.06627v1), Code: **[https://github.com/drewprinster/conformal-mfcs](https://github.com/drewprinster/conformal-mfcs)**

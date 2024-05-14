@@ -1,4 +1,4 @@
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 
 ## Astrophysics
 
@@ -4737,7 +4737,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639v1](http://arxiv.org/abs/2405.06639v1)|[2405.06639v1](http://arxiv.org/pdf/2405.06639v1)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639v1](http://arxiv.org/abs/2405.06639v1)|[2405.06639v1](http://arxiv.org/pdf/2405.06639v1)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|[2405.06636v1](http://arxiv.org/pdf/2405.06636v1)|null|
 |**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v1](http://arxiv.org/abs/2405.06634v1)|[2405.06634v1](http://arxiv.org/pdf/2405.06634v1)|null|
 |**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627v1](http://arxiv.org/abs/2405.06627v1)|[2405.06627v1](http://arxiv.org/pdf/2405.06627v1)|**[link](https://github.com/drewprinster/conformal-mfcs)**|
