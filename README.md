@@ -1,4 +1,4 @@
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 
 ## Astrophysics
 
@@ -7,7 +7,7 @@
 |**2024-05-13**|**JWST's PEARLS: resolved study of the stellar and dust components in starburst galaxies at cosmic noon**|M. Polletta et.al.|[2405.07986v1](http://arxiv.org/abs/2405.07986v1)|[2405.07986v1](http://arxiv.org/pdf/2405.07986v1)|null|
 |**2024-05-13**|**Early phase simultaneous multi-band observations of Type II supernova SN 2024ggi with Mephisto**|Xinlei Chen et.al.|[2405.07964v1](http://arxiv.org/abs/2405.07964v1)|[2405.07964v1](http://arxiv.org/pdf/2405.07964v1)|null|
 |**2024-05-13**|**White paper on ($α$, n) neutron yields calculation**|D. Cano-Ott et.al.|[2405.07952v1](http://arxiv.org/abs/2405.07952v1)|[2405.07952v1](http://arxiv.org/pdf/2405.07952v1)|null|
-|**2024-05-13**|**GRASS II: Simulations of Potential Granulation Noise Mitigation Methods**|Michael L. Palumbo III et.al.|[2405.07945v1](http://arxiv.org/abs/2405.07945v1)|[2405.07945v1](http://arxiv.org/pdf/2405.07945v1)|null|
+|**2024-05-14**|**GRASS II: Simulations of Potential Granulation Noise Mitigation Methods**|Michael L. Palumbo III et.al.|[2405.07945v2](http://arxiv.org/abs/2405.07945v2)|[2405.07945v2](http://arxiv.org/pdf/2405.07945v2)|null|
 |**2024-05-13**|**Comparative study of the direct $^{16}{\rm O}(p, γ)^{17}{\rm F}$ astrophysical capture reaction within a potential model approach**|E. M. Tursunov et.al.|[2405.07935v1](http://arxiv.org/abs/2405.07935v1)|[2405.07935v1](http://arxiv.org/pdf/2405.07935v1)|null|
 |**2024-05-13**|**A radial decrease in kinetic temperature measured with formaldehyde in 30 Doradus**|Remy Indebetouw et.al.|[2405.07931v1](http://arxiv.org/abs/2405.07931v1)|[2405.07931v1](http://arxiv.org/pdf/2405.07931v1)|null|
 |**2024-05-13**|**Investigating the impact of galaxies' compact binary hosting probability for gravitational-wave cosmology**|Gabriele Perna et.al.|[2405.07904v1](http://arxiv.org/abs/2405.07904v1)|[2405.07904v1](http://arxiv.org/pdf/2405.07904v1)|null|
@@ -4747,7 +4747,7 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2024-05-13**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992v1](http://arxiv.org/abs/2405.07992v1)|[2405.07992v1](http://arxiv.org/pdf/2405.07992v1)|**[link](https://github.com/yuweihao/mambaout)**|
+|**2024-05-14**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992v2](http://arxiv.org/abs/2405.07992v2)|[2405.07992v2](http://arxiv.org/pdf/2405.07992v2)|**[link](https://github.com/yuweihao/mambaout)**|
 |**2024-05-13**|**SPIN: Simultaneous Perception, Interaction and Navigation**|Shagun Uppal et.al.|[2405.07991v1](http://arxiv.org/abs/2405.07991v1)|[2405.07991v1](http://arxiv.org/pdf/2405.07991v1)|null|
 |**2024-05-13**|**A Generalist Learner for Multifaceted Medical Image Interpretation**|Hong-Yu Zhou et.al.|[2405.07988v1](http://arxiv.org/abs/2405.07988v1)|[2405.07988v1](http://arxiv.org/pdf/2405.07988v1)|null|
 |**2024-05-13**|**The Platonic Representation Hypothesis**|Minyoung Huh et.al.|[2405.07987v1](http://arxiv.org/abs/2405.07987v1)|[2405.07987v1](http://arxiv.org/pdf/2405.07987v1)|**[link](https://github.com/minyoungg/platonic-rep)**|
