@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-15**|**Gravitational-wave model for neutron star merger remnants with supervised learning**|Theodoros Soultanis et.al.|[2405.09513v1](http://arxiv.org/abs/2405.09513v1)|[2405.09513v1](http://arxiv.org/pdf/2405.09513v1)|null|
+|**2024-05-15**|**The asymmetry of dawn: evidence for asymmetric reionization histories from a joint analysis of cosmic microwave background and astrophysical data**|Daniela Paoletti et.al.|[2405.09506v1](http://arxiv.org/abs/2405.09506v1)|[2405.09506v1](http://arxiv.org/pdf/2405.09506v1)|null|
+|**2024-05-15**|**Self-consistent modelling of the Milky Way structure using live potentials**|Eva Durán-Camacho et.al.|[2405.09503v1](http://arxiv.org/abs/2405.09503v1)|[2405.09503v1](http://arxiv.org/pdf/2405.09503v1)|null|
+|**2024-05-15**|**A dissipative extension to ideal hydrodynamics**|Marcus J. Hatton et.al.|[2405.09495v1](http://arxiv.org/abs/2405.09495v1)|[2405.09495v1](http://arxiv.org/pdf/2405.09495v1)|null|
+|**2024-05-15**|**Ghost stars in general relativity**|L. Herrera et.al.|[2405.09480v1](http://arxiv.org/abs/2405.09480v1)|[2405.09480v1](http://arxiv.org/pdf/2405.09480v1)|null|
+|**2024-05-15**|**Active Galactic Nuclei and STaR fOrmation in Nearby Galaxies (AGNSTRONG). I. Sample and Strategy**|Huynh Anh N. Le et.al.|[2405.09478v1](http://arxiv.org/abs/2405.09478v1)|[2405.09478v1](http://arxiv.org/pdf/2405.09478v1)|null|
+|**2024-05-15**|**Size and kinematics of the CIV broad emission line region from microlensing-induced line profile distortions in two gravitationally lensed quasars**|Damien Hutsemékers et.al.|[2405.09476v1](http://arxiv.org/abs/2405.09476v1)|[2405.09476v1](http://arxiv.org/pdf/2405.09476v1)|null|
+|**2024-05-15**|**Robust inference of gravitational wave source parameters in the presence of noise transients using normalizing flows**|Chun-Yu Xiong et.al.|[2405.09475v1](http://arxiv.org/abs/2405.09475v1)|[2405.09475v1](http://arxiv.org/pdf/2405.09475v1)|null|
+|**2024-05-15**|**Predicting Binary Neutron Star Postmerger Spectra Using Artificial Neural Networks**|Dimitrios Pesios et.al.|[2405.09468v1](http://arxiv.org/abs/2405.09468v1)|[2405.09468v1](http://arxiv.org/pdf/2405.09468v1)|null|
+|**2024-05-15**|**Constraining UV freeze-in of light relics with current and next-generation CMB observations**|Luca Caloni et.al.|[2405.09449v1](http://arxiv.org/abs/2405.09449v1)|[2405.09449v1](http://arxiv.org/pdf/2405.09449v1)|null|
 |**2024-05-14**|**Photon Ring Interferometric Signatures Beyond The Universal Regime**|He Jia et.al.|[2405.08804v1](http://arxiv.org/abs/2405.08804v1)|[2405.08804v1](http://arxiv.org/pdf/2405.08804v1)|null|
 |**2024-05-14**|**A Hot Mess: The Rich and Complex Soft Emitting Regions Surrounding the Reflection Dominated Flaring Central Engine of Mrk 1239**|Margaret Z. Buhariwalla et.al.|[2405.08785v1](http://arxiv.org/abs/2405.08785v1)|[2405.08785v1](http://arxiv.org/pdf/2405.08785v1)|null|
 |**2024-05-14**|**Low Mass Naked Singularities from Dark Core Collapse**|Chandrachur Chakraborty et.al.|[2405.08758v1](http://arxiv.org/abs/2405.08758v1)|[2405.08758v1](http://arxiv.org/pdf/2405.08758v1)|null|
@@ -4757,6 +4767,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-15**|**Energy-Efficient Sleep Mode Optimization of 5G mmWave Networks Using Deep Contextual MAB**|Saad Masrur et.al.|[2405.09528v1](http://arxiv.org/abs/2405.09528v1)|[2405.09528v1](http://arxiv.org/pdf/2405.09528v1)|null|
+|**2024-05-15**|**Towards a fully declarative neuro-symbolic language**|Tilman Hinnerichs et.al.|[2405.09521v1](http://arxiv.org/abs/2405.09521v1)|[2405.09521v1](http://arxiv.org/pdf/2405.09521v1)|null|
+|**2024-05-15**|**QueryNER: Segmentation of E-commerce Queries**|Chester Palen-Michel et.al.|[2405.09507v1](http://arxiv.org/abs/2405.09507v1)|[2405.09507v1](http://arxiv.org/pdf/2405.09507v1)|null|
+|**2024-05-15**|**ParaNames 1.0: Creating an Entity Name Corpus for 400+ Languages using Wikidata**|Jonne Sälevä et.al.|[2405.09496v1](http://arxiv.org/abs/2405.09496v1)|[2405.09496v1](http://arxiv.org/pdf/2405.09496v1)|null|
+|**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477v1](http://arxiv.org/abs/2405.09477v1)|[2405.09477v1](http://arxiv.org/pdf/2405.09477v1)|null|
+|**2024-05-15**|**Predicting Binary Neutron Star Postmerger Spectra Using Artificial Neural Networks**|Dimitrios Pesios et.al.|[2405.09468v1](http://arxiv.org/abs/2405.09468v1)|[2405.09468v1](http://arxiv.org/pdf/2405.09468v1)|null|
+|**2024-05-15**|**Fourier Boundary Features Network with Wider Catchers for Glass Segmentation**|Xiaolin Qin et.al.|[2405.09459v1](http://arxiv.org/abs/2405.09459v1)|[2405.09459v1](http://arxiv.org/pdf/2405.09459v1)|null|
+|**2024-05-15**|**Photonic Landau levels in a high-dimensional frequency-degenerate cavity**|Jing Pan et.al.|[2405.09456v1](http://arxiv.org/abs/2405.09456v1)|[2405.09456v1](http://arxiv.org/pdf/2405.09456v1)|null|
+|**2024-05-15**|**Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas**|Flavio Cirillo et.al.|[2405.09444v1](http://arxiv.org/abs/2405.09444v1)|[2405.09444v1](http://arxiv.org/pdf/2405.09444v1)|null|
+|**2024-05-15**|**Facilitating Opinion Diversity through Hybrid NLP Approaches**|Michiel van der Meer et.al.|[2405.09439v1](http://arxiv.org/abs/2405.09439v1)|[2405.09439v1](http://arxiv.org/pdf/2405.09439v1)|null|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792v1](http://arxiv.org/abs/2405.08792v1)|[2405.08792v1](http://arxiv.org/pdf/2405.08792v1)|null|
 |**2024-05-14**|**Kolmogorov-Arnold Networks (KANs) for Time Series Analysis**|Cristian J. Vaca-Rubio et.al.|[2405.08790v1](http://arxiv.org/abs/2405.08790v1)|[2405.08790v1](http://arxiv.org/pdf/2405.08790v1)|null|
 |**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780v1](http://arxiv.org/abs/2405.08780v1)|[2405.08780v1](http://arxiv.org/pdf/2405.08780v1)|null|
