@@ -1,4 +1,4 @@
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 
 ## Astrophysics
 
@@ -4761,9 +4761,9 @@
 |**2024-05-14**|**Kolmogorov-Arnold Networks (KANs) for Time Series Analysis**|Cristian J. Vaca-Rubio et.al.|[2405.08790v1](http://arxiv.org/abs/2405.08790v1)|[2405.08790v1](http://arxiv.org/pdf/2405.08790v1)|null|
 |**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780v1](http://arxiv.org/abs/2405.08780v1)|[2405.08780v1](http://arxiv.org/pdf/2405.08780v1)|null|
 |**2024-05-14**|**EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training**|Yulin Wang et.al.|[2405.08768v1](http://arxiv.org/abs/2405.08768v1)|[2405.08768v1](http://arxiv.org/pdf/2405.08768v1)|**[link](https://github.com/leaplabthu/efficienttrain)**|
-|**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760v1](http://arxiv.org/abs/2405.08760v1)|[2405.08760v1](http://arxiv.org/pdf/2405.08760v1)|null|
+|**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760v1](http://arxiv.org/abs/2405.08760v1)|[2405.08760v1](http://arxiv.org/pdf/2405.08760v1)|**[link](https://github.com/Akhila-Yerukola/generative-intention-resolution)**|
 |**2024-05-14**|**Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach**|Syed Mhamudul Hasan et.al.|[2405.08755v1](http://arxiv.org/abs/2405.08755v1)|[2405.08755v1](http://arxiv.org/pdf/2405.08755v1)|null|
-|**2024-05-14**|**Targeted Augmentation for Low-Resource Event Extraction**|Sijia Wang et.al.|[2405.08729v1](http://arxiv.org/abs/2405.08729v1)|[2405.08729v1](http://arxiv.org/pdf/2405.08729v1)|null|
+|**2024-05-14**|**Targeted Augmentation for Low-Resource Event Extraction**|Sijia Wang et.al.|[2405.08729v1](http://arxiv.org/abs/2405.08729v1)|[2405.08729v1](http://arxiv.org/pdf/2405.08729v1)|**[link](https://github.com/VT-NLP/TALOR-EE)**|
 |**2024-05-14**|**I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning**|Yashuai Yan et.al.|[2405.08726v1](http://arxiv.org/abs/2405.08726v1)|[2405.08726v1](http://arxiv.org/pdf/2405.08726v1)|null|
 |**2024-05-14**|**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**|Qingpeng Kong et.al.|[2405.08681v1](http://arxiv.org/abs/2405.08681v1)|[2405.08681v1](http://arxiv.org/pdf/2405.08681v1)|**[link](https://github.com/kqp1227/sensitive-channel-pruning)**|
 |**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679v1](http://arxiv.org/abs/2405.08679v1)|[2405.08679v1](http://arxiv.org/pdf/2405.08679v1)|null|
