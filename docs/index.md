@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-05-16**|**Fast simulation mapping: from standard to modified gravity cosmologies using the bias assignment method**|Jorge Enrique García-Farieta et.al.|[2405.10319v1](http://arxiv.org/abs/2405.10319v1)|[2405.10319v1](http://arxiv.org/pdf/2405.10319v1)|null|
-|**2024-05-16**|**KiDS-1000 and DES-Y1 combined: Cosmology from peak count statistics**|Joachim Harnois-Deraps et.al.|[2405.10312v1](http://arxiv.org/abs/2405.10312v1)|[2405.10312v1](http://arxiv.org/pdf/2405.10312v1)|null|
+|**2024-05-16**|**KiDS-1000 and DES-Y1 combined: Cosmology from peak count statistics**|Joachim Harnois-Deraps et.al.|[2405.10312v1](http://arxiv.org/abs/2405.10312v1)|[2405.10312v1](http://arxiv.org/pdf/2405.10312v1)|**[link](https://github.com/TiagoBsCastro/SLICER)**|
 |**2024-05-16**|**Asymmetric Warm Dark Matter: from Cosmological Asymmetry to Chirality of Life**|Wen Yin et.al.|[2405.10303v1](http://arxiv.org/abs/2405.10303v1)|[2405.10303v1](http://arxiv.org/pdf/2405.10303v1)|null|
 |**2024-05-16**|**Exotic compact objects and light bosonic fields**|Farid Thaalba et.al.|[2405.10287v1](http://arxiv.org/abs/2405.10287v1)|[2405.10287v1](http://arxiv.org/pdf/2405.10287v1)|null|
 |**2024-05-16**|**The dynamics and electromagnetic signatures of accretion in unequal mass binary black hole inspirals**|Madeline Clyburn et.al.|[2405.10281v1](http://arxiv.org/abs/2405.10281v1)|[2405.10281v1](http://arxiv.org/pdf/2405.10281v1)|null|
@@ -4784,9 +4784,9 @@ layout: default
 |**2024-05-16**|**TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**|Yunfan Jiang et.al.|[2405.10315v1](http://arxiv.org/abs/2405.10315v1)|[2405.10315v1](http://arxiv.org/pdf/2405.10315v1)|null|
 |**2024-05-16**|**How Far Are We From AGI**|Tao Feng et.al.|[2405.10313v1](http://arxiv.org/abs/2405.10313v1)|[2405.10313v1](http://arxiv.org/pdf/2405.10313v1)|**[link](https://github.com/ulab-uiuc/agi-survey)**|
 |**2024-05-16**|**Stochastic Q-learning for Large Discrete Action Spaces**|Fares Fourati et.al.|[2405.10310v1](http://arxiv.org/abs/2405.10310v1)|[2405.10310v1](http://arxiv.org/pdf/2405.10310v1)|null|
-|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|[2405.10305v1](http://arxiv.org/pdf/2405.10305v1)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|[2405.10305v1](http://arxiv.org/pdf/2405.10305v1)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301v1](http://arxiv.org/abs/2405.10301v1)|[2405.10301v1](http://arxiv.org/pdf/2405.10301v1)|null|
-|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299v1](http://arxiv.org/abs/2405.10299v1)|[2405.10299v1](http://arxiv.org/pdf/2405.10299v1)|null|
+|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299v1](http://arxiv.org/abs/2405.10299v1)|[2405.10299v1](http://arxiv.org/pdf/2405.10299v1)|**[link](https://github.com/automl/hw-aware-llm-bench)**|
 |**2024-05-16**|**Societal Adaptation to Advanced AI**|Jamie Bernardi et.al.|[2405.10295v1](http://arxiv.org/abs/2405.10295v1)|[2405.10295v1](http://arxiv.org/pdf/2405.10295v1)|null|
 |**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292v1](http://arxiv.org/abs/2405.10292v1)|[2405.10292v1](http://arxiv.org/pdf/2405.10292v1)|null|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288v1](http://arxiv.org/abs/2405.10288v1)|[2405.10288v1](http://arxiv.org/pdf/2405.10288v1)|null|
