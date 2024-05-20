@@ -1,4 +1,4 @@
-> Updated on 2024.05.19
+> Updated on 2024.05.20
 
 ## Astrophysics
 
@@ -4780,7 +4780,7 @@
 - 2024-05-16, **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**, Yu Gui et.al., Paper: [http://arxiv.org/abs/2405.10301v1](http://arxiv.org/abs/2405.10301v1), Paper: [http://arxiv.org/abs/2405.10301v1](http://arxiv.org/pdf/2405.10301v1)
 - 2024-05-16, **HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**, Rhea Sanjay Sukthanker et.al., Paper: [http://arxiv.org/abs/2405.10299v1](http://arxiv.org/abs/2405.10299v1),Paper: [http://arxiv.org/abs/2405.10299v1](http://arxiv.org/pdf/2405.10299v1), Code: **[https://github.com/automl/hw-aware-llm-bench](https://github.com/automl/hw-aware-llm-bench)**
 - 2024-05-16, **Societal Adaptation to Advanced AI**, Jamie Bernardi et.al., Paper: [http://arxiv.org/abs/2405.10295v1](http://arxiv.org/abs/2405.10295v1), Paper: [http://arxiv.org/abs/2405.10295v1](http://arxiv.org/pdf/2405.10295v1)
-- 2024-05-16, **Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**, Yuexiang Zhai et.al., Paper: [http://arxiv.org/abs/2405.10292v1](http://arxiv.org/abs/2405.10292v1), Paper: [http://arxiv.org/abs/2405.10292v1](http://arxiv.org/pdf/2405.10292v1)
+- 2024-05-17, **Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**, Yuexiang Zhai et.al., Paper: [http://arxiv.org/abs/2405.10292v2](http://arxiv.org/abs/2405.10292v2), Paper: [http://arxiv.org/abs/2405.10292v2](http://arxiv.org/pdf/2405.10292v2)
 - 2024-05-16, **Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**, Jianhao Chen et.al., Paper: [http://arxiv.org/abs/2405.10288v1](http://arxiv.org/abs/2405.10288v1), Paper: [http://arxiv.org/abs/2405.10288v1](http://arxiv.org/pdf/2405.10288v1)
 - 2024-05-16, **FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2405.10286v1](http://arxiv.org/abs/2405.10286v1), Paper: [http://arxiv.org/abs/2405.10286v1](http://arxiv.org/pdf/2405.10286v1)
 - 2024-05-15, **Energy-Efficient Sleep Mode Optimization of 5G mmWave Networks Using Deep Contextual MAB**, Saad Masrur et.al., Paper: [http://arxiv.org/abs/2405.09528v1](http://arxiv.org/abs/2405.09528v1), Paper: [http://arxiv.org/abs/2405.09528v1](http://arxiv.org/pdf/2405.09528v1)
