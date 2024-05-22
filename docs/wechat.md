@@ -1,4 +1,4 @@
-> Updated on 2024.05.21
+> Updated on 2024.05.22
 
 ## Astrophysics
 
@@ -4793,15 +4793,15 @@
 
 ## AI
 
-- 2024-05-20, **Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**, Guanglin Zhou et.al., Paper: [http://arxiv.org/abs/2405.12217v1](http://arxiv.org/abs/2405.12217v1), Paper: [http://arxiv.org/abs/2405.12217v1](http://arxiv.org/pdf/2405.12217v1)
+- 2024-05-20, **Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**, Guanglin Zhou et.al., Paper: [http://arxiv.org/abs/2405.12217v1](http://arxiv.org/abs/2405.12217v1),Paper: [http://arxiv.org/abs/2405.12217v1](http://arxiv.org/pdf/2405.12217v1), Code: **[https://github.com/jameszhou-gl/icl-distribution-shift](https://github.com/jameszhou-gl/icl-distribution-shift)**
 - 2024-05-20, **Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**, Aniket Didolkar et.al., Paper: [http://arxiv.org/abs/2405.12205v1](http://arxiv.org/abs/2405.12205v1), Paper: [http://arxiv.org/abs/2405.12205v1](http://arxiv.org/pdf/2405.12205v1)
 - 2024-05-20, **Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution**, Xihaier Luo et.al., Paper: [http://arxiv.org/abs/2405.12202v1](http://arxiv.org/abs/2405.12202v1), Paper: [http://arxiv.org/abs/2405.12202v1](http://arxiv.org/pdf/2405.12202v1)
 - 2024-05-20, **Developers' Perceptions on the Impact of ChatGPT in Software Development: A Survey**, Thiago S. Vaillant et.al., Paper: [http://arxiv.org/abs/2405.12195v1](http://arxiv.org/abs/2405.12195v1), Paper: [http://arxiv.org/abs/2405.12195v1](http://arxiv.org/pdf/2405.12195v1)
-- 2024-05-20, **Multi-order Graph Clustering with Adaptive Node-level Weight Learning**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2405.12183v1](http://arxiv.org/abs/2405.12183v1), Paper: [http://arxiv.org/abs/2405.12183v1](http://arxiv.org/pdf/2405.12183v1)
+- 2024-05-20, **Multi-order Graph Clustering with Adaptive Node-level Weight Learning**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2405.12183v1](http://arxiv.org/abs/2405.12183v1),Paper: [http://arxiv.org/abs/2405.12183v1](http://arxiv.org/pdf/2405.12183v1), Code: **[https://github.com/scutft-ml/mogc](https://github.com/scutft-ml/mogc)**
 - 2024-05-20, **Building Temporal Kernels with Orthogonal Polynomials**, Yan Ru Pei et.al., Paper: [http://arxiv.org/abs/2405.12179v1](http://arxiv.org/abs/2405.12179v1),Paper: [http://arxiv.org/abs/2405.12179v1](http://arxiv.org/pdf/2405.12179v1), Code: **[https://github.com/peabrane/pleiades](https://github.com/peabrane/pleiades)**
 - 2024-05-20, **Open-Source Assessments of AI Capabilities: The Proliferation of AI Analysis Tools, Replicating Competitor Models, and the Zhousidun Dataset**, Ritwik Gupta et.al., Paper: [http://arxiv.org/abs/2405.12167v1](http://arxiv.org/abs/2405.12167v1), Paper: [http://arxiv.org/abs/2405.12167v1](http://arxiv.org/pdf/2405.12167v1)
 - 2024-05-20, **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**, Xiaobo Liang et.al., Paper: [http://arxiv.org/abs/2405.12163v1](http://arxiv.org/abs/2405.12163v1),Paper: [http://arxiv.org/abs/2405.12163v1](http://arxiv.org/pdf/2405.12163v1), Code: **[https://github.com/dropreg/fennec](https://github.com/dropreg/fennec)**
-- 2024-05-20, **Bangladeshi Native Vehicle Detection in Wild**, Bipin Saha et.al., Paper: [http://arxiv.org/abs/2405.12150v1](http://arxiv.org/abs/2405.12150v1), Paper: [http://arxiv.org/abs/2405.12150v1](http://arxiv.org/pdf/2405.12150v1)
+- 2024-05-20, **Bangladeshi Native Vehicle Detection in Wild**, Bipin Saha et.al., Paper: [http://arxiv.org/abs/2405.12150v1](http://arxiv.org/abs/2405.12150v1),Paper: [http://arxiv.org/abs/2405.12150v1](http://arxiv.org/pdf/2405.12150v1), Code: **[https://github.com/bipin-saha/bnvd](https://github.com/bipin-saha/bnvd)**
 - 2024-05-20, **Eliciting Problem Specifications via Large Language Models**, Robert E. Wray et.al., Paper: [http://arxiv.org/abs/2405.12147v1](http://arxiv.org/abs/2405.12147v1), Paper: [http://arxiv.org/abs/2405.12147v1](http://arxiv.org/pdf/2405.12147v1)
 - 2024-05-17, **DINO as a von Mises-Fisher mixture model**, Hariprasath Govindarajan et.al., Paper: [http://arxiv.org/abs/2405.10939v1](http://arxiv.org/abs/2405.10939v1), Paper: [http://arxiv.org/abs/2405.10939v1](http://arxiv.org/pdf/2405.10939v1)
 - 2024-05-17, **Observational Scaling Laws and the Predictability of Language Model Performance**, Yangjun Ruan et.al., Paper: [http://arxiv.org/abs/2405.10938v1](http://arxiv.org/abs/2405.10938v1), Paper: [http://arxiv.org/abs/2405.10938v1](http://arxiv.org/pdf/2405.10938v1)
