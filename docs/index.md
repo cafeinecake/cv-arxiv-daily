@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-21**|**Implication of jet physics from MeV line emission of GRB 221009A**|Zhen Zhang et.al.|[2405.12977v1](http://arxiv.org/abs/2405.12977v1)|[2405.12977v1](http://arxiv.org/pdf/2405.12977v1)|null|
+|**2024-05-21**|**Systematic comparison of neural networks used in discovering strong gravitational lenses**|Anupreeta More et.al.|[2405.12975v1](http://arxiv.org/abs/2405.12975v1)|[2405.12975v1](http://arxiv.org/pdf/2405.12975v1)|null|
+|**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965v1](http://arxiv.org/abs/2405.12965v1)|[2405.12965v1](http://arxiv.org/pdf/2405.12965v1)|**[link](https://github.com/dpiras/cosmopower-jax)**|
+|**2024-05-21**|**GA-NIFS: Witnessing the complex assembly of a massive star-forming system at $z=5.7$**|Gareth C. Jones et.al.|[2405.12955v1](http://arxiv.org/abs/2405.12955v1)|[2405.12955v1](http://arxiv.org/pdf/2405.12955v1)|null|
+|**2024-05-21**|**Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra**|Álvaro Tovar-Pardo et.al.|[2405.12918v1](http://arxiv.org/abs/2405.12918v1)|[2405.12918v1](http://arxiv.org/pdf/2405.12918v1)|null|
+|**2024-05-21**|**A Hamiltonian, post-Born, three-dimensional, on-the-fly ray tracing algorithm for gravitational lensing**|Alan Junzhe Zhou et.al.|[2405.12913v1](http://arxiv.org/abs/2405.12913v1)|[2405.12913v1](http://arxiv.org/pdf/2405.12913v1)|null|
+|**2024-05-21**|**Deep HST/UVIS imaging of the candidate dark galaxy CDG-1**|Pieter van Dokkum et.al.|[2405.12907v1](http://arxiv.org/abs/2405.12907v1)|[2405.12907v1](http://arxiv.org/pdf/2405.12907v1)|null|
+|**2024-05-21**|**Measuring Hawking Radiation from Black Hole Morsels in Astrophysical Black Hole Mergers**|Giacomo Cacciapaglia et.al.|[2405.12880v1](http://arxiv.org/abs/2405.12880v1)|[2405.12880v1](http://arxiv.org/pdf/2405.12880v1)|null|
+|**2024-05-21**|**Catalog of Broad Hα and H\b{eta} Active Galactic Nuclei in MaNGA**|James Negus et.al.|[2405.12873v1](http://arxiv.org/abs/2405.12873v1)|[2405.12873v1](http://arxiv.org/pdf/2405.12873v1)|null|
+|**2024-05-21**|**Revisiting short-plateau SN 2018gj**|V. P. Utrobin et.al.|[2405.12867v1](http://arxiv.org/abs/2405.12867v1)|[2405.12867v1](http://arxiv.org/pdf/2405.12867v1)|null|
 |**2024-05-20**|**CMB-HD as a Probe of Dark Matter on Sub-Galactic Scales**|Amanda MacInnis et.al.|[2405.12220v1](http://arxiv.org/abs/2405.12220v1)|[2405.12220v1](http://arxiv.org/pdf/2405.12220v1)|null|
 |**2024-05-20**|**Radiative transfer of 21-cm line through ionised cavities in an expanding universe**|Kinwah Wu et.al.|[2405.12216v1](http://arxiv.org/abs/2405.12216v1)|[2405.12216v1](http://arxiv.org/pdf/2405.12216v1)|null|
 |**2024-05-20**|**Forced Measurement of Astronomical Sources at Low Signal to Noise**|Anirban Dutta et.al.|[2405.12212v1](http://arxiv.org/abs/2405.12212v1)|[2405.12212v1](http://arxiv.org/pdf/2405.12212v1)|null|
@@ -4801,6 +4811,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961v1](http://arxiv.org/abs/2405.12961v1)|[2405.12961v1](http://arxiv.org/pdf/2405.12961v1)|null|
+|**2024-05-21**|**Strategic Deployment of Honeypots in Blockchain-based IoT Systems**|Daniel Commey et.al.|[2405.12951v1](http://arxiv.org/abs/2405.12951v1)|[2405.12951v1](http://arxiv.org/pdf/2405.12951v1)|null|
+|**2024-05-21**|**Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs**|Bilgehan Sel et.al.|[2405.12933v1](http://arxiv.org/abs/2405.12933v1)|[2405.12933v1](http://arxiv.org/pdf/2405.12933v1)|null|
+|**2024-05-21**|**Panmodal Information Interaction**|Chirag Shah et.al.|[2405.12923v1](http://arxiv.org/abs/2405.12923v1)|[2405.12923v1](http://arxiv.org/pdf/2405.12923v1)|null|
+|**2024-05-21**|**Topic Modelling Case Law Using a Large Language Model and a New Taxonomy for UK Law: AI Insights into Summary Judgment**|Holli Sargeant et.al.|[2405.12910v1](http://arxiv.org/abs/2405.12910v1)|[2405.12910v1](http://arxiv.org/pdf/2405.12910v1)|null|
+|**2024-05-21**|**Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents**|San Kim et.al.|[2405.12900v1](http://arxiv.org/abs/2405.12900v1)|[2405.12900v1](http://arxiv.org/pdf/2405.12900v1)|null|
+|**2024-05-21**|**Investigating Persuasion Techniques in Arabic: An Empirical Study Leveraging Large Language Models**|Abdurahmman Alzahrani et.al.|[2405.12884v1](http://arxiv.org/abs/2405.12884v1)|[2405.12884v1](http://arxiv.org/pdf/2405.12884v1)|null|
+|**2024-05-21**|**Explaining Expert Search and Team Formation Systems with ExES**|Kiarash Golzadeh et.al.|[2405.12881v1](http://arxiv.org/abs/2405.12881v1)|[2405.12881v1](http://arxiv.org/pdf/2405.12881v1)|null|
+|**2024-05-21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**|Liming Wu et.al.|[2405.12868v1](http://arxiv.org/abs/2405.12868v1)|[2405.12868v1](http://arxiv.org/pdf/2405.12868v1)|null|
+|**2024-05-21**|**Robust portfolio optimization model for electronic coupon allocation**|Yuki Uehara et.al.|[2405.12865v1](http://arxiv.org/abs/2405.12865v1)|[2405.12865v1](http://arxiv.org/pdf/2405.12865v1)|null|
 |**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217v1](http://arxiv.org/abs/2405.12217v1)|[2405.12217v1](http://arxiv.org/pdf/2405.12217v1)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**|Aniket Didolkar et.al.|[2405.12205v1](http://arxiv.org/abs/2405.12205v1)|[2405.12205v1](http://arxiv.org/pdf/2405.12205v1)|null|
 |**2024-05-20**|**Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution**|Xihaier Luo et.al.|[2405.12202v1](http://arxiv.org/abs/2405.12202v1)|[2405.12202v1](http://arxiv.org/pdf/2405.12202v1)|null|
