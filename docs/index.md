@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-23**|**Accretion onto supermassive black hole binaries**|Eduardo M. Gutiérrez et.al.|[2405.14843v1](http://arxiv.org/abs/2405.14843v1)|[2405.14843v1](http://arxiv.org/pdf/2405.14843v1)|null|
+|**2024-05-23**|**Dual-comb correlation spectroscopy of thermal light**|Eugene J. Tsao et.al.|[2405.14842v1](http://arxiv.org/abs/2405.14842v1)|[2405.14842v1](http://arxiv.org/pdf/2405.14842v1)|null|
+|**2024-05-23**|**New limits on neutrino decay from high-energy astrophysical neutrinos**|Victor B. Valera et.al.|[2405.14826v1](http://arxiv.org/abs/2405.14826v1)|[2405.14826v1](http://arxiv.org/pdf/2405.14826v1)|null|
+|**2024-05-23**|**Identification of hot gas around low-mass protostars**|Merel L. R. van 't Hoff et.al.|[2405.14820v1](http://arxiv.org/abs/2405.14820v1)|[2405.14820v1](http://arxiv.org/pdf/2405.14820v1)|null|
+|**2024-05-23**|**Gravitational-wave dark siren cosmology systematics from galaxy weighting**|Alexandra G. Hanselman et.al.|[2405.14818v1](http://arxiv.org/abs/2405.14818v1)|[2405.14818v1](http://arxiv.org/pdf/2405.14818v1)|null|
+|**2024-05-23**|**Increasing AGN sample completeness using long-term near-infrared variability**|K. Green et.al.|[2405.14809v1](http://arxiv.org/abs/2405.14809v1)|[2405.14809v1](http://arxiv.org/pdf/2405.14809v1)|null|
+|**2024-05-23**|**The TESS-Keck Survey XX: 15 New TESS Planets and a Uniform RV Analysis of all Survey Targets**|Alex S. Polanski et.al.|[2405.14786v1](http://arxiv.org/abs/2405.14786v1)|[2405.14786v1](http://arxiv.org/pdf/2405.14786v1)|null|
+|**2024-05-23**|**Multi-Messenger Emission Characteristics of Blazars**|Ronald Gamble Jr et.al.|[2405.14764v1](http://arxiv.org/abs/2405.14764v1)|[2405.14764v1](http://arxiv.org/pdf/2405.14764v1)|null|
+|**2024-05-23**|**Effective & Ethical Mentorship in Physics and Astronomy through Grassroots Organizations**|Natasha Latouf et.al.|[2405.14761v1](http://arxiv.org/abs/2405.14761v1)|[2405.14761v1](http://arxiv.org/pdf/2405.14761v1)|null|
+|**2024-05-23**|**Extreme Solar Flare Prediction Using Residual Networks with HMI Magnetograms and Intensitygrams**|Juyoung Yun et.al.|[2405.14750v1](http://arxiv.org/abs/2405.14750v1)|[2405.14750v1](http://arxiv.org/pdf/2405.14750v1)|null|
 |**2024-05-21**|**Implication of jet physics from MeV line emission of GRB 221009A**|Zhen Zhang et.al.|[2405.12977v1](http://arxiv.org/abs/2405.12977v1)|[2405.12977v1](http://arxiv.org/pdf/2405.12977v1)|null|
 |**2024-05-21**|**Systematic comparison of neural networks used in discovering strong gravitational lenses**|Anupreeta More et.al.|[2405.12975v1](http://arxiv.org/abs/2405.12975v1)|[2405.12975v1](http://arxiv.org/pdf/2405.12975v1)|null|
 |**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965v1](http://arxiv.org/abs/2405.12965v1)|[2405.12965v1](http://arxiv.org/pdf/2405.12965v1)|**[link](https://github.com/dpiras/cosmopower-jax)**|
@@ -4811,6 +4821,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869v1](http://arxiv.org/abs/2405.14869v1)|[2405.14869v1](http://arxiv.org/pdf/2405.14869v1)|null|
+|**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|[2405.14868v1](http://arxiv.org/pdf/2405.14868v1)|null|
+|**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863v1](http://arxiv.org/abs/2405.14863v1)|[2405.14863v1](http://arxiv.org/pdf/2405.14863v1)|null|
+|**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861v1](http://arxiv.org/abs/2405.14861v1)|[2405.14861v1](http://arxiv.org/pdf/2405.14861v1)|null|
+|**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857v1](http://arxiv.org/abs/2405.14857v1)|[2405.14857v1](http://arxiv.org/pdf/2405.14857v1)|null|
+|**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao et.al.|[2405.14855v1](http://arxiv.org/abs/2405.14855v1)|[2405.14855v1](http://arxiv.org/pdf/2405.14855v1)|null|
+|**2024-05-23**|**Privileged Sensing Scaffolds Reinforcement Learning**|Edward S. Hu et.al.|[2405.14853v1](http://arxiv.org/abs/2405.14853v1)|[2405.14853v1](http://arxiv.org/pdf/2405.14853v1)|null|
+|**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851v1](http://arxiv.org/abs/2405.14851v1)|[2405.14851v1](http://arxiv.org/pdf/2405.14851v1)|null|
+|**2024-05-23**|**From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step**|Yuntian Deng et.al.|[2405.14838v1](http://arxiv.org/abs/2405.14838v1)|[2405.14838v1](http://arxiv.org/pdf/2405.14838v1)|null|
+|**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831v1](http://arxiv.org/abs/2405.14831v1)|[2405.14831v1](http://arxiv.org/pdf/2405.14831v1)|null|
 |**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961v1](http://arxiv.org/abs/2405.12961v1)|[2405.12961v1](http://arxiv.org/pdf/2405.12961v1)|null|
 |**2024-05-21**|**Strategic Deployment of Honeypots in Blockchain-based IoT Systems**|Daniel Commey et.al.|[2405.12951v1](http://arxiv.org/abs/2405.12951v1)|[2405.12951v1](http://arxiv.org/pdf/2405.12951v1)|null|
 |**2024-05-21**|**Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs**|Bilgehan Sel et.al.|[2405.12933v1](http://arxiv.org/abs/2405.12933v1)|[2405.12933v1](http://arxiv.org/pdf/2405.12933v1)|null|
