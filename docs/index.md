@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 
 ## Astrophysics
 
@@ -16,7 +16,7 @@ layout: default
 |**2024-05-21**|**A Hamiltonian, post-Born, three-dimensional, on-the-fly ray tracing algorithm for gravitational lensing**|Alan Junzhe Zhou et.al.|[2405.12913v1](http://arxiv.org/abs/2405.12913v1)|[2405.12913v1](http://arxiv.org/pdf/2405.12913v1)|null|
 |**2024-05-21**|**Deep HST/UVIS imaging of the candidate dark galaxy CDG-1**|Pieter van Dokkum et.al.|[2405.12907v1](http://arxiv.org/abs/2405.12907v1)|[2405.12907v1](http://arxiv.org/pdf/2405.12907v1)|null|
 |**2024-05-21**|**Measuring Hawking Radiation from Black Hole Morsels in Astrophysical Black Hole Mergers**|Giacomo Cacciapaglia et.al.|[2405.12880v1](http://arxiv.org/abs/2405.12880v1)|[2405.12880v1](http://arxiv.org/pdf/2405.12880v1)|null|
-|**2024-05-21**|**Catalog of Broad Hα and H\b{eta} Active Galactic Nuclei in MaNGA**|James Negus et.al.|[2405.12873v1](http://arxiv.org/abs/2405.12873v1)|[2405.12873v1](http://arxiv.org/pdf/2405.12873v1)|null|
+|**2024-05-22**|**A Catalog of Broad Hα and Hβ Active Galactic Nuclei in MaNGA**|James Negus et.al.|[2405.12873v2](http://arxiv.org/abs/2405.12873v2)|[2405.12873v2](http://arxiv.org/pdf/2405.12873v2)|null|
 |**2024-05-21**|**Revisiting short-plateau SN 2018gj**|V. P. Utrobin et.al.|[2405.12867v1](http://arxiv.org/abs/2405.12867v1)|[2405.12867v1](http://arxiv.org/pdf/2405.12867v1)|null|
 |**2024-05-20**|**CMB-HD as a Probe of Dark Matter on Sub-Galactic Scales**|Amanda MacInnis et.al.|[2405.12220v1](http://arxiv.org/abs/2405.12220v1)|[2405.12220v1](http://arxiv.org/pdf/2405.12220v1)|null|
 |**2024-05-20**|**Radiative transfer of 21-cm line through ionised cavities in an expanding universe**|Kinwah Wu et.al.|[2405.12216v1](http://arxiv.org/abs/2405.12216v1)|[2405.12216v1](http://arxiv.org/pdf/2405.12216v1)|null|
