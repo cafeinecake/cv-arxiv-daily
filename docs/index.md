@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-24**|**Multi-mode delta Sct stars from the Zwicky Transient Facility Survey**|Qi Jia et.al.|[2405.15761v1](http://arxiv.org/abs/2405.15761v1)|[2405.15761v1](http://arxiv.org/pdf/2405.15761v1)|null|
+|**2024-05-24**|**Interaction in the dark sector: a phenomenological approach**|Z. C. Santana et.al.|[2405.15726v1](http://arxiv.org/abs/2405.15726v1)|[2405.15726v1](http://arxiv.org/pdf/2405.15726v1)|null|
+|**2024-05-24**|**Understanding the Star Formation Efficiency in Dense Gas: Initial Results from the CAFFEINE Survey with ArTéMiS**|M. Mattern et.al.|[2405.15713v1](http://arxiv.org/abs/2405.15713v1)|[2405.15713v1](http://arxiv.org/pdf/2405.15713v1)|null|
+|**2024-05-24**|**Simulation-based inference of radio millisecond pulsars in globular clusters**|Joanna Berteaud et.al.|[2405.15691v1](http://arxiv.org/abs/2405.15691v1)|[2405.15691v1](http://arxiv.org/pdf/2405.15691v1)|null|
+|**2024-05-24**|**Faraday tomography with CHIME: the `tadpole' feature G137+7**|Nasser Mohammed et.al.|[2405.15678v1](http://arxiv.org/abs/2405.15678v1)|[2405.15678v1](http://arxiv.org/pdf/2405.15678v1)|null|
+|**2024-05-24**|**Spin-down of a pulsar with a yielding crust**|Denis Nikolaevich Sob'yanin et.al.|[2405.15659v1](http://arxiv.org/abs/2405.15659v1)|[2405.15659v1](http://arxiv.org/pdf/2405.15659v1)|null|
+|**2024-05-24**|**Multiple Emission Regions in Jets of Low Luminosity Active Galactic Nucleus in NGC 4278**|Samik Dutta et.al.|[2405.15657v1](http://arxiv.org/abs/2405.15657v1)|[2405.15657v1](http://arxiv.org/pdf/2405.15657v1)|null|
+|**2024-05-24**|**Well Posed Origin Anywhere Consistent Systems in Celestial Mechanics**|Harry Gingold et.al.|[2405.15639v1](http://arxiv.org/abs/2405.15639v1)|[2405.15639v1](http://arxiv.org/pdf/2405.15639v1)|null|
+|**2024-05-24**|**HI Galaxy Signatures in the SARAO MeerKAT Galactic Plane Survey -- III. Unveiling the obscured part of the Vela Supercluster**|Sambatriniaina H. A. Rajohnson et.al.|[2405.15629v1](http://arxiv.org/abs/2405.15629v1)|[2405.15629v1](http://arxiv.org/pdf/2405.15629v1)|null|
+|**2024-05-24**|**Planet-driven spirals in protoplanetary discs: limitations of the semi-analytical theory for observations**|D. Fasano et.al.|[2405.15611v1](http://arxiv.org/abs/2405.15611v1)|[2405.15611v1](http://arxiv.org/pdf/2405.15611v1)|null|
 |**2024-05-23**|**Accretion onto supermassive black hole binaries**|Eduardo M. Gutiérrez et.al.|[2405.14843v1](http://arxiv.org/abs/2405.14843v1)|[2405.14843v1](http://arxiv.org/pdf/2405.14843v1)|null|
 |**2024-05-23**|**Dual-comb correlation spectroscopy of thermal light**|Eugene J. Tsao et.al.|[2405.14842v1](http://arxiv.org/abs/2405.14842v1)|[2405.14842v1](http://arxiv.org/pdf/2405.14842v1)|null|
 |**2024-05-23**|**New limits on neutrino decay from high-energy astrophysical neutrinos**|Victor B. Valera et.al.|[2405.14826v1](http://arxiv.org/abs/2405.14826v1)|[2405.14826v1](http://arxiv.org/pdf/2405.14826v1)|null|
@@ -4821,6 +4831,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-24**|**Canonical Variates in Wasserstein Metric Space**|Jia Li et.al.|[2405.15768v1](http://arxiv.org/abs/2405.15768v1)|[2405.15768v1](http://arxiv.org/pdf/2405.15768v1)|null|
+|**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766v1](http://arxiv.org/abs/2405.15766v1)|[2405.15766v1](http://arxiv.org/pdf/2405.15766v1)|**[link](https://github.com/singhayush27/mmade)**|
+|**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758v1](http://arxiv.org/abs/2405.15758v1)|[2405.15758v1](http://arxiv.org/pdf/2405.15758v1)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
+|**2024-05-24**|**Sparse Expansion and Neuronal Disentanglement**|Shashata Sawmya et.al.|[2405.15756v1](http://arxiv.org/abs/2405.15756v1)|[2405.15756v1](http://arxiv.org/pdf/2405.15756v1)|null|
+|**2024-05-24**|**A review of active matter reviews**|Michael te Vrugt et.al.|[2405.15751v1](http://arxiv.org/abs/2405.15751v1)|[2405.15751v1](http://arxiv.org/pdf/2405.15751v1)|null|
+|**2024-05-24**|**Filtered Corpus Training (FiCT) Shows that Language Models can Generalize from Indirect Evidence**|Abhinav Patil et.al.|[2405.15750v1](http://arxiv.org/abs/2405.15750v1)|[2405.15750v1](http://arxiv.org/pdf/2405.15750v1)|null|
+|**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739v1](http://arxiv.org/abs/2405.15739v1)|[2405.15739v1](http://arxiv.org/pdf/2405.15739v1)|null|
+|**2024-05-24**|**Understanding the differences in Foundation Models: Attention, State Space Models, and Recurrent Neural Networks**|Jerome Sieber et.al.|[2405.15731v1](http://arxiv.org/abs/2405.15731v1)|[2405.15731v1](http://arxiv.org/pdf/2405.15731v1)|**[link](https://github.com/intelligentcontrolsystems/dsf-mqar)**|
+|**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728v1](http://arxiv.org/abs/2405.15728v1)|[2405.15728v1](http://arxiv.org/pdf/2405.15728v1)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
+|**2024-05-24**|**Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models**|Yue Zhang et.al.|[2405.15684v1](http://arxiv.org/abs/2405.15684v1)|[2405.15684v1](http://arxiv.org/pdf/2405.15684v1)|null|
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869v1](http://arxiv.org/abs/2405.14869v1)|[2405.14869v1](http://arxiv.org/pdf/2405.14869v1)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|[2405.14868v1](http://arxiv.org/pdf/2405.14868v1)|null|
 |**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863v1](http://arxiv.org/abs/2405.14863v1)|[2405.14863v1](http://arxiv.org/pdf/2405.14863v1)|null|
