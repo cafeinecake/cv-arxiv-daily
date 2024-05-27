@@ -1,4 +1,4 @@
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 |**2024-05-23**|**Identification of hot gas around low-mass protostars**|Merel L. R. van 't Hoff et.al.|[2405.14820v1](http://arxiv.org/abs/2405.14820v1)|[2405.14820v1](http://arxiv.org/pdf/2405.14820v1)|null|
 |**2024-05-23**|**Gravitational-wave dark siren cosmology systematics from galaxy weighting**|Alexandra G. Hanselman et.al.|[2405.14818v1](http://arxiv.org/abs/2405.14818v1)|[2405.14818v1](http://arxiv.org/pdf/2405.14818v1)|null|
 |**2024-05-23**|**Increasing AGN sample completeness using long-term near-infrared variability**|K. Green et.al.|[2405.14809v1](http://arxiv.org/abs/2405.14809v1)|[2405.14809v1](http://arxiv.org/pdf/2405.14809v1)|null|
-|**2024-05-23**|**The TESS-Keck Survey XX: 15 New TESS Planets and a Uniform RV Analysis of all Survey Targets**|Alex S. Polanski et.al.|[2405.14786v1](http://arxiv.org/abs/2405.14786v1)|[2405.14786v1](http://arxiv.org/pdf/2405.14786v1)|null|
+|**2024-05-24**|**The TESS-Keck Survey XX: 15 New TESS Planets and a Uniform RV Analysis of all Survey Targets**|Alex S. Polanski et.al.|[2405.14786v2](http://arxiv.org/abs/2405.14786v2)|[2405.14786v2](http://arxiv.org/pdf/2405.14786v2)|null|
 |**2024-05-23**|**Multi-Messenger Emission Characteristics of Blazars**|Ronald Gamble Jr et.al.|[2405.14764v1](http://arxiv.org/abs/2405.14764v1)|[2405.14764v1](http://arxiv.org/pdf/2405.14764v1)|null|
 |**2024-05-23**|**Effective & Ethical Mentorship in Physics and Astronomy through Grassroots Organizations**|Natasha Latouf et.al.|[2405.14761v1](http://arxiv.org/abs/2405.14761v1)|[2405.14761v1](http://arxiv.org/pdf/2405.14761v1)|null|
 |**2024-05-23**|**Extreme Solar Flare Prediction Using Residual Networks with HMI Magnetograms and Intensitygrams**|Juyoung Yun et.al.|[2405.14750v1](http://arxiv.org/abs/2405.14750v1)|[2405.14750v1](http://arxiv.org/pdf/2405.14750v1)|null|
