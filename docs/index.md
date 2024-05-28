@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-27**|**A universal constraint on axion non-Abelian dynamics during inflation**|Ema Dimastrogiovanni et.al.|[2405.17411v1](http://arxiv.org/abs/2405.17411v1)|[2405.17411v1](http://arxiv.org/pdf/2405.17411v1)|null|
+|**2024-05-27**|**Ultraheavy Ultrahigh-Energy Cosmic Rays**|B. Theodore Zhang et.al.|[2405.17409v1](http://arxiv.org/abs/2405.17409v1)|[2405.17409v1](http://arxiv.org/pdf/2405.17409v1)|null|
+|**2024-05-27**|**Revisiting flares in Sagittarius A* based on general relativistic magnetohydrodynamic numerical simulations of black hole accretion**|Lin Xi et.al.|[2405.17408v1](http://arxiv.org/abs/2405.17408v1)|[2405.17408v1](http://arxiv.org/pdf/2405.17408v1)|null|
+|**2024-05-27**|**A new search pipeline for gravitational waves with higher-order modes using mode-by-mode filtering**|Digvijay Wadekar et.al.|[2405.17400v1](http://arxiv.org/abs/2405.17400v1)|[2405.17400v1](http://arxiv.org/pdf/2405.17400v1)|null|
+|**2024-05-27**|**Cosmological constraints on curved quintessence**|Sukannya Bhattacharya et.al.|[2405.17396v1](http://arxiv.org/abs/2405.17396v1)|[2405.17396v1](http://arxiv.org/pdf/2405.17396v1)|null|
+|**2024-05-27**|**Turbulent circumnuclear disc and cold gas outflow in the newborn radio source 4C 31.04**|Suma Murthy et.al.|[2405.17389v1](http://arxiv.org/abs/2405.17389v1)|[2405.17389v1](http://arxiv.org/pdf/2405.17389v1)|null|
+|**2024-05-27**|**Supernova Remnants in Gamma Rays**|Andrea Giuliani et.al.|[2405.17384v1](http://arxiv.org/abs/2405.17384v1)|[2405.17384v1](http://arxiv.org/pdf/2405.17384v1)|null|
+|**2024-05-27**|**EPOCHS Paper X: Environmental effects on Galaxy Formation and Protocluster Galaxy candidates at $4.5<z<10$ from JWST observations**|Qiong Li et.al.|[2405.17359v1](http://arxiv.org/abs/2405.17359v1)|[2405.17359v1](http://arxiv.org/pdf/2405.17359v1)|null|
+|**2024-05-27**|**From Seed to Supermassive Black Holes: Capture, Growth, Migration, and Pairing in Dense Proto-Bulge Environments**|Yanlong Shi et.al.|[2405.17338v1](http://arxiv.org/abs/2405.17338v1)|[2405.17338v1](http://arxiv.org/pdf/2405.17338v1)|null|
+|**2024-05-27**|**Exploring hidden priors when interpreting gravitational wave and electromagnetic probes of the nuclear equation of state**|Atul Kedia et.al.|[2405.17326v1](http://arxiv.org/abs/2405.17326v1)|[2405.17326v1](http://arxiv.org/pdf/2405.17326v1)|null|
 |**2024-05-24**|**Multi-mode delta Sct stars from the Zwicky Transient Facility Survey**|Qi Jia et.al.|[2405.15761v1](http://arxiv.org/abs/2405.15761v1)|[2405.15761v1](http://arxiv.org/pdf/2405.15761v1)|null|
 |**2024-05-24**|**Interaction in the dark sector: a phenomenological approach**|Z. C. Santana et.al.|[2405.15726v1](http://arxiv.org/abs/2405.15726v1)|[2405.15726v1](http://arxiv.org/pdf/2405.15726v1)|null|
 |**2024-05-24**|**Understanding the Star Formation Efficiency in Dense Gas: Initial Results from the CAFFEINE Survey with ArTéMiS**|M. Mattern et.al.|[2405.15713v1](http://arxiv.org/abs/2405.15713v1)|[2405.15713v1](http://arxiv.org/pdf/2405.15713v1)|null|
@@ -4831,6 +4841,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-27**|**Matryoshka Multimodal Models**|Mu Cai et.al.|[2405.17430v1](http://arxiv.org/abs/2405.17430v1)|[2405.17430v1](http://arxiv.org/pdf/2405.17430v1)|null|
+|**2024-05-27**|**GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2405.17429v1](http://arxiv.org/abs/2405.17429v1)|[2405.17429v1](http://arxiv.org/pdf/2405.17429v1)|**[link](https://github.com/huang-yh/gaussianformer)**|
+|**2024-05-27**|**NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models**|Chankyu Lee et.al.|[2405.17428v1](http://arxiv.org/abs/2405.17428v1)|[2405.17428v1](http://arxiv.org/pdf/2405.17428v1)|null|
+|**2024-05-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al.|[2405.17422v1](http://arxiv.org/abs/2405.17422v1)|[2405.17422v1](http://arxiv.org/pdf/2405.17422v1)|**[link](https://github.com/wzzheng/hass)**|
+|**2024-05-27**|**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**|Hao Dong et.al.|[2405.17419v1](http://arxiv.org/abs/2405.17419v1)|[2405.17419v1](http://arxiv.org/pdf/2405.17419v1)|**[link](https://github.com/donghao51/multiood)**|
+|**2024-05-27**|**Enhancing Music Genre Classification through Multi-Algorithm Analysis and User-Friendly Visualization**|Navin Kamuni et.al.|[2405.17413v1](http://arxiv.org/abs/2405.17413v1)|[2405.17413v1](http://arxiv.org/pdf/2405.17413v1)|null|
+|**2024-05-27**|**Towards One Model for Classical Dimensionality Reduction: A Probabilistic Perspective on UMAP and t-SNE**|Aditya Ravuri et.al.|[2405.17412v1](http://arxiv.org/abs/2405.17412v1)|[2405.17412v1](http://arxiv.org/pdf/2405.17412v1)|null|
+|**2024-05-27**|**Spectral Greedy Coresets for Graph Neural Networks**|Mucong Ding et.al.|[2405.17404v1](http://arxiv.org/abs/2405.17404v1)|[2405.17404v1](http://arxiv.org/pdf/2405.17404v1)|null|
+|**2024-05-27**|**A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training**|Kai Wang et.al.|[2405.17403v1](http://arxiv.org/abs/2405.17403v1)|[2405.17403v1](http://arxiv.org/pdf/2405.17403v1)|**[link](https://github.com/1zeryu/speed)**|
+|**2024-05-27**|**Transformers Can Do Arithmetic with the Right Embeddings**|Sean McLeish et.al.|[2405.17399v1](http://arxiv.org/abs/2405.17399v1)|[2405.17399v1](http://arxiv.org/pdf/2405.17399v1)|**[link](https://github.com/mcleish7/arithmetic)**|
 |**2024-05-24**|**Canonical Variates in Wasserstein Metric Space**|Jia Li et.al.|[2405.15768v1](http://arxiv.org/abs/2405.15768v1)|[2405.15768v1](http://arxiv.org/pdf/2405.15768v1)|null|
 |**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766v1](http://arxiv.org/abs/2405.15766v1)|[2405.15766v1](http://arxiv.org/pdf/2405.15766v1)|**[link](https://github.com/singhayush27/mmade)**|
 |**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758v1](http://arxiv.org/abs/2405.15758v1)|[2405.15758v1](http://arxiv.org/pdf/2405.15758v1)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
