@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-29**|**Barium stars as tracers of s-process nucleosynthesis in AGB stars III. Systematic deviations from the AGB models**|B. Világos et.al.|[2405.19330v1](http://arxiv.org/abs/2405.19330v1)|[2405.19330v1](http://arxiv.org/pdf/2405.19330v1)|null|
+|**2024-05-29**|**X-ray and Radio campaign of the Z-source GX 340+0: discovery of X-ray polarization and its implications**|Yash Bhargava et.al.|[2405.19324v1](http://arxiv.org/abs/2405.19324v1)|[2405.19324v1](http://arxiv.org/pdf/2405.19324v1)|null|
+|**2024-05-29**|**The Effect of Tornadic Supercell Thunderstorms on the Atmospheric Muon Flux**|William Luszczak et.al.|[2405.19311v1](http://arxiv.org/abs/2405.19311v1)|[2405.19311v1](http://arxiv.org/pdf/2405.19311v1)|null|
+|**2024-05-29**|**Genuine Retrieval of the AGN Host Stellar Population (GRAHSP)**|Johannes Buchner et.al.|[2405.19297v1](http://arxiv.org/abs/2405.19297v1)|[2405.19297v1](http://arxiv.org/pdf/2405.19297v1)|null|
+|**2024-05-29**|**Archetype-Based Redshift Estimation for the Dark Energy Spectroscopic Instrument Survey**|Abhijeet Anand et.al.|[2405.19288v1](http://arxiv.org/abs/2405.19288v1)|[2405.19288v1](http://arxiv.org/pdf/2405.19288v1)|null|
+|**2024-05-29**|**EDGE: A new model for Nuclear Star Cluster formation in dwarf galaxies**|Emily I. Gray et.al.|[2405.19286v1](http://arxiv.org/abs/2405.19286v1)|[2405.19286v1](http://arxiv.org/pdf/2405.19286v1)|null|
+|**2024-05-29**|**Detecting the Stochastic Gravitational Wave Background from Primordial Black Holes in Slow-reheating Scenarios**|Luis E. Padilla et.al.|[2405.19271v1](http://arxiv.org/abs/2405.19271v1)|[2405.19271v1](http://arxiv.org/pdf/2405.19271v1)|null|
+|**2024-05-29**|**Seasonal and longitudinal variability in Io's SO2 atmosphere from 22 years of IRTF/TEXES observations**|Rohini S. Giles et.al.|[2405.19253v1](http://arxiv.org/abs/2405.19253v1)|[2405.19253v1](http://arxiv.org/pdf/2405.19253v1)|null|
+|**2024-05-29**|**Dark matter admixed neutron stars with a realistic nuclear equation of state from chiral nuclear interactions**|Domenico Scordino et.al.|[2405.19251v1](http://arxiv.org/abs/2405.19251v1)|[2405.19251v1](http://arxiv.org/pdf/2405.19251v1)|null|
+|**2024-05-29**|**Intermediate-mass-ratio inspirals with general dynamical friction in dark matter minispikes**|Yu-Chen Zhou et.al.|[2405.19240v1](http://arxiv.org/abs/2405.19240v1)|[2405.19240v1](http://arxiv.org/pdf/2405.19240v1)|null|
 |**2024-05-28**|**Afterglow Linear Polarization Signatures from Shallow GRB Jets: Implications for Energetic GRBs**|Gal Birenbaum et.al.|[2405.18423v1](http://arxiv.org/abs/2405.18423v1)|[2405.18423v1](http://arxiv.org/pdf/2405.18423v1)|null|
 |**2024-05-28**|**JWST-TST High Contrast: JWST/NIRCam observations of the young giant planet $β$ Pic b**|Jens Kammerer et.al.|[2405.18422v1](http://arxiv.org/abs/2405.18422v1)|[2405.18422v1](http://arxiv.org/pdf/2405.18422v1)|null|
 |**2024-05-28**|**Pixel domain implementation of the Minimally Informed CMB MAp foreground Cleaning (MICMAC) method**|Magdy Morshed et.al.|[2405.18365v1](http://arxiv.org/abs/2405.18365v1)|[2405.18365v1](http://arxiv.org/pdf/2405.18365v1)|null|
@@ -4847,6 +4857,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-05-29**|**LLMs Meet Multimodal Generation and Editing: A Survey**|Yingqing He et.al.|[2405.19334v1](http://arxiv.org/abs/2405.19334v1)|[2405.19334v1](http://arxiv.org/pdf/2405.19334v1)|**[link](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)**|
+|**2024-05-29**|**Self-Exploring Language Models: Active Preference Elicitation for Online Alignment**|Shenao Zhang et.al.|[2405.19332v1](http://arxiv.org/abs/2405.19332v1)|[2405.19332v1](http://arxiv.org/pdf/2405.19332v1)|**[link](https://github.com/shenao-zhang/selm)**|
+|**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331v1](http://arxiv.org/abs/2405.19331v1)|[2405.19331v1](http://arxiv.org/pdf/2405.19331v1)|null|
+|**2024-05-29**|**MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series**|Ge Zhang et.al.|[2405.19327v1](http://arxiv.org/abs/2405.19327v1)|[2405.19327v1](http://arxiv.org/pdf/2405.19327v1)|null|
+|**2024-05-29**|**Are Large Language Models Chameleons?**|Mingmeng Geng et.al.|[2405.19323v1](http://arxiv.org/abs/2405.19323v1)|[2405.19323v1](http://arxiv.org/pdf/2405.19323v1)|null|
+|**2024-05-29**|**Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF**|Shicong Cen et.al.|[2405.19320v1](http://arxiv.org/abs/2405.19320v1)|[2405.19320v1](http://arxiv.org/pdf/2405.19320v1)|null|
+|**2024-05-29**|**Adaptive Generalized Neyman Allocation: Local Asymptotic Minimax Optimal Best Arm Identification**|Masahiro Kato et.al.|[2405.19317v1](http://arxiv.org/abs/2405.19317v1)|[2405.19317v1](http://arxiv.org/pdf/2405.19317v1)|null|
+|**2024-05-29**|**Language Models Trained to do Arithmetic Predict Human Risky and Intertemporal Choice**|Jian-Qiao Zhu et.al.|[2405.19313v1](http://arxiv.org/abs/2405.19313v1)|[2405.19313v1](http://arxiv.org/pdf/2405.19313v1)|null|
+|**2024-05-29**|**Measuring and Mitigating Bias for Tabular Datasets with Multiple Protected Attributes**|Manh Khoi Duong et.al.|[2405.19300v1](http://arxiv.org/abs/2405.19300v1)|[2405.19300v1](http://arxiv.org/pdf/2405.19300v1)|null|
+|**2024-05-29**|**Neural Isometries: Taming Transformations for Equivariant ML**|Thomas W. Mitchel et.al.|[2405.19296v1](http://arxiv.org/abs/2405.19296v1)|[2405.19296v1](http://arxiv.org/pdf/2405.19296v1)|null|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428v1](http://arxiv.org/abs/2405.18428v1)|[2405.18428v1](http://arxiv.org/pdf/2405.18428v1)|**[link](https://github.com/hustvl/dig)**|
 |**2024-05-28**|**Classifying Overlapping Gaussian Mixtures in High Dimensions: From Optimal Classifiers to Neural Nets**|Khen Cohen et.al.|[2405.18427v1](http://arxiv.org/abs/2405.18427v1)|[2405.18427v1](http://arxiv.org/pdf/2405.18427v1)|null|
 |**2024-05-28**|**GFlow: Recovering 4D World from Monocular Video**|Shizun Wang et.al.|[2405.18426v1](http://arxiv.org/abs/2405.18426v1)|[2405.18426v1](http://arxiv.org/pdf/2405.18426v1)|null|
