@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-30**|**Did Binary Neutron Star Merger GW170817 Leave Behind A Long-lived Neutron Star?**|Marcus DuPont et.al.|[2405.20329v1](http://arxiv.org/abs/2405.20329v1)|[2405.20329v1](http://arxiv.org/pdf/2405.20329v1)|null|
+|**2024-05-30**|**The COS-Holes Survey: Connecting Galaxy Black Hole Mass with the State of the CGM**|Samantha L. Garza et.al.|[2405.20316v1](http://arxiv.org/abs/2405.20316v1)|[2405.20316v1](http://arxiv.org/pdf/2405.20316v1)|null|
+|**2024-05-30**|**Active Dwarf Galaxy Database I: Overlap between active galactic nuclei selected by different techniques**|Erik J. Wasleske et.al.|[2405.20312v1](http://arxiv.org/abs/2405.20312v1)|[2405.20312v1](http://arxiv.org/pdf/2405.20312v1)|null|
+|**2024-05-30**|**A consistency test of the cosmological model at the epoch of recombination using DESI BAO and Planck measurements**|Levon Pogosian et.al.|[2405.20306v1](http://arxiv.org/abs/2405.20306v1)|[2405.20306v1](http://arxiv.org/pdf/2405.20306v1)|null|
+|**2024-05-30**|**Gravitational Lensing in More Realistic Dark Matter Halo Models**|Ali Tizfahm et.al.|[2405.20256v1](http://arxiv.org/abs/2405.20256v1)|[2405.20256v1](http://arxiv.org/pdf/2405.20256v1)|null|
+|**2024-05-30**|**An Expanding Accretion Disk and a Warm Disk Wind As Seen In the Spectral Evolution of HBC 722**|Adolfo S. Carvalho et.al.|[2405.20251v1](http://arxiv.org/abs/2405.20251v1)|[2405.20251v1](http://arxiv.org/pdf/2405.20251v1)|null|
+|**2024-05-30**|**WIYN Open Cluster Study. XC. Barium Surface Abundances of Blue Straggler Stars in the Open Clusters NGC 7789 and M67**|Andrew C. Nine et.al.|[2405.20242v1](http://arxiv.org/abs/2405.20242v1)|[2405.20242v1](http://arxiv.org/pdf/2405.20242v1)|null|
+|**2024-05-30**|**Love-C relations for elastic hybrid stars**|Zoey Zhiyuan Dong et.al.|[2405.20228v1](http://arxiv.org/abs/2405.20228v1)|[2405.20228v1](http://arxiv.org/pdf/2405.20228v1)|null|
+|**2024-05-30**|**Astrophysical aspects of $^{12}$C$(p,γ)^{13}$N reaction**|Soumya Saha et.al.|[2405.20223v1](http://arxiv.org/abs/2405.20223v1)|[2405.20223v1](http://arxiv.org/pdf/2405.20223v1)|null|
+|**2024-05-30**|**Filter Design for Estimation of Stellar Metallicity: Insights from Experiments with Gaia XP Spectra**|Kai Xiao et.al.|[2405.20212v1](http://arxiv.org/abs/2405.20212v1)|[2405.20212v1](http://arxiv.org/pdf/2405.20212v1)|null|
 |**2024-05-29**|**Barium stars as tracers of s-process nucleosynthesis in AGB stars III. Systematic deviations from the AGB models**|B. Világos et.al.|[2405.19330v1](http://arxiv.org/abs/2405.19330v1)|[2405.19330v1](http://arxiv.org/pdf/2405.19330v1)|null|
 |**2024-05-29**|**X-ray and Radio campaign of the Z-source GX 340+0: discovery of X-ray polarization and its implications**|Yash Bhargava et.al.|[2405.19324v1](http://arxiv.org/abs/2405.19324v1)|[2405.19324v1](http://arxiv.org/pdf/2405.19324v1)|null|
 |**2024-05-29**|**The Effect of Tornadic Supercell Thunderstorms on the Atmospheric Muon Flux**|William Luszczak et.al.|[2405.19311v1](http://arxiv.org/abs/2405.19311v1)|[2405.19311v1](http://arxiv.org/pdf/2405.19311v1)|null|
@@ -4861,6 +4871,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337v1](http://arxiv.org/abs/2405.20337v1)|[2405.20337v1](http://arxiv.org/pdf/2405.20337v1)|**[link](https://github.com/wzzheng/occsora)**|
+|**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[2405.20331v1](http://arxiv.org/pdf/2405.20331v1)|**[link](https://github.com/lkopf/cosy)**|
+|**2024-05-30**|**4DHands: Reconstructing Interactive Hands in 4D with Transformers**|Dixuan Lin et.al.|[2405.20330v1](http://arxiv.org/abs/2405.20330v1)|[2405.20330v1](http://arxiv.org/pdf/2405.20330v1)|null|
+|**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[2405.20323v1](http://arxiv.org/pdf/2405.20323v1)|**[link](https://github.com/nnanhuang/s3gaussian)**|
+|**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320v1](http://arxiv.org/abs/2405.20320v1)|[2405.20320v1](http://arxiv.org/pdf/2405.20320v1)|**[link](https://github.com/sangyun884/rfpp)**|
+|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319v1](http://arxiv.org/abs/2405.20319v1)|[2405.20319v1](http://arxiv.org/pdf/2405.20319v1)|null|
+|**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318v1](http://arxiv.org/abs/2405.20318v1)|[2405.20318v1](http://arxiv.org/pdf/2405.20318v1)|**[link](https://github.com/roberto-ceraolo/causal-quest)**|
+|**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315v1](http://arxiv.org/abs/2405.20315v1)|[2405.20315v1](http://arxiv.org/pdf/2405.20315v1)|**[link](https://github.com/open-compass/anah)**|
+|**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309v1](http://arxiv.org/abs/2405.20309v1)|[2405.20309v1](http://arxiv.org/pdf/2405.20309v1)|null|
+|**2024-05-30**|**DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2405.20289v1](http://arxiv.org/abs/2405.20289v1)|[2405.20289v1](http://arxiv.org/pdf/2405.20289v1)|null|
 |**2024-05-29**|**LLMs Meet Multimodal Generation and Editing: A Survey**|Yingqing He et.al.|[2405.19334v1](http://arxiv.org/abs/2405.19334v1)|[2405.19334v1](http://arxiv.org/pdf/2405.19334v1)|**[link](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)**|
 |**2024-05-29**|**Self-Exploring Language Models: Active Preference Elicitation for Online Alignment**|Shenao Zhang et.al.|[2405.19332v1](http://arxiv.org/abs/2405.19332v1)|[2405.19332v1](http://arxiv.org/pdf/2405.19332v1)|**[link](https://github.com/shenao-zhang/selm)**|
 |**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331v1](http://arxiv.org/abs/2405.19331v1)|[2405.19331v1](http://arxiv.org/pdf/2405.19331v1)|null|
