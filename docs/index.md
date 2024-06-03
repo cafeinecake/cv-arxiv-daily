@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 
 ## Astrophysics
 
@@ -4873,10 +4873,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337v1](http://arxiv.org/abs/2405.20337v1)|[2405.20337v1](http://arxiv.org/pdf/2405.20337v1)|**[link](https://github.com/wzzheng/occsora)**|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[2405.20331v1](http://arxiv.org/pdf/2405.20331v1)|**[link](https://github.com/lkopf/cosy)**|
-|**2024-05-30**|**4DHands: Reconstructing Interactive Hands in 4D with Transformers**|Dixuan Lin et.al.|[2405.20330v1](http://arxiv.org/abs/2405.20330v1)|[2405.20330v1](http://arxiv.org/pdf/2405.20330v1)|null|
+|**2024-05-31**|**4DHands: Reconstructing Interactive Hands in 4D with Transformers**|Dixuan Lin et.al.|[2405.20330v2](http://arxiv.org/abs/2405.20330v2)|[2405.20330v2](http://arxiv.org/pdf/2405.20330v2)|null|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[2405.20323v1](http://arxiv.org/pdf/2405.20323v1)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320v1](http://arxiv.org/abs/2405.20320v1)|[2405.20320v1](http://arxiv.org/pdf/2405.20320v1)|**[link](https://github.com/sangyun884/rfpp)**|
-|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319v1](http://arxiv.org/abs/2405.20319v1)|[2405.20319v1](http://arxiv.org/pdf/2405.20319v1)|null|
+|**2024-05-31**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319v2](http://arxiv.org/abs/2405.20319v2)|[2405.20319v2](http://arxiv.org/pdf/2405.20319v2)|null|
 |**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318v1](http://arxiv.org/abs/2405.20318v1)|[2405.20318v1](http://arxiv.org/pdf/2405.20318v1)|**[link](https://github.com/roberto-ceraolo/causal-quest)**|
 |**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315v1](http://arxiv.org/abs/2405.20315v1)|[2405.20315v1](http://arxiv.org/pdf/2405.20315v1)|**[link](https://github.com/open-compass/anah)**|
 |**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309v1](http://arxiv.org/abs/2405.20309v1)|[2405.20309v1](http://arxiv.org/pdf/2405.20309v1)|null|

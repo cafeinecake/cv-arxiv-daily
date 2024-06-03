@@ -1,4 +1,4 @@
-> Updated on 2024.06.02
+> Updated on 2024.06.03
 
 ## Astrophysics
 
@@ -4865,10 +4865,10 @@
 
 - 2024-05-30, **OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2405.20337v1](http://arxiv.org/abs/2405.20337v1),Paper: [http://arxiv.org/abs/2405.20337v1](http://arxiv.org/pdf/2405.20337v1), Code: **[https://github.com/wzzheng/occsora](https://github.com/wzzheng/occsora)**
 - 2024-05-30, **CoSy: Evaluating Textual Explanations of Neurons**, Laura Kopf et.al., Paper: [http://arxiv.org/abs/2405.20331v1](http://arxiv.org/abs/2405.20331v1),Paper: [http://arxiv.org/abs/2405.20331v1](http://arxiv.org/pdf/2405.20331v1), Code: **[https://github.com/lkopf/cosy](https://github.com/lkopf/cosy)**
-- 2024-05-30, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v1](http://arxiv.org/abs/2405.20330v1), Paper: [http://arxiv.org/abs/2405.20330v1](http://arxiv.org/pdf/2405.20330v1)
+- 2024-05-31, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v2](http://arxiv.org/abs/2405.20330v2), Paper: [http://arxiv.org/abs/2405.20330v2](http://arxiv.org/pdf/2405.20330v2)
 - 2024-05-30, **$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**, Nan Huang et.al., Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/abs/2405.20323v1),Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/pdf/2405.20323v1), Code: **[https://github.com/nnanhuang/s3gaussian](https://github.com/nnanhuang/s3gaussian)**
 - 2024-05-30, **Improving the Training of Rectified Flows**, Sangyun Lee et.al., Paper: [http://arxiv.org/abs/2405.20320v1](http://arxiv.org/abs/2405.20320v1),Paper: [http://arxiv.org/abs/2405.20320v1](http://arxiv.org/pdf/2405.20320v1), Code: **[https://github.com/sangyun884/rfpp](https://github.com/sangyun884/rfpp)**
-- 2024-05-30, **ParSEL: Parameterized Shape Editing with Language**, Aditya Ganeshan et.al., Paper: [http://arxiv.org/abs/2405.20319v1](http://arxiv.org/abs/2405.20319v1), Paper: [http://arxiv.org/abs/2405.20319v1](http://arxiv.org/pdf/2405.20319v1)
+- 2024-05-31, **ParSEL: Parameterized Shape Editing with Language**, Aditya Ganeshan et.al., Paper: [http://arxiv.org/abs/2405.20319v2](http://arxiv.org/abs/2405.20319v2), Paper: [http://arxiv.org/abs/2405.20319v2](http://arxiv.org/pdf/2405.20319v2)
 - 2024-05-30, **CausalQuest: Collecting Natural Causal Questions for AI Agents**, Roberto Ceraolo et.al., Paper: [http://arxiv.org/abs/2405.20318v1](http://arxiv.org/abs/2405.20318v1),Paper: [http://arxiv.org/abs/2405.20318v1](http://arxiv.org/pdf/2405.20318v1), Code: **[https://github.com/roberto-ceraolo/causal-quest](https://github.com/roberto-ceraolo/causal-quest)**
 - 2024-05-30, **ANAH: Analytical Annotation of Hallucinations in Large Language Models**, Ziwei Ji et.al., Paper: [http://arxiv.org/abs/2405.20315v1](http://arxiv.org/abs/2405.20315v1),Paper: [http://arxiv.org/abs/2405.20315v1](http://arxiv.org/pdf/2405.20315v1), Code: **[https://github.com/open-compass/anah](https://github.com/open-compass/anah)**
 - 2024-05-30, **Large Language Models Can Self-Improve At Web Agent Tasks**, Ajay Patel et.al., Paper: [http://arxiv.org/abs/2405.20309v1](http://arxiv.org/abs/2405.20309v1), Paper: [http://arxiv.org/abs/2405.20309v1](http://arxiv.org/pdf/2405.20309v1)
