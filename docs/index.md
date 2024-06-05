@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-04**|**Dark photon limits from patchy dark screening of the cosmic microwave background**|Fiona McCarthy et.al.|[2406.02546v1](http://arxiv.org/abs/2406.02546v1)|[2406.02546v1](http://arxiv.org/pdf/2406.02546v1)|null|
+|**2024-06-04**|**Asymmetry, Gap Opening and High Accretion Rate on DM Tau: A Hypothesis Based on Interaction of Magnetized Disk Wind with Planet**|Yinhao Wu et.al.|[2406.02544v1](http://arxiv.org/abs/2406.02544v1)|[2406.02544v1](http://arxiv.org/pdf/2406.02544v1)|null|
+|**2024-06-04**|**Hybrid inflation and gravitational waves from accidentally light scalars**|Felix Brümmer et.al.|[2406.02531v1](http://arxiv.org/abs/2406.02531v1)|[2406.02531v1](http://arxiv.org/pdf/2406.02531v1)|null|
+|**2024-06-04**|**Lichen-Mediated Self-Growing Construc8on Materials for Habitat Outfitting on Mars**|Nisha Rokaya et.al.|[2406.02522v1](http://arxiv.org/abs/2406.02522v1)|[2406.02522v1](http://arxiv.org/pdf/2406.02522v1)|null|
+|**2024-06-04**|**Towards an optimal marked correlation function analysis for the detection of modified gravity**|Martin Kärcher et.al.|[2406.02504v1](http://arxiv.org/abs/2406.02504v1)|[2406.02504v1](http://arxiv.org/pdf/2406.02504v1)|null|
+|**2024-06-04**|**The story of SN 2021aatd -- a peculiar 1987A-like supernova with an early-phase luminosity excess**|T. Szalai et.al.|[2406.02498v1](http://arxiv.org/abs/2406.02498v1)|[2406.02498v1](http://arxiv.org/pdf/2406.02498v1)|null|
+|**2024-06-04**|**Superconducting resonator parametric amplifiers with intrinsic separation of pump and signal tones**|Songyuan Zhao et.al.|[2406.02455v1](http://arxiv.org/abs/2406.02455v1)|[2406.02455v1](http://arxiv.org/pdf/2406.02455v1)|null|
+|**2024-06-04**|**Parameterized Non-circular Deviation from the Kerr Paradigm and Its Observational Signatures: Extreme Mass Ratio Inspirals and Lense-Thirring Effect**|Rajes Ghosh et.al.|[2406.02454v1](http://arxiv.org/abs/2406.02454v1)|[2406.02454v1](http://arxiv.org/pdf/2406.02454v1)|null|
+|**2024-06-04**|**Non-Gaussian tails without stochastic inflation**|Guillermo Ballesteros et.al.|[2406.02417v1](http://arxiv.org/abs/2406.02417v1)|[2406.02417v1](http://arxiv.org/pdf/2406.02417v1)|null|
+|**2024-06-04**|**21cmSense v2: A modular, open-source 21cm sensitivity calculator**|Steven G. Murray et.al.|[2406.02415v1](http://arxiv.org/abs/2406.02415v1)|[2406.02415v1](http://arxiv.org/pdf/2406.02415v1)|null|
 |**2024-05-31**|**The Velocity Dispersion Function for Quiescent Galaxies in Massive Clusters from IllustrisTNG**|Jubee Sohn et.al.|[2405.21076v1](http://arxiv.org/abs/2405.21076v1)|[2405.21076v1](http://arxiv.org/pdf/2405.21076v1)|null|
 |**2024-05-31**|**Fast inspirals and the treatment of orbital resonances**|Philip Lynch et.al.|[2405.21072v1](http://arxiv.org/abs/2405.21072v1)|[2405.21072v1](http://arxiv.org/pdf/2405.21072v1)|null|
 |**2024-05-31**|**A Multi-wavelength, Multi-epoch Monitoring Campaign of Accretion Variability in T Tauri Stars from the ODYSSEUS Survey. II. Photometric Light Curves**|John Wendeborn et.al.|[2405.21071v1](http://arxiv.org/abs/2405.21071v1)|[2405.21071v1](http://arxiv.org/pdf/2405.21071v1)|null|
@@ -4881,6 +4891,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-04**|**To Believe or Not to Believe Your LLM**|Yasin Abbasi Yadkori et.al.|[2406.02543v1](http://arxiv.org/abs/2406.02543v1)|[2406.02543v1](http://arxiv.org/pdf/2406.02543v1)|null|
+|**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539v1](http://arxiv.org/abs/2406.02539v1)|[2406.02539v1](http://arxiv.org/pdf/2406.02539v1)|null|
+|**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534v1](http://arxiv.org/abs/2406.02534v1)|[2406.02534v1](http://arxiv.org/pdf/2406.02534v1)|null|
+|**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529v1](http://arxiv.org/abs/2406.02529v1)|[2406.02529v1](http://arxiv.org/pdf/2406.02529v1)|**[link](https://github.com/joeshenouda/relu-inrs)**|
+|**2024-06-04**|**RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots**|Soroush Nasiriany et.al.|[2406.02523v1](http://arxiv.org/abs/2406.02523v1)|[2406.02523v1](http://arxiv.org/pdf/2406.02523v1)|null|
+|**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511v1](http://arxiv.org/abs/2406.02511v1)|[2406.02511v1](http://arxiv.org/pdf/2406.02511v1)|null|
+|**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507v1](http://arxiv.org/abs/2406.02507v1)|[2406.02507v1](http://arxiv.org/pdf/2406.02507v1)|null|
+|**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500v1](http://arxiv.org/abs/2406.02500v1)|[2406.02500v1](http://arxiv.org/pdf/2406.02500v1)|null|
+|**2024-06-04**|**Dropout MPC: An Ensemble Neural MPC Approach for Systems with Learned Dynamics**|Spyridon Syntakas et.al.|[2406.02497v1](http://arxiv.org/abs/2406.02497v1)|[2406.02497v1](http://arxiv.org/pdf/2406.02497v1)|null|
+|**2024-06-04**|**Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability**|Kunpeng Xu et.al.|[2406.02496v1](http://arxiv.org/abs/2406.02496v1)|[2406.02496v1](http://arxiv.org/pdf/2406.02496v1)|null|
 |**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|[2405.21075v1](http://arxiv.org/pdf/2405.21075v1)|null|
 |**2024-05-31**|**Code Pretraining Improves Entity Tracking Abilities of Language Models**|Najoung Kim et.al.|[2405.21068v1](http://arxiv.org/abs/2405.21068v1)|[2405.21068v1](http://arxiv.org/pdf/2405.21068v1)|null|
 |**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|[2405.21064v1](http://arxiv.org/pdf/2405.21064v1)|null|
