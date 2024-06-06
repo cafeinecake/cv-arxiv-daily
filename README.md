@@ -1,16 +1,16 @@
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2024-06-04**|**Dark photon limits from patchy dark screening of the cosmic microwave background**|Fiona McCarthy et.al.|[2406.02546v1](http://arxiv.org/abs/2406.02546v1)|[2406.02546v1](http://arxiv.org/pdf/2406.02546v1)|null|
+|**2024-06-05**|**Dark photon limits from patchy dark screening of the cosmic microwave background**|Fiona McCarthy et.al.|[2406.02546v2](http://arxiv.org/abs/2406.02546v2)|[2406.02546v2](http://arxiv.org/pdf/2406.02546v2)|null|
 |**2024-06-04**|**Asymmetry, Gap Opening and High Accretion Rate on DM Tau: A Hypothesis Based on Interaction of Magnetized Disk Wind with Planet**|Yinhao Wu et.al.|[2406.02544v1](http://arxiv.org/abs/2406.02544v1)|[2406.02544v1](http://arxiv.org/pdf/2406.02544v1)|null|
 |**2024-06-04**|**Hybrid inflation and gravitational waves from accidentally light scalars**|Felix Brümmer et.al.|[2406.02531v1](http://arxiv.org/abs/2406.02531v1)|[2406.02531v1](http://arxiv.org/pdf/2406.02531v1)|null|
 |**2024-06-04**|**Lichen-Mediated Self-Growing Construc8on Materials for Habitat Outfitting on Mars**|Nisha Rokaya et.al.|[2406.02522v1](http://arxiv.org/abs/2406.02522v1)|[2406.02522v1](http://arxiv.org/pdf/2406.02522v1)|null|
 |**2024-06-04**|**Towards an optimal marked correlation function analysis for the detection of modified gravity**|Martin Kärcher et.al.|[2406.02504v1](http://arxiv.org/abs/2406.02504v1)|[2406.02504v1](http://arxiv.org/pdf/2406.02504v1)|null|
 |**2024-06-04**|**The story of SN 2021aatd -- a peculiar 1987A-like supernova with an early-phase luminosity excess**|T. Szalai et.al.|[2406.02498v1](http://arxiv.org/abs/2406.02498v1)|[2406.02498v1](http://arxiv.org/pdf/2406.02498v1)|null|
-|**2024-06-04**|**Superconducting resonator parametric amplifiers with intrinsic separation of pump and signal tones**|Songyuan Zhao et.al.|[2406.02455v1](http://arxiv.org/abs/2406.02455v1)|[2406.02455v1](http://arxiv.org/pdf/2406.02455v1)|null|
+|**2024-06-05**|**Superconducting resonator parametric amplifiers with intrinsic separation of pump and signal tones**|Songyuan Zhao et.al.|[2406.02455v2](http://arxiv.org/abs/2406.02455v2)|[2406.02455v2](http://arxiv.org/pdf/2406.02455v2)|null|
 |**2024-06-04**|**Parameterized Non-circular Deviation from the Kerr Paradigm and Its Observational Signatures: Extreme Mass Ratio Inspirals and Lense-Thirring Effect**|Rajes Ghosh et.al.|[2406.02454v1](http://arxiv.org/abs/2406.02454v1)|[2406.02454v1](http://arxiv.org/pdf/2406.02454v1)|null|
 |**2024-06-04**|**Non-Gaussian tails without stochastic inflation**|Guillermo Ballesteros et.al.|[2406.02417v1](http://arxiv.org/abs/2406.02417v1)|[2406.02417v1](http://arxiv.org/pdf/2406.02417v1)|null|
 |**2024-06-04**|**21cmSense v2: A modular, open-source 21cm sensitivity calculator**|Steven G. Murray et.al.|[2406.02415v1](http://arxiv.org/abs/2406.02415v1)|[2406.02415v1](http://arxiv.org/pdf/2406.02415v1)|null|
