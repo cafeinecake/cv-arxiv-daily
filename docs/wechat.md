@@ -1,4 +1,4 @@
-> Updated on 2024.06.06
+> Updated on 2024.06.07
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 - 2024-06-05, **Joint Modelling of Astrophysical Systematics for Cosmology with LSST**, Nikolina Šarčević et.al., Paper: [http://arxiv.org/abs/2406.03352v1](http://arxiv.org/abs/2406.03352v1), Paper: [http://arxiv.org/abs/2406.03352v1](http://arxiv.org/pdf/2406.03352v1)
 - 2024-06-05, **Interpreting Mass and Radius Measurements of Neutron Stars with Dark Matter Halos**, Shafayat Shawqi et.al., Paper: [http://arxiv.org/abs/2406.03332v1](http://arxiv.org/abs/2406.03332v1), Paper: [http://arxiv.org/abs/2406.03332v1](http://arxiv.org/pdf/2406.03332v1)
 - 2024-06-05, **Detection of extended gamma-ray emission in the vicinity of Cl Danks 1 and 2**, Jiahao Liu et.al., Paper: [http://arxiv.org/abs/2406.03320v1](http://arxiv.org/abs/2406.03320v1), Paper: [http://arxiv.org/abs/2406.03320v1](http://arxiv.org/pdf/2406.03320v1)
-- 2024-06-05, **Photometric segregation of dwarf and giant FGK stars using the SVO Filter Profile Service and photometric tools**, Carlos Rodrigo et.al., Paper: [http://arxiv.org/abs/2406.03310v1](http://arxiv.org/abs/2406.03310v1), Paper: [http://arxiv.org/abs/2406.03310v1](http://arxiv.org/pdf/2406.03310v1)
+- 2024-06-06, **Photometric segregation of dwarf and giant FGK stars using the SVO Filter Profile Service and photometric tools**, Carlos Rodrigo et.al., Paper: [http://arxiv.org/abs/2406.03310v2](http://arxiv.org/abs/2406.03310v2), Paper: [http://arxiv.org/abs/2406.03310v2](http://arxiv.org/pdf/2406.03310v2)
 - 2024-06-05, **How Gaia sheds light on the Milky Way star cluster population**, T. Cantat-Gaudin et.al., Paper: [http://arxiv.org/abs/2406.03308v1](http://arxiv.org/abs/2406.03308v1), Paper: [http://arxiv.org/abs/2406.03308v1](http://arxiv.org/pdf/2406.03308v1)
 - 2024-06-05, **Dark photon limits from patchy dark screening of the cosmic microwave background**, Fiona McCarthy et.al., Paper: [http://arxiv.org/abs/2406.02546v2](http://arxiv.org/abs/2406.02546v2), Paper: [http://arxiv.org/abs/2406.02546v2](http://arxiv.org/pdf/2406.02546v2)
 - 2024-06-04, **Asymmetry, Gap Opening and High Accretion Rate on DM Tau: A Hypothesis Based on Interaction of Magnetized Disk Wind with Planet**, Yinhao Wu et.al., Paper: [http://arxiv.org/abs/2406.02544v1](http://arxiv.org/abs/2406.02544v1), Paper: [http://arxiv.org/abs/2406.02544v1](http://arxiv.org/pdf/2406.02544v1)
