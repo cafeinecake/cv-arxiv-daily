@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-06**|**Particles and their fluids in $f(R,T)$ gravity**|P. P. Avelino et.al.|[2406.04335v1](http://arxiv.org/abs/2406.04335v1)|[2406.04335v1](http://arxiv.org/pdf/2406.04335v1)|null|
+|**2024-06-06**|**The Square Kilometer Array as a Cosmic Microwave Background Experiment**|David Zegeye et.al.|[2406.04326v1](http://arxiv.org/abs/2406.04326v1)|[2406.04326v1](http://arxiv.org/pdf/2406.04326v1)|null|
+|**2024-06-06**|**From Super-Earths to Sub-Neptunes: observational constraints and connections to theoretical models**|Léna Parc et.al.|[2406.04311v1](http://arxiv.org/abs/2406.04311v1)|[2406.04311v1](http://arxiv.org/pdf/2406.04311v1)|null|
+|**2024-06-06**|**Trials and Tribulations in the Reanalysis of KELT-24 b: a Case Study for the Importance of Stellar Modeling**|Mark R. Giovinazzi et.al.|[2406.04288v1](http://arxiv.org/abs/2406.04288v1)|[2406.04288v1](http://arxiv.org/pdf/2406.04288v1)|null|
+|**2024-06-06**|**Apsidal Precession in Binary Asteroids**|Alex J Meyer et.al.|[2406.04265v1](http://arxiv.org/abs/2406.04265v1)|[2406.04265v1](http://arxiv.org/pdf/2406.04265v1)|null|
+|**2024-06-06**|**An adaptive parameter estimator for poor-quality spectral data of white dwarfs**|Duo Xie et.al.|[2406.04248v1](http://arxiv.org/abs/2406.04248v1)|[2406.04248v1](http://arxiv.org/pdf/2406.04248v1)|null|
+|**2024-06-06**|**Exploring magnetic fields in merging galaxy: combining polarization and velocity gradient in the Centaurus Galaxy**|Quynh Lan Nguyen et.al.|[2406.04242v1](http://arxiv.org/abs/2406.04242v1)|[2406.04242v1](http://arxiv.org/pdf/2406.04242v1)|null|
+|**2024-06-06**|**Systematic analysis of jellyfish galaxy candidates in Fornax, Antlia, and Hydra from the S-PLUS survey: A self-supervised visual identification aid**|Yash Gondhalekar et.al.|[2406.04213v1](http://arxiv.org/abs/2406.04213v1)|[2406.04213v1](http://arxiv.org/pdf/2406.04213v1)|null|
+|**2024-06-06**|**Fundamental effective temperature measurements for eclipsing binary stars -- V. The circumbinary planet system EBLM J0608-59**|P. F. L. Maxted et.al.|[2406.04204v1](http://arxiv.org/abs/2406.04204v1)|[2406.04204v1](http://arxiv.org/pdf/2406.04204v1)|null|
+|**2024-06-06**|**Unified Rapid Mass Transfer**|Natalia Ivanova et.al.|[2406.04195v1](http://arxiv.org/abs/2406.04195v1)|[2406.04195v1](http://arxiv.org/pdf/2406.04195v1)|null|
 |**2024-06-05**|**Simultaneous retrieval of orbital phase resolved JWST/MIRI emission spectra of the hot Jupiter WASP-43b: evidence of water, ammonia and carbon monoxide**|Jingxuan Yang et.al.|[2406.03490v1](http://arxiv.org/abs/2406.03490v1)|[2406.03490v1](http://arxiv.org/pdf/2406.03490v1)|null|
 |**2024-06-05**|**Probing the distinct extinction law of the Pillars of Creation in M16 with JWST**|Jun Li et.al.|[2406.03410v1](http://arxiv.org/abs/2406.03410v1)|[2406.03410v1](http://arxiv.org/pdf/2406.03410v1)|null|
 |**2024-06-05**|**Can recent DESI BAO measurements accommodate a negative cosmological constant?**|Hao Wang et.al.|[2406.03395v1](http://arxiv.org/abs/2406.03395v1)|[2406.03395v1](http://arxiv.org/pdf/2406.03395v1)|null|
@@ -4901,6 +4911,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|[2406.04338v1](http://arxiv.org/pdf/2406.04338v1)|null|
+|**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|[2406.04337v1](http://arxiv.org/pdf/2406.04337v1)|null|
+|**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331v1](http://arxiv.org/abs/2406.04331v1)|[2406.04331v1](http://arxiv.org/pdf/2406.04331v1)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
+|**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323v1](http://arxiv.org/abs/2406.04323v1)|[2406.04323v1](http://arxiv.org/pdf/2406.04323v1)|null|
+|**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320v1](http://arxiv.org/abs/2406.04320v1)|[2406.04320v1](http://arxiv.org/pdf/2406.04320v1)|null|
+|**2024-06-06**|**Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**|Chen-Yu Yen et.al.|[2406.04318v1](http://arxiv.org/abs/2406.04318v1)|[2406.04318v1](http://arxiv.org/pdf/2406.04318v1)|null|
+|**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313v1](http://arxiv.org/abs/2406.04313v1)|[2406.04313v1](http://arxiv.org/pdf/2406.04313v1)|null|
+|**2024-06-06**|**Neural Networks Assisted Metropolis-Hastings for Bayesian Estimation of Critical Exponent on Elliptic Black Hole Solution in 4D Using Quantum Perturbation Theory**|Armin Hatefi et.al.|[2406.04310v1](http://arxiv.org/abs/2406.04310v1)|[2406.04310v1](http://arxiv.org/pdf/2406.04310v1)|null|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306v1](http://arxiv.org/abs/2406.04306v1)|[2406.04306v1](http://arxiv.org/pdf/2406.04306v1)|null|
+|**2024-06-06**|**Vision-LSTM: xLSTM as Generic Vision Backbone**|Benedikt Alkin et.al.|[2406.04303v1](http://arxiv.org/abs/2406.04303v1)|[2406.04303v1](http://arxiv.org/pdf/2406.04303v1)|null|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|[2406.03496v1](http://arxiv.org/pdf/2406.03496v1)|null|
 |**2024-06-05**|**The Logarithmic Memristor-Based Bayesian Machine**|Clément Turck et.al.|[2406.03492v1](http://arxiv.org/abs/2406.03492v1)|[2406.03492v1](http://arxiv.org/pdf/2406.03492v1)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487v1](http://arxiv.org/abs/2406.03487v1)|[2406.03487v1](http://arxiv.org/pdf/2406.03487v1)|null|
