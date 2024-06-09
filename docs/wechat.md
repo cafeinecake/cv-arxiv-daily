@@ -1,4 +1,4 @@
-> Updated on 2024.06.08
+> Updated on 2024.06.09
 
 ## Astrophysics
 
@@ -4909,9 +4909,9 @@
 - 2024-06-06, **ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**, Qianlan Yang et.al., Paper: [http://arxiv.org/abs/2406.04323v1](http://arxiv.org/abs/2406.04323v1), Paper: [http://arxiv.org/abs/2406.04323v1](http://arxiv.org/pdf/2406.04323v1)
 - 2024-06-06, **Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**, Ali Behrouz et.al., Paper: [http://arxiv.org/abs/2406.04320v1](http://arxiv.org/abs/2406.04320v1), Paper: [http://arxiv.org/abs/2406.04320v1](http://arxiv.org/pdf/2406.04320v1)
 - 2024-06-06, **Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**, Chen-Yu Yen et.al., Paper: [http://arxiv.org/abs/2406.04318v1](http://arxiv.org/abs/2406.04318v1), Paper: [http://arxiv.org/abs/2406.04318v1](http://arxiv.org/pdf/2406.04318v1)
-- 2024-06-06, **Improving Alignment and Robustness with Short Circuiting**, Andy Zou et.al., Paper: [http://arxiv.org/abs/2406.04313v1](http://arxiv.org/abs/2406.04313v1), Paper: [http://arxiv.org/abs/2406.04313v1](http://arxiv.org/pdf/2406.04313v1)
+- 2024-06-06, **Improving Alignment and Robustness with Short Circuiting**, Andy Zou et.al., Paper: [http://arxiv.org/abs/2406.04313v1](http://arxiv.org/abs/2406.04313v1),Paper: [http://arxiv.org/abs/2406.04313v1](http://arxiv.org/pdf/2406.04313v1), Code: **[https://github.com/blackswan-ai/short-circuiting](https://github.com/blackswan-ai/short-circuiting)**
 - 2024-06-06, **Neural Networks Assisted Metropolis-Hastings for Bayesian Estimation of Critical Exponent on Elliptic Black Hole Solution in 4D Using Quantum Perturbation Theory**, Armin Hatefi et.al., Paper: [http://arxiv.org/abs/2406.04310v1](http://arxiv.org/abs/2406.04310v1), Paper: [http://arxiv.org/abs/2406.04310v1](http://arxiv.org/pdf/2406.04310v1)
-- 2024-06-06, **Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**, Lukas Aichberger et.al., Paper: [http://arxiv.org/abs/2406.04306v1](http://arxiv.org/abs/2406.04306v1), Paper: [http://arxiv.org/abs/2406.04306v1](http://arxiv.org/pdf/2406.04306v1)
+- 2024-06-06, **Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**, Lukas Aichberger et.al., Paper: [http://arxiv.org/abs/2406.04306v1](http://arxiv.org/abs/2406.04306v1),Paper: [http://arxiv.org/abs/2406.04306v1](http://arxiv.org/pdf/2406.04306v1), Code: **[https://github.com/ml-jku/SDLG](https://github.com/ml-jku/SDLG)**
 - 2024-06-06, **Vision-LSTM: xLSTM as Generic Vision Backbone**, Benedikt Alkin et.al., Paper: [http://arxiv.org/abs/2406.04303v1](http://arxiv.org/abs/2406.04303v1), Paper: [http://arxiv.org/abs/2406.04303v1](http://arxiv.org/pdf/2406.04303v1)
 - 2024-06-05, **Wings: Learning Multimodal LLMs without Text-only Forgetting**, Yi-Kai Zhang et.al., Paper: [http://arxiv.org/abs/2406.03496v1](http://arxiv.org/abs/2406.03496v1), Paper: [http://arxiv.org/abs/2406.03496v1](http://arxiv.org/pdf/2406.03496v1)
 - 2024-06-05, **The Logarithmic Memristor-Based Bayesian Machine**, Clément Turck et.al., Paper: [http://arxiv.org/abs/2406.03492v1](http://arxiv.org/abs/2406.03492v1), Paper: [http://arxiv.org/abs/2406.03492v1](http://arxiv.org/pdf/2406.03492v1)
