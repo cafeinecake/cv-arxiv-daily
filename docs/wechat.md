@@ -1,4 +1,4 @@
-> Updated on 2024.06.09
+> Updated on 2024.06.10
 
 ## Astrophysics
 
@@ -4903,7 +4903,7 @@
 
 ## AI
 
-- 2024-06-06, **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2406.04338v1](http://arxiv.org/abs/2406.04338v1), Paper: [http://arxiv.org/abs/2406.04338v1](http://arxiv.org/pdf/2406.04338v1)
+- 2024-06-07, **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2406.04338v2](http://arxiv.org/abs/2406.04338v2), Paper: [http://arxiv.org/abs/2406.04338v2](http://arxiv.org/pdf/2406.04338v2)
 - 2024-06-06, **Coherent Zero-Shot Visual Instruction Generation**, Quynh Phung et.al., Paper: [http://arxiv.org/abs/2406.04337v1](http://arxiv.org/abs/2406.04337v1), Paper: [http://arxiv.org/abs/2406.04337v1](http://arxiv.org/pdf/2406.04337v1)
 - 2024-06-06, **PaCE: Parsimonious Concept Engineering for Large Language Models**, Jinqi Luo et.al., Paper: [http://arxiv.org/abs/2406.04331v1](http://arxiv.org/abs/2406.04331v1),Paper: [http://arxiv.org/abs/2406.04331v1](http://arxiv.org/pdf/2406.04331v1), Code: **[https://github.com/peterljq/parsimonious-concept-engineering](https://github.com/peterljq/parsimonious-concept-engineering)**
 - 2024-06-06, **ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**, Qianlan Yang et.al., Paper: [http://arxiv.org/abs/2406.04323v1](http://arxiv.org/abs/2406.04323v1), Paper: [http://arxiv.org/abs/2406.04323v1](http://arxiv.org/pdf/2406.04323v1)
