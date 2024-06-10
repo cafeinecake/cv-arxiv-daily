@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-07**|**GR-Athena++: magnetohydrodynamical evolution with dynamical space-time**|Boris Daszuta et.al.|[2406.05126v1](http://arxiv.org/abs/2406.05126v1)|[2406.05126v1](http://arxiv.org/pdf/2406.05126v1)|null|
+|**2024-06-07**|**Eccentricity effects on the SMBH GW background**|Juhan Raidal et.al.|[2406.05125v1](http://arxiv.org/abs/2406.05125v1)|[2406.05125v1](http://arxiv.org/pdf/2406.05125v1)|null|
+|**2024-06-07**|**Third-order intrinsic alignment of SDSS BOSS LOWZ galaxies**|Laila Linke et.al.|[2406.05122v1](http://arxiv.org/abs/2406.05122v1)|[2406.05122v1](http://arxiv.org/pdf/2406.05122v1)|null|
+|**2024-06-07**|**The SRG/eROSITA All-Sky Survey: X-ray beacons at late cosmic dawn**|J. Wolf et.al.|[2406.05118v1](http://arxiv.org/abs/2406.05118v1)|[2406.05118v1](http://arxiv.org/pdf/2406.05118v1)|null|
+|**2024-06-07**|**IRIS observational approach to the oscillatory and damping nature of network and internetwork chromosphere small-scale brightening (SSBs) and their unusual dynamical and morphological differences in different regions on the solar disk**|Rayhane Sadeghi et.al.|[2406.05105v1](http://arxiv.org/abs/2406.05105v1)|[2406.05105v1](http://arxiv.org/pdf/2406.05105v1)|null|
+|**2024-06-07**|**Cosmological parameters from the joint analysis of Density Split and Second Order Statistics: an Emulator based on the Halo Occupation Distribution**|Pierre A. Burger et.al.|[2406.05098v1](http://arxiv.org/abs/2406.05098v1)|[2406.05098v1](http://arxiv.org/pdf/2406.05098v1)|null|
+|**2024-06-07**|**UVIT Study of the MAgellanic Clouds (U-SMAC) I. Recent star formation history and kinematics of the Shell region in the North-Eastern Small Magellanic Cloud**|Sipra Hota et.al.|[2406.05093v1](http://arxiv.org/abs/2406.05093v1)|[2406.05093v1](http://arxiv.org/pdf/2406.05093v1)|null|
+|**2024-06-07**|**Searching for stellar population in the molecular cloud GRSMC 045.49+00.04**|N. Azatyan et.al.|[2406.05091v1](http://arxiv.org/abs/2406.05091v1)|[2406.05091v1](http://arxiv.org/pdf/2406.05091v1)|null|
+|**2024-06-07**|**Discovery of An Apparent Red, High-Velocity Type Ia Supernova at z = 2.9 with JWST**|J. D. R. Pierel et.al.|[2406.05089v1](http://arxiv.org/abs/2406.05089v1)|[2406.05089v1](http://arxiv.org/pdf/2406.05089v1)|null|
+|**2024-06-07**|**Pulsar Timing Arrays require hierarchical models**|Rutger van Haasteren et.al.|[2406.05081v1](http://arxiv.org/abs/2406.05081v1)|[2406.05081v1](http://arxiv.org/pdf/2406.05081v1)|null|
 |**2024-06-06**|**Particles and their fluids in $f(R,T)$ gravity**|P. P. Avelino et.al.|[2406.04335v1](http://arxiv.org/abs/2406.04335v1)|[2406.04335v1](http://arxiv.org/pdf/2406.04335v1)|null|
 |**2024-06-06**|**The Square Kilometer Array as a Cosmic Microwave Background Experiment**|David Zegeye et.al.|[2406.04326v1](http://arxiv.org/abs/2406.04326v1)|[2406.04326v1](http://arxiv.org/pdf/2406.04326v1)|null|
 |**2024-06-06**|**From Super-Earths to Sub-Neptunes: observational constraints and connections to theoretical models**|Léna Parc et.al.|[2406.04311v1](http://arxiv.org/abs/2406.04311v1)|[2406.04311v1](http://arxiv.org/pdf/2406.04311v1)|null|
@@ -4911,6 +4921,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132v1](http://arxiv.org/abs/2406.05132v1)|[2406.05132v1](http://arxiv.org/pdf/2406.05132v1)|null|
+|**2024-06-07**|**LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment**|Lukas Helff et.al.|[2406.05113v1](http://arxiv.org/abs/2406.05113v1)|[2406.05113v1](http://arxiv.org/pdf/2406.05113v1)|null|
+|**2024-06-07**|**Provably Better Explanations with Optimized Aggregation of Feature Attributions**|Thomas Decker et.al.|[2406.05090v1](http://arxiv.org/abs/2406.05090v1)|[2406.05090v1](http://arxiv.org/pdf/2406.05090v1)|null|
+|**2024-06-07**|**Robust Reward Design for Markov Decision Processes**|Shuo Wu et.al.|[2406.05086v1](http://arxiv.org/abs/2406.05086v1)|[2406.05086v1](http://arxiv.org/pdf/2406.05086v1)|null|
+|**2024-06-07**|**Multi-Head RAG: Solving Multi-Aspect Problems with LLMs**|Maciej Besta et.al.|[2406.05085v1](http://arxiv.org/abs/2406.05085v1)|[2406.05085v1](http://arxiv.org/pdf/2406.05085v1)|**[link](https://github.com/spcl/mrag)**|
+|**2024-06-07**|**On Ambiguity and the Expressive Function of Law: The Role of Pragmatics in Smart Legal Ecosystems**|Pompeu Casanovas et.al.|[2406.05084v1](http://arxiv.org/abs/2406.05084v1)|[2406.05084v1](http://arxiv.org/pdf/2406.05084v1)|null|
+|**2024-06-07**|**I2EDL: Interactive Instruction Error Detection and Localization**|Francesco Taioli et.al.|[2406.05080v1](http://arxiv.org/abs/2406.05080v1)|[2406.05080v1](http://arxiv.org/pdf/2406.05080v1)|null|
+|**2024-06-07**|**Massively Multiagent Minigames for Training Generalist Agents**|Kyoung Whan Choe et.al.|[2406.05071v1](http://arxiv.org/abs/2406.05071v1)|[2406.05071v1](http://arxiv.org/pdf/2406.05071v1)|**[link](https://github.com/kywch/meta-mmo)**|
+|**2024-06-07**|**Classification Metrics for Image Explanations: Towards Building Reliable XAI-Evaluations**|Benjamin Fresz et.al.|[2406.05068v1](http://arxiv.org/abs/2406.05068v1)|[2406.05068v1](http://arxiv.org/pdf/2406.05068v1)|**[link](https://github.com/lelo204/classificationmetricsforimageexplanations)**|
+|**2024-06-07**|**Robustness Assessment of Mathematical Reasoning in the Presence of Missing and Contradictory Conditions**|Shi-Yu Tian et.al.|[2406.05055v1](http://arxiv.org/abs/2406.05055v1)|[2406.05055v1](http://arxiv.org/pdf/2406.05055v1)|null|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v2](http://arxiv.org/abs/2406.04338v2)|[2406.04338v2](http://arxiv.org/pdf/2406.04338v2)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|[2406.04337v1](http://arxiv.org/pdf/2406.04337v1)|null|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331v1](http://arxiv.org/abs/2406.04331v1)|[2406.04331v1](http://arxiv.org/pdf/2406.04331v1)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
