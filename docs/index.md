@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-10**|**Most nearby young star clusters formed in three massive complexes**|Cameren Swiggum et.al.|[2406.06510v1](http://arxiv.org/abs/2406.06510v1)|[2406.06510v1](http://arxiv.org/pdf/2406.06510v1)|null|
+|**2024-06-10**|**Probing the Heights and Depths of Y Dwarf Atmospheres: A Retrieval Analysis of the JWST Spectral Energy Distribution of WISE J035934.06$-$540154.6**|Harshil Kothari et.al.|[2406.06493v1](http://arxiv.org/abs/2406.06493v1)|[2406.06493v1](http://arxiv.org/pdf/2406.06493v1)|null|
+|**2024-06-10**|**Searching for Pseudo-Dirac neutrinos from Astrophysical sources in IceCube data**|Khushboo Dixit et.al.|[2406.06476v1](http://arxiv.org/abs/2406.06476v1)|[2406.06476v1](http://arxiv.org/pdf/2406.06476v1)|null|
+|**2024-06-10**|**Multi-Amplifier Sensing Charge-coupled Devices for Next Generation Spectroscopy**|Kenneth Lin et.al.|[2406.06472v1](http://arxiv.org/abs/2406.06472v1)|[2406.06472v1](http://arxiv.org/pdf/2406.06472v1)|null|
+|**2024-06-10**|**Galaxy lens reconstruction based on strongly lensed gravitational waves: similarity transformation degeneracy and mass-sheet degeneracy**|Jason S. C. Poon et.al.|[2406.06463v1](http://arxiv.org/abs/2406.06463v1)|[2406.06463v1](http://arxiv.org/pdf/2406.06463v1)|null|
+|**2024-06-10**|**Reconstructing the genealogy of LIGO-Virgo black holes**|Parthapratim Mahapatra et.al.|[2406.06390v1](http://arxiv.org/abs/2406.06390v1)|[2406.06390v1](http://arxiv.org/pdf/2406.06390v1)|null|
+|**2024-06-10**|**Implications of DES 5YR SNe Dataset for $Λ$CDM**|Eoin Ó Colgáin et.al.|[2406.06389v1](http://arxiv.org/abs/2406.06389v1)|[2406.06389v1](http://arxiv.org/pdf/2406.06389v1)|null|
+|**2024-06-10**|**Characteristics and Energy Flux Distributions of Decayless Transverse Oscillations Depending on Coronal Regions**|Daye Lim et.al.|[2406.06368v1](http://arxiv.org/abs/2406.06368v1)|[2406.06368v1](http://arxiv.org/pdf/2406.06368v1)|null|
+|**2024-06-10**|**The 2024 release of the ExoMol database: molecular line lists for exoplanet and other hot atmospheres**|Jonathan Tennyson et.al.|[2406.06347v1](http://arxiv.org/abs/2406.06347v1)|[2406.06347v1](http://arxiv.org/pdf/2406.06347v1)|null|
+|**2024-06-10**|**Exploring the generation and annihilation of three dimensional nulls through MHD simulations in initially chaotic magnetic field devoid of nulls**|Yogesh Kumar Maurya et.al.|[2406.06328v1](http://arxiv.org/abs/2406.06328v1)|[2406.06328v1](http://arxiv.org/pdf/2406.06328v1)|null|
 |**2024-06-07**|**GR-Athena++: magnetohydrodynamical evolution with dynamical space-time**|Boris Daszuta et.al.|[2406.05126v1](http://arxiv.org/abs/2406.05126v1)|[2406.05126v1](http://arxiv.org/pdf/2406.05126v1)|null|
 |**2024-06-07**|**Eccentricity effects on the SMBH GW background**|Juhan Raidal et.al.|[2406.05125v1](http://arxiv.org/abs/2406.05125v1)|[2406.05125v1](http://arxiv.org/pdf/2406.05125v1)|null|
 |**2024-06-07**|**Third-order intrinsic alignment of SDSS BOSS LOWZ galaxies**|Laila Linke et.al.|[2406.05122v1](http://arxiv.org/abs/2406.05122v1)|[2406.05122v1](http://arxiv.org/pdf/2406.05122v1)|null|
@@ -4921,6 +4931,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|[2406.06527v1](http://arxiv.org/pdf/2406.06527v1)|null|
+|**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520v1](http://arxiv.org/abs/2406.06520v1)|[2406.06520v1](http://arxiv.org/pdf/2406.06520v1)|null|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|[2406.06512v1](http://arxiv.org/pdf/2406.06512v1)|null|
+|**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508v1](http://arxiv.org/abs/2406.06508v1)|[2406.06508v1](http://arxiv.org/pdf/2406.06508v1)|**[link](https://github.com/monkeyseedocg/momo-code)**|
+|**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500v1](http://arxiv.org/abs/2406.06500v1)|[2406.06500v1](http://arxiv.org/pdf/2406.06500v1)|null|
+|**2024-06-10**|**Scaling Continuous Latent Variable Models as Probabilistic Integral Circuits**|Gennaro Gala et.al.|[2406.06494v1](http://arxiv.org/abs/2406.06494v1)|[2406.06494v1](http://arxiv.org/pdf/2406.06494v1)|null|
+|**2024-06-10**|**Can Language Models Serve as Text-Based World Simulators?**|Ruoyao Wang et.al.|[2406.06485v1](http://arxiv.org/abs/2406.06485v1)|[2406.06485v1](http://arxiv.org/pdf/2406.06485v1)|null|
+|**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482v1](http://arxiv.org/abs/2406.06482v1)|[2406.06482v1](http://arxiv.org/pdf/2406.06482v1)|null|
+|**2024-06-10**|**Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives**|Da Xu et.al.|[2406.06475v1](http://arxiv.org/abs/2406.06475v1)|[2406.06475v1](http://arxiv.org/pdf/2406.06475v1)|null|
+|**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474v1](http://arxiv.org/abs/2406.06474v1)|[2406.06474v1](http://arxiv.org/pdf/2406.06474v1)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132v1](http://arxiv.org/abs/2406.05132v1)|[2406.05132v1](http://arxiv.org/pdf/2406.05132v1)|null|
 |**2024-06-07**|**LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment**|Lukas Helff et.al.|[2406.05113v1](http://arxiv.org/abs/2406.05113v1)|[2406.05113v1](http://arxiv.org/pdf/2406.05113v1)|null|
 |**2024-06-07**|**Provably Better Explanations with Optimized Aggregation of Feature Attributions**|Thomas Decker et.al.|[2406.05090v1](http://arxiv.org/abs/2406.05090v1)|[2406.05090v1](http://arxiv.org/pdf/2406.05090v1)|null|
