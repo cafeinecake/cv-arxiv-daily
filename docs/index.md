@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-11**|**On the potential of probing the neutron star composition in accreting X-ray binaries**|Kaiser Arf et.al.|[2406.07534v1](http://arxiv.org/abs/2406.07534v1)|[2406.07534v1](http://arxiv.org/pdf/2406.07534v1)|null|
+|**2024-06-11**|**Interpreting DESI 2024 BAO: late-time dynamical dark energy or a local effect?**|Ioannis D. Gialamas et.al.|[2406.07533v1](http://arxiv.org/abs/2406.07533v1)|[2406.07533v1](http://arxiv.org/pdf/2406.07533v1)|null|
+|**2024-06-11**|**Cosmological constraints on $Λ_{\rm s}$CDM scenario in a type II minimally modified gravity**|Ozgur Akarsu et.al.|[2406.07526v1](http://arxiv.org/abs/2406.07526v1)|[2406.07526v1](http://arxiv.org/pdf/2406.07526v1)|null|
+|**2024-06-11**|**COMAP Pathfinder -- Season 2 results III. Implications for cosmic molecular gas content at "Cosmic Half-past Eleven"**|D. T. Chung et.al.|[2406.07512v1](http://arxiv.org/abs/2406.07512v1)|[2406.07512v1](http://arxiv.org/pdf/2406.07512v1)|null|
+|**2024-06-11**|**COMAP Pathfinder -- Season 2 results II. Updated constraints on the CO(1-0) power spectrum**|N. -O. Stutzer et.al.|[2406.07511v1](http://arxiv.org/abs/2406.07511v1)|[2406.07511v1](http://arxiv.org/pdf/2406.07511v1)|null|
+|**2024-06-11**|**COMAP Pathfinder -- Season 2 results I. Improved data selection and processing**|J. G. S. Lunde et.al.|[2406.07510v1](http://arxiv.org/abs/2406.07510v1)|[2406.07510v1](http://arxiv.org/pdf/2406.07510v1)|null|
+|**2024-06-11**|**A model-independent test of pre-recombination New Physics: Machine Learning based estimate of the Sound Horizon from Gravitational Wave Standard Sirens and the Baryon Acoustic Oscillation Angular Scale**|William Giarè et.al.|[2406.07493v1](http://arxiv.org/abs/2406.07493v1)|[2406.07493v1](http://arxiv.org/pdf/2406.07493v1)|null|
+|**2024-06-11**|**Spread Complexity of High Energy Neutrino Propagation over Astrophysical Distances**|Khushboo Dixit et.al.|[2406.07491v1](http://arxiv.org/abs/2406.07491v1)|[2406.07491v1](http://arxiv.org/pdf/2406.07491v1)|null|
+|**2024-06-11**|**Transition from decaying to decayless kink oscillations of solar coronal loops**|Valery M. Nakariakov et.al.|[2406.07490v1](http://arxiv.org/abs/2406.07490v1)|[2406.07490v1](http://arxiv.org/pdf/2406.07490v1)|null|
+|**2024-06-11**|**Prospects for the detection of Dark Matter with Long-lived Mediators in the Sun using the Southern Wide-field Gamma-ray Observatory**|Micael Andrade et.al.|[2406.07489v1](http://arxiv.org/abs/2406.07489v1)|[2406.07489v1](http://arxiv.org/pdf/2406.07489v1)|null|
 |**2024-06-10**|**Most nearby young star clusters formed in three massive complexes**|Cameren Swiggum et.al.|[2406.06510v1](http://arxiv.org/abs/2406.06510v1)|[2406.06510v1](http://arxiv.org/pdf/2406.06510v1)|null|
 |**2024-06-10**|**Probing the Heights and Depths of Y Dwarf Atmospheres: A Retrieval Analysis of the JWST Spectral Energy Distribution of WISE J035934.06$-$540154.6**|Harshil Kothari et.al.|[2406.06493v1](http://arxiv.org/abs/2406.06493v1)|[2406.06493v1](http://arxiv.org/pdf/2406.06493v1)|null|
 |**2024-06-10**|**Searching for Pseudo-Dirac neutrinos from Astrophysical sources in IceCube data**|Khushboo Dixit et.al.|[2406.06476v1](http://arxiv.org/abs/2406.06476v1)|[2406.06476v1](http://arxiv.org/pdf/2406.06476v1)|null|
@@ -4931,6 +4941,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-11**|**Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?**|Xingyu Fu et.al.|[2406.07546v1](http://arxiv.org/abs/2406.07546v1)|[2406.07546v1](http://arxiv.org/pdf/2406.07546v1)|null|
+|**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545v1](http://arxiv.org/abs/2406.07545v1)|[2406.07545v1](http://arxiv.org/pdf/2406.07545v1)|**[link](https://github.com/vila-lab/open-llm-leaderboard)**|
+|**2024-06-11**|**Situational Awareness Matters in 3D Vision Language Reasoning**|Yunze Man et.al.|[2406.07544v1](http://arxiv.org/abs/2406.07544v1)|[2406.07544v1](http://arxiv.org/pdf/2406.07544v1)|null|
+|**2024-06-11**|**Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis**|David Ortiz-Perez et.al.|[2406.07542v1](http://arxiv.org/abs/2406.07542v1)|[2406.07542v1](http://arxiv.org/pdf/2406.07542v1)|**[link](https://github.com/davidorp/taukadial)**|
+|**2024-06-11**|**Simple and Effective Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2406.07524v1](http://arxiv.org/abs/2406.07524v1)|[2406.07524v1](http://arxiv.org/pdf/2406.07524v1)|**[link](https://github.com/kuleshov-group/mdlm)**|
+|**2024-06-11**|**Neural Gaffer: Relighting Any Object via Diffusion**|Haian Jin et.al.|[2406.07520v1](http://arxiv.org/abs/2406.07520v1)|[2406.07520v1](http://arxiv.org/pdf/2406.07520v1)|null|
+|**2024-06-11**|**Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement**|Yunzhen Feng et.al.|[2406.07515v1](http://arxiv.org/abs/2406.07515v1)|[2406.07515v1](http://arxiv.org/pdf/2406.07515v1)|null|
+|**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506v1](http://arxiv.org/abs/2406.07506v1)|[2406.07506v1](http://arxiv.org/pdf/2406.07506v1)|**[link](https://github.com/visual-words/visual-words)**|
+|**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[2406.07496v1](http://arxiv.org/pdf/2406.07496v1)|**[link](https://github.com/zou-group/textgrad)**|
+|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v1](http://arxiv.org/abs/2406.07494v1)|[2406.07494v1](http://arxiv.org/pdf/2406.07494v1)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|[2406.06527v1](http://arxiv.org/pdf/2406.06527v1)|null|
 |**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520v1](http://arxiv.org/abs/2406.06520v1)|[2406.06520v1](http://arxiv.org/pdf/2406.06520v1)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|[2406.06512v1](http://arxiv.org/pdf/2406.06512v1)|null|
