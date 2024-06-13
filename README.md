@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484v1](http://arxiv.org/abs/2406.08484v1)|[2406.08484v1](http://arxiv.org/pdf/2406.08484v1)|null|
+|**2024-06-12**|**A suite of classical Cepheids tied to the binary cluster Berkeley 58 \& NGC 7790**|Daniel Majaess et.al.|[2406.08483v1](http://arxiv.org/abs/2406.08483v1)|[2406.08483v1](http://arxiv.org/pdf/2406.08483v1)|null|
+|**2024-06-12**|**Consistent Theories for the DESI dark energy fit**|Alessio Notari et.al.|[2406.08459v1](http://arxiv.org/abs/2406.08459v1)|[2406.08459v1](http://arxiv.org/pdf/2406.08459v1)|null|
+|**2024-06-12**|**Detection of Open Cluster Members Inside and Beyond Tidal Radius by Machine Learning Methods Based on Gaia DR3**|Mohammad Noormohammadi Mehdi Khakian Ghomi Atefeh Javadi et.al.|[2406.08450v1](http://arxiv.org/abs/2406.08450v1)|[2406.08450v1](http://arxiv.org/pdf/2406.08450v1)|null|
+|**2024-06-12**|**$\texttt{DiffLense}$: A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|[2406.08442v1](http://arxiv.org/pdf/2406.08442v1)|null|
+|**2024-06-12**|**Discovery of a new N-emitter in the epoch of reionization**|D. Schaerer et.al.|[2406.08408v1](http://arxiv.org/abs/2406.08408v1)|[2406.08408v1](http://arxiv.org/pdf/2406.08408v1)|null|
+|**2024-06-12**|**The unresolved mystery of dust particle swarms within the magnetosphere**|Max Sommer et.al.|[2406.08376v1](http://arxiv.org/abs/2406.08376v1)|[2406.08376v1](http://arxiv.org/pdf/2406.08376v1)|null|
+|**2024-06-12**|**An Untargeted Search for Radio-Emitting Tidal Disruption Events in the VAST Pilot Survey**|Hannah Dykaar et.al.|[2406.08371v1](http://arxiv.org/abs/2406.08371v1)|[2406.08371v1](http://arxiv.org/pdf/2406.08371v1)|null|
+|**2024-06-12**|**Black hole scattering near the transition to plunge: Self-force and resummation of post-Minkowskian theory**|Oliver Long et.al.|[2406.08363v1](http://arxiv.org/abs/2406.08363v1)|[2406.08363v1](http://arxiv.org/pdf/2406.08363v1)|null|
+|**2024-06-12**|**Enhancing Cosmological Model Selection with Interpretable Machine Learning**|Indira Ocampo et.al.|[2406.08351v1](http://arxiv.org/abs/2406.08351v1)|[2406.08351v1](http://arxiv.org/pdf/2406.08351v1)|null|
 |**2024-06-11**|**On the potential of probing the neutron star composition in accreting X-ray binaries**|Kaiser Arf et.al.|[2406.07534v1](http://arxiv.org/abs/2406.07534v1)|[2406.07534v1](http://arxiv.org/pdf/2406.07534v1)|null|
 |**2024-06-11**|**Interpreting DESI 2024 BAO: late-time dynamical dark energy or a local effect?**|Ioannis D. Gialamas et.al.|[2406.07533v1](http://arxiv.org/abs/2406.07533v1)|[2406.07533v1](http://arxiv.org/pdf/2406.07533v1)|null|
 |**2024-06-11**|**Cosmological constraints on $Λ_{\rm s}$CDM scenario in a type II minimally modified gravity**|Ozgur Akarsu et.al.|[2406.07526v1](http://arxiv.org/abs/2406.07526v1)|[2406.07526v1](http://arxiv.org/pdf/2406.07526v1)|null|
@@ -4937,6 +4947,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|[2406.08488v1](http://arxiv.org/pdf/2406.08488v1)|null|
+|**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476v1](http://arxiv.org/abs/2406.08476v1)|[2406.08476v1](http://arxiv.org/pdf/2406.08476v1)|null|
+|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v1](http://arxiv.org/abs/2406.08474v1)|[2406.08474v1](http://arxiv.org/pdf/2406.08474v1)|null|
+|**2024-06-12**|**RILe: Reinforced Imitation Learning**|Mert Albaba et.al.|[2406.08472v1](http://arxiv.org/abs/2406.08472v1)|[2406.08472v1](http://arxiv.org/pdf/2406.08472v1)|null|
+|**2024-06-12**|**Surprise! Using Physiological Stress for Allostatic Regulation Under the Active Inference Framework [Pre-Print]**|Imran Khan et.al.|[2406.08471v1](http://arxiv.org/abs/2406.08471v1)|[2406.08471v1](http://arxiv.org/pdf/2406.08471v1)|null|
+|**2024-06-12**|**DafnyBench: A Benchmark for Formal Software Verification**|Chloe Loughridge et.al.|[2406.08467v1](http://arxiv.org/abs/2406.08467v1)|[2406.08467v1](http://arxiv.org/pdf/2406.08467v1)|**[link](https://github.com/sun-wendy/dafnybench)**|
+|**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466v1](http://arxiv.org/abs/2406.08466v1)|[2406.08466v1](http://arxiv.org/pdf/2406.08466v1)|null|
+|**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464v1](http://arxiv.org/abs/2406.08464v1)|[2406.08464v1](http://arxiv.org/pdf/2406.08464v1)|null|
+|**2024-06-12**|**The Impact of Initialization on LoRA Finetuning Dynamics**|Soufiane Hayou et.al.|[2406.08447v1](http://arxiv.org/abs/2406.08447v1)|[2406.08447v1](http://arxiv.org/pdf/2406.08447v1)|null|
+|**2024-06-12**|**OLMES: A Standard for Language Model Evaluations**|Yuling Gu et.al.|[2406.08446v1](http://arxiv.org/abs/2406.08446v1)|[2406.08446v1](http://arxiv.org/pdf/2406.08446v1)|null|
 |**2024-06-11**|**Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?**|Xingyu Fu et.al.|[2406.07546v1](http://arxiv.org/abs/2406.07546v1)|[2406.07546v1](http://arxiv.org/pdf/2406.07546v1)|null|
 |**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545v1](http://arxiv.org/abs/2406.07545v1)|[2406.07545v1](http://arxiv.org/pdf/2406.07545v1)|**[link](https://github.com/vila-lab/open-llm-leaderboard)**|
 |**2024-06-11**|**Situational Awareness Matters in 3D Vision Language Reasoning**|Yunze Man et.al.|[2406.07544v1](http://arxiv.org/abs/2406.07544v1)|[2406.07544v1](http://arxiv.org/pdf/2406.07544v1)|null|
