@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-13**|**The Stability of the BAO Linear Point under Modified Gravity**|Jaemyoung Jason Lee et.al.|[2406.09379v1](http://arxiv.org/abs/2406.09379v1)|[2406.09379v1](http://arxiv.org/pdf/2406.09379v1)|null|
+|**2024-06-13**|**More Likely Than You Think: Inclination-Driving Secular Resonances are Common in Known Exoplanet Systems**|Thea Faridani et.al.|[2406.09359v1](http://arxiv.org/abs/2406.09359v1)|[2406.09359v1](http://arxiv.org/pdf/2406.09359v1)|null|
+|**2024-06-13**|**Measuring the CMB spectral distortions with COSMO: the multi-mode antenna system**|E. Manzan et.al.|[2406.09349v1](http://arxiv.org/abs/2406.09349v1)|[2406.09349v1](http://arxiv.org/pdf/2406.09349v1)|null|
+|**2024-06-13**|**Different Planetary Eccentricity-Period (PEP) Distributions of Small- and Giant-Planets**|Dolev Bashi et.al.|[2406.09337v1](http://arxiv.org/abs/2406.09337v1)|[2406.09337v1](http://arxiv.org/pdf/2406.09337v1)|null|
+|**2024-06-13**|**Surface and curvature tensions of relativistic models**|Mariana Dutra et.al.|[2406.09284v1](http://arxiv.org/abs/2406.09284v1)|[2406.09284v1](http://arxiv.org/pdf/2406.09284v1)|null|
+|**2024-06-13**|**Jet formation in post-AGB binaries: Confronting cold magnetohydrodynamic disc wind wind models with observations**|Toon De Prins et.al.|[2406.09280v1](http://arxiv.org/abs/2406.09280v1)|[2406.09280v1](http://arxiv.org/pdf/2406.09280v1)|null|
+|**2024-06-13**|**The CUISINES Framework for Conducting Exoplanet Model Intercomparison Projects, Version 1.0**|Linda E. Sohl et.al.|[2406.09275v1](http://arxiv.org/abs/2406.09275v1)|[2406.09275v1](http://arxiv.org/pdf/2406.09275v1)|null|
+|**2024-06-13**|**QCD constraints on isospin-dense matter and the nuclear equation of state**|Ryan Abbott et.al.|[2406.09273v1](http://arxiv.org/abs/2406.09273v1)|[2406.09273v1](http://arxiv.org/pdf/2406.09273v1)|null|
+|**2024-06-13**|**Discovery and Extensive Follow-Up of SN 2024ggi, a nearby type IIP supernova in NGC 3621**|Ting-Wan Chen et.al.|[2406.09270v1](http://arxiv.org/abs/2406.09270v1)|[2406.09270v1](http://arxiv.org/pdf/2406.09270v1)|null|
+|**2024-06-13**|**CMB bounds on primordial black holes with dark matter mini-halos: the role of radiative feedback**|Francesca Scarcella et.al.|[2406.09269v1](http://arxiv.org/abs/2406.09269v1)|[2406.09269v1](http://arxiv.org/pdf/2406.09269v1)|null|
 |**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484v1](http://arxiv.org/abs/2406.08484v1)|[2406.08484v1](http://arxiv.org/pdf/2406.08484v1)|null|
 |**2024-06-12**|**A suite of classical Cepheids tied to the binary cluster Berkeley 58 \& NGC 7790**|Daniel Majaess et.al.|[2406.08483v1](http://arxiv.org/abs/2406.08483v1)|[2406.08483v1](http://arxiv.org/pdf/2406.08483v1)|null|
 |**2024-06-12**|**Consistent Theories for the DESI dark energy fit**|Alessio Notari et.al.|[2406.08459v1](http://arxiv.org/abs/2406.08459v1)|[2406.08459v1](http://arxiv.org/pdf/2406.08459v1)|null|
@@ -4951,6 +4961,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-13**|**Explore the Limits of Omni-modal Pretraining at Scale**|Yiyuan Zhang et.al.|[2406.09412v1](http://arxiv.org/abs/2406.09412v1)|[2406.09412v1](http://arxiv.org/pdf/2406.09412v1)|**[link](https://github.com/invictus717/MiCo)**|
+|**2024-06-13**|**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding**|Fei Wang et.al.|[2406.09411v1](http://arxiv.org/abs/2406.09411v1)|[2406.09411v1](http://arxiv.org/pdf/2406.09411v1)|null|
+|**2024-06-13**|**Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**|Yansheng Li et.al.|[2406.09410v1](http://arxiv.org/abs/2406.09410v1)|[2406.09410v1](http://arxiv.org/pdf/2406.09410v1)|**[link](https://github.com/yangxue0827/rsg-mmrotate)**|
+|**2024-06-13**|**4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**|Roman Bachmann et.al.|[2406.09406v1](http://arxiv.org/abs/2406.09406v1)|[2406.09406v1](http://arxiv.org/pdf/2406.09406v1)|null|
+|**2024-06-13**|**ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing**|Jun-Kun Chen et.al.|[2406.09404v1](http://arxiv.org/abs/2406.09404v1)|[2406.09404v1](http://arxiv.org/pdf/2406.09404v1)|null|
+|**2024-06-13**|**Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion**|Linzhan Mou et.al.|[2406.09402v1](http://arxiv.org/abs/2406.09402v1)|[2406.09402v1](http://arxiv.org/pdf/2406.09402v1)|null|
+|**2024-06-13**|**MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**|Ruiyuan Lyu et.al.|[2406.09401v1](http://arxiv.org/abs/2406.09401v1)|[2406.09401v1](http://arxiv.org/pdf/2406.09401v1)|**[link](https://github.com/openrobotlab/embodiedscan)**|
+|**2024-06-13**|**Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms**|Miaosen Zhang et.al.|[2406.09397v1](http://arxiv.org/abs/2406.09397v1)|[2406.09397v1](http://arxiv.org/pdf/2406.09397v1)|null|
+|**2024-06-13**|**Improving Autoregressive Training with Dynamic Oracles**|Jianing Yang et.al.|[2406.09393v1](http://arxiv.org/abs/2406.09393v1)|[2406.09393v1](http://arxiv.org/pdf/2406.09393v1)|null|
+|**2024-06-13**|**A More Practical Approach to Machine Unlearning**|David Zagardo et.al.|[2406.09391v1](http://arxiv.org/abs/2406.09391v1)|[2406.09391v1](http://arxiv.org/pdf/2406.09391v1)|null|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|[2406.08488v1](http://arxiv.org/pdf/2406.08488v1)|null|
 |**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476v1](http://arxiv.org/abs/2406.08476v1)|[2406.08476v1](http://arxiv.org/pdf/2406.08476v1)|null|
 |**2024-06-13**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v2](http://arxiv.org/abs/2406.08474v2)|[2406.08474v2](http://arxiv.org/pdf/2406.08474v2)|null|
