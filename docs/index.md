@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 
 ## Astrophysics
 
@@ -4953,7 +4953,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|[2406.08488v1](http://arxiv.org/pdf/2406.08488v1)|null|
 |**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476v1](http://arxiv.org/abs/2406.08476v1)|[2406.08476v1](http://arxiv.org/pdf/2406.08476v1)|null|
-|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v1](http://arxiv.org/abs/2406.08474v1)|[2406.08474v1](http://arxiv.org/pdf/2406.08474v1)|null|
+|**2024-06-13**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v2](http://arxiv.org/abs/2406.08474v2)|[2406.08474v2](http://arxiv.org/pdf/2406.08474v2)|null|
 |**2024-06-12**|**RILe: Reinforced Imitation Learning**|Mert Albaba et.al.|[2406.08472v1](http://arxiv.org/abs/2406.08472v1)|[2406.08472v1](http://arxiv.org/pdf/2406.08472v1)|null|
 |**2024-06-12**|**Surprise! Using Physiological Stress for Allostatic Regulation Under the Active Inference Framework [Pre-Print]**|Imran Khan et.al.|[2406.08471v1](http://arxiv.org/abs/2406.08471v1)|[2406.08471v1](http://arxiv.org/pdf/2406.08471v1)|null|
 |**2024-06-12**|**DafnyBench: A Benchmark for Formal Software Verification**|Chloe Loughridge et.al.|[2406.08467v1](http://arxiv.org/abs/2406.08467v1)|[2406.08467v1](http://arxiv.org/pdf/2406.08467v1)|**[link](https://github.com/sun-wendy/dafnybench)**|
