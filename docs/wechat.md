@@ -1,4 +1,4 @@
-> Updated on 2024.06.16
+> Updated on 2024.06.17
 
 ## Astrophysics
 
@@ -4956,7 +4956,7 @@
 - 2024-06-13, **Explore the Limits of Omni-modal Pretraining at Scale**, Yiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2406.09412v1](http://arxiv.org/abs/2406.09412v1),Paper: [http://arxiv.org/abs/2406.09412v1](http://arxiv.org/pdf/2406.09412v1), Code: **[https://github.com/invictus717/MiCo](https://github.com/invictus717/MiCo)**
 - 2024-06-13, **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding**, Fei Wang et.al., Paper: [http://arxiv.org/abs/2406.09411v1](http://arxiv.org/abs/2406.09411v1), Paper: [http://arxiv.org/abs/2406.09411v1](http://arxiv.org/pdf/2406.09411v1)
 - 2024-06-13, **Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**, Yansheng Li et.al., Paper: [http://arxiv.org/abs/2406.09410v1](http://arxiv.org/abs/2406.09410v1),Paper: [http://arxiv.org/abs/2406.09410v1](http://arxiv.org/pdf/2406.09410v1), Code: **[https://github.com/yangxue0827/rsg-mmrotate](https://github.com/yangxue0827/rsg-mmrotate)**
-- 2024-06-13, **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**, Roman Bachmann et.al., Paper: [http://arxiv.org/abs/2406.09406v1](http://arxiv.org/abs/2406.09406v1), Paper: [http://arxiv.org/abs/2406.09406v1](http://arxiv.org/pdf/2406.09406v1)
+- 2024-06-14, **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities**, Roman Bachmann et.al., Paper: [http://arxiv.org/abs/2406.09406v2](http://arxiv.org/abs/2406.09406v2), Paper: [http://arxiv.org/abs/2406.09406v2](http://arxiv.org/pdf/2406.09406v2)
 - 2024-06-13, **ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing**, Jun-Kun Chen et.al., Paper: [http://arxiv.org/abs/2406.09404v1](http://arxiv.org/abs/2406.09404v1), Paper: [http://arxiv.org/abs/2406.09404v1](http://arxiv.org/pdf/2406.09404v1)
 - 2024-06-13, **Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion**, Linzhan Mou et.al., Paper: [http://arxiv.org/abs/2406.09402v1](http://arxiv.org/abs/2406.09402v1), Paper: [http://arxiv.org/abs/2406.09402v1](http://arxiv.org/pdf/2406.09402v1)
 - 2024-06-13, **MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**, Ruiyuan Lyu et.al., Paper: [http://arxiv.org/abs/2406.09401v1](http://arxiv.org/abs/2406.09401v1),Paper: [http://arxiv.org/abs/2406.09401v1](http://arxiv.org/pdf/2406.09401v1), Code: **[https://github.com/openrobotlab/embodiedscan](https://github.com/openrobotlab/embodiedscan)**
