@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-14**|**Ultra-low noise laser and optical frequency comb-based timing system for the Black Hole Explorer (BHEX) mission**|Hannah Tomio et.al.|[2406.10222v1](http://arxiv.org/abs/2406.10222v1)|[2406.10222v1](http://arxiv.org/pdf/2406.10222v1)|null|
+|**2024-06-14**|**MINDS. A multi-instrument investigation into the molecule-rich JWST-MIRI spectrum of the DF Tau binary system**|Sierra L. Grant et.al.|[2406.10217v1](http://arxiv.org/abs/2406.10217v1)|[2406.10217v1](http://arxiv.org/pdf/2406.10217v1)|null|
+|**2024-06-14**|**Latitudinal Asymmetry in the Dayside Atmosphere of WASP-43b**|Ryan C. Challener et.al.|[2406.10207v1](http://arxiv.org/abs/2406.10207v1)|[2406.10207v1](http://arxiv.org/pdf/2406.10207v1)|null|
+|**2024-06-14**|**DESI and the Hubble tension in light of modified recombination**|Gabriel P. Lynch et.al.|[2406.10202v1](http://arxiv.org/abs/2406.10202v1)|[2406.10202v1](http://arxiv.org/pdf/2406.10202v1)|null|
+|**2024-06-14**|**A SART-Based Iterative Inversion Methodology to Infer the Solar Rotation Rate from Global Helioseismic Data**|Sylvain G. Korzennik et.al.|[2406.10183v1](http://arxiv.org/abs/2406.10183v1)|[2406.10183v1](http://arxiv.org/pdf/2406.10183v1)|null|
+|**2024-06-14**|**Multivariate Predictors of LyC Escape II: Predicting LyC Escape Fractions for High-Redshift Galaxies**|Anne E. Jaskot et.al.|[2406.10179v1](http://arxiv.org/abs/2406.10179v1)|[2406.10179v1](http://arxiv.org/pdf/2406.10179v1)|null|
+|**2024-06-14**|**Multivariate Predictors of LyC Escape I: A Survival Analysis of the Low-redshift Lyman Continuum Survey**|Anne E. Jaskot et.al.|[2406.10171v1](http://arxiv.org/abs/2406.10171v1)|[2406.10171v1](http://arxiv.org/pdf/2406.10171v1)|null|
+|**2024-06-14**|**The quantumness of relic gravitons**|Massimo Giovannini et.al.|[2406.10169v1](http://arxiv.org/abs/2406.10169v1)|[2406.10169v1](http://arxiv.org/pdf/2406.10169v1)|null|
+|**2024-06-14**|**Subhalos are Distributed Anisotropically About Their Hosts**|Lorena Mezini et.al.|[2406.10150v1](http://arxiv.org/abs/2406.10150v1)|[2406.10150v1](http://arxiv.org/pdf/2406.10150v1)|null|
+|**2024-06-14**|**The Black Hole Explorer: Instrument System Overview**|Daniel P. Marrone et.al.|[2406.10143v1](http://arxiv.org/abs/2406.10143v1)|[2406.10143v1](http://arxiv.org/pdf/2406.10143v1)|null|
 |**2024-06-13**|**The Stability of the BAO Linear Point under Modified Gravity**|Jaemyoung Jason Lee et.al.|[2406.09379v1](http://arxiv.org/abs/2406.09379v1)|[2406.09379v1](http://arxiv.org/pdf/2406.09379v1)|null|
 |**2024-06-13**|**More Likely Than You Think: Inclination-Driving Secular Resonances are Common in Known Exoplanet Systems**|Thea Faridani et.al.|[2406.09359v1](http://arxiv.org/abs/2406.09359v1)|[2406.09359v1](http://arxiv.org/pdf/2406.09359v1)|null|
 |**2024-06-13**|**Measuring the CMB spectral distortions with COSMO: the multi-mode antenna system**|E. Manzan et.al.|[2406.09349v1](http://arxiv.org/abs/2406.09349v1)|[2406.09349v1](http://arxiv.org/pdf/2406.09349v1)|null|
@@ -4957,6 +4967,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229v1](http://arxiv.org/abs/2406.10229v1)|[2406.10229v1](http://arxiv.org/pdf/2406.10229v1)|null|
+|**2024-06-14**|**VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models**|Chenyu Zhou et.al.|[2406.10228v1](http://arxiv.org/abs/2406.10228v1)|[2406.10228v1](http://arxiv.org/pdf/2406.10228v1)|null|
+|**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227v1](http://arxiv.org/abs/2406.10227v1)|[2406.10227v1](http://arxiv.org/pdf/2406.10227v1)|null|
+|**2024-06-14**|**Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding**|Ridouane Ghermi et.al.|[2406.10221v1](http://arxiv.org/abs/2406.10221v1)|[2406.10221v1](http://arxiv.org/pdf/2406.10221v1)|null|
+|**2024-06-14**|**Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs**|Rui Yang et.al.|[2406.10216v1](http://arxiv.org/abs/2406.10216v1)|[2406.10216v1](http://arxiv.org/pdf/2406.10216v1)|null|
+|**2024-06-14**|**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**|Lital Binyamin et.al.|[2406.10210v1](http://arxiv.org/abs/2406.10210v1)|[2406.10210v1](http://arxiv.org/pdf/2406.10210v1)|null|
+|**2024-06-14**|**SSTFB: Leveraging self-supervised pretext learning and temporal self-attention with feature branching for real-time video polyp segmentation**|Ziang Xu et.al.|[2406.10200v1](http://arxiv.org/abs/2406.10200v1)|[2406.10200v1](http://arxiv.org/pdf/2406.10200v1)|null|
+|**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197v1](http://arxiv.org/abs/2406.10197v1)|[2406.10197v1](http://arxiv.org/pdf/2406.10197v1)|null|
+|**2024-06-14**|**TRIP-PAL: Travel Planning with Guarantees by Combining Large Language Models and Automated Planners**|Tomas de la Rosa et.al.|[2406.10196v1](http://arxiv.org/abs/2406.10196v1)|[2406.10196v1](http://arxiv.org/pdf/2406.10196v1)|null|
+|**2024-06-14**|**A SART-Based Iterative Inversion Methodology to Infer the Solar Rotation Rate from Global Helioseismic Data**|Sylvain G. Korzennik et.al.|[2406.10183v1](http://arxiv.org/abs/2406.10183v1)|[2406.10183v1](http://arxiv.org/pdf/2406.10183v1)|null|
 |**2024-06-13**|**Explore the Limits of Omni-modal Pretraining at Scale**|Yiyuan Zhang et.al.|[2406.09412v1](http://arxiv.org/abs/2406.09412v1)|[2406.09412v1](http://arxiv.org/pdf/2406.09412v1)|**[link](https://github.com/invictus717/MiCo)**|
 |**2024-06-13**|**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding**|Fei Wang et.al.|[2406.09411v1](http://arxiv.org/abs/2406.09411v1)|[2406.09411v1](http://arxiv.org/pdf/2406.09411v1)|null|
 |**2024-06-13**|**Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**|Yansheng Li et.al.|[2406.09410v1](http://arxiv.org/abs/2406.09410v1)|[2406.09410v1](http://arxiv.org/pdf/2406.09410v1)|**[link](https://github.com/yangxue0827/rsg-mmrotate)**|
