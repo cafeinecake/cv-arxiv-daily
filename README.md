@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-17**|**Magnetic field in mini starburst complex Sgr B2**|Xing Pan et.al.|[2406.11800v1](http://arxiv.org/abs/2406.11800v1)|[2406.11800v1](http://arxiv.org/pdf/2406.11800v1)|null|
+|**2024-06-17**|**Analyzing the influence of graviton fluctuations on the inflationary spectrum with a Kuchař-Torre clock**|Giulia Maniccia et.al.|[2406.11756v1](http://arxiv.org/abs/2406.11756v1)|[2406.11756v1](http://arxiv.org/pdf/2406.11756v1)|null|
+|**2024-06-17**|**Retrieval of the physical parameters of galaxies from WEAVE-StePS-like data using machine learning**|J. Angthopo et.al.|[2406.11748v1](http://arxiv.org/abs/2406.11748v1)|[2406.11748v1](http://arxiv.org/pdf/2406.11748v1)|null|
+|**2024-06-17**|**Detection Prospects of Gravitational Waves from SU(2) Axion Inflation**|Charles Badger et.al.|[2406.11742v1](http://arxiv.org/abs/2406.11742v1)|[2406.11742v1](http://arxiv.org/pdf/2406.11742v1)|null|
+|**2024-06-17**|**Neutron Production in Simulations of Extensive Air Showers**|Martin Schimassek et.al.|[2406.11702v1](http://arxiv.org/abs/2406.11702v1)|[2406.11702v1](http://arxiv.org/pdf/2406.11702v1)|null|
+|**2024-06-17**|**Coronal energy release by MHD avalanches II. EUV line emission from a multi-threaded coronal loop**|G. Cozzo et.al.|[2406.11701v1](http://arxiv.org/abs/2406.11701v1)|[2406.11701v1](http://arxiv.org/pdf/2406.11701v1)|null|
+|**2024-06-17**|**Kelvin-Helmholtz instability and heating in oscillating loops perturbed by power-law transverse wave drivers**|Konstantinos Karampelas et.al.|[2406.11700v1](http://arxiv.org/abs/2406.11700v1)|[2406.11700v1](http://arxiv.org/pdf/2406.11700v1)|null|
+|**2024-06-17**|**A search for the fine-structure constant evolution from fast radio bursts and type Ia supernovae data**|Thais Lemos et.al.|[2406.11691v1](http://arxiv.org/abs/2406.11691v1)|[2406.11691v1](http://arxiv.org/pdf/2406.11691v1)|null|
+|**2024-06-17**|**Lopsided distribution of MATLAS and ELVES dwarf satellite systems around isolated host galaxies**|Nick Heesters et.al.|[2406.11684v1](http://arxiv.org/abs/2406.11684v1)|[2406.11684v1](http://arxiv.org/pdf/2406.11684v1)|null|
+|**2024-06-17**|**ZTF SN Ia DR2: Exploring SN Ia properties in the vicinity of under-dense environments**|M. Aubert et.al.|[2406.11680v1](http://arxiv.org/abs/2406.11680v1)|[2406.11680v1](http://arxiv.org/pdf/2406.11680v1)|null|
 |**2024-06-14**|**Ultra-low noise laser and optical frequency comb-based timing system for the Black Hole Explorer (BHEX) mission**|Hannah Tomio et.al.|[2406.10222v1](http://arxiv.org/abs/2406.10222v1)|[2406.10222v1](http://arxiv.org/pdf/2406.10222v1)|null|
 |**2024-06-14**|**MINDS. A multi-instrument investigation into the molecule-rich JWST-MIRI spectrum of the DF Tau binary system**|Sierra L. Grant et.al.|[2406.10217v1](http://arxiv.org/abs/2406.10217v1)|[2406.10217v1](http://arxiv.org/pdf/2406.10217v1)|null|
 |**2024-06-14**|**Latitudinal Asymmetry in the Dayside Atmosphere of WASP-43b**|Ryan C. Challener et.al.|[2406.10207v1](http://arxiv.org/abs/2406.10207v1)|[2406.10207v1](http://arxiv.org/pdf/2406.10207v1)|null|
@@ -4967,6 +4977,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839v1](http://arxiv.org/abs/2406.11839v1)|[2406.11839v1](http://arxiv.org/pdf/2406.11839v1)|null|
+|**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833v1](http://arxiv.org/abs/2406.11833v1)|[2406.11833v1](http://arxiv.org/pdf/2406.11833v1)|**[link](https://github.com/liuziyu77/mmdu)**|
+|**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830v1](http://arxiv.org/abs/2406.11830v1)|[2406.11830v1](http://arxiv.org/pdf/2406.11830v1)|**[link](https://github.com/belindal/erase)**|
+|**2024-06-17**|**WPO: Enhancing RLHF with Weighted Preference Optimization**|Wenxuan Zhou et.al.|[2406.11827v1](http://arxiv.org/abs/2406.11827v1)|[2406.11827v1](http://arxiv.org/pdf/2406.11827v1)|**[link](https://github.com/wzhouad/wpo)**|
+|**2024-06-17**|**Embodied Instruction Following in Unknown Environments**|Zhenyu Wu et.al.|[2406.11818v1](http://arxiv.org/abs/2406.11818v1)|[2406.11818v1](http://arxiv.org/pdf/2406.11818v1)|null|
+|**2024-06-17**|**Iterative Length-Regularized Direct Preference Optimization: A Case Study on Improving 7B Language Models to GPT-4 Level**|Jie Liu et.al.|[2406.11817v1](http://arxiv.org/abs/2406.11817v1)|[2406.11817v1](http://arxiv.org/pdf/2406.11817v1)|null|
+|**2024-06-17**|**RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content**|Joao Monteiro et.al.|[2406.11811v1](http://arxiv.org/abs/2406.11811v1)|[2406.11811v1](http://arxiv.org/pdf/2406.11811v1)|null|
+|**2024-06-17**|**A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping**|Abhi Kamboj et.al.|[2406.11786v1](http://arxiv.org/abs/2406.11786v1)|[2406.11786v1](http://arxiv.org/pdf/2406.11786v1)|null|
+|**2024-06-17**|**CELL your Model: Contrastive Explanation Methods for Large Language Models**|Ronny Luss et.al.|[2406.11785v1](http://arxiv.org/abs/2406.11785v1)|[2406.11785v1](http://arxiv.org/pdf/2406.11785v1)|null|
+|**2024-06-17**|**MDCR: A Dataset for Multi-Document Conditional Reasoning**|Peter Baile Chen et.al.|[2406.11784v1](http://arxiv.org/abs/2406.11784v1)|[2406.11784v1](http://arxiv.org/pdf/2406.11784v1)|null|
 |**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229v1](http://arxiv.org/abs/2406.10229v1)|[2406.10229v1](http://arxiv.org/pdf/2406.10229v1)|null|
 |**2024-06-14**|**VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models**|Chenyu Zhou et.al.|[2406.10228v1](http://arxiv.org/abs/2406.10228v1)|[2406.10228v1](http://arxiv.org/pdf/2406.10228v1)|null|
 |**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227v1](http://arxiv.org/abs/2406.10227v1)|[2406.10227v1](http://arxiv.org/pdf/2406.10227v1)|null|
