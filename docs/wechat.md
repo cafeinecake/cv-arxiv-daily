@@ -1,8 +1,8 @@
-> Updated on 2024.06.18
+> Updated on 2024.06.19
 
 ## Astrophysics
 
-- 2024-06-17, **Magnetic field in mini starburst complex Sgr B2**, Xing Pan et.al., Paper: [http://arxiv.org/abs/2406.11800v1](http://arxiv.org/abs/2406.11800v1), Paper: [http://arxiv.org/abs/2406.11800v1](http://arxiv.org/pdf/2406.11800v1)
+- 2024-06-18, **Magnetic field in mini starburst complex Sgr B2**, Xing Pan et.al., Paper: [http://arxiv.org/abs/2406.11800v2](http://arxiv.org/abs/2406.11800v2), Paper: [http://arxiv.org/abs/2406.11800v2](http://arxiv.org/pdf/2406.11800v2)
 - 2024-06-17, **Analyzing the influence of graviton fluctuations on the inflationary spectrum with a Kuchař-Torre clock**, Giulia Maniccia et.al., Paper: [http://arxiv.org/abs/2406.11756v1](http://arxiv.org/abs/2406.11756v1), Paper: [http://arxiv.org/abs/2406.11756v1](http://arxiv.org/pdf/2406.11756v1)
 - 2024-06-17, **Retrieval of the physical parameters of galaxies from WEAVE-StePS-like data using machine learning**, J. Angthopo et.al., Paper: [http://arxiv.org/abs/2406.11748v1](http://arxiv.org/abs/2406.11748v1), Paper: [http://arxiv.org/abs/2406.11748v1](http://arxiv.org/pdf/2406.11748v1)
 - 2024-06-17, **Detection Prospects of Gravitational Waves from SU(2) Axion Inflation**, Charles Badger et.al., Paper: [http://arxiv.org/abs/2406.11742v1](http://arxiv.org/abs/2406.11742v1), Paper: [http://arxiv.org/abs/2406.11742v1](http://arxiv.org/pdf/2406.11742v1)
