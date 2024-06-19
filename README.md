@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-18**|**A Dust-Trapping Ring in the Planet-Hosting Disk of Elias 2-24**|Adolfo S. Carvalho et.al.|[2406.12819v1](http://arxiv.org/abs/2406.12819v1)|[2406.12819v1](http://arxiv.org/pdf/2406.12819v1)|null|
+|**2024-06-18**|**Low-mass planets falling into gaps with cyclonic vortices**|Raúl O. Chametla et.al.|[2406.12813v1](http://arxiv.org/abs/2406.12813v1)|[2406.12813v1](http://arxiv.org/pdf/2406.12813v1)|null|
+|**2024-06-18**|**Varying activity and the bursts properties of FRB 20240114A probed with GMRT down to 300 MHz**|Ajay Kumar et.al.|[2406.12804v1](http://arxiv.org/abs/2406.12804v1)|[2406.12804v1](http://arxiv.org/pdf/2406.12804v1)|null|
+|**2024-06-18**|**The Aligned Orbit of a Hot Jupiter around the M Dwarf TOI-4201**|Tianjun Gan et.al.|[2406.12798v1](http://arxiv.org/abs/2406.12798v1)|[2406.12798v1](http://arxiv.org/pdf/2406.12798v1)|null|
+|**2024-06-18**|**Dark Photon Dark Matter Radio Signal from the Milky Way Electron Density**|Ariel Arza et.al.|[2406.12797v1](http://arxiv.org/abs/2406.12797v1)|[2406.12797v1](http://arxiv.org/pdf/2406.12797v1)|null|
+|**2024-06-18**|**The Hycean Paradigm in the Search for Life Elsewhere**|Nikku Madhusudhan et.al.|[2406.12794v1](http://arxiv.org/abs/2406.12794v1)|[2406.12794v1](http://arxiv.org/pdf/2406.12794v1)|null|
+|**2024-06-18**|**Extracting overlapping gravitational-wave signals of galactic compact binaries: a mini review**|Rui Niu et.al.|[2406.12789v1](http://arxiv.org/abs/2406.12789v1)|[2406.12789v1](http://arxiv.org/pdf/2406.12789v1)|null|
+|**2024-06-18**|**Dynamical mass determination and partial eclipses of the heartbeat star HD 181793**|Laura E. Uronen et.al.|[2406.12786v1](http://arxiv.org/abs/2406.12786v1)|[2406.12786v1](http://arxiv.org/pdf/2406.12786v1)|null|
+|**2024-06-18**|**Modelling predicts a molecule-rich disk around the AGB star L2 Puppis**|M. Van de Sande et.al.|[2406.12768v1](http://arxiv.org/abs/2406.12768v1)|[2406.12768v1](http://arxiv.org/pdf/2406.12768v1)|null|
+|**2024-06-18**|**Windows Into Other Worlds: Pitfalls in the physical interpretation of exoplanet atmospheric spectroscopy**|Darius Modirrousta-Galian et.al.|[2406.12765v1](http://arxiv.org/abs/2406.12765v1)|[2406.12765v1](http://arxiv.org/pdf/2406.12765v1)|null|
 |**2024-06-18**|**Magnetic field in mini starburst complex Sgr B2**|Xing Pan et.al.|[2406.11800v2](http://arxiv.org/abs/2406.11800v2)|[2406.11800v2](http://arxiv.org/pdf/2406.11800v2)|null|
 |**2024-06-17**|**Analyzing the influence of graviton fluctuations on the inflationary spectrum with a Kuchař-Torre clock**|Giulia Maniccia et.al.|[2406.11756v1](http://arxiv.org/abs/2406.11756v1)|[2406.11756v1](http://arxiv.org/pdf/2406.11756v1)|null|
 |**2024-06-17**|**Retrieval of the physical parameters of galaxies from WEAVE-StePS-like data using machine learning**|J. Angthopo et.al.|[2406.11748v1](http://arxiv.org/abs/2406.11748v1)|[2406.11748v1](http://arxiv.org/pdf/2406.11748v1)|null|
@@ -4977,6 +4987,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844v1](http://arxiv.org/abs/2406.12844v1)|[2406.12844v1](http://arxiv.org/pdf/2406.12844v1)|null|
+|**2024-06-18**|**Can Go AIs be adversarially robust?**|Tom Tseng et.al.|[2406.12843v1](http://arxiv.org/abs/2406.12843v1)|[2406.12843v1](http://arxiv.org/pdf/2406.12843v1)|null|
+|**2024-06-18**|**Demystifying Higher-Order Graph Neural Networks**|Maciej Besta et.al.|[2406.12841v1](http://arxiv.org/abs/2406.12841v1)|[2406.12841v1](http://arxiv.org/pdf/2406.12841v1)|null|
+|**2024-06-18**|**Influence Maximization via Graph Neural Bandits**|Yuting Feng et.al.|[2406.12835v1](http://arxiv.org/abs/2406.12835v1)|[2406.12835v1](http://arxiv.org/pdf/2406.12835v1)|null|
+|**2024-06-18**|**LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation**|Seyedarmin Azizi et.al.|[2406.12832v1](http://arxiv.org/abs/2406.12832v1)|[2406.12832v1](http://arxiv.org/pdf/2406.12832v1)|**[link](https://github.com/arminazizi98/lamda)**|
+|**2024-06-18**|**VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**|Jing Gu et.al.|[2406.12831v1](http://arxiv.org/abs/2406.12831v1)|[2406.12831v1](http://arxiv.org/pdf/2406.12831v1)|null|
+|**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824v1](http://arxiv.org/abs/2406.12824v1)|[2406.12824v1](http://arxiv.org/pdf/2406.12824v1)|null|
+|**2024-06-18**|**Is It Good Data for Multilingual Instruction Tuning or Just Bad Multilingual Evaluation for Large Language Models?**|Pinzhen Chen et.al.|[2406.12822v1](http://arxiv.org/abs/2406.12822v1)|[2406.12822v1](http://arxiv.org/pdf/2406.12822v1)|null|
+|**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815v1](http://arxiv.org/abs/2406.12815v1)|[2406.12815v1](http://arxiv.org/pdf/2406.12815v1)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
+|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v1](http://arxiv.org/abs/2406.12808v1)|[2406.12808v1](http://arxiv.org/pdf/2406.12808v1)|null|
 |**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839v1](http://arxiv.org/abs/2406.11839v1)|[2406.11839v1](http://arxiv.org/pdf/2406.11839v1)|null|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833v1](http://arxiv.org/abs/2406.11833v1)|[2406.11833v1](http://arxiv.org/pdf/2406.11833v1)|**[link](https://github.com/liuziyu77/mmdu)**|
 |**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830v1](http://arxiv.org/abs/2406.11830v1)|[2406.11830v1](http://arxiv.org/pdf/2406.11830v1)|**[link](https://github.com/belindal/erase)**|
