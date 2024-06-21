@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-20**|**OH mid-infrared emission as a diagnostic of H$_2$O UV photodissociation. III. Application to planet-forming disks**|Benoît Tabone et.al.|[2406.14560v1](http://arxiv.org/abs/2406.14560v1)|[2406.14560v1](http://arxiv.org/pdf/2406.14560v1)|null|
+|**2024-06-20**|**Neutrino mass bounds from DESI 2024 are relaxed by Planck PR4 and cosmological supernovae**|Itamar J. Allali et.al.|[2406.14554v1](http://arxiv.org/abs/2406.14554v1)|[2406.14554v1](http://arxiv.org/pdf/2406.14554v1)|null|
+|**2024-06-20**|**$\texttt{cunuSHT}$: GPU Accelerated Spherical Harmonic Transforms on Arbitrary Pixelizations**|Sebastian Belkner et.al.|[2406.14542v1](http://arxiv.org/abs/2406.14542v1)|[2406.14542v1](http://arxiv.org/pdf/2406.14542v1)|null|
+|**2024-06-20**|**Roman FFP Revolution: Two, Three, Many Plutos**|Andrew Gould et.al.|[2406.14531v1](http://arxiv.org/abs/2406.14531v1)|[2406.14531v1](http://arxiv.org/pdf/2406.14531v1)|null|
+|**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519v1](http://arxiv.org/abs/2406.14519v1)|[2406.14519v1](http://arxiv.org/pdf/2406.14519v1)|**[link](https://github.com/yaojian95/ForSEplus)**|
+|**2024-06-20**|**Scaling up global kinetic models of pulsar magnetospheres using a hybrid force-free-PIC numerical approach**|Adrien Soudais et.al.|[2406.14512v1](http://arxiv.org/abs/2406.14512v1)|[2406.14512v1](http://arxiv.org/pdf/2406.14512v1)|null|
+|**2024-06-20**|**Multi-epoch X-ray spectral analysis of Centaurus A: revealing new constraints on iron emission line origins**|Toshiya Iwata et.al.|[2406.14488v1](http://arxiv.org/abs/2406.14488v1)|[2406.14488v1](http://arxiv.org/pdf/2406.14488v1)|null|
+|**2024-06-20**|**The feasibility of weak lensing and 21cm intensity mapping cross-correlation measurements**|Anut Sangka et.al.|[2406.14475v1](http://arxiv.org/abs/2406.14475v1)|[2406.14475v1](http://arxiv.org/pdf/2406.14475v1)|null|
+|**2024-06-20**|**A More Precise Measurement of the Radius of PSR J0740+6620 Using Updated NICER Data**|Alexander J. Dittmann et.al.|[2406.14467v1](http://arxiv.org/abs/2406.14467v1)|[2406.14467v1](http://arxiv.org/pdf/2406.14467v1)|null|
+|**2024-06-20**|**The Radius of the High Mass Pulsar PSR J0740+6620 With 3.6 Years of NICER Data**|Tuomo Salmi et.al.|[2406.14466v1](http://arxiv.org/abs/2406.14466v1)|[2406.14466v1](http://arxiv.org/pdf/2406.14466v1)|null|
 |**2024-06-18**|**A Dust-Trapping Ring in the Planet-Hosting Disk of Elias 2-24**|Adolfo S. Carvalho et.al.|[2406.12819v1](http://arxiv.org/abs/2406.12819v1)|[2406.12819v1](http://arxiv.org/pdf/2406.12819v1)|null|
 |**2024-06-18**|**Low-mass planets falling into gaps with cyclonic vortices**|Raúl O. Chametla et.al.|[2406.12813v1](http://arxiv.org/abs/2406.12813v1)|[2406.12813v1](http://arxiv.org/pdf/2406.12813v1)|null|
 |**2024-06-18**|**Varying activity and the bursts properties of FRB 20240114A probed with GMRT down to 300 MHz**|Ajay Kumar et.al.|[2406.12804v1](http://arxiv.org/abs/2406.12804v1)|[2406.12804v1](http://arxiv.org/pdf/2406.12804v1)|null|
@@ -4991,6 +5001,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563v1](http://arxiv.org/abs/2406.14563v1)|[2406.14563v1](http://arxiv.org/pdf/2406.14563v1)|null|
+|**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562v1](http://arxiv.org/abs/2406.14562v1)|[2406.14562v1](http://arxiv.org/pdf/2406.14562v1)|null|
+|**2024-06-20**|**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**|Jiawei Gao et.al.|[2406.14558v1](http://arxiv.org/abs/2406.14558v1)|[2406.14558v1](http://arxiv.org/pdf/2406.14558v1)|null|
+|**2024-06-20**|**Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**|Jan Glaubitz et.al.|[2406.14557v1](http://arxiv.org/abs/2406.14557v1)|[2406.14557v1](http://arxiv.org/pdf/2406.14557v1)|null|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555v1](http://arxiv.org/abs/2406.14555v1)|[2406.14555v1](http://arxiv.org/pdf/2406.14555v1)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**|Shilong Li et.al.|[2406.14550v1](http://arxiv.org/abs/2406.14550v1)|[2406.14550v1](http://arxiv.org/pdf/2406.14550v1)|null|
+|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546v1](http://arxiv.org/abs/2406.14546v1)|[2406.14546v1](http://arxiv.org/pdf/2406.14546v1)|null|
+|**2024-06-20**|**IRASim: Learning Interactive Real-Robot Action Simulators**|Fangqi Zhu et.al.|[2406.14540v1](http://arxiv.org/abs/2406.14540v1)|[2406.14540v1](http://arxiv.org/pdf/2406.14540v1)|null|
+|**2024-06-20**|**A Benchmarking Study of Kolmogorov-Arnold Networks on Tabular Data**|Eleonora Poeta et.al.|[2406.14529v1](http://arxiv.org/abs/2406.14529v1)|[2406.14529v1](http://arxiv.org/pdf/2406.14529v1)|**[link](https://github.com/eleonorapoeta/benchmarking-kan)**|
+|**2024-06-20**|**DeciMamba: Exploring the Length Extrapolation Potential of Mamba**|Assaf Ben-Kish et.al.|[2406.14528v1](http://arxiv.org/abs/2406.14528v1)|[2406.14528v1](http://arxiv.org/pdf/2406.14528v1)|**[link](https://github.com/assafbk/decimamba)**|
 |**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844v1](http://arxiv.org/abs/2406.12844v1)|[2406.12844v1](http://arxiv.org/pdf/2406.12844v1)|null|
 |**2024-06-18**|**Can Go AIs be adversarially robust?**|Tom Tseng et.al.|[2406.12843v1](http://arxiv.org/abs/2406.12843v1)|[2406.12843v1](http://arxiv.org/pdf/2406.12843v1)|null|
 |**2024-06-18**|**Demystifying Higher-Order Graph Neural Networks**|Maciej Besta et.al.|[2406.12841v1](http://arxiv.org/abs/2406.12841v1)|[2406.12841v1](http://arxiv.org/pdf/2406.12841v1)|null|
