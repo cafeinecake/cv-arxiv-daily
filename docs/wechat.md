@@ -1,11 +1,11 @@
-> Updated on 2024.06.20
+> Updated on 2024.06.21
 
 ## Astrophysics
 
 - 2024-06-18, **A Dust-Trapping Ring in the Planet-Hosting Disk of Elias 2-24**, Adolfo S. Carvalho et.al., Paper: [http://arxiv.org/abs/2406.12819v1](http://arxiv.org/abs/2406.12819v1), Paper: [http://arxiv.org/abs/2406.12819v1](http://arxiv.org/pdf/2406.12819v1)
 - 2024-06-18, **Low-mass planets falling into gaps with cyclonic vortices**, Raúl O. Chametla et.al., Paper: [http://arxiv.org/abs/2406.12813v1](http://arxiv.org/abs/2406.12813v1), Paper: [http://arxiv.org/abs/2406.12813v1](http://arxiv.org/pdf/2406.12813v1)
 - 2024-06-18, **Varying activity and the bursts properties of FRB 20240114A probed with GMRT down to 300 MHz**, Ajay Kumar et.al., Paper: [http://arxiv.org/abs/2406.12804v1](http://arxiv.org/abs/2406.12804v1), Paper: [http://arxiv.org/abs/2406.12804v1](http://arxiv.org/pdf/2406.12804v1)
-- 2024-06-18, **The Aligned Orbit of a Hot Jupiter around the M Dwarf TOI-4201**, Tianjun Gan et.al., Paper: [http://arxiv.org/abs/2406.12798v1](http://arxiv.org/abs/2406.12798v1), Paper: [http://arxiv.org/abs/2406.12798v1](http://arxiv.org/pdf/2406.12798v1)
+- 2024-06-19, **The Aligned Orbit of a Hot Jupiter around the M Dwarf TOI-4201**, Tianjun Gan et.al., Paper: [http://arxiv.org/abs/2406.12798v2](http://arxiv.org/abs/2406.12798v2), Paper: [http://arxiv.org/abs/2406.12798v2](http://arxiv.org/pdf/2406.12798v2)
 - 2024-06-18, **Dark Photon Dark Matter Radio Signal from the Milky Way Electron Density**, Ariel Arza et.al., Paper: [http://arxiv.org/abs/2406.12797v1](http://arxiv.org/abs/2406.12797v1), Paper: [http://arxiv.org/abs/2406.12797v1](http://arxiv.org/pdf/2406.12797v1)
 - 2024-06-18, **The Hycean Paradigm in the Search for Life Elsewhere**, Nikku Madhusudhan et.al., Paper: [http://arxiv.org/abs/2406.12794v1](http://arxiv.org/abs/2406.12794v1), Paper: [http://arxiv.org/abs/2406.12794v1](http://arxiv.org/pdf/2406.12794v1)
 - 2024-06-18, **Extracting overlapping gravitational-wave signals of galactic compact binaries: a mini review**, Rui Niu et.al., Paper: [http://arxiv.org/abs/2406.12789v1](http://arxiv.org/abs/2406.12789v1), Paper: [http://arxiv.org/abs/2406.12789v1](http://arxiv.org/pdf/2406.12789v1)
