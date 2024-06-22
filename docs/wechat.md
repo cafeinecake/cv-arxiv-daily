@@ -1,4 +1,4 @@
-> Updated on 2024.06.21
+> Updated on 2024.06.22
 
 ## Astrophysics
 
@@ -4999,7 +4999,7 @@
 - 2024-06-20, **Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**, Jan Glaubitz et.al., Paper: [http://arxiv.org/abs/2406.14557v1](http://arxiv.org/abs/2406.14557v1), Paper: [http://arxiv.org/abs/2406.14557v1](http://arxiv.org/pdf/2406.14557v1)
 - 2024-06-20, **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**, Xincheng Shuai et.al., Paper: [http://arxiv.org/abs/2406.14555v1](http://arxiv.org/abs/2406.14555v1),Paper: [http://arxiv.org/abs/2406.14555v1](http://arxiv.org/pdf/2406.14555v1), Code: **[https://github.com/xinchengshuai/awesome-image-editing](https://github.com/xinchengshuai/awesome-image-editing)**
 - 2024-06-20, **GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**, Shilong Li et.al., Paper: [http://arxiv.org/abs/2406.14550v1](http://arxiv.org/abs/2406.14550v1), Paper: [http://arxiv.org/abs/2406.14550v1](http://arxiv.org/pdf/2406.14550v1)
-- 2024-06-20, **Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**, Johannes Treutlein et.al., Paper: [http://arxiv.org/abs/2406.14546v1](http://arxiv.org/abs/2406.14546v1), Paper: [http://arxiv.org/abs/2406.14546v1](http://arxiv.org/pdf/2406.14546v1)
+- 2024-06-20, **Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**, Johannes Treutlein et.al., Paper: [http://arxiv.org/abs/2406.14546v1](http://arxiv.org/abs/2406.14546v1),Paper: [http://arxiv.org/abs/2406.14546v1](http://arxiv.org/pdf/2406.14546v1), Code: **[https://github.com/choidami/inductive-oocr](https://github.com/choidami/inductive-oocr)**
 - 2024-06-20, **IRASim: Learning Interactive Real-Robot Action Simulators**, Fangqi Zhu et.al., Paper: [http://arxiv.org/abs/2406.14540v1](http://arxiv.org/abs/2406.14540v1), Paper: [http://arxiv.org/abs/2406.14540v1](http://arxiv.org/pdf/2406.14540v1)
 - 2024-06-20, **A Benchmarking Study of Kolmogorov-Arnold Networks on Tabular Data**, Eleonora Poeta et.al., Paper: [http://arxiv.org/abs/2406.14529v1](http://arxiv.org/abs/2406.14529v1),Paper: [http://arxiv.org/abs/2406.14529v1](http://arxiv.org/pdf/2406.14529v1), Code: **[https://github.com/eleonorapoeta/benchmarking-kan](https://github.com/eleonorapoeta/benchmarking-kan)**
 - 2024-06-20, **DeciMamba: Exploring the Length Extrapolation Potential of Mamba**, Assaf Ben-Kish et.al., Paper: [http://arxiv.org/abs/2406.14528v1](http://arxiv.org/abs/2406.14528v1),Paper: [http://arxiv.org/abs/2406.14528v1](http://arxiv.org/pdf/2406.14528v1), Code: **[https://github.com/assafbk/decimamba](https://github.com/assafbk/decimamba)**
