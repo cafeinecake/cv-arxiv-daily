@@ -1,4 +1,4 @@
-> Updated on 2024.06.23
+> Updated on 2024.06.24
 
 ## Astrophysics
 
@@ -9,7 +9,7 @@
 - 2024-06-20, **ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**, Jian Yao et.al., Paper: [http://arxiv.org/abs/2406.14519v1](http://arxiv.org/abs/2406.14519v1),Paper: [http://arxiv.org/abs/2406.14519v1](http://arxiv.org/pdf/2406.14519v1), Code: **[https://github.com/yaojian95/ForSEplus](https://github.com/yaojian95/ForSEplus)**
 - 2024-06-20, **Scaling up global kinetic models of pulsar magnetospheres using a hybrid force-free-PIC numerical approach**, Adrien Soudais et.al., Paper: [http://arxiv.org/abs/2406.14512v1](http://arxiv.org/abs/2406.14512v1), Paper: [http://arxiv.org/abs/2406.14512v1](http://arxiv.org/pdf/2406.14512v1)
 - 2024-06-20, **Multi-epoch X-ray spectral analysis of Centaurus A: revealing new constraints on iron emission line origins**, Toshiya Iwata et.al., Paper: [http://arxiv.org/abs/2406.14488v1](http://arxiv.org/abs/2406.14488v1), Paper: [http://arxiv.org/abs/2406.14488v1](http://arxiv.org/pdf/2406.14488v1)
-- 2024-06-20, **The feasibility of weak lensing and 21cm intensity mapping cross-correlation measurements**, Anut Sangka et.al., Paper: [http://arxiv.org/abs/2406.14475v1](http://arxiv.org/abs/2406.14475v1), Paper: [http://arxiv.org/abs/2406.14475v1](http://arxiv.org/pdf/2406.14475v1)
+- 2024-06-21, **The feasibility of weak lensing and 21cm intensity mapping cross-correlation measurements**, Anut Sangka et.al., Paper: [http://arxiv.org/abs/2406.14475v2](http://arxiv.org/abs/2406.14475v2), Paper: [http://arxiv.org/abs/2406.14475v2](http://arxiv.org/pdf/2406.14475v2)
 - 2024-06-20, **A More Precise Measurement of the Radius of PSR J0740+6620 Using Updated NICER Data**, Alexander J. Dittmann et.al., Paper: [http://arxiv.org/abs/2406.14467v1](http://arxiv.org/abs/2406.14467v1), Paper: [http://arxiv.org/abs/2406.14467v1](http://arxiv.org/pdf/2406.14467v1)
 - 2024-06-20, **The Radius of the High Mass Pulsar PSR J0740+6620 With 3.6 Years of NICER Data**, Tuomo Salmi et.al., Paper: [http://arxiv.org/abs/2406.14466v1](http://arxiv.org/abs/2406.14466v1), Paper: [http://arxiv.org/abs/2406.14466v1](http://arxiv.org/pdf/2406.14466v1)
 - 2024-06-18, **A Dust-Trapping Ring in the Planet-Hosting Disk of Elias 2-24**, Adolfo S. Carvalho et.al., Paper: [http://arxiv.org/abs/2406.12819v1](http://arxiv.org/abs/2406.12819v1), Paper: [http://arxiv.org/abs/2406.12819v1](http://arxiv.org/pdf/2406.12819v1)
