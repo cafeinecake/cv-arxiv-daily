@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-25**|**Spectroscopic and Dynamic Orbital Analyses of Metal-Poor and High Proper Motion Stars: I. HD\,8724 and HD\,195633**|M. Marismak et.al.|[2406.17776v1](http://arxiv.org/abs/2406.17776v1)|[2406.17776v1](http://arxiv.org/pdf/2406.17776v1)|null|
+|**2024-06-25**|**Violation of $γ$ in Brans-Dicke gravity**|Hoang Ky Nguyen et.al.|[2406.17771v1](http://arxiv.org/abs/2406.17771v1)|[2406.17771v1](http://arxiv.org/pdf/2406.17771v1)|null|
+|**2024-06-25**|**The Size-Mass relation at Rest-Frame $1.5μ$m from JWST/NIRCam in the COSMOS-WEB and PRIMER-COSMOS fields**|Marco Martorano et.al.|[2406.17756v1](http://arxiv.org/abs/2406.17756v1)|[2406.17756v1](http://arxiv.org/pdf/2406.17756v1)|null|
+|**2024-06-25**|**Accessing a New Population of Supermassive Black Holes with Extensions to the Event Horizon Telescope**|Xinyue Alice Zhang et.al.|[2406.17754v1](http://arxiv.org/abs/2406.17754v1)|[2406.17754v1](http://arxiv.org/pdf/2406.17754v1)|null|
+|**2024-06-25**|**The compact circumstellar material of SN 2024ggi: Another supernova with a pre-explosion effervescent zone and jet-driven explosion**|Noam Soker et.al.|[2406.17751v1](http://arxiv.org/abs/2406.17751v1)|[2406.17751v1](http://arxiv.org/pdf/2406.17751v1)|null|
+|**2024-06-25**|**The SNEWS 2.0 Alert Software for the Coincident Detection of Neutrinos from Core-Collapse Supernovae**|M. Kara et.al.|[2406.17743v1](http://arxiv.org/abs/2406.17743v1)|[2406.17743v1](http://arxiv.org/pdf/2406.17743v1)|null|
+|**2024-06-25**|**Design and Validation of a Cold Load for Characterization of CMB-S4 Detectors**|Cesiley L. King et.al.|[2406.17695v1](http://arxiv.org/abs/2406.17695v1)|[2406.17695v1](http://arxiv.org/pdf/2406.17695v1)|null|
+|**2024-06-25**|**Optical Spectropolarimetric Variability Properties in Blazars PKS 0637-75 and PKS 1510-089**|Stephanie A. Podjed et.al.|[2406.17687v1](http://arxiv.org/abs/2406.17687v1)|[2406.17687v1](http://arxiv.org/pdf/2406.17687v1)|null|
+|**2024-06-25**|**The wave-like disk oscillations of mono-age stellar populations in the Solar neighbourhood from Gaia DR3**|Tao Wang et.al.|[2406.17686v1](http://arxiv.org/abs/2406.17686v1)|[2406.17686v1](http://arxiv.org/pdf/2406.17686v1)|null|
+|**2024-06-25**|**CMBFSCNN: Cosmic Microwave Background Polarization Foreground Subtraction with Convolutional Neural Network**|Ye-Peng Yan et.al.|[2406.17685v1](http://arxiv.org/abs/2406.17685v1)|[2406.17685v1](http://arxiv.org/pdf/2406.17685v1)|null|
 |**2024-06-24**|**Nonparametric analysis of correlations in the binary black hole population with LIGO-Virgo-KAGRA data**|Jack Heinzel et.al.|[2406.16844v1](http://arxiv.org/abs/2406.16844v1)|[2406.16844v1](http://arxiv.org/pdf/2406.16844v1)|null|
 |**2024-06-24**|**Exploring Simple-Population and Multiple-Population Globular Clusters in the Outer Galactic Halo using the Hubble Space Telescope**|E. P. Lagioia et.al.|[2406.16824v1](http://arxiv.org/abs/2406.16824v1)|[2406.16824v1](http://arxiv.org/pdf/2406.16824v1)|null|
 |**2024-06-24**|**PixelPop: High Resolution Nonparameteric Inference of Gravitational-Wave Populations in Multiple Dimensions**|Jack Heinzel et.al.|[2406.16813v1](http://arxiv.org/abs/2406.16813v1)|[2406.16813v1](http://arxiv.org/pdf/2406.16813v1)|null|
@@ -5017,6 +5027,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-06-25**|**Evidence of thermodynamics and magnetic monopole plasma formation by photon-magnon interaction in artificial spin ice**|D. G. Duarte et.al.|[2406.17775v1](http://arxiv.org/abs/2406.17775v1)|[2406.17775v1](http://arxiv.org/pdf/2406.17775v1)|null|
+|**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768v1](http://arxiv.org/abs/2406.17768v1)|[2406.17768v1](http://arxiv.org/pdf/2406.17768v1)|null|
+|**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764v1](http://arxiv.org/abs/2406.17764v1)|[2406.17764v1](http://arxiv.org/pdf/2406.17764v1)|null|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763v1](http://arxiv.org/abs/2406.17763v1)|[2406.17763v1](http://arxiv.org/pdf/2406.17763v1)|null|
+|**2024-06-25**|**Solving Hard Mizar Problems with Instantiation and Strategy Invention**|Jan Jakubův et.al.|[2406.17762v1](http://arxiv.org/abs/2406.17762v1)|[2406.17762v1](http://arxiv.org/pdf/2406.17762v1)|null|
+|**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761v1](http://arxiv.org/abs/2406.17761v1)|[2406.17761v1](http://arxiv.org/pdf/2406.17761v1)|**[link](https://github.com/2015aroras/calmqa)**|
+|**2024-06-25**|**Measuring and Benchmarking Large Language Models' Capabilities to Generate Persuasive Language**|Amalie Brogaard Pauli et.al.|[2406.17753v1](http://arxiv.org/abs/2406.17753v1)|[2406.17753v1](http://arxiv.org/pdf/2406.17753v1)|null|
+|**2024-06-25**|**Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon**|USVSN Sai Prashanth et.al.|[2406.17746v1](http://arxiv.org/abs/2406.17746v1)|[2406.17746v1](http://arxiv.org/pdf/2406.17746v1)|null|
+|**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741v1](http://arxiv.org/abs/2406.17741v1)|[2406.17741v1](http://arxiv.org/pdf/2406.17741v1)|**[link](https://github.com/zyc00/point-sam)**|
+|**2024-06-25**|**Structured Unrestricted-Rank Matrices for Parameter Efficient Fine-tuning**|Arijit Sehanobish et.al.|[2406.17740v1](http://arxiv.org/abs/2406.17740v1)|[2406.17740v1](http://arxiv.org/pdf/2406.17740v1)|null|
 |**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864v1](http://arxiv.org/abs/2406.16864v1)|[2406.16864v1](http://arxiv.org/pdf/2406.16864v1)|null|
 |**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853v1](http://arxiv.org/abs/2406.16853v1)|[2406.16853v1](http://arxiv.org/pdf/2406.16853v1)|**[link](https://github.com/c-tl/geomformer)**|
 |**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851v1](http://arxiv.org/abs/2406.16851v1)|[2406.16851v1](http://arxiv.org/pdf/2406.16851v1)|null|
