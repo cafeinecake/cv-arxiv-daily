@@ -1,4 +1,4 @@
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 
 ## Astrophysics
 
@@ -5025,8 +5025,8 @@
 |**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828v1](http://arxiv.org/abs/2406.16828v1)|[2406.16828v1](http://arxiv.org/pdf/2406.16828v1)|null|
 |**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821v1](http://arxiv.org/abs/2406.16821v1)|[2406.16821v1](http://arxiv.org/pdf/2406.16821v1)|null|
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810v1](http://arxiv.org/abs/2406.16810v1)|[2406.16810v1](http://arxiv.org/pdf/2406.16810v1)|null|
-|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797v1](http://arxiv.org/abs/2406.16797v1)|[2406.16797v1](http://arxiv.org/pdf/2406.16797v1)|**[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)**|
-|**2024-06-24**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v1](http://arxiv.org/abs/2406.16793v1)|[2406.16793v1](http://arxiv.org/pdf/2406.16793v1)|null|
+|**2024-06-25**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797v2](http://arxiv.org/abs/2406.16797v2)|[2406.16797v2](http://arxiv.org/pdf/2406.16797v2)|**[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)**|
+|**2024-06-25**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v2](http://arxiv.org/abs/2406.16793v2)|[2406.16793v2](http://arxiv.org/pdf/2406.16793v2)|null|
 |**2024-06-21**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[2406.15349v1](http://arxiv.org/abs/2406.15349v1)|[2406.15349v1](http://arxiv.org/pdf/2406.15349v1)|**[link](https://github.com/autonomousvision/navsim)**|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346v1](http://arxiv.org/abs/2406.15346v1)|[2406.15346v1](http://arxiv.org/pdf/2406.15346v1)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
 |**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341v1](http://arxiv.org/abs/2406.15341v1)|[2406.15341v1](http://arxiv.org/pdf/2406.15341v1)|**[link](https://github.com/liu-hy/genotex)**|
