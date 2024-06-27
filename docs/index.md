@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-26**|**Playing with FIRE: A Galactic Feedback-Halting Experiment Challenges Star Formation Rate Theories**|Shivan Khullar et.al.|[2406.18526v1](http://arxiv.org/abs/2406.18526v1)|[2406.18526v1](http://arxiv.org/pdf/2406.18526v1)|null|
+|**2024-06-26**|**Pseudo-Dirac Neutrinos and Relic Neutrino Matter Effect on the High-energy Neutrino Flavor Composition**|P. S. Bhupal Dev et.al.|[2406.18507v1](http://arxiv.org/abs/2406.18507v1)|[2406.18507v1](http://arxiv.org/pdf/2406.18507v1)|null|
+|**2024-06-26**|**Studying single-electron traps in newly fabricated Skipper-CCDs for the Oscura experiment using the pocket-pumping technique**|S. E. Perez et.al.|[2406.18502v1](http://arxiv.org/abs/2406.18502v1)|[2406.18502v1](http://arxiv.org/pdf/2406.18502v1)|null|
+|**2024-06-26**|**$Λ_{\rm s}$CDM cosmology: Alleviating major cosmological tensions by predicting standard neutrino properties**|Anita Yadav et.al.|[2406.18496v1](http://arxiv.org/abs/2406.18496v1)|[2406.18496v1](http://arxiv.org/pdf/2406.18496v1)|null|
+|**2024-06-26**|**14 New Light Curves and an Updated Ephemeris for the Hot Jupiter HAT-P-54 b**|Heather B. Hewitt et.al.|[2406.18487v1](http://arxiv.org/abs/2406.18487v1)|[2406.18487v1](http://arxiv.org/pdf/2406.18487v1)|null|
+|**2024-06-26**|**White dwarf constraints on geological processes at the population level**|Andrew M. Buchan et.al.|[2406.18486v1](http://arxiv.org/abs/2406.18486v1)|[2406.18486v1](http://arxiv.org/pdf/2406.18486v1)|null|
+|**2024-06-26**|**A 3 mm spectral line study of the Central Molecular Zone infrared dark cloud G1.75-0.08**|Oskari Miettinen et.al.|[2406.18478v1](http://arxiv.org/abs/2406.18478v1)|[2406.18478v1](http://arxiv.org/pdf/2406.18478v1)|null|
+|**2024-06-26**|**Strong wave turbulence in strongly local large $N$ theories**|Vladimir Rosenhaus et.al.|[2406.18475v1](http://arxiv.org/abs/2406.18475v1)|[2406.18475v1](http://arxiv.org/pdf/2406.18475v1)|null|
+|**2024-06-26**|**Broadening the Canonical Picture of EUV-Driven Photoevaporation of Accretion Disks**|Riouhei Nakatani et.al.|[2406.18461v1](http://arxiv.org/abs/2406.18461v1)|[2406.18461v1](http://arxiv.org/pdf/2406.18461v1)|null|
+|**2024-06-26**|**Upper Bounds on the Mass of Fundamental Fields from Primordial Universe**|Hassan Firouzjahi et.al.|[2406.18435v1](http://arxiv.org/abs/2406.18435v1)|[2406.18435v1](http://arxiv.org/pdf/2406.18435v1)|null|
 |**2024-06-25**|**Spectroscopic and Dynamic Orbital Analyses of Metal-Poor and High Proper Motion Stars: I. HD\,8724 and HD\,195633**|M. Marismak et.al.|[2406.17776v1](http://arxiv.org/abs/2406.17776v1)|[2406.17776v1](http://arxiv.org/pdf/2406.17776v1)|null|
 |**2024-06-25**|**Violation of $γ$ in Brans-Dicke gravity**|Hoang Ky Nguyen et.al.|[2406.17771v1](http://arxiv.org/abs/2406.17771v1)|[2406.17771v1](http://arxiv.org/pdf/2406.17771v1)|null|
 |**2024-06-25**|**The Size-Mass relation at Rest-Frame $1.5μ$m from JWST/NIRCam in the COSMOS-WEB and PRIMER-COSMOS fields**|Marco Martorano et.al.|[2406.17756v1](http://arxiv.org/abs/2406.17756v1)|[2406.17756v1](http://arxiv.org/pdf/2406.17756v1)|null|
@@ -5031,6 +5041,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532v1](http://arxiv.org/abs/2406.18532v1)|[2406.18532v1](http://arxiv.org/pdf/2406.18532v1)|**[link](https://github.com/aiwaves-cn/agents)**|
+|**2024-06-26**|**APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets**|Zuxin Liu et.al.|[2406.18518v1](http://arxiv.org/abs/2406.18518v1)|[2406.18518v1](http://arxiv.org/pdf/2406.18518v1)|null|
+|**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505v1](http://arxiv.org/abs/2406.18505v1)|[2406.18505v1](http://arxiv.org/pdf/2406.18505v1)|null|
+|**2024-06-26**|**Universal Anomaly Detection at the LHC: Transforming Optimal Classifiers and the DDD Method**|Sascha Caron et.al.|[2406.18469v1](http://arxiv.org/abs/2406.18469v1)|[2406.18469v1](http://arxiv.org/pdf/2406.18469v1)|null|
+|**2024-06-26**|**Role-Play Zero-Shot Prompting with Large Language Models for Open-Domain Human-Machine Conversation**|Ahmed Njifenjou et.al.|[2406.18460v1](http://arxiv.org/abs/2406.18460v1)|[2406.18460v1](http://arxiv.org/pdf/2406.18460v1)|null|
+|**2024-06-26**|**Detecting Brittle Decisions for Free: Leveraging Margin Consistency in Deep Robust Classifiers**|Jonas Ngnawé et.al.|[2406.18451v1](http://arxiv.org/abs/2406.18451v1)|[2406.18451v1](http://arxiv.org/pdf/2406.18451v1)|**[link](https://github.com/ngnawejonas/margin-consistency)**|
+|**2024-06-26**|**Preference Elicitation for Offline Reinforcement Learning**|Alizée Pace et.al.|[2406.18450v1](http://arxiv.org/abs/2406.18450v1)|[2406.18450v1](http://arxiv.org/pdf/2406.18450v1)|null|
+|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449v1](http://arxiv.org/abs/2406.18449v1)|[2406.18449v1](http://arxiv.org/pdf/2406.18449v1)|null|
+|**2024-06-26**|**New intelligent empowerment for digital transformation**|Peng Yifeng et.al.|[2406.18440v1](http://arxiv.org/abs/2406.18440v1)|[2406.18440v1](http://arxiv.org/pdf/2406.18440v1)|null|
+|**2024-06-26**|**Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets**|Younghyun Koo et.al.|[2406.18423v1](http://arxiv.org/abs/2406.18423v1)|[2406.18423v1](http://arxiv.org/pdf/2406.18423v1)|null|
 |**2024-06-25**|**Evidence of thermodynamics and magnetic monopole plasma formation by photon-magnon interaction in artificial spin ice**|D. G. Duarte et.al.|[2406.17775v1](http://arxiv.org/abs/2406.17775v1)|[2406.17775v1](http://arxiv.org/pdf/2406.17775v1)|null|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768v1](http://arxiv.org/abs/2406.17768v1)|[2406.17768v1](http://arxiv.org/pdf/2406.17768v1)|null|
 |**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764v1](http://arxiv.org/abs/2406.17764v1)|[2406.17764v1](http://arxiv.org/pdf/2406.17764v1)|null|
