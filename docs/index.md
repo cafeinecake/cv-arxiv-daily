@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-27**|**A Machine Learning Method for Monte Carlo Calculations of Radiative Processes**|William Charles et.al.|[2406.19385v1](http://arxiv.org/abs/2406.19385v1)|[2406.19385v1](http://arxiv.org/pdf/2406.19385v1)|null|
+|**2024-06-27**|**Calibrating and standardizing the Tip of the Red Giant Branch in the Small Magellanic Cloud using small-amplitude red giants**|Nolan W. Koblischke et.al.|[2406.19375v1](http://arxiv.org/abs/2406.19375v1)|[2406.19375v1](http://arxiv.org/pdf/2406.19375v1)|null|
+|**2024-06-27**|**Integrated Triply Resonant Electro-Optic Frequency Comb in Lithium Tantalate**|Junyin Zhang et.al.|[2406.19368v1](http://arxiv.org/abs/2406.19368v1)|[2406.19368v1](http://arxiv.org/pdf/2406.19368v1)|null|
+|**2024-06-27**|**PUREPath: A Deep Latent Variational Model for Estimating CMB Posterior over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2406.19367v1](http://arxiv.org/abs/2406.19367v1)|[2406.19367v1](http://arxiv.org/pdf/2406.19367v1)|null|
+|**2024-06-27**|**A class of ghost-free theories in symmetric teleparallel geometry**|Antonio G. Bello-Morales et.al.|[2406.19355v1](http://arxiv.org/abs/2406.19355v1)|[2406.19355v1](http://arxiv.org/pdf/2406.19355v1)|null|
+|**2024-06-27**|**A Contact Binary Satellite of the Asteroid (152830) Dinkinesh**|Harold F. Levison et.al.|[2406.19337v1](http://arxiv.org/abs/2406.19337v1)|[2406.19337v1](http://arxiv.org/pdf/2406.19337v1)|null|
+|**2024-06-27**|**A Superfluid Dark Matter Cosmic String Wake**|Aline Favero et.al.|[2406.19325v1](http://arxiv.org/abs/2406.19325v1)|[2406.19325v1](http://arxiv.org/pdf/2406.19325v1)|null|
+|**2024-06-27**|**The AMS-02 cosmic ray deuteron flux is consistent with a secondary origin**|Qiang Yuan et.al.|[2406.19315v1](http://arxiv.org/abs/2406.19315v1)|[2406.19315v1](http://arxiv.org/pdf/2406.19315v1)|null|
+|**2024-06-27**|**Vector Resonant Relaxation and Statistical Closure Theory. I. Direct Interaction Approximation**|Sofia Flores et.al.|[2406.19306v1](http://arxiv.org/abs/2406.19306v1)|[2406.19306v1](http://arxiv.org/pdf/2406.19306v1)|null|
+|**2024-06-27**|**M31 nucleus: molecular and ionised gas content upper limits**|Anne-Laure Melchior et.al.|[2406.19295v1](http://arxiv.org/abs/2406.19295v1)|[2406.19295v1](http://arxiv.org/pdf/2406.19295v1)|null|
 |**2024-06-26**|**Playing with FIRE: A Galactic Feedback-Halting Experiment Challenges Star Formation Rate Theories**|Shivan Khullar et.al.|[2406.18526v1](http://arxiv.org/abs/2406.18526v1)|[2406.18526v1](http://arxiv.org/pdf/2406.18526v1)|null|
 |**2024-06-26**|**Pseudo-Dirac Neutrinos and Relic Neutrino Matter Effect on the High-energy Neutrino Flavor Composition**|P. S. Bhupal Dev et.al.|[2406.18507v1](http://arxiv.org/abs/2406.18507v1)|[2406.18507v1](http://arxiv.org/pdf/2406.18507v1)|null|
 |**2024-06-26**|**Studying single-electron traps in newly fabricated Skipper-CCDs for the Oscura experiment using the pocket-pumping technique**|S. E. Perez et.al.|[2406.18502v1](http://arxiv.org/abs/2406.18502v1)|[2406.18502v1](http://arxiv.org/pdf/2406.18502v1)|null|
@@ -5041,6 +5051,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384v1](http://arxiv.org/abs/2406.19384v1)|[2406.19384v1](http://arxiv.org/pdf/2406.19384v1)|**[link](https://github.com/vdlad/remarkable-robustness-of-llms)**|
+|**2024-06-27**|**Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space**|Core Francisco Park et.al.|[2406.19370v1](http://arxiv.org/abs/2406.19370v1)|[2406.19370v1](http://arxiv.org/pdf/2406.19370v1)|null|
+|**2024-06-27**|**Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?**|Peter Hase et.al.|[2406.19354v1](http://arxiv.org/abs/2406.19354v1)|[2406.19354v1](http://arxiv.org/pdf/2406.19354v1)|null|
+|**2024-06-27**|**IndoToxic2024: A Demographically-Enriched Dataset of Hate Speech and Toxicity Types for Indonesian Language**|Lucky Susanto et.al.|[2406.19349v1](http://arxiv.org/abs/2406.19349v1)|[2406.19349v1](http://arxiv.org/pdf/2406.19349v1)|null|
+|**2024-06-27**|**Efficient World Models with Context-Aware Tokenization**|Vincent Micheli et.al.|[2406.19320v1](http://arxiv.org/abs/2406.19320v1)|[2406.19320v1](http://arxiv.org/pdf/2406.19320v1)|**[link](https://github.com/vmicheli/delta-iris)**|
+|**2024-06-27**|**Jump Starting Bandits with LLM-Generated Prior Knowledge**|Parand A. Alamdari et.al.|[2406.19317v1](http://arxiv.org/abs/2406.19317v1)|[2406.19317v1](http://arxiv.org/pdf/2406.19317v1)|null|
+|**2024-06-27**|**Enhanced Data Transfer Cooperating with Artificial Triplets for Scene Graph Generation**|KuanChao Chu et.al.|[2406.19316v1](http://arxiv.org/abs/2406.19316v1)|[2406.19316v1](http://arxiv.org/pdf/2406.19316v1)|null|
+|**2024-06-27**|**LiveBench: A Challenging, Contamination-Free LLM Benchmark**|Colin White et.al.|[2406.19314v1](http://arxiv.org/abs/2406.19314v1)|[2406.19314v1](http://arxiv.org/pdf/2406.19314v1)|**[link](https://github.com/livebench/livebench)**|
+|**2024-06-27**|**From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data**|Zheyang Xiong et.al.|[2406.19292v1](http://arxiv.org/abs/2406.19292v1)|[2406.19292v1](http://arxiv.org/pdf/2406.19292v1)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[2406.19280v1](http://arxiv.org/pdf/2406.19280v1)|null|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532v1](http://arxiv.org/abs/2406.18532v1)|[2406.18532v1](http://arxiv.org/pdf/2406.18532v1)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets**|Zuxin Liu et.al.|[2406.18518v1](http://arxiv.org/abs/2406.18518v1)|[2406.18518v1](http://arxiv.org/pdf/2406.18518v1)|null|
 |**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505v1](http://arxiv.org/abs/2406.18505v1)|[2406.18505v1](http://arxiv.org/pdf/2406.18505v1)|null|
