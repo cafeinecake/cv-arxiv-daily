@@ -1,13 +1,13 @@
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2024-06-27**|**A Machine Learning Method for Monte Carlo Calculations of Radiative Processes**|William Charles et.al.|[2406.19385v1](http://arxiv.org/abs/2406.19385v1)|[2406.19385v1](http://arxiv.org/pdf/2406.19385v1)|null|
-|**2024-06-27**|**Calibrating and standardizing the Tip of the Red Giant Branch in the Small Magellanic Cloud using small-amplitude red giants**|Nolan W. Koblischke et.al.|[2406.19375v1](http://arxiv.org/abs/2406.19375v1)|[2406.19375v1](http://arxiv.org/pdf/2406.19375v1)|null|
+|**2024-06-27**|**A Machine Learning Method for Monte Carlo Calculations of Radiative Processes**|William Charles et.al.|[2406.19385v1](http://arxiv.org/abs/2406.19385v1)|[2406.19385v1](http://arxiv.org/pdf/2406.19385v1)|**[link](https://github.com/will-charles/nascarp)**|
+|**2024-06-28**|**Calibrating and standardizing the Tip of the Red Giant Branch in the Small Magellanic Cloud using small-amplitude red giants**|Nolan W. Koblischke et.al.|[2406.19375v2](http://arxiv.org/abs/2406.19375v2)|[2406.19375v2](http://arxiv.org/pdf/2406.19375v2)|null|
 |**2024-06-27**|**Integrated Triply Resonant Electro-Optic Frequency Comb in Lithium Tantalate**|Junyin Zhang et.al.|[2406.19368v1](http://arxiv.org/abs/2406.19368v1)|[2406.19368v1](http://arxiv.org/pdf/2406.19368v1)|null|
-|**2024-06-27**|**PUREPath: A Deep Latent Variational Model for Estimating CMB Posterior over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2406.19367v1](http://arxiv.org/abs/2406.19367v1)|[2406.19367v1](http://arxiv.org/pdf/2406.19367v1)|null|
+|**2024-06-28**|**PUREPath: A Deep Latent Variational Model for Estimating CMB Posterior over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2406.19367v2](http://arxiv.org/abs/2406.19367v2)|[2406.19367v2](http://arxiv.org/pdf/2406.19367v2)|null|
 |**2024-06-27**|**A class of ghost-free theories in symmetric teleparallel geometry**|Antonio G. Bello-Morales et.al.|[2406.19355v1](http://arxiv.org/abs/2406.19355v1)|[2406.19355v1](http://arxiv.org/pdf/2406.19355v1)|null|
 |**2024-06-27**|**A Contact Binary Satellite of the Asteroid (152830) Dinkinesh**|Harold F. Levison et.al.|[2406.19337v1](http://arxiv.org/abs/2406.19337v1)|[2406.19337v1](http://arxiv.org/pdf/2406.19337v1)|null|
 |**2024-06-27**|**A Superfluid Dark Matter Cosmic String Wake**|Aline Favero et.al.|[2406.19325v1](http://arxiv.org/abs/2406.19325v1)|[2406.19325v1](http://arxiv.org/pdf/2406.19325v1)|null|
@@ -5056,7 +5056,7 @@
 |**2024-06-27**|**Enhanced Data Transfer Cooperating with Artificial Triplets for Scene Graph Generation**|KuanChao Chu et.al.|[2406.19316v1](http://arxiv.org/abs/2406.19316v1)|[2406.19316v1](http://arxiv.org/pdf/2406.19316v1)|null|
 |**2024-06-27**|**LiveBench: A Challenging, Contamination-Free LLM Benchmark**|Colin White et.al.|[2406.19314v1](http://arxiv.org/abs/2406.19314v1)|[2406.19314v1](http://arxiv.org/pdf/2406.19314v1)|**[link](https://github.com/livebench/livebench)**|
 |**2024-06-27**|**From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data**|Zheyang Xiong et.al.|[2406.19292v1](http://arxiv.org/abs/2406.19292v1)|[2406.19292v1](http://arxiv.org/pdf/2406.19292v1)|null|
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[2406.19280v1](http://arxiv.org/pdf/2406.19280v1)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280v1](http://arxiv.org/abs/2406.19280v1)|[2406.19280v1](http://arxiv.org/pdf/2406.19280v1)|**[link](https://github.com/freedomintelligence/huatuogpt-vision)**|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532v1](http://arxiv.org/abs/2406.18532v1)|[2406.18532v1](http://arxiv.org/pdf/2406.18532v1)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets**|Zuxin Liu et.al.|[2406.18518v1](http://arxiv.org/abs/2406.18518v1)|[2406.18518v1](http://arxiv.org/pdf/2406.18518v1)|null|
 |**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505v1](http://arxiv.org/abs/2406.18505v1)|[2406.18505v1](http://arxiv.org/pdf/2406.18505v1)|null|
