@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-28**|**Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN**|Izzy L. Garland et.al.|[2406.20096v1](http://arxiv.org/abs/2406.20096v1)|[2406.20096v1](http://arxiv.org/pdf/2406.20096v1)|null|
+|**2024-06-28**|**Curbing PBHs with PTAs**|A. J. Iovino et.al.|[2406.20089v1](http://arxiv.org/abs/2406.20089v1)|[2406.20089v1](http://arxiv.org/pdf/2406.20089v1)|null|
+|**2024-06-28**|**The Solar System could have formed in a low-viscosity disc: A dynamical study from giant planet migration to the Nice model**|Philippine Griveaud et.al.|[2406.20075v1](http://arxiv.org/abs/2406.20075v1)|[2406.20075v1](http://arxiv.org/pdf/2406.20075v1)|null|
+|**2024-06-28**|**BYORP and Dissipation in Binary Asteroids: Lessons from DART**|Matija Ćuk et.al.|[2406.20064v1](http://arxiv.org/abs/2406.20064v1)|[2406.20064v1](http://arxiv.org/pdf/2406.20064v1)|null|
+|**2024-06-28**|**Reionization Parameter Inference from 3D Minkowski Functionals of the 21 cm Signals**|Kangning Diao et.al.|[2406.20058v1](http://arxiv.org/abs/2406.20058v1)|[2406.20058v1](http://arxiv.org/pdf/2406.20058v1)|null|
+|**2024-06-28**|**Non-thermal production of heavy vector dark matter from relativistic bubble walls**|Wen-Yuan Ai et.al.|[2406.20051v1](http://arxiv.org/abs/2406.20051v1)|[2406.20051v1](http://arxiv.org/pdf/2406.20051v1)|null|
+|**2024-06-28**|**FAST survey of H I and OH absorption towards extragalactic radio sources**|Yogesh Chandola et.al.|[2406.20026v1](http://arxiv.org/abs/2406.20026v1)|[2406.20026v1](http://arxiv.org/pdf/2406.20026v1)|null|
+|**2024-06-28**|**The Mean Longitudinal Magnetic Field and its Uses in Radial-Velocity Surveys**|F. Rescigno et.al.|[2406.20023v1](http://arxiv.org/abs/2406.20023v1)|[2406.20023v1](http://arxiv.org/pdf/2406.20023v1)|null|
+|**2024-06-28**|**A fast-filament eruption observed in the H$α$ spectral line. I. Imaging spectroscopy diagnostic**|Denis P. Cabezas et.al.|[2406.20020v1](http://arxiv.org/abs/2406.20020v1)|[2406.20020v1](http://arxiv.org/pdf/2406.20020v1)|null|
+|**2024-06-28**|**The MAGPI survey: The interdependence of mass, star formation rate, and metallicity in galaxies at z~0.3**|M. Koller et.al.|[2406.20017v1](http://arxiv.org/abs/2406.20017v1)|[2406.20017v1](http://arxiv.org/pdf/2406.20017v1)|null|
 |**2024-06-27**|**A Machine Learning Method for Monte Carlo Calculations of Radiative Processes**|William Charles et.al.|[2406.19385v1](http://arxiv.org/abs/2406.19385v1)|[2406.19385v1](http://arxiv.org/pdf/2406.19385v1)|**[link](https://github.com/will-charles/nascarp)**|
 |**2024-06-28**|**Calibrating and standardizing the Tip of the Red Giant Branch in the Small Magellanic Cloud using small-amplitude red giants**|Nolan W. Koblischke et.al.|[2406.19375v2](http://arxiv.org/abs/2406.19375v2)|[2406.19375v2](http://arxiv.org/pdf/2406.19375v2)|null|
 |**2024-06-27**|**Integrated Triply Resonant Electro-Optic Frequency Comb in Lithium Tantalate**|Junyin Zhang et.al.|[2406.19368v1](http://arxiv.org/abs/2406.19368v1)|[2406.19368v1](http://arxiv.org/pdf/2406.19368v1)|null|
@@ -5051,6 +5061,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098v1](http://arxiv.org/abs/2406.20098v1)|[2406.20098v1](http://arxiv.org/pdf/2406.20098v1)|**[link](https://github.com/mbzuai-llm/web2code)**|
+|**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095v1](http://arxiv.org/abs/2406.20095v1)|[2406.20095v1](http://arxiv.org/pdf/2406.20095v1)|**[link](https://github.com/lostxine/llara)**|
+|**2024-06-28**|**ProgressGym: Alignment with a Millennium of Moral Progress**|Tianyi Qiu et.al.|[2406.20087v1](http://arxiv.org/abs/2406.20087v1)|[2406.20087v1](http://arxiv.org/pdf/2406.20087v1)|null|
+|**2024-06-28**|**AI for Extreme Event Modeling and Understanding: Methodologies and Challenges**|Gustau Camps-Valls et.al.|[2406.20080v1](http://arxiv.org/abs/2406.20080v1)|[2406.20080v1](http://arxiv.org/pdf/2406.20080v1)|null|
+|**2024-06-28**|**Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**|Anisha Gunjal et.al.|[2406.20079v1](http://arxiv.org/abs/2406.20079v1)|[2406.20079v1](http://arxiv.org/pdf/2406.20079v1)|**[link](https://github.com/anisha2102/molecular_facts)**|
+|**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053v1](http://arxiv.org/abs/2406.20053v1)|[2406.20053v1](http://arxiv.org/pdf/2406.20053v1)|null|
+|**2024-06-28**|**Electrostatics-based particle sampling and approximate inference**|Yongchao Huang et.al.|[2406.20044v1](http://arxiv.org/abs/2406.20044v1)|[2406.20044v1](http://arxiv.org/pdf/2406.20044v1)|**[link](https://github.com/yongchaohuang/eparvi)**|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**|Noel Crawford et.al.|[2406.20041v1](http://arxiv.org/abs/2406.20041v1)|[2406.20041v1](http://arxiv.org/pdf/2406.20041v1)|null|
+|**2024-06-28**|**Pairwise Difference Learning for Classification**|Mohamed Karim Belaid et.al.|[2406.20031v1](http://arxiv.org/abs/2406.20031v1)|[2406.20031v1](http://arxiv.org/pdf/2406.20031v1)|**[link](https://github.com/karim-53/pdll)**|
+|**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015v1](http://arxiv.org/abs/2406.20015v1)|[2406.20015v1](http://arxiv.org/pdf/2406.20015v1)|**[link](https://github.com/toolbehonest/toolbehonest)**|
 |**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384v1](http://arxiv.org/abs/2406.19384v1)|[2406.19384v1](http://arxiv.org/pdf/2406.19384v1)|**[link](https://github.com/vdlad/remarkable-robustness-of-llms)**|
 |**2024-06-27**|**Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space**|Core Francisco Park et.al.|[2406.19370v1](http://arxiv.org/abs/2406.19370v1)|[2406.19370v1](http://arxiv.org/pdf/2406.19370v1)|null|
 |**2024-06-27**|**Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?**|Peter Hase et.al.|[2406.19354v1](http://arxiv.org/abs/2406.19354v1)|[2406.19354v1](http://arxiv.org/pdf/2406.19354v1)|null|
