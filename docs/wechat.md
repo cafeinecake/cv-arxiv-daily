@@ -1,4 +1,4 @@
-> Updated on 2024.07.02
+> Updated on 2024.07.03
 
 ## Astrophysics
 
@@ -5060,7 +5060,7 @@
 - 2024-06-28, **Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**, Anisha Gunjal et.al., Paper: [http://arxiv.org/abs/2406.20079v1](http://arxiv.org/abs/2406.20079v1),Paper: [http://arxiv.org/abs/2406.20079v1](http://arxiv.org/pdf/2406.20079v1), Code: **[https://github.com/anisha2102/molecular_facts](https://github.com/anisha2102/molecular_facts)**
 - 2024-06-28, **Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**, Danny Halawi et.al., Paper: [http://arxiv.org/abs/2406.20053v1](http://arxiv.org/abs/2406.20053v1), Paper: [http://arxiv.org/abs/2406.20053v1](http://arxiv.org/pdf/2406.20053v1)
 - 2024-06-28, **Electrostatics-based particle sampling and approximate inference**, Yongchao Huang et.al., Paper: [http://arxiv.org/abs/2406.20044v1](http://arxiv.org/abs/2406.20044v1),Paper: [http://arxiv.org/abs/2406.20044v1](http://arxiv.org/pdf/2406.20044v1), Code: **[https://github.com/yongchaohuang/eparvi](https://github.com/yongchaohuang/eparvi)**
-- 2024-07-01, **BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**, Noel Crawford et.al., Paper: [http://arxiv.org/abs/2406.20041v2](http://arxiv.org/abs/2406.20041v2), Paper: [http://arxiv.org/abs/2406.20041v2](http://arxiv.org/pdf/2406.20041v2)
+- 2024-07-02, **BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**, Noel Crawford et.al., Paper: [http://arxiv.org/abs/2406.20041v3](http://arxiv.org/abs/2406.20041v3), Paper: [http://arxiv.org/abs/2406.20041v3](http://arxiv.org/pdf/2406.20041v3)
 - 2024-06-28, **Pairwise Difference Learning for Classification**, Mohamed Karim Belaid et.al., Paper: [http://arxiv.org/abs/2406.20031v1](http://arxiv.org/abs/2406.20031v1),Paper: [http://arxiv.org/abs/2406.20031v1](http://arxiv.org/pdf/2406.20031v1), Code: **[https://github.com/karim-53/pdll](https://github.com/karim-53/pdll)**
 - 2024-06-28, **ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**, Yuxiang Zhang et.al., Paper: [http://arxiv.org/abs/2406.20015v1](http://arxiv.org/abs/2406.20015v1),Paper: [http://arxiv.org/abs/2406.20015v1](http://arxiv.org/pdf/2406.20015v1), Code: **[https://github.com/toolbehonest/toolbehonest](https://github.com/toolbehonest/toolbehonest)**
 - 2024-06-27, **The Remarkable Robustness of LLMs: Stages of Inference?**, Vedang Lad et.al., Paper: [http://arxiv.org/abs/2406.19384v1](http://arxiv.org/abs/2406.19384v1),Paper: [http://arxiv.org/abs/2406.19384v1](http://arxiv.org/pdf/2406.19384v1), Code: **[https://github.com/vdlad/remarkable-robustness-of-llms](https://github.com/vdlad/remarkable-robustness-of-llms)**

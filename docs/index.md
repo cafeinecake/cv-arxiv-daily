@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 
 ## Astrophysics
 
@@ -5068,7 +5068,7 @@ layout: default
 |**2024-06-28**|**Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**|Anisha Gunjal et.al.|[2406.20079v1](http://arxiv.org/abs/2406.20079v1)|[2406.20079v1](http://arxiv.org/pdf/2406.20079v1)|**[link](https://github.com/anisha2102/molecular_facts)**|
 |**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053v1](http://arxiv.org/abs/2406.20053v1)|[2406.20053v1](http://arxiv.org/pdf/2406.20053v1)|null|
 |**2024-06-28**|**Electrostatics-based particle sampling and approximate inference**|Yongchao Huang et.al.|[2406.20044v1](http://arxiv.org/abs/2406.20044v1)|[2406.20044v1](http://arxiv.org/pdf/2406.20044v1)|**[link](https://github.com/yongchaohuang/eparvi)**|
-|**2024-07-01**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v2](http://arxiv.org/abs/2406.20041v2)|[2406.20041v2](http://arxiv.org/pdf/2406.20041v2)|null|
+|**2024-07-02**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v3](http://arxiv.org/abs/2406.20041v3)|[2406.20041v3](http://arxiv.org/pdf/2406.20041v3)|null|
 |**2024-06-28**|**Pairwise Difference Learning for Classification**|Mohamed Karim Belaid et.al.|[2406.20031v1](http://arxiv.org/abs/2406.20031v1)|[2406.20031v1](http://arxiv.org/pdf/2406.20031v1)|**[link](https://github.com/karim-53/pdll)**|
 |**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015v1](http://arxiv.org/abs/2406.20015v1)|[2406.20015v1](http://arxiv.org/pdf/2406.20015v1)|**[link](https://github.com/toolbehonest/toolbehonest)**|
 |**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384v1](http://arxiv.org/abs/2406.19384v1)|[2406.19384v1](http://arxiv.org/pdf/2406.19384v1)|**[link](https://github.com/vdlad/remarkable-robustness-of-llms)**|
