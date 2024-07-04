@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-03**|**Aligning Planet-Hosting Binaries via Dissipative Precession in Circumstellar Disks**|Konstantin Gerbig et.al.|[2407.03284v1](http://arxiv.org/abs/2407.03284v1)|[2407.03284v1](http://arxiv.org/pdf/2407.03284v1)|null|
+|**2024-07-03**|**Direct evidence of hybrid nature of EUV waves and the reflection of the fast-mode wave**|Ramesh Chandra et.al.|[2407.03281v1](http://arxiv.org/abs/2407.03281v1)|[2407.03281v1](http://arxiv.org/pdf/2407.03281v1)|null|
+|**2024-07-03**|**Timing of millisecond pulsars in NGC\,6752 -- III. On the presence of non-luminous matter in the cluster's core**|A. Corongiu et.al.|[2407.03271v1](http://arxiv.org/abs/2407.03271v1)|[2407.03271v1](http://arxiv.org/pdf/2407.03271v1)|null|
+|**2024-07-03**|**Ultra-high Frequency Gravitational Waves from Scattering, Bremsstrahlung and Decay during Reheating**|Yong Xu et.al.|[2407.03256v1](http://arxiv.org/abs/2407.03256v1)|[2407.03256v1](http://arxiv.org/pdf/2407.03256v1)|null|
+|**2024-07-03**|**The large-scale structure around the Fornax-Eridanus Complex**|Maria Angela Raj et.al.|[2407.03225v1](http://arxiv.org/abs/2407.03225v1)|[2407.03225v1](http://arxiv.org/pdf/2407.03225v1)|null|
+|**2024-07-03**|**Modelling the BOSS void-galaxy cross-correlation function using a neural-network emulator**|Tristan S. Fraser et.al.|[2407.03221v1](http://arxiv.org/abs/2407.03221v1)|[2407.03221v1](http://arxiv.org/pdf/2407.03221v1)|null|
+|**2024-07-03**|**Measuring cosmic expansion with diffractive gravitational scintillation of nanoHertz gravitational waves**|Dylan L. Jow et.al.|[2407.03214v1](http://arxiv.org/abs/2407.03214v1)|[2407.03214v1](http://arxiv.org/pdf/2407.03214v1)|null|
+|**2024-07-03**|**BOWIE-ALIGN: How formation and migration histories of giant planets impact atmospheric compositions**|Anna B. T. Penzlin et.al.|[2407.03199v1](http://arxiv.org/abs/2407.03199v1)|[2407.03199v1](http://arxiv.org/pdf/2407.03199v1)|null|
+|**2024-07-03**|**BOWIE-ALIGN: A JWST comparative survey of aligned vs misaligned hot Jupiters to test the dependence of atmospheric composition on migration history**|James Kirk et.al.|[2407.03198v1](http://arxiv.org/abs/2407.03198v1)|[2407.03198v1](http://arxiv.org/pdf/2407.03198v1)|null|
+|**2024-07-03**|**On the response of massive main sequence stars to mass accretion and outflow at high rates**|Ealeal Bear et.al.|[2407.03182v1](http://arxiv.org/abs/2407.03182v1)|[2407.03182v1](http://arxiv.org/pdf/2407.03182v1)|null|
 |**2024-07-02**|**Mirages and Large TeV Halo-Pulsar Offsets from Cosmic Ray Propagation**|Yiwei Bao et.al.|[2407.02478v1](http://arxiv.org/abs/2407.02478v1)|[2407.02478v1](http://arxiv.org/pdf/2407.02478v1)|null|
 |**2024-07-02**|**Cubic Galileon Gravity in the CMB**|Gen Ye et.al.|[2407.02471v1](http://arxiv.org/abs/2407.02471v1)|[2407.02471v1](http://arxiv.org/pdf/2407.02471v1)|null|
 |**2024-07-02**|**Neutrinos with refractive masses and the DESI BAO results**|Manibrata Sen et.al.|[2407.02462v1](http://arxiv.org/abs/2407.02462v1)|[2407.02462v1](http://arxiv.org/pdf/2407.02462v1)|null|
@@ -5067,6 +5077,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321v1](http://arxiv.org/abs/2407.03321v1)|[2407.03321v1](http://arxiv.org/pdf/2407.03321v1)|**[link](https://github.com/batsresearch/planetarium)**|
+|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311v1](http://arxiv.org/abs/2407.03311v1)|[2407.03311v1](http://arxiv.org/pdf/2407.03311v1)|null|
+|**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308v1](http://arxiv.org/abs/2407.03308v1)|[2407.03308v1](http://arxiv.org/pdf/2407.03308v1)|null|
+|**2024-07-03**|**Smart City Surveillance Unveiling Indian Person Attributes in Real Time**|Shubham Kale et.al.|[2407.03305v1](http://arxiv.org/abs/2407.03305v1)|[2407.03305v1](http://arxiv.org/pdf/2407.03305v1)|null|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300v1](http://arxiv.org/abs/2407.03300v1)|[2407.03300v1](http://arxiv.org/pdf/2407.03300v1)|null|
+|**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297v1](http://arxiv.org/abs/2407.03297v1)|[2407.03297v1](http://arxiv.org/pdf/2407.03297v1)|null|
+|**2024-07-03**|**VCHAR:Variance-Driven Complex Human Activity Recognition framework with Generative Representation**|Yuan Sun et.al.|[2407.03291v1](http://arxiv.org/abs/2407.03291v1)|[2407.03291v1](http://arxiv.org/pdf/2407.03291v1)|null|
+|**2024-07-03**|**Do Quantum Neural Networks have Simplicity Bias?**|Jessica Pointing et.al.|[2407.03266v1](http://arxiv.org/abs/2407.03266v1)|[2407.03266v1](http://arxiv.org/pdf/2407.03266v1)|null|
+|**2024-07-03**|**TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach**|Weikun Peng et.al.|[2407.03245v1](http://arxiv.org/abs/2407.03245v1)|[2407.03245v1](http://arxiv.org/pdf/2407.03245v1)|null|
+|**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227v1](http://arxiv.org/abs/2407.03227v1)|[2407.03227v1](http://arxiv.org/pdf/2407.03227v1)|null|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489v1](http://arxiv.org/abs/2407.02489v1)|[2407.02489v1](http://arxiv.org/pdf/2407.02489v1)|null|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486v1](http://arxiv.org/abs/2407.02486v1)|[2407.02486v1](http://arxiv.org/pdf/2407.02486v1)|**[link](https://github.com/alisafaya/neurocache)**|
 |**2024-07-02**|**RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs**|Yue Yu et.al.|[2407.02485v1](http://arxiv.org/abs/2407.02485v1)|[2407.02485v1](http://arxiv.org/pdf/2407.02485v1)|null|
