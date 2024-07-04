@@ -1,4 +1,4 @@
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@
 |**2024-07-02**|**Geophysical Observations of the 24 September 2023 OSIRIS-REx Sample Return Capsule Re-Entry**|Elizabeth A. Silber et.al.|[2407.02420v1](http://arxiv.org/abs/2407.02420v1)|[2407.02420v1](http://arxiv.org/pdf/2407.02420v1)|null|
 |**2024-07-02**|**The influence of the 3D Galactic gas structure on cosmic-ray transport and gamma-ray emission**|Andrés Ramírez et.al.|[2407.02410v1](http://arxiv.org/abs/2407.02410v1)|[2407.02410v1](http://arxiv.org/pdf/2407.02410v1)|null|
 |**2024-07-02**|**Vector-like Quark Stabilised Higgs Inflation: Implications for Particle Phenomenology, Primordial Gravitational Waves and the Hubble Tension**|John McDonald et.al.|[2407.02399v1](http://arxiv.org/abs/2407.02399v1)|[2407.02399v1](http://arxiv.org/pdf/2407.02399v1)|null|
-|**2024-07-02**|**A neural networks method to search for long transient gravitational waves**|Francesca Attadio et.al.|[2407.02391v1](http://arxiv.org/abs/2407.02391v1)|[2407.02391v1](http://arxiv.org/pdf/2407.02391v1)|null|
+|**2024-07-03**|**A neural networks method to search for long transient gravitational waves**|Francesca Attadio et.al.|[2407.02391v2](http://arxiv.org/abs/2407.02391v2)|[2407.02391v2](http://arxiv.org/pdf/2407.02391v2)|null|
 |**2024-07-02**|**A new subclass of gamma-ray burst originating from compact binary merger**|Chen-Wei Wang et.al.|[2407.02376v1](http://arxiv.org/abs/2407.02376v1)|[2407.02376v1](http://arxiv.org/pdf/2407.02376v1)|null|
 |**2024-06-28**|**Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN**|Izzy L. Garland et.al.|[2406.20096v1](http://arxiv.org/abs/2406.20096v1)|[2406.20096v1](http://arxiv.org/pdf/2406.20096v1)|null|
 |**2024-06-28**|**Curbing PBHs with PTAs**|A. J. Iovino et.al.|[2406.20089v1](http://arxiv.org/abs/2406.20089v1)|[2406.20089v1](http://arxiv.org/pdf/2406.20089v1)|null|
@@ -5073,7 +5073,7 @@
 |**2024-07-02**|**Characterizing the Interpretability of Attention Maps in Digital Pathology**|Tomé Albuquerque et.al.|[2407.02484v1](http://arxiv.org/abs/2407.02484v1)|[2407.02484v1](http://arxiv.org/pdf/2407.02484v1)|null|
 |**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483v1](http://arxiv.org/abs/2407.02483v1)|[2407.02483v1](http://arxiv.org/pdf/2407.02483v1)|null|
 |**2024-07-02**|**Free Energy in a Circumplex Model of Emotion**|Candice Pattisapu et.al.|[2407.02474v1](http://arxiv.org/abs/2407.02474v1)|[2407.02474v1](http://arxiv.org/pdf/2407.02474v1)|null|
-|**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v1](http://arxiv.org/abs/2407.02466v1)|[2407.02466v1](http://arxiv.org/pdf/2407.02466v1)|null|
+|**2024-07-03**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v2](http://arxiv.org/abs/2407.02466v2)|[2407.02466v2](http://arxiv.org/pdf/2407.02466v2)|null|
 |**2024-07-02**|**Belief sharing: a blessing or a curse**|Ozan Catal et.al.|[2407.02465v1](http://arxiv.org/abs/2407.02465v1)|[2407.02465v1](http://arxiv.org/pdf/2407.02465v1)|null|
 |**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464v1](http://arxiv.org/abs/2407.02464v1)|[2407.02464v1](http://arxiv.org/pdf/2407.02464v1)|null|
 |**2024-07-02**|**Quantum collective motion of macroscopic mechanical oscillators**|Mahdi Chegnizadeh et.al.|[2407.02453v1](http://arxiv.org/abs/2407.02453v1)|[2407.02453v1](http://arxiv.org/pdf/2407.02453v1)|null|
