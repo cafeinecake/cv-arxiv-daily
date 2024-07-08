@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-05**|**Stellar Metallicities and Gradients in the Faint M31 Satellites Andromeda XVI and Andromeda XXVIII**|Sal Wanying Fu et.al.|[2407.04698v1](http://arxiv.org/abs/2407.04698v1)|[2407.04698v1](http://arxiv.org/pdf/2407.04698v1)|null|
+|**2024-07-05**|**Eigen-decomposition of Covariance matrices: An application to the BAO Linear Point**|Jaemyoung Jason Lee et.al.|[2407.04692v1](http://arxiv.org/abs/2407.04692v1)|[2407.04692v1](http://arxiv.org/pdf/2407.04692v1)|null|
+|**2024-07-05**|**The miscibility of hydrogen and water in planetary atmospheres and interiors**|Akash Gupta et.al.|[2407.04685v1](http://arxiv.org/abs/2407.04685v1)|[2407.04685v1](http://arxiv.org/pdf/2407.04685v1)|null|
+|**2024-07-05**|**Investigating the Mass of the Black Hole and Possible Wind Outflow of the Accretion Disk in the Tidal Disruption Event AT2021ehb**|Xin Xiang et.al.|[2407.04684v1](http://arxiv.org/abs/2407.04684v1)|[2407.04684v1](http://arxiv.org/pdf/2407.04684v1)|null|
+|**2024-07-05**|**The TROY project III. Exploring co-orbitals around low-mass stars**|O. Balsalobre-Ruza et.al.|[2407.04677v1](http://arxiv.org/abs/2407.04677v1)|[2407.04677v1](http://arxiv.org/pdf/2407.04677v1)|null|
+|**2024-07-05**|**Two methods to analyse radial diffusion ensembles: the peril of space- and time- dependent diffusion**|Sarah N. Bentley et.al.|[2407.04669v1](http://arxiv.org/abs/2407.04669v1)|[2407.04669v1](http://arxiv.org/pdf/2407.04669v1)|null|
+|**2024-07-05**|**MIRI MRS Observations of Beta Pictoris II. The Spectroscopic Case for a Recent Giant Collision**|Christine H. Chen et.al.|[2407.04661v1](http://arxiv.org/abs/2407.04661v1)|[2407.04661v1](http://arxiv.org/pdf/2407.04661v1)|null|
+|**2024-07-05**|**COBRA: Optimal Factorization of Cosmological Observables**|Thomas Bakx et.al.|[2407.04660v1](http://arxiv.org/abs/2407.04660v1)|[2407.04660v1](http://arxiv.org/pdf/2407.04660v1)|null|
+|**2024-07-05**|**TDiff-fuelled cosmic magnetic fields**|Antonio L. Maroto et.al.|[2407.04647v1](http://arxiv.org/abs/2407.04647v1)|[2407.04647v1](http://arxiv.org/pdf/2407.04647v1)|null|
+|**2024-07-05**|**Thermal and mechanical study of a parametrised cryostat model for optical characterisation of upcoming CMB experiments**|Thomas J. L. J. Gascard et.al.|[2407.04613v1](http://arxiv.org/abs/2407.04613v1)|[2407.04613v1](http://arxiv.org/pdf/2407.04613v1)|null|
 |**2024-07-03**|**Aligning Planet-Hosting Binaries via Dissipative Precession in Circumstellar Disks**|Konstantin Gerbig et.al.|[2407.03284v1](http://arxiv.org/abs/2407.03284v1)|[2407.03284v1](http://arxiv.org/pdf/2407.03284v1)|null|
 |**2024-07-03**|**Direct evidence of hybrid nature of EUV waves and the reflection of the fast-mode wave**|Ramesh Chandra et.al.|[2407.03281v1](http://arxiv.org/abs/2407.03281v1)|[2407.03281v1](http://arxiv.org/pdf/2407.03281v1)|null|
 |**2024-07-03**|**Timing of millisecond pulsars in NGC\,6752 -- III. On the presence of non-luminous matter in the cluster's core**|A. Corongiu et.al.|[2407.03271v1](http://arxiv.org/abs/2407.03271v1)|[2407.03271v1](http://arxiv.org/pdf/2407.03271v1)|null|
@@ -5077,6 +5087,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|[2407.04699v1](http://arxiv.org/pdf/2407.04699v1)|null|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|[2407.04694v1](http://arxiv.org/pdf/2407.04694v1)|null|
+|**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693v1](http://arxiv.org/abs/2407.04693v1)|[2407.04693v1](http://arxiv.org/pdf/2407.04693v1)|null|
+|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681v1](http://arxiv.org/abs/2407.04681v1)|[2407.04681v1](http://arxiv.org/pdf/2407.04681v1)|null|
+|**2024-07-05**|**Lost in Translation: The Algorithmic Gap Between LMs and the Brain**|Tommaso Tosato et.al.|[2407.04680v1](http://arxiv.org/abs/2407.04680v1)|[2407.04680v1](http://arxiv.org/pdf/2407.04680v1)|null|
+|**2024-07-05**|**XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi**|Chenliang Zhou et.al.|[2407.04678v1](http://arxiv.org/abs/2407.04678v1)|[2407.04678v1](http://arxiv.org/pdf/2407.04678v1)|null|
+|**2024-07-05**|**Is plantar thermography a valid digital biomarker for characterising diabetic foot ulceration risk?**|Akshay Jagadeesh et.al.|[2407.04676v1](http://arxiv.org/abs/2407.04676v1)|[2407.04676v1](http://arxiv.org/pdf/2407.04676v1)|null|
+|**2024-07-05**|**Efficient Materials Informatics between Rockets and Electrons**|Adam M. Krajewski et.al.|[2407.04648v1](http://arxiv.org/abs/2407.04648v1)|[2407.04648v1](http://arxiv.org/pdf/2407.04648v1)|null|
+|**2024-07-05**|**Strongly consistent low-dissipation WENO schemes for finite elements**|Joshua Vedral et.al.|[2407.04646v1](http://arxiv.org/abs/2407.04646v1)|[2407.04646v1](http://arxiv.org/pdf/2407.04646v1)|null|
+|**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629v1](http://arxiv.org/abs/2407.04629v1)|[2407.04629v1](http://arxiv.org/pdf/2407.04629v1)|null|
 |**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321v1](http://arxiv.org/abs/2407.03321v1)|[2407.03321v1](http://arxiv.org/pdf/2407.03321v1)|**[link](https://github.com/batsresearch/planetarium)**|
 |**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311v1](http://arxiv.org/abs/2407.03311v1)|[2407.03311v1](http://arxiv.org/pdf/2407.03311v1)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308v1](http://arxiv.org/abs/2407.03308v1)|[2407.03308v1](http://arxiv.org/pdf/2407.03308v1)|**[link](https://github.com/minipuding/fastmrt)**|
