@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 
 ## Astrophysics
 
@@ -15,7 +15,7 @@ layout: default
 |**2024-07-03**|**The large-scale structure around the Fornax-Eridanus Complex**|Maria Angela Raj et.al.|[2407.03225v1](http://arxiv.org/abs/2407.03225v1)|[2407.03225v1](http://arxiv.org/pdf/2407.03225v1)|null|
 |**2024-07-03**|**Modelling the BOSS void-galaxy cross-correlation function using a neural-network emulator**|Tristan S. Fraser et.al.|[2407.03221v1](http://arxiv.org/abs/2407.03221v1)|[2407.03221v1](http://arxiv.org/pdf/2407.03221v1)|null|
 |**2024-07-03**|**Measuring cosmic expansion with diffractive gravitational scintillation of nanoHertz gravitational waves**|Dylan L. Jow et.al.|[2407.03214v1](http://arxiv.org/abs/2407.03214v1)|[2407.03214v1](http://arxiv.org/pdf/2407.03214v1)|null|
-|**2024-07-03**|**BOWIE-ALIGN: How formation and migration histories of giant planets impact atmospheric compositions**|Anna B. T. Penzlin et.al.|[2407.03199v1](http://arxiv.org/abs/2407.03199v1)|[2407.03199v1](http://arxiv.org/pdf/2407.03199v1)|null|
+|**2024-07-04**|**BOWIE-ALIGN: How formation and migration histories of giant planets impact atmospheric compositions**|Anna B. T. Penzlin et.al.|[2407.03199v2](http://arxiv.org/abs/2407.03199v2)|[2407.03199v2](http://arxiv.org/pdf/2407.03199v2)|null|
 |**2024-07-03**|**BOWIE-ALIGN: A JWST comparative survey of aligned vs misaligned hot Jupiters to test the dependence of atmospheric composition on migration history**|James Kirk et.al.|[2407.03198v1](http://arxiv.org/abs/2407.03198v1)|[2407.03198v1](http://arxiv.org/pdf/2407.03198v1)|null|
 |**2024-07-03**|**On the response of massive main sequence stars to mass accretion and outflow at high rates**|Ealeal Bear et.al.|[2407.03182v1](http://arxiv.org/abs/2407.03182v1)|[2407.03182v1](http://arxiv.org/pdf/2407.03182v1)|null|
 |**2024-07-02**|**Mirages and Large TeV Halo-Pulsar Offsets from Cosmic Ray Propagation**|Yiwei Bao et.al.|[2407.02478v1](http://arxiv.org/abs/2407.02478v1)|[2407.02478v1](http://arxiv.org/pdf/2407.02478v1)|null|
@@ -5089,7 +5089,7 @@ layout: default
 |**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297v1](http://arxiv.org/abs/2407.03297v1)|[2407.03297v1](http://arxiv.org/pdf/2407.03297v1)|null|
 |**2024-07-03**|**VCHAR:Variance-Driven Complex Human Activity Recognition framework with Generative Representation**|Yuan Sun et.al.|[2407.03291v1](http://arxiv.org/abs/2407.03291v1)|[2407.03291v1](http://arxiv.org/pdf/2407.03291v1)|null|
 |**2024-07-03**|**Do Quantum Neural Networks have Simplicity Bias?**|Jessica Pointing et.al.|[2407.03266v1](http://arxiv.org/abs/2407.03266v1)|[2407.03266v1](http://arxiv.org/pdf/2407.03266v1)|null|
-|**2024-07-03**|**TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach**|Weikun Peng et.al.|[2407.03245v1](http://arxiv.org/abs/2407.03245v1)|[2407.03245v1](http://arxiv.org/pdf/2407.03245v1)|null|
+|**2024-07-04**|**TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach**|Weikun Peng et.al.|[2407.03245v2](http://arxiv.org/abs/2407.03245v2)|[2407.03245v2](http://arxiv.org/pdf/2407.03245v2)|null|
 |**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227v1](http://arxiv.org/abs/2407.03227v1)|[2407.03227v1](http://arxiv.org/pdf/2407.03227v1)|null|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489v1](http://arxiv.org/abs/2407.02489v1)|[2407.02489v1](http://arxiv.org/pdf/2407.02489v1)|null|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486v1](http://arxiv.org/abs/2407.02486v1)|[2407.02486v1](http://arxiv.org/pdf/2407.02486v1)|**[link](https://github.com/alisafaya/neurocache)**|
