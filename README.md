@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-08**|**Inevitable Endgame of Comet Tsuchinshan-ATLAS (C/2023 A3)**|Zdenek Sekanina et.al.|[2407.06166v1](http://arxiv.org/abs/2407.06166v1)|[2407.06166v1](http://arxiv.org/pdf/2407.06166v1)|null|
+|**2024-07-08**|**Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet**|Guangwei Fu et.al.|[2407.06163v1](http://arxiv.org/abs/2407.06163v1)|[2407.06163v1](http://arxiv.org/pdf/2407.06163v1)|null|
+|**2024-07-08**|**Hard X-rays from the deep solar atmosphere: An unusual UV burst with flare properties**|L. P. Chitta et.al.|[2407.06140v1](http://arxiv.org/abs/2407.06140v1)|[2407.06140v1](http://arxiv.org/pdf/2407.06140v1)|null|
+|**2024-07-08**|**Polytropic Gas Effects in Parker's Solar Wind Model and Coronal Hole Flows**|B. K. Shivamoggi et.al.|[2407.06122v1](http://arxiv.org/abs/2407.06122v1)|[2407.06122v1](http://arxiv.org/pdf/2407.06122v1)|null|
+|**2024-07-08**|**Unveiling Neutrino Masses: Insights from Robust (e)BOSS Data Analysis and Prospects for DESI and Beyond**|Hernan E. Noriega et.al.|[2407.06117v1](http://arxiv.org/abs/2407.06117v1)|[2407.06117v1](http://arxiv.org/pdf/2407.06117v1)|null|
+|**2024-07-08**|**Characterisation of the Warm-Jupiter TOI-1130 system with CHEOPS and photo-dynamical approach**|L. Borsato et.al.|[2407.06097v1](http://arxiv.org/abs/2407.06097v1)|[2407.06097v1](http://arxiv.org/pdf/2407.06097v1)|null|
+|**2024-07-08**|**Revisiting the Ultraviolet Tail of the Primordial Gravitational Wave**|Shi Pi et.al.|[2407.06066v1](http://arxiv.org/abs/2407.06066v1)|[2407.06066v1](http://arxiv.org/pdf/2407.06066v1)|null|
+|**2024-07-08**|**Effects of stratification on overshooting and waves atop the convective core of $5M_{\odot}$ main-sequence stars**|Adrien Morison et.al.|[2407.06047v1](http://arxiv.org/abs/2407.06047v1)|[2407.06047v1](http://arxiv.org/pdf/2407.06047v1)|null|
+|**2024-07-08**|**Argon in beta Pictoris -- entrapment and release of volatile in disks**|Yanqin Wu et.al.|[2407.06035v1](http://arxiv.org/abs/2407.06035v1)|[2407.06035v1](http://arxiv.org/pdf/2407.06035v1)|null|
+|**2024-07-08**|**A generalized method of constraining Warm Inflation with CMB data**|Umang Kumar et.al.|[2407.06032v1](http://arxiv.org/abs/2407.06032v1)|[2407.06032v1](http://arxiv.org/pdf/2407.06032v1)|null|
 |**2024-07-05**|**Stellar Metallicities and Gradients in the Faint M31 Satellites Andromeda XVI and Andromeda XXVIII**|Sal Wanying Fu et.al.|[2407.04698v1](http://arxiv.org/abs/2407.04698v1)|[2407.04698v1](http://arxiv.org/pdf/2407.04698v1)|null|
 |**2024-07-05**|**Eigen-decomposition of Covariance matrices: An application to the BAO Linear Point**|Jaemyoung Jason Lee et.al.|[2407.04692v1](http://arxiv.org/abs/2407.04692v1)|[2407.04692v1](http://arxiv.org/pdf/2407.04692v1)|null|
 |**2024-07-05**|**The miscibility of hydrogen and water in planetary atmospheres and interiors**|Akash Gupta et.al.|[2407.04685v1](http://arxiv.org/abs/2407.04685v1)|[2407.04685v1](http://arxiv.org/pdf/2407.04685v1)|null|
@@ -5087,6 +5097,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192v1](http://arxiv.org/abs/2407.06192v1)|[2407.06192v1](http://arxiv.org/pdf/2407.06192v1)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|[2407.06189v1](http://arxiv.org/pdf/2407.06189v1)|null|
+|**2024-07-08**|**Vision-Language Models under Cultural and Inclusive Considerations**|Antonia Karamolegkou et.al.|[2407.06177v1](http://arxiv.org/abs/2407.06177v1)|[2407.06177v1](http://arxiv.org/pdf/2407.06177v1)|null|
+|**2024-07-08**|**On Speeding Up Language Model Evaluation**|Jin Peng Zhou et.al.|[2407.06172v1](http://arxiv.org/abs/2407.06172v1)|[2407.06172v1](http://arxiv.org/pdf/2407.06172v1)|null|
+|**2024-07-08**|**Uni-ELF: A Multi-Level Representation Learning Framework for Electrolyte Formulation Design**|Boshen Zeng et.al.|[2407.06152v1](http://arxiv.org/abs/2407.06152v1)|[2407.06152v1](http://arxiv.org/pdf/2407.06152v1)|null|
+|**2024-07-08**|**Using Grammar Masking to Ensure Syntactic Validity in LLM-based Modeling Tasks**|Lukas Netz et.al.|[2407.06146v1](http://arxiv.org/abs/2407.06146v1)|[2407.06146v1](http://arxiv.org/pdf/2407.06146v1)|null|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135v1](http://arxiv.org/abs/2407.06135v1)|[2407.06135v1](http://arxiv.org/pdf/2407.06135v1)|**[link](https://github.com/gair-nlp/anole)**|
+|**2024-07-08**|**Real Space Imaging of Field-Driven Decision-Making in Nanomagnetic Galton Boards**|Hanu Arava et.al.|[2407.06130v1](http://arxiv.org/abs/2407.06130v1)|[2407.06130v1](http://arxiv.org/pdf/2407.06130v1)|null|
+|**2024-07-08**|**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**|Hannah K. Bako et.al.|[2407.06129v1](http://arxiv.org/abs/2407.06129v1)|[2407.06129v1](http://arxiv.org/pdf/2407.06129v1)|null|
+|**2024-07-08**|**Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities**|Avinash Anand et.al.|[2407.06125v1](http://arxiv.org/abs/2407.06125v1)|[2407.06125v1](http://arxiv.org/pdf/2407.06125v1)|null|
 |**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|[2407.04699v1](http://arxiv.org/pdf/2407.04699v1)|null|
 |**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|[2407.04694v1](http://arxiv.org/pdf/2407.04694v1)|null|
 |**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693v1](http://arxiv.org/abs/2407.04693v1)|[2407.04693v1](http://arxiv.org/pdf/2407.04693v1)|null|
