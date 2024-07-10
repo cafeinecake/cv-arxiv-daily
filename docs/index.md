@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-09**|**General Relativistic effects and the NIR variability of Sgr A* II: A systematic approach to temporal asymmetry**|Sebastiano D. von Fellenberg et.al.|[2407.07091v1](http://arxiv.org/abs/2407.07091v1)|[2407.07091v1](http://arxiv.org/pdf/2407.07091v1)|null|
+|**2024-07-09**|**Pathways to Interstellar Amides via Carbamoyl (NH2CO) Isomers by Radical-Neutral Reactions on Ice Grain Mantles**|Gabriela Silva-Vera et.al.|[2407.07081v1](http://arxiv.org/abs/2407.07081v1)|[2407.07081v1](http://arxiv.org/pdf/2407.07081v1)|null|
+|**2024-07-09**|**Competition of magnetic reconnections in self-generated and external magnetic fields**|K. Sakai et.al.|[2407.07075v1](http://arxiv.org/abs/2407.07075v1)|[2407.07075v1](http://arxiv.org/pdf/2407.07075v1)|null|
+|**2024-07-09**|**Ba Enrichment in Gaia MS+WD Binaries: Tracing $s$-Process Element Production**|Param Rekhi et.al.|[2407.07048v1](http://arxiv.org/abs/2407.07048v1)|[2407.07048v1](http://arxiv.org/pdf/2407.07048v1)|null|
+|**2024-07-09**|**The First VHE Activity of OJ 287 and the Extragalactic Background Light**|Sameer Yadav et.al.|[2407.07047v1](http://arxiv.org/abs/2407.07047v1)|[2407.07047v1](http://arxiv.org/pdf/2407.07047v1)|null|
+|**2024-07-09**|**The curvature dependence of gravitational-wave tests of General Relativity**|Ethan Payne et.al.|[2407.07043v1](http://arxiv.org/abs/2407.07043v1)|[2407.07043v1](http://arxiv.org/pdf/2407.07043v1)|null|
+|**2024-07-09**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013v1](http://arxiv.org/abs/2407.07013v1)|[2407.07013v1](http://arxiv.org/pdf/2407.07013v1)|null|
+|**2024-07-09**|**Generative models of astrophysical fields with scattering transforms on the sphere**|Louise Mousset et.al.|[2407.07007v1](http://arxiv.org/abs/2407.07007v1)|[2407.07007v1](http://arxiv.org/pdf/2407.07007v1)|null|
+|**2024-07-09**|**A local infall from a cosmographic analysis of Pantheon+**|Francesco Sorrenti et.al.|[2407.07002v1](http://arxiv.org/abs/2407.07002v1)|[2407.07002v1](http://arxiv.org/pdf/2407.07002v1)|null|
+|**2024-07-09**|**The Evolution of Accreting Population III Stars at 10$^{-6}$ - 10$^3$ M$_\odot$/yr**|Devesh Nandal et.al.|[2407.06994v1](http://arxiv.org/abs/2407.06994v1)|[2407.06994v1](http://arxiv.org/pdf/2407.06994v1)|null|
 |**2024-07-08**|**Inevitable Endgame of Comet Tsuchinshan-ATLAS (C/2023 A3)**|Zdenek Sekanina et.al.|[2407.06166v1](http://arxiv.org/abs/2407.06166v1)|[2407.06166v1](http://arxiv.org/pdf/2407.06166v1)|null|
 |**2024-07-08**|**Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet**|Guangwei Fu et.al.|[2407.06163v1](http://arxiv.org/abs/2407.06163v1)|[2407.06163v1](http://arxiv.org/pdf/2407.06163v1)|null|
 |**2024-07-08**|**Hard X-rays from the deep solar atmosphere: An unusual UV burst with flare properties**|L. P. Chitta et.al.|[2407.06140v1](http://arxiv.org/abs/2407.06140v1)|[2407.06140v1](http://arxiv.org/pdf/2407.06140v1)|null|
@@ -5101,6 +5111,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-09**|**AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning**|Jiaxi Cui et.al.|[2407.07094v1](http://arxiv.org/abs/2407.07094v1)|[2407.07094v1](http://arxiv.org/pdf/2407.07094v1)|**[link](https://github.com/pandavt/datatager)**|
+|**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093v1](http://arxiv.org/abs/2407.07093v1)|[2407.07093v1](http://arxiv.org/pdf/2407.07093v1)|**[link](https://github.com/liqunma/fbi-llm)**|
+|**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092v1](http://arxiv.org/abs/2407.07092v1)|[2407.07092v1](http://arxiv.org/pdf/2407.07092v1)|null|
+|**2024-07-09**|**Safe and Reliable Training of Learning-Based Aerospace Controllers**|Udayan Mandal et.al.|[2407.07088v1](http://arxiv.org/abs/2407.07088v1)|[2407.07088v1](http://arxiv.org/pdf/2407.07088v1)|null|
+|**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086v1](http://arxiv.org/abs/2407.07086v1)|[2407.07086v1](http://arxiv.org/pdf/2407.07086v1)|**[link](https://github.com/locross93/hypothetical-minds)**|
+|**2024-07-09**|**Can Learned Optimization Make Reinforcement Learning Less Difficult?**|Alexander David Goldie et.al.|[2407.07082v1](http://arxiv.org/abs/2407.07082v1)|[2407.07082v1](http://arxiv.org/pdf/2407.07082v1)|**[link](https://github.com/alexgoldie/rl-learned-optimization)**|
+|**2024-07-09**|**MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images**|Ziyang Xu et.al.|[2407.07078v1](http://arxiv.org/abs/2407.07078v1)|[2407.07078v1](http://arxiv.org/pdf/2407.07078v1)|**[link](https://github.com/ZyoungXu/MoSt-DSA)**|
+|**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077v1](http://arxiv.org/abs/2407.07077v1)|[2407.07077v1](http://arxiv.org/pdf/2407.07077v1)|**[link](https://github.com/haoosz/conceptexpress)**|
+|**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071v1](http://arxiv.org/abs/2407.07071v1)|[2407.07071v1](http://arxiv.org/pdf/2407.07071v1)|**[link](https://github.com/voidism/lookback-lens)**|
+|**2024-07-09**|**Prompting Techniques for Secure Code Generation: A Systematic Investigation**|Catherine Tony et.al.|[2407.07064v1](http://arxiv.org/abs/2407.07064v1)|[2407.07064v1](http://arxiv.org/pdf/2407.07064v1)|null|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192v1](http://arxiv.org/abs/2407.06192v1)|[2407.06192v1](http://arxiv.org/pdf/2407.06192v1)|null|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|[2407.06189v1](http://arxiv.org/pdf/2407.06189v1)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**Vision-Language Models under Cultural and Inclusive Considerations**|Antonia Karamolegkou et.al.|[2407.06177v1](http://arxiv.org/abs/2407.06177v1)|[2407.06177v1](http://arxiv.org/pdf/2407.06177v1)|null|
