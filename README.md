@@ -1,4 +1,4 @@
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 ## Astrophysics
 
@@ -5098,14 +5098,14 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192v1](http://arxiv.org/abs/2407.06192v1)|[2407.06192v1](http://arxiv.org/pdf/2407.06192v1)|null|
-|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|[2407.06189v1](http://arxiv.org/pdf/2407.06189v1)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|[2407.06189v1](http://arxiv.org/pdf/2407.06189v1)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**Vision-Language Models under Cultural and Inclusive Considerations**|Antonia Karamolegkou et.al.|[2407.06177v1](http://arxiv.org/abs/2407.06177v1)|[2407.06177v1](http://arxiv.org/pdf/2407.06177v1)|null|
 |**2024-07-08**|**On Speeding Up Language Model Evaluation**|Jin Peng Zhou et.al.|[2407.06172v1](http://arxiv.org/abs/2407.06172v1)|[2407.06172v1](http://arxiv.org/pdf/2407.06172v1)|null|
 |**2024-07-08**|**Uni-ELF: A Multi-Level Representation Learning Framework for Electrolyte Formulation Design**|Boshen Zeng et.al.|[2407.06152v1](http://arxiv.org/abs/2407.06152v1)|[2407.06152v1](http://arxiv.org/pdf/2407.06152v1)|null|
-|**2024-07-08**|**Using Grammar Masking to Ensure Syntactic Validity in LLM-based Modeling Tasks**|Lukas Netz et.al.|[2407.06146v1](http://arxiv.org/abs/2407.06146v1)|[2407.06146v1](http://arxiv.org/pdf/2407.06146v1)|null|
+|**2024-07-09**|**Using Grammar Masking to Ensure Syntactic Validity in LLM-based Modeling Tasks**|Lukas Netz et.al.|[2407.06146v2](http://arxiv.org/abs/2407.06146v2)|[2407.06146v2](http://arxiv.org/pdf/2407.06146v2)|null|
 |**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135v1](http://arxiv.org/abs/2407.06135v1)|[2407.06135v1](http://arxiv.org/pdf/2407.06135v1)|**[link](https://github.com/gair-nlp/anole)**|
 |**2024-07-08**|**Real Space Imaging of Field-Driven Decision-Making in Nanomagnetic Galton Boards**|Hanu Arava et.al.|[2407.06130v1](http://arxiv.org/abs/2407.06130v1)|[2407.06130v1](http://arxiv.org/pdf/2407.06130v1)|null|
-|**2024-07-08**|**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**|Hannah K. Bako et.al.|[2407.06129v1](http://arxiv.org/abs/2407.06129v1)|[2407.06129v1](http://arxiv.org/pdf/2407.06129v1)|null|
+|**2024-07-09**|**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**|Hannah K. Bako et.al.|[2407.06129v2](http://arxiv.org/abs/2407.06129v2)|[2407.06129v2](http://arxiv.org/pdf/2407.06129v2)|**[link](https://github.com/hdi-umd/semantic_profiling_llm_evaluation)**|
 |**2024-07-08**|**Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities**|Avinash Anand et.al.|[2407.06125v1](http://arxiv.org/abs/2407.06125v1)|[2407.06125v1](http://arxiv.org/pdf/2407.06125v1)|null|
 |**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|[2407.04699v1](http://arxiv.org/pdf/2407.04699v1)|null|
 |**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|[2407.04694v1](http://arxiv.org/pdf/2407.04694v1)|null|
