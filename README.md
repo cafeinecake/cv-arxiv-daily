@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-11**|**Elevated $p_{\rm astro}$: increased significances with multi-messenger coincidences**|Doğa Veske et.al.|[2407.08732v1](http://arxiv.org/abs/2407.08732v1)|[2407.08732v1](http://arxiv.org/pdf/2407.08732v1)|null|
+|**2024-07-11**|**Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys**|Samuel Goldstein et.al.|[2407.08731v1](http://arxiv.org/abs/2407.08731v1)|[2407.08731v1](http://arxiv.org/pdf/2407.08731v1)|null|
+|**2024-07-11**|**The Potential Impact of Noise Correlation in Next-generation Gravitational Wave Detectors**|Isaac C. F. Wong et.al.|[2407.08728v1](http://arxiv.org/abs/2407.08728v1)|[2407.08728v1](http://arxiv.org/pdf/2407.08728v1)|null|
+|**2024-07-11**|**The Impact of Astrophysical Priors on Parameter Inference for GW230529**|Debatri Chattopadhyay et.al.|[2407.08719v1](http://arxiv.org/abs/2407.08719v1)|[2407.08719v1](http://arxiv.org/pdf/2407.08719v1)|null|
+|**2024-07-11**|**The exact non-Gaussian weak lensing likelihood: A framework to calculate analytic likelihoods for correlation functions on masked Gaussian random fields**|Veronika Oehl et.al.|[2407.08718v1](http://arxiv.org/abs/2407.08718v1)|[2407.08718v1](http://arxiv.org/pdf/2407.08718v1)|null|
+|**2024-07-11**|**Detecting Gravitational Wave Anisotropies from Supermassive Black Hole Binaries**|Anna-Malin Lemke et.al.|[2407.08705v1](http://arxiv.org/abs/2407.08705v1)|[2407.08705v1](http://arxiv.org/pdf/2407.08705v1)|null|
+|**2024-07-11**|**Physics, scientific investigation and society in Argentina, 1930-1940**|Alejandro Gangui et.al.|[2407.08698v1](http://arxiv.org/abs/2407.08698v1)|[2407.08698v1](http://arxiv.org/pdf/2407.08698v1)|null|
+|**2024-07-11**|**Scattering transforms on the sphere, application to large scale structure modelling**|Louise Mousset et.al.|[2407.08687v1](http://arxiv.org/abs/2407.08687v1)|[2407.08687v1](http://arxiv.org/pdf/2407.08687v1)|null|
+|**2024-07-11**|**Non-universal SUSY models, $g_μ-2$, $m_H$ and dark matter**|John Ellis et.al.|[2407.08679v1](http://arxiv.org/abs/2407.08679v1)|[2407.08679v1](http://arxiv.org/pdf/2407.08679v1)|null|
+|**2024-07-11**|**An infrared census of R Coronae Borealis Stars II -- Spectroscopic classifications and implications for the rate of low-mass white dwarf mergers**|Viraj R. Karambelkar et.al.|[2407.08653v1](http://arxiv.org/abs/2407.08653v1)|[2407.08653v1](http://arxiv.org/pdf/2407.08653v1)|null|
 |**2024-07-10**|**The Cosmological Preference for Negative Neutrino Mass**|Daniel Green et.al.|[2407.07878v1](http://arxiv.org/abs/2407.07878v1)|[2407.07878v1](http://arxiv.org/pdf/2407.07878v1)|null|
 |**2024-07-10**|**High-resolution Elemental Abundance Measurements of Cool JWST Planet Hosts Using AutoSpecFit: An Application to the Sub-Neptune K2-18b's Host M dwarf**|Neda Hejazi et.al.|[2407.07869v1](http://arxiv.org/abs/2407.07869v1)|[2407.07869v1](http://arxiv.org/pdf/2407.07869v1)|null|
 |**2024-07-10**|**Intensity-sensitive quality assessment of extended sources in astronomical images**|X. Li et.al.|[2407.07863v1](http://arxiv.org/abs/2407.07863v1)|[2407.07863v1](http://arxiv.org/pdf/2407.07863v1)|null|
@@ -5117,6 +5127,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737v1](http://arxiv.org/abs/2407.08737v1)|[2407.08737v1](http://arxiv.org/pdf/2407.08737v1)|**[link](https://github.com/mihirp1998/vader)**|
+|**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735v1](http://arxiv.org/abs/2407.08735v1)|[2407.08735v1](http://arxiv.org/pdf/2407.08735v1)|null|
+|**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734v1](http://arxiv.org/abs/2407.08734v1)|[2407.08734v1](http://arxiv.org/pdf/2407.08734v1)|**[link](https://github.com/ufo-101/auto-circuit)**|
+|**2024-07-11**|**MetaUrban: A Simulation Platform for Embodied AI in Urban Spaces**|Wayne Wu et.al.|[2407.08725v1](http://arxiv.org/abs/2407.08725v1)|[2407.08725v1](http://arxiv.org/pdf/2407.08725v1)|null|
+|**2024-07-11**|**WhisperNetV2: SlowFast Siamese Network For Lip-Based Biometrics**|Abdollah Zakeri et.al.|[2407.08717v1](http://arxiv.org/abs/2407.08717v1)|[2407.08717v1](http://arxiv.org/pdf/2407.08717v1)|null|
+|**2024-07-11**|**GTA: A Benchmark for General Tool Agents**|Jize Wang et.al.|[2407.08713v1](http://arxiv.org/abs/2407.08713v1)|[2407.08713v1](http://arxiv.org/pdf/2407.08713v1)|**[link](https://github.com/open-compass/GTA)**|
+|**2024-07-11**|**eyeballvul: a future-proof benchmark for vulnerability detection in the wild**|Timothee Chauvin et.al.|[2407.08708v1](http://arxiv.org/abs/2407.08708v1)|[2407.08708v1](http://arxiv.org/pdf/2407.08708v1)|**[link](https://github.com/timothee-chauvin/eyeballvul_experiments)**|
+|**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704v1](http://arxiv.org/abs/2407.08704v1)|[2407.08704v1](http://arxiv.org/pdf/2407.08704v1)|null|
+|**2024-07-11**|**Flex-TPU: A Flexible TPU with Runtime Reconfigurable Dataflow Architecture**|Mohammed Elbtity et.al.|[2407.08700v1](http://arxiv.org/abs/2407.08700v1)|[2407.08700v1](http://arxiv.org/pdf/2407.08700v1)|null|
+|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694v1](http://arxiv.org/abs/2407.08694v1)|[2407.08694v1](http://arxiv.org/pdf/2407.08694v1)|null|
 |**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|[2407.07890v1](http://arxiv.org/pdf/2407.07890v1)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
 |**2024-07-10**|**Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**|Tao Chen et.al.|[2407.07884v1](http://arxiv.org/abs/2407.07884v1)|[2407.07884v1](http://arxiv.org/pdf/2407.07884v1)|null|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880v1](http://arxiv.org/abs/2407.07880v1)|[2407.07880v1](http://arxiv.org/pdf/2407.07880v1)|**[link](https://github.com/junkangwu/dr_dpo)**|
