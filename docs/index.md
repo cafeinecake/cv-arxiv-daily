@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 
 ## Astrophysics
 
@@ -5125,7 +5125,7 @@ layout: default
 |**2024-07-10**|**Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**|Tao Chen et.al.|[2407.07884v1](http://arxiv.org/abs/2407.07884v1)|[2407.07884v1](http://arxiv.org/pdf/2407.07884v1)|null|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880v1](http://arxiv.org/abs/2407.07880v1)|[2407.07880v1](http://arxiv.org/pdf/2407.07880v1)|**[link](https://github.com/junkangwu/dr_dpo)**|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|[2407.07875v1](http://arxiv.org/pdf/2407.07875v1)|null|
-|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v1](http://arxiv.org/abs/2407.07874v1)|[2407.07874v1](http://arxiv.org/pdf/2407.07874v1)|null|
+|**2024-07-11**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v2](http://arxiv.org/abs/2407.07874v2)|[2407.07874v2](http://arxiv.org/pdf/2407.07874v2)|null|
 |**2024-07-10**|**Green Screen Augmentation Enables Scene Generalisation in Robotic Manipulation**|Eugene Teoh et.al.|[2407.07868v1](http://arxiv.org/abs/2407.07868v1)|[2407.07868v1](http://arxiv.org/pdf/2407.07868v1)|null|
 |**2024-07-10**|**Uncovering Layer-Dependent Activation Sparsity Patterns in ReLU Transformers**|Cody Wild et.al.|[2407.07848v1](http://arxiv.org/abs/2407.07848v1)|[2407.07848v1](http://arxiv.org/pdf/2407.07848v1)|null|
 |**2024-07-10**|**Benchmarking Embedding Aggregation Methods in Computational Pathology: A Clinical Data Perspective**|Shengjia Chen et.al.|[2407.07841v1](http://arxiv.org/abs/2407.07841v1)|[2407.07841v1](http://arxiv.org/pdf/2407.07841v1)|**[link](https://github.com/fuchs-lab-public/cpath_sabenchmark)**|
