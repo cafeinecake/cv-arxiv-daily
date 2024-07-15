@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-12**|**Induced Domain Walls of QCD Axion, and Gravitational Waves**|Junseok Lee et.al.|[2407.09478v1](http://arxiv.org/abs/2407.09478v1)|[2407.09478v1](http://arxiv.org/pdf/2407.09478v1)|null|
+|**2024-07-12**|**Galaxy Mergers in the Epoch of Reionization I: A JWST Study of Pair Fractions, Merger Rates, and Stellar Mass Accretion Rates at $z = 4.5-11.5$**|Qiao Duan et.al.|[2407.09472v1](http://arxiv.org/abs/2407.09472v1)|[2407.09472v1](http://arxiv.org/pdf/2407.09472v1)|null|
+|**2024-07-12**|**How coronal mass ejections are influenced by the morphology and toroidal flux of their source magnetic flux ropes?**|J. H. Guo et.al.|[2407.09457v1](http://arxiv.org/abs/2407.09457v1)|[2407.09457v1](http://arxiv.org/pdf/2407.09457v1)|null|
+|**2024-07-12**|**Neutron-quark stars: Discerning viable alternatives for the higher-density part of the equation of state of compact stars**|Sudipta Hensh et.al.|[2407.09446v1](http://arxiv.org/abs/2407.09446v1)|[2407.09446v1](http://arxiv.org/pdf/2407.09446v1)|null|
+|**2024-07-12**|**Intensive broadband reverberation mapping of Fairall 9 with 1.8 years of daily Swift monitoring**|R. Edelson et.al.|[2407.09445v1](http://arxiv.org/abs/2407.09445v1)|[2407.09445v1](http://arxiv.org/pdf/2407.09445v1)|null|
+|**2024-07-12**|**International Astrophysical Consortium for High-energy Calibration: Summary of the 15th IACHEC Workshop**|K. K. Madsen et.al.|[2407.09432v1](http://arxiv.org/abs/2407.09432v1)|[2407.09432v1](http://arxiv.org/pdf/2407.09432v1)|null|
+|**2024-07-12**|**Phenomenological emergent dark energy in the light of DESI Data Release 1**|A. Hernández-Almada et.al.|[2407.09430v1](http://arxiv.org/abs/2407.09430v1)|[2407.09430v1](http://arxiv.org/pdf/2407.09430v1)|null|
+|**2024-07-12**|**Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models**|Marc Hon et.al.|[2407.09427v1](http://arxiv.org/abs/2407.09427v1)|[2407.09427v1](http://arxiv.org/pdf/2407.09427v1)|**[link](https://github.com/mtyhon/modelflows)**|
+|**2024-07-12**|**Investigating Optical Variability of the Blazar S5 0716+714 On Diverse Time-scales**|Ergün Ege et.al.|[2407.09419v1](http://arxiv.org/abs/2407.09419v1)|[2407.09419v1](http://arxiv.org/pdf/2407.09419v1)|null|
+|**2024-07-12**|**Multiscale structures in three species magnetoplasmas with two positive ions**|Shafa Ullah et.al.|[2407.09412v1](http://arxiv.org/abs/2407.09412v1)|[2407.09412v1](http://arxiv.org/pdf/2407.09412v1)|null|
 |**2024-07-11**|**Elevated $p_{\rm astro}$: increased significances with multi-messenger coincidences**|Doğa Veske et.al.|[2407.08732v1](http://arxiv.org/abs/2407.08732v1)|[2407.08732v1](http://arxiv.org/pdf/2407.08732v1)|null|
 |**2024-07-11**|**Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys**|Samuel Goldstein et.al.|[2407.08731v1](http://arxiv.org/abs/2407.08731v1)|[2407.08731v1](http://arxiv.org/pdf/2407.08731v1)|null|
 |**2024-07-11**|**The Potential Impact of Noise Correlation in Next-generation Gravitational Wave Detectors**|Isaac C. F. Wong et.al.|[2407.08728v1](http://arxiv.org/abs/2407.08728v1)|[2407.08728v1](http://arxiv.org/pdf/2407.08728v1)|null|
@@ -5127,6 +5137,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-12**|**Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**|Jinning Li et.al.|[2407.09475v1](http://arxiv.org/abs/2407.09475v1)|[2407.09475v1](http://arxiv.org/pdf/2407.09475v1)|null|
+|**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467v1](http://arxiv.org/abs/2407.09467v1)|[2407.09467v1](http://arxiv.org/pdf/2407.09467v1)|null|
+|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450v1](http://arxiv.org/abs/2407.09450v1)|[2407.09450v1](http://arxiv.org/pdf/2407.09450v1)|null|
+|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|[2407.09441v1](http://arxiv.org/pdf/2407.09441v1)|null|
+|**2024-07-12**|**Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion**|Benedikt Hartl et.al.|[2407.09438v1](http://arxiv.org/abs/2407.09438v1)|[2407.09438v1](http://arxiv.org/pdf/2407.09438v1)|null|
+|**2024-07-12**|**Let Me DeCode You: Decoder Conditioning with Tabular Data**|Tomasz Szczepański et.al.|[2407.09437v1](http://arxiv.org/abs/2407.09437v1)|[2407.09437v1](http://arxiv.org/pdf/2407.09437v1)|**[link](https://github.com/sanoscience/decode)**|
+|**2024-07-12**|**MUSCLE: A Model Update Strategy for Compatible LLM Evolution**|Jessica Echterhoff et.al.|[2407.09435v1](http://arxiv.org/abs/2407.09435v1)|[2407.09435v1](http://arxiv.org/pdf/2407.09435v1)|null|
+|**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v1](http://arxiv.org/abs/2407.09434v1)|[2407.09434v1](http://arxiv.org/pdf/2407.09434v1)|null|
+|**2024-07-12**|**TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models**|Hang Zou et.al.|[2407.09424v1](http://arxiv.org/abs/2407.09424v1)|[2407.09424v1](http://arxiv.org/pdf/2407.09424v1)|null|
+|**2024-07-12**|**A Benchmark Environment for Offline Reinforcement Learning in Racing Games**|Girolamo Macaluso et.al.|[2407.09415v1](http://arxiv.org/abs/2407.09415v1)|[2407.09415v1](http://arxiv.org/pdf/2407.09415v1)|**[link](https://github.com/ganjiro/offlinemania)**|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737v1](http://arxiv.org/abs/2407.08737v1)|[2407.08737v1](http://arxiv.org/pdf/2407.08737v1)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735v1](http://arxiv.org/abs/2407.08735v1)|[2407.08735v1](http://arxiv.org/pdf/2407.08735v1)|null|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734v1](http://arxiv.org/abs/2407.08734v1)|[2407.08734v1](http://arxiv.org/pdf/2407.08734v1)|**[link](https://github.com/ufo-101/auto-circuit)**|
