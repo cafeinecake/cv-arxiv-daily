@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-15**|**Age and metal gradients in massive quiescent galaxies at $0.6 \lesssim z \lesssim 1.0$: implications for quenching and assembly histories**|Chloe M. Cheng et.al.|[2407.10974v1](http://arxiv.org/abs/2407.10974v1)|[2407.10974v1](http://arxiv.org/pdf/2407.10974v1)|null|
+|**2024-07-15**|**An ALMA CO(1-0) survey of the 2Jy sample: large and massive molecular disks in radio AGN host galaxies**|C. Tadhunter et.al.|[2407.10970v1](http://arxiv.org/abs/2407.10970v1)|[2407.10970v1](http://arxiv.org/pdf/2407.10970v1)|null|
+|**2024-07-15**|**Negative neutrino masses as a mirage of dark energy**|Willem Elbers et.al.|[2407.10965v1](http://arxiv.org/abs/2407.10965v1)|[2407.10965v1](http://arxiv.org/pdf/2407.10965v1)|null|
+|**2024-07-15**|**Galaxy cluster matter profiles: I. Self-similarity and mass calibration**|A. Singh et.al.|[2407.10961v1](http://arxiv.org/abs/2407.10961v1)|[2407.10961v1](http://arxiv.org/pdf/2407.10961v1)|null|
+|**2024-07-15**|**Simultaneous Proton and Electron Energization during Macroscale Magnetic Reconnection**|Zhiyu Yin et.al.|[2407.10933v1](http://arxiv.org/abs/2407.10933v1)|[2407.10933v1](http://arxiv.org/pdf/2407.10933v1)|null|
+|**2024-07-15**|**Evidence of gradients of density and magnetic field in the remnant of Tycho's supernova**|Oleh Petruk et.al.|[2407.10929v1](http://arxiv.org/abs/2407.10929v1)|[2407.10929v1](http://arxiv.org/pdf/2407.10929v1)|null|
+|**2024-07-15**|**Counting the Unseen I: Nuclear Density Scaling Relations for Nucleated Galaxies**|Christian H. Hannah et.al.|[2407.10911v1](http://arxiv.org/abs/2407.10911v1)|[2407.10911v1](http://arxiv.org/pdf/2407.10911v1)|null|
+|**2024-07-15**|**Accelerated by Dark Matter: a High-redshift Pathway to Efficient Galaxy-scale Star Formation**|Michael Boylan-Kolchin et.al.|[2407.10900v1](http://arxiv.org/abs/2407.10900v1)|[2407.10900v1](http://arxiv.org/pdf/2407.10900v1)|null|
+|**2024-07-15**|**First Measurement of Solar $^8$B Neutrino Flux through Coherent Elastic Neutrino-Nucleus Scattering in PandaX-4T**|PandaX Collaboration et.al.|[2407.10892v1](http://arxiv.org/abs/2407.10892v1)|[2407.10892v1](http://arxiv.org/pdf/2407.10892v1)|null|
+|**2024-07-15**|**Molecular complexity of young solar analogues**|E. Bianchi et.al.|[2407.10882v1](http://arxiv.org/abs/2407.10882v1)|[2407.10882v1](http://arxiv.org/pdf/2407.10882v1)|null|
 |**2024-07-12**|**Induced Domain Walls of QCD Axion, and Gravitational Waves**|Junseok Lee et.al.|[2407.09478v1](http://arxiv.org/abs/2407.09478v1)|[2407.09478v1](http://arxiv.org/pdf/2407.09478v1)|null|
 |**2024-07-12**|**Galaxy Mergers in the Epoch of Reionization I: A JWST Study of Pair Fractions, Merger Rates, and Stellar Mass Accretion Rates at $z = 4.5-11.5$**|Qiao Duan et.al.|[2407.09472v1](http://arxiv.org/abs/2407.09472v1)|[2407.09472v1](http://arxiv.org/pdf/2407.09472v1)|null|
 |**2024-07-12**|**How coronal mass ejections are influenced by the morphology and toroidal flux of their source magnetic flux ropes?**|J. H. Guo et.al.|[2407.09457v1](http://arxiv.org/abs/2407.09457v1)|[2407.09457v1](http://arxiv.org/pdf/2407.09457v1)|null|
@@ -5137,6 +5147,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973v1](http://arxiv.org/abs/2407.10973v1)|[2407.10973v1](http://arxiv.org/pdf/2407.10973v1)|null|
+|**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972v1](http://arxiv.org/abs/2407.10972v1)|[2407.10972v1](http://arxiv.org/pdf/2407.10972v1)|**[link](https://github.com/vgbench/VGBench)**|
+|**2024-07-15**|**Walking the Values in Bayesian Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2407.10971v1](http://arxiv.org/abs/2407.10971v1)|[2407.10971v1](http://arxiv.org/pdf/2407.10971v1)|null|
+|**2024-07-15**|**Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes**|Yaoting Wang et.al.|[2407.10957v1](http://arxiv.org/abs/2407.10957v1)|[2407.10957v1](http://arxiv.org/pdf/2407.10957v1)|null|
+|**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956v1](http://arxiv.org/abs/2407.10956v1)|[2407.10956v1](http://arxiv.org/pdf/2407.10956v1)|**[link](https://github.com/xlang-ai/spider2-v)**|
+|**2024-07-15**|**Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together**|Dilara Soylu et.al.|[2407.10930v1](http://arxiv.org/abs/2407.10930v1)|[2407.10930v1](http://arxiv.org/pdf/2407.10930v1)|null|
+|**2024-07-15**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920v1](http://arxiv.org/abs/2407.10920v1)|[2407.10920v1](http://arxiv.org/pdf/2407.10920v1)|null|
+|**2024-07-15**|**Leveraging LLM-Respondents for Item Evaluation: a Psychometric Analysis**|Yunting Liu et.al.|[2407.10899v1](http://arxiv.org/abs/2407.10899v1)|[2407.10899v1](http://arxiv.org/pdf/2407.10899v1)|null|
+|**2024-07-15**|**Leveraging Multimodal CycleGAN for the Generation of Anatomically Accurate Synthetic CT Scans from MRIs**|Leonardo Crespi et.al.|[2407.10888v1](http://arxiv.org/abs/2407.10888v1)|[2407.10888v1](http://arxiv.org/pdf/2407.10888v1)|null|
+|**2024-07-15**|**Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique**|Mark Russinovich et.al.|[2407.10887v1](http://arxiv.org/abs/2407.10887v1)|[2407.10887v1](http://arxiv.org/pdf/2407.10887v1)|null|
 |**2024-07-12**|**Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**|Jinning Li et.al.|[2407.09475v1](http://arxiv.org/abs/2407.09475v1)|[2407.09475v1](http://arxiv.org/pdf/2407.09475v1)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467v1](http://arxiv.org/abs/2407.09467v1)|[2407.09467v1](http://arxiv.org/pdf/2407.09467v1)|null|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450v1](http://arxiv.org/abs/2407.09450v1)|[2407.09450v1](http://arxiv.org/pdf/2407.09450v1)|null|
