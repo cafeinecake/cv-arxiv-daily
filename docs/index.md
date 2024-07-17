@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-16**|**PECCARY: A novel approach for characterizing orbital complexity, stochasticity, and regularity**|Sóley Ó. Hyman et.al.|[2407.11970v1](http://arxiv.org/abs/2407.11970v1)|[2407.11970v1](http://arxiv.org/pdf/2407.11970v1)|null|
+|**2024-07-16**|**mochi_class: Modelling Optimisation to Compute Horndeski In class**|Matteo Cataneo et.al.|[2407.11968v1](http://arxiv.org/abs/2407.11968v1)|[2407.11968v1](http://arxiv.org/pdf/2407.11968v1)|null|
+|**2024-07-16**|**A Note on the Phase Law and Light Curve of Comet Tsuchinshan-ATLAS (C/2023 A3)**|Zdenek Sekanina et.al.|[2407.11938v1](http://arxiv.org/abs/2407.11938v1)|[2407.11938v1](http://arxiv.org/pdf/2407.11938v1)|null|
+|**2024-07-16**|**Revisiting primordial magnetic fields through 21-cm physics: Bounds and forecasts**|Arko Bhaumik et.al.|[2407.11923v1](http://arxiv.org/abs/2407.11923v1)|[2407.11923v1](http://arxiv.org/pdf/2407.11923v1)|null|
+|**2024-07-16**|**Energy dependence of the knee in the cosmic ray spectrum across the Milky Way**|C. Prevotat et.al.|[2407.11911v1](http://arxiv.org/abs/2407.11911v1)|[2407.11911v1](http://arxiv.org/pdf/2407.11911v1)|null|
+|**2024-07-16**|**The Strength of Bisymmetric Modes in SDSS-IV/MaNGA Barred Galaxy Kinematics**|Brian DiGiorgio Zanger et.al.|[2407.11908v1](http://arxiv.org/abs/2407.11908v1)|[2407.11908v1](http://arxiv.org/pdf/2407.11908v1)|null|
+|**2024-07-16**|**Constraints on Short Gamma-Ray Burst Physics and Their Host Galaxies from Systematic Radio Follow-up Campaigns**|S. I. Chastain et.al.|[2407.11883v1](http://arxiv.org/abs/2407.11883v1)|[2407.11883v1](http://arxiv.org/pdf/2407.11883v1)|null|
+|**2024-07-16**|**FitteR for Accretion ProPErties of T Tauri stars (FRAPPE): A new approach to use Class III spectra to derive stellar and accretion properties**|R. A. B. Claes et.al.|[2407.11866v1](http://arxiv.org/abs/2407.11866v1)|[2407.11866v1](http://arxiv.org/pdf/2407.11866v1)|null|
+|**2024-07-16**|**A multi-wavelength study to decipher the 2017 flare of the blazar OJ 287**|A. Acharyya et.al.|[2407.11848v1](http://arxiv.org/abs/2407.11848v1)|[2407.11848v1](http://arxiv.org/pdf/2407.11848v1)|null|
+|**2024-07-16**|**Asymmetric Kinematics in Young Clusters: The λ Ori Cluster**|Joseph J. Armstrong et.al.|[2407.11845v1](http://arxiv.org/abs/2407.11845v1)|[2407.11845v1](http://arxiv.org/pdf/2407.11845v1)|null|
 |**2024-07-15**|**Age and metal gradients in massive quiescent galaxies at $0.6 \lesssim z \lesssim 1.0$: implications for quenching and assembly histories**|Chloe M. Cheng et.al.|[2407.10974v1](http://arxiv.org/abs/2407.10974v1)|[2407.10974v1](http://arxiv.org/pdf/2407.10974v1)|null|
 |**2024-07-15**|**An ALMA CO(1-0) survey of the 2Jy sample: large and massive molecular disks in radio AGN host galaxies**|C. Tadhunter et.al.|[2407.10970v1](http://arxiv.org/abs/2407.10970v1)|[2407.10970v1](http://arxiv.org/pdf/2407.10970v1)|null|
 |**2024-07-15**|**Negative neutrino masses as a mirage of dark energy**|Willem Elbers et.al.|[2407.10965v1](http://arxiv.org/abs/2407.10965v1)|[2407.10965v1](http://arxiv.org/pdf/2407.10965v1)|null|
@@ -5151,6 +5161,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-16**|**Does Refusal Training in LLMs Generalize to the Past Tense?**|Maksym Andriushchenko et.al.|[2407.11969v1](http://arxiv.org/abs/2407.11969v1)|[2407.11969v1](http://arxiv.org/pdf/2407.11969v1)|**[link](https://github.com/tml-epfl/llm-past-tense)**|
+|**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966v1](http://arxiv.org/abs/2407.11966v1)|[2407.11966v1](http://arxiv.org/pdf/2407.11966v1)|null|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v1](http://arxiv.org/abs/2407.11962v1)|[2407.11962v1](http://arxiv.org/pdf/2407.11962v1)|null|
+|**2024-07-16**|**Rethinking Transformer-based Multi-document Summarization: An Empirical Investigation**|Congbo Ma et.al.|[2407.11948v1](http://arxiv.org/abs/2407.11948v1)|[2407.11948v1](http://arxiv.org/pdf/2407.11948v1)|null|
+|**2024-07-16**|**Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based Approach**|Tanvir Hossain et.al.|[2407.11928v1](http://arxiv.org/abs/2407.11928v1)|[2407.11928v1](http://arxiv.org/pdf/2407.11928v1)|null|
+|**2024-07-16**|**What's Wrong? Refining Meeting Summaries with LLM Feedback**|Frederic Kirstein et.al.|[2407.11919v1](http://arxiv.org/abs/2407.11919v1)|[2407.11919v1](http://arxiv.org/pdf/2407.11919v1)|null|
+|**2024-07-16**|**Imitation of human motion achieves natural head movements for humanoid robots in an active-speaker detection task**|Bosong Ding et.al.|[2407.11915v1](http://arxiv.org/abs/2407.11915v1)|[2407.11915v1](http://arxiv.org/pdf/2407.11915v1)|**[link](https://github.com/dingdingding60/humanoids2024hri)**|
+|**2024-07-16**|**SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions -- An EndoVis'24 Challenge**|Hao Ding et.al.|[2407.11906v1](http://arxiv.org/abs/2407.11906v1)|[2407.11906v1](http://arxiv.org/pdf/2407.11906v1)|null|
+|**2024-07-16**|**Bridging Weighted First Order Model Counting and Graph Polynomials**|Qipeng Kuang et.al.|[2407.11877v1](http://arxiv.org/abs/2407.11877v1)|[2407.11877v1](http://arxiv.org/pdf/2407.11877v1)|**[link](https://github.com/l2l7l9p/polynomials-for-wfomc)**|
+|**2024-07-16**|**Zero-shot Cross-Lingual Transfer for Synthetic Data Generation in Grammatical Error Detection**|Gaetan Lopez Latouche et.al.|[2407.11854v1](http://arxiv.org/abs/2407.11854v1)|[2407.11854v1](http://arxiv.org/pdf/2407.11854v1)|null|
 |**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973v1](http://arxiv.org/abs/2407.10973v1)|[2407.10973v1](http://arxiv.org/pdf/2407.10973v1)|null|
 |**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972v1](http://arxiv.org/abs/2407.10972v1)|[2407.10972v1](http://arxiv.org/pdf/2407.10972v1)|**[link](https://github.com/vgbench/VGBench)**|
 |**2024-07-15**|**Walking the Values in Bayesian Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2407.10971v1](http://arxiv.org/abs/2407.10971v1)|[2407.10971v1](http://arxiv.org/pdf/2407.10971v1)|null|
