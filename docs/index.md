@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 
 ## Astrophysics
 
@@ -16,7 +16,7 @@ layout: default
 |**2024-07-16**|**The Strength of Bisymmetric Modes in SDSS-IV/MaNGA Barred Galaxy Kinematics**|Brian DiGiorgio Zanger et.al.|[2407.11908v1](http://arxiv.org/abs/2407.11908v1)|[2407.11908v1](http://arxiv.org/pdf/2407.11908v1)|null|
 |**2024-07-16**|**Constraints on Short Gamma-Ray Burst Physics and Their Host Galaxies from Systematic Radio Follow-up Campaigns**|S. I. Chastain et.al.|[2407.11883v1](http://arxiv.org/abs/2407.11883v1)|[2407.11883v1](http://arxiv.org/pdf/2407.11883v1)|null|
 |**2024-07-16**|**FitteR for Accretion ProPErties of T Tauri stars (FRAPPE): A new approach to use Class III spectra to derive stellar and accretion properties**|R. A. B. Claes et.al.|[2407.11866v1](http://arxiv.org/abs/2407.11866v1)|[2407.11866v1](http://arxiv.org/pdf/2407.11866v1)|null|
-|**2024-07-16**|**A multi-wavelength study to decipher the 2017 flare of the blazar OJ 287**|A. Acharyya et.al.|[2407.11848v1](http://arxiv.org/abs/2407.11848v1)|[2407.11848v1](http://arxiv.org/pdf/2407.11848v1)|null|
+|**2024-07-17**|**A multi-wavelength study to decipher the 2017 flare of the blazar OJ 287**|A. Acharyya et.al.|[2407.11848v2](http://arxiv.org/abs/2407.11848v2)|[2407.11848v2](http://arxiv.org/pdf/2407.11848v2)|null|
 |**2024-07-16**|**Asymmetric Kinematics in Young Clusters: The λ Ori Cluster**|Joseph J. Armstrong et.al.|[2407.11845v1](http://arxiv.org/abs/2407.11845v1)|[2407.11845v1](http://arxiv.org/pdf/2407.11845v1)|null|
 |**2024-07-15**|**Age and metal gradients in massive quiescent galaxies at $0.6 \lesssim z \lesssim 1.0$: implications for quenching and assembly histories**|Chloe M. Cheng et.al.|[2407.10974v1](http://arxiv.org/abs/2407.10974v1)|[2407.10974v1](http://arxiv.org/pdf/2407.10974v1)|null|
 |**2024-07-15**|**An ALMA CO(1-0) survey of the 2Jy sample: large and massive molecular disks in radio AGN host galaxies**|C. Tadhunter et.al.|[2407.10970v1](http://arxiv.org/abs/2407.10970v1)|[2407.10970v1](http://arxiv.org/pdf/2407.10970v1)|null|
