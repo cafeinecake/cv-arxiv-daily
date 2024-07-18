@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-17**|**Analysis of Crab X-ray Polarization using Deeper IXPE Observations**|Josephine Wong et.al.|[2407.12779v1](http://arxiv.org/abs/2407.12779v1)|[2407.12779v1](http://arxiv.org/pdf/2407.12779v1)|null|
+|**2024-07-17**|**Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial Mode Sorters**|Nico Deshler et.al.|[2407.12776v1](http://arxiv.org/abs/2407.12776v1)|[2407.12776v1](http://arxiv.org/pdf/2407.12776v1)|null|
+|**2024-07-17**|**Search for light dark matter with NEWS-G at the LSM using a methane target**|M. M. Arora et.al.|[2407.12769v1](http://arxiv.org/abs/2407.12769v1)|[2407.12769v1](http://arxiv.org/pdf/2407.12769v1)|null|
+|**2024-07-17**|**The ECFA Early-Career Researchers Panel: Report for the year 2023**|Julia Allen et.al.|[2407.12761v1](http://arxiv.org/abs/2407.12761v1)|[2407.12761v1](http://arxiv.org/pdf/2407.12761v1)|null|
+|**2024-07-17**|**How does dark matter stabilize disc galaxies?**|K. Aditya et.al.|[2407.12740v1](http://arxiv.org/abs/2407.12740v1)|[2407.12740v1](http://arxiv.org/pdf/2407.12740v1)|null|
+|**2024-07-17**|**New Integrable Chiral Cosmological Models with Two Scalar Fields**|Vsevolod R. Ivanov et.al.|[2407.12732v1](http://arxiv.org/abs/2407.12732v1)|[2407.12732v1](http://arxiv.org/pdf/2407.12732v1)|null|
+|**2024-07-17**|**"Halfway to Rayleigh" and other Insights to the Rossby Wave Instability**|Eonho Chang et.al.|[2407.12722v1](http://arxiv.org/abs/2407.12722v1)|[2407.12722v1](http://arxiv.org/pdf/2407.12722v1)|null|
+|**2024-07-17**|**Unlocking planetesimal magnetic field histories: a refined, versatile model for thermal evolution and dynamo generation**|Hannah R. Sanderson et.al.|[2407.12721v1](http://arxiv.org/abs/2407.12721v1)|[2407.12721v1](http://arxiv.org/pdf/2407.12721v1)|null|
+|**2024-07-17**|**A new perspective on the stellar Mass-Metallicity Relation of quiescent galaxies from the LEGA-C survey**|D. Bevacqua et.al.|[2407.12704v1](http://arxiv.org/abs/2407.12704v1)|[2407.12704v1](http://arxiv.org/pdf/2407.12704v1)|null|
+|**2024-07-17**|**Neutrino Halo profiles: HR-DEMNUni simulation analysis**|Beatriz Hernández-Molinero et.al.|[2407.12694v1](http://arxiv.org/abs/2407.12694v1)|[2407.12694v1](http://arxiv.org/pdf/2407.12694v1)|null|
 |**2024-07-16**|**PECCARY: A novel approach for characterizing orbital complexity, stochasticity, and regularity**|Sóley Ó. Hyman et.al.|[2407.11970v1](http://arxiv.org/abs/2407.11970v1)|[2407.11970v1](http://arxiv.org/pdf/2407.11970v1)|null|
 |**2024-07-16**|**mochi_class: Modelling Optimisation to Compute Horndeski In class**|Matteo Cataneo et.al.|[2407.11968v1](http://arxiv.org/abs/2407.11968v1)|[2407.11968v1](http://arxiv.org/pdf/2407.11968v1)|null|
 |**2024-07-16**|**A Note on the Phase Law and Light Curve of Comet Tsuchinshan-ATLAS (C/2023 A3)**|Zdenek Sekanina et.al.|[2407.11938v1](http://arxiv.org/abs/2407.11938v1)|[2407.11938v1](http://arxiv.org/pdf/2407.11938v1)|null|
@@ -5161,6 +5171,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-17**|**Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial Mode Sorters**|Nico Deshler et.al.|[2407.12776v1](http://arxiv.org/abs/2407.12776v1)|[2407.12776v1](http://arxiv.org/pdf/2407.12776v1)|null|
+|**2024-07-17**|**OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides**|Zhuoyan Shen et.al.|[2407.12773v1](http://arxiv.org/abs/2407.12773v1)|[2407.12773v1](http://arxiv.org/pdf/2407.12773v1)|null|
+|**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753v1](http://arxiv.org/abs/2407.12753v1)|[2407.12753v1](http://arxiv.org/pdf/2407.12753v1)|null|
+|**2024-07-17**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736v1](http://arxiv.org/abs/2407.12736v1)|[2407.12736v1](http://arxiv.org/pdf/2407.12736v1)|null|
+|**2024-07-17**|**RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Multi-Modal Models**|Pengkun Jiao et.al.|[2407.12730v1](http://arxiv.org/abs/2407.12730v1)|[2407.12730v1](http://arxiv.org/pdf/2407.12730v1)|null|
+|**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729v1](http://arxiv.org/abs/2407.12729v1)|[2407.12729v1](http://arxiv.org/pdf/2407.12729v1)|null|
+|**2024-07-17**|**An Evaluation of Continual Learning for Advanced Node Semiconductor Defect Inspection**|Amit Prasad et.al.|[2407.12724v1](http://arxiv.org/abs/2407.12724v1)|[2407.12724v1](http://arxiv.org/pdf/2407.12724v1)|null|
+|**2024-07-17**|**A Unifying Post-Processing Framework for Multi-Objective Learn-to-Defer Problems**|Mohammad-Amin Charusaie et.al.|[2407.12710v1](http://arxiv.org/abs/2407.12710v1)|[2407.12710v1](http://arxiv.org/pdf/2407.12710v1)|**[link](https://github.com/aminchrs/postprocess)**|
+|**2024-07-17**|**TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds**|Elona Dupont et.al.|[2407.12702v1](http://arxiv.org/abs/2407.12702v1)|[2407.12702v1](http://arxiv.org/pdf/2407.12702v1)|null|
+|**2024-07-17**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671v1](http://arxiv.org/abs/2407.12671v1)|[2407.12671v1](http://arxiv.org/pdf/2407.12671v1)|**[link](https://github.com/manoskary/graphmuse)**|
 |**2024-07-16**|**Does Refusal Training in LLMs Generalize to the Past Tense?**|Maksym Andriushchenko et.al.|[2407.11969v1](http://arxiv.org/abs/2407.11969v1)|[2407.11969v1](http://arxiv.org/pdf/2407.11969v1)|**[link](https://github.com/tml-epfl/llm-past-tense)**|
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966v1](http://arxiv.org/abs/2407.11966v1)|[2407.11966v1](http://arxiv.org/pdf/2407.11966v1)|null|
 |**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v1](http://arxiv.org/abs/2407.11962v1)|[2407.11962v1](http://arxiv.org/pdf/2407.11962v1)|null|
