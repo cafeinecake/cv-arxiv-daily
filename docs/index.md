@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-19**|**Stellar substructures in the Galactic disc and halo: Properties, origins and evolution**|Deepak et.al.|[2407.14508v1](http://arxiv.org/abs/2407.14508v1)|[2407.14508v1](http://arxiv.org/pdf/2407.14508v1)|null|
+|**2024-07-19**|**A Precision Cryogenic Positioning Stage for Detector Dithering and Flexure Compensation**|Stephen A. Smee et.al.|[2407.14493v1](http://arxiv.org/abs/2407.14493v1)|[2407.14493v1](http://arxiv.org/pdf/2407.14493v1)|null|
+|**2024-07-19**|**Signatures of composite dark matter in the Cosmic Microwave Background spectral distortions**|Anoma Ganguly et.al.|[2407.14480v1](http://arxiv.org/abs/2407.14480v1)|[2407.14480v1](http://arxiv.org/pdf/2407.14480v1)|null|
+|**2024-07-19**|**Low [O/Fe] Ratio in a Luminous Galaxy at the Early Cosmic Epoch ($z>10$): Signature of Short Delay Time or Bright Hypernovae/Pair-Instability Supernovae?**|Minami Nakane et.al.|[2407.14470v1](http://arxiv.org/abs/2407.14470v1)|[2407.14470v1](http://arxiv.org/pdf/2407.14470v1)|null|
+|**2024-07-19**|**Pulsar timing array sensitivity to anisotropies in the gravitational wave background**|Paul Frederik Depta et.al.|[2407.14460v1](http://arxiv.org/abs/2407.14460v1)|[2407.14460v1](http://arxiv.org/pdf/2407.14460v1)|null|
+|**2024-07-19**|**Pseudoatom Molecular Dynamics Plasma Microfields**|J. R. White et.al.|[2407.14455v1](http://arxiv.org/abs/2407.14455v1)|[2407.14455v1](http://arxiv.org/pdf/2407.14455v1)|null|
+|**2024-07-19**|**The $K_s$-band luminosity function of the rich cluster VC04 in the Vela supercluster**|N. Hatamkhani et.al.|[2407.14425v1](http://arxiv.org/abs/2407.14425v1)|[2407.14425v1](http://arxiv.org/pdf/2407.14425v1)|null|
+|**2024-07-19**|**Short-period Heartbeat Binaries from TESS Full-Frame Images**|Siddhant Solanki et.al.|[2407.14421v1](http://arxiv.org/abs/2407.14421v1)|[2407.14421v1](http://arxiv.org/pdf/2407.14421v1)|null|
+|**2024-07-19**|**Hyenas: X-ray Bubbles and Cavities in the Intra-Group Medium**|Fred J. Jennings et.al.|[2407.14415v1](http://arxiv.org/abs/2407.14415v1)|[2407.14415v1](http://arxiv.org/pdf/2407.14415v1)|null|
+|**2024-07-19**|**The FAST HI 21-cm absorption blind survey. II -- statistic exploration for associated and intervening systems**|Wenkai Hu et.al.|[2407.14411v1](http://arxiv.org/abs/2407.14411v1)|[2407.14411v1](http://arxiv.org/pdf/2407.14411v1)|null|
 |**2024-07-18**|**Challenge of direct imaging of exoplanets within structures: disentangling real signal from point source from background light**|Jialin Li et.al.|[2407.13756v1](http://arxiv.org/abs/2407.13756v1)|[2407.13756v1](http://arxiv.org/pdf/2407.13756v1)|null|
 |**2024-07-18**|**On the consistency of rotation curves and spatially integrated HI flux profiles**|Tariq Yasin et.al.|[2407.13754v1](http://arxiv.org/abs/2407.13754v1)|[2407.13754v1](http://arxiv.org/pdf/2407.13754v1)|null|
 |**2024-07-18**|**A Novel Freeform Slicer IFU for the Magellan InfraRed Multi-Object Spectrograph (MIRMOS)**|Maren Cosens et.al.|[2407.13747v1](http://arxiv.org/abs/2407.13747v1)|[2407.13747v1](http://arxiv.org/pdf/2407.13747v1)|null|
@@ -5181,6 +5191,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-19**|**DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks**|Sarah Jabbour et.al.|[2407.14509v1](http://arxiv.org/abs/2407.14509v1)|[2407.14509v1](http://arxiv.org/pdf/2407.14509v1)|null|
+|**2024-07-19**|**On Pre-training of Multimodal Language Models Customized for Chart Understanding**|Wan-Cyuan Fan et.al.|[2407.14506v1](http://arxiv.org/abs/2407.14506v1)|[2407.14506v1](http://arxiv.org/pdf/2407.14506v1)|null|
+|**2024-07-19**|**Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**|Sukrut Rao et.al.|[2407.14499v1](http://arxiv.org/abs/2407.14499v1)|[2407.14499v1](http://arxiv.org/pdf/2407.14499v1)|**[link](https://github.com/neuroexplicit-saar/discover-then-name)**|
+|**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486v1](http://arxiv.org/abs/2407.14486v1)|[2407.14486v1](http://arxiv.org/pdf/2407.14486v1)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
+|**2024-07-19**|**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**|Peng Xu et.al.|[2407.14482v1](http://arxiv.org/abs/2407.14482v1)|[2407.14482v1](http://arxiv.org/pdf/2407.14482v1)|null|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473v1](http://arxiv.org/abs/2407.14473v1)|[2407.14473v1](http://arxiv.org/pdf/2407.14473v1)|null|
+|**2024-07-19**|**Check-Eval: A Checklist-based Approach for Evaluating Text Quality**|Jayr Pereira et.al.|[2407.14467v1](http://arxiv.org/abs/2407.14467v1)|[2407.14467v1](http://arxiv.org/pdf/2407.14467v1)|null|
+|**2024-07-19**|**Experimental Determination of Wannier Centers in 1D topological chains**|R. A. M. Ligthart et.al.|[2407.14465v1](http://arxiv.org/abs/2407.14465v1)|[2407.14465v1](http://arxiv.org/pdf/2407.14465v1)|null|
+|**2024-07-19**|**Undermining Mental Proof: How AI Can Make Cooperation Harder by Making Thinking Easier**|Zachary Wojtowicz et.al.|[2407.14452v1](http://arxiv.org/abs/2407.14452v1)|[2407.14452v1](http://arxiv.org/pdf/2407.14452v1)|null|
+|**2024-07-19**|**The Extrapolation Power of Implicit Models**|Juliette Decugis et.al.|[2407.14430v1](http://arxiv.org/abs/2407.14430v1)|[2407.14430v1](http://arxiv.org/pdf/2407.14430v1)|null|
 |**2024-07-18**|**Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data**|Charles Jin et.al.|[2407.13765v1](http://arxiv.org/abs/2407.13765v1)|[2407.13765v1](http://arxiv.org/pdf/2407.13765v1)|null|
 |**2024-07-18**|**Neural Network Tire Force Modeling for Automated Drifting**|Nicholas Drake Broadbent et.al.|[2407.13760v1](http://arxiv.org/abs/2407.13760v1)|[2407.13760v1](http://arxiv.org/pdf/2407.13760v1)|null|
 |**2024-07-18**|**Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2407.13757v1](http://arxiv.org/abs/2407.13757v1)|[2407.13757v1](http://arxiv.org/pdf/2407.13757v1)|null|
