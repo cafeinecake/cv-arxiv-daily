@@ -1,4 +1,4 @@
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 
 ## Astrophysics
 
@@ -13,7 +13,7 @@
 |**2024-07-18**|**Enhancing gravitational-wave host localization with SKYFAST: rapid volume and inclination angle reconstruction**|Gabriele Demasi et.al.|[2407.13695v1](http://arxiv.org/abs/2407.13695v1)|[2407.13695v1](http://arxiv.org/pdf/2407.13695v1)|null|
 |**2024-07-18**|**Josephson currents in neutron stars**|Armen Sedrakian et.al.|[2407.13686v1](http://arxiv.org/abs/2407.13686v1)|[2407.13686v1](http://arxiv.org/pdf/2407.13686v1)|null|
 |**2024-07-18**|**Imaging the jet of MWC 349A with resolved Radio Recombination Line emission from ALMA**|Antonio Martínez-Henares et.al.|[2407.13681v1](http://arxiv.org/abs/2407.13681v1)|[2407.13681v1](http://arxiv.org/pdf/2407.13681v1)|null|
-|**2024-07-18**|**An Earth Encounter As the Cause of Chaotic Dynamics in Binary Asteroid (35107) 1991VH**|Alex J Meyer et.al.|[2407.13670v1](http://arxiv.org/abs/2407.13670v1)|[2407.13670v1](http://arxiv.org/pdf/2407.13670v1)|null|
+|**2024-07-19**|**An Earth Encounter As the Cause of Chaotic Dynamics in Binary Asteroid (35107) 1991VH**|Alex J Meyer et.al.|[2407.13670v2](http://arxiv.org/abs/2407.13670v2)|[2407.13670v2](http://arxiv.org/pdf/2407.13670v2)|null|
 |**2024-07-17**|**Analysis of Crab X-ray Polarization using Deeper IXPE Observations**|Josephine Wong et.al.|[2407.12779v1](http://arxiv.org/abs/2407.12779v1)|[2407.12779v1](http://arxiv.org/pdf/2407.12779v1)|null|
 |**2024-07-17**|**Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial Mode Sorters**|Nico Deshler et.al.|[2407.12776v1](http://arxiv.org/abs/2407.12776v1)|[2407.12776v1](http://arxiv.org/pdf/2407.12776v1)|null|
 |**2024-07-17**|**Search for light dark matter with NEWS-G at the LSM using a methane target**|M. M. Arora et.al.|[2407.12769v1](http://arxiv.org/abs/2407.12769v1)|[2407.12769v1](http://arxiv.org/pdf/2407.12769v1)|null|
