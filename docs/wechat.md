@@ -1,11 +1,11 @@
-> Updated on 2024.07.23
+> Updated on 2024.07.24
 
 ## Astrophysics
 
 - 2024-07-22, **ALESS-JWST: Joint (sub-)kiloparsec JWST and ALMA imaging of $z\sim3$ submillimeter galaxies reveals heavily obscured bulge formation events**, Jacqueline A. Hodge et.al., Paper: [http://arxiv.org/abs/2407.15846v1](http://arxiv.org/abs/2407.15846v1), Paper: [http://arxiv.org/abs/2407.15846v1](http://arxiv.org/pdf/2407.15846v1)
 - 2024-07-22, **Non-minimally coupled gravity as a physically viable fit to DESI 2024 BAO**, Gen Ye et.al., Paper: [http://arxiv.org/abs/2407.15832v1](http://arxiv.org/abs/2407.15832v1), Paper: [http://arxiv.org/abs/2407.15832v1](http://arxiv.org/pdf/2407.15832v1)
 - 2024-07-22, **Statistics and Habitability of F-type Star--Planet Systems**, Shaan D. Patel et.al., Paper: [http://arxiv.org/abs/2407.15826v1](http://arxiv.org/abs/2407.15826v1), Paper: [http://arxiv.org/abs/2407.15826v1](http://arxiv.org/pdf/2407.15826v1)
-- 2024-07-22, **Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**, Shao-Yu Fu et.al., Paper: [http://arxiv.org/abs/2407.15824v1](http://arxiv.org/abs/2407.15824v1), Paper: [http://arxiv.org/abs/2407.15824v1](http://arxiv.org/pdf/2407.15824v1)
+- 2024-07-23, **Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**, Shao-Yu Fu et.al., Paper: [http://arxiv.org/abs/2407.15824v2](http://arxiv.org/abs/2407.15824v2), Paper: [http://arxiv.org/abs/2407.15824v2](http://arxiv.org/pdf/2407.15824v2)
 - 2024-07-22, **A biconical ionised gas outflow and evidence for positive feedback in NGC 7172 uncovered by MIRI/JWST**, L. Hermosa Muñoz et.al., Paper: [http://arxiv.org/abs/2407.15807v1](http://arxiv.org/abs/2407.15807v1), Paper: [http://arxiv.org/abs/2407.15807v1](http://arxiv.org/pdf/2407.15807v1)
 - 2024-07-22, **Coupled phantom cosmological model motivated by the warm inflationary paradigm**, Sudip Halder et.al., Paper: [http://arxiv.org/abs/2407.15804v1](http://arxiv.org/abs/2407.15804v1), Paper: [http://arxiv.org/abs/2407.15804v1](http://arxiv.org/pdf/2407.15804v1)
 - 2024-07-22, **The Evaporating Massive Embedded Stellar Cluster IRS 13 Close to Sgr A*. II. Kinematic structure**, Florian Peißker et.al., Paper: [http://arxiv.org/abs/2407.15800v1](http://arxiv.org/abs/2407.15800v1), Paper: [http://arxiv.org/abs/2407.15800v1](http://arxiv.org/pdf/2407.15800v1)
