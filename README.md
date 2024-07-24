@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-23**|**DIISC-V: Variations in H$α$-to-FUV Star Formation Rate Ratios Across Star-forming Regions in Nearby Galaxies**|Mansi Padave et.al.|[2407.16690v1](http://arxiv.org/abs/2407.16690v1)|[2407.16690v1](http://arxiv.org/pdf/2407.16690v1)|null|
+|**2024-07-23**|**Robust Preference for Dynamical Dark Energy in DESI BAO and SN Measurements**|William Giarè et.al.|[2407.16689v1](http://arxiv.org/abs/2407.16689v1)|[2407.16689v1](http://arxiv.org/pdf/2407.16689v1)|null|
+|**2024-07-23**|**Fractional Holographic Dark Energy**|Oem Trivedi et.al.|[2407.16685v1](http://arxiv.org/abs/2407.16685v1)|[2407.16685v1](http://arxiv.org/pdf/2407.16685v1)|null|
+|**2024-07-23**|**Unveiling galaxy pair alignment in cosmic filaments: A 3D exploration using EAGLE simulation**|Suman Sarkar et.al.|[2407.16675v1](http://arxiv.org/abs/2407.16675v1)|[2407.16675v1](http://arxiv.org/pdf/2407.16675v1)|null|
+|**2024-07-23**|**Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars**|Tathagata Ghosh et.al.|[2407.16669v1](http://arxiv.org/abs/2407.16669v1)|[2407.16669v1](http://arxiv.org/pdf/2407.16669v1)|null|
+|**2024-07-23**|**Magnetic Fields in Massive Star-forming Regions (MagMaR): Unveiling an Hourglass Magnetic Field in G333.46-0.16 using ALMA**|Piyali Saha et.al.|[2407.16654v1](http://arxiv.org/abs/2407.16654v1)|[2407.16654v1](http://arxiv.org/pdf/2407.16654v1)|null|
+|**2024-07-23**|**Hints of planet formation signatures in a large-cavity disk studied in the AGE-PRO ALMA Large Program**|Anibal Sierra et.al.|[2407.16651v1](http://arxiv.org/abs/2407.16651v1)|[2407.16651v1](http://arxiv.org/pdf/2407.16651v1)|null|
+|**2024-07-23**|**Testing the interacting dark energy model in a phenomenological scenario with gamma-ray bursts and Pantheon+ Type Ia Supernovae**|X. D. Nong et.al.|[2407.16644v1](http://arxiv.org/abs/2407.16644v1)|[2407.16644v1](http://arxiv.org/pdf/2407.16644v1)|null|
+|**2024-07-23**|**Analytical Emulator for the Linear Matter Power Spectrum from Physics-Informed Machine Learning**|J. Bayron Orjuela-Quintana et.al.|[2407.16640v1](http://arxiv.org/abs/2407.16640v1)|[2407.16640v1](http://arxiv.org/pdf/2407.16640v1)|null|
+|**2024-07-23**|**Constraining dark photon parameters based on the very high energy observations of blazars**|Tian-Ci Liu et.al.|[2407.16628v1](http://arxiv.org/abs/2407.16628v1)|[2407.16628v1](http://arxiv.org/pdf/2407.16628v1)|null|
 |**2024-07-22**|**ALESS-JWST: Joint (sub-)kiloparsec JWST and ALMA imaging of $z\sim3$ submillimeter galaxies reveals heavily obscured bulge formation events**|Jacqueline A. Hodge et.al.|[2407.15846v1](http://arxiv.org/abs/2407.15846v1)|[2407.15846v1](http://arxiv.org/pdf/2407.15846v1)|null|
 |**2024-07-22**|**Non-minimally coupled gravity as a physically viable fit to DESI 2024 BAO**|Gen Ye et.al.|[2407.15832v1](http://arxiv.org/abs/2407.15832v1)|[2407.15832v1](http://arxiv.org/pdf/2407.15832v1)|null|
 |**2024-07-22**|**Statistics and Habitability of F-type Star--Planet Systems**|Shaan D. Patel et.al.|[2407.15826v1](http://arxiv.org/abs/2407.15826v1)|[2407.15826v1](http://arxiv.org/pdf/2407.15826v1)|null|
@@ -5197,6 +5207,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695v1](http://arxiv.org/abs/2407.16695v1)|[2407.16695v1](http://arxiv.org/pdf/2407.16695v1)|null|
+|**2024-07-23**|**KAN or MLP: A Fairer Comparison**|Runpeng Yu et.al.|[2407.16674v1](http://arxiv.org/abs/2407.16674v1)|[2407.16674v1](http://arxiv.org/pdf/2407.16674v1)|**[link](https://github.com/yu-rp/kanbefair)**|
+|**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667v1](http://arxiv.org/abs/2407.16667v1)|[2407.16667v1](http://arxiv.org/pdf/2407.16667v1)|null|
+|**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665v1](http://arxiv.org/abs/2407.16665v1)|[2407.16665v1](http://arxiv.org/pdf/2407.16665v1)|null|
+|**2024-07-23**|**A Geometry-Aware Algorithm to Learn Hierarchical Embeddings in Hyperbolic Space**|Zhangyu Wang et.al.|[2407.16641v1](http://arxiv.org/abs/2407.16641v1)|[2407.16641v1](http://arxiv.org/pdf/2407.16641v1)|null|
+|**2024-07-23**|**Course-Correction: Safety Alignment Using Synthetic Preferences**|Rongwu Xu et.al.|[2407.16637v1](http://arxiv.org/abs/2407.16637v1)|[2407.16637v1](http://arxiv.org/pdf/2407.16637v1)|null|
+|**2024-07-23**|**Knowledge-driven AI-generated data for accurate and interpretable breast ultrasound diagnoses**|Haojun Yu et.al.|[2407.16634v1](http://arxiv.org/abs/2407.16634v1)|[2407.16634v1](http://arxiv.org/pdf/2407.16634v1)|null|
+|**2024-07-23**|**Implementing engrams from a machine learning perspective: the relevance of a latent space**|J Marco de Lucas et.al.|[2407.16616v1](http://arxiv.org/abs/2407.16616v1)|[2407.16616v1](http://arxiv.org/pdf/2407.16616v1)|null|
+|**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo et.al.|[2407.16615v1](http://arxiv.org/abs/2407.16615v1)|[2407.16615v1](http://arxiv.org/pdf/2407.16615v1)|null|
+|**2024-07-23**|**Mobile Technology: A Panacea to Food Insecurity In Nigeria -- A Case Study of SELL HARVEST Application**|Mudathir Muhammad Salahudeen et.al.|[2407.16614v1](http://arxiv.org/abs/2407.16614v1)|[2407.16614v1](http://arxiv.org/pdf/2407.16614v1)|null|
 |**2024-07-22**|**WayEx: Waypoint Exploration using a Single Demonstration**|Mara Levy et.al.|[2407.15849v1](http://arxiv.org/abs/2407.15849v1)|[2407.15849v1](http://arxiv.org/pdf/2407.15849v1)|null|
 |**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847v1](http://arxiv.org/abs/2407.15847v1)|[2407.15847v1](http://arxiv.org/pdf/2407.15847v1)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845v1](http://arxiv.org/abs/2407.15845v1)|[2407.15845v1](http://arxiv.org/pdf/2407.15845v1)|null|
