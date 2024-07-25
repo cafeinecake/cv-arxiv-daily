@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-24**|**The HalfDome Multi-Survey Cosmological Simulations: N-body Simulations**|Adrian E. Bayer et.al.|[2407.17462v1](http://arxiv.org/abs/2407.17462v1)|[2407.17462v1](http://arxiv.org/pdf/2407.17462v1)|null|
+|**2024-07-24**|**The origins of the magnetic field in tip-RGB, AGB and post-AGB stars**|Renada Konstantinova-Antova et.al.|[2407.17421v1](http://arxiv.org/abs/2407.17421v1)|[2407.17421v1](http://arxiv.org/pdf/2407.17421v1)|null|
+|**2024-07-24**|**Strong Balmer break objects at z ~ 7-10 uncovered with JWST**|A. Kuruvanthodi et.al.|[2407.17410v1](http://arxiv.org/abs/2407.17410v1)|[2407.17410v1](http://arxiv.org/pdf/2407.17410v1)|null|
+|**2024-07-24**|**Data-driven stellar intrinsic colors and dust reddenings for spectro-photometric data: From the blue-edge method to a machine-learning approach**|He Zhao et.al.|[2407.17386v1](http://arxiv.org/abs/2407.17386v1)|[2407.17386v1](http://arxiv.org/pdf/2407.17386v1)|null|
+|**2024-07-24**|**Final Alignment and Image Quality Test for the Acquisition and Guiding System of SOXS**|J. A. Araiza-Duran et.al.|[2407.17382v1](http://arxiv.org/abs/2407.17382v1)|[2407.17382v1](http://arxiv.org/pdf/2407.17382v1)|null|
+|**2024-07-24**|**Cosmic ray susceptibility of the Terahertz Intensity Mapper detector arrays**|Lun-Jun Liu et.al.|[2407.17381v1](http://arxiv.org/abs/2407.17381v1)|[2407.17381v1](http://arxiv.org/pdf/2407.17381v1)|null|
+|**2024-07-24**|**Climate Change in Hell: Long-Term Variation in Transits of the Evaporating Planet K2-22b**|E. Gaidos et.al.|[2407.17372v1](http://arxiv.org/abs/2407.17372v1)|[2407.17372v1](http://arxiv.org/pdf/2407.17372v1)|null|
+|**2024-07-24**|**Simulated [CII] in high-z galaxies**|N. Muñoz-Elgueta et.al.|[2407.17359v1](http://arxiv.org/abs/2407.17359v1)|[2407.17359v1](http://arxiv.org/pdf/2407.17359v1)|null|
+|**2024-07-24**|**Anisotropic Dark Energy Stars within Vanishing Complexity Factor Formalism: Hydrostatic Equilibrium, Radial Oscillations, and Observational Implications**|G. Panotopoulos et.al.|[2407.17335v1](http://arxiv.org/abs/2407.17335v1)|[2407.17335v1](http://arxiv.org/pdf/2407.17335v1)|null|
+|**2024-07-24**|**Asymmetries in asymptotic giant branch stars and their winds. I. From 3D RHD models to synthetic observables**|Joachim Wiegert et.al.|[2407.17317v1](http://arxiv.org/abs/2407.17317v1)|[2407.17317v1](http://arxiv.org/pdf/2407.17317v1)|null|
 |**2024-07-23**|**DIISC-V: Variations in H$α$-to-FUV Star Formation Rate Ratios Across Star-forming Regions in Nearby Galaxies**|Mansi Padave et.al.|[2407.16690v1](http://arxiv.org/abs/2407.16690v1)|[2407.16690v1](http://arxiv.org/pdf/2407.16690v1)|null|
 |**2024-07-23**|**Robust Preference for Dynamical Dark Energy in DESI BAO and SN Measurements**|William Giarè et.al.|[2407.16689v1](http://arxiv.org/abs/2407.16689v1)|[2407.16689v1](http://arxiv.org/pdf/2407.16689v1)|null|
 |**2024-07-23**|**Fractional Holographic Dark Energy**|Oem Trivedi et.al.|[2407.16685v1](http://arxiv.org/abs/2407.16685v1)|[2407.16685v1](http://arxiv.org/pdf/2407.16685v1)|null|
@@ -5211,6 +5221,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-24**|**I Could've Asked That: Reformulating Unanswerable Questions**|Wenting Zhao et.al.|[2407.17469v1](http://arxiv.org/abs/2407.17469v1)|[2407.17469v1](http://arxiv.org/pdf/2407.17469v1)|**[link](https://github.com/wenting-zhao/couldask)**|
+|**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468v1](http://arxiv.org/abs/2407.17468v1)|[2407.17468v1](http://arxiv.org/pdf/2407.17468v1)|null|
+|**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460v1](http://arxiv.org/abs/2407.17460v1)|[2407.17460v1](http://arxiv.org/pdf/2407.17460v1)|null|
+|**2024-07-24**|**Automated Explanation Selection for Scientific Discovery**|Markus Iser et.al.|[2407.17454v1](http://arxiv.org/abs/2407.17454v1)|[2407.17454v1](http://arxiv.org/pdf/2407.17454v1)|null|
+|**2024-07-24**|**Generative AI in Evidence-Based Software Engineering: A White Paper**|Mattel Esposito et.al.|[2407.17440v1](http://arxiv.org/abs/2407.17440v1)|[2407.17440v1](http://arxiv.org/pdf/2407.17440v1)|null|
+|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v1](http://arxiv.org/abs/2407.17438v1)|[2407.17438v1](http://arxiv.org/pdf/2407.17438v1)|**[link](https://github.com/zhenzhiwang/humanvid)**|
+|**2024-07-24**|**$A^*$ for Graphs of Convex Sets**|Kaarthik Sundar et.al.|[2407.17413v1](http://arxiv.org/abs/2407.17413v1)|[2407.17413v1](http://arxiv.org/pdf/2407.17413v1)|null|
+|**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412v1](http://arxiv.org/abs/2407.17412v1)|[2407.17412v1](http://arxiv.org/pdf/2407.17412v1)|null|
+|**2024-07-24**|**Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models**|Yida Zhao et.al.|[2407.17406v1](http://arxiv.org/abs/2407.17406v1)|[2407.17406v1](http://arxiv.org/pdf/2407.17406v1)|**[link](https://github.com/zhaoyd1/dep_transformer_grammars)**|
+|**2024-07-24**|**Why Machines Can't Be Moral: Turing's Halting Problem and the Moral Limits of Artificial Intelligence**|Massimo Passamonti et.al.|[2407.16890v1](http://arxiv.org/abs/2407.16890v1)|[2407.16890v1](http://arxiv.org/pdf/2407.16890v1)|null|
 |**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695v1](http://arxiv.org/abs/2407.16695v1)|[2407.16695v1](http://arxiv.org/pdf/2407.16695v1)|null|
 |**2024-07-23**|**KAN or MLP: A Fairer Comparison**|Runpeng Yu et.al.|[2407.16674v1](http://arxiv.org/abs/2407.16674v1)|[2407.16674v1](http://arxiv.org/pdf/2407.16674v1)|**[link](https://github.com/yu-rp/kanbefair)**|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667v1](http://arxiv.org/abs/2407.16667v1)|[2407.16667v1](http://arxiv.org/pdf/2407.16667v1)|null|
