@@ -1,4 +1,4 @@
-> Updated on 2024.07.25
+> Updated on 2024.07.26
 
 ## Astrophysics
 
@@ -5219,7 +5219,7 @@
 - 2024-07-24, **Automated Explanation Selection for Scientific Discovery**, Markus Iser et.al., Paper: [http://arxiv.org/abs/2407.17454v1](http://arxiv.org/abs/2407.17454v1), Paper: [http://arxiv.org/abs/2407.17454v1](http://arxiv.org/pdf/2407.17454v1)
 - 2024-07-24, **Generative AI in Evidence-Based Software Engineering: A White Paper**, Mattel Esposito et.al., Paper: [http://arxiv.org/abs/2407.17440v1](http://arxiv.org/abs/2407.17440v1), Paper: [http://arxiv.org/abs/2407.17440v1](http://arxiv.org/pdf/2407.17440v1)
 - 2024-07-24, **HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2407.17438v1](http://arxiv.org/abs/2407.17438v1),Paper: [http://arxiv.org/abs/2407.17438v1](http://arxiv.org/pdf/2407.17438v1), Code: **[https://github.com/zhenzhiwang/humanvid](https://github.com/zhenzhiwang/humanvid)**
-- 2024-07-24, **$A^*$ for Graphs of Convex Sets**, Kaarthik Sundar et.al., Paper: [http://arxiv.org/abs/2407.17413v1](http://arxiv.org/abs/2407.17413v1), Paper: [http://arxiv.org/abs/2407.17413v1](http://arxiv.org/pdf/2407.17413v1)
+- 2024-07-25, **$A^*$ for Graphs of Convex Sets**, Kaarthik Sundar et.al., Paper: [http://arxiv.org/abs/2407.17413v2](http://arxiv.org/abs/2407.17413v2), Paper: [http://arxiv.org/abs/2407.17413v2](http://arxiv.org/pdf/2407.17413v2)
 - 2024-07-24, **(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**, Tianjin Huang et.al., Paper: [http://arxiv.org/abs/2407.17412v1](http://arxiv.org/abs/2407.17412v1), Paper: [http://arxiv.org/abs/2407.17412v1](http://arxiv.org/pdf/2407.17412v1)
 - 2024-07-24, **Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models**, Yida Zhao et.al., Paper: [http://arxiv.org/abs/2407.17406v1](http://arxiv.org/abs/2407.17406v1),Paper: [http://arxiv.org/abs/2407.17406v1](http://arxiv.org/pdf/2407.17406v1), Code: **[https://github.com/zhaoyd1/dep_transformer_grammars](https://github.com/zhaoyd1/dep_transformer_grammars)**
 - 2024-07-24, **Why Machines Can't Be Moral: Turing's Halting Problem and the Moral Limits of Artificial Intelligence**, Massimo Passamonti et.al., Paper: [http://arxiv.org/abs/2407.16890v1](http://arxiv.org/abs/2407.16890v1), Paper: [http://arxiv.org/abs/2407.16890v1](http://arxiv.org/pdf/2407.16890v1)
