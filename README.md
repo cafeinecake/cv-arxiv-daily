@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-25**|**From 100 kpc to 10 Gpc: Dark Matter self-interactions before and after DESI**|Salvatore Bottaro et.al.|[2407.18252v1](http://arxiv.org/abs/2407.18252v1)|[2407.18252v1](http://arxiv.org/pdf/2407.18252v1)|null|
+|**2024-07-25**|**Probing the early universe with future GW observatories**|Suvashis Maity et.al.|[2407.18246v1](http://arxiv.org/abs/2407.18246v1)|[2407.18246v1](http://arxiv.org/pdf/2407.18246v1)|null|
+|**2024-07-25**|**Dust and Power: Unravelling the merger -- AGN connection in the second half of the cosmic history**|A. La Marca et.al.|[2407.18238v1](http://arxiv.org/abs/2407.18238v1)|[2407.18238v1](http://arxiv.org/pdf/2407.18238v1)|null|
+|**2024-07-25**|**Review of Degenerate Higher Order Scalar Tensor Theories in Cosmology**|Andrei Lazanu et.al.|[2407.18234v1](http://arxiv.org/abs/2407.18234v1)|[2407.18234v1](http://arxiv.org/pdf/2407.18234v1)|null|
+|**2024-07-25**|**One-point Statistics in various cosmic environments in the presence of massive neutrinos**|Mohadese Khoshtinat et.al.|[2407.18233v1](http://arxiv.org/abs/2407.18233v1)|[2407.18233v1](http://arxiv.org/pdf/2407.18233v1)|null|
+|**2024-07-25**|**Predicting spatial curvature $Ω_K$ in globally $CPT$-symmetric universes**|Wei-Ning Deng et.al.|[2407.18225v1](http://arxiv.org/abs/2407.18225v1)|[2407.18225v1](http://arxiv.org/pdf/2407.18225v1)|null|
+|**2024-07-25**|**Catalog of Proper Orbits for 1.25 Million Main Belt Asteroids and Discovery of 136 New Collisional Families**|David Nesvorny et.al.|[2407.18221v1](http://arxiv.org/abs/2407.18221v1)|[2407.18221v1](http://arxiv.org/pdf/2407.18221v1)|null|
+|**2024-07-25**|**GJ 238 b: A 0.57 Earth Radius Planet Orbiting an M2.5 Dwarf Star at 15.2 pc**|Evan Tey et.al.|[2407.18199v1](http://arxiv.org/abs/2407.18199v1)|[2407.18199v1](http://arxiv.org/pdf/2407.18199v1)|null|
+|**2024-07-25**|**Next Generation LLRF Control Platform for Compact C-band Linear Accelerator**|Chao Liu et.al.|[2407.18198v1](http://arxiv.org/abs/2407.18198v1)|[2407.18198v1](http://arxiv.org/pdf/2407.18198v1)|null|
+|**2024-07-25**|**Threat Level Estimation From Possible Break-Up Events In LEO**|Simone Servadio et.al.|[2407.18197v1](http://arxiv.org/abs/2407.18197v1)|[2407.18197v1](http://arxiv.org/pdf/2407.18197v1)|null|
 |**2024-07-24**|**The HalfDome Multi-Survey Cosmological Simulations: N-body Simulations**|Adrian E. Bayer et.al.|[2407.17462v1](http://arxiv.org/abs/2407.17462v1)|[2407.17462v1](http://arxiv.org/pdf/2407.17462v1)|null|
 |**2024-07-24**|**The origins of the magnetic field in tip-RGB, AGB and post-AGB stars**|Renada Konstantinova-Antova et.al.|[2407.17421v1](http://arxiv.org/abs/2407.17421v1)|[2407.17421v1](http://arxiv.org/pdf/2407.17421v1)|null|
 |**2024-07-24**|**Strong Balmer break objects at z ~ 7-10 uncovered with JWST**|A. Kuruvanthodi et.al.|[2407.17410v1](http://arxiv.org/abs/2407.17410v1)|[2407.17410v1](http://arxiv.org/pdf/2407.17410v1)|null|
@@ -5217,6 +5227,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-25**|**LoRA-Pro: Are Low-Rank Adapters Properly Optimized?**|Zhengbo Wang et.al.|[2407.18242v1](http://arxiv.org/abs/2407.18242v1)|[2407.18242v1](http://arxiv.org/pdf/2407.18242v1)|**[link](https://github.com/mrflogs/LoRA-Pro)**|
+|**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219v1](http://arxiv.org/abs/2407.18219v1)|[2407.18219v1](http://arxiv.org/pdf/2407.18219v1)|null|
+|**2024-07-25**|**Exploring Scaling Trends in LLM Robustness**|Nikolhaus Howe et.al.|[2407.18213v1](http://arxiv.org/abs/2407.18213v1)|[2407.18213v1](http://arxiv.org/pdf/2407.18213v1)|null|
+|**2024-07-25**|**Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**|Samuel Yen-Chi Chen et.al.|[2407.18202v1](http://arxiv.org/abs/2407.18202v1)|[2407.18202v1](http://arxiv.org/pdf/2407.18202v1)|null|
+|**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181v1](http://arxiv.org/abs/2407.18181v1)|[2407.18181v1](http://arxiv.org/pdf/2407.18181v1)|null|
+|**2024-07-25**|**PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations**|Cheng Qian et.al.|[2407.18178v1](http://arxiv.org/abs/2407.18178v1)|[2407.18178v1](http://arxiv.org/pdf/2407.18178v1)|null|
+|**2024-07-25**|**Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers**|Zhengang Li et.al.|[2407.18175v1](http://arxiv.org/abs/2407.18175v1)|[2407.18175v1](http://arxiv.org/pdf/2407.18175v1)|null|
+|**2024-07-25**|**ArtA: Automating Design Space Exploration of Spin Qubit Architectures**|Nikiforos Paraskevopoulos et.al.|[2407.18151v1](http://arxiv.org/abs/2407.18151v1)|[2407.18151v1](http://arxiv.org/pdf/2407.18151v1)|null|
+|**2024-07-25**|**Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception**|Julia Hindel et.al.|[2407.18145v1](http://arxiv.org/abs/2407.18145v1)|[2407.18145v1](http://arxiv.org/pdf/2407.18145v1)|null|
+|**2024-07-25**|**Maximum Entropy On-Policy Actor-Critic via Entropy Advantage Estimation**|Jean Seong Bjorn Choe et.al.|[2407.18143v1](http://arxiv.org/abs/2407.18143v1)|[2407.18143v1](http://arxiv.org/pdf/2407.18143v1)|null|
 |**2024-07-24**|**I Could've Asked That: Reformulating Unanswerable Questions**|Wenting Zhao et.al.|[2407.17469v1](http://arxiv.org/abs/2407.17469v1)|[2407.17469v1](http://arxiv.org/pdf/2407.17469v1)|**[link](https://github.com/wenting-zhao/couldask)**|
 |**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468v1](http://arxiv.org/abs/2407.17468v1)|[2407.17468v1](http://arxiv.org/pdf/2407.17468v1)|null|
 |**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460v1](http://arxiv.org/abs/2407.17460v1)|[2407.17460v1](http://arxiv.org/pdf/2407.17460v1)|null|
