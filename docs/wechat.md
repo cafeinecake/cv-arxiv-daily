@@ -1,4 +1,4 @@
-> Updated on 2024.07.28
+> Updated on 2024.07.29
 
 ## Astrophysics
 
@@ -5224,8 +5224,8 @@
 ## AI
 
 - 2024-07-25, **LoRA-Pro: Are Low-Rank Adapters Properly Optimized?**, Zhengbo Wang et.al., Paper: [http://arxiv.org/abs/2407.18242v1](http://arxiv.org/abs/2407.18242v1),Paper: [http://arxiv.org/abs/2407.18242v1](http://arxiv.org/pdf/2407.18242v1), Code: **[https://github.com/mrflogs/LoRA-Pro](https://github.com/mrflogs/LoRA-Pro)**
-- 2024-07-25, **Recursive Introspection: Teaching Language Model Agents How to Self-Improve**, Yuxiao Qu et.al., Paper: [http://arxiv.org/abs/2407.18219v1](http://arxiv.org/abs/2407.18219v1), Paper: [http://arxiv.org/abs/2407.18219v1](http://arxiv.org/pdf/2407.18219v1)
-- 2024-07-25, **Exploring Scaling Trends in LLM Robustness**, Nikolhaus Howe et.al., Paper: [http://arxiv.org/abs/2407.18213v1](http://arxiv.org/abs/2407.18213v1), Paper: [http://arxiv.org/abs/2407.18213v1](http://arxiv.org/pdf/2407.18213v1)
+- 2024-07-26, **Recursive Introspection: Teaching Language Model Agents How to Self-Improve**, Yuxiao Qu et.al., Paper: [http://arxiv.org/abs/2407.18219v2](http://arxiv.org/abs/2407.18219v2), Paper: [http://arxiv.org/abs/2407.18219v2](http://arxiv.org/pdf/2407.18219v2)
+- 2024-07-26, **Exploring Scaling Trends in LLM Robustness**, Nikolaus Howe et.al., Paper: [http://arxiv.org/abs/2407.18213v2](http://arxiv.org/abs/2407.18213v2), Paper: [http://arxiv.org/abs/2407.18213v2](http://arxiv.org/pdf/2407.18213v2)
 - 2024-07-25, **Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**, Samuel Yen-Chi Chen et.al., Paper: [http://arxiv.org/abs/2407.18202v1](http://arxiv.org/abs/2407.18202v1), Paper: [http://arxiv.org/abs/2407.18202v1](http://arxiv.org/pdf/2407.18202v1)
 - 2024-07-25, **Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**, Sindhura Kommu et.al., Paper: [http://arxiv.org/abs/2407.18181v1](http://arxiv.org/abs/2407.18181v1), Paper: [http://arxiv.org/abs/2407.18181v1](http://arxiv.org/pdf/2407.18181v1)
 - 2024-07-25, **PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations**, Cheng Qian et.al., Paper: [http://arxiv.org/abs/2407.18178v1](http://arxiv.org/abs/2407.18178v1), Paper: [http://arxiv.org/abs/2407.18178v1](http://arxiv.org/pdf/2407.18178v1)
