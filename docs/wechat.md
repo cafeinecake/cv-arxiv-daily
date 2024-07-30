@@ -1,4 +1,4 @@
-> Updated on 2024.07.29
+> Updated on 2024.07.30
 
 ## Astrophysics
 
@@ -5234,7 +5234,7 @@
 ## AI
 
 - 2024-07-26, **SOAP-RL: Sequential Option Advantage Propagation for Reinforcement Learning in POMDP Environments**, Shu Ishida et.al., Paper: [http://arxiv.org/abs/2407.18913v1](http://arxiv.org/abs/2407.18913v1), Paper: [http://arxiv.org/abs/2407.18913v1](http://arxiv.org/pdf/2407.18913v1)
-- 2024-07-26, **A Scalable Quantum Non-local Neural Network for Image Classification**, Sparsh Gupta et.al., Paper: [http://arxiv.org/abs/2407.18906v1](http://arxiv.org/abs/2407.18906v1), Paper: [http://arxiv.org/abs/2407.18906v1](http://arxiv.org/pdf/2407.18906v1)
+- 2024-07-26, **A Scalable Quantum Non-local Neural Network for Image Classification**, Sparsh Gupta et.al., Paper: [http://arxiv.org/abs/2407.18906v1](http://arxiv.org/abs/2407.18906v1),Paper: [http://arxiv.org/abs/2407.18906v1](http://arxiv.org/pdf/2407.18906v1), Code: **[https://github.com/sparshgup/QNL-Net](https://github.com/sparshgup/QNL-Net)**
 - 2024-07-26, **Lessons from Learning to Spin "Pens"**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2407.18902v1](http://arxiv.org/abs/2407.18902v1), Paper: [http://arxiv.org/abs/2407.18902v1](http://arxiv.org/pdf/2407.18902v1)
 - 2024-07-26, **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents**, Harsh Trivedi et.al., Paper: [http://arxiv.org/abs/2407.18901v1](http://arxiv.org/abs/2407.18901v1),Paper: [http://arxiv.org/abs/2407.18901v1](http://arxiv.org/pdf/2407.18901v1), Code: **[https://github.com/stonybrooknlp/appworld](https://github.com/stonybrooknlp/appworld)**
 - 2024-07-26, **Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence**, Mengyao Lyu et.al., Paper: [http://arxiv.org/abs/2407.18899v1](http://arxiv.org/abs/2407.18899v1), Paper: [http://arxiv.org/abs/2407.18899v1](http://arxiv.org/pdf/2407.18899v1)
