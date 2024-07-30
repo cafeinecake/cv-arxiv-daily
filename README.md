@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-29**|**Ionospheric contributions to the excess power in high-redshift 21-cm power-spectrum observations with LOFAR**|S. A. Brackenhoff et.al.|[2407.20220v1](http://arxiv.org/abs/2407.20220v1)|[2407.20220v1](http://arxiv.org/pdf/2407.20220v1)|null|
+|**2024-07-29**|**Tetrahedral grids in Monte Carlo radiative transfer**|Arno Lauwers et.al.|[2407.20216v1](http://arxiv.org/abs/2407.20216v1)|[2407.20216v1](http://arxiv.org/pdf/2407.20216v1)|null|
+|**2024-07-29**|**Prospects of using closure traces directly for imaging in Very Long Baseline Interferometry**|Hendrik Müller et.al.|[2407.20190v1](http://arxiv.org/abs/2407.20190v1)|[2407.20190v1](http://arxiv.org/pdf/2407.20190v1)|null|
+|**2024-07-29**|**On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**|Samy Kaci et.al.|[2407.20186v1](http://arxiv.org/abs/2407.20186v1)|[2407.20186v1](http://arxiv.org/pdf/2407.20186v1)|null|
+|**2024-07-29**|**$I$-Love-$Q$, and $δM$ too: The role of the mass in universal relations of compact stars**|Eneko Aranguren et.al.|[2407.20151v1](http://arxiv.org/abs/2407.20151v1)|[2407.20151v1](http://arxiv.org/pdf/2407.20151v1)|null|
+|**2024-07-29**|**Self-similar cluster structures in massive star-forming regions: Isolated evolution from clumps to embedded clusters**|J. W. Zhou et.al.|[2407.20150v1](http://arxiv.org/abs/2407.20150v1)|[2407.20150v1](http://arxiv.org/pdf/2407.20150v1)|null|
+|**2024-07-29**|**Deciphering the Instability of the Black Hole Ringdown Quasinormal Spectrum**|A. Ianniccari et.al.|[2407.20144v1](http://arxiv.org/abs/2407.20144v1)|[2407.20144v1](http://arxiv.org/pdf/2407.20144v1)|null|
+|**2024-07-29**|**Multiplicity of stars with planets in the solar neighbourhood**|J. González-Payo et.al.|[2407.20138v1](http://arxiv.org/abs/2407.20138v1)|[2407.20138v1](http://arxiv.org/pdf/2407.20138v1)|null|
+|**2024-07-29**|**Impact of Parameters in the Blazar Jet Magnetic Field Model on Axion-Like Particle Constraints**|Lin-Qing Gao et.al.|[2407.20118v1](http://arxiv.org/abs/2407.20118v1)|[2407.20118v1](http://arxiv.org/pdf/2407.20118v1)|null|
+|**2024-07-29**|**Disk and atmosphere composition of multi-planet systems**|Mark Eberlein et.al.|[2407.20117v1](http://arxiv.org/abs/2407.20117v1)|[2407.20117v1](http://arxiv.org/pdf/2407.20117v1)|null|
 |**2024-07-26**|**Validating the clustering predictions of empirical models with the FLAMINGO simulations**|Sergio Contreras et.al.|[2407.18912v1](http://arxiv.org/abs/2407.18912v1)|[2407.18912v1](http://arxiv.org/pdf/2407.18912v1)|null|
 |**2024-07-26**|**Hybrid summary statistics: neural weak lensing inference beyond the power spectrum**|T. Lucas Makinen et.al.|[2407.18909v1](http://arxiv.org/abs/2407.18909v1)|[2407.18909v1](http://arxiv.org/pdf/2407.18909v1)|null|
 |**2024-07-26**|**A comparative analysis of dissipation coefficients in warm inflation**|F. B. M. dos Santos et.al.|[2407.18891v1](http://arxiv.org/abs/2407.18891v1)|[2407.18891v1](http://arxiv.org/pdf/2407.18891v1)|null|
@@ -5237,6 +5247,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232v1](http://arxiv.org/abs/2407.20232v1)|[2407.20232v1](http://arxiv.org/pdf/2407.20232v1)|null|
+|**2024-07-29**|**SAPG: Split and Aggregate Policy Gradients**|Jayesh Singla et.al.|[2407.20230v1](http://arxiv.org/abs/2407.20230v1)|[2407.20230v1](http://arxiv.org/pdf/2407.20230v1)|null|
+|**2024-07-29**|**SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction**|Çağhan Köksal et.al.|[2407.20214v1](http://arxiv.org/abs/2407.20214v1)|[2407.20214v1](http://arxiv.org/pdf/2407.20214v1)|null|
+|**2024-07-29**|**Supertrust: Evolution-based superalignment strategy for safe coexistence**|James M. Mazzu et.al.|[2407.20208v1](http://arxiv.org/abs/2407.20208v1)|[2407.20208v1](http://arxiv.org/pdf/2407.20208v1)|null|
+|**2024-07-29**|**QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**|Hongming Tan et.al.|[2407.20207v1](http://arxiv.org/abs/2407.20207v1)|[2407.20207v1](http://arxiv.org/pdf/2407.20207v1)|null|
+|**2024-07-29**|**Learning Random Numbers to Realize Appendable Memory System for Artificial Intelligence to Acquire New Knowledge after Deployment**|Kazunori D Yamada et.al.|[2407.20197v1](http://arxiv.org/abs/2407.20197v1)|[2407.20197v1](http://arxiv.org/pdf/2407.20197v1)|null|
+|**2024-07-29**|**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**|Zehui Chen et.al.|[2407.20183v1](http://arxiv.org/abs/2407.20183v1)|[2407.20183v1](http://arxiv.org/pdf/2407.20183v1)|**[link](https://github.com/internlm/mindsearch)**|
+|**2024-07-29**|**Theia: Distilling Diverse Vision Foundation Models for Robot Learning**|Jinghuan Shang et.al.|[2407.20179v1](http://arxiv.org/abs/2407.20179v1)|[2407.20179v1](http://arxiv.org/pdf/2407.20179v1)|**[link](https://github.com/bdaiinstitute/theia)**|
+|**2024-07-29**|**AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs**|Feiyang Kang et.al.|[2407.20177v1](http://arxiv.org/abs/2407.20177v1)|[2407.20177v1](http://arxiv.org/pdf/2407.20177v1)|null|
+|**2024-07-29**|**Emotion-Driven Melody Harmonization via Melodic Variation and Functional Representation**|Jingyue Huang et.al.|[2407.20176v1](http://arxiv.org/abs/2407.20176v1)|[2407.20176v1](http://arxiv.org/pdf/2407.20176v1)|**[link](https://github.com/yuer867/emo_harmonizer)**|
 |**2024-07-26**|**SOAP-RL: Sequential Option Advantage Propagation for Reinforcement Learning in POMDP Environments**|Shu Ishida et.al.|[2407.18913v1](http://arxiv.org/abs/2407.18913v1)|[2407.18913v1](http://arxiv.org/pdf/2407.18913v1)|null|
 |**2024-07-26**|**A Scalable Quantum Non-local Neural Network for Image Classification**|Sparsh Gupta et.al.|[2407.18906v1](http://arxiv.org/abs/2407.18906v1)|[2407.18906v1](http://arxiv.org/pdf/2407.18906v1)|**[link](https://github.com/sparshgup/QNL-Net)**|
 |**2024-07-26**|**Lessons from Learning to Spin "Pens"**|Jun Wang et.al.|[2407.18902v1](http://arxiv.org/abs/2407.18902v1)|[2407.18902v1](http://arxiv.org/pdf/2407.18902v1)|null|
