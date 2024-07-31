@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-30**|**A Multiwavelength Portrait of the 3C 220.3 Lensed System**|Sóley Ó. Hyman et.al.|[2407.21020v1](http://arxiv.org/abs/2407.21020v1)|[2407.21020v1](http://arxiv.org/pdf/2407.21020v1)|null|
+|**2024-07-30**|**Catalog-based pseudo-$C_\ell$s**|Kevin Wolz et.al.|[2407.21013v1](http://arxiv.org/abs/2407.21013v1)|[2407.21013v1](http://arxiv.org/pdf/2407.21013v1)|null|
+|**2024-07-30**|**Bayesian technique to combine independently-trained Machine-Learning models applied to direct dark matter detection**|David Cerdeno et.al.|[2407.21008v1](http://arxiv.org/abs/2407.21008v1)|[2407.21008v1](http://arxiv.org/pdf/2407.21008v1)|**[link](https://github.com/Martindelosrios/CADDENA)**|
+|**2024-07-30**|**Meteoritic Tutton salt, a naturally inspired reservoir of cometary and asteroidal ammonium**|Sergey N. Britvin et.al.|[2407.20997v1](http://arxiv.org/abs/2407.20997v1)|[2407.20997v1](http://arxiv.org/pdf/2407.20997v1)|null|
+|**2024-07-30**|**Spin response of neutron matter in ab initio approach**|J. E. Sobczyk et.al.|[2407.20986v1](http://arxiv.org/abs/2407.20986v1)|[2407.20986v1](http://arxiv.org/pdf/2407.20986v1)|null|
+|**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982v1](http://arxiv.org/abs/2407.20982v1)|[2407.20982v1](http://arxiv.org/pdf/2407.20982v1)|null|
+|**2024-07-30**|**Recent Update of Gas-Phase Chemical Reactions and Molecular Lines of TiO in Cloudy**|Gargi Shaw et.al.|[2407.20972v1](http://arxiv.org/abs/2407.20972v1)|[2407.20972v1](http://arxiv.org/pdf/2407.20972v1)|null|
+|**2024-07-30**|**Neutron star kicks plus rockets as a mechanism for forming wide low-eccentricity neutron star binaries**|Ryosuke Hirai et.al.|[2407.20967v1](http://arxiv.org/abs/2407.20967v1)|[2407.20967v1](http://arxiv.org/pdf/2407.20967v1)|null|
+|**2024-07-30**|**Track signals at IceCube from subleading channels**|Reinaldo Francener et.al.|[2407.20963v1](http://arxiv.org/abs/2407.20963v1)|[2407.20963v1](http://arxiv.org/pdf/2407.20963v1)|null|
+|**2024-07-30**|**Atmospheric characterization of the super-Jupiter HIP 99770 b with KPIC**|Yapeng Zhang et.al.|[2407.20952v1](http://arxiv.org/abs/2407.20952v1)|[2407.20952v1](http://arxiv.org/pdf/2407.20952v1)|null|
 |**2024-07-29**|**Ionospheric contributions to the excess power in high-redshift 21-cm power-spectrum observations with LOFAR**|S. A. Brackenhoff et.al.|[2407.20220v1](http://arxiv.org/abs/2407.20220v1)|[2407.20220v1](http://arxiv.org/pdf/2407.20220v1)|null|
 |**2024-07-29**|**Tetrahedral grids in Monte Carlo radiative transfer**|Arno Lauwers et.al.|[2407.20216v1](http://arxiv.org/abs/2407.20216v1)|[2407.20216v1](http://arxiv.org/pdf/2407.20216v1)|null|
 |**2024-07-29**|**Prospects of using closure traces directly for imaging in Very Long Baseline Interferometry**|Hendrik Müller et.al.|[2407.20190v1](http://arxiv.org/abs/2407.20190v1)|[2407.20190v1](http://arxiv.org/pdf/2407.20190v1)|null|
@@ -5247,6 +5257,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018v1](http://arxiv.org/abs/2407.21018v1)|[2407.21018v1](http://arxiv.org/pdf/2407.21018v1)|null|
+|**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011v1](http://arxiv.org/abs/2407.21011v1)|[2407.21011v1](http://arxiv.org/pdf/2407.21011v1)|**[link](https://github.com/xypb/cleft)**|
+|**2024-07-30**|**AI-Assisted Generation of Difficult Math Questions**|Vedant Shah et.al.|[2407.21009v1](http://arxiv.org/abs/2407.21009v1)|[2407.21009v1](http://arxiv.org/pdf/2407.21009v1)|null|
+|**2024-07-30**|**XHand: Real-time Expressive Hand Avatar**|Qijun Gan et.al.|[2407.21002v1](http://arxiv.org/abs/2407.21002v1)|[2407.21002v1](http://arxiv.org/pdf/2407.21002v1)|**[link](https://github.com/agnjason/xhand)**|
+|**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001v1](http://arxiv.org/abs/2407.21001v1)|[2407.21001v1](http://arxiv.org/pdf/2407.21001v1)|null|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999v1](http://arxiv.org/abs/2407.20999v1)|[2407.20999v1](http://arxiv.org/pdf/2407.20999v1)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990v1](http://arxiv.org/abs/2407.20990v1)|[2407.20990v1](http://arxiv.org/pdf/2407.20990v1)|null|
+|**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970v1](http://arxiv.org/abs/2407.20970v1)|[2407.20970v1](http://arxiv.org/pdf/2407.20970v1)|null|
+|**2024-07-30**|**An Effective Dynamic Gradient Calibration Method for Continual Learning**|Weichen Lin et.al.|[2407.20956v1](http://arxiv.org/abs/2407.20956v1)|[2407.20956v1](http://arxiv.org/pdf/2407.20956v1)|null|
+|**2024-07-30**|**Emotion-driven Piano Music Generation via Two-stage Disentanglement and Functional Representation**|Jingyue Huang et.al.|[2407.20955v1](http://arxiv.org/abs/2407.20955v1)|[2407.20955v1](http://arxiv.org/pdf/2407.20955v1)|**[link](https://github.com/yuer867/emo-disentanger)**|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232v1](http://arxiv.org/abs/2407.20232v1)|[2407.20232v1](http://arxiv.org/pdf/2407.20232v1)|null|
 |**2024-07-29**|**SAPG: Split and Aggregate Policy Gradients**|Jayesh Singla et.al.|[2407.20230v1](http://arxiv.org/abs/2407.20230v1)|[2407.20230v1](http://arxiv.org/pdf/2407.20230v1)|null|
 |**2024-07-29**|**SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction**|Çağhan Köksal et.al.|[2407.20214v1](http://arxiv.org/abs/2407.20214v1)|[2407.20214v1](http://arxiv.org/pdf/2407.20214v1)|null|
