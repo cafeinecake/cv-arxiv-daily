@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-31**|**First measurement of the triaxiality of the inner dark matter halo of the Milky Way**|Hanneke C. Woudenberg et.al.|[2407.21790v1](http://arxiv.org/abs/2407.21790v1)|[2407.21790v1](http://arxiv.org/pdf/2407.21790v1)|null|
+|**2024-07-31**|**Spurious Solar-Wind Effects on Acceleration Noise in LISA Pathfinder**|Arnold Yang et.al.|[2407.21774v1](http://arxiv.org/abs/2407.21774v1)|[2407.21774v1](http://arxiv.org/pdf/2407.21774v1)|null|
+|**2024-07-31**|**The frequency of transiting planetary systems around polluted white dwarfs**|Akshay Robert et.al.|[2407.21743v1](http://arxiv.org/abs/2407.21743v1)|[2407.21743v1](http://arxiv.org/pdf/2407.21743v1)|null|
+|**2024-07-31**|**A study in scarlet -- II. Spectroscopic properties of a sample of Intermediate Luminosity Red Transients**|G. Valerin et.al.|[2407.21733v1](http://arxiv.org/abs/2407.21733v1)|[2407.21733v1](http://arxiv.org/pdf/2407.21733v1)|null|
+|**2024-07-31**|**Revisiting the fundamental metallicity relation with observation and simulation**|Chengyu Ma et.al.|[2407.21716v1](http://arxiv.org/abs/2407.21716v1)|[2407.21716v1](http://arxiv.org/pdf/2407.21716v1)|null|
+|**2024-07-31**|**FNet II: Spectral Classification of Quasars, Galaxies, Stars, and broad absorption line (BAL) Quasars**|R. Moradi et.al.|[2407.21702v1](http://arxiv.org/abs/2407.21702v1)|[2407.21702v1](http://arxiv.org/pdf/2407.21702v1)|null|
+|**2024-07-31**|**GEO and LEO: The Final Frontier for Plutonic FFP Parallax**|Andrew Gould et.al.|[2407.21696v1](http://arxiv.org/abs/2407.21696v1)|[2407.21696v1](http://arxiv.org/pdf/2407.21696v1)|null|
+|**2024-07-31**|**SQUIDs for detection of potential dark matter candidates**|Siddarth Sivakumar et.al.|[2407.21689v1](http://arxiv.org/abs/2407.21689v1)|[2407.21689v1](http://arxiv.org/pdf/2407.21689v1)|null|
+|**2024-07-31**|**Search for extraplanar radio emission in a sample of edge-on starburst galaxies**|C. A. Galante et.al.|[2407.21679v1](http://arxiv.org/abs/2407.21679v1)|[2407.21679v1](http://arxiv.org/pdf/2407.21679v1)|null|
+|**2024-07-31**|**Toward Spectrum Coexistence: First Demonstration of the Effectiveness of Boresight Avoidance between the NRAO Green Bank Telescope and Starlink Satellites**|Bang D. Nhan et.al.|[2407.21675v1](http://arxiv.org/abs/2407.21675v1)|[2407.21675v1](http://arxiv.org/pdf/2407.21675v1)|null|
 |**2024-07-30**|**A Multiwavelength Portrait of the 3C 220.3 Lensed System**|Sóley Ó. Hyman et.al.|[2407.21020v1](http://arxiv.org/abs/2407.21020v1)|[2407.21020v1](http://arxiv.org/pdf/2407.21020v1)|null|
 |**2024-07-30**|**Catalog-based pseudo-$C_\ell$s**|Kevin Wolz et.al.|[2407.21013v1](http://arxiv.org/abs/2407.21013v1)|[2407.21013v1](http://arxiv.org/pdf/2407.21013v1)|null|
 |**2024-07-30**|**Bayesian technique to combine independently-trained Machine-Learning models applied to direct dark matter detection**|David Cerdeno et.al.|[2407.21008v1](http://arxiv.org/abs/2407.21008v1)|[2407.21008v1](http://arxiv.org/pdf/2407.21008v1)|**[link](https://github.com/Martindelosrios/CADDENA)**|
@@ -5261,6 +5271,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794v1](http://arxiv.org/abs/2407.21794v1)|[2407.21794v1](http://arxiv.org/pdf/2407.21794v1)|null|
+|**2024-07-31**|**Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?**|Richard Ren et.al.|[2407.21792v1](http://arxiv.org/abs/2407.21792v1)|[2407.21792v1](http://arxiv.org/pdf/2407.21792v1)|null|
+|**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788v1](http://arxiv.org/abs/2407.21788v1)|[2407.21788v1](http://arxiv.org/pdf/2407.21788v1)|null|
+|**2024-07-31**|**Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**|Bradley Brown et.al.|[2407.21787v1](http://arxiv.org/abs/2407.21787v1)|[2407.21787v1](http://arxiv.org/pdf/2407.21787v1)|null|
+|**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783v1](http://arxiv.org/abs/2407.21783v1)|[2407.21783v1](http://arxiv.org/pdf/2407.21783v1)|null|
+|**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778v1](http://arxiv.org/abs/2407.21778v1)|[2407.21778v1](http://arxiv.org/pdf/2407.21778v1)|null|
+|**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770v1](http://arxiv.org/abs/2407.21770v1)|[2407.21770v1](http://arxiv.org/pdf/2407.21770v1)|null|
+|**2024-07-31**|**HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection**|Junwei He et.al.|[2407.21742v1](http://arxiv.org/abs/2407.21742v1)|[2407.21742v1](http://arxiv.org/pdf/2407.21742v1)|null|
+|**2024-07-31**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740v1](http://arxiv.org/abs/2407.21740v1)|[2407.21740v1](http://arxiv.org/pdf/2407.21740v1)|null|
+|**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739v1](http://arxiv.org/abs/2407.21739v1)|[2407.21739v1](http://arxiv.org/pdf/2407.21739v1)|null|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018v1](http://arxiv.org/abs/2407.21018v1)|[2407.21018v1](http://arxiv.org/pdf/2407.21018v1)|null|
 |**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011v1](http://arxiv.org/abs/2407.21011v1)|[2407.21011v1](http://arxiv.org/pdf/2407.21011v1)|**[link](https://github.com/xypb/cleft)**|
 |**2024-07-30**|**AI-Assisted Generation of Difficult Math Questions**|Vedant Shah et.al.|[2407.21009v1](http://arxiv.org/abs/2407.21009v1)|[2407.21009v1](http://arxiv.org/pdf/2407.21009v1)|null|
