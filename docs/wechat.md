@@ -1,4 +1,4 @@
-> Updated on 2024.07.31
+> Updated on 2024.08.01
 
 ## Astrophysics
 
@@ -5258,7 +5258,7 @@
 - 2024-07-30, **AI-Assisted Generation of Difficult Math Questions**, Vedant Shah et.al., Paper: [http://arxiv.org/abs/2407.21009v1](http://arxiv.org/abs/2407.21009v1), Paper: [http://arxiv.org/abs/2407.21009v1](http://arxiv.org/pdf/2407.21009v1)
 - 2024-07-30, **XHand: Real-time Expressive Hand Avatar**, Qijun Gan et.al., Paper: [http://arxiv.org/abs/2407.21002v1](http://arxiv.org/abs/2407.21002v1),Paper: [http://arxiv.org/abs/2407.21002v1](http://arxiv.org/pdf/2407.21002v1), Code: **[https://github.com/agnjason/xhand](https://github.com/agnjason/xhand)**
 - 2024-07-30, **GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**, Ali Abdollahi et.al., Paper: [http://arxiv.org/abs/2407.21001v1](http://arxiv.org/abs/2407.21001v1), Paper: [http://arxiv.org/abs/2407.21001v1](http://arxiv.org/pdf/2407.21001v1)
-- 2024-07-30, **MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**, Yupeng Chen et.al., Paper: [http://arxiv.org/abs/2407.20999v1](http://arxiv.org/abs/2407.20999v1), Paper: [http://arxiv.org/abs/2407.20999v1](http://arxiv.org/pdf/2407.20999v1)
+- 2024-07-31, **MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**, Yupeng Chen et.al., Paper: [http://arxiv.org/abs/2407.20999v2](http://arxiv.org/abs/2407.20999v2), Paper: [http://arxiv.org/abs/2407.20999v2](http://arxiv.org/pdf/2407.20999v2)
 - 2024-07-30, **From Feature Importance to Natural Language Explanations Using LLMs with RAG**, Sule Tekkesinoglu et.al., Paper: [http://arxiv.org/abs/2407.20990v1](http://arxiv.org/abs/2407.20990v1), Paper: [http://arxiv.org/abs/2407.20990v1](http://arxiv.org/pdf/2407.20990v1)
 - 2024-07-30, **Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**, Alakesh Kalita et.al., Paper: [http://arxiv.org/abs/2407.20970v1](http://arxiv.org/abs/2407.20970v1), Paper: [http://arxiv.org/abs/2407.20970v1](http://arxiv.org/pdf/2407.20970v1)
 - 2024-07-30, **An Effective Dynamic Gradient Calibration Method for Continual Learning**, Weichen Lin et.al., Paper: [http://arxiv.org/abs/2407.20956v1](http://arxiv.org/abs/2407.20956v1), Paper: [http://arxiv.org/abs/2407.20956v1](http://arxiv.org/pdf/2407.20956v1)
