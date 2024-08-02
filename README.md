@@ -1,4 +1,4 @@
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 
 ## Astrophysics
 
@@ -5275,7 +5275,7 @@
 |**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778v1](http://arxiv.org/abs/2407.21778v1)|[2407.21778v1](http://arxiv.org/pdf/2407.21778v1)|null|
 |**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770v1](http://arxiv.org/abs/2407.21770v1)|[2407.21770v1](http://arxiv.org/pdf/2407.21770v1)|null|
 |**2024-07-31**|**HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection**|Junwei He et.al.|[2407.21742v1](http://arxiv.org/abs/2407.21742v1)|[2407.21742v1](http://arxiv.org/pdf/2407.21742v1)|null|
-|**2024-07-31**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740v1](http://arxiv.org/abs/2407.21740v1)|[2407.21740v1](http://arxiv.org/pdf/2407.21740v1)|null|
+|**2024-08-01**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740v2](http://arxiv.org/abs/2407.21740v2)|[2407.21740v2](http://arxiv.org/pdf/2407.21740v2)|null|
 |**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739v1](http://arxiv.org/abs/2407.21739v1)|[2407.21739v1](http://arxiv.org/pdf/2407.21739v1)|null|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018v1](http://arxiv.org/abs/2407.21018v1)|[2407.21018v1](http://arxiv.org/pdf/2407.21018v1)|null|
 |**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011v1](http://arxiv.org/abs/2407.21011v1)|[2407.21011v1](http://arxiv.org/pdf/2407.21011v1)|**[link](https://github.com/xypb/cleft)**|
