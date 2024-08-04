@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-01**|**Magnetically Arrested Circumbinary Accretion Flows**|Elias R. Most et.al.|[2408.00757v1](http://arxiv.org/abs/2408.00757v1)|[2408.00757v1](http://arxiv.org/pdf/2408.00757v1)|null|
+|**2024-08-01**|**North Polar Spur: gaseous plume(s) from star-forming regions at $\sim$3-5 kpc from Galactic Center?**|E. Churazov et.al.|[2408.00752v1](http://arxiv.org/abs/2408.00752v1)|[2408.00752v1](http://arxiv.org/pdf/2408.00752v1)|null|
+|**2024-08-01**|**Investigating the role of nuclear parameters on oscillation modes in hot Neutron Stars**|Nilaksha Barman et.al.|[2408.00739v1](http://arxiv.org/abs/2408.00739v1)|[2408.00739v1](http://arxiv.org/pdf/2408.00739v1)|null|
+|**2024-08-01**|**Examining the local Universe isotropy with galaxy cluster velocity dispersion scaling relations**|A. Pandya et.al.|[2408.00726v1](http://arxiv.org/abs/2408.00726v1)|[2408.00726v1](http://arxiv.org/pdf/2408.00726v1)|null|
+|**2024-08-01**|**SOLES XI. The Aligned Orbit of TOI-2533 b, a Transiting Brown Dwarf Orbiting an F8-type Star**|Thiago Ferreira et.al.|[2408.00725v1](http://arxiv.org/abs/2408.00725v1)|[2408.00725v1](http://arxiv.org/pdf/2408.00725v1)|null|
+|**2024-08-01**|**TESS discovery of two super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the radius valley**|M. Ghachoui et.al.|[2408.00709v1](http://arxiv.org/abs/2408.00709v1)|[2408.00709v1](http://arxiv.org/pdf/2408.00709v1)|null|
+|**2024-08-01**|**Neglected Silicon Dioxide Polymorphs as Clouds in Substellar Atmospheres**|Sarah E. Moran et.al.|[2408.00698v1](http://arxiv.org/abs/2408.00698v1)|[2408.00698v1](http://arxiv.org/pdf/2408.00698v1)|null|
+|**2024-08-01**|**A closer look at dwarf galaxies exhibiting MIR variability: AGN confirmation and comparison with non-variable dwarf galaxies**|Archana Aravindan et.al.|[2408.00666v1](http://arxiv.org/abs/2408.00666v1)|[2408.00666v1](http://arxiv.org/pdf/2408.00666v1)|null|
+|**2024-08-01**|**High-latitude coronal mass ejections on the young solar-like star AB Dor**|K. Markus Strickert et.al.|[2408.00637v1](http://arxiv.org/abs/2408.00637v1)|[2408.00637v1](http://arxiv.org/pdf/2408.00637v1)|null|
+|**2024-08-01**|**Nitrogen Loss from Pluto's Birth to the Present Day via Atmospheric Escape, Photochemical Destruction, and Impact Erosion**|Perianne E. Johnson et.al.|[2408.00625v1](http://arxiv.org/abs/2408.00625v1)|[2408.00625v1](http://arxiv.org/pdf/2408.00625v1)|null|
 |**2024-07-31**|**First measurement of the triaxiality of the inner dark matter halo of the Milky Way**|Hanneke C. Woudenberg et.al.|[2407.21790v1](http://arxiv.org/abs/2407.21790v1)|[2407.21790v1](http://arxiv.org/pdf/2407.21790v1)|null|
 |**2024-07-31**|**Spurious Solar-Wind Effects on Acceleration Noise in LISA Pathfinder**|Arnold Yang et.al.|[2407.21774v1](http://arxiv.org/abs/2407.21774v1)|[2407.21774v1](http://arxiv.org/pdf/2407.21774v1)|null|
 |**2024-07-31**|**The frequency of transiting planetary systems around polluted white dwarfs**|Akshay Robert et.al.|[2407.21743v1](http://arxiv.org/abs/2407.21743v1)|[2407.21743v1](http://arxiv.org/pdf/2407.21743v1)|null|
@@ -5271,6 +5281,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-01**|**MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2408.00765v1](http://arxiv.org/abs/2408.00765v1)|[2408.00765v1](http://arxiv.org/pdf/2408.00765v1)|null|
+|**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764v1](http://arxiv.org/abs/2408.00764v1)|[2408.00764v1](http://arxiv.org/pdf/2408.00764v1)|null|
+|**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761v1](http://arxiv.org/abs/2408.00761v1)|[2408.00761v1](http://arxiv.org/pdf/2408.00761v1)|null|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|[2408.00760v1](http://arxiv.org/pdf/2408.00760v1)|null|
+|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|[2408.00756v1](http://arxiv.org/pdf/2408.00756v1)|null|
+|**2024-08-01**|**A deep learning-enabled smart garment for versatile sleep behaviour monitoring**|Chenyu Tang et.al.|[2408.00753v1](http://arxiv.org/abs/2408.00753v1)|[2408.00753v1](http://arxiv.org/pdf/2408.00753v1)|null|
+|**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751v1](http://arxiv.org/abs/2408.00751v1)|[2408.00751v1](http://arxiv.org/pdf/2408.00751v1)|null|
+|**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749v1](http://arxiv.org/abs/2408.00749v1)|[2408.00749v1](http://arxiv.org/pdf/2408.00749v1)|null|
+|**2024-08-01**|**DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency**|Jovan Stojkovic et.al.|[2408.00741v1](http://arxiv.org/abs/2408.00741v1)|[2408.00741v1](http://arxiv.org/pdf/2408.00741v1)|null|
+|**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727v1](http://arxiv.org/abs/2408.00727v1)|[2408.00727v1](http://arxiv.org/pdf/2408.00727v1)|null|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794v1](http://arxiv.org/abs/2407.21794v1)|[2407.21794v1](http://arxiv.org/pdf/2407.21794v1)|null|
 |**2024-07-31**|**Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?**|Richard Ren et.al.|[2407.21792v1](http://arxiv.org/abs/2407.21792v1)|[2407.21792v1](http://arxiv.org/pdf/2407.21792v1)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788v1](http://arxiv.org/abs/2407.21788v1)|[2407.21788v1](http://arxiv.org/pdf/2407.21788v1)|null|
