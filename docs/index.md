@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-08-01**|**North Polar Spur: gaseous plume(s) from star-forming regions at $\sim$3-5 kpc from Galactic Center?**|E. Churazov et.al.|[2408.00752v1](http://arxiv.org/abs/2408.00752v1)|[2408.00752v1](http://arxiv.org/pdf/2408.00752v1)|null|
 |**2024-08-01**|**Investigating the role of nuclear parameters on oscillation modes in hot Neutron Stars**|Nilaksha Barman et.al.|[2408.00739v1](http://arxiv.org/abs/2408.00739v1)|[2408.00739v1](http://arxiv.org/pdf/2408.00739v1)|null|
 |**2024-08-01**|**Examining the local Universe isotropy with galaxy cluster velocity dispersion scaling relations**|A. Pandya et.al.|[2408.00726v1](http://arxiv.org/abs/2408.00726v1)|[2408.00726v1](http://arxiv.org/pdf/2408.00726v1)|null|
-|**2024-08-01**|**SOLES XI. The Aligned Orbit of TOI-2533 b, a Transiting Brown Dwarf Orbiting an F8-type Star**|Thiago Ferreira et.al.|[2408.00725v1](http://arxiv.org/abs/2408.00725v1)|[2408.00725v1](http://arxiv.org/pdf/2408.00725v1)|null|
+|**2024-08-02**|**SOLES XII. The Aligned Orbit of TOI-2533 b, a Transiting Brown Dwarf Orbiting an F8-type Star**|Thiago Ferreira et.al.|[2408.00725v2](http://arxiv.org/abs/2408.00725v2)|[2408.00725v2](http://arxiv.org/pdf/2408.00725v2)|null|
 |**2024-08-01**|**TESS discovery of two super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the radius valley**|M. Ghachoui et.al.|[2408.00709v1](http://arxiv.org/abs/2408.00709v1)|[2408.00709v1](http://arxiv.org/pdf/2408.00709v1)|null|
 |**2024-08-01**|**Neglected Silicon Dioxide Polymorphs as Clouds in Substellar Atmospheres**|Sarah E. Moran et.al.|[2408.00698v1](http://arxiv.org/abs/2408.00698v1)|[2408.00698v1](http://arxiv.org/pdf/2408.00698v1)|null|
 |**2024-08-01**|**A closer look at dwarf galaxies exhibiting MIR variability: AGN confirmation and comparison with non-variable dwarf galaxies**|Archana Aravindan et.al.|[2408.00666v1](http://arxiv.org/abs/2408.00666v1)|[2408.00666v1](http://arxiv.org/pdf/2408.00666v1)|null|
