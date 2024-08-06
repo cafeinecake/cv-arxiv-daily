@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-05**|**A Targeted Search for Variable Gravitationally Lensed Quasars**|William Sheu et.al.|[2408.02670v1](http://arxiv.org/abs/2408.02670v1)|[2408.02670v1](http://arxiv.org/pdf/2408.02670v1)|null|
+|**2024-08-05**|**SDSS-IV MaNGA: Stellar rotational support in disk galaxies vs. central surface density and stellar population age**|Xiaohan Wang et.al.|[2408.02669v1](http://arxiv.org/abs/2408.02669v1)|[2408.02669v1](http://arxiv.org/pdf/2408.02669v1)|null|
+|**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno et.al.|[2408.02656v1](http://arxiv.org/abs/2408.02656v1)|[2408.02656v1](http://arxiv.org/pdf/2408.02656v1)|null|
+|**2024-08-05**|**Analysis of the Stellar Occultations During the Unprecedented Long-Duration Flare**|Kamil Bicz et.al.|[2408.02649v1](http://arxiv.org/abs/2408.02649v1)|[2408.02649v1](http://arxiv.org/pdf/2408.02649v1)|null|
+|**2024-08-05**|**PKS~J0805$-$0111: A Second Owens Valley Radio Observatory Blazar Showing Highly Significant Sinusoidal Radio Variability -- The Tip of the Iceberg**|P. V. de la Parra et.al.|[2408.02645v1](http://arxiv.org/abs/2408.02645v1)|[2408.02645v1](http://arxiv.org/pdf/2408.02645v1)|null|
+|**2024-08-05**|**Origin of LAMOST J1010+2358 Revisited**|S. K. Jeena et.al.|[2408.02643v1](http://arxiv.org/abs/2408.02643v1)|[2408.02643v1](http://arxiv.org/pdf/2408.02643v1)|null|
+|**2024-08-05**|**The Kraft Break Sharply Divides Low Mass and Intermediate Mass Stars**|Alexa C. Beyer et.al.|[2408.02638v1](http://arxiv.org/abs/2408.02638v1)|[2408.02638v1](http://arxiv.org/pdf/2408.02638v1)|null|
+|**2024-08-05**|**Tunable 30 GHz laser frequency comb for astronomical spectrograph characterization and calibration**|Pooja Sekhar et.al.|[2408.02627v1](http://arxiv.org/abs/2408.02627v1)|[2408.02627v1](http://arxiv.org/pdf/2408.02627v1)|null|
+|**2024-08-05**|**The Arizona Molecular ISM Survey with the SMT: Survey Overview and Public Data Release**|Ryan P. Keenan et.al.|[2408.02617v1](http://arxiv.org/abs/2408.02617v1)|[2408.02617v1](http://arxiv.org/pdf/2408.02617v1)|null|
+|**2024-08-05**|**Generating variable $\hbar$ and $c$ via Fujii-Wetterich model in curved spacetimes**|Hoang Ky Nguyen et.al.|[2408.02583v1](http://arxiv.org/abs/2408.02583v1)|[2408.02583v1](http://arxiv.org/pdf/2408.02583v1)|null|
 |**2024-08-02**|**Spectroscopic survey of faint planetary-nebula nuclei VI. Seventeen hydrogen-rich central stars**|Nicole Reindl et.al.|[2408.01411v1](http://arxiv.org/abs/2408.01411v1)|[2408.01411v1](http://arxiv.org/pdf/2408.01411v1)|null|
 |**2024-08-02**|**Evolution of an effective Hubble constant in $f(R)$ modified gravity**|Tiziano Schiavone et.al.|[2408.01410v1](http://arxiv.org/abs/2408.01410v1)|[2408.01410v1](http://arxiv.org/pdf/2408.01410v1)|null|
 |**2024-08-02**|**Hyperons during proto-neutron star deleptonization and the emission of dark flavored particles**|Tobias Fischer et.al.|[2408.01406v1](http://arxiv.org/abs/2408.01406v1)|[2408.01406v1](http://arxiv.org/pdf/2408.01406v1)|null|
@@ -5287,6 +5297,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-05**|**Self-Taught Evaluators**|Tianlu Wang et.al.|[2408.02666v1](http://arxiv.org/abs/2408.02666v1)|[2408.02666v1](http://arxiv.org/pdf/2408.02666v1)|null|
+|**2024-08-05**|**Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form**|Hendrik Ranocha et.al.|[2408.02665v1](http://arxiv.org/abs/2408.02665v1)|[2408.02665v1](http://arxiv.org/pdf/2408.02665v1)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651v1](http://arxiv.org/abs/2408.02651v1)|[2408.02651v1](http://arxiv.org/pdf/2408.02651v1)|null|
+|**2024-08-05**|**Towards principles of brain network organization and function**|Suman Kulkarni et.al.|[2408.02640v1](http://arxiv.org/abs/2408.02640v1)|[2408.02640v1](http://arxiv.org/pdf/2408.02640v1)|null|
+|**2024-08-05**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632v1](http://arxiv.org/abs/2408.02632v1)|[2408.02632v1](http://arxiv.org/pdf/2408.02632v1)|null|
+|**2024-08-05**|**Language Model Can Listen While Speaking**|Ziyang Ma et.al.|[2408.02622v1](http://arxiv.org/abs/2408.02622v1)|[2408.02622v1](http://arxiv.org/pdf/2408.02622v1)|null|
+|**2024-08-05**|**Backward explanations via redefinition of predicates**|Léo Saulières et.al.|[2408.02606v1](http://arxiv.org/abs/2408.02606v1)|[2408.02606v1](http://arxiv.org/pdf/2408.02606v1)|null|
+|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599v1](http://arxiv.org/abs/2408.02599v1)|[2408.02599v1](http://arxiv.org/pdf/2408.02599v1)|null|
+|**2024-08-05**|**AI-Driven Strategies for Reducing Student Withdrawal -- A Study of EMU Student Stopout**|Yan Zhao et.al.|[2408.02598v1](http://arxiv.org/abs/2408.02598v1)|[2408.02598v1](http://arxiv.org/pdf/2408.02598v1)|null|
+|**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595v1](http://arxiv.org/abs/2408.02595v1)|[2408.02595v1](http://arxiv.org/pdf/2408.02595v1)|null|
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423v1](http://arxiv.org/abs/2408.01423v1)|[2408.01423v1](http://arxiv.org/pdf/2408.01423v1)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420v1](http://arxiv.org/abs/2408.01420v1)|[2408.01420v1](http://arxiv.org/pdf/2408.01420v1)|null|
 |**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417v1](http://arxiv.org/abs/2408.01417v1)|[2408.01417v1](http://arxiv.org/pdf/2408.01417v1)|null|
