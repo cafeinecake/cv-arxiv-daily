@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-06**|**Eddington Ratios of Dust-obscured Quasars at $z \lesssim 1$: Evidence Supporting Dust-obscured Quasars as Young Quasars**|Dohyeong Kim et.al.|[2408.03324v1](http://arxiv.org/abs/2408.03324v1)|[2408.03324v1](http://arxiv.org/pdf/2408.03324v1)|null|
+|**2024-08-06**|**Chasing cosmic inflation: constraints for inflationary models and reheating insights**|Mario Ballardini et.al.|[2408.03321v1](http://arxiv.org/abs/2408.03321v1)|[2408.03321v1](http://arxiv.org/pdf/2408.03321v1)|null|
+|**2024-08-06**|**Ninety percent circular polarization detected in a repeating fast radio burst**|J. C. Jiang et.al.|[2408.03313v1](http://arxiv.org/abs/2408.03313v1)|[2408.03313v1](http://arxiv.org/pdf/2408.03313v1)|null|
+|**2024-08-06**|**Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies**|Francine R. Marleau et.al.|[2408.03311v1](http://arxiv.org/abs/2408.03311v1)|[2408.03311v1](http://arxiv.org/pdf/2408.03311v1)|null|
+|**2024-08-06**|**A search for soft X-ray emission lines in the afterglow spectrum of GRB 221009A**|Sergio Campana et.al.|[2408.03306v1](http://arxiv.org/abs/2408.03306v1)|[2408.03306v1](http://arxiv.org/pdf/2408.03306v1)|null|
+|**2024-08-06**|**Krylov complexity of thermal state in early universe**|Tao Li et.al.|[2408.03293v1](http://arxiv.org/abs/2408.03293v1)|[2408.03293v1](http://arxiv.org/pdf/2408.03293v1)|null|
+|**2024-08-06**|**The characterisation of water ice in debris discs: implications for JWST scattered light observations**|Minjae Kim et.al.|[2408.03278v1](http://arxiv.org/abs/2408.03278v1)|[2408.03278v1](http://arxiv.org/pdf/2408.03278v1)|null|
+|**2024-08-06**|**Study of the physical and chemical properties of dense clumps in several high-mass star-forming regions**|A. G. Pazukhin et.al.|[2408.03271v1](http://arxiv.org/abs/2408.03271v1)|[2408.03271v1](http://arxiv.org/pdf/2408.03271v1)|null|
+|**2024-08-06**|**Study of a Tilted Thin Accretion Disk around a Kerr-Taub-NUT black hole**|Gargi Sen et.al.|[2408.03270v1](http://arxiv.org/abs/2408.03270v1)|[2408.03270v1](http://arxiv.org/pdf/2408.03270v1)|null|
+|**2024-08-06**|**A Comprehensive Review on Cislunar Expansion and Space Domain Awareness**|Brian Baker-McEvilly et.al.|[2408.03261v1](http://arxiv.org/abs/2408.03261v1)|[2408.03261v1](http://arxiv.org/pdf/2408.03261v1)|null|
 |**2024-08-05**|**A Targeted Search for Variable Gravitationally Lensed Quasars**|William Sheu et.al.|[2408.02670v1](http://arxiv.org/abs/2408.02670v1)|[2408.02670v1](http://arxiv.org/pdf/2408.02670v1)|null|
 |**2024-08-05**|**SDSS-IV MaNGA: Stellar rotational support in disk galaxies vs. central surface density and stellar population age**|Xiaohan Wang et.al.|[2408.02669v1](http://arxiv.org/abs/2408.02669v1)|[2408.02669v1](http://arxiv.org/pdf/2408.02669v1)|null|
 |**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno et.al.|[2408.02656v1](http://arxiv.org/abs/2408.02656v1)|[2408.02656v1](http://arxiv.org/pdf/2408.02656v1)|null|
@@ -5301,6 +5311,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326v1](http://arxiv.org/abs/2408.03326v1)|[2408.03326v1](http://arxiv.org/pdf/2408.03326v1)|null|
+|**2024-08-06**|**Training LLMs to Recognize Hedges in Spontaneous Narratives**|Amie J. Paige et.al.|[2408.03319v1](http://arxiv.org/abs/2408.03319v1)|[2408.03319v1](http://arxiv.org/pdf/2408.03319v1)|null|
+|**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304v1](http://arxiv.org/abs/2408.03304v1)|[2408.03304v1](http://arxiv.org/pdf/2408.03304v1)|null|
+|**2024-08-06**|**Understanding How Blind Users Handle Object Recognition Errors: Strategies and Challenges**|Jonggi Hong et.al.|[2408.03303v1](http://arxiv.org/abs/2408.03303v1)|[2408.03303v1](http://arxiv.org/pdf/2408.03303v1)|null|
+|**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297v1](http://arxiv.org/abs/2408.03297v1)|[2408.03297v1](http://arxiv.org/pdf/2408.03297v1)|null|
+|**2024-08-06**|**Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability**|Lizi Zhang et.al.|[2408.03292v1](http://arxiv.org/abs/2408.03292v1)|[2408.03292v1](http://arxiv.org/pdf/2408.03292v1)|null|
+|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v1](http://arxiv.org/abs/2408.03281v1)|[2408.03281v1](http://arxiv.org/pdf/2408.03281v1)|null|
+|**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274v1](http://arxiv.org/abs/2408.03274v1)|[2408.03274v1](http://arxiv.org/pdf/2408.03274v1)|null|
+|**2024-08-06**|**Ultra-thin strain-relieving Si$_{1-x}$Ge$_x$ layers enabling III-V epitaxy on Si**|Trevor R. Smith et.al.|[2408.03253v1](http://arxiv.org/abs/2408.03253v1)|[2408.03253v1](http://arxiv.org/pdf/2408.03253v1)|null|
+|**2024-08-06**|**Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons**|Yifei Wang et.al.|[2408.03247v1](http://arxiv.org/abs/2408.03247v1)|[2408.03247v1](http://arxiv.org/pdf/2408.03247v1)|null|
 |**2024-08-05**|**Self-Taught Evaluators**|Tianlu Wang et.al.|[2408.02666v1](http://arxiv.org/abs/2408.02666v1)|[2408.02666v1](http://arxiv.org/pdf/2408.02666v1)|null|
 |**2024-08-05**|**Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form**|Hendrik Ranocha et.al.|[2408.02665v1](http://arxiv.org/abs/2408.02665v1)|[2408.02665v1](http://arxiv.org/pdf/2408.02665v1)|null|
 |**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651v1](http://arxiv.org/abs/2408.02651v1)|[2408.02651v1](http://arxiv.org/pdf/2408.02651v1)|null|
