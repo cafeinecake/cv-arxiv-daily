@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-07**|**Superfluid quantum criticality and the thermal evolution of neutron stars**|Hao-Fu Zhu et.al.|[2408.03931v1](http://arxiv.org/abs/2408.03931v1)|[2408.03931v1](http://arxiv.org/pdf/2408.03931v1)|null|
+|**2024-08-07**|**STARI: STarlight Acquisition and Reflection toward Interferometry**|John D. Monnier et.al.|[2408.03925v1](http://arxiv.org/abs/2408.03925v1)|[2408.03925v1](http://arxiv.org/pdf/2408.03925v1)|null|
+|**2024-08-07**|**The UNCOVER Survey: First Release of Ultradeep JWST/NIRSpec PRISM spectra for ~700 galaxies from z~0.3-13 in Abell 2744**|Sedona H. Price et.al.|[2408.03920v1](http://arxiv.org/abs/2408.03920v1)|[2408.03920v1](http://arxiv.org/pdf/2408.03920v1)|null|
+|**2024-08-07**|**Building spectral templates and reconstructing parameters for core collapse supernovae with CASTOR**|Andrea Simongini et.al.|[2408.03916v1](http://arxiv.org/abs/2408.03916v1)|[2408.03916v1](http://arxiv.org/pdf/2408.03916v1)|null|
+|**2024-08-07**|**Prospects for using drones to test formation-flying CubeSat concepts, and other astronomical applications**|John D. Monnier et.al.|[2408.03911v1](http://arxiv.org/abs/2408.03911v1)|[2408.03911v1](http://arxiv.org/pdf/2408.03911v1)|null|
+|**2024-08-07**|**HOLISMOKES -- XIV. Time-delay and differential dust extinction determination with lensed type II supernova color curves**|J. Grupa et.al.|[2408.03902v1](http://arxiv.org/abs/2408.03902v1)|[2408.03902v1](http://arxiv.org/pdf/2408.03902v1)|null|
+|**2024-08-07**|**Planet Formation Imager (PFI): Project update and future directions**|John D. Monnier et.al.|[2408.03896v1](http://arxiv.org/abs/2408.03896v1)|[2408.03896v1](http://arxiv.org/pdf/2408.03896v1)|null|
+|**2024-08-07**|**Effects of a local physics change on the SH0ES determination of $H_0$**|Ruchika et.al.|[2408.03875v1](http://arxiv.org/abs/2408.03875v1)|[2408.03875v1](http://arxiv.org/pdf/2408.03875v1)|null|
+|**2024-08-07**|**Development of an ultra-sensitive 210-micron array of KIDs for far-IR astronomy**|Elijah Kane et.al.|[2408.03859v1](http://arxiv.org/abs/2408.03859v1)|[2408.03859v1](http://arxiv.org/pdf/2408.03859v1)|null|
+|**2024-08-07**|**Invariance transformations in wave-optics lensing: implications for gravitational-wave astrophysics and cosmology**|Anson Chen et.al.|[2408.03856v1](http://arxiv.org/abs/2408.03856v1)|[2408.03856v1](http://arxiv.org/pdf/2408.03856v1)|null|
 |**2024-08-07**|**Eddington Ratios of Dust-obscured Quasars at $z \lesssim 1$: Evidence Supporting Dust-obscured Quasars as Young Quasars**|Dohyeong Kim et.al.|[2408.03324v2](http://arxiv.org/abs/2408.03324v2)|[2408.03324v2](http://arxiv.org/pdf/2408.03324v2)|null|
 |**2024-08-06**|**Chasing cosmic inflation: constraints for inflationary models and reheating insights**|Mario Ballardini et.al.|[2408.03321v1](http://arxiv.org/abs/2408.03321v1)|[2408.03321v1](http://arxiv.org/pdf/2408.03321v1)|null|
 |**2024-08-06**|**Ninety percent circular polarization detected in a repeating fast radio burst**|J. C. Jiang et.al.|[2408.03313v1](http://arxiv.org/abs/2408.03313v1)|[2408.03313v1](http://arxiv.org/pdf/2408.03313v1)|null|
@@ -5307,6 +5317,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936v1](http://arxiv.org/abs/2408.03936v1)|[2408.03936v1](http://arxiv.org/pdf/2408.03936v1)|null|
+|**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v1](http://arxiv.org/abs/2408.03910v1)|[2408.03910v1](http://arxiv.org/pdf/2408.03910v1)|**[link](https://github.com/modelscope/modelscope-agent)**|
+|**2024-08-07**|**LaFA: Latent Feature Attacks on Non-negative Matrix Factorization**|Minh Vu et.al.|[2408.03909v1](http://arxiv.org/abs/2408.03909v1)|[2408.03909v1](http://arxiv.org/pdf/2408.03909v1)|null|
+|**2024-08-07**|**Decoding Biases: Automated Methods and LLM Judges for Gender Bias Detection in Language Models**|Shachi H Kumar et.al.|[2408.03907v1](http://arxiv.org/abs/2408.03907v1)|[2408.03907v1](http://arxiv.org/pdf/2408.03907v1)|null|
+|**2024-08-07**|**Lightweight Video Denoising Using a Classic Bayesian Backbone**|Clément Bled et.al.|[2408.03904v1](http://arxiv.org/abs/2408.03904v1)|[2408.03904v1](http://arxiv.org/pdf/2408.03904v1)|null|
+|**2024-08-07**|**Simplifying Scholarly Abstracts for Accessible Digital Libraries**|Haining Wang et.al.|[2408.03899v1](http://arxiv.org/abs/2408.03899v1)|[2408.03899v1](http://arxiv.org/pdf/2408.03899v1)|null|
+|**2024-08-07**|**MORTAR: A Model-based Runtime Action Repair Framework for AI-enabled Cyber-Physical Systems**|Renzhi Wang et.al.|[2408.03892v1](http://arxiv.org/abs/2408.03892v1)|[2408.03892v1](http://arxiv.org/pdf/2408.03892v1)|null|
+|**2024-08-07**|**Knowledge Probing for Graph Representation Learning**|Mingyu Zhao et.al.|[2408.03877v1](http://arxiv.org/abs/2408.03877v1)|[2408.03877v1](http://arxiv.org/pdf/2408.03877v1)|null|
+|**2024-08-07**|**Inter-Series Transformer: Attending to Products in Time Series Forecasting**|Rares Cristian et.al.|[2408.03872v1](http://arxiv.org/abs/2408.03872v1)|[2408.03872v1](http://arxiv.org/pdf/2408.03872v1)|null|
+|**2024-08-07**|**BeeManc at the PLABA Track of TAC-2023: Investigating LLMs and Controllable Attributes for Improving Biomedical Text Readability**|Zihao Li et.al.|[2408.03871v1](http://arxiv.org/abs/2408.03871v1)|[2408.03871v1](http://arxiv.org/pdf/2408.03871v1)|**[link](https://github.com/hecta-uom/plaba-mu)**|
 |**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326v1](http://arxiv.org/abs/2408.03326v1)|[2408.03326v1](http://arxiv.org/pdf/2408.03326v1)|null|
 |**2024-08-06**|**Training LLMs to Recognize Hedges in Spontaneous Narratives**|Amie J. Paige et.al.|[2408.03319v1](http://arxiv.org/abs/2408.03319v1)|[2408.03319v1](http://arxiv.org/pdf/2408.03319v1)|null|
 |**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304v1](http://arxiv.org/abs/2408.03304v1)|[2408.03304v1](http://arxiv.org/pdf/2408.03304v1)|null|
