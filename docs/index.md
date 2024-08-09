@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-08**|**A Timeline of the M81 Group: Properties of the Extended Structures of M82 and NGC 3077**|Benjamin N. Velguth et.al.|[2408.04627v1](http://arxiv.org/abs/2408.04627v1)|[2408.04627v1](http://arxiv.org/pdf/2408.04627v1)|null|
+|**2024-08-08**|**Flaring Activity for Low-Mass Stars in the $β$ Pictoris Moving Group**|Jordan N. Ealy et.al.|[2408.04624v1](http://arxiv.org/abs/2408.04624v1)|[2408.04624v1](http://arxiv.org/pdf/2408.04624v1)|null|
+|**2024-08-08**|**Axion production via trapped misalignment from Peccei-Quinn symmetry breaking**|Luca Di Luzio et.al.|[2408.04623v1](http://arxiv.org/abs/2408.04623v1)|[2408.04623v1](http://arxiv.org/pdf/2408.04623v1)|null|
+|**2024-08-08**|**The threshold at which a meteor shower becomes hazardous to spacecraft**|Althea V. Moorhead et.al.|[2408.04612v1](http://arxiv.org/abs/2408.04612v1)|[2408.04612v1](http://arxiv.org/pdf/2408.04612v1)|null|
+|**2024-08-08**|**An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI**|Chance Hoskinson et.al.|[2408.04611v1](http://arxiv.org/abs/2408.04611v1)|[2408.04611v1](http://arxiv.org/pdf/2408.04611v1)|null|
+|**2024-08-08**|**Deriving the Topological Properties of the Magnetic Field of Coronal Mass Ejections from In Situ Measurements: Techniques**|Nada Al-Haddad et.al.|[2408.04608v1](http://arxiv.org/abs/2408.04608v1)|[2408.04608v1](http://arxiv.org/pdf/2408.04608v1)|null|
+|**2024-08-08**|**Eccentric features in the gravitational wave phase of dynamically formed black hole binaries**|Kai Hendriks et.al.|[2408.04603v1](http://arxiv.org/abs/2408.04603v1)|[2408.04603v1](http://arxiv.org/pdf/2408.04603v1)|null|
+|**2024-08-08**|**Probing the morphology of polarized emission induced by fluctuation dynamo using Minkowski functionals**|Riju Dutta et.al.|[2408.04581v1](http://arxiv.org/abs/2408.04581v1)|[2408.04581v1](http://arxiv.org/pdf/2408.04581v1)|null|
+|**2024-08-08**|**Development of the cadmium zinc TElluride Radiation Imager (TERI)**|Daniel Shy et.al.|[2408.04559v1](http://arxiv.org/abs/2408.04559v1)|[2408.04559v1](http://arxiv.org/pdf/2408.04559v1)|null|
+|**2024-08-08**|**Resonant conversion of axion dark radiation into terahertz electromagnetic radiation in a neutron star magnetosphere**|Andrew J. Long et.al.|[2408.04551v1](http://arxiv.org/abs/2408.04551v1)|[2408.04551v1](http://arxiv.org/pdf/2408.04551v1)|null|
 |**2024-08-07**|**Superfluid quantum criticality and the thermal evolution of neutron stars**|Hao-Fu Zhu et.al.|[2408.03931v1](http://arxiv.org/abs/2408.03931v1)|[2408.03931v1](http://arxiv.org/pdf/2408.03931v1)|null|
 |**2024-08-07**|**STARI: STarlight Acquisition and Reflection toward Interferometry**|John D. Monnier et.al.|[2408.03925v1](http://arxiv.org/abs/2408.03925v1)|[2408.03925v1](http://arxiv.org/pdf/2408.03925v1)|null|
 |**2024-08-07**|**The UNCOVER Survey: First Release of Ultradeep JWST/NIRSpec PRISM spectra for ~700 galaxies from z~0.3-13 in Abell 2744**|Sedona H. Price et.al.|[2408.03920v1](http://arxiv.org/abs/2408.03920v1)|[2408.03920v1](http://arxiv.org/pdf/2408.03920v1)|null|
@@ -5321,6 +5331,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631v1](http://arxiv.org/abs/2408.04631v1)|[2408.04631v1](http://arxiv.org/pdf/2408.04631v1)|null|
+|**2024-08-08**|**LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP**|Danlu Chen et.al.|[2408.04628v1](http://arxiv.org/abs/2408.04628v1)|[2408.04628v1](http://arxiv.org/pdf/2408.04628v1)|null|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|[2408.04619v1](http://arxiv.org/pdf/2408.04619v1)|null|
+|**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614v1](http://arxiv.org/abs/2408.04614v1)|[2408.04614v1](http://arxiv.org/pdf/2408.04614v1)|null|
+|**2024-08-08**|**Criticizing Ethics According to Artificial Intelligence**|Irina Spiegel et.al.|[2408.04609v1](http://arxiv.org/abs/2408.04609v1)|[2408.04609v1](http://arxiv.org/pdf/2408.04609v1)|null|
+|**2024-08-08**|**Enhanced Prototypical Part Network (EPPNet) For Explainable Image Classification Via Prototypes**|Bhushan Atote et.al.|[2408.04606v1](http://arxiv.org/abs/2408.04606v1)|[2408.04606v1](http://arxiv.org/pdf/2408.04606v1)|null|
+|**2024-08-08**|**Inference with the Upper Confidence Bound Algorithm**|Koulik Khamaru et.al.|[2408.04595v1](http://arxiv.org/abs/2408.04595v1)|[2408.04595v1](http://arxiv.org/pdf/2408.04595v1)|**[link](https://github.com/koulikberkeley/ucb-stability-plots)**|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594v1](http://arxiv.org/abs/2408.04594v1)|[2408.04594v1](http://arxiv.org/pdf/2408.04594v1)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-08**|**HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts**|Hongjun Wang et.al.|[2408.04591v1](http://arxiv.org/abs/2408.04591v1)|[2408.04591v1](http://arxiv.org/pdf/2408.04591v1)|null|
+|**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586v1](http://arxiv.org/abs/2408.04586v1)|[2408.04586v1](http://arxiv.org/pdf/2408.04586v1)|null|
 |**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936v1](http://arxiv.org/abs/2408.03936v1)|[2408.03936v1](http://arxiv.org/pdf/2408.03936v1)|null|
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910v1](http://arxiv.org/abs/2408.03910v1)|[2408.03910v1](http://arxiv.org/pdf/2408.03910v1)|**[link](https://github.com/modelscope/modelscope-agent)**|
 |**2024-08-07**|**LaFA: Latent Feature Attacks on Non-negative Matrix Factorization**|Minh Vu et.al.|[2408.03909v1](http://arxiv.org/abs/2408.03909v1)|[2408.03909v1](http://arxiv.org/pdf/2408.03909v1)|null|
