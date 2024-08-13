@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-12**|**Closeby Habitable Exoplanet Survey (CHES). II. An Observation Strategy for the Target Stars**|Dongjie Tan et.al.|[2408.06338v1](http://arxiv.org/abs/2408.06338v1)|[2408.06338v1](http://arxiv.org/pdf/2408.06338v1)|null|
+|**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337v1](http://arxiv.org/abs/2408.06337v1)|[2408.06337v1](http://arxiv.org/pdf/2408.06337v1)|null|
+|**2024-08-12**|**A magnetised Galactic halo from inner Galaxy outflows**|He-Shou Zhang et.al.|[2408.06312v1](http://arxiv.org/abs/2408.06312v1)|[2408.06312v1](http://arxiv.org/pdf/2408.06312v1)|null|
+|**2024-08-12**|**Density Distribution of Plasmas Resembling Dark Matter Halo Due to Ionization lag and Ambipolar Electric Field**|Haibin Chen et.al.|[2408.06301v1](http://arxiv.org/abs/2408.06301v1)|[2408.06301v1](http://arxiv.org/pdf/2408.06301v1)|null|
+|**2024-08-12**|**Ultraviolet flux and spectral variability study of blazars observed with UVIT/AstroSat**|M. Reshma et.al.|[2408.06293v1](http://arxiv.org/abs/2408.06293v1)|[2408.06293v1](http://arxiv.org/pdf/2408.06293v1)|null|
+|**2024-08-12**|**Infant Type Ia Supernovae from the KMTNet I. Multi-Color Evolution and Populations**|Yuan Qi Ni et.al.|[2408.06287v1](http://arxiv.org/abs/2408.06287v1)|[2408.06287v1](http://arxiv.org/pdf/2408.06287v1)|null|
+|**2024-08-12**|**PDRs4All. X. ALMA and JWST detection of neutral carbon in the externally irradiated disk d203-506: Undepleted gas-phase carbon**|Javier R. Goicoechea et.al.|[2408.06279v1](http://arxiv.org/abs/2408.06279v1)|[2408.06279v1](http://arxiv.org/pdf/2408.06279v1)|null|
+|**2024-08-12**|**Exploring the links between quasar winds and radio emission along the Main Sequence at high redshift**|A. Deconto-Machado et.al.|[2408.06260v1](http://arxiv.org/abs/2408.06260v1)|[2408.06260v1](http://arxiv.org/pdf/2408.06260v1)|null|
+|**2024-08-12**|**On the potential origin of the circumbinary planet Delorme 1 (AB)b**|Matthew Teasdale et.al.|[2408.06231v1](http://arxiv.org/abs/2408.06231v1)|[2408.06231v1](http://arxiv.org/pdf/2408.06231v1)|null|
+|**2024-08-12**|**Quasi-periodic Oscillations in GRB 210514A: a Case of a Newborn Supra-Massive Precessing Magnetar Collapsing into a Black Hole?**|Le Zou et.al.|[2408.06225v1](http://arxiv.org/abs/2408.06225v1)|[2408.06225v1](http://arxiv.org/pdf/2408.06225v1)|null|
 |**2024-08-09**|**Third-order corrections to the slow-roll expansion: calculation and constraints with Planck, ACT, SPT, and BICEP/Keck**|Mario Ballardini et.al.|[2408.05210v1](http://arxiv.org/abs/2408.05210v1)|[2408.05210v1](http://arxiv.org/pdf/2408.05210v1)|null|
 |**2024-08-09**|**$SL(2,\mathbb{Z})$ Cosmological Attractors**|Renata Kallosh et.al.|[2408.05203v1](http://arxiv.org/abs/2408.05203v1)|[2408.05203v1](http://arxiv.org/pdf/2408.05203v1)|null|
 |**2024-08-09**|**Galactic Gas Models Strongly Affect the Determination of the Diffusive Halo Height**|Pedro De La Torre Luque et.al.|[2408.05179v1](http://arxiv.org/abs/2408.05179v1)|[2408.05179v1](http://arxiv.org/pdf/2408.05179v1)|null|
@@ -5337,6 +5347,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336v1](http://arxiv.org/abs/2408.06336v1)|[2408.06336v1](http://arxiv.org/pdf/2408.06336v1)|null|
+|**2024-08-12**|**LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for Humor Classification**|Tanisha Khurana et.al.|[2408.06335v1](http://arxiv.org/abs/2408.06335v1)|[2408.06335v1](http://arxiv.org/pdf/2408.06335v1)|null|
+|**2024-08-12**|**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents**|Xiao Liu et.al.|[2408.06327v1](http://arxiv.org/abs/2408.06327v1)|[2408.06327v1](http://arxiv.org/pdf/2408.06327v1)|**[link](https://github.com/thudm/visualagentbench)**|
+|**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318v1](http://arxiv.org/abs/2408.06318v1)|[2408.06318v1](http://arxiv.org/pdf/2408.06318v1)|null|
+|**2024-08-12**|**Body Transformer: Leveraging Robot Embodiment for Policy Learning**|Carmelo Sferrazza et.al.|[2408.06316v1](http://arxiv.org/abs/2408.06316v1)|[2408.06316v1](http://arxiv.org/pdf/2408.06316v1)|null|
+|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310v1](http://arxiv.org/abs/2408.06310v1)|[2408.06310v1](http://arxiv.org/pdf/2408.06310v1)|null|
+|**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292v1](http://arxiv.org/abs/2408.06292v1)|[2408.06292v1](http://arxiv.org/pdf/2408.06292v1)|**[link](https://github.com/sakanaai/ai-scientist)**|
+|**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285v1](http://arxiv.org/abs/2408.06285v1)|[2408.06285v1](http://arxiv.org/pdf/2408.06285v1)|null|
+|**2024-08-12**|**MovieSum: An Abstractive Summarization Dataset for Movie Screenplays**|Rohit Saxena et.al.|[2408.06281v1](http://arxiv.org/abs/2408.06281v1)|[2408.06281v1](http://arxiv.org/pdf/2408.06281v1)|**[link](https://github.com/saxenarohit/moviesum)**|
+|**2024-08-12**|**Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment**|Karel D'Oosterlinck et.al.|[2408.06266v1](http://arxiv.org/abs/2408.06266v1)|[2408.06266v1](http://arxiv.org/pdf/2408.06266v1)|null|
 |**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212v1](http://arxiv.org/abs/2408.05212v1)|[2408.05212v1](http://arxiv.org/pdf/2408.05212v1)|null|
 |**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211v1](http://arxiv.org/abs/2408.05211v1)|[2408.05211v1](http://arxiv.org/pdf/2408.05211v1)|null|
 |**2024-08-09**|**Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners**|Michael Vaccaro Jr et.al.|[2408.05204v1](http://arxiv.org/abs/2408.05204v1)|[2408.05204v1](http://arxiv.org/pdf/2408.05204v1)|null|
