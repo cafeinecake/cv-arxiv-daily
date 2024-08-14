@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070v1](http://arxiv.org/abs/2408.07070v1)|[2408.07070v1](http://arxiv.org/pdf/2408.07070v1)|null|
+|**2024-08-13**|**Cosmological collider non-Gaussianity from multiple scalars and $R^2$ gravity**|Shuntaro Aoki et.al.|[2408.07069v1](http://arxiv.org/abs/2408.07069v1)|[2408.07069v1](http://arxiv.org/pdf/2408.07069v1)|null|
+|**2024-08-13**|**DarkMatters: A powerful tool for WIMPy analysis**|Michael Sarkis et.al.|[2408.07053v1](http://arxiv.org/abs/2408.07053v1)|[2408.07053v1](http://arxiv.org/pdf/2408.07053v1)|null|
+|**2024-08-13**|**Solar active region evolution and imminent flaring activity through a color-coded visualization of photospheric vector magnetograms**|I. Kontogiannis et.al.|[2408.07047v1](http://arxiv.org/abs/2408.07047v1)|[2408.07047v1](http://arxiv.org/pdf/2408.07047v1)|null|
+|**2024-08-13**|**Optimizing TESS-related Exoplanet Observation: A Systematic Approach to Scheduling JWST SOSS and BOTS Templates**|Zoutong Shen et.al.|[2408.07042v1](http://arxiv.org/abs/2408.07042v1)|[2408.07042v1](http://arxiv.org/pdf/2408.07042v1)|null|
+|**2024-08-13**|**Compact groups of galaxies in GAMA -- Probing the densest minor systems at intermediate redshifts**|A. Zandivarez et.al.|[2408.07031v1](http://arxiv.org/abs/2408.07031v1)|[2408.07031v1](http://arxiv.org/pdf/2408.07031v1)|null|
+|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026v1](http://arxiv.org/abs/2408.07026v1)|[2408.07026v1](http://arxiv.org/pdf/2408.07026v1)|null|
+|**2024-08-13**|**The Gaia Ultracool Dwarf Sample -- V: The Ultracool Dwarf Companion catalogue**|Sayan Baig et.al.|[2408.07024v1](http://arxiv.org/abs/2408.07024v1)|[2408.07024v1](http://arxiv.org/pdf/2408.07024v1)|null|
+|**2024-08-13**|**XMM-Newton Perspective of the Unique Magnetic Binary- $ε$ Lupi**|Ayan Biswas et.al.|[2408.07001v1](http://arxiv.org/abs/2408.07001v1)|[2408.07001v1](http://arxiv.org/pdf/2408.07001v1)|null|
+|**2024-08-13**|**Identification and distance measurement of dust clouds at high latitude by a clustering hierarchical algorithm**|Mingxu Sun et.al.|[2408.06986v1](http://arxiv.org/abs/2408.06986v1)|[2408.06986v1](http://arxiv.org/pdf/2408.06986v1)|null|
 |**2024-08-12**|**Closeby Habitable Exoplanet Survey (CHES). II. An Observation Strategy for the Target Stars**|Dongjie Tan et.al.|[2408.06338v1](http://arxiv.org/abs/2408.06338v1)|[2408.06338v1](http://arxiv.org/pdf/2408.06338v1)|null|
 |**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337v1](http://arxiv.org/abs/2408.06337v1)|[2408.06337v1](http://arxiv.org/pdf/2408.06337v1)|null|
 |**2024-08-12**|**A magnetised Galactic halo from inner Galaxy outflows**|He-Shou Zhang et.al.|[2408.06312v1](http://arxiv.org/abs/2408.06312v1)|[2408.06312v1](http://arxiv.org/pdf/2408.06312v1)|null|
@@ -5347,6 +5357,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-13**|**HADRON: Human-friendly Control and Artificial Intelligence for Military Drone Operations**|Ana M. Casado Faulí et.al.|[2408.07063v1](http://arxiv.org/abs/2408.07063v1)|[2408.07063v1](http://arxiv.org/pdf/2408.07063v1)|null|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060v1](http://arxiv.org/abs/2408.07060v1)|[2408.07060v1](http://arxiv.org/pdf/2408.07060v1)|null|
+|**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|[2408.07059v1](http://arxiv.org/pdf/2408.07059v1)|null|
+|**2024-08-13**|**A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning**|Prateek Yadav et.al.|[2408.07057v1](http://arxiv.org/abs/2408.07057v1)|[2408.07057v1](http://arxiv.org/pdf/2408.07057v1)|null|
+|**2024-08-13**|**The News Comment Gap and Algorithmic Agenda Setting in Online Forums**|Flora Böwing et.al.|[2408.07052v1](http://arxiv.org/abs/2408.07052v1)|[2408.07052v1](http://arxiv.org/pdf/2408.07052v1)|**[link](https://github.com/dornleiten/commentgap)**|
+|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040v1](http://arxiv.org/abs/2408.07040v1)|[2408.07040v1](http://arxiv.org/pdf/2408.07040v1)|null|
+|**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037v1](http://arxiv.org/abs/2408.07037v1)|[2408.07037v1](http://arxiv.org/pdf/2408.07037v1)|null|
+|**2024-08-13**|**Defining and Measuring Disentanglement for non-Independent Factors of Variation**|Antonio Almudévar et.al.|[2408.07016v1](http://arxiv.org/abs/2408.07016v1)|[2408.07016v1](http://arxiv.org/pdf/2408.07016v1)|null|
+|**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004v1](http://arxiv.org/abs/2408.07004v1)|[2408.07004v1](http://arxiv.org/pdf/2408.07004v1)|null|
+|**2024-08-13**|**Generative AI for automatic topic labelling**|Diego Kozlowski et.al.|[2408.07003v1](http://arxiv.org/abs/2408.07003v1)|[2408.07003v1](http://arxiv.org/pdf/2408.07003v1)|null|
 |**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336v1](http://arxiv.org/abs/2408.06336v1)|[2408.06336v1](http://arxiv.org/pdf/2408.06336v1)|null|
 |**2024-08-12**|**LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for Humor Classification**|Tanisha Khurana et.al.|[2408.06335v1](http://arxiv.org/abs/2408.06335v1)|[2408.06335v1](http://arxiv.org/pdf/2408.06335v1)|null|
 |**2024-08-12**|**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents**|Xiao Liu et.al.|[2408.06327v1](http://arxiv.org/abs/2408.06327v1)|[2408.06327v1](http://arxiv.org/pdf/2408.06327v1)|**[link](https://github.com/thudm/visualagentbench)**|
