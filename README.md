@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700v1](http://arxiv.org/abs/2408.07700v1)|[2408.07700v1](http://arxiv.org/pdf/2408.07700v1)|null|
+|**2024-08-14**|**Field-level Emulation of Cosmic Structure Formation with Cosmology and Redshift Dependence**|Drew Jamieson et.al.|[2408.07699v1](http://arxiv.org/abs/2408.07699v1)|[2408.07699v1](http://arxiv.org/pdf/2408.07699v1)|null|
+|**2024-08-14**|**Kilonova Emissions from Neutron Star Merger Remnants: Implications for Nuclear Equation of State**|Kelsey A. Lund et.al.|[2408.07686v1](http://arxiv.org/abs/2408.07686v1)|[2408.07686v1](http://arxiv.org/pdf/2408.07686v1)|null|
+|**2024-08-14**|**Neutron stars in the generalized SU(2) Proca theory**|Jhan N. Martinez et.al.|[2408.07674v1](http://arxiv.org/abs/2408.07674v1)|[2408.07674v1](http://arxiv.org/pdf/2408.07674v1)|null|
+|**2024-08-14**|**Properties of sunspot light bridges on a geometric height scale**|S. Esteban Pozuelo et.al.|[2408.07645v1](http://arxiv.org/abs/2408.07645v1)|[2408.07645v1](http://arxiv.org/pdf/2408.07645v1)|null|
+|**2024-08-14**|**Insight into the occurrence of particle acceleration through the investigation of Wolf-Rayet stars using uGMRT observations**|A. B. Blanco et.al.|[2408.07640v1](http://arxiv.org/abs/2408.07640v1)|[2408.07640v1](http://arxiv.org/pdf/2408.07640v1)|null|
+|**2024-08-14**|**Rotational velocities of Blue Straggler Stars in the Globular Cluster M55**|Alex Billi et.al.|[2408.07620v1](http://arxiv.org/abs/2408.07620v1)|[2408.07620v1](http://arxiv.org/pdf/2408.07620v1)|null|
+|**2024-08-14**|**New Horizons for Psi: Studying fundamental fields with numerical relativity**|Katy Clough et.al.|[2408.07617v1](http://arxiv.org/abs/2408.07617v1)|[2408.07617v1](http://arxiv.org/pdf/2408.07617v1)|null|
+|**2024-08-14**|**TeV scale Leptogenesis with triplet Fermion in Connection to Muon $g-2$ and W mass anomaly**|Simran Arora et.al.|[2408.07598v1](http://arxiv.org/abs/2408.07598v1)|[2408.07598v1](http://arxiv.org/pdf/2408.07598v1)|null|
+|**2024-08-14**|**Free-Free Gaunt factors for atmospheres of accreting pulsars observable with X-ray space missions**|Parisee S. Shirke et.al.|[2408.07512v1](http://arxiv.org/abs/2408.07512v1)|[2408.07512v1](http://arxiv.org/pdf/2408.07512v1)|null|
 |**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070v1](http://arxiv.org/abs/2408.07070v1)|[2408.07070v1](http://arxiv.org/pdf/2408.07070v1)|null|
 |**2024-08-13**|**Cosmological collider non-Gaussianity from multiple scalars and $R^2$ gravity**|Shuntaro Aoki et.al.|[2408.07069v1](http://arxiv.org/abs/2408.07069v1)|[2408.07069v1](http://arxiv.org/pdf/2408.07069v1)|null|
 |**2024-08-13**|**DarkMatters: A powerful tool for WIMPy analysis**|Michael Sarkis et.al.|[2408.07053v1](http://arxiv.org/abs/2408.07053v1)|[2408.07053v1](http://arxiv.org/pdf/2408.07053v1)|null|
@@ -5357,6 +5367,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-14**|**Quantifying over Optimum Answer Sets**|Giuseppe Mazzotta et.al.|[2408.07697v1](http://arxiv.org/abs/2408.07697v1)|[2408.07697v1](http://arxiv.org/pdf/2408.07697v1)|null|
+|**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|[2408.07694v1](http://arxiv.org/pdf/2408.07694v1)|null|
+|**2024-08-14**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v1](http://arxiv.org/abs/2408.07680v1)|[2408.07680v1](http://arxiv.org/pdf/2408.07680v1)|**[link](https://github.com/dsb-ifi/spit)**|
+|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v1](http://arxiv.org/abs/2408.07673v1)|[2408.07673v1](http://arxiv.org/pdf/2408.07673v1)|null|
+|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666v1](http://arxiv.org/abs/2408.07666v1)|[2408.07666v1](http://arxiv.org/pdf/2408.07666v1)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
+|**2024-08-14**|**Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions**|Quan Liu et.al.|[2408.07663v1](http://arxiv.org/abs/2408.07663v1)|[2408.07663v1](http://arxiv.org/pdf/2408.07663v1)|**[link](https://github.com/gigabaozi/aed)**|
+|**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647v1](http://arxiv.org/abs/2408.07647v1)|[2408.07647v1](http://arxiv.org/pdf/2408.07647v1)|null|
+|**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642v1](http://arxiv.org/abs/2408.07642v1)|[2408.07642v1](http://arxiv.org/pdf/2408.07642v1)|null|
+|**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636v1](http://arxiv.org/abs/2408.07636v1)|[2408.07636v1](http://arxiv.org/pdf/2408.07636v1)|null|
+|**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629v1](http://arxiv.org/abs/2408.07629v1)|[2408.07629v1](http://arxiv.org/pdf/2408.07629v1)|null|
 |**2024-08-13**|**HADRON: Human-friendly Control and Artificial Intelligence for Military Drone Operations**|Ana M. Casado Faulí et.al.|[2408.07063v1](http://arxiv.org/abs/2408.07063v1)|[2408.07063v1](http://arxiv.org/pdf/2408.07063v1)|null|
 |**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060v1](http://arxiv.org/abs/2408.07060v1)|[2408.07060v1](http://arxiv.org/pdf/2408.07060v1)|null|
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|[2408.07059v1](http://arxiv.org/pdf/2408.07059v1)|null|
