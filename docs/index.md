@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 
 ## Astrophysics
 
@@ -5373,9 +5373,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-08-14**|**Quantifying over Optimum Answer Sets**|Giuseppe Mazzotta et.al.|[2408.07697v1](http://arxiv.org/abs/2408.07697v1)|[2408.07697v1](http://arxiv.org/pdf/2408.07697v1)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|[2408.07694v1](http://arxiv.org/pdf/2408.07694v1)|null|
-|**2024-08-14**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v1](http://arxiv.org/abs/2408.07680v1)|[2408.07680v1](http://arxiv.org/pdf/2408.07680v1)|**[link](https://github.com/dsb-ifi/spit)**|
-|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v1](http://arxiv.org/abs/2408.07673v1)|[2408.07673v1](http://arxiv.org/pdf/2408.07673v1)|null|
-|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666v1](http://arxiv.org/abs/2408.07666v1)|[2408.07666v1](http://arxiv.org/pdf/2408.07666v1)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
+|**2024-08-15**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v2](http://arxiv.org/abs/2408.07680v2)|[2408.07680v2](http://arxiv.org/pdf/2408.07680v2)|**[link](https://github.com/dsb-ifi/spit)**|
+|**2024-08-15**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673v2](http://arxiv.org/abs/2408.07673v2)|[2408.07673v2](http://arxiv.org/pdf/2408.07673v2)|null|
+|**2024-08-15**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666v2](http://arxiv.org/abs/2408.07666v2)|[2408.07666v2](http://arxiv.org/pdf/2408.07666v2)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
 |**2024-08-14**|**Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions**|Quan Liu et.al.|[2408.07663v1](http://arxiv.org/abs/2408.07663v1)|[2408.07663v1](http://arxiv.org/pdf/2408.07663v1)|**[link](https://github.com/gigabaozi/aed)**|
 |**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647v1](http://arxiv.org/abs/2408.07647v1)|[2408.07647v1](http://arxiv.org/pdf/2408.07647v1)|null|
 |**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642v1](http://arxiv.org/abs/2408.07642v1)|[2408.07642v1](http://arxiv.org/pdf/2408.07642v1)|null|
