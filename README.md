@@ -1,4 +1,4 @@
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 
 ## Astrophysics
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2024-08-15**|**Lumos Extrema**|Upamanyu Moitra et.al.|[2408.08308v1](http://arxiv.org/abs/2408.08308v1)|[2408.08308v1](http://arxiv.org/pdf/2408.08308v1)|null|
 |**2024-08-15**|**DIISC-IV: DIISCovery of Anomalously Low Metallicity H II Regions in NGC 99: Indirect Evidence of Gas Inflows**|Alejandro J. Olvera et.al.|[2408.08303v1](http://arxiv.org/abs/2408.08303v1)|[2408.08303v1](http://arxiv.org/pdf/2408.08303v1)|null|
-|**2024-08-15**|**Dynamical Accretion Flows -- ALMAGAL: Flows along filamentary structures in high-mass star-forming clusters**|M. R. A. Wells et.al.|[2408.08299v1](http://arxiv.org/abs/2408.08299v1)|[2408.08299v1](http://arxiv.org/pdf/2408.08299v1)|null|
+|**2024-08-16**|**Dynamical Accretion Flows -- ALMAGAL: Flows along filamentary structures in high-mass star-forming clusters**|M. R. A. Wells et.al.|[2408.08299v2](http://arxiv.org/abs/2408.08299v2)|[2408.08299v2](http://arxiv.org/pdf/2408.08299v2)|null|
 |**2024-08-15**|**Absence of one-loop effects on large scales from small scales in non-slow-roll dynamics II: Quartic interactions and consistency relations**|Jacopo Fumagalli et.al.|[2408.08296v1](http://arxiv.org/abs/2408.08296v1)|[2408.08296v1](http://arxiv.org/pdf/2408.08296v1)|null|
 |**2024-08-15**|**Radio Proper Motions and a Search for the Origin of PSR B1849+00**|Luis F. Rodriguez et.al.|[2408.08278v1](http://arxiv.org/abs/2408.08278v1)|[2408.08278v1](http://arxiv.org/pdf/2408.08278v1)|null|
 |**2024-08-15**|**Vortex Dynamics in Various Solar Magnetic Field Configurations**|Arjun Kannan et.al.|[2408.08225v1](http://arxiv.org/abs/2408.08225v1)|[2408.08225v1](http://arxiv.org/pdf/2408.08225v1)|null|
