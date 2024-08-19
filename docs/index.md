@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873v1](http://arxiv.org/abs/2408.08873v1)|[2408.08873v1](http://arxiv.org/pdf/2408.08873v1)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
+|**2024-08-16**|**Instability and Evolution of Shocked Clouds Formed by Orthogonal Collisions between Magnetized Filamentary Molecular Clouds**|Raiga Kashiwagi et.al.|[2408.08863v1](http://arxiv.org/abs/2408.08863v1)|[2408.08863v1](http://arxiv.org/pdf/2408.08863v1)|null|
+|**2024-08-16**|**Gravitational Wave Tails from Soft Theorem: A Short Review**|Ashoke Sen et.al.|[2408.08851v1](http://arxiv.org/abs/2408.08851v1)|[2408.08851v1](http://arxiv.org/pdf/2408.08851v1)|null|
+|**2024-08-16**|**The Hierarchical Three-Body Problem at $\mathcal{O} (G^2)$**|Mikhail P. Solon et.al.|[2408.08850v1](http://arxiv.org/abs/2408.08850v1)|[2408.08850v1](http://arxiv.org/pdf/2408.08850v1)|null|
+|**2024-08-16**|**The unusual events in X-ray emulsion chamber experiments**|S. E. Pyatovsky et.al.|[2408.08838v1](http://arxiv.org/abs/2408.08838v1)|[2408.08838v1](http://arxiv.org/pdf/2408.08838v1)|null|
+|**2024-08-16**|**Reality of Inverse Cascading in Neutron Star Crusts**|Clara Dehman et.al.|[2408.08819v1](http://arxiv.org/abs/2408.08819v1)|[2408.08819v1](http://arxiv.org/pdf/2408.08819v1)|null|
+|**2024-08-16**|**Revisiting the propagation of highly-energetic gamma rays in the Galaxy**|Gaetano Di Marco et.al.|[2408.08818v1](http://arxiv.org/abs/2408.08818v1)|[2408.08818v1](http://arxiv.org/pdf/2408.08818v1)|null|
+|**2024-08-16**|**GRB Redshift Classifier to Follow-up High-Redshift GRBs Using Supervised Machine Learning**|Maria Giovanna Dainotti et.al.|[2408.08763v1](http://arxiv.org/abs/2408.08763v1)|[2408.08763v1](http://arxiv.org/pdf/2408.08763v1)|null|
+|**2024-08-16**|**Anisotropic universe with anisotropic dark energy**|Anshul Verma et.al.|[2408.08740v1](http://arxiv.org/abs/2408.08740v1)|[2408.08740v1](http://arxiv.org/pdf/2408.08740v1)|null|
+|**2024-08-16**|**GPS in the cosmos**|Gopal-Krishna et.al.|[2408.08735v1](http://arxiv.org/abs/2408.08735v1)|[2408.08735v1](http://arxiv.org/pdf/2408.08735v1)|null|
 |**2024-08-15**|**Lumos Extrema**|Upamanyu Moitra et.al.|[2408.08308v1](http://arxiv.org/abs/2408.08308v1)|[2408.08308v1](http://arxiv.org/pdf/2408.08308v1)|null|
 |**2024-08-15**|**DIISC-IV: DIISCovery of Anomalously Low Metallicity H II Regions in NGC 99: Indirect Evidence of Gas Inflows**|Alejandro J. Olvera et.al.|[2408.08303v1](http://arxiv.org/abs/2408.08303v1)|[2408.08303v1](http://arxiv.org/pdf/2408.08303v1)|null|
 |**2024-08-16**|**Dynamical Accretion Flows -- ALMAGAL: Flows along filamentary structures in high-mass star-forming clusters**|M. R. A. Wells et.al.|[2408.08299v2](http://arxiv.org/abs/2408.08299v2)|[2408.08299v2](http://arxiv.org/pdf/2408.08299v2)|null|
@@ -5381,6 +5391,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872v1](http://arxiv.org/abs/2408.08872v1)|[2408.08872v1](http://arxiv.org/pdf/2408.08872v1)|null|
+|**2024-08-16**|**GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms**|Yuhao Jia et.al.|[2408.08852v1](http://arxiv.org/abs/2408.08852v1)|[2408.08852v1](http://arxiv.org/pdf/2408.08852v1)|null|
+|**2024-08-16**|**PsychoLex: Unveiling the Psychological Mind of Large Language Models**|Mohammad Amin Abbasi et.al.|[2408.08848v1](http://arxiv.org/abs/2408.08848v1)|[2408.08848v1](http://arxiv.org/pdf/2408.08848v1)|null|
+|**2024-08-16**|**Optimal Symmetries in Binary Classification**|Vishal S. Ngairangbam et.al.|[2408.08823v1](http://arxiv.org/abs/2408.08823v1)|[2408.08823v1](http://arxiv.org/pdf/2408.08823v1)|null|
+|**2024-08-16**|**EasyRec: Simple yet Effective Language Models for Recommendation**|Xubin Ren et.al.|[2408.08821v1](http://arxiv.org/abs/2408.08821v1)|[2408.08821v1](http://arxiv.org/pdf/2408.08821v1)|**[link](https://github.com/hkuds/easyrec)**|
+|**2024-08-16**|**Artificial Intelligence and Strategic Decision-Making: Evidence from Entrepreneurs and Investors**|Felipe A. Csaszar et.al.|[2408.08811v1](http://arxiv.org/abs/2408.08811v1)|[2408.08811v1](http://arxiv.org/pdf/2408.08811v1)|null|
+|**2024-08-16**|**Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge**|Ravi Raju et.al.|[2408.08808v1](http://arxiv.org/abs/2408.08808v1)|[2408.08808v1](http://arxiv.org/pdf/2408.08808v1)|null|
+|**2024-08-16**|**CIKMar: A Dual-Encoder Approach to Prompt-Based Reranking in Educational Dialogue Systems**|Joanito Agili Lopo et.al.|[2408.08805v1](http://arxiv.org/abs/2408.08805v1)|[2408.08805v1](http://arxiv.org/pdf/2408.08805v1)|null|
+|**2024-08-16**|**A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**|Boa Jang et.al.|[2408.08790v1](http://arxiv.org/abs/2408.08790v1)|[2408.08790v1](http://arxiv.org/pdf/2408.08790v1)|null|
+|**2024-08-16**|**A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers**|Daniel Omeiza et.al.|[2408.08785v1](http://arxiv.org/abs/2408.08785v1)|[2408.08785v1](http://arxiv.org/pdf/2408.08785v1)|null|
 |**2024-08-15**|**Can Large Language Models Understand Symbolic Graphics Programs?**|Zeju Qiu et.al.|[2408.08313v1](http://arxiv.org/abs/2408.08313v1)|[2408.08313v1](http://arxiv.org/pdf/2408.08313v1)|null|
 |**2024-08-15**|**HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**|Hongyu Li et.al.|[2408.08312v1](http://arxiv.org/abs/2408.08312v1)|[2408.08312v1](http://arxiv.org/pdf/2408.08312v1)|null|
 |**2024-08-15**|**Benchmarking the Capabilities of Large Language Models in Transportation System Engineering: Accuracy, Consistency, and Reasoning Behaviors**|Usman Syed et.al.|[2408.08302v1](http://arxiv.org/abs/2408.08302v1)|[2408.08302v1](http://arxiv.org/pdf/2408.08302v1)|null|
