@@ -1,4 +1,4 @@
-> Updated on 2024.08.19
+> Updated on 2024.08.20
 
 ## Astrophysics
 
@@ -5391,7 +5391,7 @@
 - 2024-08-16, **Artificial Intelligence and Strategic Decision-Making: Evidence from Entrepreneurs and Investors**, Felipe A. Csaszar et.al., Paper: [http://arxiv.org/abs/2408.08811v1](http://arxiv.org/abs/2408.08811v1), Paper: [http://arxiv.org/abs/2408.08811v1](http://arxiv.org/pdf/2408.08811v1)
 - 2024-08-16, **Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge**, Ravi Raju et.al., Paper: [http://arxiv.org/abs/2408.08808v1](http://arxiv.org/abs/2408.08808v1), Paper: [http://arxiv.org/abs/2408.08808v1](http://arxiv.org/pdf/2408.08808v1)
 - 2024-08-16, **CIKMar: A Dual-Encoder Approach to Prompt-Based Reranking in Educational Dialogue Systems**, Joanito Agili Lopo et.al., Paper: [http://arxiv.org/abs/2408.08805v1](http://arxiv.org/abs/2408.08805v1), Paper: [http://arxiv.org/abs/2408.08805v1](http://arxiv.org/pdf/2408.08805v1)
-- 2024-08-16, **A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**, Boa Jang et.al., Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/abs/2408.08790v1), Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/pdf/2408.08790v1)
+- 2024-08-16, **A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**, Boa Jang et.al., Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/abs/2408.08790v1),Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/pdf/2408.08790v1), Code: **[https://github.com/Jang-Boa/Research-Foundation-Retina](https://github.com/Jang-Boa/Research-Foundation-Retina)**
 - 2024-08-16, **A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers**, Daniel Omeiza et.al., Paper: [http://arxiv.org/abs/2408.08785v1](http://arxiv.org/abs/2408.08785v1), Paper: [http://arxiv.org/abs/2408.08785v1](http://arxiv.org/pdf/2408.08785v1)
 - 2024-08-15, **Can Large Language Models Understand Symbolic Graphics Programs?**, Zeju Qiu et.al., Paper: [http://arxiv.org/abs/2408.08313v1](http://arxiv.org/abs/2408.08313v1), Paper: [http://arxiv.org/abs/2408.08313v1](http://arxiv.org/pdf/2408.08313v1)
 - 2024-08-15, **HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**, Hongyu Li et.al., Paper: [http://arxiv.org/abs/2408.08312v1](http://arxiv.org/abs/2408.08312v1), Paper: [http://arxiv.org/abs/2408.08312v1](http://arxiv.org/pdf/2408.08312v1)
