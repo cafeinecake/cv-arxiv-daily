@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-19**|**The Resonant Remains of Broken Chains from Major and Minor Mergers**|Rixin Li et.al.|[2408.10206v1](http://arxiv.org/abs/2408.10206v1)|[2408.10206v1](http://arxiv.org/pdf/2408.10206v1)|null|
+|**2024-08-19**|**Magnetic Fields in Massive Star-forming Regions (MagMaR) IV: Tracing the Magnetic Fields in the O-type protostellar system IRAS 16547$-$4247**|Luis A. Zapata et.al.|[2408.10199v1](http://arxiv.org/abs/2408.10199v1)|[2408.10199v1](http://arxiv.org/pdf/2408.10199v1)|null|
+|**2024-08-19**|**Three-stage Formation of Cap Carbonates after Marinoan Snowball Glaciation Consistent with Depositional Timescales and Geochemistry**|Trent B. Thomas et.al.|[2408.10179v1](http://arxiv.org/abs/2408.10179v1)|[2408.10179v1](http://arxiv.org/pdf/2408.10179v1)|null|
+|**2024-08-19**|**Fringing analysis and forward modeling of Keck Planet Imager and Characterizer (KPIC) spectra**|Katelyn A. Horstman et.al.|[2408.10173v1](http://arxiv.org/abs/2408.10173v1)|[2408.10173v1](http://arxiv.org/pdf/2408.10173v1)|null|
+|**2024-08-19**|**The NANOGrav 15 yr Data Set: Running of the Spectral Index**|Gabriella Agazie et.al.|[2408.10166v1](http://arxiv.org/abs/2408.10166v1)|[2408.10166v1](http://arxiv.org/pdf/2408.10166v1)|null|
+|**2024-08-19**|**Galaxy Zoo: Morphologies based on UKIDSS NIR Imaging for 71,052 Galaxies**|Karen L. Masters et.al.|[2408.10160v1](http://arxiv.org/abs/2408.10160v1)|[2408.10160v1](http://arxiv.org/pdf/2408.10160v1)|null|
+|**2024-08-19**|**Characterizing the nanohertz gravitational wave background using a $t$-process power spectral density**|Shashwat C. Sardesai et.al.|[2408.10139v1](http://arxiv.org/abs/2408.10139v1)|[2408.10139v1](http://arxiv.org/pdf/2408.10139v1)|null|
+|**2024-08-19**|**A novel probe of graviton dispersion relations at nano-Hertz frequencies**|Bill Atkins et.al.|[2408.10122v1](http://arxiv.org/abs/2408.10122v1)|[2408.10122v1](http://arxiv.org/pdf/2408.10122v1)|null|
+|**2024-08-19**|**Eight New Substellar Hyades Candidates from the UKIRT Hemisphere Survey**|Adam C. Schneider et.al.|[2408.10112v1](http://arxiv.org/abs/2408.10112v1)|[2408.10112v1](http://arxiv.org/pdf/2408.10112v1)|null|
+|**2024-08-19**|**From Low- to High-Frequency QPOs around the Non-Rotating Hairy Horndeski Black Hole: Microquasar GRS 1915+105**|Orhan Donmez et.al.|[2408.10102v1](http://arxiv.org/abs/2408.10102v1)|[2408.10102v1](http://arxiv.org/pdf/2408.10102v1)|null|
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873v1](http://arxiv.org/abs/2408.08873v1)|[2408.08873v1](http://arxiv.org/pdf/2408.08873v1)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
 |**2024-08-16**|**Instability and Evolution of Shocked Clouds Formed by Orthogonal Collisions between Magnetized Filamentary Molecular Clouds**|Raiga Kashiwagi et.al.|[2408.08863v1](http://arxiv.org/abs/2408.08863v1)|[2408.08863v1](http://arxiv.org/pdf/2408.08863v1)|null|
 |**2024-08-16**|**Gravitational Wave Tails from Soft Theorem: A Short Review**|Ashoke Sen et.al.|[2408.08851v1](http://arxiv.org/abs/2408.08851v1)|[2408.08851v1](http://arxiv.org/pdf/2408.08851v1)|null|
@@ -5391,6 +5401,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205v1](http://arxiv.org/abs/2408.10205v1)|[2408.10205v1](http://arxiv.org/pdf/2408.10205v1)|null|
+|**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197v1](http://arxiv.org/abs/2408.10197v1)|[2408.10197v1](http://arxiv.org/pdf/2408.10197v1)|null|
+|**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|[2408.10195v1](http://arxiv.org/pdf/2408.10195v1)|null|
+|**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189v1](http://arxiv.org/abs/2408.10189v1)|[2408.10189v1](http://arxiv.org/pdf/2408.10189v1)|null|
+|**2024-08-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al.|[2408.10181v1](http://arxiv.org/abs/2408.10181v1)|[2408.10181v1](http://arxiv.org/pdf/2408.10181v1)|null|
+|**2024-08-19**|**NeuRodin: A Two-stage Framework for High-Fidelity Neural Surface Reconstruction**|Yifan Wang et.al.|[2408.10178v1](http://arxiv.org/abs/2408.10178v1)|[2408.10178v1](http://arxiv.org/pdf/2408.10178v1)|null|
+|**2024-08-19**|**Fairness Under Cover: Evaluating the Impact of Occlusions on Demographic Bias in Facial Recognition**|Rafael M. Mamede et.al.|[2408.10175v1](http://arxiv.org/abs/2408.10175v1)|[2408.10175v1](http://arxiv.org/pdf/2408.10175v1)|null|
+|**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174v1](http://arxiv.org/abs/2408.10174v1)|[2408.10174v1](http://arxiv.org/pdf/2408.10174v1)|**[link](https://github.com/tanganke/fusion_bench)**|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159v1](http://arxiv.org/abs/2408.10159v1)|[2408.10159v1](http://arxiv.org/pdf/2408.10159v1)|null|
+|**2024-08-19**|**Rhyme-aware Chinese lyric generator based on GPT**|Yixiao Yuan et.al.|[2408.10130v1](http://arxiv.org/abs/2408.10130v1)|[2408.10130v1](http://arxiv.org/pdf/2408.10130v1)|null|
 |**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872v1](http://arxiv.org/abs/2408.08872v1)|[2408.08872v1](http://arxiv.org/pdf/2408.08872v1)|null|
 |**2024-08-16**|**GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms**|Yuhao Jia et.al.|[2408.08852v1](http://arxiv.org/abs/2408.08852v1)|[2408.08852v1](http://arxiv.org/pdf/2408.08852v1)|null|
 |**2024-08-16**|**PsychoLex: Unveiling the Psychological Mind of Large Language Models**|Mohammad Amin Abbasi et.al.|[2408.08848v1](http://arxiv.org/abs/2408.08848v1)|[2408.08848v1](http://arxiv.org/pdf/2408.08848v1)|null|
