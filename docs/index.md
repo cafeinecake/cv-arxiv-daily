@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-20**|**Detection of the large-scale tidal field with galaxy multiplet alignment in the DESI Y1 spectroscopic survey**|Claire Lamman et.al.|[2408.11056v1](http://arxiv.org/abs/2408.11056v1)|[2408.11056v1](http://arxiv.org/pdf/2408.11056v1)|null|
+|**2024-08-20**|**First Light And Reionisation Epoch Simulations (FLARES) XVI: Size Evolution of Massive Dusty Galaxies at Cosmic Dawn from UV to IR**|Paurush Punyasheel et.al.|[2408.11037v1](http://arxiv.org/abs/2408.11037v1)|[2408.11037v1](http://arxiv.org/pdf/2408.11037v1)|null|
+|**2024-08-20**|**An FUV-detected Accretion Shock at the Star-Disk Boundary of FU Ori**|Adolfo S. Carvalho et.al.|[2408.11033v1](http://arxiv.org/abs/2408.11033v1)|[2408.11033v1](http://arxiv.org/pdf/2408.11033v1)|null|
+|**2024-08-20**|**Hubble Tension or Distance Ladder Crisis?**|Leandros Perivolaropoulos et.al.|[2408.11031v1](http://arxiv.org/abs/2408.11031v1)|[2408.11031v1](http://arxiv.org/pdf/2408.11031v1)|null|
+|**2024-08-20**|**Identifying jittering-jet-shaped ejecta in the Cygnus Loop supernova remnant**|Dmitry Shishkin et.al.|[2408.11014v1](http://arxiv.org/abs/2408.11014v1)|[2408.11014v1](http://arxiv.org/pdf/2408.11014v1)|null|
+|**2024-08-20**|**Cosmoglobe DR2. III. Improved modelling of zodiacal light with COBE-DIRBE through global Bayesian analysis**|M. San et.al.|[2408.11004v1](http://arxiv.org/abs/2408.11004v1)|[2408.11004v1](http://arxiv.org/pdf/2408.11004v1)|null|
+|**2024-08-20**|**Constraining Extra Mixing during the Main Sequence: What Depletes Lithium Does Not Touch Beryllium**|Henrique Reggiani et.al.|[2408.10999v1](http://arxiv.org/abs/2408.10999v1)|[2408.10999v1](http://arxiv.org/pdf/2408.10999v1)|null|
+|**2024-08-20**|**Detection and localisation of the highly active FRB 20240114A with MeerKAT**|J. Tian et.al.|[2408.10988v1](http://arxiv.org/abs/2408.10988v1)|[2408.10988v1](http://arxiv.org/pdf/2408.10988v1)|null|
+|**2024-08-20**|**Search for GeV gamma-ray emission from SPT-CL J2012-5649 with six years of DAMPE data**|Siddhant Manna et.al.|[2408.10983v1](http://arxiv.org/abs/2408.10983v1)|[2408.10983v1](http://arxiv.org/pdf/2408.10983v1)|null|
+|**2024-08-20**|**Local two-dimensional simulations of the ignition of a helium shell detonation on a white dwarf by an impacting stream**|Nethra Rajavel et.al.|[2408.10981v1](http://arxiv.org/abs/2408.10981v1)|[2408.10981v1](http://arxiv.org/pdf/2408.10981v1)|null|
 |**2024-08-19**|**The Resonant Remains of Broken Chains from Major and Minor Mergers**|Rixin Li et.al.|[2408.10206v1](http://arxiv.org/abs/2408.10206v1)|[2408.10206v1](http://arxiv.org/pdf/2408.10206v1)|null|
 |**2024-08-19**|**Magnetic Fields in Massive Star-forming Regions (MagMaR) IV: Tracing the Magnetic Fields in the O-type protostellar system IRAS 16547$-$4247**|Luis A. Zapata et.al.|[2408.10199v1](http://arxiv.org/abs/2408.10199v1)|[2408.10199v1](http://arxiv.org/pdf/2408.10199v1)|null|
 |**2024-08-19**|**Three-stage Formation of Cap Carbonates after Marinoan Snowball Glaciation Consistent with Depositional Timescales and Geochemistry**|Trent B. Thomas et.al.|[2408.10179v1](http://arxiv.org/abs/2408.10179v1)|[2408.10179v1](http://arxiv.org/pdf/2408.10179v1)|null|
@@ -5401,6 +5411,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054v1](http://arxiv.org/abs/2408.11054v1)|[2408.11054v1](http://arxiv.org/pdf/2408.11054v1)|null|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053v1](http://arxiv.org/abs/2408.11053v1)|[2408.11053v1](http://arxiv.org/pdf/2408.11053v1)|null|
+|**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052v1](http://arxiv.org/abs/2408.11052v1)|[2408.11052v1](http://arxiv.org/pdf/2408.11052v1)|**[link](https://github.com/michalbortkiewicz/jaxgcrl)**|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051v1](http://arxiv.org/abs/2408.11051v1)|[2408.11051v1](http://arxiv.org/pdf/2408.11051v1)|null|
+|**2024-08-20**|**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**|Yi Zhao et.al.|[2408.11048v1](http://arxiv.org/abs/2408.11048v1)|[2408.11048v1](http://arxiv.org/pdf/2408.11048v1)|null|
+|**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043v1](http://arxiv.org/abs/2408.11043v1)|[2408.11043v1](http://arxiv.org/pdf/2408.11043v1)|null|
+|**2024-08-20**|**GraphFSA: A Finite State Automaton Framework for Algorithmic Learning on Graphs**|Florian Grötschla et.al.|[2408.11042v1](http://arxiv.org/abs/2408.11042v1)|[2408.11042v1](http://arxiv.org/pdf/2408.11042v1)|null|
+|**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039v1](http://arxiv.org/abs/2408.11039v1)|[2408.11039v1](http://arxiv.org/pdf/2408.11039v1)|null|
+|**2024-08-20**|**Athena: Safe Autonomous Agents with Verbal Contrastive Learning**|Tanmana Sadhu et.al.|[2408.11021v1](http://arxiv.org/abs/2408.11021v1)|[2408.11021v1](http://arxiv.org/pdf/2408.11021v1)|null|
+|**2024-08-20**|**An Overlooked Role of Context-Sensitive Dendrites**|Mohsin Raza et.al.|[2408.11019v1](http://arxiv.org/abs/2408.11019v1)|[2408.11019v1](http://arxiv.org/pdf/2408.11019v1)|null|
 |**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205v1](http://arxiv.org/abs/2408.10205v1)|[2408.10205v1](http://arxiv.org/pdf/2408.10205v1)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197v1](http://arxiv.org/abs/2408.10197v1)|[2408.10197v1](http://arxiv.org/pdf/2408.10197v1)|null|
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|[2408.10195v1](http://arxiv.org/pdf/2408.10195v1)|null|
