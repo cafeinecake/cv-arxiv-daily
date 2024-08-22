@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-21**|**Chemical models of interstellar glycine and adenine precursor aminoacetonitrile (NH2CH2CN)**|Xia Zhang et.al.|[2408.11776v1](http://arxiv.org/abs/2408.11776v1)|[2408.11776v1](http://arxiv.org/pdf/2408.11776v1)|null|
+|**2024-08-21**|**Testing Gravity with Realistic Gravitational Waveforms in Pulsar Timing Arrays**|Wayne Hu et.al.|[2408.11774v1](http://arxiv.org/abs/2408.11774v1)|[2408.11774v1](http://arxiv.org/pdf/2408.11774v1)|null|
+|**2024-08-21**|**Thermodynamic Evolution of Plumes**|Biswanath Malaker et.al.|[2408.11771v1](http://arxiv.org/abs/2408.11771v1)|[2408.11771v1](http://arxiv.org/pdf/2408.11771v1)|null|
+|**2024-08-21**|**JWST Validates HST Distance Measurements: Selection of Supernova Subsample Explains Differences in JWST Estimates of Local H0**|Adam G. Riess et.al.|[2408.11770v1](http://arxiv.org/abs/2408.11770v1)|[2408.11770v1](http://arxiv.org/pdf/2408.11770v1)|null|
+|**2024-08-21**|**Embedding Ordinality to Binary Loss Function for Improving Solar Flare Forecasting**|Chetraj Pandey et.al.|[2408.11768v1](http://arxiv.org/abs/2408.11768v1)|[2408.11768v1](http://arxiv.org/pdf/2408.11768v1)|**[link](https://bitbucket.org/gsudmlab/ordinalloss-sf)**|
+|**2024-08-21**|**Modeling multiband SEDs and light curves of BL Lacertae using a time-dependent shock-in-jet model**|Rukaiya Khatoon et.al.|[2408.11763v1](http://arxiv.org/abs/2408.11763v1)|[2408.11763v1](http://arxiv.org/pdf/2408.11763v1)|null|
+|**2024-08-21**|**K2-399 b is not a planet. The Saturn that wandered through the Neptune desert is actually a hierarchical eclipsing binary**|J. Lillo-Box et.al.|[2408.11732v1](http://arxiv.org/abs/2408.11732v1)|[2408.11732v1](http://arxiv.org/pdf/2408.11732v1)|null|
+|**2024-08-21**|**Properties of intermediate- to high-mass stars in the young cluster M17 -- Characterizing the (pre-)zero-age main sequence**|Frank Backs et.al.|[2408.11713v1](http://arxiv.org/abs/2408.11713v1)|[2408.11713v1](http://arxiv.org/pdf/2408.11713v1)|null|
+|**2024-08-21**|**A JWST MIRI MRS View of the $η$ Tel Debris Disk and its Brown Dwarf Companion**|Yiwei Chai et.al.|[2408.11692v1](http://arxiv.org/abs/2408.11692v1)|[2408.11692v1](http://arxiv.org/pdf/2408.11692v1)|null|
+|**2024-08-21**|**Variability and stellar pulsation incidence in Am/Fm stars using TESS and Gaia data**|Oliver Durfeldt-Pedros et.al.|[2408.11657v1](http://arxiv.org/abs/2408.11657v1)|[2408.11657v1](http://arxiv.org/pdf/2408.11657v1)|null|
 |**2024-08-20**|**Detection of the large-scale tidal field with galaxy multiplet alignment in the DESI Y1 spectroscopic survey**|Claire Lamman et.al.|[2408.11056v1](http://arxiv.org/abs/2408.11056v1)|[2408.11056v1](http://arxiv.org/pdf/2408.11056v1)|null|
 |**2024-08-20**|**First Light And Reionisation Epoch Simulations (FLARES) XVI: Size Evolution of Massive Dusty Galaxies at Cosmic Dawn from UV to IR**|Paurush Punyasheel et.al.|[2408.11037v1](http://arxiv.org/abs/2408.11037v1)|[2408.11037v1](http://arxiv.org/pdf/2408.11037v1)|null|
 |**2024-08-20**|**An FUV-detected Accretion Shock at the Star-Disk Boundary of FU Ori**|Adolfo S. Carvalho et.al.|[2408.11033v1](http://arxiv.org/abs/2408.11033v1)|[2408.11033v1](http://arxiv.org/pdf/2408.11033v1)|null|
@@ -5407,6 +5417,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-21**|**Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction**|Anthony GX-Chen et.al.|[2408.11816v1](http://arxiv.org/abs/2408.11816v1)|[2408.11816v1](http://arxiv.org/pdf/2408.11816v1)|null|
+|**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$NN-LMs**|Shangyi Geng et.al.|[2408.11815v1](http://arxiv.org/abs/2408.11815v1)|[2408.11815v1](http://arxiv.org/pdf/2408.11815v1)|**[link](https://github.com/gsyfate/knnlm-limits)**|
+|**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804v1](http://arxiv.org/abs/2408.11804v1)|[2408.11804v1](http://arxiv.org/pdf/2408.11804v1)|**[link](https://github.com/dyunis/spectral_dynamics)**|
+|**2024-08-21**|**LLM Pruning and Distillation in Practice: The Minitron Approach**|Sharath Turuvekere Sreenivas et.al.|[2408.11796v1](http://arxiv.org/abs/2408.11796v1)|[2408.11796v1](http://arxiv.org/pdf/2408.11796v1)|null|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793v1](http://arxiv.org/abs/2408.11793v1)|[2408.11793v1](http://arxiv.org/pdf/2408.11793v1)|null|
+|**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788v1](http://arxiv.org/abs/2408.11788v1)|[2408.11788v1](http://arxiv.org/pdf/2408.11788v1)|null|
+|**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785v1](http://arxiv.org/abs/2408.11785v1)|[2408.11785v1](http://arxiv.org/pdf/2408.11785v1)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
+|**2024-08-21**|**Personality Alignment of Large Language Models**|Minjun Zhu et.al.|[2408.11779v1](http://arxiv.org/abs/2408.11779v1)|[2408.11779v1](http://arxiv.org/pdf/2408.11779v1)|**[link](https://github.com/zhu-minjun/palign)**|
+|**2024-08-21**|**Sum of Squares Circuits**|Lorenzo Loconte et.al.|[2408.11778v1](http://arxiv.org/abs/2408.11778v1)|[2408.11778v1](http://arxiv.org/pdf/2408.11778v1)|null|
+|**2024-08-21**|**D-RMGPT: Robot-assisted collaborative tasks driven by large multimodal models**|M. Forlini et.al.|[2408.11761v1](http://arxiv.org/abs/2408.11761v1)|[2408.11761v1](http://arxiv.org/pdf/2408.11761v1)|null|
 |**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054v1](http://arxiv.org/abs/2408.11054v1)|[2408.11054v1](http://arxiv.org/pdf/2408.11054v1)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053v1](http://arxiv.org/abs/2408.11053v1)|[2408.11053v1](http://arxiv.org/pdf/2408.11053v1)|null|
 |**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052v1](http://arxiv.org/abs/2408.11052v1)|[2408.11052v1](http://arxiv.org/pdf/2408.11052v1)|**[link](https://github.com/michalbortkiewicz/jaxgcrl)**|
