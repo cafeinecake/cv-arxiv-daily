@@ -1,11 +1,11 @@
-> Updated on 2024.08.21
+> Updated on 2024.08.22
 
 ## Astrophysics
 
 - 2024-08-20, **Detection of the large-scale tidal field with galaxy multiplet alignment in the DESI Y1 spectroscopic survey**, Claire Lamman et.al., Paper: [http://arxiv.org/abs/2408.11056v1](http://arxiv.org/abs/2408.11056v1), Paper: [http://arxiv.org/abs/2408.11056v1](http://arxiv.org/pdf/2408.11056v1)
 - 2024-08-20, **First Light And Reionisation Epoch Simulations (FLARES) XVI: Size Evolution of Massive Dusty Galaxies at Cosmic Dawn from UV to IR**, Paurush Punyasheel et.al., Paper: [http://arxiv.org/abs/2408.11037v1](http://arxiv.org/abs/2408.11037v1), Paper: [http://arxiv.org/abs/2408.11037v1](http://arxiv.org/pdf/2408.11037v1)
 - 2024-08-20, **An FUV-detected Accretion Shock at the Star-Disk Boundary of FU Ori**, Adolfo S. Carvalho et.al., Paper: [http://arxiv.org/abs/2408.11033v1](http://arxiv.org/abs/2408.11033v1), Paper: [http://arxiv.org/abs/2408.11033v1](http://arxiv.org/pdf/2408.11033v1)
-- 2024-08-20, **Hubble Tension or Distance Ladder Crisis?**, Leandros Perivolaropoulos et.al., Paper: [http://arxiv.org/abs/2408.11031v1](http://arxiv.org/abs/2408.11031v1), Paper: [http://arxiv.org/abs/2408.11031v1](http://arxiv.org/pdf/2408.11031v1)
+- 2024-08-21, **Hubble Tension or Distance Ladder Crisis?**, Leandros Perivolaropoulos et.al., Paper: [http://arxiv.org/abs/2408.11031v2](http://arxiv.org/abs/2408.11031v2), Paper: [http://arxiv.org/abs/2408.11031v2](http://arxiv.org/pdf/2408.11031v2)
 - 2024-08-20, **Identifying jittering-jet-shaped ejecta in the Cygnus Loop supernova remnant**, Dmitry Shishkin et.al., Paper: [http://arxiv.org/abs/2408.11014v1](http://arxiv.org/abs/2408.11014v1), Paper: [http://arxiv.org/abs/2408.11014v1](http://arxiv.org/pdf/2408.11014v1)
 - 2024-08-20, **Cosmoglobe DR2. III. Improved modelling of zodiacal light with COBE-DIRBE through global Bayesian analysis**, M. San et.al., Paper: [http://arxiv.org/abs/2408.11004v1](http://arxiv.org/abs/2408.11004v1), Paper: [http://arxiv.org/abs/2408.11004v1](http://arxiv.org/pdf/2408.11004v1)
 - 2024-08-20, **Constraining Extra Mixing during the Main Sequence: What Depletes Lithium Does Not Touch Beryllium**, Henrique Reggiani et.al., Paper: [http://arxiv.org/abs/2408.10999v1](http://arxiv.org/abs/2408.10999v1), Paper: [http://arxiv.org/abs/2408.10999v1](http://arxiv.org/pdf/2408.10999v1)
