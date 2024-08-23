@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-22**|**Very Extended Ionized Gas Discovered around NGC 1068 with the Circumgalactic H$α$ Spectrograph**|Nicole Melso et.al.|[2408.12597v1](http://arxiv.org/abs/2408.12597v1)|[2408.12597v1](http://arxiv.org/pdf/2408.12597v1)|null|
+|**2024-08-22**|**Reconstructing the Inflaton Potential: Primordial Black Holes and Gravitational Waves in Slow Roll and Ultra Slow Roll Single Field Inflation**|Gabriele Autieri et.al.|[2408.12587v1](http://arxiv.org/abs/2408.12587v1)|[2408.12587v1](http://arxiv.org/pdf/2408.12587v1)|null|
+|**2024-08-22**|**FRB 20121102A monitoring: updated periodicity at L-band**|C. A. Braga et.al.|[2408.12567v1](http://arxiv.org/abs/2408.12567v1)|[2408.12567v1](http://arxiv.org/pdf/2408.12567v1)|null|
+|**2024-08-22**|**Climate Bistability at the Inner Edge of the Habitable Zone due to Runaway Greenhouse and Cloud Feedbacks**|Bowen Fan et.al.|[2408.12563v1](http://arxiv.org/abs/2408.12563v1)|[2408.12563v1](http://arxiv.org/pdf/2408.12563v1)|null|
+|**2024-08-22**|**Core formation by binary scouring and gravitational wave recoil in massive elliptical galaxies**|Nader Khonji et.al.|[2408.12537v1](http://arxiv.org/abs/2408.12537v1)|[2408.12537v1](http://arxiv.org/pdf/2408.12537v1)|null|
+|**2024-08-22**|**Expected Impact of Rubin Observatory LSST on NEO Follow-up**|Tom Wagg et.al.|[2408.12517v1](http://arxiv.org/abs/2408.12517v1)|[2408.12517v1](http://arxiv.org/pdf/2408.12517v1)|null|
+|**2024-08-22**|**Do we need wavelets in the late Universe?**|Luis A. Escamilla et.al.|[2408.12516v1](http://arxiv.org/abs/2408.12516v1)|[2408.12516v1](http://arxiv.org/pdf/2408.12516v1)|null|
+|**2024-08-22**|**Interplay between the weak-coupling results and the lattice data in dense QCD**|Yuki Fujimoto et.al.|[2408.12514v1](http://arxiv.org/abs/2408.12514v1)|[2408.12514v1](http://arxiv.org/pdf/2408.12514v1)|null|
+|**2024-08-22**|**Scale Statistics of Current Sheets in Relativistic Collisionless Plasma Turbulence**|Roberto F. Serrano et.al.|[2408.12511v1](http://arxiv.org/abs/2408.12511v1)|[2408.12511v1](http://arxiv.org/pdf/2408.12511v1)|null|
+|**2024-08-22**|**Performance estimation of photonic integrated wavefront corrector for single-mode fiber coupling**|Dhwanil Patel et.al.|[2408.12493v1](http://arxiv.org/abs/2408.12493v1)|[2408.12493v1](http://arxiv.org/pdf/2408.12493v1)|null|
 |**2024-08-21**|**Chemical models of interstellar glycine and adenine precursor aminoacetonitrile (NH2CH2CN)**|Xia Zhang et.al.|[2408.11776v1](http://arxiv.org/abs/2408.11776v1)|[2408.11776v1](http://arxiv.org/pdf/2408.11776v1)|null|
 |**2024-08-21**|**Testing Gravity with Realistic Gravitational Waveforms in Pulsar Timing Arrays**|Wayne Hu et.al.|[2408.11774v1](http://arxiv.org/abs/2408.11774v1)|[2408.11774v1](http://arxiv.org/pdf/2408.11774v1)|null|
 |**2024-08-21**|**Thermodynamic Evolution of Plumes**|Biswanath Malaker et.al.|[2408.11771v1](http://arxiv.org/abs/2408.11771v1)|[2408.11771v1](http://arxiv.org/pdf/2408.11771v1)|null|
@@ -5417,6 +5427,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-22**|**ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction**|Ziyu Tang et.al.|[2408.12598v1](http://arxiv.org/abs/2408.12598v1)|[2408.12598v1](http://arxiv.org/pdf/2408.12598v1)|null|
+|**2024-08-22**|**Differentiable Logic Programming for Distant Supervision**|Akihiro Takemura et.al.|[2408.12591v1](http://arxiv.org/abs/2408.12591v1)|[2408.12591v1](http://arxiv.org/pdf/2408.12591v1)|null|
+|**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590v1](http://arxiv.org/abs/2408.12590v1)|[2408.12590v1](http://arxiv.org/pdf/2408.12590v1)|null|
+|**2024-08-22**|**Identifying the Best Arm in the Presence of Global Environment Shifts**|Phurinut Srisawad et.al.|[2408.12581v1](http://arxiv.org/abs/2408.12581v1)|[2408.12581v1](http://arxiv.org/pdf/2408.12581v1)|null|
+|**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579v1](http://arxiv.org/abs/2408.12579v1)|[2408.12579v1](http://arxiv.org/pdf/2408.12579v1)|null|
+|**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v1](http://arxiv.org/abs/2408.12578v1)|[2408.12578v1](http://arxiv.org/pdf/2408.12578v1)|**[link](https://github.com/ekdeepslubana/conceptpercolation)**|
+|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|[2408.12575v1](http://arxiv.org/pdf/2408.12575v1)|null|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574v1](http://arxiv.org/abs/2408.12574v1)|[2408.12574v1](http://arxiv.org/pdf/2408.12574v1)|null|
+|**2024-08-22**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568v1](http://arxiv.org/abs/2408.12568v1)|[2408.12568v1](http://arxiv.org/pdf/2408.12568v1)|null|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561v1](http://arxiv.org/abs/2408.12561v1)|[2408.12561v1](http://arxiv.org/pdf/2408.12561v1)|**[link](https://github.com/lujiazho/ssprop)**|
 |**2024-08-21**|**Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction**|Anthony GX-Chen et.al.|[2408.11816v1](http://arxiv.org/abs/2408.11816v1)|[2408.11816v1](http://arxiv.org/pdf/2408.11816v1)|null|
 |**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$NN-LMs**|Shangyi Geng et.al.|[2408.11815v1](http://arxiv.org/abs/2408.11815v1)|[2408.11815v1](http://arxiv.org/pdf/2408.11815v1)|**[link](https://github.com/gsyfate/knnlm-limits)**|
 |**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804v1](http://arxiv.org/abs/2408.11804v1)|[2408.11804v1](http://arxiv.org/pdf/2408.11804v1)|**[link](https://github.com/dyunis/spectral_dynamics)**|
