@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466v1](http://arxiv.org/abs/2408.14466v1)|[2408.14466v1](http://arxiv.org/pdf/2408.14466v1)|null|
+|**2024-08-26**|**Eclipse mapping study of the eclipsing binary KIC~3858884 with hybrid $δ$~Sct/$γ$~Dor component**|A. Bókon et.al.|[2408.14464v1](http://arxiv.org/abs/2408.14464v1)|[2408.14464v1](http://arxiv.org/pdf/2408.14464v1)|null|
+|**2024-08-26**|**High-Resolution Laboratory Measurements of M-shell Fe EUV Line Emission using EBIT-I**|Alexander J. Fairchild et.al.|[2408.14454v1](http://arxiv.org/abs/2408.14454v1)|[2408.14454v1](http://arxiv.org/pdf/2408.14454v1)|null|
+|**2024-08-26**|**Discovery of 118 New Ultracool Dwarf Candidates Using Machine Learning Techniques**|Hunter Brooks et.al.|[2408.14447v1](http://arxiv.org/abs/2408.14447v1)|[2408.14447v1](http://arxiv.org/pdf/2408.14447v1)|null|
+|**2024-08-26**|**Radiance Cascades: A Novel High-Resolution Formal Solution for Multidimensional Non-LTE Radiative Transfer**|Christopher M. J. Osborne et.al.|[2408.14425v1](http://arxiv.org/abs/2408.14425v1)|[2408.14425v1](http://arxiv.org/pdf/2408.14425v1)|null|
+|**2024-08-26**|**Filamentary Molecular Cloud Formation via Collision-induced Magnetic Reconnection in Cold Neutral Medium**|Shuo Kong et.al.|[2408.14417v1](http://arxiv.org/abs/2408.14417v1)|[2408.14417v1](http://arxiv.org/pdf/2408.14417v1)|null|
+|**2024-08-26**|**Eighteen new fast radio bursts in the High Time Resolution Universe survey**|M. Trudu et.al.|[2408.14384v1](http://arxiv.org/abs/2408.14384v1)|[2408.14384v1](http://arxiv.org/pdf/2408.14384v1)|null|
+|**2024-08-26**|**Constraints on primordial black holes in dSphs using radio observations**|Tian-Ci Liu et.al.|[2408.14353v1](http://arxiv.org/abs/2408.14353v1)|[2408.14353v1](http://arxiv.org/pdf/2408.14353v1)|null|
+|**2024-08-26**|**Can supernova from runaway stars mimic the signs of absorbing `super-virial' gas?**|Mukesh Singh Bisht et.al.|[2408.14351v1](http://arxiv.org/abs/2408.14351v1)|[2408.14351v1](http://arxiv.org/pdf/2408.14351v1)|null|
+|**2024-08-26**|**Kinetic Mixing, Proton Decay and Gravitational Waves in SO(10)**|Rinku Maji et.al.|[2408.14350v1](http://arxiv.org/abs/2408.14350v1)|[2408.14350v1](http://arxiv.org/pdf/2408.14350v1)|null|
 |**2024-08-23**|**Bending the web: exploring the impact of modified gravity on the density field and halo properties within the cosmic web**|Suhani Gupta et.al.|[2408.13219v1](http://arxiv.org/abs/2408.13219v1)|[2408.13219v1](http://arxiv.org/pdf/2408.13219v1)|null|
 |**2024-08-23**|**Morphology of 137 Fast Radio Bursts down to Microseconds Timescales from The First CHIME/FRB Baseband Catalog**|Ketan R. Sand et.al.|[2408.13215v1](http://arxiv.org/abs/2408.13215v1)|[2408.13215v1](http://arxiv.org/pdf/2408.13215v1)|null|
 |**2024-08-23**|**Stratified Resistive Tearing Instability**|Scott J. Hopper et.al.|[2408.13210v1](http://arxiv.org/abs/2408.13210v1)|[2408.13210v1](http://arxiv.org/pdf/2408.13210v1)|null|
@@ -5441,6 +5451,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472v1](http://arxiv.org/abs/2408.14472v1)|[2408.14472v1](http://arxiv.org/pdf/2408.14472v1)|null|
+|**2024-08-26**|**K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**|Zhikai Li et.al.|[2408.14468v1](http://arxiv.org/abs/2408.14468v1)|[2408.14468v1](http://arxiv.org/pdf/2408.14468v1)|null|
+|**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v1](http://arxiv.org/abs/2408.14443v1)|[2408.14443v1](http://arxiv.org/pdf/2408.14443v1)|null|
+|**2024-08-26**|**Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification**|Mahrukh Awan et.al.|[2408.14441v1](http://arxiv.org/abs/2408.14441v1)|[2408.14441v1](http://arxiv.org/pdf/2408.14441v1)|null|
+|**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437v1](http://arxiv.org/abs/2408.14437v1)|[2408.14437v1](http://arxiv.org/pdf/2408.14437v1)|null|
+|**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435v1](http://arxiv.org/abs/2408.14435v1)|[2408.14435v1](http://arxiv.org/pdf/2408.14435v1)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
+|**2024-08-26**|**Employing Artificial Intelligence to Steer Exascale Workflows with Colmena**|Logan Ward et.al.|[2408.14434v1](http://arxiv.org/abs/2408.14434v1)|[2408.14434v1](http://arxiv.org/pdf/2408.14434v1)|null|
+|**2024-08-26**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432v1](http://arxiv.org/abs/2408.14432v1)|[2408.14432v1](http://arxiv.org/pdf/2408.14432v1)|null|
+|**2024-08-26**|**CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models**|Shubham Bharti et.al.|[2408.14419v1](http://arxiv.org/abs/2408.14419v1)|[2408.14419v1](http://arxiv.org/pdf/2408.14419v1)|null|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v1](http://arxiv.org/abs/2408.14418v1)|[2408.14418v1](http://arxiv.org/pdf/2408.14418v1)|null|
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|[2408.13256v1](http://arxiv.org/pdf/2408.13256v1)|null|
 |**2024-08-23**|**Ensemble Modeling of Multiple Physical Indicators to Dynamically Phenotype Autism Spectrum Disorder**|Marie Huynh et.al.|[2408.13255v1](http://arxiv.org/abs/2408.13255v1)|[2408.13255v1](http://arxiv.org/pdf/2408.13255v1)|null|
 |**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253v1](http://arxiv.org/abs/2408.13253v1)|[2408.13253v1](http://arxiv.org/pdf/2408.13253v1)|null|
