@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|[2408.15243v1](http://arxiv.org/pdf/2408.15243v1)|null|
+|**2024-08-27**|**MADNESS Deblender: Maximum A posteriori with Deep NEural networks for Source Separation**|Biswajit Biswas et.al.|[2408.15236v1](http://arxiv.org/abs/2408.15236v1)|[2408.15236v1](http://arxiv.org/pdf/2408.15236v1)|null|
+|**2024-08-27**|**Why are optical coronal lines faint in active galactic nuclei?**|Jeffrey D. McKaig et.al.|[2408.15229v1](http://arxiv.org/abs/2408.15229v1)|[2408.15229v1](http://arxiv.org/pdf/2408.15229v1)|null|
+|**2024-08-27**|**Quantifying & Mitigating Satellite Constellation Interference with SatHub**|Meredith L. Rawls et.al.|[2408.15223v1](http://arxiv.org/abs/2408.15223v1)|[2408.15223v1](http://arxiv.org/pdf/2408.15223v1)|null|
+|**2024-08-27**|**SatHub Panel: Satellite Interference in Observatories Around the World**|Siegfried Eggl et.al.|[2408.15222v1](http://arxiv.org/abs/2408.15222v1)|[2408.15222v1](http://arxiv.org/pdf/2408.15222v1)|null|
+|**2024-08-27**|**The compact object of HESS J1731-347 and its implication on neutron star matter**|Prasanta Char et.al.|[2408.15220v1](http://arxiv.org/abs/2408.15220v1)|[2408.15220v1](http://arxiv.org/pdf/2408.15220v1)|null|
+|**2024-08-27**|**EDGE: Predictable Scatter in the Stellar Mass--Halo Mass Relation of Dwarf Galaxies**|Stacy Y. Kim et.al.|[2408.15214v1](http://arxiv.org/abs/2408.15214v1)|[2408.15214v1](http://arxiv.org/pdf/2408.15214v1)|null|
+|**2024-08-27**|**A Deep Dive into the NGC 741 Galaxy Group: Insights into a Spectacular Head-Tail Radio Galaxy from VLA, MeerKAT, uGMRT and LOFAR**|K. Rajpurohit et.al.|[2408.15197v1](http://arxiv.org/abs/2408.15197v1)|[2408.15197v1](http://arxiv.org/pdf/2408.15197v1)|null|
+|**2024-08-27**|**Halo mass functions at high redshift**|Hannah O'Brennan et.al.|[2408.15194v1](http://arxiv.org/abs/2408.15194v1)|[2408.15194v1](http://arxiv.org/pdf/2408.15194v1)|null|
+|**2024-08-27**|**Simultaneously Constraining the Neutron Star Equation of State and Mass Distribution through Multimessenger Observations and Nuclear Benchmarks**|Bhaskar Biswas et.al.|[2408.15192v1](http://arxiv.org/abs/2408.15192v1)|[2408.15192v1](http://arxiv.org/pdf/2408.15192v1)|null|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466v1](http://arxiv.org/abs/2408.14466v1)|[2408.14466v1](http://arxiv.org/pdf/2408.14466v1)|null|
 |**2024-08-26**|**Eclipse mapping study of the eclipsing binary KIC~3858884 with hybrid $δ$~Sct/$γ$~Dor component**|A. Bókon et.al.|[2408.14464v1](http://arxiv.org/abs/2408.14464v1)|[2408.14464v1](http://arxiv.org/pdf/2408.14464v1)|null|
 |**2024-08-26**|**High-Resolution Laboratory Measurements of M-shell Fe EUV Line Emission using EBIT-I**|Alexander J. Fairchild et.al.|[2408.14454v1](http://arxiv.org/abs/2408.14454v1)|[2408.14454v1](http://arxiv.org/pdf/2408.14454v1)|null|
@@ -5447,6 +5457,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237v1](http://arxiv.org/abs/2408.15237v1)|[2408.15237v1](http://arxiv.org/pdf/2408.15237v1)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232v1](http://arxiv.org/abs/2408.15232v1)|[2408.15232v1](http://arxiv.org/pdf/2408.15232v1)|null|
+|**2024-08-27**|**SatHub Panel: Satellite Interference in Observatories Around the World**|Siegfried Eggl et.al.|[2408.15222v1](http://arxiv.org/abs/2408.15222v1)|[2408.15222v1](http://arxiv.org/pdf/2408.15222v1)|null|
+|**2024-08-27**|**Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**|Weiyi Zhang et.al.|[2408.15217v1](http://arxiv.org/abs/2408.15217v1)|[2408.15217v1](http://arxiv.org/pdf/2408.15217v1)|null|
+|**2024-08-27**|**Boosting the clean energy transition through data science**|A. Fronzetti Colladon et.al.|[2408.15211v1](http://arxiv.org/abs/2408.15211v1)|[2408.15211v1](http://arxiv.org/pdf/2408.15211v1)|null|
+|**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207v1](http://arxiv.org/abs/2408.15207v1)|[2408.15207v1](http://arxiv.org/pdf/2408.15207v1)|null|
+|**2024-08-27**|**Can Unconfident LLM Annotations Be Used for Confident Conclusions?**|Kristina Gligorić et.al.|[2408.15204v1](http://arxiv.org/abs/2408.15204v1)|[2408.15204v1](http://arxiv.org/pdf/2408.15204v1)|null|
+|**2024-08-27**|**Automatic 8-tissue Segmentation for 6-month Infant Brains**|Yilan Dong et.al.|[2408.15198v1](http://arxiv.org/abs/2408.15198v1)|[2408.15198v1](http://arxiv.org/pdf/2408.15198v1)|null|
+|**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|[2408.15185v1](http://arxiv.org/pdf/2408.15185v1)|null|
+|**2024-08-27**|**GEM: A GEneral Memristive transistor model**|Shengbo Wang et.al.|[2408.15140v1](http://arxiv.org/abs/2408.15140v1)|[2408.15140v1](http://arxiv.org/pdf/2408.15140v1)|null|
 |**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472v1](http://arxiv.org/abs/2408.14472v1)|[2408.14472v1](http://arxiv.org/pdf/2408.14472v1)|null|
 |**2024-08-26**|**K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**|Zhikai Li et.al.|[2408.14468v1](http://arxiv.org/abs/2408.14468v1)|[2408.14468v1](http://arxiv.org/pdf/2408.14468v1)|null|
 |**2024-08-26**|**Temporal Ensemble Logic**|Guo-Qiang Zhang et.al.|[2408.14443v1](http://arxiv.org/abs/2408.14443v1)|[2408.14443v1](http://arxiv.org/pdf/2408.14443v1)|null|
