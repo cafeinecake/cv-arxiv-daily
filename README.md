@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-28**|**VLT/MUSE detection of accretion-ejection associated with the close stellar companion in the HT Lup system**|Sebastián Jorquera et.al.|[2408.15976v1](http://arxiv.org/abs/2408.15976v1)|[2408.15976v1](http://arxiv.org/pdf/2408.15976v1)|null|
+|**2024-08-28**|**Cocoon shock breakout emission from binary neutron star mergers**|Eduardo M. Gutiérrez et.al.|[2408.15973v1](http://arxiv.org/abs/2408.15973v1)|[2408.15973v1](http://arxiv.org/pdf/2408.15973v1)|null|
+|**2024-08-28**|**Mid-infrared characterization of NbTiN superconducting nanowire single-photon detectors on silicon-on-insulator**|Adan Azem et.al.|[2408.15959v1](http://arxiv.org/abs/2408.15959v1)|[2408.15959v1](http://arxiv.org/pdf/2408.15959v1)|null|
+|**2024-08-28**|**Reconstruction of highly inclined extensive air showers in GRAND**|Oscar Macias et.al.|[2408.15952v1](http://arxiv.org/abs/2408.15952v1)|[2408.15952v1](http://arxiv.org/pdf/2408.15952v1)|null|
+|**2024-08-28**|**Probing Lorentz invariance with a high-energy neutrino flare**|Mauricio Bustamante et.al.|[2408.15949v1](http://arxiv.org/abs/2408.15949v1)|[2408.15949v1](http://arxiv.org/pdf/2408.15949v1)|null|
+|**2024-08-28**|**The NIRSpec Micro-Shutter Array: Operability and Operations After Two Years of JWST Science**|Katie Bechtold et.al.|[2408.15940v1](http://arxiv.org/abs/2408.15940v1)|[2408.15940v1](http://arxiv.org/pdf/2408.15940v1)|null|
+|**2024-08-28**|**The Tidal Torque Theory Revisited. I. Protohalo Angular Momentum**|Eduard Salvador-Solé et.al.|[2408.15939v1](http://arxiv.org/abs/2408.15939v1)|[2408.15939v1](http://arxiv.org/pdf/2408.15939v1)|null|
+|**2024-08-28**|**Crystallized white dwarf stars in scalar-tensor gravity**|Sofía Vidal et.al.|[2408.15937v1](http://arxiv.org/abs/2408.15937v1)|[2408.15937v1](http://arxiv.org/pdf/2408.15937v1)|null|
+|**2024-08-28**|**Origin and full characterization of the secondary (assembly) halo bias**|Eduard Salvador-Solé et.al.|[2408.15935v1](http://arxiv.org/abs/2408.15935v1)|[2408.15935v1](http://arxiv.org/pdf/2408.15935v1)|null|
+|**2024-08-28**|**Windy or not: Radio pc-scale evidence for a broad-line region wind in radio-quiet quasars**|Sina Chen et.al.|[2408.15934v1](http://arxiv.org/abs/2408.15934v1)|[2408.15934v1](http://arxiv.org/pdf/2408.15934v1)|null|
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|[2408.15243v1](http://arxiv.org/pdf/2408.15243v1)|null|
 |**2024-08-27**|**MADNESS Deblender: Maximum A posteriori with Deep NEural networks for Source Separation**|Biswajit Biswas et.al.|[2408.15236v1](http://arxiv.org/abs/2408.15236v1)|[2408.15236v1](http://arxiv.org/pdf/2408.15236v1)|null|
 |**2024-08-27**|**Why are optical coronal lines faint in active galactic nuclei?**|Jeffrey D. McKaig et.al.|[2408.15229v1](http://arxiv.org/abs/2408.15229v1)|[2408.15229v1](http://arxiv.org/pdf/2408.15229v1)|null|
@@ -5457,6 +5467,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|[2408.15998v1](http://arxiv.org/pdf/2408.15998v1)|**[link](https://github.com/nvlabs/eagle)**|
+|**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|[2408.15997v1](http://arxiv.org/pdf/2408.15997v1)|**[link](https://github.com/lunaaa95/mou)**|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|[2408.15996v1](http://arxiv.org/pdf/2408.15996v1)|null|
+|**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992v1](http://arxiv.org/abs/2408.15992v1)|[2408.15992v1](http://arxiv.org/pdf/2408.15992v1)|**[link](https://github.com/lil-lab/cogen)**|
+|**2024-08-28**|**In-Context Imitation Learning via Next-Token Prediction**|Letian Fu et.al.|[2408.15980v1](http://arxiv.org/abs/2408.15980v1)|[2408.15980v1](http://arxiv.org/pdf/2408.15980v1)|null|
+|**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978v1](http://arxiv.org/abs/2408.15978v1)|[2408.15978v1](http://arxiv.org/pdf/2408.15978v1)|null|
+|**2024-08-28**|**Stability of Primal-Dual Gradient Flow Dynamics for Multi-Block Convex Optimization Problems**|Ibrahim K. Ozaslan et.al.|[2408.15969v1](http://arxiv.org/abs/2408.15969v1)|[2408.15969v1](http://arxiv.org/pdf/2408.15969v1)|null|
+|**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966v1](http://arxiv.org/abs/2408.15966v1)|[2408.15966v1](http://arxiv.org/pdf/2408.15966v1)|null|
+|**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950v1](http://arxiv.org/abs/2408.15950v1)|[2408.15950v1](http://arxiv.org/pdf/2408.15950v1)|null|
+|**2024-08-28**|**Local Descriptors Weighted Adaptive Threshold Filtering For Few-Shot Learning**|Bingchen Yan et.al.|[2408.15924v1](http://arxiv.org/abs/2408.15924v1)|[2408.15924v1](http://arxiv.org/pdf/2408.15924v1)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237v1](http://arxiv.org/abs/2408.15237v1)|[2408.15237v1](http://arxiv.org/pdf/2408.15237v1)|**[link](https://github.com/jxiw/mambainllama)**|
 |**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232v1](http://arxiv.org/abs/2408.15232v1)|[2408.15232v1](http://arxiv.org/pdf/2408.15232v1)|null|
 |**2024-08-27**|**SatHub Panel: Satellite Interference in Observatories Around the World**|Siegfried Eggl et.al.|[2408.15222v1](http://arxiv.org/abs/2408.15222v1)|[2408.15222v1](http://arxiv.org/pdf/2408.15222v1)|null|
