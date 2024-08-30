@@ -1,4 +1,4 @@
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 
 ## Astrophysics
 
@@ -5469,7 +5469,7 @@
 |---|---|---|---|---|---|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|[2408.15998v1](http://arxiv.org/pdf/2408.15998v1)|**[link](https://github.com/nvlabs/eagle)**|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|[2408.15997v1](http://arxiv.org/pdf/2408.15997v1)|**[link](https://github.com/lunaaa95/mou)**|
-|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|[2408.15996v1](http://arxiv.org/pdf/2408.15996v1)|null|
+|**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v2](http://arxiv.org/abs/2408.15996v2)|[2408.15996v2](http://arxiv.org/pdf/2408.15996v2)|null|
 |**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992v1](http://arxiv.org/abs/2408.15992v1)|[2408.15992v1](http://arxiv.org/pdf/2408.15992v1)|**[link](https://github.com/lil-lab/cogen)**|
 |**2024-08-28**|**In-Context Imitation Learning via Next-Token Prediction**|Letian Fu et.al.|[2408.15980v1](http://arxiv.org/abs/2408.15980v1)|[2408.15980v1](http://arxiv.org/pdf/2408.15980v1)|null|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978v1](http://arxiv.org/abs/2408.15978v1)|[2408.15978v1](http://arxiv.org/pdf/2408.15978v1)|null|
