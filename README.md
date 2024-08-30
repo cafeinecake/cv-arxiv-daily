@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-29**|**Non-detection of Neutrinos from the BOAT: Improved Constraints on the Parameters of GRB 221009A**|P. Veres et.al.|[2408.16748v1](http://arxiv.org/abs/2408.16748v1)|[2408.16748v1](http://arxiv.org/pdf/2408.16748v1)|null|
+|**2024-08-29**|**Post-innermost stable circular orbit ringdown of a rapidly spinning black hole: mass ratio dependence of higher harmonic quasi-normal mode excitation**|Daiki Watarai et.al.|[2408.16747v1](http://arxiv.org/abs/2408.16747v1)|[2408.16747v1](http://arxiv.org/pdf/2408.16747v1)|null|
+|**2024-08-29**|**A VLA Study of Newly-Discovered Southern Latitude Non-Thermal Filaments in the Galactic Center: Polarimetric and Magnetic Field Properties**|Dylan M. Pare et.al.|[2408.16745v1](http://arxiv.org/abs/2408.16745v1)|[2408.16745v1](http://arxiv.org/pdf/2408.16745v1)|null|
+|**2024-08-29**|**Bounds on the minimum sound speed above neutron star densities**|Dake Zhou et.al.|[2408.16738v1](http://arxiv.org/abs/2408.16738v1)|[2408.16738v1](http://arxiv.org/pdf/2408.16738v1)|null|
+|**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735v1](http://arxiv.org/abs/2408.16735v1)|[2408.16735v1](http://arxiv.org/pdf/2408.16735v1)|null|
+|**2024-08-29**|**Impact of cosmic web on galaxy properties and their correlations: Insights from Principal Component Analysis**|Anindita Nandi et.al.|[2408.16731v1](http://arxiv.org/abs/2408.16731v1)|[2408.16731v1](http://arxiv.org/pdf/2408.16731v1)|null|
+|**2024-08-29**|**X-ray spectropolarimetry of the bright atoll Serpens X-1**|F. Ursini et.al.|[2408.16713v1](http://arxiv.org/abs/2408.16713v1)|[2408.16713v1](http://arxiv.org/pdf/2408.16713v1)|null|
+|**2024-08-29**|**The GLASS-JWST Early Release Science Program. IV. Data release of 263 spectra from 245 unique sources**|S. Mascia et.al.|[2408.16675v1](http://arxiv.org/abs/2408.16675v1)|[2408.16675v1](http://arxiv.org/pdf/2408.16675v1)|null|
+|**2024-08-29**|**A machine learning approach for computing solar flare locations in X-rays on-board Solar Orbiter/STIX**|Paolo Massa et.al.|[2408.16642v1](http://arxiv.org/abs/2408.16642v1)|[2408.16642v1](http://arxiv.org/pdf/2408.16642v1)|null|
+|**2024-08-29**|**Rocking the BOAT: the ups and downs of the long-term radio light curve for GRB 221009A**|L. Rhodes et.al.|[2408.16637v1](http://arxiv.org/abs/2408.16637v1)|[2408.16637v1](http://arxiv.org/pdf/2408.16637v1)|null|
 |**2024-08-28**|**VLT/MUSE detection of accretion-ejection associated with the close stellar companion in the HT Lup system**|Sebastián Jorquera et.al.|[2408.15976v1](http://arxiv.org/abs/2408.15976v1)|[2408.15976v1](http://arxiv.org/pdf/2408.15976v1)|null|
 |**2024-08-28**|**Cocoon shock breakout emission from binary neutron star mergers**|Eduardo M. Gutiérrez et.al.|[2408.15973v1](http://arxiv.org/abs/2408.15973v1)|[2408.15973v1](http://arxiv.org/pdf/2408.15973v1)|null|
 |**2024-08-28**|**Mid-infrared characterization of NbTiN superconducting nanowire single-photon detectors on silicon-on-insulator**|Adan Azem et.al.|[2408.15959v1](http://arxiv.org/abs/2408.15959v1)|[2408.15959v1](http://arxiv.org/pdf/2408.15959v1)|null|
@@ -5467,6 +5477,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768v1](http://arxiv.org/abs/2408.16768v1)|[2408.16768v1](http://arxiv.org/pdf/2408.16768v1)|**[link](https://github.com/ziyuguo99/sam2point)**|
+|**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|[2408.16767v1](http://arxiv.org/pdf/2408.16767v1)|null|
+|**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765v1](http://arxiv.org/abs/2408.16765v1)|[2408.16765v1](http://arxiv.org/pdf/2408.16765v1)|null|
+|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v1](http://arxiv.org/abs/2408.16757v1)|[2408.16757v1](http://arxiv.org/pdf/2408.16757v1)|**[link](https://github.com/visual-ai/dissect-ood-osr)**|
+|**2024-08-29**|**Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**|Beidi Dong et.al.|[2408.16749v1](http://arxiv.org/abs/2408.16749v1)|[2408.16749v1](http://arxiv.org/pdf/2408.16749v1)|null|
+|**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737v1](http://arxiv.org/abs/2408.16737v1)|[2408.16737v1](http://arxiv.org/pdf/2408.16737v1)|null|
+|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725v1](http://arxiv.org/abs/2408.16725v1)|[2408.16725v1](http://arxiv.org/pdf/2408.16725v1)|null|
+|**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|[2408.16717v1](http://arxiv.org/pdf/2408.16717v1)|null|
+|**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673v1](http://arxiv.org/abs/2408.16673v1)|[2408.16673v1](http://arxiv.org/pdf/2408.16673v1)|null|
+|**2024-08-29**|**Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**|Rohan Jha et.al.|[2408.16672v1](http://arxiv.org/abs/2408.16672v1)|[2408.16672v1](http://arxiv.org/pdf/2408.16672v1)|null|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|[2408.15998v1](http://arxiv.org/pdf/2408.15998v1)|**[link](https://github.com/nvlabs/eagle)**|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|[2408.15997v1](http://arxiv.org/pdf/2408.15997v1)|**[link](https://github.com/lunaaa95/mou)**|
 |**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v2](http://arxiv.org/abs/2408.15996v2)|[2408.15996v2](http://arxiv.org/pdf/2408.15996v2)|null|
