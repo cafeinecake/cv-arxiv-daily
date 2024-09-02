@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 
 ## Astrophysics
 
@@ -5484,10 +5484,10 @@ layout: default
 |**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768v1](http://arxiv.org/abs/2408.16768v1)|[2408.16768v1](http://arxiv.org/pdf/2408.16768v1)|**[link](https://github.com/ziyuguo99/sam2point)**|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|[2408.16767v1](http://arxiv.org/pdf/2408.16767v1)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765v1](http://arxiv.org/abs/2408.16765v1)|[2408.16765v1](http://arxiv.org/pdf/2408.16765v1)|null|
-|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v1](http://arxiv.org/abs/2408.16757v1)|[2408.16757v1](http://arxiv.org/pdf/2408.16757v1)|**[link](https://github.com/visual-ai/dissect-ood-osr)**|
+|**2024-08-30**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v2](http://arxiv.org/abs/2408.16757v2)|[2408.16757v2](http://arxiv.org/pdf/2408.16757v2)|**[link](https://github.com/visual-ai/dissect-ood-osr)**|
 |**2024-08-29**|**Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**|Beidi Dong et.al.|[2408.16749v1](http://arxiv.org/abs/2408.16749v1)|[2408.16749v1](http://arxiv.org/pdf/2408.16749v1)|null|
 |**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737v1](http://arxiv.org/abs/2408.16737v1)|[2408.16737v1](http://arxiv.org/pdf/2408.16737v1)|null|
-|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725v1](http://arxiv.org/abs/2408.16725v1)|[2408.16725v1](http://arxiv.org/pdf/2408.16725v1)|null|
+|**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725v2](http://arxiv.org/abs/2408.16725v2)|[2408.16725v2](http://arxiv.org/pdf/2408.16725v2)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|[2408.16717v1](http://arxiv.org/pdf/2408.16717v1)|null|
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673v1](http://arxiv.org/abs/2408.16673v1)|[2408.16673v1](http://arxiv.org/pdf/2408.16673v1)|null|
 |**2024-08-29**|**Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**|Rohan Jha et.al.|[2408.16672v1](http://arxiv.org/abs/2408.16672v1)|[2408.16672v1](http://arxiv.org/pdf/2408.16672v1)|null|
