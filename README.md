@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445v1](http://arxiv.org/abs/2408.17445v1)|[2408.17445v1](http://arxiv.org/pdf/2408.17445v1)|null|
+|**2024-08-30**|**Magnetising galaxies with cold inflows**|Nicolas Ledos et.al.|[2408.17438v1](http://arxiv.org/abs/2408.17438v1)|[2408.17438v1](http://arxiv.org/pdf/2408.17438v1)|null|
+|**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430v1](http://arxiv.org/abs/2408.17430v1)|[2408.17430v1](http://arxiv.org/pdf/2408.17430v1)|null|
+|**2024-08-30**|**Back from the dead: AT2019aalc as a candidate repeating TDE in an AGN**|Patrik Milán Veres et.al.|[2408.17419v1](http://arxiv.org/abs/2408.17419v1)|[2408.17419v1](http://arxiv.org/pdf/2408.17419v1)|null|
+|**2024-08-30**|**Comparing Inflationary Models in Extended Metric-Affine Theories of Gravity**|Salvatore Capozziello et.al.|[2408.17415v1](http://arxiv.org/abs/2408.17415v1)|[2408.17415v1](http://arxiv.org/pdf/2408.17415v1)|null|
+|**2024-08-30**|**Magnetogenesis from axion-SU(2) inflation**|Axel Brandenburg et.al.|[2408.17413v1](http://arxiv.org/abs/2408.17413v1)|[2408.17413v1](http://arxiv.org/pdf/2408.17413v1)|null|
+|**2024-08-30**|**Broad-line Region of the Quasar PG 2130+099. II. Doubling the Size Over Four Years?**|Zhu-Heng Yao et.al.|[2408.17407v1](http://arxiv.org/abs/2408.17407v1)|[2408.17407v1](http://arxiv.org/pdf/2408.17407v1)|null|
+|**2024-08-30**|**The Cosmological CPT Theorem**|Harry Goodhew et.al.|[2408.17406v1](http://arxiv.org/abs/2408.17406v1)|[2408.17406v1](http://arxiv.org/pdf/2408.17406v1)|null|
+|**2024-08-30**|**Mapping radial abundance gradients with Gaia-ESO open clusters: Evidence of recent gas accretion in the Milky Way disk**|Marco Palla et.al.|[2408.17395v1](http://arxiv.org/abs/2408.17395v1)|[2408.17395v1](http://arxiv.org/pdf/2408.17395v1)|null|
+|**2024-08-30**|**An enhanced version of the Gaia map of the brightness of the natural sky**|Eduard Masana et.al.|[2408.17371v1](http://arxiv.org/abs/2408.17371v1)|[2408.17371v1](http://arxiv.org/pdf/2408.17371v1)|null|
 |**2024-08-29**|**Non-detection of Neutrinos from the BOAT: Improved Constraints on the Parameters of GRB 221009A**|P. Veres et.al.|[2408.16748v1](http://arxiv.org/abs/2408.16748v1)|[2408.16748v1](http://arxiv.org/pdf/2408.16748v1)|null|
 |**2024-08-29**|**Post-innermost stable circular orbit ringdown of a rapidly spinning black hole: mass ratio dependence of higher harmonic quasi-normal mode excitation**|Daiki Watarai et.al.|[2408.16747v1](http://arxiv.org/abs/2408.16747v1)|[2408.16747v1](http://arxiv.org/pdf/2408.16747v1)|null|
 |**2024-08-29**|**A VLA Study of Newly-Discovered Southern Latitude Non-Thermal Filaments in the Galactic Center: Polarimetric and Magnetic Field Properties**|Dylan M. Pare et.al.|[2408.16745v1](http://arxiv.org/abs/2408.16745v1)|[2408.16745v1](http://arxiv.org/pdf/2408.16745v1)|null|
@@ -5477,6 +5487,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443v1](http://arxiv.org/abs/2408.17443v1)|[2408.17443v1](http://arxiv.org/pdf/2408.17443v1)|**[link](https://github.com/joslefaure/HERMES)**|
+|**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431v1](http://arxiv.org/abs/2408.17431v1)|[2408.17431v1](http://arxiv.org/pdf/2408.17431v1)|null|
+|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v1](http://arxiv.org/abs/2408.17422v1)|[2408.17422v1](http://arxiv.org/pdf/2408.17422v1)|null|
+|**2024-08-30**|**Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach**|Jialiang Wei et.al.|[2408.17404v1](http://arxiv.org/abs/2408.17404v1)|[2408.17404v1](http://arxiv.org/pdf/2408.17404v1)|null|
+|**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|[2408.17401v1](http://arxiv.org/pdf/2408.17401v1)|null|
+|**2024-08-30**|**MoRe Fine-Tuning with 10x Fewer Parameters**|Wenxuan Tan et.al.|[2408.17383v1](http://arxiv.org/abs/2408.17383v1)|[2408.17383v1](http://arxiv.org/pdf/2408.17383v1)|**[link](https://github.com/sprocketlab/sparse_matrix_fine_tuning)**|
+|**2024-08-30**|**Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control**|Zihao Sheng et.al.|[2408.17380v1](http://arxiv.org/abs/2408.17380v1)|[2408.17380v1](http://arxiv.org/pdf/2408.17380v1)|**[link](https://github.com/zihaosheng/traffic-expertise-rl)**|
+|**2024-08-30**|**EMPOWER: Embodied Multi-role Open-vocabulary Planning with Online Grounding and Execution**|Francesco Argenziano et.al.|[2408.17379v1](http://arxiv.org/abs/2408.17379v1)|[2408.17379v1](http://arxiv.org/pdf/2408.17379v1)|null|
+|**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377v1](http://arxiv.org/abs/2408.17377v1)|[2408.17377v1](http://arxiv.org/pdf/2408.17377v1)|null|
+|**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366v1](http://arxiv.org/abs/2408.17366v1)|[2408.17366v1](http://arxiv.org/pdf/2408.17366v1)|null|
 |**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768v1](http://arxiv.org/abs/2408.16768v1)|[2408.16768v1](http://arxiv.org/pdf/2408.16768v1)|**[link](https://github.com/ziyuguo99/sam2point)**|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|[2408.16767v1](http://arxiv.org/pdf/2408.16767v1)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765v1](http://arxiv.org/abs/2408.16765v1)|[2408.16765v1](http://arxiv.org/pdf/2408.16765v1)|null|
