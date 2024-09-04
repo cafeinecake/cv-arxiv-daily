@@ -5489,7 +5489,7 @@
 |---|---|---|---|---|---|
 |**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443v1](http://arxiv.org/abs/2408.17443v1)|[2408.17443v1](http://arxiv.org/pdf/2408.17443v1)|**[link](https://github.com/joslefaure/HERMES)**|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431v1](http://arxiv.org/abs/2408.17431v1)|[2408.17431v1](http://arxiv.org/pdf/2408.17431v1)|null|
-|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v1](http://arxiv.org/abs/2408.17422v1)|[2408.17422v1](http://arxiv.org/pdf/2408.17422v1)|null|
+|**2024-09-03**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v2](http://arxiv.org/abs/2408.17422v2)|[2408.17422v2](http://arxiv.org/pdf/2408.17422v2)|null|
 |**2024-08-30**|**Getting Inspiration for Feature Elicitation: App Store- vs. LLM-based Approach**|Jialiang Wei et.al.|[2408.17404v1](http://arxiv.org/abs/2408.17404v1)|[2408.17404v1](http://arxiv.org/pdf/2408.17404v1)|null|
 |**2024-08-30**|**Exploring the Effect of Explanation Content and Format on User Comprehension and Trust**|Antonio Rago et.al.|[2408.17401v1](http://arxiv.org/abs/2408.17401v1)|[2408.17401v1](http://arxiv.org/pdf/2408.17401v1)|null|
 |**2024-08-30**|**MoRe Fine-Tuning with 10x Fewer Parameters**|Wenxuan Tan et.al.|[2408.17383v1](http://arxiv.org/abs/2408.17383v1)|[2408.17383v1](http://arxiv.org/pdf/2408.17383v1)|**[link](https://github.com/sprocketlab/sparse_matrix_fine_tuning)**|
