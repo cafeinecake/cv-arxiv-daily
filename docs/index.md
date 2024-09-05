@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-04**|**Gravitational radiation from binary systems in Unimodular gravity**|Indranil Chakraborty et.al.|[2409.02909v1](http://arxiv.org/abs/2409.02909v1)|[2409.02909v1](http://arxiv.org/pdf/2409.02909v1)|null|
+|**2024-09-04**|**21cm Epoch of Reionisation Power Spectrum with Closure Phase using the Murchison Widefield Array**|Himanshu Tiwari et.al.|[2409.02906v1](http://arxiv.org/abs/2409.02906v1)|[2409.02906v1](http://arxiv.org/pdf/2409.02906v1)|null|
+|**2024-09-04**|**Toward 2D Dynamo Models Calibrated by Global 3D Relativistic Accretion Disk Simulations**|Matthew D. Duez et.al.|[2409.02899v1](http://arxiv.org/abs/2409.02899v1)|[2409.02899v1](http://arxiv.org/pdf/2409.02899v1)|null|
+|**2024-09-04**|**Follow the Mass -- A Concordance Picture of Tidal Disruption Events**|Julian Krolik et.al.|[2409.02894v1](http://arxiv.org/abs/2409.02894v1)|[2409.02894v1](http://arxiv.org/pdf/2409.02894v1)|null|
+|**2024-09-04**|**Prospects for Revealing Intermediate-Mass Black Holes in NGC 1399 using SKA**|B. Karimi et.al.|[2409.02893v1](http://arxiv.org/abs/2409.02893v1)|[2409.02893v1](http://arxiv.org/pdf/2409.02893v1)|null|
+|**2024-09-04**|**Exploring cosmological gravitational wave backgrounds through the synergy of LISA and ET**|Alisha Marriott-Best et.al.|[2409.02886v1](http://arxiv.org/abs/2409.02886v1)|[2409.02886v1](http://arxiv.org/pdf/2409.02886v1)|null|
+|**2024-09-04**|**RISTRETTO: reflected-light exoplanet spectroscopy at the diffraction limit of the VLT**|Christophe Lovis et.al.|[2409.02875v1](http://arxiv.org/abs/2409.02875v1)|[2409.02875v1](http://arxiv.org/pdf/2409.02875v1)|null|
+|**2024-09-04**|**Theoretical modelling of the exceptional GRB 221009A afterglow**|L. Foffano et.al.|[2409.02859v1](http://arxiv.org/abs/2409.02859v1)|[2409.02859v1](http://arxiv.org/pdf/2409.02859v1)|null|
+|**2024-09-04**|**Superfluid-tight cryogenic receiver with continuous sub-Kelvin cooling for EXCLAIM**|Sumit Dahal et.al.|[2409.02847v1](http://arxiv.org/abs/2409.02847v1)|[2409.02847v1](http://arxiv.org/pdf/2409.02847v1)|null|
+|**2024-09-04**|**LIGO Detector Characterization in the first half of the fourth Observing run**|S. Soni et.al.|[2409.02831v1](http://arxiv.org/abs/2409.02831v1)|[2409.02831v1](http://arxiv.org/pdf/2409.02831v1)|null|
 |**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445v1](http://arxiv.org/abs/2408.17445v1)|[2408.17445v1](http://arxiv.org/pdf/2408.17445v1)|null|
 |**2024-08-30**|**Magnetising galaxies with cold inflows**|Nicolas Ledos et.al.|[2408.17438v1](http://arxiv.org/abs/2408.17438v1)|[2408.17438v1](http://arxiv.org/pdf/2408.17438v1)|null|
 |**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430v1](http://arxiv.org/abs/2408.17430v1)|[2408.17430v1](http://arxiv.org/pdf/2408.17430v1)|null|
@@ -5491,6 +5501,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920v1](http://arxiv.org/abs/2409.02920v1)|[2409.02920v1](http://arxiv.org/pdf/2409.02920v1)|null|
+|**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917v1](http://arxiv.org/abs/2409.02917v1)|[2409.02917v1](http://arxiv.org/pdf/2409.02917v1)|**[link](https://github.com/wrld/uc-nerf)**|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908v1](http://arxiv.org/abs/2409.02908v1)|[2409.02908v1](http://arxiv.org/pdf/2409.02908v1)|null|
+|**2024-09-04**|**Regional data-driven weather modeling with a global stretched-grid**|Thomas Nils Nipen et.al.|[2409.02891v1](http://arxiv.org/abs/2409.02891v1)|[2409.02891v1](http://arxiv.org/pdf/2409.02891v1)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889v1](http://arxiv.org/abs/2409.02889v1)|[2409.02889v1](http://arxiv.org/pdf/2409.02889v1)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**|Junyoung Park et.al.|[2409.02883v1](http://arxiv.org/abs/2409.02883v1)|[2409.02883v1](http://arxiv.org/pdf/2409.02883v1)|null|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877v1](http://arxiv.org/abs/2409.02877v1)|[2409.02877v1](http://arxiv.org/pdf/2409.02877v1)|null|
+|**2024-09-04**|**Hybrid Imitation-Learning Motion Planner for Urban Driving**|Cristian Gariboldi et.al.|[2409.02871v1](http://arxiv.org/abs/2409.02871v1)|[2409.02871v1](http://arxiv.org/pdf/2409.02871v1)|null|
+|**2024-09-04**|**Bioinformatics Retrieval Augmentation Data (BRAD) Digital Assistant**|Joshua Pickard et.al.|[2409.02864v1](http://arxiv.org/abs/2409.02864v1)|[2409.02864v1](http://arxiv.org/pdf/2409.02864v1)|null|
+|**2024-09-04**|**Oops, I Sampled it Again: Reinterpreting Confidence Intervals in Few-Shot Learning**|Raphael Lafargue et.al.|[2409.02850v1](http://arxiv.org/abs/2409.02850v1)|[2409.02850v1](http://arxiv.org/pdf/2409.02850v1)|**[link](https://github.com/raflaf/fsl-benchmark-again)**|
 |**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443v1](http://arxiv.org/abs/2408.17443v1)|[2408.17443v1](http://arxiv.org/pdf/2408.17443v1)|**[link](https://github.com/joslefaure/HERMES)**|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431v1](http://arxiv.org/abs/2408.17431v1)|[2408.17431v1](http://arxiv.org/pdf/2408.17431v1)|null|
 |**2024-09-03**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v2](http://arxiv.org/abs/2408.17422v2)|[2408.17422v2](http://arxiv.org/pdf/2408.17422v2)|null|
