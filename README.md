@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-05**|**Orbital Support and Evolution of CX/OX Structures in Boxy/Peanut Bars**|Behzad Tahmasebzadeh et.al.|[2409.03746v1](http://arxiv.org/abs/2409.03746v1)|[2409.03746v1](http://arxiv.org/pdf/2409.03746v1)|null|
+|**2024-09-05**|**Simulating the Galactic population of axion clouds around stellar-origin black holes: Gravitational wave signals in the 10-100 kHz band**|Jacob R. Sprague et.al.|[2409.03714v1](http://arxiv.org/abs/2409.03714v1)|[2409.03714v1](http://arxiv.org/pdf/2409.03714v1)|null|
+|**2024-09-05**|**Exploring neutrino interactions in light of present and upcoming galaxy survey**|Sourav Pal et.al.|[2409.03712v1](http://arxiv.org/abs/2409.03712v1)|[2409.03712v1](http://arxiv.org/pdf/2409.03712v1)|null|
+|**2024-09-05**|**The Gaia Ultracool Dwarf Sample -- IV. GTC/OSIRIS optical spectra of Gaia late-M and L dwarfs**|W. J. Cooper et.al.|[2409.03706v1](http://arxiv.org/abs/2409.03706v1)|[2409.03706v1](http://arxiv.org/pdf/2409.03706v1)|null|
+|**2024-09-05**|**TOI-3568 b: a super-Neptune in the sub-Jovian desert**|E. Martioli et.al.|[2409.03704v1](http://arxiv.org/abs/2409.03704v1)|[2409.03704v1](http://arxiv.org/pdf/2409.03704v1)|null|
+|**2024-09-05**|**Evidence for Dust Depletion in a Misaligned Protoplanetary Disk with JWST**|C. C. Espaillat et.al.|[2409.03702v1](http://arxiv.org/abs/2409.03702v1)|[2409.03702v1](http://arxiv.org/pdf/2409.03702v1)|null|
+|**2024-09-05**|**Molecular clouds as hubs in spiral galaxies : gas inflow and evolutionary sequence**|J. W. Zhou et.al.|[2409.03696v1](http://arxiv.org/abs/2409.03696v1)|[2409.03696v1](http://arxiv.org/pdf/2409.03696v1)|null|
+|**2024-09-05**|**Towards a self-consistent evaluation of gas dwarf scenarios for temperate sub-Neptunes**|Frances E. Rigby et.al.|[2409.03683v1](http://arxiv.org/abs/2409.03683v1)|[2409.03683v1](http://arxiv.org/pdf/2409.03683v1)|null|
+|**2024-09-05**|**Polar Neptunes are Stable to Tides**|Emma Louden et.al.|[2409.03679v1](http://arxiv.org/abs/2409.03679v1)|[2409.03679v1](http://arxiv.org/pdf/2409.03679v1)|null|
+|**2024-09-05**|**Ensemble noise properties of the European Pulsar Timing Array**|Boris Goncharov et.al.|[2409.03661v1](http://arxiv.org/abs/2409.03661v1)|[2409.03661v1](http://arxiv.org/pdf/2409.03661v1)|null|
 |**2024-09-04**|**Gravitational radiation from binary systems in Unimodular gravity**|Indranil Chakraborty et.al.|[2409.02909v1](http://arxiv.org/abs/2409.02909v1)|[2409.02909v1](http://arxiv.org/pdf/2409.02909v1)|null|
 |**2024-09-04**|**21cm Epoch of Reionisation Power Spectrum with Closure Phase using the Murchison Widefield Array**|Himanshu Tiwari et.al.|[2409.02906v1](http://arxiv.org/abs/2409.02906v1)|[2409.02906v1](http://arxiv.org/pdf/2409.02906v1)|null|
 |**2024-09-04**|**Toward 2D Dynamo Models Calibrated by Global 3D Relativistic Accretion Disk Simulations**|Matthew D. Duez et.al.|[2409.02899v1](http://arxiv.org/abs/2409.02899v1)|[2409.02899v1](http://arxiv.org/pdf/2409.02899v1)|null|
@@ -5497,6 +5507,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|[2409.03757v1](http://arxiv.org/pdf/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild**|Yuntian Deng et.al.|[2409.03753v1](http://arxiv.org/abs/2409.03753v1)|[2409.03753v1](http://arxiv.org/pdf/2409.03753v1)|null|
+|**2024-09-05**|**Dynamics of Supervised and Reinforcement Learning in the Non-Linear Perceptron**|Christian Schmid et.al.|[2409.03749v1](http://arxiv.org/abs/2409.03749v1)|[2409.03749v1](http://arxiv.org/pdf/2409.03749v1)|null|
+|**2024-09-05**|**LLM-CI: Assessing Contextual Integrity Norms in Language Models**|Yan Shvartzshnaider et.al.|[2409.03735v1](http://arxiv.org/abs/2409.03735v1)|[2409.03735v1](http://arxiv.org/pdf/2409.03735v1)|null|
+|**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733v1](http://arxiv.org/abs/2409.03733v1)|[2409.03733v1](http://arxiv.org/pdf/2409.03733v1)|null|
+|**2024-09-05**|**A Different Level Text Protection Mechanism With Differential Privacy**|Qingwen Fu et.al.|[2409.03707v1](http://arxiv.org/abs/2409.03707v1)|[2409.03707v1](http://arxiv.org/pdf/2409.03707v1)|null|
+|**2024-09-05**|**Classification and Prediction of Heart Diseases using Machine Learning Algorithms**|Akua Sekyiwaa Osei-Nkwantabisa et.al.|[2409.03697v1](http://arxiv.org/abs/2409.03697v1)|[2409.03697v1](http://arxiv.org/pdf/2409.03697v1)|null|
+|**2024-09-05**|**View-Invariant Policy Learning via Zero-Shot Novel View Synthesis**|Stephen Tian et.al.|[2409.03685v1](http://arxiv.org/abs/2409.03685v1)|[2409.03685v1](http://arxiv.org/pdf/2409.03685v1)|null|
+|**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671v1](http://arxiv.org/abs/2409.03671v1)|[2409.03671v1](http://arxiv.org/pdf/2409.03671v1)|null|
+|**2024-09-05**|**A method to benchmark high-dimensional process drift detection**|Edgar Wolf et.al.|[2409.03669v1](http://arxiv.org/abs/2409.03669v1)|[2409.03669v1](http://arxiv.org/pdf/2409.03669v1)|**[link](https://github.com/edgarwolf/driftbench)**|
 |**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920v1](http://arxiv.org/abs/2409.02920v1)|[2409.02920v1](http://arxiv.org/pdf/2409.02920v1)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917v1](http://arxiv.org/abs/2409.02917v1)|[2409.02917v1](http://arxiv.org/pdf/2409.02917v1)|**[link](https://github.com/wrld/uc-nerf)**|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908v1](http://arxiv.org/abs/2409.02908v1)|[2409.02908v1](http://arxiv.org/pdf/2409.02908v1)|null|
