@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-09-05**|**Orbital Support and Evolution of CX/OX Structures in Boxy/Peanut Bars**|Behzad Tahmasebzadeh et.al.|[2409.03746v1](http://arxiv.org/abs/2409.03746v1)|[2409.03746v1](http://arxiv.org/pdf/2409.03746v1)|null|
-|**2024-09-05**|**Simulating the Galactic population of axion clouds around stellar-origin black holes: Gravitational wave signals in the 10-100 kHz band**|Jacob R. Sprague et.al.|[2409.03714v1](http://arxiv.org/abs/2409.03714v1)|[2409.03714v1](http://arxiv.org/pdf/2409.03714v1)|null|
+|**2024-09-06**|**Simulating the Galactic population of axion clouds around stellar-origin black holes: Gravitational wave signals in the 10-100 kHz band**|Jacob R. Sprague et.al.|[2409.03714v2](http://arxiv.org/abs/2409.03714v2)|[2409.03714v2](http://arxiv.org/pdf/2409.03714v2)|null|
 |**2024-09-05**|**Exploring neutrino interactions in light of present and upcoming galaxy survey**|Sourav Pal et.al.|[2409.03712v1](http://arxiv.org/abs/2409.03712v1)|[2409.03712v1](http://arxiv.org/pdf/2409.03712v1)|null|
 |**2024-09-05**|**The Gaia Ultracool Dwarf Sample -- IV. GTC/OSIRIS optical spectra of Gaia late-M and L dwarfs**|W. J. Cooper et.al.|[2409.03706v1](http://arxiv.org/abs/2409.03706v1)|[2409.03706v1](http://arxiv.org/pdf/2409.03706v1)|null|
 |**2024-09-05**|**TOI-3568 b: a super-Neptune in the sub-Jovian desert**|E. Martioli et.al.|[2409.03704v1](http://arxiv.org/abs/2409.03704v1)|[2409.03704v1](http://arxiv.org/pdf/2409.03704v1)|null|
