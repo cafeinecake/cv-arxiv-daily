@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-09**|**Gemini High-resolution Optical SpecTrograph (GHOST) at Gemini-South: Instrument performance and integration, first science, and next steps**|V. M. Kalari et.al.|[2409.05855v1](http://arxiv.org/abs/2409.05855v1)|[2409.05855v1](http://arxiv.org/pdf/2409.05855v1)|null|
+|**2024-09-09**|**QCD-sourced tachyonic phase transition in a supercooled Universe**|Daniel Schmitt et.al.|[2409.05851v1](http://arxiv.org/abs/2409.05851v1)|[2409.05851v1](http://arxiv.org/pdf/2409.05851v1)|null|
+|**2024-09-09**|**Measuring the speed of light with cosmological observations: current constraints and forecasts**|Jaiane Santos et.al.|[2409.05838v1](http://arxiv.org/abs/2409.05838v1)|[2409.05838v1](http://arxiv.org/pdf/2409.05838v1)|null|
+|**2024-09-09**|**A model for inflaton induced baryogenesis and its phenomenological consequences**|Haipeng An et.al.|[2409.05833v1](http://arxiv.org/abs/2409.05833v1)|[2409.05833v1](http://arxiv.org/pdf/2409.05833v1)|null|
+|**2024-09-09**|**Valuation system for telescope observation time proposals for the Gemini Observatory**|C. G. Díaz et.al.|[2409.05826v1](http://arxiv.org/abs/2409.05826v1)|[2409.05826v1](http://arxiv.org/pdf/2409.05826v1)|null|
+|**2024-09-09**|**The impact of feedback on the evolution of gas density profiles from galaxies to clusters: a universal fitting formula from the Simba suite of simulations**|Daniele Sorini et.al.|[2409.05815v1](http://arxiv.org/abs/2409.05815v1)|[2409.05815v1](http://arxiv.org/pdf/2409.05815v1)|null|
+|**2024-09-09**|**Quantum maximum entropy closure for small flavor coherence**|Julien Froustey et.al.|[2409.05807v1](http://arxiv.org/abs/2409.05807v1)|[2409.05807v1](http://arxiv.org/pdf/2409.05807v1)|null|
+|**2024-09-09**|**Strange Quark Stars and Condensate Dark Stars in Bumblebee Gravity**|Grigoris Panotopoulos et.al.|[2409.05801v1](http://arxiv.org/abs/2409.05801v1)|[2409.05801v1](http://arxiv.org/pdf/2409.05801v1)|null|
+|**2024-09-09**|**Unveiling habitable planets: Toy coronagraph tackles the exozodiacal dust challenge**|Yu-Chia Lin et.al.|[2409.05797v1](http://arxiv.org/abs/2409.05797v1)|[2409.05797v1](http://arxiv.org/pdf/2409.05797v1)|null|
+|**2024-09-09**|**Environmental dependence on galaxy-halo connections for satellites using HSC weak lensing**|Amit Kumar et.al.|[2409.05795v1](http://arxiv.org/abs/2409.05795v1)|[2409.05795v1](http://arxiv.org/pdf/2409.05795v1)|null|
 |**2024-09-06**|**Ab initio quantum dynamics as a scalable solution to the exoplanet opacity challenge: A case study of CO$_2$ in hydrogen atmosphere**|Laurent Wiesenfeld et.al.|[2409.04439v1](http://arxiv.org/abs/2409.04439v1)|[2409.04439v1](http://arxiv.org/pdf/2409.04439v1)|null|
 |**2024-09-06**|**Memory burden effect mimics reheating signatures on SGWB from ultra-low mass PBH domination**|Nilanjandev Bhaumik et.al.|[2409.04436v1](http://arxiv.org/abs/2409.04436v1)|[2409.04436v1](http://arxiv.org/pdf/2409.04436v1)|null|
 |**2024-09-06**|**On the Role of Muons in Binary Neutron Star Mergers: First Simulations**|Henrique Gieg et.al.|[2409.04420v1](http://arxiv.org/abs/2409.04420v1)|[2409.04420v1](http://arxiv.org/pdf/2409.04420v1)|null|
@@ -5521,6 +5531,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-09**|**Neural MP: A Generalist Neural Motion Planner**|Murtaza Dalal et.al.|[2409.05864v1](http://arxiv.org/abs/2409.05864v1)|[2409.05864v1](http://arxiv.org/pdf/2409.05864v1)|null|
+|**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863v1](http://arxiv.org/abs/2409.05863v1)|[2409.05863v1](http://arxiv.org/pdf/2409.05863v1)|null|
+|**2024-09-09**|**Dynamics of interacting particles on a rhombus chain: Aharonov-Bohm caging and inverse Anderson transition**|Sitaram Maity et.al.|[2409.05853v1](http://arxiv.org/abs/2409.05853v1)|[2409.05853v1](http://arxiv.org/pdf/2409.05853v1)|null|
+|**2024-09-09**|**An Introduction to Quantum Reinforcement Learning (QRL)**|Samuel Yen-Chi Chen et.al.|[2409.05846v1](http://arxiv.org/abs/2409.05846v1)|[2409.05846v1](http://arxiv.org/pdf/2409.05846v1)|null|
+|**2024-09-09**|**Applying Attribution Explanations in Truth-Discovery Quantitative Bipolar Argumentation Frameworks**|Xiang Yin et.al.|[2409.05831v1](http://arxiv.org/abs/2409.05831v1)|[2409.05831v1](http://arxiv.org/pdf/2409.05831v1)|null|
+|**2024-09-09**|**The Future of Software Testing: AI-Powered Test Case Generation and Validation**|Mohammad Baqar et.al.|[2409.05808v1](http://arxiv.org/abs/2409.05808v1)|[2409.05808v1](http://arxiv.org/pdf/2409.05808v1)|null|
+|**2024-09-09**|**Benchmarking Chinese Knowledge Rectification in Large Language Models**|Tianhe Lu et.al.|[2409.05806v1](http://arxiv.org/abs/2409.05806v1)|[2409.05806v1](http://arxiv.org/pdf/2409.05806v1)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798v1](http://arxiv.org/abs/2409.05798v1)|[2409.05798v1](http://arxiv.org/pdf/2409.05798v1)|null|
+|**2024-09-09**|**Leveraging Object Priors for Point Tracking**|Bikram Boote et.al.|[2409.05786v1](http://arxiv.org/abs/2409.05786v1)|[2409.05786v1](http://arxiv.org/pdf/2409.05786v1)|null|
+|**2024-09-09**|**NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**|Wenqi Jia et.al.|[2409.05785v1](http://arxiv.org/abs/2409.05785v1)|[2409.05785v1](http://arxiv.org/pdf/2409.05785v1)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|[2409.04434v1](http://arxiv.org/pdf/2409.04434v1)|**[link](https://github.com/samsungsailmontreal/nino)**|
 |**2024-09-06**|**A Survey on Knowledge Organization Systems of Research Fields: Resources and Challenges**|Angelo Salatino et.al.|[2409.04432v1](http://arxiv.org/abs/2409.04432v1)|[2409.04432v1](http://arxiv.org/pdf/2409.04432v1)|null|
 |**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428v1](http://arxiv.org/abs/2409.04428v1)|[2409.04428v1](http://arxiv.org/pdf/2409.04428v1)|null|
