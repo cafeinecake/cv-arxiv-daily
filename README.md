@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-10**|**MAMBO -- An empirical galaxy and AGN mock catalogue for the exploitation of future surveys**|X. López-López et.al.|[2409.06700v1](http://arxiv.org/abs/2409.06700v1)|[2409.06700v1](http://arxiv.org/pdf/2409.06700v1)|null|
+|**2024-09-10**|**Slow Rotation for the Super-Puff Planet Kepler-51d**|Caleb Lammers et.al.|[2409.06697v1](http://arxiv.org/abs/2409.06697v1)|[2409.06697v1](http://arxiv.org/pdf/2409.06697v1)|null|
+|**2024-09-10**|**Bulk and atmospheric metallicities as direct probes of sequentially varying accretion mechanisms of gas and solids onto planets**|Yasuhiro Hasegawa et.al.|[2409.06670v1](http://arxiv.org/abs/2409.06670v1)|[2409.06670v1](http://arxiv.org/pdf/2409.06670v1)|null|
+|**2024-09-10**|**Magnetic Fields in a sample of planet-hosting M dwarf stars from Kepler, K2, and TESS observed by APOGEE**|Fábio Wanderley et.al.|[2409.06637v1](http://arxiv.org/abs/2409.06637v1)|[2409.06637v1](http://arxiv.org/pdf/2409.06637v1)|null|
+|**2024-09-10**|**Searching for Stellar Activity Cycles using Flares: The Short and Long Timescale Activity Variations of TIC-272272592**|Tobin M. Wainer et.al.|[2409.06631v1](http://arxiv.org/abs/2409.06631v1)|[2409.06631v1](http://arxiv.org/pdf/2409.06631v1)|null|
+|**2024-09-10**|**Are the shape and flux of X-ray reflection spectra in hard state consistent with an accretion disk reaching close to the black hole?**|Sudeb Ranjan Datta et.al.|[2409.06621v1](http://arxiv.org/abs/2409.06621v1)|[2409.06621v1](http://arxiv.org/pdf/2409.06621v1)|null|
+|**2024-09-10**|**Improving redshift-space power spectra of halo intrinsic alignments from perturbation theory**|Atsushi Taruya et.al.|[2409.06616v1](http://arxiv.org/abs/2409.06616v1)|[2409.06616v1](http://arxiv.org/pdf/2409.06616v1)|null|
+|**2024-09-10**|**Self-consistent prediction of gravitational waves from cosmological phase transitions**|Xiao Wang et.al.|[2409.06599v1](http://arxiv.org/abs/2409.06599v1)|[2409.06599v1](http://arxiv.org/pdf/2409.06599v1)|null|
+|**2024-09-10**|**The molecular gas content throughout the low-z merger sequence**|Mark T. Sargent et.al.|[2409.06572v1](http://arxiv.org/abs/2409.06572v1)|[2409.06572v1](http://arxiv.org/pdf/2409.06572v1)|null|
+|**2024-09-10**|**Cosmological gravity on all scales IV: 3x2pt Fisher forecasts for pixelised phenomenological modified gravity**|Sankarshana Srinivasan et.al.|[2409.06569v1](http://arxiv.org/abs/2409.06569v1)|[2409.06569v1](http://arxiv.org/pdf/2409.06569v1)|null|
 |**2024-09-09**|**Gemini High-resolution Optical SpecTrograph (GHOST) at Gemini-South: Instrument performance and integration, first science, and next steps**|V. M. Kalari et.al.|[2409.05855v1](http://arxiv.org/abs/2409.05855v1)|[2409.05855v1](http://arxiv.org/pdf/2409.05855v1)|null|
 |**2024-09-09**|**QCD-sourced tachyonic phase transition in a supercooled Universe**|Daniel Schmitt et.al.|[2409.05851v1](http://arxiv.org/abs/2409.05851v1)|[2409.05851v1](http://arxiv.org/pdf/2409.05851v1)|null|
 |**2024-09-09**|**Measuring the speed of light with cosmological observations: current constraints and forecasts**|Jaiane Santos et.al.|[2409.05838v1](http://arxiv.org/abs/2409.05838v1)|[2409.05838v1](http://arxiv.org/pdf/2409.05838v1)|null|
@@ -5527,6 +5537,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-10**|**Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving**|Kairui Ding et.al.|[2409.06702v1](http://arxiv.org/abs/2409.06702v1)|[2409.06702v1](http://arxiv.org/pdf/2409.06702v1)|null|
+|**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692v1](http://arxiv.org/abs/2409.06692v1)|[2409.06692v1](http://arxiv.org/pdf/2409.06692v1)|**[link](https://github.com/dice-group/hybridfc)**|
+|**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691v1](http://arxiv.org/abs/2409.06691v1)|[2409.06691v1](http://arxiv.org/pdf/2409.06691v1)|null|
+|**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690v1](http://arxiv.org/abs/2409.06690v1)|[2409.06690v1](http://arxiv.org/pdf/2409.06690v1)|null|
+|**2024-09-10**|**Liability and Insurance for Catastrophic Losses: the Nuclear Power Precedent and Lessons for AI**|Cristian Trout et.al.|[2409.06673v1](http://arxiv.org/abs/2409.06673v1)|[2409.06673v1](http://arxiv.org/pdf/2409.06673v1)|null|
+|**2024-09-10**|**Insuring Uninsurable Risks from AI: The State as Insurer of Last Resort**|Cristian Trout et.al.|[2409.06672v1](http://arxiv.org/abs/2409.06672v1)|[2409.06672v1](http://arxiv.org/pdf/2409.06672v1)|null|
+|**2024-09-10**|**A Semantic Segmentation Approach on Sweet Orange Leaf Diseases Detection Utilizing YOLO**|Sabit Ahamed Preanto et.al.|[2409.06671v1](http://arxiv.org/abs/2409.06671v1)|[2409.06671v1](http://arxiv.org/pdf/2409.06671v1)|null|
+|**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666v1](http://arxiv.org/abs/2409.06666v1)|[2409.06666v1](http://arxiv.org/pdf/2409.06666v1)|**[link](https://github.com/ictnlp/llama-omni)**|
+|**2024-09-10**|**World-Grounded Human Motion Recovery via Gravity-View Coordinates**|Zehong Shen et.al.|[2409.06662v1](http://arxiv.org/abs/2409.06662v1)|[2409.06662v1](http://arxiv.org/pdf/2409.06662v1)|null|
+|**2024-09-10**|**Human Perception of LLM-generated Text Content in Social Media Environments**|Kristina Radivojevic et.al.|[2409.06653v1](http://arxiv.org/abs/2409.06653v1)|[2409.06653v1](http://arxiv.org/pdf/2409.06653v1)|null|
 |**2024-09-09**|**Neural MP: A Generalist Neural Motion Planner**|Murtaza Dalal et.al.|[2409.05864v1](http://arxiv.org/abs/2409.05864v1)|[2409.05864v1](http://arxiv.org/pdf/2409.05864v1)|null|
 |**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863v1](http://arxiv.org/abs/2409.05863v1)|[2409.05863v1](http://arxiv.org/pdf/2409.05863v1)|null|
 |**2024-09-09**|**Dynamics of interacting particles on a rhombus chain: Aharonov-Bohm caging and inverse Anderson transition**|Sitaram Maity et.al.|[2409.05853v1](http://arxiv.org/abs/2409.05853v1)|[2409.05853v1](http://arxiv.org/pdf/2409.05853v1)|null|
