@@ -1,4 +1,4 @@
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 
 ## Astrophysics
 
@@ -5536,7 +5536,7 @@
 |**2024-09-09**|**Benchmarking Chinese Knowledge Rectification in Large Language Models**|Tianhe Lu et.al.|[2409.05806v1](http://arxiv.org/abs/2409.05806v1)|[2409.05806v1](http://arxiv.org/pdf/2409.05806v1)|**[link](https://github.com/zjunlp/easyedit)**|
 |**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798v1](http://arxiv.org/abs/2409.05798v1)|[2409.05798v1](http://arxiv.org/pdf/2409.05798v1)|null|
 |**2024-09-09**|**Leveraging Object Priors for Point Tracking**|Bikram Boote et.al.|[2409.05786v1](http://arxiv.org/abs/2409.05786v1)|[2409.05786v1](http://arxiv.org/pdf/2409.05786v1)|null|
-|**2024-09-09**|**NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**|Wenqi Jia et.al.|[2409.05785v1](http://arxiv.org/abs/2409.05785v1)|[2409.05785v1](http://arxiv.org/pdf/2409.05785v1)|null|
+|**2024-09-10**|**NeurLZ: On Enhancing Lossy Compression Performance based on Error-Controlled Neural Learning for Scientific Data**|Wenqi Jia et.al.|[2409.05785v2](http://arxiv.org/abs/2409.05785v2)|[2409.05785v2](http://arxiv.org/pdf/2409.05785v2)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|[2409.04434v1](http://arxiv.org/pdf/2409.04434v1)|**[link](https://github.com/samsungsailmontreal/nino)**|
 |**2024-09-06**|**A Survey on Knowledge Organization Systems of Research Fields: Resources and Challenges**|Angelo Salatino et.al.|[2409.04432v1](http://arxiv.org/abs/2409.04432v1)|[2409.04432v1](http://arxiv.org/pdf/2409.04432v1)|null|
 |**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428v1](http://arxiv.org/abs/2409.04428v1)|[2409.04428v1](http://arxiv.org/pdf/2409.04428v1)|null|
