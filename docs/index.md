@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-09-10**|**Slow Rotation for the Super-Puff Planet Kepler-51d**|Caleb Lammers et.al.|[2409.06697v1](http://arxiv.org/abs/2409.06697v1)|[2409.06697v1](http://arxiv.org/pdf/2409.06697v1)|null|
 |**2024-09-10**|**Bulk and atmospheric metallicities as direct probes of sequentially varying accretion mechanisms of gas and solids onto planets**|Yasuhiro Hasegawa et.al.|[2409.06670v1](http://arxiv.org/abs/2409.06670v1)|[2409.06670v1](http://arxiv.org/pdf/2409.06670v1)|null|
 |**2024-09-10**|**Magnetic Fields in a sample of planet-hosting M dwarf stars from Kepler, K2, and TESS observed by APOGEE**|Fábio Wanderley et.al.|[2409.06637v1](http://arxiv.org/abs/2409.06637v1)|[2409.06637v1](http://arxiv.org/pdf/2409.06637v1)|null|
-|**2024-09-10**|**Searching for Stellar Activity Cycles using Flares: The Short and Long Timescale Activity Variations of TIC-272272592**|Tobin M. Wainer et.al.|[2409.06631v1](http://arxiv.org/abs/2409.06631v1)|[2409.06631v1](http://arxiv.org/pdf/2409.06631v1)|null|
+|**2024-09-11**|**Searching for Stellar Activity Cycles using Flares: The Short and Long Timescale Activity Variations of TIC-272272592**|Tobin M. Wainer et.al.|[2409.06631v2](http://arxiv.org/abs/2409.06631v2)|[2409.06631v2](http://arxiv.org/pdf/2409.06631v2)|null|
 |**2024-09-10**|**Are the shape and flux of X-ray reflection spectra in hard state consistent with an accretion disk reaching close to the black hole?**|Sudeb Ranjan Datta et.al.|[2409.06621v1](http://arxiv.org/abs/2409.06621v1)|[2409.06621v1](http://arxiv.org/pdf/2409.06621v1)|null|
 |**2024-09-10**|**Improving redshift-space power spectra of halo intrinsic alignments from perturbation theory**|Atsushi Taruya et.al.|[2409.06616v1](http://arxiv.org/abs/2409.06616v1)|[2409.06616v1](http://arxiv.org/pdf/2409.06616v1)|null|
 |**2024-09-10**|**Self-consistent prediction of gravitational waves from cosmological phase transitions**|Xiao Wang et.al.|[2409.06599v1](http://arxiv.org/abs/2409.06599v1)|[2409.06599v1](http://arxiv.org/pdf/2409.06599v1)|null|
