@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-11**|**Genesis-Metallicity: Universal Non-Parametric Gas-Phase Metallicity Estimation**|Danial Langeroodi et.al.|[2409.07455v1](http://arxiv.org/abs/2409.07455v1)|[2409.07455v1](http://arxiv.org/pdf/2409.07455v1)|null|
+|**2024-09-11**|**One Stream or Two -- Exploring Andromeda's North West Stream**|Janet Preston et.al.|[2409.07419v1](http://arxiv.org/abs/2409.07419v1)|[2409.07419v1](http://arxiv.org/pdf/2409.07419v1)|null|
+|**2024-09-11**|**Size distribution of small grains in the inner zodiacal cloud**|J. R. Szalay et.al.|[2409.07411v1](http://arxiv.org/abs/2409.07411v1)|[2409.07411v1](http://arxiv.org/pdf/2409.07411v1)|null|
+|**2024-09-11**|**Properties of the Lower Segment of M31's North West Stream**|Janet Preston et.al.|[2409.07410v1](http://arxiv.org/abs/2409.07410v1)|[2409.07410v1](http://arxiv.org/pdf/2409.07410v1)|null|
+|**2024-09-11**|**Validation of up to seven TESS planet candidates through multi-colour transit photometry using MuSCAT2 data**|A. Peláez-Torres et.al.|[2409.07400v1](http://arxiv.org/abs/2409.07400v1)|[2409.07400v1](http://arxiv.org/pdf/2409.07400v1)|null|
+|**2024-09-11**|**Helical randomization of magnetized Galactic plasmas: from magnetorotational disc dynamo to the Faraday rotation sky**|A. Bershadskii et.al.|[2409.07399v1](http://arxiv.org/abs/2409.07399v1)|[2409.07399v1](http://arxiv.org/pdf/2409.07399v1)|null|
+|**2024-09-11**|**How new physics affects primordial neutrinos decoupling: Direct Simulation Monte Carlo approach**|Maksym Ovchynnikov et.al.|[2409.07378v1](http://arxiv.org/abs/2409.07378v1)|[2409.07378v1](http://arxiv.org/pdf/2409.07378v1)|null|
+|**2024-09-11**|**Reionization morphology and intrinsic velocity offsets allow transmission of Lyman-α emission from JADES-GS-z13-1-LA**|Yuxiang Qin et.al.|[2409.07356v1](http://arxiv.org/abs/2409.07356v1)|[2409.07356v1](http://arxiv.org/pdf/2409.07356v1)|null|
+|**2024-09-11**|**Energy extraction from a rotating black hole via magnetic reconnection: the plunging bulk plasma and orientation angle**|Ye Shen et.al.|[2409.07345v1](http://arxiv.org/abs/2409.07345v1)|[2409.07345v1](http://arxiv.org/pdf/2409.07345v1)|null|
+|**2024-09-11**|**Effects of Dark Matter on the Spontaneous Scalarization in Neutron Stars**|Fahimeh Rahimi et.al.|[2409.07328v1](http://arxiv.org/abs/2409.07328v1)|[2409.07328v1](http://arxiv.org/pdf/2409.07328v1)|null|
 |**2024-09-10**|**MAMBO -- An empirical galaxy and AGN mock catalogue for the exploitation of future surveys**|X. López-López et.al.|[2409.06700v1](http://arxiv.org/abs/2409.06700v1)|[2409.06700v1](http://arxiv.org/pdf/2409.06700v1)|null|
 |**2024-09-10**|**Slow Rotation for the Super-Puff Planet Kepler-51d**|Caleb Lammers et.al.|[2409.06697v1](http://arxiv.org/abs/2409.06697v1)|[2409.06697v1](http://arxiv.org/pdf/2409.06697v1)|null|
 |**2024-09-10**|**Bulk and atmospheric metallicities as direct probes of sequentially varying accretion mechanisms of gas and solids onto planets**|Yasuhiro Hasegawa et.al.|[2409.06670v1](http://arxiv.org/abs/2409.06670v1)|[2409.06670v1](http://arxiv.org/pdf/2409.06670v1)|null|
@@ -5541,6 +5551,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453v1](http://arxiv.org/abs/2409.07453v1)|[2409.07453v1](http://arxiv.org/pdf/2409.07453v1)|null|
+|**2024-09-11**|**Introducing Perturb-ability Score (PS) to Enhance Robustness Against Evasion Adversarial Attacks on ML-NIDS**|Mohamed elShehaby et.al.|[2409.07448v1](http://arxiv.org/abs/2409.07448v1)|[2409.07448v1](http://arxiv.org/pdf/2409.07448v1)|null|
+|**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440v1](http://arxiv.org/abs/2409.07440v1)|[2409.07440v1](http://arxiv.org/pdf/2409.07440v1)|**[link](https://github.com/allenai/super-benchmark)**|
+|**2024-09-11**|**Synthetic continued pretraining**|Zitong Yang et.al.|[2409.07431v1](http://arxiv.org/abs/2409.07431v1)|[2409.07431v1](http://arxiv.org/pdf/2409.07431v1)|**[link](https://github.com/zitongyang/synthetic_continued_pretraining)**|
+|**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416v1](http://arxiv.org/abs/2409.07416v1)|[2409.07416v1](http://arxiv.org/pdf/2409.07416v1)|null|
+|**2024-09-11**|**SoK: Security and Privacy Risks of Medical AI**|Yuanhaur Chang et.al.|[2409.07415v1](http://arxiv.org/abs/2409.07415v1)|[2409.07415v1](http://arxiv.org/pdf/2409.07415v1)|null|
+|**2024-09-11**|**Robust Robot Walker: Learning Agile Locomotion over Tiny Traps**|Shaoting Zhu et.al.|[2409.07409v1](http://arxiv.org/abs/2409.07409v1)|[2409.07409v1](http://arxiv.org/pdf/2409.07409v1)|null|
+|**2024-09-11**|**CLNX: Bridging Code and Natural Language for C/C++ Vulnerability-Contributing Commits Identification**|Zeqing Qin et.al.|[2409.07407v1](http://arxiv.org/abs/2409.07407v1)|[2409.07407v1](http://arxiv.org/pdf/2409.07407v1)|null|
+|**2024-09-11**|**What to align in multimodal contrastive learning?**|Benoit Dufumier et.al.|[2409.07402v1](http://arxiv.org/abs/2409.07402v1)|[2409.07402v1](http://arxiv.org/pdf/2409.07402v1)|null|
+|**2024-09-11**|**Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination**|Daniel Zhang-Li et.al.|[2409.07372v1](http://arxiv.org/abs/2409.07372v1)|[2409.07372v1](http://arxiv.org/pdf/2409.07372v1)|null|
 |**2024-09-10**|**Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving**|Kairui Ding et.al.|[2409.06702v1](http://arxiv.org/abs/2409.06702v1)|[2409.06702v1](http://arxiv.org/pdf/2409.06702v1)|null|
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692v1](http://arxiv.org/abs/2409.06692v1)|[2409.06692v1](http://arxiv.org/pdf/2409.06692v1)|**[link](https://github.com/dice-group/hybridfc)**|
 |**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691v1](http://arxiv.org/abs/2409.06691v1)|[2409.06691v1](http://arxiv.org/pdf/2409.06691v1)|null|
