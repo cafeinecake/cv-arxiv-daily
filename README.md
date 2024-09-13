@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-12**|**The Role of the Curvaton Post-Planck**|Gongjun Choi et.al.|[2409.08279v1](http://arxiv.org/abs/2409.08279v1)|[2409.08279v1](http://arxiv.org/pdf/2409.08279v1)|null|
+|**2024-09-12**|**The Retrieved Atmospheric Properties of the Sub-stellar Object VHS 1256 b from Analyzing HST, VLT and JWST Spectra**|Anna Lueber et.al.|[2409.08254v1](http://arxiv.org/abs/2409.08254v1)|[2409.08254v1](http://arxiv.org/pdf/2409.08254v1)|null|
+|**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252v1](http://arxiv.org/abs/2409.08252v1)|[2409.08252v1](http://arxiv.org/pdf/2409.08252v1)|null|
+|**2024-09-12**|**Insights from Binary Pulsars and Laboratories into Baryon Number Violation: Implications for GeV Dark Matter**|Rouzbeh Allahverdi et.al.|[2409.08178v1](http://arxiv.org/abs/2409.08178v1)|[2409.08178v1](http://arxiv.org/pdf/2409.08178v1)|null|
+|**2024-09-12**|**Coma composition and profiles of comet 12P/Pons-Brooks using long-slit spectroscopy**|Lea Ferellec et.al.|[2409.08133v1](http://arxiv.org/abs/2409.08133v1)|[2409.08133v1](http://arxiv.org/pdf/2409.08133v1)|null|
+|**2024-09-12**|**A Model for Flux Rope Formation and Disconnection in Pseudostreamer Coronal Mass Ejections**|P. F. Wyper et.al.|[2409.08126v1](http://arxiv.org/abs/2409.08126v1)|[2409.08126v1](http://arxiv.org/pdf/2409.08126v1)|null|
+|**2024-09-12**|**Magnetic Field Evolution of the Solar Active Region 13664**|Robert Jarolim et.al.|[2409.08124v1](http://arxiv.org/abs/2409.08124v1)|[2409.08124v1](http://arxiv.org/pdf/2409.08124v1)|null|
+|**2024-09-12**|**The April 2023 SYM-H = -233 nT Geomagnetic Storm: A Classical Event**|Rajkumar Hajra et.al.|[2409.08118v1](http://arxiv.org/abs/2409.08118v1)|[2409.08118v1](http://arxiv.org/pdf/2409.08118v1)|null|
+|**2024-09-12**|**JWST ice band profiles reveal mixed ice compositions in the HH 48 NE disk**|Jennifer B. Bergner et.al.|[2409.08117v1](http://arxiv.org/abs/2409.08117v1)|[2409.08117v1](http://arxiv.org/pdf/2409.08117v1)|null|
+|**2024-09-12**|**nifty-ls: Fast and Accurate Lomb-Scargle Periodograms Using a Non-Uniform FFT**|Lehman H. Garrison et.al.|[2409.08090v1](http://arxiv.org/abs/2409.08090v1)|[2409.08090v1](http://arxiv.org/pdf/2409.08090v1)|null|
 |**2024-09-11**|**Genesis-Metallicity: Universal Non-Parametric Gas-Phase Metallicity Estimation**|Danial Langeroodi et.al.|[2409.07455v1](http://arxiv.org/abs/2409.07455v1)|[2409.07455v1](http://arxiv.org/pdf/2409.07455v1)|null|
 |**2024-09-11**|**One Stream or Two -- Exploring Andromeda's North West Stream**|Janet Preston et.al.|[2409.07419v1](http://arxiv.org/abs/2409.07419v1)|[2409.07419v1](http://arxiv.org/pdf/2409.07419v1)|null|
 |**2024-09-11**|**Size distribution of small grains in the inner zodiacal cloud**|J. R. Szalay et.al.|[2409.07411v1](http://arxiv.org/abs/2409.07411v1)|[2409.07411v1](http://arxiv.org/pdf/2409.07411v1)|null|
@@ -5547,6 +5557,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-12**|**AnySkin: Plug-and-play Skin Sensing for Robotic Touch**|Raunaq Bhirangi et.al.|[2409.08276v1](http://arxiv.org/abs/2409.08276v1)|[2409.08276v1](http://arxiv.org/pdf/2409.08276v1)|null|
+|**2024-09-12**|**Crown-Like Structures in Breast Adipose Tissue: Finding a 'Needle-in-a-Haystack' using Artificial Intelligence and Collaborative Active Learning on the Web**|Praphulla MS Bhawsar et.al.|[2409.08275v1](http://arxiv.org/abs/2409.08275v1)|[2409.08275v1](http://arxiv.org/pdf/2409.08275v1)|null|
+|**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273v1](http://arxiv.org/abs/2409.08273v1)|[2409.08273v1](http://arxiv.org/pdf/2409.08273v1)|null|
+|**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270v1](http://arxiv.org/abs/2409.08270v1)|[2409.08270v1](http://arxiv.org/pdf/2409.08270v1)|**[link](https://github.com/florinshen/flashsplat)**|
+|**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264v1](http://arxiv.org/abs/2409.08264v1)|[2409.08264v1](http://arxiv.org/pdf/2409.08264v1)|**[link](https://github.com/microsoft/windowsagentarena)**|
+|**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255v1](http://arxiv.org/abs/2409.08255v1)|[2409.08255v1](http://arxiv.org/pdf/2409.08255v1)|null|
+|**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250v1](http://arxiv.org/abs/2409.08250v1)|[2409.08250v1](http://arxiv.org/pdf/2409.08250v1)|null|
+|**2024-09-12**|**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation**|Yinwei Wu et.al.|[2409.08240v1](http://arxiv.org/abs/2409.08240v1)|[2409.08240v1](http://arxiv.org/pdf/2409.08240v1)|null|
+|**2024-09-12**|**Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources**|Alisia Lupidi et.al.|[2409.08239v1](http://arxiv.org/abs/2409.08239v1)|[2409.08239v1](http://arxiv.org/pdf/2409.08239v1)|null|
+|**2024-09-12**|**LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems**|Hakan T. Otal et.al.|[2409.08234v1](http://arxiv.org/abs/2409.08234v1)|[2409.08234v1](http://arxiv.org/pdf/2409.08234v1)|**[link](https://github.com/ai-in-complex-systems-lab/llm-honeypot)**|
 |**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453v1](http://arxiv.org/abs/2409.07453v1)|[2409.07453v1](http://arxiv.org/pdf/2409.07453v1)|null|
 |**2024-09-11**|**Introducing Perturb-ability Score (PS) to Enhance Robustness Against Evasion Adversarial Attacks on ML-NIDS**|Mohamed elShehaby et.al.|[2409.07448v1](http://arxiv.org/abs/2409.07448v1)|[2409.07448v1](http://arxiv.org/pdf/2409.07448v1)|null|
 |**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440v1](http://arxiv.org/abs/2409.07440v1)|[2409.07440v1](http://arxiv.org/pdf/2409.07440v1)|**[link](https://github.com/allenai/super-benchmark)**|
