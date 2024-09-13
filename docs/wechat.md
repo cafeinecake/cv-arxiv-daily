@@ -1,4 +1,4 @@
-> Updated on 2024.09.12
+> Updated on 2024.09.13
 
 ## Astrophysics
 
@@ -5549,7 +5549,7 @@
 - 2024-09-11, **Synthetic continued pretraining**, Zitong Yang et.al., Paper: [http://arxiv.org/abs/2409.07431v1](http://arxiv.org/abs/2409.07431v1),Paper: [http://arxiv.org/abs/2409.07431v1](http://arxiv.org/pdf/2409.07431v1), Code: **[https://github.com/zitongyang/synthetic_continued_pretraining](https://github.com/zitongyang/synthetic_continued_pretraining)**
 - 2024-09-11, **Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**, Luo Ji et.al., Paper: [http://arxiv.org/abs/2409.07416v1](http://arxiv.org/abs/2409.07416v1), Paper: [http://arxiv.org/abs/2409.07416v1](http://arxiv.org/pdf/2409.07416v1)
 - 2024-09-11, **SoK: Security and Privacy Risks of Medical AI**, Yuanhaur Chang et.al., Paper: [http://arxiv.org/abs/2409.07415v1](http://arxiv.org/abs/2409.07415v1), Paper: [http://arxiv.org/abs/2409.07415v1](http://arxiv.org/pdf/2409.07415v1)
-- 2024-09-11, **Robust Robot Walker: Learning Agile Locomotion over Tiny Traps**, Shaoting Zhu et.al., Paper: [http://arxiv.org/abs/2409.07409v1](http://arxiv.org/abs/2409.07409v1), Paper: [http://arxiv.org/abs/2409.07409v1](http://arxiv.org/pdf/2409.07409v1)
+- 2024-09-12, **Robust Robot Walker: Learning Agile Locomotion over Tiny Traps**, Shaoting Zhu et.al., Paper: [http://arxiv.org/abs/2409.07409v2](http://arxiv.org/abs/2409.07409v2), Paper: [http://arxiv.org/abs/2409.07409v2](http://arxiv.org/pdf/2409.07409v2)
 - 2024-09-11, **CLNX: Bridging Code and Natural Language for C/C++ Vulnerability-Contributing Commits Identification**, Zeqing Qin et.al., Paper: [http://arxiv.org/abs/2409.07407v1](http://arxiv.org/abs/2409.07407v1), Paper: [http://arxiv.org/abs/2409.07407v1](http://arxiv.org/pdf/2409.07407v1)
 - 2024-09-11, **What to align in multimodal contrastive learning?**, Benoit Dufumier et.al., Paper: [http://arxiv.org/abs/2409.07402v1](http://arxiv.org/abs/2409.07402v1), Paper: [http://arxiv.org/abs/2409.07402v1](http://arxiv.org/pdf/2409.07402v1)
 - 2024-09-11, **Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination**, Daniel Zhang-Li et.al., Paper: [http://arxiv.org/abs/2409.07372v1](http://arxiv.org/abs/2409.07372v1), Paper: [http://arxiv.org/abs/2409.07372v1](http://arxiv.org/pdf/2409.07372v1)
