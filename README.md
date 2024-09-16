@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029v1](http://arxiv.org/abs/2409.09029v1)|[2409.09029v1](http://arxiv.org/pdf/2409.09029v1)|null|
+|**2024-09-13**|**The effect of cosmic web filaments on galaxy evolution**|Callum J. O'Kane et.al.|[2409.09028v1](http://arxiv.org/abs/2409.09028v1)|[2409.09028v1](http://arxiv.org/pdf/2409.09028v1)|null|
+|**2024-09-13**|**Primordial Stochastic Gravitational Wave Backgrounds from a Sharp Feature in Three-field Inflation II: The Inflationary Era**|Vikas Aragam et.al.|[2409.09023v1](http://arxiv.org/abs/2409.09023v1)|[2409.09023v1](http://arxiv.org/pdf/2409.09023v1)|null|
+|**2024-09-13**|**Oxygen Abundance Throughout the Dwarf Starburst IC 10**|Maren Cosens et.al.|[2409.09020v1](http://arxiv.org/abs/2409.09020v1)|[2409.09020v1](http://arxiv.org/pdf/2409.09020v1)|null|
+|**2024-09-13**|**Chiral dark matter and radiative neutrino masses from gauged U(1) symmetry**|K. S. Babu et.al.|[2409.09008v1](http://arxiv.org/abs/2409.09008v1)|[2409.09008v1](http://arxiv.org/pdf/2409.09008v1)|null|
+|**2024-09-13**|**Predicting High Magnification Events in Microlensed Quasars in the Era of LSST using Recurrent Neural Networks**|Joshua Fagin et.al.|[2409.08999v1](http://arxiv.org/abs/2409.08999v1)|[2409.08999v1](http://arxiv.org/pdf/2409.08999v1)|null|
+|**2024-09-13**|**The Clearing Timescale for Infrared-selected Star Clusters in M83 with HST**|Suyash Deshmukh et.al.|[2409.08994v1](http://arxiv.org/abs/2409.08994v1)|[2409.08994v1](http://arxiv.org/pdf/2409.08994v1)|null|
+|**2024-09-13**|**Constraints on dark energy and modified gravity from the BOSS Full-Shape and DESI BAO data**|Petter Taule et.al.|[2409.08971v1](http://arxiv.org/abs/2409.08971v1)|[2409.08971v1](http://arxiv.org/pdf/2409.08971v1)|null|
+|**2024-09-13**|**Discovery Opportunities with Gravitational Waves -- TASI 2024 Lecture Notes**|Valerie Domcke et.al.|[2409.08956v1](http://arxiv.org/abs/2409.08956v1)|[2409.08956v1](http://arxiv.org/pdf/2409.08956v1)|null|
+|**2024-09-13**|**The $M_\bullet$-$σ_e$ relation for local type 1 AGNs and quasars**|J. Molina et.al.|[2409.08893v1](http://arxiv.org/abs/2409.08893v1)|[2409.08893v1](http://arxiv.org/pdf/2409.08893v1)|null|
 |**2024-09-12**|**The Role of the Curvaton Post-Planck**|Gongjun Choi et.al.|[2409.08279v1](http://arxiv.org/abs/2409.08279v1)|[2409.08279v1](http://arxiv.org/pdf/2409.08279v1)|null|
 |**2024-09-12**|**The Retrieved Atmospheric Properties of the Sub-stellar Object VHS 1256 b from Analyzing HST, VLT and JWST Spectra**|Anna Lueber et.al.|[2409.08254v1](http://arxiv.org/abs/2409.08254v1)|[2409.08254v1](http://arxiv.org/pdf/2409.08254v1)|null|
 |**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252v1](http://arxiv.org/abs/2409.08252v1)|[2409.08252v1](http://arxiv.org/pdf/2409.08252v1)|null|
@@ -5557,6 +5567,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032v1](http://arxiv.org/abs/2409.09032v1)|[2409.09032v1](http://arxiv.org/pdf/2409.09032v1)|null|
+|**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030v1](http://arxiv.org/abs/2409.09030v1)|[2409.09030v1](http://arxiv.org/pdf/2409.09030v1)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
+|**2024-09-13**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks**|Florian Grötschla et.al.|[2409.09026v1](http://arxiv.org/abs/2409.09026v1)|[2409.09026v1](http://arxiv.org/pdf/2409.09026v1)|null|
+|**2024-09-13**|**AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents**|Zhe Su et.al.|[2409.09013v1](http://arxiv.org/abs/2409.09013v1)|[2409.09013v1](http://arxiv.org/pdf/2409.09013v1)|null|
+|**2024-09-13**|**VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization**|Donald Bertucci et.al.|[2409.09011v1](http://arxiv.org/abs/2409.09011v1)|[2409.09011v1](http://arxiv.org/pdf/2409.09011v1)|**[link](https://github.com/xnought/vae-explainer)**|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010v1](http://arxiv.org/abs/2409.09010v1)|[2409.09010v1](http://arxiv.org/pdf/2409.09010v1)|null|
+|**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007v1](http://arxiv.org/abs/2409.09007v1)|[2409.09007v1](http://arxiv.org/pdf/2409.09007v1)|**[link](https://github.com/qitianwu/sgformer)**|
+|**2024-09-13**|**Model-independent variable selection via the rule-based variable priorit**|Min Lu et.al.|[2409.09003v1](http://arxiv.org/abs/2409.09003v1)|[2409.09003v1](http://arxiv.org/pdf/2409.09003v1)|null|
+|**2024-09-13**|**E2MoCase: A Dataset for Emotional, Event and Moral Observations in News Articles on High-impact Legal Cases**|Candida M. Greco et.al.|[2409.09001v1](http://arxiv.org/abs/2409.09001v1)|[2409.09001v1](http://arxiv.org/pdf/2409.09001v1)|null|
+|**2024-09-13**|**Predicting Trust In Autonomous Vehicles: Modeling Young Adult Psychosocial Traits, Risk-Benefit Attitudes, And Driving Factors With Machine Learning**|Robert Kaufman et.al.|[2409.08980v1](http://arxiv.org/abs/2409.08980v1)|[2409.08980v1](http://arxiv.org/pdf/2409.08980v1)|null|
 |**2024-09-12**|**AnySkin: Plug-and-play Skin Sensing for Robotic Touch**|Raunaq Bhirangi et.al.|[2409.08276v1](http://arxiv.org/abs/2409.08276v1)|[2409.08276v1](http://arxiv.org/pdf/2409.08276v1)|null|
 |**2024-09-12**|**Crown-Like Structures in Breast Adipose Tissue: Finding a 'Needle-in-a-Haystack' using Artificial Intelligence and Collaborative Active Learning on the Web**|Praphulla MS Bhawsar et.al.|[2409.08275v1](http://arxiv.org/abs/2409.08275v1)|[2409.08275v1](http://arxiv.org/pdf/2409.08275v1)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273v1](http://arxiv.org/abs/2409.08273v1)|[2409.08273v1](http://arxiv.org/pdf/2409.08273v1)|null|
