@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-16**|**The VIRUS-dE Survey I: Stars in dwarf elliptical galaxies - 3D dynamics and radially resolved stellar initial mass functions**|Mathias Lipka et.al.|[2409.10518v1](http://arxiv.org/abs/2409.10518v1)|[2409.10518v1](http://arxiv.org/pdf/2409.10518v1)|null|
+|**2024-09-16**|**Mapping the exo-Neptunian landscape. A ridge between the desert and savanna**|A. Castro-González et.al.|[2409.10517v1](http://arxiv.org/abs/2409.10517v1)|[2409.10517v1](http://arxiv.org/pdf/2409.10517v1)|null|
+|**2024-09-16**|**Constraints on axions from patchy screening of the cosmic microwave background**|Samuel Goldstein et.al.|[2409.10514v1](http://arxiv.org/abs/2409.10514v1)|[2409.10514v1](http://arxiv.org/pdf/2409.10514v1)|null|
+|**2024-09-16**|**General-relativistic resistive-magnetohydrodynamics simulations of self-consistent magnetized rotating neutron stars**|Patrick Chi-Kit Cheong et.al.|[2409.10508v1](http://arxiv.org/abs/2409.10508v1)|[2409.10508v1](http://arxiv.org/pdf/2409.10508v1)|null|
+|**2024-09-16**|**Focus diverse phase retrieval test results on broadband continuous wavefront sensing in space telescope applications**|Hyukmo Kang et.al.|[2409.10500v1](http://arxiv.org/abs/2409.10500v1)|[2409.10500v1](http://arxiv.org/pdf/2409.10500v1)|null|
+|**2024-09-16**|**Torres funerarias chullpa en el valle del río Lauca: un primer análisis arqueoastronómico**|Alejandro Gangui et.al.|[2409.10497v1](http://arxiv.org/abs/2409.10497v1)|[2409.10497v1](http://arxiv.org/pdf/2409.10497v1)|null|
+|**2024-09-16**|**A Host Galaxy Morphology Link Between Quasi-Periodic Eruptions and Tidal Disruption Events**|Olivier Gilbert et.al.|[2409.10486v1](http://arxiv.org/abs/2409.10486v1)|[2409.10486v1](http://arxiv.org/pdf/2409.10486v1)|null|
+|**2024-09-16**|**Tuning the Rate of Tightly Packed Systems To Produce Planet Occurrence Trends with Galactic Height**|Sarah Ballard et.al.|[2409.10485v1](http://arxiv.org/abs/2409.10485v1)|[2409.10485v1](http://arxiv.org/pdf/2409.10485v1)|null|
+|**2024-09-16**|**Imprints of Dark Photons on Gravitational Wave Polarizations**|Kimihiro Nomura et.al.|[2409.10471v1](http://arxiv.org/abs/2409.10471v1)|[2409.10471v1](http://arxiv.org/pdf/2409.10471v1)|null|
+|**2024-09-16**|**The Debiased Near-Earth Object Population from ATLAS Telescopes**|Rogerio Deienno et.al.|[2409.10453v1](http://arxiv.org/abs/2409.10453v1)|[2409.10453v1](http://arxiv.org/pdf/2409.10453v1)|null|
 |**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029v1](http://arxiv.org/abs/2409.09029v1)|[2409.09029v1](http://arxiv.org/pdf/2409.09029v1)|null|
 |**2024-09-13**|**The effect of cosmic web filaments on galaxy evolution**|Callum J. O'Kane et.al.|[2409.09028v1](http://arxiv.org/abs/2409.09028v1)|[2409.09028v1](http://arxiv.org/pdf/2409.09028v1)|null|
 |**2024-09-13**|**Primordial Stochastic Gravitational Wave Backgrounds from a Sharp Feature in Three-field Inflation II: The Inflationary Era**|Vikas Aragam et.al.|[2409.09023v1](http://arxiv.org/abs/2409.09023v1)|[2409.09023v1](http://arxiv.org/pdf/2409.09023v1)|null|
@@ -5571,6 +5581,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-16**|**An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems**|Hitesh Tulsiani et.al.|[2409.10515v1](http://arxiv.org/abs/2409.10515v1)|[2409.10515v1](http://arxiv.org/pdf/2409.10515v1)|null|
+|**2024-09-16**|**Enhancing Video Transmission with Machine Learning based Routing in Software-Defined Networks**|Anıl Dursun İpek et.al.|[2409.10512v1](http://arxiv.org/abs/2409.10512v1)|[2409.10512v1](http://arxiv.org/pdf/2409.10512v1)|null|
+|**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496v1](http://arxiv.org/abs/2409.10496v1)|[2409.10496v1](http://arxiv.org/pdf/2409.10496v1)|**[link](https://github.com/iamtheo2000/musiclime)**|
+|**2024-09-16**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489v1](http://arxiv.org/abs/2409.10489v1)|[2409.10489v1](http://arxiv.org/pdf/2409.10489v1)|null|
+|**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al.|[2409.10488v1](http://arxiv.org/abs/2409.10488v1)|[2409.10488v1](http://arxiv.org/pdf/2409.10488v1)|null|
+|**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481v1](http://arxiv.org/abs/2409.10481v1)|[2409.10481v1](http://arxiv.org/pdf/2409.10481v1)|null|
+|**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473v1](http://arxiv.org/abs/2409.10473v1)|[2409.10473v1](http://arxiv.org/pdf/2409.10473v1)|null|
+|**2024-09-16**|**Magnetic metamaterials by ion-implantation**|Christina Vantaraki et.al.|[2409.10433v1](http://arxiv.org/abs/2409.10433v1)|[2409.10433v1](http://arxiv.org/pdf/2409.10433v1)|null|
+|**2024-09-16**|**Role of kinematic constraints in the time reversal symmetry breaking of a model active matter**|Soumen Das et.al.|[2409.10425v1](http://arxiv.org/abs/2409.10425v1)|[2409.10425v1](http://arxiv.org/pdf/2409.10425v1)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419v1](http://arxiv.org/abs/2409.10419v1)|[2409.10419v1](http://arxiv.org/pdf/2409.10419v1)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032v1](http://arxiv.org/abs/2409.09032v1)|[2409.09032v1](http://arxiv.org/pdf/2409.09032v1)|null|
 |**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030v1](http://arxiv.org/abs/2409.09030v1)|[2409.09030v1](http://arxiv.org/pdf/2409.09030v1)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks**|Florian Grötschla et.al.|[2409.09026v1](http://arxiv.org/abs/2409.09026v1)|[2409.09026v1](http://arxiv.org/pdf/2409.09026v1)|null|
