@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-17**|**Teaching dark matter simulations to speak the halo language**|Shivam Pandey et.al.|[2409.11401v1](http://arxiv.org/abs/2409.11401v1)|[2409.11401v1](http://arxiv.org/pdf/2409.11401v1)|null|
+|**2024-09-17**|**Systematic analysis of Parity-Violating modes**|Hong-Ming Zhu et.al.|[2409.11400v1](http://arxiv.org/abs/2409.11400v1)|[2409.11400v1](http://arxiv.org/pdf/2409.11400v1)|null|
+|**2024-09-17**|**The dynamics of spherically symmetric black holes in scalar-Gauss-Bonnet gravity with a Ricci coupling**|Farid Thaalba et.al.|[2409.11398v1](http://arxiv.org/abs/2409.11398v1)|[2409.11398v1](http://arxiv.org/pdf/2409.11398v1)|null|
+|**2024-09-17**|**Quartz Clouds in the Dayside Atmosphere of the Quintessential Hot Jupiter HD 189733 b**|Julie Inglis et.al.|[2409.11395v1](http://arxiv.org/abs/2409.11395v1)|[2409.11395v1](http://arxiv.org/pdf/2409.11395v1)|null|
+|**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383v1](http://arxiv.org/abs/2409.11383v1)|[2409.11383v1](http://arxiv.org/pdf/2409.11383v1)|null|
+|**2024-09-17**|**Assessing the potential of LIGO-India in resolving the Hubble Tension**|Kanchan Soni et.al.|[2409.11361v1](http://arxiv.org/abs/2409.11361v1)|[2409.11361v1](http://arxiv.org/pdf/2409.11361v1)|null|
+|**2024-09-17**|**Constraints on the maximal number of dark degrees of freedom from black hole evaporation, cosmic rays, colliders, and supernovae**|Christopher Ewasiuk et.al.|[2409.11359v1](http://arxiv.org/abs/2409.11359v1)|[2409.11359v1](http://arxiv.org/pdf/2409.11359v1)|null|
+|**2024-09-17**|**Mixing processes in stars**|P. Eggenberger et.al.|[2409.11354v1](http://arxiv.org/abs/2409.11354v1)|[2409.11354v1](http://arxiv.org/pdf/2409.11354v1)|null|
+|**2024-09-17**|**Connecting the Low to High Corona: Propagating Disturbances as Tracers of the Near-Sun Solar Wind**|Nathalia Alzate et.al.|[2409.11352v1](http://arxiv.org/abs/2409.11352v1)|[2409.11352v1](http://arxiv.org/pdf/2409.11352v1)|null|
+|**2024-09-17**|**Hertzsprung gap stars in nearby galaxies and the Quest for Luminous Red Novae Progenitors**|Hugo Tranin et.al.|[2409.11347v1](http://arxiv.org/abs/2409.11347v1)|[2409.11347v1](http://arxiv.org/pdf/2409.11347v1)|null|
 |**2024-09-16**|**The VIRUS-dE Survey I: Stars in dwarf elliptical galaxies - 3D dynamics and radially resolved stellar initial mass functions**|Mathias Lipka et.al.|[2409.10518v1](http://arxiv.org/abs/2409.10518v1)|[2409.10518v1](http://arxiv.org/pdf/2409.10518v1)|null|
 |**2024-09-16**|**Mapping the exo-Neptunian landscape. A ridge between the desert and savanna**|A. Castro-González et.al.|[2409.10517v1](http://arxiv.org/abs/2409.10517v1)|[2409.10517v1](http://arxiv.org/pdf/2409.10517v1)|null|
 |**2024-09-16**|**Constraints on axions from patchy screening of the cosmic microwave background**|Samuel Goldstein et.al.|[2409.10514v1](http://arxiv.org/abs/2409.10514v1)|[2409.10514v1](http://arxiv.org/pdf/2409.10514v1)|null|
@@ -5577,6 +5587,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404v1](http://arxiv.org/abs/2409.11404v1)|[2409.11404v1](http://arxiv.org/pdf/2409.11404v1)|null|
+|**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402v1](http://arxiv.org/abs/2409.11402v1)|[2409.11402v1](http://arxiv.org/pdf/2409.11402v1)|null|
+|**2024-09-17**|**LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Integration of Multi Active/Passive Core-Agents**|Amine B. Hassouna et.al.|[2409.11393v1](http://arxiv.org/abs/2409.11393v1)|[2409.11393v1](http://arxiv.org/pdf/2409.11393v1)|null|
+|**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378v1](http://arxiv.org/abs/2409.11378v1)|[2409.11378v1](http://arxiv.org/pdf/2409.11378v1)|null|
+|**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375v1](http://arxiv.org/abs/2409.11375v1)|[2409.11375v1](http://arxiv.org/pdf/2409.11375v1)|null|
+|**2024-09-17**|**CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**|Zachary S. Siegel et.al.|[2409.11363v1](http://arxiv.org/abs/2409.11363v1)|[2409.11363v1](http://arxiv.org/pdf/2409.11363v1)|**[link](https://github.com/siegelz/core-bench)**|
+|**2024-09-17**|**AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances**|Dhruv Agarwal et.al.|[2409.11360v1](http://arxiv.org/abs/2409.11360v1)|[2409.11360v1](http://arxiv.org/pdf/2409.11360v1)|null|
+|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|[2409.11356v1](http://arxiv.org/pdf/2409.11356v1)|null|
+|**2024-09-17**|**Clinical Validation of a Real-Time Machine Learning-based System for the Detection of Acute Myeloid Leukemia by Flow Cytometry**|Lauren M. Zuromski et.al.|[2409.11350v1](http://arxiv.org/abs/2409.11350v1)|[2409.11350v1](http://arxiv.org/pdf/2409.11350v1)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340v1](http://arxiv.org/abs/2409.11340v1)|[2409.11340v1](http://arxiv.org/pdf/2409.11340v1)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-16**|**An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems**|Hitesh Tulsiani et.al.|[2409.10515v1](http://arxiv.org/abs/2409.10515v1)|[2409.10515v1](http://arxiv.org/pdf/2409.10515v1)|null|
 |**2024-09-16**|**Enhancing Video Transmission with Machine Learning based Routing in Software-Defined Networks**|Anıl Dursun İpek et.al.|[2409.10512v1](http://arxiv.org/abs/2409.10512v1)|[2409.10512v1](http://arxiv.org/pdf/2409.10512v1)|null|
 |**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496v1](http://arxiv.org/abs/2409.10496v1)|[2409.10496v1](http://arxiv.org/pdf/2409.10496v1)|**[link](https://github.com/iamtheo2000/musiclime)**|
