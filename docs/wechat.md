@@ -1,4 +1,4 @@
-> Updated on 2024.09.17
+> Updated on 2024.09.18
 
 ## Astrophysics
 
@@ -5576,7 +5576,7 @@
 - 2024-09-16, **An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems**, Hitesh Tulsiani et.al., Paper: [http://arxiv.org/abs/2409.10515v1](http://arxiv.org/abs/2409.10515v1), Paper: [http://arxiv.org/abs/2409.10515v1](http://arxiv.org/pdf/2409.10515v1)
 - 2024-09-16, **Enhancing Video Transmission with Machine Learning based Routing in Software-Defined Networks**, Anıl Dursun İpek et.al., Paper: [http://arxiv.org/abs/2409.10512v1](http://arxiv.org/abs/2409.10512v1), Paper: [http://arxiv.org/abs/2409.10512v1](http://arxiv.org/pdf/2409.10512v1)
 - 2024-09-16, **MusicLIME: Explainable Multimodal Music Understanding**, Theodoros Sotirou et.al., Paper: [http://arxiv.org/abs/2409.10496v1](http://arxiv.org/abs/2409.10496v1),Paper: [http://arxiv.org/abs/2409.10496v1](http://arxiv.org/pdf/2409.10496v1), Code: **[https://github.com/iamtheo2000/musiclime](https://github.com/iamtheo2000/musiclime)**
-- 2024-09-16, **Flash STU: Fast Spectral Transform Units**, Y. Isabel Liu et.al., Paper: [http://arxiv.org/abs/2409.10489v1](http://arxiv.org/abs/2409.10489v1), Paper: [http://arxiv.org/abs/2409.10489v1](http://arxiv.org/pdf/2409.10489v1)
+- 2024-09-17, **Flash STU: Fast Spectral Transform Units**, Y. Isabel Liu et.al., Paper: [http://arxiv.org/abs/2409.10489v2](http://arxiv.org/abs/2409.10489v2), Paper: [http://arxiv.org/abs/2409.10489v2](http://arxiv.org/pdf/2409.10489v2)
 - 2024-09-16, **Do Pre-trained Vision-Language Models Encode Object States?**, Kaleb Newman et.al., Paper: [http://arxiv.org/abs/2409.10488v1](http://arxiv.org/abs/2409.10488v1), Paper: [http://arxiv.org/abs/2409.10488v1](http://arxiv.org/pdf/2409.10488v1)
 - 2024-09-16, **Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**, Simone Maurizio La Cava et.al., Paper: [http://arxiv.org/abs/2409.10481v1](http://arxiv.org/abs/2409.10481v1), Paper: [http://arxiv.org/abs/2409.10481v1](http://arxiv.org/pdf/2409.10481v1)
 - 2024-09-16, **MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**, Lehong Wu et.al., Paper: [http://arxiv.org/abs/2409.10473v1](http://arxiv.org/abs/2409.10473v1), Paper: [http://arxiv.org/abs/2409.10473v1](http://arxiv.org/pdf/2409.10473v1)
