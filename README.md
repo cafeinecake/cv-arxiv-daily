@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-18**|**SPECTER: An Instrument Concept for CMB Spectral Distortion Measurements with Enhanced Sensitivity**|Alina Sabyr et.al.|[2409.12188v1](http://arxiv.org/abs/2409.12188v1)|[2409.12188v1](http://arxiv.org/pdf/2409.12188v1)|null|
+|**2024-09-18**|**Exoplanet accretion monitoring spectroscopic survey (ENTROPY) I. Evidence for magnetospheric accretion in the young isolated planetary-mass object 2MASS J11151597+1937266**|Gayathri Viswanath et.al.|[2409.12187v1](http://arxiv.org/abs/2409.12187v1)|[2409.12187v1](http://arxiv.org/pdf/2409.12187v1)|null|
+|**2024-09-18**|**Disruption of a massive molecular cloud by a supernova in the Galactic Centre: Initial results from the ACES project**|M. Nonhebel et.al.|[2409.12185v1](http://arxiv.org/abs/2409.12185v1)|[2409.12185v1](http://arxiv.org/pdf/2409.12185v1)|null|
+|**2024-09-18**|**Synchrotron self-Compton in a radiative-adiabatic fireball scenario: Modelling the multiwavelength observations in some Fermi/LAT bursts**|Nissim Fraija et.al.|[2409.12166v1](http://arxiv.org/abs/2409.12166v1)|[2409.12166v1](http://arxiv.org/pdf/2409.12166v1)|null|
+|**2024-09-18**|**AHKASH: a new Hybrid particle-in-cell code for simulations of astrophysical collisionless plasma**|Radhika Achikanath Chirakkara et.al.|[2409.12151v1](http://arxiv.org/abs/2409.12151v1)|[2409.12151v1](http://arxiv.org/pdf/2409.12151v1)|null|
+|**2024-09-18**|**Probing the cosmic sterile-neutrino background with IceCube**|Bhavesh Chauhan et.al.|[2409.12145v1](http://arxiv.org/abs/2409.12145v1)|[2409.12145v1](http://arxiv.org/pdf/2409.12145v1)|null|
+|**2024-09-18**|**Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling**|W. S. Porter et.al.|[2409.12141v1](http://arxiv.org/abs/2409.12141v1)|[2409.12141v1](http://arxiv.org/pdf/2409.12141v1)|null|
+|**2024-09-18**|**Multi-wavelength spectroscopic analysis of the ULX Holmberg II**|S. Reyero Serantes et.al.|[2409.12133v1](http://arxiv.org/abs/2409.12133v1)|[2409.12133v1](http://arxiv.org/pdf/2409.12133v1)|null|
+|**2024-09-18**|**Self-similar solutions of oscillatory reconnection: parameter study of magnetic field strength and background temperature**|Luiz A. C. A. Schiavo et.al.|[2409.12130v1](http://arxiv.org/abs/2409.12130v1)|[2409.12130v1](http://arxiv.org/pdf/2409.12130v1)|null|
+|**2024-09-18**|**From formation to evaporation: Induced gravitational wave probes of the primordial black hole reheating scenario**|Guillem Domènech et.al.|[2409.12125v1](http://arxiv.org/abs/2409.12125v1)|[2409.12125v1](http://arxiv.org/pdf/2409.12125v1)|null|
 |**2024-09-17**|**Teaching dark matter simulations to speak the halo language**|Shivam Pandey et.al.|[2409.11401v1](http://arxiv.org/abs/2409.11401v1)|[2409.11401v1](http://arxiv.org/pdf/2409.11401v1)|null|
 |**2024-09-17**|**Systematic analysis of Parity-Violating modes**|Hong-Ming Zhu et.al.|[2409.11400v1](http://arxiv.org/abs/2409.11400v1)|[2409.11400v1](http://arxiv.org/pdf/2409.11400v1)|null|
 |**2024-09-17**|**The dynamics of spherically symmetric black holes in scalar-Gauss-Bonnet gravity with a Ricci coupling**|Farid Thaalba et.al.|[2409.11398v1](http://arxiv.org/abs/2409.11398v1)|[2409.11398v1](http://arxiv.org/pdf/2409.11398v1)|null|
@@ -5587,6 +5597,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193v1](http://arxiv.org/abs/2409.12193v1)|[2409.12193v1](http://arxiv.org/pdf/2409.12193v1)|**[link](https://github.com/florinshen/vista3d)**|
+|**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|[2409.12192v1](http://arxiv.org/pdf/2409.12192v1)|null|
+|**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191v1](http://arxiv.org/abs/2409.12191v1)|[2409.12191v1](http://arxiv.org/pdf/2409.12191v1)|**[link](https://github.com/qwenlm/qwen2-vl)**|
+|**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183v1](http://arxiv.org/abs/2409.12183v1)|[2409.12183v1](http://arxiv.org/pdf/2409.12183v1)|null|
+|**2024-09-18**|**Computational Dynamical Systems**|Jordan Cotler et.al.|[2409.12179v1](http://arxiv.org/abs/2409.12179v1)|[2409.12179v1](http://arxiv.org/pdf/2409.12179v1)|null|
+|**2024-09-18**|**Abductive explanations of classifiers under constraints: Complexity and properties**|Martin Cooper et.al.|[2409.12154v1](http://arxiv.org/abs/2409.12154v1)|[2409.12154v1](http://arxiv.org/pdf/2409.12154v1)|null|
+|**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150v1](http://arxiv.org/abs/2409.12150v1)|[2409.12150v1](http://arxiv.org/pdf/2409.12150v1)|null|
+|**2024-09-18**|**Experimental Evidence That Conversational Artificial Intelligence Can Steer Consumer Behavior Without Detection**|Tobias Werner et.al.|[2409.12143v1](http://arxiv.org/abs/2409.12143v1)|[2409.12143v1](http://arxiv.org/pdf/2409.12143v1)|null|
+|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139v1](http://arxiv.org/abs/2409.12139v1)|[2409.12139v1](http://arxiv.org/pdf/2409.12139v1)|null|
+|**2024-09-18**|**GRIN: GRadient-INformed MoE**|Liyuan Liu et.al.|[2409.12136v1](http://arxiv.org/abs/2409.12136v1)|[2409.12136v1](http://arxiv.org/pdf/2409.12136v1)|null|
 |**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404v1](http://arxiv.org/abs/2409.11404v1)|[2409.11404v1](http://arxiv.org/pdf/2409.11404v1)|null|
 |**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402v1](http://arxiv.org/abs/2409.11402v1)|[2409.11402v1](http://arxiv.org/pdf/2409.11402v1)|null|
 |**2024-09-17**|**LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Integration of Multi Active/Passive Core-Agents**|Amine B. Hassouna et.al.|[2409.11393v1](http://arxiv.org/abs/2409.11393v1)|[2409.11393v1](http://arxiv.org/pdf/2409.11393v1)|null|
