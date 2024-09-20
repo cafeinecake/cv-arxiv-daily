@@ -1,4 +1,4 @@
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@
 |**2024-09-18**|**AHKASH: a new Hybrid particle-in-cell code for simulations of astrophysical collisionless plasma**|Radhika Achikanath Chirakkara et.al.|[2409.12151v1](http://arxiv.org/abs/2409.12151v1)|[2409.12151v1](http://arxiv.org/pdf/2409.12151v1)|null|
 |**2024-09-18**|**Probing the cosmic sterile-neutrino background with IceCube**|Bhavesh Chauhan et.al.|[2409.12145v1](http://arxiv.org/abs/2409.12145v1)|[2409.12145v1](http://arxiv.org/pdf/2409.12145v1)|null|
 |**2024-09-18**|**Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling**|W. S. Porter et.al.|[2409.12141v1](http://arxiv.org/abs/2409.12141v1)|[2409.12141v1](http://arxiv.org/pdf/2409.12141v1)|null|
-|**2024-09-18**|**Multi-wavelength spectroscopic analysis of the ULX Holmberg II**|S. Reyero Serantes et.al.|[2409.12133v1](http://arxiv.org/abs/2409.12133v1)|[2409.12133v1](http://arxiv.org/pdf/2409.12133v1)|null|
+|**2024-09-19**|**Multi-wavelength spectroscopic analysis of the ULX Holmberg II X-1 and its nebula suggests the presence of a heavy black hole accreting from a B-type donor**|S. Reyero Serantes et.al.|[2409.12133v2](http://arxiv.org/abs/2409.12133v2)|[2409.12133v2](http://arxiv.org/pdf/2409.12133v2)|null|
 |**2024-09-18**|**Self-similar solutions of oscillatory reconnection: parameter study of magnetic field strength and background temperature**|Luiz A. C. A. Schiavo et.al.|[2409.12130v1](http://arxiv.org/abs/2409.12130v1)|[2409.12130v1](http://arxiv.org/pdf/2409.12130v1)|null|
 |**2024-09-18**|**From formation to evaporation: Induced gravitational wave probes of the primordial black hole reheating scenario**|Guillem Domènech et.al.|[2409.12125v1](http://arxiv.org/abs/2409.12125v1)|[2409.12125v1](http://arxiv.org/pdf/2409.12125v1)|null|
 |**2024-09-17**|**Teaching dark matter simulations to speak the halo language**|Shivam Pandey et.al.|[2409.11401v1](http://arxiv.org/abs/2409.11401v1)|[2409.11401v1](http://arxiv.org/pdf/2409.11401v1)|null|
