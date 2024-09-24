@@ -5609,7 +5609,7 @@ layout: default
 |**2024-09-18**|**Abductive explanations of classifiers under constraints: Complexity and properties**|Martin Cooper et.al.|[2409.12154v1](http://arxiv.org/abs/2409.12154v1)|[2409.12154v1](http://arxiv.org/pdf/2409.12154v1)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150v1](http://arxiv.org/abs/2409.12150v1)|[2409.12150v1](http://arxiv.org/pdf/2409.12150v1)|null|
 |**2024-09-18**|**Experimental Evidence That Conversational Artificial Intelligence Can Steer Consumer Behavior Without Detection**|Tobias Werner et.al.|[2409.12143v1](http://arxiv.org/abs/2409.12143v1)|[2409.12143v1](http://arxiv.org/pdf/2409.12143v1)|null|
-|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139v1](http://arxiv.org/abs/2409.12139v1)|[2409.12139v1](http://arxiv.org/pdf/2409.12139v1)|null|
+|**2024-09-23**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139v2](http://arxiv.org/abs/2409.12139v2)|[2409.12139v2](http://arxiv.org/pdf/2409.12139v2)|null|
 |**2024-09-18**|**GRIN: GRadient-INformed MoE**|Liyuan Liu et.al.|[2409.12136v1](http://arxiv.org/abs/2409.12136v1)|[2409.12136v1](http://arxiv.org/pdf/2409.12136v1)|null|
 |**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404v1](http://arxiv.org/abs/2409.11404v1)|[2409.11404v1](http://arxiv.org/pdf/2409.11404v1)|null|
 |**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402v1](http://arxiv.org/abs/2409.11402v1)|[2409.11402v1](http://arxiv.org/pdf/2409.11402v1)|null|
