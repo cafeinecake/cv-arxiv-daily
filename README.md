@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-25**|**An Analytically Tractable Marked Power Spectrum**|Haruki Ebina et.al.|[2409.17133v1](http://arxiv.org/abs/2409.17133v1)|[2409.17133v1](http://arxiv.org/pdf/2409.17133v1)|null|
+|**2024-09-25**|**Effects of the internal temperature on vertical mixing and on cloud structures in Ultra Hot Jupiters**|Pascal A. Noti et.al.|[2409.17101v1](http://arxiv.org/abs/2409.17101v1)|[2409.17101v1](http://arxiv.org/pdf/2409.17101v1)|null|
+|**2024-09-25**|**Humps on the profiles of the radial-velocity distribution and the age of the Galactic bar**|Anna Melnik et.al.|[2409.17094v1](http://arxiv.org/abs/2409.17094v1)|[2409.17094v1](http://arxiv.org/pdf/2409.17094v1)|null|
+|**2024-09-25**|**The effect of image quality on galaxy merger identification with deep learning**|Robert W. Bickley et.al.|[2409.17081v1](http://arxiv.org/abs/2409.17081v1)|[2409.17081v1](http://arxiv.org/pdf/2409.17081v1)|null|
+|**2024-09-25**|**Dynamical Dark Energy Beyond Planck? Constraints from multiple CMB probes, DESI BAO and Type-Ia Supernovae**|William Giarè et.al.|[2409.17074v1](http://arxiv.org/abs/2409.17074v1)|[2409.17074v1](http://arxiv.org/pdf/2409.17074v1)|null|
+|**2024-09-25**|**JWST/NIRISS and HST: Exploring the improved ability to characterise exoplanet atmospheres in the JWST era**|Chloe Fisher et.al.|[2409.17042v1](http://arxiv.org/abs/2409.17042v1)|[2409.17042v1](http://arxiv.org/pdf/2409.17042v1)|null|
+|**2024-09-25**|**Null geodesics around a black hole with weakly coupled global monopole charge**|Mohsen Fathi et.al.|[2409.17031v1](http://arxiv.org/abs/2409.17031v1)|[2409.17031v1](http://arxiv.org/pdf/2409.17031v1)|null|
+|**2024-09-25**|**Matching current observational constraints with non-minimally coupled dark energy**|William J. Wolf et.al.|[2409.17019v1](http://arxiv.org/abs/2409.17019v1)|[2409.17019v1](http://arxiv.org/pdf/2409.17019v1)|null|
+|**2024-09-25**|**SOFIA/upGREAT far-infrared spectroscopy of bright rimmed pillars in IC 1848**|Dariusz C. Lis et.al.|[2409.17003v1](http://arxiv.org/abs/2409.17003v1)|[2409.17003v1](http://arxiv.org/pdf/2409.17003v1)|null|
+|**2024-09-25**|**Searching for substellar companion candidates with Gaia. II. A catalog of 9,698 planet candidate solar-type hosts**|Flavien Kiefer et.al.|[2409.16993v1](http://arxiv.org/abs/2409.16993v1)|[2409.16993v1](http://arxiv.org/pdf/2409.16993v1)|null|
 |**2024-09-24**|**Exactly solvable stochastic spectator**|Masazumi Honda et.al.|[2409.16272v1](http://arxiv.org/abs/2409.16272v1)|[2409.16272v1](http://arxiv.org/pdf/2409.16272v1)|null|
 |**2024-09-24**|**Extreme Weather Variability on Hot Rocky Exoplanet 55 Cancri e Explained by Magma Temperature-Cloud Feedback**|Kaitlyn Loftus et.al.|[2409.16270v1](http://arxiv.org/abs/2409.16270v1)|[2409.16270v1](http://arxiv.org/pdf/2409.16270v1)|**[link](https://github.com/kaitlyn-loftus/lava-limits)**|
 |**2024-09-24**|**The CHEOPS view on the climate of WASP-3 b**|G. Scandariato et.al.|[2409.16268v1](http://arxiv.org/abs/2409.16268v1)|[2409.16268v1](http://arxiv.org/pdf/2409.16268v1)|null|
@@ -5607,6 +5617,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-25**|**Differential Privacy Regularization: Protecting Training Data Through Loss Function Regularization**|Francisco Aguilera-Martínez et.al.|[2409.17144v1](http://arxiv.org/abs/2409.17144v1)|[2409.17144v1](http://arxiv.org/pdf/2409.17144v1)|null|
+|**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143v1](http://arxiv.org/abs/2409.17143v1)|[2409.17143v1](http://arxiv.org/pdf/2409.17143v1)|**[link](https://github.com/yu-rp/apiprompting)**|
+|**2024-09-25**|**FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression**|Fazal Mittu et.al.|[2409.17141v1](http://arxiv.org/abs/2409.17141v1)|[2409.17141v1](http://arxiv.org/pdf/2409.17141v1)|**[link](https://github.com/fazalmittu/finezip)**|
+|**2024-09-25**|**Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents**|Junting Lu et.al.|[2409.17140v1](http://arxiv.org/abs/2409.17140v1)|[2409.17140v1](http://arxiv.org/pdf/2409.17140v1)|null|
+|**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|Andrew Goldberg et.al.|[2409.17126v1](http://arxiv.org/abs/2409.17126v1)|[2409.17126v1](http://arxiv.org/pdf/2409.17126v1)|null|
+|**2024-09-25**|**On-orbit Servicing for Spacecraft Collision Avoidance With Autonomous Decision Making**|Susmitha Patnala et.al.|[2409.17125v1](http://arxiv.org/abs/2409.17125v1)|[2409.17125v1](http://arxiv.org/pdf/2409.17125v1)|null|
+|**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122v1](http://arxiv.org/abs/2409.17122v1)|[2409.17122v1](http://arxiv.org/pdf/2409.17122v1)|**[link](https://github.com/swiman/mamba-medical-classification)**|
+|**2024-09-25**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**|Benji Peng et.al.|[2409.17120v1](http://arxiv.org/abs/2409.17120v1)|[2409.17120v1](http://arxiv.org/pdf/2409.17120v1)|null|
+|**2024-09-25**|**Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale**|Fan Zhou et.al.|[2409.17115v1](http://arxiv.org/abs/2409.17115v1)|[2409.17115v1](http://arxiv.org/pdf/2409.17115v1)|**[link](https://github.com/gair-nlp/prox)**|
+|**2024-09-25**|**Self-Sensing for Proprioception and Contact Detection in Soft Robots Using Shape Memory Alloy Artificial Muscles**|Ran Jing et.al.|[2409.17111v1](http://arxiv.org/abs/2409.17111v1)|[2409.17111v1](http://arxiv.org/pdf/2409.17111v1)|null|
 |**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287v1](http://arxiv.org/abs/2409.16287v1)|[2409.16287v1](http://arxiv.org/pdf/2409.16287v1)|null|
 |**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252v1](http://arxiv.org/abs/2409.16252v1)|[2409.16252v1](http://arxiv.org/pdf/2409.16252v1)|null|
 |**2024-09-24**|**LLM Echo Chamber: personalized and automated disinformation**|Tony Ma et.al.|[2409.16241v1](http://arxiv.org/abs/2409.16241v1)|[2409.16241v1](http://arxiv.org/pdf/2409.16241v1)|**[link](https://github.com/iamtonymwt/echo_chamber)**|
