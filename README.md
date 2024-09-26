@@ -1,9 +1,19 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-24**|**Exactly solvable stochastic spectator**|Masazumi Honda et.al.|[2409.16272v1](http://arxiv.org/abs/2409.16272v1)|[2409.16272v1](http://arxiv.org/pdf/2409.16272v1)|null|
+|**2024-09-24**|**Extreme Weather Variability on Hot Rocky Exoplanet 55 Cancri e Explained by Magma Temperature-Cloud Feedback**|Kaitlyn Loftus et.al.|[2409.16270v1](http://arxiv.org/abs/2409.16270v1)|[2409.16270v1](http://arxiv.org/pdf/2409.16270v1)|**[link](https://github.com/kaitlyn-loftus/lava-limits)**|
+|**2024-09-24**|**The CHEOPS view on the climate of WASP-3 b**|G. Scandariato et.al.|[2409.16268v1](http://arxiv.org/abs/2409.16268v1)|[2409.16268v1](http://arxiv.org/pdf/2409.16268v1)|null|
+|**2024-09-24**|**Liger at W.M. Keck Observatory: imager structural analysis, fabrication, and characterization plan**|James Wiley et.al.|[2409.16263v1](http://arxiv.org/abs/2409.16263v1)|[2409.16263v1](http://arxiv.org/pdf/2409.16263v1)|null|
+|**2024-09-24**|**Water in protoplanetary disks with JWST-MIRI: spectral excitation atlas, diagnostic diagrams for temperature and column density, and detection of disk-rotation line broadening**|Andrea Banzatti et.al.|[2409.16255v1](http://arxiv.org/abs/2409.16255v1)|[2409.16255v1](http://arxiv.org/pdf/2409.16255v1)|null|
+|**2024-09-24**|**Material Transport in Protoplanetary Discs with Massive Embedded Planets**|Hannah J. Petrovic et.al.|[2409.16245v1](http://arxiv.org/abs/2409.16245v1)|[2409.16245v1](http://arxiv.org/pdf/2409.16245v1)|null|
+|**2024-09-24**|**Discover high-$z$ BL Lacs by {\it Swift} and SARA observations with the dropout technique**|Y. Sheng et.al.|[2409.16236v1](http://arxiv.org/abs/2409.16236v1)|[2409.16236v1](http://arxiv.org/pdf/2409.16236v1)|null|
+|**2024-09-24**|**Probing the equation of state of neutron stars using neutrino oscillations**|Siddhartha Bandyopadhyay et.al.|[2409.16232v1](http://arxiv.org/abs/2409.16232v1)|[2409.16232v1](http://arxiv.org/pdf/2409.16232v1)|null|
+|**2024-09-24**|**JWST Resolves CIA Features in White Dwarfs**|Simon Blouin et.al.|[2409.16224v1](http://arxiv.org/abs/2409.16224v1)|[2409.16224v1](http://arxiv.org/pdf/2409.16224v1)|null|
+|**2024-09-24**|**Low-mass stellar and substellar candidate companions around massive stars in Sco OB1 and M17**|Tinne Pauwels et.al.|[2409.16212v1](http://arxiv.org/abs/2409.16212v1)|[2409.16212v1](http://arxiv.org/pdf/2409.16212v1)|null|
 |**2024-09-18**|**SPECTER: An Instrument Concept for CMB Spectral Distortion Measurements with Enhanced Sensitivity**|Alina Sabyr et.al.|[2409.12188v1](http://arxiv.org/abs/2409.12188v1)|[2409.12188v1](http://arxiv.org/pdf/2409.12188v1)|null|
 |**2024-09-18**|**Exoplanet accretion monitoring spectroscopic survey (ENTROPY) I. Evidence for magnetospheric accretion in the young isolated planetary-mass object 2MASS J11151597+1937266**|Gayathri Viswanath et.al.|[2409.12187v1](http://arxiv.org/abs/2409.12187v1)|[2409.12187v1](http://arxiv.org/pdf/2409.12187v1)|null|
 |**2024-09-18**|**Disruption of a massive molecular cloud by a supernova in the Galactic Centre: Initial results from the ACES project**|M. Nonhebel et.al.|[2409.12185v1](http://arxiv.org/abs/2409.12185v1)|[2409.12185v1](http://arxiv.org/pdf/2409.12185v1)|null|
@@ -5597,6 +5607,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287v1](http://arxiv.org/abs/2409.16287v1)|[2409.16287v1](http://arxiv.org/pdf/2409.16287v1)|null|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252v1](http://arxiv.org/abs/2409.16252v1)|[2409.16252v1](http://arxiv.org/pdf/2409.16252v1)|null|
+|**2024-09-24**|**LLM Echo Chamber: personalized and automated disinformation**|Tony Ma et.al.|[2409.16241v1](http://arxiv.org/abs/2409.16241v1)|[2409.16241v1](http://arxiv.org/pdf/2409.16241v1)|**[link](https://github.com/iamtonymwt/echo_chamber)**|
+|**2024-09-24**|**Label-Augmented Dataset Distillation**|Seoungyoon Kang et.al.|[2409.16239v1](http://arxiv.org/abs/2409.16239v1)|[2409.16239v1](http://arxiv.org/pdf/2409.16239v1)|null|
+|**2024-09-24**|**Efficiently Learning Probabilistic Logical Models by Cheaply Ranking Mined Rules**|Jonathan Feldstein et.al.|[2409.16238v1](http://arxiv.org/abs/2409.16238v1)|[2409.16238v1](http://arxiv.org/pdf/2409.16238v1)|null|
+|**2024-09-24**|**Predicting Deterioration in Mild Cognitive Impairment with Survival Transformers, Extreme Gradient Boosting and Cox Proportional Hazard Modelling**|Henry Musto et.al.|[2409.16231v1](http://arxiv.org/abs/2409.16231v1)|[2409.16231v1](http://arxiv.org/pdf/2409.16231v1)|null|
+|**2024-09-24**|**Fine-Tuning is Fine, if Calibrated**|Zheda Mai et.al.|[2409.16223v1](http://arxiv.org/abs/2409.16223v1)|[2409.16223v1](http://arxiv.org/pdf/2409.16223v1)|null|
+|**2024-09-24**|**Towards Enhancing Linked Data Retrieval in Conversational UIs using Large Language Models**|Omar Mussa et.al.|[2409.16220v1](http://arxiv.org/abs/2409.16220v1)|[2409.16220v1](http://arxiv.org/pdf/2409.16220v1)|null|
+|**2024-09-24**|**Problem-oriented AutoML in Clustering**|Matheus Camilo da Silva et.al.|[2409.16218v1](http://arxiv.org/abs/2409.16218v1)|[2409.16218v1](http://arxiv.org/pdf/2409.16218v1)|null|
+|**2024-09-24**|**Twinning Commercial Network Traces on Experimental Open RAN Platforms**|Leonardo Bonati et.al.|[2409.16217v1](http://arxiv.org/abs/2409.16217v1)|[2409.16217v1](http://arxiv.org/pdf/2409.16217v1)|null|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193v1](http://arxiv.org/abs/2409.12193v1)|[2409.12193v1](http://arxiv.org/pdf/2409.12193v1)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|[2409.12192v1](http://arxiv.org/pdf/2409.12192v1)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191v1](http://arxiv.org/abs/2409.12191v1)|[2409.12191v1](http://arxiv.org/pdf/2409.12191v1)|**[link](https://github.com/qwenlm/qwen2-vl)**|
