@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-26**|**TOI-5005 b: A super-Neptune in the savanna near the ridge**|A. Castro-González et.al.|[2409.18129v1](http://arxiv.org/abs/2409.18129v1)|[2409.18129v1](http://arxiv.org/pdf/2409.18129v1)|null|
+|**2024-09-26**|**The importance of nuclear star clusters for massive black hole growth and nuclear star formation in simulated low-mass galaxies**|Christian Partmann et.al.|[2409.18096v1](http://arxiv.org/abs/2409.18096v1)|[2409.18096v1](http://arxiv.org/pdf/2409.18096v1)|null|
+|**2024-09-26**|**Combined JWST-MUSE Integral Field Spectroscopy of the Most Luminous Quasar in the Local Universe, PDS 456**|Jerome Seebeck et.al.|[2409.18086v1](http://arxiv.org/abs/2409.18086v1)|[2409.18086v1](http://arxiv.org/pdf/2409.18086v1)|null|
+|**2024-09-26**|**CARRSSPipeline: Flux Calibration and Non-linear Reprojection for SALT-RSS Multi-Object Spectroscopy over 3500-9500 Å**|George V. Kharchilava et.al.|[2409.18081v1](http://arxiv.org/abs/2409.18081v1)|[2409.18081v1](http://arxiv.org/pdf/2409.18081v1)|null|
+|**2024-09-26**|**The radio halo in PLCKESZ G171.94 $-$ 40.65: Beacon of merging activity**|Ramananda Santra et.al.|[2409.18075v1](http://arxiv.org/abs/2409.18075v1)|[2409.18075v1](http://arxiv.org/pdf/2409.18075v1)|null|
+|**2024-09-26**|**Magnetohydrodynamic simulations of A-type stars: Long-term evolution of core dynamo cycles**|J. P. Hidalgo et.al.|[2409.18066v1](http://arxiv.org/abs/2409.18066v1)|[2409.18066v1](http://arxiv.org/pdf/2409.18066v1)|null|
+|**2024-09-26**|**On relativistic dynamical tides: subtleties and calibration**|Takuya Katagiri et.al.|[2409.18034v1](http://arxiv.org/abs/2409.18034v1)|[2409.18034v1](http://arxiv.org/pdf/2409.18034v1)|null|
+|**2024-09-26**|**Constraining the origin of the nanohertz gravitational-wave background by pulsar timing array observations of both the background and individual supermassive binary black holes**|Yunfeng Chen et.al.|[2409.18029v1](http://arxiv.org/abs/2409.18029v1)|[2409.18029v1](http://arxiv.org/pdf/2409.18029v1)|null|
+|**2024-09-26**|**Exploring the Dynamics of CME-Driven Shocks by Comparing Numerical Modeling and Observations**|Meng Jin et.al.|[2409.18020v1](http://arxiv.org/abs/2409.18020v1)|[2409.18020v1](http://arxiv.org/pdf/2409.18020v1)|null|
+|**2024-09-26**|**Conformal Backreaction, Chiral and Conformal Anomalies in the Early Universe**|Claudio Corianò et.al.|[2409.18004v1](http://arxiv.org/abs/2409.18004v1)|[2409.18004v1](http://arxiv.org/pdf/2409.18004v1)|null|
 |**2024-09-25**|**An Analytically Tractable Marked Power Spectrum**|Haruki Ebina et.al.|[2409.17133v1](http://arxiv.org/abs/2409.17133v1)|[2409.17133v1](http://arxiv.org/pdf/2409.17133v1)|null|
 |**2024-09-25**|**Effects of the internal temperature on vertical mixing and on cloud structures in Ultra Hot Jupiters**|Pascal A. Noti et.al.|[2409.17101v1](http://arxiv.org/abs/2409.17101v1)|[2409.17101v1](http://arxiv.org/pdf/2409.17101v1)|null|
 |**2024-09-25**|**Humps on the profiles of the radial-velocity distribution and the age of the Galactic bar**|Anna Melnik et.al.|[2409.17094v1](http://arxiv.org/abs/2409.17094v1)|[2409.17094v1](http://arxiv.org/pdf/2409.17094v1)|null|
