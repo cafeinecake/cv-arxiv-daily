@@ -1,4 +1,4 @@
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 
 ## Astrophysics
 
@@ -5627,6 +5627,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|[2409.18119v1](http://arxiv.org/pdf/2409.18119v1)|null|
+|**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104v1](http://arxiv.org/abs/2409.18104v1)|[2409.18104v1](http://arxiv.org/pdf/2409.18104v1)|**[link](https://github.com/lgordon99/rhino-midden-detector)**|
+|**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|[2409.18101v1](http://arxiv.org/pdf/2409.18101v1)|null|
+|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099v1](http://arxiv.org/abs/2409.18099v1)|[2409.18099v1](http://arxiv.org/pdf/2409.18099v1)|null|
+|**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092v1](http://arxiv.org/abs/2409.18092v1)|[2409.18092v1](http://arxiv.org/pdf/2409.18092v1)|null|
+|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084v1](http://arxiv.org/abs/2409.18084v1)|[2409.18084v1](http://arxiv.org/pdf/2409.18084v1)|null|
+|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082v1](http://arxiv.org/abs/2409.18082v1)|[2409.18082v1](http://arxiv.org/pdf/2409.18082v1)|null|
+|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073v1](http://arxiv.org/abs/2409.18073v1)|[2409.18073v1](http://arxiv.org/pdf/2409.18073v1)|null|
+|**2024-09-26**|**FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction**|Runze He et.al.|[2409.18071v1](http://arxiv.org/abs/2409.18071v1)|[2409.18071v1](http://arxiv.org/pdf/2409.18071v1)|null|
+|**2024-09-26**|**Optimal Protocols for Continual Learning via Statistical Physics and Control Theory**|Francesco Mori et.al.|[2409.18061v1](http://arxiv.org/abs/2409.18061v1)|[2409.18061v1](http://arxiv.org/pdf/2409.18061v1)|null|
 |**2024-09-25**|**Differential Privacy Regularization: Protecting Training Data Through Loss Function Regularization**|Francisco Aguilera-Martínez et.al.|[2409.17144v1](http://arxiv.org/abs/2409.17144v1)|[2409.17144v1](http://arxiv.org/pdf/2409.17144v1)|null|
 |**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143v1](http://arxiv.org/abs/2409.17143v1)|[2409.17143v1](http://arxiv.org/pdf/2409.17143v1)|**[link](https://github.com/yu-rp/apiprompting)**|
 |**2024-09-25**|**FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression**|Fazal Mittu et.al.|[2409.17141v1](http://arxiv.org/abs/2409.17141v1)|[2409.17141v1](http://arxiv.org/pdf/2409.17141v1)|**[link](https://github.com/fazalmittu/finezip)**|
