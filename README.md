@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-27**|**Radiative cooling induced coherent maser emission in relativistic plasmas**|Pablo J. Bilbao et.al.|[2409.18955v1](http://arxiv.org/abs/2409.18955v1)|[2409.18955v1](http://arxiv.org/pdf/2409.18955v1)|null|
+|**2024-09-27**|**The erosion of large primary atmospheres typically leaves behind substantial secondary atmospheres on temperate rocky planets**|Joshua Krissansen-Totton et.al.|[2409.18940v1](http://arxiv.org/abs/2409.18940v1)|[2409.18940v1](http://arxiv.org/pdf/2409.18940v1)|null|
+|**2024-09-27**|**High-energy gamma-ray and neutrino emissions from interacting supernovae based on radiation hydrodynamic simulations: a case of SN 2023ixf**|Shigeo S. Kimura et.al.|[2409.18935v1](http://arxiv.org/abs/2409.18935v1)|[2409.18935v1](http://arxiv.org/pdf/2409.18935v1)|null|
+|**2024-09-27**|**Observational analysis of late-time acceleration in $f(Q, L_m)$ gravity**|Kairat Myrzakulov et.al.|[2409.18920v1](http://arxiv.org/abs/2409.18920v1)|[2409.18920v1](http://arxiv.org/pdf/2409.18920v1)|null|
+|**2024-09-27**|**Mixed Warm Dark Matter Constraints using Milky Way Satellite Galaxy Counts**|Chin Yi Tan et.al.|[2409.18917v1](http://arxiv.org/abs/2409.18917v1)|[2409.18917v1](http://arxiv.org/pdf/2409.18917v1)|null|
+|**2024-09-27**|**A multi-ion non-equilibrium solver for ionised astrophysical plasmas with arbitrary elemental abundances**|Arun Mathew et.al.|[2409.18904v1](http://arxiv.org/abs/2409.18904v1)|[2409.18904v1](http://arxiv.org/pdf/2409.18904v1)|null|
+|**2024-09-27**|**Impact of dark boson mediated feeble interaction between dark matter and hadronic matter on $f$-mode oscillation of neutron stars**|Debashree Sen et.al.|[2409.18890v1](http://arxiv.org/abs/2409.18890v1)|[2409.18890v1](http://arxiv.org/pdf/2409.18890v1)|null|
+|**2024-09-27**|**Dynamical homogenization in effective loop quantum cosmology**|Edward Wilson-Ewing et.al.|[2409.18889v1](http://arxiv.org/abs/2409.18889v1)|[2409.18889v1](http://arxiv.org/pdf/2409.18889v1)|null|
+|**2024-09-27**|**Euclid preparation: 6x2 pt analysis of Euclid's spectroscopic and photometric data sets**|Euclid Collaboration et.al.|[2409.18882v1](http://arxiv.org/abs/2409.18882v1)|[2409.18882v1](http://arxiv.org/pdf/2409.18882v1)|null|
+|**2024-09-27**|**New Insights into Supradense Matter from Dissecting Scaled Stellar Structure Equations**|Bao-Jun Cai et.al.|[2409.18854v1](http://arxiv.org/abs/2409.18854v1)|[2409.18854v1](http://arxiv.org/pdf/2409.18854v1)|null|
 |**2024-09-26**|**TOI-5005 b: A super-Neptune in the savanna near the ridge**|A. Castro-González et.al.|[2409.18129v1](http://arxiv.org/abs/2409.18129v1)|[2409.18129v1](http://arxiv.org/pdf/2409.18129v1)|null|
 |**2024-09-26**|**The importance of nuclear star clusters for massive black hole growth and nuclear star formation in simulated low-mass galaxies**|Christian Partmann et.al.|[2409.18096v1](http://arxiv.org/abs/2409.18096v1)|[2409.18096v1](http://arxiv.org/pdf/2409.18096v1)|null|
 |**2024-09-26**|**Combined JWST-MUSE Integral Field Spectroscopy of the Most Luminous Quasar in the Local Universe, PDS 456**|Jerome Seebeck et.al.|[2409.18086v1](http://arxiv.org/abs/2409.18086v1)|[2409.18086v1](http://arxiv.org/pdf/2409.18086v1)|null|
@@ -5627,6 +5637,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964v1](http://arxiv.org/abs/2409.18964v1)|[2409.18964v1](http://arxiv.org/pdf/2409.18964v1)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962v1](http://arxiv.org/abs/2409.18962v1)|[2409.18962v1](http://arxiv.org/pdf/2409.18962v1)|null|
+|**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961v1](http://arxiv.org/abs/2409.18961v1)|[2409.18961v1](http://arxiv.org/pdf/2409.18961v1)|null|
+|**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959v1](http://arxiv.org/abs/2409.18959v1)|[2409.18959v1](http://arxiv.org/pdf/2409.18959v1)|null|
+|**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957v1](http://arxiv.org/abs/2409.18957v1)|[2409.18957v1](http://arxiv.org/pdf/2409.18957v1)|**[link](https://github.com/pro-genai/lml-dap)**|
+|**2024-09-27**|**Unconditional stability of a recurrent neural circuit implementing divisive normalization**|Shivang Rawat et.al.|[2409.18946v1](http://arxiv.org/abs/2409.18946v1)|[2409.18946v1](http://arxiv.org/pdf/2409.18946v1)|null|
+|**2024-09-27**|**Building Trust Through Voice: How Vocal Tone Impacts User Perception of Attractiveness of Voice Assistants**|Sabid Bin Habib Pias et.al.|[2409.18941v1](http://arxiv.org/abs/2409.18941v1)|[2409.18941v1](http://arxiv.org/pdf/2409.18941v1)|null|
+|**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938v1](http://arxiv.org/abs/2409.18938v1)|[2409.18938v1](http://arxiv.org/pdf/2409.18938v1)|null|
+|**2024-09-27**|**Nonlinear orbital stability of stationary discrete shock profiles for scalar conservation laws**|Lucas Coeuret et.al.|[2409.18930v1](http://arxiv.org/abs/2409.18930v1)|[2409.18930v1](http://arxiv.org/pdf/2409.18930v1)|null|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v1](http://arxiv.org/abs/2409.18924v1)|[2409.18924v1](http://arxiv.org/pdf/2409.18924v1)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|[2409.18119v1](http://arxiv.org/pdf/2409.18119v1)|null|
 |**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104v1](http://arxiv.org/abs/2409.18104v1)|[2409.18104v1](http://arxiv.org/pdf/2409.18104v1)|**[link](https://github.com/lgordon99/rhino-midden-detector)**|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|[2409.18101v1](http://arxiv.org/pdf/2409.18101v1)|null|
