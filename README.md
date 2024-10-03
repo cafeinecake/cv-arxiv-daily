@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-02**|**A Catalog of Pulsar X-ray Filaments**|Jack T. Dinsmore et.al.|[2410.01807v1](http://arxiv.org/abs/2410.01807v1)|[2410.01807v1](http://arxiv.org/pdf/2410.01807v1)|null|
+|**2024-10-02**|**Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**|E. L. Entina et.al.|[2410.01781v1](http://arxiv.org/abs/2410.01781v1)|[2410.01781v1](http://arxiv.org/pdf/2410.01781v1)|null|
+|**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v1](http://arxiv.org/abs/2410.01758v1)|[2410.01758v1](http://arxiv.org/pdf/2410.01758v1)|null|
+|**2024-10-02**|**Impact of Redshift Space Distortion on Persistent Homology of cosmic matter density field**|Fatemeh Abedi et.al.|[2410.01751v1](http://arxiv.org/abs/2410.01751v1)|[2410.01751v1](http://arxiv.org/pdf/2410.01751v1)|null|
+|**2024-10-02**|**Multiple-scale gas infall through gravity torques on Milky Way twins**|Patrícia da Silva et.al.|[2410.01721v1](http://arxiv.org/abs/2410.01721v1)|[2410.01721v1](http://arxiv.org/pdf/2410.01721v1)|null|
+|**2024-10-02**|**Asteroseismology**|Dominic M. Bowman et.al.|[2410.01715v1](http://arxiv.org/abs/2410.01715v1)|[2410.01715v1](http://arxiv.org/pdf/2410.01715v1)|null|
+|**2024-10-02**|**TIC 290061484: A Triply Eclipsing Triple System with the Shortest Known Outer Period of 24.5 Days**|Veselin B. Kostov et.al.|[2410.01711v1](http://arxiv.org/abs/2410.01711v1)|[2410.01711v1](http://arxiv.org/pdf/2410.01711v1)|null|
+|**2024-10-02**|**Fast Simulation of Cosmological Neutral Hydrogen based on the Halo Model**|Pascal Hitz et.al.|[2410.01694v1](http://arxiv.org/abs/2410.01694v1)|[2410.01694v1](http://arxiv.org/pdf/2410.01694v1)|null|
+|**2024-10-02**|**JWST Observations of Young protoStars (JOYS). Overview of gaseous molecular emission and absorption in low-mass protostars**|M. L. van Gelder et.al.|[2410.01636v1](http://arxiv.org/abs/2410.01636v1)|[2410.01636v1](http://arxiv.org/pdf/2410.01636v1)|null|
+|**2024-10-02**|**A Fourth Planet in the Kepler-51 System Revealed by Transit Timing Variations**|Kento Masuda et.al.|[2410.01625v1](http://arxiv.org/abs/2410.01625v1)|[2410.01625v1](http://arxiv.org/pdf/2410.01625v1)|null|
 |**2024-09-30**|**Predicting the rate of fast radio bursts in globular clusters from binary black hole observations**|Aryamann Rao et.al.|[2409.20564v1](http://arxiv.org/abs/2409.20564v1)|[2409.20564v1](http://arxiv.org/pdf/2409.20564v1)|null|
 |**2024-09-30**|**Detection of [OIII]88$μ$m in JADES-GS-z14-0 at z=14.1793**|Sander Schouws et.al.|[2409.20549v1](http://arxiv.org/abs/2409.20549v1)|[2409.20549v1](http://arxiv.org/pdf/2409.20549v1)|null|
 |**2024-09-30**|**Preservación de la memoria colectiva-científica, en la astronomía argentina, desde el Observatorio de La Plata**|Natalia Soledad Meilán et.al.|[2409.20542v1](http://arxiv.org/abs/2409.20542v1)|[2409.20542v1](http://arxiv.org/pdf/2409.20542v1)|null|
@@ -5647,6 +5657,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-02**|**Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking**|Mattia Segu et.al.|[2410.01806v1](http://arxiv.org/abs/2410.01806v1)|[2410.01806v1](http://arxiv.org/pdf/2410.01806v1)|null|
+|**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801v1](http://arxiv.org/abs/2410.01801v1)|[2410.01801v1](http://arxiv.org/pdf/2410.01801v1)|null|
+|**2024-10-02**|**Windowed MAPF with Completeness Guarantees**|Rishi Veerapaneni et.al.|[2410.01798v1](http://arxiv.org/abs/2410.01798v1)|[2410.01798v1](http://arxiv.org/pdf/2410.01798v1)|null|
+|**2024-10-02**|**When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1**|R. Thomas McCoy et.al.|[2410.01792v1](http://arxiv.org/abs/2410.01792v1)|[2410.01792v1](http://arxiv.org/pdf/2410.01792v1)|null|
+|**2024-10-02**|**DreamGarden: A Designer Assistant for Growing Games from a Single Prompt**|Sam Earle et.al.|[2410.01791v1](http://arxiv.org/abs/2410.01791v1)|[2410.01791v1](http://arxiv.org/pdf/2410.01791v1)|null|
+|**2024-10-02**|**Investigating on RLHF methodology**|Alexey Kutalev et.al.|[2410.01789v1](http://arxiv.org/abs/2410.01789v1)|[2410.01789v1](http://arxiv.org/pdf/2410.01789v1)|null|
+|**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784v1](http://arxiv.org/abs/2410.01784v1)|[2410.01784v1](http://arxiv.org/pdf/2410.01784v1)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
+|**2024-10-02**|**Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models**|Shayekh Bin Islam et.al.|[2410.01782v1](http://arxiv.org/abs/2410.01782v1)|[2410.01782v1](http://arxiv.org/pdf/2410.01782v1)|null|
+|**2024-10-02**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779v1](http://arxiv.org/abs/2410.01779v1)|[2410.01779v1](http://arxiv.org/pdf/2410.01779v1)|null|
+|**2024-10-02**|**Dynamical-generative downscaling of climate model ensembles**|Ignacio Lopez-Gomez et.al.|[2410.01776v1](http://arxiv.org/abs/2410.01776v1)|[2410.01776v1](http://arxiv.org/pdf/2410.01776v1)|null|
 |**2024-09-30**|**Continuously Improving Mobile Manipulation with Autonomous Real-World RL**|Russell Mendonca et.al.|[2409.20568v1](http://arxiv.org/abs/2409.20568v1)|[2409.20568v1](http://arxiv.org/pdf/2409.20568v1)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560v1](http://arxiv.org/abs/2409.20560v1)|[2409.20560v1](http://arxiv.org/pdf/2409.20560v1)|null|
 |**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553v1](http://arxiv.org/abs/2409.20553v1)|[2409.20553v1](http://arxiv.org/pdf/2409.20553v1)|**[link](https://github.com/lilv98/maia2-submission)**|
