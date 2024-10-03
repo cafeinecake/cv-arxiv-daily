@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 
 ## Astrophysics
 
@@ -5653,14 +5653,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-09-30**|**Continuously Improving Mobile Manipulation with Autonomous Real-World RL**|Russell Mendonca et.al.|[2409.20568v1](http://arxiv.org/abs/2409.20568v1)|[2409.20568v1](http://arxiv.org/pdf/2409.20568v1)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560v1](http://arxiv.org/abs/2409.20560v1)|[2409.20560v1](http://arxiv.org/pdf/2409.20560v1)|null|
-|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553v1](http://arxiv.org/abs/2409.20553v1)|[2409.20553v1](http://arxiv.org/pdf/2409.20553v1)|null|
+|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553v1](http://arxiv.org/abs/2409.20553v1)|[2409.20553v1](http://arxiv.org/pdf/2409.20553v1)|**[link](https://github.com/lilv98/maia2-submission)**|
 |**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550v1](http://arxiv.org/abs/2409.20550v1)|[2409.20550v1](http://arxiv.org/pdf/2409.20550v1)|null|
 |**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548v1](http://arxiv.org/abs/2409.20548v1)|[2409.20548v1](http://arxiv.org/pdf/2409.20548v1)|null|
 |**2024-09-30**|**On Mixed Quantum/Classical Theory for Rotationally Inelastic Scattering of Identical Collision Partners**|Dulat Bostan et.al.|[2409.20525v1](http://arxiv.org/abs/2409.20525v1)|[2409.20525v1](http://arxiv.org/pdf/2409.20525v1)|null|
 |**2024-09-30**|**Word Sense Disambiguation in Native Spanish: A Comprehensive Lexical Evaluation Resource**|Pablo Ortega et.al.|[2409.20524v1](http://arxiv.org/abs/2409.20524v1)|[2409.20524v1](http://arxiv.org/pdf/2409.20524v1)|null|
 |**2024-09-30**|**Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning**|Zhishuai Liu et.al.|[2409.20521v1](http://arxiv.org/abs/2409.20521v1)|[2409.20521v1](http://arxiv.org/pdf/2409.20521v1)|null|
-|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517v1](http://arxiv.org/abs/2409.20517v1)|[2409.20517v1](http://arxiv.org/pdf/2409.20517v1)|null|
-|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|[2409.20503v1](http://arxiv.org/pdf/2409.20503v1)|null|
+|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517v1](http://arxiv.org/abs/2409.20517v1)|[2409.20517v1](http://arxiv.org/pdf/2409.20517v1)|**[link](https://github.com/Francobaldi/SMLE_AAAI2025)**|
+|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503v1](http://arxiv.org/abs/2409.20503v1)|[2409.20503v1](http://arxiv.org/pdf/2409.20503v1)|**[link](https://github.com/mooselab/suppmaterial-CfgTransAnomalyDetector)**|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964v1](http://arxiv.org/abs/2409.18964v1)|[2409.18964v1](http://arxiv.org/pdf/2409.18964v1)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962v1](http://arxiv.org/abs/2409.18962v1)|[2409.18962v1](http://arxiv.org/pdf/2409.18962v1)|null|
 |**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961v1](http://arxiv.org/abs/2409.18961v1)|[2409.18961v1](http://arxiv.org/pdf/2409.18961v1)|null|
