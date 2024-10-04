@@ -1,9 +1,9 @@
-> Updated on 2024.10.03
+> Updated on 2024.10.04
 
 ## Astrophysics
 
 - 2024-10-02, **A Catalog of Pulsar X-ray Filaments**, Jack T. Dinsmore et.al., Paper: [http://arxiv.org/abs/2410.01807v1](http://arxiv.org/abs/2410.01807v1), Paper: [http://arxiv.org/abs/2410.01807v1](http://arxiv.org/pdf/2410.01807v1)
-- 2024-10-02, **Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**, E. L. Entina et.al., Paper: [http://arxiv.org/abs/2410.01781v1](http://arxiv.org/abs/2410.01781v1), Paper: [http://arxiv.org/abs/2410.01781v1](http://arxiv.org/pdf/2410.01781v1)
+- 2024-10-03, **Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**, E. L. Entina et.al., Paper: [http://arxiv.org/abs/2410.01781v2](http://arxiv.org/abs/2410.01781v2), Paper: [http://arxiv.org/abs/2410.01781v2](http://arxiv.org/pdf/2410.01781v2)
 - 2024-10-02, **Local Peculiar Motions in McVittie and LTB Spacetimes**, Masoud Molaei et.al., Paper: [http://arxiv.org/abs/2410.01758v1](http://arxiv.org/abs/2410.01758v1), Paper: [http://arxiv.org/abs/2410.01758v1](http://arxiv.org/pdf/2410.01758v1)
 - 2024-10-02, **Impact of Redshift Space Distortion on Persistent Homology of cosmic matter density field**, Fatemeh Abedi et.al., Paper: [http://arxiv.org/abs/2410.01751v1](http://arxiv.org/abs/2410.01751v1), Paper: [http://arxiv.org/abs/2410.01751v1](http://arxiv.org/pdf/2410.01751v1)
 - 2024-10-02, **Multiple-scale gas infall through gravity torques on Milky Way twins**, Patrícia da Silva et.al., Paper: [http://arxiv.org/abs/2410.01721v1](http://arxiv.org/abs/2410.01721v1), Paper: [http://arxiv.org/abs/2410.01721v1](http://arxiv.org/pdf/2410.01721v1)
