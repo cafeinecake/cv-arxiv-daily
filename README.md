@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-03**|**Discovery of three magnetic He-sdOs with SALT**|M. Dorsch et.al.|[2410.02737v1](http://arxiv.org/abs/2410.02737v1)|[2410.02737v1](http://arxiv.org/pdf/2410.02737v1)|null|
+|**2024-10-03**|**Extinction of Taurus, Orion, Perseus and California Molecular Clouds Based on the LAMOST, 2MASS, and Gaia Surveys II: The Extinction Law**|Zhetai Cao et.al.|[2410.02731v1](http://arxiv.org/abs/2410.02731v1)|[2410.02731v1](http://arxiv.org/pdf/2410.02731v1)|null|
+|**2024-10-03**|**Looking for WIMPs through the neutrino fogs**|Itay M. Bloch et.al.|[2410.02723v1](http://arxiv.org/abs/2410.02723v1)|[2410.02723v1](http://arxiv.org/pdf/2410.02723v1)|null|
+|**2024-10-03**|**Analyzing black-hole ringdowns II: data conditioning**|Harrison Siegel et.al.|[2410.02704v1](http://arxiv.org/abs/2410.02704v1)|[2410.02704v1](http://arxiv.org/pdf/2410.02704v1)|null|
+|**2024-10-03**|**Rescaled Equations of Fluid Motion for Well-Conditioned Direct Numerical Simulations of Rapidly Rotating Convection**|Keith Julien et.al.|[2410.02702v1](http://arxiv.org/abs/2410.02702v1)|[2410.02702v1](http://arxiv.org/pdf/2410.02702v1)|null|
+|**2024-10-03**|**Matter power spectrum induced by primordial magnetic fields: from the linear to the non-linear regime**|Pranjal Ralegankar et.al.|[2410.02676v1](http://arxiv.org/abs/2410.02676v1)|[2410.02676v1](http://arxiv.org/pdf/2410.02676v1)|null|
+|**2024-10-03**|**Leaning Sideways: VHS 1256-1257 b is a Super-Jupiter with a Uranus-like Obliquity**|Michael Poon et.al.|[2410.02672v1](http://arxiv.org/abs/2410.02672v1)|[2410.02672v1](http://arxiv.org/pdf/2410.02672v1)|null|
+|**2024-10-03**|**Magnetic evolution of active regions: formation and eruption of magnetic flux ropes**|P. Vemareddy et.al.|[2410.02670v1](http://arxiv.org/abs/2410.02670v1)|[2410.02670v1](http://arxiv.org/pdf/2410.02670v1)|null|
+|**2024-10-03**|**The three phases of self-gravitating scalar field ground states**|Anthony E. Mirasola et.al.|[2410.02663v1](http://arxiv.org/abs/2410.02663v1)|[2410.02663v1](http://arxiv.org/pdf/2410.02663v1)|null|
+|**2024-10-03**|**Slow it down: axion-photon conversion down to the non-relativistic regime**|Clemente Smarra et.al.|[2410.02662v1](http://arxiv.org/abs/2410.02662v1)|[2410.02662v1](http://arxiv.org/pdf/2410.02662v1)|null|
 |**2024-10-02**|**A Catalog of Pulsar X-ray Filaments**|Jack T. Dinsmore et.al.|[2410.01807v1](http://arxiv.org/abs/2410.01807v1)|[2410.01807v1](http://arxiv.org/pdf/2410.01807v1)|null|
 |**2024-10-03**|**Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**|E. L. Entina et.al.|[2410.01781v2](http://arxiv.org/abs/2410.01781v2)|[2410.01781v2](http://arxiv.org/pdf/2410.01781v2)|null|
 |**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v1](http://arxiv.org/abs/2410.01758v1)|[2410.01758v1](http://arxiv.org/pdf/2410.01758v1)|null|
@@ -5657,6 +5667,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-03**|**Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**|Jianrui Zhang et.al.|[2410.02763v1](http://arxiv.org/abs/2410.02763v1)|[2410.02763v1](http://arxiv.org/pdf/2410.02763v1)|null|
+|**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761v1](http://arxiv.org/abs/2410.02761v1)|[2410.02761v1](http://arxiv.org/pdf/2410.02761v1)|null|
+|**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748v1](http://arxiv.org/abs/2410.02748v1)|[2410.02748v1](http://arxiv.org/pdf/2410.02748v1)|null|
+|**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744v1](http://arxiv.org/abs/2410.02744v1)|[2410.02744v1](http://arxiv.org/pdf/2410.02744v1)|null|
+|**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741v1](http://arxiv.org/abs/2410.02741v1)|[2410.02741v1](http://arxiv.org/pdf/2410.02741v1)|null|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740v1](http://arxiv.org/abs/2410.02740v1)|[2410.02740v1](http://arxiv.org/pdf/2410.02740v1)|null|
+|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736v1](http://arxiv.org/abs/2410.02736v1)|[2410.02736v1](http://arxiv.org/pdf/2410.02736v1)|null|
+|**2024-10-03**|**Custom Non-Linear Model Predictive Control for Obstacle Avoidance in Indoor and Outdoor Environments**|Lara Laban et.al.|[2410.02732v1](http://arxiv.org/abs/2410.02732v1)|[2410.02732v1](http://arxiv.org/pdf/2410.02732v1)|**[link](https://github.com/larasupernovae/nmpc_flash_multi_obstacle)**|
+|**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729v1](http://arxiv.org/abs/2410.02729v1)|[2410.02729v1](http://arxiv.org/pdf/2410.02729v1)|null|
+|**2024-10-03**|**Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation**|Rohin Manvi et.al.|[2410.02725v1](http://arxiv.org/abs/2410.02725v1)|[2410.02725v1](http://arxiv.org/pdf/2410.02725v1)|null|
 |**2024-10-02**|**Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking**|Mattia Segu et.al.|[2410.01806v1](http://arxiv.org/abs/2410.01806v1)|[2410.01806v1](http://arxiv.org/pdf/2410.01806v1)|null|
 |**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801v1](http://arxiv.org/abs/2410.01801v1)|[2410.01801v1](http://arxiv.org/pdf/2410.01801v1)|null|
 |**2024-10-02**|**Windowed MAPF with Completeness Guarantees**|Rishi Veerapaneni et.al.|[2410.01798v1](http://arxiv.org/abs/2410.01798v1)|[2410.01798v1](http://arxiv.org/pdf/2410.01798v1)|null|
