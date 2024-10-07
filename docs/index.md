@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 
 ## Astrophysics
 
@@ -5677,7 +5677,7 @@ layout: default
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744v1](http://arxiv.org/abs/2410.02744v1)|[2410.02744v1](http://arxiv.org/pdf/2410.02744v1)|null|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741v1](http://arxiv.org/abs/2410.02741v1)|[2410.02741v1](http://arxiv.org/pdf/2410.02741v1)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740v1](http://arxiv.org/abs/2410.02740v1)|[2410.02740v1](http://arxiv.org/pdf/2410.02740v1)|null|
-|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736v1](http://arxiv.org/abs/2410.02736v1)|[2410.02736v1](http://arxiv.org/pdf/2410.02736v1)|null|
+|**2024-10-04**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736v2](http://arxiv.org/abs/2410.02736v2)|[2410.02736v2](http://arxiv.org/pdf/2410.02736v2)|null|
 |**2024-10-03**|**Custom Non-Linear Model Predictive Control for Obstacle Avoidance in Indoor and Outdoor Environments**|Lara Laban et.al.|[2410.02732v1](http://arxiv.org/abs/2410.02732v1)|[2410.02732v1](http://arxiv.org/pdf/2410.02732v1)|**[link](https://github.com/larasupernovae/nmpc_flash_multi_obstacle)**|
 |**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729v1](http://arxiv.org/abs/2410.02729v1)|[2410.02729v1](http://arxiv.org/pdf/2410.02729v1)|null|
 |**2024-10-03**|**Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation**|Rohin Manvi et.al.|[2410.02725v1](http://arxiv.org/abs/2410.02725v1)|[2410.02725v1](http://arxiv.org/pdf/2410.02725v1)|null|
