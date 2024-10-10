@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 
 ## Astrophysics
 
@@ -12,9 +12,9 @@ layout: default
 |**2024-10-07**|**The e-MANTIS emulator: fast and accurate predictions of the halo mass function in $f(R)$CDM and $w$CDM cosmologies**|I. Sáez-Casares et.al.|[2410.05226v1](http://arxiv.org/abs/2410.05226v1)|[2410.05226v1](http://arxiv.org/pdf/2410.05226v1)|null|
 |**2024-10-07**|**The metallicity dilution in local massive early-type galaxies**|Wu Yu-zhong et.al.|[2410.05221v1](http://arxiv.org/abs/2410.05221v1)|[2410.05221v1](http://arxiv.org/pdf/2410.05221v1)|null|
 |**2024-10-07**|**The Observed O VI is Just the Tip of the Iceberg: Estimating the Hidden Material in Circumgalactic and Intergalactic Clouds**|Eric Goetz et.al.|[2410.05214v1](http://arxiv.org/abs/2410.05214v1)|[2410.05214v1](http://arxiv.org/pdf/2410.05214v1)|null|
-|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209v1](http://arxiv.org/abs/2410.05209v1)|[2410.05209v1](http://arxiv.org/pdf/2410.05209v1)|null|
+|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209v1](http://arxiv.org/abs/2410.05209v1)|[2410.05209v1](http://arxiv.org/pdf/2410.05209v1)|**[link](https://github.com/indiraocampo/cmb_ml_based_model_selection)**|
 |**2024-10-07**|**Polar alignment of a dusty circumbinary disc -- II. Application to 99 Herculis**|Jeremy L. Smallwood et.al.|[2410.05208v1](http://arxiv.org/abs/2410.05208v1)|[2410.05208v1](http://arxiv.org/pdf/2410.05208v1)|null|
-|**2024-10-07**|**Robust, Rapid, and Simple Gravitational-wave Parameter Estimation**|Alexander Harvey Nitz et.al.|[2410.05190v1](http://arxiv.org/abs/2410.05190v1)|[2410.05190v1](http://arxiv.org/pdf/2410.05190v1)|null|
+|**2024-10-07**|**Robust, Rapid, and Simple Gravitational-wave Parameter Estimation**|Alexander Harvey Nitz et.al.|[2410.05190v1](http://arxiv.org/abs/2410.05190v1)|[2410.05190v1](http://arxiv.org/pdf/2410.05190v1)|**[link](https://github.com/gwastro/games-rapid-pe)**|
 |**2024-10-07**|**Radiation Transport Simulations of Quasi-Periodic Eruptions from Star-Disk Collisions**|Indrek Vurm et.al.|[2410.05166v1](http://arxiv.org/abs/2410.05166v1)|[2410.05166v1](http://arxiv.org/pdf/2410.05166v1)|null|
 |**2024-10-07**|**Tomographic constraint on anisotropic cosmic birefringence**|Toshiya Namikawa et.al.|[2410.05149v1](http://arxiv.org/abs/2410.05149v1)|[2410.05149v1](http://arxiv.org/pdf/2410.05149v1)|null|
 |**2024-10-07**|**Multi-Observatory Research of Young Stellar Energetic Flares (MORYSEF): X-ray Flare Related Phenomena and Multi-epoch Behavior**|Konstantin V. Getman et.al.|[2410.05126v1](http://arxiv.org/abs/2410.05126v1)|[2410.05126v1](http://arxiv.org/pdf/2410.05126v1)|null|
@@ -5695,11 +5695,11 @@ layout: default
 |**2024-10-07**|**Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers**|Andrew F. Luo et.al.|[2410.05266v1](http://arxiv.org/abs/2410.05266v1)|[2410.05266v1](http://arxiv.org/pdf/2410.05266v1)|null|
 |**2024-10-07**|**Regression Conformal Prediction under Bias**|Matt Y. Cheung et.al.|[2410.05263v1](http://arxiv.org/abs/2410.05263v1)|[2410.05263v1](http://arxiv.org/pdf/2410.05263v1)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
 |**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261v1](http://arxiv.org/abs/2410.05261v1)|[2410.05261v1](http://arxiv.org/pdf/2410.05261v1)|null|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254v1](http://arxiv.org/abs/2410.05254v1)|[2410.05254v1](http://arxiv.org/pdf/2410.05254v1)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254v1](http://arxiv.org/abs/2410.05254v1)|[2410.05254v1](http://arxiv.org/pdf/2410.05254v1)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252v1](http://arxiv.org/abs/2410.05252v1)|[2410.05252v1](http://arxiv.org/pdf/2410.05252v1)|null|
 |**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248v1](http://arxiv.org/abs/2410.05248v1)|[2410.05248v1](http://arxiv.org/pdf/2410.05248v1)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243v1](http://arxiv.org/abs/2410.05243v1)|[2410.05243v1](http://arxiv.org/pdf/2410.05243v1)|null|
-|**2024-10-07**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|katerina Sviridova et.al.|[2410.05235v1](http://arxiv.org/abs/2410.05235v1)|[2410.05235v1](http://arxiv.org/pdf/2410.05235v1)|null|
+|**2024-10-08**|**CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures**|Ekaterina Sviridova et.al.|[2410.05235v2](http://arxiv.org/abs/2410.05235v2)|[2410.05235v2](http://arxiv.org/pdf/2410.05235v2)|null|
 |**2024-10-07**|**SimO Loss: Anchor-Free Contrastive Loss for Fine-Grained Supervised Contrastive Learning**|Taha Bouhsine et.al.|[2410.05233v1](http://arxiv.org/abs/2410.05233v1)|[2410.05233v1](http://arxiv.org/pdf/2410.05233v1)|null|
 |**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665v1](http://arxiv.org/abs/2410.03665v1)|[2410.03665v1](http://arxiv.org/pdf/2410.03665v1)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663v1](http://arxiv.org/abs/2410.03663v1)|[2410.03663v1](http://arxiv.org/pdf/2410.03663v1)|null|
