@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-09**|**Simulating realistic self-interacting dark matter models including small and large-angle scattering**|Cenanda Arido et.al.|[2410.07175v1](http://arxiv.org/abs/2410.07175v1)|[2410.07175v1](http://arxiv.org/pdf/2410.07175v1)|null|
+|**2024-10-09**|**Discovery of Two New Eruptions of the Ultrashort Recurrence Time Nova M31N 2017-01e**|Allen W. Shafter et.al.|[2410.07105v1](http://arxiv.org/abs/2410.07105v1)|[2410.07105v1](http://arxiv.org/pdf/2410.07105v1)|null|
+|**2024-10-09**|**Chemical composition of planetary hosts: C, N, and $α$-element abundances**|A. Sharma et.al.|[2410.07100v1](http://arxiv.org/abs/2410.07100v1)|[2410.07100v1](http://arxiv.org/pdf/2410.07100v1)|null|
+|**2024-10-09**|**Probing the Extended Atmospheres of AGB Stars: I. Synthetic imaging of 1D hydrodynamical models at radio and (sub-)millimeter wavelengths**|Behzad Bojnordi Arbab et.al.|[2410.07092v1](http://arxiv.org/abs/2410.07092v1)|[2410.07092v1](http://arxiv.org/pdf/2410.07092v1)|null|
+|**2024-10-09**|**Constraints on the Sharpness of the Curvature Power Spectrum**|Keisuke Inomata et.al.|[2410.07086v1](http://arxiv.org/abs/2410.07086v1)|[2410.07086v1](http://arxiv.org/pdf/2410.07086v1)|null|
+|**2024-10-09**|**Constraining the dispersion measure redshift relation with simulation-based inference**|Koustav Konar et.al.|[2410.07084v1](http://arxiv.org/abs/2410.07084v1)|[2410.07084v1](http://arxiv.org/pdf/2410.07084v1)|null|
+|**2024-10-09**|**Pseudo-$C_\ell$s for spin-$s$ fields with component-wise weighting**|David Alonso et.al.|[2410.07077v1](http://arxiv.org/abs/2410.07077v1)|[2410.07077v1](http://arxiv.org/pdf/2410.07077v1)|null|
+|**2024-10-09**|**Dark sector interactions in light of weak lensing data**|M. Benetti et.al.|[2410.07057v1](http://arxiv.org/abs/2410.07057v1)|[2410.07057v1](http://arxiv.org/pdf/2410.07057v1)|null|
+|**2024-10-09**|**Transients by Black Hole Formation from Red Supergiants: Impact of Dense Circumstellar Matter**|Daichi Tsuna et.al.|[2410.07055v1](http://arxiv.org/abs/2410.07055v1)|[2410.07055v1](http://arxiv.org/pdf/2410.07055v1)|null|
+|**2024-10-09**|**Effect of different stickiness between icy and silicate particles on carbon depletion in protoplanetary disks**|Tamami Okamoto et.al.|[2410.07047v1](http://arxiv.org/abs/2410.07047v1)|[2410.07047v1](http://arxiv.org/pdf/2410.07047v1)|null|
 |**2024-10-07**|**Can Baryon Acoustic Oscillations Illuminate the Parity-Violating Galaxy 4PCF?**|Jiamin Hou et.al.|[2410.05230v1](http://arxiv.org/abs/2410.05230v1)|[2410.05230v1](http://arxiv.org/pdf/2410.05230v1)|null|
 |**2024-10-07**|**The e-MANTIS emulator: fast and accurate predictions of the halo mass function in $f(R)$CDM and $w$CDM cosmologies**|I. Sáez-Casares et.al.|[2410.05226v1](http://arxiv.org/abs/2410.05226v1)|[2410.05226v1](http://arxiv.org/pdf/2410.05226v1)|null|
 |**2024-10-07**|**The metallicity dilution in local massive early-type galaxies**|Wu Yu-zhong et.al.|[2410.05221v1](http://arxiv.org/abs/2410.05221v1)|[2410.05221v1](http://arxiv.org/pdf/2410.05221v1)|null|
@@ -5687,6 +5697,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177v1](http://arxiv.org/abs/2410.07177v1)|[2410.07177v1](http://arxiv.org/pdf/2410.07177v1)|null|
+|**2024-10-09**|**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**|Fei Wang et.al.|[2410.07176v1](http://arxiv.org/abs/2410.07176v1)|[2410.07176v1](http://arxiv.org/pdf/2410.07176v1)|null|
+|**2024-10-09**|**Neural Circuit Architectural Priors for Quadruped Locomotion**|Nikhil X. Bhattasali et.al.|[2410.07174v1](http://arxiv.org/abs/2410.07174v1)|[2410.07174v1](http://arxiv.org/pdf/2410.07174v1)|null|
+|**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173v1](http://arxiv.org/abs/2410.07173v1)|[2410.07173v1](http://arxiv.org/pdf/2410.07173v1)|null|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170v1](http://arxiv.org/abs/2410.07170v1)|[2410.07170v1](http://arxiv.org/pdf/2410.07170v1)|null|
+|**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166v1](http://arxiv.org/abs/2410.07166v1)|[2410.07166v1](http://arxiv.org/pdf/2410.07166v1)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
+|**2024-10-09**|**Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning**|Chongyu Fan et.al.|[2410.07163v1](http://arxiv.org/abs/2410.07163v1)|[2410.07163v1](http://arxiv.org/pdf/2410.07163v1)|null|
+|**2024-10-09**|**Quanda: An Interpretability Toolkit for Training Data Attribution Evaluation and Beyond**|Dilyara Bareeva et.al.|[2410.07158v1](http://arxiv.org/abs/2410.07158v1)|[2410.07158v1](http://arxiv.org/pdf/2410.07158v1)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157v1](http://arxiv.org/abs/2410.07157v1)|[2410.07157v1](http://arxiv.org/pdf/2410.07157v1)|null|
+|**2024-10-09**|**Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy**|Vivian Nguyen et.al.|[2410.07147v1](http://arxiv.org/abs/2410.07147v1)|[2410.07147v1](http://arxiv.org/pdf/2410.07147v1)|null|
 |**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269v1](http://arxiv.org/abs/2410.05269v1)|[2410.05269v1](http://arxiv.org/pdf/2410.05269v1)|null|
 |**2024-10-07**|**Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers**|Andrew F. Luo et.al.|[2410.05266v1](http://arxiv.org/abs/2410.05266v1)|[2410.05266v1](http://arxiv.org/pdf/2410.05266v1)|null|
 |**2024-10-07**|**Regression Conformal Prediction under Bias**|Matt Y. Cheung et.al.|[2410.05263v1](http://arxiv.org/abs/2410.05263v1)|[2410.05263v1](http://arxiv.org/pdf/2410.05263v1)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
