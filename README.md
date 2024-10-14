@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-11**|**Hidden under a warm blanket: If planets existed in protostellar disks, they would hardly produce observable substructures**|P. Nazari et.al.|[2410.09042v1](http://arxiv.org/abs/2410.09042v1)|[2410.09042v1](http://arxiv.org/pdf/2410.09042v1)|null|
+|**2024-10-11**|**Precessions of spherical orbits in the rotating Melvin black hole spacetime and its constraints from the jet of M87***|Chengjia Chen et.al.|[2410.09022v1](http://arxiv.org/abs/2410.09022v1)|[2410.09022v1](http://arxiv.org/pdf/2410.09022v1)|null|
+|**2024-10-11**|**A JWST/MIRI View of the ISM in M83: I. Resolved Molecular Hydrogen Properties, Star Formation, and Feedback**|Logan H. Jones et.al.|[2410.09020v1](http://arxiv.org/abs/2410.09020v1)|[2410.09020v1](http://arxiv.org/pdf/2410.09020v1)|null|
+|**2024-10-11**|**Gravitational waves in ultra-slow-roll and their anisotropy at two loops**|Juan Álvarez Ruiz et.al.|[2410.09014v1](http://arxiv.org/abs/2410.09014v1)|[2410.09014v1](http://arxiv.org/pdf/2410.09014v1)|null|
+|**2024-10-11**|**The JWST Emission Line Survey (JELS): Extending rest-optical narrow-band emission line selection into the Epoch of Reionization**|K. J. Duncan et.al.|[2410.09000v1](http://arxiv.org/abs/2410.09000v1)|[2410.09000v1](http://arxiv.org/pdf/2410.09000v1)|null|
+|**2024-10-11**|**Mapping the galaxy-halo connection to the galaxy bias: implication to the HOD-informed prior**|Kazuyuki Akitsu et.al.|[2410.08998v1](http://arxiv.org/abs/2410.08998v1)|[2410.08998v1](http://arxiv.org/pdf/2410.08998v1)|null|
+|**2024-10-11**|**Ultrahigh-Energy Gamma-ray Emission Associated with Black Hole-Jet Systems**|LHAASO Collaboration et.al.|[2410.08988v1](http://arxiv.org/abs/2410.08988v1)|[2410.08988v1](http://arxiv.org/pdf/2410.08988v1)|null|
+|**2024-10-11**|**Revised Point-Spread Functions for the Atmospheric Imaging Assembly onboard the Solar Dynamics Observatory**|Stefan Hofmeister et.al.|[2410.08967v1](http://arxiv.org/abs/2410.08967v1)|[2410.08967v1](http://arxiv.org/pdf/2410.08967v1)|null|
+|**2024-10-11**|**Wolf-Rayet -- compact object binaries as progenitors of binary compact objects**|Erika Korb et.al.|[2410.08965v1](http://arxiv.org/abs/2410.08965v1)|[2410.08965v1](http://arxiv.org/pdf/2410.08965v1)|null|
+|**2024-10-11**|**BD+44 493: Chemo-Dynamical Analysis and Constraints on Companion Planetary Masses from WIYN/NEID Spectroscopy**|Vinicius M. Placco et.al.|[2410.08943v1](http://arxiv.org/abs/2410.08943v1)|[2410.08943v1](http://arxiv.org/pdf/2410.08943v1)|null|
 |**2024-10-10**|**Spectropolarimetry of SN 2023ixf reveals both circumstellar material and helium core to be aspherical**|Manisha Shrestha et.al.|[2410.08199v1](http://arxiv.org/abs/2410.08199v1)|[2410.08199v1](http://arxiv.org/pdf/2410.08199v1)|null|
 |**2024-10-10**|**The mystery of water in the atmosphere of $τ$ Boötis b continues: insights from revisiting archival CRIRES observations**|Vatsal Panwar et.al.|[2410.08178v1](http://arxiv.org/abs/2410.08178v1)|[2410.08178v1](http://arxiv.org/pdf/2410.08178v1)|null|
 |**2024-10-10**|**Long-term evolution of spin and other properties of neutron star low-mass X-ray binaries: implications for millisecond X-ray pulsars**|Abhijnan Kar et.al.|[2410.08173v1](http://arxiv.org/abs/2410.08173v1)|[2410.08173v1](http://arxiv.org/pdf/2410.08173v1)|null|
@@ -5707,6 +5717,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-11**|**Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models**|Qin Liu et.al.|[2410.09047v1](http://arxiv.org/abs/2410.09047v1)|[2410.09047v1](http://arxiv.org/pdf/2410.09047v1)|null|
+|**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043v1](http://arxiv.org/abs/2410.09043v1)|[2410.09043v1](http://arxiv.org/pdf/2410.09043v1)|null|
+|**2024-10-11**|**SimpleStrat: Diversifying Language Model Generation with Stratification**|Justin Wong et.al.|[2410.09038v1](http://arxiv.org/abs/2410.09038v1)|[2410.09038v1](http://arxiv.org/pdf/2410.09038v1)|null|
+|**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037v1](http://arxiv.org/abs/2410.09037v1)|[2410.09037v1](http://arxiv.org/pdf/2410.09037v1)|**[link](https://github.com/2hojae/mentor-kd)**|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034v1](http://arxiv.org/abs/2410.09034v1)|[2410.09034v1](http://arxiv.org/pdf/2410.09034v1)|null|
+|**2024-10-11**|**Towards a Health-Based Power Grid Optimization in the Artificial Intelligence Era**|Claudio Battiloro et.al.|[2410.09029v1](http://arxiv.org/abs/2410.09029v1)|[2410.09029v1](http://arxiv.org/pdf/2410.09029v1)|null|
+|**2024-10-11**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024v1](http://arxiv.org/abs/2410.09024v1)|[2410.09024v1](http://arxiv.org/pdf/2410.09024v1)|null|
+|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012v1](http://arxiv.org/abs/2410.09012v1)|[2410.09012v1](http://arxiv.org/pdf/2410.09012v1)|null|
+|**2024-10-11**|**Hierarchical Universal Value Function Approximators**|Rushiv Arora et.al.|[2410.08997v1](http://arxiv.org/abs/2410.08997v1)|[2410.08997v1](http://arxiv.org/pdf/2410.08997v1)|null|
+|**2024-10-11**|**The structure of the token space for large language models**|Michael Robinson et.al.|[2410.08993v1](http://arxiv.org/abs/2410.08993v1)|[2410.08993v1](http://arxiv.org/pdf/2410.08993v1)|null|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211v1](http://arxiv.org/abs/2410.08211v1)|[2410.08211v1](http://arxiv.org/pdf/2410.08211v1)|null|
 |**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210v1](http://arxiv.org/abs/2410.08210v1)|[2410.08210v1](http://arxiv.org/pdf/2410.08210v1)|null|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209v1](http://arxiv.org/abs/2410.08209v1)|[2410.08209v1](http://arxiv.org/pdf/2410.08209v1)|null|
