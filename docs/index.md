@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-14**|**High-resolution transmission spectroscopy of the hot-Saturn HD 149026b**|Federico Biassoni et.al.|[2410.10820v1](http://arxiv.org/abs/2410.10820v1)|[2410.10820v1](http://arxiv.org/pdf/2410.10820v1)|null|
+|**2024-10-14**|**The Atacama Cosmology Telescope DR6 and DESI: Structure growth measurements from the cross-correlation of DESI Legacy Imaging galaxies and CMB lensing from ACT DR6 and \textit{Planck} PR4**|Frank J. Qu et.al.|[2410.10808v1](http://arxiv.org/abs/2410.10808v1)|[2410.10808v1](http://arxiv.org/pdf/2410.10808v1)|null|
+|**2024-10-14**|**Infrared Period-Luminosity-Metallicity Relations and the Evolution of Metallicity Gradient**|Huajian Wang et.al.|[2410.10747v1](http://arxiv.org/abs/2410.10747v1)|[2410.10747v1](http://arxiv.org/pdf/2410.10747v1)|null|
+|**2024-10-14**|**Fluctuation-dissipation relation of test masses in classical stochastic gravitational wave background**|Manjia Liang et.al.|[2410.10722v1](http://arxiv.org/abs/2410.10722v1)|[2410.10722v1](http://arxiv.org/pdf/2410.10722v1)|null|
+|**2024-10-14**|**The pulsar magnetosphere with machine learning: preliminary results in 3D**|Ioannis Dimitropoulos et.al.|[2410.10716v1](http://arxiv.org/abs/2410.10716v1)|[2410.10716v1](http://arxiv.org/pdf/2410.10716v1)|null|
+|**2024-10-14**|**What to expect: kilonova light curve predictions via equation of state marginalization**|Andrew Toivonen et.al.|[2410.10702v1](http://arxiv.org/abs/2410.10702v1)|[2410.10702v1](http://arxiv.org/pdf/2410.10702v1)|null|
+|**2024-10-14**|**Widespread occurrence of lava lakes on Io observed from Juno**|Alessandro Mura et.al.|[2410.10688v1](http://arxiv.org/abs/2410.10688v1)|[2410.10688v1](http://arxiv.org/pdf/2410.10688v1)|null|
+|**2024-10-14**|**Observations of Loki Patera by Juno during close flybys**|Alessandro Mura et.al.|[2410.10686v1](http://arxiv.org/abs/2410.10686v1)|[2410.10686v1](http://arxiv.org/pdf/2410.10686v1)|null|
+|**2024-10-14**|**Hidden Cooling Flows IV: More Details on Centaurus and the Efficiency of AGN Feedback in Clusters**|A. C. Fabian et.al.|[2410.10675v1](http://arxiv.org/abs/2410.10675v1)|[2410.10675v1](http://arxiv.org/pdf/2410.10675v1)|null|
+|**2024-10-14**|**Biases in galaxy spectral analysis from strong lensing differential magnification effect and correction methods**|Wenshuo Xu et.al.|[2410.10654v1](http://arxiv.org/abs/2410.10654v1)|[2410.10654v1](http://arxiv.org/pdf/2410.10654v1)|null|
 |**2024-10-11**|**Hidden under a warm blanket: If planets existed in protostellar disks, they would hardly produce observable substructures**|P. Nazari et.al.|[2410.09042v1](http://arxiv.org/abs/2410.09042v1)|[2410.09042v1](http://arxiv.org/pdf/2410.09042v1)|null|
 |**2024-10-11**|**Precessions of spherical orbits in the rotating Melvin black hole spacetime and its constraints from the jet of M87***|Chengjia Chen et.al.|[2410.09022v1](http://arxiv.org/abs/2410.09022v1)|[2410.09022v1](http://arxiv.org/pdf/2410.09022v1)|null|
 |**2024-10-11**|**A JWST/MIRI View of the ISM in M83: I. Resolved Molecular Hydrogen Properties, Star Formation, and Feedback**|Logan H. Jones et.al.|[2410.09020v1](http://arxiv.org/abs/2410.09020v1)|[2410.09020v1](http://arxiv.org/pdf/2410.09020v1)|null|
@@ -5721,6 +5731,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v1](http://arxiv.org/abs/2410.10818v1)|[2410.10818v1](http://arxiv.org/pdf/2410.10818v1)|null|
+|**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816v1](http://arxiv.org/abs/2410.10816v1)|[2410.10816v1](http://arxiv.org/pdf/2410.10816v1)|**[link](https://github.com/silentview/lvd-2m)**|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815v1](http://arxiv.org/abs/2410.10815v1)|[2410.10815v1](http://arxiv.org/pdf/2410.10815v1)|null|
+|**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812v1](http://arxiv.org/abs/2410.10812v1)|[2410.10812v1](http://arxiv.org/pdf/2410.10812v1)|**[link](https://github.com/mit-han-lab/hart)**|
+|**2024-10-14**|**Hard-Constrained Neural Networks with Universal Approximation Guarantees**|Youngjae Min et.al.|[2410.10807v1](http://arxiv.org/abs/2410.10807v1)|[2410.10807v1](http://arxiv.org/pdf/2410.10807v1)|null|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802v1](http://arxiv.org/abs/2410.10802v1)|[2410.10802v1](http://arxiv.org/pdf/2410.10802v1)|null|
+|**2024-10-14**|**On Information-Theoretic Measures of Predictive Uncertainty**|Kajetan Schweighofer et.al.|[2410.10786v1](http://arxiv.org/abs/2410.10786v1)|[2410.10786v1](http://arxiv.org/pdf/2410.10786v1)|**[link](https://github.com/ml-jku/uncertainty-measures)**|
+|**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782v1](http://arxiv.org/abs/2410.10782v1)|[2410.10782v1](http://arxiv.org/pdf/2410.10782v1)|null|
+|**2024-10-14**|**When Attention Sink Emerges in Language Models: An Empirical View**|Xiangming Gu et.al.|[2410.10781v1](http://arxiv.org/abs/2410.10781v1)|[2410.10781v1](http://arxiv.org/pdf/2410.10781v1)|**[link](https://github.com/sail-sg/attention-sink)**|
+|**2024-10-14**|**Focused ReAct: Improving ReAct through Reiterate and Early Stop**|Shuoqiu Li et.al.|[2410.10779v1](http://arxiv.org/abs/2410.10779v1)|[2410.10779v1](http://arxiv.org/pdf/2410.10779v1)|null|
 |**2024-10-11**|**Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models**|Qin Liu et.al.|[2410.09047v1](http://arxiv.org/abs/2410.09047v1)|[2410.09047v1](http://arxiv.org/pdf/2410.09047v1)|null|
 |**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043v1](http://arxiv.org/abs/2410.09043v1)|[2410.09043v1](http://arxiv.org/pdf/2410.09043v1)|null|
 |**2024-10-11**|**SimpleStrat: Diversifying Language Model Generation with Stratification**|Justin Wong et.al.|[2410.09038v1](http://arxiv.org/abs/2410.09038v1)|[2410.09038v1](http://arxiv.org/pdf/2410.09038v1)|null|
