@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 
 ## Astrophysics
 
@@ -5731,7 +5731,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v1](http://arxiv.org/abs/2410.10818v1)|[2410.10818v1](http://arxiv.org/pdf/2410.10818v1)|null|
+|**2024-10-15**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v2](http://arxiv.org/abs/2410.10818v2)|[2410.10818v2](http://arxiv.org/pdf/2410.10818v2)|null|
 |**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816v1](http://arxiv.org/abs/2410.10816v1)|[2410.10816v1](http://arxiv.org/pdf/2410.10816v1)|**[link](https://github.com/silentview/lvd-2m)**|
 |**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815v1](http://arxiv.org/abs/2410.10815v1)|[2410.10815v1](http://arxiv.org/pdf/2410.10815v1)|null|
 |**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812v1](http://arxiv.org/abs/2410.10812v1)|[2410.10812v1](http://arxiv.org/pdf/2410.10812v1)|**[link](https://github.com/mit-han-lab/hart)**|

@@ -1,4 +1,4 @@
-> Updated on 2024.10.15
+> Updated on 2024.10.16
 
 ## Astrophysics
 
@@ -5723,7 +5723,7 @@
 
 ## AI
 
-- 2024-10-14, **TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**, Mu Cai et.al., Paper: [http://arxiv.org/abs/2410.10818v1](http://arxiv.org/abs/2410.10818v1), Paper: [http://arxiv.org/abs/2410.10818v1](http://arxiv.org/pdf/2410.10818v1)
+- 2024-10-15, **TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**, Mu Cai et.al., Paper: [http://arxiv.org/abs/2410.10818v2](http://arxiv.org/abs/2410.10818v2), Paper: [http://arxiv.org/abs/2410.10818v2](http://arxiv.org/pdf/2410.10818v2)
 - 2024-10-14, **LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**, Tianwei Xiong et.al., Paper: [http://arxiv.org/abs/2410.10816v1](http://arxiv.org/abs/2410.10816v1),Paper: [http://arxiv.org/abs/2410.10816v1](http://arxiv.org/pdf/2410.10816v1), Code: **[https://github.com/silentview/lvd-2m](https://github.com/silentview/lvd-2m)**
 - 2024-10-14, **Depth Any Video with Scalable Synthetic Data**, Honghui Yang et.al., Paper: [http://arxiv.org/abs/2410.10815v1](http://arxiv.org/abs/2410.10815v1), Paper: [http://arxiv.org/abs/2410.10815v1](http://arxiv.org/pdf/2410.10815v1)
 - 2024-10-14, **HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**, Haotian Tang et.al., Paper: [http://arxiv.org/abs/2410.10812v1](http://arxiv.org/abs/2410.10812v1),Paper: [http://arxiv.org/abs/2410.10812v1](http://arxiv.org/pdf/2410.10812v1), Code: **[https://github.com/mit-han-lab/hart](https://github.com/mit-han-lab/hart)**
