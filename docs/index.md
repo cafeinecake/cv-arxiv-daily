@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830v1](http://arxiv.org/abs/2410.11830v1)|[2410.11830v1](http://arxiv.org/pdf/2410.11830v1)|null|
+|**2024-10-15**|**A First-look at Spatially-resolved Infrared Supernova Remnants in M33 with JWST**|Sumit K. Sarbadhicary et.al.|[2410.11821v1](http://arxiv.org/abs/2410.11821v1)|[2410.11821v1](http://arxiv.org/pdf/2410.11821v1)|null|
+|**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813v1](http://arxiv.org/abs/2410.11813v1)|[2410.11813v1](http://arxiv.org/pdf/2410.11813v1)|null|
+|**2024-10-15**|**Squeezed vacua and primordial features in effective theories of inflation at N2LO**|Eugenio Bianchi et.al.|[2410.11812v1](http://arxiv.org/abs/2410.11812v1)|[2410.11812v1](http://arxiv.org/pdf/2410.11812v1)|null|
+|**2024-10-15**|**The JWST Emission Line Survey (JELS): An untargeted search for H$α$ emission line galaxies at $z > 6$ and their physical properties**|C. A. Pirie et.al.|[2410.11808v1](http://arxiv.org/abs/2410.11808v1)|[2410.11808v1](http://arxiv.org/pdf/2410.11808v1)|null|
+|**2024-10-15**|**Breaking Parity: the case of the Trispectrum from Chiral Scalar-Tensor Theories of Gravity**|Tommaso Moretti et.al.|[2410.11801v1](http://arxiv.org/abs/2410.11801v1)|[2410.11801v1](http://arxiv.org/pdf/2410.11801v1)|null|
+|**2024-10-15**|**The Radio Fundamental Catalogue. I. Astrometry**|Leonid Petrov et.al.|[2410.11794v1](http://arxiv.org/abs/2410.11794v1)|[2410.11794v1](http://arxiv.org/pdf/2410.11794v1)|null|
+|**2024-10-15**|**Identification and modelling of optically thin inverse Compton scattering in the prompt emission of GRB131014A**|Pragyan Pratim Bordoloi et.al.|[2410.11753v1](http://arxiv.org/abs/2410.11753v1)|[2410.11753v1](http://arxiv.org/pdf/2410.11753v1)|null|
+|**2024-10-15**|**Cloud properties in simulated galactic winds**|Orlando Warren et.al.|[2410.11747v1](http://arxiv.org/abs/2410.11747v1)|[2410.11747v1](http://arxiv.org/pdf/2410.11747v1)|null|
+|**2024-10-15**|**The GAPS programme at TNG: TBD. Studies of atmospheric FeII winds in ultra-hot Jupiters KELT-9b and KELT-20b using HARPS-N spectrograph**|M. Stangret et.al.|[2410.11731v1](http://arxiv.org/abs/2410.11731v1)|[2410.11731v1](http://arxiv.org/pdf/2410.11731v1)|null|
 |**2024-10-14**|**High-resolution transmission spectroscopy of the hot-Saturn HD 149026b**|Federico Biassoni et.al.|[2410.10820v1](http://arxiv.org/abs/2410.10820v1)|[2410.10820v1](http://arxiv.org/pdf/2410.10820v1)|null|
 |**2024-10-14**|**The Atacama Cosmology Telescope DR6 and DESI: Structure growth measurements from the cross-correlation of DESI Legacy Imaging galaxies and CMB lensing from ACT DR6 and \textit{Planck} PR4**|Frank J. Qu et.al.|[2410.10808v1](http://arxiv.org/abs/2410.10808v1)|[2410.10808v1](http://arxiv.org/pdf/2410.10808v1)|null|
 |**2024-10-14**|**Infrared Period-Luminosity-Metallicity Relations and the Evolution of Metallicity Gradient**|Huajian Wang et.al.|[2410.10747v1](http://arxiv.org/abs/2410.10747v1)|[2410.10747v1](http://arxiv.org/pdf/2410.10747v1)|null|
@@ -5731,6 +5741,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842v1](http://arxiv.org/abs/2410.11842v1)|[2410.11842v1](http://arxiv.org/pdf/2410.11842v1)|**[link](https://github.com/skyworkai/moh)**|
+|**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841v1](http://arxiv.org/abs/2410.11841v1)|[2410.11841v1](http://arxiv.org/pdf/2410.11841v1)|null|
+|**2024-10-15**|**A Hitchhiker's Guide to Scaling Law Estimation**|Leshem Choshen et.al.|[2410.11840v1](http://arxiv.org/abs/2410.11840v1)|[2410.11840v1](http://arxiv.org/pdf/2410.11840v1)|null|
+|**2024-10-15**|**Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions**|Ayush Jain et.al.|[2410.11833v1](http://arxiv.org/abs/2410.11833v1)|[2410.11833v1](http://arxiv.org/pdf/2410.11833v1)|null|
+|**2024-10-15**|**Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies**|Zixuan Chen et.al.|[2410.11825v1](http://arxiv.org/abs/2410.11825v1)|[2410.11825v1](http://arxiv.org/pdf/2410.11825v1)|null|
+|**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813v1](http://arxiv.org/abs/2410.11813v1)|[2410.11813v1](http://arxiv.org/pdf/2410.11813v1)|null|
+|**2024-10-15**|**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**|Jinhan Li et.al.|[2410.11792v1](http://arxiv.org/abs/2410.11792v1)|[2410.11792v1](http://arxiv.org/pdf/2410.11792v1)|null|
+|**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786v1](http://arxiv.org/abs/2410.11786v1)|[2410.11786v1](http://arxiv.org/pdf/2410.11786v1)|null|
+|**2024-10-15**|**MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**|Chenxi Wang et.al.|[2410.11779v1](http://arxiv.org/abs/2410.11779v1)|[2410.11779v1](http://arxiv.org/pdf/2410.11779v1)|**[link](https://github.com/zjunlp/Deco)**|
+|**2024-10-15**|**Encoding architecture algebra**|Stephane Bersier et.al.|[2410.11776v1](http://arxiv.org/abs/2410.11776v1)|[2410.11776v1](http://arxiv.org/pdf/2410.11776v1)|null|
 |**2024-10-15**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v2](http://arxiv.org/abs/2410.10818v2)|[2410.10818v2](http://arxiv.org/pdf/2410.10818v2)|null|
 |**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816v1](http://arxiv.org/abs/2410.10816v1)|[2410.10816v1](http://arxiv.org/pdf/2410.10816v1)|**[link](https://github.com/silentview/lvd-2m)**|
 |**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815v1](http://arxiv.org/abs/2410.10815v1)|[2410.10815v1](http://arxiv.org/pdf/2410.10815v1)|null|
