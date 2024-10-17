@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-16**|**HYPERION. Shedding light on the first luminous quasars: A correlation between UV disc winds and X-ray continuum**|A. Tortosa et.al.|[2410.12786v1](http://arxiv.org/abs/2410.12786v1)|[2410.12786v1](http://arxiv.org/pdf/2410.12786v1)|null|
+|**2024-10-16**|**The Nature of a Recently Discovered Wolf-Rayet Binary: Archetype of Stripping?**|Philip Massey et.al.|[2410.12776v1](http://arxiv.org/abs/2410.12776v1)|[2410.12776v1](http://arxiv.org/pdf/2410.12776v1)|null|
+|**2024-10-16**|**Dynamical Stability of the Laplace Resonance**|Giuseppe Pucacco et.al.|[2410.12768v1](http://arxiv.org/abs/2410.12768v1)|[2410.12768v1](http://arxiv.org/pdf/2410.12768v1)|null|
+|**2024-10-16**|**Signature of Vertical Mixing in Hydrogen-dominated Exoplanet Atmospheres**|Vikas Soni et.al.|[2410.12737v1](http://arxiv.org/abs/2410.12737v1)|[2410.12737v1](http://arxiv.org/pdf/2410.12737v1)|null|
+|**2024-10-16**|**Partial tidal disruption of White Dwarfs in off-equatorial planes around intermediate mass spinning black holes**|Aryabrat Mahapatra et.al.|[2410.12727v1](http://arxiv.org/abs/2410.12727v1)|[2410.12727v1](http://arxiv.org/pdf/2410.12727v1)|null|
+|**2024-10-16**|**Photometric detection of internal gravity waves in upper main-sequence stars. IV. Comparable SLF variability in SMC, LMC and Galactic massive stars**|Dominic M. Bowman et.al.|[2410.12726v1](http://arxiv.org/abs/2410.12726v1)|[2410.12726v1](http://arxiv.org/pdf/2410.12726v1)|null|
+|**2024-10-16**|**A Gamma-ray Stacking Survey of Fermi-LAT Undetected Globular Clusters**|Owen K. Henry et.al.|[2410.12711v1](http://arxiv.org/abs/2410.12711v1)|[2410.12711v1](http://arxiv.org/pdf/2410.12711v1)|null|
+|**2024-10-16**|**A Gaussian process model for stellar activity in 2-D line profile time-series**|Haochuan Yu et.al.|[2410.12698v1](http://arxiv.org/abs/2410.12698v1)|[2410.12698v1](http://arxiv.org/pdf/2410.12698v1)|null|
+|**2024-10-16**|**Modified $f(R,T)$ theory in light of gravitational wave standard sirens**|Mahnaz Asghari et.al.|[2410.12674v1](http://arxiv.org/abs/2410.12674v1)|[2410.12674v1](http://arxiv.org/pdf/2410.12674v1)|null|
+|**2024-10-16**|**Most High-density Exoplanets Are Unlikely to Be Remnant Giant-planet Cores**|Zifan Lin et.al.|[2410.12640v1](http://arxiv.org/abs/2410.12640v1)|[2410.12640v1](http://arxiv.org/pdf/2410.12640v1)|null|
 |**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830v1](http://arxiv.org/abs/2410.11830v1)|[2410.11830v1](http://arxiv.org/pdf/2410.11830v1)|null|
 |**2024-10-15**|**A First-look at Spatially-resolved Infrared Supernova Remnants in M33 with JWST**|Sumit K. Sarbadhicary et.al.|[2410.11821v1](http://arxiv.org/abs/2410.11821v1)|[2410.11821v1](http://arxiv.org/pdf/2410.11821v1)|null|
 |**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813v1](http://arxiv.org/abs/2410.11813v1)|[2410.11813v1](http://arxiv.org/pdf/2410.11813v1)|null|
@@ -5741,6 +5751,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784v1](http://arxiv.org/abs/2410.12784v1)|[2410.12784v1](http://arxiv.org/pdf/2410.12784v1)|null|
+|**2024-10-16**|**Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information**|Yingya Li et.al.|[2410.12774v1](http://arxiv.org/abs/2410.12774v1)|[2410.12774v1](http://arxiv.org/pdf/2410.12774v1)|null|
+|**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773v1](http://arxiv.org/abs/2410.12773v1)|[2410.12773v1](http://arxiv.org/pdf/2410.12773v1)|null|
+|**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772v1](http://arxiv.org/abs/2410.12772v1)|[2410.12772v1](http://arxiv.org/pdf/2410.12772v1)|null|
+|**2024-10-16**|**Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models**|Luis Barroso-Luque et.al.|[2410.12771v1](http://arxiv.org/abs/2410.12771v1)|[2410.12771v1](http://arxiv.org/pdf/2410.12771v1)|null|
+|**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761v1](http://arxiv.org/abs/2410.12761v1)|[2410.12761v1](http://arxiv.org/pdf/2410.12761v1)|null|
+|**2024-10-16**|**Unitary Multi-Margin BERT for Robust Natural Language Processing**|Hao-Yuan Chang et.al.|[2410.12759v1](http://arxiv.org/abs/2410.12759v1)|[2410.12759v1](http://arxiv.org/pdf/2410.12759v1)|null|
+|**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730v1](http://arxiv.org/abs/2410.12730v1)|[2410.12730v1](http://arxiv.org/pdf/2410.12730v1)|null|
+|**2024-10-16**|**Transformer based super-resolution downscaling for regional reanalysis: Full domain vs tiling approaches**|Antonio Pérez et.al.|[2410.12728v1](http://arxiv.org/abs/2410.12728v1)|[2410.12728v1](http://arxiv.org/pdf/2410.12728v1)|null|
+|**2024-10-16**|**HEnRY: A Multi-Agent System Framework for Multi-Domain Contexts**|Emmanuele Lacavalla et.al.|[2410.12720v1](http://arxiv.org/abs/2410.12720v1)|[2410.12720v1](http://arxiv.org/pdf/2410.12720v1)|**[link](https://github.com/2mmanu/henry)**|
 |**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842v1](http://arxiv.org/abs/2410.11842v1)|[2410.11842v1](http://arxiv.org/pdf/2410.11842v1)|**[link](https://github.com/skyworkai/moh)**|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841v1](http://arxiv.org/abs/2410.11841v1)|[2410.11841v1](http://arxiv.org/pdf/2410.11841v1)|null|
 |**2024-10-15**|**A Hitchhiker's Guide to Scaling Law Estimation**|Leshem Choshen et.al.|[2410.11840v1](http://arxiv.org/abs/2410.11840v1)|[2410.11840v1](http://arxiv.org/pdf/2410.11840v1)|null|
