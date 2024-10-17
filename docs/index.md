@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 
 ## Astrophysics
 
@@ -5745,7 +5745,7 @@ layout: default
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841v1](http://arxiv.org/abs/2410.11841v1)|[2410.11841v1](http://arxiv.org/pdf/2410.11841v1)|null|
 |**2024-10-15**|**A Hitchhiker's Guide to Scaling Law Estimation**|Leshem Choshen et.al.|[2410.11840v1](http://arxiv.org/abs/2410.11840v1)|[2410.11840v1](http://arxiv.org/pdf/2410.11840v1)|null|
 |**2024-10-15**|**Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions**|Ayush Jain et.al.|[2410.11833v1](http://arxiv.org/abs/2410.11833v1)|[2410.11833v1](http://arxiv.org/pdf/2410.11833v1)|null|
-|**2024-10-15**|**Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies**|Zixuan Chen et.al.|[2410.11825v1](http://arxiv.org/abs/2410.11825v1)|[2410.11825v1](http://arxiv.org/pdf/2410.11825v1)|null|
+|**2024-10-16**|**Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies**|Zixuan Chen et.al.|[2410.11825v2](http://arxiv.org/abs/2410.11825v2)|[2410.11825v2](http://arxiv.org/pdf/2410.11825v2)|null|
 |**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813v1](http://arxiv.org/abs/2410.11813v1)|[2410.11813v1](http://arxiv.org/pdf/2410.11813v1)|null|
 |**2024-10-15**|**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**|Jinhan Li et.al.|[2410.11792v1](http://arxiv.org/abs/2410.11792v1)|[2410.11792v1](http://arxiv.org/pdf/2410.11792v1)|null|
 |**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786v1](http://arxiv.org/abs/2410.11786v1)|[2410.11786v1](http://arxiv.org/pdf/2410.11786v1)|null|
