@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-17**|**Particle creation from non-geodesic trajectories in multifield inflation**|Nicolás Parra et.al.|[2410.13843v1](http://arxiv.org/abs/2410.13843v1)|[2410.13843v1](http://arxiv.org/pdf/2410.13843v1)|null|
+|**2024-10-17**|**Impact of stratified rotation on the moment of inertia of neutron stars**|Jonas P. Pereira et.al.|[2410.13793v1](http://arxiv.org/abs/2410.13793v1)|[2410.13793v1](http://arxiv.org/pdf/2410.13793v1)|null|
+|**2024-10-17**|**Abundances of iron-peak elements in 58 bulge spheroid stars from APOGEE**|B. Barbuy et.al.|[2410.13751v1](http://arxiv.org/abs/2410.13751v1)|[2410.13751v1](http://arxiv.org/pdf/2410.13751v1)|null|
+|**2024-10-17**|**BayeSN and SALT: A Comparison of Dust Inference Across SN Ia Light-curve Models with DES5YR**|Matthew Grayling et.al.|[2410.13747v1](http://arxiv.org/abs/2410.13747v1)|[2410.13747v1](http://arxiv.org/pdf/2410.13747v1)|null|
+|**2024-10-17**|**On the crystallization onset in white dwarfs**|D. A. Baiko et.al.|[2410.13745v1](http://arxiv.org/abs/2410.13745v1)|[2410.13745v1](http://arxiv.org/pdf/2410.13745v1)|null|
+|**2024-10-17**|**Multiple collisions in N59 bubble: Sequential cloud-cloud collisions**|En Chen et.al.|[2410.13742v1](http://arxiv.org/abs/2410.13742v1)|[2410.13742v1](http://arxiv.org/pdf/2410.13742v1)|null|
+|**2024-10-17**|**HI line observations of 290 evolved stars made with the Nancay Radio Telescope -- I. Data**|E. Gerard et.al.|[2410.13725v1](http://arxiv.org/abs/2410.13725v1)|[2410.13725v1](http://arxiv.org/pdf/2410.13725v1)|null|
+|**2024-10-17**|**The Affleck-Dine Curvaton**|Aurora Ireland et.al.|[2410.13712v1](http://arxiv.org/abs/2410.13712v1)|[2410.13712v1](http://arxiv.org/pdf/2410.13712v1)|null|
+|**2024-10-17**|**Magnetic Field Simulation and Correlated Low-Frequency Noise Subtraction for an In-Orbit Demonstrator of Magnetic Measurements**|Cristian Maria-Moreno et.al.|[2410.13692v1](http://arxiv.org/abs/2410.13692v1)|[2410.13692v1](http://arxiv.org/pdf/2410.13692v1)|null|
+|**2024-10-17**|**Stochastic inflation beyond slow roll: noise modelling and importance sampling**|Joseph H. P. Jackson et.al.|[2410.13683v1](http://arxiv.org/abs/2410.13683v1)|[2410.13683v1](http://arxiv.org/pdf/2410.13683v1)|null|
 |**2024-10-16**|**HYPERION. Shedding light on the first luminous quasars: A correlation between UV disc winds and X-ray continuum**|A. Tortosa et.al.|[2410.12786v1](http://arxiv.org/abs/2410.12786v1)|[2410.12786v1](http://arxiv.org/pdf/2410.12786v1)|null|
 |**2024-10-16**|**The Nature of a Recently Discovered Wolf-Rayet Binary: Archetype of Stripping?**|Philip Massey et.al.|[2410.12776v1](http://arxiv.org/abs/2410.12776v1)|[2410.12776v1](http://arxiv.org/pdf/2410.12776v1)|null|
 |**2024-10-16**|**Dynamical Stability of the Laplace Resonance**|Giuseppe Pucacco et.al.|[2410.12768v1](http://arxiv.org/abs/2410.12768v1)|[2410.12768v1](http://arxiv.org/pdf/2410.12768v1)|null|
@@ -5751,6 +5761,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857v1](http://arxiv.org/abs/2410.13857v1)|[2410.13857v1](http://arxiv.org/pdf/2410.13857v1)|null|
+|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854v1](http://arxiv.org/abs/2410.13854v1)|[2410.13854v1](http://arxiv.org/pdf/2410.13854v1)|null|
+|**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852v1](http://arxiv.org/abs/2410.13852v1)|[2410.13852v1](http://arxiv.org/pdf/2410.13852v1)|null|
+|**2024-10-17**|**Influence Functions for Scalable Data Attribution in Diffusion Models**|Bruno Mlodozeniec et.al.|[2410.13850v1](http://arxiv.org/abs/2410.13850v1)|[2410.13850v1](http://arxiv.org/pdf/2410.13850v1)|null|
+|**2024-10-17**|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**|Chengyue Wu et.al.|[2410.13848v1](http://arxiv.org/abs/2410.13848v1)|[2410.13848v1](http://arxiv.org/pdf/2410.13848v1)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846v1](http://arxiv.org/abs/2410.13846v1)|[2410.13846v1](http://arxiv.org/pdf/2410.13846v1)|null|
+|**2024-10-17**|**Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding**|Tan Dat Nguyen et.al.|[2410.13839v1](http://arxiv.org/abs/2410.13839v1)|[2410.13839v1](http://arxiv.org/pdf/2410.13839v1)|null|
+|**2024-10-17**|**ORSO: Accelerating Reward Design via Online Reward Selection and Policy Optimization**|Chen Bo Calvin Zhang et.al.|[2410.13837v1](http://arxiv.org/abs/2410.13837v1)|[2410.13837v1](http://arxiv.org/pdf/2410.13837v1)|**[link](https://github.com/calvincbzhang/orso)**|
+|**2024-10-17**|**Analyzing Atomic Interactions in Molecules as Learned by Neural Networks**|Malte Esders et.al.|[2410.13833v1](http://arxiv.org/abs/2410.13833v1)|[2410.13833v1](http://arxiv.org/pdf/2410.13833v1)|null|
+|**2024-10-17**|**The Disparate Benefits of Deep Ensembles**|Kajetan Schweighofer et.al.|[2410.13831v1](http://arxiv.org/abs/2410.13831v1)|[2410.13831v1](http://arxiv.org/pdf/2410.13831v1)|null|
 |**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784v1](http://arxiv.org/abs/2410.12784v1)|[2410.12784v1](http://arxiv.org/pdf/2410.12784v1)|null|
 |**2024-10-16**|**Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information**|Yingya Li et.al.|[2410.12774v1](http://arxiv.org/abs/2410.12774v1)|[2410.12774v1](http://arxiv.org/pdf/2410.12774v1)|null|
 |**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773v1](http://arxiv.org/abs/2410.12773v1)|[2410.12773v1](http://arxiv.org/pdf/2410.12773v1)|null|
