@@ -1,4 +1,4 @@
-## Updated on 2024.10.18
+## Updated on 2024.10.19
 
 ## Astrophysics
 
@@ -5758,7 +5758,7 @@
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
 |**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857v1](http://arxiv.org/abs/2410.13857v1)|[2410.13857v1](http://arxiv.org/pdf/2410.13857v1)|null|
-|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854v1](http://arxiv.org/abs/2410.13854v1)|[2410.13854v1](http://arxiv.org/pdf/2410.13854v1)|null|
+|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854v1](http://arxiv.org/abs/2410.13854v1)|[2410.13854v1](http://arxiv.org/pdf/2410.13854v1)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852v1](http://arxiv.org/abs/2410.13852v1)|[2410.13852v1](http://arxiv.org/pdf/2410.13852v1)|null|
 |**2024-10-17**|**Influence Functions for Scalable Data Attribution in Diffusion Models**|Bruno Mlodozeniec et.al.|[2410.13850v1](http://arxiv.org/abs/2410.13850v1)|[2410.13850v1](http://arxiv.org/pdf/2410.13850v1)|null|
 |**2024-10-17**|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**|Chengyue Wu et.al.|[2410.13848v1](http://arxiv.org/abs/2410.13848v1)|[2410.13848v1](http://arxiv.org/pdf/2410.13848v1)|null|
