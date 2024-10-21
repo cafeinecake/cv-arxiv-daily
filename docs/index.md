@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-18**|**Effects of waveform systematics on inferences of neutron star population properties and the nuclear equation of state**|Anjali B. Yelikar et.al.|[2410.14674v1](http://arxiv.org/abs/2410.14674v1)|[2410.14674v1](http://arxiv.org/pdf/2410.14674v1)|null|
+|**2024-10-18**|**Rapid Dust Formation in the Early Universe**|Danial Langeroodi et.al.|[2410.14671v1](http://arxiv.org/abs/2410.14671v1)|[2410.14671v1](http://arxiv.org/pdf/2410.14671v1)|null|
+|**2024-10-18**|**Stochastic gravitational wave background anisotropies from inflation with non-Bunch-Davies states**|Shingo Akama et.al.|[2410.14664v1](http://arxiv.org/abs/2410.14664v1)|[2410.14664v1](http://arxiv.org/pdf/2410.14664v1)|null|
+|**2024-10-18**|**On the use of galaxy catalogs in gravitational-wave parameter estimation**|Geoffrey Mo et.al.|[2410.14663v1](http://arxiv.org/abs/2410.14663v1)|[2410.14663v1](http://arxiv.org/pdf/2410.14663v1)|null|
+|**2024-10-18**|**A diverse, overlooked population of Type Ia supernovae exhibiting mid-infrared signatures of delayed circumstellar interaction**|Geoffrey Mo et.al.|[2410.14644v1](http://arxiv.org/abs/2410.14644v1)|[2410.14644v1](http://arxiv.org/pdf/2410.14644v1)|null|
+|**2024-10-18**|**syren-new: Precise formulae for the linear and nonlinear matter power spectra with massive neutrinos and dynamical dark energy**|Ce Sui et.al.|[2410.14623v1](http://arxiv.org/abs/2410.14623v1)|[2410.14623v1](http://arxiv.org/pdf/2410.14623v1)|**[link](https://github.com/deaglanbartlett/symbolic_pofk)**|
+|**2024-10-18**|**Inverted EEMD: a robust method to identify narrow absorption features form spectral data and cubes**|Zhenzhen He et.al.|[2410.14611v1](http://arxiv.org/abs/2410.14611v1)|[2410.14611v1](http://arxiv.org/pdf/2410.14611v1)|null|
+|**2024-10-18**|**Super-Jeans fragmentation in massive star-forming regions revealed by triangulation analysis**|Guang-Xing Li et.al.|[2410.14610v1](http://arxiv.org/abs/2410.14610v1)|[2410.14610v1](http://arxiv.org/pdf/2410.14610v1)|null|
+|**2024-10-18**|**Little time for oscillation: Fast disruption of the Radcliffe Wave by Galactic motions**|Guang-Xing Li et.al.|[2410.14603v1](http://arxiv.org/abs/2410.14603v1)|[2410.14603v1](http://arxiv.org/pdf/2410.14603v1)|null|
+|**2024-10-18**|**Bayesian Multi-wavelength Imaging of the LMC SN1987A with SRG/eROSITA**|Vincent Eberle et.al.|[2410.14599v1](http://arxiv.org/abs/2410.14599v1)|[2410.14599v1](http://arxiv.org/pdf/2410.14599v1)|null|
 |**2024-10-17**|**Particle creation from non-geodesic trajectories in multifield inflation**|Nicolás Parra et.al.|[2410.13843v1](http://arxiv.org/abs/2410.13843v1)|[2410.13843v1](http://arxiv.org/pdf/2410.13843v1)|null|
 |**2024-10-17**|**Impact of stratified rotation on the moment of inertia of neutron stars**|Jonas P. Pereira et.al.|[2410.13793v1](http://arxiv.org/abs/2410.13793v1)|[2410.13793v1](http://arxiv.org/pdf/2410.13793v1)|null|
 |**2024-10-17**|**Abundances of iron-peak elements in 58 bulge spheroid stars from APOGEE**|B. Barbuy et.al.|[2410.13751v1](http://arxiv.org/abs/2410.13751v1)|[2410.13751v1](http://arxiv.org/pdf/2410.13751v1)|null|
@@ -5761,6 +5771,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676v1](http://arxiv.org/abs/2410.14676v1)|[2410.14676v1](http://arxiv.org/pdf/2410.14676v1)|null|
+|**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675v1](http://arxiv.org/abs/2410.14675v1)|[2410.14675v1](http://arxiv.org/pdf/2410.14675v1)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
+|**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v1](http://arxiv.org/abs/2410.14672v1)|[2410.14672v1](http://arxiv.org/pdf/2410.14672v1)|**[link](https://github.com/haoosz/BiGR)**|
+|**2024-10-18**|**DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie Character-Aware Discourse Graph**|Maitreya Prafulla Chitale et.al.|[2410.14666v1](http://arxiv.org/abs/2410.14666v1)|[2410.14666v1](http://arxiv.org/pdf/2410.14666v1)|null|
+|**2024-10-18**|**Online Reinforcement Learning with Passive Memory**|Anay Pattanaik et.al.|[2410.14665v1](http://arxiv.org/abs/2410.14665v1)|[2410.14665v1](http://arxiv.org/pdf/2410.14665v1)|null|
+|**2024-10-18**|**Real-time Fake News from Adversarial Feedback**|Sanxing Chen et.al.|[2410.14651v1](http://arxiv.org/abs/2410.14651v1)|[2410.14651v1](http://arxiv.org/pdf/2410.14651v1)|null|
+|**2024-10-18**|**Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs**|Runchu Tian et.al.|[2410.14641v1](http://arxiv.org/abs/2410.14641v1)|[2410.14641v1](http://arxiv.org/pdf/2410.14641v1)|**[link](https://github.com/Rachum-thu/LongPiBench)**|
+|**2024-10-18**|**GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings**|Raghuveer Thirukovalluru et.al.|[2410.14635v1](http://arxiv.org/abs/2410.14635v1)|[2410.14635v1](http://arxiv.org/pdf/2410.14635v1)|null|
+|**2024-10-18**|**On the Regularization of Learnable Embeddings for Time Series Processing**|Luca Butera et.al.|[2410.14630v1](http://arxiv.org/abs/2410.14630v1)|[2410.14630v1](http://arxiv.org/pdf/2410.14630v1)|null|
+|**2024-10-18**|**CELI: Controller-Embedded Language Model Interactions**|Jan-Samuel Wagner et.al.|[2410.14627v1](http://arxiv.org/abs/2410.14627v1)|[2410.14627v1](http://arxiv.org/pdf/2410.14627v1)|null|
 |**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857v1](http://arxiv.org/abs/2410.13857v1)|[2410.13857v1](http://arxiv.org/pdf/2410.13857v1)|null|
 |**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854v1](http://arxiv.org/abs/2410.13854v1)|[2410.13854v1](http://arxiv.org/pdf/2410.13854v1)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852v1](http://arxiv.org/abs/2410.13852v1)|[2410.13852v1](http://arxiv.org/pdf/2410.13852v1)|null|
