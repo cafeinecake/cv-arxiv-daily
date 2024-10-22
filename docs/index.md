@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-21**|**Origin of the metal-rich vs. metal-poor globular clusters dichotomies in the Milky Way: A sign of low black hole natal kicks**|Ali Rostami-Shirazi et.al.|[2410.16276v1](http://arxiv.org/abs/2410.16276v1)|[2410.16276v1](http://arxiv.org/pdf/2410.16276v1)|null|
+|**2024-10-21**|**Cosmic Shimmering: the Gravitational Wave Signal of Time-Resolved Cosmic Shear Observations**|Giorgio Mentasti et.al.|[2410.16274v1](http://arxiv.org/abs/2410.16274v1)|[2410.16274v1](http://arxiv.org/pdf/2410.16274v1)|null|
+|**2024-10-21**|**The period-luminosity relation of long-period variables in the Large Magellanic Cloud observed with ATLAS**|Daniel Hey et.al.|[2410.16273v1](http://arxiv.org/abs/2410.16273v1)|[2410.16273v1](http://arxiv.org/pdf/2410.16273v1)|null|
+|**2024-10-21**|**Serendipitous detection of an intense X-ray flare in the weak-line T Tauri star KM Ori with SRG/eROSITA**|Savithri H. Ezhikode et.al.|[2410.16241v1](http://arxiv.org/abs/2410.16241v1)|[2410.16241v1](http://arxiv.org/pdf/2410.16241v1)|null|
+|**2024-10-21**|**Thermal tides on rocky planets through a novel fully analytical solution**|Pierre Auclair-Desrotour et.al.|[2410.16200v1](http://arxiv.org/abs/2410.16200v1)|[2410.16200v1](http://arxiv.org/pdf/2410.16200v1)|null|
+|**2024-10-21**|**Testing early physics solutions to the Hubble tension with CMB data**|Raphaël Kou et.al.|[2410.16185v1](http://arxiv.org/abs/2410.16185v1)|[2410.16185v1](http://arxiv.org/pdf/2410.16185v1)|null|
+|**2024-10-21**|**The impact of the local stellar radiation on the formation and evolution of dwarfs in and near Milky Way analogue**|Bocheng Zhu et.al.|[2410.16176v1](http://arxiv.org/abs/2410.16176v1)|[2410.16176v1](http://arxiv.org/pdf/2410.16176v1)|null|
+|**2024-10-21**|**Correcting for Selection Biases in the Determination of the Hubble Constant from Time-Delay Cosmography**|ian Li et.al.|[2410.16171v1](http://arxiv.org/abs/2410.16171v1)|[2410.16171v1](http://arxiv.org/pdf/2410.16171v1)|null|
+|**2024-10-21**|**Collisionless tearing instability in relativistic non-thermal pair plasma and its application to MHD turbulence**|Ivan Demidov et.al.|[2410.16167v1](http://arxiv.org/abs/2410.16167v1)|[2410.16167v1](http://arxiv.org/pdf/2410.16167v1)|null|
+|**2024-10-21**|**Ultra-High-Energy Gamma-Ray Bubble around Microquasar V4641 Sgr**|R. Alfaro et.al.|[2410.16117v1](http://arxiv.org/abs/2410.16117v1)|[2410.16117v1](http://arxiv.org/pdf/2410.16117v1)|null|
 |**2024-10-18**|**Effects of waveform systematics on inferences of neutron star population properties and the nuclear equation of state**|Anjali B. Yelikar et.al.|[2410.14674v1](http://arxiv.org/abs/2410.14674v1)|[2410.14674v1](http://arxiv.org/pdf/2410.14674v1)|null|
 |**2024-10-18**|**Rapid Dust Formation in the Early Universe**|Danial Langeroodi et.al.|[2410.14671v1](http://arxiv.org/abs/2410.14671v1)|[2410.14671v1](http://arxiv.org/pdf/2410.14671v1)|null|
 |**2024-10-18**|**Stochastic gravitational wave background anisotropies from inflation with non-Bunch-Davies states**|Shingo Akama et.al.|[2410.14664v1](http://arxiv.org/abs/2410.14664v1)|[2410.14664v1](http://arxiv.org/pdf/2410.14664v1)|null|
@@ -5771,6 +5781,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-21**|**Reflection-Bench: probing AI intelligence with reflection**|Lingyu Li et.al.|[2410.16270v1](http://arxiv.org/abs/2410.16270v1)|[2410.16270v1](http://arxiv.org/pdf/2410.16270v1)|**[link](https://github.com/yabyum/reflectionbench)**|
+|**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267v1](http://arxiv.org/abs/2410.16267v1)|[2410.16267v1](http://arxiv.org/pdf/2410.16267v1)|null|
+|**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|[2410.16266v1](http://arxiv.org/pdf/2410.16266v1)|null|
+|**2024-10-21**|**CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**|Maosong Cao et.al.|[2410.16256v1](http://arxiv.org/abs/2410.16256v1)|[2410.16256v1](http://arxiv.org/pdf/2410.16256v1)|**[link](https://github.com/open-compass/compassjudger)**|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|[2410.16239v1](http://arxiv.org/pdf/2410.16239v1)|null|
+|**2024-10-21**|**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**|Ryan Li et.al.|[2410.16232v1](http://arxiv.org/abs/2410.16232v1)|[2410.16232v1](http://arxiv.org/pdf/2410.16232v1)|null|
+|**2024-10-21**|**Pre-training Distillation for Large Language Models: A Design Space Exploration**|Hao Peng et.al.|[2410.16215v1](http://arxiv.org/abs/2410.16215v1)|[2410.16215v1](http://arxiv.org/pdf/2410.16215v1)|null|
+|**2024-10-21**|**Comprehensive benchmarking of large language models for RNA secondary structure prediction**|L. I. Zablocki et.al.|[2410.16212v1](http://arxiv.org/abs/2410.16212v1)|[2410.16212v1](http://arxiv.org/pdf/2410.16212v1)|**[link](https://github.com/sinc-lab/rna-llm-folding)**|
+|**2024-10-21**|**Compute-Constrained Data Selection**|Junjie Oscar Yin et.al.|[2410.16208v1](http://arxiv.org/abs/2410.16208v1)|[2410.16208v1](http://arxiv.org/pdf/2410.16208v1)|**[link](https://github.com/oseyosey/ccds)**|
+|**2024-10-21**|**Comparative analysis of 3D-CNN models, GARCH-ANN, and VAR models for determining equity prices**|Sydney Anuyah Mary Akinyemi et.al.|[2410.16205v1](http://arxiv.org/abs/2410.16205v1)|[2410.16205v1](http://arxiv.org/pdf/2410.16205v1)|null|
 |**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676v1](http://arxiv.org/abs/2410.14676v1)|[2410.14676v1](http://arxiv.org/pdf/2410.14676v1)|null|
 |**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675v1](http://arxiv.org/abs/2410.14675v1)|[2410.14675v1](http://arxiv.org/pdf/2410.14675v1)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
 |**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v1](http://arxiv.org/abs/2410.14672v1)|[2410.14672v1](http://arxiv.org/pdf/2410.14672v1)|**[link](https://github.com/haoosz/BiGR)**|
