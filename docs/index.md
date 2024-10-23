@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-22**|**Cosmic Ray Mediated Thermal Fronts in the Warm-Hot Circumgalactic Medium**|Hanjue Zhu et.al.|[2410.17252v1](http://arxiv.org/abs/2410.17252v1)|[2410.17252v1](http://arxiv.org/pdf/2410.17252v1)|null|
+|**2024-10-22**|**Quantifying the Impact of the Si/O Interface in CCSN Explosions Using the Force Explosion Condition**|Luca Boccioli et.al.|[2410.17232v1](http://arxiv.org/abs/2410.17232v1)|[2410.17232v1](http://arxiv.org/pdf/2410.17232v1)|null|
+|**2024-10-22**|**Temporal and Spectral Analysis of the Unique and Second Brightest Gamma-Ray Burst GRB 230307A: Insights from GECAM and Fermi/GBM Observations**|R. Moradi et.al.|[2410.17189v1](http://arxiv.org/abs/2410.17189v1)|[2410.17189v1](http://arxiv.org/pdf/2410.17189v1)|null|
+|**2024-10-22**|**Exploring Unobscured QSOs in the Southern Hemisphere with KS4**|Yongjung Kim et.al.|[2410.17187v1](http://arxiv.org/abs/2410.17187v1)|[2410.17187v1](http://arxiv.org/pdf/2410.17187v1)|null|
+|**2024-10-22**|**Quintessence: an analytical study, with theoretical and observational applications**|David Andriot et.al.|[2410.17182v1](http://arxiv.org/abs/2410.17182v1)|[2410.17182v1](http://arxiv.org/pdf/2410.17182v1)|null|
+|**2024-10-22**|**Prototype Stochastic Gravitational Wave Background Recovery in the LISA Global Fit Residual**|Robert Rosati et.al.|[2410.17180v1](http://arxiv.org/abs/2410.17180v1)|[2410.17180v1](http://arxiv.org/pdf/2410.17180v1)|null|
+|**2024-10-22**|**A recent confirmation of the wide binary gravitational anomaly**|X. Hernandez et.al.|[2410.17178v1](http://arxiv.org/abs/2410.17178v1)|[2410.17178v1](http://arxiv.org/pdf/2410.17178v1)|null|
+|**2024-10-22**|**Opacity of Ejecta in Calculations of Supernova Light Curves**|M. Sh. Potashov et.al.|[2410.17176v1](http://arxiv.org/abs/2410.17176v1)|[2410.17176v1](http://arxiv.org/pdf/2410.17176v1)|null|
+|**2024-10-22**|**Effects of Planetary Parameters on Disequilibrium Chemistry in Irradiated Planetary Atmospheres: From Gas Giants to Sub-Neptunes**|Sagnick Mukherjee et.al.|[2410.17169v1](http://arxiv.org/abs/2410.17169v1)|[2410.17169v1](http://arxiv.org/pdf/2410.17169v1)|null|
+|**2024-10-22**|**Incorporating waveform calibration error in gravitational-wave modeling and inference for SEOBNRv4**|Ritesh Bachhar et.al.|[2410.17168v1](http://arxiv.org/abs/2410.17168v1)|[2410.17168v1](http://arxiv.org/pdf/2410.17168v1)|null|
 |**2024-10-21**|**Origin of the metal-rich vs. metal-poor globular clusters dichotomies in the Milky Way: A sign of low black hole natal kicks**|Ali Rostami-Shirazi et.al.|[2410.16276v1](http://arxiv.org/abs/2410.16276v1)|[2410.16276v1](http://arxiv.org/pdf/2410.16276v1)|null|
 |**2024-10-21**|**Cosmic Shimmering: the Gravitational Wave Signal of Time-Resolved Cosmic Shear Observations**|Giorgio Mentasti et.al.|[2410.16274v1](http://arxiv.org/abs/2410.16274v1)|[2410.16274v1](http://arxiv.org/pdf/2410.16274v1)|null|
 |**2024-10-21**|**The period-luminosity relation of long-period variables in the Large Magellanic Cloud observed with ATLAS**|Daniel Hey et.al.|[2410.16273v1](http://arxiv.org/abs/2410.16273v1)|[2410.16273v1](http://arxiv.org/pdf/2410.16273v1)|null|
@@ -5781,6 +5791,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-22**|**JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation**|Shota Onohara et.al.|[2410.17250v1](http://arxiv.org/abs/2410.17250v1)|[2410.17250v1](http://arxiv.org/pdf/2410.17250v1)|null|
+|**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248v1](http://arxiv.org/abs/2410.17248v1)|[2410.17248v1](http://arxiv.org/pdf/2410.17248v1)|null|
+|**2024-10-22**|**Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins**|Venkatesh Pattabiraman et.al.|[2410.17246v1](http://arxiv.org/abs/2410.17246v1)|[2410.17246v1](http://arxiv.org/pdf/2410.17246v1)|null|
+|**2024-10-22**|**Towards Reliable Evaluation of Behavior Steering Interventions in LLMs**|Itamar Pres et.al.|[2410.17245v1](http://arxiv.org/abs/2410.17245v1)|[2410.17245v1](http://arxiv.org/pdf/2410.17245v1)|null|
+|**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238v1](http://arxiv.org/abs/2410.17238v1)|[2410.17238v1](http://arxiv.org/pdf/2410.17238v1)|**[link](https://github.com/geekan/metagpt)**|
+|**2024-10-22**|**Large Language Models Empowered Personalized Web Agents**|Hongru Cai et.al.|[2410.17236v1](http://arxiv.org/abs/2410.17236v1)|[2410.17236v1](http://arxiv.org/pdf/2410.17236v1)|null|
+|**2024-10-22**|**Few-shot In-Context Preference Learning Using Large Language Models**|Chao Yu et.al.|[2410.17233v1](http://arxiv.org/abs/2410.17233v1)|[2410.17233v1](http://arxiv.org/pdf/2410.17233v1)|null|
+|**2024-10-22**|**Quantifying the Impact of the Si/O Interface in CCSN Explosions Using the Force Explosion Condition**|Luca Boccioli et.al.|[2410.17232v1](http://arxiv.org/abs/2410.17232v1)|[2410.17232v1](http://arxiv.org/pdf/2410.17232v1)|null|
+|**2024-10-22**|**Responsibility in a Multi-Value Strategic Setting**|Timothy Parker et.al.|[2410.17229v1](http://arxiv.org/abs/2410.17229v1)|[2410.17229v1](http://arxiv.org/pdf/2410.17229v1)|null|
+|**2024-10-22**|**Creativity in AI: Progresses and Challenges**|Mete Ismayilzada et.al.|[2410.17218v1](http://arxiv.org/abs/2410.17218v1)|[2410.17218v1](http://arxiv.org/pdf/2410.17218v1)|null|
 |**2024-10-21**|**Reflection-Bench: probing AI intelligence with reflection**|Lingyu Li et.al.|[2410.16270v1](http://arxiv.org/abs/2410.16270v1)|[2410.16270v1](http://arxiv.org/pdf/2410.16270v1)|**[link](https://github.com/yabyum/reflectionbench)**|
 |**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267v1](http://arxiv.org/abs/2410.16267v1)|[2410.16267v1](http://arxiv.org/pdf/2410.16267v1)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|[2410.16266v1](http://arxiv.org/pdf/2410.16266v1)|null|
