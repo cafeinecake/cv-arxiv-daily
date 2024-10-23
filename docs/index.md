@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 
 ## Astrophysics
 
@@ -15,7 +15,7 @@ layout: default
 |**2024-10-21**|**Thermal tides on rocky planets through a novel fully analytical solution**|Pierre Auclair-Desrotour et.al.|[2410.16200v1](http://arxiv.org/abs/2410.16200v1)|[2410.16200v1](http://arxiv.org/pdf/2410.16200v1)|null|
 |**2024-10-21**|**Testing early physics solutions to the Hubble tension with CMB data**|Raphaël Kou et.al.|[2410.16185v1](http://arxiv.org/abs/2410.16185v1)|[2410.16185v1](http://arxiv.org/pdf/2410.16185v1)|null|
 |**2024-10-21**|**The impact of the local stellar radiation on the formation and evolution of dwarfs in and near Milky Way analogue**|Bocheng Zhu et.al.|[2410.16176v1](http://arxiv.org/abs/2410.16176v1)|[2410.16176v1](http://arxiv.org/pdf/2410.16176v1)|null|
-|**2024-10-21**|**Correcting for Selection Biases in the Determination of the Hubble Constant from Time-Delay Cosmography**|ian Li et.al.|[2410.16171v1](http://arxiv.org/abs/2410.16171v1)|[2410.16171v1](http://arxiv.org/pdf/2410.16171v1)|null|
+|**2024-10-22**|**Correcting for Selection Biases in the Determination of the Hubble Constant from Time-Delay Cosmography**|Tian Li et.al.|[2410.16171v2](http://arxiv.org/abs/2410.16171v2)|[2410.16171v2](http://arxiv.org/pdf/2410.16171v2)|null|
 |**2024-10-21**|**Collisionless tearing instability in relativistic non-thermal pair plasma and its application to MHD turbulence**|Ivan Demidov et.al.|[2410.16167v1](http://arxiv.org/abs/2410.16167v1)|[2410.16167v1](http://arxiv.org/pdf/2410.16167v1)|null|
 |**2024-10-21**|**Ultra-High-Energy Gamma-Ray Bubble around Microquasar V4641 Sgr**|R. Alfaro et.al.|[2410.16117v1](http://arxiv.org/abs/2410.16117v1)|[2410.16117v1](http://arxiv.org/pdf/2410.16117v1)|null|
 |**2024-10-18**|**Effects of waveform systematics on inferences of neutron star population properties and the nuclear equation of state**|Anjali B. Yelikar et.al.|[2410.14674v1](http://arxiv.org/abs/2410.14674v1)|[2410.14674v1](http://arxiv.org/pdf/2410.14674v1)|null|
@@ -5785,7 +5785,7 @@ layout: default
 |**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267v1](http://arxiv.org/abs/2410.16267v1)|[2410.16267v1](http://arxiv.org/pdf/2410.16267v1)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|[2410.16266v1](http://arxiv.org/pdf/2410.16266v1)|null|
 |**2024-10-21**|**CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**|Maosong Cao et.al.|[2410.16256v1](http://arxiv.org/abs/2410.16256v1)|[2410.16256v1](http://arxiv.org/pdf/2410.16256v1)|**[link](https://github.com/open-compass/compassjudger)**|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|[2410.16239v1](http://arxiv.org/pdf/2410.16239v1)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|[2410.16239v1](http://arxiv.org/pdf/2410.16239v1)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**|Ryan Li et.al.|[2410.16232v1](http://arxiv.org/abs/2410.16232v1)|[2410.16232v1](http://arxiv.org/pdf/2410.16232v1)|null|
 |**2024-10-21**|**Pre-training Distillation for Large Language Models: A Design Space Exploration**|Hao Peng et.al.|[2410.16215v1](http://arxiv.org/abs/2410.16215v1)|[2410.16215v1](http://arxiv.org/pdf/2410.16215v1)|null|
 |**2024-10-21**|**Comprehensive benchmarking of large language models for RNA secondary structure prediction**|L. I. Zablocki et.al.|[2410.16212v1](http://arxiv.org/abs/2410.16212v1)|[2410.16212v1](http://arxiv.org/pdf/2410.16212v1)|**[link](https://github.com/sinc-lab/rna-llm-folding)**|
