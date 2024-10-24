@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-23**|**Gauge-invariant perturbations of relativistic non-perfect fluids in spherical spacetime**|David Díaz-Guerra et.al.|[2410.18081v1](http://arxiv.org/abs/2410.18081v1)|[2410.18081v1](http://arxiv.org/pdf/2410.18081v1)|null|
+|**2024-10-23**|**The physical properties of Cluster Chains**|Laura Posch et.al.|[2410.18080v1](http://arxiv.org/abs/2410.18080v1)|[2410.18080v1](http://arxiv.org/pdf/2410.18080v1)|null|
+|**2024-10-23**|**CO-CAVITY project: Molecular gas and star formation in void galaxies**|M. I. Rodríguez et.al.|[2410.18078v1](http://arxiv.org/abs/2410.18078v1)|[2410.18078v1](http://arxiv.org/pdf/2410.18078v1)|null|
+|**2024-10-23**|**Unravelling sub-stellar magnetospheres**|Robert D Kavanagh et.al.|[2410.18073v1](http://arxiv.org/abs/2410.18073v1)|[2410.18073v1](http://arxiv.org/pdf/2410.18073v1)|null|
+|**2024-10-23**|**Local Primordial Non-Gaussian Bias at the Field Level**|James M. Sullivan et.al.|[2410.18039v1](http://arxiv.org/abs/2410.18039v1)|[2410.18039v1](http://arxiv.org/pdf/2410.18039v1)|null|
+|**2024-10-23**|**JWST/NIRSpec Reveals the Nested Morphology of Disk Winds from Young Stars**|Ilaria Pascucci et.al.|[2410.18033v1](http://arxiv.org/abs/2410.18033v1)|[2410.18033v1](http://arxiv.org/pdf/2410.18033v1)|null|
+|**2024-10-23**|**Coronagraph-based wavefront sensors for the high Strehl regime**|Vincent Chambouleyron et.al.|[2410.18000v1](http://arxiv.org/abs/2410.18000v1)|[2410.18000v1](http://arxiv.org/pdf/2410.18000v1)|null|
+|**2024-10-23**|**LEIA discovery of the longest-lasting and most energetic stellar X-ray flare ever detected**|Xuan Mao et.al.|[2410.17999v1](http://arxiv.org/abs/2410.17999v1)|[2410.17999v1](http://arxiv.org/pdf/2410.17999v1)|null|
+|**2024-10-23**|**Kinematic Flow for Cosmological Loop Integrands**|Daniel Baumann et.al.|[2410.17994v1](http://arxiv.org/abs/2410.17994v1)|[2410.17994v1](http://arxiv.org/pdf/2410.17994v1)|null|
+|**2024-10-23**|**Small noise expansion of stochastic inflation**|Diego Cruces et.al.|[2410.17987v1](http://arxiv.org/abs/2410.17987v1)|[2410.17987v1](http://arxiv.org/pdf/2410.17987v1)|null|
 |**2024-10-22**|**Cosmic Ray Mediated Thermal Fronts in the Warm-Hot Circumgalactic Medium**|Hanjue Zhu et.al.|[2410.17252v1](http://arxiv.org/abs/2410.17252v1)|[2410.17252v1](http://arxiv.org/pdf/2410.17252v1)|null|
 |**2024-10-22**|**Quantifying the Impact of the Si/O Interface in CCSN Explosions Using the Force Explosion Condition**|Luca Boccioli et.al.|[2410.17232v1](http://arxiv.org/abs/2410.17232v1)|[2410.17232v1](http://arxiv.org/pdf/2410.17232v1)|null|
 |**2024-10-22**|**Temporal and Spectral Analysis of the Unique and Second Brightest Gamma-Ray Burst GRB 230307A: Insights from GECAM and Fermi/GBM Observations**|R. Moradi et.al.|[2410.17189v1](http://arxiv.org/abs/2410.17189v1)|[2410.17189v1](http://arxiv.org/pdf/2410.17189v1)|null|
@@ -5787,6 +5797,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-23**|**ALTA: Compiler-Based Analysis of Transformers**|Peter Shaw et.al.|[2410.18077v1](http://arxiv.org/abs/2410.18077v1)|[2410.18077v1](http://arxiv.org/pdf/2410.18077v1)|**[link](https://github.com/google-deepmind/alta)**|
+|**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076v1](http://arxiv.org/abs/2410.18076v1)|[2410.18076v1](http://arxiv.org/pdf/2410.18076v1)|null|
+|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072v1](http://arxiv.org/abs/2410.18072v1)|[2410.18072v1](http://arxiv.org/pdf/2410.18072v1)|null|
+|**2024-10-23**|**TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts**|Yuxuan Xie et.al.|[2410.18071v1](http://arxiv.org/abs/2410.18071v1)|[2410.18071v1](http://arxiv.org/pdf/2410.18071v1)|null|
+|**2024-10-23**|**Training Free Guided Flow Matching with Optimal Control**|Luran Wang et.al.|[2410.18070v1](http://arxiv.org/abs/2410.18070v1)|[2410.18070v1](http://arxiv.org/pdf/2410.18070v1)|null|
+|**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067v1](http://arxiv.org/abs/2410.18067v1)|[2410.18067v1](http://arxiv.org/pdf/2410.18067v1)|null|
+|**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065v1](http://arxiv.org/abs/2410.18065v1)|[2410.18065v1](http://arxiv.org/pdf/2410.18065v1)|null|
+|**2024-10-23**|**Explaining Bayesian Networks in Natural Language using Factor Arguments. Evaluation in the medical domain**|Jaime Sevilla et.al.|[2410.18060v1](http://arxiv.org/abs/2410.18060v1)|[2410.18060v1](http://arxiv.org/pdf/2410.18060v1)|null|
+|**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040v1](http://arxiv.org/abs/2410.18040v1)|[2410.18040v1](http://arxiv.org/pdf/2410.18040v1)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032v1](http://arxiv.org/abs/2410.18032v1)|[2410.18032v1](http://arxiv.org/pdf/2410.18032v1)|**[link](https://github.com/bupt-gamma/graphteam)**|
 |**2024-10-22**|**JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation**|Shota Onohara et.al.|[2410.17250v1](http://arxiv.org/abs/2410.17250v1)|[2410.17250v1](http://arxiv.org/pdf/2410.17250v1)|null|
 |**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248v1](http://arxiv.org/abs/2410.17248v1)|[2410.17248v1](http://arxiv.org/pdf/2410.17248v1)|null|
 |**2024-10-22**|**Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins**|Venkatesh Pattabiraman et.al.|[2410.17246v1](http://arxiv.org/abs/2410.17246v1)|[2410.17246v1](http://arxiv.org/pdf/2410.17246v1)|null|
