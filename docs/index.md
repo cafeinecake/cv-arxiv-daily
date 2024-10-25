@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-24**|**Very massive stars and Nitrogen-emitting galaxies**|Jorick S. Vink et.al.|[2410.18980v1](http://arxiv.org/abs/2410.18980v1)|[2410.18980v1](http://arxiv.org/pdf/2410.18980v1)|null|
+|**2024-10-24**|**Stimulated Emission of Dark Matter via Thermal Scattering: Novel Limits for Freeze-In and eV Cold Dark Matter**|Kodai Sakurai et.al.|[2410.18968v1](http://arxiv.org/abs/2410.18968v1)|[2410.18968v1](http://arxiv.org/pdf/2410.18968v1)|null|
+|**2024-10-24**|**Gravothermalizing into primordial black holes, boson stars, and cannibal stars**|Pranjal Ralegankar et.al.|[2410.18948v1](http://arxiv.org/abs/2410.18948v1)|[2410.18948v1](http://arxiv.org/pdf/2410.18948v1)|null|
+|**2024-10-24**|**Building a Planet Atmosphere: Fundamental Physics and Chemistry**|Emily Rauscher et.al.|[2410.18943v1](http://arxiv.org/abs/2410.18943v1)|[2410.18943v1](http://arxiv.org/pdf/2410.18943v1)|null|
+|**2024-10-24**|**PRODIGE -- envelope to disk with NOEMA. IV. An infalling gas bridge surrounding two Class 0/I systems in L1448N**|C. Gieser et.al.|[2410.18941v1](http://arxiv.org/abs/2410.18941v1)|[2410.18941v1](http://arxiv.org/pdf/2410.18941v1)|null|
+|**2024-10-24**|**Stability analysis of power-law cosmological models**|Jose Mathew et.al.|[2410.18925v1](http://arxiv.org/abs/2410.18925v1)|[2410.18925v1](http://arxiv.org/pdf/2410.18925v1)|null|
+|**2024-10-24**|**Twins in Diversity: Understanding circumstellar disk evolution in the twin clusters of W5 complex**|Belinda Damian et.al.|[2410.18920v1](http://arxiv.org/abs/2410.18920v1)|[2410.18920v1](http://arxiv.org/pdf/2410.18920v1)|null|
+|**2024-10-24**|**Parity-violating Gravitational Wave Background Search with a Network of Space-borne Triangular Detectors**|Ju Chen et.al.|[2410.18916v1](http://arxiv.org/abs/2410.18916v1)|[2410.18916v1](http://arxiv.org/pdf/2410.18916v1)|null|
+|**2024-10-24**|**A Study of Polycyclic Aromatic Hydrocarbon Emission in 30 Dor as seen by JWST**|Congcong Zhang et.al.|[2410.18909v1](http://arxiv.org/abs/2410.18909v1)|[2410.18909v1](http://arxiv.org/pdf/2410.18909v1)|null|
+|**2024-10-24**|**SKATR: A Self-Supervised Summary Transformer for SKA**|Ayodele Ore et.al.|[2410.18899v1](http://arxiv.org/abs/2410.18899v1)|[2410.18899v1](http://arxiv.org/pdf/2410.18899v1)|**[link](https://github.com/heidelberg-hepml/skatr)**|
 |**2024-10-23**|**Gauge-invariant perturbations of relativistic non-perfect fluids in spherical spacetime**|David Díaz-Guerra et.al.|[2410.18081v1](http://arxiv.org/abs/2410.18081v1)|[2410.18081v1](http://arxiv.org/pdf/2410.18081v1)|null|
 |**2024-10-23**|**The physical properties of Cluster Chains**|Laura Posch et.al.|[2410.18080v1](http://arxiv.org/abs/2410.18080v1)|[2410.18080v1](http://arxiv.org/pdf/2410.18080v1)|null|
 |**2024-10-23**|**CO-CAVITY project: Molecular gas and star formation in void galaxies**|M. I. Rodríguez et.al.|[2410.18078v1](http://arxiv.org/abs/2410.18078v1)|[2410.18078v1](http://arxiv.org/pdf/2410.18078v1)|null|
@@ -5801,6 +5811,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-24**|**PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views**|Xin Fei et.al.|[2410.18979v1](http://arxiv.org/abs/2410.18979v1)|[2410.18979v1](http://arxiv.org/pdf/2410.18979v1)|**[link](https://github.com/barrybarry-smith/pixelgaussian)**|
+|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|[2410.18976v1](http://arxiv.org/pdf/2410.18976v1)|null|
+|**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975v1](http://arxiv.org/abs/2410.18975v1)|[2410.18975v1](http://arxiv.org/pdf/2410.18975v1)|null|
+|**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974v1](http://arxiv.org/abs/2410.18974v1)|[2410.18974v1](http://arxiv.org/pdf/2410.18974v1)|**[link](https://github.com/Lakonik/MVEdit)**|
+|**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972v1](http://arxiv.org/abs/2410.18972v1)|[2410.18972v1](http://arxiv.org/pdf/2410.18972v1)|null|
+|**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970v1](http://arxiv.org/abs/2410.18970v1)|[2410.18970v1](http://arxiv.org/pdf/2410.18970v1)|null|
+|**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963v1](http://arxiv.org/abs/2410.18963v1)|[2410.18963v1](http://arxiv.org/pdf/2410.18963v1)|null|
+|**2024-10-24**|**Context is Key: A Benchmark for Forecasting with Essential Textual Information**|Andrew Robert Williams et.al.|[2410.18959v1](http://arxiv.org/abs/2410.18959v1)|[2410.18959v1](http://arxiv.org/pdf/2410.18959v1)|**[link](https://github.com/servicenow/context-is-key-forecasting)**|
+|**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952v1](http://arxiv.org/abs/2410.18952v1)|[2410.18952v1](http://arxiv.org/pdf/2410.18952v1)|**[link](https://github.com/matteonulli/vocabulary_pruning)**|
+|**2024-10-24**|**Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play**|Sha Li et.al.|[2410.18935v1](http://arxiv.org/abs/2410.18935v1)|[2410.18935v1](http://arxiv.org/pdf/2410.18935v1)|null|
 |**2024-10-23**|**ALTA: Compiler-Based Analysis of Transformers**|Peter Shaw et.al.|[2410.18077v1](http://arxiv.org/abs/2410.18077v1)|[2410.18077v1](http://arxiv.org/pdf/2410.18077v1)|**[link](https://github.com/google-deepmind/alta)**|
 |**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076v1](http://arxiv.org/abs/2410.18076v1)|[2410.18076v1](http://arxiv.org/pdf/2410.18076v1)|null|
 |**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072v1](http://arxiv.org/abs/2410.18072v1)|[2410.18072v1](http://arxiv.org/pdf/2410.18072v1)|null|
