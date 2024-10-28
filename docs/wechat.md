@@ -1,4 +1,4 @@
-> Updated on 2024.10.27
+> Updated on 2024.10.28
 
 ## Astrophysics
 
@@ -5804,7 +5804,7 @@
 ## AI
 
 - 2024-10-24, **PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views**, Xin Fei et.al., Paper: [http://arxiv.org/abs/2410.18979v1](http://arxiv.org/abs/2410.18979v1),Paper: [http://arxiv.org/abs/2410.18979v1](http://arxiv.org/pdf/2410.18979v1), Code: **[https://github.com/barrybarry-smith/pixelgaussian](https://github.com/barrybarry-smith/pixelgaussian)**
-- 2024-10-24, **CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**, Sara Ghaboura et.al., Paper: [http://arxiv.org/abs/2410.18976v1](http://arxiv.org/abs/2410.18976v1), Paper: [http://arxiv.org/abs/2410.18976v1](http://arxiv.org/pdf/2410.18976v1)
+- 2024-10-24, **CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**, Sara Ghaboura et.al., Paper: [http://arxiv.org/abs/2410.18976v1](http://arxiv.org/abs/2410.18976v1),Paper: [http://arxiv.org/abs/2410.18976v1](http://arxiv.org/pdf/2410.18976v1), Code: **[https://github.com/mbzuai-oryx/CAMEL-Bench](https://github.com/mbzuai-oryx/CAMEL-Bench)**
 - 2024-10-24, **Unbounded: A Generative Infinite Game of Character Life Simulation**, Jialu Li et.al., Paper: [http://arxiv.org/abs/2410.18975v1](http://arxiv.org/abs/2410.18975v1), Paper: [http://arxiv.org/abs/2410.18975v1](http://arxiv.org/pdf/2410.18975v1)
 - 2024-10-24, **3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**, Hansheng Chen et.al., Paper: [http://arxiv.org/abs/2410.18974v1](http://arxiv.org/abs/2410.18974v1),Paper: [http://arxiv.org/abs/2410.18974v1](http://arxiv.org/pdf/2410.18974v1), Code: **[https://github.com/Lakonik/MVEdit](https://github.com/Lakonik/MVEdit)**
 - 2024-10-24, **Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**, David Ortiz-Perez et.al., Paper: [http://arxiv.org/abs/2410.18972v1](http://arxiv.org/abs/2410.18972v1), Paper: [http://arxiv.org/abs/2410.18972v1](http://arxiv.org/pdf/2410.18972v1)
