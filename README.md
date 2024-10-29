@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-28**|**Semi-confined supernova feedback in HII region bubbles**|Cheryl S. C. Lau et.al.|[2410.21255v1](http://arxiv.org/abs/2410.21255v1)|[2410.21255v1](http://arxiv.org/pdf/2410.21255v1)|null|
+|**2024-10-28**|**Back to the phase space: thermal axion dark radiation via couplings to standard model fermions**|Francesco D'Eramo et.al.|[2410.21253v1](http://arxiv.org/abs/2410.21253v1)|[2410.21253v1](http://arxiv.org/pdf/2410.21253v1)|null|
+|**2024-10-28**|**Constraining cosmology with thermal Sunyaev-Zel'dovich maps: Minkowski functionals, peaks, minima, and moments**|Alina Sabyr et.al.|[2410.21247v1](http://arxiv.org/abs/2410.21247v1)|[2410.21247v1](http://arxiv.org/pdf/2410.21247v1)|null|
+|**2024-10-28**|**Cosmological tests of quintessence in quantum gravity**|Sukannya Bhattacharya et.al.|[2410.21243v1](http://arxiv.org/abs/2410.21243v1)|[2410.21243v1](http://arxiv.org/pdf/2410.21243v1)|null|
+|**2024-10-28**|**Boosting HI-Galaxy Cross-Clustering Signal through Higher-Order Cross-Correlations**|Eishica Chand et.al.|[2410.21225v1](http://arxiv.org/abs/2410.21225v1)|[2410.21225v1](http://arxiv.org/pdf/2410.21225v1)|null|
+|**2024-10-28**|**High resolution HI mapping of nearby XMP BCD galaxies**|Tom C. Scott et.al.|[2410.21221v1](http://arxiv.org/abs/2410.21221v1)|[2410.21221v1](http://arxiv.org/pdf/2410.21221v1)|null|
+|**2024-10-28**|**Cherenkov Telescope Array Observatory sensitivity to heavy Galactic Cosmic Rays and the shape of particle spectrum**|Coline Dubos et.al.|[2410.21199v1](http://arxiv.org/abs/2410.21199v1)|[2410.21199v1](http://arxiv.org/pdf/2410.21199v1)|null|
+|**2024-10-28**|**The VSPEC Collection: A suite of utilities to model spectroscopic phase curves of 3D exoplanet atmospheres in the presence of stellar variability**|Ted M Johnson et.al.|[2410.21190v1](http://arxiv.org/abs/2410.21190v1)|[2410.21190v1](http://arxiv.org/pdf/2410.21190v1)|null|
+|**2024-10-28**|**Formation of free-floating planetary mass objects via circumstellar disk encounters**|Zhihao Fu et.al.|[2410.21180v1](http://arxiv.org/abs/2410.21180v1)|[2410.21180v1](http://arxiv.org/pdf/2410.21180v1)|null|
+|**2024-10-28**|**$\texttt{StreamSculptor}$: Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations**|Jacob Nibauer et.al.|[2410.21174v1](http://arxiv.org/abs/2410.21174v1)|[2410.21174v1](http://arxiv.org/pdf/2410.21174v1)|null|
 |**2024-10-25**|**Planet Migration in Windy Discs**|Yinhao Wu et.al.|[2410.19731v1](http://arxiv.org/abs/2410.19731v1)|[2410.19731v1](http://arxiv.org/pdf/2410.19731v1)|null|
 |**2024-10-25**|**A catalog of binary stars from phase modulation in the first four years of TESS Mission photometry**|Shishir Dholakia et.al.|[2410.19729v1](http://arxiv.org/abs/2410.19729v1)|[2410.19729v1](http://arxiv.org/pdf/2410.19729v1)|null|
 |**2024-10-25**|**Cosmology with voids from the Nancy Grace Roman Space Telescope**|Giovanni Verza et.al.|[2410.19713v1](http://arxiv.org/abs/2410.19713v1)|[2410.19713v1](http://arxiv.org/pdf/2410.19713v1)|null|
@@ -5817,6 +5827,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275v1](http://arxiv.org/abs/2410.21275v1)|[2410.21275v1](http://arxiv.org/pdf/2410.21275v1)|**[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)**|
+|**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271v1](http://arxiv.org/abs/2410.21271v1)|[2410.21271v1](http://arxiv.org/pdf/2410.21271v1)|null|
+|**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264v1](http://arxiv.org/abs/2410.21264v1)|[2410.21264v1](http://arxiv.org/pdf/2410.21264v1)|null|
+|**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262v1](http://arxiv.org/abs/2410.21262v1)|[2410.21262v1](http://arxiv.org/pdf/2410.21262v1)|**[link](https://github.com/changwoolee/blast)**|
+|**2024-10-28**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259v1](http://arxiv.org/abs/2410.21259v1)|[2410.21259v1](http://arxiv.org/pdf/2410.21259v1)|null|
+|**2024-10-28**|**Multi-modal AI for comprehensive breast cancer prognostication**|Jan Witowski et.al.|[2410.21256v1](http://arxiv.org/abs/2410.21256v1)|[2410.21256v1](http://arxiv.org/pdf/2410.21256v1)|null|
+|**2024-10-28**|**Capacity-Aware Planning and Scheduling in Budget-Constrained Monotonic MDPs: A Meta-RL Approach**|Manav Vora et.al.|[2410.21249v1](http://arxiv.org/abs/2410.21249v1)|[2410.21249v1](http://arxiv.org/pdf/2410.21249v1)|null|
+|**2024-10-28**|**Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback**|Nour Jedidi et.al.|[2410.21242v1](http://arxiv.org/abs/2410.21242v1)|[2410.21242v1](http://arxiv.org/pdf/2410.21242v1)|null|
+|**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237v1](http://arxiv.org/abs/2410.21237v1)|[2410.21237v1](http://arxiv.org/pdf/2410.21237v1)|null|
+|**2024-10-28**|**Flaming-hot Initiation with Regular Execution Sampling for Large Language Models**|Weizhe Chen et.al.|[2410.21236v1](http://arxiv.org/abs/2410.21236v1)|[2410.21236v1](http://arxiv.org/pdf/2410.21236v1)|null|
 |**2024-10-25**|**The Potential and Value of AI Chatbot in Personalized Cognitive Training**|Zilong Wang et.al.|[2410.19733v1](http://arxiv.org/abs/2410.19733v1)|[2410.19733v1](http://arxiv.org/pdf/2410.19733v1)|null|
 |**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730v1](http://arxiv.org/abs/2410.19730v1)|[2410.19730v1](http://arxiv.org/pdf/2410.19730v1)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727v1](http://arxiv.org/abs/2410.19727v1)|[2410.19727v1](http://arxiv.org/pdf/2410.19727v1)|null|
