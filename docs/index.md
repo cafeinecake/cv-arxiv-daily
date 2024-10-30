@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 
 ## Astrophysics
 
@@ -5835,7 +5835,7 @@ layout: default
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271v1](http://arxiv.org/abs/2410.21271v1)|[2410.21271v1](http://arxiv.org/pdf/2410.21271v1)|null|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264v1](http://arxiv.org/abs/2410.21264v1)|[2410.21264v1](http://arxiv.org/pdf/2410.21264v1)|null|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262v1](http://arxiv.org/abs/2410.21262v1)|[2410.21262v1](http://arxiv.org/pdf/2410.21262v1)|**[link](https://github.com/changwoolee/blast)**|
-|**2024-10-28**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259v1](http://arxiv.org/abs/2410.21259v1)|[2410.21259v1](http://arxiv.org/pdf/2410.21259v1)|null|
+|**2024-10-29**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259v2](http://arxiv.org/abs/2410.21259v2)|[2410.21259v2](http://arxiv.org/pdf/2410.21259v2)|null|
 |**2024-10-28**|**Multi-modal AI for comprehensive breast cancer prognostication**|Jan Witowski et.al.|[2410.21256v1](http://arxiv.org/abs/2410.21256v1)|[2410.21256v1](http://arxiv.org/pdf/2410.21256v1)|null|
 |**2024-10-28**|**Capacity-Aware Planning and Scheduling in Budget-Constrained Monotonic MDPs: A Meta-RL Approach**|Manav Vora et.al.|[2410.21249v1](http://arxiv.org/abs/2410.21249v1)|[2410.21249v1](http://arxiv.org/pdf/2410.21249v1)|null|
 |**2024-10-28**|**Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback**|Nour Jedidi et.al.|[2410.21242v1](http://arxiv.org/abs/2410.21242v1)|[2410.21242v1](http://arxiv.org/pdf/2410.21242v1)|null|
