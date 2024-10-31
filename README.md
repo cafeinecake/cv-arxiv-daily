@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-30**|**Decoupling of a supermassive black hole binary from its magnetically arrested circumbinary accretion disk**|Elias R. Most et.al.|[2410.23264v1](http://arxiv.org/abs/2410.23264v1)|[2410.23264v1](http://arxiv.org/pdf/2410.23264v1)|null|
+|**2024-10-30**|**Templated Anisotropic Analyses of the LISA Galactic Foreground**|Alexander W. Criswell et.al.|[2410.23260v1](http://arxiv.org/abs/2410.23260v1)|[2410.23260v1](http://arxiv.org/pdf/2410.23260v1)|null|
+|**2024-10-30**|**Subphotospheric Emission from Short Gamma-Ray Bursts. II.~Signatures of Non-Thermal Dissipation in the Multi-Messenger Signals**|Annika Rudolph et.al.|[2410.23258v1](http://arxiv.org/abs/2410.23258v1)|[2410.23258v1](http://arxiv.org/pdf/2410.23258v1)|null|
+|**2024-10-30**|**Burstiness in low stellar-mass Ha emitters at z~2 and z~4-6 from JWST medium band photometry in GOODS-S**|R. Navarro-Carrera et.al.|[2410.23249v1](http://arxiv.org/abs/2410.23249v1)|[2410.23249v1](http://arxiv.org/pdf/2410.23249v1)|null|
+|**2024-10-30**|**Protoplanetary disk chemistry and structure**|Merel L. R. van 't Hoff et.al.|[2410.23235v1](http://arxiv.org/abs/2410.23235v1)|[2410.23235v1](http://arxiv.org/pdf/2410.23235v1)|null|
+|**2024-10-30**|**Quantitative spectroscopy of multiple OB stars: I. The quadruple system HD 37061 at the centre of Messier 43**|Patrick Aschenbrenner et.al.|[2410.23229v1](http://arxiv.org/abs/2410.23229v1)|[2410.23229v1](http://arxiv.org/pdf/2410.23229v1)|null|
+|**2024-10-30**|**A Catalog of First-Order Electroweak Phase Transitions in the Standard Model Effective Field Theory**|Eliel Camargo-Molina et.al.|[2410.23210v1](http://arxiv.org/abs/2410.23210v1)|[2410.23210v1](http://arxiv.org/pdf/2410.23210v1)|null|
+|**2024-10-30**|**Magnetic diagnostics of prominence eruptions through the Hanle effect of the He I 1083 nm line**|Momchil Molnar et.al.|[2410.23197v1](http://arxiv.org/abs/2410.23197v1)|[2410.23197v1](http://arxiv.org/pdf/2410.23197v1)|null|
+|**2024-10-30**|**On the origin of multifrequency temporal and spectral variability in Ton 599**|Sakshi Maurya et.al.|[2410.23194v1](http://arxiv.org/abs/2410.23194v1)|[2410.23194v1](http://arxiv.org/pdf/2410.23194v1)|null|
+|**2024-10-30**|**Diffusive shock acceleration of dust grains at supernova remnants**|P. Cristofari et.al.|[2410.23190v1](http://arxiv.org/abs/2410.23190v1)|[2410.23190v1](http://arxiv.org/pdf/2410.23190v1)|null|
 |**2024-10-29**|**Absolute Dimensions of the Interferometric Binary HD 174881: A Test of Stellar Evolution Models for Evolved Stars**|Guillermo Torres et.al.|[2410.22334v1](http://arxiv.org/abs/2410.22334v1)|[2410.22334v1](http://arxiv.org/pdf/2410.22334v1)|null|
 |**2024-10-29**|**A wiggling filamentary jet at the origin of the blazar multi-wavelength behaviour**|C. M. Raiteri et.al.|[2410.22319v1](http://arxiv.org/abs/2410.22319v1)|[2410.22319v1](http://arxiv.org/pdf/2410.22319v1)|null|
 |**2024-10-29**|**Non-LTE Synthetic Observables of a Multidimensional Model of Type Ia Supernovae**|Samuel J. Boos et.al.|[2410.22276v1](http://arxiv.org/abs/2410.22276v1)|[2410.22276v1](http://arxiv.org/pdf/2410.22276v1)|null|
@@ -5837,6 +5847,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285v1](http://arxiv.org/abs/2410.23285v1)|[2410.23285v1](http://arxiv.org/pdf/2410.23285v1)|null|
+|**2024-10-30**|**A Neural Transformer Framework for Simultaneous Tasks of Segmentation, Classification, and Caller Identification of Marmoset Vocalization**|Bin Wu et.al.|[2410.23279v1](http://arxiv.org/abs/2410.23279v1)|[2410.23279v1](http://arxiv.org/pdf/2410.23279v1)|null|
+|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277v1](http://arxiv.org/abs/2410.23277v1)|[2410.23277v1](http://arxiv.org/pdf/2410.23277v1)|null|
+|**2024-10-30**|**Multi-student Diffusion Distillation for Better One-step Generators**|Yanke Song et.al.|[2410.23274v1](http://arxiv.org/abs/2410.23274v1)|[2410.23274v1](http://arxiv.org/pdf/2410.23274v1)|null|
+|**2024-10-30**|**Proportional Fairness in Non-Centroid Clustering**|Ioannis Caragiannis et.al.|[2410.23273v1](http://arxiv.org/abs/2410.23273v1)|[2410.23273v1](http://arxiv.org/pdf/2410.23273v1)|null|
+|**2024-10-30**|**A Monte Carlo Framework for Calibrated Uncertainty Estimation in Sequence Prediction**|Qidong Yang et.al.|[2410.23272v1](http://arxiv.org/abs/2410.23272v1)|[2410.23272v1](http://arxiv.org/pdf/2410.23272v1)|null|
+|**2024-10-30**|**TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models**|Ziyao Shangguan et.al.|[2410.23266v1](http://arxiv.org/abs/2410.23266v1)|[2410.23266v1](http://arxiv.org/pdf/2410.23266v1)|**[link](https://github.com/yale-nlp/TOMATO)**|
+|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262v1](http://arxiv.org/abs/2410.23262v1)|[2410.23262v1](http://arxiv.org/pdf/2410.23262v1)|null|
+|**2024-10-30**|**Keypoint Abstraction using Large Models for Object-Relative Imitation Learning**|Xiaolin Fang et.al.|[2410.23254v1](http://arxiv.org/abs/2410.23254v1)|[2410.23254v1](http://arxiv.org/pdf/2410.23254v1)|null|
+|**2024-10-30**|**A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment**|Matteo G. Mecattaf et.al.|[2410.23242v1](http://arxiv.org/abs/2410.23242v1)|[2410.23242v1](http://arxiv.org/pdf/2410.23242v1)|null|
 |**2024-10-30**|**Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**|Guangqi Jiang et.al.|[2410.22325v2](http://arxiv.org/abs/2410.22325v2)|[2410.22325v2](http://arxiv.org/pdf/2410.22325v2)|null|
 |**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323v1](http://arxiv.org/abs/2410.22323v1)|[2410.22323v1](http://arxiv.org/pdf/2410.22323v1)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314v1](http://arxiv.org/abs/2410.22314v1)|[2410.22314v1](http://arxiv.org/pdf/2410.22314v1)|null|
