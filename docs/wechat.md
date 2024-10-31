@@ -1,4 +1,4 @@
-> Updated on 2024.10.30
+> Updated on 2024.10.31
 
 ## Astrophysics
 
@@ -5833,7 +5833,7 @@
 
 ## AI
 
-- 2024-10-29, **Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset**, Guangqi Jiang et.al., Paper: [http://arxiv.org/abs/2410.22325v1](http://arxiv.org/abs/2410.22325v1), Paper: [http://arxiv.org/abs/2410.22325v1](http://arxiv.org/pdf/2410.22325v1)
+- 2024-10-30, **Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**, Guangqi Jiang et.al., Paper: [http://arxiv.org/abs/2410.22325v2](http://arxiv.org/abs/2410.22325v2), Paper: [http://arxiv.org/abs/2410.22325v2](http://arxiv.org/pdf/2410.22325v2)
 - 2024-10-29, **Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**, Seetharam Killivalavan et.al., Paper: [http://arxiv.org/abs/2410.22323v1](http://arxiv.org/abs/2410.22323v1), Paper: [http://arxiv.org/abs/2410.22323v1](http://arxiv.org/pdf/2410.22323v1)
 - 2024-10-29, **An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2410.22314v1](http://arxiv.org/abs/2410.22314v1), Paper: [http://arxiv.org/abs/2410.22314v1](http://arxiv.org/pdf/2410.22314v1)
 - 2024-10-29, **Effective Guidance for Model Attention with Simple Yes-no Annotations**, Seongmin Lee et.al., Paper: [http://arxiv.org/abs/2410.22312v1](http://arxiv.org/abs/2410.22312v1), Paper: [http://arxiv.org/abs/2410.22312v1](http://arxiv.org/pdf/2410.22312v1)
