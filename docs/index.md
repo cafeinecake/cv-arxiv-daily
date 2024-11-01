@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-31**|**What is the origin of the JWST SMBHs?**|John Ellis et.al.|[2410.24224v1](http://arxiv.org/abs/2410.24224v1)|[2410.24224v1](http://arxiv.org/pdf/2410.24224v1)|null|
+|**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197v1](http://arxiv.org/abs/2410.24197v1)|[2410.24197v1](http://arxiv.org/pdf/2410.24197v1)|null|
+|**2024-10-31**|**StarDICE III: Characterization of the photometric instrument with a Collimated Beam Projector**|Thierry Souverin et.al.|[2410.24173v1](http://arxiv.org/abs/2410.24173v1)|[2410.24173v1](http://arxiv.org/pdf/2410.24173v1)|null|
+|**2024-10-31**|**Spectral features and variable circular polarisation in the radio emission from the pre-cataclysmic variable QS Vir**|M. E. Ridder et.al.|[2410.24157v1](http://arxiv.org/abs/2410.24157v1)|[2410.24157v1](http://arxiv.org/pdf/2410.24157v1)|null|
+|**2024-10-31**|**Measurement of the power spectrum turnover scale from the cross-correlation between CMB lensing and {\sl Quaia}**|David Alonso et.al.|[2410.24134v1](http://arxiv.org/abs/2410.24134v1)|[2410.24134v1](http://arxiv.org/pdf/2410.24134v1)|null|
+|**2024-10-31**|**Dirac Leptogenesis in Left-Right Symmetric Models**|K. S. Babu et.al.|[2410.24125v1](http://arxiv.org/abs/2410.24125v1)|[2410.24125v1](http://arxiv.org/pdf/2410.24125v1)|null|
+|**2024-10-31**|**gSeaGen code by KM3NeT: an efficient tool to propagate muons simulated with CORSIKA**|S. Aiello et.al.|[2410.24115v1](http://arxiv.org/abs/2410.24115v1)|[2410.24115v1](http://arxiv.org/pdf/2410.24115v1)|null|
+|**2024-10-31**|**Inconsistencies in Simple Thermal Model Results for Near-Earth Asteroids between Infrared Telescope Facility SpeX and NEOWISE Data**|Samuel A. Myers et.al.|[2410.24101v1](http://arxiv.org/abs/2410.24101v1)|[2410.24101v1](http://arxiv.org/pdf/2410.24101v1)|null|
+|**2024-10-31**|**First Light and Reionisation Epoch Simulations (FLARES) XVII: Learning the galaxy-halo connection at high redshifts**|Maxwell G. A. Maltz et.al.|[2410.24082v1](http://arxiv.org/abs/2410.24082v1)|[2410.24082v1](http://arxiv.org/pdf/2410.24082v1)|null|
+|**2024-10-31**|**Divergent Energy-Momentum Fluxes In Nonlocal Gravity Models**|Yi-Zen Chu et.al.|[2410.24076v1](http://arxiv.org/abs/2410.24076v1)|[2410.24076v1](http://arxiv.org/pdf/2410.24076v1)|null|
 |**2024-10-30**|**Decoupling of a supermassive black hole binary from its magnetically arrested circumbinary accretion disk**|Elias R. Most et.al.|[2410.23264v1](http://arxiv.org/abs/2410.23264v1)|[2410.23264v1](http://arxiv.org/pdf/2410.23264v1)|null|
 |**2024-10-30**|**Templated Anisotropic Analyses of the LISA Galactic Foreground**|Alexander W. Criswell et.al.|[2410.23260v1](http://arxiv.org/abs/2410.23260v1)|[2410.23260v1](http://arxiv.org/pdf/2410.23260v1)|null|
 |**2024-10-30**|**Subphotospheric Emission from Short Gamma-Ray Bursts. II.~Signatures of Non-Thermal Dissipation in the Multi-Messenger Signals**|Annika Rudolph et.al.|[2410.23258v1](http://arxiv.org/abs/2410.23258v1)|[2410.23258v1](http://arxiv.org/pdf/2410.23258v1)|null|
@@ -5851,6 +5861,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220v1](http://arxiv.org/abs/2410.24220v1)|[2410.24220v1](http://arxiv.org/pdf/2410.24220v1)|null|
+|**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218v1](http://arxiv.org/abs/2410.24218v1)|[2410.24218v1](http://arxiv.org/pdf/2410.24218v1)|**[link](https://github.com/sled-group/teachable_rl)**|
+|**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206v1](http://arxiv.org/abs/2410.24206v1)|[2410.24206v1](http://arxiv.org/pdf/2410.24206v1)|null|
+|**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205v1](http://arxiv.org/abs/2410.24205v1)|[2410.24205v1](http://arxiv.org/pdf/2410.24205v1)|null|
+|**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203v1](http://arxiv.org/abs/2410.24203v1)|[2410.24203v1](http://arxiv.org/pdf/2410.24203v1)|**[link](https://github.com/zju3dv/diffpano)**|
+|**2024-10-31**|**Length-Induced Embedding Collapse in Transformer-based Models**|Yuqi Zhou et.al.|[2410.24200v1](http://arxiv.org/abs/2410.24200v1)|[2410.24200v1](http://arxiv.org/pdf/2410.24200v1)|null|
+|**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187v1](http://arxiv.org/abs/2410.24187v1)|[2410.24187v1](http://arxiv.org/pdf/2410.24187v1)|**[link](https://github.com/vita-group/chasing-better-dips)**|
+|**2024-10-31**|**DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**|Zhenyu Jiang et.al.|[2410.24185v1](http://arxiv.org/abs/2410.24185v1)|[2410.24185v1](http://arxiv.org/pdf/2410.24185v1)|null|
+|**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175v1](http://arxiv.org/abs/2410.24175v1)|[2410.24175v1](http://arxiv.org/pdf/2410.24175v1)|null|
+|**2024-10-31**|**$π_0$: A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164v1](http://arxiv.org/abs/2410.24164v1)|[2410.24164v1](http://arxiv.org/pdf/2410.24164v1)|null|
 |**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285v1](http://arxiv.org/abs/2410.23285v1)|[2410.23285v1](http://arxiv.org/pdf/2410.23285v1)|null|
 |**2024-10-30**|**A Neural Transformer Framework for Simultaneous Tasks of Segmentation, Classification, and Caller Identification of Marmoset Vocalization**|Bin Wu et.al.|[2410.23279v1](http://arxiv.org/abs/2410.23279v1)|[2410.23279v1](http://arxiv.org/pdf/2410.23279v1)|null|
 |**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277v1](http://arxiv.org/abs/2410.23277v1)|[2410.23277v1](http://arxiv.org/pdf/2410.23277v1)|null|
