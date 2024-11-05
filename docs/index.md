@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-04**|**Robust Bayesian regression in astronomy**|William Martin et.al.|[2411.02380v1](http://arxiv.org/abs/2411.02380v1)|[2411.02380v1](http://arxiv.org/pdf/2411.02380v1)|null|
+|**2024-11-04**|**POSYDON Version 2: Population Synthesis with Detailed Binary-Evolution Simulations across a Cosmological Range of Metallicities**|Jeff J. Andrews et.al.|[2411.02376v1](http://arxiv.org/abs/2411.02376v1)|[2411.02376v1](http://arxiv.org/pdf/2411.02376v1)|null|
+|**2024-11-04**|**Observation of nonaxisymmetric standard magnetorotational instability induced by a free-shear layer**|Yin Wang et.al.|[2411.02361v1](http://arxiv.org/abs/2411.02361v1)|[2411.02361v1](http://arxiv.org/pdf/2411.02361v1)|null|
+|**2024-11-04**|**Virgo Filaments IV: Using WISE to Measure the Modification of Star-Forming Disks in the Extended Regions Around the Virgo Cluster**|Kim Conger et.al.|[2411.02352v1](http://arxiv.org/abs/2411.02352v1)|[2411.02352v1](http://arxiv.org/pdf/2411.02352v1)|null|
+|**2024-11-04**|**Prospects for optical detections from binary neutron star mergers with the next-generation multi-messenger observatories**|E. Loffredo et.al.|[2411.02342v1](http://arxiv.org/abs/2411.02342v1)|[2411.02342v1](http://arxiv.org/pdf/2411.02342v1)|null|
+|**2024-11-04**|**Evolution of the disky second generation of stars in globular clusters on cosmological timescale**|Peter Berczik et.al.|[2411.02303v1](http://arxiv.org/abs/2411.02303v1)|[2411.02303v1](http://arxiv.org/pdf/2411.02303v1)|null|
+|**2024-11-04**|**Main sequence dynamo magnetic fields emerging in the white dwarf phase**|Maria Camisassa et.al.|[2411.02296v1](http://arxiv.org/abs/2411.02296v1)|[2411.02296v1](http://arxiv.org/pdf/2411.02296v1)|null|
+|**2024-11-04**|**Connecting dust and outflows in AGN: the intriguing case of NGC 6860**|Ioanna Psaradaki et.al.|[2411.02270v1](http://arxiv.org/abs/2411.02270v1)|[2411.02270v1](http://arxiv.org/pdf/2411.02270v1)|null|
+|**2024-11-04**|**Refining the nonlinear modelling of primordial oscillatory features**|Mario Ballardini et.al.|[2411.02261v1](http://arxiv.org/abs/2411.02261v1)|[2411.02261v1](http://arxiv.org/pdf/2411.02261v1)|null|
+|**2024-11-04**|**Hints of spin-magnitude correlations and a rapidly spinning subpopulation of binary black holes**|Asad Hussain et.al.|[2411.02252v1](http://arxiv.org/abs/2411.02252v1)|[2411.02252v1](http://arxiv.org/pdf/2411.02252v1)|null|
 |**2024-10-31**|**What is the origin of the JWST SMBHs?**|John Ellis et.al.|[2410.24224v1](http://arxiv.org/abs/2410.24224v1)|[2410.24224v1](http://arxiv.org/pdf/2410.24224v1)|null|
 |**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197v1](http://arxiv.org/abs/2410.24197v1)|[2410.24197v1](http://arxiv.org/pdf/2410.24197v1)|null|
 |**2024-10-31**|**StarDICE III: Characterization of the photometric instrument with a Collimated Beam Projector**|Thierry Souverin et.al.|[2410.24173v1](http://arxiv.org/abs/2410.24173v1)|[2410.24173v1](http://arxiv.org/pdf/2410.24173v1)|null|
@@ -5861,6 +5871,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398v1](http://arxiv.org/abs/2411.02398v1)|[2411.02398v1](http://arxiv.org/pdf/2411.02398v1)|null|
+|**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393v1](http://arxiv.org/abs/2411.02393v1)|[2411.02393v1](http://arxiv.org/pdf/2411.02393v1)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
+|**2024-11-04**|**How Far is Video Generation from World Model: A Physical Law Perspective**|Bingyi Kang et.al.|[2411.02385v1](http://arxiv.org/abs/2411.02385v1)|[2411.02385v1](http://arxiv.org/pdf/2411.02385v1)|null|
+|**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382v1](http://arxiv.org/abs/2411.02382v1)|[2411.02382v1](http://arxiv.org/pdf/2411.02382v1)|null|
+|**2024-11-04**|**Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI**|Ramneet Kaur et.al.|[2411.02381v1](http://arxiv.org/abs/2411.02381v1)|[2411.02381v1](http://arxiv.org/pdf/2411.02381v1)|null|
+|**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359v1](http://arxiv.org/abs/2411.02359v1)|[2411.02359v1](http://arxiv.org/pdf/2411.02359v1)|**[link](https://github.com/yueyang130/deer-vla)**|
+|**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355v1](http://arxiv.org/abs/2411.02355v1)|[2411.02355v1](http://arxiv.org/pdf/2411.02355v1)|null|
+|**2024-11-04**|**Can Large Language Models generalize analogy solving like people can?**|Claire E. Stevenson et.al.|[2411.02348v1](http://arxiv.org/abs/2411.02348v1)|[2411.02348v1](http://arxiv.org/pdf/2411.02348v1)|null|
+|**2024-11-04**|**Simulation of Nanorobots with Artificial Intelligence and Reinforcement Learning for Advanced Cancer Cell Detection and Tracking**|Shahab Kavousinejad et.al.|[2411.02345v1](http://arxiv.org/abs/2411.02345v1)|[2411.02345v1](http://arxiv.org/pdf/2411.02345v1)|**[link](https://github.com/shahab-k93/cancer-and-smart-nanorobot)**|
+|**2024-11-04**|**Taking AI Welfare Seriously**|Robert Long et.al.|[2411.00986v1](http://arxiv.org/abs/2411.00986v1)|[2411.00986v1](http://arxiv.org/pdf/2411.00986v1)|null|
 |**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220v1](http://arxiv.org/abs/2410.24220v1)|[2410.24220v1](http://arxiv.org/pdf/2410.24220v1)|null|
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218v1](http://arxiv.org/abs/2410.24218v1)|[2410.24218v1](http://arxiv.org/pdf/2410.24218v1)|**[link](https://github.com/sled-group/teachable_rl)**|
 |**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206v1](http://arxiv.org/abs/2410.24206v1)|[2410.24206v1](http://arxiv.org/pdf/2410.24206v1)|null|
