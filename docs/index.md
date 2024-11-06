@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-05**|**Production and propagation of secondary antideuteron in the Galaxy**|Luis Fernando Galicia Cruztitla et.al.|[2411.03298v1](http://arxiv.org/abs/2411.03298v1)|[2411.03298v1](http://arxiv.org/pdf/2411.03298v1)|null|
+|**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276v1](http://arxiv.org/abs/2411.03276v1)|[2411.03276v1](http://arxiv.org/pdf/2411.03276v1)|null|
+|**2024-11-05**|**Optical evolution of AT 2024wpp: the high-velocity outflows in Cow-like transients are consistent with high spherical symmetry**|M. Pursiainen et.al.|[2411.03272v1](http://arxiv.org/abs/2411.03272v1)|[2411.03272v1](http://arxiv.org/pdf/2411.03272v1)|null|
+|**2024-11-05**|**Simultaneous Optical and X-ray Detection of a Thermonuclear Burst in the 2024 Outburst of EXO 0748-676**|Amy H. Knight et.al.|[2411.03269v1](http://arxiv.org/abs/2411.03269v1)|[2411.03269v1](http://arxiv.org/pdf/2411.03269v1)|null|
+|**2024-11-05**|**Astrophysical Properties of the Sirius Binary System Modeled with MESA**|Momin Y. Khan et.al.|[2411.03267v1](http://arxiv.org/abs/2411.03267v1)|[2411.03267v1](http://arxiv.org/pdf/2411.03267v1)|null|
+|**2024-11-05**|**Tuning into spatial frequency space: Satellite and space debris detection in the ZTF alert stream**|J. P. Carvajal et.al.|[2411.03258v1](http://arxiv.org/abs/2411.03258v1)|[2411.03258v1](http://arxiv.org/pdf/2411.03258v1)|null|
+|**2024-11-05**|**How the StarDICE photometric calibration of standard stars can improve cosmological constraints?**|T. Souverin et.al.|[2411.03256v1](http://arxiv.org/abs/2411.03256v1)|[2411.03256v1](http://arxiv.org/pdf/2411.03256v1)|null|
+|**2024-11-05**|**Computation of the Fresnel diffraction of starshades based on a polygonal approximation**|Simon Prunet et.al.|[2411.03254v1](http://arxiv.org/abs/2411.03254v1)|[2411.03254v1](http://arxiv.org/pdf/2411.03254v1)|null|
+|**2024-11-05**|**Fighting Gravity Gradient Noise with Gradient-Based Optimization at the Einstein Telescope**|Patrick Schillings et.al.|[2411.03251v1](http://arxiv.org/abs/2411.03251v1)|[2411.03251v1](http://arxiv.org/pdf/2411.03251v1)|null|
+|**2024-11-05**|**Depolarization and Faraday effects in AGN Jets**|E. Yushkov et.al.|[2411.03246v1](http://arxiv.org/abs/2411.03246v1)|[2411.03246v1](http://arxiv.org/pdf/2411.03246v1)|null|
 |**2024-11-04**|**Robust Bayesian regression in astronomy**|William Martin et.al.|[2411.02380v1](http://arxiv.org/abs/2411.02380v1)|[2411.02380v1](http://arxiv.org/pdf/2411.02380v1)|null|
 |**2024-11-04**|**POSYDON Version 2: Population Synthesis with Detailed Binary-Evolution Simulations across a Cosmological Range of Metallicities**|Jeff J. Andrews et.al.|[2411.02376v1](http://arxiv.org/abs/2411.02376v1)|[2411.02376v1](http://arxiv.org/pdf/2411.02376v1)|null|
 |**2024-11-04**|**Observation of nonaxisymmetric standard magnetorotational instability induced by a free-shear layer**|Yin Wang et.al.|[2411.02361v1](http://arxiv.org/abs/2411.02361v1)|[2411.02361v1](http://arxiv.org/pdf/2411.02361v1)|null|
@@ -5871,6 +5881,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312v1](http://arxiv.org/abs/2411.03312v1)|[2411.03312v1](http://arxiv.org/pdf/2411.03312v1)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300v1](http://arxiv.org/abs/2411.03300v1)|[2411.03300v1](http://arxiv.org/pdf/2411.03300v1)|null|
+|**2024-11-05**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294v1](http://arxiv.org/abs/2411.03294v1)|[2411.03294v1](http://arxiv.org/pdf/2411.03294v1)|null|
+|**2024-11-05**|**Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?**|Jingyu Xiao et.al.|[2411.03292v1](http://arxiv.org/abs/2411.03292v1)|[2411.03292v1](http://arxiv.org/pdf/2411.03292v1)|null|
+|**2024-11-05**|**The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare**|Souren Pashangpour et.al.|[2411.03287v1](http://arxiv.org/abs/2411.03287v1)|[2411.03287v1](http://arxiv.org/pdf/2411.03287v1)|null|
+|**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284v1](http://arxiv.org/abs/2411.03284v1)|[2411.03284v1](http://arxiv.org/pdf/2411.03284v1)|**[link](https://github.com/david-li0406/smoa)**|
+|**2024-11-05**|**Causal Responsibility Attribution for Human-AI Collaboration**|Yahang Qi et.al.|[2411.03275v1](http://arxiv.org/abs/2411.03275v1)|[2411.03275v1](http://arxiv.org/pdf/2411.03275v1)|**[link](https://github.com/yahang-qi/Causal-Attr-Human-AI)**|
+|**2024-11-05**|**How the StarDICE photometric calibration of standard stars can improve cosmological constraints?**|T. Souverin et.al.|[2411.03256v1](http://arxiv.org/abs/2411.03256v1)|[2411.03256v1](http://arxiv.org/pdf/2411.03256v1)|null|
+|**2024-11-05**|**Discovering Data Structures: Nearest Neighbor Search and Beyond**|Omar Salemohamed et.al.|[2411.03253v1](http://arxiv.org/abs/2411.03253v1)|[2411.03253v1](http://arxiv.org/pdf/2411.03253v1)|null|
+|**2024-11-05**|**Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities**|Ryosuke Takata et.al.|[2411.03252v1](http://arxiv.org/abs/2411.03252v1)|[2411.03252v1](http://arxiv.org/pdf/2411.03252v1)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398v1](http://arxiv.org/abs/2411.02398v1)|[2411.02398v1](http://arxiv.org/pdf/2411.02398v1)|null|
 |**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393v1](http://arxiv.org/abs/2411.02393v1)|[2411.02393v1](http://arxiv.org/pdf/2411.02393v1)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
 |**2024-11-04**|**How Far is Video Generation from World Model: A Physical Law Perspective**|Bingyi Kang et.al.|[2411.02385v1](http://arxiv.org/abs/2411.02385v1)|[2411.02385v1](http://arxiv.org/pdf/2411.02385v1)|null|
