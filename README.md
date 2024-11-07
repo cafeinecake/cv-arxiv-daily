@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-06**|**Looking into the world of interacting supernovae**|Anjasha Gangopadhyay et.al.|[2411.04107v1](http://arxiv.org/abs/2411.04107v1)|[2411.04107v1](http://arxiv.org/pdf/2411.04107v1)|null|
+|**2024-11-06**|**Theoretical Diagnostics for Narrow Line Regions of Active Galactic Nuclei**|Peixin Zhu et.al.|[2411.04103v1](http://arxiv.org/abs/2411.04103v1)|[2411.04103v1](http://arxiv.org/pdf/2411.04103v1)|null|
+|**2024-11-06**|**Simulation of solar energetic particle events originated from coronal mass ejection shocks with a data-driven physics-based transport model**|Lei Cheng et.al.|[2411.04095v1](http://arxiv.org/abs/2411.04095v1)|[2411.04095v1](http://arxiv.org/pdf/2411.04095v1)|null|
+|**2024-11-06**|**Temporal and chromatic variation of polarized scattered light in the outer disk of PDS 70**|J. Ma et.al.|[2411.04091v1](http://arxiv.org/abs/2411.04091v1)|[2411.04091v1](http://arxiv.org/pdf/2411.04091v1)|null|
+|**2024-11-06**|**Cosmology from weak lensing, galaxy clustering, CMB lensing and tSZ: II. Optimizing Roman survey design for CMB cross-correlation science**|Tim Eifler et.al.|[2411.04088v1](http://arxiv.org/abs/2411.04088v1)|[2411.04088v1](http://arxiv.org/pdf/2411.04088v1)|null|
+|**2024-11-06**|**Limits to dynamic range in GHz-THz single-dish planetary spectra**|J S Greaves et.al.|[2411.04078v1](http://arxiv.org/abs/2411.04078v1)|[2411.04078v1](http://arxiv.org/pdf/2411.04078v1)|null|
+|**2024-11-06**|**$Λ$CDM-like evolution in Einstein-scalar-Gauss-Bonnet gravity**|Miguel A. S. Pinto et.al.|[2411.04066v1](http://arxiv.org/abs/2411.04066v1)|[2411.04066v1](http://arxiv.org/pdf/2411.04066v1)|null|
+|**2024-11-06**|**Astrophysical constraints on color-superconducting phases in compact stars within the RG-consistent NJL model**|Hosein Gholami et.al.|[2411.04064v1](http://arxiv.org/abs/2411.04064v1)|[2411.04064v1](http://arxiv.org/pdf/2411.04064v1)|null|
+|**2024-11-06**|**Distinguishing Coupled Dark Energy Models with Neural Networks**|L. W. K. Goh et.al.|[2411.04058v1](http://arxiv.org/abs/2411.04058v1)|[2411.04058v1](http://arxiv.org/pdf/2411.04058v1)|**[link](https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE)**|
+|**2024-11-06**|**Confusion noise from astrophysical backgrounds at third-generation gravitational-wave detector networks**|Enis Belgacem et.al.|[2411.04029v1](http://arxiv.org/abs/2411.04029v1)|[2411.04029v1](http://arxiv.org/pdf/2411.04029v1)|null|
 |**2024-11-05**|**Production and propagation of secondary antideuteron in the Galaxy**|Luis Fernando Galicia Cruztitla et.al.|[2411.03298v1](http://arxiv.org/abs/2411.03298v1)|[2411.03298v1](http://arxiv.org/pdf/2411.03298v1)|null|
 |**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276v1](http://arxiv.org/abs/2411.03276v1)|[2411.03276v1](http://arxiv.org/pdf/2411.03276v1)|null|
 |**2024-11-05**|**Optical evolution of AT 2024wpp: the high-velocity outflows in Cow-like transients are consistent with high spherical symmetry**|M. Pursiainen et.al.|[2411.03272v1](http://arxiv.org/abs/2411.03272v1)|[2411.03272v1](http://arxiv.org/pdf/2411.03272v1)|null|
@@ -5877,6 +5887,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|[2411.04118v1](http://arxiv.org/pdf/2411.04118v1)|null|
+|**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112v1](http://arxiv.org/abs/2411.04112v1)|[2411.04112v1](http://arxiv.org/pdf/2411.04112v1)|null|
+|**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109v1](http://arxiv.org/abs/2411.04109v1)|[2411.04109v1](http://arxiv.org/pdf/2411.04109v1)|null|
+|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105v1](http://arxiv.org/abs/2411.04105v1)|[2411.04105v1](http://arxiv.org/pdf/2411.04105v1)|null|
+|**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097v1](http://arxiv.org/abs/2411.04097v1)|[2411.04097v1](http://arxiv.org/pdf/2411.04097v1)|**[link](https://github.com/stanford-aimi/ravl)**|
+|**2024-11-06**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090v1](http://arxiv.org/abs/2411.04090v1)|[2411.04090v1](http://arxiv.org/pdf/2411.04090v1)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
+|**2024-11-06**|**M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models**|Chuhan Li et.al.|[2411.04075v1](http://arxiv.org/abs/2411.04075v1)|[2411.04075v1](http://arxiv.org/pdf/2411.04075v1)|null|
+|**2024-11-06**|**Non-Stationary Learning of Neural Networks with Automatic Soft Parameter Reset**|Alexandre Galashov et.al.|[2411.04034v1](http://arxiv.org/abs/2411.04034v1)|[2411.04034v1](http://arxiv.org/pdf/2411.04034v1)|null|
+|**2024-11-06**|**Prototyping O-RAN Enabled UAV Experimentation for the AERPAW Testbed**|Joshua Moore et.al.|[2411.04027v1](http://arxiv.org/abs/2411.04027v1)|[2411.04027v1](http://arxiv.org/pdf/2411.04027v1)|null|
+|**2024-11-06**|**Free energy of self-avoiding polymer chain confined between parallel walls**|Marcio S. Gomes-Filho et.al.|[2411.04017v1](http://arxiv.org/abs/2411.04017v1)|[2411.04017v1](http://arxiv.org/pdf/2411.04017v1)|null|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312v1](http://arxiv.org/abs/2411.03312v1)|[2411.03312v1](http://arxiv.org/pdf/2411.03312v1)|**[link](https://github.com/locuslab/llava-token-compression)**|
 |**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300v1](http://arxiv.org/abs/2411.03300v1)|[2411.03300v1](http://arxiv.org/pdf/2411.03300v1)|null|
 |**2024-11-05**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294v1](http://arxiv.org/abs/2411.03294v1)|[2411.03294v1](http://arxiv.org/pdf/2411.03294v1)|null|
