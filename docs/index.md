@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002v1](http://arxiv.org/abs/2411.05002v1)|[2411.05002v1](http://arxiv.org/pdf/2411.05002v1)|null|
+|**2024-11-07**|**How fast does the WallGo? A package for computing wall velocities in first-order phase transitions**|Andreas Ekstedt et.al.|[2411.04970v1](http://arxiv.org/abs/2411.04970v1)|[2411.04970v1](http://arxiv.org/pdf/2411.04970v1)|null|
+|**2024-11-07**|**No rungs attached: A distance-ladder free determination of the Hubble constant through type II supernova spectral modelling**|Christian Vogl et.al.|[2411.04968v1](http://arxiv.org/abs/2411.04968v1)|[2411.04968v1](http://arxiv.org/pdf/2411.04968v1)|null|
+|**2024-11-07**|**Geodesic trajectories for binary systems of supermassive black holes (SMB)**|Fabian A. Portilla et.al.|[2411.04964v1](http://arxiv.org/abs/2411.04964v1)|[2411.04964v1](http://arxiv.org/pdf/2411.04964v1)|null|
+|**2024-11-07**|**MIGHTEE: The Continuum Survey Data Release 1**|C. L. Hale et.al.|[2411.04958v1](http://arxiv.org/abs/2411.04958v1)|[2411.04958v1](http://arxiv.org/pdf/2411.04958v1)|null|
+|**2024-11-07**|**A Compact, Coherent Representation of Stellar Surface Variation in the Spectral Domain**|Lily L. Zhao et.al.|[2411.04947v1](http://arxiv.org/abs/2411.04947v1)|[2411.04947v1](http://arxiv.org/pdf/2411.04947v1)|null|
+|**2024-11-07**|**Galaxy Mergers in the Epoch of Reionization II: Major Merger-Triggered Star Formation and AGN Activities at $z = 4.5 - 8.5$**|Qiao Duan et.al.|[2411.04944v1](http://arxiv.org/abs/2411.04944v1)|[2411.04944v1](http://arxiv.org/pdf/2411.04944v1)|null|
+|**2024-11-07**|**The impact of periastron passage on the X-ray and optical properties of the Symbiotic System R Aquarii**|D. A. Vásquez-Torres et.al.|[2411.04935v1](http://arxiv.org/abs/2411.04935v1)|[2411.04935v1](http://arxiv.org/pdf/2411.04935v1)|null|
+|**2024-11-07**|**Dark energy reconstructions combining BAO data with galaxy clusters and intermediate redshift catalogs**|Orlando Luongo et.al.|[2411.04901v1](http://arxiv.org/abs/2411.04901v1)|[2411.04901v1](http://arxiv.org/pdf/2411.04901v1)|null|
+|**2024-11-07**|**Modular domain walls and gravitational waves**|Stephen F. King et.al.|[2411.04900v1](http://arxiv.org/abs/2411.04900v1)|[2411.04900v1](http://arxiv.org/pdf/2411.04900v1)|null|
 |**2024-11-06**|**Looking into the world of interacting supernovae**|Anjasha Gangopadhyay et.al.|[2411.04107v1](http://arxiv.org/abs/2411.04107v1)|[2411.04107v1](http://arxiv.org/pdf/2411.04107v1)|null|
 |**2024-11-06**|**Theoretical Diagnostics for Narrow Line Regions of Active Galactic Nuclei**|Peixin Zhu et.al.|[2411.04103v1](http://arxiv.org/abs/2411.04103v1)|[2411.04103v1](http://arxiv.org/pdf/2411.04103v1)|null|
 |**2024-11-06**|**Simulation of solar energetic particle events originated from coronal mass ejection shocks with a data-driven physics-based transport model**|Lei Cheng et.al.|[2411.04095v1](http://arxiv.org/abs/2411.04095v1)|[2411.04095v1](http://arxiv.org/pdf/2411.04095v1)|null|
@@ -5891,6 +5901,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003v1](http://arxiv.org/abs/2411.05003v1)|[2411.05003v1](http://arxiv.org/pdf/2411.05003v1)|null|
+|**2024-11-07**|**Analyzing The Language of Visual Tokens**|David M. Chan et.al.|[2411.05001v1](http://arxiv.org/abs/2411.05001v1)|[2411.05001v1](http://arxiv.org/pdf/2411.05001v1)|null|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998v1](http://arxiv.org/abs/2411.04998v1)|[2411.04998v1](http://arxiv.org/pdf/2411.04998v1)|null|
+|**2024-11-07**|**Public Procurement for Responsible AI? Understanding U.S. Cities' Practices, Challenges, and Needs**|Nari Johnson et.al.|[2411.04994v1](http://arxiv.org/abs/2411.04994v1)|[2411.04994v1](http://arxiv.org/pdf/2411.04994v1)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991v1](http://arxiv.org/abs/2411.04991v1)|[2411.04991v1](http://arxiv.org/pdf/2411.04991v1)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
+|**2024-11-07**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990v1](http://arxiv.org/abs/2411.04990v1)|[2411.04990v1](http://arxiv.org/pdf/2411.04990v1)|null|
+|**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[2411.04987v1](http://arxiv.org/abs/2411.04987v1)|[2411.04987v1](http://arxiv.org/pdf/2411.04987v1)|null|
+|**2024-11-07**|**DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning**|Gaoyue Zhou et.al.|[2411.04983v1](http://arxiv.org/abs/2411.04983v1)|[2411.04983v1](http://arxiv.org/pdf/2411.04983v1)|null|
+|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981v1](http://arxiv.org/abs/2411.04981v1)|[2411.04981v1](http://arxiv.org/pdf/2411.04981v1)|null|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975v1](http://arxiv.org/abs/2411.04975v1)|[2411.04975v1](http://arxiv.org/pdf/2411.04975v1)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|[2411.04118v1](http://arxiv.org/pdf/2411.04118v1)|null|
 |**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112v1](http://arxiv.org/abs/2411.04112v1)|[2411.04112v1](http://arxiv.org/pdf/2411.04112v1)|null|
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109v1](http://arxiv.org/abs/2411.04109v1)|[2411.04109v1](http://arxiv.org/pdf/2411.04109v1)|null|
