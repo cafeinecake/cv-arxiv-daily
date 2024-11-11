@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-08**|**Plasma Seismology: Fully Exploiting the Information Contained in Velocity Space of Kinetic Plasmas using the Morrison G Transform**|Frederick Skiff et.al.|[2411.05772v1](http://arxiv.org/abs/2411.05772v1)|[2411.05772v1](http://arxiv.org/pdf/2411.05772v1)|null|
+|**2024-11-08**|**Comparison of global networks of third-generation gravitational-wave detectors**|Michele Maggiore et.al.|[2411.05754v1](http://arxiv.org/abs/2411.05754v1)|[2411.05754v1](http://arxiv.org/pdf/2411.05754v1)|null|
+|**2024-11-08**|**First Identification and Chemical Modeling of New Thiol ($-$SH) Bearing Molecule in the Interstellar Medium: Dithioformic Acid**|Arijit Manna et.al.|[2411.05749v1](http://arxiv.org/abs/2411.05749v1)|[2411.05749v1](http://arxiv.org/pdf/2411.05749v1)|null|
+|**2024-11-08**|**A doublet of cosmological models to challenge the H0 tension in the Pantheon Supernovae Ia catalog**|B. De Simone et.al.|[2411.05744v1](http://arxiv.org/abs/2411.05744v1)|[2411.05744v1](http://arxiv.org/pdf/2411.05744v1)|null|
+|**2024-11-08**|**Understanding Streaming Instabilities in the Limit of High Cosmic Ray Current Density**|Emily Lichko et.al.|[2411.05704v1](http://arxiv.org/abs/2411.05704v1)|[2411.05704v1](http://arxiv.org/pdf/2411.05704v1)|null|
+|**2024-11-08**|**Gas Dynamics in the Central Molecular Zone and its connection with the Galactic Bar**|Leonardo Chaves-Velasquez et.al.|[2411.05684v1](http://arxiv.org/abs/2411.05684v1)|[2411.05684v1](http://arxiv.org/pdf/2411.05684v1)|null|
+|**2024-11-08**|**Studying Binary Systems in Omega Centauri with MUSE. I. Detection of Spectroscopic Binaries**|F. Wragg et.al.|[2411.05680v1](http://arxiv.org/abs/2411.05680v1)|[2411.05680v1](http://arxiv.org/pdf/2411.05680v1)|null|
+|**2024-11-08**|**Ultra-high-energy cosmic rays from ultra-fast outflows of active galactic nuclei**|Domenik Ehlert et.al.|[2411.05667v1](http://arxiv.org/abs/2411.05667v1)|[2411.05667v1](http://arxiv.org/pdf/2411.05667v1)|null|
+|**2024-11-08**|**Echoes from Beyond: Detecting Gravitational Wave Quantum Imprints with LISA**|Nils Deppe et.al.|[2411.05645v1](http://arxiv.org/abs/2411.05645v1)|[2411.05645v1](http://arxiv.org/pdf/2411.05645v1)|null|
+|**2024-11-08**|**The Hubble Constant from Blue Type Ia Supernovae**|Christa Gall et.al.|[2411.05642v1](http://arxiv.org/abs/2411.05642v1)|[2411.05642v1](http://arxiv.org/pdf/2411.05642v1)|null|
 |**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002v1](http://arxiv.org/abs/2411.05002v1)|[2411.05002v1](http://arxiv.org/pdf/2411.05002v1)|null|
 |**2024-11-07**|**How fast does the WallGo? A package for computing wall velocities in first-order phase transitions**|Andreas Ekstedt et.al.|[2411.04970v1](http://arxiv.org/abs/2411.04970v1)|[2411.04970v1](http://arxiv.org/pdf/2411.04970v1)|null|
 |**2024-11-07**|**No rungs attached: A distance-ladder free determination of the Hubble constant through type II supernova spectral modelling**|Christian Vogl et.al.|[2411.04968v1](http://arxiv.org/abs/2411.04968v1)|[2411.04968v1](http://arxiv.org/pdf/2411.04968v1)|null|
@@ -5901,6 +5911,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-08**|**ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles**|Kayo Yin et.al.|[2411.05783v1](http://arxiv.org/abs/2411.05783v1)|[2411.05783v1](http://arxiv.org/pdf/2411.05783v1)|null|
+|**2024-11-08**|**Using Language Models to Disambiguate Lexical Choices in Translation**|Josh Barua et.al.|[2411.05781v1](http://arxiv.org/abs/2411.05781v1)|[2411.05781v1](http://arxiv.org/pdf/2411.05781v1)|null|
+|**2024-11-08**|**GazeSearch: Radiology Findings Search Benchmark**|Trong Thang Pham et.al.|[2411.05780v1](http://arxiv.org/abs/2411.05780v1)|[2411.05780v1](http://arxiv.org/pdf/2411.05780v1)|null|
+|**2024-11-08**|**LLMs as Method Actors: A Model for Prompt Engineering and Architecture**|Colin Doyle et.al.|[2411.05778v1](http://arxiv.org/abs/2411.05778v1)|[2411.05778v1](http://arxiv.org/pdf/2411.05778v1)|null|
+|**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777v1](http://arxiv.org/abs/2411.05777v1)|[2411.05777v1](http://arxiv.org/pdf/2411.05777v1)|null|
+|**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775v1](http://arxiv.org/abs/2411.05775v1)|[2411.05775v1](http://arxiv.org/pdf/2411.05775v1)|null|
+|**2024-11-08**|**On Differentially Private String Distances**|Jerry Yao-Chieh Hu et.al.|[2411.05750v1](http://arxiv.org/abs/2411.05750v1)|[2411.05750v1](http://arxiv.org/pdf/2411.05750v1)|null|
+|**2024-11-08**|**Multi-Dimensional Reconfigurable, Physically Composable Hybrid Diffractive Optical Neural Network**|Ziang Yin et.al.|[2411.05748v1](http://arxiv.org/abs/2411.05748v1)|[2411.05748v1](http://arxiv.org/pdf/2411.05748v1)|null|
+|**2024-11-08**|**Continuous-Time Analysis of Adaptive Optimization and Normalization**|Rhys Gould et.al.|[2411.05746v1](http://arxiv.org/abs/2411.05746v1)|[2411.05746v1](http://arxiv.org/pdf/2411.05746v1)|null|
+|**2024-11-08**|**AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography**|Patrycja Tulewicz et.al.|[2411.05745v1](http://arxiv.org/abs/2411.05745v1)|[2411.05745v1](http://arxiv.org/pdf/2411.05745v1)|null|
 |**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003v1](http://arxiv.org/abs/2411.05003v1)|[2411.05003v1](http://arxiv.org/pdf/2411.05003v1)|null|
 |**2024-11-07**|**Analyzing The Language of Visual Tokens**|David M. Chan et.al.|[2411.05001v1](http://arxiv.org/abs/2411.05001v1)|[2411.05001v1](http://arxiv.org/pdf/2411.05001v1)|null|
 |**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998v1](http://arxiv.org/abs/2411.04998v1)|[2411.04998v1](http://arxiv.org/pdf/2411.04998v1)|null|
