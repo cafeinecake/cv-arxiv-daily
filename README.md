@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-11**|**A novel approach to understanding the link between supermassive black holes and host galaxies**|Gabriel Sasseville et.al.|[2411.07242v1](http://arxiv.org/abs/2411.07242v1)|[2411.07242v1](http://arxiv.org/pdf/2411.07242v1)|null|
+|**2024-11-11**|**The emergence of the Md-Macc correlation in the MHD wind scenario**|Luigi Zallio et.al.|[2411.07227v1](http://arxiv.org/abs/2411.07227v1)|[2411.07227v1](http://arxiv.org/pdf/2411.07227v1)|null|
+|**2024-11-11**|**Astrophysical constraints on nuclear EOSs and coupling constants in RMF models**|Cheng-Jun Xia et.al.|[2411.07170v1](http://arxiv.org/abs/2411.07170v1)|[2411.07170v1](http://arxiv.org/pdf/2411.07170v1)|null|
+|**2024-11-11**|**Gravitational wave propagation beyond General Relativity: geometric optic expansion and lens-induced dispersion**|Nicola Menadeo et.al.|[2411.07164v1](http://arxiv.org/abs/2411.07164v1)|[2411.07164v1](http://arxiv.org/pdf/2411.07164v1)|null|
+|**2024-11-11**|**Search for Extended GeV Sources in the Inner Galactic Plane**|S. Abdollahi et.al.|[2411.07162v1](http://arxiv.org/abs/2411.07162v1)|[2411.07162v1](http://arxiv.org/pdf/2411.07162v1)|null|
+|**2024-11-11**|**Transient Upstream Mesoscale Structures: Drivers of Solar-Quiet Space Weather**|Primož Kajdič et.al.|[2411.07145v1](http://arxiv.org/abs/2411.07145v1)|[2411.07145v1](http://arxiv.org/pdf/2411.07145v1)|null|
+|**2024-11-11**|**Time-dependent metal ionization and the persistence of collisionally excited emission lines in the diffuse ionized gas of star forming galaxies**|Lewis McCallum et.al.|[2411.07108v1](http://arxiv.org/abs/2411.07108v1)|[2411.07108v1](http://arxiv.org/pdf/2411.07108v1)|null|
+|**2024-11-11**|**Revealing hidden structures in the Zone of Avoidance -- a blind MeerKAT HI Survey of the Vela Supercluster**|Sambatriniaina H. A. Rajohnson et.al.|[2411.07084v1](http://arxiv.org/abs/2411.07084v1)|[2411.07084v1](http://arxiv.org/pdf/2411.07084v1)|null|
+|**2024-11-11**|**A model-independent reconstruction of the matter power spectrum**|Gen Ye et.al.|[2411.07082v1](http://arxiv.org/abs/2411.07082v1)|[2411.07082v1](http://arxiv.org/pdf/2411.07082v1)|null|
+|**2024-11-11**|**Machine Learning Approach for Estimating Magnetic Field Strength in Galaxy Clusters from Synchrotron Emission**|Jiyao Zhang et.al.|[2411.07080v1](http://arxiv.org/abs/2411.07080v1)|[2411.07080v1](http://arxiv.org/pdf/2411.07080v1)|null|
 |**2024-11-08**|**Plasma Seismology: Fully Exploiting the Information Contained in Velocity Space of Kinetic Plasmas using the Morrison G Transform**|Frederick Skiff et.al.|[2411.05772v1](http://arxiv.org/abs/2411.05772v1)|[2411.05772v1](http://arxiv.org/pdf/2411.05772v1)|null|
 |**2024-11-08**|**Comparison of global networks of third-generation gravitational-wave detectors**|Michele Maggiore et.al.|[2411.05754v1](http://arxiv.org/abs/2411.05754v1)|[2411.05754v1](http://arxiv.org/pdf/2411.05754v1)|null|
 |**2024-11-08**|**First Identification and Chemical Modeling of New Thiol ($-$SH) Bearing Molecule in the Interstellar Medium: Dithioformic Acid**|Arijit Manna et.al.|[2411.05749v1](http://arxiv.org/abs/2411.05749v1)|[2411.05749v1](http://arxiv.org/pdf/2411.05749v1)|null|
@@ -5907,6 +5917,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240v1](http://arxiv.org/abs/2411.07240v1)|[2411.07240v1](http://arxiv.org/pdf/2411.07240v1)|null|
+|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v1](http://arxiv.org/abs/2411.07232v1)|[2411.07232v1](http://arxiv.org/pdf/2411.07232v1)|null|
+|**2024-11-11**|**Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving**|Botao Yu et.al.|[2411.07228v1](http://arxiv.org/abs/2411.07228v1)|[2411.07228v1](http://arxiv.org/pdf/2411.07228v1)|null|
+|**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223v1](http://arxiv.org/abs/2411.07223v1)|[2411.07223v1](http://arxiv.org/pdf/2411.07223v1)|null|
+|**2024-11-11**|**TreeCoders: Trees of Transformers**|Pierre Colonna D'Istria et.al.|[2411.07218v1](http://arxiv.org/abs/2411.07218v1)|[2411.07218v1](http://arxiv.org/pdf/2411.07218v1)|null|
+|**2024-11-11**|**'Explaining RL Decisions with Trajectories': A Reproducibility Study**|Karim Abdel Sadek et.al.|[2411.07200v1](http://arxiv.org/abs/2411.07200v1)|[2411.07200v1](http://arxiv.org/pdf/2411.07200v1)|**[link](https://github.com/karim-abdel/fact)**|
+|**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199v1](http://arxiv.org/abs/2411.07199v1)|[2411.07199v1](http://arxiv.org/pdf/2411.07199v1)|null|
+|**2024-11-11**|**The Super Weight in Large Language Models**|Mengxia Yu et.al.|[2411.07191v1](http://arxiv.org/abs/2411.07191v1)|[2411.07191v1](http://arxiv.org/pdf/2411.07191v1)|**[link](https://github.com/mengxiayu/llmsuperweight)**|
+|**2024-11-11**|**NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics**|David Robinson et.al.|[2411.07186v1](http://arxiv.org/abs/2411.07186v1)|[2411.07186v1](http://arxiv.org/pdf/2411.07186v1)|null|
+|**2024-11-11**|**Gradual Fine-Tuning with Graph Routing for Multi-Source Unsupervised Domain Adaptation**|Yao Ma et.al.|[2411.07185v1](http://arxiv.org/abs/2411.07185v1)|[2411.07185v1](http://arxiv.org/pdf/2411.07185v1)|null|
 |**2024-11-08**|**ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles**|Kayo Yin et.al.|[2411.05783v1](http://arxiv.org/abs/2411.05783v1)|[2411.05783v1](http://arxiv.org/pdf/2411.05783v1)|null|
 |**2024-11-08**|**Using Language Models to Disambiguate Lexical Choices in Translation**|Josh Barua et.al.|[2411.05781v1](http://arxiv.org/abs/2411.05781v1)|[2411.05781v1](http://arxiv.org/pdf/2411.05781v1)|null|
 |**2024-11-08**|**GazeSearch: Radiology Findings Search Benchmark**|Trong Thang Pham et.al.|[2411.05780v1](http://arxiv.org/abs/2411.05780v1)|[2411.05780v1](http://arxiv.org/pdf/2411.05780v1)|null|
