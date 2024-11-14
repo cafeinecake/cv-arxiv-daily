@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-13**|**A consistency relation for induced gravitational wave anisotropies**|Julián Rey et.al.|[2411.08873v1](http://arxiv.org/abs/2411.08873v1)|[2411.08873v1](http://arxiv.org/pdf/2411.08873v1)|null|
+|**2024-11-13**|**The GRBSN webtool: An open-source repository for gamma-ray burst-supernova associations**|Gabriel Finneran et.al.|[2411.08866v1](http://arxiv.org/abs/2411.08866v1)|[2411.08866v1](http://arxiv.org/pdf/2411.08866v1)|null|
+|**2024-11-13**|**High-temperature $^{205}$Tl decay clarifies $^{205}$Pb dating in early Solar System**|G. Leckenby et.al.|[2411.08856v1](http://arxiv.org/abs/2411.08856v1)|[2411.08856v1](http://arxiv.org/pdf/2411.08856v1)|null|
+|**2024-11-13**|**Stochastic inflation and non-perturbative power spectrum beyond slow roll**|Devanshu Sharma et.al.|[2411.08854v1](http://arxiv.org/abs/2411.08854v1)|[2411.08854v1](http://arxiv.org/pdf/2411.08854v1)|null|
+|**2024-11-13**|**AstroM$^3$: A self-supervised multimodal model for astronomy**|Mariia Rizhko et.al.|[2411.08842v1](http://arxiv.org/abs/2411.08842v1)|[2411.08842v1](http://arxiv.org/pdf/2411.08842v1)|null|
+|**2024-11-13**|**Diverse pathways for supermassive black hole-galaxy coevolution**|Bryan A. Terrazas et.al.|[2411.08838v1](http://arxiv.org/abs/2411.08838v1)|[2411.08838v1](http://arxiv.org/pdf/2411.08838v1)|null|
+|**2024-11-13**|**A massive white dwarf or low-mass neutron star discovered by LAMOST**|Xinlin Zhao et.al.|[2411.08837v1](http://arxiv.org/abs/2411.08837v1)|[2411.08837v1](http://arxiv.org/pdf/2411.08837v1)|null|
+|**2024-11-13**|**Basaltic mini-moon: Characterizing 2024 PT5 with the 10.4 m Gran Telescopio Canarias and the Two-meter Twin Telescope**|R. de la Fuente Marcos et.al.|[2411.08834v1](http://arxiv.org/abs/2411.08834v1)|[2411.08834v1](http://arxiv.org/pdf/2411.08834v1)|null|
+|**2024-11-13**|**ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): Nested Morphological and Kinematic Structures of Outflows Revealed in SiO and CO Emission**|Chun-Fan Liu et.al.|[2411.08827v1](http://arxiv.org/abs/2411.08827v1)|[2411.08827v1](http://arxiv.org/pdf/2411.08827v1)|null|
+|**2024-11-13**|**Effects of Nontrivial Topology on Neutron Star Rotation and its Potential Observational Implications**|Debojoti Kuzur et.al.|[2411.08820v1](http://arxiv.org/abs/2411.08820v1)|[2411.08820v1](http://arxiv.org/pdf/2411.08820v1)|null|
 |**2024-11-12**|**Simulating continuum-based redshift measurement in the \textit{Roman's} High Latitude Spectroscopy Survey**|Zhiyuan Guo et.al.|[2411.08035v1](http://arxiv.org/abs/2411.08035v1)|[2411.08035v1](http://arxiv.org/pdf/2411.08035v1)|null|
 |**2024-11-12**|**$\tildeξ$-attractors in metric-affine gravity**|Antonio Racioppi et.al.|[2411.08031v1](http://arxiv.org/abs/2411.08031v1)|[2411.08031v1](http://arxiv.org/pdf/2411.08031v1)|null|
 |**2024-11-12**|**The discovery and characterization of minimoon 2024 PT$_5$**|Bryce T. Bolin et.al.|[2411.08029v1](http://arxiv.org/abs/2411.08029v1)|[2411.08029v1](http://arxiv.org/pdf/2411.08029v1)|null|
@@ -5927,6 +5937,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|[2411.08879v1](http://arxiv.org/pdf/2411.08879v1)|null|
+|**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878v1](http://arxiv.org/abs/2411.08878v1)|[2411.08878v1](http://arxiv.org/pdf/2411.08878v1)|**[link](https://github.com/google-research/google-research)**|
+|**2024-11-13**|**Causal Explanations for Image Classifiers**|Hana Chockler et.al.|[2411.08875v1](http://arxiv.org/abs/2411.08875v1)|[2411.08875v1](http://arxiv.org/pdf/2411.08875v1)|**[link](https://github.com/rex-xai/rex)**|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870v1](http://arxiv.org/abs/2411.08870v1)|[2411.08870v1](http://arxiv.org/pdf/2411.08870v1)|null|
+|**2024-11-13**|**Interaction Testing in Variation Analysis**|Drago Plecko et.al.|[2411.08861v1](http://arxiv.org/abs/2411.08861v1)|[2411.08861v1](http://arxiv.org/pdf/2411.08861v1)|**[link](https://github.com/dplecko/ia-testing)**|
+|**2024-11-13**|**Data-driven Surface Solar Irradiance Estimation using Neural Operators at Global Scale**|Alberto Carpentieri et.al.|[2411.08843v1](http://arxiv.org/abs/2411.08843v1)|[2411.08843v1](http://arxiv.org/pdf/2411.08843v1)|null|
+|**2024-11-13**|**AstroM$^3$: A self-supervised multimodal model for astronomy**|Mariia Rizhko et.al.|[2411.08842v1](http://arxiv.org/abs/2411.08842v1)|[2411.08842v1](http://arxiv.org/pdf/2411.08842v1)|null|
+|**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832v1](http://arxiv.org/abs/2411.08832v1)|[2411.08832v1](http://arxiv.org/pdf/2411.08832v1)|null|
+|**2024-11-13**|**Process-aware Human Activity Recognition**|Jiawei Zheng et.al.|[2411.08814v1](http://arxiv.org/abs/2411.08814v1)|[2411.08814v1](http://arxiv.org/pdf/2411.08814v1)|null|
+|**2024-11-13**|**Rethinking CyberSecEval: An LLM-Aided Approach to Evaluation Critique**|Suhas Hariharan et.al.|[2411.08813v1](http://arxiv.org/abs/2411.08813v1)|[2411.08813v1](http://arxiv.org/pdf/2411.08813v1)|null|
 |**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v1](http://arxiv.org/abs/2411.08034v1)|[2411.08034v1](http://arxiv.org/pdf/2411.08034v1)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033v1](http://arxiv.org/abs/2411.08033v1)|[2411.08033v1](http://arxiv.org/pdf/2411.08033v1)|null|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028v1](http://arxiv.org/abs/2411.08028v1)|[2411.08028v1](http://arxiv.org/pdf/2411.08028v1)|null|
