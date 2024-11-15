@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-14**|**A study on late time UV-emission in core collapse supernovae and the implications for the peculiar transient AT2018cow**|Anne Inkenhaag et.al.|[2411.09690v1](http://arxiv.org/abs/2411.09690v1)|[2411.09690v1](http://arxiv.org/pdf/2411.09690v1)|null|
+|**2024-11-14**|**X-ray reverberation modelling of the continuum, optical/UV time-lags in quasars**|D. A. Langis et.al.|[2411.09681v1](http://arxiv.org/abs/2411.09681v1)|[2411.09681v1](http://arxiv.org/pdf/2411.09681v1)|null|
+|**2024-11-14**|**FANSIC: a Fast ANalog SiPM Integrated Circuit for the readout of large silicon photomultipliers**|Luca Giangrande et.al.|[2411.09673v1](http://arxiv.org/abs/2411.09673v1)|[2411.09673v1](http://arxiv.org/pdf/2411.09673v1)|null|
+|**2024-11-14**|**The lowest-radiation environments in the Solar System: new opportunities for underground rare-event searches**|Xilin Zhang et.al.|[2411.09634v1](http://arxiv.org/abs/2411.09634v1)|[2411.09634v1](http://arxiv.org/pdf/2411.09634v1)|null|
+|**2024-11-14**|**Effect of viewing angle in Gamma-ray Burst properties**|Sreelakshmi P Chakyar et.al.|[2411.09609v1](http://arxiv.org/abs/2411.09609v1)|[2411.09609v1](http://arxiv.org/pdf/2411.09609v1)|null|
+|**2024-11-14**|**VST-SMASH: the VST Survey of Mass Assembly and Structural Hierarchy**|Crescenzo Tortora et.al.|[2411.09608v1](http://arxiv.org/abs/2411.09608v1)|[2411.09608v1](http://arxiv.org/pdf/2411.09608v1)|null|
+|**2024-11-14**|**Carl Wirtz' article from 1924 in Astronomische Nachrichten on the radial motions of spiral nebulae**|Tom Richtler et.al.|[2411.09606v1](http://arxiv.org/abs/2411.09606v1)|[2411.09606v1](http://arxiv.org/pdf/2411.09606v1)|null|
+|**2024-11-14**|**The Redshift-Space Momentum Power Spectrum III: measuring the growth rate from the SDSSv survey using auto- and cross- power spectrum of the galaxy density and momentum fields**|Fei Qin et.al.|[2411.09571v1](http://arxiv.org/abs/2411.09571v1)|[2411.09571v1](http://arxiv.org/pdf/2411.09571v1)|null|
+|**2024-11-14**|**New orbital periods of high-inclination dwarf novae based on Gaia Alerts photometry**|Catalina Sáez-Carvajal et.al.|[2411.09566v1](http://arxiv.org/abs/2411.09566v1)|[2411.09566v1](http://arxiv.org/pdf/2411.09566v1)|null|
+|**2024-11-14**|**Two-temperature treatments in magnetically arrested disk GRMHD simulations more accurately predict light curves of Sagittarius A***|León Salas et.al.|[2411.09556v1](http://arxiv.org/abs/2411.09556v1)|[2411.09556v1](http://arxiv.org/pdf/2411.09556v1)|null|
 |**2024-11-13**|**A consistency relation for induced gravitational wave anisotropies**|Julián Rey et.al.|[2411.08873v1](http://arxiv.org/abs/2411.08873v1)|[2411.08873v1](http://arxiv.org/pdf/2411.08873v1)|null|
 |**2024-11-13**|**The GRBSN webtool: An open-source repository for gamma-ray burst-supernova associations**|Gabriel Finneran et.al.|[2411.08866v1](http://arxiv.org/abs/2411.08866v1)|[2411.08866v1](http://arxiv.org/pdf/2411.08866v1)|null|
 |**2024-11-13**|**High-temperature $^{205}$Tl decay clarifies $^{205}$Pb dating in early Solar System**|G. Leckenby et.al.|[2411.08856v1](http://arxiv.org/abs/2411.08856v1)|[2411.08856v1](http://arxiv.org/pdf/2411.08856v1)|null|
@@ -5941,6 +5951,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702v1](http://arxiv.org/abs/2411.09702v1)|[2411.09702v1](http://arxiv.org/pdf/2411.09702v1)|null|
+|**2024-11-14**|**A study on late time UV-emission in core collapse supernovae and the implications for the peculiar transient AT2018cow**|Anne Inkenhaag et.al.|[2411.09690v1](http://arxiv.org/abs/2411.09690v1)|[2411.09690v1](http://arxiv.org/pdf/2411.09690v1)|null|
+|**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|[2411.09689v1](http://arxiv.org/pdf/2411.09689v1)|null|
+|**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683v1](http://arxiv.org/abs/2411.09683v1)|[2411.09683v1](http://arxiv.org/pdf/2411.09683v1)|null|
+|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678v1](http://arxiv.org/abs/2411.09678v1)|[2411.09678v1](http://arxiv.org/pdf/2411.09678v1)|null|
+|**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648v1](http://arxiv.org/abs/2411.09648v1)|[2411.09648v1](http://arxiv.org/pdf/2411.09648v1)|null|
+|**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645v1](http://arxiv.org/abs/2411.09645v1)|[2411.09645v1](http://arxiv.org/pdf/2411.09645v1)|null|
+|**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642v1](http://arxiv.org/abs/2411.09642v1)|[2411.09642v1](http://arxiv.org/pdf/2411.09642v1)|null|
+|**2024-11-14**|**One-Shot Manipulation Strategy Learning by Making Contact Analogies**|Yuyao Liu et.al.|[2411.09627v1](http://arxiv.org/abs/2411.09627v1)|[2411.09627v1](http://arxiv.org/pdf/2411.09627v1)|null|
+|**2024-11-14**|**Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups**|F. Adetunji et.al.|[2411.09623v1](http://arxiv.org/abs/2411.09623v1)|[2411.09623v1](http://arxiv.org/pdf/2411.09623v1)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|[2411.08879v1](http://arxiv.org/pdf/2411.08879v1)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878v1](http://arxiv.org/abs/2411.08878v1)|[2411.08878v1](http://arxiv.org/pdf/2411.08878v1)|**[link](https://github.com/google-research/google-research)**|
 |**2024-11-13**|**Causal Explanations for Image Classifiers**|Hana Chockler et.al.|[2411.08875v1](http://arxiv.org/abs/2411.08875v1)|[2411.08875v1](http://arxiv.org/pdf/2411.08875v1)|**[link](https://github.com/rex-xai/rex)**|
