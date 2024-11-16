@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 
 ## Astrophysics
 
@@ -5955,7 +5955,7 @@ layout: default
 |**2024-11-14**|**A study on late time UV-emission in core collapse supernovae and the implications for the peculiar transient AT2018cow**|Anne Inkenhaag et.al.|[2411.09690v1](http://arxiv.org/abs/2411.09690v1)|[2411.09690v1](http://arxiv.org/pdf/2411.09690v1)|null|
 |**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|[2411.09689v1](http://arxiv.org/pdf/2411.09689v1)|null|
 |**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683v1](http://arxiv.org/abs/2411.09683v1)|[2411.09683v1](http://arxiv.org/pdf/2411.09683v1)|null|
-|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678v1](http://arxiv.org/abs/2411.09678v1)|[2411.09678v1](http://arxiv.org/pdf/2411.09678v1)|null|
+|**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678v1](http://arxiv.org/abs/2411.09678v1)|[2411.09678v1](http://arxiv.org/pdf/2411.09678v1)|null|
 |**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648v1](http://arxiv.org/abs/2411.09648v1)|[2411.09648v1](http://arxiv.org/pdf/2411.09648v1)|null|
 |**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645v1](http://arxiv.org/abs/2411.09645v1)|[2411.09645v1](http://arxiv.org/pdf/2411.09645v1)|null|
 |**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642v1](http://arxiv.org/abs/2411.09642v1)|[2411.09642v1](http://arxiv.org/pdf/2411.09642v1)|null|
