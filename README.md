@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-15**|**BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High Throughput Millimeter Wave Telescopes**|BICEP/Keck Collaboration et.al.|[2411.10428v1](http://arxiv.org/abs/2411.10428v1)|[2411.10428v1](http://arxiv.org/pdf/2411.10428v1)|null|
+|**2024-11-15**|**SN 2023adsy -- a normal Type Ia Supernova at z=2.9, discovered by JWST**|Jozsef Vinko et.al.|[2411.10427v1](http://arxiv.org/abs/2411.10427v1)|[2411.10427v1](http://arxiv.org/pdf/2411.10427v1)|null|
+|**2024-11-15**|**Experimental generation of extreme electron beams for advanced accelerator applications**|Claudio Emma et.al.|[2411.10413v1](http://arxiv.org/abs/2411.10413v1)|[2411.10413v1](http://arxiv.org/pdf/2411.10413v1)|null|
+|**2024-11-15**|**Design of Dedicated Tilt-to-Length Calibration Maneuvers for LISA**|Henry Wegener et.al.|[2411.10409v1](http://arxiv.org/abs/2411.10409v1)|[2411.10409v1](http://arxiv.org/pdf/2411.10409v1)|null|
+|**2024-11-15**|**A Small Brown Dwarf in an Aligned Orbit around a Young, Fully-Convective M Star**|M. Brady et.al.|[2411.10402v1](http://arxiv.org/abs/2411.10402v1)|[2411.10402v1](http://arxiv.org/pdf/2411.10402v1)|null|
+|**2024-11-15**|**Boxy/peanut shaping of a mature galactic bar in action-angle space**|Viktor D. Zozulia et.al.|[2411.10391v1](http://arxiv.org/abs/2411.10391v1)|[2411.10391v1](http://arxiv.org/pdf/2411.10391v1)|null|
+|**2024-11-15**|**Forecast of solar activity based on mean-field dynamo model and neural network**|Nathan Kleeorin et.al.|[2411.10380v1](http://arxiv.org/abs/2411.10380v1)|[2411.10380v1](http://arxiv.org/pdf/2411.10380v1)|null|
+|**2024-11-15**|**The Effect of Galaxy Interactions on Starbursts in Milky Way-Mass Galaxies in FIRE Simulations**|Fei Li et.al.|[2411.10373v1](http://arxiv.org/abs/2411.10373v1)|[2411.10373v1](http://arxiv.org/pdf/2411.10373v1)|null|
+|**2024-11-15**|**Compressible turbulent convection at very high Rayleigh numbers**|Harshit Tiwari et.al.|[2411.10372v1](http://arxiv.org/abs/2411.10372v1)|[2411.10372v1](http://arxiv.org/pdf/2411.10372v1)|null|
+|**2024-11-15**|**Numerical gravitational backreaction on cosmic string loops from simulation**|Jeremy M. Wachter et.al.|[2411.10366v1](http://arxiv.org/abs/2411.10366v1)|[2411.10366v1](http://arxiv.org/pdf/2411.10366v1)|null|
 |**2024-11-14**|**A study on late time UV-emission in core collapse supernovae and the implications for the peculiar transient AT2018cow**|Anne Inkenhaag et.al.|[2411.09690v1](http://arxiv.org/abs/2411.09690v1)|[2411.09690v1](http://arxiv.org/pdf/2411.09690v1)|null|
 |**2024-11-14**|**X-ray reverberation modelling of the continuum, optical/UV time-lags in quasars**|D. A. Langis et.al.|[2411.09681v1](http://arxiv.org/abs/2411.09681v1)|[2411.09681v1](http://arxiv.org/pdf/2411.09681v1)|null|
 |**2024-11-14**|**FANSIC: a Fast ANalog SiPM Integrated Circuit for the readout of large silicon photomultipliers**|Luca Giangrande et.al.|[2411.09673v1](http://arxiv.org/abs/2411.09673v1)|[2411.09673v1](http://arxiv.org/pdf/2411.09673v1)|null|
@@ -5947,6 +5957,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446v1](http://arxiv.org/abs/2411.10446v1)|[2411.10446v1](http://arxiv.org/pdf/2411.10446v1)|null|
+|**2024-11-15**|**Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization**|Yuhan Fu et.al.|[2411.10436v1](http://arxiv.org/abs/2411.10436v1)|[2411.10436v1](http://arxiv.org/pdf/2411.10436v1)|null|
+|**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431v1](http://arxiv.org/abs/2411.10431v1)|[2411.10431v1](http://arxiv.org/pdf/2411.10431v1)|null|
+|**2024-11-15**|**Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash**|Parsa Hejabi et.al.|[2411.10422v1](http://arxiv.org/abs/2411.10422v1)|[2411.10422v1](http://arxiv.org/pdf/2411.10422v1)|**[link](https://github.com/parsahejabi/simulation-framework-for-multi-agent-balderdash)**|
+|**2024-11-15**|**Towards Automatic Evaluation of Task-Oriented Dialogue Flows**|Mehrnoosh Mirtaheri et.al.|[2411.10416v1](http://arxiv.org/abs/2411.10416v1)|[2411.10416v1](http://arxiv.org/pdf/2411.10416v1)|null|
+|**2024-11-15**|**Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**|Markus Karmann et.al.|[2411.10411v1](http://arxiv.org/abs/2411.10411v1)|[2411.10411v1](http://arxiv.org/pdf/2411.10411v1)|null|
+|**2024-11-15**|**Features that Make a Difference: Leveraging Gradients for Improved Dictionary Learning**|Jeffrey Olmo et.al.|[2411.10397v1](http://arxiv.org/abs/2411.10397v1)|[2411.10397v1](http://arxiv.org/pdf/2411.10397v1)|null|
+|**2024-11-15**|**Deep Learning for Micro-Scale Crack Detection on Imbalanced Datasets Using Key Point Localization**|Fatahlla Moreh et.al.|[2411.10389v1](http://arxiv.org/abs/2411.10389v1)|[2411.10389v1](http://arxiv.org/pdf/2411.10389v1)|null|
+|**2024-11-15**|**Low-Latency Task-Oriented Communications with Multi-Round, Multi-Task Deep Learning**|Yalin E. Sagduyu et.al.|[2411.10385v1](http://arxiv.org/abs/2411.10385v1)|[2411.10385v1](http://arxiv.org/pdf/2411.10385v1)|null|
+|**2024-11-15**|**Forecast of solar activity based on mean-field dynamo model and neural network**|Nathan Kleeorin et.al.|[2411.10380v1](http://arxiv.org/abs/2411.10380v1)|[2411.10380v1](http://arxiv.org/pdf/2411.10380v1)|null|
 |**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702v1](http://arxiv.org/abs/2411.09702v1)|[2411.09702v1](http://arxiv.org/pdf/2411.09702v1)|null|
 |**2024-11-14**|**A study on late time UV-emission in core collapse supernovae and the implications for the peculiar transient AT2018cow**|Anne Inkenhaag et.al.|[2411.09690v1](http://arxiv.org/abs/2411.09690v1)|[2411.09690v1](http://arxiv.org/pdf/2411.09690v1)|null|
 |**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|[2411.09689v1](http://arxiv.org/pdf/2411.09689v1)|null|
