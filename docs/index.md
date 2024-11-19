@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-18**|**Mass Transfer in Eccentric Orbits with Self-consistent Stellar Evolution**|Kyle Akira Rocha et.al.|[2411.11840v1](http://arxiv.org/abs/2411.11840v1)|[2411.11840v1](http://arxiv.org/pdf/2411.11840v1)|null|
+|**2024-11-18**|**The JWST EXCELS survey: tracing the chemical enrichment pathways of high-redshift star-forming galaxies with O, Ar and Ne abundances**|T. M. Stanton et.al.|[2411.11837v1](http://arxiv.org/abs/2411.11837v1)|[2411.11837v1](http://arxiv.org/pdf/2411.11837v1)|null|
+|**2024-11-18**|**Effects of Metallicity on Graphite, TiC, and SiC Condensation in Carbon Stars**|Gabrielle Adams et.al.|[2411.11832v1](http://arxiv.org/abs/2411.11832v1)|[2411.11832v1](http://arxiv.org/pdf/2411.11832v1)|null|
+|**2024-11-18**|**Let there be neutrons! Hadronic photoproduction from a large flux of high-energy photons**|Matthew R. Mumpower et.al.|[2411.11831v1](http://arxiv.org/abs/2411.11831v1)|[2411.11831v1](http://arxiv.org/pdf/2411.11831v1)|null|
+|**2024-11-18**|**Investigating the galaxy-halo connection of DESI Emission-Line Galaxies with SHAMe-SF**|Sara Ortega-Martinez et.al.|[2411.11830v1](http://arxiv.org/abs/2411.11830v1)|[2411.11830v1](http://arxiv.org/pdf/2411.11830v1)|null|
+|**2024-11-18**|**A Time-Dependent Spectral Analysis of $γ$ Cassiopeiae**|Sean J. Gunderson et.al.|[2411.11825v1](http://arxiv.org/abs/2411.11825v1)|[2411.11825v1](http://arxiv.org/pdf/2411.11825v1)|null|
+|**2024-11-18**|**Leveraging Global IoT Networks for a Distributed Radio Telescope: Calibration Methods and Performance Analysis**|Junming Diao et.al.|[2411.11818v1](http://arxiv.org/abs/2411.11818v1)|[2411.11818v1](http://arxiv.org/pdf/2411.11818v1)|null|
+|**2024-11-18**|**Shadow Images of Ghosh-Kumar Rotating Black Hole Illuminated By Spherical Light Sources and Thin Accretion Disks**|Chen-Yu Yang et.al.|[2411.11807v1](http://arxiv.org/abs/2411.11807v1)|[2411.11807v1](http://arxiv.org/pdf/2411.11807v1)|null|
+|**2024-11-18**|**Synthesis and Spectroscopic Characterization of Interstellar Candidate Ethynyl Thiocyanate: HCCSCN**|Elena R. Alonso et.al.|[2411.11802v1](http://arxiv.org/abs/2411.11802v1)|[2411.11802v1](http://arxiv.org/pdf/2411.11802v1)|null|
+|**2024-11-18**|**AQUILA: A Laboratory Facility for the Irradiation of Astrochemical Ice Analogues by keV Ions**|R. Rácz et.al.|[2411.11765v1](http://arxiv.org/abs/2411.11765v1)|[2411.11765v1](http://arxiv.org/pdf/2411.11765v1)|null|
 |**2024-11-15**|**BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High Throughput Millimeter Wave Telescopes**|BICEP/Keck Collaboration et.al.|[2411.10428v1](http://arxiv.org/abs/2411.10428v1)|[2411.10428v1](http://arxiv.org/pdf/2411.10428v1)|null|
 |**2024-11-15**|**SN 2023adsy -- a normal Type Ia Supernova at z=2.9, discovered by JWST**|Jozsef Vinko et.al.|[2411.10427v1](http://arxiv.org/abs/2411.10427v1)|[2411.10427v1](http://arxiv.org/pdf/2411.10427v1)|null|
 |**2024-11-15**|**Experimental generation of extreme electron beams for advanced accelerator applications**|Claudio Emma et.al.|[2411.10413v1](http://arxiv.org/abs/2411.10413v1)|[2411.10413v1](http://arxiv.org/pdf/2411.10413v1)|null|
@@ -5961,6 +5971,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843v1](http://arxiv.org/abs/2411.11843v1)|[2411.11843v1](http://arxiv.org/pdf/2411.11843v1)|null|
+|**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826v1](http://arxiv.org/abs/2411.11826v1)|[2411.11826v1](http://arxiv.org/pdf/2411.11826v1)|null|
+|**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799v1](http://arxiv.org/abs/2411.11799v1)|[2411.11799v1](http://arxiv.org/pdf/2411.11799v1)|**[link](https://github.com/simonzhou86/en_dran)**|
+|**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795v1](http://arxiv.org/abs/2411.11795v1)|[2411.11795v1](http://arxiv.org/pdf/2411.11795v1)|null|
+|**2024-11-18**|**Parallelly Tempered Generative Adversarial Networks**|Jinwon Sohn et.al.|[2411.11786v1](http://arxiv.org/abs/2411.11786v1)|[2411.11786v1](http://arxiv.org/pdf/2411.11786v1)|null|
+|**2024-11-18**|**Exploring the Requirements of Clinicians for Explainable AI Decision Support Systems in Intensive Care**|Jeffrey N. Clark et.al.|[2411.11774v1](http://arxiv.org/abs/2411.11774v1)|[2411.11774v1](http://arxiv.org/pdf/2411.11774v1)|null|
+|**2024-11-18**|**CNMBert: A Model For Hanyu Pinyin Abbreviation to Character Conversion Task**|Zishuo Feng et.al.|[2411.11770v1](http://arxiv.org/abs/2411.11770v1)|[2411.11770v1](http://arxiv.org/pdf/2411.11770v1)|null|
+|**2024-11-18**|**AdaptLIL: A Gaze-Adaptive Visualization for Ontology Mapping**|Nicholas Chow et.al.|[2411.11768v1](http://arxiv.org/abs/2411.11768v1)|[2411.11768v1](http://arxiv.org/pdf/2411.11768v1)|null|
+|**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758v1](http://arxiv.org/abs/2411.11758v1)|[2411.11758v1](http://arxiv.org/pdf/2411.11758v1)|null|
+|**2024-11-18**|**QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou**|Xinchen Luo et.al.|[2411.11739v1](http://arxiv.org/abs/2411.11739v1)|[2411.11739v1](http://arxiv.org/pdf/2411.11739v1)|null|
 |**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446v1](http://arxiv.org/abs/2411.10446v1)|[2411.10446v1](http://arxiv.org/pdf/2411.10446v1)|null|
 |**2024-11-15**|**Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization**|Yuhan Fu et.al.|[2411.10436v1](http://arxiv.org/abs/2411.10436v1)|[2411.10436v1](http://arxiv.org/pdf/2411.10436v1)|null|
 |**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431v1](http://arxiv.org/abs/2411.10431v1)|[2411.10431v1](http://arxiv.org/pdf/2411.10431v1)|null|
