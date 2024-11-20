@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-19**|**RR Lyrae Stars in Intermediate-age Magellanic Clusters: Membership Probabilities and Delay Time Distribution**|Bolivia Cuevas-Otahola et.al.|[2411.12741v1](http://arxiv.org/abs/2411.12741v1)|[2411.12741v1](http://arxiv.org/pdf/2411.12741v1)|null|
+|**2024-11-19**|**Homogeneous planet masses I: Reanalysis of archival HARPS radial velocities**|H. L. M. Osborne et.al.|[2411.12723v1](http://arxiv.org/abs/2411.12723v1)|[2411.12723v1](http://arxiv.org/pdf/2411.12723v1)|null|
+|**2024-11-19**|**Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment**|Akriti Singh et.al.|[2411.12722v1](http://arxiv.org/abs/2411.12722v1)|[2411.12722v1](http://arxiv.org/pdf/2411.12722v1)|null|
+|**2024-11-19**|**Starspots as an Explanation for the Mysterious IYJ Continuum Excess Emission in Classical T Tauri Stars**|Facundo Pérez Paolino et.al.|[2411.12716v1](http://arxiv.org/abs/2411.12716v1)|[2411.12716v1](http://arxiv.org/pdf/2411.12716v1)|null|
+|**2024-11-19**|**The pale blue dot: using the Planetary Spectrum Generator to simulate signals from hyper realistic exo-Earths**|Vincent Kofman et.al.|[2411.12708v1](http://arxiv.org/abs/2411.12708v1)|[2411.12708v1](http://arxiv.org/pdf/2411.12708v1)|null|
+|**2024-11-19**|**A coronal mass ejection encountered by four spacecraft within 1 au from the Sun: Ensemble modelling of propagation and magnetic structure**|Erika Palmerio et.al.|[2411.12706v1](http://arxiv.org/abs/2411.12706v1)|[2411.12706v1](http://arxiv.org/pdf/2411.12706v1)|null|
+|**2024-11-19**|**High-Efficiency and Low-Noise Detectors for the Upgraded CLASS 90 GHz Focal Plane**|Carolina Núñez et.al.|[2411.12705v1](http://arxiv.org/abs/2411.12705v1)|[2411.12705v1](http://arxiv.org/pdf/2411.12705v1)|null|
+|**2024-11-19**|**131 and 304 Å Emission Variability Increases Hours Prior to Solar Flare Onset**|Kara L. Kniezewski et.al.|[2411.12704v1](http://arxiv.org/abs/2411.12704v1)|[2411.12704v1](http://arxiv.org/pdf/2411.12704v1)|null|
+|**2024-11-19**|**Large non-Gaussianities corresponding to first-order phase transitions during inflation**|Haipeng An et.al.|[2411.12699v1](http://arxiv.org/abs/2411.12699v1)|[2411.12699v1](http://arxiv.org/pdf/2411.12699v1)|null|
+|**2024-11-19**|**Peculiar Dust Emission within the Orion Molecular Cloud**|Parisa Nozari et.al.|[2411.12693v1](http://arxiv.org/abs/2411.12693v1)|[2411.12693v1](http://arxiv.org/pdf/2411.12693v1)|null|
 |**2024-11-18**|**Mass Transfer in Eccentric Orbits with Self-consistent Stellar Evolution**|Kyle Akira Rocha et.al.|[2411.11840v1](http://arxiv.org/abs/2411.11840v1)|[2411.11840v1](http://arxiv.org/pdf/2411.11840v1)|null|
 |**2024-11-18**|**The JWST EXCELS survey: tracing the chemical enrichment pathways of high-redshift star-forming galaxies with O, Ar and Ne abundances**|T. M. Stanton et.al.|[2411.11837v1](http://arxiv.org/abs/2411.11837v1)|[2411.11837v1](http://arxiv.org/pdf/2411.11837v1)|null|
 |**2024-11-18**|**Effects of Metallicity on Graphite, TiC, and SiC Condensation in Carbon Stars**|Gabrielle Adams et.al.|[2411.11832v1](http://arxiv.org/abs/2411.11832v1)|[2411.11832v1](http://arxiv.org/pdf/2411.11832v1)|null|
@@ -5967,6 +5977,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736v1](http://arxiv.org/abs/2411.12736v1)|[2411.12736v1](http://arxiv.org/pdf/2411.12736v1)|null|
+|**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732v1](http://arxiv.org/abs/2411.12732v1)|[2411.12732v1](http://arxiv.org/pdf/2411.12732v1)|null|
+|**2024-11-19**|**Heuristic-Free Multi-Teacher Learning**|Huy Thong Nguyen et.al.|[2411.12724v1](http://arxiv.org/abs/2411.12724v1)|[2411.12724v1](http://arxiv.org/pdf/2411.12724v1)|null|
+|**2024-11-19**|**An AI-Enabled Side Channel Power Analysis Based Hardware Trojan Detection Method for Securing the Integrated Circuits in Cyber-Physical Systems**|Sefatun-Noor Puspa et.al.|[2411.12721v1](http://arxiv.org/abs/2411.12721v1)|[2411.12721v1](http://arxiv.org/pdf/2411.12721v1)|null|
+|**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713v1](http://arxiv.org/abs/2411.12713v1)|[2411.12713v1](http://arxiv.org/pdf/2411.12713v1)|null|
+|**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712v1](http://arxiv.org/abs/2411.12712v1)|[2411.12712v1](http://arxiv.org/pdf/2411.12712v1)|null|
+|**2024-11-19**|**When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations**|Huaizhi Ge et.al.|[2411.12701v1](http://arxiv.org/abs/2411.12701v1)|[2411.12701v1](http://arxiv.org/pdf/2411.12701v1)|null|
+|**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697v1](http://arxiv.org/abs/2411.12697v1)|[2411.12697v1](http://arxiv.org/pdf/2411.12697v1)|null|
+|**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685v1](http://arxiv.org/abs/2411.12685v1)|[2411.12685v1](http://arxiv.org/pdf/2411.12685v1)|null|
+|**2024-11-19**|**AdaCM$^2$: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593v1](http://arxiv.org/abs/2411.12593v1)|[2411.12593v1](http://arxiv.org/pdf/2411.12593v1)|null|
 |**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843v1](http://arxiv.org/abs/2411.11843v1)|[2411.11843v1](http://arxiv.org/pdf/2411.11843v1)|null|
 |**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826v1](http://arxiv.org/abs/2411.11826v1)|[2411.11826v1](http://arxiv.org/pdf/2411.11826v1)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799v1](http://arxiv.org/abs/2411.11799v1)|[2411.11799v1](http://arxiv.org/pdf/2411.11799v1)|**[link](https://github.com/simonzhou86/en_dran)**|
