@@ -1,4 +1,4 @@
-> Updated on 2024.11.20
+> Updated on 2024.11.21
 
 ## Astrophysics
 
@@ -5973,8 +5973,8 @@
 
 ## AI
 
-- 2024-11-19, **ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**, Salma Kharrat et.al., Paper: [http://arxiv.org/abs/2411.12736v1](http://arxiv.org/abs/2411.12736v1), Paper: [http://arxiv.org/abs/2411.12736v1](http://arxiv.org/pdf/2411.12736v1)
-- 2024-11-19, **Benchmarking Positional Encodings for GNNs and Graph Transformers**, Florian Grötschla et.al., Paper: [http://arxiv.org/abs/2411.12732v1](http://arxiv.org/abs/2411.12732v1), Paper: [http://arxiv.org/abs/2411.12732v1](http://arxiv.org/pdf/2411.12732v1)
+- 2024-11-19, **ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**, Salma Kharrat et.al., Paper: [http://arxiv.org/abs/2411.12736v1](http://arxiv.org/abs/2411.12736v1),Paper: [http://arxiv.org/abs/2411.12736v1](http://arxiv.org/pdf/2411.12736v1), Code: **[https://github.com/salmakh1/ACING](https://github.com/salmakh1/ACING)**
+- 2024-11-19, **Benchmarking Positional Encodings for GNNs and Graph Transformers**, Florian Grötschla et.al., Paper: [http://arxiv.org/abs/2411.12732v1](http://arxiv.org/abs/2411.12732v1),Paper: [http://arxiv.org/abs/2411.12732v1](http://arxiv.org/pdf/2411.12732v1), Code: **[https://github.com/ETH-DISCO/Benchmarking-PEs](https://github.com/ETH-DISCO/Benchmarking-PEs)**
 - 2024-11-19, **Heuristic-Free Multi-Teacher Learning**, Huy Thong Nguyen et.al., Paper: [http://arxiv.org/abs/2411.12724v1](http://arxiv.org/abs/2411.12724v1), Paper: [http://arxiv.org/abs/2411.12724v1](http://arxiv.org/pdf/2411.12724v1)
 - 2024-11-19, **An AI-Enabled Side Channel Power Analysis Based Hardware Trojan Detection Method for Securing the Integrated Circuits in Cyber-Physical Systems**, Sefatun-Noor Puspa et.al., Paper: [http://arxiv.org/abs/2411.12721v1](http://arxiv.org/abs/2411.12721v1), Paper: [http://arxiv.org/abs/2411.12721v1](http://arxiv.org/pdf/2411.12721v1)
 - 2024-11-19, **CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**, Zhehan Kan et.al., Paper: [http://arxiv.org/abs/2411.12713v1](http://arxiv.org/abs/2411.12713v1), Paper: [http://arxiv.org/abs/2411.12713v1](http://arxiv.org/pdf/2411.12713v1)
