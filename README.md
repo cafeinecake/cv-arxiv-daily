@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-20**|**A Survey of H I and O VI Absorption Lines in the Outskirts of $z\lesssim0.3$ Galaxy Clusters**|Priscilla Holguin Luna et.al.|[2411.13551v1](http://arxiv.org/abs/2411.13551v1)|[2411.13551v1](http://arxiv.org/pdf/2411.13551v1)|null|
+|**2024-11-20**|**FAST H I 21 cm study of blueberry galaxies**|Yogesh Chandola et.al.|[2411.13527v1](http://arxiv.org/abs/2411.13527v1)|[2411.13527v1](http://arxiv.org/pdf/2411.13527v1)|null|
+|**2024-11-20**|**Effective Actions for Domain Wall Dynamics**|Jose J. Blanco-Pillado et.al.|[2411.13521v1](http://arxiv.org/abs/2411.13521v1)|[2411.13521v1](http://arxiv.org/pdf/2411.13521v1)|null|
+|**2024-11-20**|**Comet 289P/Blanpain: Near-Perihelion Activity and the Phoenicids**|Toshihiro Kasuga et.al.|[2411.13501v1](http://arxiv.org/abs/2411.13501v1)|[2411.13501v1](http://arxiv.org/pdf/2411.13501v1)|null|
+|**2024-11-20**|**On the nature of LOFAR RMs and new constraints on magnetic fields in cosmic filaments and on magnetogenesis scenarios**|E. Carretti et.al.|[2411.13499v1](http://arxiv.org/abs/2411.13499v1)|[2411.13499v1](http://arxiv.org/pdf/2411.13499v1)|null|
+|**2024-11-20**|**Accreting Binary Eccentricities follow Predicted Equilibrium Values**|Allen R Murray et.al.|[2411.13489v1](http://arxiv.org/abs/2411.13489v1)|[2411.13489v1](http://arxiv.org/pdf/2411.13489v1)|null|
+|**2024-11-20**|**The Impact of Galaxy-halo Size Relations on Galaxy Clustering Signals**|Joshua B. Hill et.al.|[2411.13484v1](http://arxiv.org/abs/2411.13484v1)|[2411.13484v1](http://arxiv.org/pdf/2411.13484v1)|null|
+|**2024-11-20**|**Outgoing electromagnetic flux from rotating wormholes**|Milos Ertola Urtubey et.al.|[2411.13474v1](http://arxiv.org/abs/2411.13474v1)|[2411.13474v1](http://arxiv.org/pdf/2411.13474v1)|null|
+|**2024-11-20**|**The NANOGrav 15 yr Data Set: Harmonic Analysis of the Pulsar Angular Correlations**|Gabriella Agazie et.al.|[2411.13472v1](http://arxiv.org/abs/2411.13472v1)|[2411.13472v1](http://arxiv.org/pdf/2411.13472v1)|null|
+|**2024-11-20**|**Eppur si muove: Evidence of disc precession or a sub-milliparsec SMBH binary in the QPE-emitting galaxy GSN 069**|Giovanni Miniutti et.al.|[2411.13460v1](http://arxiv.org/abs/2411.13460v1)|[2411.13460v1](http://arxiv.org/pdf/2411.13460v1)|null|
 |**2024-11-19**|**RR Lyrae Stars in Intermediate-age Magellanic Clusters: Membership Probabilities and Delay Time Distribution**|Bolivia Cuevas-Otahola et.al.|[2411.12741v1](http://arxiv.org/abs/2411.12741v1)|[2411.12741v1](http://arxiv.org/pdf/2411.12741v1)|null|
 |**2024-11-19**|**Homogeneous planet masses I: Reanalysis of archival HARPS radial velocities**|H. L. M. Osborne et.al.|[2411.12723v1](http://arxiv.org/abs/2411.12723v1)|[2411.12723v1](http://arxiv.org/pdf/2411.12723v1)|null|
 |**2024-11-19**|**Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment**|Akriti Singh et.al.|[2411.12722v1](http://arxiv.org/abs/2411.12722v1)|[2411.12722v1](http://arxiv.org/pdf/2411.12722v1)|null|
@@ -5977,6 +5987,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547v1](http://arxiv.org/abs/2411.13547v1)|[2411.13547v1](http://arxiv.org/pdf/2411.13547v1)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543v1](http://arxiv.org/abs/2411.13543v1)|[2411.13543v1](http://arxiv.org/pdf/2411.13543v1)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537v1](http://arxiv.org/abs/2411.13537v1)|[2411.13537v1](http://arxiv.org/pdf/2411.13537v1)|null|
+|**2024-11-20**|**Identity Preserving 3D Head Stylization with Multiview Score Distillation**|Bahri Batuhan Bilecen et.al.|[2411.13536v1](http://arxiv.org/abs/2411.13536v1)|[2411.13536v1](http://arxiv.org/pdf/2411.13536v1)|null|
+|**2024-11-20**|**Comparative Analysis of Machine Learning and Deep Learning Models for Classifying Squamous Epithelial Cells of the Cervix**|Subhasish Das et.al.|[2411.13535v1](http://arxiv.org/abs/2411.13535v1)|[2411.13535v1](http://arxiv.org/pdf/2411.13535v1)|null|
+|**2024-11-20**|**Entropy Bootstrapping for Weakly Supervised Nuclei Detection**|James Willoughby et.al.|[2411.13528v1](http://arxiv.org/abs/2411.13528v1)|[2411.13528v1](http://arxiv.org/pdf/2411.13528v1)|null|
+|**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518v1](http://arxiv.org/abs/2411.13518v1)|[2411.13518v1](http://arxiv.org/pdf/2411.13518v1)|null|
+|**2024-11-20**|**Neural machine translation of seismic waves for petrophysical inversion**|José Cunha Teixeira et.al.|[2411.13491v1](http://arxiv.org/abs/2411.13491v1)|[2411.13491v1](http://arxiv.org/pdf/2411.13491v1)|null|
+|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485v1](http://arxiv.org/abs/2411.13485v1)|[2411.13485v1](http://arxiv.org/pdf/2411.13485v1)|null|
+|**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477v1](http://arxiv.org/abs/2411.13477v1)|[2411.13477v1](http://arxiv.org/pdf/2411.13477v1)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736v1](http://arxiv.org/abs/2411.12736v1)|[2411.12736v1](http://arxiv.org/pdf/2411.12736v1)|**[link](https://github.com/salmakh1/ACING)**|
 |**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732v1](http://arxiv.org/abs/2411.12732v1)|[2411.12732v1](http://arxiv.org/pdf/2411.12732v1)|**[link](https://github.com/ETH-DISCO/Benchmarking-PEs)**|
 |**2024-11-19**|**Heuristic-Free Multi-Teacher Learning**|Huy Thong Nguyen et.al.|[2411.12724v1](http://arxiv.org/abs/2411.12724v1)|[2411.12724v1](http://arxiv.org/pdf/2411.12724v1)|null|
