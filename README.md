@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-21**|**Combining summary statistics with simulation-based inference for the 21 cm signal from the Epoch of Reionization**|Benoit Semelin et.al.|[2411.14419v1](http://arxiv.org/abs/2411.14419v1)|[2411.14419v1](http://arxiv.org/pdf/2411.14419v1)|null|
+|**2024-11-21**|**DiscoTEX 1.0: Discontinuous collocation and implicit-turned-explicit (IMTEX) integration symplectic, symmetric numerical algorithms with high order jumps for differential equations II: extension to higher-orders of numerical convergence**|Lidia J. Gomes Da Silva et.al.|[2411.14399v1](http://arxiv.org/abs/2411.14399v1)|[2411.14399v1](http://arxiv.org/pdf/2411.14399v1)|null|
+|**2024-11-21**|**Cooling of neutron stars in soft X-ray transients with realistic crust composition**|A. Y. Potekhin et.al.|[2411.14395v1](http://arxiv.org/abs/2411.14395v1)|[2411.14395v1](http://arxiv.org/pdf/2411.14395v1)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392v1](http://arxiv.org/abs/2411.14392v1)|[2411.14392v1](http://arxiv.org/pdf/2411.14392v1)|null|
+|**2024-11-21**|**Not Just a Dot: the complex UV morphology and underlying properties of Little Red Dots**|P. Rinaldi et.al.|[2411.14383v1](http://arxiv.org/abs/2411.14383v1)|[2411.14383v1](http://arxiv.org/pdf/2411.14383v1)|null|
+|**2024-11-21**|**Modified gravity from Weyl connection and the $f(R,\cal{A})$ extension**|Gerasimos Kouniatalis et.al.|[2411.14380v1](http://arxiv.org/abs/2411.14380v1)|[2411.14380v1](http://arxiv.org/pdf/2411.14380v1)|null|
+|**2024-11-21**|**The constraining power of the Marked Power Spectrum: an analytical study**|Marco Marinucci et.al.|[2411.14377v1](http://arxiv.org/abs/2411.14377v1)|[2411.14377v1](http://arxiv.org/pdf/2411.14377v1)|null|
+|**2024-11-21**|**On the Morphology of Relativistically Broadened Line Emission from Axisymmetric Equatorial Accretion Disks**|Delilah E. A. Gates et.al.|[2411.14338v1](http://arxiv.org/abs/2411.14338v1)|[2411.14338v1](http://arxiv.org/pdf/2411.14338v1)|null|
+|**2024-11-21**|**The MUSE Extremely Deep Field: Classifying the Spectral Shapes of Lya Emitting Galaxies**|E. Vitte et.al.|[2411.14327v1](http://arxiv.org/abs/2411.14327v1)|[2411.14327v1](http://arxiv.org/pdf/2411.14327v1)|null|
+|**2024-11-21**|**Bird's-eye View of Molecular Gas across Stephan's Quintet Galaxy Group and Intra-group Medium**|B. H. C. Emonts et.al.|[2411.14310v1](http://arxiv.org/abs/2411.14310v1)|[2411.14310v1](http://arxiv.org/pdf/2411.14310v1)|null|
 |**2024-11-20**|**A Survey of H I and O VI Absorption Lines in the Outskirts of $z\lesssim0.3$ Galaxy Clusters**|Priscilla Holguin Luna et.al.|[2411.13551v1](http://arxiv.org/abs/2411.13551v1)|[2411.13551v1](http://arxiv.org/pdf/2411.13551v1)|null|
 |**2024-11-20**|**FAST H I 21 cm study of blueberry galaxies**|Yogesh Chandola et.al.|[2411.13527v1](http://arxiv.org/abs/2411.13527v1)|[2411.13527v1](http://arxiv.org/pdf/2411.13527v1)|null|
 |**2024-11-20**|**Effective Actions for Domain Wall Dynamics**|Jose J. Blanco-Pillado et.al.|[2411.13521v1](http://arxiv.org/abs/2411.13521v1)|[2411.13521v1](http://arxiv.org/pdf/2411.13521v1)|null|
@@ -5987,6 +5997,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429v1](http://arxiv.org/abs/2411.14429v1)|[2411.14429v1](http://arxiv.org/pdf/2411.14429v1)|**[link](https://github.com/rayleizhu/glmix)**|
+|**2024-11-21**|**Whack-a-Chip: The Futility of Hardware-Centric Export Controls**|Ritwik Gupta et.al.|[2411.14425v1](http://arxiv.org/abs/2411.14425v1)|[2411.14425v1](http://arxiv.org/pdf/2411.14425v1)|null|
+|**2024-11-21**|**Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs**|Ofer Dagan et.al.|[2411.14404v1](http://arxiv.org/abs/2411.14404v1)|[2411.14404v1](http://arxiv.org/pdf/2411.14404v1)|null|
+|**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403v1](http://arxiv.org/abs/2411.14403v1)|[2411.14403v1](http://arxiv.org/pdf/2411.14403v1)|null|
+|**2024-11-21**|**Using Formal Models, Safety Shields and Certified Control to Validate AI-Based Train Systems**|Jan Gruteser et.al.|[2411.14374v1](http://arxiv.org/abs/2411.14374v1)|[2411.14374v1](http://arxiv.org/pdf/2411.14374v1)|null|
+|**2024-11-21**|**Synthesising Robust Controllers for Robot Collectives with Recurrent Tasks: A Case Study**|Till Schnittka et.al.|[2411.14371v1](http://arxiv.org/abs/2411.14371v1)|[2411.14371v1](http://arxiv.org/pdf/2411.14371v1)|null|
+|**2024-11-21**|**RV4Chatbot: Are Chatbots Allowed to Dream of Electric Sheep?**|Andrea Gatti et.al.|[2411.14368v1](http://arxiv.org/abs/2411.14368v1)|[2411.14368v1](http://arxiv.org/pdf/2411.14368v1)|**[link](https://github.com/driacats/rv4chat)**|
+|**2024-11-21**|**ROSMonitoring 2.0: Extending ROS Runtime Verification to Services and Ordered Topics**|Maryam Ghaffari Saadat et.al.|[2411.14367v1](http://arxiv.org/abs/2411.14367v1)|[2411.14367v1](http://arxiv.org/pdf/2411.14367v1)|null|
+|**2024-11-21**|**Contrasting local and global modeling with machine learning and satellite data: A case study estimating tree canopy height in African savannas**|Esther Rolf et.al.|[2411.14354v1](http://arxiv.org/abs/2411.14354v1)|[2411.14354v1](http://arxiv.org/pdf/2411.14354v1)|null|
+|**2024-11-21**|**UnifiedCrawl: Aggregated Common Crawl for Affordable Adaptation of LLMs on Low-Resource Languages**|Bethel Melesse Tessema et.al.|[2411.14343v1](http://arxiv.org/abs/2411.14343v1)|[2411.14343v1](http://arxiv.org/pdf/2411.14343v1)|**[link](https://github.com/bethelmelesse/unifiedcrawl)**|
 |**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547v1](http://arxiv.org/abs/2411.13547v1)|[2411.13547v1](http://arxiv.org/pdf/2411.13547v1)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543v1](http://arxiv.org/abs/2411.13543v1)|[2411.13543v1](http://arxiv.org/pdf/2411.13543v1)|null|
 |**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537v1](http://arxiv.org/abs/2411.13537v1)|[2411.13537v1](http://arxiv.org/pdf/2411.13537v1)|null|
