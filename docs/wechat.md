@@ -1,11 +1,11 @@
-> Updated on 2024.11.23
+> Updated on 2024.11.24
 
 ## Astrophysics
 
 - 2024-11-21, **Combining summary statistics with simulation-based inference for the 21 cm signal from the Epoch of Reionization**, Benoit Semelin et.al., Paper: [http://arxiv.org/abs/2411.14419v1](http://arxiv.org/abs/2411.14419v1), Paper: [http://arxiv.org/abs/2411.14419v1](http://arxiv.org/pdf/2411.14419v1)
 - 2024-11-21, **DiscoTEX 1.0: Discontinuous collocation and implicit-turned-explicit (IMTEX) integration symplectic, symmetric numerical algorithms with high order jumps for differential equations II: extension to higher-orders of numerical convergence**, Lidia J. Gomes Da Silva et.al., Paper: [http://arxiv.org/abs/2411.14399v1](http://arxiv.org/abs/2411.14399v1), Paper: [http://arxiv.org/abs/2411.14399v1](http://arxiv.org/pdf/2411.14399v1)
 - 2024-11-21, **Cooling of neutron stars in soft X-ray transients with realistic crust composition**, A. Y. Potekhin et.al., Paper: [http://arxiv.org/abs/2411.14395v1](http://arxiv.org/abs/2411.14395v1), Paper: [http://arxiv.org/abs/2411.14395v1](http://arxiv.org/pdf/2411.14395v1)
-- 2024-11-21, **Convolutional Vision Transformer for Cosmology Parameter Inference**, Yash Gondhalekar et.al., Paper: [http://arxiv.org/abs/2411.14392v1](http://arxiv.org/abs/2411.14392v1), Paper: [http://arxiv.org/abs/2411.14392v1](http://arxiv.org/pdf/2411.14392v1)
+- 2024-11-21, **Convolutional Vision Transformer for Cosmology Parameter Inference**, Yash Gondhalekar et.al., Paper: [http://arxiv.org/abs/2411.14392v1](http://arxiv.org/abs/2411.14392v1),Paper: [http://arxiv.org/abs/2411.14392v1](http://arxiv.org/pdf/2411.14392v1), Code: **[https://github.com/yash-10/cvt-cosmo-inference](https://github.com/yash-10/cvt-cosmo-inference)**
 - 2024-11-21, **Not Just a Dot: the complex UV morphology and underlying properties of Little Red Dots**, P. Rinaldi et.al., Paper: [http://arxiv.org/abs/2411.14383v1](http://arxiv.org/abs/2411.14383v1), Paper: [http://arxiv.org/abs/2411.14383v1](http://arxiv.org/pdf/2411.14383v1)
 - 2024-11-21, **Modified gravity from Weyl connection and the $f(R,\cal{A})$ extension**, Gerasimos Kouniatalis et.al., Paper: [http://arxiv.org/abs/2411.14380v1](http://arxiv.org/abs/2411.14380v1), Paper: [http://arxiv.org/abs/2411.14380v1](http://arxiv.org/pdf/2411.14380v1)
 - 2024-11-21, **The constraining power of the Marked Power Spectrum: an analytical study**, Marco Marinucci et.al., Paper: [http://arxiv.org/abs/2411.14377v1](http://arxiv.org/abs/2411.14377v1), Paper: [http://arxiv.org/abs/2411.14377v1](http://arxiv.org/pdf/2411.14377v1)
