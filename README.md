@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140v1](http://arxiv.org/abs/2411.15140v1)|[2411.15140v1](http://arxiv.org/pdf/2411.15140v1)|null|
+|**2024-11-22**|**PDS 70b Shows Stellar-like Carbon-to-Oxygen Ratio**|Chih-Chun Hsu et.al.|[2411.15117v1](http://arxiv.org/abs/2411.15117v1)|[2411.15117v1](http://arxiv.org/pdf/2411.15117v1)|null|
+|**2024-11-22**|**On the effective spin-mass ratio '$χ_{\rm eff}-q$' relation of binary black hole mergers that evolved in isolation**|Sambaran Banerjee et.al.|[2411.15112v1](http://arxiv.org/abs/2411.15112v1)|[2411.15112v1](http://arxiv.org/pdf/2411.15112v1)|null|
+|**2024-11-22**|**Thermalization effects on the dynamics of growing vacuum bubbles**|Tomasz Krajewski et.al.|[2411.15094v1](http://arxiv.org/abs/2411.15094v1)|[2411.15094v1](http://arxiv.org/pdf/2411.15094v1)|null|
+|**2024-11-22**|**Bayesian Analysis for Remote Biosignature Identification on exoEarths (BARBIE) \RNum{3}: Introducing the KEN**|Natasha Latouf et.al.|[2411.15089v1](http://arxiv.org/abs/2411.15089v1)|[2411.15089v1](http://arxiv.org/pdf/2411.15089v1)|null|
+|**2024-11-22**|**Outer Solar System spacecraft without drag-free control to probe the $μ$Hz gravitational wave frontier**|Matthew McQuinn et.al.|[2411.15072v1](http://arxiv.org/abs/2411.15072v1)|[2411.15072v1](http://arxiv.org/pdf/2411.15072v1)|null|
+|**2024-11-22**|**Potential habitability of present-day Mars subsurface for terrestrial-like methanogens**|Andrea Butturini et.al.|[2411.15064v1](http://arxiv.org/abs/2411.15064v1)|[2411.15064v1](http://arxiv.org/pdf/2411.15064v1)|null|
+|**2024-11-22**|**Avoiding lensing bias in cosmic shear analysis**|Christopher A. J. Duncan et.al.|[2411.15063v1](http://arxiv.org/abs/2411.15063v1)|[2411.15063v1](http://arxiv.org/pdf/2411.15063v1)|null|
+|**2024-11-22**|**Rediscovering the Milky Way with orbit superposition approach and APOGEE data I. Method validation**|Sergey Khoperskov et.al.|[2411.15062v1](http://arxiv.org/abs/2411.15062v1)|[2411.15062v1](http://arxiv.org/pdf/2411.15062v1)|null|
+|**2024-11-22**|**Untangling Magellanic Streams**|Dennis Zaritsky et.al.|[2411.15044v1](http://arxiv.org/abs/2411.15044v1)|[2411.15044v1](http://arxiv.org/pdf/2411.15044v1)|null|
 |**2024-11-21**|**Combining summary statistics with simulation-based inference for the 21 cm signal from the Epoch of Reionization**|Benoit Semelin et.al.|[2411.14419v1](http://arxiv.org/abs/2411.14419v1)|[2411.14419v1](http://arxiv.org/pdf/2411.14419v1)|null|
 |**2024-11-21**|**DiscoTEX 1.0: Discontinuous collocation and implicit-turned-explicit (IMTEX) integration symplectic, symmetric numerical algorithms with high order jumps for differential equations II: extension to higher-orders of numerical convergence**|Lidia J. Gomes Da Silva et.al.|[2411.14399v1](http://arxiv.org/abs/2411.14399v1)|[2411.14399v1](http://arxiv.org/pdf/2411.14399v1)|null|
 |**2024-11-21**|**Cooling of neutron stars in soft X-ray transients with realistic crust composition**|A. Y. Potekhin et.al.|[2411.14395v1](http://arxiv.org/abs/2411.14395v1)|[2411.14395v1](http://arxiv.org/pdf/2411.14395v1)|null|
@@ -5997,6 +6007,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129v1](http://arxiv.org/abs/2411.15129v1)|[2411.15129v1](http://arxiv.org/pdf/2411.15129v1)|null|
+|**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128v1](http://arxiv.org/abs/2411.15128v1)|[2411.15128v1](http://arxiv.org/pdf/2411.15128v1)|null|
+|**2024-11-22**|**ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation**|Xiaoman Zhang et.al.|[2411.15122v1](http://arxiv.org/abs/2411.15122v1)|[2411.15122v1](http://arxiv.org/pdf/2411.15122v1)|null|
+|**2024-11-22**|**Information geometric regularization of unidimensional pressureless Euler equations yields global strong solutions**|Ruijia Cao et.al.|[2411.15121v1](http://arxiv.org/abs/2411.15121v1)|[2411.15121v1](http://arxiv.org/pdf/2411.15121v1)|null|
+|**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|[2411.15115v1](http://arxiv.org/pdf/2411.15115v1)|null|
+|**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114v1](http://arxiv.org/abs/2411.15114v1)|[2411.15114v1](http://arxiv.org/pdf/2411.15114v1)|null|
+|**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113v1](http://arxiv.org/abs/2411.15113v1)|[2411.15113v1](http://arxiv.org/pdf/2411.15113v1)|null|
+|**2024-11-22**|**About Time: Advances, Challenges, and Outlooks of Action Understanding**|Alexandros Stergiou et.al.|[2411.15106v1](http://arxiv.org/abs/2411.15106v1)|[2411.15106v1](http://arxiv.org/pdf/2411.15106v1)|null|
+|**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100v1](http://arxiv.org/abs/2411.15100v1)|[2411.15100v1](http://arxiv.org/pdf/2411.15100v1)|null|
+|**2024-11-22**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098v1](http://arxiv.org/abs/2411.15098v1)|[2411.15098v1](http://arxiv.org/pdf/2411.15098v1)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
 |**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429v1](http://arxiv.org/abs/2411.14429v1)|[2411.14429v1](http://arxiv.org/pdf/2411.14429v1)|**[link](https://github.com/rayleizhu/glmix)**|
 |**2024-11-21**|**Whack-a-Chip: The Futility of Hardware-Centric Export Controls**|Ritwik Gupta et.al.|[2411.14425v1](http://arxiv.org/abs/2411.14425v1)|[2411.14425v1](http://arxiv.org/pdf/2411.14425v1)|null|
 |**2024-11-21**|**Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs**|Ofer Dagan et.al.|[2411.14404v1](http://arxiv.org/abs/2411.14404v1)|[2411.14404v1](http://arxiv.org/pdf/2411.14404v1)|null|
