@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-26**|**Searching for star-planet interactions in GJ 486 at radio wavelengths with the uGMRT**|L. Peña-Moñino et.al.|[2411.17689v1](http://arxiv.org/abs/2411.17689v1)|[2411.17689v1](http://arxiv.org/pdf/2411.17689v1)|null|
+|**2024-11-26**|**An analytical model for the dispersion measure of Fast Radio Burst host galaxies**|Robert Reischke et.al.|[2411.17682v1](http://arxiv.org/abs/2411.17682v1)|[2411.17682v1](http://arxiv.org/pdf/2411.17682v1)|null|
+|**2024-11-26**|**Tungsten isotope evolution during Earth's formation and new constraints on the viability of accretion simulations**|D. C. Rubie et.al.|[2411.17681v1](http://arxiv.org/abs/2411.17681v1)|[2411.17681v1](http://arxiv.org/pdf/2411.17681v1)|null|
+|**2024-11-26**|**Accelerated nested sampling with $β$-flows for gravitational waves**|Metha Prathaban et.al.|[2411.17663v1](http://arxiv.org/abs/2411.17663v1)|[2411.17663v1](http://arxiv.org/pdf/2411.17663v1)|null|
+|**2024-11-26**|**The JCMT BISTRO Survey: The magnetised evolution of star-forming cores in the Ophiuchus Molecular Cloud interpreted using Histograms of Relative Orientation**|James P. Perry et.al.|[2411.17659v1](http://arxiv.org/abs/2411.17659v1)|[2411.17659v1](http://arxiv.org/pdf/2411.17659v1)|null|
+|**2024-11-26**|**PSpectCosmo: A Pseudo-Spectral Code for Cosmological Dynamics Spanning Inflation and Reheating**|Jie Jiang et.al.|[2411.17658v1](http://arxiv.org/abs/2411.17658v1)|[2411.17658v1](http://arxiv.org/pdf/2411.17658v1)|null|
+|**2024-11-26**|**Association between Recurrent Novae and Nova Super-Remnants**|Michael William Healy-Kalesh et.al.|[2411.17652v1](http://arxiv.org/abs/2411.17652v1)|[2411.17652v1](http://arxiv.org/pdf/2411.17652v1)|null|
+|**2024-11-26**|**Derivation and Application of a Scaling Between Hinode/SP and SDO/HMI Vector Magnetic Fields to Improve Magnetic Field Extrapolations**|C. Beck et.al.|[2411.17649v1](http://arxiv.org/abs/2411.17649v1)|[2411.17649v1](http://arxiv.org/pdf/2411.17649v1)|null|
+|**2024-11-26**|**Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates**|Dillon Bass et.al.|[2411.17640v1](http://arxiv.org/abs/2411.17640v1)|[2411.17640v1](http://arxiv.org/pdf/2411.17640v1)|null|
+|**2024-11-26**|**Could the neutrino emission of TXS 0506+056 come from the accretion flow of the supermassive black hole?**|Qi-Rui Yang et.al.|[2411.17632v1](http://arxiv.org/abs/2411.17632v1)|[2411.17632v1](http://arxiv.org/pdf/2411.17632v1)|null|
 |**2024-11-25**|**The impact of resistivity on the variability of black hole accretion flows**|Antonios Nathanail et.al.|[2411.16684v1](http://arxiv.org/abs/2411.16684v1)|[2411.16684v1](http://arxiv.org/pdf/2411.16684v1)|null|
 |**2024-11-25**|**Modified recombination and the Hubble tension**|Seyed Hamidreza Mirpoorian et.al.|[2411.16678v1](http://arxiv.org/abs/2411.16678v1)|[2411.16678v1](http://arxiv.org/pdf/2411.16678v1)|null|
 |**2024-11-25**|**A Sound Horizon-Free Measurement of $H_0$ in DESI 2024**|E. A. Zaborowski et.al.|[2411.16677v1](http://arxiv.org/abs/2411.16677v1)|[2411.16677v1](http://arxiv.org/pdf/2411.16677v1)|null|
@@ -6017,6 +6027,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|[2411.17697v1](http://arxiv.org/pdf/2411.17697v1)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692v1](http://arxiv.org/abs/2411.17692v1)|[2411.17692v1](http://arxiv.org/pdf/2411.17692v1)|null|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684v1](http://arxiv.org/abs/2411.17684v1)|[2411.17684v1](http://arxiv.org/pdf/2411.17684v1)|null|
+|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673v1](http://arxiv.org/abs/2411.17673v1)|[2411.17673v1](http://arxiv.org/pdf/2411.17673v1)|null|
+|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v1](http://arxiv.org/abs/2411.17645v1)|[2411.17645v1](http://arxiv.org/pdf/2411.17645v1)|null|
+|**2024-11-26**|**Virtual Pulse Reconstruction Diagnostic for Single-Shot Measurement of Free Electron Laser Radiation Power**|Till Korten et.al.|[2411.17644v1](http://arxiv.org/abs/2411.17644v1)|[2411.17644v1](http://arxiv.org/pdf/2411.17644v1)|null|
+|**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636v1](http://arxiv.org/abs/2411.17636v1)|[2411.17636v1](http://arxiv.org/pdf/2411.17636v1)|null|
+|**2024-11-26**|**Learning Chemical Reaction Representation with Reactant-Product Alignment**|Kaipeng Zeng et.al.|[2411.17629v1](http://arxiv.org/abs/2411.17629v1)|[2411.17629v1](http://arxiv.org/pdf/2411.17629v1)|null|
+|**2024-11-26**|**Machine Learning and Multi-source Remote Sensing in Forest Carbon Stock Estimation: A Review**|Autumn Nguyen et.al.|[2411.17624v1](http://arxiv.org/abs/2411.17624v1)|[2411.17624v1](http://arxiv.org/pdf/2411.17624v1)|null|
+|**2024-11-26**|**Automating Chapter-Level Classification for Electronic Theses and Dissertations**|Bipasha Banerjee et.al.|[2411.17614v1](http://arxiv.org/abs/2411.17614v1)|[2411.17614v1](http://arxiv.org/pdf/2411.17614v1)|null|
 |**2024-11-25**|**OPMOS: Ordered Parallel Multi-Objective Shortest-Path**|Leo Gold et.al.|[2411.16667v1](http://arxiv.org/abs/2411.16667v1)|[2411.16667v1](http://arxiv.org/pdf/2411.16667v1)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666v1](http://arxiv.org/abs/2411.16666v1)|[2411.16666v1](http://arxiv.org/pdf/2411.16666v1)|null|
 |**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657v1](http://arxiv.org/abs/2411.16657v1)|[2411.16657v1](http://arxiv.org/pdf/2411.16657v1)|null|
