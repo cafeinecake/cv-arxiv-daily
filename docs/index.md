@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-27**|**Variability of hot sub-luminous stars and binaries: Machine learning analysis of Gaia DR3 multi-epoch photometry**|P. Ranaivomanana et.al.|[2411.18609v1](http://arxiv.org/abs/2411.18609v1)|[2411.18609v1](http://arxiv.org/pdf/2411.18609v1)|null|
+|**2024-11-27**|**Modular invariant inflation, reheating and leptogenesis**|Gui-Jun Ding et.al.|[2411.18603v1](http://arxiv.org/abs/2411.18603v1)|[2411.18603v1](http://arxiv.org/pdf/2411.18603v1)|null|
+|**2024-11-27**|**Gravitational atoms beyond the test field limit: The case of Sgr A* and ultralight dark matter**|Miguel Alcubierre et.al.|[2411.18601v1](http://arxiv.org/abs/2411.18601v1)|[2411.18601v1](http://arxiv.org/pdf/2411.18601v1)|null|
+|**2024-11-27**|**Magnetically arrested advective accretion flows and jets/outflows around stellar mass black holes: Explaining hard state ULXs with GRMHD simulations**|Rohan Raha et.al.|[2411.18599v1](http://arxiv.org/abs/2411.18599v1)|[2411.18599v1](http://arxiv.org/pdf/2411.18599v1)|null|
+|**2024-11-27**|**Potential technosignature from anomalously low deuterium/hydrogen (D/H) in planetary water depleted by nuclear fusion technology**|David C. Catling et.al.|[2411.18595v1](http://arxiv.org/abs/2411.18595v1)|[2411.18595v1](http://arxiv.org/pdf/2411.18595v1)|null|
+|**2024-11-27**|**Frequency redistribution and step-size distribution of light scattered by atomic vapor: applications to Lévy flight random walk**|Isaac C. Nunes et.al.|[2411.18570v1](http://arxiv.org/abs/2411.18570v1)|[2411.18570v1](http://arxiv.org/pdf/2411.18570v1)|null|
+|**2024-11-27**|**The First Spin-Orbit Obliquity of an M dwarf/brown dwarf System: An eccentric and aligned TOI-2119 b**|Lauren Doyle et.al.|[2411.18567v1](http://arxiv.org/abs/2411.18567v1)|[2411.18567v1](http://arxiv.org/pdf/2411.18567v1)|null|
+|**2024-11-27**|**Bumblebee cosmology: Tests using distance- and time-redshift probes**|Xincheng Zhu et.al.|[2411.18559v1](http://arxiv.org/abs/2411.18559v1)|[2411.18559v1](http://arxiv.org/pdf/2411.18559v1)|null|
+|**2024-11-27**|**Influence of gravity on the quantum speed limit in neutrino oscillations**|Abhishek Kumar Jha et.al.|[2411.18558v1](http://arxiv.org/abs/2411.18558v1)|[2411.18558v1](http://arxiv.org/pdf/2411.18558v1)|null|
+|**2024-11-27**|**Accretion Disk-Outflow/Jet and Hard State ULXs**|Mayank Pathak et.al.|[2411.18545v1](http://arxiv.org/abs/2411.18545v1)|[2411.18545v1](http://arxiv.org/pdf/2411.18545v1)|null|
 |**2024-11-26**|**Searching for star-planet interactions in GJ 486 at radio wavelengths with the uGMRT**|L. Peña-Moñino et.al.|[2411.17689v1](http://arxiv.org/abs/2411.17689v1)|[2411.17689v1](http://arxiv.org/pdf/2411.17689v1)|null|
 |**2024-11-26**|**An analytical model for the dispersion measure of Fast Radio Burst host galaxies**|Robert Reischke et.al.|[2411.17682v1](http://arxiv.org/abs/2411.17682v1)|[2411.17682v1](http://arxiv.org/pdf/2411.17682v1)|null|
 |**2024-11-26**|**Tungsten isotope evolution during Earth's formation and new constraints on the viability of accretion simulations**|D. C. Rubie et.al.|[2411.17681v1](http://arxiv.org/abs/2411.17681v1)|[2411.17681v1](http://arxiv.org/pdf/2411.17681v1)|null|
@@ -6031,6 +6041,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-27**|**Cross-modal Information Flow in Multimodal Large Language Models**|Zhi Zhang et.al.|[2411.18620v1](http://arxiv.org/abs/2411.18620v1)|[2411.18620v1](http://arxiv.org/pdf/2411.18620v1)|null|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616v1](http://arxiv.org/abs/2411.18616v1)|[2411.18616v1](http://arxiv.org/pdf/2411.18616v1)|null|
+|**2024-11-27**|**Proactive Gradient Conflict Mitigation in Multi-Task Learning: A Sparse Training Perspective**|Zhi Zhang et.al.|[2411.18615v1](http://arxiv.org/abs/2411.18615v1)|[2411.18615v1](http://arxiv.org/pdf/2411.18615v1)|null|
+|**2024-11-27**|**Robust Offline Reinforcement Learning with Linearly Structured $f$-Divergence Regularization**|Cheng Tang et.al.|[2411.18612v1](http://arxiv.org/abs/2411.18612v1)|[2411.18612v1](http://arxiv.org/pdf/2411.18612v1)|null|
+|**2024-11-27**|**Overview of the Head and Neck Tumor Segmentation for Magnetic Resonance Guided Applications (HNTS-MRG) 2024 Challenge**|Kareem A. Wahid et.al.|[2411.18585v1](http://arxiv.org/abs/2411.18585v1)|[2411.18585v1](http://arxiv.org/pdf/2411.18585v1)|null|
+|**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583v1](http://arxiv.org/abs/2411.18583v1)|[2411.18583v1](http://arxiv.org/pdf/2411.18583v1)|null|
+|**2024-11-27**|**Functional relevance based on the continuous Shapley value**|Pedro Delicado et.al.|[2411.18575v1](http://arxiv.org/abs/2411.18575v1)|[2411.18575v1](http://arxiv.org/pdf/2411.18575v1)|null|
+|**2024-11-27**|**A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models**|Rong Wang et.al.|[2411.18564v1](http://arxiv.org/abs/2411.18564v1)|[2411.18564v1](http://arxiv.org/pdf/2411.18564v1)|null|
+|**2024-11-27**|**Symmetry-driven Phononic Metamaterials**|Simon Yves et.al.|[2411.18556v1](http://arxiv.org/abs/2411.18556v1)|[2411.18556v1](http://arxiv.org/pdf/2411.18556v1)|null|
+|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530v1](http://arxiv.org/abs/2411.18530v1)|[2411.18530v1](http://arxiv.org/pdf/2411.18530v1)|null|
 |**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|[2411.17697v1](http://arxiv.org/pdf/2411.17697v1)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
 |**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692v1](http://arxiv.org/abs/2411.17692v1)|[2411.17692v1](http://arxiv.org/pdf/2411.17692v1)|null|
 |**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684v1](http://arxiv.org/abs/2411.17684v1)|[2411.17684v1](http://arxiv.org/pdf/2411.17684v1)|null|
