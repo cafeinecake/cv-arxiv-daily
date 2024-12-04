@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-03**|**Exploring the Diversity of Faint Satellites in the M81 Group**|Katya Gozman et.al.|[2412.02697v1](http://arxiv.org/abs/2412.02697v1)|[2412.02697v1](http://arxiv.org/pdf/2412.02697v1)|null|
+|**2024-12-03**|**Stage IV CMB forecasts for warm inflation**|F. B. M. dos Santos et.al.|[2412.02696v1](http://arxiv.org/abs/2412.02696v1)|[2412.02696v1](http://arxiv.org/pdf/2412.02696v1)|null|
+|**2024-12-03**|**Increased Surface Temperatures of Habitable White Dwarf Worlds Relative to Main-Sequence Exoplanets**|Aomawa L. Shields et.al.|[2412.02694v1](http://arxiv.org/abs/2412.02694v1)|[2412.02694v1](http://arxiv.org/pdf/2412.02694v1)|null|
+|**2024-12-03**|**Molecular gas and dust properties in $z>7$ quasar hosts**|Francesco Salvestrini et.al.|[2412.02688v1](http://arxiv.org/abs/2412.02688v1)|[2412.02688v1](http://arxiv.org/pdf/2412.02688v1)|null|
+|**2024-12-03**|**Quasi-normal modes in non-perturbative quantum gravity**|Alexey S. Koshelev et.al.|[2412.02678v1](http://arxiv.org/abs/2412.02678v1)|[2412.02678v1](http://arxiv.org/pdf/2412.02678v1)|null|
+|**2024-12-03**|**In Search of Extraterrestrial Artificial Intelligence through the Dyson Sphere-like structures around the Primordial Black Holes**|Shant Baghram et.al.|[2412.02671v1](http://arxiv.org/abs/2412.02671v1)|[2412.02671v1](http://arxiv.org/pdf/2412.02671v1)|null|
+|**2024-12-03**|**An unbiased statistical study of the metallicity of core-collapse supernovae based on VLT/MUSE integral-field-unit spectroscopy**|Qiang Xi et.al.|[2412.02667v1](http://arxiv.org/abs/2412.02667v1)|[2412.02667v1](http://arxiv.org/pdf/2412.02667v1)|null|
+|**2024-12-03**|**Late-time HST and JWST Observations of GRB 221009A: Evidence for a Break in the Light Curve at 50 Days**|Huei Sears et.al.|[2412.02663v1](http://arxiv.org/abs/2412.02663v1)|[2412.02663v1](http://arxiv.org/pdf/2412.02663v1)|null|
+|**2024-12-03**|**Costs of Bayesian Parameter Estimation in Third-Generation Gravitational Wave Detectors: a Review of Acceleration Methods**|Qian Hu et.al.|[2412.02651v1](http://arxiv.org/abs/2412.02651v1)|[2412.02651v1](http://arxiv.org/pdf/2412.02651v1)|null|
+|**2024-12-03**|**Gravitational waves from supercooled phase transitions in conformal Majoron models of neutrino mass**|João Gonçalves et.al.|[2412.02645v1](http://arxiv.org/abs/2412.02645v1)|[2412.02645v1](http://arxiv.org/pdf/2412.02645v1)|null|
 |**2024-11-29**|**The hot circumgalactic medium in the eROSITA All-Sky Survey III. Star-forming and quiescent galaxies**|Yi Zhang et.al.|[2411.19945v1](http://arxiv.org/abs/2411.19945v1)|[2411.19945v1](http://arxiv.org/pdf/2411.19945v1)|null|
 |**2024-11-29**|**Multi-Epoch Observations of the Nearby Spiral Galaxy NGC 3938 with the Chandra X-ray Observatory**|Siddhi Raut et.al.|[2411.19937v1](http://arxiv.org/abs/2411.19937v1)|[2411.19937v1](http://arxiv.org/pdf/2411.19937v1)|null|
 |**2024-11-29**|**Silicon Isotopic Composition of Mainstream Presolar SiC Grains Revisited: The Impact of Nuclear Reaction Rate Uncertainties**|Hung Kwan Fok et.al.|[2411.19935v1](http://arxiv.org/abs/2411.19935v1)|[2411.19935v1](http://arxiv.org/pdf/2411.19935v1)|null|
@@ -6051,6 +6061,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698v1](http://arxiv.org/abs/2412.02698v1)|[2412.02698v1](http://arxiv.org/pdf/2412.02698v1)|null|
+|**2024-12-03**|**Taming Scalable Visual Tokenizer for Autoregressive Image Generation**|Fengyuan Shi et.al.|[2412.02692v1](http://arxiv.org/abs/2412.02692v1)|[2412.02692v1](http://arxiv.org/pdf/2412.02692v1)|null|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685v1](http://arxiv.org/abs/2412.02685v1)|[2412.02685v1](http://arxiv.org/pdf/2412.02685v1)|null|
+|**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684v1](http://arxiv.org/abs/2412.02684v1)|[2412.02684v1](http://arxiv.org/pdf/2412.02684v1)|null|
+|**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682v1](http://arxiv.org/abs/2412.02682v1)|[2412.02682v1](http://arxiv.org/pdf/2412.02682v1)|null|
+|**2024-12-03**|**In Search of Extraterrestrial Artificial Intelligence through the Dyson Sphere-like structures around the Primordial Black Holes**|Shant Baghram et.al.|[2412.02671v1](http://arxiv.org/abs/2412.02671v1)|[2412.02671v1](http://arxiv.org/pdf/2412.02671v1)|null|
+|**2024-12-03**|**Adaptive Informed Deep Neural Networks for Power Flow Analysis**|Zeynab Kaseb et.al.|[2412.02659v1](http://arxiv.org/abs/2412.02659v1)|[2412.02659v1](http://arxiv.org/pdf/2412.02659v1)|null|
+|**2024-12-03**|**Scaffold or Crutch? Examining College Students' Use and Views of Generative AI Tools for STEM Education**|Karen D. Wang et.al.|[2412.02653v1](http://arxiv.org/abs/2412.02653v1)|[2412.02653v1](http://arxiv.org/pdf/2412.02653v1)|null|
+|**2024-12-03**|**SEMANTIC SEE-THROUGH GOGGLES: Wearing Linguistic Virtual Reality in (Artificial) Intelligence**|Goki Muramoto et.al.|[2412.02641v1](http://arxiv.org/abs/2412.02641v1)|[2412.02641v1](http://arxiv.org/pdf/2412.02641v1)|null|
+|**2024-12-03**|**QA-TOOLBOX: Conversational Question-Answering for process task guidance in manufacturing**|Ramesh Manuvinakurike et.al.|[2412.02638v1](http://arxiv.org/abs/2412.02638v1)|[2412.02638v1](http://arxiv.org/pdf/2412.02638v1)|null|
 |**2024-11-29**|**DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**|Zhiqiang Shen et.al.|[2411.19946v1](http://arxiv.org/abs/2411.19946v1)|[2411.19946v1](http://arxiv.org/pdf/2411.19946v1)|**[link](https://github.com/vila-lab/delt)**|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943v2](http://arxiv.org/abs/2411.19943v2)|[2411.19943v2](http://arxiv.org/pdf/2411.19943v2)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939v1](http://arxiv.org/abs/2411.19939v1)|[2411.19939v1](http://arxiv.org/pdf/2411.19939v1)|null|
