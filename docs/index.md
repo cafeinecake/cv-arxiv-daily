@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443v1](http://arxiv.org/abs/2412.04443v1)|[2412.04443v1](http://arxiv.org/pdf/2412.04443v1)|null|
+|**2024-12-05**|**From Misaligned Sub-Saturns to Aligned Brown Dwarfs: The Highest $M_{\rm p}/M{_*}$ Systems Exhibit Low Obliquities, Even around Hot Stars**|Jace Rusznak et.al.|[2412.04438v1](http://arxiv.org/abs/2412.04438v1)|[2412.04438v1](http://arxiv.org/pdf/2412.04438v1)|null|
+|**2024-12-05**|**Overdensity of Lyman-Break Galaxy Candidates Around Hot Dust-Obscured Galaxies**|Dejene Zewdie et.al.|[2412.04436v1](http://arxiv.org/abs/2412.04436v1)|[2412.04436v1](http://arxiv.org/pdf/2412.04436v1)|null|
+|**2024-12-05**|**Uniting the Observed Dynamical Dark Energy Preference with the Discrepancies in $Ω_m$ and $H_0$ Across Cosmological Probes**|Xianzhe TZ Tang et.al.|[2412.04430v1](http://arxiv.org/abs/2412.04430v1)|[2412.04430v1](http://arxiv.org/pdf/2412.04430v1)|null|
+|**2024-12-05**|**Journey to the center of the common envelope evolution. Inner dynamics of the post-dynamical inspiral**|Damien Gagnier et.al.|[2412.04419v1](http://arxiv.org/abs/2412.04419v1)|[2412.04419v1](http://arxiv.org/pdf/2412.04419v1)|null|
+|**2024-12-05**|**Baryon Acoustic Oscillations from galaxy surveys**|Paula S. Ferreira et.al.|[2412.04405v1](http://arxiv.org/abs/2412.04405v1)|[2412.04405v1](http://arxiv.org/pdf/2412.04405v1)|null|
+|**2024-12-05**|**Optical constraints on the coldest metal-poor population**|Jerry Jun-Yan Zhang et.al.|[2412.04393v1](http://arxiv.org/abs/2412.04393v1)|[2412.04393v1](http://arxiv.org/pdf/2412.04393v1)|null|
+|**2024-12-05**|**The Red Supergiant Problem: As Seen from the Local Group's Red Supergiant Populations**|Sarah Healy et.al.|[2412.04386v1](http://arxiv.org/abs/2412.04386v1)|[2412.04386v1](http://arxiv.org/pdf/2412.04386v1)|null|
+|**2024-12-05**|**The Thermal Sunyaev-Zel'dovich Effect from the Epoch of Reionization**|Ilian T. Iliev et.al.|[2412.04385v1](http://arxiv.org/abs/2412.04385v1)|[2412.04385v1](http://arxiv.org/pdf/2412.04385v1)|null|
+|**2024-12-05**|**Investigating the role of nuclear parameters in Neutron Star oscillations: a model comparison**|Rajesh Maiti et.al.|[2412.04373v1](http://arxiv.org/abs/2412.04373v1)|[2412.04373v1](http://arxiv.org/pdf/2412.04373v1)|null|
 |**2024-12-04**|**Learning from galactic rotation curves: a neural network approach**|Bihag Dave et.al.|[2412.03547v1](http://arxiv.org/abs/2412.03547v1)|[2412.03547v1](http://arxiv.org/pdf/2412.03547v1)|null|
 |**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546v1](http://arxiv.org/abs/2412.03546v1)|[2412.03546v1](http://arxiv.org/pdf/2412.03546v1)|null|
 |**2024-12-04**|**Galaxy Formation in the Early Universe**|J. W. Moffat et.al.|[2412.03534v1](http://arxiv.org/abs/2412.03534v1)|[2412.03534v1](http://arxiv.org/pdf/2412.03534v1)|null|
@@ -6071,6 +6081,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471v1](http://arxiv.org/abs/2412.04471v1)|[2412.04471v1](http://arxiv.org/pdf/2412.04471v1)|null|
+|**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469v1](http://arxiv.org/abs/2412.04469v1)|[2412.04469v1](http://arxiv.org/pdf/2412.04469v1)|null|
+|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467v1](http://arxiv.org/abs/2412.04467v1)|[2412.04467v1](http://arxiv.org/pdf/2412.04467v1)|null|
+|**2024-12-05**|**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**|Enshen Zhou et.al.|[2412.04455v1](http://arxiv.org/abs/2412.04455v1)|[2412.04455v1](http://arxiv.org/pdf/2412.04455v1)|null|
+|**2024-12-05**|**EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios**|Lu Qiu et.al.|[2412.04447v1](http://arxiv.org/abs/2412.04447v1)|[2412.04447v1](http://arxiv.org/pdf/2412.04447v1)|null|
+|**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445v1](http://arxiv.org/abs/2412.04445v1)|[2412.04445v1](http://arxiv.org/pdf/2412.04445v1)|null|
+|**2024-12-05**|**Marvel: Accelerating Safe Online Reinforcement Learning with Finetuned Offline Policy**|Keru Chen et.al.|[2412.04426v1](http://arxiv.org/abs/2412.04426v1)|[2412.04426v1](http://arxiv.org/pdf/2412.04426v1)|null|
+|**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424v1](http://arxiv.org/abs/2412.04424v1)|[2412.04424v1](http://arxiv.org/pdf/2412.04424v1)|null|
+|**2024-12-05**|**FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**|Pranab Sahoo et.al.|[2412.04416v1](http://arxiv.org/abs/2412.04416v1)|[2412.04416v1](http://arxiv.org/pdf/2412.04416v1)|null|
+|**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415v1](http://arxiv.org/abs/2412.04415v1)|[2412.04415v1](http://arxiv.org/pdf/2412.04415v1)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572v1](http://arxiv.org/abs/2412.03572v1)|[2412.03572v1](http://arxiv.org/pdf/2412.03572v1)|null|
 |**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568v1](http://arxiv.org/abs/2412.03568v1)|[2412.03568v1](http://arxiv.org/pdf/2412.03568v1)|null|
 |**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|Rui Xiao et.al.|[2412.03561v1](http://arxiv.org/abs/2412.03561v1)|[2412.03561v1](http://arxiv.org/pdf/2412.03561v1)|**[link](https://github.com/explainableml/flair)**|
