@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-06**|**The neutron veto of the XENONnT experiment: Results with demineralized water**|XENON Collaboration et.al.|[2412.05264v1](http://arxiv.org/abs/2412.05264v1)|[2412.05264v1](http://arxiv.org/pdf/2412.05264v1)|null|
+|**2024-12-06**|**New analysis of SNeIa Pantheon Catalog: Variable speed of light as an alternative to dark energy**|Hoang Ky Nguyen et.al.|[2412.05262v1](http://arxiv.org/abs/2412.05262v1)|[2412.05262v1](http://arxiv.org/pdf/2412.05262v1)|null|
+|**2024-12-06**|**Using the helium triplet as a tracer of the physics of giant planet outflows**|Matthäus Schulik et.al.|[2412.05258v1](http://arxiv.org/abs/2412.05258v1)|[2412.05258v1](http://arxiv.org/pdf/2412.05258v1)|null|
+|**2024-12-06**|**Lack of Rest-frame UV Variability in Little Red Dots Based on HST and JWST Observations**|Wei Leong Tee et.al.|[2412.05242v1](http://arxiv.org/abs/2412.05242v1)|[2412.05242v1](http://arxiv.org/pdf/2412.05242v1)|null|
+|**2024-12-06**|**Millisecond Pulsars in Globular Clusters and Implications for the Galactic Center Gamma-Ray Excess**|Aurelio Amerio et.al.|[2412.05220v1](http://arxiv.org/abs/2412.05220v1)|[2412.05220v1](http://arxiv.org/pdf/2412.05220v1)|null|
+|**2024-12-06**|**Masquerading hybrid stars with dark matter**|Carline Biesdorf et.al.|[2412.05207v1](http://arxiv.org/abs/2412.05207v1)|[2412.05207v1](http://arxiv.org/pdf/2412.05207v1)|null|
+|**2024-12-06**|**X-ray/Radio Quasi-periodic Pulsations Associated with Plasmoids in Solar Flare Current Sheets**|Pankaj Kumar et.al.|[2412.05193v1](http://arxiv.org/abs/2412.05193v1)|[2412.05193v1](http://arxiv.org/pdf/2412.05193v1)|null|
+|**2024-12-06**|**Novel Physics of Escaping Secondary Atmospheres May Shape the Cosmic Shoreline**|Richard D. Chatterjee et.al.|[2412.05188v1](http://arxiv.org/abs/2412.05188v1)|[2412.05188v1](http://arxiv.org/pdf/2412.05188v1)|null|
+|**2024-12-06**|**The reliability of gas-phase metallicities immediately adjacent to non-star-forming spaxels in MaNGA**|Jillian M. Scudder et.al.|[2412.05140v1](http://arxiv.org/abs/2412.05140v1)|[2412.05140v1](http://arxiv.org/pdf/2412.05140v1)|null|
+|**2024-12-06**|**Probabilistic Galaxy Field Generation with Diffusion Models**|Tanner Sether et.al.|[2412.05131v1](http://arxiv.org/abs/2412.05131v1)|[2412.05131v1](http://arxiv.org/pdf/2412.05131v1)|null|
 |**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443v1](http://arxiv.org/abs/2412.04443v1)|[2412.04443v1](http://arxiv.org/pdf/2412.04443v1)|null|
 |**2024-12-05**|**From Misaligned Sub-Saturns to Aligned Brown Dwarfs: The Highest $M_{\rm p}/M{_*}$ Systems Exhibit Low Obliquities, Even around Hot Stars**|Jace Rusznak et.al.|[2412.04438v1](http://arxiv.org/abs/2412.04438v1)|[2412.04438v1](http://arxiv.org/pdf/2412.04438v1)|null|
 |**2024-12-05**|**Overdensity of Lyman-Break Galaxy Candidates Around Hot Dust-Obscured Galaxies**|Dejene Zewdie et.al.|[2412.04436v1](http://arxiv.org/abs/2412.04436v1)|[2412.04436v1](http://arxiv.org/pdf/2412.04436v1)|null|
@@ -6077,6 +6087,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280v1](http://arxiv.org/abs/2412.05280v1)|[2412.05280v1](http://arxiv.org/pdf/2412.05280v1)|**[link](https://github.com/wzzheng/stag)**|
+|**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275v1](http://arxiv.org/abs/2412.05275v1)|[2412.05275v1](http://arxiv.org/pdf/2412.05275v1)|null|
+|**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270v1](http://arxiv.org/abs/2412.05270v1)|[2412.05270v1](http://arxiv.org/pdf/2412.05270v1)|null|
+|**2024-12-06**|**Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases**|Krzysztof Maziarz et.al.|[2412.05269v1](http://arxiv.org/abs/2412.05269v1)|[2412.05269v1](http://arxiv.org/pdf/2412.05269v1)|null|
+|**2024-12-06**|**Reinforcement Learning: An Overview**|Kevin Murphy et.al.|[2412.05265v1](http://arxiv.org/abs/2412.05265v1)|[2412.05265v1](http://arxiv.org/pdf/2412.05265v1)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256v1](http://arxiv.org/abs/2412.05256v1)|[2412.05256v1](http://arxiv.org/pdf/2412.05256v1)|null|
+|**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255v1](http://arxiv.org/abs/2412.05255v1)|[2412.05255v1](http://arxiv.org/pdf/2412.05255v1)|**[link](https://github.com/teamcraft-bench/teamcraft)**|
+|**2024-12-06**|**From classical techniques to convolution-based models: A review of object detection algorithms**|Fnu Neha et.al.|[2412.05252v1](http://arxiv.org/abs/2412.05252v1)|[2412.05252v1](http://arxiv.org/pdf/2412.05252v1)|null|
+|**2024-12-06**|**Uncertainty Quantification for Transformer Models for Dark-Pattern Detection**|Javier Muñoz et.al.|[2412.05251v1](http://arxiv.org/abs/2412.05251v1)|[2412.05251v1](http://arxiv.org/pdf/2412.05251v1)|null|
+|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248v1](http://arxiv.org/abs/2412.05248v1)|[2412.05248v1](http://arxiv.org/pdf/2412.05248v1)|null|
 |**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471v1](http://arxiv.org/abs/2412.04471v1)|[2412.04471v1](http://arxiv.org/pdf/2412.04471v1)|null|
 |**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469v1](http://arxiv.org/abs/2412.04469v1)|[2412.04469v1](http://arxiv.org/pdf/2412.04469v1)|null|
 |**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467v1](http://arxiv.org/abs/2412.04467v1)|[2412.04467v1](http://arxiv.org/pdf/2412.04467v1)|**[link](https://github.com/dvlab-research/visionzip)**|
