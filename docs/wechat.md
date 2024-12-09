@@ -1,4 +1,4 @@
-> Updated on 2024.12.08
+> Updated on 2024.12.09
 
 ## Astrophysics
 
@@ -6081,7 +6081,7 @@
 - 2024-12-05, **Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**, Yi Chen et.al., Paper: [http://arxiv.org/abs/2412.04445v1](http://arxiv.org/abs/2412.04445v1), Paper: [http://arxiv.org/abs/2412.04445v1](http://arxiv.org/pdf/2412.04445v1)
 - 2024-12-05, **Marvel: Accelerating Safe Online Reinforcement Learning with Finetuned Offline Policy**, Keru Chen et.al., Paper: [http://arxiv.org/abs/2412.04426v1](http://arxiv.org/abs/2412.04426v1), Paper: [http://arxiv.org/abs/2412.04426v1](http://arxiv.org/pdf/2412.04426v1)
 - 2024-12-05, **Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**, Jiuhai Chen et.al., Paper: [http://arxiv.org/abs/2412.04424v1](http://arxiv.org/abs/2412.04424v1),Paper: [http://arxiv.org/abs/2412.04424v1](http://arxiv.org/pdf/2412.04424v1), Code: **[https://github.com/jiuhaichen/florence-vl](https://github.com/jiuhaichen/florence-vl)**
-- 2024-12-05, **FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**, Pranab Sahoo et.al., Paper: [http://arxiv.org/abs/2412.04416v1](http://arxiv.org/abs/2412.04416v1), Paper: [http://arxiv.org/abs/2412.04416v1](http://arxiv.org/pdf/2412.04416v1)
+- 2024-12-05, **FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**, Pranab Sahoo et.al., Paper: [http://arxiv.org/abs/2412.04416v1](http://arxiv.org/abs/2412.04416v1),Paper: [http://arxiv.org/abs/2412.04416v1](http://arxiv.org/pdf/2412.04416v1), Code: **[https://github.com/Pranabiitp/FedDUAL](https://github.com/Pranabiitp/FedDUAL)**
 - 2024-12-05, **Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**, Xuying Li et.al., Paper: [http://arxiv.org/abs/2412.04415v1](http://arxiv.org/abs/2412.04415v1), Paper: [http://arxiv.org/abs/2412.04415v1](http://arxiv.org/pdf/2412.04415v1)
 - 2024-12-04, **Navigation World Models**, Amir Bar et.al., Paper: [http://arxiv.org/abs/2412.03572v1](http://arxiv.org/abs/2412.03572v1), Paper: [http://arxiv.org/abs/2412.03572v1](http://arxiv.org/pdf/2412.03572v1)
 - 2024-12-04, **The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**, Ruili Feng et.al., Paper: [http://arxiv.org/abs/2412.03568v1](http://arxiv.org/abs/2412.03568v1), Paper: [http://arxiv.org/abs/2412.03568v1](http://arxiv.org/pdf/2412.03568v1)
