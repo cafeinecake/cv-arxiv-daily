@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-09**|**The electron cyclotron maser instability in laser-ionized plasmas**|Thales Silva et.al.|[2412.06783v1](http://arxiv.org/abs/2412.06783v1)|[2412.06783v1](http://arxiv.org/pdf/2412.06783v1)|null|
+|**2024-12-09**|**Dark Matter Freeze-In during Warm Inflation and the Seesaw Mechanism**|Rayff de Souza et.al.|[2412.06778v1](http://arxiv.org/abs/2412.06778v1)|[2412.06778v1](http://arxiv.org/pdf/2412.06778v1)|null|
+|**2024-12-09**|**How Well Do We Know the Scalar-Induced Gravitational Waves?**|A. J. Iovino et.al.|[2412.06764v1](http://arxiv.org/abs/2412.06764v1)|[2412.06764v1](http://arxiv.org/pdf/2412.06764v1)|null|
+|**2024-12-09**|**New Ionization Models and the Shocking Nitrogen Excess at z > 5**|Sophia R. Flury et.al.|[2412.06763v1](http://arxiv.org/abs/2412.06763v1)|[2412.06763v1](http://arxiv.org/pdf/2412.06763v1)|null|
+|**2024-12-09**|**Can decaying vacuum solve the H_0 Tension?**|L. S. Brito et.al.|[2412.06756v1](http://arxiv.org/abs/2412.06756v1)|[2412.06756v1](http://arxiv.org/pdf/2412.06756v1)|null|
+|**2024-12-09**|**Hydrogen intensity mapping with MeerKAT: Preserving cosmological signal by optimising contaminant separation**|Isabella P. Carucci et.al.|[2412.06750v1](http://arxiv.org/abs/2412.06750v1)|[2412.06750v1](http://arxiv.org/pdf/2412.06750v1)|null|
+|**2024-12-09**|**$f$-mode oscillations of dark matter admixed quarkyonic neutron star**|D. Dey et.al.|[2412.06739v1](http://arxiv.org/abs/2412.06739v1)|[2412.06739v1](http://arxiv.org/pdf/2412.06739v1)|null|
+|**2024-12-09**|**Revisiting GRB 060218: new insights into low-luminosity gamma-ray bursts from a revised shock breakout model**|Christopher M. Irwin et.al.|[2412.06736v1](http://arxiv.org/abs/2412.06736v1)|[2412.06736v1](http://arxiv.org/pdf/2412.06736v1)|null|
+|**2024-12-09**|**Demystifying shock breakout spectra**|Christopher M. Irwin et.al.|[2412.06734v1](http://arxiv.org/abs/2412.06734v1)|[2412.06734v1](http://arxiv.org/pdf/2412.06734v1)|null|
+|**2024-12-09**|**An unexplored regime of shock breakout with a distinct spectral signature**|Christopher M. Irwin et.al.|[2412.06733v1](http://arxiv.org/abs/2412.06733v1)|[2412.06733v1](http://arxiv.org/pdf/2412.06733v1)|null|
 |**2024-12-06**|**The neutron veto of the XENONnT experiment: Results with demineralized water**|XENON Collaboration et.al.|[2412.05264v1](http://arxiv.org/abs/2412.05264v1)|[2412.05264v1](http://arxiv.org/pdf/2412.05264v1)|null|
 |**2024-12-06**|**New analysis of SNeIa Pantheon Catalog: Variable speed of light as an alternative to dark energy**|Hoang Ky Nguyen et.al.|[2412.05262v1](http://arxiv.org/abs/2412.05262v1)|[2412.05262v1](http://arxiv.org/pdf/2412.05262v1)|null|
 |**2024-12-06**|**Using the helium triplet as a tracer of the physics of giant planet outflows**|Matthäus Schulik et.al.|[2412.05258v1](http://arxiv.org/abs/2412.05258v1)|[2412.05258v1](http://arxiv.org/pdf/2412.05258v1)|null|
@@ -6087,6 +6097,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v1](http://arxiv.org/abs/2412.06787v1)|[2412.06787v1](http://arxiv.org/pdf/2412.06787v1)|null|
+|**2024-12-09**|**P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Policies**|Mara Levy et.al.|[2412.06784v1](http://arxiv.org/abs/2412.06784v1)|[2412.06784v1](http://arxiv.org/pdf/2412.06784v1)|null|
+|**2024-12-09**|**AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation**|Guanxing Lu et.al.|[2412.06779v1](http://arxiv.org/abs/2412.06779v1)|[2412.06779v1](http://arxiv.org/pdf/2412.06779v1)|null|
+|**2024-12-09**|**Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving**|Xin Fei et.al.|[2412.06777v1](http://arxiv.org/abs/2412.06777v1)|[2412.06777v1](http://arxiv.org/pdf/2412.06777v1)|**[link](https://github.com/barrybarry-smith/driv3r)**|
+|**2024-12-09**|**Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models**|Yi-Lun Lee et.al.|[2412.06775v1](http://arxiv.org/abs/2412.06775v1)|[2412.06775v1](http://arxiv.org/pdf/2412.06775v1)|**[link](https://github.com/yilunlee/vcd_analysis)**|
+|**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774v1](http://arxiv.org/abs/2412.06774v1)|[2412.06774v1](http://arxiv.org/pdf/2412.06774v1)|null|
+|**2024-12-09**|**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**|Meera Hahn et.al.|[2412.06771v1](http://arxiv.org/abs/2412.06771v1)|[2412.06771v1](http://arxiv.org/pdf/2412.06771v1)|**[link](https://github.com/google-deepmind/proactive_t2i_agents)**|
+|**2024-12-09**|**XRZoo: A Large-Scale and Versatile Dataset of Extended Reality (XR) Applications**|Shuqing Li et.al.|[2412.06759v1](http://arxiv.org/abs/2412.06759v1)|[2412.06759v1](http://arxiv.org/pdf/2412.06759v1)|null|
+|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742v1](http://arxiv.org/abs/2412.06742v1)|[2412.06742v1](http://arxiv.org/pdf/2412.06742v1)|null|
+|**2024-12-09**|**Toward Non-Invasive Diagnosis of Bankart Lesions with Deep Learning**|Sahil Sethi et.al.|[2412.06717v1](http://arxiv.org/abs/2412.06717v1)|[2412.06717v1](http://arxiv.org/pdf/2412.06717v1)|null|
 |**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280v1](http://arxiv.org/abs/2412.05280v1)|[2412.05280v1](http://arxiv.org/pdf/2412.05280v1)|**[link](https://github.com/wzzheng/stag)**|
 |**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275v1](http://arxiv.org/abs/2412.05275v1)|[2412.05275v1](http://arxiv.org/pdf/2412.05275v1)|null|
 |**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270v1](http://arxiv.org/abs/2412.05270v1)|[2412.05270v1](http://arxiv.org/pdf/2412.05270v1)|null|
