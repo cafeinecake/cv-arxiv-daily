@@ -1,4 +1,4 @@
-> Updated on 2024.12.09
+> Updated on 2024.12.10
 
 ## Astrophysics
 
@@ -6088,7 +6088,7 @@
 - 2024-12-06, **APOLLO: SGD-like Memory, AdamW-level Performance**, Hanqing Zhu et.al., Paper: [http://arxiv.org/abs/2412.05270v1](http://arxiv.org/abs/2412.05270v1), Paper: [http://arxiv.org/abs/2412.05270v1](http://arxiv.org/pdf/2412.05270v1)
 - 2024-12-06, **Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases**, Krzysztof Maziarz et.al., Paper: [http://arxiv.org/abs/2412.05269v1](http://arxiv.org/abs/2412.05269v1), Paper: [http://arxiv.org/abs/2412.05269v1](http://arxiv.org/pdf/2412.05269v1)
 - 2024-12-06, **Reinforcement Learning: An Overview**, Kevin Murphy et.al., Paper: [http://arxiv.org/abs/2412.05265v1](http://arxiv.org/abs/2412.05265v1), Paper: [http://arxiv.org/abs/2412.05265v1](http://arxiv.org/pdf/2412.05265v1)
-- 2024-12-06, **Extrapolated Urban View Synthesis Benchmark**, Xiangyu Han et.al., Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/abs/2412.05256v1), Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/pdf/2412.05256v1)
+- 2024-12-06, **Extrapolated Urban View Synthesis Benchmark**, Xiangyu Han et.al., Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/abs/2412.05256v1),Paper: [http://arxiv.org/abs/2412.05256v1](http://arxiv.org/pdf/2412.05256v1), Code: **[https://github.com/ai4ce/EUVS-Benchmark](https://github.com/ai4ce/EUVS-Benchmark)**
 - 2024-12-06, **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**, Qian Long et.al., Paper: [http://arxiv.org/abs/2412.05255v1](http://arxiv.org/abs/2412.05255v1),Paper: [http://arxiv.org/abs/2412.05255v1](http://arxiv.org/pdf/2412.05255v1), Code: **[https://github.com/teamcraft-bench/teamcraft](https://github.com/teamcraft-bench/teamcraft)**
 - 2024-12-06, **From classical techniques to convolution-based models: A review of object detection algorithms**, Fnu Neha et.al., Paper: [http://arxiv.org/abs/2412.05252v1](http://arxiv.org/abs/2412.05252v1), Paper: [http://arxiv.org/abs/2412.05252v1](http://arxiv.org/pdf/2412.05252v1)
 - 2024-12-06, **Uncertainty Quantification for Transformer Models for Dark-Pattern Detection**, Javier Muñoz et.al., Paper: [http://arxiv.org/abs/2412.05251v1](http://arxiv.org/abs/2412.05251v1), Paper: [http://arxiv.org/abs/2412.05251v1](http://arxiv.org/pdf/2412.05251v1)
