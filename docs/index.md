@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765v1](http://arxiv.org/abs/2412.07765v1)|[2412.07765v1](http://arxiv.org/pdf/2412.07765v1)|null|
+|**2024-12-10**|**Fastest spinning millisecond pulsars: indicators for quark matter in neutron stars?**|Christoph Gärtlein et.al.|[2412.07758v1](http://arxiv.org/abs/2412.07758v1)|[2412.07758v1](http://arxiv.org/pdf/2412.07758v1)|null|
+|**2024-12-10**|**A generalized effective potential for differentially rotating plasmas**|Fatima Ebrahimi et.al.|[2412.07742v1](http://arxiv.org/abs/2412.07742v1)|[2412.07742v1](http://arxiv.org/pdf/2412.07742v1)|null|
+|**2024-12-10**|**Runaway O and Be stars found using Gaia DR3, new stellar bow shocks and search for binaries**|M. Carretero-Castrillo et.al.|[2412.07738v1](http://arxiv.org/abs/2412.07738v1)|[2412.07738v1](http://arxiv.org/pdf/2412.07738v1)|null|
+|**2024-12-10**|**The unexpected shape of the primordial black hole mass function**|Jacopo Fumagalli et.al.|[2412.07709v1](http://arxiv.org/abs/2412.07709v1)|[2412.07709v1](http://arxiv.org/pdf/2412.07709v1)|null|
+|**2024-12-10**|**VLASS-based survey of transition state galaxies and their relationship to compact peaked-spectrum radio sources**|M. Kunert-Bajraszewska et.al.|[2412.07702v1](http://arxiv.org/abs/2412.07702v1)|[2412.07702v1](http://arxiv.org/pdf/2412.07702v1)|null|
+|**2024-12-10**|**Gaia20bdk -- a new FUor in Sh 2-301 Star Forming Region**|M. Siwak et.al.|[2412.07697v1](http://arxiv.org/abs/2412.07697v1)|[2412.07697v1](http://arxiv.org/pdf/2412.07697v1)|null|
+|**2024-12-10**|**The CARMENES search for exoplanets around M dwarfs. The impact of rotation and magnetic fields on the radial velocity jitter in cool stars**|H. L. Ruh et.al.|[2412.07691v1](http://arxiv.org/abs/2412.07691v1)|[2412.07691v1](http://arxiv.org/pdf/2412.07691v1)|null|
+|**2024-12-10**|**Scalar-induced gravitational wave from domain wall perturbation**|Bo-Qiang Lu et.al.|[2412.07677v1](http://arxiv.org/abs/2412.07677v1)|[2412.07677v1](http://arxiv.org/pdf/2412.07677v1)|null|
+|**2024-12-10**|**Mapping the spatial extent of HI-rich absorbers using MgII absorption along gravitational arcs**|Trystyn A. M. Berg et.al.|[2412.07652v1](http://arxiv.org/abs/2412.07652v1)|[2412.07652v1](http://arxiv.org/pdf/2412.07652v1)|null|
 |**2024-12-09**|**The electron cyclotron maser instability in laser-ionized plasmas**|Thales Silva et.al.|[2412.06783v1](http://arxiv.org/abs/2412.06783v1)|[2412.06783v1](http://arxiv.org/pdf/2412.06783v1)|null|
 |**2024-12-09**|**Dark Matter Freeze-In during Warm Inflation and the Seesaw Mechanism**|Rayff de Souza et.al.|[2412.06778v1](http://arxiv.org/abs/2412.06778v1)|[2412.06778v1](http://arxiv.org/pdf/2412.06778v1)|null|
 |**2024-12-09**|**How Well Do We Know the Scalar-Induced Gravitational Waves?**|A. J. Iovino et.al.|[2412.06764v1](http://arxiv.org/abs/2412.06764v1)|[2412.06764v1](http://arxiv.org/pdf/2412.06764v1)|null|
@@ -6101,6 +6111,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776v1](http://arxiv.org/abs/2412.07776v1)|[2412.07776v1](http://arxiv.org/pdf/2412.07776v1)|null|
+|**2024-12-10**|**Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control**|Chenhao Lu et.al.|[2412.07773v1](http://arxiv.org/abs/2412.07773v1)|[2412.07773v1](http://arxiv.org/pdf/2412.07773v1)|null|
+|**2024-12-10**|**SAT: Spatial Aptitude Training for Multimodal Language Models**|Arijit Ray et.al.|[2412.07755v1](http://arxiv.org/abs/2412.07755v1)|[2412.07755v1](http://arxiv.org/pdf/2412.07755v1)|null|
+|**2024-12-10**|**PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**|Fatemeh Nazarieh et.al.|[2412.07754v1](http://arxiv.org/abs/2412.07754v1)|[2412.07754v1](http://arxiv.org/pdf/2412.07754v1)|null|
+|**2024-12-10**|**FlashRNN: Optimizing Traditional RNNs on Modern Hardware**|Korbinian Pöppel et.al.|[2412.07752v1](http://arxiv.org/abs/2412.07752v1)|[2412.07752v1](http://arxiv.org/pdf/2412.07752v1)|null|
+|**2024-12-10**|**Predictive Modeling of Homeless Service Assignment: A Representation Learning Approach**|Khandker Sadia Rahman et.al.|[2412.07747v1](http://arxiv.org/abs/2412.07747v1)|[2412.07747v1](http://arxiv.org/pdf/2412.07747v1)|null|
+|**2024-12-10**|**GASP: Gaussian Avatars with Synthetic Priors**|Jack Saunders et.al.|[2412.07739v1](http://arxiv.org/abs/2412.07739v1)|[2412.07739v1](http://arxiv.org/pdf/2412.07739v1)|null|
+|**2024-12-10**|**STIV: Scalable Text and Image Conditioned Video Generation**|Zongyu Lin et.al.|[2412.07730v1](http://arxiv.org/abs/2412.07730v1)|[2412.07730v1](http://arxiv.org/pdf/2412.07730v1)|null|
+|**2024-12-10**|**Benchmark for Evaluation and Analysis of Citation Recommendation Models**|Puja Maharjan et.al.|[2412.07713v1](http://arxiv.org/abs/2412.07713v1)|[2412.07713v1](http://arxiv.org/pdf/2412.07713v1)|null|
+|**2024-12-10**|**SimVS: Simulating World Inconsistencies for Robust View Synthesis**|Alex Trevithick et.al.|[2412.07696v1](http://arxiv.org/abs/2412.07696v1)|[2412.07696v1](http://arxiv.org/pdf/2412.07696v1)|null|
 |**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v1](http://arxiv.org/abs/2412.06787v1)|[2412.06787v1](http://arxiv.org/pdf/2412.06787v1)|**[link](https://github.com/CompVis/mask)**|
 |**2024-12-09**|**P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Policies**|Mara Levy et.al.|[2412.06784v1](http://arxiv.org/abs/2412.06784v1)|[2412.06784v1](http://arxiv.org/pdf/2412.06784v1)|null|
 |**2024-12-09**|**AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation**|Guanxing Lu et.al.|[2412.06779v1](http://arxiv.org/abs/2412.06779v1)|[2412.06779v1](http://arxiv.org/pdf/2412.06779v1)|null|
