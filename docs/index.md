@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-11**|**Testing the equivalence principle across the Universe: a model-independent approach with galaxy multi-tracing**|Sveva Castello et.al.|[2412.08627v1](http://arxiv.org/abs/2412.08627v1)|[2412.08627v1](http://arxiv.org/pdf/2412.08627v1)|null|
+|**2024-12-11**|**A 1% accurate method to include baryonic effects in galaxy-galaxy lensing models**|Matteo Zennaro et.al.|[2412.08623v1](http://arxiv.org/abs/2412.08623v1)|[2412.08623v1](http://arxiv.org/pdf/2412.08623v1)|null|
+|**2024-12-11**|**Dust and gas modelling in radiative transfer simulations of disc-dominated galaxies with RADMC-3D**|Francesco Sinigaglia et.al.|[2412.08609v1](http://arxiv.org/abs/2412.08609v1)|[2412.08609v1](http://arxiv.org/pdf/2412.08609v1)|null|
+|**2024-12-11**|**A New Approach to the Low Frequency Stochastic Gravitational Wave Background: Constraints from Quasars and the Astrometric Hellings-Downs Curve**|Jeremy Darling et.al.|[2412.08605v1](http://arxiv.org/abs/2412.08605v1)|[2412.08605v1](http://arxiv.org/pdf/2412.08605v1)|null|
+|**2024-12-11**|**CCSNscore: A multi-input deep learning tool for classification of core-collapse supernovae using SED-Machine spectra**|Yashvi Sharma et.al.|[2412.08601v1](http://arxiv.org/abs/2412.08601v1)|[2412.08601v1](http://arxiv.org/pdf/2412.08601v1)|null|
+|**2024-12-11**|**On the low-energy limit of stationary and axisymmetric solutions in General Relativity**|Davide Astesiano et.al.|[2412.08598v1](http://arxiv.org/abs/2412.08598v1)|[2412.08598v1](http://arxiv.org/pdf/2412.08598v1)|null|
+|**2024-12-11**|**SPACE-SUIT: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT**|Pranava Seth et.al.|[2412.08589v1](http://arxiv.org/abs/2412.08589v1)|[2412.08589v1](http://arxiv.org/pdf/2412.08589v1)|null|
+|**2024-12-11**|**CHEOPS observations confirm nodal precession in the WASP-33 system**|A. M. S. Smith et.al.|[2412.08557v1](http://arxiv.org/abs/2412.08557v1)|[2412.08557v1](http://arxiv.org/pdf/2412.08557v1)|null|
+|**2024-12-11**|**Characterization of seven transiting systems including four warm Jupiters from SOPHIE and TESS**|N. Heidari et.al.|[2412.08527v1](http://arxiv.org/abs/2412.08527v1)|[2412.08527v1](http://arxiv.org/pdf/2412.08527v1)|null|
+|**2024-12-11**|**Survival and synthetic observables of neutral atomic hydrogen in galactic wind simulations**|Wladimir E. Banda-Barragán et.al.|[2412.08491v1](http://arxiv.org/abs/2412.08491v1)|[2412.08491v1](http://arxiv.org/pdf/2412.08491v1)|null|
 |**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765v1](http://arxiv.org/abs/2412.07765v1)|[2412.07765v1](http://arxiv.org/pdf/2412.07765v1)|null|
 |**2024-12-10**|**Fastest spinning millisecond pulsars: indicators for quark matter in neutron stars?**|Christoph Gärtlein et.al.|[2412.07758v1](http://arxiv.org/abs/2412.07758v1)|[2412.07758v1](http://arxiv.org/pdf/2412.07758v1)|null|
 |**2024-12-10**|**A generalized effective potential for differentially rotating plasmas**|Fatima Ebrahimi et.al.|[2412.07742v1](http://arxiv.org/abs/2412.07742v1)|[2412.07742v1](http://arxiv.org/pdf/2412.07742v1)|null|
@@ -6111,6 +6121,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643v1](http://arxiv.org/abs/2412.08643v1)|[2412.08643v1](http://arxiv.org/pdf/2412.08643v1)|**[link](https://github.com/wzzheng/gpd)**|
+|**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642v1](http://arxiv.org/abs/2412.08642v1)|[2412.08642v1](http://arxiv.org/pdf/2412.08642v1)|null|
+|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|[2412.08637v1](http://arxiv.org/pdf/2412.08637v1)|null|
+|**2024-12-11**|**MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis**|Pegah Ahadian et.al.|[2412.08633v1](http://arxiv.org/abs/2412.08633v1)|[2412.08633v1](http://arxiv.org/pdf/2412.08633v1)|null|
+|**2024-12-11**|**Synthetic Vision: Training Vision-Language Models to Understand Physics**|Vahid Balazadeh et.al.|[2412.08619v1](http://arxiv.org/abs/2412.08619v1)|[2412.08619v1](http://arxiv.org/pdf/2412.08619v1)|null|
+|**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618v1](http://arxiv.org/abs/2412.08618v1)|[2412.08618v1](http://arxiv.org/pdf/2412.08618v1)|null|
+|**2024-12-11**|**Competition and Diversity in Generative AI**|Manish Raghavan et.al.|[2412.08610v1](http://arxiv.org/abs/2412.08610v1)|[2412.08610v1](http://arxiv.org/pdf/2412.08610v1)|null|
+|**2024-12-11**|**AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models**|Mintong Kang et.al.|[2412.08608v1](http://arxiv.org/abs/2412.08608v1)|[2412.08608v1](http://arxiv.org/pdf/2412.08608v1)|null|
+|**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604v1](http://arxiv.org/abs/2412.08604v1)|[2412.08604v1](http://arxiv.org/pdf/2412.08604v1)|null|
+|**2024-12-11**|**Empirical Measurements of AI Training Power Demand on a GPU-Accelerated Node**|Imran Latif et.al.|[2412.08602v1](http://arxiv.org/abs/2412.08602v1)|[2412.08602v1](http://arxiv.org/pdf/2412.08602v1)|null|
 |**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776v1](http://arxiv.org/abs/2412.07776v1)|[2412.07776v1](http://arxiv.org/pdf/2412.07776v1)|**[link](https://github.com/ditflow/ditflow)**|
 |**2024-12-10**|**Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control**|Chenhao Lu et.al.|[2412.07773v1](http://arxiv.org/abs/2412.07773v1)|[2412.07773v1](http://arxiv.org/pdf/2412.07773v1)|null|
 |**2024-12-10**|**SAT: Spatial Aptitude Training for Multimodal Language Models**|Arijit Ray et.al.|[2412.07755v1](http://arxiv.org/abs/2412.07755v1)|[2412.07755v1](http://arxiv.org/pdf/2412.07755v1)|null|
