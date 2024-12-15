@@ -1,4 +1,4 @@
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 
 ## Astrophysics
 
@@ -6129,7 +6129,7 @@
 |---|---|---|---|---|---|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627v1](http://arxiv.org/abs/2412.09627v1)|[2412.09627v1](http://arxiv.org/pdf/2412.09627v1)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**GenEx: Generating an Explorable World**|Taiming Lu et.al.|[2412.09624v1](http://arxiv.org/abs/2412.09624v1)|[2412.09624v1](http://arxiv.org/pdf/2412.09624v1)|null|
-|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v1](http://arxiv.org/abs/2412.09612v1)|[2412.09612v1](http://arxiv.org/pdf/2412.09612v1)|null|
+|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v1](http://arxiv.org/abs/2412.09612v1)|[2412.09612v1](http://arxiv.org/pdf/2412.09612v1)|**[link](https://github.com/yuanze-lin/olympus_page)**|
 |**2024-12-12**|**Hidden Biases of End-to-End Driving Datasets**|Julian Zimmerlin et.al.|[2412.09602v1](http://arxiv.org/abs/2412.09602v1)|[2412.09602v1](http://arxiv.org/pdf/2412.09602v1)|**[link](https://github.com/autonomousvision/carla_garage)**|
 |**2024-12-12**|**TimeRefine: Temporal Grounding with Time Refining Video LLM**|Xizi Wang et.al.|[2412.09601v1](http://arxiv.org/abs/2412.09601v1)|[2412.09601v1](http://arxiv.org/pdf/2412.09601v1)|null|
 |**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600v1](http://arxiv.org/abs/2412.09600v1)|[2412.09600v1](http://arxiv.org/pdf/2412.09600v1)|**[link](https://github.com/huang-yh/owl)**|
