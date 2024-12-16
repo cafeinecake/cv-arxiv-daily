@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-13**|**Is inflationary magnetogenesis sensitive to the post-inflationary history ?**|Konstantinos Dimopoulos et.al.|[2412.10367v1](http://arxiv.org/abs/2412.10367v1)|[2412.10367v1](http://arxiv.org/pdf/2412.10367v1)|null|
+|**2024-12-13**|**Black holes and gravitational waves from phase transitions in realistic models**|Marek Lewicki et.al.|[2412.10366v1](http://arxiv.org/abs/2412.10366v1)|[2412.10366v1](http://arxiv.org/pdf/2412.10366v1)|null|
+|**2024-12-13**|**Protoplanetary discs around sun-like stars appear to live longer when the metallicity is low**|Guido De Marchi et.al.|[2412.10361v1](http://arxiv.org/abs/2412.10361v1)|[2412.10361v1](http://arxiv.org/pdf/2412.10361v1)|null|
+|**2024-12-13**|**Old Dogs, New Tricks: Re-examining Photographic Spectra of Plaskett's Star**|T. J. Davidge et.al.|[2412.10355v1](http://arxiv.org/abs/2412.10355v1)|[2412.10355v1](http://arxiv.org/pdf/2412.10355v1)|null|
+|**2024-12-13**|**Accretion Disc-Jet Decomposition from the Optical-Near Infrared Monitoring of Fermi Blazars**|Garima Rajguru et.al.|[2412.10343v1](http://arxiv.org/abs/2412.10343v1)|[2412.10343v1](http://arxiv.org/pdf/2412.10343v1)|null|
+|**2024-12-13**|**Novel electrically charged wormhole, black hole and black bounce exact solutions in hybrid metric-Palatini gravity**|Gabriel I. Róis et.al.|[2412.10324v1](http://arxiv.org/abs/2412.10324v1)|[2412.10324v1](http://arxiv.org/pdf/2412.10324v1)|null|
+|**2024-12-13**|**Transient Blurring of the Scintillation Arc of Pulsar B1737+13**|Yen-Hua Chen et.al.|[2412.10323v1](http://arxiv.org/abs/2412.10323v1)|[2412.10323v1](http://arxiv.org/pdf/2412.10323v1)|null|
+|**2024-12-13**|**Simulation-based inference on warm dark matter from HERA forecasts**|Quentin Decant et.al.|[2412.10310v1](http://arxiv.org/abs/2412.10310v1)|[2412.10310v1](http://arxiv.org/pdf/2412.10310v1)|null|
+|**2024-12-13**|**Quantum Scales of Galaxies from Self-interacting Ultralight Dark Matter**|Jae-Weon Lee et.al.|[2412.10285v1](http://arxiv.org/abs/2412.10285v1)|[2412.10285v1](http://arxiv.org/pdf/2412.10285v1)|null|
+|**2024-12-13**|**Constraints on primordial non-Gaussianity from the cross-correlation of DESI Luminous Red Galaxies and $Planck$ CMB lensing**|J. R. Bermejo-Climent et.al.|[2412.10279v1](http://arxiv.org/abs/2412.10279v1)|[2412.10279v1](http://arxiv.org/pdf/2412.10279v1)|null|
 |**2024-12-12**|**Probing a diffuse flux of axion-like particles from galactic supernovae with neutrino water Cherenkov detectors**|David Alonso-González et.al.|[2412.09595v1](http://arxiv.org/abs/2412.09595v1)|[2412.09595v1](http://arxiv.org/pdf/2412.09595v1)|null|
 |**2024-12-12**|**JWST PRIMER: strong evidence for the environmental quenching of low-mass galaxies out to $\mathbf{\textit{z} \simeq 2}$**|M. L. Hamadouche et.al.|[2412.09592v1](http://arxiv.org/abs/2412.09592v1)|[2412.09592v1](http://arxiv.org/pdf/2412.09592v1)|null|
 |**2024-12-12**|**Limits on dark matter, ultralight scalars, and cosmic neutrinos with gyroscope spin and precision clocks**|Sara Rufrano Aliberti et.al.|[2412.09575v1](http://arxiv.org/abs/2412.09575v1)|[2412.09575v1](http://arxiv.org/pdf/2412.09575v1)|null|
@@ -6127,6 +6137,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373v1](http://arxiv.org/abs/2412.10373v1)|[2412.10373v1](http://arxiv.org/pdf/2412.10373v1)|**[link](https://github.com/zuosc19/gaussianworld)**|
+|**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371v1](http://arxiv.org/abs/2412.10371v1)|[2412.10371v1](http://arxiv.org/pdf/2412.10371v1)|**[link](https://github.com/wzzheng/gaussianad)**|
+|**2024-12-13**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360v1](http://arxiv.org/abs/2412.10360v1)|[2412.10360v1](http://arxiv.org/pdf/2412.10360v1)|null|
+|**2024-12-13**|**A Library for Learning Neural Operators**|Jean Kossaifi et.al.|[2412.10354v1](http://arxiv.org/abs/2412.10354v1)|[2412.10354v1](http://arxiv.org/pdf/2412.10354v1)|null|
+|**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348v1](http://arxiv.org/abs/2412.10348v1)|[2412.10348v1](http://arxiv.org/pdf/2412.10348v1)|null|
+|**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347v1](http://arxiv.org/abs/2412.10347v1)|[2412.10347v1](http://arxiv.org/pdf/2412.10347v1)|null|
+|**2024-12-13**|**TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**|Ruijie Zheng et.al.|[2412.10345v1](http://arxiv.org/abs/2412.10345v1)|[2412.10345v1](http://arxiv.org/pdf/2412.10345v1)|null|
+|**2024-12-13**|**Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining**|Zhiqi Ge et.al.|[2412.10342v1](http://arxiv.org/abs/2412.10342v1)|[2412.10342v1](http://arxiv.org/pdf/2412.10342v1)|null|
+|**2024-12-13**|**Generative AI in Medicine**|Divya Shanmugam et.al.|[2412.10337v1](http://arxiv.org/abs/2412.10337v1)|[2412.10337v1](http://arxiv.org/pdf/2412.10337v1)|null|
+|**2024-12-13**|**Applied Statistics in the Era of Artificial Intelligence: A Review and Vision**|Jie Min et.al.|[2412.10331v1](http://arxiv.org/abs/2412.10331v1)|[2412.10331v1](http://arxiv.org/pdf/2412.10331v1)|null|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627v1](http://arxiv.org/abs/2412.09627v1)|[2412.09627v1](http://arxiv.org/pdf/2412.09627v1)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**GenEx: Generating an Explorable World**|Taiming Lu et.al.|[2412.09624v1](http://arxiv.org/abs/2412.09624v1)|[2412.09624v1](http://arxiv.org/pdf/2412.09624v1)|null|
 |**2024-12-13**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v2](http://arxiv.org/abs/2412.09612v2)|[2412.09612v2](http://arxiv.org/pdf/2412.09612v2)|**[link](https://github.com/yuanze-lin/olympus_page)**|
