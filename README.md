@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-16**|**Black Hole Merger Rates in AGN: contribution from gas-captu**|Connar Rowan et.al.|[2412.12086v1](http://arxiv.org/abs/2412.12086v1)|[2412.12086v1](http://arxiv.org/pdf/2412.12086v1)|null|
+|**2024-12-16**|**DarkNESS: developing a skipper-CCD instrument to search for Dark Matter from Low Earth Orbit**|Phoenix Alpine et.al.|[2412.12084v1](http://arxiv.org/abs/2412.12084v1)|[2412.12084v1](http://arxiv.org/pdf/2412.12084v1)|null|
+|**2024-12-16**|**$X+y$: insights on gas thermodynamics from the combination of X-ray and thermal Sunyaev-Zel'dovich data cross-correlated with cosmic shear**|Adrien La Posta et.al.|[2412.12081v1](http://arxiv.org/abs/2412.12081v1)|[2412.12081v1](http://arxiv.org/pdf/2412.12081v1)|null|
+|**2024-12-16**|**Mitigating cosmic variance in the Hellings-Downs curve: a Cosmic Microwave Background analogy**|Cyril Pitrou et.al.|[2412.12073v1](http://arxiv.org/abs/2412.12073v1)|[2412.12073v1](http://arxiv.org/pdf/2412.12073v1)|null|
+|**2024-12-16**|**To model or not to model: nebular continuum in galaxy spectra**|Henrique Miranda et.al.|[2412.12060v1](http://arxiv.org/abs/2412.12060v1)|[2412.12060v1](http://arxiv.org/pdf/2412.12060v1)|null|
+|**2024-12-16**|**The Fate of Oceans on First-Generation Planets Orbiting White Dwarfs**|Juliette Becker et.al.|[2412.12056v1](http://arxiv.org/abs/2412.12056v1)|[2412.12056v1](http://arxiv.org/pdf/2412.12056v1)|null|
+|**2024-12-16**|**Africanus I. Scalable, distributed and efficient radio data processing with Dask-MS and Codex Africanus**|Simon J. Perkins et.al.|[2412.12052v1](http://arxiv.org/abs/2412.12052v1)|[2412.12052v1](http://arxiv.org/pdf/2412.12052v1)|null|
+|**2024-12-16**|**A 22-Year Cycle of the Network Topology for Solar Active Regions**|Eduardo Flández et.al.|[2412.12047v1](http://arxiv.org/abs/2412.12047v1)|[2412.12047v1](http://arxiv.org/pdf/2412.12047v1)|null|
+|**2024-12-16**|**Horndeski in motion**|J. Bayron Orjuela-Quintana et.al.|[2412.12018v1](http://arxiv.org/abs/2412.12018v1)|[2412.12018v1](http://arxiv.org/pdf/2412.12018v1)|null|
+|**2024-12-16**|**Evidence for the spin-kick alignment of pulsars from the statistics of their magnetic inclinations**|Anton Biryukov et.al.|[2412.12017v1](http://arxiv.org/abs/2412.12017v1)|[2412.12017v1](http://arxiv.org/pdf/2412.12017v1)|null|
 |**2024-12-13**|**Is inflationary magnetogenesis sensitive to the post-inflationary history ?**|Konstantinos Dimopoulos et.al.|[2412.10367v1](http://arxiv.org/abs/2412.10367v1)|[2412.10367v1](http://arxiv.org/pdf/2412.10367v1)|null|
 |**2024-12-13**|**Black holes and gravitational waves from phase transitions in realistic models**|Marek Lewicki et.al.|[2412.10366v1](http://arxiv.org/abs/2412.10366v1)|[2412.10366v1](http://arxiv.org/pdf/2412.10366v1)|null|
 |**2024-12-13**|**Protoplanetary discs around sun-like stars appear to live longer when the metallicity is low**|Guido De Marchi et.al.|[2412.10361v1](http://arxiv.org/abs/2412.10361v1)|[2412.10361v1](http://arxiv.org/pdf/2412.10361v1)|null|
@@ -6137,6 +6147,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098v1](http://arxiv.org/abs/2412.12098v1)|[2412.12098v1](http://arxiv.org/pdf/2412.12098v1)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094v1](http://arxiv.org/abs/2412.12094v1)|[2412.12094v1](http://arxiv.org/pdf/2412.12094v1)|null|
+|**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089v1](http://arxiv.org/abs/2412.12089v1)|[2412.12089v1](http://arxiv.org/pdf/2412.12089v1)|null|
+|**2024-12-16**|**Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives**|Marius Belly et.al.|[2412.12063v1](http://arxiv.org/abs/2412.12063v1)|[2412.12063v1](http://arxiv.org/pdf/2412.12063v1)|null|
+|**2024-12-16**|**Artificial Intelligence in Traffic Systems**|Ritwik Raj Saxena et.al.|[2412.12046v1](http://arxiv.org/abs/2412.12046v1)|[2412.12046v1](http://arxiv.org/pdf/2412.12046v1)|null|
+|**2024-12-16**|**The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports**|Julián N. Acosta et.al.|[2412.12042v1](http://arxiv.org/abs/2412.12042v1)|[2412.12042v1](http://arxiv.org/pdf/2412.12042v1)|null|
+|**2024-12-16**|**Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection**|Ira Ceka et.al.|[2412.12039v1](http://arxiv.org/abs/2412.12039v1)|[2412.12039v1](http://arxiv.org/pdf/2412.12039v1)|null|
+|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032v1](http://arxiv.org/abs/2412.12032v1)|[2412.12032v1](http://arxiv.org/pdf/2412.12032v1)|null|
+|**2024-12-16**|**Memory-Reduced Meta-Learning with Guaranteed Convergence**|Honglin Yang et.al.|[2412.12030v1](http://arxiv.org/abs/2412.12030v1)|[2412.12030v1](http://arxiv.org/pdf/2412.12030v1)|null|
+|**2024-12-16**|**Learning to Navigate in Mazes with Novel Layouts using Abstract Top-down Maps**|Linfeng Zhao et.al.|[2412.12024v1](http://arxiv.org/abs/2412.12024v1)|[2412.12024v1](http://arxiv.org/pdf/2412.12024v1)|null|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373v1](http://arxiv.org/abs/2412.10373v1)|[2412.10373v1](http://arxiv.org/pdf/2412.10373v1)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371v1](http://arxiv.org/abs/2412.10371v1)|[2412.10371v1](http://arxiv.org/pdf/2412.10371v1)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360v1](http://arxiv.org/abs/2412.10360v1)|[2412.10360v1](http://arxiv.org/pdf/2412.10360v1)|null|
