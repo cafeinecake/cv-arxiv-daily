@@ -1,4 +1,4 @@
-> Updated on 2024.12.17
+> Updated on 2024.12.18
 
 ## Astrophysics
 
@@ -6144,7 +6144,7 @@
 ## AI
 
 - 2024-12-16, **MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**, Bhavya Sukhija et.al., Paper: [http://arxiv.org/abs/2412.12098v1](http://arxiv.org/abs/2412.12098v1), Paper: [http://arxiv.org/abs/2412.12098v1](http://arxiv.org/pdf/2412.12098v1)
-- 2024-12-16, **SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**, Guoxuan Chen et.al., Paper: [http://arxiv.org/abs/2412.12094v1](http://arxiv.org/abs/2412.12094v1), Paper: [http://arxiv.org/abs/2412.12094v1](http://arxiv.org/pdf/2412.12094v1)
+- 2024-12-16, **SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**, Guoxuan Chen et.al., Paper: [http://arxiv.org/abs/2412.12094v1](http://arxiv.org/abs/2412.12094v1),Paper: [http://arxiv.org/abs/2412.12094v1](http://arxiv.org/pdf/2412.12094v1), Code: **[https://github.com/HKUDS/SepLLM](https://github.com/HKUDS/SepLLM)**
 - 2024-12-16, **Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**, Eliot Xing et.al., Paper: [http://arxiv.org/abs/2412.12089v1](http://arxiv.org/abs/2412.12089v1), Paper: [http://arxiv.org/abs/2412.12089v1](http://arxiv.org/pdf/2412.12089v1)
 - 2024-12-16, **Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives**, Marius Belly et.al., Paper: [http://arxiv.org/abs/2412.12063v1](http://arxiv.org/abs/2412.12063v1), Paper: [http://arxiv.org/abs/2412.12063v1](http://arxiv.org/pdf/2412.12063v1)
 - 2024-12-16, **Artificial Intelligence in Traffic Systems**, Ritwik Raj Saxena et.al., Paper: [http://arxiv.org/abs/2412.12046v1](http://arxiv.org/abs/2412.12046v1), Paper: [http://arxiv.org/abs/2412.12046v1](http://arxiv.org/pdf/2412.12046v1)
