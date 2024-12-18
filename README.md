@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-17**|**Binary properties of the globular cluster 47 Tuc (NGC 104). A dearth of short-period binaries**|Johanna Müller-Horn et.al.|[2412.13189v1](http://arxiv.org/abs/2412.13189v1)|[2412.13189v1](http://arxiv.org/pdf/2412.13189v1)|null|
+|**2024-12-17**|**How the cool-core population transitions from galaxy groups to massive clusters: A comparison of the largest Magneticum simulation with eROSITA, XMM-Newton, Chandra and LOFAR observations**|Justo Antonio Gonzalez Villalba et.al.|[2412.13182v1](http://arxiv.org/abs/2412.13182v1)|[2412.13182v1](http://arxiv.org/pdf/2412.13182v1)|null|
+|**2024-12-17**|**The Red Supergiant Progenitor of the Type II Supernova 2024abfl**|Jingxiao Luo et.al.|[2412.13166v1](http://arxiv.org/abs/2412.13166v1)|[2412.13166v1](http://arxiv.org/pdf/2412.13166v1)|null|
+|**2024-12-17**|**Redshift tomography of the kinematic matter dipole**|Sebastian von Hausegger et.al.|[2412.13162v1](http://arxiv.org/abs/2412.13162v1)|[2412.13162v1](http://arxiv.org/pdf/2412.13162v1)|null|
+|**2024-12-17**|**Gaia vbroad. Spectral-line Broadening, and binarity**|E. Hadad et.al.|[2412.13154v1](http://arxiv.org/abs/2412.13154v1)|[2412.13154v1](http://arxiv.org/pdf/2412.13154v1)|null|
+|**2024-12-17**|**Anisotropic tidal dissipation in misaligned planetary systems**|Pierre Auclair-Desrotour et.al.|[2412.13149v1](http://arxiv.org/abs/2412.13149v1)|[2412.13149v1](http://arxiv.org/pdf/2412.13149v1)|null|
+|**2024-12-17**|**Semi-Analytic Modeling of Dark Matter Subhalo Encounters with Thin Stellar Streams: Statistical Predictions for GD-1-like Streams in CDM**|Duncan K. Adams et.al.|[2412.13144v1](http://arxiv.org/abs/2412.13144v1)|[2412.13144v1](http://arxiv.org/pdf/2412.13144v1)|null|
+|**2024-12-17**|**Effect of Type II Strong Gravitational Lensing on Tests of General Relativity**|Purnima Narayan et.al.|[2412.13132v1](http://arxiv.org/abs/2412.13132v1)|[2412.13132v1](http://arxiv.org/pdf/2412.13132v1)|null|
+|**2024-12-17**|**Constraints on Strongly-Interacting Dark Matter from the James Webb Space Telescope**|Peizhi Du et.al.|[2412.13131v1](http://arxiv.org/abs/2412.13131v1)|[2412.13131v1](http://arxiv.org/pdf/2412.13131v1)|null|
+|**2024-12-17**|**Low-frequency Probes of the Persistent Radio Sources associated with Repeating FRBs**|Yash Bhusare et.al.|[2412.13121v1](http://arxiv.org/abs/2412.13121v1)|[2412.13121v1](http://arxiv.org/pdf/2412.13121v1)|null|
 |**2024-12-16**|**Black Hole Merger Rates in AGN: contribution from gas-captu**|Connar Rowan et.al.|[2412.12086v1](http://arxiv.org/abs/2412.12086v1)|[2412.12086v1](http://arxiv.org/pdf/2412.12086v1)|null|
 |**2024-12-16**|**DarkNESS: developing a skipper-CCD instrument to search for Dark Matter from Low Earth Orbit**|Phoenix Alpine et.al.|[2412.12084v1](http://arxiv.org/abs/2412.12084v1)|[2412.12084v1](http://arxiv.org/pdf/2412.12084v1)|null|
 |**2024-12-16**|**$X+y$: insights on gas thermodynamics from the combination of X-ray and thermal Sunyaev-Zel'dovich data cross-correlated with cosmic shear**|Adrien La Posta et.al.|[2412.12081v1](http://arxiv.org/abs/2412.12081v1)|[2412.12081v1](http://arxiv.org/pdf/2412.12081v1)|null|
@@ -6147,6 +6157,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196v1](http://arxiv.org/abs/2412.13196v1)|[2412.13196v1](http://arxiv.org/pdf/2412.13196v1)|null|
+|**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194v1](http://arxiv.org/abs/2412.13194v1)|[2412.13194v1](http://arxiv.org/pdf/2412.13194v1)|null|
+|**2024-12-17**|**Tilted Quantile Gradient Updates for Quantile-Constrained Reinforcement Learning**|Chenglin Li et.al.|[2412.13184v1](http://arxiv.org/abs/2412.13184v1)|[2412.13184v1](http://arxiv.org/pdf/2412.13184v1)|**[link](https://github.com/CharlieLeeeee/TQPO)**|
+|**2024-12-17**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178v1](http://arxiv.org/abs/2412.13178v1)|[2412.13178v1](http://arxiv.org/pdf/2412.13178v1)|**[link](https://github.com/shengyin1224/safeagentbench)**|
+|**2024-12-17**|**ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection**|Jui-Che Chiang et.al.|[2412.13174v1](http://arxiv.org/abs/2412.13174v1)|[2412.13174v1](http://arxiv.org/pdf/2412.13174v1)|null|
+|**2024-12-17**|**Lifting Scheme-Based Implicit Disentanglement of Emotion-Related Facial Dynamics in the Wild**|Xingjian Wang et.al.|[2412.13168v1](http://arxiv.org/abs/2412.13168v1)|[2412.13168v1](http://arxiv.org/pdf/2412.13168v1)|**[link](https://github.com/CyberPegasus/IFDD)**|
+|**2024-12-17**|**F-Bench: Rethinking Human Preference Evaluation Metrics for Benchmarking Face Generation, Customization, and Restoration**|Lu Liu et.al.|[2412.13155v1](http://arxiv.org/abs/2412.13155v1)|[2412.13155v1](http://arxiv.org/pdf/2412.13155v1)|null|
+|**2024-12-17**|**Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings**|Paolo Gabriel et.al.|[2412.13152v1](http://arxiv.org/abs/2412.13152v1)|[2412.13152v1](http://arxiv.org/pdf/2412.13152v1)|null|
+|**2024-12-17**|**SWAN: Preprocessing SGD Enables Adam-Level Performance On LLM Training With Significant Memory Reduction**|Chao Ma et.al.|[2412.13148v1](http://arxiv.org/abs/2412.13148v1)|[2412.13148v1](http://arxiv.org/pdf/2412.13148v1)|null|
+|**2024-12-17**|**Are Your LLMs Capable of Stable Reasoning?**|Junnan Liu et.al.|[2412.13147v1](http://arxiv.org/abs/2412.13147v1)|[2412.13147v1](http://arxiv.org/pdf/2412.13147v1)|**[link](https://github.com/open-compass/gpassk)**|
 |**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098v1](http://arxiv.org/abs/2412.12098v1)|[2412.12098v1](http://arxiv.org/pdf/2412.12098v1)|null|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094v1](http://arxiv.org/abs/2412.12094v1)|[2412.12094v1](http://arxiv.org/pdf/2412.12094v1)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089v1](http://arxiv.org/abs/2412.12089v1)|[2412.12089v1](http://arxiv.org/pdf/2412.12089v1)|null|
