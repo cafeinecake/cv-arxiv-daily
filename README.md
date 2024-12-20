@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-19**|**Accurate method for ultralight axion CMB and matter power spectra**|Rayne Liu et.al.|[2412.15192v1](http://arxiv.org/abs/2412.15192v1)|[2412.15192v1](http://arxiv.org/pdf/2412.15192v1)|null|
+|**2024-12-19**|**Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning**|P. M. Chichura et.al.|[2412.15167v1](http://arxiv.org/abs/2412.15167v1)|[2412.15167v1](http://arxiv.org/pdf/2412.15167v1)|null|
+|**2024-12-19**|**Gravitational Waves From Dark Binaries With Finite-Range Dark Forces**|Yang Bai et.al.|[2412.15158v1](http://arxiv.org/abs/2412.15158v1)|[2412.15158v1](http://arxiv.org/pdf/2412.15158v1)|null|
+|**2024-12-19**|**Cyclotron emitting magnetic white dwarfs in post common envelope binaries discovered with the Zwicky Transient Facility**|J. van Roestel et.al.|[2412.15153v1](http://arxiv.org/abs/2412.15153v1)|[2412.15153v1](http://arxiv.org/pdf/2412.15153v1)|null|
+|**2024-12-19**|**A holographic study on QCD phase transition and neutron star properties**|Xin-Yi Liu et.al.|[2412.15149v1](http://arxiv.org/abs/2412.15149v1)|[2412.15149v1](http://arxiv.org/pdf/2412.15149v1)|null|
+|**2024-12-19**|**Phase consistency test to identify type II strongly lensed gravitational wave signals using a single event**|Kelsie Taylor et.al.|[2412.15148v1](http://arxiv.org/abs/2412.15148v1)|[2412.15148v1](http://arxiv.org/pdf/2412.15148v1)|null|
+|**2024-12-19**|**Primordial Gravitational Wave Probes of Non-Standard Thermal Histories**|Annet Konings et.al.|[2412.15144v1](http://arxiv.org/abs/2412.15144v1)|[2412.15144v1](http://arxiv.org/pdf/2412.15144v1)|null|
+|**2024-12-19**|**Supernovae evidence for foundational change to cosmological models**|Antonia Seifert et.al.|[2412.15143v1](http://arxiv.org/abs/2412.15143v1)|[2412.15143v1](http://arxiv.org/pdf/2412.15143v1)|null|
+|**2024-12-19**|**On the perturbed Friedmann equations in Newtonian Gauge**|Jaume de Haro et.al.|[2412.15139v1](http://arxiv.org/abs/2412.15139v1)|[2412.15139v1](http://arxiv.org/pdf/2412.15139v1)|null|
+|**2024-12-19**|**Cosmology-Independent Constraints on Irreducible Magnetic Monopole Background**|Syuhei Iguro et.al.|[2412.15132v1](http://arxiv.org/abs/2412.15132v1)|[2412.15132v1](http://arxiv.org/pdf/2412.15132v1)|null|
 |**2024-12-18**|**Measuring the Transverse Velocity of Strongly Lensed Gravitational Wave Sources with Ground Based Detectors**|Johan Samsing et.al.|[2412.14159v1](http://arxiv.org/abs/2412.14159v1)|[2412.14159v1](http://arxiv.org/pdf/2412.14159v1)|null|
 |**2024-12-18**|**Alleviating cosmological tensions with a hybrid dark sector**|Elsa M. Teixeira et.al.|[2412.14139v1](http://arxiv.org/abs/2412.14139v1)|[2412.14139v1](http://arxiv.org/pdf/2412.14139v1)|null|
 |**2024-12-18**|**Gravitational lensing in a plasma from worldlines**|Francesco Comberiati et.al.|[2412.14126v1](http://arxiv.org/abs/2412.14126v1)|[2412.14126v1](http://arxiv.org/pdf/2412.14126v1)|null|
@@ -6167,6 +6177,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|[2412.15212v1](http://arxiv.org/pdf/2412.15212v1)|null|
+|**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209v1](http://arxiv.org/abs/2412.15209v1)|[2412.15209v1](http://arxiv.org/pdf/2412.15209v1)|null|
+|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204v1](http://arxiv.org/abs/2412.15204v1)|[2412.15204v1](http://arxiv.org/pdf/2412.15204v1)|null|
+|**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200v1](http://arxiv.org/abs/2412.15200v1)|[2412.15200v1](http://arxiv.org/pdf/2412.15200v1)|null|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188v1](http://arxiv.org/abs/2412.15188v1)|[2412.15188v1](http://arxiv.org/pdf/2412.15188v1)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177v1](http://arxiv.org/abs/2412.15177v1)|[2412.15177v1](http://arxiv.org/pdf/2412.15177v1)|null|
+|**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166v1](http://arxiv.org/abs/2412.15166v1)|[2412.15166v1](http://arxiv.org/pdf/2412.15166v1)|null|
+|**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163v1](http://arxiv.org/abs/2412.15163v1)|[2412.15163v1](http://arxiv.org/pdf/2412.15163v1)|null|
+|**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151v1](http://arxiv.org/abs/2412.15151v1)|[2412.15151v1](http://arxiv.org/pdf/2412.15151v1)|null|
+|**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150v1](http://arxiv.org/abs/2412.15150v1)|[2412.15150v1](http://arxiv.org/pdf/2412.15150v1)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172v1](http://arxiv.org/abs/2412.14172v1)|[2412.14172v1](http://arxiv.org/pdf/2412.14172v1)|null|
 |**2024-12-18**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170v1](http://arxiv.org/abs/2412.14170v1)|[2412.14170v1](http://arxiv.org/pdf/2412.14170v1)|null|
 |**2024-12-18**|**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**|Runtao Liu et.al.|[2412.14167v1](http://arxiv.org/abs/2412.14167v1)|[2412.14167v1](http://arxiv.org/pdf/2412.14167v1)|null|
