@@ -1,4 +1,4 @@
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 
 ## Astrophysics
 
@@ -6179,10 +6179,10 @@
 |---|---|---|---|---|---|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|[2412.15212v1](http://arxiv.org/pdf/2412.15212v1)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209v1](http://arxiv.org/abs/2412.15209v1)|[2412.15209v1](http://arxiv.org/pdf/2412.15209v1)|null|
-|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204v1](http://arxiv.org/abs/2412.15204v1)|[2412.15204v1](http://arxiv.org/pdf/2412.15204v1)|null|
+|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204v1](http://arxiv.org/abs/2412.15204v1)|[2412.15204v1](http://arxiv.org/pdf/2412.15204v1)|**[link](https://github.com/thudm/longbench)**|
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200v1](http://arxiv.org/abs/2412.15200v1)|[2412.15200v1](http://arxiv.org/pdf/2412.15200v1)|null|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188v1](http://arxiv.org/abs/2412.15188v1)|[2412.15188v1](http://arxiv.org/pdf/2412.15188v1)|null|
-|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177v1](http://arxiv.org/abs/2412.15177v1)|[2412.15177v1](http://arxiv.org/pdf/2412.15177v1)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177v1](http://arxiv.org/abs/2412.15177v1)|[2412.15177v1](http://arxiv.org/pdf/2412.15177v1)|**[link](https://github.com/fcast07/cqot)**|
 |**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166v1](http://arxiv.org/abs/2412.15166v1)|[2412.15166v1](http://arxiv.org/pdf/2412.15166v1)|null|
 |**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163v1](http://arxiv.org/abs/2412.15163v1)|[2412.15163v1](http://arxiv.org/pdf/2412.15163v1)|null|
 |**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151v1](http://arxiv.org/abs/2412.15151v1)|[2412.15151v1](http://arxiv.org/pdf/2412.15151v1)|null|
