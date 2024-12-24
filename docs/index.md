@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-23**|**Feebly-Interacting Peccei-Quinn Model**|Wen Yin et.al.|[2412.17802v1](http://arxiv.org/abs/2412.17802v1)|[2412.17802v1](http://arxiv.org/pdf/2412.17802v1)|null|
+|**2024-12-23**|**Dark gauge-mediated supersymmetry breaking with a massless dark photon**|Brian Batell et.al.|[2412.17777v1](http://arxiv.org/abs/2412.17777v1)|[2412.17777v1](http://arxiv.org/pdf/2412.17777v1)|null|
+|**2024-12-23**|**Glitch-induced pulse profile change of PSR J0742-2822 observed from the IAR**|E. Zubieta et.al.|[2412.17766v1](http://arxiv.org/abs/2412.17766v1)|[2412.17766v1](http://arxiv.org/pdf/2412.17766v1)|null|
+|**2024-12-23**|**Symmetry-breaking inflation in non-minimal metric-affine gravity**|Ioannis D. Gialamas et.al.|[2412.17738v1](http://arxiv.org/abs/2412.17738v1)|[2412.17738v1](http://arxiv.org/pdf/2412.17738v1)|null|
+|**2024-12-23**|**Swing-By in Three Dimensions: Closed Form Solutions**|Antonio Fernando Bertachini de Almeida Prado et.al.|[2412.17736v1](http://arxiv.org/abs/2412.17736v1)|[2412.17736v1](http://arxiv.org/pdf/2412.17736v1)|null|
+|**2024-12-23**|**Robust and Reconfigurable On-Board Data Handling Subsystem for Present and Future Brazilian CubeSat Missions**|Victor O. Costa et.al.|[2412.17732v1](http://arxiv.org/abs/2412.17732v1)|[2412.17732v1](http://arxiv.org/pdf/2412.17732v1)|null|
+|**2024-12-23**|**Warped accretion disks and quasars with episodic periodicity of long-term variations**|Yue-Chang Peng et.al.|[2412.17728v1](http://arxiv.org/abs/2412.17728v1)|[2412.17728v1](http://arxiv.org/pdf/2412.17728v1)|null|
+|**2024-12-23**|**Bulge Oscillation Driven by Outflows of Active Galactic Nuclei. I. Fast Outflow Case**|Yue-Chang Peng et.al.|[2412.17725v1](http://arxiv.org/abs/2412.17725v1)|[2412.17725v1](http://arxiv.org/pdf/2412.17725v1)|null|
+|**2024-12-23**|**Revisiting the Inert Scalar Dark Matter with Vector-like Quarks**|Prasanta Kumar Das et.al.|[2412.17719v1](http://arxiv.org/abs/2412.17719v1)|[2412.17719v1](http://arxiv.org/pdf/2412.17719v1)|null|
+|**2024-12-23**|**A Tale of Three: Magnetic Fields along the Orion Integral-Shaped Filament as Revealed by JCMT BISTRO survey**|Jintai Wu et.al.|[2412.17716v1](http://arxiv.org/abs/2412.17716v1)|[2412.17716v1](http://arxiv.org/pdf/2412.17716v1)|null|
 |**2024-12-20**|**Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum**|Jianhao Wu et.al.|[2412.16072v1](http://arxiv.org/abs/2412.16072v1)|[2412.16072v1](http://arxiv.org/pdf/2412.16072v1)|null|
 |**2024-12-20**|**Cloud-scale elemental abundance variations and the CO-to-dust-mass conversion factor in M31**|Chloe Bosomworth et.al.|[2412.16069v1](http://arxiv.org/abs/2412.16069v1)|[2412.16069v1](http://arxiv.org/pdf/2412.16069v1)|null|
 |**2024-12-20**|**Self-organized critical characteristics of TeV-photons from GRB 221009A**|Wen-Long Zhang et.al.|[2412.16052v1](http://arxiv.org/abs/2412.16052v1)|[2412.16052v1](http://arxiv.org/pdf/2412.16052v1)|null|
@@ -6191,6 +6201,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-23**|**Measurements of the quantum geometric tensor in solids**|Mingu Kang et.al.|[2412.17809v1](http://arxiv.org/abs/2412.17809v1)|[2412.17809v1](http://arxiv.org/pdf/2412.17809v1)|null|
+|**2024-12-23**|**Cross-View Referring Multi-Object Tracking**|Sijia Chen et.al.|[2412.17807v1](http://arxiv.org/abs/2412.17807v1)|[2412.17807v1](http://arxiv.org/pdf/2412.17807v1)|**[link](https://github.com/chen-si-jia/crmot)**|
+|**2024-12-23**|**Automating the Search for Artificial Life with Foundation Models**|Akarsh Kumar et.al.|[2412.17799v1](http://arxiv.org/abs/2412.17799v1)|[2412.17799v1](http://arxiv.org/pdf/2412.17799v1)|**[link](https://github.com/sakanaai/asal)**|
+|**2024-12-23**|**Observation Interference in Partially Observable Assistance Games**|Scott Emmons et.al.|[2412.17797v1](http://arxiv.org/abs/2412.17797v1)|[2412.17797v1](http://arxiv.org/pdf/2412.17797v1)|null|
+|**2024-12-23**|**Memory makes computation universal, remember?**|Erik Garrison et.al.|[2412.17794v1](http://arxiv.org/abs/2412.17794v1)|[2412.17794v1](http://arxiv.org/pdf/2412.17794v1)|null|
+|**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780v1](http://arxiv.org/abs/2412.17780v1)|[2412.17780v1](http://arxiv.org/pdf/2412.17780v1)|null|
+|**2024-12-23**|**An Investigation on the Potential of KAN in Speech Enhancement**|Haoyang Li et.al.|[2412.17778v1](http://arxiv.org/abs/2412.17778v1)|[2412.17778v1](http://arxiv.org/pdf/2412.17778v1)|null|
+|**2024-12-23**|**Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**|Priyaranjan Pattnayak et.al.|[2412.17759v1](http://arxiv.org/abs/2412.17759v1)|[2412.17759v1](http://arxiv.org/pdf/2412.17759v1)|null|
+|**2024-12-23**|**In Case You Missed It: ARC 'Challenge' Is Not That Challenging**|Łukasz Borchmann et.al.|[2412.17758v1](http://arxiv.org/abs/2412.17758v1)|[2412.17758v1](http://arxiv.org/pdf/2412.17758v1)|null|
+|**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747v1](http://arxiv.org/abs/2412.17747v1)|[2412.17747v1](http://arxiv.org/pdf/2412.17747v1)|null|
 |**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153v1](http://arxiv.org/abs/2412.16153v1)|[2412.16153v1](http://arxiv.org/pdf/2412.16153v1)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145v1](http://arxiv.org/abs/2412.16145v1)|[2412.16145v1](http://arxiv.org/pdf/2412.16145v1)|null|
 |**2024-12-20**|**Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation**|Seyedreza Mohseni et.al.|[2412.16135v1](http://arxiv.org/abs/2412.16135v1)|[2412.16135v1](http://arxiv.org/pdf/2412.16135v1)|null|
