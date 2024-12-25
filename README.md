@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-24**|**New Insights on Gamma-Ray Burst Radiation Mechanisms from Multiwavelength Observations**|Yu-Hua Yao et.al.|[2412.18577v1](http://arxiv.org/abs/2412.18577v1)|[2412.18577v1](http://arxiv.org/pdf/2412.18577v1)|null|
+|**2024-12-24**|**Non-radial oscillations of hadronic neutron stars, quark stars, and hybrid stars : Estimation of $f$, $p$, and $g$ modes**|Atanu Guha et.al.|[2412.18569v1](http://arxiv.org/abs/2412.18569v1)|[2412.18569v1](http://arxiv.org/pdf/2412.18569v1)|null|
+|**2024-12-24**|**Red supergiant stars in binary systems II. Confirmation of B-type companions of red supergiants in the Small Magellanic Cloud using Hubble ultra-violet spectroscopy**|L. R. Patrick et.al.|[2412.18554v1](http://arxiv.org/abs/2412.18554v1)|[2412.18554v1](http://arxiv.org/pdf/2412.18554v1)|null|
+|**2024-12-24**|**Unveiling the Emission Mechanisms of Blazar PKS 1510-089: II. Jet-BLR Connection and Black Hole Mass Estimation**|Alfredo Amador-Portes et.al.|[2412.18548v1](http://arxiv.org/abs/2412.18548v1)|[2412.18548v1](http://arxiv.org/pdf/2412.18548v1)|null|
+|**2024-12-24**|**The massive fast spinning white dwarf in the HD 49798/RX J0648.0-4418 binary**|Sandro Mereghetti et.al.|[2412.18546v1](http://arxiv.org/abs/2412.18546v1)|[2412.18546v1](http://arxiv.org/pdf/2412.18546v1)|null|
+|**2024-12-24**|**Study of the physical and chemical properties of dense clumps at different evolutionary stages in several regions of massive star and stellar cluster formation**|A. G. Pazukhin et.al.|[2412.18506v1](http://arxiv.org/abs/2412.18506v1)|[2412.18506v1](http://arxiv.org/pdf/2412.18506v1)|null|
+|**2024-12-24**|**Determining $H_0$ from distance sum rule combining gamma-ray bursts with observational Hubble data and strong gravitational lensing**|Orlando Luongo et.al.|[2412.18493v1](http://arxiv.org/abs/2412.18493v1)|[2412.18493v1](http://arxiv.org/pdf/2412.18493v1)|null|
+|**2024-12-24**|**Detection of an Orphan X-ray Flare from a Blazar Candidate EP240709a with Einstein Probe**|Mingjun Liu et.al.|[2412.18463v1](http://arxiv.org/abs/2412.18463v1)|[2412.18463v1](http://arxiv.org/pdf/2412.18463v1)|null|
+|**2024-12-24**|**Examination of the Relationship Between Spectral Type and Stellar Rotational Velocity in $\sim$50,000 Single Stars**|Boran Mert et.al.|[2412.18412v1](http://arxiv.org/abs/2412.18412v1)|[2412.18412v1](http://arxiv.org/pdf/2412.18412v1)|null|
+|**2024-12-24**|**SPARC4 control system**|Denis Bernardes et.al.|[2412.18410v1](http://arxiv.org/abs/2412.18410v1)|[2412.18410v1](http://arxiv.org/pdf/2412.18410v1)|null|
 |**2024-12-23**|**Feebly-Interacting Peccei-Quinn Model**|Wen Yin et.al.|[2412.17802v1](http://arxiv.org/abs/2412.17802v1)|[2412.17802v1](http://arxiv.org/pdf/2412.17802v1)|null|
 |**2024-12-23**|**Dark gauge-mediated supersymmetry breaking with a massless dark photon**|Brian Batell et.al.|[2412.17777v1](http://arxiv.org/abs/2412.17777v1)|[2412.17777v1](http://arxiv.org/pdf/2412.17777v1)|null|
 |**2024-12-23**|**Glitch-induced pulse profile change of PSR J0742-2822 observed from the IAR**|E. Zubieta et.al.|[2412.17766v1](http://arxiv.org/abs/2412.17766v1)|[2412.17766v1](http://arxiv.org/pdf/2412.17766v1)|null|
@@ -6197,6 +6207,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601v1](http://arxiv.org/abs/2412.18601v1)|[2412.18601v1](http://arxiv.org/pdf/2412.18601v1)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597v1](http://arxiv.org/abs/2412.18597v1)|[2412.18597v1](http://arxiv.org/pdf/2412.18597v1)|**[link](https://github.com/tencentarc/ditctrl)**|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588v1](http://arxiv.org/abs/2412.18588v1)|[2412.18588v1](http://arxiv.org/pdf/2412.18588v1)|null|
+|**2024-12-24**|**How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation**|Dewu Zheng et.al.|[2412.18573v1](http://arxiv.org/abs/2412.18573v1)|[2412.18573v1](http://arxiv.org/pdf/2412.18573v1)|**[link](https://github.com/deepsoftwareanalytics/multicodebench)**|
+|**2024-12-24**|**Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**|Gang Huang et.al.|[2412.18563v1](http://arxiv.org/abs/2412.18563v1)|[2412.18563v1](http://arxiv.org/pdf/2412.18563v1)|null|
+|**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547v1](http://arxiv.org/abs/2412.18547v1)|[2412.18547v1](http://arxiv.org/pdf/2412.18547v1)|**[link](https://github.com/geniushtx/tale)**|
+|**2024-12-24**|**Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**|Mingyuan Meng et.al.|[2412.18545v1](http://arxiv.org/abs/2412.18545v1)|[2412.18545v1](http://arxiv.org/pdf/2412.18545v1)|null|
+|**2024-12-24**|**Consistency Checks for Language Model Forecasters**|Daniel Paleka et.al.|[2412.18544v1](http://arxiv.org/abs/2412.18544v1)|[2412.18544v1](http://arxiv.org/pdf/2412.18544v1)|null|
+|**2024-12-24**|**Characterizations of Language Generation With Breadth**|Alkis Kalavasis et.al.|[2412.18530v1](http://arxiv.org/abs/2412.18530v1)|[2412.18530v1](http://arxiv.org/pdf/2412.18530v1)|null|
+|**2024-12-24**|**Joint Adaptive OFDM and Reinforcement Learning Design for Autonomous Vehicles: Leveraging Age of Updates**|Mamady Delamou et.al.|[2412.18500v1](http://arxiv.org/abs/2412.18500v1)|[2412.18500v1](http://arxiv.org/pdf/2412.18500v1)|null|
 |**2024-12-23**|**Measurements of the quantum geometric tensor in solids**|Mingu Kang et.al.|[2412.17809v1](http://arxiv.org/abs/2412.17809v1)|[2412.17809v1](http://arxiv.org/pdf/2412.17809v1)|null|
 |**2024-12-23**|**Cross-View Referring Multi-Object Tracking**|Sijia Chen et.al.|[2412.17807v1](http://arxiv.org/abs/2412.17807v1)|[2412.17807v1](http://arxiv.org/pdf/2412.17807v1)|**[link](https://github.com/chen-si-jia/crmot)**|
 |**2024-12-23**|**Automating the Search for Artificial Life with Foundation Models**|Akarsh Kumar et.al.|[2412.17799v1](http://arxiv.org/abs/2412.17799v1)|[2412.17799v1](http://arxiv.org/pdf/2412.17799v1)|**[link](https://github.com/sakanaai/asal)**|
