@@ -1,4 +1,4 @@
-> Updated on 2024.12.25
+> Updated on 2024.12.26
 
 ## Astrophysics
 
@@ -6207,7 +6207,7 @@
 - 2024-12-24, **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**, Minghong Cai et.al., Paper: [http://arxiv.org/abs/2412.18597v1](http://arxiv.org/abs/2412.18597v1),Paper: [http://arxiv.org/abs/2412.18597v1](http://arxiv.org/pdf/2412.18597v1), Code: **[https://github.com/tencentarc/ditctrl](https://github.com/tencentarc/ditctrl)**
 - 2024-12-24, **A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**, OpenMind et.al., Paper: [http://arxiv.org/abs/2412.18588v1](http://arxiv.org/abs/2412.18588v1), Paper: [http://arxiv.org/abs/2412.18588v1](http://arxiv.org/pdf/2412.18588v1)
 - 2024-12-24, **How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation**, Dewu Zheng et.al., Paper: [http://arxiv.org/abs/2412.18573v1](http://arxiv.org/abs/2412.18573v1),Paper: [http://arxiv.org/abs/2412.18573v1](http://arxiv.org/pdf/2412.18573v1), Code: **[https://github.com/deepsoftwareanalytics/multicodebench](https://github.com/deepsoftwareanalytics/multicodebench)**
-- 2024-12-24, **Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**, Gang Huang et.al., Paper: [http://arxiv.org/abs/2412.18563v1](http://arxiv.org/abs/2412.18563v1), Paper: [http://arxiv.org/abs/2412.18563v1](http://arxiv.org/pdf/2412.18563v1)
+- 2024-12-24, **Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**, Gang Huang et.al., Paper: [http://arxiv.org/abs/2412.18563v1](http://arxiv.org/abs/2412.18563v1),Paper: [http://arxiv.org/abs/2412.18563v1](http://arxiv.org/pdf/2412.18563v1), Code: **[https://github.com/watermeloncq/drl-dynamic-optimization-portfolio-SB3py37](https://github.com/watermeloncq/drl-dynamic-optimization-portfolio-SB3py37)**
 - 2024-12-24, **Token-Budget-Aware LLM Reasoning**, Tingxu Han et.al., Paper: [http://arxiv.org/abs/2412.18547v1](http://arxiv.org/abs/2412.18547v1),Paper: [http://arxiv.org/abs/2412.18547v1](http://arxiv.org/pdf/2412.18547v1), Code: **[https://github.com/geniushtx/tale](https://github.com/geniushtx/tale)**
 - 2024-12-24, **Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**, Mingyuan Meng et.al., Paper: [http://arxiv.org/abs/2412.18545v1](http://arxiv.org/abs/2412.18545v1), Paper: [http://arxiv.org/abs/2412.18545v1](http://arxiv.org/pdf/2412.18545v1)
 - 2024-12-24, **Consistency Checks for Language Model Forecasters**, Daniel Paleka et.al., Paper: [http://arxiv.org/abs/2412.18544v1](http://arxiv.org/abs/2412.18544v1), Paper: [http://arxiv.org/abs/2412.18544v1](http://arxiv.org/pdf/2412.18544v1)
