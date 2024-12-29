@@ -1,4 +1,4 @@
-> Updated on 2024.12.28
+> Updated on 2024.12.29
 
 ## Astrophysics
 
@@ -6203,7 +6203,7 @@
 
 ## AI
 
-- 2024-12-24, **Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**, Fernando Jia et.al., Paper: [http://arxiv.org/abs/2412.18601v1](http://arxiv.org/abs/2412.18601v1), Paper: [http://arxiv.org/abs/2412.18601v1](http://arxiv.org/pdf/2412.18601v1)
+- 2024-12-24, **Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**, Fernando Jia et.al., Paper: [http://arxiv.org/abs/2412.18601v1](http://arxiv.org/abs/2412.18601v1),Paper: [http://arxiv.org/abs/2412.18601v1](http://arxiv.org/pdf/2412.18601v1), Code: **[https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**
 - 2024-12-24, **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**, Minghong Cai et.al., Paper: [http://arxiv.org/abs/2412.18597v1](http://arxiv.org/abs/2412.18597v1),Paper: [http://arxiv.org/abs/2412.18597v1](http://arxiv.org/pdf/2412.18597v1), Code: **[https://github.com/tencentarc/ditctrl](https://github.com/tencentarc/ditctrl)**
 - 2024-12-24, **A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**, OpenMind et.al., Paper: [http://arxiv.org/abs/2412.18588v1](http://arxiv.org/abs/2412.18588v1), Paper: [http://arxiv.org/abs/2412.18588v1](http://arxiv.org/pdf/2412.18588v1)
 - 2024-12-24, **How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation**, Dewu Zheng et.al., Paper: [http://arxiv.org/abs/2412.18573v1](http://arxiv.org/abs/2412.18573v1),Paper: [http://arxiv.org/abs/2412.18573v1](http://arxiv.org/pdf/2412.18573v1), Code: **[https://github.com/deepsoftwareanalytics/multicodebench](https://github.com/deepsoftwareanalytics/multicodebench)**
