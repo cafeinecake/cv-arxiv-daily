@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-27**|**Non-Scaling Topological Defects and Gravitational Waves in Higgs Portal**|Wen Yin et.al.|[2412.19798v1](http://arxiv.org/abs/2412.19798v1)|[2412.19798v1](http://arxiv.org/pdf/2412.19798v1)|null|
+|**2024-12-27**|**Cosmological perturbations meet Wheeler DeWitt**|Federico Piazza et.al.|[2412.19782v1](http://arxiv.org/abs/2412.19782v1)|[2412.19782v1](http://arxiv.org/pdf/2412.19782v1)|null|
+|**2024-12-27**|**Magnetic fields on different spatial scales of the L328 cloud**|Shivani Gupta et.al.|[2412.19701v1](http://arxiv.org/abs/2412.19701v1)|[2412.19701v1](http://arxiv.org/pdf/2412.19701v1)|null|
+|**2024-12-27**|**Standardizing reverberation-mapped H$α$ and H$β$ active galactic nuclei using radius--luminosity relations involving monochromatic and broad H$α$ luminosities**|Shulei Cao et.al.|[2412.19665v1](http://arxiv.org/abs/2412.19665v1)|[2412.19665v1](http://arxiv.org/pdf/2412.19665v1)|null|
+|**2024-12-27**|**Primordial Black Hole Formation from the Upward Step Model: Avoiding Overproduction**|Xiaoding Wang et.al.|[2412.19631v1](http://arxiv.org/abs/2412.19631v1)|[2412.19631v1](http://arxiv.org/pdf/2412.19631v1)|null|
+|**2024-12-27**|**Solar Gamma-Ray Evidence for a Distinct Population of $>$ 1 MeV Flare-Accelerated Electrons**|Gerald H. Share et.al.|[2412.19586v1](http://arxiv.org/abs/2412.19586v1)|[2412.19586v1](http://arxiv.org/pdf/2412.19586v1)|null|
+|**2024-12-27**|**The possible long-term periodic variability of the extremely luminous quasar WISE J090924.01+000211.1**|Takashi Horiuchi et.al.|[2412.19573v1](http://arxiv.org/abs/2412.19573v1)|[2412.19573v1](http://arxiv.org/pdf/2412.19573v1)|null|
+|**2024-12-27**|**Nonminimally coupled Dark Matter in Clusters of Galaxies: a fully comprehensive analysis**|Saboura Zamani et.al.|[2412.19569v1](http://arxiv.org/abs/2412.19569v1)|[2412.19569v1](http://arxiv.org/pdf/2412.19569v1)|null|
+|**2024-12-27**|**Impacts of dineutrons on nuclear compositions and neutrino reactions of the core-collapse supernova**|Tatsuya Matsuki et.al.|[2412.19521v1](http://arxiv.org/abs/2412.19521v1)|[2412.19521v1](http://arxiv.org/pdf/2412.19521v1)|null|
+|**2024-12-27**|**HBT interferometry and Quantum Detection of Primordial Gravitational Waves in Hořava-Lifshitz Gravity**|Sugumi Kanno et.al.|[2412.19514v1](http://arxiv.org/abs/2412.19514v1)|[2412.19514v1](http://arxiv.org/pdf/2412.19514v1)|null|
 |**2024-12-24**|**New Insights on Gamma-Ray Burst Radiation Mechanisms from Multiwavelength Observations**|Yu-Hua Yao et.al.|[2412.18577v1](http://arxiv.org/abs/2412.18577v1)|[2412.18577v1](http://arxiv.org/pdf/2412.18577v1)|null|
 |**2024-12-24**|**Non-radial oscillations of hadronic neutron stars, quark stars, and hybrid stars : Estimation of $f$, $p$, and $g$ modes**|Atanu Guha et.al.|[2412.18569v1](http://arxiv.org/abs/2412.18569v1)|[2412.18569v1](http://arxiv.org/pdf/2412.18569v1)|null|
 |**2024-12-24**|**Red supergiant stars in binary systems II. Confirmation of B-type companions of red supergiants in the Small Magellanic Cloud using Hubble ultra-violet spectroscopy**|L. R. Patrick et.al.|[2412.18554v1](http://arxiv.org/abs/2412.18554v1)|[2412.18554v1](http://arxiv.org/pdf/2412.18554v1)|null|
@@ -6207,6 +6217,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2024-12-27**|**Can AI Help with Your Personal Finances?**|Oudom Hean et.al.|[2412.19784v1](http://arxiv.org/abs/2412.19784v1)|[2412.19784v1](http://arxiv.org/pdf/2412.19784v1)|null|
+|**2024-12-27**|**Enhancing Cognitive Diagnosis by Modeling Learner Cognitive Structure State**|Zhifu Chen et.al.|[2412.19759v1](http://arxiv.org/abs/2412.19759v1)|[2412.19759v1](http://arxiv.org/pdf/2412.19759v1)|null|
+|**2024-12-27**|**"Did my figure do justice to the answer?" : Towards Multimodal Short Answer Grading with Feedback (MMSAF)**|Pritam Sil et.al.|[2412.19755v1](http://arxiv.org/abs/2412.19755v1)|[2412.19755v1](http://arxiv.org/pdf/2412.19755v1)|null|
+|**2024-12-27**|**Complement or substitute? How AI increases the demand for human skills**|Elina Mäkelä et.al.|[2412.19754v1](http://arxiv.org/abs/2412.19754v1)|[2412.19754v1](http://arxiv.org/pdf/2412.19754v1)|null|
+|**2024-12-27**|**IMAGINE: An 8-to-1b 22nm FD-SOI Compute-In-Memory CNN Accelerator With an End-to-End Analog Charge-Based 0.15-8POPS/W Macro Featuring Distribution-Aware Data Reshaping**|Adrian Kneip et.al.|[2412.19750v1](http://arxiv.org/abs/2412.19750v1)|[2412.19750v1](http://arxiv.org/pdf/2412.19750v1)|null|
+|**2024-12-27**|**Enhancing Adversarial Robustness of Deep Neural Networks Through Supervised Contrastive Learning**|Longwei Wang et.al.|[2412.19747v1](http://arxiv.org/abs/2412.19747v1)|[2412.19747v1](http://arxiv.org/pdf/2412.19747v1)|null|
+|**2024-12-27**|**Adaptive Context-Aware Multi-Path Transmission Control for VR/AR Content: A Deep Reinforcement Learning Approach**|Shakil Ahmed et.al.|[2412.19737v1](http://arxiv.org/abs/2412.19737v1)|[2412.19737v1](http://arxiv.org/pdf/2412.19737v1)|null|
+|**2024-12-27**|**Can Large Language Models Adapt to Other Agents In-Context?**|Matthew Riemer et.al.|[2412.19726v1](http://arxiv.org/abs/2412.19726v1)|[2412.19726v1](http://arxiv.org/pdf/2412.19726v1)|null|
+|**2024-12-27**|**OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis**|Qiushi Sun et.al.|[2412.19723v1](http://arxiv.org/abs/2412.19723v1)|[2412.19723v1](http://arxiv.org/pdf/2412.19723v1)|null|
+|**2024-12-27**|**Text2Insight: Transform natural language text into insights seamlessly using multi-model architecture**|Pradeep Sain et.al.|[2412.19718v1](http://arxiv.org/abs/2412.19718v1)|[2412.19718v1](http://arxiv.org/pdf/2412.19718v1)|null|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601v1](http://arxiv.org/abs/2412.18601v1)|[2412.18601v1](http://arxiv.org/pdf/2412.18601v1)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597v1](http://arxiv.org/abs/2412.18597v1)|[2412.18597v1](http://arxiv.org/pdf/2412.18597v1)|**[link](https://github.com/tencentarc/ditctrl)**|
 |**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588v1](http://arxiv.org/abs/2412.18588v1)|[2412.18588v1](http://arxiv.org/pdf/2412.18588v1)|null|
