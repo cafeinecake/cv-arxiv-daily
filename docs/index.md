@@ -16,6 +16,7 @@ layout: default
 |**2024-12-30**|**Probing Gravitational Dark Matter with Ultra-high Frequency Gravitational Waves**|Yong Xu et.al.|[2412.21137v1](http://arxiv.org/abs/2412.21137v1)|[2412.21137v1](http://arxiv.org/pdf/2412.21137v1)|null|
 |**2024-12-30**|**Gravitational EFT for dissipative open systems**|Pak Hang Chris Lau et.al.|[2412.21136v1](http://arxiv.org/abs/2412.21136v1)|[2412.21136v1](http://arxiv.org/pdf/2412.21136v1)|null|
 |**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130v1](http://arxiv.org/abs/2412.21130v1)|[2412.21130v1](http://arxiv.org/pdf/2412.21130v1)|null|
+|**2024-12-30**|**Effects of asymmetric dark matter on a magnetized neutron star: A two-fluid approach**|Pinku Routaray et.al.|[2412.21097v1](http://arxiv.org/abs/2412.21097v1)|[2412.21097v1](http://arxiv.org/pdf/2412.21097v1)|null|
 |**2024-12-30**|**A Simplified Theory of External Occulters for Solar Coronagraphs**|Craig E. DeForest et.al.|[2412.21047v1](http://arxiv.org/abs/2412.21047v1)|[2412.21047v1](http://arxiv.org/pdf/2412.21047v1)|null|
 |**2024-12-30**|**Cosmological Signatures of Neutrino Seesaw**|Chengcheng Han et.al.|[2412.21045v1](http://arxiv.org/abs/2412.21045v1)|[2412.21045v1](http://arxiv.org/pdf/2412.21045v1)|null|
 |**2024-12-27**|**Non-Scaling Topological Defects and Gravitational Waves in Higgs Portal**|Wen Yin et.al.|[2412.19798v1](http://arxiv.org/abs/2412.19798v1)|[2412.19798v1](http://arxiv.org/pdf/2412.19798v1)|null|
