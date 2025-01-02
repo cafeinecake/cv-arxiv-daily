@@ -1,4 +1,4 @@
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 
 ## Astrophysics
 
@@ -6234,7 +6234,7 @@
 |**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161v1](http://arxiv.org/abs/2412.21161v1)|[2412.21161v1](http://arxiv.org/pdf/2412.21161v1)|null|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|[2412.21154v1](http://arxiv.org/pdf/2412.21154v1)|null|
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151v1](http://arxiv.org/abs/2412.21151v1)|[2412.21151v1](http://arxiv.org/pdf/2412.21151v1)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
-|**2024-12-30**|**Facilitating large language model Russian adaptation with Learned Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|[2412.21140v1](http://arxiv.org/pdf/2412.21140v1)|null|
+|**2024-12-30**|**Facilitating large language model Russian adaptation with Learned Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140v1](http://arxiv.org/abs/2412.21140v1)|[2412.21140v1](http://arxiv.org/pdf/2412.21140v1)|**[link](https://github.com/RefalMachine/llmtf_open)**|
 |**2024-12-30**|**On Parallel External-Memory Bidirectional Search**|ior Siag et.al.|[2412.21104v1](http://arxiv.org/abs/2412.21104v1)|[2412.21104v1](http://arxiv.org/pdf/2412.21104v1)|**[link](https://github.com/SPL-BGU/PEM-BiHS)**|
 |**2024-12-30**|**Exploring and Controlling Diversity in LLM-Agent Conversation**|KuanChao Chu et.al.|[2412.21102v1](http://arxiv.org/abs/2412.21102v1)|[2412.21102v1](http://arxiv.org/pdf/2412.21102v1)|null|
 |**2024-12-30**|**A Lorentz invariant formulation of artificial viscosity for the relativistic Euler equations**|Moritz Reintjes et.al.|[2412.21093v1](http://arxiv.org/abs/2412.21093v1)|[2412.21093v1](http://arxiv.org/pdf/2412.21093v1)|null|
