@@ -1,4 +1,4 @@
-> Updated on 2025.01.03
+> Updated on 2025.01.04
 
 ## Astrophysics
 
@@ -9,7 +9,7 @@
 - 2024-12-30, **Topological dark energy from black-hole formations and mergers through the gravity-thermodynamics approach**, Stylianos A. Tsilioukas et.al., Paper: [http://arxiv.org/abs/2412.21146v1](http://arxiv.org/abs/2412.21146v1), Paper: [http://arxiv.org/abs/2412.21146v1](http://arxiv.org/pdf/2412.21146v1)
 - 2024-12-30, **Probing Gravitational Dark Matter with Ultra-high Frequency Gravitational Waves**, Yong Xu et.al., Paper: [http://arxiv.org/abs/2412.21137v1](http://arxiv.org/abs/2412.21137v1), Paper: [http://arxiv.org/abs/2412.21137v1](http://arxiv.org/pdf/2412.21137v1)
 - 2024-12-30, **Gravitational EFT for dissipative open systems**, Pak Hang Chris Lau et.al., Paper: [http://arxiv.org/abs/2412.21136v1](http://arxiv.org/abs/2412.21136v1), Paper: [http://arxiv.org/abs/2412.21136v1](http://arxiv.org/pdf/2412.21136v1)
-- 2024-12-30, **Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**, Fucheng Zhong et.al., Paper: [http://arxiv.org/abs/2412.21130v1](http://arxiv.org/abs/2412.21130v1), Paper: [http://arxiv.org/abs/2412.21130v1](http://arxiv.org/pdf/2412.21130v1)
+- 2024-12-30, **Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**, Fucheng Zhong et.al., Paper: [http://arxiv.org/abs/2412.21130v1](http://arxiv.org/abs/2412.21130v1),Paper: [http://arxiv.org/abs/2412.21130v1](http://arxiv.org/pdf/2412.21130v1), Code: **[https://github.com/Fucheng-Zhong/GaSNet-III](https://github.com/Fucheng-Zhong/GaSNet-III)**
 - 2024-12-30, **Effects of asymmetric dark matter on a magnetized neutron star: A two-fluid approach**, Pinku Routaray et.al., Paper: [http://arxiv.org/abs/2412.21097v1](http://arxiv.org/abs/2412.21097v1), Paper: [http://arxiv.org/abs/2412.21097v1](http://arxiv.org/pdf/2412.21097v1)
 - 2024-12-30, **A Simplified Theory of External Occulters for Solar Coronagraphs**, Craig E. DeForest et.al., Paper: [http://arxiv.org/abs/2412.21047v1](http://arxiv.org/abs/2412.21047v1), Paper: [http://arxiv.org/abs/2412.21047v1](http://arxiv.org/pdf/2412.21047v1)
 - 2024-12-30, **Cosmological Signatures of Neutrino Seesaw**, Chengcheng Han et.al., Paper: [http://arxiv.org/abs/2412.21045v1](http://arxiv.org/abs/2412.21045v1), Paper: [http://arxiv.org/abs/2412.21045v1](http://arxiv.org/pdf/2412.21045v1)
@@ -6224,7 +6224,7 @@
 
 ## AI
 
-- 2024-12-30, **Action-Agnostic Point-Level Supervision for Temporal Action Detection**, Shuhei M. Yoshida et.al., Paper: [http://arxiv.org/abs/2412.21205v1](http://arxiv.org/abs/2412.21205v1), Paper: [http://arxiv.org/abs/2412.21205v1](http://arxiv.org/pdf/2412.21205v1)
+- 2024-12-30, **Action-Agnostic Point-Level Supervision for Temporal Action Detection**, Shuhei M. Yoshida et.al., Paper: [http://arxiv.org/abs/2412.21205v1](http://arxiv.org/abs/2412.21205v1),Paper: [http://arxiv.org/abs/2412.21205v1](http://arxiv.org/pdf/2412.21205v1), Code: **[https://github.com/smy-nec/aapl](https://github.com/smy-nec/aapl)**
 - 2024-12-30, **Cavity-QED Simulation of a Maser beyond the Mean-Field Approximation**, Xinpeng Shu et.al., Paper: [http://arxiv.org/abs/2412.21166v1](http://arxiv.org/abs/2412.21166v1), Paper: [http://arxiv.org/abs/2412.21166v1](http://arxiv.org/pdf/2412.21166v1)
 - 2024-12-30, **Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**, Yalin E. Sagduyu et.al., Paper: [http://arxiv.org/abs/2412.21164v1](http://arxiv.org/abs/2412.21164v1), Paper: [http://arxiv.org/abs/2412.21164v1](http://arxiv.org/pdf/2412.21164v1)
 - 2024-12-30, **Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**, Maria Barbosa et.al., Paper: [http://arxiv.org/abs/2412.21161v1](http://arxiv.org/abs/2412.21161v1), Paper: [http://arxiv.org/abs/2412.21161v1](http://arxiv.org/pdf/2412.21161v1)
