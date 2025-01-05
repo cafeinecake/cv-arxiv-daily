@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-02**|**The Bayesian Global Sky Model (B-GSM): Validation of a Data Driven Bayesian Simultaneous Component Separation and Calibration Algorithm for EoR Foreground Modelling**|George Carter et.al.|[2501.01417v1](http://arxiv.org/abs/2501.01417v1)|[2501.01417v1](http://arxiv.org/pdf/2501.01417v1)|null|
+|**2025-01-02**|**Post-adiabatic waveform-generation framework for asymmetric precessing binaries**|Josh Mathews et.al.|[2501.01413v1](http://arxiv.org/abs/2501.01413v1)|[2501.01413v1](http://arxiv.org/pdf/2501.01413v1)|null|
+|**2025-01-02**|**A Planet as the Possible Cause of the HD 181327 Debris Disk Asymmetry**|Chris Fox et.al.|[2501.01387v1](http://arxiv.org/abs/2501.01387v1)|[2501.01387v1](http://arxiv.org/pdf/2501.01387v1)|null|
+|**2025-01-02**|**Current constraints on cosmological scenarios with very low reheating temperatures**|Nicola Barbieri et.al.|[2501.01369v1](http://arxiv.org/abs/2501.01369v1)|[2501.01369v1](http://arxiv.org/pdf/2501.01369v1)|null|
+|**2025-01-02**|**Quasi-parallel anti-sunward propagating whistler waves associated to the electron-deficit in the near-Sun solar wind: Particle-in-Cell simulation**|Alfredo Micera et.al.|[2501.01331v1](http://arxiv.org/abs/2501.01331v1)|[2501.01331v1](http://arxiv.org/pdf/2501.01331v1)|null|
+|**2025-01-02**|**Multi-Observatory Study of Young Stellar Energetic Flares (MORYSEF): No Evidence For Abnormally Strong Stellar Magnetic Fields After Powerful X-ray Flares**|Konstantin V. Getman et.al.|[2501.01321v1](http://arxiv.org/abs/2501.01321v1)|[2501.01321v1](http://arxiv.org/pdf/2501.01321v1)|null|
+|**2025-01-02**|**Systematic Search for Long-Term Trends in Fermi-LAT Jetted Active Galactic Nuclei**|P. Penil et.al.|[2501.01310v1](http://arxiv.org/abs/2501.01310v1)|[2501.01310v1](http://arxiv.org/pdf/2501.01310v1)|null|
+|**2025-01-02**|**Probing Loop Quantum Gravity via Kerr Black Hole and EHT Results**|Muhammad Ali Raza et.al.|[2501.01308v1](http://arxiv.org/abs/2501.01308v1)|[2501.01308v1](http://arxiv.org/pdf/2501.01308v1)|null|
+|**2025-01-02**|**FEASTS: Radial Distribution of HI surface densities down to 0.01 M$_{\odot}$ pc$^{-2}$ of 35 Nearby Galaxies**|Jing Wang et.al.|[2501.01289v1](http://arxiv.org/abs/2501.01289v1)|[2501.01289v1](http://arxiv.org/pdf/2501.01289v1)|null|
+|**2025-01-02**|**Gravitational waves from color restoration in a leptoquark model of radiative neutrino masses**|Mårten Bertenstam et.al.|[2501.01286v1](http://arxiv.org/abs/2501.01286v1)|[2501.01286v1](http://arxiv.org/pdf/2501.01286v1)|null|
 |**2024-12-30**|**Investigating Temporal and Spatial Variation of Jupiter's Atmosphere with Radio Observations**|Joanna Hardesty et.al.|[2412.21191v1](http://arxiv.org/abs/2412.21191v1)|[2412.21191v1](http://arxiv.org/pdf/2412.21191v1)|null|
 |**2024-12-30**|**Hint at an axion-like particle from GRB 221009A**|Giorgio Galanti et.al.|[2412.21175v1](http://arxiv.org/abs/2412.21175v1)|[2412.21175v1](http://arxiv.org/pdf/2412.21175v1)|null|
 |**2024-12-30**|**Causality and Stability from Acoustic Geometry**|Ignacy Sawicki et.al.|[2412.21169v1](http://arxiv.org/abs/2412.21169v1)|[2412.21169v1](http://arxiv.org/pdf/2412.21169v1)|null|
@@ -6232,6 +6242,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|[2501.01424v1](http://arxiv.org/pdf/2501.01424v1)|null|
+|**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|[2501.01422v1](http://arxiv.org/pdf/2501.01422v1)|null|
+|**2025-01-02**|**Polynomial Time Quantum Gibbs Sampling for Fermi-Hubbard Model at any Temperature**|Štěpán Šmíd et.al.|[2501.01412v1](http://arxiv.org/abs/2501.01412v1)|[2501.01412v1](http://arxiv.org/pdf/2501.01412v1)|**[link](https://github.com/Quantum-AI-Lab-ICL/Quantum-Gibbs-Sampling)**|
+|**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|[2501.01409v1](http://arxiv.org/pdf/2501.01409v1)|null|
+|**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394v1](http://arxiv.org/abs/2501.01394v1)|[2501.01394v1](http://arxiv.org/pdf/2501.01394v1)|null|
+|**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|[2501.01377v1](http://arxiv.org/pdf/2501.01377v1)|null|
+|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372v1](http://arxiv.org/abs/2501.01372v1)|[2501.01372v1](http://arxiv.org/pdf/2501.01372v1)|null|
+|**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367v1](http://arxiv.org/abs/2501.01367v1)|[2501.01367v1](http://arxiv.org/pdf/2501.01367v1)|null|
+|**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366v1](http://arxiv.org/abs/2501.01366v1)|[2501.01366v1](http://arxiv.org/pdf/2501.01366v1)|null|
+|**2025-01-02**|**Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark**|Liang He et.al.|[2501.01349v1](http://arxiv.org/abs/2501.01349v1)|[2501.01349v1](http://arxiv.org/pdf/2501.01349v1)|null|
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[2412.21205v1](http://arxiv.org/pdf/2412.21205v1)|**[link](https://github.com/smy-nec/aapl)**|
 |**2024-12-30**|**Cavity-QED Simulation of a Maser beyond the Mean-Field Approximation**|Xinpeng Shu et.al.|[2412.21166v1](http://arxiv.org/abs/2412.21166v1)|[2412.21166v1](http://arxiv.org/pdf/2412.21166v1)|null|
 |**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164v1](http://arxiv.org/abs/2412.21164v1)|[2412.21164v1](http://arxiv.org/pdf/2412.21164v1)|null|
