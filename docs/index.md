@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-03**|**Dwarf Galaxies in the TNG50 Field: connecting their Star-formation Rates with their Environments**|Joy Bhattacharyya et.al.|[2501.01946v1](http://arxiv.org/abs/2501.01946v1)|[2501.01946v1](http://arxiv.org/pdf/2501.01946v1)|null|
+|**2025-01-03**|**Hybrid-z: Enhancing Kilo-Degree Survey bright galaxy sample photometric redshifts with deep learning**|Anjitha John William et.al.|[2501.01942v1](http://arxiv.org/abs/2501.01942v1)|[2501.01942v1](http://arxiv.org/pdf/2501.01942v1)|null|
+|**2025-01-03**|**Spin-period variations in the intermediate polar RX J2133.7+5107**|V. Breus et.al.|[2501.01940v1](http://arxiv.org/abs/2501.01940v1)|[2501.01940v1](http://arxiv.org/pdf/2501.01940v1)|null|
+|**2025-01-03**|**Identification of the interstellar 1-cyano propargyl radical (HCCCHCN) in TMC-1**|C. Cabezas et.al.|[2501.01938v1](http://arxiv.org/abs/2501.01938v1)|[2501.01938v1](http://arxiv.org/pdf/2501.01938v1)|null|
+|**2025-01-03**|**Lyman-alpha resonant-line radiative transfer in expanding media**|Aaron Smith et.al.|[2501.01928v1](http://arxiv.org/abs/2501.01928v1)|[2501.01928v1](http://arxiv.org/pdf/2501.01928v1)|null|
+|**2025-01-03**|**Exoplanet Detection via Differentiable Rendering**|Brandon Y. Feng et.al.|[2501.01912v1](http://arxiv.org/abs/2501.01912v1)|[2501.01912v1](http://arxiv.org/pdf/2501.01912v1)|null|
+|**2025-01-03**|**Constraining the Gravitational Wave Speed in the Early Universe via Gravitational Cherenkov Radiation**|Paola C. M. Delgado et.al.|[2501.01910v1](http://arxiv.org/abs/2501.01910v1)|[2501.01910v1](http://arxiv.org/pdf/2501.01910v1)|null|
+|**2025-01-03**|**Observations of the Ultraviolet-bright Star III-60 in the Globular Cluster NGC 6723**|William V. Dixon et.al.|[2501.01909v1](http://arxiv.org/abs/2501.01909v1)|[2501.01909v1](http://arxiv.org/pdf/2501.01909v1)|null|
+|**2025-01-03**|**QCD Phase Diagram and Astrophysical Implications**|Kenji Fukushima et.al.|[2501.01907v1](http://arxiv.org/abs/2501.01907v1)|[2501.01907v1](http://arxiv.org/pdf/2501.01907v1)|null|
+|**2025-01-03**|**H$α$-X-ray Surface Brightness Correlation for Filaments in Cooling Flow Clusters**|Valeria Olivares et.al.|[2501.01902v1](http://arxiv.org/abs/2501.01902v1)|[2501.01902v1](http://arxiv.org/pdf/2501.01902v1)|null|
 |**2025-01-02**|**The Bayesian Global Sky Model (B-GSM): Validation of a Data Driven Bayesian Simultaneous Component Separation and Calibration Algorithm for EoR Foreground Modelling**|George Carter et.al.|[2501.01417v1](http://arxiv.org/abs/2501.01417v1)|[2501.01417v1](http://arxiv.org/pdf/2501.01417v1)|null|
 |**2025-01-02**|**Post-adiabatic waveform-generation framework for asymmetric precessing binaries**|Josh Mathews et.al.|[2501.01413v1](http://arxiv.org/abs/2501.01413v1)|[2501.01413v1](http://arxiv.org/pdf/2501.01413v1)|null|
 |**2025-01-02**|**A Planet as the Possible Cause of the HD 181327 Debris Disk Asymmetry**|Chris Fox et.al.|[2501.01387v1](http://arxiv.org/abs/2501.01387v1)|[2501.01387v1](http://arxiv.org/pdf/2501.01387v1)|null|
@@ -6242,6 +6252,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-03**|**MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of Accelerators**|Cheng Wan et.al.|[2501.01951v1](http://arxiv.org/abs/2501.01951v1)|[2501.01951v1](http://arxiv.org/pdf/2501.01951v1)|null|
+|**2025-01-03**|**MADGEN -- Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950v1](http://arxiv.org/abs/2501.01950v1)|[2501.01950v1](http://arxiv.org/pdf/2501.01950v1)|null|
+|**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945v1](http://arxiv.org/abs/2501.01945v1)|[2501.01945v1](http://arxiv.org/pdf/2501.01945v1)|null|
+|**2025-01-03**|**Hybrid-z: Enhancing Kilo-Degree Survey bright galaxy sample photometric redshifts with deep learning**|Anjitha John William et.al.|[2501.01942v1](http://arxiv.org/abs/2501.01942v1)|[2501.01942v1](http://arxiv.org/pdf/2501.01942v1)|null|
+|**2025-01-03**|**Abstractive Text Summarization for Contemporary Sanskrit Prose: Issues and Challenges**|Shagun Sinha et.al.|[2501.01933v1](http://arxiv.org/abs/2501.01933v1)|[2501.01933v1](http://arxiv.org/pdf/2501.01933v1)|null|
+|**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926v1](http://arxiv.org/abs/2501.01926v1)|[2501.01926v1](http://arxiv.org/pdf/2501.01926v1)|null|
+|**2025-01-03**|**Social Processes: Probabilistic Meta-learning for Adaptive Multiparty Interaction Forecasting**|Augustinas Jučas et.al.|[2501.01915v1](http://arxiv.org/abs/2501.01915v1)|[2501.01915v1](http://arxiv.org/pdf/2501.01915v1)|null|
+|**2025-01-03**|**Mingling with the Good to Backdoor Federated Learning**|Nuno Neves et.al.|[2501.01913v1](http://arxiv.org/abs/2501.01913v1)|[2501.01913v1](http://arxiv.org/pdf/2501.01913v1)|null|
+|**2025-01-03**|**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**|Yifan Du et.al.|[2501.01904v1](http://arxiv.org/abs/2501.01904v1)|[2501.01904v1](http://arxiv.org/pdf/2501.01904v1)|null|
+|**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892v1](http://arxiv.org/abs/2501.01892v1)|[2501.01892v1](http://arxiv.org/pdf/2501.01892v1)|null|
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|[2501.01424v1](http://arxiv.org/pdf/2501.01424v1)|null|
 |**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|[2501.01422v1](http://arxiv.org/pdf/2501.01422v1)|null|
 |**2025-01-02**|**Polynomial Time Quantum Gibbs Sampling for Fermi-Hubbard Model at any Temperature**|Štěpán Šmíd et.al.|[2501.01412v1](http://arxiv.org/abs/2501.01412v1)|[2501.01412v1](http://arxiv.org/pdf/2501.01412v1)|**[link](https://github.com/Quantum-AI-Lab-ICL/Quantum-Gibbs-Sampling)**|
