@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-06**|**No evidence (yet) for increased star-formation efficiency at early times**|C. T. Donnan et.al.|[2501.03217v1](http://arxiv.org/abs/2501.03217v1)|[2501.03217v1](http://arxiv.org/pdf/2501.03217v1)|null|
+|**2025-01-06**|**Superhabitable Planets Around Mid-Type K Dwarf Stars Enhance Simulated JWST Observability and Surface Habitability**|Iva Vilović et.al.|[2501.03214v1](http://arxiv.org/abs/2501.03214v1)|[2501.03214v1](http://arxiv.org/pdf/2501.03214v1)|null|
+|**2025-01-06**|**Pseudo-Newtonian simulation of a thin accretion disk around a Reissner-Nordström naked singularity**|Miljenko Čemeljić et.al.|[2501.03178v1](http://arxiv.org/abs/2501.03178v1)|[2501.03178v1](http://arxiv.org/pdf/2501.03178v1)|null|
+|**2025-01-06**|**A Parallel-plate Capacitor-Effect in Earth's Dayside Ionosphere**|Magnus F Ivarsen et.al.|[2501.03174v1](http://arxiv.org/abs/2501.03174v1)|[2501.03174v1](http://arxiv.org/pdf/2501.03174v1)|null|
+|**2025-01-06**|**Quantifying the detection likelihood of faint peaks in interferometric data through jackknifing: Test application on finding $z>10$ galaxy candidates**|Joshiwa van Marrewijk et.al.|[2501.03150v1](http://arxiv.org/abs/2501.03150v1)|[2501.03150v1](http://arxiv.org/pdf/2501.03150v1)|null|
+|**2025-01-06**|**Dynamics of the Beta Pictoris planetary system and possibility of an additional planet**|A. Lacquement et.al.|[2501.03143v1](http://arxiv.org/abs/2501.03143v1)|[2501.03143v1](http://arxiv.org/pdf/2501.03143v1)|null|
+|**2025-01-06**|**Cloudy-Maraston: Integrating nebular continuum and line emission with the Maraston stellar population synthesis models**|Sophie L. Newman et.al.|[2501.03133v1](http://arxiv.org/abs/2501.03133v1)|[2501.03133v1](http://arxiv.org/pdf/2501.03133v1)|null|
+|**2025-01-06**|**Interaction of Electromagnetic Radiation with Cometary Dust**|ludmilla Kolokolova et.al.|[2501.03117v1](http://arxiv.org/abs/2501.03117v1)|[2501.03117v1](http://arxiv.org/pdf/2501.03117v1)|null|
+|**2025-01-06**|**The NewAthena mission concept in the context of the next decade of X-ray astronomy**|Mike Cruise et.al.|[2501.03100v1](http://arxiv.org/abs/2501.03100v1)|[2501.03100v1](http://arxiv.org/pdf/2501.03100v1)|null|
+|**2025-01-06**|**The coronal power spectrum from MHD mode conversion above sunspots**|Hemanthi Miriyala et.al.|[2501.03094v1](http://arxiv.org/abs/2501.03094v1)|[2501.03094v1](http://arxiv.org/pdf/2501.03094v1)|null|
 |**2025-01-03**|**Dwarf Galaxies in the TNG50 Field: connecting their Star-formation Rates with their Environments**|Joy Bhattacharyya et.al.|[2501.01946v1](http://arxiv.org/abs/2501.01946v1)|[2501.01946v1](http://arxiv.org/pdf/2501.01946v1)|null|
 |**2025-01-03**|**Hybrid-z: Enhancing Kilo-Degree Survey bright galaxy sample photometric redshifts with deep learning**|Anjitha John William et.al.|[2501.01942v1](http://arxiv.org/abs/2501.01942v1)|[2501.01942v1](http://arxiv.org/pdf/2501.01942v1)|null|
 |**2025-01-03**|**Spin-period variations in the intermediate polar RX J2133.7+5107**|V. Breus et.al.|[2501.01940v1](http://arxiv.org/abs/2501.01940v1)|[2501.01940v1](http://arxiv.org/pdf/2501.01940v1)|null|
@@ -6248,6 +6258,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|[2501.03229v1](http://arxiv.org/pdf/2501.03229v1)|null|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v1](http://arxiv.org/abs/2501.03228v1)|[2501.03228v1](http://arxiv.org/pdf/2501.03228v1)|null|
+|**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226v1](http://arxiv.org/abs/2501.03226v1)|[2501.03226v1](http://arxiv.org/pdf/2501.03226v1)|**[link](https://github.com/beichenzbc/booststep)**|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225v1](http://arxiv.org/abs/2501.03225v1)|[2501.03225v1](http://arxiv.org/pdf/2501.03225v1)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-06**|**Leveraging Explainable AI for LLM Text Attribution: Differentiating Human-Written and Multiple LLMs-Generated Text**|Ayat Najjar et.al.|[2501.03212v1](http://arxiv.org/abs/2501.03212v1)|[2501.03212v1](http://arxiv.org/pdf/2501.03212v1)|null|
+|**2025-01-06**|**Detecting AI-Generated Text in Educational Content: Leveraging Machine Learning and Explainable AI for Academic Integrity**|Ayat A. Najjar et.al.|[2501.03203v1](http://arxiv.org/abs/2501.03203v1)|[2501.03203v1](http://arxiv.org/pdf/2501.03203v1)|null|
+|**2025-01-06**|**Turn-based Multi-Agent Reinforcement Learning Model Checking**|Dennis Gross et.al.|[2501.03187v1](http://arxiv.org/abs/2501.03187v1)|[2501.03187v1](http://arxiv.org/pdf/2501.03187v1)|null|
+|**2025-01-06**|**GLiREL -- Generalist Model for Zero-Shot Relation Extraction**|Jack Boylan et.al.|[2501.03172v1](http://arxiv.org/abs/2501.03172v1)|[2501.03172v1](http://arxiv.org/pdf/2501.03172v1)|null|
+|**2025-01-06**|**The Scaling Law for LoRA Base on Mutual Information Upper Bound**|Jing Zhang et.al.|[2501.03152v1](http://arxiv.org/abs/2501.03152v1)|[2501.03152v1](http://arxiv.org/pdf/2501.03152v1)|null|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151v1](http://arxiv.org/abs/2501.03151v1)|[2501.03151v1](http://arxiv.org/pdf/2501.03151v1)|null|
 |**2025-01-03**|**MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of Accelerators**|Cheng Wan et.al.|[2501.01951v1](http://arxiv.org/abs/2501.01951v1)|[2501.01951v1](http://arxiv.org/pdf/2501.01951v1)|null|
 |**2025-01-03**|**MADGEN -- Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950v1](http://arxiv.org/abs/2501.01950v1)|[2501.01950v1](http://arxiv.org/pdf/2501.01950v1)|null|
 |**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945v1](http://arxiv.org/abs/2501.01945v1)|[2501.01945v1](http://arxiv.org/pdf/2501.01945v1)|null|
