@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-07**|**Tracing the Winds: A Uniform Interpretation of Helium Escape in Exoplanets from Archival Spectroscopic Observations**|Patrick McCreery et.al.|[2501.03998v1](http://arxiv.org/abs/2501.03998v1)|[2501.03998v1](http://arxiv.org/pdf/2501.03998v1)|null|
+|**2025-01-07**|**Exploring the evolution of a dwarf spheroidal galaxy with SPH simulations: II. AGN feedback**|R. Hazenfratz et.al.|[2501.03985v1](http://arxiv.org/abs/2501.03985v1)|[2501.03985v1](http://arxiv.org/pdf/2501.03985v1)|null|
+|**2025-01-07**|**A novel experimental approach to uncover the nature of cosmic-ray Deuterium**|Francesco Dimiccoli et.al.|[2501.03966v1](http://arxiv.org/abs/2501.03966v1)|[2501.03966v1](http://arxiv.org/pdf/2501.03966v1)|null|
+|**2025-01-07**|**Enabling high mass accretion rates onto massive main sequence stars by outer envelope mass removal**|Ariel Scolnic et.al.|[2501.03947v1](http://arxiv.org/abs/2501.03947v1)|[2501.03947v1](http://arxiv.org/pdf/2501.03947v1)|null|
+|**2025-01-07**|**Eruptive YSOs in Cygnus-X: a mid-infrared variability study with NEOWISE and SPICY**|C. Morris et.al.|[2501.03929v1](http://arxiv.org/abs/2501.03929v1)|[2501.03929v1](http://arxiv.org/pdf/2501.03929v1)|null|
+|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[2501.03921v1](http://arxiv.org/pdf/2501.03921v1)|**[link](https://github.com/ngm29/astro-lsbi)**|
+|**2025-01-07**|**ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT) VII: the layered molecular outflow from HL Tau and its relationship with the ringed disk**|F. Bacciotti et.al.|[2501.03920v1](http://arxiv.org/abs/2501.03920v1)|[2501.03920v1](http://arxiv.org/pdf/2501.03920v1)|null|
+|**2025-01-07**|**Polarization aberrations in next-generation Giant Segmented Mirror Telescopes (GSMTs). II. Influence of segment-to-segment coating variations on high-contrast imaging and polarimetry**|Jaren N. Ashcraft et.al.|[2501.03897v1](http://arxiv.org/abs/2501.03897v1)|[2501.03897v1](http://arxiv.org/pdf/2501.03897v1)|null|
+|**2025-01-07**|**Cosmic-ray acceleration and escape from supernova remnant W44 as probed by Fermi-LAT and MAGIC**|S. Abe et.al.|[2501.03889v1](http://arxiv.org/abs/2501.03889v1)|[2501.03889v1](http://arxiv.org/pdf/2501.03889v1)|null|
+|**2025-01-07**|**Computational Astrophysics, Data Science & AI/ML in Astronomy: A Perspective from Indian Community**|Prateek Sharma et.al.|[2501.03876v1](http://arxiv.org/abs/2501.03876v1)|[2501.03876v1](http://arxiv.org/pdf/2501.03876v1)|null|
 |**2025-01-06**|**No evidence (yet) for increased star-formation efficiency at early times**|C. T. Donnan et.al.|[2501.03217v1](http://arxiv.org/abs/2501.03217v1)|[2501.03217v1](http://arxiv.org/pdf/2501.03217v1)|null|
 |**2025-01-06**|**Superhabitable Planets Around Mid-Type K Dwarf Stars Enhance Simulated JWST Observability and Surface Habitability**|Iva Vilović et.al.|[2501.03214v1](http://arxiv.org/abs/2501.03214v1)|[2501.03214v1](http://arxiv.org/pdf/2501.03214v1)|null|
 |**2025-01-06**|**Pseudo-Newtonian simulation of a thin accretion disk around a Reissner-Nordström naked singularity**|Miljenko Čemeljić et.al.|[2501.03178v1](http://arxiv.org/abs/2501.03178v1)|[2501.03178v1](http://arxiv.org/pdf/2501.03178v1)|null|
@@ -6262,6 +6272,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-07**|**Cyber Spectrum Intelligence: Security Applications, Challenges and Road Ahead**|Savio Sciancalepore et.al.|[2501.03977v1](http://arxiv.org/abs/2501.03977v1)|[2501.03977v1](http://arxiv.org/pdf/2501.03977v1)|null|
+|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968v1](http://arxiv.org/abs/2501.03968v1)|[2501.03968v1](http://arxiv.org/pdf/2501.03968v1)|null|
+|**2025-01-07**|**Multi-functional Wafer-Scale Van der Waals Heterostructures and Polymorphs**|M. Micica et.al.|[2501.03955v1](http://arxiv.org/abs/2501.03955v1)|[2501.03955v1](http://arxiv.org/pdf/2501.03955v1)|null|
+|**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952v1](http://arxiv.org/abs/2501.03952v1)|[2501.03952v1](http://arxiv.org/pdf/2501.03952v1)|null|
+|**2025-01-07**|**Synthetic Data Privacy Metrics**|Amy Steier et.al.|[2501.03941v1](http://arxiv.org/abs/2501.03941v1)|[2501.03941v1](http://arxiv.org/pdf/2501.03941v1)|null|
+|**2025-01-07**|**Not all tokens are created equal: Perplexity Attention Weighted Networks for AI generated text detection**|Pablo Miralles-González et.al.|[2501.03940v1](http://arxiv.org/abs/2501.03940v1)|[2501.03940v1](http://arxiv.org/pdf/2501.03940v1)|null|
+|**2025-01-07**|**PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides**|Hao Zheng et.al.|[2501.03936v1](http://arxiv.org/abs/2501.03936v1)|[2501.03936v1](http://arxiv.org/pdf/2501.03936v1)|**[link](https://github.com/icip-cas/pptagent)**|
+|**2025-01-07**|**Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**|Jiakang Yuan et.al.|[2501.03916v1](http://arxiv.org/abs/2501.03916v1)|[2501.03916v1](http://arxiv.org/pdf/2501.03916v1)|null|
+|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904v1](http://arxiv.org/abs/2501.03904v1)|[2501.03904v1](http://arxiv.org/pdf/2501.03904v1)|null|
+|**2025-01-07**|**Explainable Reinforcement Learning via Temporal Policy Decomposition**|Franco Ruggeri et.al.|[2501.03902v1](http://arxiv.org/abs/2501.03902v1)|[2501.03902v1](http://arxiv.org/pdf/2501.03902v1)|null|
 |**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|[2501.03229v1](http://arxiv.org/pdf/2501.03229v1)|null|
 |**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v2](http://arxiv.org/abs/2501.03228v2)|[2501.03228v2](http://arxiv.org/pdf/2501.03228v2)|null|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226v1](http://arxiv.org/abs/2501.03226v1)|[2501.03226v1](http://arxiv.org/pdf/2501.03226v1)|**[link](https://github.com/beichenzbc/booststep)**|
