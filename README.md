@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-09**|**A Disintegrating Rocky Planet with Prominent Comet-like Tails Around a Bright Star**|Marc Hon et.al.|[2501.05431v1](http://arxiv.org/abs/2501.05431v1)|[2501.05431v1](http://arxiv.org/pdf/2501.05431v1)|null|
+|**2025-01-09**|**Nebular emission from composite star-forming galaxies -- I. A novel modelling approach**|Christophe Morisset et.al.|[2501.05424v1](http://arxiv.org/abs/2501.05424v1)|[2501.05424v1](http://arxiv.org/pdf/2501.05424v1)|null|
+|**2025-01-09**|**Angular bispectrum of matter number counts in cosmic structures**|Thomas Montandon et.al.|[2501.05422v1](http://arxiv.org/abs/2501.05422v1)|[2501.05422v1](http://arxiv.org/pdf/2501.05422v1)|null|
+|**2025-01-09**|**Not-Quite-Transcendental Functions For Logarithmic Interpolation of Tabulated Data**|Peter C. Hammond et.al.|[2501.05410v1](http://arxiv.org/abs/2501.05410v1)|[2501.05410v1](http://arxiv.org/pdf/2501.05410v1)|null|
+|**2025-01-09**|**MRI-driven $αΩ$ dynamo at high Pm numbers**|Alexis Reboul-Salze et.al.|[2501.05393v1](http://arxiv.org/abs/2501.05393v1)|[2501.05393v1](http://arxiv.org/pdf/2501.05393v1)|null|
+|**2025-01-09**|**Harvesting primordial black holes from stochastic trees with $\texttt{FOREST}$**|Chiara Animali et.al.|[2501.05371v1](http://arxiv.org/abs/2501.05371v1)|[2501.05371v1](http://arxiv.org/pdf/2501.05371v1)|null|
+|**2025-01-09**|**An ESO-SKAO Synergistic Approach to Galaxy Formation and Evolution Studies**|Isabella Prandoni et.al.|[2501.05354v1](http://arxiv.org/abs/2501.05354v1)|[2501.05354v1](http://arxiv.org/pdf/2501.05354v1)|null|
+|**2025-01-09**|**Resolving an Asteroseismic Catastrophe: Structural Diagnostics from p-mode Phase Functions off the Main Sequence**|J. M. Joel Ong et.al.|[2501.05343v1](http://arxiv.org/abs/2501.05343v1)|[2501.05343v1](http://arxiv.org/pdf/2501.05343v1)|null|
+|**2025-01-09**|**Martian atmospheric disturbances from orbital images and surface pressure at Jezero Crater, Mars, during Martian Year 36**|A. Sánchez-Lavega et.al.|[2501.05337v1](http://arxiv.org/abs/2501.05337v1)|[2501.05337v1](http://arxiv.org/pdf/2501.05337v1)|null|
+|**2025-01-09**|**The CO-Fuelled Time Machine: Tracing Birth Conditions and Terrestrial Planet Formation Outcomes in HD 163296 through Pebble Drift-induced CO Enhancements**|Joe Williams et.al.|[2501.05316v1](http://arxiv.org/abs/2501.05316v1)|[2501.05316v1](http://arxiv.org/pdf/2501.05316v1)|null|
 |**2025-01-08**|**A study of the frequency and characteristics of stellar companions and Jupiter-like planets in nearby open clusters**|R. Gratton et.al.|[2501.04692v1](http://arxiv.org/abs/2501.04692v1)|[2501.04692v1](http://arxiv.org/pdf/2501.04692v1)|null|
 |**2025-01-08**|**Kerr black hole parameters and its distance from the Earth in terms of directly measurable quantities of accretion disk**|Mehrab Momennia et.al.|[2501.04677v1](http://arxiv.org/abs/2501.04677v1)|[2501.04677v1](http://arxiv.org/pdf/2501.04677v1)|null|
 |**2025-01-08**|**Cosmological Perturbations from a New Approach to Inflation**|Brandon Melcher et.al.|[2501.04669v1](http://arxiv.org/abs/2501.04669v1)|[2501.04669v1](http://arxiv.org/pdf/2501.04669v1)|null|
@@ -6278,6 +6288,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453v1](http://arxiv.org/abs/2501.05453v1)|[2501.05453v1](http://arxiv.org/pdf/2501.05453v1)|null|
+|**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445v1](http://arxiv.org/abs/2501.05445v1)|[2501.05445v1](http://arxiv.org/pdf/2501.05445v1)|null|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443v1](http://arxiv.org/abs/2501.05443v1)|[2501.05443v1](http://arxiv.org/pdf/2501.05443v1)|null|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442v1](http://arxiv.org/abs/2501.05442v1)|[2501.05442v1](http://arxiv.org/pdf/2501.05442v1)|null|
+|**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|[2501.05439v1](http://arxiv.org/pdf/2501.05439v1)|null|
+|**2025-01-09**|**Neuro-Symbolic AI in 2024: A Systematic Review**|Brandon C. Colelough et.al.|[2501.05435v1](http://arxiv.org/abs/2501.05435v1)|[2501.05435v1](http://arxiv.org/pdf/2501.05435v1)|null|
+|**2025-01-09**|**Nebular emission from composite star-forming galaxies -- I. A novel modelling approach**|Christophe Morisset et.al.|[2501.05424v1](http://arxiv.org/abs/2501.05424v1)|[2501.05424v1](http://arxiv.org/pdf/2501.05424v1)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413v1](http://arxiv.org/abs/2501.05413v1)|[2501.05413v1](http://arxiv.org/pdf/2501.05413v1)|null|
+|**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409v1](http://arxiv.org/abs/2501.05409v1)|[2501.05409v1](http://arxiv.org/pdf/2501.05409v1)|null|
+|**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408v1](http://arxiv.org/abs/2501.05408v1)|[2501.05408v1](http://arxiv.org/pdf/2501.05408v1)|null|
 |**2025-01-08**|**Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**|Ziyuan Huang et.al.|[2501.04700v1](http://arxiv.org/abs/2501.04700v1)|[2501.04700v1](http://arxiv.org/pdf/2501.04700v1)|null|
 |**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697v1](http://arxiv.org/abs/2501.04697v1)|[2501.04697v1](http://arxiv.org/pdf/2501.04697v1)|**[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)**|
 |**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694v1](http://arxiv.org/abs/2501.04694v1)|[2501.04694v1](http://arxiv.org/pdf/2501.04694v1)|null|
