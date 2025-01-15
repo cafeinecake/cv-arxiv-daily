@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-14**|**Parallel Electric Fields And Electron Heating Observed In The Young Solar Wind**|Forrest Mozer et.al.|[2501.08311v1](http://arxiv.org/abs/2501.08311v1)|[2501.08311v1](http://arxiv.org/pdf/2501.08311v1)|null|
+|**2025-01-14**|**A Disintegrating Rocky World Shrouded in Dust and Gas: Mid-IR Observations of K2-22b using JWST**|Nick Tusay et.al.|[2501.08301v1](http://arxiv.org/abs/2501.08301v1)|[2501.08301v1](http://arxiv.org/pdf/2501.08301v1)|null|
+|**2025-01-14**|**Vertical CO surfaces as a probe for protoplanetary disk mass and carbon depletion**|T. Paneque-Carreño et.al.|[2501.08294v1](http://arxiv.org/abs/2501.08294v1)|[2501.08294v1](http://arxiv.org/pdf/2501.08294v1)|null|
+|**2025-01-14**|**Revisiting the shadow of Johannsen-Psaltis black holes**|Xinyu Wang et.al.|[2501.08287v1](http://arxiv.org/abs/2501.08287v1)|[2501.08287v1](http://arxiv.org/pdf/2501.08287v1)|null|
+|**2025-01-14**|**Little impact of mergers and galaxy morphology on the production and escape of ionizing photons in the early Universe**|S. Mascia et.al.|[2501.08268v1](http://arxiv.org/abs/2501.08268v1)|[2501.08268v1](http://arxiv.org/pdf/2501.08268v1)|null|
+|**2025-01-14**|**GPU-accelerated LISA parameter estimation with full time domain response**|Cecilio García-Quirós et.al.|[2501.08261v1](http://arxiv.org/abs/2501.08261v1)|[2501.08261v1](http://arxiv.org/pdf/2501.08261v1)|null|
+|**2025-01-14**|**Birefringence in fermion-attenuated gravitational wave power spectrum**|Jinglong Liu et.al.|[2501.08240v1](http://arxiv.org/abs/2501.08240v1)|[2501.08240v1](http://arxiv.org/pdf/2501.08240v1)|null|
+|**2025-01-14**|**Discovery of 26 new Galactic radio transients by MeerTRAP**|James Dennis Turner et.al.|[2501.08224v1](http://arxiv.org/abs/2501.08224v1)|[2501.08224v1](http://arxiv.org/pdf/2501.08224v1)|null|
+|**2025-01-14**|**The VMC Survey : LI. Classifying extragalactic sources using a probabilistic random forest supervised machine learning algorithm**|Clara M. Pennock et.al.|[2501.08196v1](http://arxiv.org/abs/2501.08196v1)|[2501.08196v1](http://arxiv.org/pdf/2501.08196v1)|null|
+|**2025-01-14**|**Architecture Classification for Extrasolar Planetary Systems**|Alex R. Howe et.al.|[2501.08191v1](http://arxiv.org/abs/2501.08191v1)|[2501.08191v1](http://arxiv.org/pdf/2501.08191v1)|null|
 |**2025-01-13**|**The Guitar's Magnetic Field Revealed by Starlight Polarization**|Jack T. Dinsmore et.al.|[2501.07577v1](http://arxiv.org/abs/2501.07577v1)|[2501.07577v1](http://arxiv.org/pdf/2501.07577v1)|null|
 |**2025-01-13**|**A reference framework for extremely metal-poor OB star studies: calibrations for stellar parameters and intrinsic colours**|Marta Lorenzo et.al.|[2501.07569v1](http://arxiv.org/abs/2501.07569v1)|[2501.07569v1](http://arxiv.org/pdf/2501.07569v1)|null|
 |**2025-01-13**|**Euclid: Optimising tomographic redshift binning for 3$\times$2pt power spectrum constraints on dark energy**|J. H. W. Wong et.al.|[2501.07559v1](http://arxiv.org/abs/2501.07559v1)|[2501.07559v1](http://arxiv.org/pdf/2501.07559v1)|null|
@@ -6312,6 +6322,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-14**|**PokerBench: Training Large Language Models to become Professional Poker Players**|Richard Zhuang et.al.|[2501.08328v1](http://arxiv.org/abs/2501.08328v1)|[2501.08328v1](http://arxiv.org/pdf/2501.08328v1)|**[link](https://github.com/pokerllm/pokerbench)**|
+|**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324v1](http://arxiv.org/abs/2501.08324v1)|[2501.08324v1](http://arxiv.org/pdf/2501.08324v1)|null|
+|**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316v1](http://arxiv.org/abs/2501.08316v1)|[2501.08316v1](http://arxiv.org/pdf/2501.08316v1)|null|
+|**2025-01-14**|**Polynomial Threshold Functions of Bounded Tree-Width: Some Explainability and Complexity Aspects**|Karine Chubarian et.al.|[2501.08297v1](http://arxiv.org/abs/2501.08297v1)|[2501.08297v1](http://arxiv.org/pdf/2501.08297v1)|null|
+|**2025-01-14**|**HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**|Abhilasha Ravichander et.al.|[2501.08292v1](http://arxiv.org/abs/2501.08292v1)|[2501.08292v1](http://arxiv.org/pdf/2501.08292v1)|null|
+|**2025-01-14**|**Comparative Analysis of Efficient Adapter-Based Fine-Tuning of State-of-the-Art Transformer Models**|Saad Mashkoor Siddiqui et.al.|[2501.08271v1](http://arxiv.org/abs/2501.08271v1)|[2501.08271v1](http://arxiv.org/pdf/2501.08271v1)|null|
+|**2025-01-14**|**AI Driven Water Segmentation with deep learning models for Enhanced Flood Monitoring**|Sanjida Afrin Mou et.al.|[2501.08266v1](http://arxiv.org/abs/2501.08266v1)|[2501.08266v1](http://arxiv.org/pdf/2501.08266v1)|**[link](https://github.com/SanjidaAfrin25/flood-detection-using-deepLab-unet-resnet)**|
+|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248v1](http://arxiv.org/abs/2501.08248v1)|[2501.08248v1](http://arxiv.org/pdf/2501.08248v1)|null|
+|**2025-01-14**|**Engineering LLM Powered Multi-agent Framework for Autonomous CloudOps**|Kannan Parthasarathy et.al.|[2501.08243v1](http://arxiv.org/abs/2501.08243v1)|[2501.08243v1](http://arxiv.org/pdf/2501.08243v1)|null|
+|**2025-01-14**|**A Feature-Level Ensemble Model for COVID-19 Identification in CXR Images using Choquet Integral and Differential Evolution Optimization**|Amir Reza Takhsha et.al.|[2501.08241v1](http://arxiv.org/abs/2501.08241v1)|[2501.08241v1](http://arxiv.org/pdf/2501.08241v1)|null|
 |**2025-01-13**|**Dataset Distillation via Committee Voting**|Jiacheng Cui et.al.|[2501.07575v1](http://arxiv.org/abs/2501.07575v1)|[2501.07575v1](http://arxiv.org/pdf/2501.07575v1)|**[link](https://github.com/jiacheng8/cv-dd)**|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574v1](http://arxiv.org/abs/2501.07574v1)|[2501.07574v1](http://arxiv.org/pdf/2501.07574v1)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572v1](http://arxiv.org/abs/2501.07572v1)|[2501.07572v1](http://arxiv.org/pdf/2501.07572v1)|**[link](https://github.com/alibaba-nlp/webwalker)**|
