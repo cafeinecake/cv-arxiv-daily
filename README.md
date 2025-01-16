@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-15**|**Improving the stellar age determination through joint modeling of binarity and asteroseismology - Grid modeling of the seismic red-giant binary KIC 9163796**|D. H. Grossmann et.al.|[2501.09018v1](http://arxiv.org/abs/2501.09018v1)|[2501.09018v1](http://arxiv.org/pdf/2501.09018v1)|null|
+|**2025-01-15**|**Prompt gravitational-wave mergers aided by gas in Active Galactic Nuclei: The hydrodynamics of binary-single black hole scatterings**|Connar Rowan et.al.|[2501.09017v1](http://arxiv.org/abs/2501.09017v1)|[2501.09017v1](http://arxiv.org/pdf/2501.09017v1)|null|
+|**2025-01-15**|**Searching for new variable white dwarfs: The discovery of the three new pulsating and three new binary systems**|Larissa Antunes Amaral et.al.|[2501.09003v1](http://arxiv.org/abs/2501.09003v1)|[2501.09003v1](http://arxiv.org/pdf/2501.09003v1)|null|
+|**2025-01-15**|**Bayesian analysis of analog gravity systems with the Rezzolla-Zhidenko metric**|Saulo Albuquerque et.al.|[2501.09000v1](http://arxiv.org/abs/2501.09000v1)|[2501.09000v1](http://arxiv.org/pdf/2501.09000v1)|null|
+|**2025-01-15**|**Empirical Constraints on Tidal Dissipation in Exoplanet Host Stars**|Sarah C. Millholland et.al.|[2501.08992v1](http://arxiv.org/abs/2501.08992v1)|[2501.08992v1](http://arxiv.org/pdf/2501.08992v1)|null|
+|**2025-01-15**|**Heavy Axions Can Disrupt $γ$-ray Bursts**|Oindrila Ghosh et.al.|[2501.08978v1](http://arxiv.org/abs/2501.08978v1)|[2501.08978v1](http://arxiv.org/pdf/2501.08978v1)|null|
+|**2025-01-15**|**Properties of high-redshift Type II supernovae discovered by the JADES transient survey**|Takashi J. Moriya et.al.|[2501.08969v1](http://arxiv.org/abs/2501.08969v1)|[2501.08969v1](http://arxiv.org/pdf/2501.08969v1)|null|
+|**2025-01-15**|**Eigenstate thermalization to non-Gibbs states in strongly-interacting chaotic lattice gases**|Vladimir A. Yurovsky et.al.|[2501.08967v1](http://arxiv.org/abs/2501.08967v1)|[2501.08967v1](http://arxiv.org/pdf/2501.08967v1)|null|
+|**2025-01-15**|**Black Hole Tomography: Unveiling Black Hole Ringdown via Gravitational Wave Observations**|A. Ribes Metidieri et.al.|[2501.08964v1](http://arxiv.org/abs/2501.08964v1)|[2501.08964v1](http://arxiv.org/pdf/2501.08964v1)|null|
+|**2025-01-15**|**Potential Contribution of Young Pulsar Wind Nebulae to Galactic High-Energy Neutrino Emission**|Xuan-Han Liang et.al.|[2501.08957v1](http://arxiv.org/abs/2501.08957v1)|[2501.08957v1](http://arxiv.org/pdf/2501.08957v1)|null|
 |**2025-01-14**|**Parallel Electric Fields And Electron Heating Observed In The Young Solar Wind**|Forrest Mozer et.al.|[2501.08311v1](http://arxiv.org/abs/2501.08311v1)|[2501.08311v1](http://arxiv.org/pdf/2501.08311v1)|null|
 |**2025-01-14**|**A Disintegrating Rocky World Shrouded in Dust and Gas: Mid-IR Observations of K2-22b using JWST**|Nick Tusay et.al.|[2501.08301v1](http://arxiv.org/abs/2501.08301v1)|[2501.08301v1](http://arxiv.org/pdf/2501.08301v1)|null|
 |**2025-01-14**|**Vertical CO surfaces as a probe for protoplanetary disk mass and carbon depletion**|T. Paneque-Carreño et.al.|[2501.08294v1](http://arxiv.org/abs/2501.08294v1)|[2501.08294v1](http://arxiv.org/pdf/2501.08294v1)|null|
@@ -6318,6 +6328,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-15**|**How Do Generative Models Draw a Software Engineer? A Case Study on Stable Diffusion Bias**|Tosin Fadahunsi et.al.|[2501.09014v1](http://arxiv.org/abs/2501.09014v1)|[2501.09014v1](http://arxiv.org/pdf/2501.09014v1)|**[link](https://github.com/giordanodaloisio/sd-bias)**|
+|**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012v1](http://arxiv.org/abs/2501.09012v1)|[2501.09012v1](http://arxiv.org/pdf/2501.09012v1)|**[link](https://github.com/songrise/mllm4art)**|
+|**2025-01-15**|**AI-RAN: Transforming RAN with AI-driven Computing Infrastructure**|Lopamudra Kundu et.al.|[2501.09007v1](http://arxiv.org/abs/2501.09007v1)|[2501.09007v1](http://arxiv.org/pdf/2501.09007v1)|null|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001v1](http://arxiv.org/abs/2501.09001v1)|[2501.09001v1](http://arxiv.org/pdf/2501.09001v1)|null|
+|**2025-01-15**|**Personality Modeling for Persuasion of Misinformation using AI Agent**|Qianmin Lou et.al.|[2501.08985v1](http://arxiv.org/abs/2501.08985v1)|[2501.08985v1](http://arxiv.org/pdf/2501.08985v1)|null|
+|**2025-01-15**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977v1](http://arxiv.org/abs/2501.08977v1)|[2501.08977v1](http://arxiv.org/pdf/2501.08977v1)|null|
+|**2025-01-15**|**Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography**|Ilia Shumailov et.al.|[2501.08970v1](http://arxiv.org/abs/2501.08970v1)|[2501.08970v1](http://arxiv.org/pdf/2501.08970v1)|null|
+|**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962v1](http://arxiv.org/abs/2501.08962v1)|[2501.08962v1](http://arxiv.org/pdf/2501.08962v1)|null|
+|**2025-01-15**|**Kolmogorov-Arnold Networks for Time Series Granger Causality Inference**|Meiliang Liu et.al.|[2501.08958v1](http://arxiv.org/abs/2501.08958v1)|[2501.08958v1](http://arxiv.org/pdf/2501.08958v1)|null|
+|**2025-01-15**|**Analyzing the Ethical Logic of Six Large Language Models**|W. Russell Neuman et.al.|[2501.08951v1](http://arxiv.org/abs/2501.08951v1)|[2501.08951v1](http://arxiv.org/pdf/2501.08951v1)|null|
 |**2025-01-14**|**PokerBench: Training Large Language Models to become Professional Poker Players**|Richard Zhuang et.al.|[2501.08328v1](http://arxiv.org/abs/2501.08328v1)|[2501.08328v1](http://arxiv.org/pdf/2501.08328v1)|**[link](https://github.com/pokerllm/pokerbench)**|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324v1](http://arxiv.org/abs/2501.08324v1)|[2501.08324v1](http://arxiv.org/pdf/2501.08324v1)|null|
 |**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316v1](http://arxiv.org/abs/2501.08316v1)|[2501.08316v1](http://arxiv.org/pdf/2501.08316v1)|null|
