@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-16**|**PyPLUTO: a data analysis Python package for the PLUTO code**|Giancarlo Mattia et.al.|[2501.09748v1](http://arxiv.org/abs/2501.09748v1)|[2501.09748v1](http://arxiv.org/pdf/2501.09748v1)|null|
+|**2025-01-16**|**Stellar occultation observations of (38628) Huya and its satellite: a detailed look into the system**|F. L. Rommel et.al.|[2501.09739v1](http://arxiv.org/abs/2501.09739v1)|[2501.09739v1](http://arxiv.org/pdf/2501.09739v1)|null|
+|**2025-01-16**|**25 years of XMM-Newton observations of the Sgr A complex: 3D distribution and internal structure of the clouds**|G. Stel et.al.|[2501.09737v1](http://arxiv.org/abs/2501.09737v1)|[2501.09737v1](http://arxiv.org/pdf/2501.09737v1)|null|
+|**2025-01-16**|**Unveiling the origin of XMM-Newton soft proton flares: I. Design and validation of a response matrix for proton spectral analysis**|Valentina Fioretti et.al.|[2501.09724v1](http://arxiv.org/abs/2501.09724v1)|[2501.09724v1](http://arxiv.org/pdf/2501.09724v1)|null|
+|**2025-01-16**|**Jet-shaped filamentary ejecta in common envelope evolution**|Ron Schreier et.al.|[2501.09663v1](http://arxiv.org/abs/2501.09663v1)|[2501.09663v1](http://arxiv.org/pdf/2501.09663v1)|null|
+|**2025-01-16**|**SHORES: Serendipitous H-ATLAS-fields Observations of Radio Extragalactic Sources with the ATCA. I: catalog generation and analysis**|Marcella Massardi et.al.|[2501.09662v1](http://arxiv.org/abs/2501.09662v1)|[2501.09662v1](http://arxiv.org/pdf/2501.09662v1)|null|
+|**2025-01-16**|**Constraining the Secluded and Catalyzed Annihilation Dark Matter with Fermi-LAT and Planck Data**|Yu-Hang Su et.al.|[2501.09647v1](http://arxiv.org/abs/2501.09647v1)|[2501.09647v1](http://arxiv.org/pdf/2501.09647v1)|null|
+|**2025-01-16**|**Planetary Rhythms: Synchronous Circulation on Variably Irradiated Asynchronous Planets**|Deepayan Banik et.al.|[2501.09644v1](http://arxiv.org/abs/2501.09644v1)|[2501.09644v1](http://arxiv.org/pdf/2501.09644v1)|null|
+|**2025-01-16**|**Scattering meets absorption in dark matter detection**|Pieter Braat et.al.|[2501.09642v1](http://arxiv.org/abs/2501.09642v1)|[2501.09642v1](http://arxiv.org/pdf/2501.09642v1)|null|
+|**2025-01-16**|**Chern-Simons gravitational term coupled to an isocurvature field**|Giorgio Orlando et.al.|[2501.09630v1](http://arxiv.org/abs/2501.09630v1)|[2501.09630v1](http://arxiv.org/pdf/2501.09630v1)|null|
 |**2025-01-15**|**Improving the stellar age determination through joint modeling of binarity and asteroseismology - Grid modeling of the seismic red-giant binary KIC 9163796**|D. H. Grossmann et.al.|[2501.09018v1](http://arxiv.org/abs/2501.09018v1)|[2501.09018v1](http://arxiv.org/pdf/2501.09018v1)|null|
 |**2025-01-15**|**Prompt gravitational-wave mergers aided by gas in Active Galactic Nuclei: The hydrodynamics of binary-single black hole scatterings**|Connar Rowan et.al.|[2501.09017v1](http://arxiv.org/abs/2501.09017v1)|[2501.09017v1](http://arxiv.org/pdf/2501.09017v1)|null|
 |**2025-01-15**|**Searching for new variable white dwarfs: The discovery of the three new pulsating and three new binary systems**|Larissa Antunes Amaral et.al.|[2501.09003v1](http://arxiv.org/abs/2501.09003v1)|[2501.09003v1](http://arxiv.org/pdf/2501.09003v1)|null|
@@ -6328,6 +6338,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755v1](http://arxiv.org/abs/2501.09755v1)|[2501.09755v1](http://arxiv.org/pdf/2501.09755v1)|null|
+|**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744v1](http://arxiv.org/abs/2501.09744v1)|[2501.09744v1](http://arxiv.org/pdf/2501.09744v1)|null|
+|**2025-01-16**|**Parallel multi-objective metaheuristics for smart communications in vehicular networks**|Jamal Toutouh et.al.|[2501.09725v1](http://arxiv.org/abs/2501.09725v1)|[2501.09725v1](http://arxiv.org/pdf/2501.09725v1)|null|
+|**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720v1](http://arxiv.org/abs/2501.09720v1)|[2501.09720v1](http://arxiv.org/pdf/2501.09720v1)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
+|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709v1](http://arxiv.org/abs/2501.09709v1)|[2501.09709v1](http://arxiv.org/pdf/2501.09709v1)|null|
+|**2025-01-16**|**The Goofus & Gallant Story Corpus for Practical Value Alignment**|Md Sultan Al Nahian et.al.|[2501.09707v1](http://arxiv.org/abs/2501.09707v1)|[2501.09707v1](http://arxiv.org/pdf/2501.09707v1)|null|
+|**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705v1](http://arxiv.org/abs/2501.09705v1)|[2501.09705v1](http://arxiv.org/pdf/2501.09705v1)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
+|**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700v1](http://arxiv.org/abs/2501.09700v1)|[2501.09700v1](http://arxiv.org/pdf/2501.09700v1)|**[link](https://github.com/alidr79/cueless_eeg_subject_identification)**|
+|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686v1](http://arxiv.org/abs/2501.09686v1)|[2501.09686v1](http://arxiv.org/pdf/2501.09686v1)|null|
+|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685v1](http://arxiv.org/abs/2501.09685v1)|[2501.09685v1](http://arxiv.org/pdf/2501.09685v1)|null|
 |**2025-01-15**|**How Do Generative Models Draw a Software Engineer? A Case Study on Stable Diffusion Bias**|Tosin Fadahunsi et.al.|[2501.09014v1](http://arxiv.org/abs/2501.09014v1)|[2501.09014v1](http://arxiv.org/pdf/2501.09014v1)|**[link](https://github.com/giordanodaloisio/sd-bias)**|
 |**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012v1](http://arxiv.org/abs/2501.09012v1)|[2501.09012v1](http://arxiv.org/pdf/2501.09012v1)|**[link](https://github.com/songrise/mllm4art)**|
 |**2025-01-15**|**AI-RAN: Transforming RAN with AI-driven Computing Infrastructure**|Lopamudra Kundu et.al.|[2501.09007v1](http://arxiv.org/abs/2501.09007v1)|[2501.09007v1](http://arxiv.org/pdf/2501.09007v1)|null|
