@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-17**|**I Zw 1 and H0557-385: The Dusty Tori of Two High Eddington AGNs Observed in the MATISSE LM-Bands**|Farin Drewes et.al.|[2501.10352v1](http://arxiv.org/abs/2501.10352v1)|[2501.10352v1](http://arxiv.org/pdf/2501.10352v1)|null|
+|**2025-01-17**|**Sign Switching in Dark Sector Coupling Interactions as a Candidate for Resolving Cosmological Tensions**|Miguel A. Sabogal et.al.|[2501.10323v1](http://arxiv.org/abs/2501.10323v1)|[2501.10323v1](http://arxiv.org/pdf/2501.10323v1)|null|
+|**2025-01-17**|**No evidence that the binary black hole mass distribution evolves with redshift**|Max Lalleman et.al.|[2501.10295v1](http://arxiv.org/abs/2501.10295v1)|[2501.10295v1](http://arxiv.org/pdf/2501.10295v1)|null|
+|**2025-01-17**|**Evidence for the gravity-driven and magnetically-regularized gas flows feeding the massive protostellar cluster in Cep A**|Panigrahy Sandhyarani et.al.|[2501.10280v1](http://arxiv.org/abs/2501.10280v1)|[2501.10280v1](http://arxiv.org/pdf/2501.10280v1)|null|
+|**2025-01-17**|**Modular global-fit pipeline for LISA data analysis**|Senwen Deng et.al.|[2501.10277v1](http://arxiv.org/abs/2501.10277v1)|[2501.10277v1](http://arxiv.org/pdf/2501.10277v1)|null|
+|**2025-01-17**|**A data-driven approach for extracting tidal information from neutron star binary mergers observed with the Einstein Telescope**|Adrian Abac et.al.|[2501.10272v1](http://arxiv.org/abs/2501.10272v1)|[2501.10272v1](http://arxiv.org/pdf/2501.10272v1)|null|
+|**2025-01-17**|**High flow speeds and transition-region like temperatures in the solar chromosphere during flux emergence**|J. Leenaarts et.al.|[2501.10246v1](http://arxiv.org/abs/2501.10246v1)|[2501.10246v1](http://arxiv.org/pdf/2501.10246v1)|null|
+|**2025-01-17**|**DeepSSM: an emulator of gravitational wave spectra from sound waves during cosmological first-order phase transitions**|Chi Tian et.al.|[2501.10244v1](http://arxiv.org/abs/2501.10244v1)|[2501.10244v1](http://arxiv.org/pdf/2501.10244v1)|null|
+|**2025-01-17**|**Excess of $^{236}$U in the northwest Mediterranean Sea**|E. Chamizo et.al.|[2501.10215v1](http://arxiv.org/abs/2501.10215v1)|[2501.10215v1](http://arxiv.org/pdf/2501.10215v1)|null|
+|**2025-01-17**|**The promise of deep-stacking for neutrino astronomy**|Marek Kowalski et.al.|[2501.10213v1](http://arxiv.org/abs/2501.10213v1)|[2501.10213v1](http://arxiv.org/pdf/2501.10213v1)|null|
 |**2025-01-16**|**PyPLUTO: a data analysis Python package for the PLUTO code**|Giancarlo Mattia et.al.|[2501.09748v1](http://arxiv.org/abs/2501.09748v1)|[2501.09748v1](http://arxiv.org/pdf/2501.09748v1)|null|
 |**2025-01-16**|**Stellar occultation observations of (38628) Huya and its satellite: a detailed look into the system**|F. L. Rommel et.al.|[2501.09739v1](http://arxiv.org/abs/2501.09739v1)|[2501.09739v1](http://arxiv.org/pdf/2501.09739v1)|null|
 |**2025-01-16**|**25 years of XMM-Newton observations of the Sgr A complex: 3D distribution and internal structure of the clouds**|G. Stel et.al.|[2501.09737v1](http://arxiv.org/abs/2501.09737v1)|[2501.09737v1](http://arxiv.org/pdf/2501.09737v1)|null|
@@ -6338,6 +6348,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-17**|**3rd Workshop on Maritime Computer Vision (MaCVi) 2025: Challenge Results**|Benjamin Kiefer et.al.|[2501.10343v1](http://arxiv.org/abs/2501.10343v1)|[2501.10343v1](http://arxiv.org/pdf/2501.10343v1)|null|
+|**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332v1](http://arxiv.org/abs/2501.10332v1)|[2501.10332v1](http://arxiv.org/pdf/2501.10332v1)|null|
+|**2025-01-17**|**Large language models for automated scholarly paper review: A survey**|Zhenzhen Zhuang et.al.|[2501.10326v1](http://arxiv.org/abs/2501.10326v1)|[2501.10326v1](http://arxiv.org/pdf/2501.10326v1)|null|
+|**2025-01-17**|**Hierarchical Autoregressive Transformers: Combining Byte-~and Word-Level Processing for Robust, Adaptable Language Models**|Pit Neitemeier et.al.|[2501.10322v1](http://arxiv.org/abs/2501.10322v1)|[2501.10322v1](http://arxiv.org/pdf/2501.10322v1)|null|
+|**2025-01-17**|**Natural Language Processing of Privacy Policies: A Survey**|Andrick Adhikari et.al.|[2501.10319v1](http://arxiv.org/abs/2501.10319v1)|[2501.10319v1](http://arxiv.org/pdf/2501.10319v1)|null|
+|**2025-01-17**|**An Ontology for Social Determinants of Education (SDoEd) based on Human-AI Collaborative Approach**|Navya Martin Kollapally et.al.|[2501.10300v1](http://arxiv.org/abs/2501.10300v1)|[2501.10300v1](http://arxiv.org/pdf/2501.10300v1)|null|
+|**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292v1](http://arxiv.org/abs/2501.10292v1)|[2501.10292v1](http://arxiv.org/pdf/2501.10292v1)|null|
+|**2025-01-17**|**Computational Protein Science in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2501.10282v1](http://arxiv.org/abs/2501.10282v1)|[2501.10282v1](http://arxiv.org/pdf/2501.10282v1)|null|
+|**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273v1](http://arxiv.org/abs/2501.10273v1)|[2501.10273v1](http://arxiv.org/pdf/2501.10273v1)|null|
+|**2025-01-17**|**Unsupervised Rhythm and Voice Conversion of Dysarthric to Healthy Speech for ASR**|Karl El Hajal et.al.|[2501.10256v1](http://arxiv.org/abs/2501.10256v1)|[2501.10256v1](http://arxiv.org/pdf/2501.10256v1)|null|
 |**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755v1](http://arxiv.org/abs/2501.09755v1)|[2501.09755v1](http://arxiv.org/pdf/2501.09755v1)|null|
 |**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744v1](http://arxiv.org/abs/2501.09744v1)|[2501.09744v1](http://arxiv.org/pdf/2501.09744v1)|null|
 |**2025-01-16**|**Parallel multi-objective metaheuristics for smart communications in vehicular networks**|Jamal Toutouh et.al.|[2501.09725v1](http://arxiv.org/abs/2501.09725v1)|[2501.09725v1](http://arxiv.org/pdf/2501.09725v1)|null|
