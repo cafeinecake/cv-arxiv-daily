@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-21**|**Accelerating Pulsar Parameter Estimation Using Convolutional Neural Networks**|Greg Olmschenk et.al.|[2501.12383v1](http://arxiv.org/abs/2501.12383v1)|[2501.12383v1](http://arxiv.org/pdf/2501.12383v1)|null|
+|**2025-01-21**|**The doubly librating Plutinos**|Renu Malhotra et.al.|[2501.12345v1](http://arxiv.org/abs/2501.12345v1)|[2501.12345v1](http://arxiv.org/pdf/2501.12345v1)|null|
+|**2025-01-21**|**Effect of gas accretion on $α$-element bimodality in Milky Way-mass galaxies in the FIRE-2 simulations**|Hanna Parul et.al.|[2501.12342v1](http://arxiv.org/abs/2501.12342v1)|[2501.12342v1](http://arxiv.org/pdf/2501.12342v1)|null|
+|**2025-01-21**|**Tracing magnetic switchbacks to their source: An assessment of solar coronal jets as switchback precursors**|Nina Bizien et.al.|[2501.12340v1](http://arxiv.org/abs/2501.12340v1)|[2501.12340v1](http://arxiv.org/pdf/2501.12340v1)|null|
+|**2025-01-21**|**Period Analysis of Eclipsing Cataclysmic Variable Stars**|Mennatalla Mahmoud Ellaqany et.al.|[2501.12334v1](http://arxiv.org/abs/2501.12334v1)|[2501.12334v1](http://arxiv.org/pdf/2501.12334v1)|null|
+|**2025-01-21**|**On the nature of buckling instability in galactic bars**|Ewa L. Lokas et.al.|[2501.12308v1](http://arxiv.org/abs/2501.12308v1)|[2501.12308v1](http://arxiv.org/pdf/2501.12308v1)|null|
+|**2025-01-21**|**Asymptotic scaling laws for the stagnation conditions of Z-pinch implosions**|D. E. Ruiz et.al.|[2501.12284v1](http://arxiv.org/abs/2501.12284v1)|[2501.12284v1](http://arxiv.org/pdf/2501.12284v1)|null|
+|**2025-01-21**|**Constraint on Neutrino Statistics from Cosmological Data**|YiCheng Dai et.al.|[2501.12264v1](http://arxiv.org/abs/2501.12264v1)|[2501.12264v1](http://arxiv.org/pdf/2501.12264v1)|null|
+|**2025-01-21**|**Orbital Stability of Hierarchical 3 and 4-Body Systems with Inclination: Results for Kepler-1625, 1708, and HD 23079**|Shaan D. Patel et.al.|[2501.12258v1](http://arxiv.org/abs/2501.12258v1)|[2501.12258v1](http://arxiv.org/pdf/2501.12258v1)|null|
+|**2025-01-21**|**Gravitational waves and primordial black holes from the T-model inflation with Gauss-Bonnet correction**|Peng-Bo Chen et.al.|[2501.12242v1](http://arxiv.org/abs/2501.12242v1)|[2501.12242v1](http://arxiv.org/pdf/2501.12242v1)|null|
 |**2025-01-17**|**I Zw 1 and H0557-385: The Dusty Tori of Two High Eddington AGNs Observed in the MATISSE LM-Bands**|Farin Drewes et.al.|[2501.10352v1](http://arxiv.org/abs/2501.10352v1)|[2501.10352v1](http://arxiv.org/pdf/2501.10352v1)|null|
 |**2025-01-17**|**Sign Switching in Dark Sector Coupling Interactions as a Candidate for Resolving Cosmological Tensions**|Miguel A. Sabogal et.al.|[2501.10323v1](http://arxiv.org/abs/2501.10323v1)|[2501.10323v1](http://arxiv.org/pdf/2501.10323v1)|null|
 |**2025-01-17**|**No evidence that the binary black hole mass distribution evolves with redshift**|Max Lalleman et.al.|[2501.10295v1](http://arxiv.org/abs/2501.10295v1)|[2501.10295v1](http://arxiv.org/pdf/2501.10295v1)|null|
@@ -6352,6 +6362,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392v1](http://arxiv.org/abs/2501.12392v1)|[2501.12392v1](http://arxiv.org/pdf/2501.12392v1)|null|
+|**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391v1](http://arxiv.org/abs/2501.12391v1)|[2501.12391v1](http://arxiv.org/pdf/2501.12391v1)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
+|**2025-01-21**|**MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**|Yilun Zhao et.al.|[2501.12380v1](http://arxiv.org/abs/2501.12380v1)|[2501.12380v1](http://arxiv.org/pdf/2501.12380v1)|**[link](https://github.com/yale-nlp/mmvu)**|
+|**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375v1](http://arxiv.org/abs/2501.12375v1)|[2501.12375v1](http://arxiv.org/pdf/2501.12375v1)|null|
+|**2025-01-21**|**Expertise elevates AI usage: experimental evidence comparing laypeople and professional artists**|Thomas F. Eisenmann et.al.|[2501.12374v1](http://arxiv.org/abs/2501.12374v1)|[2501.12374v1](http://arxiv.org/pdf/2501.12374v1)|**[link](https://github.com/andreskarjus/genaiexperiment)**|
+|**2025-01-21**|**Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL**|Yeounoh Chung et.al.|[2501.12372v1](http://arxiv.org/abs/2501.12372v1)|[2501.12372v1](http://arxiv.org/pdf/2501.12372v1)|null|
+|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370v1](http://arxiv.org/abs/2501.12370v1)|[2501.12370v1](http://arxiv.org/pdf/2501.12370v1)|null|
+|**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369v1](http://arxiv.org/abs/2501.12369v1)|[2501.12369v1](http://arxiv.org/pdf/2501.12369v1)|null|
+|**2025-01-21**|**Test-time regression: a unifying framework for designing sequence models with associative memory**|Ke Alexander Wang et.al.|[2501.12352v1](http://arxiv.org/abs/2501.12352v1)|[2501.12352v1](http://arxiv.org/pdf/2501.12352v1)|null|
+|**2025-01-21**|**Treefix: Enabling Execution with a Tree of Prefixes**|Beatriz Souza et.al.|[2501.12339v1](http://arxiv.org/abs/2501.12339v1)|[2501.12339v1](http://arxiv.org/pdf/2501.12339v1)|null|
 |**2025-01-17**|**3rd Workshop on Maritime Computer Vision (MaCVi) 2025: Challenge Results**|Benjamin Kiefer et.al.|[2501.10343v1](http://arxiv.org/abs/2501.10343v1)|[2501.10343v1](http://arxiv.org/pdf/2501.10343v1)|null|
 |**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332v1](http://arxiv.org/abs/2501.10332v1)|[2501.10332v1](http://arxiv.org/pdf/2501.10332v1)|null|
 |**2025-01-17**|**Large language models for automated scholarly paper review: A survey**|Zhenzhen Zhuang et.al.|[2501.10326v1](http://arxiv.org/abs/2501.10326v1)|[2501.10326v1](http://arxiv.org/pdf/2501.10326v1)|null|
