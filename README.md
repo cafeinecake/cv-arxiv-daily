@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-22**|**The Machine Learning to reconstruct GRB lightcurves**|Maria Giovanna Dainotti et.al.|[2501.13102v1](http://arxiv.org/abs/2501.13102v1)|[2501.13102v1](http://arxiv.org/pdf/2501.13102v1)|null|
+|**2025-01-22**|**Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Low frequency Beamforming Test Bed LPDA Array at Gauribidanur Radio Observatory**|Anumanchi Agastya Sai Ram Likhit et.al.|[2501.13090v1](http://arxiv.org/abs/2501.13090v1)|[2501.13090v1](http://arxiv.org/pdf/2501.13090v1)|null|
+|**2025-01-22**|**BlackTHUNDER -- A non-stellar Balmer break in a black hole-dominated little red dot at $z=7.04$**|Xihan Ji et.al.|[2501.13082v1](http://arxiv.org/abs/2501.13082v1)|[2501.13082v1](http://arxiv.org/pdf/2501.13082v1)|null|
+|**2025-01-22**|**The outer structure of old star clusters in the Small Magellanic Cloud**|Andrés E. Piatti et.al.|[2501.13062v1](http://arxiv.org/abs/2501.13062v1)|[2501.13062v1](http://arxiv.org/pdf/2501.13062v1)|null|
+|**2025-01-22**|**On the Use of WGANs for Super Resolution in Dark-Matter Simulations**|John Brennan et.al.|[2501.13056v1](http://arxiv.org/abs/2501.13056v1)|[2501.13056v1](http://arxiv.org/pdf/2501.13056v1)|null|
+|**2025-01-22**|**High-Frequency Power Spectrum of AGN NGC 4051 Revealed by NICER**|B. Rani et.al.|[2501.13049v1](http://arxiv.org/abs/2501.13049v1)|[2501.13049v1](http://arxiv.org/pdf/2501.13049v1)|null|
+|**2025-01-22**|**HH 270/110 as a jet/shear layer interaction**|A. C. Raga et.al.|[2501.13048v1](http://arxiv.org/abs/2501.13048v1)|[2501.13048v1](http://arxiv.org/pdf/2501.13048v1)|null|
+|**2025-01-22**|**GRTresna: An open-source code to solve the initial data constraints in numerical relativity**|Josu C. Aurrekoetxea et.al.|[2501.13046v1](http://arxiv.org/abs/2501.13046v1)|[2501.13046v1](http://arxiv.org/pdf/2501.13046v1)|null|
+|**2025-01-22**|**Constraining the shape of dark matter haloes using only starlight. I. A new technique and its application to the galaxy Nube**|Jorge Sanchez Almeida et.al.|[2501.13015v1](http://arxiv.org/abs/2501.13015v1)|[2501.13015v1](http://arxiv.org/pdf/2501.13015v1)|null|
+|**2025-01-22**|**Characterization of a fiber laser hydrophone for acoustic neutrino detection**|E. J. Buis et.al.|[2501.12999v1](http://arxiv.org/abs/2501.12999v1)|[2501.12999v1](http://arxiv.org/pdf/2501.12999v1)|null|
 |**2025-01-21**|**Accelerating Pulsar Parameter Estimation Using Convolutional Neural Networks**|Greg Olmschenk et.al.|[2501.12383v1](http://arxiv.org/abs/2501.12383v1)|[2501.12383v1](http://arxiv.org/pdf/2501.12383v1)|null|
 |**2025-01-21**|**The doubly librating Plutinos**|Renu Malhotra et.al.|[2501.12345v1](http://arxiv.org/abs/2501.12345v1)|[2501.12345v1](http://arxiv.org/pdf/2501.12345v1)|null|
 |**2025-01-21**|**Effect of gas accretion on $α$-element bimodality in Milky Way-mass galaxies in the FIRE-2 simulations**|Hanna Parul et.al.|[2501.12342v1](http://arxiv.org/abs/2501.12342v1)|[2501.12342v1](http://arxiv.org/pdf/2501.12342v1)|null|
@@ -6358,6 +6368,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094v1](http://arxiv.org/abs/2501.13094v1)|[2501.13094v1](http://arxiv.org/pdf/2501.13094v1)|**[link](https://github.com/jiachenlei/rrcm)**|
+|**2025-01-22**|**Guaranteed Recovery of Unambiguous Clusters**|Kayvon Mazooji et.al.|[2501.13093v1](http://arxiv.org/abs/2501.13093v1)|[2501.13093v1](http://arxiv.org/pdf/2501.13093v1)|null|
+|**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084v1](http://arxiv.org/abs/2501.13084v1)|[2501.13084v1](http://arxiv.org/pdf/2501.13084v1)|null|
+|**2025-01-22**|**Boosting MCTS with Free Energy Minimization**|Mawaba Pascal Dao et.al.|[2501.13083v1](http://arxiv.org/abs/2501.13083v1)|[2501.13083v1](http://arxiv.org/pdf/2501.13083v1)|null|
+|**2025-01-22**|**Evolution and The Knightian Blindspot of Machine Learning**|Joel Lehman et.al.|[2501.13075v1](http://arxiv.org/abs/2501.13075v1)|[2501.13075v1](http://arxiv.org/pdf/2501.13075v1)|null|
+|**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074v1](http://arxiv.org/abs/2501.13074v1)|[2501.13074v1](http://arxiv.org/pdf/2501.13074v1)|null|
+|**2025-01-22**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[2501.13072v1](http://arxiv.org/abs/2501.13072v1)|[2501.13072v1](http://arxiv.org/pdf/2501.13072v1)|null|
+|**2025-01-22**|**Optimizing Return Distributions with Distributional Dynamic Programming**|Bernardo Ávila Pires et.al.|[2501.13028v1](http://arxiv.org/abs/2501.13028v1)|[2501.13028v1](http://arxiv.org/pdf/2501.13028v1)|null|
+|**2025-01-22**|**Provably-Safe Neural Network Training Using Hybrid Zonotope Reachability Analysis**|Long Kiu Chung et.al.|[2501.13023v1](http://arxiv.org/abs/2501.13023v1)|[2501.13023v1](http://arxiv.org/pdf/2501.13023v1)|null|
+|**2025-01-22**|**Paper Quality Assessment based on Individual Wisdom Metrics from Open Peer Review**|Andrii Zahorodnii et.al.|[2501.13014v1](http://arxiv.org/abs/2501.13014v1)|[2501.13014v1](http://arxiv.org/pdf/2501.13014v1)|null|
 |**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392v1](http://arxiv.org/abs/2501.12392v1)|[2501.12392v1](http://arxiv.org/pdf/2501.12392v1)|null|
 |**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391v1](http://arxiv.org/abs/2501.12391v1)|[2501.12391v1](http://arxiv.org/pdf/2501.12391v1)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
 |**2025-01-21**|**MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**|Yilun Zhao et.al.|[2501.12380v1](http://arxiv.org/abs/2501.12380v1)|[2501.12380v1](http://arxiv.org/pdf/2501.12380v1)|**[link](https://github.com/yale-nlp/mmvu)**|
