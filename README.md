@@ -1,4 +1,4 @@
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 
 ## Astrophysics
 
@@ -6374,7 +6374,7 @@
 |**2025-01-22**|**Boosting MCTS with Free Energy Minimization**|Mawaba Pascal Dao et.al.|[2501.13083v1](http://arxiv.org/abs/2501.13083v1)|[2501.13083v1](http://arxiv.org/pdf/2501.13083v1)|null|
 |**2025-01-22**|**Evolution and The Knightian Blindspot of Machine Learning**|Joel Lehman et.al.|[2501.13075v1](http://arxiv.org/abs/2501.13075v1)|[2501.13075v1](http://arxiv.org/pdf/2501.13075v1)|null|
 |**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074v1](http://arxiv.org/abs/2501.13074v1)|[2501.13074v1](http://arxiv.org/pdf/2501.13074v1)|null|
-|**2025-01-22**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[2501.13072v1](http://arxiv.org/abs/2501.13072v1)|[2501.13072v1](http://arxiv.org/pdf/2501.13072v1)|null|
+|**2025-01-23**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[2501.13072v2](http://arxiv.org/abs/2501.13072v2)|[2501.13072v2](http://arxiv.org/pdf/2501.13072v2)|null|
 |**2025-01-22**|**Optimizing Return Distributions with Distributional Dynamic Programming**|Bernardo Ávila Pires et.al.|[2501.13028v1](http://arxiv.org/abs/2501.13028v1)|[2501.13028v1](http://arxiv.org/pdf/2501.13028v1)|null|
 |**2025-01-22**|**Provably-Safe Neural Network Training Using Hybrid Zonotope Reachability Analysis**|Long Kiu Chung et.al.|[2501.13023v1](http://arxiv.org/abs/2501.13023v1)|[2501.13023v1](http://arxiv.org/pdf/2501.13023v1)|null|
 |**2025-01-22**|**Paper Quality Assessment based on Individual Wisdom Metrics from Open Peer Review**|Andrii Zahorodnii et.al.|[2501.13014v1](http://arxiv.org/abs/2501.13014v1)|[2501.13014v1](http://arxiv.org/pdf/2501.13014v1)|null|
