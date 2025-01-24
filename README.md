@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-23**|**HP2 Survey V. Ophiuchus: Filament formation in a dispersing cloud complex**|João Alves et.al.|[2501.13931v1](http://arxiv.org/abs/2501.13931v1)|[2501.13931v1](http://arxiv.org/pdf/2501.13931v1)|null|
+|**2025-01-23**|**Testing tidal theory using Gaia binaries: the red giant branch**|Janosz W. Dewberry et.al.|[2501.13929v1](http://arxiv.org/abs/2501.13929v1)|[2501.13929v1](http://arxiv.org/pdf/2501.13929v1)|null|
+|**2025-01-23**|**HD 206893 B at High Spectral Resolution with the Keck Planet Imager and Characterizer (KPIC)**|Ben Sappey et.al.|[2501.13917v1](http://arxiv.org/abs/2501.13917v1)|[2501.13917v1](http://arxiv.org/pdf/2501.13917v1)|null|
+|**2025-01-23**|**The Cosmic Microwave Background -- Secondary Anisotropies**|Federico Bianchini et.al.|[2501.13913v1](http://arxiv.org/abs/2501.13913v1)|[2501.13913v1](http://arxiv.org/pdf/2501.13913v1)|null|
+|**2025-01-23**|**The Pitfalls of Using Lyman Alpha Damping Wings in High-z Galaxy Spectra to Measure the Intergalactic Neutral Hydrogen Fraction**|Mason Huberty et.al.|[2501.13899v1](http://arxiv.org/abs/2501.13899v1)|[2501.13899v1](http://arxiv.org/pdf/2501.13899v1)|null|
+|**2025-01-23**|**Dust characterization of protoplanetary disks: a guide to multi-wavelength analyses and accurate dust mass measurements**|Elena M. Viscardi et.al.|[2501.13877v1](http://arxiv.org/abs/2501.13877v1)|[2501.13877v1](http://arxiv.org/pdf/2501.13877v1)|null|
+|**2025-01-23**|**Exploring Various Dark Matter Halo Profiles in Milky Way and Andromeda Galaxies within the Framework of Standard Cosmology**|Darshan Kumar et.al.|[2501.13861v1](http://arxiv.org/abs/2501.13861v1)|[2501.13861v1](http://arxiv.org/pdf/2501.13861v1)|null|
+|**2025-01-23**|**High-intensity wave vortices around subwavelength holes: from ocean tides to nanooptics**|Kateryna Domina et.al.|[2501.13860v1](http://arxiv.org/abs/2501.13860v1)|[2501.13860v1](http://arxiv.org/pdf/2501.13860v1)|null|
+|**2025-01-23**|**A Study on the Line of Sight to Galaxies Detected at Gamma-ray Energies**|Amy Furniss et.al.|[2501.13847v1](http://arxiv.org/abs/2501.13847v1)|[2501.13847v1](http://arxiv.org/pdf/2501.13847v1)|null|
+|**2025-01-23**|**Identifying and Mitigating Machine Learning Biases for the Gravitational-wave Detection Problem**|Narenraju Nagarajan et.al.|[2501.13846v1](http://arxiv.org/abs/2501.13846v1)|[2501.13846v1](http://arxiv.org/pdf/2501.13846v1)|null|
 |**2025-01-22**|**The Machine Learning to reconstruct GRB lightcurves**|Maria Giovanna Dainotti et.al.|[2501.13102v1](http://arxiv.org/abs/2501.13102v1)|[2501.13102v1](http://arxiv.org/pdf/2501.13102v1)|null|
 |**2025-01-22**|**Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Low frequency Beamforming Test Bed LPDA Array at Gauribidanur Radio Observatory**|Anumanchi Agastya Sai Ram Likhit et.al.|[2501.13090v1](http://arxiv.org/abs/2501.13090v1)|[2501.13090v1](http://arxiv.org/pdf/2501.13090v1)|null|
 |**2025-01-22**|**BlackTHUNDER -- A non-stellar Balmer break in a black hole-dominated little red dot at $z=7.04$**|Xihan Ji et.al.|[2501.13082v1](http://arxiv.org/abs/2501.13082v1)|[2501.13082v1](http://arxiv.org/pdf/2501.13082v1)|null|
@@ -6368,6 +6378,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928v1](http://arxiv.org/abs/2501.13928v1)|[2501.13928v1](http://arxiv.org/pdf/2501.13928v1)|null|
+|**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927v1](http://arxiv.org/abs/2501.13927v1)|[2501.13927v1](http://arxiv.org/pdf/2501.13927v1)|null|
+|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926v1](http://arxiv.org/abs/2501.13926v1)|[2501.13926v1](http://arxiv.org/pdf/2501.13926v1)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
+|**2025-01-23**|**Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization**|Hao Dong et.al.|[2501.13924v1](http://arxiv.org/abs/2501.13924v1)|[2501.13924v1](http://arxiv.org/pdf/2501.13924v1)|**[link](https://github.com/donghao51/aeo)**|
+|**2025-01-23**|**Temporal Preference Optimization for Long-Form Video Understanding**|Rui Li et.al.|[2501.13919v1](http://arxiv.org/abs/2501.13919v1)|[2501.13919v1](http://arxiv.org/pdf/2501.13919v1)|null|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918v1](http://arxiv.org/abs/2501.13918v1)|[2501.13918v1](http://arxiv.org/pdf/2501.13918v1)|null|
+|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898v1](http://arxiv.org/abs/2501.13898v1)|[2501.13898v1](http://arxiv.org/pdf/2501.13898v1)|null|
+|**2025-01-23**|**GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**|Yue Fan et.al.|[2501.13896v1](http://arxiv.org/abs/2501.13896v1)|[2501.13896v1](http://arxiv.org/pdf/2501.13896v1)|null|
+|**2025-01-23**|**Pix2Cap-COCO: Advancing Visual Comprehension via Pixel-Level Captioning**|Zuyao You et.al.|[2501.13893v1](http://arxiv.org/abs/2501.13893v1)|[2501.13893v1](http://arxiv.org/pdf/2501.13893v1)|**[link](https://github.com/geshang777/pix2cap)**|
+|**2025-01-23**|**Exploring Finetuned Audio-LLM on Heart Murmur Features**|Adrian Florea et.al.|[2501.13884v1](http://arxiv.org/abs/2501.13884v1)|[2501.13884v1](http://arxiv.org/pdf/2501.13884v1)|null|
 |**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094v1](http://arxiv.org/abs/2501.13094v1)|[2501.13094v1](http://arxiv.org/pdf/2501.13094v1)|**[link](https://github.com/jiachenlei/rrcm)**|
 |**2025-01-22**|**Guaranteed Recovery of Unambiguous Clusters**|Kayvon Mazooji et.al.|[2501.13093v1](http://arxiv.org/abs/2501.13093v1)|[2501.13093v1](http://arxiv.org/pdf/2501.13093v1)|null|
 |**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084v1](http://arxiv.org/abs/2501.13084v1)|[2501.13084v1](http://arxiv.org/pdf/2501.13084v1)|null|
