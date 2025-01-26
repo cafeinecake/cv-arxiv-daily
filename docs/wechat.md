@@ -1,4 +1,4 @@
-> Updated on 2025.01.25
+> Updated on 2025.01.26
 
 ## Astrophysics
 
@@ -6380,7 +6380,7 @@
 - 2025-01-23, **Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2501.13924v1](http://arxiv.org/abs/2501.13924v1),Paper: [http://arxiv.org/abs/2501.13924v1](http://arxiv.org/pdf/2501.13924v1), Code: **[https://github.com/donghao51/aeo](https://github.com/donghao51/aeo)**
 - 2025-01-23, **Temporal Preference Optimization for Long-Form Video Understanding**, Rui Li et.al., Paper: [http://arxiv.org/abs/2501.13919v1](http://arxiv.org/abs/2501.13919v1), Paper: [http://arxiv.org/abs/2501.13919v1](http://arxiv.org/pdf/2501.13919v1)
 - 2025-01-23, **Improving Video Generation with Human Feedback**, Jie Liu et.al., Paper: [http://arxiv.org/abs/2501.13918v1](http://arxiv.org/abs/2501.13918v1), Paper: [http://arxiv.org/abs/2501.13918v1](http://arxiv.org/pdf/2501.13918v1)
-- 2025-01-23, **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**, Peiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2501.13898v1](http://arxiv.org/abs/2501.13898v1), Paper: [http://arxiv.org/abs/2501.13898v1](http://arxiv.org/pdf/2501.13898v1)
+- 2025-01-23, **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**, Peiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2501.13898v1](http://arxiv.org/abs/2501.13898v1),Paper: [http://arxiv.org/abs/2501.13898v1](http://arxiv.org/pdf/2501.13898v1), Code: **[https://github.com/zpywhu/pointobb-v3](https://github.com/zpywhu/pointobb-v3)**
 - 2025-01-23, **GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**, Yue Fan et.al., Paper: [http://arxiv.org/abs/2501.13896v1](http://arxiv.org/abs/2501.13896v1), Paper: [http://arxiv.org/abs/2501.13896v1](http://arxiv.org/pdf/2501.13896v1)
 - 2025-01-23, **Pix2Cap-COCO: Advancing Visual Comprehension via Pixel-Level Captioning**, Zuyao You et.al., Paper: [http://arxiv.org/abs/2501.13893v1](http://arxiv.org/abs/2501.13893v1),Paper: [http://arxiv.org/abs/2501.13893v1](http://arxiv.org/pdf/2501.13893v1), Code: **[https://github.com/geshang777/pix2cap](https://github.com/geshang777/pix2cap)**
 - 2025-01-23, **Exploring Finetuned Audio-LLM on Heart Murmur Features**, Adrian Florea et.al., Paper: [http://arxiv.org/abs/2501.13884v1](http://arxiv.org/abs/2501.13884v1), Paper: [http://arxiv.org/abs/2501.13884v1](http://arxiv.org/pdf/2501.13884v1)
