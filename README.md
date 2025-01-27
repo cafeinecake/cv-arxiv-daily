@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-24**|**ngVLA Synthetic Observations of Ionized Gas in Massive Protostars**|Jesús M. Jáquez-Domínguez et.al.|[2501.14711v1](http://arxiv.org/abs/2501.14711v1)|[2501.14711v1](http://arxiv.org/pdf/2501.14711v1)|null|
+|**2025-01-24**|**On Formation of Primordial Naked Singularities**|Koushiki et.al.|[2501.14695v1](http://arxiv.org/abs/2501.14695v1)|[2501.14695v1](http://arxiv.org/pdf/2501.14695v1)|null|
+|**2025-01-24**|**Artificial Intelligence Could Have Predicted All Space Weather Events Associated with the May 2024 Superstorm**|Sabrina Guastavino et.al.|[2501.14684v1](http://arxiv.org/abs/2501.14684v1)|[2501.14684v1](http://arxiv.org/pdf/2501.14684v1)|null|
+|**2025-01-24**|**How deep is the dip and how tall are the wiggles in inflationary power spectra?**|Vadim Briaud et.al.|[2501.14681v1](http://arxiv.org/abs/2501.14681v1)|[2501.14681v1](http://arxiv.org/pdf/2501.14681v1)|null|
+|**2025-01-24**|**Automation of finding strong gravitational lenses in the Kilo Degree Survey with U-DenseLens (DenseLens + Segmentation)**|Bharath Chowdhary Nagam et.al.|[2501.14650v1](http://arxiv.org/abs/2501.14650v1)|[2501.14650v1](http://arxiv.org/pdf/2501.14650v1)|null|
+|**2025-01-24**|**A theoretical approach to density-split clustering**|Mathilde Pinon et.al.|[2501.14638v1](http://arxiv.org/abs/2501.14638v1)|[2501.14638v1](http://arxiv.org/pdf/2501.14638v1)|null|
+|**2025-01-24**|**Thermal Spectra of Warped and Broken Accretion Disks**|J. Speicher et.al.|[2501.14629v1](http://arxiv.org/abs/2501.14629v1)|[2501.14629v1](http://arxiv.org/pdf/2501.14629v1)|null|
+|**2025-01-24**|**Extracting the X-ray reverberation response functions from the AGN light curves using an autoencoder**|Sanhanat Deesamutara et.al.|[2501.14618v1](http://arxiv.org/abs/2501.14618v1)|[2501.14618v1](http://arxiv.org/pdf/2501.14618v1)|null|
+|**2025-01-24**|**JWST COMPASS: NIRSpec/G395H Transmission Observations of the Super-Earth TOI-776b**|Lili Alderson et.al.|[2501.14596v1](http://arxiv.org/abs/2501.14596v1)|[2501.14596v1](http://arxiv.org/pdf/2501.14596v1)|null|
+|**2025-01-24**|**ALPs production from Light Primordial Black Holes: the role of Superradiance**|Marco Manno et.al.|[2501.14589v1](http://arxiv.org/abs/2501.14589v1)|[2501.14589v1](http://arxiv.org/pdf/2501.14589v1)|null|
 |**2025-01-23**|**HP2 Survey V. Ophiuchus: Filament formation in a dispersing cloud complex**|João Alves et.al.|[2501.13931v1](http://arxiv.org/abs/2501.13931v1)|[2501.13931v1](http://arxiv.org/pdf/2501.13931v1)|null|
 |**2025-01-23**|**Testing tidal theory using Gaia binaries: the red giant branch**|Janosz W. Dewberry et.al.|[2501.13929v1](http://arxiv.org/abs/2501.13929v1)|[2501.13929v1](http://arxiv.org/pdf/2501.13929v1)|null|
 |**2025-01-23**|**HD 206893 B at High Spectral Resolution with the Keck Planet Imager and Characterizer (KPIC)**|Ben Sappey et.al.|[2501.13917v1](http://arxiv.org/abs/2501.13917v1)|[2501.13917v1](http://arxiv.org/pdf/2501.13917v1)|null|
@@ -6378,6 +6388,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-24**|**Mitigating GenAI-powered Evidence Pollution for Out-of-Context Multimodal Misinformation Detection**|Zehong Yan et.al.|[2501.14728v1](http://arxiv.org/abs/2501.14728v1)|[2501.14728v1](http://arxiv.org/pdf/2501.14728v1)|null|
+|**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719v1](http://arxiv.org/abs/2501.14719v1)|[2501.14719v1](http://arxiv.org/pdf/2501.14719v1)|null|
+|**2025-01-24**|**The Karp Dataset**|Mason DiCicco et.al.|[2501.14705v1](http://arxiv.org/abs/2501.14705v1)|[2501.14705v1](http://arxiv.org/pdf/2501.14705v1)|null|
+|**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700v1](http://arxiv.org/abs/2501.14700v1)|[2501.14700v1](http://arxiv.org/pdf/2501.14700v1)|null|
+|**2025-01-24**|**Towards Automated Self-Supervised Learning for Truly Unsupervised Graph Anomaly Detection**|Zhong Li et.al.|[2501.14694v1](http://arxiv.org/abs/2501.14694v1)|[2501.14694v1](http://arxiv.org/pdf/2501.14694v1)|**[link](https://github.com/zhonglifr/autogad2024)**|
+|**2025-01-24**|**Rethinking Table Instruction Tuning**|Naihao Deng et.al.|[2501.14693v1](http://arxiv.org/abs/2501.14693v1)|[2501.14693v1](http://arxiv.org/pdf/2501.14693v1)|null|
+|**2025-01-24**|**Approach to Designing CV Systems for Medical Applications: Data, Architecture and AI**|Dmitry Ryabtsev et.al.|[2501.14689v1](http://arxiv.org/abs/2501.14689v1)|[2501.14689v1](http://arxiv.org/pdf/2501.14689v1)|null|
+|**2025-01-24**|**Decoding Generalization from Memorization in Deep Neural Networks**|Simran Ketha et.al.|[2501.14687v1](http://arxiv.org/abs/2501.14687v1)|[2501.14687v1](http://arxiv.org/pdf/2501.14687v1)|null|
+|**2025-01-24**|**Rethinking Foundation Models for Medical Image Classification through a Benchmark Study on MedMNIST**|Fuping Wu et.al.|[2501.14685v1](http://arxiv.org/abs/2501.14685v1)|[2501.14685v1](http://arxiv.org/pdf/2501.14685v1)|null|
+|**2025-01-24**|**Artificial Intelligence Could Have Predicted All Space Weather Events Associated with the May 2024 Superstorm**|Sabrina Guastavino et.al.|[2501.14684v1](http://arxiv.org/abs/2501.14684v1)|[2501.14684v1](http://arxiv.org/pdf/2501.14684v1)|null|
 |**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928v1](http://arxiv.org/abs/2501.13928v1)|[2501.13928v1](http://arxiv.org/pdf/2501.13928v1)|null|
 |**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927v1](http://arxiv.org/abs/2501.13927v1)|[2501.13927v1](http://arxiv.org/pdf/2501.13927v1)|null|
 |**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926v1](http://arxiv.org/abs/2501.13926v1)|[2501.13926v1](http://arxiv.org/pdf/2501.13926v1)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
