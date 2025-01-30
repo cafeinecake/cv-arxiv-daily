@@ -1,4 +1,4 @@
-> Updated on 2025.01.29
+> Updated on 2025.01.30
 
 ## Astrophysics
 
@@ -6409,7 +6409,7 @@
 - 2025-01-28, **Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model**, Reza Ghorbani et.al., Paper: [http://arxiv.org/abs/2501.17152v1](http://arxiv.org/abs/2501.17152v1), Paper: [http://arxiv.org/abs/2501.17152v1](http://arxiv.org/pdf/2501.17152v1)
 - 2025-01-28, **AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**, Zhengxuan Wu et.al., Paper: [http://arxiv.org/abs/2501.17148v1](http://arxiv.org/abs/2501.17148v1), Paper: [http://arxiv.org/abs/2501.17148v1](http://arxiv.org/pdf/2501.17148v1)
 - 2025-01-28, **FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**, Deren Lei et.al., Paper: [http://arxiv.org/abs/2501.17144v1](http://arxiv.org/abs/2501.17144v1),Paper: [http://arxiv.org/abs/2501.17144v1](http://arxiv.org/pdf/2501.17144v1), Code: **[https://github.com/derenlei/factcg](https://github.com/derenlei/factcg)**
-- 2025-01-28, **Histoires Morales: A French Dataset for Assessing Moral Alignment**, Thibaud Leteno et.al., Paper: [http://arxiv.org/abs/2501.17117v1](http://arxiv.org/abs/2501.17117v1), Paper: [http://arxiv.org/abs/2501.17117v1](http://arxiv.org/pdf/2501.17117v1)
+- 2025-01-28, **Histoires Morales: A French Dataset for Assessing Moral Alignment**, Thibaud Leteno et.al., Paper: [http://arxiv.org/abs/2501.17117v1](http://arxiv.org/abs/2501.17117v1),Paper: [http://arxiv.org/abs/2501.17117v1](http://arxiv.org/pdf/2501.17117v1), Code: **[https://github.com/upunaprosk/histoires-morales](https://github.com/upunaprosk/histoires-morales)**
 - 2025-01-28, **COS(M+O)S: Curiosity and RL-Enhanced MCTS for Exploring Story Space via Language Models**, Tobias Materzok et.al., Paper: [http://arxiv.org/abs/2501.17104v1](http://arxiv.org/abs/2501.17104v1), Paper: [http://arxiv.org/abs/2501.17104v1](http://arxiv.org/pdf/2501.17104v1)
 - 2025-01-28, **Why is the estimation of metaorder impact with public market data so challenging?**, Manuel Naviglio et.al., Paper: [http://arxiv.org/abs/2501.17096v1](http://arxiv.org/abs/2501.17096v1), Paper: [http://arxiv.org/abs/2501.17096v1](http://arxiv.org/pdf/2501.17096v1)
 - 2025-01-28, **Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models**, J. Pablo Muñoz et.al., Paper: [http://arxiv.org/abs/2501.17088v1](http://arxiv.org/abs/2501.17088v1),Paper: [http://arxiv.org/abs/2501.17088v1](http://arxiv.org/pdf/2501.17088v1), Code: **[https://github.com/intellabs/hardware-aware-automated-machine-learning](https://github.com/intellabs/hardware-aware-automated-machine-learning)**
