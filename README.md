@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-29**|**The refractory-to-ice ratio in comet 67P: implications on the composition of the comet-forming region of the protoplanetary disk**|Raphael Marschall et.al.|[2501.17864v1](http://arxiv.org/abs/2501.17864v1)|[2501.17864v1](http://arxiv.org/pdf/2501.17864v1)|null|
+|**2025-01-29**|**Planetesimal formation in a pressure bump induced by infall**|Haichen Zhao et.al.|[2501.17857v1](http://arxiv.org/abs/2501.17857v1)|[2501.17857v1](http://arxiv.org/pdf/2501.17857v1)|null|
+|**2025-01-29**|**Multi-wavelength and Environmental Properties of Variability Selected Low Luminosity Active Galactic Nuclei**|Heechan Yuk et.al.|[2501.17844v1](http://arxiv.org/abs/2501.17844v1)|[2501.17844v1](http://arxiv.org/pdf/2501.17844v1)|null|
+|**2025-01-29**|**The SPHEREx Target List of Ice Sources (SPLICES)**|Matthew L. N. Ashby et.al.|[2501.17797v1](http://arxiv.org/abs/2501.17797v1)|[2501.17797v1](http://arxiv.org/pdf/2501.17797v1)|null|
+|**2025-01-29**|**Single versus multifield scalar potentials from string theory**|David Andriot et.al.|[2501.17775v1](http://arxiv.org/abs/2501.17775v1)|[2501.17775v1](http://arxiv.org/pdf/2501.17775v1)|null|
+|**2025-01-29**|**Looking at infrared background radiation anisotropies with Spitzer: large scale anisotropies and their implications**|A. Kashlinsky et.al.|[2501.17751v1](http://arxiv.org/abs/2501.17751v1)|[2501.17751v1](http://arxiv.org/pdf/2501.17751v1)|null|
+|**2025-01-29**|**The role of cloud particle properties on WASP-39b transmission spectrum based on JWST/NIRSpec observations**|J. Roy-Perez et.al.|[2501.17728v1](http://arxiv.org/abs/2501.17728v1)|[2501.17728v1](http://arxiv.org/pdf/2501.17728v1)|null|
+|**2025-01-29**|**A Two-Step Procedure to Detect Cosmological Gravitational Wave Backgrounds with Next-Generation Terrestrial Gravitational-Wave Detectors**|Haowen Zhong et.al.|[2501.17717v1](http://arxiv.org/abs/2501.17717v1)|[2501.17717v1](http://arxiv.org/pdf/2501.17717v1)|null|
+|**2025-01-29**|**Generalized Expanding-Box Formulations of Reduced Magnetohydrodynamics in the Solar Wind**|Vincent David et.al.|[2501.17702v1](http://arxiv.org/abs/2501.17702v1)|[2501.17702v1](http://arxiv.org/pdf/2501.17702v1)|null|
+|**2025-01-29**|**The evolution of extragalactic peaked-spectrum sources down to 54 megahertz**|Sai Zhai et.al.|[2501.17700v1](http://arxiv.org/abs/2501.17700v1)|[2501.17700v1](http://arxiv.org/pdf/2501.17700v1)|null|
 |**2025-01-28**|**Nonlinear fitting of undersampled discrete datasets in astronomy**|Igor Chilingarian et.al.|[2501.17163v1](http://arxiv.org/abs/2501.17163v1)|[2501.17163v1](http://arxiv.org/pdf/2501.17163v1)|null|
 |**2025-01-28**|**A novel inversion algorithm for weak gravitational lensing using quasi-conformal geometry**|Jan Jakob et.al.|[2501.17157v1](http://arxiv.org/abs/2501.17157v1)|[2501.17157v1](http://arxiv.org/pdf/2501.17157v1)|null|
 |**2025-01-28**|**Keck and Gemini characterization of $Hayabusa2\#$ rendezvous target 1998 KY$_{26}$**|Bryce T. Bolin et.al.|[2501.17156v1](http://arxiv.org/abs/2501.17156v1)|[2501.17156v1](http://arxiv.org/pdf/2501.17156v1)|null|
@@ -6408,6 +6418,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|[2501.17860v1](http://arxiv.org/pdf/2501.17860v1)|null|
+|**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858v1](http://arxiv.org/abs/2501.17858v1)|[2501.17858v1](http://arxiv.org/pdf/2501.17858v1)|**[link](https://github.com/sail-sg/rigging-chatbotarena)**|
+|**2025-01-29**|**GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings**|Ziang Liu et.al.|[2501.17855v1](http://arxiv.org/abs/2501.17855v1)|[2501.17855v1](http://arxiv.org/pdf/2501.17855v1)|null|
+|**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842v1](http://arxiv.org/abs/2501.17842v1)|[2501.17842v1](http://arxiv.org/pdf/2501.17842v1)|null|
+|**2025-01-29**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841v1](http://arxiv.org/abs/2501.17841v1)|[2501.17841v1](http://arxiv.org/pdf/2501.17841v1)|**[link](https://github.com/acoupi/acoupi)**|
+|**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823v1](http://arxiv.org/abs/2501.17823v1)|[2501.17823v1](http://arxiv.org/pdf/2501.17823v1)|null|
+|**2025-01-29**|**Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology**|Sobhan Hemati et.al.|[2501.17822v1](http://arxiv.org/abs/2501.17822v1)|[2501.17822v1](http://arxiv.org/pdf/2501.17822v1)|null|
+|**2025-01-29**|**P-TAME: Explain Any Image Classifier with Trained Perturbations**|Mariano V. Ntrougkas et.al.|[2501.17813v1](http://arxiv.org/abs/2501.17813v1)|[2501.17813v1](http://arxiv.org/pdf/2501.17813v1)|null|
+|**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811v1](http://arxiv.org/abs/2501.17811v1)|[2501.17811v1](http://arxiv.org/pdf/2501.17811v1)|**[link](https://github.com/deepseek-ai/janus)**|
+|**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805v1](http://arxiv.org/abs/2501.17805v1)|[2501.17805v1](http://arxiv.org/pdf/2501.17805v1)|null|
 |**2025-01-28**|**SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**|Tianzhe Chu et.al.|[2501.17161v1](http://arxiv.org/abs/2501.17161v1)|[2501.17161v1](http://arxiv.org/pdf/2501.17161v1)|null|
 |**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160v1](http://arxiv.org/abs/2501.17160v1)|[2501.17160v1](http://arxiv.org/pdf/2501.17160v1)|null|
 |**2025-01-28**|**Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model**|Reza Ghorbani et.al.|[2501.17152v1](http://arxiv.org/abs/2501.17152v1)|[2501.17152v1](http://arxiv.org/pdf/2501.17152v1)|null|
