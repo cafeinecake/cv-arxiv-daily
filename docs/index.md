@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597v1](http://arxiv.org/abs/2501.18597v1)|[2501.18597v1](http://arxiv.org/pdf/2501.18597v1)|null|
+|**2025-01-30**|**Variability of the UV luminosity function with SPICE**|Arghyadeep Basu et.al.|[2501.18559v1](http://arxiv.org/abs/2501.18559v1)|[2501.18559v1](http://arxiv.org/pdf/2501.18559v1)|null|
+|**2025-01-30**|**Universal description of the Neutron Star's surface and its key global properties: A Machine Learning Approach for nonrotating and rapidly rotating stellar models**|Grigorios Papigkiotis et.al.|[2501.18544v1](http://arxiv.org/abs/2501.18544v1)|[2501.18544v1](http://arxiv.org/pdf/2501.18544v1)|null|
+|**2025-01-30**|**Magnetically-assisted vorticity production in decaying acoustic turbulence**|Axel Brandenburg et.al.|[2501.18525v1](http://arxiv.org/abs/2501.18525v1)|[2501.18525v1](http://arxiv.org/pdf/2501.18525v1)|null|
+|**2025-01-30**|**Non-singular bounce solutions in Myrzakulov $f(R,T)$ gravity**|Andreas Lymperis et.al.|[2501.18524v1](http://arxiv.org/abs/2501.18524v1)|[2501.18524v1](http://arxiv.org/pdf/2501.18524v1)|null|
+|**2025-01-30**|**The Southern Photometrical Local Universe Survey (S-PLUS): searching for metal-poor dwarf galaxies**|M. Grossi et.al.|[2501.18498v1](http://arxiv.org/abs/2501.18498v1)|[2501.18498v1](http://arxiv.org/pdf/2501.18498v1)|null|
+|**2025-01-30**|**A Comprehensive Reanalysis of K2-18 b's JWST NIRISS+NIRSpec Transmission Spectrum**|Stephen P. Schmidt et.al.|[2501.18477v1](http://arxiv.org/abs/2501.18477v1)|[2501.18477v1](http://arxiv.org/pdf/2501.18477v1)|null|
+|**2025-01-30**|**Three fast-rotating Jovian Trojans identified by TESS set new population density limits**|Csaba Kiss et.al.|[2501.18440v1](http://arxiv.org/abs/2501.18440v1)|[2501.18440v1](http://arxiv.org/pdf/2501.18440v1)|null|
+|**2025-01-30**|**Dissociative recombination of N$_2$H$^+$: Isotopic effects**|J. Zs. Mezei et.al.|[2501.18434v1](http://arxiv.org/abs/2501.18434v1)|[2501.18434v1](http://arxiv.org/pdf/2501.18434v1)|null|
+|**2025-01-30**|**Theoretical study of the excited states of NeH and of their non-adiabiatic couplings: a preliminary for the modeling of the dissociative recombination of NeH+**|R. Hassaine et.al.|[2501.18431v1](http://arxiv.org/abs/2501.18431v1)|[2501.18431v1](http://arxiv.org/pdf/2501.18431v1)|null|
 |**2025-01-29**|**The refractory-to-ice ratio in comet 67P: implications on the composition of the comet-forming region of the protoplanetary disk**|Raphael Marschall et.al.|[2501.17864v1](http://arxiv.org/abs/2501.17864v1)|[2501.17864v1](http://arxiv.org/pdf/2501.17864v1)|null|
 |**2025-01-29**|**Planetesimal formation in a pressure bump induced by infall**|Haichen Zhao et.al.|[2501.17857v1](http://arxiv.org/abs/2501.17857v1)|[2501.17857v1](http://arxiv.org/pdf/2501.17857v1)|null|
 |**2025-01-29**|**Multi-wavelength and Environmental Properties of Variability Selected Low Luminosity Active Galactic Nuclei**|Heechan Yuk et.al.|[2501.17844v1](http://arxiv.org/abs/2501.17844v1)|[2501.17844v1](http://arxiv.org/pdf/2501.17844v1)|null|
@@ -6422,6 +6432,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|[2501.18596v1](http://arxiv.org/pdf/2501.18596v1)|null|
+|**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594v1](http://arxiv.org/abs/2501.18594v1)|[2501.18594v1](http://arxiv.org/pdf/2501.18594v1)|null|
+|**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|[2501.18593v1](http://arxiv.org/pdf/2501.18593v1)|null|
+|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v1](http://arxiv.org/abs/2501.18592v1)|[2501.18592v1](http://arxiv.org/pdf/2501.18592v1)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
+|**2025-01-30**|**Inkspire: Supporting Design Exploration with Generative AI through Analogical Sketching**|David Chuan-En Lin et.al.|[2501.18588v1](http://arxiv.org/abs/2501.18588v1)|[2501.18588v1](http://arxiv.org/pdf/2501.18588v1)|null|
+|**2025-01-30**|**R.I.P.: Better Models by Survival of the Fittest Prompts**|Ping Yu et.al.|[2501.18578v1](http://arxiv.org/abs/2501.18578v1)|[2501.18578v1](http://arxiv.org/pdf/2501.18578v1)|null|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577v1](http://arxiv.org/abs/2501.18577v1)|[2501.18577v1](http://arxiv.org/pdf/2501.18577v1)|null|
+|**2025-01-30**|**BounTCHA: A CAPTCHA Utilizing Boundary Identification in AI-extended Videos**|Lehao Lin et.al.|[2501.18565v1](http://arxiv.org/abs/2501.18565v1)|[2501.18565v1](http://arxiv.org/pdf/2501.18565v1)|null|
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542v1](http://arxiv.org/abs/2501.18542v1)|[2501.18542v1](http://arxiv.org/pdf/2501.18542v1)|null|
+|**2025-01-30**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539v1](http://arxiv.org/abs/2501.18539v1)|[2501.18539v1](http://arxiv.org/pdf/2501.18539v1)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|[2501.17860v1](http://arxiv.org/pdf/2501.17860v1)|null|
 |**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858v1](http://arxiv.org/abs/2501.17858v1)|[2501.17858v1](http://arxiv.org/pdf/2501.17858v1)|**[link](https://github.com/sail-sg/rigging-chatbotarena)**|
 |**2025-01-29**|**GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings**|Ziang Liu et.al.|[2501.17855v1](http://arxiv.org/abs/2501.17855v1)|[2501.17855v1](http://arxiv.org/pdf/2501.17855v1)|null|
