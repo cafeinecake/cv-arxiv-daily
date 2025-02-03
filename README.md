@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-31**|**Spin oscillations of neutrinos scattered by the supermassive black hole in the galactic center**|Mridupawan Deka et.al.|[2501.19404v1](http://arxiv.org/abs/2501.19404v1)|[2501.19404v1](http://arxiv.org/pdf/2501.19404v1)|null|
+|**2025-01-31**|**A Spectroscopically Calibrated Prescription for Extracting PAH Flux from JWST MIRI Imaging**|Grant P. Donnelly et.al.|[2501.19397v1](http://arxiv.org/abs/2501.19397v1)|[2501.19397v1](http://arxiv.org/pdf/2501.19397v1)|null|
+|**2025-01-31**|**Low dust mass and high star-formation efficiency at $z>12$ from deep ALMA observations**|Ikki Mitsuhashi et.al.|[2501.19384v1](http://arxiv.org/abs/2501.19384v1)|[2501.19384v1](http://arxiv.org/pdf/2501.19384v1)|null|
+|**2025-01-31**|**High-cadence observations of galactic nuclei by the future two-band UV-photometry mission QUVIK**|Michal Zajaček et.al.|[2501.19365v1](http://arxiv.org/abs/2501.19365v1)|[2501.19365v1](http://arxiv.org/pdf/2501.19365v1)|null|
+|**2025-01-31**|**Modeling submillimeter galaxies in cosmological simulations: Contribution to the cosmic star formation density and predictions for future surveys**|Ankit Kumar et.al.|[2501.19327v1](http://arxiv.org/abs/2501.19327v1)|[2501.19327v1](http://arxiv.org/pdf/2501.19327v1)|null|
+|**2025-01-31**|**Various constraints on BSM physics from extensive air showers and from ultra-high energy gamma-ray and neutrino searches**|O. Deligny et.al.|[2501.19322v1](http://arxiv.org/abs/2501.19322v1)|[2501.19322v1](http://arxiv.org/pdf/2501.19322v1)|null|
+|**2025-01-31**|**Kilonova Emission from Neutron Star Mergers with Different Equations of State**|Wu-Zimo Qiumu et.al.|[2501.19305v1](http://arxiv.org/abs/2501.19305v1)|[2501.19305v1](http://arxiv.org/pdf/2501.19305v1)|null|
+|**2025-01-31**|**Systematic Bias in Ionizing Radiation Escape Fraction Measurements from Foreground Large-Scale Structures**|C. Scarlata et.al.|[2501.19303v1](http://arxiv.org/abs/2501.19303v1)|[2501.19303v1](http://arxiv.org/pdf/2501.19303v1)|null|
+|**2025-01-31**|**Circumstellar and circumbinary discs in multiple stellar systems**|Nicolás Cuello et.al.|[2501.19249v1](http://arxiv.org/abs/2501.19249v1)|[2501.19249v1](http://arxiv.org/pdf/2501.19249v1)|null|
+|**2025-01-31**|**Unveiling the largest structures in the nearby Universe: Discovery of the Quipu superstructure**|Hans Boehringer et.al.|[2501.19236v1](http://arxiv.org/abs/2501.19236v1)|[2501.19236v1](http://arxiv.org/pdf/2501.19236v1)|null|
 |**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597v1](http://arxiv.org/abs/2501.18597v1)|[2501.18597v1](http://arxiv.org/pdf/2501.18597v1)|null|
 |**2025-01-30**|**Variability of the UV luminosity function with SPICE**|Arghyadeep Basu et.al.|[2501.18559v1](http://arxiv.org/abs/2501.18559v1)|[2501.18559v1](http://arxiv.org/pdf/2501.18559v1)|null|
 |**2025-01-30**|**Universal description of the Neutron Star's surface and its key global properties: A Machine Learning Approach for nonrotating and rapidly rotating stellar models**|Grigorios Papigkiotis et.al.|[2501.18544v1](http://arxiv.org/abs/2501.18544v1)|[2501.18544v1](http://arxiv.org/pdf/2501.18544v1)|**[link](https://github.com/gregorypapi/universal-description-of-the-ns-surface-using-ml)**|
@@ -6428,6 +6438,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403v1](http://arxiv.org/abs/2501.19403v1)|[2501.19403v1](http://arxiv.org/pdf/2501.19403v1)|null|
+|**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400v1](http://arxiv.org/abs/2501.19400v1)|[2501.19400v1](http://arxiv.org/pdf/2501.19400v1)|**[link](https://github.com/dunnolab/vintix)**|
+|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399v1](http://arxiv.org/abs/2501.19399v1)|[2501.19399v1](http://arxiv.org/pdf/2501.19399v1)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398v1](http://arxiv.org/abs/2501.19398v1)|[2501.19398v1](http://arxiv.org/pdf/2501.19398v1)|null|
+|**2025-01-31**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393v1](http://arxiv.org/abs/2501.19393v1)|[2501.19393v1](http://arxiv.org/pdf/2501.19393v1)|**[link](https://github.com/simplescaling/s1)**|
+|**2025-01-31**|**Decoding-based Regression**|Xingyou Song et.al.|[2501.19383v1](http://arxiv.org/abs/2501.19383v1)|[2501.19383v1](http://arxiv.org/pdf/2501.19383v1)|**[link](https://github.com/google-research/optformer)**|
+|**2025-01-31**|**Two-site Kitaev sweet spots evolving into topological islands**|Rodrigo A. Dourado et.al.|[2501.19376v1](http://arxiv.org/abs/2501.19376v1)|[2501.19376v1](http://arxiv.org/pdf/2501.19376v1)|null|
+|**2025-01-31**|**CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation**|Javier Solís-García et.al.|[2501.19364v1](http://arxiv.org/abs/2501.19364v1)|[2501.19364v1](http://arxiv.org/pdf/2501.19364v1)|**[link](https://github.com/javiersgjavi/costi)**|
+|**2025-01-31**|**We're Different, We're the Same: Creative Homogeneity Across LLMs**|Emily Wenger et.al.|[2501.19361v1](http://arxiv.org/abs/2501.19361v1)|[2501.19361v1](http://arxiv.org/pdf/2501.19361v1)|null|
+|**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353v1](http://arxiv.org/abs/2501.19353v1)|[2501.19353v1](http://arxiv.org/pdf/2501.19353v1)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|[2501.18596v1](http://arxiv.org/pdf/2501.18596v1)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594v1](http://arxiv.org/abs/2501.18594v1)|[2501.18594v1](http://arxiv.org/pdf/2501.18594v1)|null|
 |**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|[2501.18593v1](http://arxiv.org/pdf/2501.18593v1)|null|
