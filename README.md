@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-04**|**New perspective on the multiple population phenomenon in Galactic globular clusters from a wide-field photometric survey**|S. Jang et.al.|[2502.02585v1](http://arxiv.org/abs/2502.02585v1)|[2502.02585v1](http://arxiv.org/pdf/2502.02585v1)|null|
+|**2025-02-04**|**DIISC -- VI (COS-DIISC): UV Metal Absorption Relative to the H I disk of Galaxies**|Brad Koplitz et.al.|[2502.02583v1](http://arxiv.org/abs/2502.02583v1)|[2502.02583v1](http://arxiv.org/pdf/2502.02583v1)|null|
+|**2025-02-04**|**Probing large-scale structures with the 2-point function and the power spectrum: insights into cosmic clustering evolution**|Camila Franco et.al.|[2502.02574v1](http://arxiv.org/abs/2502.02574v1)|[2502.02574v1](http://arxiv.org/pdf/2502.02574v1)|null|
+|**2025-02-04**|**Primordial Sharp Features through the Nonlinear Regime of Structure Formation**|Clément Stahl et.al.|[2502.02571v1](http://arxiv.org/abs/2502.02571v1)|[2502.02571v1](http://arxiv.org/pdf/2502.02571v1)|null|
+|**2025-02-04**|**Short-Term Balmer Line Emission Variability in M Dwarfs**|Aylin Garcia Soto et.al.|[2502.02568v1](http://arxiv.org/abs/2502.02568v1)|[2502.02568v1](http://arxiv.org/pdf/2502.02568v1)|null|
+|**2025-02-04**|**Titan's Fluvial and Lacustrine Landscapes**|Samuel P. D. Birch et.al.|[2502.02556v1](http://arxiv.org/abs/2502.02556v1)|[2502.02556v1](http://arxiv.org/pdf/2502.02556v1)|null|
+|**2025-02-04**|**2D Surface Brightness Modelling of Large 2MASS Galaxies II: The Role of Classical Bulges and Pseudobulges on Galaxy Scaling Relations and its implication for Supermassive Black Hole Formation**|Emmanuel Ríos-López et.al.|[2502.02546v1](http://arxiv.org/abs/2502.02546v1)|[2502.02546v1](http://arxiv.org/pdf/2502.02546v1)|null|
+|**2025-02-04**|**Gravitational lensing: towards combining the multi-messengers**|Anupreeta More et.al.|[2502.02536v1](http://arxiv.org/abs/2502.02536v1)|[2502.02536v1](http://arxiv.org/pdf/2502.02536v1)|null|
+|**2025-02-04**|**Building on the archives: Connecting the CN/CO intensity ratio with global galaxy properties in nearby U/LIRGs**|Blake Ledger et.al.|[2502.02497v1](http://arxiv.org/abs/2502.02497v1)|[2502.02497v1](http://arxiv.org/pdf/2502.02497v1)|null|
+|**2025-02-04**|**Testing the Equivalence Principle on Cosmological Scales Using Peculiar Acceleration Power Spectrum**|Guoyuan Lu et.al.|[2502.02426v1](http://arxiv.org/abs/2502.02426v1)|[2502.02426v1](http://arxiv.org/pdf/2502.02426v1)|null|
 |**2025-01-31**|**Spin oscillations of neutrinos scattered by the supermassive black hole in the galactic center**|Mridupawan Deka et.al.|[2501.19404v1](http://arxiv.org/abs/2501.19404v1)|[2501.19404v1](http://arxiv.org/pdf/2501.19404v1)|null|
 |**2025-01-31**|**A Spectroscopically Calibrated Prescription for Extracting PAH Flux from JWST MIRI Imaging**|Grant P. Donnelly et.al.|[2501.19397v1](http://arxiv.org/abs/2501.19397v1)|[2501.19397v1](http://arxiv.org/pdf/2501.19397v1)|null|
 |**2025-01-31**|**Low dust mass and high star-formation efficiency at $z>12$ from deep ALMA observations**|Ikki Mitsuhashi et.al.|[2501.19384v1](http://arxiv.org/abs/2501.19384v1)|[2501.19384v1](http://arxiv.org/pdf/2501.19384v1)|null|
@@ -6438,6 +6448,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584v1](http://arxiv.org/abs/2502.02584v1)|[2502.02584v1](http://arxiv.org/pdf/2502.02584v1)|null|
+|**2025-02-04**|**Are Language Models Up to Sequential Optimization Problems? From Evaluation to a Hegelian-Inspired Enhancement**|Soheil Abbasloo et.al.|[2502.02573v1](http://arxiv.org/abs/2502.02573v1)|[2502.02573v1](http://arxiv.org/pdf/2502.02573v1)|null|
+|**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567v1](http://arxiv.org/abs/2502.02567v1)|[2502.02567v1](http://arxiv.org/pdf/2502.02567v1)|null|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562v1](http://arxiv.org/abs/2502.02562v1)|[2502.02562v1](http://arxiv.org/pdf/2502.02562v1)|null|
+|**2025-02-04**|**Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents**|Shayan Kiyani et.al.|[2502.02561v1](http://arxiv.org/abs/2502.02561v1)|[2502.02561v1](http://arxiv.org/pdf/2502.02561v1)|null|
+|**2025-02-04**|**Anytime Incremental $ρ$POMDP Planning in Continuous Spaces**|Ron Benchetrit et.al.|[2502.02549v1](http://arxiv.org/abs/2502.02549v1)|[2502.02549v1](http://arxiv.org/pdf/2502.02549v1)|null|
+|**2025-02-04**|**Addressing Label Shift in Distributed Learning via Entropy Regularization**|Zhiyuan Wu et.al.|[2502.02544v1](http://arxiv.org/abs/2502.02544v1)|[2502.02544v1](http://arxiv.org/pdf/2502.02544v1)|null|
+|**2025-02-04**|**Flow Q-Learning**|Seohong Park et.al.|[2502.02538v1](http://arxiv.org/abs/2502.02538v1)|[2502.02538v1](http://arxiv.org/pdf/2502.02538v1)|null|
+|**2025-02-04**|**Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies**|Han Zhou et.al.|[2502.02533v1](http://arxiv.org/abs/2502.02533v1)|[2502.02533v1](http://arxiv.org/pdf/2502.02533v1)|null|
+|**2025-02-04**|**Why human-AI relationships need socioaffective alignment**|Hannah Rose Kirk et.al.|[2502.02528v1](http://arxiv.org/abs/2502.02528v1)|[2502.02528v1](http://arxiv.org/pdf/2502.02528v1)|null|
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403v1](http://arxiv.org/abs/2501.19403v1)|[2501.19403v1](http://arxiv.org/pdf/2501.19403v1)|null|
 |**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400v1](http://arxiv.org/abs/2501.19400v1)|[2501.19400v1](http://arxiv.org/pdf/2501.19400v1)|**[link](https://github.com/dunnolab/vintix)**|
 |**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399v1](http://arxiv.org/abs/2501.19399v1)|[2501.19399v1](http://arxiv.org/pdf/2501.19399v1)|null|
