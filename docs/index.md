@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-05**|**On the origin of mid-infrared colors in $γ$-ray blazars**|Raniere de Menezes et.al.|[2502.03466v1](http://arxiv.org/abs/2502.03466v1)|[2502.03466v1](http://arxiv.org/pdf/2502.03466v1)|null|
+|**2025-02-05**|**Cosmic Calipers: Precise and Accurate Neutron Star Radius Measurements with Next-Generation Gravitational Wave Detectors**|Sanika Khadkikar et.al.|[2502.03463v1](http://arxiv.org/abs/2502.03463v1)|[2502.03463v1](http://arxiv.org/pdf/2502.03463v1)|null|
+|**2025-02-05**|**Clustering of the extrema: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457v1](http://arxiv.org/abs/2502.03457v1)|[2502.03457v1](http://arxiv.org/pdf/2502.03457v1)|null|
+|**2025-02-05**|**DESI Strong Lens Foundry I: HST Observations and Modeling with GIGA-Lens**|X. Huang et.al.|[2502.03455v1](http://arxiv.org/abs/2502.03455v1)|[2502.03455v1](http://arxiv.org/pdf/2502.03455v1)|null|
+|**2025-02-05**|**Gamma Ray Burst GRB 221009A: two distinct hints at once at new physics**|Giorgio Galanti et.al.|[2502.03453v1](http://arxiv.org/abs/2502.03453v1)|[2502.03453v1](http://arxiv.org/pdf/2502.03453v1)|null|
+|**2025-02-05**|**Interacting dark energy constraints from the full-shape analyses of BOSS DR12 and DES Year 3 measurements**|M. Tsedrik et.al.|[2502.03390v1](http://arxiv.org/abs/2502.03390v1)|[2502.03390v1](http://arxiv.org/pdf/2502.03390v1)|null|
+|**2025-02-05**|**Constraints on Ultra-light Axion Dark Matter through Galaxy Cluster Number Counts**|S. Zelmer et.al.|[2502.03353v1](http://arxiv.org/abs/2502.03353v1)|[2502.03353v1](http://arxiv.org/pdf/2502.03353v1)|null|
+|**2025-02-05**|**Ferrers bar response models: a grid calculation for Galactic models**|A. Silva-Castro et.al.|[2502.03344v1](http://arxiv.org/abs/2502.03344v1)|[2502.03344v1](http://arxiv.org/pdf/2502.03344v1)|null|
+|**2025-02-05**|**Configuration of Single Giant Planet Systems Generating `Oumuamua-Like Interstellar Asteroids**|Xi-Ling Zheng et.al.|[2502.03336v1](http://arxiv.org/abs/2502.03336v1)|[2502.03336v1](http://arxiv.org/pdf/2502.03336v1)|null|
+|**2025-02-05**|**The cosmic optical background intensity from decaying sterile neutrinos via magnetic dipole moment**|Hriditi Howlader et.al.|[2502.03328v1](http://arxiv.org/abs/2502.03328v1)|[2502.03328v1](http://arxiv.org/pdf/2502.03328v1)|null|
 |**2025-02-04**|**New perspective on the multiple population phenomenon in Galactic globular clusters from a wide-field photometric survey**|S. Jang et.al.|[2502.02585v1](http://arxiv.org/abs/2502.02585v1)|[2502.02585v1](http://arxiv.org/pdf/2502.02585v1)|null|
 |**2025-02-04**|**DIISC -- VI (COS-DIISC): UV Metal Absorption Relative to the H I disk of Galaxies**|Brad Koplitz et.al.|[2502.02583v1](http://arxiv.org/abs/2502.02583v1)|[2502.02583v1](http://arxiv.org/pdf/2502.02583v1)|null|
 |**2025-02-04**|**Probing large-scale structures with the 2-point function and the power spectrum: insights into cosmic clustering evolution**|Camila Franco et.al.|[2502.02574v1](http://arxiv.org/abs/2502.02574v1)|[2502.02574v1](http://arxiv.org/pdf/2502.02574v1)|null|
@@ -6452,6 +6462,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-05**|**Seeing World Dynamics in a Nutshell**|Qiuhong Shen et.al.|[2502.03465v1](http://arxiv.org/abs/2502.03465v1)|[2502.03465v1](http://arxiv.org/pdf/2502.03465v1)|null|
+|**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460v1](http://arxiv.org/abs/2502.03460v1)|[2502.03460v1](http://arxiv.org/pdf/2502.03460v1)|null|
+|**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454v1](http://arxiv.org/abs/2502.03454v1)|[2502.03454v1](http://arxiv.org/pdf/2502.03454v1)|null|
+|**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450v1](http://arxiv.org/abs/2502.03450v1)|[2502.03450v1](http://arxiv.org/pdf/2502.03450v1)|null|
+|**2025-02-05**|**Masked Autoencoders Are Effective Tokenizers for Diffusion Models**|Hao Chen et.al.|[2502.03444v1](http://arxiv.org/abs/2502.03444v1)|[2502.03444v1](http://arxiv.org/pdf/2502.03444v1)|null|
+|**2025-02-05**|**BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**|Ran Xin et.al.|[2502.03438v1](http://arxiv.org/abs/2502.03438v1)|[2502.03438v1](http://arxiv.org/pdf/2502.03438v1)|null|
+|**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429v1](http://arxiv.org/abs/2502.03429v1)|[2502.03429v1](http://arxiv.org/pdf/2502.03429v1)|null|
+|**2025-02-05**|**TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer**|Zhihong Xu et.al.|[2502.03426v1](http://arxiv.org/abs/2502.03426v1)|[2502.03426v1](http://arxiv.org/pdf/2502.03426v1)|null|
+|**2025-02-05**|**Deep Clustering via Probabilistic Ratio-Cut Optimization**|Ayoub Ghriss et.al.|[2502.03405v1](http://arxiv.org/abs/2502.03405v1)|[2502.03405v1](http://arxiv.org/pdf/2502.03405v1)|null|
+|**2025-02-05**|**Lightweight Authenticated Task Offloading in 6G-Cloud Vehicular Twin Networks**|Sarah Al-Shareeda et.al.|[2502.03403v1](http://arxiv.org/abs/2502.03403v1)|[2502.03403v1](http://arxiv.org/pdf/2502.03403v1)|null|
 |**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584v1](http://arxiv.org/abs/2502.02584v1)|[2502.02584v1](http://arxiv.org/pdf/2502.02584v1)|null|
 |**2025-02-04**|**Are Language Models Up to Sequential Optimization Problems? From Evaluation to a Hegelian-Inspired Enhancement**|Soheil Abbasloo et.al.|[2502.02573v1](http://arxiv.org/abs/2502.02573v1)|[2502.02573v1](http://arxiv.org/pdf/2502.02573v1)|null|
 |**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567v1](http://arxiv.org/abs/2502.02567v1)|[2502.02567v1](http://arxiv.org/pdf/2502.02567v1)|null|
