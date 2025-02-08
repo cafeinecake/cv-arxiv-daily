@@ -1,4 +1,4 @@
-> Updated on 2025.02.07
+> Updated on 2025.02.08
 
 ## Astrophysics
 
@@ -6465,7 +6465,7 @@
 ## AI
 
 - 2025-02-06, **WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**, Jack Hong et.al., Paper: [http://arxiv.org/abs/2502.04326v1](http://arxiv.org/abs/2502.04326v1), Paper: [http://arxiv.org/abs/2502.04326v1](http://arxiv.org/pdf/2502.04326v1)
-- 2025-02-06, **The Uniformly Rotated Mondrian Kernel**, Calvin Osborne et.al., Paper: [http://arxiv.org/abs/2502.04323v1](http://arxiv.org/abs/2502.04323v1), Paper: [http://arxiv.org/abs/2502.04323v1](http://arxiv.org/pdf/2502.04323v1)
+- 2025-02-06, **The Uniformly Rotated Mondrian Kernel**, Calvin Osborne et.al., Paper: [http://arxiv.org/abs/2502.04323v1](http://arxiv.org/abs/2502.04323v1),Paper: [http://arxiv.org/abs/2502.04323v1](http://arxiv.org/pdf/2502.04323v1), Code: **[https://github.com/COsborne25/uniformly-rotated-mondrian-kernel](https://github.com/COsborne25/uniformly-rotated-mondrian-kernel)**
 - 2025-02-06, **Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**, Yik Siu Chan et.al., Paper: [http://arxiv.org/abs/2502.04322v1](http://arxiv.org/abs/2502.04322v1), Paper: [http://arxiv.org/abs/2502.04322v1](http://arxiv.org/pdf/2502.04322v1)
 - 2025-02-06, **Shape-asymmetry and flexibility in active cross-stream migration in nonuniform shear**, Derek C. Gomes et.al., Paper: [http://arxiv.org/abs/2502.04316v1](http://arxiv.org/abs/2502.04316v1), Paper: [http://arxiv.org/abs/2502.04316v1](http://arxiv.org/pdf/2502.04316v1)
 - 2025-02-06, **ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**, Kamer Ali Yuksel et.al., Paper: [http://arxiv.org/abs/2502.04315v1](http://arxiv.org/abs/2502.04315v1), Paper: [http://arxiv.org/abs/2502.04315v1](http://arxiv.org/pdf/2502.04315v1)
