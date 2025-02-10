@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-07**|**Relationship between 2D and 3D Galaxy Stellar Mass and Correlations with Halo Mass**|Conghao Zhou et.al.|[2502.05158v1](http://arxiv.org/abs/2502.05158v1)|[2502.05158v1](http://arxiv.org/pdf/2502.05158v1)|null|
+|**2025-02-07**|**Emission from multiple molecular isotopologues in a high-inclination protoplanetary disk**|Colette Salyk et.al.|[2502.05061v1](http://arxiv.org/abs/2502.05061v1)|[2502.05061v1](http://arxiv.org/pdf/2502.05061v1)|null|
+|**2025-02-07**|**The GAPS Programme at TNG LXVII. Detection of water and preliminary characterisation of the atmospheres of the two hot Jupiters KELT-8 b and KELT-23 Ab**|M. Basilicata et.al.|[2502.05056v1](http://arxiv.org/abs/2502.05056v1)|[2502.05056v1](http://arxiv.org/pdf/2502.05056v1)|null|
+|**2025-02-07**|**Short note on spin magnetization in QGP**|Andrew Steinmetz et.al.|[2502.05052v1](http://arxiv.org/abs/2502.05052v1)|[2502.05052v1](http://arxiv.org/pdf/2502.05052v1)|null|
+|**2025-02-07**|**A prevalent population of normal-mass central black holes in high-redshift massive galaxies**|Junyao Li et.al.|[2502.05048v1](http://arxiv.org/abs/2502.05048v1)|[2502.05048v1](http://arxiv.org/pdf/2502.05048v1)|null|
+|**2025-02-07**|**Scaling of highly excited Schrödinger-Poisson eigenstates and universality of their rotation curves**|Gaia Marangon et.al.|[2502.05030v1](http://arxiv.org/abs/2502.05030v1)|[2502.05030v1](http://arxiv.org/pdf/2502.05030v1)|null|
+|**2025-02-07**|**Impact of radiative accelerations on the stellar characterization of FGK-type stars using spectroscopic and seismic constraints**|Nuno Moedas et.al.|[2502.05025v1](http://arxiv.org/abs/2502.05025v1)|[2502.05025v1](http://arxiv.org/pdf/2502.05025v1)|null|
+|**2025-02-07**|**Prospects for detecting generic fast-time features in the neutrino lightcurve of nearby supernovae in neutrino telescopes**|Jakob Beise et.al.|[2502.05024v1](http://arxiv.org/abs/2502.05024v1)|[2502.05024v1](http://arxiv.org/pdf/2502.05024v1)|null|
+|**2025-02-07**|**Scattered synchrotron emission and a giant torus revealed in polarized light in the nearest radio galaxy Centaurus A**|F. Marin et.al.|[2502.05002v1](http://arxiv.org/abs/2502.05002v1)|[2502.05002v1](http://arxiv.org/pdf/2502.05002v1)|null|
+|**2025-02-07**|**Speed of sound in Kaluza-Klein Fermi gas**|Anna Horváth et.al.|[2502.04974v1](http://arxiv.org/abs/2502.04974v1)|[2502.04974v1](http://arxiv.org/pdf/2502.04974v1)|null|
 |**2025-02-06**|**On the origin of the $Σ_1$-$M_\star$ quenching boundary**|Andrea Cattaneo et.al.|[2502.04319v1](http://arxiv.org/abs/2502.04319v1)|[2502.04319v1](http://arxiv.org/pdf/2502.04319v1)|null|
 |**2025-02-06**|**CMB-S4: Foreground-Cleaning Pipeline Comparison for Measuring Primordial Gravitational Waves**|Federico Bianchini et.al.|[2502.04300v1](http://arxiv.org/abs/2502.04300v1)|[2502.04300v1](http://arxiv.org/pdf/2502.04300v1)|null|
 |**2025-02-06**|**Magnetic Reconnection in a Compact Magnetic Dome: Peculiar Emissions and High-velocity Plasma Flows**|J. M. da Silva Santos et.al.|[2502.04292v1](http://arxiv.org/abs/2502.04292v1)|[2502.04292v1](http://arxiv.org/pdf/2502.04292v1)|null|
@@ -6472,6 +6482,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-07**|**MELON: Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison**|Kaijie Zhu et.al.|[2502.05174v1](http://arxiv.org/abs/2502.05174v1)|[2502.05174v1](http://arxiv.org/pdf/2502.05174v1)|null|
+|**2025-02-07**|**Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient**|Jan Ludziejewski et.al.|[2502.05172v1](http://arxiv.org/abs/2502.05172v1)|[2502.05172v1](http://arxiv.org/pdf/2502.05172v1)|null|
+|**2025-02-07**|**Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**|Steffen Eger et.al.|[2502.05151v1](http://arxiv.org/abs/2502.05151v1)|[2502.05151v1](http://arxiv.org/pdf/2502.05151v1)|null|
+|**2025-02-07**|**An Annotated Reading of 'The Singer of Tales' in the LLM Era**|Kush R. Varshney et.al.|[2502.05148v1](http://arxiv.org/abs/2502.05148v1)|[2502.05148v1](http://arxiv.org/pdf/2502.05148v1)|null|
+|**2025-02-07**|**LP-DETR: Layer-wise Progressive Relations for Object Detection**|Zhengjian Kang et.al.|[2502.05147v1](http://arxiv.org/abs/2502.05147v1)|[2502.05147v1](http://arxiv.org/pdf/2502.05147v1)|null|
+|**2025-02-07**|**Latent Swap Joint Diffusion for Long-Form Audio Generation**|Yusheng Dai et.al.|[2502.05130v1](http://arxiv.org/abs/2502.05130v1)|[2502.05130v1](http://arxiv.org/pdf/2502.05130v1)|null|
+|**2025-02-07**|**Adoption of AI-Assisted E-Scooters: The Role of Perceived Trust, Safety, and Demographic Drivers**|Amit Kumar et.al.|[2502.05117v1](http://arxiv.org/abs/2502.05117v1)|[2502.05117v1](http://arxiv.org/pdf/2502.05117v1)|null|
+|**2025-02-07**|**"It Felt Like I Was Left in the Dark": Exploring Information Needs and Design Opportunities for Family Caregivers of Older Adult Patients in Critical Care Settings**|Shihan Fu et.al.|[2502.05115v1](http://arxiv.org/abs/2502.05115v1)|[2502.05115v1](http://arxiv.org/pdf/2502.05115v1)|null|
+|**2025-02-07**|**Flexible and Efficient Grammar-Constrained Decoding**|Kanghee Park et.al.|[2502.05111v1](http://arxiv.org/abs/2502.05111v1)|[2502.05111v1](http://arxiv.org/pdf/2502.05111v1)|null|
+|**2025-02-07**|**ApplE: An Applied Ethics Ontology with Event Context**|Aisha Aijaz et.al.|[2502.05110v1](http://arxiv.org/abs/2502.05110v1)|[2502.05110v1](http://arxiv.org/pdf/2502.05110v1)|null|
 |**2025-02-06**|**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**|Jack Hong et.al.|[2502.04326v1](http://arxiv.org/abs/2502.04326v1)|[2502.04326v1](http://arxiv.org/pdf/2502.04326v1)|null|
 |**2025-02-06**|**The Uniformly Rotated Mondrian Kernel**|Calvin Osborne et.al.|[2502.04323v1](http://arxiv.org/abs/2502.04323v1)|[2502.04323v1](http://arxiv.org/pdf/2502.04323v1)|**[link](https://github.com/COsborne25/uniformly-rotated-mondrian-kernel)**|
 |**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322v1](http://arxiv.org/abs/2502.04322v1)|[2502.04322v1](http://arxiv.org/pdf/2502.04322v1)|null|
