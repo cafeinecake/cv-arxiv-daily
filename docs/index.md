@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-10**|**ALMACAL XIII. Evolution of the CO luminosity function and the molecular gas mass density out to $z$ ~ 6**|Victoria Bollo et.al.|[2502.06778v1](http://arxiv.org/abs/2502.06778v1)|[2502.06778v1](http://arxiv.org/pdf/2502.06778v1)|null|
+|**2025-02-10**|**Study of the 2024 major Vela glitch at the Argentine Institute of Radioastronomy**|Ezequiel Zubieta et.al.|[2502.06704v1](http://arxiv.org/abs/2502.06704v1)|[2502.06704v1](http://arxiv.org/pdf/2502.06704v1)|null|
+|**2025-02-10**|**Expanding the Quantum-Limited Gravitational-Wave Detection Horizon**|Liu Tao et.al.|[2502.06702v1](http://arxiv.org/abs/2502.06702v1)|[2502.06702v1](http://arxiv.org/pdf/2502.06702v1)|null|
+|**2025-02-10**|**Reconstructing the shape of the non-linear matter power spectrum using CMB lensing and cosmic shear**|Karen Perez Sarmiento et.al.|[2502.06687v1](http://arxiv.org/abs/2502.06687v1)|[2502.06687v1](http://arxiv.org/pdf/2502.06687v1)|null|
+|**2025-02-10**|**Cosmic electron spectra by the Voyager instruments and the Galactic electrostatic field**|Antonio Codino et.al.|[2502.06646v1](http://arxiv.org/abs/2502.06646v1)|[2502.06646v1](http://arxiv.org/pdf/2502.06646v1)|null|
+|**2025-02-10**|**Mapping luminous and dark matter in the Universe**|Nora Elisa Chisari et.al.|[2502.06644v1](http://arxiv.org/abs/2502.06644v1)|[2502.06644v1](http://arxiv.org/pdf/2502.06644v1)|null|
+|**2025-02-10**|**Evolution and final fates of massive stars**|Sylvia Ekström et.al.|[2502.06614v1](http://arxiv.org/abs/2502.06614v1)|[2502.06614v1](http://arxiv.org/pdf/2502.06614v1)|null|
+|**2025-02-10**|**The JWST View of Cygnus A: Jet-Driven Coronal Outflow with a Twist**|Patrick M. Ogle et.al.|[2502.06603v1](http://arxiv.org/abs/2502.06603v1)|[2502.06603v1](http://arxiv.org/pdf/2502.06603v1)|null|
+|**2025-02-10**|**MAD accretion and AGN jets - an observational perspective**|Tuomas Savolainen et.al.|[2502.06602v1](http://arxiv.org/abs/2502.06602v1)|[2502.06602v1](http://arxiv.org/pdf/2502.06602v1)|null|
+|**2025-02-10**|**Radial velocity homogeneous analysis of M dwarfs observed with HARPS. II. Detection limits and planetary occurrence statistics**|L. Mignon et.al.|[2502.06553v1](http://arxiv.org/abs/2502.06553v1)|[2502.06553v1](http://arxiv.org/pdf/2502.06553v1)|null|
 |**2025-02-07**|**Relationship between 2D and 3D Galaxy Stellar Mass and Correlations with Halo Mass**|Conghao Zhou et.al.|[2502.05158v1](http://arxiv.org/abs/2502.05158v1)|[2502.05158v1](http://arxiv.org/pdf/2502.05158v1)|null|
 |**2025-02-07**|**Emission from multiple molecular isotopologues in a high-inclination protoplanetary disk**|Colette Salyk et.al.|[2502.05061v1](http://arxiv.org/abs/2502.05061v1)|[2502.05061v1](http://arxiv.org/pdf/2502.05061v1)|null|
 |**2025-02-07**|**The GAPS Programme at TNG LXVII. Detection of water and preliminary characterisation of the atmospheres of the two hot Jupiters KELT-8 b and KELT-23 Ab**|M. Basilicata et.al.|[2502.05056v1](http://arxiv.org/abs/2502.05056v1)|[2502.05056v1](http://arxiv.org/pdf/2502.05056v1)|null|
@@ -6482,6 +6492,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788v1](http://arxiv.org/abs/2502.06788v1)|[2502.06788v1](http://arxiv.org/pdf/2502.06788v1)|null|
+|**2025-02-10**|**Matryoshka Quantization**|Pranav Nair et.al.|[2502.06786v1](http://arxiv.org/abs/2502.06786v1)|[2502.06786v1](http://arxiv.org/pdf/2502.06786v1)|null|
+|**2025-02-10**|**RelGNN: Composite Message Passing for Relational Deep Learning**|Tianlang Chen et.al.|[2502.06784v1](http://arxiv.org/abs/2502.06784v1)|[2502.06784v1](http://arxiv.org/pdf/2502.06784v1)|null|
+|**2025-02-10**|**KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission for Visual Classification**|Yue Zhu et.al.|[2502.06779v1](http://arxiv.org/abs/2502.06779v1)|[2502.06779v1](http://arxiv.org/pdf/2502.06779v1)|null|
+|**2025-02-10**|**Towards Internet-Scale Training For Agents**|Brandon Trabucco et.al.|[2502.06776v1](http://arxiv.org/abs/2502.06776v1)|[2502.06776v1](http://arxiv.org/pdf/2502.06776v1)|null|
+|**2025-02-10**|**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**|Guanghao Ye et.al.|[2502.06773v1](http://arxiv.org/abs/2502.06773v1)|[2502.06773v1](http://arxiv.org/pdf/2502.06773v1)|null|
+|**2025-02-10**|**Rationalization Models for Text-to-SQL**|Gaetano Rossiello et.al.|[2502.06759v1](http://arxiv.org/abs/2502.06759v1)|[2502.06759v1](http://arxiv.org/pdf/2502.06759v1)|null|
+|**2025-02-10**|**What makes a good feedforward computational graph?**|Alex Vitvitskyi et.al.|[2502.06751v1](http://arxiv.org/abs/2502.06751v1)|[2502.06751v1](http://arxiv.org/pdf/2502.06751v1)|null|
+|**2025-02-10**|**Gradient Multi-Normalization for Stateless and Scalable LLM Training**|Meyer Scetbon et.al.|[2502.06742v1](http://arxiv.org/abs/2502.06742v1)|[2502.06742v1](http://arxiv.org/pdf/2502.06742v1)|null|
+|**2025-02-10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|Abhiroop Bhattacharjee et.al.|[2502.06736v1](http://arxiv.org/abs/2502.06736v1)|[2502.06736v1](http://arxiv.org/pdf/2502.06736v1)|null|
 |**2025-02-07**|**MELON: Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison**|Kaijie Zhu et.al.|[2502.05174v1](http://arxiv.org/abs/2502.05174v1)|[2502.05174v1](http://arxiv.org/pdf/2502.05174v1)|null|
 |**2025-02-07**|**Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient**|Jan Ludziejewski et.al.|[2502.05172v1](http://arxiv.org/abs/2502.05172v1)|[2502.05172v1](http://arxiv.org/pdf/2502.05172v1)|null|
 |**2025-02-07**|**Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**|Steffen Eger et.al.|[2502.05151v1](http://arxiv.org/abs/2502.05151v1)|[2502.05151v1](http://arxiv.org/pdf/2502.05151v1)|null|
