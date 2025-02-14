@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-13**|**Morphological Classification of Galaxies**|Karen Masters et.al.|[2502.09610v1](http://arxiv.org/abs/2502.09610v1)|[2502.09610v1](http://arxiv.org/pdf/2502.09610v1)|null|
+|**2025-02-13**|**The role of triple evolution in the formation of LISA double white dwarfs**|Abinaya Swaruba Rajamuthukumar et.al.|[2502.09607v1](http://arxiv.org/abs/2502.09607v1)|[2502.09607v1](http://arxiv.org/pdf/2502.09607v1)|null|
+|**2025-02-13**|**Star-crossed Clusters: Asteroseismic Ages for Individual Stars are in Tension with the Ages of their Host Clusters**|Jamie Tayar et.al.|[2502.09582v1](http://arxiv.org/abs/2502.09582v1)|[2502.09582v1](http://arxiv.org/pdf/2502.09582v1)|null|
+|**2025-02-13**|**Comparison of methods used to derive the Galactic star formation history from white dwarf samples**|Emily K. Roberts et.al.|[2502.09579v1](http://arxiv.org/abs/2502.09579v1)|[2502.09579v1](http://arxiv.org/pdf/2502.09579v1)|null|
+|**2025-02-13**|**Ultra-high-energy event KM3-230213A constraints on Lorentz Invariance Violation in neutrino sector**|Petr Satunin et.al.|[2502.09548v1](http://arxiv.org/abs/2502.09548v1)|[2502.09548v1](http://arxiv.org/pdf/2502.09548v1)|null|
+|**2025-02-13**|**Cascaded Gamma-ray Emission Associated with the KM3NeT Ultra-High-Energy Event KM3-230213A**|Ke Fang et.al.|[2502.09545v1](http://arxiv.org/abs/2502.09545v1)|[2502.09545v1](http://arxiv.org/pdf/2502.09545v1)|null|
+|**2025-02-13**|**The main jet axis of the W49B supernova remnant**|Noam Soker et.al.|[2502.09543v1](http://arxiv.org/abs/2502.09543v1)|[2502.09543v1](http://arxiv.org/pdf/2502.09543v1)|null|
+|**2025-02-13**|**Rosette Nebula Outburst Gaia 24djk from the Young Stellar Object V557 Mon**|Adolfo S. Carvalho et.al.|[2502.09523v1](http://arxiv.org/abs/2502.09523v1)|[2502.09523v1](http://arxiv.org/pdf/2502.09523v1)|null|
+|**2025-02-13**|**Projecting Unequal Time Fields and Correlators of Large Scale Structure**|Theodore Steele et.al.|[2502.09518v1](http://arxiv.org/abs/2502.09518v1)|[2502.09518v1](http://arxiv.org/pdf/2502.09518v1)|null|
+|**2025-02-13**|**Insights into Solar Wind Flow Speeds from the Coronal Radio occultation Experiment: Findings from the Indian Mars Orbiter Mission**|Keshav Aggarwal et.al.|[2502.09512v1](http://arxiv.org/abs/2502.09512v1)|[2502.09512v1](http://arxiv.org/pdf/2502.09512v1)|null|
 |**2025-02-12**|**Directly Imaging the Cooling Flow in the Phoenix Cluster**|Michael Reefe et.al.|[2502.08619v1](http://arxiv.org/abs/2502.08619v1)|[2502.08619v1](http://arxiv.org/pdf/2502.08619v1)|null|
 |**2025-02-12**|**Recovering the structure of debris disks non-parametrically from images**|Yinuo Han et.al.|[2502.08584v1](http://arxiv.org/abs/2502.08584v1)|[2502.08584v1](http://arxiv.org/pdf/2502.08584v1)|null|
 |**2025-02-12**|**Testing the growth of cosmic structures during the Dark Ages**|Elena Vanetti et.al.|[2502.08562v1](http://arxiv.org/abs/2502.08562v1)|[2502.08562v1](http://arxiv.org/pdf/2502.08562v1)|null|
@@ -6512,6 +6522,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622v1](http://arxiv.org/abs/2502.09622v1)|[2502.09622v1](http://arxiv.org/pdf/2502.09622v1)|null|
+|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621v1](http://arxiv.org/abs/2502.09621v1)|[2502.09621v1](http://arxiv.org/pdf/2502.09621v1)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|[2502.09620v1](http://arxiv.org/pdf/2502.09620v1)|null|
+|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614v1](http://arxiv.org/abs/2502.09614v1)|[2502.09614v1](http://arxiv.org/pdf/2502.09614v1)|null|
+|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609v1](http://arxiv.org/abs/2502.09609v1)|[2502.09609v1](http://arxiv.org/pdf/2502.09609v1)|null|
+|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606v1](http://arxiv.org/abs/2502.09606v1)|[2502.09606v1](http://arxiv.org/pdf/2502.09606v1)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604v1](http://arxiv.org/abs/2502.09604v1)|[2502.09604v1](http://arxiv.org/pdf/2502.09604v1)|null|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601v1](http://arxiv.org/abs/2502.09601v1)|[2502.09601v1](http://arxiv.org/pdf/2502.09601v1)|null|
+|**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596v1](http://arxiv.org/abs/2502.09596v1)|[2502.09596v1](http://arxiv.org/pdf/2502.09596v1)|null|
+|**2025-02-13**|**MorphNLI: A Stepwise Approach to Natural Language Inference Using Text Morphing**|Vlad Andrei Negru et.al.|[2502.09567v1](http://arxiv.org/abs/2502.09567v1)|[2502.09567v1](http://arxiv.org/pdf/2502.09567v1)|null|
 |**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644v1](http://arxiv.org/abs/2502.08644v1)|[2502.08644v1](http://arxiv.org/pdf/2502.08644v1)|null|
 |**2025-02-12**|**A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards**|Shivansh Patel et.al.|[2502.08643v1](http://arxiv.org/abs/2502.08643v1)|[2502.08643v1](http://arxiv.org/pdf/2502.08643v1)|null|
 |**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640v1](http://arxiv.org/abs/2502.08640v1)|[2502.08640v1](http://arxiv.org/pdf/2502.08640v1)|null|
