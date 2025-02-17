@@ -1,4 +1,4 @@
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 
 ## Astrophysics
 
@@ -6522,7 +6522,7 @@
 |**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621v1](http://arxiv.org/abs/2502.09621v1)|[2502.09621v1](http://arxiv.org/pdf/2502.09621v1)|null|
 |**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|[2502.09620v1](http://arxiv.org/pdf/2502.09620v1)|null|
 |**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614v1](http://arxiv.org/abs/2502.09614v1)|[2502.09614v1](http://arxiv.org/pdf/2502.09614v1)|null|
-|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609v1](http://arxiv.org/abs/2502.09609v1)|[2502.09609v1](http://arxiv.org/pdf/2502.09609v1)|null|
+|**2025-02-14**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple via Score Estimation of Mixture Distributions**|Tejas Jayashankar et.al.|[2502.09609v2](http://arxiv.org/abs/2502.09609v2)|[2502.09609v2](http://arxiv.org/pdf/2502.09609v2)|null|
 |**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606v1](http://arxiv.org/abs/2502.09606v1)|[2502.09606v1](http://arxiv.org/pdf/2502.09606v1)|null|
 |**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604v1](http://arxiv.org/abs/2502.09604v1)|[2502.09604v1](http://arxiv.org/pdf/2502.09604v1)|null|
 |**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601v1](http://arxiv.org/abs/2502.09601v1)|[2502.09601v1](http://arxiv.org/pdf/2502.09601v1)|null|
