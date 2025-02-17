@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-14**|**Detection of a peculiar noise type in the TESS "fast" light curves**|Sz. Kálmán et.al.|[2502.10326v1](http://arxiv.org/abs/2502.10326v1)|[2502.10326v1](http://arxiv.org/pdf/2502.10326v1)|null|
+|**2025-02-14**|**Effective theory of light Dirac neutrino portal dark matter with observable ${ΔN_{\rm eff}}$**|Debasish Borah et.al.|[2502.10318v1](http://arxiv.org/abs/2502.10318v1)|[2502.10318v1](http://arxiv.org/pdf/2502.10318v1)|null|
+|**2025-02-14**|**Neutron capture measurements for s-process nucleosynthesis; A review about CERN n_TOF developments and contributions**|C. Domingo-Pardo et.al.|[2502.10306v1](http://arxiv.org/abs/2502.10306v1)|[2502.10306v1](http://arxiv.org/pdf/2502.10306v1)|null|
+|**2025-02-14**|**Hamiltonians to all Orders in Perturbation Theory and Higher Loop Corrections in Single Field Inflation with PBHs Formation**|Hassan Firouzjahi et.al.|[2502.10287v1](http://arxiv.org/abs/2502.10287v1)|[2502.10287v1](http://arxiv.org/pdf/2502.10287v1)|null|
+|**2025-02-14**|**The impact of medium-width bands on the selection, and subsequent luminosity function measurements, of high-z galaxies**|N. J. Adams et.al.|[2502.10282v1](http://arxiv.org/abs/2502.10282v1)|[2502.10282v1](http://arxiv.org/pdf/2502.10282v1)|null|
+|**2025-02-14**|**MICONIC: JWST Unveils Shocked Hot Core Chemistry in the Western Nucleus of Arp 220**|Victorine Buiten et.al.|[2502.10271v1](http://arxiv.org/abs/2502.10271v1)|[2502.10271v1](http://arxiv.org/pdf/2502.10271v1)|null|
+|**2025-02-14**|**An overview of what current data can (and cannot yet) say about evolving dark energy**|William Giarè et.al.|[2502.10264v1](http://arxiv.org/abs/2502.10264v1)|[2502.10264v1](http://arxiv.org/pdf/2502.10264v1)|null|
+|**2025-02-14**|**Spacetime curvature corrections for the Yukawa potential and its application for the Reissner-Nordström Metric**|J. V. Zamperlini et.al.|[2502.10247v1](http://arxiv.org/abs/2502.10247v1)|[2502.10247v1](http://arxiv.org/pdf/2502.10247v1)|null|
+|**2025-02-14**|**A new pulsating neutron star in the Ultraluminous X-ray source NGC 4559 X7?**|F. Pintore et.al.|[2502.10246v1](http://arxiv.org/abs/2502.10246v1)|[2502.10246v1](http://arxiv.org/pdf/2502.10246v1)|null|
+|**2025-02-14**|**Extract cleaned Swift/UVOT UV grism spectra with uvotpy package**|Hao Zhou et.al.|[2502.10241v1](http://arxiv.org/abs/2502.10241v1)|[2502.10241v1](http://arxiv.org/pdf/2502.10241v1)|null|
 |**2025-02-13**|**Morphological Classification of Galaxies**|Karen Masters et.al.|[2502.09610v1](http://arxiv.org/abs/2502.09610v1)|[2502.09610v1](http://arxiv.org/pdf/2502.09610v1)|null|
 |**2025-02-13**|**The role of triple evolution in the formation of LISA double white dwarfs**|Abinaya Swaruba Rajamuthukumar et.al.|[2502.09607v1](http://arxiv.org/abs/2502.09607v1)|[2502.09607v1](http://arxiv.org/pdf/2502.09607v1)|null|
 |**2025-02-13**|**Star-crossed Clusters: Asteroseismic Ages for Individual Stars are in Tension with the Ages of their Host Clusters**|Jamie Tayar et.al.|[2502.09582v1](http://arxiv.org/abs/2502.09582v1)|[2502.09582v1](http://arxiv.org/pdf/2502.09582v1)|null|
@@ -6518,6 +6528,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389v1](http://arxiv.org/abs/2502.10389v1)|[2502.10389v1](http://arxiv.org/pdf/2502.10389v1)|null|
+|**2025-02-14**|**Simplifying DINO via Coding Rate Regularization**|Ziyang Wu et.al.|[2502.10385v1](http://arxiv.org/abs/2502.10385v1)|[2502.10385v1](http://arxiv.org/pdf/2502.10385v1)|null|
+|**2025-02-14**|**Representation and Interpretation in Artificial and Natural Computing**|Luis A. Pineda et.al.|[2502.10383v1](http://arxiv.org/abs/2502.10383v1)|[2502.10383v1](http://arxiv.org/pdf/2502.10383v1)|null|
+|**2025-02-14**|**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**|William Chen et.al.|[2502.10373v1](http://arxiv.org/abs/2502.10373v1)|[2502.10373v1](http://arxiv.org/pdf/2502.10373v1)|null|
+|**2025-02-14**|**BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds**|Huayi Wang et.al.|[2502.10363v1](http://arxiv.org/abs/2502.10363v1)|[2502.10363v1](http://arxiv.org/pdf/2502.10363v1)|null|
+|**2025-02-14**|**STAR: Spectral Truncation and Rescale for Model Merging**|Yu-Ang Lee et.al.|[2502.10339v1](http://arxiv.org/abs/2502.10339v1)|[2502.10339v1](http://arxiv.org/pdf/2502.10339v1)|null|
+|**2025-02-14**|**Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering**|Nick Ferguson et.al.|[2502.10338v1](http://arxiv.org/abs/2502.10338v1)|[2502.10338v1](http://arxiv.org/pdf/2502.10338v1)|null|
+|**2025-02-14**|**Process Reward Models for LLM Agents: Practical Framework and Directions**|Sanjiban Choudhury et.al.|[2502.10325v1](http://arxiv.org/abs/2502.10325v1)|[2502.10325v1](http://arxiv.org/pdf/2502.10325v1)|null|
+|**2025-02-14**|**ExplainReduce: Summarising local explanations via proxies**|Lauri Seppäläinen et.al.|[2502.10311v1](http://arxiv.org/abs/2502.10311v1)|[2502.10311v1](http://arxiv.org/pdf/2502.10311v1)|null|
+|**2025-02-14**|**LLM-Powered Preference Elicitation in Combinatorial Assignment**|Ermis Soumalias et.al.|[2502.10308v1](http://arxiv.org/abs/2502.10308v1)|[2502.10308v1](http://arxiv.org/pdf/2502.10308v1)|null|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622v1](http://arxiv.org/abs/2502.09622v1)|[2502.09622v1](http://arxiv.org/pdf/2502.09622v1)|null|
 |**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621v1](http://arxiv.org/abs/2502.09621v1)|[2502.09621v1](http://arxiv.org/pdf/2502.09621v1)|null|
 |**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|[2502.09620v1](http://arxiv.org/pdf/2502.09620v1)|null|
