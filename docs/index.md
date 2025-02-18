@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-17**|**Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy**|Michele Mancarella et.al.|[2502.12156v1](http://arxiv.org/abs/2502.12156v1)|[2502.12156v1](http://arxiv.org/pdf/2502.12156v1)|null|
+|**2025-02-17**|**pylevin: efficient numerical integration of integrals containing up to three Bessel functions**|Robert Reischke et.al.|[2502.12142v1](http://arxiv.org/abs/2502.12142v1)|[2502.12142v1](http://arxiv.org/pdf/2502.12142v1)|null|
+|**2025-02-17**|**The role of the counterterms in the conservation of superhorizon curvature perturbations at one loop**|Keisuke Inomata et.al.|[2502.12112v1](http://arxiv.org/abs/2502.12112v1)|[2502.12112v1](http://arxiv.org/pdf/2502.12112v1)|null|
+|**2025-02-17**|**Insights from leptohadronic modelling of the brightest blazar flare**|Egor Podlesnyi et.al.|[2502.12111v1](http://arxiv.org/abs/2502.12111v1)|[2502.12111v1](http://arxiv.org/pdf/2502.12111v1)|null|
+|**2025-02-17**|**Spindown of massive main sequence stars in the Milky Way**|K. Nathaniel et.al.|[2502.12107v1](http://arxiv.org/abs/2502.12107v1)|[2502.12107v1](http://arxiv.org/pdf/2502.12107v1)|null|
+|**2025-02-17**|**Bondi-like Accretion Flow Dynamics: The Role of Gravitational Potential**|Razieh Ranjbar et.al.|[2502.12101v1](http://arxiv.org/abs/2502.12101v1)|[2502.12101v1](http://arxiv.org/pdf/2502.12101v1)|null|
+|**2025-02-17**|**3D Vortices and rotating solitons in ultralight dark matter**|Ph. Brax et.al.|[2502.12100v1](http://arxiv.org/abs/2502.12100v1)|[2502.12100v1](http://arxiv.org/pdf/2502.12100v1)|null|
+|**2025-02-17**|**JADES: Average Nitrogen Enhancement in High-Redshift Broad-Line Active Galactic Nuclei**|Yuki Isobe et.al.|[2502.12091v1](http://arxiv.org/abs/2502.12091v1)|[2502.12091v1](http://arxiv.org/pdf/2502.12091v1)|null|
+|**2025-02-17**|**Using Infrared Dust Echoes to Identify Bright Quasi-periodic Eruption Sources**|Dheeraj R. Pasham et.al.|[2502.12078v1](http://arxiv.org/abs/2502.12078v1)|[2502.12078v1](http://arxiv.org/pdf/2502.12078v1)|null|
+|**2025-02-17**|**General relativistic quasi-spherical accretion in a dark matter halo**|Razieh Ranjbar et.al.|[2502.12072v1](http://arxiv.org/abs/2502.12072v1)|[2502.12072v1](http://arxiv.org/pdf/2502.12072v1)|null|
 |**2025-02-14**|**Detection of a peculiar noise type in the TESS "fast" light curves**|Sz. Kálmán et.al.|[2502.10326v1](http://arxiv.org/abs/2502.10326v1)|[2502.10326v1](http://arxiv.org/pdf/2502.10326v1)|null|
 |**2025-02-14**|**Effective theory of light Dirac neutrino portal dark matter with observable ${ΔN_{\rm eff}}$**|Debasish Borah et.al.|[2502.10318v1](http://arxiv.org/abs/2502.10318v1)|[2502.10318v1](http://arxiv.org/pdf/2502.10318v1)|null|
 |**2025-02-14**|**Neutron capture measurements for s-process nucleosynthesis; A review about CERN n_TOF developments and contributions**|C. Domingo-Pardo et.al.|[2502.10306v1](http://arxiv.org/abs/2502.10306v1)|[2502.10306v1](http://arxiv.org/pdf/2502.10306v1)|null|
@@ -6532,6 +6542,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154v1](http://arxiv.org/abs/2502.12154v1)|[2502.12154v1](http://arxiv.org/pdf/2502.12154v1)|null|
+|**2025-02-17**|**HARBOR: Exploring Persona Dynamics in Multi-Agent Competition**|Kenan Jiang et.al.|[2502.12149v1](http://arxiv.org/abs/2502.12149v1)|[2502.12149v1](http://arxiv.org/pdf/2502.12149v1)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145v1](http://arxiv.org/abs/2502.12145v1)|[2502.12145v1](http://arxiv.org/pdf/2502.12145v1)|null|
+|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143v1](http://arxiv.org/abs/2502.12143v1)|[2502.12143v1](http://arxiv.org/pdf/2502.12143v1)|null|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131v1](http://arxiv.org/abs/2502.12131v1)|[2502.12131v1](http://arxiv.org/pdf/2502.12131v1)|null|
+|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130v1](http://arxiv.org/abs/2502.12130v1)|[2502.12130v1](http://arxiv.org/pdf/2502.12130v1)|null|
+|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128v1](http://arxiv.org/abs/2502.12128v1)|[2502.12128v1](http://arxiv.org/pdf/2502.12128v1)|null|
+|**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125v1](http://arxiv.org/abs/2502.12125v1)|[2502.12125v1](http://arxiv.org/pdf/2502.12125v1)|null|
+|**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120v1](http://arxiv.org/abs/2502.12120v1)|[2502.12120v1](http://arxiv.org/pdf/2502.12120v1)|null|
+|**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119v1](http://arxiv.org/abs/2502.12119v1)|[2502.12119v1](http://arxiv.org/pdf/2502.12119v1)|null|
 |**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389v1](http://arxiv.org/abs/2502.10389v1)|[2502.10389v1](http://arxiv.org/pdf/2502.10389v1)|null|
 |**2025-02-14**|**Simplifying DINO via Coding Rate Regularization**|Ziyang Wu et.al.|[2502.10385v1](http://arxiv.org/abs/2502.10385v1)|[2502.10385v1](http://arxiv.org/pdf/2502.10385v1)|null|
 |**2025-02-14**|**Representation and Interpretation in Artificial and Natural Computing**|Luis A. Pineda et.al.|[2502.10383v1](http://arxiv.org/abs/2502.10383v1)|[2502.10383v1](http://arxiv.org/pdf/2502.10383v1)|null|
