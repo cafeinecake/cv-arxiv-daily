@@ -1,4 +1,4 @@
-> Updated on 2025.02.18
+> Updated on 2025.02.19
 
 ## Astrophysics
 
@@ -6534,7 +6534,7 @@
 
 ## AI
 
-- 2025-02-17, **Diffusion Models without Classifier-free Guidance**, Zhicong Tang et.al., Paper: [http://arxiv.org/abs/2502.12154v1](http://arxiv.org/abs/2502.12154v1), Paper: [http://arxiv.org/abs/2502.12154v1](http://arxiv.org/pdf/2502.12154v1)
+- 2025-02-17, **Diffusion Models without Classifier-free Guidance**, Zhicong Tang et.al., Paper: [http://arxiv.org/abs/2502.12154v1](http://arxiv.org/abs/2502.12154v1),Paper: [http://arxiv.org/abs/2502.12154v1](http://arxiv.org/pdf/2502.12154v1), Code: **[https://github.com/tzco/Diffusion-wo-CFG](https://github.com/tzco/Diffusion-wo-CFG)**
 - 2025-02-17, **HARBOR: Exploring Persona Dynamics in Multi-Agent Competition**, Kenan Jiang et.al., Paper: [http://arxiv.org/abs/2502.12149v1](http://arxiv.org/abs/2502.12149v1), Paper: [http://arxiv.org/abs/2502.12149v1](http://arxiv.org/pdf/2502.12149v1)
 - 2025-02-17, **Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**, Jinyan Su et.al., Paper: [http://arxiv.org/abs/2502.12145v1](http://arxiv.org/abs/2502.12145v1), Paper: [http://arxiv.org/abs/2502.12145v1](http://arxiv.org/pdf/2502.12145v1)
 - 2025-02-17, **Small Models Struggle to Learn from Strong Reasoners**, Yuetai Li et.al., Paper: [http://arxiv.org/abs/2502.12143v1](http://arxiv.org/abs/2502.12143v1), Paper: [http://arxiv.org/abs/2502.12143v1](http://arxiv.org/pdf/2502.12143v1)
