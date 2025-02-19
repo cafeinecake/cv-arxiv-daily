@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-18**|**No Evidence of Asymmetrically Enhanced Star Formation in Infalling Galaxies in UNIONS**|Lauren M. Foster et.al.|[2502.13123v1](http://arxiv.org/abs/2502.13123v1)|[2502.13123v1](http://arxiv.org/pdf/2502.13123v1)|null|
+|**2025-02-18**|**New gravitational wave probe of vector dark matter**|Alisha Marriott-Best et.al.|[2502.13116v1](http://arxiv.org/abs/2502.13116v1)|[2502.13116v1](http://arxiv.org/pdf/2502.13116v1)|null|
+|**2025-02-18**|**The cosmological Mass Varying Neutrino model in the late universe**|Olga Avsajanishvili et.al.|[2502.13097v1](http://arxiv.org/abs/2502.13097v1)|[2502.13097v1](http://arxiv.org/pdf/2502.13097v1)|null|
+|**2025-02-18**|**Global Existence and Nonlinear Stability of Finite-Energy Solutions of the Compressible Euler-Riesz Equations with Large Initial Data of Spherical Symmetry**|José A. Carrillo et.al.|[2502.13094v1](http://arxiv.org/abs/2502.13094v1)|[2502.13094v1](http://arxiv.org/pdf/2502.13094v1)|null|
+|**2025-02-18**|**On testing in-vacuo dispersion with the most energetic neutrinos: KM3-230213A case study**|Giovanni Amelino-Camelia et.al.|[2502.13093v1](http://arxiv.org/abs/2502.13093v1)|[2502.13093v1](http://arxiv.org/pdf/2502.13093v1)|null|
+|**2025-02-18**|**QZO: A Catalog of 5 Million Quasars from the Zwicky Transient Facility**|S. J. Nakoneczny et.al.|[2502.13054v1](http://arxiv.org/abs/2502.13054v1)|[2502.13054v1](http://arxiv.org/pdf/2502.13054v1)|null|
+|**2025-02-18**|**Ionosphere of Ganymede: Galileo observations versus test particle simulation**|Arnaud Beth et.al.|[2502.13052v1](http://arxiv.org/abs/2502.13052v1)|[2502.13052v1](http://arxiv.org/pdf/2502.13052v1)|null|
+|**2025-02-18**|**Galactic magnetic fields II. Applying the model to nearby galaxies**|Rion Glenn Nazareth et.al.|[2502.13029v1](http://arxiv.org/abs/2502.13029v1)|[2502.13029v1](http://arxiv.org/pdf/2502.13029v1)|null|
+|**2025-02-18**|**More accurate slow-roll approximations for inflation in scalar-tensor theories**|E. O. Pozdeeva et.al.|[2502.13008v1](http://arxiv.org/abs/2502.13008v1)|[2502.13008v1](http://arxiv.org/pdf/2502.13008v1)|null|
+|**2025-02-18**|**Inverse Seesaw Mechanism and Axion Portal Fermionic Dark Matter**|Nakorn Thongyoi et.al.|[2502.13002v1](http://arxiv.org/abs/2502.13002v1)|[2502.13002v1](http://arxiv.org/pdf/2502.13002v1)|null|
 |**2025-02-17**|**Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy**|Michele Mancarella et.al.|[2502.12156v1](http://arxiv.org/abs/2502.12156v1)|[2502.12156v1](http://arxiv.org/pdf/2502.12156v1)|null|
 |**2025-02-17**|**pylevin: efficient numerical integration of integrals containing up to three Bessel functions**|Robert Reischke et.al.|[2502.12142v1](http://arxiv.org/abs/2502.12142v1)|[2502.12142v1](http://arxiv.org/pdf/2502.12142v1)|null|
 |**2025-02-17**|**The role of the counterterms in the conservation of superhorizon curvature perturbations at one loop**|Keisuke Inomata et.al.|[2502.12112v1](http://arxiv.org/abs/2502.12112v1)|[2502.12112v1](http://arxiv.org/pdf/2502.12112v1)|null|
@@ -6538,6 +6548,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143v1](http://arxiv.org/abs/2502.13143v1)|[2502.13143v1](http://arxiv.org/pdf/2502.13143v1)|null|
+|**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142v1](http://arxiv.org/abs/2502.13142v1)|[2502.13142v1](http://arxiv.org/pdf/2502.13142v1)|null|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141v1](http://arxiv.org/abs/2502.13141v1)|[2502.13141v1](http://arxiv.org/pdf/2502.13141v1)|null|
+|**2025-02-18**|**AIDE: AI-Driven Exploration in the Space of Code**|Zhengyao Jiang et.al.|[2502.13138v1](http://arxiv.org/abs/2502.13138v1)|[2502.13138v1](http://arxiv.org/pdf/2502.13138v1)|null|
+|**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137v1](http://arxiv.org/abs/2502.13137v1)|[2502.13137v1](http://arxiv.org/pdf/2502.13137v1)|null|
+|**2025-02-18**|**Sleepless Nights, Sugary Days: Creating Synthetic Users with Health Conditions for Realistic Coaching Agent Interactions**|Taedong Yun et.al.|[2502.13135v1](http://arxiv.org/abs/2502.13135v1)|[2502.13135v1](http://arxiv.org/pdf/2502.13135v1)|null|
+|**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132v1](http://arxiv.org/abs/2502.13132v1)|[2502.13132v1](http://arxiv.org/pdf/2502.13132v1)|null|
+|**2025-02-18**|**Rethinking Diverse Human Preference Learning through Principal Component Analysis**|Feng Luo et.al.|[2502.13131v1](http://arxiv.org/abs/2502.13131v1)|[2502.13131v1](http://arxiv.org/pdf/2502.13131v1)|null|
+|**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130v1](http://arxiv.org/abs/2502.13130v1)|[2502.13130v1](http://arxiv.org/pdf/2502.13130v1)|null|
+|**2025-02-18**|**SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation**|Zihan Liu et.al.|[2502.13128v1](http://arxiv.org/abs/2502.13128v1)|[2502.13128v1](http://arxiv.org/pdf/2502.13128v1)|null|
 |**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154v1](http://arxiv.org/abs/2502.12154v1)|[2502.12154v1](http://arxiv.org/pdf/2502.12154v1)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**HARBOR: Exploring Persona Dynamics in Multi-Agent Competition**|Kenan Jiang et.al.|[2502.12149v1](http://arxiv.org/abs/2502.12149v1)|[2502.12149v1](http://arxiv.org/pdf/2502.12149v1)|null|
 |**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145v1](http://arxiv.org/abs/2502.12145v1)|[2502.12145v1](http://arxiv.org/pdf/2502.12145v1)|null|
