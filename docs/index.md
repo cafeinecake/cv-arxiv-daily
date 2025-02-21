@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-20**|**Fast Generation of Weak Lensing Maps in Modified Gravity with COLA**|Sophie Hoyland et.al.|[2502.14851v1](http://arxiv.org/abs/2502.14851v1)|[2502.14851v1](http://arxiv.org/pdf/2502.14851v1)|null|
+|**2025-02-20**|**Primordial full bispectra from the general bounce cosmology**|Shingo Akama et.al.|[2502.14850v1](http://arxiv.org/abs/2502.14850v1)|[2502.14850v1](http://arxiv.org/pdf/2502.14850v1)|null|
+|**2025-02-20**|**The GammaTPC Gamma-Ray Telescope Concept**|Tom Shutt et.al.|[2502.14841v1](http://arxiv.org/abs/2502.14841v1)|[2502.14841v1](http://arxiv.org/pdf/2502.14841v1)|null|
+|**2025-02-20**|**Long-Term Multidimensional Models of Core-Collapse Supernovae: Progress and Challenges**|H. -Thomas Janka et.al.|[2502.14836v1](http://arxiv.org/abs/2502.14836v1)|[2502.14836v1](http://arxiv.org/pdf/2502.14836v1)|null|
+|**2025-02-20**|**MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems**|Maor Mizrachi et.al.|[2502.14825v1](http://arxiv.org/abs/2502.14825v1)|[2502.14825v1](http://arxiv.org/pdf/2502.14825v1)|null|
+|**2025-02-20**|**PETRA: From the global fit for LISA's Galactic binaries to a catalog of sources**|Aaron D. Johnson et.al.|[2502.14818v1](http://arxiv.org/abs/2502.14818v1)|[2502.14818v1](http://arxiv.org/pdf/2502.14818v1)|null|
+|**2025-02-20**|**Bispectrum constraints on Primordial non-Gaussianities with the eBOSS DR16 quasars**|Marina S. Cagliari et.al.|[2502.14758v1](http://arxiv.org/abs/2502.14758v1)|[2502.14758v1](http://arxiv.org/pdf/2502.14758v1)|null|
+|**2025-02-20**|**H$α$ Variability of AB Aur b with the Hubble Space Telescope: Probing the Nature of a Protoplanet Candidate with Accretion Light Echoes**|Brendan P. Bowler et.al.|[2502.14736v1](http://arxiv.org/abs/2502.14736v1)|[2502.14736v1](http://arxiv.org/pdf/2502.14736v1)|null|
+|**2025-02-20**|**Super-Eddington Accretion in Quasars**|P. Marziani et.al.|[2502.14713v1](http://arxiv.org/abs/2502.14713v1)|[2502.14713v1](http://arxiv.org/pdf/2502.14713v1)|null|
+|**2025-02-20**|**Disturbed cold gas in galaxy and structure formation**|Siwei Zou et.al.|[2502.14705v1](http://arxiv.org/abs/2502.14705v1)|[2502.14705v1](http://arxiv.org/pdf/2502.14705v1)|null|
 |**2025-02-19**|**Characterization of a TES-based Anti-Coincidence Detector for Future Large Field-of-View X-ray Calorimetry Missions**|Samuel V. Hull et.al.|[2502.13952v1](http://arxiv.org/abs/2502.13952v1)|[2502.13952v1](http://arxiv.org/pdf/2502.13952v1)|null|
 |**2025-02-19**|**Asteroseismology with TESS: Emergence of Dipole Mode Suppression From Subgiants?**|Shurui Lin et.al.|[2502.13950v1](http://arxiv.org/abs/2502.13950v1)|[2502.13950v1](http://arxiv.org/pdf/2502.13950v1)|null|
 |**2025-02-19**|**Lowest-mass X-ray selected AGNs in the Boötes Field**|Rujuta A. Purohit et.al.|[2502.13948v1](http://arxiv.org/abs/2502.13948v1)|[2502.13948v1](http://arxiv.org/pdf/2502.13948v1)|null|
@@ -6562,6 +6572,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|[2502.14866v1](http://arxiv.org/pdf/2502.14866v1)|null|
+|**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864v1](http://arxiv.org/abs/2502.14864v1)|[2502.14864v1](http://arxiv.org/pdf/2502.14864v1)|null|
+|**2025-02-20**|**Interpretable Text Embeddings and Text Similarity Explanation: A Primer**|Juri Opitz et.al.|[2502.14862v1](http://arxiv.org/abs/2502.14862v1)|[2502.14862v1](http://arxiv.org/pdf/2502.14862v1)|null|
+|**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856v1](http://arxiv.org/abs/2502.14856v1)|[2502.14856v1](http://arxiv.org/pdf/2502.14856v1)|null|
+|**2025-02-20**|**Revealing and Mitigating Over-Attention in Knowledge Editing**|Pinzheng Wang et.al.|[2502.14838v1](http://arxiv.org/abs/2502.14838v1)|[2502.14838v1](http://arxiv.org/pdf/2502.14838v1)|null|
+|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837v1](http://arxiv.org/abs/2502.14837v1)|[2502.14837v1](http://arxiv.org/pdf/2502.14837v1)|null|
+|**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834v1](http://arxiv.org/abs/2502.14834v1)|[2502.14834v1](http://arxiv.org/pdf/2502.14834v1)|null|
+|**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831v1](http://arxiv.org/abs/2502.14831v1)|[2502.14831v1](http://arxiv.org/pdf/2502.14831v1)|null|
+|**2025-02-20**|**Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs**|Danni Liu et.al.|[2502.14830v1](http://arxiv.org/abs/2502.14830v1)|[2502.14830v1](http://arxiv.org/pdf/2502.14830v1)|null|
+|**2025-02-20**|**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**|Aiswarya Baby et.al.|[2502.14827v1](http://arxiv.org/abs/2502.14827v1)|[2502.14827v1](http://arxiv.org/pdf/2502.14827v1)|null|
 |**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965v1](http://arxiv.org/abs/2502.13965v1)|[2502.13965v1](http://arxiv.org/pdf/2502.13965v1)|null|
 |**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964v1](http://arxiv.org/abs/2502.13964v1)|[2502.13964v1](http://arxiv.org/pdf/2502.13964v1)|null|
 |**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959v1](http://arxiv.org/abs/2502.13959v1)|[2502.13959v1](http://arxiv.org/pdf/2502.13959v1)|null|
