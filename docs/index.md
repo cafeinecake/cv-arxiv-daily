@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-21**|**Calibration of MAJIS (Moons And Jupiter Imaging Spectrometer): I. On-ground setup description and characterisation**|Mathieu Vincendon et.al.|[2502.15661v1](http://arxiv.org/abs/2502.15661v1)|[2502.15661v1](http://arxiv.org/pdf/2502.15661v1)|null|
+|**2025-02-21**|**A Search for Dark Matter Annihilation in Stellar Streams with the Fermi-LAT**|Cristina Fernandez-Suarez et.al.|[2502.15656v1](http://arxiv.org/abs/2502.15656v1)|[2502.15656v1](http://arxiv.org/pdf/2502.15656v1)|null|
+|**2025-02-21**|**Multiple-Amplifier Sensing Charged-Coupled Device: Model and improvement of the Node Removal Efficiency**|Blas J. Irigoyen Gimenez et.al.|[2502.15644v1](http://arxiv.org/abs/2502.15644v1)|[2502.15644v1](http://arxiv.org/pdf/2502.15644v1)|null|
+|**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640v1](http://arxiv.org/abs/2502.15640v1)|[2502.15640v1](http://arxiv.org/pdf/2502.15640v1)|null|
+|**2025-02-21**|**Fundamental relation in isolated galaxies, pairs, and triplets in the local universe**|M. Argudo-Fernández et.al.|[2502.15638v1](http://arxiv.org/abs/2502.15638v1)|[2502.15638v1](http://arxiv.org/pdf/2502.15638v1)|null|
+|**2025-02-21**|**Massive vector field perturbations in the Schwarzschild spacetime from supersymmetric gauge theory**|Xian-Hui Ge et.al.|[2502.15627v1](http://arxiv.org/abs/2502.15627v1)|[2502.15627v1](http://arxiv.org/pdf/2502.15627v1)|null|
+|**2025-02-21**|**Euclid: Galaxy morphology and photometry from bulge-disc decomposition of Early Release Observations**|L. Quilley et.al.|[2502.15581v1](http://arxiv.org/abs/2502.15581v1)|[2502.15581v1](http://arxiv.org/pdf/2502.15581v1)|null|
+|**2025-02-21**|**The Evolution of Size and Merger Fraction of Submillimeter Galaxies across $1 < z \lesssim 6$ as Observed by JWST**|Jian Ren et.al.|[2502.15569v1](http://arxiv.org/abs/2502.15569v1)|[2502.15569v1](http://arxiv.org/pdf/2502.15569v1)|null|
+|**2025-02-21**|**Unveiling the origin of fast radio bursts by modeling the stellar mass and star formation distributions of their host galaxies**|Nick Loudas et.al.|[2502.15566v1](http://arxiv.org/abs/2502.15566v1)|[2502.15566v1](http://arxiv.org/pdf/2502.15566v1)|null|
+|**2025-02-21**|**Forecasting and Analysis of Solar Energetic Particle Radiation Storms**|Olga Malandraki et.al.|[2502.15555v1](http://arxiv.org/abs/2502.15555v1)|[2502.15555v1](http://arxiv.org/pdf/2502.15555v1)|null|
 |**2025-02-20**|**Fast Generation of Weak Lensing Maps in Modified Gravity with COLA**|Sophie Hoyland et.al.|[2502.14851v1](http://arxiv.org/abs/2502.14851v1)|[2502.14851v1](http://arxiv.org/pdf/2502.14851v1)|null|
 |**2025-02-20**|**Primordial full bispectra from the general bounce cosmology**|Shingo Akama et.al.|[2502.14850v1](http://arxiv.org/abs/2502.14850v1)|[2502.14850v1](http://arxiv.org/pdf/2502.14850v1)|null|
 |**2025-02-20**|**The GammaTPC Gamma-Ray Telescope Concept**|Tom Shutt et.al.|[2502.14841v1](http://arxiv.org/abs/2502.14841v1)|[2502.14841v1](http://arxiv.org/pdf/2502.14841v1)|null|
@@ -6572,6 +6582,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-21**|**One-step Diffusion Models with $f$-Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681v1](http://arxiv.org/abs/2502.15681v1)|[2502.15681v1](http://arxiv.org/pdf/2502.15681v1)|null|
+|**2025-02-21**|**BOSS: Benchmark for Observation Space Shift in Long-Horizon Task**|Yue Yang et.al.|[2502.15679v1](http://arxiv.org/abs/2502.15679v1)|[2502.15679v1](http://arxiv.org/pdf/2502.15679v1)|null|
+|**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677v1](http://arxiv.org/abs/2502.15677v1)|[2502.15677v1](http://arxiv.org/pdf/2502.15677v1)|null|
+|**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676v1](http://arxiv.org/abs/2502.15676v1)|[2502.15676v1](http://arxiv.org/pdf/2502.15676v1)|null|
+|**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672v1](http://arxiv.org/abs/2502.15672v1)|[2502.15672v1](http://arxiv.org/pdf/2502.15672v1)|**[link](https://github.com/valeoai/VideoActionModel)**|
+|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666v1](http://arxiv.org/abs/2502.15666v1)|[2502.15666v1](http://arxiv.org/pdf/2502.15666v1)|null|
+|**2025-02-21**|**Multi-Agent Architecture in Distributed Environment Control Systems: vision, challenges, and opportunities**|Natasha Astudillo et.al.|[2502.15663v1](http://arxiv.org/abs/2502.15663v1)|[2502.15663v1](http://arxiv.org/pdf/2502.15663v1)|null|
+|**2025-02-21**|**Automating Curriculum Learning for Reinforcement Learning using a Skill-Based Bayesian Network**|Vincent Hsiao et.al.|[2502.15662v1](http://arxiv.org/abs/2502.15662v1)|[2502.15662v1](http://arxiv.org/pdf/2502.15662v1)|null|
+|**2025-02-21**|**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**|Yoshua Bengio et.al.|[2502.15657v1](http://arxiv.org/abs/2502.15657v1)|[2502.15657v1](http://arxiv.org/pdf/2502.15657v1)|null|
+|**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652v1](http://arxiv.org/abs/2502.15652v1)|[2502.15652v1](http://arxiv.org/pdf/2502.15652v1)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|[2502.14866v1](http://arxiv.org/pdf/2502.14866v1)|null|
 |**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864v1](http://arxiv.org/abs/2502.14864v1)|[2502.14864v1](http://arxiv.org/pdf/2502.14864v1)|null|
 |**2025-02-20**|**Interpretable Text Embeddings and Text Similarity Explanation: A Primer**|Juri Opitz et.al.|[2502.14862v1](http://arxiv.org/abs/2502.14862v1)|[2502.14862v1](http://arxiv.org/pdf/2502.14862v1)|null|
