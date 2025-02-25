@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-24**|**The Legacy of Henrietta Leavitt: A Re-analysis of the First Cepheid Period-Luminosity Relation**|Louise Breuval et.al.|[2502.17438v1](http://arxiv.org/abs/2502.17438v1)|[2502.17438v1](http://arxiv.org/pdf/2502.17438v1)|null|
+|**2025-02-24**|**Mind the gap: addressing data gaps and assessing noise mismodeling in LISA**|Ollie Burke et.al.|[2502.17426v1](http://arxiv.org/abs/2502.17426v1)|[2502.17426v1](http://arxiv.org/pdf/2502.17426v1)|null|
+|**2025-02-24**|**A JWST Panchromatic Thermal Emission Spectrum of the Warm Neptune Archetype GJ 436b**|Sagnick Mukherjee et.al.|[2502.17418v1](http://arxiv.org/abs/2502.17418v1)|[2502.17418v1](http://arxiv.org/pdf/2502.17418v1)|null|
+|**2025-02-24**|**Mapping Parameter Correlations in Spinning Binary Black Hole Mergers**|Karen Kang et.al.|[2502.17402v1](http://arxiv.org/abs/2502.17402v1)|[2502.17402v1](http://arxiv.org/pdf/2502.17402v1)|null|
+|**2025-02-24**|**Measuring anisotropies in the PTA band with cross-correlations**|Giulia Cusin et.al.|[2502.17401v1](http://arxiv.org/abs/2502.17401v1)|[2502.17401v1](http://arxiv.org/pdf/2502.17401v1)|null|
+|**2025-02-24**|**Accounting for the Known Unkown: A Parametric Framework to Incorporate Systematic Waveform Errors in Gravitational-Wave Parameter Estimation**|Sumit Kumar et.al.|[2502.17400v1](http://arxiv.org/abs/2502.17400v1)|[2502.17400v1](http://arxiv.org/pdf/2502.17400v1)|null|
+|**2025-02-24**|**Back-Reaction of Super-Hubble Fluctuations, Late Time Tracking and Recent Observational Results**|Marco Antonio Cardoso Alvarez et.al.|[2502.17395v1](http://arxiv.org/abs/2502.17395v1)|[2502.17395v1](http://arxiv.org/pdf/2502.17395v1)|null|
+|**2025-02-24**|**Playing with lepton asymmetry at the resonant production of sterile neutrino dark matter**|Dmitry Gorbunov et.al.|[2502.17374v1](http://arxiv.org/abs/2502.17374v1)|[2502.17374v1](http://arxiv.org/pdf/2502.17374v1)|null|
+|**2025-02-24**|**Chemical characterisation of small substructures in the local stellar halo**|Emma Dodd et.al.|[2502.17353v1](http://arxiv.org/abs/2502.17353v1)|[2502.17353v1](http://arxiv.org/pdf/2502.17353v1)|null|
+|**2025-02-24**|**Robust cosmic shear with small-scale nulling**|Giulia Piccirilli et.al.|[2502.17339v1](http://arxiv.org/abs/2502.17339v1)|[2502.17339v1](http://arxiv.org/pdf/2502.17339v1)|null|
 |**2025-02-21**|**Calibration of MAJIS (Moons And Jupiter Imaging Spectrometer): I. On-ground setup description and characterisation**|Mathieu Vincendon et.al.|[2502.15661v1](http://arxiv.org/abs/2502.15661v1)|[2502.15661v1](http://arxiv.org/pdf/2502.15661v1)|null|
 |**2025-02-21**|**A Search for Dark Matter Annihilation in Stellar Streams with the Fermi-LAT**|Cristina Fernandez-Suarez et.al.|[2502.15656v1](http://arxiv.org/abs/2502.15656v1)|[2502.15656v1](http://arxiv.org/pdf/2502.15656v1)|null|
 |**2025-02-21**|**Multiple-Amplifier Sensing Charged-Coupled Device: Model and improvement of the Node Removal Efficiency**|Blas J. Irigoyen Gimenez et.al.|[2502.15644v1](http://arxiv.org/abs/2502.15644v1)|[2502.15644v1](http://arxiv.org/pdf/2502.15644v1)|null|
@@ -6578,6 +6588,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434v1](http://arxiv.org/abs/2502.17434v1)|[2502.17434v1](http://arxiv.org/pdf/2502.17434v1)|null|
+|**2025-02-24**|**FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning**|Jason Jingzhou Liu et.al.|[2502.17432v1](http://arxiv.org/abs/2502.17432v1)|[2502.17432v1](http://arxiv.org/pdf/2502.17432v1)|null|
+|**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424v1](http://arxiv.org/abs/2502.17424v1)|[2502.17424v1](http://arxiv.org/pdf/2502.17424v1)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422v1](http://arxiv.org/abs/2502.17422v1)|[2502.17422v1](http://arxiv.org/pdf/2502.17422v1)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421v1](http://arxiv.org/abs/2502.17421v1)|[2502.17421v1](http://arxiv.org/pdf/2502.17421v1)|null|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420v1](http://arxiv.org/abs/2502.17420v1)|[2502.17420v1](http://arxiv.org/pdf/2502.17420v1)|null|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419v1](http://arxiv.org/abs/2502.17419v1)|[2502.17419v1](http://arxiv.org/pdf/2502.17419v1)|null|
+|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416v1](http://arxiv.org/abs/2502.17416v1)|[2502.17416v1](http://arxiv.org/pdf/2502.17416v1)|null|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403v1](http://arxiv.org/abs/2502.17403v1)|[2502.17403v1](http://arxiv.org/pdf/2502.17403v1)|null|
+|**2025-02-24**|**FIG: Forward-Inverse Generation for Low-Resource Domain-specific Event Detection**|Tanmay Parekh et.al.|[2502.17394v1](http://arxiv.org/abs/2502.17394v1)|[2502.17394v1](http://arxiv.org/pdf/2502.17394v1)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$-Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681v1](http://arxiv.org/abs/2502.15681v1)|[2502.15681v1](http://arxiv.org/pdf/2502.15681v1)|null|
 |**2025-02-21**|**BOSS: Benchmark for Observation Space Shift in Long-Horizon Task**|Yue Yang et.al.|[2502.15679v1](http://arxiv.org/abs/2502.15679v1)|[2502.15679v1](http://arxiv.org/pdf/2502.15679v1)|null|
 |**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677v1](http://arxiv.org/abs/2502.15677v1)|[2502.15677v1](http://arxiv.org/pdf/2502.15677v1)|null|
