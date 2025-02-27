@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-26**|**Seimei KOOLS-IFU mapping of the gas and dust distributions in Galactic PNe: the origin and evolution of DdDm1**|Masaaki Otsuka et.al.|[2502.19415v1](http://arxiv.org/abs/2502.19415v1)|[2502.19415v1](http://arxiv.org/pdf/2502.19415v1)|null|
+|**2025-02-26**|**Limited hysteresis in the atmospheric dynamics of hot Jupiters**|Thaddeus D. Komacek et.al.|[2502.19394v1](http://arxiv.org/abs/2502.19394v1)|[2502.19394v1](http://arxiv.org/pdf/2502.19394v1)|null|
+|**2025-02-26**|**The End of Easy Phenomenology for CMB Experiments: A Case Study in the Dark Sector**|Cynthia Trendafilova et.al.|[2502.19383v1](http://arxiv.org/abs/2502.19383v1)|[2502.19383v1](http://arxiv.org/pdf/2502.19383v1)|null|
+|**2025-02-26**|**The dependence of Polarization Degree of Blazars on particle energy distributions**|Ranjeev Misra et.al.|[2502.19379v1](http://arxiv.org/abs/2502.19379v1)|[2502.19379v1](http://arxiv.org/pdf/2502.19379v1)|null|
+|**2025-02-26**|**An emulation-based model for the projected correlation function**|Vetle A. Vikenes et.al.|[2502.19353v1](http://arxiv.org/abs/2502.19353v1)|[2502.19353v1](http://arxiv.org/pdf/2502.19353v1)|null|
+|**2025-02-26**|**Preliminary Analysis into the Feasibility of Missions to Asteroid 2024 YR$_4$**|Adam Hibberd et.al.|[2502.19346v1](http://arxiv.org/abs/2502.19346v1)|[2502.19346v1](http://arxiv.org/pdf/2502.19346v1)|null|
+|**2025-02-26**|**Probing a low-mass $Z^{\prime}$ gauge boson at IceCube and prospects for IceCube-Gen2**|Reinaldo Francener et.al.|[2502.19338v1](http://arxiv.org/abs/2502.19338v1)|[2502.19338v1](http://arxiv.org/pdf/2502.19338v1)|null|
+|**2025-02-26**|**Anisotropy signal of UHECRs from a structured magnetized Universe**|Simone Rossoni et.al.|[2502.19324v1](http://arxiv.org/abs/2502.19324v1)|[2502.19324v1](http://arxiv.org/pdf/2502.19324v1)|null|
+|**2025-02-26**|**Cosmological Magnetic Fields from Ultralight Dark Matter**|Robert Brandenberger et.al.|[2502.19310v1](http://arxiv.org/abs/2502.19310v1)|[2502.19310v1](http://arxiv.org/pdf/2502.19310v1)|null|
+|**2025-02-26**|**Cosmological implications of Tracker scalar fields as dynamical dark energy**|Md. Wali Hossain et.al.|[2502.19274v1](http://arxiv.org/abs/2502.19274v1)|[2502.19274v1](http://arxiv.org/pdf/2502.19274v1)|null|
 |**2025-02-25**|**Unveiling the Aromatic and Aliphatic Universe at Redshifts $z\sim$0.2--0.5 with JWST/NIRCam**|Jianwei Lyu et.al.|[2502.18464v1](http://arxiv.org/abs/2502.18464v1)|[2502.18464v1](http://arxiv.org/pdf/2502.18464v1)|null|
 |**2025-02-25**|**Spectral modelling of Cygnus A between 110 and 250 MHz. Impact on the LOFAR 21-cm signal power spectrum**|E. Ceccotti et.al.|[2502.18459v1](http://arxiv.org/abs/2502.18459v1)|[2502.18459v1](http://arxiv.org/pdf/2502.18459v1)|null|
 |**2025-02-25**|**Towards a Composite Framework for Simultaneous Exploration of New Physics in Background and Perturbed Universes**|Shibendu Gupta Choudhury et.al.|[2502.18457v1](http://arxiv.org/abs/2502.18457v1)|[2502.18457v1](http://arxiv.org/pdf/2502.18457v1)|null|
@@ -6602,6 +6612,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417v1](http://arxiv.org/abs/2502.19417v1)|[2502.19417v1](http://arxiv.org/pdf/2502.19417v1)|null|
+|**2025-02-26**|**Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing**|Akshat Gupta et.al.|[2502.19416v1](http://arxiv.org/abs/2502.19416v1)|[2502.19416v1](http://arxiv.org/pdf/2502.19416v1)|null|
+|**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413v1](http://arxiv.org/abs/2502.19413v1)|[2502.19413v1](http://arxiv.org/pdf/2502.19413v1)|null|
+|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411v1](http://arxiv.org/abs/2502.19411v1)|[2502.19411v1](http://arxiv.org/pdf/2502.19411v1)|null|
+|**2025-02-26**|**Less or More: Towards Glanceable Explanations for LLM Recommendations Using Ultra-Small Devices**|Xinru Wang et.al.|[2502.19410v1](http://arxiv.org/abs/2502.19410v1)|[2502.19410v1](http://arxiv.org/pdf/2502.19410v1)|null|
+|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402v1](http://arxiv.org/abs/2502.19402v1)|[2502.19402v1](http://arxiv.org/pdf/2502.19402v1)|null|
+|**2025-02-26**|**TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding**|Max Ku et.al.|[2502.19400v1](http://arxiv.org/abs/2502.19400v1)|[2502.19400v1](http://arxiv.org/pdf/2502.19400v1)|null|
+|**2025-02-26**|**Multi-modal Contrastive Learning for Tumor-specific Missing Modality Synthesis**|Minjoo Lim et.al.|[2502.19390v1](http://arxiv.org/abs/2502.19390v1)|[2502.19390v1](http://arxiv.org/pdf/2502.19390v1)|null|
+|**2025-02-26**|**Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-based Learning Framework**|Ziqiao Weng et.al.|[2502.19386v1](http://arxiv.org/abs/2502.19386v1)|[2502.19386v1](http://arxiv.org/pdf/2502.19386v1)|null|
+|**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377v1](http://arxiv.org/abs/2502.19377v1)|[2502.19377v1](http://arxiv.org/pdf/2502.19377v1)|null|
 |**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462v1](http://arxiv.org/abs/2502.18462v1)|[2502.18462v1](http://arxiv.org/pdf/2502.18462v1)|null|
 |**2025-02-25**|**FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response**|Mollie Shichman et.al.|[2502.18452v1](http://arxiv.org/abs/2502.18452v1)|[2502.18452v1](http://arxiv.org/pdf/2502.18452v1)|null|
 |**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449v1](http://arxiv.org/abs/2502.18449v1)|[2502.18449v1](http://arxiv.org/pdf/2502.18449v1)|null|
