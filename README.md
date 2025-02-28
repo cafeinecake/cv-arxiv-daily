@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-27**|**A physically motivated galaxy size definition across different state-of-the-art hydrodynamical simulations**|Elena Arjona-Galvez et.al.|[2502.20398v1](http://arxiv.org/abs/2502.20398v1)|[2502.20398v1](http://arxiv.org/pdf/2502.20398v1)|null|
+|**2025-02-27**|**Linear matter density perturbations in the $Λ_{\rm s}$CDM model: Examining growth dynamics and addressing the $S_8$ tension**|Özgür Akarsu et.al.|[2502.20384v1](http://arxiv.org/abs/2502.20384v1)|[2502.20384v1](http://arxiv.org/pdf/2502.20384v1)|**[link](https://github.com/camarman/MDP-Ls)**|
+|**2025-02-27**|**Investigating the influence of the radiative torque disruption on the size evolution of dust in the heliosphere**|Chi-Hang Ng et.al.|[2502.20362v1](http://arxiv.org/abs/2502.20362v1)|[2502.20362v1](http://arxiv.org/pdf/2502.20362v1)|null|
+|**2025-02-27**|**Observational Signatures of a Previous Dynamical Instability in Multi-planet M-Dwarf Systems**|Anna C. Childs et.al.|[2502.20337v1](http://arxiv.org/abs/2502.20337v1)|[2502.20337v1](http://arxiv.org/pdf/2502.20337v1)|null|
+|**2025-02-27**|**Inferring Black Hole Spin from Interferometric Measurements of the First Photon Ring: A Geometric Approach**|Lennox S. Keeble et.al.|[2502.20312v1](http://arxiv.org/abs/2502.20312v1)|[2502.20312v1](http://arxiv.org/pdf/2502.20312v1)|null|
+|**2025-02-27**|**Nyquist-resolving gravitational waves via orbital frequency-based refinement**|William K. Black et.al.|[2502.20282v1](http://arxiv.org/abs/2502.20282v1)|[2502.20282v1](http://arxiv.org/pdf/2502.20282v1)|null|
+|**2025-02-27**|**Discovery of WINERED-HVS1: A metal-rich hyper-velocity star candidate ejected from the Galactic center**|Kohei Hattori et.al.|[2502.20266v1](http://arxiv.org/abs/2502.20266v1)|[2502.20266v1](http://arxiv.org/pdf/2502.20266v1)|null|
+|**2025-02-27**|**Inferring the Equation of State from Neutron Star Observables via Machine Learning**|N. K. Patra et.al.|[2502.20226v1](http://arxiv.org/abs/2502.20226v1)|[2502.20226v1](http://arxiv.org/pdf/2502.20226v1)|null|
+|**2025-02-27**|**Stability of multi-state configurations of fuzzy dark matter**|Francisco S. Guzman et.al.|[2502.20222v1](http://arxiv.org/abs/2502.20222v1)|[2502.20222v1](http://arxiv.org/pdf/2502.20222v1)|null|
+|**2025-02-27**|**Unveiling Orbital Chaos: The Wild Heart of Fuzzy Dark Matter Structures**|Ivan Alvarez-Rios et.al.|[2502.20205v1](http://arxiv.org/abs/2502.20205v1)|[2502.20205v1](http://arxiv.org/pdf/2502.20205v1)|null|
 |**2025-02-26**|**Seimei KOOLS-IFU mapping of the gas and dust distributions in Galactic PNe: the origin and evolution of DdDm1**|Masaaki Otsuka et.al.|[2502.19415v1](http://arxiv.org/abs/2502.19415v1)|[2502.19415v1](http://arxiv.org/pdf/2502.19415v1)|null|
 |**2025-02-26**|**Limited hysteresis in the atmospheric dynamics of hot Jupiters**|Thaddeus D. Komacek et.al.|[2502.19394v1](http://arxiv.org/abs/2502.19394v1)|[2502.19394v1](http://arxiv.org/pdf/2502.19394v1)|null|
 |**2025-02-26**|**The End of Easy Phenomenology for CMB Experiments: A Case Study in the Dark Sector**|Cynthia Trendafilova et.al.|[2502.19383v1](http://arxiv.org/abs/2502.19383v1)|[2502.19383v1](http://arxiv.org/pdf/2502.19383v1)|null|
@@ -6608,6 +6618,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396v1](http://arxiv.org/abs/2502.20396v1)|[2502.20396v1](http://arxiv.org/pdf/2502.20396v1)|null|
+|**2025-02-27**|**Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models**|Susmit Agrawal et.al.|[2502.20393v1](http://arxiv.org/abs/2502.20393v1)|[2502.20393v1](http://arxiv.org/pdf/2502.20393v1)|null|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382v1](http://arxiv.org/abs/2502.20382v1)|[2502.20382v1](http://arxiv.org/pdf/2502.20382v1)|null|
+|**2025-02-27**|**Multi-Turn Code Generation Through Single-Step Rewards**|Arnav Kumar Jain et.al.|[2502.20380v1](http://arxiv.org/abs/2502.20380v1)|[2502.20380v1](http://arxiv.org/pdf/2502.20380v1)|null|
+|**2025-02-27**|**Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers**|Shalev Lifshitz et.al.|[2502.20379v1](http://arxiv.org/abs/2502.20379v1)|[2502.20379v1](http://arxiv.org/pdf/2502.20379v1)|null|
+|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377v1](http://arxiv.org/abs/2502.20377v1)|[2502.20377v1](http://arxiv.org/pdf/2502.20377v1)|null|
+|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364v1](http://arxiv.org/abs/2502.20364v1)|[2502.20364v1](http://arxiv.org/pdf/2502.20364v1)|null|
+|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356v1](http://arxiv.org/abs/2502.20356v1)|[2502.20356v1](http://arxiv.org/pdf/2502.20356v1)|null|
+|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354v1](http://arxiv.org/abs/2502.20354v1)|[2502.20354v1](http://arxiv.org/pdf/2502.20354v1)|null|
+|**2025-02-27**|**KNOWM Memristors in a Bridge Synapse delay-based Reservoir Computing system for detection of epileptic seizures**|Dawid Przyczyna et.al.|[2502.20351v1](http://arxiv.org/abs/2502.20351v1)|[2502.20351v1](http://arxiv.org/pdf/2502.20351v1)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417v1](http://arxiv.org/abs/2502.19417v1)|[2502.19417v1](http://arxiv.org/pdf/2502.19417v1)|null|
 |**2025-02-26**|**Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing**|Akshat Gupta et.al.|[2502.19416v1](http://arxiv.org/abs/2502.19416v1)|[2502.19416v1](http://arxiv.org/pdf/2502.19416v1)|null|
 |**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413v1](http://arxiv.org/abs/2502.19413v1)|[2502.19413v1](http://arxiv.org/pdf/2502.19413v1)|null|
