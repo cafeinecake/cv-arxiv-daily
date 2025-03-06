@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-05**|**Searching for continuous gravitational waves from highly deformed compact objects with DECIGO**|Andrew L. Miller et.al.|[2503.03748v1](http://arxiv.org/abs/2503.03748v1)|[2503.03748v1](http://arxiv.org/pdf/2503.03748v1)|null|
+|**2025-03-05**|**Evidence for Primordial Alignment II: Insights from Stellar Obliquity Measurements for Hot Jupiters in Compact Multiplanet Systems**|Brandon Thomas Radzom et.al.|[2503.03745v1](http://arxiv.org/abs/2503.03745v1)|[2503.03745v1](http://arxiv.org/pdf/2503.03745v1)|null|
+|**2025-03-05**|**MaNGA AGN dwarf galaxies (MAD) -- III. The role of mergers and environment in AGN activity in dwarf galaxies**|A. Eróstegui et.al.|[2503.03742v1](http://arxiv.org/abs/2503.03742v1)|[2503.03742v1](http://arxiv.org/pdf/2503.03742v1)|null|
+|**2025-03-05**|**Peaky Finders: Characterizing Double-Peaked Type IIb Supernovae in Large-Scale Live-Stream Photometric Surveys**|Adrian Crawford et.al.|[2503.03735v1](http://arxiv.org/abs/2503.03735v1)|[2503.03735v1](http://arxiv.org/pdf/2503.03735v1)|null|
+|**2025-03-05**|**Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?**|Peter Todd Williams et.al.|[2503.03732v1](http://arxiv.org/abs/2503.03732v1)|[2503.03732v1](http://arxiv.org/pdf/2503.03732v1)|null|
+|**2025-03-05**|**Connecting the dots: Tracing the evolutionary pathway of Polar Ring Galaxies in the cases of NGC 3718, NGC 2685, and NGC 4262**|Krishna R. Akhil et.al.|[2503.03709v1](http://arxiv.org/abs/2503.03709v1)|[2503.03709v1](http://arxiv.org/pdf/2503.03709v1)|null|
+|**2025-03-05**|**High-Energy Neutrinos by Hydrogen-rich Supernovae interacting with low-massive Circumstellar Medium: The Case of SN 2023ixf**|S. P. Cosentino et.al.|[2503.03699v1](http://arxiv.org/abs/2503.03699v1)|[2503.03699v1](http://arxiv.org/pdf/2503.03699v1)|null|
+|**2025-03-05**|**Optimal joint reconstruction from CMB observations: application to cosmic birefringence, patchy reionization and CMB lensing**|Omar Darwish et.al.|[2503.03682v1](http://arxiv.org/abs/2503.03682v1)|[2503.03682v1](http://arxiv.org/pdf/2503.03682v1)|null|
+|**2025-03-05**|**The $M_{*}-M_{\rm BH}$ Relation Evolution from z $\sim$ 6 to the Present Epoch**|Yang Sun et.al.|[2503.03675v1](http://arxiv.org/abs/2503.03675v1)|[2503.03675v1](http://arxiv.org/pdf/2503.03675v1)|null|
+|**2025-03-05**|**Study of an active region prominence using spectropolarimetric data in the He I D3 multiplet**|S. Esteban Pozuelo et.al.|[2503.03670v1](http://arxiv.org/abs/2503.03670v1)|[2503.03670v1](http://arxiv.org/pdf/2503.03670v1)|null|
 |**2025-03-04**|**The SRG/eROSITA all-sky survey: View of the Fornax galaxy cluster**|T. H. Reiprich et.al.|[2503.02884v1](http://arxiv.org/abs/2503.02884v1)|[2503.02884v1](http://arxiv.org/pdf/2503.02884v1)|null|
 |**2025-03-04**|**A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations**|Purba Mukherjee et.al.|[2503.02880v1](http://arxiv.org/abs/2503.02880v1)|[2503.02880v1](http://arxiv.org/pdf/2503.02880v1)|null|
 |**2025-03-04**|**The NIRWALS instrument detrending software pipeline**|Ralf Kotulla et.al.|[2503.02829v1](http://arxiv.org/abs/2503.02829v1)|[2503.02829v1](http://arxiv.org/pdf/2503.02829v1)|null|
@@ -6642,6 +6652,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750v1](http://arxiv.org/abs/2503.03750v1)|[2503.03750v1](http://arxiv.org/pdf/2503.03750v1)|null|
+|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746v1](http://arxiv.org/abs/2503.03746v1)|[2503.03746v1](http://arxiv.org/pdf/2503.03746v1)|null|
+|**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743v1](http://arxiv.org/abs/2503.03743v1)|[2503.03743v1](http://arxiv.org/pdf/2503.03743v1)|null|
+|**2025-03-05**|**Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need**|Amal Shaheena et.al.|[2503.03733v1](http://arxiv.org/abs/2503.03733v1)|[2503.03733v1](http://arxiv.org/pdf/2503.03733v1)|null|
+|**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724v1](http://arxiv.org/abs/2503.03724v1)|[2503.03724v1](http://arxiv.org/pdf/2503.03724v1)|null|
+|**2025-03-05**|**Machine Learning in Biomechanics: Key Applications and Limitations in Walking, Running, and Sports Movements**|Carlo Dindorf et.al.|[2503.03717v1](http://arxiv.org/abs/2503.03717v1)|[2503.03717v1](http://arxiv.org/pdf/2503.03717v1)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708v1](http://arxiv.org/abs/2503.03708v1)|[2503.03708v1](http://arxiv.org/pdf/2503.03708v1)|null|
+|**2025-03-05**|**Curating Demonstrations using Online Experience**|Annie S. Chen et.al.|[2503.03707v1](http://arxiv.org/abs/2503.03707v1)|[2503.03707v1](http://arxiv.org/pdf/2503.03707v1)|null|
+|**2025-03-05**|**Manipulate intrinsic light-matter interaction with bound state in the continuum in van der Waals metasurfaces by artificial etching**|Fuhuan Shen et.al.|[2503.03694v1](http://arxiv.org/abs/2503.03694v1)|[2503.03694v1](http://arxiv.org/pdf/2503.03694v1)|null|
+|**2025-03-05**|**ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX**|Ungsik Kim et.al.|[2503.03693v1](http://arxiv.org/abs/2503.03693v1)|[2503.03693v1](http://arxiv.org/pdf/2503.03693v1)|null|
 |**2025-03-04**|**Bringing Comparative Cognition To Computers**|Konstantinos Voudouris et.al.|[2503.02882v1](http://arxiv.org/abs/2503.02882v1)|[2503.02882v1](http://arxiv.org/pdf/2503.02882v1)|null|
 |**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881v1](http://arxiv.org/abs/2503.02881v1)|[2503.02881v1](http://arxiv.org/pdf/2503.02881v1)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879v1](http://arxiv.org/abs/2503.02879v1)|[2503.02879v1](http://arxiv.org/pdf/2503.02879v1)|null|
