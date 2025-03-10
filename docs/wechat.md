@@ -1,4 +1,4 @@
-> Updated on 2025.03.09
+> Updated on 2025.03.10
 
 ## Astrophysics
 
@@ -6655,12 +6655,12 @@
 ## AI
 
 - 2025-03-06, **L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling**, Zhuo Chen et.al., Paper: [http://arxiv.org/abs/2503.04725v1](http://arxiv.org/abs/2503.04725v1), Paper: [http://arxiv.org/abs/2503.04725v1](http://arxiv.org/pdf/2503.04725v1)
-- 2025-03-06, **Shifting Long-Context LLMs Research from Input to Output**, Yuhao Wu et.al., Paper: [http://arxiv.org/abs/2503.04723v1](http://arxiv.org/abs/2503.04723v1), Paper: [http://arxiv.org/abs/2503.04723v1](http://arxiv.org/pdf/2503.04723v1)
+- 2025-03-07, **Shifting Long-Context LLMs Research from Input to Output**, Yuhao Wu et.al., Paper: [http://arxiv.org/abs/2503.04723v2](http://arxiv.org/abs/2503.04723v2), Paper: [http://arxiv.org/abs/2503.04723v2](http://arxiv.org/pdf/2503.04723v2)
 - 2025-03-06, **Enough Coin Flips Can Make LLMs Act Bayesian**, Ritwik Gupta et.al., Paper: [http://arxiv.org/abs/2503.04722v1](http://arxiv.org/abs/2503.04722v1), Paper: [http://arxiv.org/abs/2503.04722v1](http://arxiv.org/pdf/2503.04722v1)
 - 2025-03-06, **Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**, Houyi Li et.al., Paper: [http://arxiv.org/abs/2503.04715v1](http://arxiv.org/abs/2503.04715v1), Paper: [http://arxiv.org/abs/2503.04715v1](http://arxiv.org/pdf/2503.04715v1)
 - 2025-03-06, **Scaling Rich Style-Prompted Text-to-Speech Datasets**, Anuj Diwan et.al., Paper: [http://arxiv.org/abs/2503.04713v1](http://arxiv.org/abs/2503.04713v1), Paper: [http://arxiv.org/abs/2503.04713v1](http://arxiv.org/pdf/2503.04713v1)
 - 2025-03-06, **Self-Supervised Models for Phoneme Recognition: Applications in Children's Speech for Reading Learning**, Lucas Block Medin et.al., Paper: [http://arxiv.org/abs/2503.04710v1](http://arxiv.org/abs/2503.04710v1), Paper: [http://arxiv.org/abs/2503.04710v1](http://arxiv.org/pdf/2503.04710v1)
-- 2025-03-06, **Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**, Alireza Behtash et.al., Paper: [http://arxiv.org/abs/2503.04704v1](http://arxiv.org/abs/2503.04704v1), Paper: [http://arxiv.org/abs/2503.04704v1](http://arxiv.org/pdf/2503.04704v1)
+- 2025-03-07, **Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**, Alireza Behtash et.al., Paper: [http://arxiv.org/abs/2503.04704v2](http://arxiv.org/abs/2503.04704v2), Paper: [http://arxiv.org/abs/2503.04704v2](http://arxiv.org/pdf/2503.04704v2)
 - 2025-03-06, **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**, Pranjal Aggarwal et.al., Paper: [http://arxiv.org/abs/2503.04697v1](http://arxiv.org/abs/2503.04697v1), Paper: [http://arxiv.org/abs/2503.04697v1](http://arxiv.org/pdf/2503.04697v1)
 - 2025-03-06, **Assessing Student Adoption of Generative Artificial Intelligence across Engineering Education from 2023 to 2024**, Jesan Ahammed Ovi et.al., Paper: [http://arxiv.org/abs/2503.04696v1](http://arxiv.org/abs/2503.04696v1), Paper: [http://arxiv.org/abs/2503.04696v1](http://arxiv.org/pdf/2503.04696v1)
 - 2025-03-06, **Matrix Factorization for Inferring Associations and Missing Links**, Ryan Barron et.al., Paper: [http://arxiv.org/abs/2503.04680v1](http://arxiv.org/abs/2503.04680v1), Paper: [http://arxiv.org/abs/2503.04680v1](http://arxiv.org/pdf/2503.04680v1)
