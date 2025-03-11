@@ -1,4 +1,4 @@
-> Updated on 2025.03.10
+> Updated on 2025.03.11
 
 ## Astrophysics
 
@@ -6668,7 +6668,7 @@
 - 2025-03-07, **BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities**, Yunfan Jiang et.al., Paper: [http://arxiv.org/abs/2503.05652v1](http://arxiv.org/abs/2503.05652v1), Paper: [http://arxiv.org/abs/2503.05652v1](http://arxiv.org/pdf/2503.05652v1)
 - 2025-03-07, **dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**, Yihao Liu et.al., Paper: [http://arxiv.org/abs/2503.05646v1](http://arxiv.org/abs/2503.05646v1), Paper: [http://arxiv.org/abs/2503.05646v1](http://arxiv.org/pdf/2503.05646v1)
 - 2025-03-07, **Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**, Justin Chih-Yao Chen et.al., Paper: [http://arxiv.org/abs/2503.05641v1](http://arxiv.org/abs/2503.05641v1), Paper: [http://arxiv.org/abs/2503.05641v1](http://arxiv.org/pdf/2503.05641v1)
-- 2025-03-07, **VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**, Yuxuan Bian et.al., Paper: [http://arxiv.org/abs/2503.05639v1](http://arxiv.org/abs/2503.05639v1), Paper: [http://arxiv.org/abs/2503.05639v1](http://arxiv.org/pdf/2503.05639v1)
+- 2025-03-07, **VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**, Yuxuan Bian et.al., Paper: [http://arxiv.org/abs/2503.05639v1](http://arxiv.org/abs/2503.05639v1),Paper: [http://arxiv.org/abs/2503.05639v1](http://arxiv.org/pdf/2503.05639v1), Code: **[https://github.com/TencentARC/VideoPainter](https://github.com/TencentARC/VideoPainter)**
 - 2025-03-07, **TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**, Mark YU et.al., Paper: [http://arxiv.org/abs/2503.05638v1](http://arxiv.org/abs/2503.05638v1), Paper: [http://arxiv.org/abs/2503.05638v1](http://arxiv.org/pdf/2503.05638v1)
 - 2025-03-07, **Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**, Ali Samimi Fard et.al., Paper: [http://arxiv.org/abs/2503.05629v1](http://arxiv.org/abs/2503.05629v1), Paper: [http://arxiv.org/abs/2503.05629v1](http://arxiv.org/pdf/2503.05629v1)
 - 2025-03-07, **Superintelligence Strategy: Expert Version**, Dan Hendrycks et.al., Paper: [http://arxiv.org/abs/2503.05628v1](http://arxiv.org/abs/2503.05628v1), Paper: [http://arxiv.org/abs/2503.05628v1](http://arxiv.org/pdf/2503.05628v1)
