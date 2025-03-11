@@ -6682,6 +6682,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587v1](http://arxiv.org/abs/2503.07587v1)|[2503.07587v1](http://arxiv.org/pdf/2503.07587v1)|null|
+|**2025-03-10**|**Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**|Tianyu Chen et.al.|[2503.07578v1](http://arxiv.org/abs/2503.07578v1)|[2503.07578v1](http://arxiv.org/pdf/2503.07578v1)|null|
+|**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572v1](http://arxiv.org/abs/2503.07572v1)|[2503.07572v1](http://arxiv.org/pdf/2503.07572v1)|null|
+|**2025-03-10**|**Runtime Detection of Adversarial Attacks in AI Accelerators Using Performance Counters**|Habibur Rahaman et.al.|[2503.07568v1](http://arxiv.org/abs/2503.07568v1)|[2503.07568v1](http://arxiv.org/pdf/2503.07568v1)|null|
+|**2025-03-10**|**Inductive Moment Matching**|Linqi Zhou et.al.|[2503.07565v1](http://arxiv.org/abs/2503.07565v1)|[2503.07565v1](http://arxiv.org/pdf/2503.07565v1)|null|
+|**2025-03-10**|**KSOD: Knowledge Supplement for LLMs On Demand**|Haoran Li et.al.|[2503.07550v1](http://arxiv.org/abs/2503.07550v1)|[2503.07550v1](http://arxiv.org/pdf/2503.07550v1)|null|
+|**2025-03-10**|**Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models**|Nina Moorman et.al.|[2503.07547v1](http://arxiv.org/abs/2503.07547v1)|[2503.07547v1](http://arxiv.org/pdf/2503.07547v1)|null|
+|**2025-03-10**|**Queueing, Predictions, and LLMs: Challenges and Open Problems**|Michael Mitzenmacher et.al.|[2503.07545v1](http://arxiv.org/abs/2503.07545v1)|[2503.07545v1](http://arxiv.org/pdf/2503.07545v1)|null|
+|**2025-03-10**|**Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm**|Zhao-Heng Yin et.al.|[2503.07541v1](http://arxiv.org/abs/2503.07541v1)|[2503.07541v1](http://arxiv.org/pdf/2503.07541v1)|null|
+|**2025-03-10**|**AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol**|Maurice Ongala et.al.|[2503.07540v1](http://arxiv.org/abs/2503.07540v1)|[2503.07540v1](http://arxiv.org/pdf/2503.07540v1)|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|[2503.07482v1](http://arxiv.org/pdf/2503.07482v1)|null|
 |**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470v1](http://arxiv.org/abs/2503.07470v1)|[2503.07470v1](http://arxiv.org/pdf/2503.07470v1)|null|
 |**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v1](http://arxiv.org/abs/2503.07459v1)|[2503.07459v1](http://arxiv.org/pdf/2503.07459v1)|null|
