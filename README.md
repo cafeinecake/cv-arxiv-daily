@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484v1](http://arxiv.org/abs/2503.07484v1)|[2503.07484v1](http://arxiv.org/pdf/2503.07484v1)|null|
+|**2025-03-10**|**Influence of finite-temperature effects on CMB power spectrum**|I. Y. Park et.al.|[2503.07469v1](http://arxiv.org/abs/2503.07469v1)|[2503.07469v1](http://arxiv.org/pdf/2503.07469v1)|null|
+|**2025-03-10**|**Quadratic quasinormal modes at null infinity on a Schwarzschild spacetime**|Patrick Bourg et.al.|[2503.07432v1](http://arxiv.org/abs/2503.07432v1)|[2503.07432v1](http://arxiv.org/pdf/2503.07432v1)|null|
+|**2025-03-10**|**On the completeness and reliability of visual source extraction : an examination of eight thousand data cubes by eye**|Rhys Taylor et.al.|[2503.07430v1](http://arxiv.org/abs/2503.07430v1)|[2503.07430v1](http://arxiv.org/pdf/2503.07430v1)|null|
+|**2025-03-10**|**Clustering analysis of Ca {\sc i} 4227 line polarization using magnetohydrodynamic simulations of the solar atmosphere**|Harsh Mathur et.al.|[2503.07380v1](http://arxiv.org/abs/2503.07380v1)|[2503.07380v1](http://arxiv.org/pdf/2503.07380v1)|null|
+|**2025-03-10**|**X-shaped radio galaxy 3C 315**|V. Borka Jovanović et.al.|[2503.07339v1](http://arxiv.org/abs/2503.07339v1)|[2503.07339v1](http://arxiv.org/pdf/2503.07339v1)|null|
+|**2025-03-10**|**Mid-infrared absorption spectra and mass absorption coefficients for 23 chondrites: dependence on composition and grain size**|Grace A. Batalla-Falcon et.al.|[2503.07311v1](http://arxiv.org/abs/2503.07311v1)|[2503.07311v1](http://arxiv.org/pdf/2503.07311v1)|null|
+|**2025-03-10**|**Identifying compact symmetric objects with high-precision VLBI and Gaia astrometry**|T. An et.al.|[2503.07288v1](http://arxiv.org/abs/2503.07288v1)|[2503.07288v1](http://arxiv.org/pdf/2503.07288v1)|null|
+|**2025-03-10**|**Emulating the Non-Linear Matter Power-Spectrum in Mixed Axion Dark Matter Models**|Dennis Fremstad et.al.|[2503.07277v1](http://arxiv.org/abs/2503.07277v1)|[2503.07277v1](http://arxiv.org/pdf/2503.07277v1)|null|
+|**2025-03-10**|**Simulation-Based Priors without Simulations: an Analytic Perspective on EFT Parameters of Galaxies**|Mikhail M. Ivanov et.al.|[2503.07270v1](http://arxiv.org/abs/2503.07270v1)|[2503.07270v1](http://arxiv.org/pdf/2503.07270v1)|null|
 |**2025-03-07**|**The discovery and characterization of Earth-crossing asteroid 2024 YR$_4$**|Bryce T. Bolin et.al.|[2503.05694v1](http://arxiv.org/abs/2503.05694v1)|[2503.05694v1](http://arxiv.org/pdf/2503.05694v1)|null|
 |**2025-03-07**|**Reionization and the Hubble Constant: Correlations in the Cosmic Microwave Background**|Itamar J. Allali et.al.|[2503.05691v1](http://arxiv.org/abs/2503.05691v1)|[2503.05691v1](http://arxiv.org/pdf/2503.05691v1)|null|
 |**2025-03-07**|**ALMAGAL III. Compact source catalog: Fragmentation statistics and physical evolution of the core population**|A. Coletta et.al.|[2503.05663v1](http://arxiv.org/abs/2503.05663v1)|[2503.05663v1](http://arxiv.org/pdf/2503.05663v1)|null|
@@ -6668,6 +6678,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|[2503.07482v1](http://arxiv.org/pdf/2503.07482v1)|null|
+|**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470v1](http://arxiv.org/abs/2503.07470v1)|[2503.07470v1](http://arxiv.org/pdf/2503.07470v1)|null|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v1](http://arxiv.org/abs/2503.07459v1)|[2503.07459v1](http://arxiv.org/pdf/2503.07459v1)|null|
+|**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453v1](http://arxiv.org/abs/2503.07453v1)|[2503.07453v1](http://arxiv.org/pdf/2503.07453v1)|null|
+|**2025-03-10**|**From Idea to Implementation: Evaluating the Influence of Large Language Models in Software Development -- An Opinion Paper**|Sargam Yadav et.al.|[2503.07450v1](http://arxiv.org/abs/2503.07450v1)|[2503.07450v1](http://arxiv.org/pdf/2503.07450v1)|null|
+|**2025-03-10**|**Divide and Conquer Self-Supervised Learning for High-Content Imaging**|Lucas Farndale et.al.|[2503.07444v1](http://arxiv.org/abs/2503.07444v1)|[2503.07444v1](http://arxiv.org/pdf/2503.07444v1)|null|
+|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433v1](http://arxiv.org/abs/2503.07433v1)|[2503.07433v1](http://arxiv.org/pdf/2503.07433v1)|null|
+|**2025-03-10**|**On the completeness and reliability of visual source extraction : an examination of eight thousand data cubes by eye**|Rhys Taylor et.al.|[2503.07430v1](http://arxiv.org/abs/2503.07430v1)|[2503.07430v1](http://arxiv.org/pdf/2503.07430v1)|null|
+|**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429v1](http://arxiv.org/abs/2503.07429v1)|[2503.07429v1](http://arxiv.org/pdf/2503.07429v1)|null|
+|**2025-03-10**|**RePO: ReLU-based Preference Optimization**|Junkang Wu et.al.|[2503.07426v1](http://arxiv.org/abs/2503.07426v1)|[2503.07426v1](http://arxiv.org/pdf/2503.07426v1)|null|
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696v1](http://arxiv.org/abs/2503.05696v1)|[2503.05696v1](http://arxiv.org/pdf/2503.05696v1)|null|
 |**2025-03-07**|**BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities**|Yunfan Jiang et.al.|[2503.05652v1](http://arxiv.org/abs/2503.05652v1)|[2503.05652v1](http://arxiv.org/pdf/2503.05652v1)|null|
 |**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646v1](http://arxiv.org/abs/2503.05646v1)|[2503.05646v1](http://arxiv.org/pdf/2503.05646v1)|null|
