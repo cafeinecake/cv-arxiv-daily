@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 
 ## Astrophysics
 
@@ -6692,6 +6692,7 @@ layout: default
 |**2025-03-10**|**Queueing, Predictions, and LLMs: Challenges and Open Problems**|Michael Mitzenmacher et.al.|[2503.07545v1](http://arxiv.org/abs/2503.07545v1)|[2503.07545v1](http://arxiv.org/pdf/2503.07545v1)|null|
 |**2025-03-10**|**Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm**|Zhao-Heng Yin et.al.|[2503.07541v1](http://arxiv.org/abs/2503.07541v1)|[2503.07541v1](http://arxiv.org/pdf/2503.07541v1)|null|
 |**2025-03-10**|**AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol**|Maurice Ongala et.al.|[2503.07540v1](http://arxiv.org/abs/2503.07540v1)|[2503.07540v1](http://arxiv.org/pdf/2503.07540v1)|null|
+|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493v1](http://arxiv.org/abs/2503.07493v1)|[2503.07493v1](http://arxiv.org/pdf/2503.07493v1)|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|[2503.07482v1](http://arxiv.org/pdf/2503.07482v1)|null|
 |**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470v1](http://arxiv.org/abs/2503.07470v1)|[2503.07470v1](http://arxiv.org/pdf/2503.07470v1)|null|
 |**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v1](http://arxiv.org/abs/2503.07459v1)|[2503.07459v1](http://arxiv.org/pdf/2503.07459v1)|null|
