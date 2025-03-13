@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-12**|**Hints of Primordial Magnetic Fields at Recombination and Implications for the Hubble Tension**|Karsten Jedamzik et.al.|[2503.09599v1](http://arxiv.org/abs/2503.09599v1)|[2503.09599v1](http://arxiv.org/pdf/2503.09599v1)|null|
+|**2025-03-12**|**Evolution of the Three Spectral Components in the Prompt Emission of GRB 240825A**|Chen-Wei Wang et.al.|[2503.09562v1](http://arxiv.org/abs/2503.09562v1)|[2503.09562v1](http://arxiv.org/pdf/2503.09562v1)|null|
+|**2025-03-12**|**Observation of Fermi acceleration with cold atoms**|G. Barontini et.al.|[2503.09553v1](http://arxiv.org/abs/2503.09553v1)|[2503.09553v1](http://arxiv.org/pdf/2503.09553v1)|null|
+|**2025-03-12**|**Properties of Contracting Massive Protostellar Cores**|L. E. Pirogov et.al.|[2503.09547v1](http://arxiv.org/abs/2503.09547v1)|[2503.09547v1](http://arxiv.org/pdf/2503.09547v1)|null|
+|**2025-03-12**|**Reduced atomic models for large-scale computations: Fe XIII near-infrared lines**|Giulio Del Zanna et.al.|[2503.09540v1](http://arxiv.org/abs/2503.09540v1)|[2503.09540v1](http://arxiv.org/pdf/2503.09540v1)|null|
+|**2025-03-12**|**Prospects for ${\rm kSZ^2}$-${\rm 21cm^2}$ Cross-Correlations during Reionization**|Meng Zhou et.al.|[2503.09462v1](http://arxiv.org/abs/2503.09462v1)|[2503.09462v1](http://arxiv.org/pdf/2503.09462v1)|null|
+|**2025-03-12**|**Investigating the correlation between ZTF TDEs and IceCube high-energy neutrinos**|Ming-Xuan Lu et.al.|[2503.09426v1](http://arxiv.org/abs/2503.09426v1)|[2503.09426v1](http://arxiv.org/pdf/2503.09426v1)|null|
+|**2025-03-12**|**Secondary black hole-induced magnetic reconnection in OJ 287: Implications for X-ray and radio emission**|S. Boula et.al.|[2503.09379v1](http://arxiv.org/abs/2503.09379v1)|[2503.09379v1](http://arxiv.org/pdf/2503.09379v1)|null|
+|**2025-03-12**|**Non-linear Quasi-Normal Modes of the Schwarzschild Black Hole from the Penrose Limit**|Alex Kehagias et.al.|[2503.09350v1](http://arxiv.org/abs/2503.09350v1)|[2503.09350v1](http://arxiv.org/pdf/2503.09350v1)|null|
+|**2025-03-12**|**Exploratory study on the masses of odd-$Z$ nuclei and $r$-process simulation based on the deformed relativistic Hartree-Bogoliubov theory in continuum**|C. Pan et.al.|[2503.09324v1](http://arxiv.org/abs/2503.09324v1)|[2503.09324v1](http://arxiv.org/pdf/2503.09324v1)|null|
 |**2025-03-11**|**JWST Spectroscopic View of a Rapidly Growing Dust-obscured Quasar at $z \sim 4$: Effect of Dust Extinction Correction on Black Hole Mass and Eddington Ratio Estimation**|Dohyeong Kim et.al.|[2503.08687v1](http://arxiv.org/abs/2503.08687v1)|[2503.08687v1](http://arxiv.org/pdf/2503.08687v1)|null|
 |**2025-03-11**|**Gas Perturbations in Hot Smooth Atmospheres X-ray Surface Brightness Fluctuations in Smooth Galaxy Cluster Atmospheres**|Muzi Li et.al.|[2503.08680v1](http://arxiv.org/abs/2503.08680v1)|[2503.08680v1](http://arxiv.org/pdf/2503.08680v1)|null|
 |**2025-03-11**|**Numerical evolutions of the linearised conformal Einstein field equations in the inversion-Minkowski spacetime**|Christian Peterson et.al.|[2503.08672v1](http://arxiv.org/abs/2503.08672v1)|[2503.08672v1](http://arxiv.org/pdf/2503.08672v1)|null|
@@ -6688,6 +6698,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-12**|**How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation**|Ruohao Guo et.al.|[2503.09598v1](http://arxiv.org/abs/2503.09598v1)|[2503.09598v1](http://arxiv.org/pdf/2503.09598v1)|null|
+|**2025-03-12**|**Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**|Andrew Crossman et.al.|[2503.09586v1](http://arxiv.org/abs/2503.09586v1)|[2503.09586v1](http://arxiv.org/pdf/2503.09586v1)|null|
+|**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579v1](http://arxiv.org/abs/2503.09579v1)|[2503.09579v1](http://arxiv.org/pdf/2503.09579v1)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
+|**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573v1](http://arxiv.org/abs/2503.09573v1)|[2503.09573v1](http://arxiv.org/pdf/2503.09573v1)|null|
+|**2025-03-12**|**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**|Qiguang Chen et.al.|[2503.09567v1](http://arxiv.org/abs/2503.09567v1)|[2503.09567v1](http://arxiv.org/pdf/2503.09567v1)|null|
+|**2025-03-12**|**Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $μ$P Parametrization**|Zixiang Chen et.al.|[2503.09565v1](http://arxiv.org/abs/2503.09565v1)|[2503.09565v1](http://arxiv.org/pdf/2503.09565v1)|null|
+|**2025-03-12**|**The Value of Goal Commitment in Planning**|Alberto Pozanco et.al.|[2503.09545v1](http://arxiv.org/abs/2503.09545v1)|[2503.09545v1](http://arxiv.org/pdf/2503.09545v1)|null|
+|**2025-03-12**|**Differentially Private Equilibrium Finding in Polymatrix Games**|Mingyang Liu et.al.|[2503.09538v1](http://arxiv.org/abs/2503.09538v1)|[2503.09538v1](http://arxiv.org/pdf/2503.09538v1)|null|
+|**2025-03-12**|**GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals**|Shuokang Huang et.al.|[2503.09537v1](http://arxiv.org/abs/2503.09537v1)|[2503.09537v1](http://arxiv.org/pdf/2503.09537v1)|null|
+|**2025-03-12**|**Evaluating Visual Explanations of Attention Maps for Transformer-based Medical Imaging**|Minjae Chung et.al.|[2503.09535v1](http://arxiv.org/abs/2503.09535v1)|[2503.09535v1](http://arxiv.org/pdf/2503.09535v1)|null|
 |**2025-03-11**|**Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents**|Haoyu Wang et.al.|[2503.08684v1](http://arxiv.org/abs/2503.08684v1)|[2503.08684v1](http://arxiv.org/pdf/2503.08684v1)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683v1](http://arxiv.org/abs/2503.08683v1)|[2503.08683v1](http://arxiv.org/pdf/2503.08683v1)|null|
 |**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679v1](http://arxiv.org/abs/2503.08679v1)|[2503.08679v1](http://arxiv.org/pdf/2503.08679v1)|null|
