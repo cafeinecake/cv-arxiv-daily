@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-13**|**Searching for strong lensing by late-type galaxies in UNIONS**|J. A. Acevedo Barroso et.al.|[2503.10610v1](http://arxiv.org/abs/2503.10610v1)|[2503.10610v1](http://arxiv.org/pdf/2503.10610v1)|null|
+|**2025-03-13**|**Knot reconstruction of the scalar primordial power spectrum with Planck, ACT, and SPT CMB data**|Antonio Raffaelli et.al.|[2503.10609v1](http://arxiv.org/abs/2503.10609v1)|[2503.10609v1](http://arxiv.org/pdf/2503.10609v1)|null|
+|**2025-03-13**|**The middle-aged pulsar PSR J1741-2054 and its bow-shock nebula in far ultraviolet**|Vadim Abramkin et.al.|[2503.10540v1](http://arxiv.org/abs/2503.10540v1)|[2503.10540v1](http://arxiv.org/pdf/2503.10540v1)|null|
+|**2025-03-13**|**Period-Luminosity Relations for Galactic Type II Cepheids in the Sloan bands**|W. Narloch et.al.|[2503.10532v1](http://arxiv.org/abs/2503.10532v1)|[2503.10532v1](http://arxiv.org/pdf/2503.10532v1)|null|
+|**2025-03-13**|**Energy Reconstruction of Non-fiducial Electron-Positron Events in the DAMPE Experiment Using Convolutional Neural Networks**|Enzo Putti-Garcia et.al.|[2503.10521v1](http://arxiv.org/abs/2503.10521v1)|[2503.10521v1](http://arxiv.org/pdf/2503.10521v1)|null|
+|**2025-03-13**|**Irradiated Pulsar Planets and Companions as 511 keV Positron Annihilation Line Sources**|Zachary Metzler et.al.|[2503.10511v1](http://arxiv.org/abs/2503.10511v1)|[2503.10511v1](http://arxiv.org/pdf/2503.10511v1)|null|
+|**2025-03-13**|**Self-interacting neutrinos in light of recent CMB and LSS data**|Adèle Poudou et.al.|[2503.10485v1](http://arxiv.org/abs/2503.10485v1)|[2503.10485v1](http://arxiv.org/pdf/2503.10485v1)|null|
+|**2025-03-13**|**Ionization memory of plasma emiters in a solar prominence**|E. Wiehr et.al.|[2503.10456v1](http://arxiv.org/abs/2503.10456v1)|[2503.10456v1](http://arxiv.org/pdf/2503.10456v1)|null|
+|**2025-03-13**|**High-Resolution Observations of Pickup Ion Mediated Shocks to 60 au**|Bishwas L. Shrestha et.al.|[2503.10455v1](http://arxiv.org/abs/2503.10455v1)|[2503.10455v1](http://arxiv.org/pdf/2503.10455v1)|null|
+|**2025-03-13**|**Transit Timing Variations of the Sub-Saturn Exoplanet HAT-P-12b**|Kaviya Parthasarathy et.al.|[2503.10441v1](http://arxiv.org/abs/2503.10441v1)|[2503.10441v1](http://arxiv.org/pdf/2503.10441v1)|null|
 |**2025-03-12**|**Hints of Primordial Magnetic Fields at Recombination and Implications for the Hubble Tension**|Karsten Jedamzik et.al.|[2503.09599v1](http://arxiv.org/abs/2503.09599v1)|[2503.09599v1](http://arxiv.org/pdf/2503.09599v1)|null|
 |**2025-03-12**|**Evolution of the Three Spectral Components in the Prompt Emission of GRB 240825A**|Chen-Wei Wang et.al.|[2503.09562v1](http://arxiv.org/abs/2503.09562v1)|[2503.09562v1](http://arxiv.org/pdf/2503.09562v1)|null|
 |**2025-03-12**|**Observation of Fermi acceleration with cold atoms**|G. Barontini et.al.|[2503.09553v1](http://arxiv.org/abs/2503.09553v1)|[2503.09553v1](http://arxiv.org/pdf/2503.09553v1)|null|
@@ -6702,6 +6712,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638v1](http://arxiv.org/abs/2503.10638v1)|[2503.10638v1](http://arxiv.org/pdf/2503.10638v1)|null|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|[2503.10635v1](http://arxiv.org/pdf/2503.10635v1)|null|
+|**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628v1](http://arxiv.org/abs/2503.10628v1)|[2503.10628v1](http://arxiv.org/pdf/2503.10628v1)|null|
+|**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627v1](http://arxiv.org/abs/2503.10627v1)|[2503.10627v1](http://arxiv.org/pdf/2503.10627v1)|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|[2503.10626v1](http://arxiv.org/pdf/2503.10626v1)|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625v1](http://arxiv.org/abs/2503.10625v1)|[2503.10625v1](http://arxiv.org/pdf/2503.10625v1)|null|
+|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624v1](http://arxiv.org/abs/2503.10624v1)|[2503.10624v1](http://arxiv.org/pdf/2503.10624v1)|null|
+|**2025-03-13**|**Transformers without Normalization**|Jiachen Zhu et.al.|[2503.10622v1](http://arxiv.org/abs/2503.10622v1)|[2503.10622v1](http://arxiv.org/pdf/2503.10622v1)|null|
+|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619v1](http://arxiv.org/abs/2503.10619v1)|[2503.10619v1](http://arxiv.org/pdf/2503.10619v1)|null|
+|**2025-03-13**|**Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models**|Andy Zhou et.al.|[2503.10617v1](http://arxiv.org/abs/2503.10617v1)|[2503.10617v1](http://arxiv.org/pdf/2503.10617v1)|null|
 |**2025-03-12**|**How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation**|Ruohao Guo et.al.|[2503.09598v1](http://arxiv.org/abs/2503.09598v1)|[2503.09598v1](http://arxiv.org/pdf/2503.09598v1)|null|
 |**2025-03-12**|**Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**|Andrew Crossman et.al.|[2503.09586v1](http://arxiv.org/abs/2503.09586v1)|[2503.09586v1](http://arxiv.org/pdf/2503.09586v1)|null|
 |**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579v1](http://arxiv.org/abs/2503.09579v1)|[2503.09579v1](http://arxiv.org/pdf/2503.09579v1)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
