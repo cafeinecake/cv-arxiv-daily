@@ -1,4 +1,4 @@
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 
 ## Astrophysics
 
@@ -6702,7 +6702,7 @@
 |**2025-03-12**|**Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**|Andrew Crossman et.al.|[2503.09586v1](http://arxiv.org/abs/2503.09586v1)|[2503.09586v1](http://arxiv.org/pdf/2503.09586v1)|null|
 |**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579v1](http://arxiv.org/abs/2503.09579v1)|[2503.09579v1](http://arxiv.org/pdf/2503.09579v1)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573v1](http://arxiv.org/abs/2503.09573v1)|[2503.09573v1](http://arxiv.org/pdf/2503.09573v1)|null|
-|**2025-03-12**|**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**|Qiguang Chen et.al.|[2503.09567v1](http://arxiv.org/abs/2503.09567v1)|[2503.09567v1](http://arxiv.org/pdf/2503.09567v1)|null|
+|**2025-03-13**|**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**|Qiguang Chen et.al.|[2503.09567v2](http://arxiv.org/abs/2503.09567v2)|[2503.09567v2](http://arxiv.org/pdf/2503.09567v2)|null|
 |**2025-03-12**|**Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $μ$P Parametrization**|Zixiang Chen et.al.|[2503.09565v1](http://arxiv.org/abs/2503.09565v1)|[2503.09565v1](http://arxiv.org/pdf/2503.09565v1)|null|
 |**2025-03-12**|**The Value of Goal Commitment in Planning**|Alberto Pozanco et.al.|[2503.09545v1](http://arxiv.org/abs/2503.09545v1)|[2503.09545v1](http://arxiv.org/pdf/2503.09545v1)|null|
 |**2025-03-12**|**Differentially Private Equilibrium Finding in Polymatrix Games**|Mingyang Liu et.al.|[2503.09538v1](http://arxiv.org/abs/2503.09538v1)|[2503.09538v1](http://arxiv.org/pdf/2503.09538v1)|null|
