@@ -1,4 +1,4 @@
-> Updated on 2025.03.15
+> Updated on 2025.03.16
 
 ## Astrophysics
 
@@ -6710,7 +6710,7 @@
 - 2025-03-13, **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2503.10627v1](http://arxiv.org/abs/2503.10627v1), Paper: [http://arxiv.org/abs/2503.10627v1](http://arxiv.org/pdf/2503.10627v1)
 - 2025-03-13, **NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**, Mert Albaba et.al., Paper: [http://arxiv.org/abs/2503.10626v1](http://arxiv.org/abs/2503.10626v1), Paper: [http://arxiv.org/abs/2503.10626v1](http://arxiv.org/pdf/2503.10626v1)
 - 2025-03-13, **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**, Lingteng Qiu et.al., Paper: [http://arxiv.org/abs/2503.10625v1](http://arxiv.org/abs/2503.10625v1), Paper: [http://arxiv.org/abs/2503.10625v1](http://arxiv.org/pdf/2503.10625v1)
-- 2025-03-13, **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**, Boqian Li et.al., Paper: [http://arxiv.org/abs/2503.10624v1](http://arxiv.org/abs/2503.10624v1), Paper: [http://arxiv.org/abs/2503.10624v1](http://arxiv.org/pdf/2503.10624v1)
+- 2025-03-13, **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**, Boqian Li et.al., Paper: [http://arxiv.org/abs/2503.10624v1](http://arxiv.org/abs/2503.10624v1),Paper: [http://arxiv.org/abs/2503.10624v1](http://arxiv.org/pdf/2503.10624v1), Code: **[https://github.com/boqian-li/ETCH](https://github.com/boqian-li/ETCH)**
 - 2025-03-13, **Transformers without Normalization**, Jiachen Zhu et.al., Paper: [http://arxiv.org/abs/2503.10622v1](http://arxiv.org/abs/2503.10622v1), Paper: [http://arxiv.org/abs/2503.10622v1](http://arxiv.org/pdf/2503.10622v1)
 - 2025-03-13, **Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**, Andy Zhou et.al., Paper: [http://arxiv.org/abs/2503.10619v1](http://arxiv.org/abs/2503.10619v1), Paper: [http://arxiv.org/abs/2503.10619v1](http://arxiv.org/pdf/2503.10619v1)
 - 2025-03-13, **Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models**, Andy Zhou et.al., Paper: [http://arxiv.org/abs/2503.10617v1](http://arxiv.org/abs/2503.10617v1), Paper: [http://arxiv.org/abs/2503.10617v1](http://arxiv.org/pdf/2503.10617v1)
