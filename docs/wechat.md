@@ -1,4 +1,4 @@
-> Updated on 2025.03.16
+> Updated on 2025.03.17
 
 ## Astrophysics
 
@@ -6705,7 +6705,7 @@
 ## AI
 
 - 2025-03-13, **Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2503.10638v1](http://arxiv.org/abs/2503.10638v1), Paper: [http://arxiv.org/abs/2503.10638v1](http://arxiv.org/pdf/2503.10638v1)
-- 2025-03-13, **A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**, Zhaoyi Li et.al., Paper: [http://arxiv.org/abs/2503.10635v1](http://arxiv.org/abs/2503.10635v1), Paper: [http://arxiv.org/abs/2503.10635v1](http://arxiv.org/pdf/2503.10635v1)
+- 2025-03-13, **A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**, Zhaoyi Li et.al., Paper: [http://arxiv.org/abs/2503.10635v1](http://arxiv.org/abs/2503.10635v1),Paper: [http://arxiv.org/abs/2503.10635v1](http://arxiv.org/pdf/2503.10635v1), Code: **[https://github.com/vila-lab/m-attack](https://github.com/vila-lab/m-attack)**
 - 2025-03-13, **Uncertainty in Action: Confidence Elicitation in Embodied Agents**, Tianjiao Yu et.al., Paper: [http://arxiv.org/abs/2503.10628v1](http://arxiv.org/abs/2503.10628v1), Paper: [http://arxiv.org/abs/2503.10628v1](http://arxiv.org/pdf/2503.10628v1)
 - 2025-03-13, **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2503.10627v1](http://arxiv.org/abs/2503.10627v1), Paper: [http://arxiv.org/abs/2503.10627v1](http://arxiv.org/pdf/2503.10627v1)
 - 2025-03-13, **NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**, Mert Albaba et.al., Paper: [http://arxiv.org/abs/2503.10626v1](http://arxiv.org/abs/2503.10626v1), Paper: [http://arxiv.org/abs/2503.10626v1](http://arxiv.org/pdf/2503.10626v1)
