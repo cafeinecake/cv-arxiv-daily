@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@ layout: default
 |**2025-03-19**|**Deep Mantle-Atmosphere Coupling and Carbonaceous Bombardment: Options for Biomolecule Formation on an Oxidized Early Earth**|Klaus Paschek et.al.|[2503.15479v1](http://arxiv.org/abs/2503.15479v1)|[2503.15479v1](http://arxiv.org/pdf/2503.15479v1)|null|
 |**2025-03-19**|**Refractory and Volatile Species in the UV-to-IR Transmission Spectrum of Ultra-hot Jupiter WASP-178b with HST and JWST**|Joshua D. Lothringer et.al.|[2503.15472v1](http://arxiv.org/abs/2503.15472v1)|[2503.15472v1](http://arxiv.org/pdf/2503.15472v1)|null|
 |**2025-03-19**|**No Flavor Anisotropy in the High-Energy Neutrino Sky Upholds Lorentz Invariance**|Bernanda Telalovic et.al.|[2503.15468v1](http://arxiv.org/abs/2503.15468v1)|[2503.15468v1](http://arxiv.org/pdf/2503.15468v1)|null|
-|**2025-03-19**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v1](http://arxiv.org/abs/2503.15467v1)|[2503.15467v1](http://arxiv.org/pdf/2503.15467v1)|null|
+|**2025-03-20**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v2](http://arxiv.org/abs/2503.15467v2)|[2503.15467v2](http://arxiv.org/pdf/2503.15467v2)|null|
 |**2025-03-19**|**Turbulent power: a discriminator between sheaths and CMEs**|Deep Ghuge et.al.|[2503.15430v1](http://arxiv.org/abs/2503.15430v1)|[2503.15430v1](http://arxiv.org/pdf/2503.15430v1)|null|
 |**2025-03-19**|**Spectroscopy of Supernova Remnants and Candidates in M31**|Nelson Caldwell et.al.|[2503.15423v1](http://arxiv.org/abs/2503.15423v1)|[2503.15423v1](http://arxiv.org/pdf/2503.15423v1)|null|
 |**2025-03-19**|**Limits on the Ejecta Mass During the Search for Kilonovae Associated with Neutron Star-Black Hole Mergers: A case study of S230518h, GW230529, S230627c and the Low-Significance Candidate S240422ed**|M. Pillas et.al.|[2503.15422v1](http://arxiv.org/abs/2503.15422v1)|[2503.15422v1](http://arxiv.org/pdf/2503.15422v1)|null|
@@ -6757,7 +6757,7 @@ layout: default
 |**2025-03-19**|**Learning to Play Piano in the Real World**|Yves-Simon Zeulner et.al.|[2503.15481v1](http://arxiv.org/abs/2503.15481v1)|[2503.15481v1](http://arxiv.org/pdf/2503.15481v1)|null|
 |**2025-03-19**|**What Makes a Reward Model a Good Teacher? An Optimization Perspective**|Noam Razin et.al.|[2503.15477v1](http://arxiv.org/abs/2503.15477v1)|[2503.15477v1](http://arxiv.org/pdf/2503.15477v1)|null|
 |**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470v1](http://arxiv.org/abs/2503.15470v1)|[2503.15470v1](http://arxiv.org/pdf/2503.15470v1)|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|[2503.15469v1](http://arxiv.org/pdf/2503.15469v1)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|[2503.15469v2](http://arxiv.org/pdf/2503.15469v2)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463v1](http://arxiv.org/abs/2503.15463v1)|[2503.15463v1](http://arxiv.org/pdf/2503.15463v1)|null|
 |**2025-03-19**|**Di$\mathtt{[M]}$O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457v1](http://arxiv.org/abs/2503.15457v1)|[2503.15457v1](http://arxiv.org/pdf/2503.15457v1)|null|
 |**2025-03-19**|**VenusFactory: A Unified Platform for Protein Engineering Data Retrieval and Language Model Fine-Tuning**|Yang Tan et.al.|[2503.15438v1](http://arxiv.org/abs/2503.15438v1)|[2503.15438v1](http://arxiv.org/pdf/2503.15438v1)|null|
