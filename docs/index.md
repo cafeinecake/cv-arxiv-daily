@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-20**|**Apparent $w<-1$ and a Lower $S_8$ from Dark Axion and Dark Baryons Interactions**|Justin Khoury et.al.|[2503.16415v1](http://arxiv.org/abs/2503.16415v1)|[2503.16415v1](http://arxiv.org/pdf/2503.16415v1)|null|
+|**2025-03-20**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379v1](http://arxiv.org/abs/2503.16379v1)|[2503.16379v1](http://arxiv.org/pdf/2503.16379v1)|null|
+|**2025-03-20**|**Euclid: Early Release Observations -- Interplay between dwarf galaxies and their globular clusters in the Perseus galaxy cluster**|T. Saifollahi et.al.|[2503.16367v1](http://arxiv.org/abs/2503.16367v1)|[2503.16367v1](http://arxiv.org/pdf/2503.16367v1)|null|
+|**2025-03-20**|**DEMNUni: the Sunyaev-Zel'dovich effect in the presence of massive neutrinos and dynamical dark energy**|Davide Luchina et.al.|[2503.16355v1](http://arxiv.org/abs/2503.16355v1)|[2503.16355v1](http://arxiv.org/pdf/2503.16355v1)|null|
+|**2025-03-20**|**On the spatial distribution of luminous blue variables in the M33 galaxy**|A. Kostenkov et.al.|[2503.16349v1](http://arxiv.org/abs/2503.16349v1)|[2503.16349v1](http://arxiv.org/pdf/2503.16349v1)|null|
+|**2025-03-20**|**Protoplanetary cores drove chondrule formation**|Mohamad Ali-Dib et.al.|[2503.16325v1](http://arxiv.org/abs/2503.16325v1)|[2503.16325v1](http://arxiv.org/pdf/2503.16325v1)|null|
+|**2025-03-20**|**Proto-neutron star oscillations including accretion flows**|Dimitra Tseneklidou et.al.|[2503.16317v1](http://arxiv.org/abs/2503.16317v1)|[2503.16317v1](http://arxiv.org/pdf/2503.16317v1)|null|
+|**2025-03-20**|**Localized Heating and Dynamics of the Solar Corona due to a Symbiosis of Waves and Reconnection**|A. K. Srivastava et.al.|[2503.16300v1](http://arxiv.org/abs/2503.16300v1)|[2503.16300v1](http://arxiv.org/pdf/2503.16300v1)|null|
+|**2025-03-20**|**The First Model-Independent Chromatic Microlensing Search: No Evidence in the Gravitational Wave Catalog of LIGO-Virgo-KAGRA**|Aniruddha Chakraborty et.al.|[2503.16281v1](http://arxiv.org/abs/2503.16281v1)|[2503.16281v1](http://arxiv.org/pdf/2503.16281v1)|null|
+|**2025-03-20**|**Neutrino emission and corona heating induced by high-energy proton interactions in Seyfert galaxies**|A. Neronov et.al.|[2503.16273v1](http://arxiv.org/abs/2503.16273v1)|[2503.16273v1](http://arxiv.org/pdf/2503.16273v1)|null|
 |**2025-03-19**|**Deep Mantle-Atmosphere Coupling and Carbonaceous Bombardment: Options for Biomolecule Formation on an Oxidized Early Earth**|Klaus Paschek et.al.|[2503.15479v1](http://arxiv.org/abs/2503.15479v1)|[2503.15479v1](http://arxiv.org/pdf/2503.15479v1)|null|
 |**2025-03-19**|**Refractory and Volatile Species in the UV-to-IR Transmission Spectrum of Ultra-hot Jupiter WASP-178b with HST and JWST**|Joshua D. Lothringer et.al.|[2503.15472v1](http://arxiv.org/abs/2503.15472v1)|[2503.15472v1](http://arxiv.org/pdf/2503.15472v1)|null|
 |**2025-03-19**|**No Flavor Anisotropy in the High-Energy Neutrino Sky Upholds Lorentz Invariance**|Bernanda Telalovic et.al.|[2503.15468v1](http://arxiv.org/abs/2503.15468v1)|[2503.15468v1](http://arxiv.org/pdf/2503.15468v1)|null|
@@ -6752,6 +6762,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|[2503.16426v1](http://arxiv.org/pdf/2503.16426v1)|**[link](https://github.com/KyanChen/DynamicVis)**|
+|**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421v1](http://arxiv.org/abs/2503.16421v1)|[2503.16421v1](http://arxiv.org/pdf/2503.16421v1)|null|
+|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416v1](http://arxiv.org/abs/2503.16416v1)|[2503.16416v1](http://arxiv.org/pdf/2503.16416v1)|null|
+|**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412v1](http://arxiv.org/abs/2503.16412v1)|[2503.16412v1](http://arxiv.org/pdf/2503.16412v1)|null|
+|**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408v1](http://arxiv.org/abs/2503.16408v1)|[2503.16408v1](http://arxiv.org/pdf/2503.16408v1)|null|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402v1](http://arxiv.org/abs/2503.16402v1)|[2503.16402v1](http://arxiv.org/pdf/2503.16402v1)|null|
+|**2025-03-20**|**SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World**|Chen Chen et.al.|[2503.16399v1](http://arxiv.org/abs/2503.16399v1)|[2503.16399v1](http://arxiv.org/pdf/2503.16399v1)|null|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|[2503.16394v1](http://arxiv.org/pdf/2503.16394v1)|null|
+|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392v1](http://arxiv.org/abs/2503.16392v1)|[2503.16392v1](http://arxiv.org/pdf/2503.16392v1)|null|
+|**2025-03-20**|**Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation**|Kristin Qi et.al.|[2503.16389v1](http://arxiv.org/abs/2503.16389v1)|[2503.16389v1](http://arxiv.org/pdf/2503.16389v1)|null|
 |**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485v1](http://arxiv.org/abs/2503.15485v1)|[2503.15485v1](http://arxiv.org/pdf/2503.15485v1)|null|
 |**2025-03-19**|**Value Profiles for Encoding Human Variation**|Taylor Sorensen et.al.|[2503.15484v1](http://arxiv.org/abs/2503.15484v1)|[2503.15484v1](http://arxiv.org/pdf/2503.15484v1)|null|
 |**2025-03-19**|**Learning to Play Piano in the Real World**|Yves-Simon Zeulner et.al.|[2503.15481v1](http://arxiv.org/abs/2503.15481v1)|[2503.15481v1](http://arxiv.org/pdf/2503.15481v1)|null|
