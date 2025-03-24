@@ -1,9 +1,9 @@
-> Updated on 2025.03.23
+> Updated on 2025.03.24
 
 ## Astrophysics
 
 - 2025-03-20, **Apparent $w<-1$ and a Lower $S_8$ from Dark Axion and Dark Baryons Interactions**, Justin Khoury et.al., Paper: [http://arxiv.org/abs/2503.16415v1](http://arxiv.org/abs/2503.16415v1), Paper: [http://arxiv.org/abs/2503.16415v1](http://arxiv.org/pdf/2503.16415v1)
-- 2025-03-20, **The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**, P. S. Corasaniti et.al., Paper: [http://arxiv.org/abs/2503.16379v1](http://arxiv.org/abs/2503.16379v1), Paper: [http://arxiv.org/abs/2503.16379v1](http://arxiv.org/pdf/2503.16379v1)
+- 2025-03-21, **The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**, P. S. Corasaniti et.al., Paper: [http://arxiv.org/abs/2503.16379v2](http://arxiv.org/abs/2503.16379v2), Paper: [http://arxiv.org/abs/2503.16379v2](http://arxiv.org/pdf/2503.16379v2)
 - 2025-03-20, **Euclid: Early Release Observations -- Interplay between dwarf galaxies and their globular clusters in the Perseus galaxy cluster**, T. Saifollahi et.al., Paper: [http://arxiv.org/abs/2503.16367v1](http://arxiv.org/abs/2503.16367v1), Paper: [http://arxiv.org/abs/2503.16367v1](http://arxiv.org/pdf/2503.16367v1)
 - 2025-03-20, **DEMNUni: the Sunyaev-Zel'dovich effect in the presence of massive neutrinos and dynamical dark energy**, Davide Luchina et.al., Paper: [http://arxiv.org/abs/2503.16355v1](http://arxiv.org/abs/2503.16355v1), Paper: [http://arxiv.org/abs/2503.16355v1](http://arxiv.org/pdf/2503.16355v1)
 - 2025-03-20, **On the spatial distribution of luminous blue variables in the M33 galaxy**, A. Kostenkov et.al., Paper: [http://arxiv.org/abs/2503.16349v1](http://arxiv.org/abs/2503.16349v1), Paper: [http://arxiv.org/abs/2503.16349v1](http://arxiv.org/pdf/2503.16349v1)
