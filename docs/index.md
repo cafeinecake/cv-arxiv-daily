@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-21**|**On the road to the radius valley: distinguishing between gas dwarfs and water worlds with young transiting exoplanets**|James G. Rogers et.al.|[2503.17364v1](http://arxiv.org/abs/2503.17364v1)|[2503.17364v1](http://arxiv.org/pdf/2503.17364v1)|null|
+|**2025-03-21**|**Abundances of refractory ions in Beta Pictoris exocomets**|T. Vrignaud et.al.|[2503.17346v1](http://arxiv.org/abs/2503.17346v1)|[2503.17346v1](http://arxiv.org/pdf/2503.17346v1)|null|
+|**2025-03-21**|**The impact of the Galactic bar and the Large Magellanic Cloud on hypervelocity star trajectories**|Isabella Armstrong et.al.|[2503.17344v1](http://arxiv.org/abs/2503.17344v1)|[2503.17344v1](http://arxiv.org/pdf/2503.17344v1)|null|
+|**2025-03-21**|**Comparison of dynamical dark energy with ΛCDM in light of DESI DR2**|A. N. Ormondroyd et.al.|[2503.17342v1](http://arxiv.org/abs/2503.17342v1)|[2503.17342v1](http://arxiv.org/pdf/2503.17342v1)|null|
+|**2025-03-21**|**Structure and kinematics of the interacting group NGC 5098/5096**|G. B. Lima Neto et.al.|[2503.17341v1](http://arxiv.org/abs/2503.17341v1)|[2503.17341v1](http://arxiv.org/pdf/2503.17341v1)|null|
+|**2025-03-21**|**Maximum-likelihood regression with systematic errors for astronomy and the physical sciences: II. Hypothesis testing of nested model components for Poisson data**|M. Bonamente et.al.|[2503.17335v1](http://arxiv.org/abs/2503.17335v1)|[2503.17335v1](http://arxiv.org/pdf/2503.17335v1)|null|
+|**2025-03-21**|**Radio Spectral Energy Distribution of Low-$z$ Metal Poor Extreme Starburst Galaxies: Novel insights on the escape of ionizing photons**|Omkar Bait et.al.|[2503.17327v1](http://arxiv.org/abs/2503.17327v1)|[2503.17327v1](http://arxiv.org/pdf/2503.17327v1)|null|
+|**2025-03-21**|**HST Grism Observations of a z~1.8 Cluster Candidate from the Clusters Occupied by Bent Radio AGN (COBRA) Survey**|Courtney B. Watson et.al.|[2503.17324v1](http://arxiv.org/abs/2503.17324v1)|[2503.17324v1](http://arxiv.org/pdf/2503.17324v1)|null|
+|**2025-03-21**|**Flavor phenomenology of light dark sectors**|Jorge Martin Camalich et.al.|[2503.17323v1](http://arxiv.org/abs/2503.17323v1)|[2503.17323v1](http://arxiv.org/pdf/2503.17323v1)|null|
+|**2025-03-21**|**Early solar wind and dynamo magnetic field topology predictions for (16) Psyche and other asteroids**|Atma Anand et.al.|[2503.17311v1](http://arxiv.org/abs/2503.17311v1)|[2503.17311v1](http://arxiv.org/pdf/2503.17311v1)|null|
 |**2025-03-20**|**Apparent $w<-1$ and a Lower $S_8$ from Dark Axion and Dark Baryons Interactions**|Justin Khoury et.al.|[2503.16415v1](http://arxiv.org/abs/2503.16415v1)|[2503.16415v1](http://arxiv.org/pdf/2503.16415v1)|null|
 |**2025-03-21**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379v2](http://arxiv.org/abs/2503.16379v2)|[2503.16379v2](http://arxiv.org/pdf/2503.16379v2)|null|
 |**2025-03-20**|**Euclid: Early Release Observations -- Interplay between dwarf galaxies and their globular clusters in the Perseus galaxy cluster**|T. Saifollahi et.al.|[2503.16367v1](http://arxiv.org/abs/2503.16367v1)|[2503.16367v1](http://arxiv.org/pdf/2503.16367v1)|null|
@@ -6762,6 +6772,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354v1](http://arxiv.org/abs/2503.17354v1)|[2503.17354v1](http://arxiv.org/pdf/2503.17354v1)|null|
+|**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353v1](http://arxiv.org/abs/2503.17353v1)|[2503.17353v1](http://arxiv.org/pdf/2503.17353v1)|null|
+|**2025-03-21**|**Align Your Rhythm: Generating Highly Aligned Dance Poses with Gating-Enhanced Rhythm-Aware Feature Representation**|Congyi Fan et.al.|[2503.17340v1](http://arxiv.org/abs/2503.17340v1)|[2503.17340v1](http://arxiv.org/pdf/2503.17340v1)|null|
+|**2025-03-21**|**Can AI expose tax loopholes? Towards a new generation of legal policy assistants**|Peter Fratrič et.al.|[2503.17339v1](http://arxiv.org/abs/2503.17339v1)|[2503.17339v1](http://arxiv.org/pdf/2503.17339v1)|null|
+|**2025-03-21**|**Capturing Individual Human Preferences with Reward Features**|André Barreto et.al.|[2503.17338v1](http://arxiv.org/abs/2503.17338v1)|[2503.17338v1](http://arxiv.org/pdf/2503.17338v1)|null|
+|**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336v1](http://arxiv.org/abs/2503.17336v1)|[2503.17336v1](http://arxiv.org/pdf/2503.17336v1)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332v1](http://arxiv.org/abs/2503.17332v1)|[2503.17332v1](http://arxiv.org/pdf/2503.17332v1)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309v1](http://arxiv.org/abs/2503.17309v1)|[2503.17309v1](http://arxiv.org/pdf/2503.17309v1)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302v1](http://arxiv.org/abs/2503.17302v1)|[2503.17302v1](http://arxiv.org/pdf/2503.17302v1)|null|
+|**2025-03-21**|**Preference-Guided Diffusion for Multi-Objective Offline Optimization**|Yashas Annadani et.al.|[2503.17299v1](http://arxiv.org/abs/2503.17299v1)|[2503.17299v1](http://arxiv.org/pdf/2503.17299v1)|null|
 |**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|[2503.16426v1](http://arxiv.org/pdf/2503.16426v1)|**[link](https://github.com/KyanChen/DynamicVis)**|
 |**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421v1](http://arxiv.org/abs/2503.16421v1)|[2503.16421v1](http://arxiv.org/pdf/2503.16421v1)|null|
 |**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416v1](http://arxiv.org/abs/2503.16416v1)|[2503.16416v1](http://arxiv.org/pdf/2503.16416v1)|null|
