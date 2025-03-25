@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-24**|**Multimodality in the search for new physics in pulsar timing data and the case of kination-amplified gravitational-wave background from inflation**|Bohua Li et.al.|[2503.18937v1](http://arxiv.org/abs/2503.18937v1)|[2503.18937v1](http://arxiv.org/pdf/2503.18937v1)|null|
+|**2025-03-24**|**Interpreting Cosmic Birefringence and DESI Data with Evolving Axion in $Λ$CDM**|Shota Nakagawa et.al.|[2503.18924v1](http://arxiv.org/abs/2503.18924v1)|[2503.18924v1](http://arxiv.org/pdf/2503.18924v1)|null|
+|**2025-03-24**|**Role of the $δ$ Meson in the Equation of State an Direct Urca Cooling of Neutron Stars**|Luigi Scurto et.al.|[2503.18889v1](http://arxiv.org/abs/2503.18889v1)|[2503.18889v1](http://arxiv.org/pdf/2503.18889v1)|null|
+|**2025-03-24**|**Systematic bias in dark siren statistical methods and its impact on Hubble constant measurement**|V. Alfradique et.al.|[2503.18887v1](http://arxiv.org/abs/2503.18887v1)|[2503.18887v1](http://arxiv.org/pdf/2503.18887v1)|null|
+|**2025-03-24**|**Further evidence of saturated, boosted, and disrupted magnetic braking from evolutionary tracks of cataclysmic variables**|Joaquín A. Barraza Jorquera et.al.|[2503.18884v1](http://arxiv.org/abs/2503.18884v1)|[2503.18884v1](http://arxiv.org/pdf/2503.18884v1)|null|
+|**2025-03-24**|**Beyond the first galaxies primordial black holes shine**|Antonio Matteri et.al.|[2503.18850v1](http://arxiv.org/abs/2503.18850v1)|[2503.18850v1](http://arxiv.org/pdf/2503.18850v1)|null|
+|**2025-03-24**|**Generalized relativistic second-order dissipative hydrodynamics: coupling different rank tensors**|Arus Harutyunyan et.al.|[2503.18839v1](http://arxiv.org/abs/2503.18839v1)|[2503.18839v1](http://arxiv.org/pdf/2503.18839v1)|null|
+|**2025-03-24**|**A benchmark companion at the hydrogen-burning limit imaged in the core cluster of the Fornax-Horologium association**|Pengyu Liu et.al.|[2503.18838v1](http://arxiv.org/abs/2503.18838v1)|[2503.18838v1](http://arxiv.org/pdf/2503.18838v1)|null|
+|**2025-03-24**|**Warm Inflation with the Standard Model**|Kim V. Berghaus et.al.|[2503.18829v1](http://arxiv.org/abs/2503.18829v1)|[2503.18829v1](http://arxiv.org/pdf/2503.18829v1)|null|
+|**2025-03-24**|**The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope**|Rupali Chandar et.al.|[2503.18791v1](http://arxiv.org/abs/2503.18791v1)|[2503.18791v1](http://arxiv.org/pdf/2503.18791v1)|null|
 |**2025-03-21**|**On the road to the radius valley: distinguishing between gas dwarfs and water worlds with young transiting exoplanets**|James G. Rogers et.al.|[2503.17364v1](http://arxiv.org/abs/2503.17364v1)|[2503.17364v1](http://arxiv.org/pdf/2503.17364v1)|null|
 |**2025-03-21**|**Abundances of refractory ions in Beta Pictoris exocomets**|T. Vrignaud et.al.|[2503.17346v1](http://arxiv.org/abs/2503.17346v1)|[2503.17346v1](http://arxiv.org/pdf/2503.17346v1)|null|
 |**2025-03-21**|**The impact of the Galactic bar and the Large Magellanic Cloud on hypervelocity star trajectories**|Isabella Armstrong et.al.|[2503.17344v1](http://arxiv.org/abs/2503.17344v1)|[2503.17344v1](http://arxiv.org/pdf/2503.17344v1)|null|
@@ -6768,6 +6778,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|[2503.18945v1](http://arxiv.org/pdf/2503.18945v1)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|[2503.18942v1](http://arxiv.org/pdf/2503.18942v1)|null|
+|**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938v1](http://arxiv.org/abs/2503.18938v1)|[2503.18938v1](http://arxiv.org/pdf/2503.18938v1)|null|
+|**2025-03-24**|**A Reliable and Efficient Detection Pipeline for Rodent Ultrasonic Vocalizations**|Sabah Shahnoor Anis et.al.|[2503.18928v1](http://arxiv.org/abs/2503.18928v1)|[2503.18928v1](http://arxiv.org/pdf/2503.18928v1)|null|
+|**2025-03-24**|**Statistical Proof of Execution (SPEX)**|Michele Dallachiesa et.al.|[2503.18899v1](http://arxiv.org/abs/2503.18899v1)|[2503.18899v1](http://arxiv.org/pdf/2503.18899v1)|null|
+|**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892v1](http://arxiv.org/abs/2503.18892v1)|[2503.18892v1](http://arxiv.org/pdf/2503.18892v1)|null|
+|**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891v1](http://arxiv.org/abs/2503.18891v1)|[2503.18891v1](http://arxiv.org/pdf/2503.18891v1)|null|
+|**2025-03-24**|**Bootstrapped Model Predictive Control**|Yuhang Wang et.al.|[2503.18871v1](http://arxiv.org/abs/2503.18871v1)|[2503.18871v1](http://arxiv.org/pdf/2503.18871v1)|null|
+|**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866v1](http://arxiv.org/abs/2503.18866v1)|[2503.18866v1](http://arxiv.org/pdf/2503.18866v1)|null|
+|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865v1](http://arxiv.org/abs/2503.18865v1)|[2503.18865v1](http://arxiv.org/pdf/2503.18865v1)|null|
 |**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354v1](http://arxiv.org/abs/2503.17354v1)|[2503.17354v1](http://arxiv.org/pdf/2503.17354v1)|null|
 |**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353v1](http://arxiv.org/abs/2503.17353v1)|[2503.17353v1](http://arxiv.org/pdf/2503.17353v1)|null|
 |**2025-03-21**|**Align Your Rhythm: Generating Highly Aligned Dance Poses with Gating-Enhanced Rhythm-Aware Feature Representation**|Congyi Fan et.al.|[2503.17340v1](http://arxiv.org/abs/2503.17340v1)|[2503.17340v1](http://arxiv.org/pdf/2503.17340v1)|null|
