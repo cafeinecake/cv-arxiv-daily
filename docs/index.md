@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 
 ## Astrophysics
 
@@ -6782,16 +6782,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|[2503.18945v1](http://arxiv.org/pdf/2503.18945v1)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v2](http://arxiv.org/abs/2503.18945v2)|[2503.18945v2](http://arxiv.org/pdf/2503.18945v2)|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|[2503.18942v1](http://arxiv.org/pdf/2503.18942v1)|null|
 |**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938v1](http://arxiv.org/abs/2503.18938v1)|[2503.18938v1](http://arxiv.org/pdf/2503.18938v1)|null|
 |**2025-03-24**|**A Reliable and Efficient Detection Pipeline for Rodent Ultrasonic Vocalizations**|Sabah Shahnoor Anis et.al.|[2503.18928v1](http://arxiv.org/abs/2503.18928v1)|[2503.18928v1](http://arxiv.org/pdf/2503.18928v1)|null|
 |**2025-03-24**|**Statistical Proof of Execution (SPEX)**|Michele Dallachiesa et.al.|[2503.18899v1](http://arxiv.org/abs/2503.18899v1)|[2503.18899v1](http://arxiv.org/pdf/2503.18899v1)|null|
 |**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892v1](http://arxiv.org/abs/2503.18892v1)|[2503.18892v1](http://arxiv.org/pdf/2503.18892v1)|null|
 |**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891v1](http://arxiv.org/abs/2503.18891v1)|[2503.18891v1](http://arxiv.org/pdf/2503.18891v1)|null|
-|**2025-03-24**|**Bootstrapped Model Predictive Control**|Yuhang Wang et.al.|[2503.18871v1](http://arxiv.org/abs/2503.18871v1)|[2503.18871v1](http://arxiv.org/pdf/2503.18871v1)|null|
+|**2025-03-24**|**Bootstrapped Model Predictive Control**|Yuhang Wang et.al.|[2503.18871v1](http://arxiv.org/abs/2503.18871v1)|[2503.18871v1](http://arxiv.org/pdf/2503.18871v1)|**[link](https://github.com/wertyuilife2/bmpc)**|
 |**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866v1](http://arxiv.org/abs/2503.18866v1)|[2503.18866v1](http://arxiv.org/pdf/2503.18866v1)|null|
-|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865v1](http://arxiv.org/abs/2503.18865v1)|[2503.18865v1](http://arxiv.org/pdf/2503.18865v1)|null|
+|**2025-03-25**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865v2](http://arxiv.org/abs/2503.18865v2)|[2503.18865v2](http://arxiv.org/pdf/2503.18865v2)|null|
 |**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354v1](http://arxiv.org/abs/2503.17354v1)|[2503.17354v1](http://arxiv.org/pdf/2503.17354v1)|null|
 |**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353v1](http://arxiv.org/abs/2503.17353v1)|[2503.17353v1](http://arxiv.org/pdf/2503.17353v1)|null|
 |**2025-03-21**|**Align Your Rhythm: Generating Highly Aligned Dance Poses with Gating-Enhanced Rhythm-Aware Feature Representation**|Congyi Fan et.al.|[2503.17340v1](http://arxiv.org/abs/2503.17340v1)|[2503.17340v1](http://arxiv.org/pdf/2503.17340v1)|null|
