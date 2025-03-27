@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-26**|**Detectability of the chiral gravitational wave background from audible axions with the LISA-Taiji network**|Hong Su et.al.|[2503.20778v1](http://arxiv.org/abs/2503.20778v1)|[2503.20778v1](http://arxiv.org/pdf/2503.20778v1)|null|
+|**2025-03-26**|**Utilizing Stellar Mass Estimates to Identify Gravitational Wave Host Galaxies**|M. Pálfi et.al.|[2503.20777v1](http://arxiv.org/abs/2503.20777v1)|[2503.20777v1](http://arxiv.org/pdf/2503.20777v1)|null|
+|**2025-03-26**|**PUREPath-B: A Tessellated Bayesian Model for Recovering CMB B-modes over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2503.20774v1](http://arxiv.org/abs/2503.20774v1)|[2503.20774v1](http://arxiv.org/pdf/2503.20774v1)|null|
+|**2025-03-26**|**Explaining the UV to X-ray correlation in AGN within the framework of X-ray illumination of accretion discs**|E. Kammoun et.al.|[2503.20770v1](http://arxiv.org/abs/2503.20770v1)|[2503.20770v1](http://arxiv.org/pdf/2503.20770v1)|null|
+|**2025-03-26**|**Freeze-in and Freeze-out production of Higgs Portal Majorana Fermionic Dark Matter during and after Reheating**|Rajesh Mondal et.al.|[2503.20738v1](http://arxiv.org/abs/2503.20738v1)|[2503.20738v1](http://arxiv.org/pdf/2503.20738v1)|null|
+|**2025-03-26**|**Imprints of Stellar Feedback on Magnetic Fields in the Iris Nebula NGC 7023**|Ekta Sharma et.al.|[2503.20721v1](http://arxiv.org/abs/2503.20721v1)|[2503.20721v1](http://arxiv.org/pdf/2503.20721v1)|null|
+|**2025-03-26**|**Immortality through the dark forces: Dark-charge primordial black holes as dark matter candidates**|Jessica Santiago et.al.|[2503.20696v1](http://arxiv.org/abs/2503.20696v1)|[2503.20696v1](http://arxiv.org/pdf/2503.20696v1)|null|
+|**2025-03-26**|**Dissociation and radiative stabilization of the indene cation: The nature of the C-H bond and astrochemical implications**|M. H. Stockett et.al.|[2503.20686v1](http://arxiv.org/abs/2503.20686v1)|[2503.20686v1](http://arxiv.org/pdf/2503.20686v1)|null|
+|**2025-03-26**|**The core software and simulation activities for data analysis at the Pierre Auger Observatory**|Eva Santos et.al.|[2503.20650v1](http://arxiv.org/abs/2503.20650v1)|[2503.20650v1](http://arxiv.org/pdf/2503.20650v1)|null|
+|**2025-03-26**|**The planetary nebula NGC 3132 revisited: high definition 3D photoionization model**|H. Monteiro et.al.|[2503.20640v1](http://arxiv.org/abs/2503.20640v1)|[2503.20640v1](http://arxiv.org/pdf/2503.20640v1)|null|
 |**2025-03-25**|**A New Hope for Obscured AGN: The PRIMA-NewAthena Alliance**|Luigi Barchiesi et.al.|[2503.19915v1](http://arxiv.org/abs/2503.19915v1)|[2503.19915v1](http://arxiv.org/pdf/2503.19915v1)|null|
 |**2025-03-25**|**Characterising M dwarf host stars of two candidate Hycean worlds**|Lalitha Sairam et.al.|[2503.19908v1](http://arxiv.org/abs/2503.19908v1)|[2503.19908v1](http://arxiv.org/pdf/2503.19908v1)|null|
 |**2025-03-25**|**Helmet streamer influence on the evolution of magnetic flux ropes**|M. Cécere et.al.|[2503.19905v1](http://arxiv.org/abs/2503.19905v1)|[2503.19905v1](http://arxiv.org/pdf/2503.19905v1)|null|
@@ -6788,6 +6798,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-03-26**|**Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**|Sondos Mahmoud Bsharat et.al.|[2503.20786v1](http://arxiv.org/abs/2503.20786v1)|[2503.20786v1](http://arxiv.org/pdf/2503.20786v1)|null|
+|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783v1](http://arxiv.org/abs/2503.20783v1)|[2503.20783v1](http://arxiv.org/pdf/2503.20783v1)|null|
+|**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756v1](http://arxiv.org/abs/2503.20756v1)|[2503.20756v1](http://arxiv.org/pdf/2503.20756v1)|null|
+|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v1](http://arxiv.org/abs/2503.20752v1)|[2503.20752v1](http://arxiv.org/pdf/2503.20752v1)|null|
+|**2025-03-26**|**The Role of Computational Modeling in Enhancing Thermal Safety During Cardiac Ablation**|Leila Seidabadi et.al.|[2503.20751v1](http://arxiv.org/abs/2503.20751v1)|[2503.20751v1](http://arxiv.org/pdf/2503.20751v1)|null|
+|**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750v1](http://arxiv.org/abs/2503.20750v1)|[2503.20750v1](http://arxiv.org/pdf/2503.20750v1)|null|
+|**2025-03-26**|**High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching**|Guoqiang Zhang et.al.|[2503.20744v1](http://arxiv.org/abs/2503.20744v1)|[2503.20744v1](http://arxiv.org/pdf/2503.20744v1)|null|
+|**2025-03-26**|**Quantum Neural Network Restatement of Markov Jump Process**|Z. Zarezadeh et.al.|[2503.20742v1](http://arxiv.org/abs/2503.20742v1)|[2503.20742v1](http://arxiv.org/pdf/2503.20742v1)|null|
+|**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739v1](http://arxiv.org/abs/2503.20739v1)|[2503.20739v1](http://arxiv.org/pdf/2503.20739v1)|null|
+|**2025-03-26**|**Semantic Communications via Features Identification**|Federico Francesco Luigi Mariani et.al.|[2503.20720v1](http://arxiv.org/abs/2503.20720v1)|[2503.20720v1](http://arxiv.org/pdf/2503.20720v1)|null|
 |**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900v1](http://arxiv.org/abs/2503.19900v1)|[2503.19900v1](http://arxiv.org/pdf/2503.19900v1)|null|
 |**2025-03-25**|**A proposal for an incident regime that tracks and counters threats to national security posed by AI systems**|Alejandro Ortega et.al.|[2503.19887v1](http://arxiv.org/abs/2503.19887v1)|[2503.19887v1](http://arxiv.org/pdf/2503.19887v1)|null|
 |**2025-03-25**|**Dynamics of Structured Complex-Valued Hopfield Neural Networks**|Rama Murthy Garimella et.al.|[2503.19885v1](http://arxiv.org/abs/2503.19885v1)|[2503.19885v1](http://arxiv.org/pdf/2503.19885v1)|null|
