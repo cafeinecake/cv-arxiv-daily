@@ -1,4 +1,4 @@
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 
 ## Astrophysics
 
@@ -6801,7 +6801,7 @@
 |**2025-03-26**|**Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**|Sondos Mahmoud Bsharat et.al.|[2503.20786v1](http://arxiv.org/abs/2503.20786v1)|[2503.20786v1](http://arxiv.org/pdf/2503.20786v1)|null|
 |**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783v1](http://arxiv.org/abs/2503.20783v1)|[2503.20783v1](http://arxiv.org/pdf/2503.20783v1)|null|
 |**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756v1](http://arxiv.org/abs/2503.20756v1)|[2503.20756v1](http://arxiv.org/pdf/2503.20756v1)|null|
-|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v1](http://arxiv.org/abs/2503.20752v1)|[2503.20752v1](http://arxiv.org/pdf/2503.20752v1)|null|
+|**2025-03-27**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v2](http://arxiv.org/abs/2503.20752v2)|[2503.20752v2](http://arxiv.org/pdf/2503.20752v2)|null|
 |**2025-03-26**|**The Role of Computational Modeling in Enhancing Thermal Safety During Cardiac Ablation**|Leila Seidabadi et.al.|[2503.20751v1](http://arxiv.org/abs/2503.20751v1)|[2503.20751v1](http://arxiv.org/pdf/2503.20751v1)|null|
 |**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750v1](http://arxiv.org/abs/2503.20750v1)|[2503.20750v1](http://arxiv.org/pdf/2503.20750v1)|null|
 |**2025-03-26**|**High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching**|Guoqiang Zhang et.al.|[2503.20744v1](http://arxiv.org/abs/2503.20744v1)|[2503.20744v1](http://arxiv.org/pdf/2503.20744v1)|null|
