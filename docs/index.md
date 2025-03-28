@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-27**|**Large Scale Structure and the Cosmic Web**|Rita Tojeiro et.al.|[2503.21759v1](http://arxiv.org/abs/2503.21759v1)|[2503.21759v1](http://arxiv.org/pdf/2503.21759v1)|null|
+|**2025-03-27**|**Expectation for the MeV Gamma-Ray Emission from Pair-Instability Supernovae**|Ryo Sawada et.al.|[2503.21744v1](http://arxiv.org/abs/2503.21744v1)|[2503.21744v1](http://arxiv.org/pdf/2503.21744v1)|null|
+|**2025-03-27**|**Three-Dimensional Stacking as a Line Intensity Mapping Statistic**|D. A. Dunne et.al.|[2503.21743v1](http://arxiv.org/abs/2503.21743v1)|[2503.21743v1](http://arxiv.org/pdf/2503.21743v1)|null|
+|**2025-03-27**|**Transitioning to Memory Burden: Detectable Small Primordial Black Holes as Dark Matter**|Gia Dvali et.al.|[2503.21740v1](http://arxiv.org/abs/2503.21740v1)|[2503.21740v1](http://arxiv.org/pdf/2503.21740v1)|null|
+|**2025-03-27**|**Galaxy Morphologies at Cosmic Noon with JWST : A Foundation for Exploring Gas Transport with Bars and Spiral Arms**|Juan M. Espejo Salcedo et.al.|[2503.21738v1](http://arxiv.org/abs/2503.21738v1)|[2503.21738v1](http://arxiv.org/pdf/2503.21738v1)|null|
+|**2025-03-27**|**Local Primordial non-Gaussian Bias from Time Evolution**|James M. Sullivan et.al.|[2503.21736v1](http://arxiv.org/abs/2503.21736v1)|[2503.21736v1](http://arxiv.org/pdf/2503.21736v1)|null|
+|**2025-03-27**|**Structure and Melting of Fe, MgO, SiO2, and MgSiO3 in Planets: Database, Inversion, and Phase Diagram**|Junjie Dong et.al.|[2503.21734v1](http://arxiv.org/abs/2503.21734v1)|[2503.21734v1](http://arxiv.org/pdf/2503.21734v1)|null|
+|**2025-03-27**|**Near field imaging of local interference in radio interferometric data: Impact on the redshifted 21-cm power spectrum**|S. Munshi et.al.|[2503.21728v1](http://arxiv.org/abs/2503.21728v1)|[2503.21728v1](http://arxiv.org/pdf/2503.21728v1)|null|
+|**2025-03-27**|**Ram-pressure stripping caught in action in a forming galaxy cluster 3 billion years after the Big Bang**|Ke Xu et.al.|[2503.21724v1](http://arxiv.org/abs/2503.21724v1)|[2503.21724v1](http://arxiv.org/pdf/2503.21724v1)|null|
+|**2025-03-27**|**Dynamics of Star Cluster Formation: The Effects of Ongoing Star Formation and Stellar Feedback**|Jeremy Karam et.al.|[2503.21716v1](http://arxiv.org/abs/2503.21716v1)|[2503.21716v1](http://arxiv.org/pdf/2503.21716v1)|null|
 |**2025-03-26**|**Detectability of the chiral gravitational wave background from audible axions with the LISA-Taiji network**|Hong Su et.al.|[2503.20778v1](http://arxiv.org/abs/2503.20778v1)|[2503.20778v1](http://arxiv.org/pdf/2503.20778v1)|null|
 |**2025-03-26**|**Utilizing Stellar Mass Estimates to Identify Gravitational Wave Host Galaxies**|M. Pálfi et.al.|[2503.20777v1](http://arxiv.org/abs/2503.20777v1)|[2503.20777v1](http://arxiv.org/pdf/2503.20777v1)|null|
 |**2025-03-26**|**PUREPath-B: A Tessellated Bayesian Model for Recovering CMB B-modes over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2503.20774v1](http://arxiv.org/abs/2503.20774v1)|[2503.20774v1](http://arxiv.org/pdf/2503.20774v1)|null|
@@ -6802,6 +6812,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|[2503.21775v1](http://arxiv.org/pdf/2503.21775v1)|null|
+|**2025-03-27**|**Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence**|Haolin Liu et.al.|[2503.21766v1](http://arxiv.org/abs/2503.21766v1)|[2503.21766v1](http://arxiv.org/pdf/2503.21766v1)|null|
+|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|[2503.21761v1](http://arxiv.org/pdf/2503.21761v1)|null|
+|**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757v1](http://arxiv.org/abs/2503.21757v1)|[2503.21757v1](http://arxiv.org/pdf/2503.21757v1)|null|
+|**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747v1](http://arxiv.org/abs/2503.21747v1)|[2503.21747v1](http://arxiv.org/pdf/2503.21747v1)|null|
+|**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735v1](http://arxiv.org/abs/2503.21735v1)|[2503.21735v1](http://arxiv.org/pdf/2503.21735v1)|null|
+|**2025-03-27**|**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**|Zhicheng Lee et.al.|[2503.21729v1](http://arxiv.org/abs/2503.21729v1)|[2503.21729v1](http://arxiv.org/pdf/2503.21729v1)|null|
+|**2025-03-27**|**Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory**|Alessandro Buratto et.al.|[2503.21722v1](http://arxiv.org/abs/2503.21722v1)|[2503.21722v1](http://arxiv.org/pdf/2503.21722v1)|null|
+|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720v1](http://arxiv.org/abs/2503.21720v1)|[2503.21720v1](http://arxiv.org/pdf/2503.21720v1)|null|
+|**2025-03-27**|**Outlier dimensions favor frequent tokens in language model**|Iuri Macocco et.al.|[2503.21718v1](http://arxiv.org/abs/2503.21718v1)|[2503.21718v1](http://arxiv.org/pdf/2503.21718v1)|null|
 |**2025-03-26**|**Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**|Sondos Mahmoud Bsharat et.al.|[2503.20786v1](http://arxiv.org/abs/2503.20786v1)|[2503.20786v1](http://arxiv.org/pdf/2503.20786v1)|null|
 |**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783v1](http://arxiv.org/abs/2503.20783v1)|[2503.20783v1](http://arxiv.org/pdf/2503.20783v1)|null|
 |**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756v1](http://arxiv.org/abs/2503.20756v1)|[2503.20756v1](http://arxiv.org/pdf/2503.20756v1)|null|
