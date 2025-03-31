@@ -1,4 +1,4 @@
-> Updated on 2025.03.30
+> Updated on 2025.03.31
 
 ## Astrophysics
 
@@ -6813,7 +6813,7 @@
 - 2025-03-27, **ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**, Zhicheng Lee et.al., Paper: [http://arxiv.org/abs/2503.21729v1](http://arxiv.org/abs/2503.21729v1), Paper: [http://arxiv.org/abs/2503.21729v1](http://arxiv.org/pdf/2503.21729v1)
 - 2025-03-27, **Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory**, Alessandro Buratto et.al., Paper: [http://arxiv.org/abs/2503.21722v1](http://arxiv.org/abs/2503.21722v1), Paper: [http://arxiv.org/abs/2503.21722v1](http://arxiv.org/pdf/2503.21722v1)
 - 2025-03-27, **Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**, Souradip Chakraborty et.al., Paper: [http://arxiv.org/abs/2503.21720v1](http://arxiv.org/abs/2503.21720v1), Paper: [http://arxiv.org/abs/2503.21720v1](http://arxiv.org/pdf/2503.21720v1)
-- 2025-03-27, **Outlier dimensions favor frequent tokens in language model**, Iuri Macocco et.al., Paper: [http://arxiv.org/abs/2503.21718v1](http://arxiv.org/abs/2503.21718v1), Paper: [http://arxiv.org/abs/2503.21718v1](http://arxiv.org/pdf/2503.21718v1)
+- 2025-03-28, **Outlier dimensions favor frequent tokens in language models**, Iuri Macocco et.al., Paper: [http://arxiv.org/abs/2503.21718v2](http://arxiv.org/abs/2503.21718v2), Paper: [http://arxiv.org/abs/2503.21718v2](http://arxiv.org/pdf/2503.21718v2)
 - 2025-03-26, **Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**, Sondos Mahmoud Bsharat et.al., Paper: [http://arxiv.org/abs/2503.20786v1](http://arxiv.org/abs/2503.20786v1), Paper: [http://arxiv.org/abs/2503.20786v1](http://arxiv.org/pdf/2503.20786v1)
 - 2025-03-26, **Understanding R1-Zero-Like Training: A Critical Perspective**, Zichen Liu et.al., Paper: [http://arxiv.org/abs/2503.20783v1](http://arxiv.org/abs/2503.20783v1), Paper: [http://arxiv.org/abs/2503.20783v1](http://arxiv.org/pdf/2503.20783v1)
 - 2025-03-26, **ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**, Chenxi Wang et.al., Paper: [http://arxiv.org/abs/2503.20756v1](http://arxiv.org/abs/2503.20756v1), Paper: [http://arxiv.org/abs/2503.20756v1](http://arxiv.org/pdf/2503.20756v1)
