@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-28**|**Effect of irradiation model on 2D hydrodynamic simulations of self-gravitating protoplanetary discs**|Caitriona S. Leedham et.al.|[2503.22667v1](http://arxiv.org/abs/2503.22667v1)|[2503.22667v1](http://arxiv.org/pdf/2503.22667v1)|null|
+|**2025-03-28**|**The very high X-ray polarisation of accreting black hole IGRJ17091-3624 in the hard state**|Melissa Ewing et.al.|[2503.22665v1](http://arxiv.org/abs/2503.22665v1)|[2503.22665v1](http://arxiv.org/pdf/2503.22665v1)|null|
+|**2025-03-28**|**dolphin: A fully automated forward modeling pipeline powered by artificial intelligence for galaxy-scale strong lenses**|Anowar J. Shajib et.al.|[2503.22657v1](http://arxiv.org/abs/2503.22657v1)|[2503.22657v1](http://arxiv.org/pdf/2503.22657v1)|**[link](https://github.com/ajshajib/dolphin)**|
+|**2025-03-28**|**On the effects of parameters on galaxy properties in CAMELS and the predictability of $Ω_{\rm m}$**|Gabriella Contardo et.al.|[2503.22654v1](http://arxiv.org/abs/2503.22654v1)|[2503.22654v1](http://arxiv.org/pdf/2503.22654v1)|null|
+|**2025-03-28**|**Diffraction around caustics in gravitational wave lensing**|Jose María Ezquiaga et.al.|[2503.22648v1](http://arxiv.org/abs/2503.22648v1)|[2503.22648v1](http://arxiv.org/pdf/2503.22648v1)|null|
+|**2025-03-28**|**The radiative effects of photochemical hazes on the atmospheric circulation and phase curves of sub-Neptunes**|Maria E. Steinrueck et.al.|[2503.22642v1](http://arxiv.org/abs/2503.22642v1)|[2503.22642v1](http://arxiv.org/pdf/2503.22642v1)|null|
+|**2025-03-28**|**The atmospheric entry of cometary impactors**|Richard J Anslow et.al.|[2503.22632v1](http://arxiv.org/abs/2503.22632v1)|[2503.22632v1](http://arxiv.org/pdf/2503.22632v1)|null|
+|**2025-03-28**|**The BLOBs: Enigmatic Diffuse Ionized Gas Structures in a Cluster of Galaxies near Cosmic Noon**|C. Maier et.al.|[2503.22628v1](http://arxiv.org/abs/2503.22628v1)|[2503.22628v1](http://arxiv.org/pdf/2503.22628v1)|null|
+|**2025-03-28**|**Shadow and gravitational lensing produced by the nonlinear accretion of a scalar field onto a black hole**|J. C. Acevedo-Muñoz et.al.|[2503.22624v1](http://arxiv.org/abs/2503.22624v1)|[2503.22624v1](http://arxiv.org/pdf/2503.22624v1)|null|
+|**2025-03-28**|**Using Machine Learning for Lunar Mineralogy-I: Hyperspectral Imaging of Volcanic Samples**|Fatemeh Fazel Hesar et.al.|[2503.22617v1](http://arxiv.org/abs/2503.22617v1)|[2503.22617v1](http://arxiv.org/pdf/2503.22617v1)|null|
 |**2025-03-27**|**Large Scale Structure and the Cosmic Web**|Rita Tojeiro et.al.|[2503.21759v1](http://arxiv.org/abs/2503.21759v1)|[2503.21759v1](http://arxiv.org/pdf/2503.21759v1)|null|
 |**2025-03-27**|**Expectation for the MeV Gamma-Ray Emission from Pair-Instability Supernovae**|Ryo Sawada et.al.|[2503.21744v1](http://arxiv.org/abs/2503.21744v1)|[2503.21744v1](http://arxiv.org/pdf/2503.21744v1)|null|
 |**2025-03-27**|**Three-Dimensional Stacking as a Line Intensity Mapping Statistic**|D. A. Dunne et.al.|[2503.21743v1](http://arxiv.org/abs/2503.21743v1)|[2503.21743v1](http://arxiv.org/pdf/2503.21743v1)|null|
@@ -6812,6 +6822,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677v1](http://arxiv.org/abs/2503.22677v1)|[2503.22677v1](http://arxiv.org/pdf/2503.22677v1)|null|
+|**2025-03-28**|**Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**|Jiakai Tang et.al.|[2503.22675v1](http://arxiv.org/abs/2503.22675v1)|[2503.22675v1](http://arxiv.org/pdf/2503.22675v1)|null|
+|**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674v1](http://arxiv.org/abs/2503.22674v1)|[2503.22674v1](http://arxiv.org/pdf/2503.22674v1)|null|
+|**2025-03-28**|**ActionStudio: A Lightweight Framework for Data and Training of Action Models**|Jianguo Zhang et.al.|[2503.22673v1](http://arxiv.org/abs/2503.22673v1)|[2503.22673v1](http://arxiv.org/pdf/2503.22673v1)|**[link](https://github.com/SalesforceAIResearch/xLAM)**|
+|**2025-03-28**|**Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers**|Francesca Pezzuti et.al.|[2503.22672v1](http://arxiv.org/abs/2503.22672v1)|[2503.22672v1](http://arxiv.org/pdf/2503.22672v1)|**[link](https://github.com/fpezzuti/multistage-finetuning)**|
+|**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658v1](http://arxiv.org/abs/2503.22658v1)|[2503.22658v1](http://arxiv.org/pdf/2503.22658v1)|null|
+|**2025-03-28**|**dolphin: A fully automated forward modeling pipeline powered by artificial intelligence for galaxy-scale strong lenses**|Anowar J. Shajib et.al.|[2503.22657v1](http://arxiv.org/abs/2503.22657v1)|[2503.22657v1](http://arxiv.org/pdf/2503.22657v1)|**[link](https://github.com/ajshajib/dolphin)**|
+|**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655v1](http://arxiv.org/abs/2503.22655v1)|[2503.22655v1](http://arxiv.org/pdf/2503.22655v1)|**[link](https://github.com/yu-xm/unicorn)**|
+|**2025-03-28**|**Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**|Maxime Faure et.al.|[2503.22647v1](http://arxiv.org/abs/2503.22647v1)|[2503.22647v1](http://arxiv.org/pdf/2503.22647v1)|null|
+|**2025-03-28**|**Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels**|Adam Wei et.al.|[2503.22634v1](http://arxiv.org/abs/2503.22634v1)|[2503.22634v1](http://arxiv.org/pdf/2503.22634v1)|null|
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|[2503.21775v1](http://arxiv.org/pdf/2503.21775v1)|null|
 |**2025-03-27**|**Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence**|Haolin Liu et.al.|[2503.21766v1](http://arxiv.org/abs/2503.21766v1)|[2503.21766v1](http://arxiv.org/pdf/2503.21766v1)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|[2503.21761v1](http://arxiv.org/pdf/2503.21761v1)|null|
