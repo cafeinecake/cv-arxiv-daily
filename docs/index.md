@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-02**|**Individual halo bias in models of $f(R)$ gravity**|Jorge Enrique García-Farieta et.al.|[2504.01958v1](http://arxiv.org/abs/2504.01958v1)|[2504.01958v1](http://arxiv.org/pdf/2504.01958v1)|null|
+|**2025-04-02**|**Interference with Gravitational Instability: Hot and Fuzzy Dark Matter**|Rayne Liu et.al.|[2504.01937v1](http://arxiv.org/abs/2504.01937v1)|[2504.01937v1](http://arxiv.org/pdf/2504.01937v1)|null|
+|**2025-04-02**|**Open cluster age calibration from colour-magnitude morphological indices using Gaia DR3 data**|F. A. Ferreira et.al.|[2504.01912v1](http://arxiv.org/abs/2504.01912v1)|[2504.01912v1](http://arxiv.org/pdf/2504.01912v1)|null|
+|**2025-04-02**|**The Trinity of black hole correspondences: Shadows-quasinormal modes-graybody factors and cautionary remarks**|Davide Pedrotti et.al.|[2504.01909v1](http://arxiv.org/abs/2504.01909v1)|[2504.01909v1](http://arxiv.org/pdf/2504.01909v1)|null|
+|**2025-04-02**|**A minimal Pati-Salam theory: from cosmic defects to gravitational waves and colliders**|Goran Senjanović et.al.|[2504.01893v1](http://arxiv.org/abs/2504.01893v1)|[2504.01893v1](http://arxiv.org/pdf/2504.01893v1)|null|
+|**2025-04-02**|**Synchro-curvature description of γ-ray light curves and spectra of pulsars: concurrent fitting**|Daniel Íñiguez-Pascual et.al.|[2504.01892v1](http://arxiv.org/abs/2504.01892v1)|[2504.01892v1](http://arxiv.org/pdf/2504.01892v1)|null|
+|**2025-04-02**|**Tidal interaction can stop galactic bars: on the LMC non-rotating bar**|Óscar Jiménez-Arranz et.al.|[2504.01870v1](http://arxiv.org/abs/2504.01870v1)|[2504.01870v1](http://arxiv.org/pdf/2504.01870v1)|null|
+|**2025-04-02**|**Investigating the Variable Continuum Lags in PG 2130+099**|Jake A. Miller et.al.|[2504.01858v1](http://arxiv.org/abs/2504.01858v1)|[2504.01858v1](http://arxiv.org/pdf/2504.01858v1)|null|
+|**2025-04-02**|**Deciphering the Nature of Virgil: An Obscured AGN Lurking Within an Apparently Normal Lyman-α Emitter During Cosmic Reionization**|Pierluigi Rinaldi et.al.|[2504.01852v1](http://arxiv.org/abs/2504.01852v1)|[2504.01852v1](http://arxiv.org/pdf/2504.01852v1)|null|
+|**2025-04-02**|**Dust environment of long-period comet C/2023 A3 (Tsuchinshan-ATLAS)**|Fernando Moreno et.al.|[2504.01845v1](http://arxiv.org/abs/2504.01845v1)|[2504.01845v1](http://arxiv.org/pdf/2504.01845v1)|null|
 |**2025-03-31**|**Evolution of structure growth during dark energy domination: insights from the cross-correlation of DESI galaxies with CMB lensing and galaxy magnification**|Noah Sailer et.al.|[2503.24385v1](http://arxiv.org/abs/2503.24385v1)|[2503.24385v1](http://arxiv.org/pdf/2503.24385v1)|null|
 |**2025-04-01**|**High Energy Emission from the Intrabinary Shocks in Redback Pulsars**|Andrew G. Sullivan et.al.|[2503.24384v2](http://arxiv.org/abs/2503.24384v2)|[2503.24384v2](http://arxiv.org/pdf/2503.24384v2)|null|
 |**2025-03-31**|**Exploring light propagation in nonlinear electrodynamics: phase and group velocities and related phenomena**|T. W. Cruz et.al.|[2503.24369v1](http://arxiv.org/abs/2503.24369v1)|[2503.24369v1](http://arxiv.org/pdf/2503.24369v1)|null|
@@ -6832,6 +6842,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-02**|**The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**|Massimiliano Luca et.al.|[2504.01951v1](http://arxiv.org/abs/2504.01951v1)|[2504.01951v1](http://arxiv.org/pdf/2504.01951v1)|null|
+|**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947v1](http://arxiv.org/abs/2504.01947v1)|[2504.01947v1](http://arxiv.org/pdf/2504.01947v1)|null|
+|**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935v1](http://arxiv.org/abs/2504.01935v1)|[2504.01935v1](http://arxiv.org/pdf/2504.01935v1)|null|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|[2504.01930v1](http://arxiv.org/pdf/2504.01930v1)|null|
+|**2025-04-02**|**Equivariant Spherical CNNs for Accurate Fiber Orientation Distribution Estimation in Neonatal Diffusion MRI with Reduced Acquisition Time**|Haykel Snoussi et.al.|[2504.01925v1](http://arxiv.org/abs/2504.01925v1)|[2504.01925v1](http://arxiv.org/pdf/2504.01925v1)|null|
+|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919v1](http://arxiv.org/abs/2504.01919v1)|[2504.01919v1](http://arxiv.org/pdf/2504.01919v1)|null|
+|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916v1](http://arxiv.org/abs/2504.01916v1)|[2504.01916v1](http://arxiv.org/pdf/2504.01916v1)|null|
+|**2025-04-02**|**Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning**|Yinggan Xu et.al.|[2504.01911v1](http://arxiv.org/abs/2504.01911v1)|[2504.01911v1](http://arxiv.org/pdf/2504.01911v1)|null|
+|**2025-04-02**|**Benchmarking Synthetic Tabular Data: A Multi-Dimensional Evaluation Framework**|Andrey Sidorenko et.al.|[2504.01908v1](http://arxiv.org/abs/2504.01908v1)|[2504.01908v1](http://arxiv.org/pdf/2504.01908v1)|**[link](https://github.com/mostly-ai/mostlyai-qa)**|
+|**2025-04-02**|**Accelerating IoV Intrusion Detection: Benchmarking GPU-Accelerated vs CPU-Based ML Libraries**|Furkan Çolhak et.al.|[2504.01905v1](http://arxiv.org/abs/2504.01905v1)|[2504.01905v1](http://arxiv.org/pdf/2504.01905v1)|null|
 |**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388v1](http://arxiv.org/abs/2503.24388v1)|[2503.24388v1](http://arxiv.org/pdf/2503.24388v1)|null|
 |**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381v1](http://arxiv.org/abs/2503.24381v1)|[2503.24381v1](http://arxiv.org/pdf/2503.24381v1)|**[link](https://github.com/tasl-lab/uniocc)**|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379v1](http://arxiv.org/abs/2503.24379v1)|[2503.24379v1](http://arxiv.org/pdf/2503.24379v1)|null|
