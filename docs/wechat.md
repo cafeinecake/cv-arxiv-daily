@@ -1,9 +1,9 @@
-> Updated on 2025.04.02
+> Updated on 2025.04.03
 
 ## Astrophysics
 
 - 2025-03-31, **Evolution of structure growth during dark energy domination: insights from the cross-correlation of DESI galaxies with CMB lensing and galaxy magnification**, Noah Sailer et.al., Paper: [http://arxiv.org/abs/2503.24385v1](http://arxiv.org/abs/2503.24385v1), Paper: [http://arxiv.org/abs/2503.24385v1](http://arxiv.org/pdf/2503.24385v1)
-- 2025-03-31, **High Energy Emission from the Intrabinary Shocks in Redback Pulsars**, Andrew G. Sullivan et.al., Paper: [http://arxiv.org/abs/2503.24384v1](http://arxiv.org/abs/2503.24384v1), Paper: [http://arxiv.org/abs/2503.24384v1](http://arxiv.org/pdf/2503.24384v1)
+- 2025-04-01, **High Energy Emission from the Intrabinary Shocks in Redback Pulsars**, Andrew G. Sullivan et.al., Paper: [http://arxiv.org/abs/2503.24384v2](http://arxiv.org/abs/2503.24384v2), Paper: [http://arxiv.org/abs/2503.24384v2](http://arxiv.org/pdf/2503.24384v2)
 - 2025-03-31, **Exploring light propagation in nonlinear electrodynamics: phase and group velocities and related phenomena**, T. W. Cruz et.al., Paper: [http://arxiv.org/abs/2503.24369v1](http://arxiv.org/abs/2503.24369v1), Paper: [http://arxiv.org/abs/2503.24369v1](http://arxiv.org/pdf/2503.24369v1)
 - 2025-03-31, **Unveiling the Fast Acceleration of AGN-Driven Winds at Kiloparsec Scales**, Cosimo Marconcini et.al., Paper: [http://arxiv.org/abs/2503.24359v1](http://arxiv.org/abs/2503.24359v1), Paper: [http://arxiv.org/abs/2503.24359v1](http://arxiv.org/pdf/2503.24359v1)
 - 2025-03-31, **Modified cosmology though spacetime thermodynamics and generalized mass-to-horizon entropy**, Spyros Basilakos et.al., Paper: [http://arxiv.org/abs/2503.24355v1](http://arxiv.org/abs/2503.24355v1), Paper: [http://arxiv.org/abs/2503.24355v1](http://arxiv.org/pdf/2503.24355v1)
@@ -6832,7 +6832,7 @@
 - 2025-03-31, **Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**, Yi Chen et.al., Paper: [http://arxiv.org/abs/2503.24376v1](http://arxiv.org/abs/2503.24376v1),Paper: [http://arxiv.org/abs/2503.24376v1](http://arxiv.org/pdf/2503.24376v1), Code: **[https://github.com/tencentarc/seed-bench-r1](https://github.com/tencentarc/seed-bench-r1)**
 - 2025-03-31, **Effectively Controlling Reasoning Models through Thinking Intervention**, Tong Wu et.al., Paper: [http://arxiv.org/abs/2503.24370v1](http://arxiv.org/abs/2503.24370v1), Paper: [http://arxiv.org/abs/2503.24370v1](http://arxiv.org/pdf/2503.24370v1)
 - 2025-03-31, **Which LIME should I trust? Concepts, Challenges, and Solutions**, Patrick Knab et.al., Paper: [http://arxiv.org/abs/2503.24365v1](http://arxiv.org/abs/2503.24365v1), Paper: [http://arxiv.org/abs/2503.24365v1](http://arxiv.org/pdf/2503.24365v1)
-- 2025-03-31, **Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**, Abhiram Maddukuri et.al., Paper: [http://arxiv.org/abs/2503.24361v1](http://arxiv.org/abs/2503.24361v1), Paper: [http://arxiv.org/abs/2503.24361v1](http://arxiv.org/pdf/2503.24361v1)
+- 2025-04-02, **Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**, Abhiram Maddukuri et.al., Paper: [http://arxiv.org/abs/2503.24361v2](http://arxiv.org/abs/2503.24361v2), Paper: [http://arxiv.org/abs/2503.24361v2](http://arxiv.org/pdf/2503.24361v2)
 - 2025-03-31, **SQuat: Subspace-orthogonal KV Cache Quantization**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2503.24358v1](http://arxiv.org/abs/2503.24358v1), Paper: [http://arxiv.org/abs/2503.24358v1](http://arxiv.org/pdf/2503.24358v1)
 - 2025-03-28, **DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**, Ruining Li et.al., Paper: [http://arxiv.org/abs/2503.22677v1](http://arxiv.org/abs/2503.22677v1), Paper: [http://arxiv.org/abs/2503.22677v1](http://arxiv.org/pdf/2503.22677v1)
 - 2025-03-28, **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**, Jiakai Tang et.al., Paper: [http://arxiv.org/abs/2503.22675v1](http://arxiv.org/abs/2503.22675v1), Paper: [http://arxiv.org/abs/2503.22675v1](http://arxiv.org/pdf/2503.22675v1)
