@@ -1,4 +1,4 @@
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 
 ## Astrophysics
 
@@ -6843,11 +6843,11 @@
 |**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935v1](http://arxiv.org/abs/2504.01935v1)|[2504.01935v1](http://arxiv.org/pdf/2504.01935v1)|null|
 |**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|[2504.01930v1](http://arxiv.org/pdf/2504.01930v1)|null|
 |**2025-04-02**|**Equivariant Spherical CNNs for Accurate Fiber Orientation Distribution Estimation in Neonatal Diffusion MRI with Reduced Acquisition Time**|Haykel Snoussi et.al.|[2504.01925v1](http://arxiv.org/abs/2504.01925v1)|[2504.01925v1](http://arxiv.org/pdf/2504.01925v1)|null|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919v1](http://arxiv.org/abs/2504.01919v1)|[2504.01919v1](http://arxiv.org/pdf/2504.01919v1)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919v2](http://arxiv.org/abs/2504.01919v2)|[2504.01919v2](http://arxiv.org/pdf/2504.01919v2)|null|
 |**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916v1](http://arxiv.org/abs/2504.01916v1)|[2504.01916v1](http://arxiv.org/pdf/2504.01916v1)|null|
 |**2025-04-02**|**Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning**|Yinggan Xu et.al.|[2504.01911v1](http://arxiv.org/abs/2504.01911v1)|[2504.01911v1](http://arxiv.org/pdf/2504.01911v1)|null|
 |**2025-04-02**|**Benchmarking Synthetic Tabular Data: A Multi-Dimensional Evaluation Framework**|Andrey Sidorenko et.al.|[2504.01908v1](http://arxiv.org/abs/2504.01908v1)|[2504.01908v1](http://arxiv.org/pdf/2504.01908v1)|**[link](https://github.com/mostly-ai/mostlyai-qa)**|
-|**2025-04-02**|**Accelerating IoV Intrusion Detection: Benchmarking GPU-Accelerated vs CPU-Based ML Libraries**|Furkan Çolhak et.al.|[2504.01905v1](http://arxiv.org/abs/2504.01905v1)|[2504.01905v1](http://arxiv.org/pdf/2504.01905v1)|null|
+|**2025-04-03**|**Accelerating IoV Intrusion Detection: Benchmarking GPU-Accelerated vs CPU-Based ML Libraries**|Furkan Çolhak et.al.|[2504.01905v2](http://arxiv.org/abs/2504.01905v2)|[2504.01905v2](http://arxiv.org/pdf/2504.01905v2)|null|
 |**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388v1](http://arxiv.org/abs/2503.24388v1)|[2503.24388v1](http://arxiv.org/pdf/2503.24388v1)|null|
 |**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381v1](http://arxiv.org/abs/2503.24381v1)|[2503.24381v1](http://arxiv.org/pdf/2503.24381v1)|**[link](https://github.com/tasl-lab/uniocc)**|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379v1](http://arxiv.org/abs/2503.24379v1)|[2503.24379v1](http://arxiv.org/pdf/2503.24379v1)|null|
