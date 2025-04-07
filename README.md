@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-04**|**Anisotropy in the carbon monoxide (CO) line emission across the Milky Way's disk**|J. D. Soler et.al.|[2504.03642v1](http://arxiv.org/abs/2504.03642v1)|[2504.03642v1](http://arxiv.org/pdf/2504.03642v1)|null|
+|**2025-04-04**|**The Spectrum of Gravitational Waves from Annihilating Domain Walls**|Alessio Notari et.al.|[2504.03636v1](http://arxiv.org/abs/2504.03636v1)|[2504.03636v1](http://arxiv.org/pdf/2504.03636v1)|null|
+|**2025-04-04**|**The DECam MAGIC Survey: A Wide-field Photometric Metallicity Study of the Sculptor Dwarf Spheroidal Galaxy**|Fabrícia O. Barbosa et.al.|[2504.03593v1](http://arxiv.org/abs/2504.03593v1)|[2504.03593v1](http://arxiv.org/pdf/2504.03593v1)|null|
+|**2025-04-04**|**CHILES IX: Observational and Simulated HI Content and Star Formation of Blue Galaxies in Different Cosmic Web Environments**|Nicholas Luber et.al.|[2504.03585v1](http://arxiv.org/abs/2504.03585v1)|[2504.03585v1](http://arxiv.org/pdf/2504.03585v1)|null|
+|**2025-04-04**|**Characterizing planetary systems with SPIRou: Detection of a sub-Neptune in a 6 day period orbit around the M dwarf Gl 410**|A. Carmona et.al.|[2504.03572v1](http://arxiv.org/abs/2504.03572v1)|[2504.03572v1](http://arxiv.org/pdf/2504.03572v1)|null|
+|**2025-04-04**|**JWSTs PEARLS: NIRCam imaging and NIRISS spectroscopy of a $z=3.6$ star-forming galaxy lensed into a near-Einstein Ring by a $z=1.258$ massive elliptical galaxy**|Nathan J. Adams et.al.|[2504.03571v1](http://arxiv.org/abs/2504.03571v1)|[2504.03571v1](http://arxiv.org/pdf/2504.03571v1)|null|
+|**2025-04-04**|**H, He-like recombination spectra VI: Quadrupole $l$-changing collisions**|E. Deliporanidou et.al.|[2504.03570v1](http://arxiv.org/abs/2504.03570v1)|[2504.03570v1](http://arxiv.org/pdf/2504.03570v1)|null|
+|**2025-04-04**|**The flat tail in the burst energy distribution of FRB 20240114A**|Yu-Xiang Huang et.al.|[2504.03569v1](http://arxiv.org/abs/2504.03569v1)|[2504.03569v1](http://arxiv.org/pdf/2504.03569v1)|null|
+|**2025-04-04**|**Forecasts for interacting dark energy with time-dependent momentum exchange**|Nathan Cruickshank et.al.|[2504.03555v1](http://arxiv.org/abs/2504.03555v1)|[2504.03555v1](http://arxiv.org/pdf/2504.03555v1)|null|
+|**2025-04-04**|**The impact of diffuse Galactic emission on direction-independent gain calibration in high-redshift 21 cm observations**|C. Höfer et.al.|[2504.03554v1](http://arxiv.org/abs/2504.03554v1)|[2504.03554v1](http://arxiv.org/pdf/2504.03554v1)|null|
 |**2025-04-03**|**Bubbles in a box: Eliminating edge nucleation in cold-atom simulators of vacuum decay**|Alexander C. Jenkins et.al.|[2504.02829v1](http://arxiv.org/abs/2504.02829v1)|[2504.02829v1](http://arxiv.org/pdf/2504.02829v1)|null|
 |**2025-04-03**|**From moving groups to star formation in the Solar Neighborhood**|Cameren Swiggum et.al.|[2504.02825v1](http://arxiv.org/abs/2504.02825v1)|[2504.02825v1](http://arxiv.org/pdf/2504.02825v1)|null|
 |**2025-04-03**|**Fractional attractors in light of the latest ACT observations**|Christian Dioguardi et.al.|[2504.02809v1](http://arxiv.org/abs/2504.02809v1)|[2504.02809v1](http://arxiv.org/pdf/2504.02809v1)|null|
@@ -6848,6 +6858,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|[2504.03640v1](http://arxiv.org/pdf/2504.03640v1)|null|
+|**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635v1](http://arxiv.org/abs/2504.03635v1)|[2504.03635v1](http://arxiv.org/pdf/2504.03635v1)|null|
+|**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624v1](http://arxiv.org/abs/2504.03624v1)|[2504.03624v1](http://arxiv.org/pdf/2504.03624v1)|null|
+|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622v1](http://arxiv.org/abs/2504.03622v1)|[2504.03622v1](http://arxiv.org/pdf/2504.03622v1)|null|
+|**2025-04-04**|**Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task**|Leonardo Ranaldi et.al.|[2504.03616v1](http://arxiv.org/abs/2504.03616v1)|[2504.03616v1](http://arxiv.org/pdf/2504.03616v1)|null|
+|**2025-04-04**|**Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution**|Aref Azizpour et.al.|[2504.03615v1](http://arxiv.org/abs/2504.03615v1)|[2504.03615v1](http://arxiv.org/pdf/2504.03615v1)|null|
+|**2025-04-04**|**Towards deployment-centric multimodal AI beyond vision and language**|Xianyuan Liu et.al.|[2504.03603v1](http://arxiv.org/abs/2504.03603v1)|[2504.03603v1](http://arxiv.org/pdf/2504.03603v1)|null|
+|**2025-04-04**|**APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**|Akshara Prabhakar et.al.|[2504.03601v1](http://arxiv.org/abs/2504.03601v1)|[2504.03601v1](http://arxiv.org/pdf/2504.03601v1)|null|
+|**2025-04-04**|**MedSAM2: Segment Anything in 3D Medical Images and Videos**|Jun Ma et.al.|[2504.03600v1](http://arxiv.org/abs/2504.03600v1)|[2504.03600v1](http://arxiv.org/pdf/2504.03600v1)|null|
+|**2025-04-04**|**EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline**|Peter Baile Chen et.al.|[2504.03598v1](http://arxiv.org/abs/2504.03598v1)|[2504.03598v1](http://arxiv.org/pdf/2504.03598v1)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828v1](http://arxiv.org/abs/2504.02828v1)|[2504.02828v1](http://arxiv.org/pdf/2504.02828v1)|null|
 |**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827v1](http://arxiv.org/abs/2504.02827v1)|[2504.02827v1](http://arxiv.org/pdf/2504.02827v1)|null|
 |**2025-04-03**|**Do Two AI Scientists Agree?**|Xinghong Fu et.al.|[2504.02822v1](http://arxiv.org/abs/2504.02822v1)|[2504.02822v1](http://arxiv.org/pdf/2504.02822v1)|null|
