@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-07**|**UK APAP R-matrix electron-impact excitation cross-sections for modelling laboratory and astrophysical plasma**|G. Del Zanna et.al.|[2504.05286v1](http://arxiv.org/abs/2504.05286v1)|[2504.05286v1](http://arxiv.org/pdf/2504.05286v1)|null|
+|**2025-04-07**|**JWST Reveals Spectral Tracers of Recent Surface Modification on Europa**|Richard J. Cartwright et.al.|[2504.05283v1](http://arxiv.org/abs/2504.05283v1)|[2504.05283v1](http://arxiv.org/pdf/2504.05283v1)|null|
+|**2025-04-07**|**Decoding the variability in the star-formation histories of z ~ 0.8 galaxies**|Jenny T. Wan et.al.|[2504.05281v1](http://arxiv.org/abs/2504.05281v1)|[2504.05281v1](http://arxiv.org/pdf/2504.05281v1)|null|
+|**2025-04-07**|**An X-ray and Optical Study of the Dwarf Nova Candidate OGLE-BLG-DN-0064**|A. B. Sibgatullin et.al.|[2504.05263v1](http://arxiv.org/abs/2504.05263v1)|[2504.05263v1](http://arxiv.org/pdf/2504.05263v1)|null|
+|**2025-04-07**|**Behind the Spotlight: A systematic assessment of outshining using NIRCam medium-bands in the JADES Origins Field**|Thomas Harvey et.al.|[2504.05244v1](http://arxiv.org/abs/2504.05244v1)|[2504.05244v1](http://arxiv.org/pdf/2504.05244v1)|null|
+|**2025-04-07**|**IAEmu: Learning Galaxy Intrinsic Alignment Correlations**|Sneh Pandya et.al.|[2504.05235v1](http://arxiv.org/abs/2504.05235v1)|[2504.05235v1](http://arxiv.org/pdf/2504.05235v1)|null|
+|**2025-04-07**|**Formation of Near-surface Atmospheric Inversion and Surface Inversion in Hothouse Climates**|Jiachen Liu et.al.|[2504.05233v1](http://arxiv.org/abs/2504.05233v1)|[2504.05233v1](http://arxiv.org/pdf/2504.05233v1)|null|
+|**2025-04-07**|**Discovery of the 7-ring PAH Cyanocoronene (C$_{24}$H$_{11}$CN) in GOTHAM Observations of TMC-1**|Gabi Wenzel et.al.|[2504.05232v1](http://arxiv.org/abs/2504.05232v1)|[2504.05232v1](http://arxiv.org/pdf/2504.05232v1)|null|
+|**2025-04-07**|**Quasinormal modes and absorption cross-section of a Bardeen black hole surrounded by perfect fluid dark matter in four dimensions**|Angel Rincon et.al.|[2504.05215v1](http://arxiv.org/abs/2504.05215v1)|[2504.05215v1](http://arxiv.org/pdf/2504.05215v1)|null|
+|**2025-04-07**|**CHIME/FRB Outriggers: Design Overview**|The CHIME/FRB Collaboration et.al.|[2504.05192v1](http://arxiv.org/abs/2504.05192v1)|[2504.05192v1](http://arxiv.org/pdf/2504.05192v1)|null|
 |**2025-04-04**|**Anisotropy in the carbon monoxide (CO) line emission across the Milky Way's disk**|J. D. Soler et.al.|[2504.03642v1](http://arxiv.org/abs/2504.03642v1)|[2504.03642v1](http://arxiv.org/pdf/2504.03642v1)|null|
 |**2025-04-04**|**The Spectrum of Gravitational Waves from Annihilating Domain Walls**|Alessio Notari et.al.|[2504.03636v1](http://arxiv.org/abs/2504.03636v1)|[2504.03636v1](http://arxiv.org/pdf/2504.03636v1)|null|
 |**2025-04-04**|**The DECam MAGIC Survey: A Wide-field Photometric Metallicity Study of the Sculptor Dwarf Spheroidal Galaxy**|Fabrícia O. Barbosa et.al.|[2504.03593v1](http://arxiv.org/abs/2504.03593v1)|[2504.03593v1](http://arxiv.org/pdf/2504.03593v1)|null|
@@ -6862,6 +6872,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305v1](http://arxiv.org/abs/2504.05305v1)|[2504.05305v1](http://arxiv.org/pdf/2504.05305v1)|null|
+|**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299v1](http://arxiv.org/abs/2504.05299v1)|[2504.05299v1](http://arxiv.org/pdf/2504.05299v1)|null|
+|**2025-04-07**|**Dion: A Communication-Efficient Optimizer for Large Models**|Kwangjun Ahn et.al.|[2504.05295v1](http://arxiv.org/abs/2504.05295v1)|[2504.05295v1](http://arxiv.org/pdf/2504.05295v1)|null|
+|**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278v1](http://arxiv.org/abs/2504.05278v1)|[2504.05278v1](http://arxiv.org/pdf/2504.05278v1)|null|
+|**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259v1](http://arxiv.org/abs/2504.05259v1)|[2504.05259v1](http://arxiv.org/pdf/2504.05259v1)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258v1](http://arxiv.org/abs/2504.05258v1)|[2504.05258v1](http://arxiv.org/pdf/2504.05258v1)|null|
+|**2025-04-07**|**Adversarial KA**|Sviatoslav Dzhenzher et.al.|[2504.05255v1](http://arxiv.org/abs/2504.05255v1)|[2504.05255v1](http://arxiv.org/pdf/2504.05255v1)|null|
+|**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254v1](http://arxiv.org/abs/2504.05254v1)|[2504.05254v1](http://arxiv.org/pdf/2504.05254v1)|null|
+|**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248v1](http://arxiv.org/abs/2504.05248v1)|[2504.05248v1](http://arxiv.org/pdf/2504.05248v1)|null|
+|**2025-04-07**|**LLM-based Automated Grading with Human-in-the-Loop**|Hang Li et.al.|[2504.05239v1](http://arxiv.org/abs/2504.05239v1)|[2504.05239v1](http://arxiv.org/pdf/2504.05239v1)|null|
 |**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|[2504.03640v1](http://arxiv.org/pdf/2504.03640v1)|null|
 |**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635v1](http://arxiv.org/abs/2504.03635v1)|[2504.03635v1](http://arxiv.org/pdf/2504.03635v1)|null|
 |**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624v1](http://arxiv.org/abs/2504.03624v1)|[2504.03624v1](http://arxiv.org/pdf/2504.03624v1)|null|
