@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266v1](http://arxiv.org/abs/2504.06266v1)|[2504.06266v1](http://arxiv.org/pdf/2504.06266v1)|null|
+|**2025-04-08**|**A systematic method to identify runaways from star clusters produced from single-binary interactions: A case study of M67**|A. Herrera-Urquieta et.al.|[2504.06252v1](http://arxiv.org/abs/2504.06252v1)|[2504.06252v1](http://arxiv.org/pdf/2504.06252v1)|null|
+|**2025-04-08**|**The Resolved Structure of a Low Metallicity Photodissociation Region**|Ilyse Y. Clark et.al.|[2504.06247v1](http://arxiv.org/abs/2504.06247v1)|[2504.06247v1](http://arxiv.org/pdf/2504.06247v1)|null|
+|**2025-04-08**|**Renormalization Group in far-from-equilibrium states**|Vladimir Rosenhaus et.al.|[2504.06243v1](http://arxiv.org/abs/2504.06243v1)|[2504.06243v1](http://arxiv.org/pdf/2504.06243v1)|null|
+|**2025-04-08**|**Observing radio transients with Phased ALMA: Pulses from the Galactic Centre magnetar**|J. Vera-Casanova et.al.|[2504.06234v1](http://arxiv.org/abs/2504.06234v1)|[2504.06234v1](http://arxiv.org/pdf/2504.06234v1)|null|
+|**2025-04-08**|**SOFIA/upGREAT imaging spectroscopy of the [C II] 158 um fine structure line toward the Sgr A region in the Galactic center**|A. I. Harris et.al.|[2504.06228v1](http://arxiv.org/abs/2504.06228v1)|[2504.06228v1](http://arxiv.org/pdf/2504.06228v1)|null|
+|**2025-04-08**|**Nonlinear Tails of Gravitational Waves in Schwarzschild Black Hole Ringdown**|Alex Kehagias et.al.|[2504.06224v1](http://arxiv.org/abs/2504.06224v1)|[2504.06224v1](http://arxiv.org/pdf/2504.06224v1)|null|
+|**2025-04-08**|**Impact of MvdW Equation of State and Neutrino Mass on r and s Process Heavy Element Nucleosynthesis in Spiral, Elliptical and Dwarf Galactic Environments and Kilonovae Events**|Keith Andrew et.al.|[2504.06191v1](http://arxiv.org/abs/2504.06191v1)|[2504.06191v1](http://arxiv.org/pdf/2504.06191v1)|null|
+|**2025-04-08**|**Primordial Features in light of the Effective Field Theory of Large Scale Structure**|Rodrigo Calderon et.al.|[2504.06183v1](http://arxiv.org/abs/2504.06183v1)|[2504.06183v1](http://arxiv.org/pdf/2504.06183v1)|null|
+|**2025-04-08**|**Interface modes in inspiralling neutron stars: A gravitational-wave probe of first-order phase transitions**|A. R. Counsell et.al.|[2504.06181v1](http://arxiv.org/abs/2504.06181v1)|[2504.06181v1](http://arxiv.org/pdf/2504.06181v1)|null|
 |**2025-04-07**|**UK APAP R-matrix electron-impact excitation cross-sections for modelling laboratory and astrophysical plasma**|G. Del Zanna et.al.|[2504.05286v1](http://arxiv.org/abs/2504.05286v1)|[2504.05286v1](http://arxiv.org/pdf/2504.05286v1)|null|
 |**2025-04-07**|**JWST Reveals Spectral Tracers of Recent Surface Modification on Europa**|Richard J. Cartwright et.al.|[2504.05283v1](http://arxiv.org/abs/2504.05283v1)|[2504.05283v1](http://arxiv.org/pdf/2504.05283v1)|null|
 |**2025-04-07**|**Decoding the variability in the star-formation histories of z ~ 0.8 galaxies**|Jenny T. Wan et.al.|[2504.05281v1](http://arxiv.org/abs/2504.05281v1)|[2504.05281v1](http://arxiv.org/pdf/2504.05281v1)|null|
@@ -6868,6 +6878,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265v1](http://arxiv.org/abs/2504.06265v1)|[2504.06265v1](http://arxiv.org/pdf/2504.06265v1)|null|
+|**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260v1](http://arxiv.org/abs/2504.06260v1)|[2504.06260v1](http://arxiv.org/pdf/2504.06260v1)|null|
+|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235v1](http://arxiv.org/abs/2504.06235v1)|[2504.06235v1](http://arxiv.org/pdf/2504.06235v1)|null|
+|**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214v1](http://arxiv.org/abs/2504.06214v1)|[2504.06214v1](http://arxiv.org/pdf/2504.06214v1)|null|
+|**2025-04-08**|**An experimental survey and Perspective View on Meta-Learning for Automated Algorithms Selection and Parametrization**|Moncef Garouani et.al.|[2504.06207v1](http://arxiv.org/abs/2504.06207v1)|[2504.06207v1](http://arxiv.org/pdf/2504.06207v1)|null|
+|**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196v1](http://arxiv.org/abs/2504.06196v1)|[2504.06196v1](http://arxiv.org/pdf/2504.06196v1)|null|
+|**2025-04-08**|**Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction**|Zongyue Qin et.al.|[2504.06193v1](http://arxiv.org/abs/2504.06193v1)|[2504.06193v1](http://arxiv.org/pdf/2504.06193v1)|null|
+|**2025-04-08**|**SkillFlow: Efficient Skill and Code Transfer Through Communication in Adapting AI Agents**|Pagkratios Tagkopoulos et.al.|[2504.06188v1](http://arxiv.org/abs/2504.06188v1)|[2504.06188v1](http://arxiv.org/pdf/2504.06188v1)|null|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|[2504.06185v1](http://arxiv.org/pdf/2504.06185v1)|null|
+|**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176v1](http://arxiv.org/abs/2504.06176v1)|[2504.06176v1](http://arxiv.org/pdf/2504.06176v1)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305v1](http://arxiv.org/abs/2504.05305v1)|[2504.05305v1](http://arxiv.org/pdf/2504.05305v1)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299v1](http://arxiv.org/abs/2504.05299v1)|[2504.05299v1](http://arxiv.org/pdf/2504.05299v1)|null|
 |**2025-04-07**|**Dion: A Communication-Efficient Optimizer for Large Models**|Kwangjun Ahn et.al.|[2504.05295v1](http://arxiv.org/abs/2504.05295v1)|[2504.05295v1](http://arxiv.org/pdf/2504.05295v1)|null|
