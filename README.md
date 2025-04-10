@@ -1,4 +1,4 @@
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 
 ## Astrophysics
 
@@ -8,7 +8,7 @@
 |**2025-04-08**|**A systematic method to identify runaways from star clusters produced from single-binary interactions: A case study of M67**|A. Herrera-Urquieta et.al.|[2504.06252v1](http://arxiv.org/abs/2504.06252v1)|[2504.06252v1](http://arxiv.org/pdf/2504.06252v1)|null|
 |**2025-04-08**|**The Resolved Structure of a Low Metallicity Photodissociation Region**|Ilyse Y. Clark et.al.|[2504.06247v1](http://arxiv.org/abs/2504.06247v1)|[2504.06247v1](http://arxiv.org/pdf/2504.06247v1)|null|
 |**2025-04-08**|**Renormalization Group in far-from-equilibrium states**|Vladimir Rosenhaus et.al.|[2504.06243v1](http://arxiv.org/abs/2504.06243v1)|[2504.06243v1](http://arxiv.org/pdf/2504.06243v1)|null|
-|**2025-04-08**|**Observing radio transients with Phased ALMA: Pulses from the Galactic Centre magnetar**|J. Vera-Casanova et.al.|[2504.06234v1](http://arxiv.org/abs/2504.06234v1)|[2504.06234v1](http://arxiv.org/pdf/2504.06234v1)|null|
+|**2025-04-09**|**Observing radio transients with Phased ALMA: Pulses from the Galactic Centre magnetar**|J. Vera-Casanova et.al.|[2504.06234v2](http://arxiv.org/abs/2504.06234v2)|[2504.06234v2](http://arxiv.org/pdf/2504.06234v2)|null|
 |**2025-04-08**|**SOFIA/upGREAT imaging spectroscopy of the [C II] 158 um fine structure line toward the Sgr A region in the Galactic center**|A. I. Harris et.al.|[2504.06228v1](http://arxiv.org/abs/2504.06228v1)|[2504.06228v1](http://arxiv.org/pdf/2504.06228v1)|null|
 |**2025-04-08**|**Nonlinear Tails of Gravitational Waves in Schwarzschild Black Hole Ringdown**|Alex Kehagias et.al.|[2504.06224v1](http://arxiv.org/abs/2504.06224v1)|[2504.06224v1](http://arxiv.org/pdf/2504.06224v1)|null|
 |**2025-04-08**|**Impact of MvdW Equation of State and Neutrino Mass on r and s Process Heavy Element Nucleosynthesis in Spiral, Elliptical and Dwarf Galactic Environments and Kilonovae Events**|Keith Andrew et.al.|[2504.06191v1](http://arxiv.org/abs/2504.06191v1)|[2504.06191v1](http://arxiv.org/pdf/2504.06191v1)|null|
