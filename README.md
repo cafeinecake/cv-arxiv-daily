@@ -1,4 +1,4 @@
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 
 ## Astrophysics
 
@@ -6907,7 +6907,7 @@
 |**2025-04-10**|**SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning**|Rui Pan et.al.|[2504.07891v1](http://arxiv.org/abs/2504.07891v1)|[2504.07891v1](http://arxiv.org/pdf/2504.07891v1)|**[link](https://github.com/ruipeterpan/specreason)**|
 |**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887v1](http://arxiv.org/abs/2504.07887v1)|[2504.07887v1](http://arxiv.org/pdf/2504.07887v1)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-10**|**Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis**|Fei-Hsuan Yu et.al.|[2504.07872v1](http://arxiv.org/abs/2504.07872v1)|[2504.07872v1](http://arxiv.org/pdf/2504.07872v1)|null|
-|**2025-04-10**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866v1](http://arxiv.org/abs/2504.07866v1)|[2504.07866v1](http://arxiv.org/pdf/2504.07866v1)|null|
+|**2025-04-11**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866v2](http://arxiv.org/abs/2504.07866v2)|[2504.07866v2](http://arxiv.org/pdf/2504.07866v2)|null|
 |**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097v1](http://arxiv.org/abs/2504.07097v1)|[2504.07097v1](http://arxiv.org/pdf/2504.07097v1)|null|
 |**2025-04-09**|**Are We Done with Object-Centric Learning?**|Alexander Rubinstein et.al.|[2504.07092v1](http://arxiv.org/abs/2504.07092v1)|[2504.07092v1](http://arxiv.org/pdf/2504.07092v1)|null|
 |**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Cassidy Laidlaw et.al.|[2504.07091v1](http://arxiv.org/abs/2504.07091v1)|[2504.07091v1](http://arxiv.org/pdf/2504.07091v1)|null|
