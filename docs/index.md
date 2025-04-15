@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-14**|**Independent connection in ACTion during inflation**|Alberto Salvio et.al.|[2504.10488v1](http://arxiv.org/abs/2504.10488v1)|[2504.10488v1](http://arxiv.org/pdf/2504.10488v1)|null|
+|**2025-04-14**|**Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey**|Alessandro Pedrotti et.al.|[2504.10482v1](http://arxiv.org/abs/2504.10482v1)|[2504.10482v1](http://arxiv.org/pdf/2504.10482v1)|null|
+|**2025-04-14**|**Vector induced Gravitational Waves sourced by Primordial Magnetic Fields**|Arko Bhaumik et.al.|[2504.10477v1](http://arxiv.org/abs/2504.10477v1)|[2504.10477v1](http://arxiv.org/pdf/2504.10477v1)|null|
+|**2025-04-14**|**False and genuine decoherence in the early universe: a local observer and time-averaged observables**|Fumiya Sano et.al.|[2504.10472v1](http://arxiv.org/abs/2504.10472v1)|[2504.10472v1](http://arxiv.org/pdf/2504.10472v1)|null|
+|**2025-04-14**|**Implications of distance duality violation for the $H_0$ tension and evolving dark energy**|Elsa M. Teixeira et.al.|[2504.10464v1](http://arxiv.org/abs/2504.10464v1)|[2504.10464v1](http://arxiv.org/pdf/2504.10464v1)|null|
+|**2025-04-14**|**Holographic Entanglement Entropy in the FLRW Universe**|Toshifumi Noumi et.al.|[2504.10457v1](http://arxiv.org/abs/2504.10457v1)|[2504.10457v1](http://arxiv.org/pdf/2504.10457v1)|null|
+|**2025-04-14**|**Anchors no more: Using peculiar velocities to constrain $H_0$ and the primordial Universe without calibrators**|Davide Piras et.al.|[2504.10453v1](http://arxiv.org/abs/2504.10453v1)|[2504.10453v1](http://arxiv.org/pdf/2504.10453v1)|null|
+|**2025-04-14**|**Enhancing DESI DR1 Full-Shape analyses using HOD-informed priors**|Hanyu Zhang et.al.|[2504.10407v1](http://arxiv.org/abs/2504.10407v1)|[2504.10407v1](http://arxiv.org/pdf/2504.10407v1)|null|
+|**2025-04-14**|**Can spacetime torsion source an extremely red-tilted cosmological GW background?**|Arko Bhaumik et.al.|[2504.10402v1](http://arxiv.org/abs/2504.10402v1)|[2504.10402v1](http://arxiv.org/pdf/2504.10402v1)|null|
+|**2025-04-14**|**How well can we unravel the accreted constituents of the Milky Way stellar halo? A test on cosmological hydrodynamical simulations**|Guillaume F. Thomas et.al.|[2504.10398v1](http://arxiv.org/abs/2504.10398v1)|[2504.10398v1](http://arxiv.org/pdf/2504.10398v1)|null|
 |**2025-04-11**|**ExoMolHR: A Relational Database of Empirical High-Resolution Molecular Spectra**|Jingxin Zhang et.al.|[2504.08731v1](http://arxiv.org/abs/2504.08731v1)|[2504.08731v1](http://arxiv.org/pdf/2504.08731v1)|null|
 |**2025-04-11**|**Don't torque like that. Measuring compact object magnetic fields with analytic torque models**|J. J. R. Stierhof et.al.|[2504.08700v1](http://arxiv.org/abs/2504.08700v1)|[2504.08700v1](http://arxiv.org/pdf/2504.08700v1)|null|
 |**2025-04-11**|**Constraints on diffuse X-ray Emission from the TeV halo Candidate HESS J1813-126**|David Guevel et.al.|[2504.08689v1](http://arxiv.org/abs/2504.08689v1)|[2504.08689v1](http://arxiv.org/pdf/2504.08689v1)|null|
@@ -6912,6 +6922,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478v1](http://arxiv.org/abs/2504.10478v1)|[2504.10478v1](http://arxiv.org/pdf/2504.10478v1)|null|
+|**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445v1](http://arxiv.org/abs/2504.10445v1)|[2504.10445v1](http://arxiv.org/pdf/2504.10445v1)|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443v1](http://arxiv.org/abs/2504.10443v1)|[2504.10443v1](http://arxiv.org/pdf/2504.10443v1)|null|
+|**2025-04-14**|**LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models**|Minqian Liu et.al.|[2504.10430v1](http://arxiv.org/abs/2504.10430v1)|[2504.10430v1](http://arxiv.org/pdf/2504.10430v1)|null|
+|**2025-04-14**|**Can We Edit LLMs for Long-Tail Biomedical Knowledge?**|Xinhao Yi et.al.|[2504.10421v1](http://arxiv.org/abs/2504.10421v1)|[2504.10421v1](http://arxiv.org/pdf/2504.10421v1)|null|
+|**2025-04-14**|**LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**|Parshin Shojaee et.al.|[2504.10415v1](http://arxiv.org/abs/2504.10415v1)|[2504.10415v1](http://arxiv.org/pdf/2504.10415v1)|**[link](https://github.com/deep-symbolic-mathematics/llm-srbench)**|
+|**2025-04-14**|**AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability**|Gopichand Bandarupalli et.al.|[2504.10412v1](http://arxiv.org/abs/2504.10412v1)|[2504.10412v1](http://arxiv.org/pdf/2504.10412v1)|null|
+|**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405v1](http://arxiv.org/abs/2504.10405v1)|[2504.10405v1](http://arxiv.org/pdf/2504.10405v1)|null|
+|**2025-04-14**|**Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks**|Yan zhu et.al.|[2504.10403v1](http://arxiv.org/abs/2504.10403v1)|[2504.10403v1](http://arxiv.org/pdf/2504.10403v1)|null|
+|**2025-04-14**|**How well can we unravel the accreted constituents of the Milky Way stellar halo? A test on cosmological hydrodynamical simulations**|Guillaume F. Thomas et.al.|[2504.10398v1](http://arxiv.org/abs/2504.10398v1)|[2504.10398v1](http://arxiv.org/pdf/2504.10398v1)|null|
 |**2025-04-11**|**Towards an Understanding of Context Utilization in Code Intelligence**|Yanlin Wang et.al.|[2504.08734v1](http://arxiv.org/abs/2504.08734v1)|[2504.08734v1](http://arxiv.org/pdf/2504.08734v1)|null|
 |**2025-04-11**|**Steering CLIP's vision transformer with sparse autoencoders**|Sonia Joseph et.al.|[2504.08729v1](http://arxiv.org/abs/2504.08729v1)|[2504.08729v1](http://arxiv.org/pdf/2504.08729v1)|null|
 |**2025-04-11**|**Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**|Boyang Deng et.al.|[2504.08727v1](http://arxiv.org/abs/2504.08727v1)|[2504.08727v1](http://arxiv.org/pdf/2504.08727v1)|null|
