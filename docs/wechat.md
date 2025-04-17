@@ -1,8 +1,8 @@
-> Updated on 2025.04.16
+> Updated on 2025.04.17
 
 ## Astrophysics
 
-- 2025-04-15, **Pixel-level modelling of group-scale strong lens CASSOWARY 19**, Hengkai Ding et.al., Paper: [http://arxiv.org/abs/2504.11445v1](http://arxiv.org/abs/2504.11445v1), Paper: [http://arxiv.org/abs/2504.11445v1](http://arxiv.org/pdf/2504.11445v1)
+- 2025-04-16, **Pixel-level modelling of group-scale strong lens CASSOWARY 19**, Hengkai Ding et.al., Paper: [http://arxiv.org/abs/2504.11445v2](http://arxiv.org/abs/2504.11445v2), Paper: [http://arxiv.org/abs/2504.11445v2](http://arxiv.org/pdf/2504.11445v2)
 - 2025-04-15, **MINDS: The very low-mass star and brown dwarf sample -- Hidden water in carbon-dominated protoplanetary disks**, Aditya M. Arabhavi et.al., Paper: [http://arxiv.org/abs/2504.11425v1](http://arxiv.org/abs/2504.11425v1), Paper: [http://arxiv.org/abs/2504.11425v1](http://arxiv.org/pdf/2504.11425v1)
 - 2025-04-15, **MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons**, Giulia Perotti et.al., Paper: [http://arxiv.org/abs/2504.11424v1](http://arxiv.org/abs/2504.11424v1), Paper: [http://arxiv.org/abs/2504.11424v1](http://arxiv.org/pdf/2504.11424v1)
 - 2025-04-15, **A magnetar powers the luminous supernova 2023pel, associated with a long gamma-ray burst**, L. M. Roman Aguilar et.al., Paper: [http://arxiv.org/abs/2504.11414v1](http://arxiv.org/abs/2504.11414v1), Paper: [http://arxiv.org/abs/2504.11414v1](http://arxiv.org/pdf/2504.11414v1)
@@ -6925,7 +6925,7 @@
 ## AI
 
 - 2025-04-15, **DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**, Zhiwei He et.al., Paper: [http://arxiv.org/abs/2504.11456v1](http://arxiv.org/abs/2504.11456v1), Paper: [http://arxiv.org/abs/2504.11456v1](http://arxiv.org/pdf/2504.11456v1)
-- 2025-04-15, **Elucidating the Design Space of Multimodal Protein Language Models**, Cheng-Yen et.al., Paper: [http://arxiv.org/abs/2504.11454v1](http://arxiv.org/abs/2504.11454v1), Paper: [http://arxiv.org/abs/2504.11454v1](http://arxiv.org/pdf/2504.11454v1)
+- 2025-04-16, **Elucidating the Design Space of Multimodal Protein Language Models**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2504.11454v2](http://arxiv.org/abs/2504.11454v2), Paper: [http://arxiv.org/abs/2504.11454v2](http://arxiv.org/pdf/2504.11454v2)
 - 2025-04-15, **A Clean Slate for Offline Reinforcement Learning**, Matthew Thomas Jackson et.al., Paper: [http://arxiv.org/abs/2504.11453v1](http://arxiv.org/abs/2504.11453v1), Paper: [http://arxiv.org/abs/2504.11453v1](http://arxiv.org/pdf/2504.11453v1)
 - 2025-04-15, **TextArena**, Leon Guertler et.al., Paper: [http://arxiv.org/abs/2504.11442v1](http://arxiv.org/abs/2504.11442v1), Paper: [http://arxiv.org/abs/2504.11442v1](http://arxiv.org/pdf/2504.11442v1)
 - 2025-04-15, **Greedy Restart Schedules: A Baseline for Dynamic Algorithm Selection on Numerical Black-box Optimization Problems**, Lennart Schäpermeier et.al., Paper: [http://arxiv.org/abs/2504.11440v1](http://arxiv.org/abs/2504.11440v1), Paper: [http://arxiv.org/abs/2504.11440v1](http://arxiv.org/pdf/2504.11440v1)
