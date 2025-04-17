@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-16**|**How Accidental was Inflation?**|Ignatios Antoniadis et.al.|[2504.12283v1](http://arxiv.org/abs/2504.12283v1)|[2504.12283v1](http://arxiv.org/pdf/2504.12283v1)|null|
+|**2025-04-16**|**New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI**|Nikku Madhusudhan et.al.|[2504.12267v1](http://arxiv.org/abs/2504.12267v1)|[2504.12267v1](http://arxiv.org/pdf/2504.12267v1)|null|
+|**2025-04-16**|**QSHS: An Axion Dark Matter Resonant Search Apparatus**|A. Alsulami et.al.|[2504.12257v1](http://arxiv.org/abs/2504.12257v1)|[2504.12257v1](http://arxiv.org/pdf/2504.12257v1)|null|
+|**2025-04-16**|**Sound waves from primordial black hole formations**|Zhuan Ning et.al.|[2504.12243v1](http://arxiv.org/abs/2504.12243v1)|[2504.12243v1](http://arxiv.org/pdf/2504.12243v1)|null|
+|**2025-04-16**|**The Late-time Afterglow of GW170817 and Implications for Jet Dynamics**|Aman Katira et.al.|[2504.12241v1](http://arxiv.org/abs/2504.12241v1)|[2504.12241v1](http://arxiv.org/pdf/2504.12241v1)|null|
+|**2025-04-16**|**The Discovery of Two Quadruple Star Systems with the Second and Third Shortest Outer Periods**|Brian P. Powell et.al.|[2504.12239v1](http://arxiv.org/abs/2504.12239v1)|[2504.12239v1](http://arxiv.org/pdf/2504.12239v1)|null|
+|**2025-04-16**|**Suppression of composition g-modes in chemically-equilibrating warm neutron stars**|Tianqi Zhao et.al.|[2504.12230v1](http://arxiv.org/abs/2504.12230v1)|[2504.12230v1](http://arxiv.org/pdf/2504.12230v1)|null|
+|**2025-04-16**|**Narrowband Imaging of a z=3.24 Protocluster: Insights from [O III] Emitting Galaxies**|Ke Shi et.al.|[2504.12225v1](http://arxiv.org/abs/2504.12225v1)|[2504.12225v1](http://arxiv.org/pdf/2504.12225v1)|null|
+|**2025-04-16**|**Exploring GRBs and supernovae connection: does a superluminous hypernova population exist?**|Achille Fiore et.al.|[2504.12224v1](http://arxiv.org/abs/2504.12224v1)|[2504.12224v1](http://arxiv.org/pdf/2504.12224v1)|null|
+|**2025-04-16**|**Magnetically driven outflows in 3D common-envelope evolution of massive stars**|Marco Vetter et.al.|[2504.12213v1](http://arxiv.org/abs/2504.12213v1)|[2504.12213v1](http://arxiv.org/pdf/2504.12213v1)|null|
 |**2025-04-16**|**Pixel-level modelling of group-scale strong lens CASSOWARY 19**|Hengkai Ding et.al.|[2504.11445v2](http://arxiv.org/abs/2504.11445v2)|[2504.11445v2](http://arxiv.org/pdf/2504.11445v2)|null|
 |**2025-04-15**|**MINDS: The very low-mass star and brown dwarf sample -- Hidden water in carbon-dominated protoplanetary disks**|Aditya M. Arabhavi et.al.|[2504.11425v1](http://arxiv.org/abs/2504.11425v1)|[2504.11425v1](http://arxiv.org/pdf/2504.11425v1)|null|
 |**2025-04-15**|**MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons**|Giulia Perotti et.al.|[2504.11424v1](http://arxiv.org/abs/2504.11424v1)|[2504.11424v1](http://arxiv.org/pdf/2504.11424v1)|null|
@@ -6932,6 +6942,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299v1](http://arxiv.org/abs/2504.12299v1)|[2504.12299v1](http://arxiv.org/pdf/2504.12299v1)|null|
+|**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|[2504.12292v1](http://arxiv.org/pdf/2504.12292v1)|null|
+|**2025-04-16**|**How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions**|Aditya Prakash et.al.|[2504.12284v1](http://arxiv.org/abs/2504.12284v1)|[2504.12284v1](http://arxiv.org/pdf/2504.12284v1)|null|
+|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268v1](http://arxiv.org/abs/2504.12268v1)|[2504.12268v1](http://arxiv.org/pdf/2504.12268v1)|null|
+|**2025-04-16**|**SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields**|David Keetae Park et.al.|[2504.12262v1](http://arxiv.org/abs/2504.12262v1)|[2504.12262v1](http://arxiv.org/pdf/2504.12262v1)|null|
+|**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256v1](http://arxiv.org/abs/2504.12256v1)|[2504.12256v1](http://arxiv.org/pdf/2504.12256v1)|null|
+|**2025-04-16**|**Advancing Arabic Speech Recognition Through Large-Scale Weakly Supervised Learning**|Mahmoud Salhab et.al.|[2504.12254v1](http://arxiv.org/abs/2504.12254v1)|[2504.12254v1](http://arxiv.org/pdf/2504.12254v1)|null|
+|**2025-04-16**|**AnomalyGen: An Automated Semantic Log Sequence Generation Framework with LLM for Anomaly Detection**|Xinyu Li et.al.|[2504.12250v1](http://arxiv.org/abs/2504.12250v1)|[2504.12250v1](http://arxiv.org/pdf/2504.12250v1)|null|
+|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249v1](http://arxiv.org/abs/2504.12249v1)|[2504.12249v1](http://arxiv.org/pdf/2504.12249v1)|null|
+|**2025-04-16**|**Uncertainty-Guided Coarse-to-Fine Tumor Segmentation with Anatomy-Aware Post-Processing**|Ilkin Sevgi Isler et.al.|[2504.12215v1](http://arxiv.org/abs/2504.12215v1)|[2504.12215v1](http://arxiv.org/pdf/2504.12215v1)|null|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456v1](http://arxiv.org/abs/2504.11456v1)|[2504.11456v1](http://arxiv.org/pdf/2504.11456v1)|null|
 |**2025-04-16**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen Hsieh et.al.|[2504.11454v2](http://arxiv.org/abs/2504.11454v2)|[2504.11454v2](http://arxiv.org/pdf/2504.11454v2)|null|
 |**2025-04-15**|**A Clean Slate for Offline Reinforcement Learning**|Matthew Thomas Jackson et.al.|[2504.11453v1](http://arxiv.org/abs/2504.11453v1)|[2504.11453v1](http://arxiv.org/pdf/2504.11453v1)|null|
