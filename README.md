@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-17**|**Discovery and Dynamics of the Nontransiting Planet Kepler-139f**|Caleb Lammers et.al.|[2504.13160v1](http://arxiv.org/abs/2504.13160v1)|[2504.13160v1](http://arxiv.org/pdf/2504.13160v1)|null|
+|**2025-04-17**|**Gravitational wave anisotropies from axion inflation**|Sofia P. Corbà et.al.|[2504.13156v1](http://arxiv.org/abs/2504.13156v1)|[2504.13156v1](http://arxiv.org/pdf/2504.13156v1)|null|
+|**2025-04-17**|**Constraints on Anisotropic Cosmic Birefringence from CMB B-mode Polarization**|A. I. Lonappan et.al.|[2504.13154v1](http://arxiv.org/abs/2504.13154v1)|[2504.13154v1](http://arxiv.org/pdf/2504.13154v1)|null|
+|**2025-04-17**|**Purely gravitational dark matter production in warm inflation**|Qing-Yang Wang et.al.|[2504.13147v1](http://arxiv.org/abs/2504.13147v1)|[2504.13147v1](http://arxiv.org/pdf/2504.13147v1)|null|
+|**2025-04-17**|**Freezing of the renormalized one-loop primordial scalar power spectrum**|Matteo Braglia et.al.|[2504.13136v1](http://arxiv.org/abs/2504.13136v1)|[2504.13136v1](http://arxiv.org/pdf/2504.13136v1)|null|
+|**2025-04-17**|**Cosmological Parameters Estimate from Persistent Radio Sources of Fast Radio Bursts**|Zi-Liang Zhang et.al.|[2504.13132v1](http://arxiv.org/abs/2504.13132v1)|[2504.13132v1](http://arxiv.org/pdf/2504.13132v1)|null|
+|**2025-04-17**|**General Analytic Solutions for Circumplanetary Disks during the Late Stages of Giant Planet Formation**|Fred C. Adams et.al.|[2504.13130v1](http://arxiv.org/abs/2504.13130v1)|[2504.13130v1](http://arxiv.org/pdf/2504.13130v1)|null|
+|**2025-04-17**|**CEERS: Forging the First Dust Grains in the Universe? A Population of Galaxies with spectroscopically-derived Extremely Low Dust Attenuation (GELDA) at 4.0<z<11.4**|Denis Burgarella et.al.|[2504.13118v1](http://arxiv.org/abs/2504.13118v1)|[2504.13118v1](http://arxiv.org/pdf/2504.13118v1)|null|
+|**2025-04-17**|**Polarization Properties of the Electromagnetic Response to High-frequency Gravitational Wave**|Jian-Kang Li et.al.|[2504.13115v1](http://arxiv.org/abs/2504.13115v1)|[2504.13115v1](http://arxiv.org/pdf/2504.13115v1)|null|
+|**2025-04-17**|**The RESOLVE and ECO G3 Initiative: Drivers of HI Content and X-ray Emission in Galaxy Groups**|Zackary L. Hutchens et.al.|[2504.13103v1](http://arxiv.org/abs/2504.13103v1)|[2504.13103v1](http://arxiv.org/pdf/2504.13103v1)|null|
 |**2025-04-16**|**How Accidental was Inflation?**|Ignatios Antoniadis et.al.|[2504.12283v1](http://arxiv.org/abs/2504.12283v1)|[2504.12283v1](http://arxiv.org/pdf/2504.12283v1)|null|
 |**2025-04-16**|**New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI**|Nikku Madhusudhan et.al.|[2504.12267v1](http://arxiv.org/abs/2504.12267v1)|[2504.12267v1](http://arxiv.org/pdf/2504.12267v1)|null|
 |**2025-04-16**|**QSHS: An Axion Dark Matter Resonant Search Apparatus**|A. Alsulami et.al.|[2504.12257v1](http://arxiv.org/abs/2504.12257v1)|[2504.12257v1](http://arxiv.org/pdf/2504.12257v1)|null|
@@ -6938,6 +6948,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|[2504.13180v1](http://arxiv.org/pdf/2504.13180v1)|null|
+|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|[2504.13173v1](http://arxiv.org/pdf/2504.13173v1)|null|
+|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|[2504.13171v1](http://arxiv.org/pdf/2504.13171v1)|null|
+|**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Anya Zorin et.al.|[2504.13165v1](http://arxiv.org/abs/2504.13165v1)|[2504.13165v1](http://arxiv.org/pdf/2504.13165v1)|null|
+|**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151v1](http://arxiv.org/abs/2504.13151v1)|[2504.13151v1](http://arxiv.org/pdf/2504.13151v1)|null|
+|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|[2504.13150v1](http://arxiv.org/pdf/2504.13150v1)|null|
+|**2025-04-17**|**Antidistillation Sampling**|Yash Savani et.al.|[2504.13146v1](http://arxiv.org/abs/2504.13146v1)|[2504.13146v1](http://arxiv.org/pdf/2504.13146v1)|null|
+|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145v1](http://arxiv.org/abs/2504.13145v1)|[2504.13145v1](http://arxiv.org/pdf/2504.13145v1)|null|
+|**2025-04-17**|**$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143v1](http://arxiv.org/abs/2504.13143v1)|[2504.13143v1](http://arxiv.org/pdf/2504.13143v1)|null|
+|**2025-04-17**|**Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**|João Loula et.al.|[2504.13139v1](http://arxiv.org/abs/2504.13139v1)|[2504.13139v1](http://arxiv.org/pdf/2504.13139v1)|null|
 |**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299v1](http://arxiv.org/abs/2504.12299v1)|[2504.12299v1](http://arxiv.org/pdf/2504.12299v1)|null|
 |**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|[2504.12292v1](http://arxiv.org/pdf/2504.12292v1)|null|
 |**2025-04-16**|**How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions**|Aditya Prakash et.al.|[2504.12284v1](http://arxiv.org/abs/2504.12284v1)|[2504.12284v1](http://arxiv.org/pdf/2504.12284v1)|null|
