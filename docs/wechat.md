@@ -1,4 +1,4 @@
-> Updated on 2025.04.19
+> Updated on 2025.04.20
 
 ## Astrophysics
 
@@ -6946,7 +6946,7 @@
 
 - 2025-04-17, **PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**, Jang Hyun Cho et.al., Paper: [http://arxiv.org/abs/2504.13180v1](http://arxiv.org/abs/2504.13180v1), Paper: [http://arxiv.org/abs/2504.13180v1](http://arxiv.org/pdf/2504.13180v1)
 - 2025-04-17, **It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**, Ali Behrouz et.al., Paper: [http://arxiv.org/abs/2504.13173v1](http://arxiv.org/abs/2504.13173v1), Paper: [http://arxiv.org/abs/2504.13173v1](http://arxiv.org/pdf/2504.13173v1)
-- 2025-04-17, **Sleep-time Compute: Beyond Inference Scaling at Test-time**, Kevin Lin et.al., Paper: [http://arxiv.org/abs/2504.13171v1](http://arxiv.org/abs/2504.13171v1), Paper: [http://arxiv.org/abs/2504.13171v1](http://arxiv.org/pdf/2504.13171v1)
+- 2025-04-17, **Sleep-time Compute: Beyond Inference Scaling at Test-time**, Kevin Lin et.al., Paper: [http://arxiv.org/abs/2504.13171v1](http://arxiv.org/abs/2504.13171v1),Paper: [http://arxiv.org/abs/2504.13171v1](http://arxiv.org/pdf/2504.13171v1), Code: **[https://github.com/letta-ai/sleep-time-compute](https://github.com/letta-ai/sleep-time-compute)**
 - 2025-04-17, **RUKA: Rethinking the Design of Humanoid Hands with Learning**, Anya Zorin et.al., Paper: [http://arxiv.org/abs/2504.13165v1](http://arxiv.org/abs/2504.13165v1), Paper: [http://arxiv.org/abs/2504.13165v1](http://arxiv.org/pdf/2504.13165v1)
 - 2025-04-17, **MIB: A Mechanistic Interpretability Benchmark**, Aaron Mueller et.al., Paper: [http://arxiv.org/abs/2504.13151v1](http://arxiv.org/abs/2504.13151v1), Paper: [http://arxiv.org/abs/2504.13151v1](http://arxiv.org/pdf/2504.13151v1)
 - 2025-04-17, **Readable Twins of Unreadable Models**, Krzysztof Pancerz et.al., Paper: [http://arxiv.org/abs/2504.13150v1](http://arxiv.org/abs/2504.13150v1), Paper: [http://arxiv.org/abs/2504.13150v1](http://arxiv.org/pdf/2504.13150v1)
