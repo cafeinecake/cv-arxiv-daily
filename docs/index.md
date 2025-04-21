@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-18**|**Disentangling the Effects of Temperature, Clouds, and Gravity on K I doublet in L dwarfs**|Alexandra J. Baldelli et.al.|[2504.13810v1](http://arxiv.org/abs/2504.13810v1)|[2504.13810v1](http://arxiv.org/pdf/2504.13810v1)|null|
+|**2025-04-18**|**The impact of new ($α$, n) reaction rates on the weak s-process in metal-poor massive stars**|Wenyu Xin et.al.|[2504.13766v1](http://arxiv.org/abs/2504.13766v1)|[2504.13766v1](http://arxiv.org/pdf/2504.13766v1)|null|
+|**2025-04-18**|**Molecular Clouds at the Edge of the Galaxy I. Variation of CO J=2-1/1-0 Line Ratio**|C. S. Luo et.al.|[2504.13732v1](http://arxiv.org/abs/2504.13732v1)|[2504.13732v1](http://arxiv.org/pdf/2504.13732v1)|null|
+|**2025-04-18**|**Bubble wall dynamics from nonequilibrium quantum field theory**|Wen-Yuan Ai et.al.|[2504.13725v1](http://arxiv.org/abs/2504.13725v1)|[2504.13725v1](http://arxiv.org/pdf/2504.13725v1)|null|
+|**2025-04-18**|**Deriving the Energy Function of Non-repeaters from CHIME/FRB Baseband Data**|Wenqi Ma et.al.|[2504.13705v1](http://arxiv.org/abs/2504.13705v1)|[2504.13705v1](http://arxiv.org/pdf/2504.13705v1)|null|
+|**2025-04-18**|**Laboratory rotational spectra of cyanocyclohexane and its siblings (1- and 4-cyanocyclohexene) using a compact CP-FTMW spectrometer for interstellar detection**|Gabi Wenzel et.al.|[2504.13686v1](http://arxiv.org/abs/2504.13686v1)|[2504.13686v1](http://arxiv.org/pdf/2504.13686v1)|null|
+|**2025-04-18**|**Detecting Intermediate-mass Black Holes Using Quasar Microlensing**|Zihao Wu et.al.|[2504.13680v1](http://arxiv.org/abs/2504.13680v1)|[2504.13680v1](http://arxiv.org/pdf/2504.13680v1)|null|
+|**2025-04-18**|**MIRI-JWST mid-infrared direct imaging of the debris disk of HD106906**|Daniel Rouan et.al.|[2504.13679v1](http://arxiv.org/abs/2504.13679v1)|[2504.13679v1](http://arxiv.org/pdf/2504.13679v1)|null|
+|**2025-04-18**|**Clump-fed black hole growth in the first billion years of the universe**|Manish Kataria et.al.|[2504.13664v1](http://arxiv.org/abs/2504.13664v1)|[2504.13664v1](http://arxiv.org/pdf/2504.13664v1)|null|
+|**2025-04-18**|**SRGAJ230631.0+155633: an extremely X-ray luminous, heavily obscured, radio-loud quasar at z=0.44 discovered by SRG/ART-XC**|Grigory Uskov et.al.|[2504.13658v1](http://arxiv.org/abs/2504.13658v1)|[2504.13658v1](http://arxiv.org/pdf/2504.13658v1)|null|
 |**2025-04-17**|**Discovery and Dynamics of the Nontransiting Planet Kepler-139f**|Caleb Lammers et.al.|[2504.13160v1](http://arxiv.org/abs/2504.13160v1)|[2504.13160v1](http://arxiv.org/pdf/2504.13160v1)|null|
 |**2025-04-17**|**Gravitational wave anisotropies from axion inflation**|Sofia P. Corbà et.al.|[2504.13156v1](http://arxiv.org/abs/2504.13156v1)|[2504.13156v1](http://arxiv.org/pdf/2504.13156v1)|null|
 |**2025-04-17**|**Constraints on Anisotropic Cosmic Birefringence from CMB B-mode Polarization**|A. I. Lonappan et.al.|[2504.13154v1](http://arxiv.org/abs/2504.13154v1)|[2504.13154v1](http://arxiv.org/pdf/2504.13154v1)|null|
@@ -6952,6 +6962,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837v1](http://arxiv.org/abs/2504.13837v1)|[2504.13837v1](http://arxiv.org/pdf/2504.13837v1)|null|
+|**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835v1](http://arxiv.org/abs/2504.13835v1)|[2504.13835v1](http://arxiv.org/pdf/2504.13835v1)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828v1](http://arxiv.org/abs/2504.13828v1)|[2504.13828v1](http://arxiv.org/pdf/2504.13828v1)|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825v1](http://arxiv.org/abs/2504.13825v1)|[2504.13825v1](http://arxiv.org/pdf/2504.13825v1)|null|
+|**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822v1](http://arxiv.org/abs/2504.13822v1)|[2504.13822v1](http://arxiv.org/pdf/2504.13822v1)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818v1](http://arxiv.org/abs/2504.13818v1)|[2504.13818v1](http://arxiv.org/pdf/2504.13818v1)|null|
+|**2025-04-18**|**Near-optimal algorithms for private estimation and sequential testing of collision probability**|Robert Busa-Fekete et.al.|[2504.13804v1](http://arxiv.org/abs/2504.13804v1)|[2504.13804v1](http://arxiv.org/pdf/2504.13804v1)|null|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803v1](http://arxiv.org/abs/2504.13803v1)|[2504.13803v1](http://arxiv.org/pdf/2504.13803v1)|null|
+|**2025-04-18**|**Meta-Learning and Knowledge Discovery based Physics-Informed Neural Network for Remaining Useful Life Prediction**|Yu Wang et.al.|[2504.13797v1](http://arxiv.org/abs/2504.13797v1)|[2504.13797v1](http://arxiv.org/pdf/2504.13797v1)|null|
+|**2025-04-18**|**Lattice Quantum Geometry Controlling 118 K Multigap Superconductivity in Heavily Overdoped CuBa2Ca3Cu4O10+d**|Gaetano Campi et.al.|[2504.13796v1](http://arxiv.org/abs/2504.13796v1)|[2504.13796v1](http://arxiv.org/pdf/2504.13796v1)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|[2504.13180v1](http://arxiv.org/pdf/2504.13180v1)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|[2504.13173v1](http://arxiv.org/pdf/2504.13173v1)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|[2504.13171v1](http://arxiv.org/pdf/2504.13171v1)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
