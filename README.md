@@ -1,4 +1,4 @@
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 |**2025-04-21**|**Superheavy dark matter from the natural inflation in light of the highest-energy astroparticle events**|Kohta Murase et.al.|[2504.15272v1](http://arxiv.org/abs/2504.15272v1)|[2504.15272v1](http://arxiv.org/pdf/2504.15272v1)|null|
 |**2025-04-21**|**Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields**|Brandon Zhao et.al.|[2504.15262v1](http://arxiv.org/abs/2504.15262v1)|[2504.15262v1](http://arxiv.org/pdf/2504.15262v1)|null|
 |**2025-04-21**|**Population Models for Star Formation Timescales in Early Galaxies: The First Step Towards Solving Outshining in Star Formation History Inference**|Bingjie Wang et.al.|[2504.15255v1](http://arxiv.org/abs/2504.15255v1)|[2504.15255v1](http://arxiv.org/pdf/2504.15255v1)|null|
-|**2025-04-21**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v1](http://arxiv.org/abs/2504.15248v1)|[2504.15248v1](http://arxiv.org/pdf/2504.15248v1)|null|
+|**2025-04-22**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v2](http://arxiv.org/abs/2504.15248v2)|[2504.15248v2](http://arxiv.org/pdf/2504.15248v2)|null|
 |**2025-04-21**|**Coronal Gas in Magellanic-Analog Dwarfs: Insights from the \textsc{HESTIA} Simulations**|Robin Chisholm et.al.|[2504.15237v1](http://arxiv.org/abs/2504.15237v1)|[2504.15237v1](http://arxiv.org/pdf/2504.15237v1)|null|
 |**2025-04-21**|**Did DESI DR2 truly reveal dynamical dark energy?**|Deng Wang et.al.|[2504.15222v1](http://arxiv.org/abs/2504.15222v1)|[2504.15222v1](http://arxiv.org/pdf/2504.15222v1)|null|
 |**2025-04-21**|**Non-minimal coupling in light of ACT**|Qing Gao et.al.|[2504.15218v1](http://arxiv.org/abs/2504.15218v1)|[2504.15218v1](http://arxiv.org/pdf/2504.15218v1)|null|
