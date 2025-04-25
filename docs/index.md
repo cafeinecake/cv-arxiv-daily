@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-24**|**Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates**|Qihang Chen et.al.|[2504.17777v1](http://arxiv.org/abs/2504.17777v1)|[2504.17777v1](http://arxiv.org/pdf/2504.17777v1)|null|
+|**2025-04-24**|**Dynamic atmosphere and wind models of C-type asymptotic giant branch stars. Influences of dust optical data on mass loss and observables**|Emelie Siderud et.al.|[2504.17767v1](http://arxiv.org/abs/2504.17767v1)|[2504.17767v1](http://arxiv.org/pdf/2504.17767v1)|null|
+|**2025-04-24**|**Introducing STARDIS: An Open and Modular Stellar Spectral Synthesis Code**|Joshua V. Shields et.al.|[2504.17762v1](http://arxiv.org/abs/2504.17762v1)|[2504.17762v1](http://arxiv.org/pdf/2504.17762v1)|null|
+|**2025-04-24**|**WI2easy: warm inflation dynamics made easy**|Gabriel S. Rodrigues et.al.|[2504.17760v1](http://arxiv.org/abs/2504.17760v1)|[2504.17760v1](http://arxiv.org/pdf/2504.17760v1)|null|
+|**2025-04-24**|**Pure Chromo-Natural Inflation: Signatures of Particle Production from Weak to Strong Backreaction**|Ema Dimastrogiovanni et.al.|[2504.17750v1](http://arxiv.org/abs/2504.17750v1)|[2504.17750v1](http://arxiv.org/pdf/2504.17750v1)|null|
+|**2025-04-24**|**Flux tube clustering from magnetic coupling of adjacent type-I and -II superconductors in a neutron star: persistent gravitational radiation**|K. H. Thong et.al.|[2504.17746v1](http://arxiv.org/abs/2504.17746v1)|[2504.17746v1](http://arxiv.org/pdf/2504.17746v1)|null|
+|**2025-04-24**|**Nearby open clusters with tidal features: golden sample selection and 3D structure**|Ming Xu et.al.|[2504.17744v1](http://arxiv.org/abs/2504.17744v1)|[2504.17744v1](http://arxiv.org/pdf/2504.17744v1)|null|
+|**2025-04-24**|**Multi-messenger standard-siren cosmology for third-generation gravitational-wave detectors: Considering observations of gamma-ray bursts and kilonovae**|Tao Han et.al.|[2504.17741v1](http://arxiv.org/abs/2504.17741v1)|[2504.17741v1](http://arxiv.org/pdf/2504.17741v1)|null|
+|**2025-04-24**|**Asteroseismology of blue stragglers in $ω$ Centauri: the case of five double-mode radial SX Phoenicis pulsators**|J. Daszyńska-Daszkiewicz et.al.|[2504.17738v1](http://arxiv.org/abs/2504.17738v1)|[2504.17738v1](http://arxiv.org/pdf/2504.17738v1)|null|
+|**2025-04-24**|**The Hubble Image Similarity Project**|Richard L. White et.al.|[2504.17688v1](http://arxiv.org/abs/2504.17688v1)|[2504.17688v1](http://arxiv.org/pdf/2504.17688v1)|null|
 |**2025-04-23**|**Dispu$τ$able: the high cost of a low optical depth**|Noah Sailer et.al.|[2504.16932v1](http://arxiv.org/abs/2504.16932v1)|[2504.16932v1](http://arxiv.org/pdf/2504.16932v1)|null|
 |**2025-04-23**|**Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**|Feliphe S. Ferreira et.al.|[2504.16927v1](http://arxiv.org/abs/2504.16927v1)|[2504.16927v1](http://arxiv.org/pdf/2504.16927v1)|null|
 |**2025-04-23**|**Meteor CNEOS 2014-01-08 has nothing to do with Planet 9**|Sigurd Naess et.al.|[2504.16926v1](http://arxiv.org/abs/2504.16926v1)|[2504.16926v1](http://arxiv.org/pdf/2504.16926v1)|null|
@@ -6992,6 +7002,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-24**|**Unleashing the Power of Natural Audio Featuring Multiple Sound Sources**|Xize Cheng et.al.|[2504.17782v1](http://arxiv.org/abs/2504.17782v1)|[2504.17782v1](http://arxiv.org/pdf/2504.17782v1)|null|
+|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771v1](http://arxiv.org/abs/2504.17771v1)|[2504.17771v1](http://arxiv.org/pdf/2504.17771v1)|null|
+|**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v1](http://arxiv.org/abs/2504.17751v1)|[2504.17751v1](http://arxiv.org/pdf/2504.17751v1)|null|
+|**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723v1](http://arxiv.org/abs/2504.17723v1)|[2504.17723v1](http://arxiv.org/pdf/2504.17723v1)|null|
+|**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721v1](http://arxiv.org/abs/2504.17721v1)|[2504.17721v1](http://arxiv.org/pdf/2504.17721v1)|null|
+|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720v1](http://arxiv.org/abs/2504.17720v1)|[2504.17720v1](http://arxiv.org/pdf/2504.17720v1)|null|
+|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717v1](http://arxiv.org/abs/2504.17717v1)|[2504.17717v1](http://arxiv.org/pdf/2504.17717v1)|null|
+|**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703v1](http://arxiv.org/abs/2504.17703v1)|[2504.17703v1](http://arxiv.org/pdf/2504.17703v1)|null|
+|**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700v1](http://arxiv.org/abs/2504.17700v1)|[2504.17700v1](http://arxiv.org/pdf/2504.17700v1)|null|
+|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696v1](http://arxiv.org/abs/2504.17696v1)|[2504.17696v1](http://arxiv.org/pdf/2504.17696v1)|null|
 |**2025-04-23**|**I-Con: A Unifying Framework for Representation Learning**|Shaden Alshammari et.al.|[2504.16929v1](http://arxiv.org/abs/2504.16929v1)|[2504.16929v1](http://arxiv.org/pdf/2504.16929v1)|null|
 |**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925v1](http://arxiv.org/abs/2504.16925v1)|[2504.16925v1](http://arxiv.org/pdf/2504.16925v1)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922v1](http://arxiv.org/abs/2504.16922v1)|[2504.16922v1](http://arxiv.org/pdf/2504.16922v1)|null|
