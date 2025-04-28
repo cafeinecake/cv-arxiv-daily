@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-25**|**First upper limits on the 21-cm signal power spectrum of neutral hydrogen at $z=9.16$ from the LOFAR 3C196 field**|E. Ceccotti et.al.|[2504.18534v1](http://arxiv.org/abs/2504.18534v1)|[2504.18534v1](http://arxiv.org/pdf/2504.18534v1)|null|
+|**2025-04-25**|**Four Elements to Rule Them All: Abundances are Rigidly Coupled in the Milky Way Disk**|Jennifer Mead et.al.|[2504.18532v1](http://arxiv.org/abs/2504.18532v1)|[2504.18532v1](http://arxiv.org/pdf/2504.18532v1)|null|
+|**2025-04-25**|**Complex morphology and precession indicators of AGN jets in LoTSS DR2**|Maya Horton et.al.|[2504.18518v1](http://arxiv.org/abs/2504.18518v1)|[2504.18518v1](http://arxiv.org/pdf/2504.18518v1)|null|
+|**2025-04-25**|**Inflationary background renormalization**|Jason Kristiano et.al.|[2504.18514v1](http://arxiv.org/abs/2504.18514v1)|[2504.18514v1](http://arxiv.org/pdf/2504.18514v1)|null|
+|**2025-04-25**|**An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 data**|F. Quispe-Huaynasi et.al.|[2504.18491v1](http://arxiv.org/abs/2504.18491v1)|[2504.18491v1](http://arxiv.org/pdf/2504.18491v1)|null|
+|**2025-04-25**|**Validation of the ESPRESSO Wavelength Calibration Using Iodine Absorption Cell Spectra**|Tobias M. Schmidt et.al.|[2504.18485v1](http://arxiv.org/abs/2504.18485v1)|[2504.18485v1](http://arxiv.org/pdf/2504.18485v1)|null|
+|**2025-04-25**|**Gravitational Slip in the Parameterized Post-Newtonian Cosmology**|Theodore Anton et.al.|[2504.18479v1](http://arxiv.org/abs/2504.18479v1)|[2504.18479v1](http://arxiv.org/pdf/2504.18479v1)|null|
+|**2025-04-25**|**Cosmological implications of DESI DR2 BAO measurements in light of the latest ACT DR6 CMB data**|C. Garcia-Quintero et.al.|[2504.18464v1](http://arxiv.org/abs/2504.18464v1)|[2504.18464v1](http://arxiv.org/pdf/2504.18464v1)|null|
+|**2025-04-25**|**MROP: Modulated Rank-One Projections for compressive radio interferometric imaging**|Olivier Leblanc et.al.|[2504.18446v1](http://arxiv.org/abs/2504.18446v1)|[2504.18446v1](http://arxiv.org/pdf/2504.18446v1)|null|
+|**2025-04-25**|**Robust Binding Energy Distribution Sampling on Amorphous Solid Water Models. Method testing and validation with NH3, CO and CH4**|Maria Groyne et.al.|[2504.18435v1](http://arxiv.org/abs/2504.18435v1)|[2504.18435v1](http://arxiv.org/pdf/2504.18435v1)|null|
 |**2025-04-24**|**Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates**|Qihang Chen et.al.|[2504.17777v1](http://arxiv.org/abs/2504.17777v1)|[2504.17777v1](http://arxiv.org/pdf/2504.17777v1)|null|
 |**2025-04-24**|**Dynamic atmosphere and wind models of C-type asymptotic giant branch stars. Influences of dust optical data on mass loss and observables**|Emelie Siderud et.al.|[2504.17767v1](http://arxiv.org/abs/2504.17767v1)|[2504.17767v1](http://arxiv.org/pdf/2504.17767v1)|null|
 |**2025-04-25**|**Introducing STARDIS: An Open and Modular Stellar Spectral Synthesis Code**|Joshua V. Shields et.al.|[2504.17762v2](http://arxiv.org/abs/2504.17762v2)|[2504.17762v2](http://arxiv.org/pdf/2504.17762v2)|null|
@@ -6998,6 +7008,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538v1](http://arxiv.org/abs/2504.18538v1)|[2504.18538v1](http://arxiv.org/pdf/2504.18538v1)|null|
+|**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536v1](http://arxiv.org/abs/2504.18536v1)|[2504.18536v1](http://arxiv.org/pdf/2504.18536v1)|null|
+|**2025-04-25**|**Scaling Laws For Scalable Oversight**|Joshua Engels et.al.|[2504.18530v1](http://arxiv.org/abs/2504.18530v1)|[2504.18530v1](http://arxiv.org/pdf/2504.18530v1)|null|
+|**2025-04-25**|**DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics**|Yifeng Mao et.al.|[2504.18497v1](http://arxiv.org/abs/2504.18497v1)|[2504.18497v1](http://arxiv.org/pdf/2504.18497v1)|null|
+|**2025-04-25**|**Investigating Co-Constructive Behavior of Large Language Models in Explanation Dialogues**|Leandra Fichtel et.al.|[2504.18483v1](http://arxiv.org/abs/2504.18483v1)|[2504.18483v1](http://arxiv.org/pdf/2504.18483v1)|null|
+|**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Alejandro Murillo-Gonzalez et.al.|[2504.18471v1](http://arxiv.org/abs/2504.18471v1)|[2504.18471v1](http://arxiv.org/pdf/2504.18471v1)|null|
+|**2025-04-25**|**Fast-Slow Thinking for Large Vision-Language Model Reasoning**|Wenyi Xiao et.al.|[2504.18458v1](http://arxiv.org/abs/2504.18458v1)|[2504.18458v1](http://arxiv.org/pdf/2504.18458v1)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453v1](http://arxiv.org/abs/2504.18453v1)|[2504.18453v1](http://arxiv.org/pdf/2504.18453v1)|null|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447v1](http://arxiv.org/abs/2504.18447v1)|[2504.18447v1](http://arxiv.org/pdf/2504.18447v1)|null|
+|**2025-04-25**|**Pseudo-Boolean Proof Logging for Optimal Classical Planning**|Simon Dold et.al.|[2504.18443v1](http://arxiv.org/abs/2504.18443v1)|[2504.18443v1](http://arxiv.org/pdf/2504.18443v1)|null|
 |**2025-04-24**|**Unleashing the Power of Natural Audio Featuring Multiple Sound Sources**|Xize Cheng et.al.|[2504.17782v1](http://arxiv.org/abs/2504.17782v1)|[2504.17782v1](http://arxiv.org/pdf/2504.17782v1)|null|
 |**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771v1](http://arxiv.org/abs/2504.17771v1)|[2504.17771v1](http://arxiv.org/pdf/2504.17771v1)|null|
 |**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v1](http://arxiv.org/abs/2504.17751v1)|[2504.17751v1](http://arxiv.org/pdf/2504.17751v1)|null|
