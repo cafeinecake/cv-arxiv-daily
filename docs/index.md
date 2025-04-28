@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-04-24**|**Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates**|Qihang Chen et.al.|[2504.17777v1](http://arxiv.org/abs/2504.17777v1)|[2504.17777v1](http://arxiv.org/pdf/2504.17777v1)|null|
 |**2025-04-24**|**Dynamic atmosphere and wind models of C-type asymptotic giant branch stars. Influences of dust optical data on mass loss and observables**|Emelie Siderud et.al.|[2504.17767v1](http://arxiv.org/abs/2504.17767v1)|[2504.17767v1](http://arxiv.org/pdf/2504.17767v1)|null|
-|**2025-04-24**|**Introducing STARDIS: An Open and Modular Stellar Spectral Synthesis Code**|Joshua V. Shields et.al.|[2504.17762v1](http://arxiv.org/abs/2504.17762v1)|[2504.17762v1](http://arxiv.org/pdf/2504.17762v1)|null|
+|**2025-04-25**|**Introducing STARDIS: An Open and Modular Stellar Spectral Synthesis Code**|Joshua V. Shields et.al.|[2504.17762v2](http://arxiv.org/abs/2504.17762v2)|[2504.17762v2](http://arxiv.org/pdf/2504.17762v2)|null|
 |**2025-04-24**|**WI2easy: warm inflation dynamics made easy**|Gabriel S. Rodrigues et.al.|[2504.17760v1](http://arxiv.org/abs/2504.17760v1)|[2504.17760v1](http://arxiv.org/pdf/2504.17760v1)|null|
 |**2025-04-24**|**Pure Chromo-Natural Inflation: Signatures of Particle Production from Weak to Strong Backreaction**|Ema Dimastrogiovanni et.al.|[2504.17750v1](http://arxiv.org/abs/2504.17750v1)|[2504.17750v1](http://arxiv.org/pdf/2504.17750v1)|null|
 |**2025-04-24**|**Flux tube clustering from magnetic coupling of adjacent type-I and -II superconductors in a neutron star: persistent gravitational radiation**|K. H. Thong et.al.|[2504.17746v1](http://arxiv.org/abs/2504.17746v1)|[2504.17746v1](http://arxiv.org/pdf/2504.17746v1)|null|
@@ -7011,7 +7011,7 @@ layout: default
 |**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717v1](http://arxiv.org/abs/2504.17717v1)|[2504.17717v1](http://arxiv.org/pdf/2504.17717v1)|null|
 |**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703v1](http://arxiv.org/abs/2504.17703v1)|[2504.17703v1](http://arxiv.org/pdf/2504.17703v1)|null|
 |**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700v1](http://arxiv.org/abs/2504.17700v1)|[2504.17700v1](http://arxiv.org/pdf/2504.17700v1)|null|
-|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696v1](http://arxiv.org/abs/2504.17696v1)|[2504.17696v1](http://arxiv.org/pdf/2504.17696v1)|null|
+|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696v2](http://arxiv.org/abs/2504.17696v2)|[2504.17696v2](http://arxiv.org/pdf/2504.17696v2)|null|
 |**2025-04-23**|**I-Con: A Unifying Framework for Representation Learning**|Shaden Alshammari et.al.|[2504.16929v1](http://arxiv.org/abs/2504.16929v1)|[2504.16929v1](http://arxiv.org/pdf/2504.16929v1)|null|
 |**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925v1](http://arxiv.org/abs/2504.16925v1)|[2504.16925v1](http://arxiv.org/pdf/2504.16925v1)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922v1](http://arxiv.org/abs/2504.16922v1)|[2504.16922v1](http://arxiv.org/pdf/2504.16922v1)|null|
