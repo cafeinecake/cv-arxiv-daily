@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-28**|**On the Properties of Cosmological Ionization Fronts**|Hanjue Zhu et.al.|[2504.20046v1](http://arxiv.org/abs/2504.20046v1)|[2504.20046v1](http://arxiv.org/pdf/2504.20046v1)|null|
+|**2025-04-28**|**How Charged Can Neutrinos Be?**|Sudip Jana et.al.|[2504.20044v1](http://arxiv.org/abs/2504.20044v1)|[2504.20044v1](http://arxiv.org/pdf/2504.20044v1)|null|
+|**2025-04-28**|**Starlight from JWST: Implications for star formation and dark matter models**|John Ellis et.al.|[2504.20043v1](http://arxiv.org/abs/2504.20043v1)|[2504.20043v1](http://arxiv.org/pdf/2504.20043v1)|null|
+|**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038v1](http://arxiv.org/abs/2504.20038v1)|[2504.20038v1](http://arxiv.org/pdf/2504.20038v1)|null|
+|**2025-04-28**|**Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula**|Slah Abdellaoui et.al.|[2504.20037v1](http://arxiv.org/abs/2504.20037v1)|[2504.20037v1](http://arxiv.org/pdf/2504.20037v1)|null|
+|**2025-04-28**|**exoALMA. VI. Rotating under Pressure: Rotation curves, azimuthal velocity substructures, and pressure variations**|Jochen Stadler et.al.|[2504.20036v1](http://arxiv.org/abs/2504.20036v1)|[2504.20036v1](http://arxiv.org/pdf/2504.20036v1)|null|
+|**2025-04-28**|**Local primordial non-Gaussianity from 'zero-bias' 21cm radiation during reionization**|Nickolas Kokron et.al.|[2504.20025v1](http://arxiv.org/abs/2504.20025v1)|[2504.20025v1](http://arxiv.org/pdf/2504.20025v1)|null|
+|**2025-04-28**|**exoALMA. XVII. Characterizing the Gas Dynamics around Dust Asymmetries**|Lisa Wölfer et.al.|[2504.20023v1](http://arxiv.org/abs/2504.20023v1)|[2504.20023v1](http://arxiv.org/pdf/2504.20023v1)|null|
+|**2025-04-28**|**exoALMA XV: Interpreting the height of CO emission layer**|Giovanni P. Rosotti et.al.|[2504.20012v1](http://arxiv.org/abs/2504.20012v1)|[2504.20012v1](http://arxiv.org/pdf/2504.20012v1)|null|
+|**2025-04-28**|**exoALMA III: Line-intensity Modeling and System Property Extraction from Protoplanetary Disks**|Andrés F. Izquierdo et.al.|[2504.19986v1](http://arxiv.org/abs/2504.19986v1)|[2504.19986v1](http://arxiv.org/pdf/2504.19986v1)|null|
 |**2025-04-25**|**First upper limits on the 21-cm signal power spectrum of neutral hydrogen at $z=9.16$ from the LOFAR 3C196 field**|E. Ceccotti et.al.|[2504.18534v1](http://arxiv.org/abs/2504.18534v1)|[2504.18534v1](http://arxiv.org/pdf/2504.18534v1)|null|
 |**2025-04-25**|**Four Elements to Rule Them All: Abundances are Rigidly Coupled in the Milky Way Disk**|Jennifer Mead et.al.|[2504.18532v1](http://arxiv.org/abs/2504.18532v1)|[2504.18532v1](http://arxiv.org/pdf/2504.18532v1)|null|
 |**2025-04-25**|**Complex morphology and precession indicators of AGN jets in LoTSS DR2**|Maya Horton et.al.|[2504.18518v1](http://arxiv.org/abs/2504.18518v1)|[2504.18518v1](http://arxiv.org/pdf/2504.18518v1)|null|
@@ -7008,6 +7018,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033v1](http://arxiv.org/abs/2504.20033v1)|[2504.20033v1](http://arxiv.org/pdf/2504.20033v1)|null|
+|**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|[2504.20026v1](http://arxiv.org/pdf/2504.20026v1)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020v1](http://arxiv.org/abs/2504.20020v1)|[2504.20020v1](http://arxiv.org/pdf/2504.20020v1)|null|
+|**2025-04-28**|**Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control**|Abdelhakim Amer et.al.|[2504.20019v1](http://arxiv.org/abs/2504.20019v1)|[2504.20019v1](http://arxiv.org/pdf/2504.20019v1)|null|
+|**2025-04-28**|**MINT: Multi-Vector Search Index Tuning**|Jiongli Zhu et.al.|[2504.20018v1](http://arxiv.org/abs/2504.20018v1)|[2504.20018v1](http://arxiv.org/pdf/2504.20018v1)|null|
+|**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010v1](http://arxiv.org/abs/2504.20010v1)|[2504.20010v1](http://arxiv.org/pdf/2504.20010v1)|null|
+|**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007v1](http://arxiv.org/abs/2504.20007v1)|[2504.20007v1](http://arxiv.org/pdf/2504.20007v1)|null|
+|**2025-04-28**|**Simplified and Secure MCP Gateways for Enterprise AI Integration**|Ivo Brett et.al.|[2504.19997v1](http://arxiv.org/abs/2504.19997v1)|[2504.19997v1](http://arxiv.org/pdf/2504.19997v1)|null|
+|**2025-04-28**|**Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery**|Andreas Kalogeras et.al.|[2504.19996v1](http://arxiv.org/abs/2504.19996v1)|[2504.19996v1](http://arxiv.org/pdf/2504.19996v1)|null|
+|**2025-04-28**|**Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions**|Salem Lahlou et.al.|[2504.19990v1](http://arxiv.org/abs/2504.19990v1)|[2504.19990v1](http://arxiv.org/pdf/2504.19990v1)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538v1](http://arxiv.org/abs/2504.18538v1)|[2504.18538v1](http://arxiv.org/pdf/2504.18538v1)|null|
 |**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536v1](http://arxiv.org/abs/2504.18536v1)|[2504.18536v1](http://arxiv.org/pdf/2504.18536v1)|null|
 |**2025-04-25**|**Scaling Laws For Scalable Oversight**|Joshua Engels et.al.|[2504.18530v1](http://arxiv.org/abs/2504.18530v1)|[2504.18530v1](http://arxiv.org/pdf/2504.18530v1)|null|
