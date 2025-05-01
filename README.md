@@ -1,4 +1,4 @@
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 
 ## Astrophysics
 
@@ -7035,7 +7035,7 @@
 |**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980v1](http://arxiv.org/abs/2504.20980v1)|[2504.20980v1](http://arxiv.org/pdf/2504.20980v1)|null|
 |**2025-04-29**|**SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**|Mete Erdogan et.al.|[2504.20970v1](http://arxiv.org/abs/2504.20970v1)|[2504.20970v1](http://arxiv.org/pdf/2504.20970v1)|null|
 |**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964v1](http://arxiv.org/abs/2504.20964v1)|[2504.20964v1](http://arxiv.org/pdf/2504.20964v1)|null|
-|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v1](http://arxiv.org/abs/2504.20948v1)|[2504.20948v1](http://arxiv.org/pdf/2504.20948v1)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
+|**2025-04-30**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v2](http://arxiv.org/abs/2504.20948v2)|[2504.20948v2](http://arxiv.org/pdf/2504.20948v2)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
 |**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946v1](http://arxiv.org/abs/2504.20946v1)|[2504.20946v1](http://arxiv.org/pdf/2504.20946v1)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930v1](http://arxiv.org/abs/2504.20930v1)|[2504.20930v1](http://arxiv.org/pdf/2504.20930v1)|null|
 |**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033v1](http://arxiv.org/abs/2504.20033v1)|[2504.20033v1](http://arxiv.org/pdf/2504.20033v1)|null|
