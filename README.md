@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 
 ## Astrophysics
 
@@ -7044,7 +7044,7 @@
 |**2025-04-30**|**Active Light Modulation to Counter Manipulation of Speech Visual Content**|Hadleigh Schwartz et.al.|[2504.21846v1](http://arxiv.org/abs/2504.21846v1)|[2504.21846v1](http://arxiv.org/pdf/2504.21846v1)|null|
 |**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831v1](http://arxiv.org/abs/2504.21831v1)|[2504.21831v1](http://arxiv.org/pdf/2504.21831v1)|null|
 |**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801v1](http://arxiv.org/abs/2504.21801v1)|[2504.21801v1](http://arxiv.org/pdf/2504.21801v1)|null|
-|**2025-04-30**|**How Real Are Synthetic Therapy Conversations? Evaluating Fidelity in Prolonged Exposure Dialogues**|Suhas BN et.al.|[2504.21800v1](http://arxiv.org/abs/2504.21800v1)|[2504.21800v1](http://arxiv.org/pdf/2504.21800v1)|null|
+|**2025-05-01**|**How Real Are Synthetic Therapy Conversations? Evaluating Fidelity in Prolonged Exposure Dialogues**|Suhas BN et.al.|[2504.21800v2](http://arxiv.org/abs/2504.21800v2)|[2504.21800v2](http://arxiv.org/pdf/2504.21800v2)|null|
 |**2025-04-30**|**SWE-smith: Scaling Data for Software Engineering Agents**|John Yang et.al.|[2504.21798v1](http://arxiv.org/abs/2504.21798v1)|[2504.21798v1](http://arxiv.org/pdf/2504.21798v1)|null|
 |**2025-04-30**|**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**|Xiaoxi Li et.al.|[2504.21776v1](http://arxiv.org/abs/2504.21776v1)|[2504.21776v1](http://arxiv.org/pdf/2504.21776v1)|null|
 |**2025-04-30**|**Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning**|Rongguang Ye et.al.|[2504.21775v1](http://arxiv.org/abs/2504.21775v1)|[2504.21775v1](http://arxiv.org/pdf/2504.21775v1)|null|
