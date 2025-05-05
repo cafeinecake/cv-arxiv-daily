@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-02**|**Galaxy Zoo CEERS: Bar fractions up to z~4.0**|Tobias Géron et.al.|[2505.01421v1](http://arxiv.org/abs/2505.01421v1)|[2505.01421v1](http://arxiv.org/pdf/2505.01421v1)|null|
+|**2025-05-02**|**Bridging the Atmospheric Circulations of Hot and Warm Giant Exoplanets**|J. W. Skinner et.al.|[2505.01397v1](http://arxiv.org/abs/2505.01397v1)|[2505.01397v1](http://arxiv.org/pdf/2505.01397v1)|null|
+|**2025-05-02**|**Probing the Cores of Subdwarf B Stars: How do They Compare to Cores in Helium Core-Burning Red Giants?**|Margarida S. Cunha et.al.|[2505.01381v1](http://arxiv.org/abs/2505.01381v1)|[2505.01381v1](http://arxiv.org/pdf/2505.01381v1)|null|
+|**2025-05-02**|**Spin Precession in magnetized Kerr spacetime**|Karthik Iyer et.al.|[2505.01367v1](http://arxiv.org/abs/2505.01367v1)|[2505.01367v1](http://arxiv.org/pdf/2505.01367v1)|null|
+|**2025-05-02**|**Gravitational Wave Memory of Primordial Black Hole Mergers**|Silvia Gasparotto et.al.|[2505.01356v1](http://arxiv.org/abs/2505.01356v1)|[2505.01356v1](http://arxiv.org/pdf/2505.01356v1)|null|
+|**2025-05-02**|**Classifying Radio-Loud and Radio-Quiet Quasars With Novel PCA Based Regression Classifier**|Ramkrishna Joshi et.al.|[2505.01335v1](http://arxiv.org/abs/2505.01335v1)|[2505.01335v1](http://arxiv.org/pdf/2505.01335v1)|null|
+|**2025-05-02**|**Spinning masters: on the impact of tidal forces and protohalo size on early spin evolution**|Pablo López et.al.|[2505.01298v1](http://arxiv.org/abs/2505.01298v1)|[2505.01298v1](http://arxiv.org/pdf/2505.01298v1)|null|
+|**2025-05-02**|**QPO signatures of disk restoration after type-I X-ray bursts from 4U~1636$-$536**|Suchismito Chattopadhyay et.al.|[2505.01291v1](http://arxiv.org/abs/2505.01291v1)|[2505.01291v1](http://arxiv.org/pdf/2505.01291v1)|null|
+|**2025-05-02**|**Innermost stable circular orbit of arbitrary-mass compact binaries at fourth post-Newtonian order**|Luc Blanchet et.al.|[2505.01278v1](http://arxiv.org/abs/2505.01278v1)|[2505.01278v1](http://arxiv.org/pdf/2505.01278v1)|null|
+|**2025-05-02**|**Redshift-space bispectrum in presence of massive neutrinos: A multipole expansion approach for Euclid**|Sourav Pal et.al.|[2505.01270v1](http://arxiv.org/abs/2505.01270v1)|[2505.01270v1](http://arxiv.org/pdf/2505.01270v1)|null|
 |**2025-05-01**|**Luminosity Function of collapsar Gamma-Ray Bursts:the Progenitor of Long Gamma-Ray Bursts Is Not Singular**|Yan-Kun Qu et.al.|[2505.00700v1](http://arxiv.org/abs/2505.00700v1)|[2505.00700v1](http://arxiv.org/pdf/2505.00700v1)|null|
 |**2025-05-01**|**Multi-wavelength JWST observations of (3200) Phaethon show a dehydrated object with an aqueously altered origin**|Cristina A. Thomas et.al.|[2505.00692v1](http://arxiv.org/abs/2505.00692v1)|[2505.00692v1](http://arxiv.org/pdf/2505.00692v1)|null|
 |**2025-05-01**|**Spectral-timing analysis of the kilohertz quasi-periodic oscillations and constraints on the mass of the neutron star in $4U 1636-536$ using AstroSat observations**|Suchismito Chattopadhyay et.al.|[2505.00676v1](http://arxiv.org/abs/2505.00676v1)|[2505.00676v1](http://arxiv.org/pdf/2505.00676v1)|null|
@@ -7048,6 +7058,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425v1](http://arxiv.org/abs/2505.01425v1)|[2505.01425v1](http://arxiv.org/pdf/2505.01425v1)|null|
+|**2025-05-02**|**Predicting the Price of Gold in the Financial Markets Using Hybrid Models**|Mohammadhossein Rashidi et.al.|[2505.01402v1](http://arxiv.org/abs/2505.01402v1)|[2505.01402v1](http://arxiv.org/pdf/2505.01402v1)|null|
+|**2025-05-02**|**SIME: Enhancing Policy Self-Improvement with Modal-level Exploration**|Yang Jin et.al.|[2505.01396v1](http://arxiv.org/abs/2505.01396v1)|[2505.01396v1](http://arxiv.org/pdf/2505.01396v1)|null|
+|**2025-05-02**|**The Proportional Veto Principle for Approval Ballots**|Daniel Halpern et.al.|[2505.01395v1](http://arxiv.org/abs/2505.01395v1)|[2505.01395v1](http://arxiv.org/pdf/2505.01395v1)|null|
+|**2025-05-02**|**Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework for Predicting Pathological Response in Non-Small Cell Lung Cancer**|Alice Natalina Caragliano et.al.|[2505.01390v1](http://arxiv.org/abs/2505.01390v1)|[2505.01390v1](http://arxiv.org/pdf/2505.01390v1)|null|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|[2505.01383v1](http://arxiv.org/pdf/2505.01383v1)|null|
+|**2025-05-02**|**Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii**|Kola Ayonrinde et.al.|[2505.01372v1](http://arxiv.org/abs/2505.01372v1)|[2505.01372v1](http://arxiv.org/pdf/2505.01372v1)|null|
+|**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366v1](http://arxiv.org/abs/2505.01366v1)|[2505.01366v1](http://arxiv.org/pdf/2505.01366v1)|null|
+|**2025-05-02**|**Differentiable Nonlinear Model Predictive Control**|Jonathan Frey et.al.|[2505.01353v1](http://arxiv.org/abs/2505.01353v1)|[2505.01353v1](http://arxiv.org/pdf/2505.01353v1)|null|
+|**2025-05-02**|**BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing**|Dongliang Guo et.al.|[2505.01343v1](http://arxiv.org/abs/2505.01343v1)|[2505.01343v1](http://arxiv.org/pdf/2505.01343v1)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703v1](http://arxiv.org/abs/2505.00703v1)|[2505.00703v1](http://arxiv.org/pdf/2505.00703v1)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|[2505.00693v1](http://arxiv.org/pdf/2505.00693v1)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690v1](http://arxiv.org/abs/2505.00690v1)|[2505.00690v1](http://arxiv.org/pdf/2505.00690v1)|null|
