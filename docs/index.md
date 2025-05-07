@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-06**|**Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements**|Irene Abril-Cabezas et.al.|[2505.03737v1](http://arxiv.org/abs/2505.03737v1)|[2505.03737v1](http://arxiv.org/pdf/2505.03737v1)|null|
+|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723v1](http://arxiv.org/abs/2505.03723v1)|[2505.03723v1](http://arxiv.org/pdf/2505.03723v1)|null|
+|**2025-05-06**|**Investigating the Upper Scorpius OB association with HERMES. I. The spectroscopic sample and 6D kinematics**|Joseph J. Armstrong et.al.|[2505.03716v1](http://arxiv.org/abs/2505.03716v1)|[2505.03716v1](http://arxiv.org/pdf/2505.03716v1)|null|
+|**2025-05-06**|**CHEX-MATE: exploring the kinematical properties of Planck galaxy clusters**|Lorenzo Pizzuti et.al.|[2505.03708v1](http://arxiv.org/abs/2505.03708v1)|[2505.03708v1](http://arxiv.org/pdf/2505.03708v1)|null|
+|**2025-05-06**|**Young Planets around Young Accreting Stars: I. Migration and Inner Stalling Orbits**|Arturo Cevallos Soto et.al.|[2505.03701v1](http://arxiv.org/abs/2505.03701v1)|[2505.03701v1](http://arxiv.org/pdf/2505.03701v1)|null|
+|**2025-05-06**|**Statistical geochemical constraints on present-day water outgassing as a source of secondary atmospheres on the TRAPPIST-1 exoplanets**|Trent B. Thomas et.al.|[2505.03672v1](http://arxiv.org/abs/2505.03672v1)|[2505.03672v1](http://arxiv.org/pdf/2505.03672v1)|null|
+|**2025-05-06**|**Supermassive black hole in NGC 4649 (M60) with a dark matter halo: Impact on shadow measurements and thermodynamic properties**|Francisco S. N. Lobo et.al.|[2505.03661v1](http://arxiv.org/abs/2505.03661v1)|[2505.03661v1](http://arxiv.org/pdf/2505.03661v1)|null|
+|**2025-05-06**|**Understanding large-scale dynamos in unstratified rotating shear flows**|Tushar Mondal et.al.|[2505.03660v1](http://arxiv.org/abs/2505.03660v1)|[2505.03660v1](http://arxiv.org/pdf/2505.03660v1)|null|
+|**2025-05-06**|**Extreme-ultraviolet transient brightenings in the quiet-Sun corona : Closest-perihelion observations with Solar Orbiter/EUI**|Nancy Narang et.al.|[2505.03656v1](http://arxiv.org/abs/2505.03656v1)|[2505.03656v1](http://arxiv.org/pdf/2505.03656v1)|null|
+|**2025-05-06**|**Discovery of resonating integration modes in triple-mode high-amplitude $δ$ Scuti stars: a new evolutionary phase indicator**|Jia-Shu Niu et.al.|[2505.03653v1](http://arxiv.org/abs/2505.03653v1)|[2505.03653v1](http://arxiv.org/pdf/2505.03653v1)|null|
 |**2025-05-05**|**The Rapidly--Changing Period of the QPE Source 1ES~1927+654**|Andrew King et.al.|[2505.02832v1](http://arxiv.org/abs/2505.02832v1)|[2505.02832v1](http://arxiv.org/pdf/2505.02832v1)|null|
 |**2025-05-05**|**Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**|J. A. Zebrowski et.al.|[2505.02827v1](http://arxiv.org/abs/2505.02827v1)|[2505.02827v1](http://arxiv.org/pdf/2505.02827v1)|null|
 |**2025-05-05**|**Closeby Habitable Exoplanet Survey (CHES). IV. Synergy between astrometry and direct imaging missions of the Habitable World Observatory for detecting Earth-like planets**|Chunhui Bao et.al.|[2505.02818v1](http://arxiv.org/abs/2505.02818v1)|[2505.02818v1](http://arxiv.org/pdf/2505.02818v1)|null|
@@ -7072,6 +7082,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|[2505.03739v1](http://arxiv.org/pdf/2505.03739v1)|null|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738v1](http://arxiv.org/abs/2505.03738v1)|[2505.03738v1](http://arxiv.org/pdf/2505.03738v1)|null|
+|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|[2505.03730v1](http://arxiv.org/pdf/2505.03730v1)|null|
+|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|[2505.03710v1](http://arxiv.org/pdf/2505.03710v1)|null|
+|**2025-05-06**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694v1](http://arxiv.org/abs/2505.03694v1)|[2505.03694v1](http://arxiv.org/pdf/2505.03694v1)|null|
+|**2025-05-06**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678v1](http://arxiv.org/abs/2505.03678v1)|[2505.03678v1](http://arxiv.org/pdf/2505.03678v1)|null|
+|**2025-05-06**|**Gap the (Theory of) Mind: Sharing Beliefs About Teammates' Goals Boosts Collaboration Perception, Not Performance**|Yotam Amitai et.al.|[2505.03674v1](http://arxiv.org/abs/2505.03674v1)|[2505.03674v1](http://arxiv.org/pdf/2505.03674v1)|null|
+|**2025-05-06**|**Learning Symbolic Persistent Macro-Actions for POMDP Solving Over Time**|Celeste Veronese et.al.|[2505.03668v1](http://arxiv.org/abs/2505.03668v1)|[2505.03668v1](http://arxiv.org/pdf/2505.03668v1)|null|
+|**2025-05-06**|**Revolutionizing Brain Tumor Imaging: Generating Synthetic 3D FA Maps from T1-Weighted MRI using CycleGAN Models**|Xin Du et.al.|[2505.03662v1](http://arxiv.org/abs/2505.03662v1)|[2505.03662v1](http://arxiv.org/pdf/2505.03662v1)|null|
+|**2025-05-06**|**Counterfactual Inference for Eliminating Sentiment Bias in Recommender Systems**|Le Pan et.al.|[2505.03655v1](http://arxiv.org/abs/2505.03655v1)|[2505.03655v1](http://arxiv.org/pdf/2505.03655v1)|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|[2505.02829v1](http://arxiv.org/pdf/2505.02829v1)|null|
 |**2025-05-05**|**Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review**|Sonal Allana et.al.|[2505.02828v1](http://arxiv.org/abs/2505.02828v1)|[2505.02828v1](http://arxiv.org/pdf/2505.02828v1)|null|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|[2505.02824v1](http://arxiv.org/pdf/2505.02824v1)|null|
