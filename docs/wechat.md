@@ -1,4 +1,4 @@
-> Updated on 2025.05.07
+> Updated on 2025.05.08
 
 ## Astrophysics
 
@@ -7074,7 +7074,7 @@
 
 ## AI
 
-- 2025-05-06, **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**, Zuwei Long et.al., Paper: [http://arxiv.org/abs/2505.03739v1](http://arxiv.org/abs/2505.03739v1), Paper: [http://arxiv.org/abs/2505.03739v1](http://arxiv.org/pdf/2505.03739v1)
+- 2025-05-06, **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**, Zuwei Long et.al., Paper: [http://arxiv.org/abs/2505.03739v1](http://arxiv.org/abs/2505.03739v1),Paper: [http://arxiv.org/abs/2505.03739v1](http://arxiv.org/pdf/2505.03739v1), Code: **[https://github.com/vita-mllm/vita-audio](https://github.com/vita-mllm/vita-audio)**
 - 2025-05-06, **AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**, Jialong Li et.al., Paper: [http://arxiv.org/abs/2505.03738v1](http://arxiv.org/abs/2505.03738v1), Paper: [http://arxiv.org/abs/2505.03738v1](http://arxiv.org/pdf/2505.03738v1)
 - 2025-05-06, **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**, Shiyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.03730v1](http://arxiv.org/abs/2505.03730v1), Paper: [http://arxiv.org/abs/2505.03730v1](http://arxiv.org/pdf/2505.03730v1)
 - 2025-05-06, **Actor-Critics Can Achieve Optimal Sample Efficiency**, Kevin Tan et.al., Paper: [http://arxiv.org/abs/2505.03710v1](http://arxiv.org/abs/2505.03710v1), Paper: [http://arxiv.org/abs/2505.03710v1](http://arxiv.org/pdf/2505.03710v1)
