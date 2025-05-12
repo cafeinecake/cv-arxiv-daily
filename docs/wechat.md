@@ -1,4 +1,4 @@
-> Updated on 2025.05.11
+> Updated on 2025.05.12
 
 ## Astrophysics
 
@@ -7098,8 +7098,8 @@
 - 2025-05-08, **StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**, Haibo Wang et.al., Paper: [http://arxiv.org/abs/2505.05467v1](http://arxiv.org/abs/2505.05467v1), Paper: [http://arxiv.org/abs/2505.05467v1](http://arxiv.org/pdf/2505.05467v1)
 - 2025-05-08, **ComPO: Preference Alignment via Comparison Oracles**, Peter Chen et.al., Paper: [http://arxiv.org/abs/2505.05465v1](http://arxiv.org/abs/2505.05465v1), Paper: [http://arxiv.org/abs/2505.05465v1](http://arxiv.org/pdf/2505.05465v1)
 - 2025-05-08, **Conversational Process Model Redesign**, Nataliia Klievtsova et.al., Paper: [http://arxiv.org/abs/2505.05453v1](http://arxiv.org/abs/2505.05453v1), Paper: [http://arxiv.org/abs/2505.05453v1](http://arxiv.org/pdf/2505.05453v1)
-- 2025-05-08, **EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**, Biao Yi et.al., Paper: [http://arxiv.org/abs/2505.05440v1](http://arxiv.org/abs/2505.05440v1), Paper: [http://arxiv.org/abs/2505.05440v1](http://arxiv.org/pdf/2505.05440v1)
-- 2025-05-08, **TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**, Ran Zhang et.al., Paper: [http://arxiv.org/abs/2505.05423v1](http://arxiv.org/abs/2505.05423v1), Paper: [http://arxiv.org/abs/2505.05423v1](http://arxiv.org/pdf/2505.05423v1)
+- 2025-05-09, **EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**, Biao Yi et.al., Paper: [http://arxiv.org/abs/2505.05440v2](http://arxiv.org/abs/2505.05440v2), Paper: [http://arxiv.org/abs/2505.05440v2](http://arxiv.org/pdf/2505.05440v2)
+- 2025-05-09, **LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**, Ran Zhang et.al., Paper: [http://arxiv.org/abs/2505.05423v2](http://arxiv.org/abs/2505.05423v2),Paper: [http://arxiv.org/abs/2505.05423v2](http://arxiv.org/pdf/2505.05423v2), Code: **[https://github.com/zhangr2021/TransProQA](https://github.com/zhangr2021/TransProQA)**
 - 2025-05-08, **TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**, Haokun Lin et.al., Paper: [http://arxiv.org/abs/2505.05422v1](http://arxiv.org/abs/2505.05422v1), Paper: [http://arxiv.org/abs/2505.05422v1](http://arxiv.org/pdf/2505.05422v1)
 - 2025-05-08, **Reasoning Models Don't Always Say What They Think**, Yanda Chen et.al., Paper: [http://arxiv.org/abs/2505.05410v1](http://arxiv.org/abs/2505.05410v1), Paper: [http://arxiv.org/abs/2505.05410v1](http://arxiv.org/pdf/2505.05410v1)
 - 2025-05-08, **Crosslingual Reasoning through Test-Time Scaling**, Zheng-Xin Yong et.al., Paper: [http://arxiv.org/abs/2505.05408v1](http://arxiv.org/abs/2505.05408v1), Paper: [http://arxiv.org/abs/2505.05408v1](http://arxiv.org/pdf/2505.05408v1)
