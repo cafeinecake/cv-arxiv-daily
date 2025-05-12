@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228v1](http://arxiv.org/abs/2505.06228v1)|[2505.06228v1](http://arxiv.org/pdf/2505.06228v1)|null|
+|**2025-05-09**|**Testing the Hypothesis that the Quasar J0950+5128 Harbors a Supermassive Black Hole Binary**|Niana N. Mohammed et.al.|[2505.06221v1](http://arxiv.org/abs/2505.06221v1)|[2505.06221v1](http://arxiv.org/pdf/2505.06221v1)|null|
+|**2025-05-09**|**The "Dark-Matter Dominated" Galaxy Segue 1 Modeled with a Black Hole and no Dark Halo**|Nathaniel Lujan et.al.|[2505.06198v1](http://arxiv.org/abs/2505.06198v1)|[2505.06198v1](http://arxiv.org/pdf/2505.06198v1)|null|
+|**2025-05-09**|**Magnetar field dynamics shaped by chiral anomalies and helicity**|Clara Dehman et.al.|[2505.06196v1](http://arxiv.org/abs/2505.06196v1)|[2505.06196v1](http://arxiv.org/pdf/2505.06196v1)|null|
+|**2025-05-09**|**GECAM Discovery of Peculiar Oscillating Particle Precipitation Events**|Chenwei Wang et.al.|[2505.06192v1](http://arxiv.org/abs/2505.06192v1)|[2505.06192v1](http://arxiv.org/pdf/2505.06192v1)|null|
+|**2025-05-09**|**Pitch Angle Measurement Method based on Detector Counts Distribution. -I. Basic conception**|Chenwei Wang et.al.|[2505.06167v1](http://arxiv.org/abs/2505.06167v1)|[2505.06167v1](http://arxiv.org/pdf/2505.06167v1)|null|
+|**2025-05-09**|**A sample of ionised Fe line-emitting X-ray sources in the inner Galactic disc**|Samaresh Mondal et.al.|[2505.06164v1](http://arxiv.org/abs/2505.06164v1)|[2505.06164v1](http://arxiv.org/pdf/2505.06164v1)|null|
+|**2025-05-09**|**Non-degenerate pumping of superconducting resonator parametric amplifier with evidence of phase-sensitive amplification**|Songyuan Zhao et.al.|[2505.06155v1](http://arxiv.org/abs/2505.06155v1)|[2505.06155v1](http://arxiv.org/pdf/2505.06155v1)|null|
+|**2025-05-09**|**Revealing the nature of ultra-long period objects with space-based gravitational-wave interferometers**|Arthur G. Suvorov et.al.|[2505.06125v1](http://arxiv.org/abs/2505.06125v1)|[2505.06125v1](http://arxiv.org/pdf/2505.06125v1)|null|
+|**2025-05-09**|**Constraints to Lorentz violation and ultrahigh-energy electrons in D-foamy space-times**|Chengyi Li et.al.|[2505.06121v1](http://arxiv.org/abs/2505.06121v1)|[2505.06121v1](http://arxiv.org/pdf/2505.06121v1)|null|
 |**2025-05-08**|**Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe**|M. Gonin et.al.|[2505.05463v1](http://arxiv.org/abs/2505.05463v1)|[2505.05463v1](http://arxiv.org/pdf/2505.05463v1)|null|
 |**2025-05-08**|**Resolution of the Solar Convective Conundrum? New Results Using the Time-Distance Deep-Focus Method**|John T. Stefan et.al.|[2505.05454v1](http://arxiv.org/abs/2505.05454v1)|[2505.05454v1](http://arxiv.org/pdf/2505.05454v1)|null|
 |**2025-05-08**|**Screened Axio-dilaton Cosmology: Novel Forms of Early Dark Energy**|Adam Smith et.al.|[2505.05450v1](http://arxiv.org/abs/2505.05450v1)|[2505.05450v1](http://arxiv.org/pdf/2505.05450v1)|null|
@@ -7098,6 +7108,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218v1](http://arxiv.org/abs/2505.06218v1)|[2505.06218v1](http://arxiv.org/pdf/2505.06218v1)|null|
+|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191v1](http://arxiv.org/abs/2505.06191v1)|[2505.06191v1](http://arxiv.org/pdf/2505.06191v1)|null|
+|**2025-05-09**|**Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**|Massimiliano Pronesti et.al.|[2505.06186v1](http://arxiv.org/abs/2505.06186v1)|[2505.06186v1](http://arxiv.org/pdf/2505.06186v1)|null|
+|**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175v1](http://arxiv.org/abs/2505.06175v1)|[2505.06175v1](http://arxiv.org/pdf/2505.06175v1)|null|
+|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152v1](http://arxiv.org/abs/2505.06152v1)|[2505.06152v1](http://arxiv.org/pdf/2505.06152v1)|**[link](https://github.com/zwq803/mm-skin)**|
+|**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150v1](http://arxiv.org/abs/2505.06150v1)|[2505.06150v1](http://arxiv.org/pdf/2505.06150v1)|null|
+|**2025-05-09**|**Wasserstein Distances Made Explainable: Insights into Dataset Shifts and Transport Phenomena**|Philip Naumann et.al.|[2505.06123v1](http://arxiv.org/abs/2505.06123v1)|[2505.06123v1](http://arxiv.org/pdf/2505.06123v1)|null|
+|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|[2505.06118v1](http://arxiv.org/pdf/2505.06118v1)|null|
+|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111v1](http://arxiv.org/abs/2505.06111v1)|[2505.06111v1](http://arxiv.org/pdf/2505.06111v1)|**[link](https://github.com/opendrivelab/univla)**|
+|**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110v1](http://arxiv.org/abs/2505.06110v1)|[2505.06110v1](http://arxiv.org/pdf/2505.06110v1)|null|
 |**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470v1](http://arxiv.org/abs/2505.05470v1)|[2505.05470v1](http://arxiv.org/pdf/2505.05470v1)|**[link](https://github.com/yifan123/flow_grpo)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467v1](http://arxiv.org/abs/2505.05467v1)|[2505.05467v1](http://arxiv.org/pdf/2505.05467v1)|null|
 |**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465v1](http://arxiv.org/abs/2505.05465v1)|[2505.05465v1](http://arxiv.org/pdf/2505.05465v1)|null|
