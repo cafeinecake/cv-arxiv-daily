@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-12**|**Conditions for accretion favoring an unmelted Callisto and a differentiated Ganymede**|Yannis Bennacer et.al.|[2505.07785v1](http://arxiv.org/abs/2505.07785v1)|[2505.07785v1](http://arxiv.org/pdf/2505.07785v1)|null|
+|**2025-05-12**|**Why is the Star Formation Rate Proportional to Dense Gas Mass?**|Sihan Jiao et.al.|[2505.07764v1](http://arxiv.org/abs/2505.07764v1)|[2505.07764v1](http://arxiv.org/pdf/2505.07764v1)|null|
+|**2025-05-12**|**Gravitationally Bound Gas Determines Star Formation in the Galaxy**|Sihan Jiao et.al.|[2505.07763v1](http://arxiv.org/abs/2505.07763v1)|[2505.07763v1](http://arxiv.org/pdf/2505.07763v1)|null|
+|**2025-05-12**|**Clouds can enhance direct imaging detection of O2 and O3 on terrestrial exoplanets**|Huanzhou Yang et.al.|[2505.07760v1](http://arxiv.org/abs/2505.07760v1)|[2505.07760v1](http://arxiv.org/pdf/2505.07760v1)|null|
+|**2025-05-12**|**Emission Line Diagnostics for IMBHs in Dwarf Galaxies: Accounting for BH Seeding and ULX Excitation**|Chris T. Richardson et.al.|[2505.07749v1](http://arxiv.org/abs/2505.07749v1)|[2505.07749v1](http://arxiv.org/pdf/2505.07749v1)|null|
+|**2025-05-12**|**Edge-on galaxies relative to edge-on view of the Local Supercluster**|P. Dolgosheeva et.al.|[2505.07737v1](http://arxiv.org/abs/2505.07737v1)|[2505.07737v1](http://arxiv.org/pdf/2505.07737v1)|null|
+|**2025-05-12**|**The observable impact of runaway OB stars on protoplanetary discs**|Gavin A. L. Coleman et.al.|[2505.07723v1](http://arxiv.org/abs/2505.07723v1)|[2505.07723v1](http://arxiv.org/pdf/2505.07723v1)|null|
+|**2025-05-12**|**The Effect of Luminosity Outbursts on the Abundance of Pebbles and Their Ice Mantles in Protoplanetary Disks**|Anastasiia Topchieva et.al.|[2505.07718v1](http://arxiv.org/abs/2505.07718v1)|[2505.07718v1](http://arxiv.org/pdf/2505.07718v1)|null|
+|**2025-05-12**|**A Likelihood Ratio Framework for Highly Motivated Subdominant Signals**|S. Ansarifard et.al.|[2505.07698v1](http://arxiv.org/abs/2505.07698v1)|[2505.07698v1](http://arxiv.org/pdf/2505.07698v1)|null|
+|**2025-05-12**|**Cosmology with Galaxy Clusters**|Hironao Miyatake et.al.|[2505.07697v1](http://arxiv.org/abs/2505.07697v1)|[2505.07697v1](http://arxiv.org/pdf/2505.07697v1)|null|
 |**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228v1](http://arxiv.org/abs/2505.06228v1)|[2505.06228v1](http://arxiv.org/pdf/2505.06228v1)|null|
 |**2025-05-09**|**Testing the Hypothesis that the Quasar J0950+5128 Harbors a Supermassive Black Hole Binary**|Niana N. Mohammed et.al.|[2505.06221v1](http://arxiv.org/abs/2505.06221v1)|[2505.06221v1](http://arxiv.org/pdf/2505.06221v1)|null|
 |**2025-05-09**|**The "Dark-Matter Dominated" Galaxy Segue 1 Modeled with a Black Hole and no Dark Halo**|Nathaniel Lujan et.al.|[2505.06198v1](http://arxiv.org/abs/2505.06198v1)|[2505.06198v1](http://arxiv.org/pdf/2505.06198v1)|null|
@@ -7108,6 +7118,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-12**|**H$^{\mathbf{3}}$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819v1](http://arxiv.org/abs/2505.07819v1)|[2505.07819v1](http://arxiv.org/pdf/2505.07819v1)|null|
+|**2025-05-12**|**A class of distributed automata that contains the modal mu-fragment**|Veeti Ahvonen et.al.|[2505.07816v1](http://arxiv.org/abs/2505.07816v1)|[2505.07816v1](http://arxiv.org/pdf/2505.07816v1)|null|
+|**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813v1](http://arxiv.org/abs/2505.07813v1)|[2505.07813v1](http://arxiv.org/pdf/2505.07813v1)|null|
+|**2025-05-12**|**A Comparative Analysis of Static Word Embeddings for Hungarian**|Máté Gedeon et.al.|[2505.07809v1](http://arxiv.org/abs/2505.07809v1)|[2505.07809v1](http://arxiv.org/pdf/2505.07809v1)|null|
+|**2025-05-12**|**Improving Trajectory Stitching with Flow Models**|Reece O'Mahoney et.al.|[2505.07802v1](http://arxiv.org/abs/2505.07802v1)|[2505.07802v1](http://arxiv.org/pdf/2505.07802v1)|null|
+|**2025-05-12**|**Learning Dynamics in Continual Pre-Training for Large Language Models**|Xingjin Wang et.al.|[2505.07796v1](http://arxiv.org/abs/2505.07796v1)|[2505.07796v1](http://arxiv.org/pdf/2505.07796v1)|null|
+|**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793v1](http://arxiv.org/abs/2505.07793v1)|[2505.07793v1](http://arxiv.org/pdf/2505.07793v1)|null|
+|**2025-05-12**|**Analytic theory of dropout regularization**|Francesco Mori et.al.|[2505.07792v1](http://arxiv.org/abs/2505.07792v1)|[2505.07792v1](http://arxiv.org/pdf/2505.07792v1)|null|
+|**2025-05-12**|**Emerging (2+1)D electrodynamics and topological instanton in pseudo-Hermitian two-level systems**|Kuangyin Deng et.al.|[2505.07791v1](http://arxiv.org/abs/2505.07791v1)|[2505.07791v1](http://arxiv.org/pdf/2505.07791v1)|null|
+|**2025-05-12**|**Must Read: A Systematic Survey of Computational Persuasion**|Nimet Beyza Bozdag et.al.|[2505.07775v1](http://arxiv.org/abs/2505.07775v1)|[2505.07775v1](http://arxiv.org/pdf/2505.07775v1)|null|
 |**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218v1](http://arxiv.org/abs/2505.06218v1)|[2505.06218v1](http://arxiv.org/pdf/2505.06218v1)|null|
 |**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191v1](http://arxiv.org/abs/2505.06191v1)|[2505.06191v1](http://arxiv.org/pdf/2505.06191v1)|null|
 |**2025-05-09**|**Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**|Massimiliano Pronesti et.al.|[2505.06186v1](http://arxiv.org/abs/2505.06186v1)|[2505.06186v1](http://arxiv.org/pdf/2505.06186v1)|null|
