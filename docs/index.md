@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-13**|**Modelling the impact of quasar redshift errors on the full-shape analysis of correlations in the Lyman-$α$ forest**|Calum Gordon et.al.|[2505.08789v1](http://arxiv.org/abs/2505.08789v1)|[2505.08789v1](http://arxiv.org/pdf/2505.08789v1)|null|
+|**2025-05-13**|**Kination-like Era Driven by the Effective Inflaton/Higgs Potential**|Anish Ghoshal et.al.|[2505.08786v1](http://arxiv.org/abs/2505.08786v1)|[2505.08786v1](http://arxiv.org/pdf/2505.08786v1)|null|
+|**2025-05-13**|**Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a**|Muskan Yadav et.al.|[2505.08781v1](http://arxiv.org/abs/2505.08781v1)|[2505.08781v1](http://arxiv.org/pdf/2505.08781v1)|null|
+|**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780v1](http://arxiv.org/abs/2505.08780v1)|[2505.08780v1](http://arxiv.org/pdf/2505.08780v1)|null|
+|**2025-05-13**|**The CMB cold spot under the lens II: Lensing on polarization and cosmic textures footprints**|Pedro da Silveira Ferreira et.al.|[2505.08761v1](http://arxiv.org/abs/2505.08761v1)|[2505.08761v1](http://arxiv.org/pdf/2505.08761v1)|null|
+|**2025-05-13**|**Modeling the Light Curve and Spectra of SN 2023aew**|Rachid Ouyed et.al.|[2505.08737v1](http://arxiv.org/abs/2505.08737v1)|[2505.08737v1](http://arxiv.org/pdf/2505.08737v1)|null|
+|**2025-05-13**|**Be star demographics: a comprehensive study of thousands of lightcurves in the Magellanic Clouds**|A. L. Figueiredo et.al.|[2505.08714v1](http://arxiv.org/abs/2505.08714v1)|[2505.08714v1](http://arxiv.org/pdf/2505.08714v1)|null|
+|**2025-05-13**|**Electron density structure measurements with scattered intense laser beam**|K. Sakai et.al.|[2505.08711v1](http://arxiv.org/abs/2505.08711v1)|[2505.08711v1](http://arxiv.org/pdf/2505.08711v1)|null|
+|**2025-05-13**|**Time as a test-field: the no-boundary universe in motion and a smooth radiation bounce**|Federico Piazza et.al.|[2505.08703v1](http://arxiv.org/abs/2505.08703v1)|[2505.08703v1](http://arxiv.org/pdf/2505.08703v1)|null|
+|**2025-05-13**|**On the origins of coronal Alfvénic waves**|R. J. Morton et.al.|[2505.08636v1](http://arxiv.org/abs/2505.08636v1)|[2505.08636v1](http://arxiv.org/pdf/2505.08636v1)|null|
 |**2025-05-12**|**Conditions for accretion favoring an unmelted Callisto and a differentiated Ganymede**|Yannis Bennacer et.al.|[2505.07785v1](http://arxiv.org/abs/2505.07785v1)|[2505.07785v1](http://arxiv.org/pdf/2505.07785v1)|null|
 |**2025-05-12**|**Why is the Star Formation Rate Proportional to Dense Gas Mass?**|Sihan Jiao et.al.|[2505.07764v1](http://arxiv.org/abs/2505.07764v1)|[2505.07764v1](http://arxiv.org/pdf/2505.07764v1)|null|
 |**2025-05-12**|**Gravitationally Bound Gas Determines Star Formation in the Galaxy**|Sihan Jiao et.al.|[2505.07763v1](http://arxiv.org/abs/2505.07763v1)|[2505.07763v1](http://arxiv.org/pdf/2505.07763v1)|null|
@@ -7122,6 +7132,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783v1](http://arxiv.org/abs/2505.08783v1)|[2505.08783v1](http://arxiv.org/pdf/2505.08783v1)|null|
+|**2025-05-13**|**ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus**|Etienne Guichard et.al.|[2505.08778v1](http://arxiv.org/abs/2505.08778v1)|[2505.08778v1](http://arxiv.org/pdf/2505.08778v1)|null|
+|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v1](http://arxiv.org/abs/2505.08765v1)|[2505.08765v1](http://arxiv.org/pdf/2505.08765v1)|null|
+|**2025-05-13**|**Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion**|Huiyan Qi et.al.|[2505.08747v1](http://arxiv.org/abs/2505.08747v1)|[2505.08747v1](http://arxiv.org/pdf/2505.08747v1)|null|
+|**2025-05-13**|**DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models**|Xiaoyang Chen et.al.|[2505.08744v1](http://arxiv.org/abs/2505.08744v1)|[2505.08744v1](http://arxiv.org/pdf/2505.08744v1)|**[link](https://github.com/deepmathllm/deepmath)**|
+|**2025-05-13**|**The structure and migration of twin boundaries in tetragonal $β$-Sn: an application of machine learning based interatomic potentials**|Ian Chesser et.al.|[2505.08732v1](http://arxiv.org/abs/2505.08732v1)|[2505.08732v1](http://arxiv.org/pdf/2505.08732v1)|null|
+|**2025-05-13**|**Securing RAG: A Risk Assessment and Mitigation Framework**|Lukas Ammann et.al.|[2505.08728v1](http://arxiv.org/abs/2505.08728v1)|[2505.08728v1](http://arxiv.org/pdf/2505.08728v1)|null|
+|**2025-05-13**|**Memorization-Compression Cycles Improve Generalization**|Fangyuan Yu et.al.|[2505.08727v1](http://arxiv.org/abs/2505.08727v1)|[2505.08727v1](http://arxiv.org/pdf/2505.08727v1)|null|
+|**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719v1](http://arxiv.org/abs/2505.08719v1)|[2505.08719v1](http://arxiv.org/pdf/2505.08719v1)|null|
+|**2025-05-13**|**Big Data and the Computational Social Science of Entrepreneurship and Innovation**|Ningzi Li et.al.|[2505.08706v1](http://arxiv.org/abs/2505.08706v1)|[2505.08706v1](http://arxiv.org/pdf/2505.08706v1)|null|
 |**2025-05-12**|**H$^{\mathbf{3}}$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819v1](http://arxiv.org/abs/2505.07819v1)|[2505.07819v1](http://arxiv.org/pdf/2505.07819v1)|null|
 |**2025-05-12**|**A class of distributed automata that contains the modal mu-fragment**|Veeti Ahvonen et.al.|[2505.07816v1](http://arxiv.org/abs/2505.07816v1)|[2505.07816v1](http://arxiv.org/pdf/2505.07816v1)|null|
 |**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813v1](http://arxiv.org/abs/2505.07813v1)|[2505.07813v1](http://arxiv.org/pdf/2505.07813v1)|null|
