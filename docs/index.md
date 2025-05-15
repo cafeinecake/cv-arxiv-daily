@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-14**|**Accelerating the time-domain LISA response model with central finite differences and hybridization techniques**|Jorge Valencia et.al.|[2505.09600v1](http://arxiv.org/abs/2505.09600v1)|[2505.09600v1](http://arxiv.org/pdf/2505.09600v1)|null|
+|**2025-05-14**|**The vertical structure of debris discs and the role of disc gravity**|Antranik A. Sefilian et.al.|[2505.09578v1](http://arxiv.org/abs/2505.09578v1)|[2505.09578v1](http://arxiv.org/pdf/2505.09578v1)|null|
+|**2025-05-14**|**Long-term Timing Results of Ecliptic Pulsars Observed with I-LOFAR**|S. C. Susarla et.al.|[2505.09549v1](http://arxiv.org/abs/2505.09549v1)|[2505.09549v1](http://arxiv.org/pdf/2505.09549v1)|null|
+|**2025-05-14**|**A weak Ly$α$ halo for an extremely bright Little Red Dot. Indications of enshrouded SMBH growth**|Alberto Torralba et.al.|[2505.09542v1](http://arxiv.org/abs/2505.09542v1)|[2505.09542v1](http://arxiv.org/pdf/2505.09542v1)|null|
+|**2025-05-14**|**The construction and use of dephasing prescriptions for environmental effects in gravitational wave astronomy**|János Takátsy et.al.|[2505.09513v1](http://arxiv.org/abs/2505.09513v1)|[2505.09513v1](http://arxiv.org/pdf/2505.09513v1)|null|
+|**2025-05-14**|**A 70 pc-Diameter Nova Super-remnant Surrounding the Recurrent Nova RS Ophiuchi**|Michael M. Shara et.al.|[2505.09510v1](http://arxiv.org/abs/2505.09510v1)|[2505.09510v1](http://arxiv.org/pdf/2505.09510v1)|null|
+|**2025-05-14**|**Precision Joint Constraints on Cosmology and Gravity Using Strongly Lensed Gravitational Wave Populations**|Xinguang Ying et.al.|[2505.09507v1](http://arxiv.org/abs/2505.09507v1)|[2505.09507v1](http://arxiv.org/pdf/2505.09507v1)|null|
+|**2025-05-14**|**DESI DR1 Lyα 1D power spectrum: The Fast Fourier Transform estimator measurement**|Corentin Ravoux et.al.|[2505.09493v1](http://arxiv.org/abs/2505.09493v1)|[2505.09493v1](http://arxiv.org/pdf/2505.09493v1)|null|
+|**2025-05-14**|**The Blinking Crystallinity of Europa: A Competition between Irradiation and Thermal Alteration**|Cyril Mergny et.al.|[2505.09490v1](http://arxiv.org/abs/2505.09490v1)|[2505.09490v1](http://arxiv.org/pdf/2505.09490v1)|null|
+|**2025-05-14**|**Shape index of Yarkovsky effect on irregularly shaped asteroids**|Yining Zhang et.al.|[2505.09482v1](http://arxiv.org/abs/2505.09482v1)|[2505.09482v1](http://arxiv.org/pdf/2505.09482v1)|null|
 |**2025-05-13**|**Modelling the impact of quasar redshift errors on the full-shape analysis of correlations in the Lyman-$α$ forest**|Calum Gordon et.al.|[2505.08789v1](http://arxiv.org/abs/2505.08789v1)|[2505.08789v1](http://arxiv.org/pdf/2505.08789v1)|null|
 |**2025-05-13**|**Kination-like Era Driven by the Effective Inflaton/Higgs Potential**|Anish Ghoshal et.al.|[2505.08786v1](http://arxiv.org/abs/2505.08786v1)|[2505.08786v1](http://arxiv.org/pdf/2505.08786v1)|null|
 |**2025-05-13**|**Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a**|Muskan Yadav et.al.|[2505.08781v1](http://arxiv.org/abs/2505.08781v1)|[2505.08781v1](http://arxiv.org/pdf/2505.08781v1)|null|
@@ -7132,6 +7142,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-14**|**Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?**|Anthony GX-Chen et.al.|[2505.09614v1](http://arxiv.org/abs/2505.09614v1)|[2505.09614v1](http://arxiv.org/pdf/2505.09614v1)|null|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610v1](http://arxiv.org/abs/2505.09610v1)|[2505.09610v1](http://arxiv.org/pdf/2505.09610v1)|null|
+|**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598v1](http://arxiv.org/abs/2505.09598v1)|[2505.09598v1](http://arxiv.org/pdf/2505.09598v1)|null|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595v1](http://arxiv.org/abs/2505.09595v1)|[2505.09595v1](http://arxiv.org/pdf/2505.09595v1)|null|
+|**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591v1](http://arxiv.org/abs/2505.09591v1)|[2505.09591v1](http://arxiv.org/pdf/2505.09591v1)|null|
+|**2025-05-14**|**Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach**|Shannon Lodoen et.al.|[2505.09576v1](http://arxiv.org/abs/2505.09576v1)|[2505.09576v1](http://arxiv.org/pdf/2505.09576v1)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568v1](http://arxiv.org/abs/2505.09568v1)|[2505.09568v1](http://arxiv.org/pdf/2505.09568v1)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565v1](http://arxiv.org/abs/2505.09565v1)|[2505.09565v1](http://arxiv.org/pdf/2505.09565v1)|null|
+|**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561v1](http://arxiv.org/abs/2505.09561v1)|[2505.09561v1](http://arxiv.org/pdf/2505.09561v1)|null|
+|**2025-05-14**|**WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**|Shengpeng Ji et.al.|[2505.09558v1](http://arxiv.org/abs/2505.09558v1)|[2505.09558v1](http://arxiv.org/pdf/2505.09558v1)|**[link](https://github.com/jishengpeng/wavreward)**|
 |**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783v1](http://arxiv.org/abs/2505.08783v1)|[2505.08783v1](http://arxiv.org/pdf/2505.08783v1)|null|
 |**2025-05-13**|**ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus**|Etienne Guichard et.al.|[2505.08778v1](http://arxiv.org/abs/2505.08778v1)|[2505.08778v1](http://arxiv.org/pdf/2505.08778v1)|null|
 |**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v2](http://arxiv.org/abs/2505.08765v2)|[2505.08765v2](http://arxiv.org/pdf/2505.08765v2)|null|
