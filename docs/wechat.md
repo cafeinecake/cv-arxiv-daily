@@ -1,4 +1,4 @@
-> Updated on 2025.05.14
+> Updated on 2025.05.15
 
 ## Astrophysics
 
@@ -7126,7 +7126,7 @@
 
 - 2025-05-13, **CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**, Shanda Li et.al., Paper: [http://arxiv.org/abs/2505.08783v1](http://arxiv.org/abs/2505.08783v1), Paper: [http://arxiv.org/abs/2505.08783v1](http://arxiv.org/pdf/2505.08783v1)
 - 2025-05-13, **ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus**, Etienne Guichard et.al., Paper: [http://arxiv.org/abs/2505.08778v1](http://arxiv.org/abs/2505.08778v1), Paper: [http://arxiv.org/abs/2505.08778v1](http://arxiv.org/pdf/2505.08778v1)
-- 2025-05-13, **Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**, Yatai Ji et.al., Paper: [http://arxiv.org/abs/2505.08765v1](http://arxiv.org/abs/2505.08765v1), Paper: [http://arxiv.org/abs/2505.08765v1](http://arxiv.org/pdf/2505.08765v1)
+- 2025-05-14, **Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**, Yatai Ji et.al., Paper: [http://arxiv.org/abs/2505.08765v2](http://arxiv.org/abs/2505.08765v2), Paper: [http://arxiv.org/abs/2505.08765v2](http://arxiv.org/pdf/2505.08765v2)
 - 2025-05-13, **Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion**, Huiyan Qi et.al., Paper: [http://arxiv.org/abs/2505.08747v1](http://arxiv.org/abs/2505.08747v1), Paper: [http://arxiv.org/abs/2505.08747v1](http://arxiv.org/pdf/2505.08747v1)
 - 2025-05-13, **DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models**, Xiaoyang Chen et.al., Paper: [http://arxiv.org/abs/2505.08744v1](http://arxiv.org/abs/2505.08744v1),Paper: [http://arxiv.org/abs/2505.08744v1](http://arxiv.org/pdf/2505.08744v1), Code: **[https://github.com/deepmathllm/deepmath](https://github.com/deepmathllm/deepmath)**
 - 2025-05-13, **The structure and migration of twin boundaries in tetragonal $β$-Sn: an application of machine learning based interatomic potentials**, Ian Chesser et.al., Paper: [http://arxiv.org/abs/2505.08732v1](http://arxiv.org/abs/2505.08732v1), Paper: [http://arxiv.org/abs/2505.08732v1](http://arxiv.org/pdf/2505.08732v1)
