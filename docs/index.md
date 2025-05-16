@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-15**|**Mass, Gas, and Gauss around a T Tauri Star with SPIRou**|J. -F. Donati et.al.|[2505.10564v1](http://arxiv.org/abs/2505.10564v1)|[2505.10564v1](http://arxiv.org/pdf/2505.10564v1)|null|
+|**2025-05-15**|**A Systematic Search for Trace Molecules in Exoplanet K2-18 b**|Lorenzo Pica-Ciamarra et.al.|[2505.10539v1](http://arxiv.org/abs/2505.10539v1)|[2505.10539v1](http://arxiv.org/pdf/2505.10539v1)|null|
+|**2025-05-15**|**A Catalogue of Ultracompact Mass-Transferring White Dwarf Binaries**|Matthew J. Green et.al.|[2505.10535v1](http://arxiv.org/abs/2505.10535v1)|[2505.10535v1](http://arxiv.org/pdf/2505.10535v1)|null|
+|**2025-05-15**|**ACT-ing on inflation: Implications of non Bunch-Davies initial condition and reheating on single-field slow roll models**|Suvashis Maity et.al.|[2505.10534v1](http://arxiv.org/abs/2505.10534v1)|[2505.10534v1](http://arxiv.org/pdf/2505.10534v1)|null|
+|**2025-05-15**|**AGN star dynamics under the Influence of Outflow-Ambient Interactions**|Muxin Liu et.al.|[2505.10524v1](http://arxiv.org/abs/2505.10524v1)|[2505.10524v1](http://arxiv.org/pdf/2505.10524v1)|null|
+|**2025-05-15**|**Possibility of Multi-Messenger Observations of Quasi-Periodic Eruptions with X-rays and Gravitational Waves**|Tomoya Suzuguchi et.al.|[2505.10488v1](http://arxiv.org/abs/2505.10488v1)|[2505.10488v1](http://arxiv.org/pdf/2505.10488v1)|null|
+|**2025-05-15**|**Boosting decision trees for Main Belt Asteroid selection in planetary ephemerides: an alternative model**|Vincenzo Mariani et.al.|[2505.10487v1](http://arxiv.org/abs/2505.10487v1)|[2505.10487v1](http://arxiv.org/pdf/2505.10487v1)|null|
+|**2025-05-15**|**The Relationship between the Kinematics of Coronal Mass Ejections and the Brightness of the Corona**|Kelly Victor-French et.al.|[2505.10479v1](http://arxiv.org/abs/2505.10479v1)|[2505.10479v1](http://arxiv.org/pdf/2505.10479v1)|null|
+|**2025-05-15**|**Searching for Accreting Compact Binaries in eROSITA DR1**|Hao-Bin Liu et.al.|[2505.10478v1](http://arxiv.org/abs/2505.10478v1)|[2505.10478v1](http://arxiv.org/pdf/2505.10478v1)|null|
+|**2025-05-15**|**A possible periodic RM evolution in the repeating FRB 20220529**|Yi-Fang Liang et.al.|[2505.10463v1](http://arxiv.org/abs/2505.10463v1)|[2505.10463v1](http://arxiv.org/pdf/2505.10463v1)|null|
 |**2025-05-14**|**Accelerating the time-domain LISA response model with central finite differences and hybridization techniques**|Jorge Valencia et.al.|[2505.09600v1](http://arxiv.org/abs/2505.09600v1)|[2505.09600v1](http://arxiv.org/pdf/2505.09600v1)|null|
 |**2025-05-14**|**The vertical structure of debris discs and the role of disc gravity**|Antranik A. Sefilian et.al.|[2505.09578v1](http://arxiv.org/abs/2505.09578v1)|[2505.09578v1](http://arxiv.org/pdf/2505.09578v1)|null|
 |**2025-05-14**|**Long-term Timing Results of Ecliptic Pulsars Observed with I-LOFAR**|S. C. Susarla et.al.|[2505.09549v1](http://arxiv.org/abs/2505.09549v1)|[2505.09549v1](http://arxiv.org/pdf/2505.09549v1)|null|
@@ -7142,6 +7152,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559v1](http://arxiv.org/abs/2505.10559v1)|[2505.10559v1](http://arxiv.org/pdf/2505.10559v1)|null|
+|**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557v1](http://arxiv.org/abs/2505.10557v1)|[2505.10557v1](http://arxiv.org/pdf/2505.10557v1)|**[link](https://github.com/mathllm/mathcoder)**|
+|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551v1](http://arxiv.org/abs/2505.10551v1)|[2505.10551v1](http://arxiv.org/pdf/2505.10551v1)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
+|**2025-05-15**|**Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**|Milan Ganai et.al.|[2505.10547v1](http://arxiv.org/abs/2505.10547v1)|[2505.10547v1](http://arxiv.org/pdf/2505.10547v1)|null|
+|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543v1](http://arxiv.org/abs/2505.10543v1)|[2505.10543v1](http://arxiv.org/pdf/2505.10543v1)|null|
+|**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537v1](http://arxiv.org/abs/2505.10537v1)|[2505.10537v1](http://arxiv.org/pdf/2505.10537v1)|null|
+|**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522v1](http://arxiv.org/abs/2505.10522v1)|[2505.10522v1](http://arxiv.org/pdf/2505.10522v1)|null|
+|**2025-05-15**|**Multi-Token Prediction Needs Registers**|Anastasios Gerontopoulos et.al.|[2505.10518v1](http://arxiv.org/abs/2505.10518v1)|[2505.10518v1](http://arxiv.org/pdf/2505.10518v1)|**[link](https://github.com/nasosger/mutor)**|
+|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|[2505.10515v1](http://arxiv.org/pdf/2505.10515v1)|null|
+|**2025-05-15**|**Interpretable Artificial Intelligence for Topological Photonics**|Ali Ghorashi et.al.|[2505.10485v1](http://arxiv.org/abs/2505.10485v1)|[2505.10485v1](http://arxiv.org/pdf/2505.10485v1)|null|
 |**2025-05-14**|**Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?**|Anthony GX-Chen et.al.|[2505.09614v1](http://arxiv.org/abs/2505.09614v1)|[2505.09614v1](http://arxiv.org/pdf/2505.09614v1)|null|
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610v1](http://arxiv.org/abs/2505.09610v1)|[2505.09610v1](http://arxiv.org/pdf/2505.09610v1)|null|
 |**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598v1](http://arxiv.org/abs/2505.09598v1)|[2505.09598v1](http://arxiv.org/pdf/2505.09598v1)|null|
