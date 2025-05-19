@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-16**|**NVSS J151002+570243: accretion and spin of a z > 4 Fermi detected blazar**|Gabriele Alzati et.al.|[2505.11500v1](http://arxiv.org/abs/2505.11500v1)|[2505.11500v1](http://arxiv.org/pdf/2505.11500v1)|null|
+|**2025-05-16**|**Evolution of granular salty ice analogs for Europa: Sublimation and Irradiation**|Rafael Ottersberg et.al.|[2505.11498v1](http://arxiv.org/abs/2505.11498v1)|[2505.11498v1](http://arxiv.org/pdf/2505.11498v1)|null|
+|**2025-05-16**|**EMU/GAMA: A new approach to characterising radio luminosity functions**|J. Prathap et.al.|[2505.11453v1](http://arxiv.org/abs/2505.11453v1)|[2505.11453v1](http://arxiv.org/pdf/2505.11453v1)|null|
+|**2025-05-16**|**Polarization Signatures of Quasi-Periodic Oscillations in Simulated Tilted, Truncated Disks**|P. Chris Fragile et.al.|[2505.11446v1](http://arxiv.org/abs/2505.11446v1)|[2505.11446v1](http://arxiv.org/pdf/2505.11446v1)|null|
+|**2025-05-16**|**FUOr-Aur 0544+3330: A New YSO Outburst in the Outskirts of Auriga OB1, Viewed Face-On**|Lynne A. Hillenbrand et.al.|[2505.11440v1](http://arxiv.org/abs/2505.11440v1)|[2505.11440v1](http://arxiv.org/pdf/2505.11440v1)|null|
+|**2025-05-16**|**Inflationary Dynamics of Mutated Hilltop Inflation in Einstein-Gauss-Bonnet Gravity Under New Slow-Roll Approximations with Generalised Reheating**|Yogesh et.al.|[2505.11429v1](http://arxiv.org/abs/2505.11429v1)|[2505.11429v1](http://arxiv.org/pdf/2505.11429v1)|null|
+|**2025-05-16**|**Acceleration Potential and Density Profile of Secondary Plasma in the Magnetosphere of Orthogonal Pulsars**|A. Yu. Istomin et.al.|[2505.11408v1](http://arxiv.org/abs/2505.11408v1)|[2505.11408v1](http://arxiv.org/pdf/2505.11408v1)|null|
+|**2025-05-16**|**Probing Quantum Structure in Gravitational Radiation**|Sreenath K. Manikandan et.al.|[2505.11407v1](http://arxiv.org/abs/2505.11407v1)|[2505.11407v1](http://arxiv.org/pdf/2505.11407v1)|null|
+|**2025-05-16**|**A magnetic field detection in the massive O-type bright giant 63 Oph**|James A. Barron et.al.|[2505.11374v1](http://arxiv.org/abs/2505.11374v1)|[2505.11374v1](http://arxiv.org/pdf/2505.11374v1)|null|
+|**2025-05-16**|**APE: An analytical protostellar environment to provide physical conditions to chemical models and synthetic observations**|Pierre Marchand et.al.|[2505.11364v1](http://arxiv.org/abs/2505.11364v1)|[2505.11364v1](http://arxiv.org/pdf/2505.11364v1)|null|
 |**2025-05-15**|**Mass, Gas, and Gauss around a T Tauri Star with SPIRou**|J. -F. Donati et.al.|[2505.10564v1](http://arxiv.org/abs/2505.10564v1)|[2505.10564v1](http://arxiv.org/pdf/2505.10564v1)|null|
 |**2025-05-15**|**A Systematic Search for Trace Molecules in Exoplanet K2-18 b**|Lorenzo Pica-Ciamarra et.al.|[2505.10539v1](http://arxiv.org/abs/2505.10539v1)|[2505.10539v1](http://arxiv.org/pdf/2505.10539v1)|null|
 |**2025-05-15**|**A Catalogue of Ultracompact Mass-Transferring White Dwarf Binaries**|Matthew J. Green et.al.|[2505.10535v1](http://arxiv.org/abs/2505.10535v1)|[2505.10535v1](http://arxiv.org/pdf/2505.10535v1)|null|
@@ -7152,6 +7162,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-16**|**Modeling cognitive processes of natural reading with transformer-based Language Models**|Bruno Bianchi et.al.|[2505.11485v1](http://arxiv.org/abs/2505.11485v1)|[2505.11485v1](http://arxiv.org/pdf/2505.11485v1)|null|
+|**2025-05-16**|**MOSAAIC: Managing Optimization towards Shared Autonomy, Authority, and Initiative in Co-creation**|Alayt Issak et.al.|[2505.11481v1](http://arxiv.org/abs/2505.11481v1)|[2505.11481v1](http://arxiv.org/pdf/2505.11481v1)|null|
+|**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480v1](http://arxiv.org/abs/2505.11480v1)|[2505.11480v1](http://arxiv.org/pdf/2505.11480v1)|null|
+|**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478v1](http://arxiv.org/abs/2505.11478v1)|[2505.11478v1](http://arxiv.org/pdf/2505.11478v1)|null|
+|**2025-05-16**|**HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages**|Zhilin Wang et.al.|[2505.11475v1](http://arxiv.org/abs/2505.11475v1)|[2505.11475v1](http://arxiv.org/pdf/2505.11475v1)|null|
+|**2025-05-16**|**How AI Generates Creativity from Inauthenticity**|James Brusseau et.al.|[2505.11463v1](http://arxiv.org/abs/2505.11463v1)|[2505.11463v1](http://arxiv.org/pdf/2505.11463v1)|null|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462v1](http://arxiv.org/abs/2505.11462v1)|[2505.11462v1](http://arxiv.org/pdf/2505.11462v1)|null|
+|**2025-05-16**|**HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation**|Shaina Raza et.al.|[2505.11454v1](http://arxiv.org/abs/2505.11454v1)|[2505.11454v1](http://arxiv.org/pdf/2505.11454v1)|null|
+|**2025-05-16**|**Extracting Explainable Dates From Medical Images By Reverse-Engineering UNIX Timestamps**|Lee Harris et.al.|[2505.11451v1](http://arxiv.org/abs/2505.11451v1)|[2505.11451v1](http://arxiv.org/pdf/2505.11451v1)|null|
+|**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449v1](http://arxiv.org/abs/2505.11449v1)|[2505.11449v1](http://arxiv.org/pdf/2505.11449v1)|null|
 |**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559v1](http://arxiv.org/abs/2505.10559v1)|[2505.10559v1](http://arxiv.org/pdf/2505.10559v1)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557v1](http://arxiv.org/abs/2505.10557v1)|[2505.10557v1](http://arxiv.org/pdf/2505.10557v1)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551v1](http://arxiv.org/abs/2505.10551v1)|[2505.10551v1](http://arxiv.org/pdf/2505.10551v1)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
