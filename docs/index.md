@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-19**|**Wonderings on Wiggly Bispectra: Non-linear Evolution and Reconstruction of Oscillations in the Squeezed Bispectrum**|Samuel Goldstein et.al.|[2505.13443v1](http://arxiv.org/abs/2505.13443v1)|[2505.13443v1](http://arxiv.org/pdf/2505.13443v1)|null|
+|**2025-05-19**|**Scalar-Induced Gravitational Waves in Palatini $f(R)$ Gravity**|Samuel Sánchez López et.al.|[2505.13420v1](http://arxiv.org/abs/2505.13420v1)|[2505.13420v1](http://arxiv.org/pdf/2505.13420v1)|null|
+|**2025-05-19**|**Insufficient evidence for DMS and DMDS in the atmosphere of K2-18 b. From a joint analysis of JWST NIRISS, NIRSpec, and MIRI observations**|R. Luque et.al.|[2505.13407v1](http://arxiv.org/abs/2505.13407v1)|[2505.13407v1](http://arxiv.org/pdf/2505.13407v1)|null|
+|**2025-05-19**|**Filtering out large-scale noise for cluster weak-lensing mass estimation**|C. Murray et.al.|[2505.13399v1](http://arxiv.org/abs/2505.13399v1)|[2505.13399v1](http://arxiv.org/pdf/2505.13399v1)|null|
+|**2025-05-19**|**Constraining Reheating Temperature, Inflaton-SM Coupling and Dark Matter Mass in Light of ACT DR6 Observations**|Rajesh Mondal et.al.|[2505.13387v1](http://arxiv.org/abs/2505.13387v1)|[2505.13387v1](http://arxiv.org/pdf/2505.13387v1)|null|
+|**2025-05-19**|**Proton heating estimates from near-Earth observations of coronal mass ejections in solar cycle 24**|Debesh Bhattacharjee et.al.|[2505.13386v1](http://arxiv.org/abs/2505.13386v1)|[2505.13386v1](http://arxiv.org/pdf/2505.13386v1)|null|
+|**2025-05-19**|**Polarization Properties of Energetic Pulsars at Meterwavelengths**|Dipanjan Mitra et.al.|[2505.13359v1](http://arxiv.org/abs/2505.13359v1)|[2505.13359v1](http://arxiv.org/pdf/2505.13359v1)|null|
+|**2025-05-19**|**FAUST XXV. A potential new molecular outflow in [BHB2007] 11**|A. Martínez-Henares et.al.|[2505.13333v1](http://arxiv.org/abs/2505.13333v1)|[2505.13333v1](http://arxiv.org/pdf/2505.13333v1)|null|
+|**2025-05-19**|**Early Post Asymptotic Giant Branch Instability: Does it Affect White Dwarf Hydrogen Envelope Mass?**|James MacDonald et.al.|[2505.13313v1](http://arxiv.org/abs/2505.13313v1)|[2505.13313v1](http://arxiv.org/pdf/2505.13313v1)|null|
+|**2025-05-19**|**Kinematic dynamos and resolution limits for Smoothed Particle Magnetohydrodynamics**|Nikyta Shchutskyi et.al.|[2505.13305v1](http://arxiv.org/abs/2505.13305v1)|[2505.13305v1](http://arxiv.org/pdf/2505.13305v1)|null|
 |**2025-05-16**|**NVSS J151002+570243: accretion and spin of a z > 4 Fermi detected blazar**|Gabriele Alzati et.al.|[2505.11500v1](http://arxiv.org/abs/2505.11500v1)|[2505.11500v1](http://arxiv.org/pdf/2505.11500v1)|null|
 |**2025-05-16**|**Evolution of granular salty ice analogs for Europa: Sublimation and Irradiation**|Rafael Ottersberg et.al.|[2505.11498v1](http://arxiv.org/abs/2505.11498v1)|[2505.11498v1](http://arxiv.org/pdf/2505.11498v1)|null|
 |**2025-05-16**|**EMU/GAMA: A new approach to characterising radio luminosity functions**|J. Prathap et.al.|[2505.11453v1](http://arxiv.org/abs/2505.11453v1)|[2505.11453v1](http://arxiv.org/pdf/2505.11453v1)|null|
@@ -7162,6 +7172,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448v1](http://arxiv.org/abs/2505.13448v1)|[2505.13448v1](http://arxiv.org/pdf/2505.13448v1)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445v1](http://arxiv.org/abs/2505.13445v1)|[2505.13445v1](http://arxiv.org/pdf/2505.13445v1)|null|
+|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|[2505.13439v1](http://arxiv.org/pdf/2505.13439v1)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438v1](http://arxiv.org/abs/2505.13438v1)|[2505.13438v1](http://arxiv.org/pdf/2505.13438v1)|**[link](https://github.com/sail-sg/anytimereasoner)**|
+|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|[2505.13437v1](http://arxiv.org/pdf/2505.13437v1)|null|
+|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427v1](http://arxiv.org/abs/2505.13427v1)|[2505.13427v1](http://arxiv.org/pdf/2505.13427v1)|**[link](https://github.com/modalminds/mm-prm)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425v1](http://arxiv.org/abs/2505.13425v1)|[2505.13425v1](http://arxiv.org/pdf/2505.13425v1)|null|
+|**2025-05-19**|**AdaptThink: Reasoning Models Can Learn When to Think**|Jiajie Zhang et.al.|[2505.13417v1](http://arxiv.org/abs/2505.13417v1)|[2505.13417v1](http://arxiv.org/pdf/2505.13417v1)|**[link](https://github.com/thu-keg/adaptthink)**|
+|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408v1](http://arxiv.org/abs/2505.13408v1)|[2505.13408v1](http://arxiv.org/pdf/2505.13408v1)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406v1](http://arxiv.org/abs/2505.13406v1)|[2505.13406v1](http://arxiv.org/pdf/2505.13406v1)|null|
 |**2025-05-16**|**Modeling cognitive processes of natural reading with transformer-based Language Models**|Bruno Bianchi et.al.|[2505.11485v1](http://arxiv.org/abs/2505.11485v1)|[2505.11485v1](http://arxiv.org/pdf/2505.11485v1)|null|
 |**2025-05-16**|**MOSAAIC: Managing Optimization towards Shared Autonomy, Authority, and Initiative in Co-creation**|Alayt Issak et.al.|[2505.11481v1](http://arxiv.org/abs/2505.11481v1)|[2505.11481v1](http://arxiv.org/pdf/2505.11481v1)|null|
 |**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480v1](http://arxiv.org/abs/2505.11480v1)|[2505.11480v1](http://arxiv.org/pdf/2505.11480v1)|null|
