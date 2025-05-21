@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 
 ## Astrophysics
 
@@ -7174,7 +7174,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448v1](http://arxiv.org/abs/2505.13448v1)|[2505.13448v1](http://arxiv.org/pdf/2505.13448v1)|**[link](https://github.com/vsamuel2003/cie)**|
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445v1](http://arxiv.org/abs/2505.13445v1)|[2505.13445v1](http://arxiv.org/pdf/2505.13445v1)|null|
-|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|[2505.13439v1](http://arxiv.org/pdf/2505.13439v1)|null|
+|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|[2505.13439v1](http://arxiv.org/pdf/2505.13439v1)|**[link](https://github.com/huawei-lin/VTBench)**|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438v1](http://arxiv.org/abs/2505.13438v1)|[2505.13438v1](http://arxiv.org/pdf/2505.13438v1)|**[link](https://github.com/sail-sg/anytimereasoner)**|
 |**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|[2505.13437v1](http://arxiv.org/pdf/2505.13437v1)|null|
 |**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427v1](http://arxiv.org/abs/2505.13427v1)|[2505.13427v1](http://arxiv.org/pdf/2505.13427v1)|**[link](https://github.com/modalminds/mm-prm)**|
