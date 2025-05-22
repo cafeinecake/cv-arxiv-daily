@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 
 ## Astrophysics
 
@@ -8,9 +8,9 @@
 |**2025-05-20**|**A JWST View of the Overmassive Black Hole in NGC 4486B**|Behzad Tahmasebzadeh et.al.|[2505.14676v1](http://arxiv.org/abs/2505.14676v1)|[2505.14676v1](http://arxiv.org/pdf/2505.14676v1)|null|
 |**2025-05-20**|**The Great Comets of 1843 and 1882 at Their Previous Return to Perihelion in the Twelfth Century: One Spectacular, the Other Dull**|Zdenek Sekanina et.al.|[2505.14662v1](http://arxiv.org/abs/2505.14662v1)|[2505.14662v1](http://arxiv.org/pdf/2505.14662v1)|null|
 |**2025-05-20**|**A model of magnetised and rotating convection for stellar and planetary interiors**|Leïla Bessila et.al.|[2505.14650v1](http://arxiv.org/abs/2505.14650v1)|[2505.14650v1](http://arxiv.org/pdf/2505.14650v1)|null|
-|**2025-05-20**|**Minimizing Contaminant Leakage in Internal Linear Combination Maps Using a Data-Driven Approach**|Kristen M. Surrao et.al.|[2505.14644v1](http://arxiv.org/abs/2505.14644v1)|[2505.14644v1](http://arxiv.org/pdf/2505.14644v1)|null|
+|**2025-05-20**|**Minimizing Contaminant Leakage in Internal Linear Combination Maps Using a Data-Driven Approach**|Kristen M. Surrao et.al.|[2505.14644v1](http://arxiv.org/abs/2505.14644v1)|[2505.14644v1](http://arxiv.org/pdf/2505.14644v1)|**[link](https://github.com/kmsurrao/cib-deproj)**|
 |**2025-05-20**|**OSIRIS-REx Operational Key Decision Points: A Retrospective**|Rich Burns et.al.|[2505.14632v1](http://arxiv.org/abs/2505.14632v1)|[2505.14632v1](http://arxiv.org/pdf/2505.14632v1)|null|
-|**2025-05-20**|**Measuring spin precession from massive black holes binaries with gravitational waves: insights from time-domain signal morphology**|Simona J. Miller et.al.|[2505.14573v1](http://arxiv.org/abs/2505.14573v1)|[2505.14573v1](http://arxiv.org/pdf/2505.14573v1)|null|
+|**2025-05-21**|**Measuring spin precession from massive black hole binaries with gravitational waves: insights from time-domain signal morphology**|Simona J. Miller et.al.|[2505.14573v2](http://arxiv.org/abs/2505.14573v2)|[2505.14573v2](http://arxiv.org/pdf/2505.14573v2)|**[link](https://github.com/simonajmiller/heavy-precessing-bbh-time-domain)**|
 |**2025-05-20**|**Classifying metal-poor stars with machine learning using nucleosynthesis calculations**|Nicole Vassh et.al.|[2505.14563v1](http://arxiv.org/abs/2505.14563v1)|[2505.14563v1](http://arxiv.org/pdf/2505.14563v1)|null|
 |**2025-05-20**|**Task-parallelism in SWIFT for heterogeneous compute architectures**|Abouzied M. A. Nasar et.al.|[2505.14538v1](http://arxiv.org/abs/2505.14538v1)|[2505.14538v1](http://arxiv.org/pdf/2505.14538v1)|null|
 |**2025-05-20**|**Neutrinophilic Super-Resonant Dark Matter**|Murat Abdughani et.al.|[2505.14491v1](http://arxiv.org/abs/2505.14491v1)|[2505.14491v1](http://arxiv.org/pdf/2505.14491v1)|null|
@@ -7178,13 +7178,13 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684v1](http://arxiv.org/abs/2505.14684v1)|[2505.14684v1](http://arxiv.org/pdf/2505.14684v1)|null|
+|**2025-05-21**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684v2](http://arxiv.org/abs/2505.14684v2)|[2505.14684v2](http://arxiv.org/pdf/2505.14684v2)|null|
 |**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681v1](http://arxiv.org/abs/2505.14681v1)|[2505.14681v1](http://arxiv.org/pdf/2505.14681v1)|null|
 |**2025-05-20**|**NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search**|Sunhao Dai et.al.|[2505.14680v1](http://arxiv.org/abs/2505.14680v1)|[2505.14680v1](http://arxiv.org/pdf/2505.14680v1)|null|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673v1](http://arxiv.org/abs/2505.14673v1)|[2505.14673v1](http://arxiv.org/pdf/2505.14673v1)|null|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668v1](http://arxiv.org/abs/2505.14668v1)|[2505.14668v1](http://arxiv.org/pdf/2505.14668v1)|null|
 |**2025-05-20**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667v1](http://arxiv.org/abs/2505.14667v1)|[2505.14667v1](http://arxiv.org/pdf/2505.14667v1)|null|
-|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|[2505.14664v1](http://arxiv.org/pdf/2505.14664v1)|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|[2505.14664v1](http://arxiv.org/pdf/2505.14664v1)|**[link](https://github.com/yilinye/akrmap)**|
 |**2025-05-20**|**Abacus: A Cost-Based Optimizer for Semantic Operator Systems**|Matthew Russo et.al.|[2505.14661v1](http://arxiv.org/abs/2505.14661v1)|[2505.14661v1](http://arxiv.org/pdf/2505.14661v1)|null|
 |**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660v1](http://arxiv.org/abs/2505.14660v1)|[2505.14660v1](http://arxiv.org/pdf/2505.14660v1)|null|
 |**2025-05-20**|**Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks**|Navneet Kaur et.al.|[2505.14659v1](http://arxiv.org/abs/2505.14659v1)|[2505.14659v1](http://arxiv.org/pdf/2505.14659v1)|null|
