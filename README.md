@@ -1,4 +1,4 @@
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 
 ## Astrophysics
 
@@ -7198,16 +7198,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|[2505.17022v1](http://arxiv.org/pdf/2505.17022v1)|null|
-|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|[2505.17019v1](http://arxiv.org/pdf/2505.17019v1)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|[2505.17017v1](http://arxiv.org/pdf/2505.17017v1)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|[2505.17022v1](http://arxiv.org/pdf/2505.17022v1)|**[link](https://github.com/gogoduan/got-r1)**|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|[2505.17019v1](http://arxiv.org/pdf/2505.17019v1)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|[2505.17017v1](http://arxiv.org/pdf/2505.17017v1)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016v1](http://arxiv.org/abs/2505.17016v1)|[2505.17016v1](http://arxiv.org/pdf/2505.17016v1)|null|
 |**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|[2505.17012v1](http://arxiv.org/pdf/2505.17012v1)|**[link](https://github.com/haoningwu3639/SpatialScore)**|
-|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|[2505.17010v1](http://arxiv.org/pdf/2505.17010v1)|null|
-|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|[2505.17005v1](http://arxiv.org/pdf/2505.17005v1)|null|
-|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|[2505.17004v1](http://arxiv.org/pdf/2505.17004v1)|null|
-|**2025-05-22**|**PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**|Abdul Hannan et.al.|[2505.17002v1](http://arxiv.org/abs/2505.17002v1)|[2505.17002v1](http://arxiv.org/pdf/2505.17002v1)|null|
-|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998v1](http://arxiv.org/abs/2505.16998v1)|[2505.16998v1](http://arxiv.org/pdf/2505.16998v1)|null|
+|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|[2505.17010v1](http://arxiv.org/pdf/2505.17010v1)|**[link](https://github.com/google-deepmind/thunnini)**|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|[2505.17005v1](http://arxiv.org/pdf/2505.17005v1)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|[2505.17004v1](http://arxiv.org/pdf/2505.17004v1)|**[link](https://github.com/neuraloperator/fundps)**|
+|**2025-05-22**|**PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**|Abdul Hannan et.al.|[2505.17002v1](http://arxiv.org/abs/2505.17002v1)|[2505.17002v1](http://arxiv.org/pdf/2505.17002v1)|**[link](https://github.com/hannabdul/paeff)**|
+|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998v1](http://arxiv.org/abs/2505.16998v1)|[2505.16998v1](http://arxiv.org/pdf/2505.16998v1)|**[link](https://github.com/jiangjin1999/formaleval)**|
 |**2025-05-21**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex**|Muquan Yu et.al.|[2505.15813v1](http://arxiv.org/abs/2505.15813v1)|[2505.15813v1](http://arxiv.org/pdf/2505.15813v1)|null|
 |**2025-05-21**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810v1](http://arxiv.org/abs/2505.15810v1)|[2505.15810v1](http://arxiv.org/pdf/2505.15810v1)|**[link](https://github.com/yuqi-zhou/gui-g1)**|
 |**2025-05-21**|**Neural Conditional Transport Maps**|Carlos Rodriguez-Pardo et.al.|[2505.15808v1](http://arxiv.org/abs/2505.15808v1)|[2505.15808v1](http://arxiv.org/pdf/2505.15808v1)|null|
