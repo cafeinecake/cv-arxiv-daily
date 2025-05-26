@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-23**|**Modeling Cosmic-Ray Transport: Magnetized versus Unmagnetized Motion in Astrophysical Magnetic Turbulence**|Jeremiah Lübke et.al.|[2505.18155v1](http://arxiv.org/abs/2505.18155v1)|[2505.18155v1](http://arxiv.org/pdf/2505.18155v1)|null|
+|**2025-05-23**|**Grand Theft Moons. Formation of habitable moons around giant planets**|Zoltan Dencs et.al.|[2505.18144v1](http://arxiv.org/abs/2505.18144v1)|[2505.18144v1](http://arxiv.org/pdf/2505.18144v1)|null|
+|**2025-05-23**|**First astrometric constraints on parity-violation in the gravitational wave background**|Santiago Jaraba et.al.|[2505.18085v1](http://arxiv.org/abs/2505.18085v1)|[2505.18085v1](http://arxiv.org/pdf/2505.18085v1)|null|
+|**2025-05-23**|**Modelling multiwavelength afterglows of the VHE-GRB population**|Monica Barnard et.al.|[2505.18041v1](http://arxiv.org/abs/2505.18041v1)|[2505.18041v1](http://arxiv.org/pdf/2505.18041v1)|null|
+|**2025-05-23**|**Thermodynamics of magnetized BPS baryonic layers**|Sergio Luigi Cacciatori et.al.|[2505.18007v1](http://arxiv.org/abs/2505.18007v1)|[2505.18007v1](http://arxiv.org/pdf/2505.18007v1)|null|
+|**2025-05-23**|**A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Performance**|Pedro Jose Bauza-Ruiz et.al.|[2505.17996v1](http://arxiv.org/abs/2505.17996v1)|[2505.17996v1](http://arxiv.org/pdf/2505.17996v1)|null|
+|**2025-05-23**|**Inflaton Dynamics in Higher-Derivative Scalar-Tensor Theories of Gravity**|Sam E. Brady et.al.|[2505.17986v1](http://arxiv.org/abs/2505.17986v1)|[2505.17986v1](http://arxiv.org/pdf/2505.17986v1)|null|
+|**2025-05-23**|**The impact of compact object deformation on thin accretion disk properties**|Shokoufe Faraji et.al.|[2505.17924v1](http://arxiv.org/abs/2505.17924v1)|[2505.17924v1](http://arxiv.org/pdf/2505.17924v1)|null|
+|**2025-05-23**|**Influence of cosmic expansion on gravitational waveforms**|Tan Liu et.al.|[2505.17886v1](http://arxiv.org/abs/2505.17886v1)|[2505.17886v1](http://arxiv.org/pdf/2505.17886v1)|null|
+|**2025-05-23**|**Two Periodic Activity Epochs in FRB 20201124A: Coincident with Critical RM Evolution Epochs and Its Implications**|Wen-Long Zhang et.al.|[2505.17880v1](http://arxiv.org/abs/2505.17880v1)|[2505.17880v1](http://arxiv.org/pdf/2505.17880v1)|null|
 |**2025-05-22**|**DarkNESS: A skipper-CCD NanoSatellite for Dark Matter Searches**|Phoenix Alpine et.al.|[2505.16981v1](http://arxiv.org/abs/2505.16981v1)|[2505.16981v1](http://arxiv.org/pdf/2505.16981v1)|null|
 |**2025-05-22**|**Predicting the outcome of collisional neutrino flavor conversion**|Julien Froustey et.al.|[2505.16961v1](http://arxiv.org/abs/2505.16961v1)|[2505.16961v1](http://arxiv.org/pdf/2505.16961v1)|null|
 |**2025-05-22**|**Neutron Star crust informed by nuclear structure data**|Pietro Klausner et.al.|[2505.16929v1](http://arxiv.org/abs/2505.16929v1)|[2505.16929v1](http://arxiv.org/pdf/2505.16929v1)|null|
@@ -7198,6 +7208,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151v1](http://arxiv.org/abs/2505.18151v1)|[2505.18151v1](http://arxiv.org/pdf/2505.18151v1)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148v1](http://arxiv.org/abs/2505.18148v1)|[2505.18148v1](http://arxiv.org/pdf/2505.18148v1)|null|
+|**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|[2505.18139v1](http://arxiv.org/pdf/2505.18139v1)|null|
+|**2025-05-23**|**Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**|Mykola Trokhymovych et.al.|[2505.18136v1](http://arxiv.org/abs/2505.18136v1)|[2505.18136v1](http://arxiv.org/pdf/2505.18136v1)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135v1](http://arxiv.org/abs/2505.18135v1)|[2505.18135v1](http://arxiv.org/pdf/2505.18135v1)|null|
+|**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134v1](http://arxiv.org/abs/2505.18134v1)|[2505.18134v1](http://arxiv.org/pdf/2505.18134v1)|null|
+|**2025-05-23**|**Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement**|Jonas A. Actor et.al.|[2505.18131v1](http://arxiv.org/abs/2505.18131v1)|[2505.18131v1](http://arxiv.org/pdf/2505.18131v1)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126v1](http://arxiv.org/abs/2505.18126v1)|[2505.18126v1](http://arxiv.org/pdf/2505.18126v1)|null|
+|**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121v1](http://arxiv.org/abs/2505.18121v1)|[2505.18121v1](http://arxiv.org/pdf/2505.18121v1)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120v1](http://arxiv.org/abs/2505.18120v1)|[2505.18120v1](http://arxiv.org/pdf/2505.18120v1)|null|
 |**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|[2505.17022v1](http://arxiv.org/pdf/2505.17022v1)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|[2505.17019v1](http://arxiv.org/pdf/2505.17019v1)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|[2505.17017v1](http://arxiv.org/pdf/2505.17017v1)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
