@@ -1,4 +1,4 @@
-> Updated on 2025.05.26
+> Updated on 2025.05.27
 
 ## Astrophysics
 
@@ -11,7 +11,7 @@
 - 2025-05-23, **Inflaton Dynamics in Higher-Derivative Scalar-Tensor Theories of Gravity**, Sam E. Brady et.al., Paper: [http://arxiv.org/abs/2505.17986v1](http://arxiv.org/abs/2505.17986v1), Paper: [http://arxiv.org/abs/2505.17986v1](http://arxiv.org/pdf/2505.17986v1)
 - 2025-05-23, **The impact of compact object deformation on thin accretion disk properties**, Shokoufe Faraji et.al., Paper: [http://arxiv.org/abs/2505.17924v1](http://arxiv.org/abs/2505.17924v1), Paper: [http://arxiv.org/abs/2505.17924v1](http://arxiv.org/pdf/2505.17924v1)
 - 2025-05-23, **Influence of cosmic expansion on gravitational waveforms**, Tan Liu et.al., Paper: [http://arxiv.org/abs/2505.17886v1](http://arxiv.org/abs/2505.17886v1), Paper: [http://arxiv.org/abs/2505.17886v1](http://arxiv.org/pdf/2505.17886v1)
-- 2025-05-23, **Two Periodic Activity Epochs in FRB 20201124A: Coincident with Critical RM Evolution Epochs and Its Implications**, Wen-Long Zhang et.al., Paper: [http://arxiv.org/abs/2505.17880v1](http://arxiv.org/abs/2505.17880v1), Paper: [http://arxiv.org/abs/2505.17880v1](http://arxiv.org/pdf/2505.17880v1)
+- 2025-05-26, **Two Periodic Activity Epochs in FRB 20201124A: Coincident with Critical RM Evolution Epochs and Its Implications**, Wen-Long Zhang et.al., Paper: [http://arxiv.org/abs/2505.17880v2](http://arxiv.org/abs/2505.17880v2), Paper: [http://arxiv.org/abs/2505.17880v2](http://arxiv.org/pdf/2505.17880v2)
 - 2025-05-22, **DarkNESS: A skipper-CCD NanoSatellite for Dark Matter Searches**, Phoenix Alpine et.al., Paper: [http://arxiv.org/abs/2505.16981v1](http://arxiv.org/abs/2505.16981v1), Paper: [http://arxiv.org/abs/2505.16981v1](http://arxiv.org/pdf/2505.16981v1)
 - 2025-05-22, **Predicting the outcome of collisional neutrino flavor conversion**, Julien Froustey et.al., Paper: [http://arxiv.org/abs/2505.16961v1](http://arxiv.org/abs/2505.16961v1), Paper: [http://arxiv.org/abs/2505.16961v1](http://arxiv.org/pdf/2505.16961v1)
 - 2025-05-22, **Neutron Star crust informed by nuclear structure data**, Pietro Klausner et.al., Paper: [http://arxiv.org/abs/2505.16929v1](http://arxiv.org/abs/2505.16929v1), Paper: [http://arxiv.org/abs/2505.16929v1](http://arxiv.org/pdf/2505.16929v1)
