@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-26**|**On the chaos induced by the Galactic bar on the orbits of nearby halo stars**|Hanneke C. Woudenberg et.al.|[2505.20143v1](http://arxiv.org/abs/2505.20143v1)|[2505.20143v1](http://arxiv.org/pdf/2505.20143v1)|null|
+|**2025-05-26**|**Realistic Multi-temperature Dust: How Well Can We Constrain the Dust Properties of High-redshift Galaxies?**|Laura Sommovigo et.al.|[2505.20105v1](http://arxiv.org/abs/2505.20105v1)|[2505.20105v1](http://arxiv.org/pdf/2505.20105v1)|null|
+|**2025-05-26**|**DRAGyS -- A comprehensive tool to extract scattering phase functions in protoplanetary disks**|Maxime Roumesy et.al.|[2505.20070v1](http://arxiv.org/abs/2505.20070v1)|[2505.20070v1](http://arxiv.org/pdf/2505.20070v1)|null|
+|**2025-05-26**|**X-Ray spectroscopy and timing (XSPECT) experiment on XPoSat -- instrument configuration and science prospects**|Radhakrishna V et.al.|[2505.20061v1](http://arxiv.org/abs/2505.20061v1)|[2505.20061v1](http://arxiv.org/pdf/2505.20061v1)|null|
+|**2025-05-26**|**Cold Jupiters and small planets: friends, foes, or indifferent? A search for correlations with the largest exoplanet samples**|A. S. Bonomo et.al.|[2505.20035v1](http://arxiv.org/abs/2505.20035v1)|[2505.20035v1](http://arxiv.org/pdf/2505.20035v1)|null|
+|**2025-05-26**|**On the nature of the X-ray binary transient MAXI J1834-021: clues from its first observed outburst**|A. Manca et.al.|[2505.20019v1](http://arxiv.org/abs/2505.20019v1)|[2505.20019v1](http://arxiv.org/pdf/2505.20019v1)|null|
+|**2025-05-26**|**The Impact of Fiber Cross Contamination on Radial Velocity Precision**|Chenyang Ji et.al.|[2505.19994v1](http://arxiv.org/abs/2505.19994v1)|[2505.19994v1](http://arxiv.org/pdf/2505.19994v1)|null|
+|**2025-05-26**|**Comparing Grid Model Fitting Methodologies for Low-Temperature Atmospheres: Markov Chain Monte Carlo versus Random Forest Retrieval**|Anna Lueber et.al.|[2505.19993v1](http://arxiv.org/abs/2505.19993v1)|[2505.19993v1](http://arxiv.org/pdf/2505.19993v1)|null|
+|**2025-05-26**|**Neutron Star Inner Crust at Finite Temperatures: A Comparison Between Compressible Liquid Drop and Extended Thomas-Fermi Approaches**|Guilherme Grams et.al.|[2505.19984v1](http://arxiv.org/abs/2505.19984v1)|[2505.19984v1](http://arxiv.org/pdf/2505.19984v1)|null|
+|**2025-05-26**|**Enhanced magnetic activity in rapidly rotating binary stars**|Jie Yu et.al.|[2505.19967v1](http://arxiv.org/abs/2505.19967v1)|[2505.19967v1](http://arxiv.org/pdf/2505.19967v1)|null|
 |**2025-05-23**|**Modeling Cosmic-Ray Transport: Magnetized versus Unmagnetized Motion in Astrophysical Magnetic Turbulence**|Jeremiah Lübke et.al.|[2505.18155v1](http://arxiv.org/abs/2505.18155v1)|[2505.18155v1](http://arxiv.org/pdf/2505.18155v1)|null|
 |**2025-05-23**|**Grand Theft Moons. Formation of habitable moons around giant planets**|Zoltan Dencs et.al.|[2505.18144v1](http://arxiv.org/abs/2505.18144v1)|[2505.18144v1](http://arxiv.org/pdf/2505.18144v1)|null|
 |**2025-05-23**|**First astrometric constraints on parity-violation in the gravitational wave background**|Santiago Jaraba et.al.|[2505.18085v1](http://arxiv.org/abs/2505.18085v1)|[2505.18085v1](http://arxiv.org/pdf/2505.18085v1)|null|
@@ -7208,6 +7218,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-26**|**Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models**|Kai Sun et.al.|[2505.20152v1](http://arxiv.org/abs/2505.20152v1)|[2505.20152v1](http://arxiv.org/pdf/2505.20152v1)|null|
+|**2025-05-26**|**On the (Non) Injectivity of Piecewise Linear Janossy Pooling**|Ilai Reshef et.al.|[2505.20150v1](http://arxiv.org/abs/2505.20150v1)|[2505.20150v1](http://arxiv.org/pdf/2505.20150v1)|null|
+|**2025-05-26**|**Improvement Strategies for Few-Shot Learning in OCT Image Classification of Rare Retinal Diseases**|Cheng-Yu Tai et.al.|[2505.20149v1](http://arxiv.org/abs/2505.20149v1)|[2505.20149v1](http://arxiv.org/pdf/2505.20149v1)|null|
+|**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148v1](http://arxiv.org/abs/2505.20148v1)|[2505.20148v1](http://arxiv.org/pdf/2505.20148v1)|null|
+|**2025-05-26**|**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**|Jialin Yang et.al.|[2505.20139v1](http://arxiv.org/abs/2505.20139v1)|[2505.20139v1](http://arxiv.org/pdf/2505.20139v1)|null|
+|**2025-05-26**|**Error Optimization: Overcoming Exponential Signal Decay in Deep Predictive Coding Networks**|Cédric Goemaere et.al.|[2505.20137v1](http://arxiv.org/abs/2505.20137v1)|[2505.20137v1](http://arxiv.org/pdf/2505.20137v1)|null|
+|**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136v1](http://arxiv.org/abs/2505.20136v1)|[2505.20136v1](http://arxiv.org/pdf/2505.20136v1)|null|
+|**2025-05-26**|**Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks**|Safa Hamreras et.al.|[2505.20132v1](http://arxiv.org/abs/2505.20132v1)|[2505.20132v1](http://arxiv.org/pdf/2505.20132v1)|null|
+|**2025-05-26**|**Agentic AI Process Observability: Discovering Behavioral Variability**|Fabiana Fournier et.al.|[2505.20127v1](http://arxiv.org/abs/2505.20127v1)|[2505.20127v1](http://arxiv.org/pdf/2505.20127v1)|null|
+|**2025-05-26**|**Agents Require Metacognitive and Strategic Reasoning to Succeed in the Coming Labor Markets**|Simpson Zhang et.al.|[2505.20120v1](http://arxiv.org/abs/2505.20120v1)|[2505.20120v1](http://arxiv.org/pdf/2505.20120v1)|null|
 |**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151v1](http://arxiv.org/abs/2505.18151v1)|[2505.18151v1](http://arxiv.org/pdf/2505.18151v1)|null|
 |**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148v1](http://arxiv.org/abs/2505.18148v1)|[2505.18148v1](http://arxiv.org/pdf/2505.18148v1)|null|
 |**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|[2505.18139v1](http://arxiv.org/pdf/2505.18139v1)|null|
