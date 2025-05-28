@@ -2,12 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 
 ## Astrophysics
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-26**|**Tools for Characterizing the Numerical Error of Stellar Oscillation Codes**|Richard H. D. Townsend et.al.|[2505.20212v1](http://arxiv.org/abs/2505.20212v1)|[2505.20212v1](http://arxiv.org/pdf/2505.20212v1)|null|
+|**2025-05-26**|**A frequentist view on the two-body decaying dark matter model**|Thomas Montandon et.al.|[2505.20193v1](http://arxiv.org/abs/2505.20193v1)|[2505.20193v1](http://arxiv.org/pdf/2505.20193v1)|null|
+|**2025-05-26**|**On the detection of caustic crossing events associated with dark matter in the form of primordial black holes**|M. R. S. Hawkins et.al.|[2505.20179v1](http://arxiv.org/abs/2505.20179v1)|[2505.20179v1](http://arxiv.org/pdf/2505.20179v1)|null|
+|**2025-05-26**|**Investigating Accretion Disk-Corona in Seyfert 1 galaxies: A UV/X-ray Spectral Study of Mrk 813 and RBS 688**|Piyali Ganguly et.al.|[2505.20173v1](http://arxiv.org/abs/2505.20173v1)|[2505.20173v1](http://arxiv.org/pdf/2505.20173v1)|null|
+|**2025-05-26**|**Exploring the Sagittarius stream with RR Lyrae Stars from Gaia Data Release 3**|Tatiana Muraveva et.al.|[2505.20165v1](http://arxiv.org/abs/2505.20165v1)|[2505.20165v1](http://arxiv.org/pdf/2505.20165v1)|null|
 |**2025-05-26**|**On the chaos induced by the Galactic bar on the orbits of nearby halo stars**|Hanneke C. Woudenberg et.al.|[2505.20143v1](http://arxiv.org/abs/2505.20143v1)|[2505.20143v1](http://arxiv.org/pdf/2505.20143v1)|null|
 |**2025-05-26**|**Realistic Multi-temperature Dust: How Well Can We Constrain the Dust Properties of High-redshift Galaxies?**|Laura Sommovigo et.al.|[2505.20105v1](http://arxiv.org/abs/2505.20105v1)|[2505.20105v1](http://arxiv.org/pdf/2505.20105v1)|null|
 |**2025-05-26**|**DRAGyS -- A comprehensive tool to extract scattering phase functions in protoplanetary disks**|Maxime Roumesy et.al.|[2505.20070v1](http://arxiv.org/abs/2505.20070v1)|[2505.20070v1](http://arxiv.org/pdf/2505.20070v1)|null|
@@ -7222,6 +7227,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246v1](http://arxiv.org/abs/2505.20246v1)|[2505.20246v1](http://arxiv.org/pdf/2505.20246v1)|null|
+|**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245v1](http://arxiv.org/abs/2505.20245v1)|[2505.20245v1](http://arxiv.org/pdf/2505.20245v1)|null|
+|**2025-05-26**|**DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning**|Qi Cao et.al.|[2505.20241v1](http://arxiv.org/abs/2505.20241v1)|[2505.20241v1](http://arxiv.org/pdf/2505.20241v1)|null|
+|**2025-05-26**|**Variational Deep Learning via Implicit Regularization**|Jonathan Wenger et.al.|[2505.20235v1](http://arxiv.org/abs/2505.20235v1)|[2505.20235v1](http://arxiv.org/pdf/2505.20235v1)|null|
+|**2025-05-26**|**From What to How: Attributing CLIP's Latent Components Reveals Unexpected Semantic Reliance**|Maximilian Dreyer et.al.|[2505.20229v1](http://arxiv.org/abs/2505.20229v1)|[2505.20229v1](http://arxiv.org/pdf/2505.20229v1)|null|
+|**2025-05-26**|**The Mirage of Multimodality: Where Truth is Tested and Honesty Unravels**|Jiaming Ji et.al.|[2505.20214v1](http://arxiv.org/abs/2505.20214v1)|[2505.20214v1](http://arxiv.org/pdf/2505.20214v1)|null|
+|**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211v1](http://arxiv.org/abs/2505.20211v1)|[2505.20211v1](http://arxiv.org/pdf/2505.20211v1)|null|
+|**2025-05-26**|**Evaluating Large Language Models for Code Review**|Umut Cihan et.al.|[2505.20206v1](http://arxiv.org/abs/2505.20206v1)|[2505.20206v1](http://arxiv.org/pdf/2505.20206v1)|null|
+|**2025-05-26**|**Shutdownable Agents through POST-Agency**|Elliott Thornley et.al.|[2505.20203v1](http://arxiv.org/abs/2505.20203v1)|[2505.20203v1](http://arxiv.org/pdf/2505.20203v1)|null|
+|**2025-05-26**|**Identification of Power System Dynamic Model Parameters using the Fisher Information Matrix**|Dawn Virginillo et.al.|[2505.20200v1](http://arxiv.org/abs/2505.20200v1)|[2505.20200v1](http://arxiv.org/pdf/2505.20200v1)|null|
 |**2025-05-26**|**Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models**|Kai Sun et.al.|[2505.20152v1](http://arxiv.org/abs/2505.20152v1)|[2505.20152v1](http://arxiv.org/pdf/2505.20152v1)|null|
 |**2025-05-26**|**On the (Non) Injectivity of Piecewise Linear Janossy Pooling**|Ilai Reshef et.al.|[2505.20150v1](http://arxiv.org/abs/2505.20150v1)|[2505.20150v1](http://arxiv.org/pdf/2505.20150v1)|null|
 |**2025-05-26**|**Improvement Strategies for Few-Shot Learning in OCT Image Classification of Rare Retinal Diseases**|Cheng-Yu Tai et.al.|[2505.20149v1](http://arxiv.org/abs/2505.20149v1)|[2505.20149v1](http://arxiv.org/pdf/2505.20149v1)|null|
