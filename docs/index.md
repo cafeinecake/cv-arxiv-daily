@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-27**|**Dust removal timescale in galaxies across cosmic time**|Aleksandra Leśniewska et.al.|[2505.21492v1](http://arxiv.org/abs/2505.21492v1)|[2505.21492v1](http://arxiv.org/pdf/2505.21492v1)|null|
+|**2025-05-27**|**5-Dimensional Gravitational Raman Scattering: Scalar Wave Perturbations in Schwarzschild-Tangherlini Spacetime**|Samim Akhtar et.al.|[2505.21489v1](http://arxiv.org/abs/2505.21489v1)|[2505.21489v1](http://arxiv.org/pdf/2505.21489v1)|null|
+|**2025-05-27**|**INTEGRAL/ISGRI post 2024-periastron view of PSR B1259-63**|A. Kuzin et.al.|[2505.21474v1](http://arxiv.org/abs/2505.21474v1)|[2505.21474v1](http://arxiv.org/pdf/2505.21474v1)|null|
+|**2025-05-27**|**Changing disc compositions via internal photoevaporation II: M dwarf systems**|Julia Lena Lienert et.al.|[2505.21470v1](http://arxiv.org/abs/2505.21470v1)|[2505.21470v1](http://arxiv.org/pdf/2505.21470v1)|null|
+|**2025-05-27**|**Spectral Evolution of Rotating Population III Stars**|Jake Hassan et.al.|[2505.21463v1](http://arxiv.org/abs/2505.21463v1)|[2505.21463v1](http://arxiv.org/pdf/2505.21463v1)|null|
+|**2025-05-27**|**Non-minimal light-curvature couplings and black-hole imaging**|Raúl Carballo-Rubio et.al.|[2505.21431v1](http://arxiv.org/abs/2505.21431v1)|[2505.21431v1](http://arxiv.org/pdf/2505.21431v1)|null|
+|**2025-05-27**|**Kilonova modelling and parameter inference: Understanding uncertainties and evaluating compatibility between observations and models**|Thomas Hussenot-Desenonges et.al.|[2505.21392v1](http://arxiv.org/abs/2505.21392v1)|[2505.21392v1](http://arxiv.org/pdf/2505.21392v1)|null|
+|**2025-05-27**|**Gravitational waves of quasi-circular, inspiraling black hole binaries in an ultralight vector dark-matter environment**|Tomás Ferreira Chase et.al.|[2505.21383v1](http://arxiv.org/abs/2505.21383v1)|[2505.21383v1](http://arxiv.org/pdf/2505.21383v1)|null|
+|**2025-05-27**|**Classifying the derivatives of light curves for overcontact eclipsing binaries**|Shinjirou Kouzuma et.al.|[2505.21368v1](http://arxiv.org/abs/2505.21368v1)|[2505.21368v1](http://arxiv.org/pdf/2505.21368v1)|null|
+|**2025-05-27**|**Teleparallel dark energy in a nonflat universe**|Rocco D'Agostino et.al.|[2505.21359v1](http://arxiv.org/abs/2505.21359v1)|[2505.21359v1](http://arxiv.org/pdf/2505.21359v1)|null|
 |**2025-05-26**|**Tools for Characterizing the Numerical Error of Stellar Oscillation Codes**|Richard H. D. Townsend et.al.|[2505.20212v1](http://arxiv.org/abs/2505.20212v1)|[2505.20212v1](http://arxiv.org/pdf/2505.20212v1)|null|
 |**2025-05-26**|**A frequentist view on the two-body decaying dark matter model**|Thomas Montandon et.al.|[2505.20193v1](http://arxiv.org/abs/2505.20193v1)|[2505.20193v1](http://arxiv.org/pdf/2505.20193v1)|null|
 |**2025-05-26**|**On the detection of caustic crossing events associated with dark matter in the form of primordial black holes**|M. R. S. Hawkins et.al.|[2505.20179v1](http://arxiv.org/abs/2505.20179v1)|[2505.20179v1](http://arxiv.org/pdf/2505.20179v1)|null|
@@ -7227,6 +7237,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505v1](http://arxiv.org/abs/2505.21505v1)|[2505.21505v1](http://arxiv.org/pdf/2505.21505v1)|null|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503v1](http://arxiv.org/abs/2505.21503v1)|[2505.21503v1](http://arxiv.org/pdf/2505.21503v1)|null|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500v1](http://arxiv.org/abs/2505.21500v1)|[2505.21500v1](http://arxiv.org/pdf/2505.21500v1)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499v1](http://arxiv.org/abs/2505.21499v1)|[2505.21499v1](http://arxiv.org/pdf/2505.21499v1)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497v1](http://arxiv.org/abs/2505.21497v1)|[2505.21497v1](http://arxiv.org/pdf/2505.21497v1)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488v1](http://arxiv.org/abs/2505.21488v1)|[2505.21488v1](http://arxiv.org/pdf/2505.21488v1)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486v1](http://arxiv.org/abs/2505.21486v1)|[2505.21486v1](http://arxiv.org/pdf/2505.21486v1)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478v1](http://arxiv.org/abs/2505.21478v1)|[2505.21478v1](http://arxiv.org/pdf/2505.21478v1)|null|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462v1](http://arxiv.org/abs/2505.21462v1)|[2505.21462v1](http://arxiv.org/pdf/2505.21462v1)|null|
+|**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459v1](http://arxiv.org/abs/2505.21459v1)|[2505.21459v1](http://arxiv.org/pdf/2505.21459v1)|null|
 |**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246v1](http://arxiv.org/abs/2505.20246v1)|[2505.20246v1](http://arxiv.org/pdf/2505.20246v1)|null|
 |**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245v1](http://arxiv.org/abs/2505.20245v1)|[2505.20245v1](http://arxiv.org/pdf/2505.20245v1)|null|
 |**2025-05-26**|**DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning**|Qi Cao et.al.|[2505.20241v1](http://arxiv.org/abs/2505.20241v1)|[2505.20241v1](http://arxiv.org/pdf/2505.20241v1)|null|
