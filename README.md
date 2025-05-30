@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-29**|**Turbulence in Primordial Dark Matter Halos and Its Impact on the First Star Formation**|Meng-Yuan Ho et.al.|[2505.23768v1](http://arxiv.org/abs/2505.23768v1)|[2505.23768v1](http://arxiv.org/pdf/2505.23768v1)|null|
+|**2025-05-29**|**Perturbative Likelihoods for Large-Scale Structure of the Universe**|Rodrigo Voivodic et.al.|[2505.23750v1](http://arxiv.org/abs/2505.23750v1)|[2505.23750v1](http://arxiv.org/pdf/2505.23750v1)|null|
+|**2025-05-29**|**Hydrodynamic simulations of black hole evolution in AGN discs I: orbital alignment of highly inclined satellites**|Connar Rowan et.al.|[2505.23739v1](http://arxiv.org/abs/2505.23739v1)|[2505.23739v1](http://arxiv.org/pdf/2505.23739v1)|null|
+|**2025-05-29**|**Apache Point rapid response characterization of primitive pre-impact detection asteroid 2024 RW$_1$**|Carl Ingebretsen et.al.|[2505.23736v1](http://arxiv.org/abs/2505.23736v1)|[2505.23736v1](http://arxiv.org/pdf/2505.23736v1)|null|
+|**2025-05-29**|**The ambiguous AT2022rze: Changing-look AGN mimicking a supernova in a merging galaxy system**|P. J. Pessi et.al.|[2505.23731v1](http://arxiv.org/abs/2505.23731v1)|[2505.23731v1](http://arxiv.org/pdf/2505.23731v1)|null|
+|**2025-05-29**|**Neutron Stars in Causal Scalar-Tensor Theories**|Mark P. Hertzberg et.al.|[2505.23712v1](http://arxiv.org/abs/2505.23712v1)|[2505.23712v1](http://arxiv.org/pdf/2505.23712v1)|null|
+|**2025-05-29**|**Exploring Year-timescale Gamma-ray Quasi-Periodic Oscillations in Blazars: Evidence for Supermassive Binary Black Holes Scenario**|Ajay Sharma et.al.|[2505.23697v1](http://arxiv.org/abs/2505.23697v1)|[2505.23697v1](http://arxiv.org/pdf/2505.23697v1)|null|
+|**2025-05-29**|**Optical Photometric Monitoring of the Blazar OT 355 and Local Standard Stars' Calibration**|R. Bachev et.al.|[2505.23677v1](http://arxiv.org/abs/2505.23677v1)|[2505.23677v1](http://arxiv.org/pdf/2505.23677v1)|null|
+|**2025-05-29**|**Comprehensive Variability Analysis of Blazars Using Fermi Light Curves Across Multiple Timescales**|Zahir Shah et.al.|[2505.23645v1](http://arxiv.org/abs/2505.23645v1)|[2505.23645v1](http://arxiv.org/pdf/2505.23645v1)|null|
+|**2025-05-29**|**The Intracluster Light of Abell 3667: Unveiling an Optical Bridge in LSST Precursor Data**|Anthony Englert et.al.|[2505.23551v1](http://arxiv.org/abs/2505.23551v1)|[2505.23551v1](http://arxiv.org/pdf/2505.23551v1)|null|
 |**2025-05-28**|**Spectroscopic Observations of Supra-Arcade Downflows**|Ryan J. French et.al.|[2505.22624v1](http://arxiv.org/abs/2505.22624v1)|[2505.22624v1](http://arxiv.org/pdf/2505.22624v1)|null|
 |**2025-05-28**|**Mass-feeding of jet-launching white dwarfs in grazing and common envelope evolution**|Noam Soker et.al.|[2505.22621v1](http://arxiv.org/abs/2505.22621v1)|[2505.22621v1](http://arxiv.org/pdf/2505.22621v1)|null|
 |**2025-05-28**|**The peculiar composition of the Sun is not related to giant planets**|M. Carlos et.al.|[2505.22615v1](http://arxiv.org/abs/2505.22615v1)|[2505.22615v1](http://arxiv.org/pdf/2505.22615v1)|null|
@@ -7243,6 +7253,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765v1](http://arxiv.org/abs/2505.23765v1)|[2505.23765v1](http://arxiv.org/pdf/2505.23765v1)|null|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762v1](http://arxiv.org/abs/2505.23762v1)|[2505.23762v1](http://arxiv.org/pdf/2505.23762v1)|null|
+|**2025-05-29**|**Differential Information: An Information-Theoretic Perspective on Preference Optimization**|Yunjae Won et.al.|[2505.23761v1](http://arxiv.org/abs/2505.23761v1)|[2505.23761v1](http://arxiv.org/pdf/2505.23761v1)|null|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759v1](http://arxiv.org/abs/2505.23759v1)|[2505.23759v1](http://arxiv.org/pdf/2505.23759v1)|null|
+|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754v1](http://arxiv.org/abs/2505.23754v1)|[2505.23754v1](http://arxiv.org/pdf/2505.23754v1)|null|
+|**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751v1](http://arxiv.org/abs/2505.23751v1)|[2505.23751v1](http://arxiv.org/pdf/2505.23751v1)|null|
+|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|[2505.23747v1](http://arxiv.org/pdf/2505.23747v1)|null|
+|**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746v1](http://arxiv.org/abs/2505.23746v1)|[2505.23746v1](http://arxiv.org/pdf/2505.23746v1)|null|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745v1](http://arxiv.org/abs/2505.23745v1)|[2505.23745v1](http://arxiv.org/pdf/2505.23745v1)|null|
+|**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744v1](http://arxiv.org/abs/2505.23744v1)|[2505.23744v1](http://arxiv.org/pdf/2505.23744v1)|null|
 |**2025-05-29**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v2](http://arxiv.org/abs/2505.22660v2)|[2505.22660v2](http://arxiv.org/pdf/2505.22660v2)|null|
 |**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657v1](http://arxiv.org/abs/2505.22657v1)|[2505.22657v1](http://arxiv.org/pdf/2505.22657v1)|null|
 |**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655v1](http://arxiv.org/abs/2505.22655v1)|[2505.22655v1](http://arxiv.org/pdf/2505.22655v1)|null|
