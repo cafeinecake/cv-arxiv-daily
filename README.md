@@ -1,4 +1,4 @@
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 
 ## Astrophysics
 
@@ -12,7 +12,7 @@
 |**2025-05-28**|**Applying TDI to Hardware-Simulated Data**|Reid Ferguson et.al.|[2505.22579v1](http://arxiv.org/abs/2505.22579v1)|[2505.22579v1](http://arxiv.org/pdf/2505.22579v1)|null|
 |**2025-05-28**|**ExoPhoto: A Database of Temperature-Dependent Photodissociation Cross Sections**|Qing-He Ni et.al.|[2505.22576v1](http://arxiv.org/abs/2505.22576v1)|[2505.22576v1](http://arxiv.org/pdf/2505.22576v1)|null|
 |**2025-05-28**|**Attention-based Neural Network Emulators for Multi-Probe Data Vectors Part III: Modeling The Next Generation Surveys**|Yijie Zhu et.al.|[2505.22574v1](http://arxiv.org/abs/2505.22574v1)|[2505.22574v1](http://arxiv.org/pdf/2505.22574v1)|null|
-|**2025-05-28**|**A black hole in a near-pristine galaxy 700 million years after the Big Bang**|Roberto Maiolino et.al.|[2505.22567v1](http://arxiv.org/abs/2505.22567v1)|[2505.22567v1](http://arxiv.org/pdf/2505.22567v1)|null|
+|**2025-05-29**|**A black hole in a near-pristine galaxy 700 million years after the Big Bang**|Roberto Maiolino et.al.|[2505.22567v2](http://arxiv.org/abs/2505.22567v2)|[2505.22567v2](http://arxiv.org/pdf/2505.22567v2)|null|
 |**2025-05-28**|**The old problem of the cosmological constant solved?**|Jan Novák et.al.|[2505.22553v1](http://arxiv.org/abs/2505.22553v1)|[2505.22553v1](http://arxiv.org/pdf/2505.22553v1)|null|
 |**2025-05-27**|**Dust removal timescale in galaxies across cosmic time**|Aleksandra Leśniewska et.al.|[2505.21492v1](http://arxiv.org/abs/2505.21492v1)|[2505.21492v1](http://arxiv.org/pdf/2505.21492v1)|null|
 |**2025-05-27**|**5-Dimensional Gravitational Raman Scattering: Scalar Wave Perturbations in Schwarzschild-Tangherlini Spacetime**|Samim Akhtar et.al.|[2505.21489v1](http://arxiv.org/abs/2505.21489v1)|[2505.21489v1](http://arxiv.org/pdf/2505.21489v1)|null|
@@ -7243,11 +7243,11 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v1](http://arxiv.org/abs/2505.22660v1)|[2505.22660v1](http://arxiv.org/pdf/2505.22660v1)|null|
+|**2025-05-29**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v2](http://arxiv.org/abs/2505.22660v2)|[2505.22660v2](http://arxiv.org/pdf/2505.22660v2)|null|
 |**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657v1](http://arxiv.org/abs/2505.22657v1)|[2505.22657v1](http://arxiv.org/pdf/2505.22657v1)|null|
 |**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655v1](http://arxiv.org/abs/2505.22655v1)|[2505.22655v1](http://arxiv.org/pdf/2505.22655v1)|null|
-|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649v1](http://arxiv.org/abs/2505.22649v1)|[2505.22649v1](http://arxiv.org/pdf/2505.22649v1)|null|
-|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642v1](http://arxiv.org/abs/2505.22642v1)|[2505.22642v1](http://arxiv.org/pdf/2505.22642v1)|null|
+|**2025-05-29**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649v2](http://arxiv.org/abs/2505.22649v2)|[2505.22649v2](http://arxiv.org/pdf/2505.22649v2)|null|
+|**2025-05-29**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642v2](http://arxiv.org/abs/2505.22642v2)|[2505.22642v2](http://arxiv.org/pdf/2505.22642v2)|null|
 |**2025-05-28**|**Navigating the AI-Energy Nexus with Geopolitical Insight**|Nidhi Kalra et.al.|[2505.22639v1](http://arxiv.org/abs/2505.22639v1)|[2505.22639v1](http://arxiv.org/pdf/2505.22639v1)|null|
 |**2025-05-28**|**Learning Composable Chains-of-Thought**|Fangcong Yin et.al.|[2505.22635v1](http://arxiv.org/abs/2505.22635v1)|[2505.22635v1](http://arxiv.org/pdf/2505.22635v1)|null|
 |**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633v1](http://arxiv.org/abs/2505.22633v1)|[2505.22633v1](http://arxiv.org/pdf/2505.22633v1)|null|
