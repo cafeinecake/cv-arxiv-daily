@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-30**|**The SPHEREx Sky Simulator: Science Data Modeling for the First All-Sky Near-Infrared Spectral Survey**|Brendan P. Crill et.al.|[2505.24856v1](http://arxiv.org/abs/2505.24856v1)|[2505.24856v1](http://arxiv.org/pdf/2505.24856v1)|null|
+|**2025-05-30**|**pySTARBURST99: The Next Generation of STARBURST99**|Calum Hawcroft et.al.|[2505.24841v1](http://arxiv.org/abs/2505.24841v1)|[2505.24841v1](http://arxiv.org/pdf/2505.24841v1)|null|
+|**2025-05-30**|**Novel methodology to obtain transonic solutions for dissipative flows around compact objects**|Shilpa Sarkar et.al.|[2505.24839v1](http://arxiv.org/abs/2505.24839v1)|[2505.24839v1](http://arxiv.org/pdf/2505.24839v1)|null|
+|**2025-05-30**|**Accurate and efficient likelihood modeling for large-scale CMB data**|Giacomo Galloni et.al.|[2505.24829v1](http://arxiv.org/abs/2505.24829v1)|[2505.24829v1](http://arxiv.org/pdf/2505.24829v1)|null|
+|**2025-05-30**|**The effects of the spin and quadrupole moment of SgrA* on the orbits of S stars**|K. Abd El Dayem et.al.|[2505.24789v1](http://arxiv.org/abs/2505.24789v1)|[2505.24789v1](http://arxiv.org/pdf/2505.24789v1)|null|
+|**2025-05-30**|**Identification of New Candidate Be/X-Ray Binary Systems in the Small Magellanic Cloud via Analysis of S-CUBED Source Catalog**|Thomas M. Gaudin et.al.|[2505.24766v1](http://arxiv.org/abs/2505.24766v1)|[2505.24766v1](http://arxiv.org/pdf/2505.24766v1)|null|
+|**2025-05-30**|**Systematically Measuring Ultra-Diffuse Galaxies. VIII. Misfits, Miscasts, and Miscreants**|Dennis Zaritsky et.al.|[2505.24755v1](http://arxiv.org/abs/2505.24755v1)|[2505.24755v1](http://arxiv.org/pdf/2505.24755v1)|null|
+|**2025-05-30**|**What solves the Hubble tension in phenomenological dark energy models at background level?**|Manosh T. Manoharan et.al.|[2505.24743v1](http://arxiv.org/abs/2505.24743v1)|[2505.24743v1](http://arxiv.org/pdf/2505.24743v1)|null|
+|**2025-05-30**|**The Quintom theory of dark energy after DESI DR2**|Yifu Cai et.al.|[2505.24732v1](http://arxiv.org/abs/2505.24732v1)|[2505.24732v1](http://arxiv.org/pdf/2505.24732v1)|null|
+|**2025-05-30**|**Dense gas tracers in and between spiral arms: from Giant Molecular Filaments to star-forming clumps**|O. Feher et.al.|[2505.24711v1](http://arxiv.org/abs/2505.24711v1)|[2505.24711v1](http://arxiv.org/pdf/2505.24711v1)|null|
 |**2025-05-29**|**Turbulence in Primordial Dark Matter Halos and Its Impact on the First Star Formation**|Meng-Yuan Ho et.al.|[2505.23768v1](http://arxiv.org/abs/2505.23768v1)|[2505.23768v1](http://arxiv.org/pdf/2505.23768v1)|null|
 |**2025-05-29**|**Perturbative Likelihoods for Large-Scale Structure of the Universe**|Rodrigo Voivodic et.al.|[2505.23750v1](http://arxiv.org/abs/2505.23750v1)|[2505.23750v1](http://arxiv.org/pdf/2505.23750v1)|null|
 |**2025-05-29**|**Hydrodynamic simulations of black hole evolution in AGN discs I: orbital alignment of highly inclined satellites**|Connar Rowan et.al.|[2505.23739v1](http://arxiv.org/abs/2505.23739v1)|[2505.23739v1](http://arxiv.org/pdf/2505.23739v1)|null|
@@ -7253,6 +7263,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878v1](http://arxiv.org/abs/2505.24878v1)|[2505.24878v1](http://arxiv.org/pdf/2505.24878v1)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872v1](http://arxiv.org/abs/2505.24872v1)|[2505.24872v1](http://arxiv.org/pdf/2505.24872v1)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867v1](http://arxiv.org/abs/2505.24867v1)|[2505.24867v1](http://arxiv.org/pdf/2505.24867v1)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864v1](http://arxiv.org/abs/2505.24864v1)|[2505.24864v1](http://arxiv.org/pdf/2505.24864v1)|null|
+|**2025-05-30**|**DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**|Zhao Mandi et.al.|[2505.24853v1](http://arxiv.org/abs/2505.24853v1)|[2505.24853v1](http://arxiv.org/pdf/2505.24853v1)|null|
+|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|[2505.24850v1](http://arxiv.org/pdf/2505.24850v1)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846v1](http://arxiv.org/abs/2505.24846v1)|[2505.24846v1](http://arxiv.org/pdf/2505.24846v1)|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840v1](http://arxiv.org/abs/2505.24840v1)|[2505.24840v1](http://arxiv.org/pdf/2505.24840v1)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|[2505.24838v1](http://arxiv.org/pdf/2505.24838v1)|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830v1](http://arxiv.org/abs/2505.24830v1)|[2505.24830v1](http://arxiv.org/pdf/2505.24830v1)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765v1](http://arxiv.org/abs/2505.23765v1)|[2505.23765v1](http://arxiv.org/pdf/2505.23765v1)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762v1](http://arxiv.org/abs/2505.23762v1)|[2505.23762v1](http://arxiv.org/pdf/2505.23762v1)|**[link](https://github.com/opengvlab/zerogui)**|
 |**2025-05-29**|**Differential Information: An Information-Theoretic Perspective on Preference Optimization**|Yunjae Won et.al.|[2505.23761v1](http://arxiv.org/abs/2505.23761v1)|[2505.23761v1](http://arxiv.org/pdf/2505.23761v1)|null|
