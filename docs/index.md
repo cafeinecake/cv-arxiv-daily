@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 
 ## Astrophysics
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-06-03**|**Sensitivity of a Gigahertz Fabry-Pérot Resonator for Axion Dark Matter Detection**|Jacob Egge et.al.|[2506.03091v1](http://arxiv.org/abs/2506.03091v1)|[2506.03091v1](http://arxiv.org/pdf/2506.03091v1)|null|
 |**2025-06-03**|**The Close AGN Reference Survey (CARS). Long-term spectral variability study of the changing look AGN Mrk 1018**|T. Saha et.al.|[2506.03061v1](http://arxiv.org/abs/2506.03061v1)|[2506.03061v1](http://arxiv.org/pdf/2506.03061v1)|null|
 |**2025-06-03**|**Impact of Accretion Assumptions on Pulse Profile Modelling of Superburst Oscillations in 4U 1636-536**|Yves Kini et.al.|[2506.03033v1](http://arxiv.org/abs/2506.03033v1)|[2506.03033v1](http://arxiv.org/pdf/2506.03033v1)|null|
-|**2025-06-03**|**TDCOSMO 2025: Cosmological constraints from strong lensing time delays**|Simon Birrer et.al.|[2506.03023v1](http://arxiv.org/abs/2506.03023v1)|[2506.03023v1](http://arxiv.org/pdf/2506.03023v1)|null|
+|**2025-06-04**|**TDCOSMO 2025: Cosmological constraints from strong lensing time delays**|TDCOSMO Collaboration et.al.|[2506.03023v2](http://arxiv.org/abs/2506.03023v2)|[2506.03023v2](http://arxiv.org/pdf/2506.03023v2)|null|
 |**2025-06-03**|**Scatter in the star formation rate-halo mass relation: secondary bias and its impact on line-intensity mapping**|Rui Lan Jun et.al.|[2506.03015v1](http://arxiv.org/abs/2506.03015v1)|[2506.03015v1](http://arxiv.org/pdf/2506.03015v1)|null|
 |**2025-05-30**|**The SPHEREx Sky Simulator: Science Data Modeling for the First All-Sky Near-Infrared Spectral Survey**|Brendan P. Crill et.al.|[2505.24856v1](http://arxiv.org/abs/2505.24856v1)|[2505.24856v1](http://arxiv.org/pdf/2505.24856v1)|null|
 |**2025-05-30**|**pySTARBURST99: The Next Generation of STARBURST99**|Calum Hawcroft et.al.|[2505.24841v1](http://arxiv.org/abs/2505.24841v1)|[2505.24841v1](http://arxiv.org/pdf/2505.24841v1)|null|
@@ -7279,13 +7279,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|[2506.03150v1](http://arxiv.org/pdf/2506.03150v1)|null|
 |**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149v1](http://arxiv.org/abs/2506.03149v1)|[2506.03149v1](http://arxiv.org/pdf/2506.03149v1)|null|
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v1](http://arxiv.org/abs/2506.03147v1)|[2506.03147v1](http://arxiv.org/pdf/2506.03147v1)|null|
+|**2025-06-04**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v2](http://arxiv.org/abs/2506.03147v2)|[2506.03147v2](http://arxiv.org/pdf/2506.03147v2)|null|
 |**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145v1](http://arxiv.org/abs/2506.03145v1)|[2506.03145v1](http://arxiv.org/pdf/2506.03145v1)|null|
 |**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143v1](http://arxiv.org/abs/2506.03143v1)|[2506.03143v1](http://arxiv.org/pdf/2506.03143v1)|null|
 |**2025-06-03**|**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation**|Siqi Chen et.al.|[2506.03139v1](http://arxiv.org/abs/2506.03139v1)|[2506.03139v1](http://arxiv.org/pdf/2506.03139v1)|null|
 |**2025-06-03**|**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**|Mengdi Jia et.al.|[2506.03135v1](http://arxiv.org/abs/2506.03135v1)|[2506.03135v1](http://arxiv.org/pdf/2506.03135v1)|null|
 |**2025-06-03**|**PoLAR: Polar-Decomposed Low-Rank Adapter Representation**|Kai Lion et.al.|[2506.03133v1](http://arxiv.org/abs/2506.03133v1)|[2506.03133v1](http://arxiv.org/pdf/2506.03133v1)|null|
-|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v1](http://arxiv.org/abs/2506.03106v1)|[2506.03106v1](http://arxiv.org/pdf/2506.03106v1)|null|
+|**2025-06-04**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v2](http://arxiv.org/abs/2506.03106v2)|[2506.03106v2](http://arxiv.org/pdf/2506.03106v2)|null|
 |**2025-06-03**|**Designing Algorithmic Delegates: The Role of Indistinguishability in Human-AI Handoff**|Sophie Greenwood et.al.|[2506.03102v1](http://arxiv.org/abs/2506.03102v1)|[2506.03102v1](http://arxiv.org/pdf/2506.03102v1)|null|
 |**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878v1](http://arxiv.org/abs/2505.24878v1)|[2505.24878v1](http://arxiv.org/pdf/2505.24878v1)|null|
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872v1](http://arxiv.org/abs/2505.24872v1)|[2505.24872v1](http://arxiv.org/pdf/2505.24872v1)|null|
