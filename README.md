@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-04**|**Stellar distributions around supermassive black holes in gas-rich nuclear star clusters**|Mor Rozner et.al.|[2506.04229v1](http://arxiv.org/abs/2506.04229v1)|[2506.04229v1](http://arxiv.org/pdf/2506.04229v1)|null|
+|**2025-06-04**|**Studying mirror acceleration via kinetic simulations of relativistic plasma turbulence**|Saikat Das et.al.|[2506.04212v1](http://arxiv.org/abs/2506.04212v1)|[2506.04212v1](http://arxiv.org/pdf/2506.04212v1)|null|
+|**2025-06-04**|**Analyzing Line-of-sight selection biases in galaxy-scale strong lensing with external convergence and shear**|Xianzhe TZ Tang et.al.|[2506.04201v1](http://arxiv.org/abs/2506.04201v1)|[2506.04201v1](http://arxiv.org/pdf/2506.04201v1)|null|
+|**2025-06-04**|**Abundance Effects from Protoplanetary Disk Outflows**|Åke Nordlund et.al.|[2506.04199v1](http://arxiv.org/abs/2506.04199v1)|[2506.04199v1](http://arxiv.org/pdf/2506.04199v1)|null|
+|**2025-06-04**|**Interlinking internal and external magnetic fields of relativistically rotating neutron stars**|D. Ntotsikas et.al.|[2506.04198v1](http://arxiv.org/abs/2506.04198v1)|[2506.04198v1](http://arxiv.org/pdf/2506.04198v1)|null|
+|**2025-06-04**|**Lense-Thirring Precession Modulates Repeated Lensing of Continues Gravitational Wave Source from AGN Disks**|Yu-Zhe Li et.al.|[2506.04196v1](http://arxiv.org/abs/2506.04196v1)|[2506.04196v1](http://arxiv.org/pdf/2506.04196v1)|null|
+|**2025-06-04**|**A Correlation Between FRB Dispersion Measure and Foreground Large-Scale Structure**|Maryam Hussaini et.al.|[2506.04186v1](http://arxiv.org/abs/2506.04186v1)|[2506.04186v1](http://arxiv.org/pdf/2506.04186v1)|null|
+|**2025-06-04**|**Core-collapse supernova parameter estimation with the upcoming Vera C. Rubin Observatory**|Andrea Simongini et.al.|[2506.04184v1](http://arxiv.org/abs/2506.04184v1)|[2506.04184v1](http://arxiv.org/pdf/2506.04184v1)|null|
+|**2025-06-04**|**Global Kinetic Simulations of Monster Shocks and Their Emission**|Dominic Bernardi et.al.|[2506.04175v1](http://arxiv.org/abs/2506.04175v1)|[2506.04175v1](http://arxiv.org/pdf/2506.04175v1)|null|
+|**2025-06-04**|**A Resonant Beginning for the Solar System Terrestrial Planets**|Shuo Huang et.al.|[2506.04164v1](http://arxiv.org/abs/2506.04164v1)|[2506.04164v1](http://arxiv.org/pdf/2506.04164v1)|null|
 |**2025-06-03**|**A Fuzzy Situation Eased: Cold Dark Matter with Multipoles Can Explain The Double Radio Quad Lens HS 0810+2554**|John H. Miller Jr et.al.|[2506.03132v1](http://arxiv.org/abs/2506.03132v1)|[2506.03132v1](http://arxiv.org/pdf/2506.03132v1)|null|
 |**2025-06-03**|**AGNBoost: A Machine Learning Approach to AGN Identification with JWST/NIRCam+MIRI Colors and Photometry**|Kurt Hamblin et.al.|[2506.03130v1](http://arxiv.org/abs/2506.03130v1)|[2506.03130v1](http://arxiv.org/pdf/2506.03130v1)|null|
 |**2025-06-03**|**EIGER VII. The evolving relationship between galaxies and the intergalactic medium in the final stages of reionization**|Daichi Kashino et.al.|[2506.03121v1](http://arxiv.org/abs/2506.03121v1)|[2506.03121v1](http://arxiv.org/pdf/2506.03121v1)|null|
@@ -7273,6 +7283,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|[2506.04227v1](http://arxiv.org/pdf/2506.04227v1)|null|
+|**2025-06-04**|**Efficient Knowledge Editing via Minimal Precomputation**|Akshat Gupta et.al.|[2506.04226v1](http://arxiv.org/abs/2506.04226v1)|[2506.04226v1](http://arxiv.org/pdf/2506.04226v1)|null|
+|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218v1](http://arxiv.org/abs/2506.04218v1)|[2506.04218v1](http://arxiv.org/pdf/2506.04218v1)|null|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217v1](http://arxiv.org/abs/2506.04217v1)|[2506.04217v1](http://arxiv.org/pdf/2506.04217v1)|null|
+|**2025-06-04**|**Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs**|Alex DeWeese et.al.|[2506.04215v1](http://arxiv.org/abs/2506.04215v1)|[2506.04215v1](http://arxiv.org/pdf/2506.04215v1)|null|
+|**2025-06-04**|**Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models**|Soumya Suvra Ghosal et.al.|[2506.04210v1](http://arxiv.org/abs/2506.04210v1)|[2506.04210v1](http://arxiv.org/pdf/2506.04210v1)|null|
+|**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207v1](http://arxiv.org/abs/2506.04207v1)|[2506.04207v1](http://arxiv.org/pdf/2506.04207v1)|null|
+|**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202v1](http://arxiv.org/abs/2506.04202v1)|[2506.04202v1](http://arxiv.org/pdf/2506.04202v1)|null|
+|**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195v1](http://arxiv.org/abs/2506.04195v1)|[2506.04195v1](http://arxiv.org/pdf/2506.04195v1)|null|
+|**2025-06-04**|**Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints**|Utkarsh Utkarsh et.al.|[2506.04171v1](http://arxiv.org/abs/2506.04171v1)|[2506.04171v1](http://arxiv.org/pdf/2506.04171v1)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|[2506.03150v1](http://arxiv.org/pdf/2506.03150v1)|null|
 |**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149v1](http://arxiv.org/abs/2506.03149v1)|[2506.03149v1](http://arxiv.org/pdf/2506.03149v1)|null|
 |**2025-06-04**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v2](http://arxiv.org/abs/2506.03147v2)|[2506.03147v2](http://arxiv.org/pdf/2506.03147v2)|null|
