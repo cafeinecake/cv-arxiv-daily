@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-05**|**Unraveling the structure of the stratified ultra-fast outflows in PDS 456 with XRISM**|Yerong Xu et.al.|[2506.05273v1](http://arxiv.org/abs/2506.05273v1)|[2506.05273v1](http://arxiv.org/pdf/2506.05273v1)|null|
+|**2025-06-05**|**2024 TASI Lectures: A Dark Matter Primer**|Tien-Tien Yu et.al.|[2506.05234v1](http://arxiv.org/abs/2506.05234v1)|[2506.05234v1](http://arxiv.org/pdf/2506.05234v1)|null|
+|**2025-06-05**|**H3+ in irradiated protoplanetary disks: Linking far-ultraviolet radiation and hot water vapor**|Javier R. Goicoechea et.al.|[2506.05189v1](http://arxiv.org/abs/2506.05189v1)|[2506.05189v1](http://arxiv.org/pdf/2506.05189v1)|null|
+|**2025-06-05**|**PDRs4All XIV: CH radical and $H_3^+$ molecular ion in the irradiated protoplanetary disk d203-506**|I. Schroetter et.al.|[2506.05186v1](http://arxiv.org/abs/2506.05186v1)|[2506.05186v1](http://arxiv.org/pdf/2506.05186v1)|null|
+|**2025-06-05**|**The Hourglass Simulation: A Catalog for the Roman High-Latitude Time-Domain Core Community Survey**|B. M. Rose et.al.|[2506.05161v1](http://arxiv.org/abs/2506.05161v1)|[2506.05161v1](http://arxiv.org/pdf/2506.05161v1)|null|
+|**2025-06-05**|**Search for binarity in Asymptotic Giant Branch stars utilizing the future Chinese Space Station Telescope (CSST)**|Zhi-Meng Li et.al.|[2506.05159v1](http://arxiv.org/abs/2506.05159v1)|[2506.05159v1](http://arxiv.org/pdf/2506.05159v1)|null|
+|**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155v1](http://arxiv.org/abs/2506.05155v1)|[2506.05155v1](http://arxiv.org/pdf/2506.05155v1)|null|
+|**2025-06-05**|**Trust the process: mapping data-driven reconstructions to informed models using stochastic processes**|Stefano Rinaldi et.al.|[2506.05153v1](http://arxiv.org/abs/2506.05153v1)|[2506.05153v1](http://arxiv.org/pdf/2506.05153v1)|null|
+|**2025-06-05**|**The making of robust and highly performing imaging spectropolarimeters for large solar telescopes**|G. B. Scharmer et.al.|[2506.05143v1](http://arxiv.org/abs/2506.05143v1)|[2506.05143v1](http://arxiv.org/pdf/2506.05143v1)|null|
+|**2025-06-05**|**Bayesian ages of local young stellar associations I. Through the expansion rate method**|J. Olivares et.al.|[2506.05130v1](http://arxiv.org/abs/2506.05130v1)|[2506.05130v1](http://arxiv.org/pdf/2506.05130v1)|null|
 |**2025-06-04**|**Stellar distributions around supermassive black holes in gas-rich nuclear star clusters**|Mor Rozner et.al.|[2506.04229v1](http://arxiv.org/abs/2506.04229v1)|[2506.04229v1](http://arxiv.org/pdf/2506.04229v1)|null|
 |**2025-06-04**|**Studying mirror acceleration via kinetic simulations of relativistic plasma turbulence**|Saikat Das et.al.|[2506.04212v1](http://arxiv.org/abs/2506.04212v1)|[2506.04212v1](http://arxiv.org/pdf/2506.04212v1)|null|
 |**2025-06-04**|**Analyzing Line-of-sight selection biases in galaxy-scale strong lensing with external convergence and shear**|Xianzhe TZ Tang et.al.|[2506.04201v1](http://arxiv.org/abs/2506.04201v1)|[2506.04201v1](http://arxiv.org/pdf/2506.04201v1)|null|
@@ -7287,6 +7297,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342v1](http://arxiv.org/abs/2506.05342v1)|[2506.05342v1](http://arxiv.org/pdf/2506.05342v1)|null|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|[2506.05341v1](http://arxiv.org/pdf/2506.05341v1)|null|
+|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v1](http://arxiv.org/abs/2506.05340v1)|[2506.05340v1](http://arxiv.org/pdf/2506.05340v1)|null|
+|**2025-06-05**|**LSM-2: Learning from Incomplete Wearable Sensor Data**|Maxwell A. Xu et.al.|[2506.05321v1](http://arxiv.org/abs/2506.05321v1)|[2506.05321v1](http://arxiv.org/pdf/2506.05321v1)|null|
+|**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316v1](http://arxiv.org/abs/2506.05316v1)|[2506.05316v1](http://arxiv.org/pdf/2506.05316v1)|null|
+|**2025-06-05**|**Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models**|Taha Entesari et.al.|[2506.05314v1](http://arxiv.org/abs/2506.05314v1)|[2506.05314v1](http://arxiv.org/pdf/2506.05314v1)|null|
+|**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309v1](http://arxiv.org/abs/2506.05309v1)|[2506.05309v1](http://arxiv.org/pdf/2506.05309v1)|null|
+|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305v1](http://arxiv.org/abs/2506.05305v1)|[2506.05305v1](http://arxiv.org/pdf/2506.05305v1)|null|
+|**2025-06-05**|**Control Tax: The Price of Keeping AI in Check**|Mikhail Terekhov et.al.|[2506.05296v1](http://arxiv.org/abs/2506.05296v1)|[2506.05296v1](http://arxiv.org/pdf/2506.05296v1)|null|
+|**2025-06-05**|**Sample Complexity and Representation Ability of Test-time Scaling Paradigms**|Baihe Huang et.al.|[2506.05295v1](http://arxiv.org/abs/2506.05295v1)|[2506.05295v1](http://arxiv.org/pdf/2506.05295v1)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|[2506.04227v1](http://arxiv.org/pdf/2506.04227v1)|null|
 |**2025-06-04**|**Efficient Knowledge Editing via Minimal Precomputation**|Akshat Gupta et.al.|[2506.04226v1](http://arxiv.org/abs/2506.04226v1)|[2506.04226v1](http://arxiv.org/pdf/2506.04226v1)|null|
 |**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218v1](http://arxiv.org/abs/2506.04218v1)|[2506.04218v1](http://arxiv.org/pdf/2506.04218v1)|null|
