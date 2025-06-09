@@ -1,4 +1,4 @@
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 
 ## Astrophysics
 
@@ -7295,7 +7295,7 @@
 |---|---|---|---|---|---|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342v1](http://arxiv.org/abs/2506.05342v1)|[2506.05342v1](http://arxiv.org/pdf/2506.05342v1)|null|
 |**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|[2506.05341v1](http://arxiv.org/pdf/2506.05341v1)|null|
-|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v1](http://arxiv.org/abs/2506.05340v1)|[2506.05340v1](http://arxiv.org/pdf/2506.05340v1)|null|
+|**2025-06-06**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v2](http://arxiv.org/abs/2506.05340v2)|[2506.05340v2](http://arxiv.org/pdf/2506.05340v2)|null|
 |**2025-06-05**|**LSM-2: Learning from Incomplete Wearable Sensor Data**|Maxwell A. Xu et.al.|[2506.05321v1](http://arxiv.org/abs/2506.05321v1)|[2506.05321v1](http://arxiv.org/pdf/2506.05321v1)|null|
 |**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316v1](http://arxiv.org/abs/2506.05316v1)|[2506.05316v1](http://arxiv.org/pdf/2506.05316v1)|null|
 |**2025-06-05**|**Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models**|Taha Entesari et.al.|[2506.05314v1](http://arxiv.org/abs/2506.05314v1)|[2506.05314v1](http://arxiv.org/pdf/2506.05314v1)|null|
