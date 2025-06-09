@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-06**|**The Atacama Cosmology Telescope: DR6 Power Spectrum Foreground Model and Validation**|Benjamin Beringue et.al.|[2506.06274v1](http://arxiv.org/abs/2506.06274v1)|[2506.06274v1](http://arxiv.org/pdf/2506.06274v1)|null|
+|**2025-06-06**|**To collapse or not to collapse: Halo evolution with self-interacting dark matter mass segregation**|Yashraj Patil et.al.|[2506.06272v1](http://arxiv.org/abs/2506.06272v1)|[2506.06272v1](http://arxiv.org/pdf/2506.06272v1)|null|
+|**2025-06-06**|**Accurately simulating core-collapse self-interacting dark matter halos**|Moritz S. Fischer et.al.|[2506.06269v1](http://arxiv.org/abs/2506.06269v1)|[2506.06269v1](http://arxiv.org/pdf/2506.06269v1)|null|
+|**2025-06-06**|**Spectroscopic Characterization of redMaPPer Galaxy Clusters with DESI**|J. Myles et.al.|[2506.06249v1](http://arxiv.org/abs/2506.06249v1)|[2506.06249v1](http://arxiv.org/pdf/2506.06249v1)|null|
+|**2025-06-06**|**Metasurface-Enabled Astronomical Polarimetry**|Lisa W. Li et.al.|[2506.06245v1](http://arxiv.org/abs/2506.06245v1)|[2506.06245v1](http://arxiv.org/pdf/2506.06245v1)|null|
+|**2025-06-06**|**Representing Equations of State With Strong First-Order Phase Transitions**|Lee Lindblom et.al.|[2506.06201v1](http://arxiv.org/abs/2506.06201v1)|[2506.06201v1](http://arxiv.org/pdf/2506.06201v1)|null|
+|**2025-06-06**|**Accurate $N$-body simulations with local Primordial non-Gaussianities: initial conditions and aliasing**|Adrian G. Adame et.al.|[2506.06200v1](http://arxiv.org/abs/2506.06200v1)|[2506.06200v1](http://arxiv.org/pdf/2506.06200v1)|null|
+|**2025-06-06**|**TOI-2407 b: a warm Neptune in the desert**|C. Janó Muñoz et.al.|[2506.06195v1](http://arxiv.org/abs/2506.06195v1)|[2506.06195v1](http://arxiv.org/pdf/2506.06195v1)|null|
+|**2025-06-06**|**Magnetogenesis from Sawtooth Coupling: Gravitational Wave Probe of Reheating**|Subhasis Maiti et.al.|[2506.06183v1](http://arxiv.org/abs/2506.06183v1)|[2506.06183v1](http://arxiv.org/pdf/2506.06183v1)|null|
+|**2025-06-06**|**Primordial Black Holes and the First Stars**|Julia Monika Koulen et.al.|[2506.06171v1](http://arxiv.org/abs/2506.06171v1)|[2506.06171v1](http://arxiv.org/pdf/2506.06171v1)|null|
 |**2025-06-05**|**Unraveling the structure of the stratified ultra-fast outflows in PDS 456 with XRISM**|Yerong Xu et.al.|[2506.05273v1](http://arxiv.org/abs/2506.05273v1)|[2506.05273v1](http://arxiv.org/pdf/2506.05273v1)|null|
 |**2025-06-05**|**2024 TASI Lectures: A Dark Matter Primer**|Tien-Tien Yu et.al.|[2506.05234v1](http://arxiv.org/abs/2506.05234v1)|[2506.05234v1](http://arxiv.org/pdf/2506.05234v1)|null|
 |**2025-06-05**|**H3+ in irradiated protoplanetary disks: Linking far-ultraviolet radiation and hot water vapor**|Javier R. Goicoechea et.al.|[2506.05189v1](http://arxiv.org/abs/2506.05189v1)|[2506.05189v1](http://arxiv.org/pdf/2506.05189v1)|null|
@@ -7297,6 +7307,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280v1](http://arxiv.org/abs/2506.06280v1)|[2506.06280v1](http://arxiv.org/pdf/2506.06280v1)|null|
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|[2506.06278v1](http://arxiv.org/pdf/2506.06278v1)|null|
+|**2025-06-06**|**Accurately simulating core-collapse self-interacting dark matter halos**|Moritz S. Fischer et.al.|[2506.06269v1](http://arxiv.org/abs/2506.06269v1)|[2506.06269v1](http://arxiv.org/pdf/2506.06269v1)|null|
+|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v1](http://arxiv.org/abs/2506.06266v1)|[2506.06266v1](http://arxiv.org/pdf/2506.06266v1)|null|
+|**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262v1](http://arxiv.org/abs/2506.06262v1)|[2506.06262v1](http://arxiv.org/pdf/2506.06262v1)|null|
+|**2025-06-06**|**Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens**|Jihwan Jeong et.al.|[2506.06261v1](http://arxiv.org/abs/2506.06261v1)|[2506.06261v1](http://arxiv.org/pdf/2506.06261v1)|null|
+|**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254v1](http://arxiv.org/abs/2506.06254v1)|[2506.06254v1](http://arxiv.org/pdf/2506.06254v1)|null|
+|**2025-06-06**|**Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision**|Yuping He et.al.|[2506.06253v1](http://arxiv.org/abs/2506.06253v1)|[2506.06253v1](http://arxiv.org/pdf/2506.06253v1)|null|
+|**2025-06-06**|**DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation**|Jingyu Xiao et.al.|[2506.06251v1](http://arxiv.org/abs/2506.06251v1)|[2506.06251v1](http://arxiv.org/pdf/2506.06251v1)|null|
+|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242v1](http://arxiv.org/abs/2506.06242v1)|[2506.06242v1](http://arxiv.org/pdf/2506.06242v1)|null|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342v1](http://arxiv.org/abs/2506.05342v1)|[2506.05342v1](http://arxiv.org/pdf/2506.05342v1)|null|
 |**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|[2506.05341v1](http://arxiv.org/pdf/2506.05341v1)|null|
 |**2025-06-06**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v2](http://arxiv.org/abs/2506.05340v2)|[2506.05340v2](http://arxiv.org/pdf/2506.05340v2)|null|
