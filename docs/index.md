@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-09**|**Why M-dwarf flares have limited impact on sub-Neptunes' atmospheric evaporation**|Andrea Caldiroli et.al.|[2506.08014v1](http://arxiv.org/abs/2506.08014v1)|[2506.08014v1](http://arxiv.org/pdf/2506.08014v1)|null|
+|**2025-06-09**|**Resonant neutrino self-interactions: insights from the full shape galaxy power spectrum**|Hernán E. Noriega et.al.|[2506.07994v1](http://arxiv.org/abs/2506.07994v1)|[2506.07994v1](http://arxiv.org/pdf/2506.07994v1)|null|
+|**2025-06-09**|**Photon rings in a holographic toy model**|Stéphane Detournay et.al.|[2506.07989v1](http://arxiv.org/abs/2506.07989v1)|[2506.07989v1](http://arxiv.org/pdf/2506.07989v1)|null|
+|**2025-06-09**|**Not so dark, not so dense: an alternative explanation for the lensing subhalo in SDSSJ0946+1006**|Qiuhan He et.al.|[2506.07978v1](http://arxiv.org/abs/2506.07978v1)|[2506.07978v1](http://arxiv.org/pdf/2506.07978v1)|null|
+|**2025-06-09**|**Density jump as a function of the field for parallel relativistic collisionless shocks**|Antoine Bret et.al.|[2506.07973v1](http://arxiv.org/abs/2506.07973v1)|[2506.07973v1](http://arxiv.org/pdf/2506.07973v1)|null|
+|**2025-06-09**|**The FAST Globular Cluster Pulsar Survey (GC FANS)**|Yujie Lian et.al.|[2506.07970v1](http://arxiv.org/abs/2506.07970v1)|[2506.07970v1](http://arxiv.org/pdf/2506.07970v1)|null|
+|**2025-06-09**|**New Insights into the T Tauri Binary Separation Distribution**|Caleb Eastlund et.al.|[2506.07938v1](http://arxiv.org/abs/2506.07938v1)|[2506.07938v1](http://arxiv.org/pdf/2506.07938v1)|null|
+|**2025-06-09**|**A giant planet transiting a 0.2 solar mass host star**|Edward M. Bryant et.al.|[2506.07931v1](http://arxiv.org/abs/2506.07931v1)|[2506.07931v1](http://arxiv.org/pdf/2506.07931v1)|null|
+|**2025-06-09**|**A circularly polarized low-frequency radio burst from the exoplanetary system HD 189733**|X. Zhang et.al.|[2506.07912v1](http://arxiv.org/abs/2506.07912v1)|[2506.07912v1](http://arxiv.org/pdf/2506.07912v1)|null|
+|**2025-06-09**|**Fundamental Parameters for Central Stars of 103 Infrared Bowshock Nebulae**|Nikhil Patten et.al.|[2506.07904v1](http://arxiv.org/abs/2506.07904v1)|[2506.07904v1](http://arxiv.org/pdf/2506.07904v1)|null|
 |**2025-06-06**|**The Atacama Cosmology Telescope: DR6 Power Spectrum Foreground Model and Validation**|Benjamin Beringue et.al.|[2506.06274v1](http://arxiv.org/abs/2506.06274v1)|[2506.06274v1](http://arxiv.org/pdf/2506.06274v1)|null|
 |**2025-06-06**|**To collapse or not to collapse: Halo evolution with self-interacting dark matter mass segregation**|Yashraj Patil et.al.|[2506.06272v1](http://arxiv.org/abs/2506.06272v1)|[2506.06272v1](http://arxiv.org/pdf/2506.06272v1)|null|
 |**2025-06-06**|**Accurately simulating core-collapse self-interacting dark matter halos**|Moritz S. Fischer et.al.|[2506.06269v1](http://arxiv.org/abs/2506.06269v1)|[2506.06269v1](http://arxiv.org/pdf/2506.06269v1)|null|
@@ -7307,6 +7317,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013v1](http://arxiv.org/abs/2506.08013v1)|[2506.08013v1](http://arxiv.org/pdf/2506.08013v1)|null|
+|**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012v1](http://arxiv.org/abs/2506.08012v1)|[2506.08012v1](http://arxiv.org/pdf/2506.08012v1)|null|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010v1](http://arxiv.org/abs/2506.08010v1)|[2506.08010v1](http://arxiv.org/pdf/2506.08010v1)|null|
+|**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009v1](http://arxiv.org/abs/2506.08009v1)|[2506.08009v1](http://arxiv.org/pdf/2506.08009v1)|null|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008v1](http://arxiv.org/abs/2506.08008v1)|[2506.08008v1](http://arxiv.org/pdf/2506.08008v1)|null|
+|**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004v1](http://arxiv.org/abs/2506.08004v1)|[2506.08004v1](http://arxiv.org/pdf/2506.08004v1)|null|
+|**2025-06-09**|**Audio-Sync Video Generation with Multi-Stream Temporal Control**|Shuchen Weng et.al.|[2506.08003v1](http://arxiv.org/abs/2506.08003v1)|[2506.08003v1](http://arxiv.org/pdf/2506.08003v1)|null|
+|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001v1](http://arxiv.org/abs/2506.08001v1)|[2506.08001v1](http://arxiv.org/pdf/2506.08001v1)|null|
+|**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997v1](http://arxiv.org/abs/2506.07997v1)|[2506.07997v1](http://arxiv.org/pdf/2506.07997v1)|null|
+|**2025-06-09**|**$τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment**|Victor Barres et.al.|[2506.07982v1](http://arxiv.org/abs/2506.07982v1)|[2506.07982v1](http://arxiv.org/pdf/2506.07982v1)|null|
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280v1](http://arxiv.org/abs/2506.06280v1)|[2506.06280v1](http://arxiv.org/pdf/2506.06280v1)|null|
 |**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|[2506.06278v1](http://arxiv.org/pdf/2506.06278v1)|null|
 |**2025-06-06**|**Accurately simulating core-collapse self-interacting dark matter halos**|Moritz S. Fischer et.al.|[2506.06269v1](http://arxiv.org/abs/2506.06269v1)|[2506.06269v1](http://arxiv.org/pdf/2506.06269v1)|null|
