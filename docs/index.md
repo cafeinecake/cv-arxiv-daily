@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 
 ## Astrophysics
 
@@ -7310,7 +7310,7 @@ layout: default
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280v1](http://arxiv.org/abs/2506.06280v1)|[2506.06280v1](http://arxiv.org/pdf/2506.06280v1)|null|
 |**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|[2506.06278v1](http://arxiv.org/pdf/2506.06278v1)|null|
 |**2025-06-06**|**Accurately simulating core-collapse self-interacting dark matter halos**|Moritz S. Fischer et.al.|[2506.06269v1](http://arxiv.org/abs/2506.06269v1)|[2506.06269v1](http://arxiv.org/pdf/2506.06269v1)|null|
-|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v1](http://arxiv.org/abs/2506.06266v1)|[2506.06266v1](http://arxiv.org/pdf/2506.06266v1)|null|
+|**2025-06-09**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v2](http://arxiv.org/abs/2506.06266v2)|[2506.06266v2](http://arxiv.org/pdf/2506.06266v2)|null|
 |**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262v1](http://arxiv.org/abs/2506.06262v1)|[2506.06262v1](http://arxiv.org/pdf/2506.06262v1)|null|
 |**2025-06-06**|**Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens**|Jihwan Jeong et.al.|[2506.06261v1](http://arxiv.org/abs/2506.06261v1)|[2506.06261v1](http://arxiv.org/pdf/2506.06261v1)|null|
 |**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254v1](http://arxiv.org/abs/2506.06254v1)|[2506.06254v1](http://arxiv.org/pdf/2506.06254v1)|null|
