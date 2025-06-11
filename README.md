@@ -1,4 +1,4 @@
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 
 ## Astrophysics
 
@@ -9,9 +9,9 @@
 |**2025-06-09**|**Photon rings in a holographic toy model**|Stéphane Detournay et.al.|[2506.07989v1](http://arxiv.org/abs/2506.07989v1)|[2506.07989v1](http://arxiv.org/pdf/2506.07989v1)|null|
 |**2025-06-09**|**Not so dark, not so dense: an alternative explanation for the lensing subhalo in SDSSJ0946+1006**|Qiuhan He et.al.|[2506.07978v1](http://arxiv.org/abs/2506.07978v1)|[2506.07978v1](http://arxiv.org/pdf/2506.07978v1)|null|
 |**2025-06-09**|**Density jump as a function of the field for parallel relativistic collisionless shocks**|Antoine Bret et.al.|[2506.07973v1](http://arxiv.org/abs/2506.07973v1)|[2506.07973v1](http://arxiv.org/pdf/2506.07973v1)|null|
-|**2025-06-09**|**The FAST Globular Cluster Pulsar Survey (GC FANS)**|Yujie Lian et.al.|[2506.07970v1](http://arxiv.org/abs/2506.07970v1)|[2506.07970v1](http://arxiv.org/pdf/2506.07970v1)|null|
+|**2025-06-10**|**The FAST Globular Cluster Pulsar Survey (GC FANS)**|Yujie Lian et.al.|[2506.07970v2](http://arxiv.org/abs/2506.07970v2)|[2506.07970v2](http://arxiv.org/pdf/2506.07970v2)|null|
 |**2025-06-09**|**New Insights into the T Tauri Binary Separation Distribution**|Caleb Eastlund et.al.|[2506.07938v1](http://arxiv.org/abs/2506.07938v1)|[2506.07938v1](http://arxiv.org/pdf/2506.07938v1)|null|
-|**2025-06-09**|**A giant planet transiting a 0.2 solar mass host star**|Edward M. Bryant et.al.|[2506.07931v1](http://arxiv.org/abs/2506.07931v1)|[2506.07931v1](http://arxiv.org/pdf/2506.07931v1)|null|
+|**2025-06-10**|**A transiting giant planet in orbit around a 0.2-solar-mass host star**|Edward M. Bryant et.al.|[2506.07931v2](http://arxiv.org/abs/2506.07931v2)|[2506.07931v2](http://arxiv.org/pdf/2506.07931v2)|null|
 |**2025-06-09**|**A circularly polarized low-frequency radio burst from the exoplanetary system HD 189733**|X. Zhang et.al.|[2506.07912v1](http://arxiv.org/abs/2506.07912v1)|[2506.07912v1](http://arxiv.org/pdf/2506.07912v1)|null|
 |**2025-06-09**|**Fundamental Parameters for Central Stars of 103 Infrared Bowshock Nebulae**|Nikhil Patten et.al.|[2506.07904v1](http://arxiv.org/abs/2506.07904v1)|[2506.07904v1](http://arxiv.org/pdf/2506.07904v1)|null|
 |**2025-06-06**|**The Atacama Cosmology Telescope: DR6 Power Spectrum Foreground Model and Validation**|Benjamin Beringue et.al.|[2506.06274v1](http://arxiv.org/abs/2506.06274v1)|[2506.06274v1](http://arxiv.org/pdf/2506.06274v1)|null|
