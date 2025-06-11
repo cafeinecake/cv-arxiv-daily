@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036v1](http://arxiv.org/abs/2506.09036v1)|[2506.09036v1](http://arxiv.org/pdf/2506.09036v1)|null|
+|**2025-06-10**|**Investigating the physical properties of dusty star-forming galaxies at z>=1.5 in the GOODS-South field using JWST**|Dipanjan Mitra et.al.|[2506.08995v1](http://arxiv.org/abs/2506.08995v1)|[2506.08995v1](http://arxiv.org/pdf/2506.08995v1)|null|
+|**2025-06-10**|**The Highest-Energy Neutrino Event Constrains Dark Matter-Neutrino Interactions**|Toni Bertólez-Martínez et.al.|[2506.08993v1](http://arxiv.org/abs/2506.08993v1)|[2506.08993v1](http://arxiv.org/pdf/2506.08993v1)|null|
+|**2025-06-10**|**A New Spectral Class of Brown Dwarfs at the Bottom of the IMF in IC 348**|K. L. Luhman et.al.|[2506.08969v1](http://arxiv.org/abs/2506.08969v1)|[2506.08969v1](http://arxiv.org/pdf/2506.08969v1)|null|
+|**2025-06-10**|**UVIT Study of the Magellanic Clouds (U-SMAC). III. Hierarchical Star Formation in the Small Magellanic Cloud Regulated by Turbulence**|Sipra Hota et.al.|[2506.08951v1](http://arxiv.org/abs/2506.08951v1)|[2506.08951v1](http://arxiv.org/pdf/2506.08951v1)|null|
+|**2025-06-10**|**Measurement of the Dispersion$\unicode{x2013}$Galaxy Cross-Power Spectrum with the Second CHIME/FRB Catalog**|Haochen Wang et.al.|[2506.08932v1](http://arxiv.org/abs/2506.08932v1)|[2506.08932v1](http://arxiv.org/pdf/2506.08932v1)|null|
+|**2025-06-10**|**Gamma-Ray Bursts Calibrated by Using Artificial Neural Networks from the Pantheon+ Sample**|Zhen Huang et.al.|[2506.08929v1](http://arxiv.org/abs/2506.08929v1)|[2506.08929v1](http://arxiv.org/pdf/2506.08929v1)|null|
+|**2025-06-10**|**Splashback radius and the mass accretion rate of RASS MCMF galaxy clusters**|Jitendra Joshi et.al.|[2506.08925v1](http://arxiv.org/abs/2506.08925v1)|[2506.08925v1](http://arxiv.org/pdf/2506.08925v1)|null|
+|**2025-06-10**|**The Evolutionary Path of Star-Forming Clumps in Hi-GAL**|Ylenia Maruccia et.al.|[2506.08905v1](http://arxiv.org/abs/2506.08905v1)|[2506.08905v1](http://arxiv.org/pdf/2506.08905v1)|null|
+|**2025-06-10**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895v1](http://arxiv.org/abs/2506.08895v1)|[2506.08895v1](http://arxiv.org/pdf/2506.08895v1)|null|
 |**2025-06-09**|**Why M-dwarf flares have limited impact on sub-Neptunes' atmospheric evaporation**|Andrea Caldiroli et.al.|[2506.08014v1](http://arxiv.org/abs/2506.08014v1)|[2506.08014v1](http://arxiv.org/pdf/2506.08014v1)|null|
 |**2025-06-09**|**Resonant neutrino self-interactions: insights from the full shape galaxy power spectrum**|Hernán E. Noriega et.al.|[2506.07994v1](http://arxiv.org/abs/2506.07994v1)|[2506.07994v1](http://arxiv.org/pdf/2506.07994v1)|null|
 |**2025-06-09**|**Photon rings in a holographic toy model**|Stéphane Detournay et.al.|[2506.07989v1](http://arxiv.org/abs/2506.07989v1)|[2506.07989v1](http://arxiv.org/pdf/2506.07989v1)|null|
@@ -7313,6 +7323,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-10**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050v1](http://arxiv.org/abs/2506.09050v1)|[2506.09050v1](http://arxiv.org/pdf/2506.09050v1)|null|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049v1](http://arxiv.org/abs/2506.09049v1)|[2506.09049v1](http://arxiv.org/pdf/2506.09049v1)|null|
+|**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046v1](http://arxiv.org/abs/2506.09046v1)|[2506.09046v1](http://arxiv.org/pdf/2506.09046v1)|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040v1](http://arxiv.org/abs/2506.09040v1)|[2506.09040v1](http://arxiv.org/pdf/2506.09040v1)|null|
+|**2025-06-10**|**AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions**|Polina Kirichenko et.al.|[2506.09038v1](http://arxiv.org/abs/2506.09038v1)|[2506.09038v1](http://arxiv.org/pdf/2506.09038v1)|null|
+|**2025-06-10**|**FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed**|Sizhe Dang et.al.|[2506.09034v1](http://arxiv.org/abs/2506.09034v1)|[2506.09034v1](http://arxiv.org/pdf/2506.09034v1)|null|
+|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|[2506.09033v1](http://arxiv.org/pdf/2506.09033v1)|null|
+|**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027v1](http://arxiv.org/abs/2506.09027v1)|[2506.09027v1](http://arxiv.org/pdf/2506.09027v1)|null|
+|**2025-06-10**|**Edit Flows: Flow Matching with Edit Operations**|Marton Havasi et.al.|[2506.09018v1](http://arxiv.org/abs/2506.09018v1)|[2506.09018v1](http://arxiv.org/pdf/2506.09018v1)|null|
+|**2025-06-10**|**Employing self-supervised learning models for cross-linguistic child speech maturity classification**|Theo Zhang et.al.|[2506.08999v1](http://arxiv.org/abs/2506.08999v1)|[2506.08999v1](http://arxiv.org/pdf/2506.08999v1)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013v1](http://arxiv.org/abs/2506.08013v1)|[2506.08013v1](http://arxiv.org/pdf/2506.08013v1)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012v1](http://arxiv.org/abs/2506.08012v1)|[2506.08012v1](http://arxiv.org/pdf/2506.08012v1)|null|
 |**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010v1](http://arxiv.org/abs/2506.08010v1)|[2506.08010v1](http://arxiv.org/pdf/2506.08010v1)|null|
