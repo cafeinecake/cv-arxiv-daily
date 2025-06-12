@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 
 ## Astrophysics
 
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-10**|**Gamma-Ray Bursts Calibrated by Using Artificial Neural Networks from the Pantheon+ Sample**|Zhen Huang et.al.|[2506.08929v1](http://arxiv.org/abs/2506.08929v1)|[2506.08929v1](http://arxiv.org/pdf/2506.08929v1)|null|
 |**2025-06-10**|**Splashback radius and the mass accretion rate of RASS MCMF galaxy clusters**|Jitendra Joshi et.al.|[2506.08925v1](http://arxiv.org/abs/2506.08925v1)|[2506.08925v1](http://arxiv.org/pdf/2506.08925v1)|null|
 |**2025-06-10**|**The Evolutionary Path of Star-Forming Clumps in Hi-GAL**|Ylenia Maruccia et.al.|[2506.08905v1](http://arxiv.org/abs/2506.08905v1)|[2506.08905v1](http://arxiv.org/pdf/2506.08905v1)|null|
-|**2025-06-10**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895v1](http://arxiv.org/abs/2506.08895v1)|[2506.08895v1](http://arxiv.org/pdf/2506.08895v1)|null|
+|**2025-06-11**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895v2](http://arxiv.org/abs/2506.08895v2)|[2506.08895v2](http://arxiv.org/pdf/2506.08895v2)|null|
 |**2025-06-09**|**Why M-dwarf flares have limited impact on sub-Neptunes' atmospheric evaporation**|Andrea Caldiroli et.al.|[2506.08014v1](http://arxiv.org/abs/2506.08014v1)|[2506.08014v1](http://arxiv.org/pdf/2506.08014v1)|null|
 |**2025-06-09**|**Resonant neutrino self-interactions: insights from the full shape galaxy power spectrum**|Hernán E. Noriega et.al.|[2506.07994v1](http://arxiv.org/abs/2506.07994v1)|[2506.07994v1](http://arxiv.org/pdf/2506.07994v1)|null|
 |**2025-06-09**|**Photon rings in a holographic toy model**|Stéphane Detournay et.al.|[2506.07989v1](http://arxiv.org/abs/2506.07989v1)|[2506.07989v1](http://arxiv.org/pdf/2506.07989v1)|null|
