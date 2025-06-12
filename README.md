@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-11**|**MINDS: Detection of an inner gas disk caused by evaporating bodies around HD 172555**|M. Samland et.al.|[2506.09976v1](http://arxiv.org/abs/2506.09976v1)|[2506.09976v1](http://arxiv.org/pdf/2506.09976v1)|null|
+|**2025-06-11**|**A Theoretical Three-Dimensional Diagram to Separate Star Formation, Active Galactic Nuclei, and Shocks in Galaxies**|Peixin Zhu et.al.|[2506.09962v1](http://arxiv.org/abs/2506.09962v1)|[2506.09962v1](http://arxiv.org/pdf/2506.09962v1)|null|
+|**2025-06-11**|**Counterculture Stars: Slow and Retrograde Stars with Low-Alpha Disk Abundances**|Carrie Filion et.al.|[2506.09927v1](http://arxiv.org/abs/2506.09927v1)|[2506.09927v1](http://arxiv.org/pdf/2506.09927v1)|null|
+|**2025-06-11**|**A class of charged and charged-Taub-NUT metrics in the presence of a massless scalar field and some of their astrophysical aspects**|Fatemeh Sadeghi et.al.|[2506.09922v1](http://arxiv.org/abs/2506.09922v1)|[2506.09922v1](http://arxiv.org/pdf/2506.09922v1)|null|
+|**2025-06-11**|**XSPECT on-board XPoSat: Calibration and First Results**|Rwitika Chatterjee et.al.|[2506.09918v1](http://arxiv.org/abs/2506.09918v1)|[2506.09918v1](http://arxiv.org/pdf/2506.09918v1)|null|
+|**2025-06-11**|**Black hole photon ring beyond General Relativity: an integrable parametrization**|Jibril Ben Achour et.al.|[2506.09882v1](http://arxiv.org/abs/2506.09882v1)|[2506.09882v1](http://arxiv.org/pdf/2506.09882v1)|null|
+|**2025-06-11**|**Noise in Maps of the Sun at Radio Wavelengths II: Solar Use Cases**|Timothy Bastian et.al.|[2506.09843v1](http://arxiv.org/abs/2506.09843v1)|[2506.09843v1](http://arxiv.org/pdf/2506.09843v1)|null|
+|**2025-06-11**|**Axisymmetric Cooling of Neutron Stars with Strong Magnetic Fields**|Rodrigo Negreiros et.al.|[2506.09841v1](http://arxiv.org/abs/2506.09841v1)|[2506.09841v1](http://arxiv.org/pdf/2506.09841v1)|null|
+|**2025-06-11**|**Noise in Maps of the Sun at Radio Wavelengths I: Theoretical Considerations**|Timothy Bastian et.al.|[2506.09838v1](http://arxiv.org/abs/2506.09838v1)|[2506.09838v1](http://arxiv.org/pdf/2506.09838v1)|null|
+|**2025-06-11**|**ABYSS III: Observing accretion activity in young stars through empirical veiling measurements**|Serat Saad et.al.|[2506.09826v1](http://arxiv.org/abs/2506.09826v1)|[2506.09826v1](http://arxiv.org/pdf/2506.09826v1)|null|
 |**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036v1](http://arxiv.org/abs/2506.09036v1)|[2506.09036v1](http://arxiv.org/pdf/2506.09036v1)|null|
 |**2025-06-10**|**Investigating the physical properties of dusty star-forming galaxies at z>=1.5 in the GOODS-South field using JWST**|Dipanjan Mitra et.al.|[2506.08995v1](http://arxiv.org/abs/2506.08995v1)|[2506.08995v1](http://arxiv.org/pdf/2506.08995v1)|null|
 |**2025-06-10**|**The Highest-Energy Neutrino Event Constrains Dark Matter-Neutrino Interactions**|Toni Bertólez-Martínez et.al.|[2506.08993v1](http://arxiv.org/abs/2506.08993v1)|[2506.08993v1](http://arxiv.org/pdf/2506.08993v1)|null|
@@ -7323,6 +7333,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997v1](http://arxiv.org/abs/2506.09997v1)|[2506.09997v1](http://arxiv.org/pdf/2506.09997v1)|null|
+|**2025-06-11**|**eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures**|Venkatesh Pattabiraman et.al.|[2506.09994v1](http://arxiv.org/abs/2506.09994v1)|[2506.09994v1](http://arxiv.org/pdf/2506.09994v1)|null|
+|**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993v1](http://arxiv.org/abs/2506.09993v1)|[2506.09993v1](http://arxiv.org/pdf/2506.09993v1)|null|
+|**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988v1](http://arxiv.org/abs/2506.09988v1)|[2506.09988v1](http://arxiv.org/pdf/2506.09988v1)|null|
+|**2025-06-11**|**V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**|Mido Assran et.al.|[2506.09985v1](http://arxiv.org/abs/2506.09985v1)|[2506.09985v1](http://arxiv.org/pdf/2506.09985v1)|null|
+|**2025-06-11**|**InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions**|Zhenzhi Wang et.al.|[2506.09984v1](http://arxiv.org/abs/2506.09984v1)|[2506.09984v1](http://arxiv.org/pdf/2506.09984v1)|null|
+|**2025-06-11**|**How Do People Revise Inconsistent Beliefs? Examining Belief Revision in Humans with User Studies**|Stylianos Loukas Vasileiou et.al.|[2506.09977v1](http://arxiv.org/abs/2506.09977v1)|[2506.09977v1](http://arxiv.org/pdf/2506.09977v1)|null|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965v1](http://arxiv.org/abs/2506.09965v1)|[2506.09965v1](http://arxiv.org/pdf/2506.09965v1)|null|
+|**2025-06-11**|**LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge**|Sahar Abdelnabi et.al.|[2506.09956v1](http://arxiv.org/abs/2506.09956v1)|[2506.09956v1](http://arxiv.org/pdf/2506.09956v1)|null|
+|**2025-06-11**|**Vision Generalist Model: A Survey**|Ziyi Wang et.al.|[2506.09954v1](http://arxiv.org/abs/2506.09954v1)|[2506.09954v1](http://arxiv.org/pdf/2506.09954v1)|null|
 |**2025-06-10**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050v1](http://arxiv.org/abs/2506.09050v1)|[2506.09050v1](http://arxiv.org/pdf/2506.09050v1)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049v1](http://arxiv.org/abs/2506.09049v1)|[2506.09049v1](http://arxiv.org/pdf/2506.09049v1)|null|
 |**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046v1](http://arxiv.org/abs/2506.09046v1)|[2506.09046v1](http://arxiv.org/pdf/2506.09046v1)|null|
