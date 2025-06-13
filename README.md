@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-12**|**The Gap-Giant Association: Are Planets Hiding in the Gaps?**|Caleb Lammers et.al.|[2506.10969v1](http://arxiv.org/abs/2506.10969v1)|[2506.10969v1](http://arxiv.org/pdf/2506.10969v1)|null|
+|**2025-06-12**|**Discovery and Localization of the Swift-Observed FRB 20241228A in a Star-forming Host Galaxy**|Alice P. Curtin et.al.|[2506.10961v1](http://arxiv.org/abs/2506.10961v1)|[2506.10961v1](http://arxiv.org/pdf/2506.10961v1)|null|
+|**2025-06-12**|**Two coincidences are a clue: Probing a GeV-scale dark QCD sector**|Yi Chung et.al.|[2506.10928v1](http://arxiv.org/abs/2506.10928v1)|[2506.10928v1](http://arxiv.org/pdf/2506.10928v1)|null|
+|**2025-06-12**|**Identifying Compact Chirping SMBHBs in LSST using Bayesian Analysis**|Chengcheng Xin et.al.|[2506.10846v1](http://arxiv.org/abs/2506.10846v1)|[2506.10846v1](http://arxiv.org/pdf/2506.10846v1)|null|
+|**2025-06-12**|**Self-gravity in thin protoplanetary discs: 1. The smoothing-length approximation versus the exact self-gravity kernel**|S. Rendon Restrepo et.al.|[2506.10812v1](http://arxiv.org/abs/2506.10812v1)|[2506.10812v1](http://arxiv.org/pdf/2506.10812v1)|null|
+|**2025-06-12**|**On the calculation of p-values for quadratic statistics in Pulsar Timing Arrays**|Rutger van Haasteren et.al.|[2506.10811v1](http://arxiv.org/abs/2506.10811v1)|[2506.10811v1](http://arxiv.org/pdf/2506.10811v1)|null|
+|**2025-06-12**|**Gas-Poor Hosts and Gas-Rich Companions of $z\approx$3.5 Radio AGN: ALMA insights into jet triggering and feedback**|Wuji Wang et.al.|[2506.10799v1](http://arxiv.org/abs/2506.10799v1)|[2506.10799v1](http://arxiv.org/pdf/2506.10799v1)|null|
+|**2025-06-12**|**Electric conductivity and flavor diffusion in a viscous, resistive quark-gluon plasma for weak and strong magnetic fields**|Ferdinando Frascà et.al.|[2506.10783v1](http://arxiv.org/abs/2506.10783v1)|[2506.10783v1](http://arxiv.org/pdf/2506.10783v1)|null|
+|**2025-06-12**|**Detectability of massive binary black holes with sub-mHz gravitational wave missions**|Renjie Wang et.al.|[2506.10768v1](http://arxiv.org/abs/2506.10768v1)|[2506.10768v1](http://arxiv.org/pdf/2506.10768v1)|null|
+|**2025-06-12**|**The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): XII. Extreme millimetre variability detected in a Class II disc**|James M. Miley et.al.|[2506.10752v1](http://arxiv.org/abs/2506.10752v1)|[2506.10752v1](http://arxiv.org/pdf/2506.10752v1)|null|
 |**2025-06-11**|**MINDS: Detection of an inner gas disk caused by evaporating bodies around HD 172555**|M. Samland et.al.|[2506.09976v1](http://arxiv.org/abs/2506.09976v1)|[2506.09976v1](http://arxiv.org/pdf/2506.09976v1)|null|
 |**2025-06-11**|**A Theoretical Three-Dimensional Diagram to Separate Star Formation, Active Galactic Nuclei, and Shocks in Galaxies**|Peixin Zhu et.al.|[2506.09962v1](http://arxiv.org/abs/2506.09962v1)|[2506.09962v1](http://arxiv.org/pdf/2506.09962v1)|null|
 |**2025-06-11**|**Counterculture Stars: Slow and Retrograde Stars with Low-Alpha Disk Abundances**|Carrie Filion et.al.|[2506.09927v1](http://arxiv.org/abs/2506.09927v1)|[2506.09927v1](http://arxiv.org/pdf/2506.09927v1)|null|
@@ -7333,6 +7343,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-12**|**Rethinking Losses for Diffusion Bridge Samplers**|Sebastian Sanokowski et.al.|[2506.10982v1](http://arxiv.org/abs/2506.10982v1)|[2506.10982v1](http://arxiv.org/pdf/2506.10982v1)|null|
+|**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|[2506.10978v1](http://arxiv.org/pdf/2506.10978v1)|null|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974v1](http://arxiv.org/abs/2506.10974v1)|[2506.10974v1](http://arxiv.org/pdf/2506.10974v1)|null|
+|**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973v1](http://arxiv.org/abs/2506.10973v1)|[2506.10973v1](http://arxiv.org/pdf/2506.10973v1)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972v1](http://arxiv.org/abs/2506.10972v1)|[2506.10972v1](http://arxiv.org/pdf/2506.10972v1)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967v1](http://arxiv.org/abs/2506.10967v1)|[2506.10967v1](http://arxiv.org/pdf/2506.10967v1)|null|
+|**2025-06-12**|**SpectralAR: Spectral Autoregressive Visual Generation**|Yuanhui Huang et.al.|[2506.10962v1](http://arxiv.org/abs/2506.10962v1)|[2506.10962v1](http://arxiv.org/pdf/2506.10962v1)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960v1](http://arxiv.org/abs/2506.10960v1)|[2506.10960v1](http://arxiv.org/pdf/2506.10960v1)|null|
+|**2025-06-12**|**Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods**|Zhaiming Shen et.al.|[2506.10959v1](http://arxiv.org/abs/2506.10959v1)|[2506.10959v1](http://arxiv.org/pdf/2506.10959v1)|null|
+|**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955v1](http://arxiv.org/abs/2506.10955v1)|[2506.10955v1](http://arxiv.org/pdf/2506.10955v1)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997v1](http://arxiv.org/abs/2506.09997v1)|[2506.09997v1](http://arxiv.org/pdf/2506.09997v1)|null|
 |**2025-06-11**|**eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures**|Venkatesh Pattabiraman et.al.|[2506.09994v1](http://arxiv.org/abs/2506.09994v1)|[2506.09994v1](http://arxiv.org/pdf/2506.09994v1)|null|
 |**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993v1](http://arxiv.org/abs/2506.09993v1)|[2506.09993v1](http://arxiv.org/pdf/2506.09993v1)|null|
