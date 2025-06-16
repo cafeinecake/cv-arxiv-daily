@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-13**|**Bayesian and frequentist perspectives agree on dynamical dark energy**|Laura Herold et.al.|[2506.12004v1](http://arxiv.org/abs/2506.12004v1)|[2506.12004v1](http://arxiv.org/pdf/2506.12004v1)|null|
+|**2025-06-13**|**Spot-Crossing Variations Confirm a Misaligned Orbit for a Planet Transiting an M Dwarf**|Patrick Tamburo et.al.|[2506.11998v1](http://arxiv.org/abs/2506.11998v1)|[2506.11998v1](http://arxiv.org/pdf/2506.11998v1)|null|
+|**2025-06-13**|**JWST spectroscopy of a blue binary cold classical Kuiper belt object**|Ian Wong et.al.|[2506.11972v1](http://arxiv.org/abs/2506.11972v1)|[2506.11972v1](http://arxiv.org/pdf/2506.11972v1)|null|
+|**2025-06-13**|**A solution to the tension of burning on neutron stars and nuclear physics**|Y. Cavecchi et.al.|[2506.11966v1](http://arxiv.org/abs/2506.11966v1)|[2506.11966v1](http://arxiv.org/pdf/2506.11966v1)|null|
+|**2025-06-13**|**Calibrating baryonic effects in cosmic shear with external data in the LSST era**|Amy Wayland et.al.|[2506.11943v1](http://arxiv.org/abs/2506.11943v1)|[2506.11943v1](http://arxiv.org/pdf/2506.11943v1)|null|
+|**2025-06-13**|**MIGHTEE-HI: The direct detection of neutral hydrogen in galaxies at $z>0.25$**|Matt J. Jarvis et.al.|[2506.11935v1](http://arxiv.org/abs/2506.11935v1)|[2506.11935v1](http://arxiv.org/pdf/2506.11935v1)|null|
+|**2025-06-13**|**Effective supernova dust yields from rotating and non-rotating stellar progenitors**|Koki Otaki et.al.|[2506.11931v1](http://arxiv.org/abs/2506.11931v1)|[2506.11931v1](http://arxiv.org/pdf/2506.11931v1)|null|
+|**2025-06-13**|**A Hyperactive FRB Pinpointed in an SMC-Like Satellite Host Galaxy**|M. Bhardwaj et.al.|[2506.11915v1](http://arxiv.org/abs/2506.11915v1)|[2506.11915v1](http://arxiv.org/pdf/2506.11915v1)|null|
+|**2025-06-13**|**Insights from a 30-Year international Partnership on Astronomical Archives**|David R. Rodriguez et.al.|[2506.11888v1](http://arxiv.org/abs/2506.11888v1)|[2506.11888v1](http://arxiv.org/pdf/2506.11888v1)|null|
+|**2025-06-13**|**Acoustically driven dark matter freeze-out**|Iason Baldes et.al.|[2506.11884v1](http://arxiv.org/abs/2506.11884v1)|[2506.11884v1](http://arxiv.org/pdf/2506.11884v1)|null|
 |**2025-06-12**|**The Gap-Giant Association: Are Planets Hiding in the Gaps?**|Caleb Lammers et.al.|[2506.10969v1](http://arxiv.org/abs/2506.10969v1)|[2506.10969v1](http://arxiv.org/pdf/2506.10969v1)|null|
 |**2025-06-12**|**Discovery and Localization of the Swift-Observed FRB 20241228A in a Star-forming Host Galaxy**|Alice P. Curtin et.al.|[2506.10961v1](http://arxiv.org/abs/2506.10961v1)|[2506.10961v1](http://arxiv.org/pdf/2506.10961v1)|null|
 |**2025-06-12**|**Two coincidences are a clue: Probing a GeV-scale dark QCD sector**|Yi Chung et.al.|[2506.10928v1](http://arxiv.org/abs/2506.10928v1)|[2506.10928v1](http://arxiv.org/pdf/2506.10928v1)|null|
@@ -7343,6 +7353,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015v1](http://arxiv.org/abs/2506.12015v1)|[2506.12015v1](http://arxiv.org/pdf/2506.12015v1)|null|
+|**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014v1](http://arxiv.org/abs/2506.12014v1)|[2506.12014v1](http://arxiv.org/pdf/2506.12014v1)|null|
+|**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012v1](http://arxiv.org/abs/2506.12012v1)|[2506.12012v1](http://arxiv.org/pdf/2506.12012v1)|null|
+|**2025-06-13**|**Reimagining Dance: Real-time Music Co-creation between Dancers and AI**|Olga Vechtomova et.al.|[2506.12008v1](http://arxiv.org/abs/2506.12008v1)|[2506.12008v1](http://arxiv.org/pdf/2506.12008v1)|null|
+|**2025-06-13**|**Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?**|Ramesh Raskar et.al.|[2506.12003v1](http://arxiv.org/abs/2506.12003v1)|[2506.12003v1](http://arxiv.org/pdf/2506.12003v1)|null|
+|**2025-06-13**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999v1](http://arxiv.org/abs/2506.11999v1)|[2506.11999v1](http://arxiv.org/pdf/2506.11999v1)|null|
+|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v1](http://arxiv.org/abs/2506.11991v1)|[2506.11991v1](http://arxiv.org/pdf/2506.11991v1)|null|
+|**2025-06-13**|**Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|[2506.11986v1](http://arxiv.org/pdf/2506.11986v1)|null|
+|**2025-06-13**|**Most probable paths for active Ornstein-Uhlenbeck particles**|Sandipan Dutta et.al.|[2506.11978v1](http://arxiv.org/abs/2506.11978v1)|[2506.11978v1](http://arxiv.org/pdf/2506.11978v1)|null|
+|**2025-06-13**|**Technical Evaluation of a Disruptive Approach in Homomorphic AI**|Eric Filiol et.al.|[2506.11954v1](http://arxiv.org/abs/2506.11954v1)|[2506.11954v1](http://arxiv.org/pdf/2506.11954v1)|null|
 |**2025-06-12**|**Rethinking Losses for Diffusion Bridge Samplers**|Sebastian Sanokowski et.al.|[2506.10982v1](http://arxiv.org/abs/2506.10982v1)|[2506.10982v1](http://arxiv.org/pdf/2506.10982v1)|null|
 |**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|[2506.10978v1](http://arxiv.org/pdf/2506.10978v1)|null|
 |**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974v1](http://arxiv.org/abs/2506.10974v1)|[2506.10974v1](http://arxiv.org/pdf/2506.10974v1)|null|
