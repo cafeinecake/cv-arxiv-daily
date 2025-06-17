@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 ## Astrophysics
 
@@ -7358,8 +7358,8 @@
 |**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012v1](http://arxiv.org/abs/2506.12012v1)|[2506.12012v1](http://arxiv.org/pdf/2506.12012v1)|null|
 |**2025-06-13**|**Reimagining Dance: Real-time Music Co-creation between Dancers and AI**|Olga Vechtomova et.al.|[2506.12008v1](http://arxiv.org/abs/2506.12008v1)|[2506.12008v1](http://arxiv.org/pdf/2506.12008v1)|null|
 |**2025-06-13**|**Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?**|Ramesh Raskar et.al.|[2506.12003v1](http://arxiv.org/abs/2506.12003v1)|[2506.12003v1](http://arxiv.org/pdf/2506.12003v1)|null|
-|**2025-06-13**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999v1](http://arxiv.org/abs/2506.11999v1)|[2506.11999v1](http://arxiv.org/pdf/2506.11999v1)|null|
-|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v1](http://arxiv.org/abs/2506.11991v1)|[2506.11991v1](http://arxiv.org/pdf/2506.11991v1)|null|
+|**2025-06-16**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999v2](http://arxiv.org/abs/2506.11999v2)|[2506.11999v2](http://arxiv.org/pdf/2506.11999v2)|null|
+|**2025-06-16**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v2](http://arxiv.org/abs/2506.11991v2)|[2506.11991v2](http://arxiv.org/pdf/2506.11991v2)|null|
 |**2025-06-13**|**Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|[2506.11986v1](http://arxiv.org/pdf/2506.11986v1)|null|
 |**2025-06-13**|**Most probable paths for active Ornstein-Uhlenbeck particles**|Sandipan Dutta et.al.|[2506.11978v1](http://arxiv.org/abs/2506.11978v1)|[2506.11978v1](http://arxiv.org/pdf/2506.11978v1)|null|
 |**2025-06-13**|**Technical Evaluation of a Disruptive Approach in Homomorphic AI**|Eric Filiol et.al.|[2506.11954v1](http://arxiv.org/abs/2506.11954v1)|[2506.11954v1](http://arxiv.org/pdf/2506.11954v1)|null|
