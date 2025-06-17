@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-16**|**A Halpha metric for identifying dormant black holes in X-ray transients**|J. Casares et.al.|[2506.13765v1](http://arxiv.org/abs/2506.13765v1)|[2506.13765v1](http://arxiv.org/pdf/2506.13765v1)|null|
+|**2025-06-16**|**Numerical approach to second-order canonical perturbation theory in the planetary 3-body problem. Application to exoplanets**|Aya Alnajjarine et.al.|[2506.13745v1](http://arxiv.org/abs/2506.13745v1)|[2506.13745v1](http://arxiv.org/pdf/2506.13745v1)|null|
+|**2025-06-16**|**DESI survey of S IV absorption outflows in quasars: Contribution to AGN feedback and comparison with [O III] emission outflows**|Mayank Sharma et.al.|[2506.13736v1](http://arxiv.org/abs/2506.13736v1)|[2506.13736v1](http://arxiv.org/pdf/2506.13736v1)|null|
+|**2025-06-16**|**Mass models of galaxy clusters from a non-parametric weak-lensing reconstruction**|Tobias Mistele et.al.|[2506.13716v1](http://arxiv.org/abs/2506.13716v1)|[2506.13716v1](http://arxiv.org/pdf/2506.13716v1)|null|
+|**2025-06-16**|**Infall-driven gravitational instability in accretion discs**|Cristiano Longarini et.al.|[2506.13701v1](http://arxiv.org/abs/2506.13701v1)|[2506.13701v1](http://arxiv.org/pdf/2506.13701v1)|null|
+|**2025-06-16**|**Bayesian Quantification of Observability and Equation of State of Twin Stars**|Xavier Grundler et.al.|[2506.13677v1](http://arxiv.org/abs/2506.13677v1)|[2506.13677v1](http://arxiv.org/pdf/2506.13677v1)|null|
+|**2025-06-16**|**Supernova explosions of runaway stars and young neutron stars above the Galactic plane**|Vinka Dakić et.al.|[2506.13660v1](http://arxiv.org/abs/2506.13660v1)|[2506.13660v1](http://arxiv.org/pdf/2506.13660v1)|null|
+|**2025-06-16**|**KRIOS: A new basis-expansion $N$-body code for collisional stellar dynamics**|Kerwann Tep et.al.|[2506.13636v1](http://arxiv.org/abs/2506.13636v1)|[2506.13636v1](http://arxiv.org/pdf/2506.13636v1)|null|
+|**2025-06-16**|**NIR filter transformations across the HR diagram: JWST, Roman, and Euclid**|M. J. Durbin et.al.|[2506.13627v1](http://arxiv.org/abs/2506.13627v1)|[2506.13627v1](http://arxiv.org/pdf/2506.13627v1)|null|
+|**2025-06-16**|**Tidal dissipation and synchronization of the temperate exo-Earth LP 791-18d**|Sylvio Ferraz-Mello et.al.|[2506.13621v1](http://arxiv.org/abs/2506.13621v1)|[2506.13621v1](http://arxiv.org/pdf/2506.13621v1)|null|
 |**2025-06-13**|**Bayesian and frequentist perspectives agree on dynamical dark energy**|Laura Herold et.al.|[2506.12004v1](http://arxiv.org/abs/2506.12004v1)|[2506.12004v1](http://arxiv.org/pdf/2506.12004v1)|null|
 |**2025-06-13**|**Spot-Crossing Variations Confirm a Misaligned Orbit for a Planet Transiting an M Dwarf**|Patrick Tamburo et.al.|[2506.11998v1](http://arxiv.org/abs/2506.11998v1)|[2506.11998v1](http://arxiv.org/pdf/2506.11998v1)|null|
 |**2025-06-13**|**JWST spectroscopy of a blue binary cold classical Kuiper belt object**|Ian Wong et.al.|[2506.11972v1](http://arxiv.org/abs/2506.11972v1)|[2506.11972v1](http://arxiv.org/pdf/2506.11972v1)|null|
@@ -7353,6 +7363,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763v1](http://arxiv.org/abs/2506.13763v1)|[2506.13763v1](http://arxiv.org/pdf/2506.13763v1)|null|
+|**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759v1](http://arxiv.org/abs/2506.13759v1)|[2506.13759v1](http://arxiv.org/pdf/2506.13759v1)|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|[2506.13754v1](http://arxiv.org/pdf/2506.13754v1)|null|
+|**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752v1](http://arxiv.org/abs/2506.13752v1)|[2506.13752v1](http://arxiv.org/pdf/2506.13752v1)|null|
+|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|[2506.13751v1](http://arxiv.org/pdf/2506.13751v1)|null|
+|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746v1](http://arxiv.org/abs/2506.13746v1)|[2506.13746v1](http://arxiv.org/pdf/2506.13746v1)|null|
+|**2025-06-16**|**PB$^2$: Preference Space Exploration via Population-Based Methods in Preference-Based Reinforcement Learning**|Brahim Driss et.al.|[2506.13741v1](http://arxiv.org/abs/2506.13741v1)|[2506.13741v1](http://arxiv.org/pdf/2506.13741v1)|null|
+|**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734v1](http://arxiv.org/abs/2506.13734v1)|[2506.13734v1](http://arxiv.org/pdf/2506.13734v1)|null|
+|**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730v1](http://arxiv.org/abs/2506.13730v1)|[2506.13730v1](http://arxiv.org/pdf/2506.13730v1)|null|
+|**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727v1](http://arxiv.org/abs/2506.13727v1)|[2506.13727v1](http://arxiv.org/pdf/2506.13727v1)|null|
 |**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015v1](http://arxiv.org/abs/2506.12015v1)|[2506.12015v1](http://arxiv.org/pdf/2506.12015v1)|null|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014v1](http://arxiv.org/abs/2506.12014v1)|[2506.12014v1](http://arxiv.org/pdf/2506.12014v1)|null|
 |**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012v1](http://arxiv.org/abs/2506.12012v1)|[2506.12012v1](http://arxiv.org/pdf/2506.12012v1)|null|
