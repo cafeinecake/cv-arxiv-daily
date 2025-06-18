@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-17**|**Gravitational-wave background detection using machine learning**|Hugo Einsle et.al.|[2506.14764v1](http://arxiv.org/abs/2506.14764v1)|[2506.14764v1](http://arxiv.org/pdf/2506.14764v1)|null|
+|**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757v1](http://arxiv.org/abs/2506.14757v1)|[2506.14757v1](http://arxiv.org/pdf/2506.14757v1)|null|
+|**2025-06-17**|**Technosignature Searches with Real-time Alert Brokers**|Eleanor M. Gallay et.al.|[2506.14744v1](http://arxiv.org/abs/2506.14744v1)|[2506.14744v1](http://arxiv.org/pdf/2506.14744v1)|null|
+|**2025-06-17**|**SETI@home: Data Analysis and Findings**|David P. Anderson et.al.|[2506.14737v1](http://arxiv.org/abs/2506.14737v1)|[2506.14737v1](http://arxiv.org/pdf/2506.14737v1)|null|
+|**2025-06-17**|**Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method**|Enrique Pérez-Montero et.al.|[2506.14736v1](http://arxiv.org/abs/2506.14736v1)|[2506.14736v1](http://arxiv.org/pdf/2506.14736v1)|null|
+|**2025-06-17**|**SETI@home: Data Acquisition and Front-End Processing**|Eric J. Korpela et.al.|[2506.14718v1](http://arxiv.org/abs/2506.14718v1)|[2506.14718v1](http://arxiv.org/pdf/2506.14718v1)|null|
+|**2025-06-17**|**Probing quadratic gravity with black-hole ringdown gravitational waves measured by LIGO-Virgo-KAGRA detectors**|Adrian Ka-Wai Chung et.al.|[2506.14695v1](http://arxiv.org/abs/2506.14695v1)|[2506.14695v1](http://arxiv.org/pdf/2506.14695v1)|null|
+|**2025-06-17**|**Application of a modified commercial laser mass spectrometer as a science analog of the Mars Organic Molecule Analyzer (MOMA)**|Zachary K. Garvin et.al.|[2506.14691v1](http://arxiv.org/abs/2506.14691v1)|[2506.14691v1](http://arxiv.org/pdf/2506.14691v1)|null|
+|**2025-06-17**|**Modeling of Ionization and Recombination Processes in Plasma with Arbitrary Non-Maxwellian Electron Distributions**|Chengcai Shen et.al.|[2506.14668v1](http://arxiv.org/abs/2506.14668v1)|[2506.14668v1](http://arxiv.org/pdf/2506.14668v1)|null|
+|**2025-06-17**|**Axion-like particle limits from multi-messenger sources**|Ariane Dekker et.al.|[2506.14659v1](http://arxiv.org/abs/2506.14659v1)|[2506.14659v1](http://arxiv.org/pdf/2506.14659v1)|null|
 |**2025-06-16**|**A Halpha metric for identifying dormant black holes in X-ray transients**|J. Casares et.al.|[2506.13765v1](http://arxiv.org/abs/2506.13765v1)|[2506.13765v1](http://arxiv.org/pdf/2506.13765v1)|null|
 |**2025-06-16**|**Numerical approach to second-order canonical perturbation theory in the planetary 3-body problem. Application to exoplanets**|Aya Alnajjarine et.al.|[2506.13745v1](http://arxiv.org/abs/2506.13745v1)|[2506.13745v1](http://arxiv.org/pdf/2506.13745v1)|null|
 |**2025-06-16**|**DESI survey of S IV absorption outflows in quasars: Contribution to AGN feedback and comparison with [O III] emission outflows**|Mayank Sharma et.al.|[2506.13736v1](http://arxiv.org/abs/2506.13736v1)|[2506.13736v1](http://arxiv.org/pdf/2506.13736v1)|null|
@@ -7363,6 +7373,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|[2506.14767v1](http://arxiv.org/pdf/2506.14767v1)|null|
+|**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761v1](http://arxiv.org/abs/2506.14761v1)|[2506.14761v1](http://arxiv.org/pdf/2506.14761v1)|null|
+|**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755v1](http://arxiv.org/abs/2506.14755v1)|[2506.14755v1](http://arxiv.org/pdf/2506.14755v1)|null|
+|**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750v1](http://arxiv.org/abs/2506.14750v1)|[2506.14750v1](http://arxiv.org/pdf/2506.14750v1)|null|
+|**2025-06-17**|**SETI@home: Data Analysis and Findings**|David P. Anderson et.al.|[2506.14737v1](http://arxiv.org/abs/2506.14737v1)|[2506.14737v1](http://arxiv.org/pdf/2506.14737v1)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731v1](http://arxiv.org/abs/2506.14731v1)|[2506.14731v1](http://arxiv.org/pdf/2506.14731v1)|null|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728v1](http://arxiv.org/abs/2506.14728v1)|[2506.14728v1](http://arxiv.org/pdf/2506.14728v1)|null|
+|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727v1](http://arxiv.org/abs/2506.14727v1)|[2506.14727v1](http://arxiv.org/pdf/2506.14727v1)|null|
+|**2025-06-17**|**Adaptive Accompaniment with ReaLchords**|Yusong Wu et.al.|[2506.14723v1](http://arxiv.org/abs/2506.14723v1)|[2506.14723v1](http://arxiv.org/pdf/2506.14723v1)|null|
+|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684v1](http://arxiv.org/abs/2506.14684v1)|[2506.14684v1](http://arxiv.org/pdf/2506.14684v1)|null|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763v1](http://arxiv.org/abs/2506.13763v1)|[2506.13763v1](http://arxiv.org/pdf/2506.13763v1)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759v1](http://arxiv.org/abs/2506.13759v1)|[2506.13759v1](http://arxiv.org/pdf/2506.13759v1)|null|
 |**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|[2506.13754v2](http://arxiv.org/pdf/2506.13754v2)|null|
