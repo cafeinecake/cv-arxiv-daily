@@ -1,4 +1,4 @@
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 ## Astrophysics
 
@@ -7373,12 +7373,12 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|[2506.14767v1](http://arxiv.org/pdf/2506.14767v1)|null|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|[2506.14767v1](http://arxiv.org/pdf/2506.14767v1)|**[link](https://github.com/b04901014/vae-gslm)**|
 |**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761v1](http://arxiv.org/abs/2506.14761v1)|[2506.14761v1](http://arxiv.org/pdf/2506.14761v1)|null|
 |**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755v1](http://arxiv.org/abs/2506.14755v1)|[2506.14755v1](http://arxiv.org/pdf/2506.14755v1)|null|
 |**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750v1](http://arxiv.org/abs/2506.14750v1)|[2506.14750v1](http://arxiv.org/pdf/2506.14750v1)|null|
 |**2025-06-17**|**SETI@home: Data Analysis and Findings**|David P. Anderson et.al.|[2506.14737v1](http://arxiv.org/abs/2506.14737v1)|[2506.14737v1](http://arxiv.org/pdf/2506.14737v1)|null|
-|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731v1](http://arxiv.org/abs/2506.14731v1)|[2506.14731v1](http://arxiv.org/pdf/2506.14731v1)|null|
+|**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731v2](http://arxiv.org/abs/2506.14731v2)|[2506.14731v2](http://arxiv.org/pdf/2506.14731v2)|null|
 |**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728v1](http://arxiv.org/abs/2506.14728v1)|[2506.14728v1](http://arxiv.org/pdf/2506.14728v1)|null|
 |**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727v1](http://arxiv.org/abs/2506.14727v1)|[2506.14727v1](http://arxiv.org/pdf/2506.14727v1)|null|
 |**2025-06-17**|**Adaptive Accompaniment with ReaLchords**|Yusong Wu et.al.|[2506.14723v1](http://arxiv.org/abs/2506.14723v1)|[2506.14723v1](http://arxiv.org/pdf/2506.14723v1)|null|
