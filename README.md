@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-18**|**Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster**|Sam A. Usman et.al.|[2506.15664v1](http://arxiv.org/abs/2506.15664v1)|[2506.15664v1](http://arxiv.org/pdf/2506.15664v1)|null|
+|**2025-06-18**|**Candidate Dark Galaxy-2: Validation and Analysis of an Almost Dark Galaxy in the Perseus Cluster**|Dayi Li et.al.|[2506.15644v1](http://arxiv.org/abs/2506.15644v1)|[2506.15644v1](http://arxiv.org/pdf/2506.15644v1)|null|
+|**2025-06-18**|**Further Evidence for a Direct-Collapse Origin of the Supermassive Black Hole at the Center of the Infinity Galaxy**|Pieter van Dokkum et.al.|[2506.15619v1](http://arxiv.org/abs/2506.15619v1)|[2506.15619v1](http://arxiv.org/pdf/2506.15619v1)|null|
+|**2025-06-18**|**The Infinity Galaxy: a Candidate Direct-Collapse Supermassive Black Hole Between Two Massive, Ringed Nuclei**|Pieter van Dokkum et.al.|[2506.15618v1](http://arxiv.org/abs/2506.15618v1)|[2506.15618v1](http://arxiv.org/pdf/2506.15618v1)|null|
+|**2025-06-18**|**Ultraviolet Spectra of Comets: Rejecting the Detection of Pentacene, Toluene, and Fe+**|Gaël Rouillé et.al.|[2506.15550v1](http://arxiv.org/abs/2506.15550v1)|[2506.15550v1](http://arxiv.org/pdf/2506.15550v1)|null|
+|**2025-06-18**|**Tracing the Milky Way: Calibrating chemical ages with high-precision Kepler data**|G. Casali et.al.|[2506.15546v1](http://arxiv.org/abs/2506.15546v1)|[2506.15546v1](http://arxiv.org/pdf/2506.15546v1)|null|
+|**2025-06-18**|**Rotationally inelastic scattering of cyanocyclopentadiene by helium atoms**|Karina Sogomonyan et.al.|[2506.15536v1](http://arxiv.org/abs/2506.15536v1)|[2506.15536v1](http://arxiv.org/pdf/2506.15536v1)|null|
+|**2025-06-18**|**Dancing on the Grain: Variety of CO and its isotopologue fluxes as a result of surface chemistry and T Tauri disk properties**|L. Zwicky et.al.|[2506.15508v1](http://arxiv.org/abs/2506.15508v1)|[2506.15508v1](http://arxiv.org/pdf/2506.15508v1)|null|
+|**2025-06-18**|**Energy budget in the 2017-09-07 "cold" solar flare**|Gregory D. Fleishman et.al.|[2506.15501v1](http://arxiv.org/abs/2506.15501v1)|[2506.15501v1](http://arxiv.org/pdf/2506.15501v1)|null|
+|**2025-06-18**|**Cosmic curl -- Features and convergence of the vorticity power spectrum in $N$-body simulations**|Camilla T. G. Sørensen et.al.|[2506.15486v1](http://arxiv.org/abs/2506.15486v1)|[2506.15486v1](http://arxiv.org/pdf/2506.15486v1)|null|
 |**2025-06-17**|**Gravitational-wave background detection using machine learning**|Hugo Einsle et.al.|[2506.14764v1](http://arxiv.org/abs/2506.14764v1)|[2506.14764v1](http://arxiv.org/pdf/2506.14764v1)|null|
 |**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757v1](http://arxiv.org/abs/2506.14757v1)|[2506.14757v1](http://arxiv.org/pdf/2506.14757v1)|null|
 |**2025-06-17**|**Technosignature Searches with Real-time Alert Brokers**|Eleanor M. Gallay et.al.|[2506.14744v1](http://arxiv.org/abs/2506.14744v1)|[2506.14744v1](http://arxiv.org/pdf/2506.14744v1)|null|
@@ -7373,6 +7383,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679v1](http://arxiv.org/abs/2506.15679v1)|[2506.15679v1](http://arxiv.org/pdf/2506.15679v1)|null|
+|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v1](http://arxiv.org/abs/2506.15677v1)|[2506.15677v1](http://arxiv.org/pdf/2506.15677v1)|null|
+|**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675v1](http://arxiv.org/abs/2506.15675v1)|[2506.15675v1](http://arxiv.org/pdf/2506.15675v1)|null|
+|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674v1](http://arxiv.org/abs/2506.15674v1)|[2506.15674v1](http://arxiv.org/pdf/2506.15674v1)|null|
+|**2025-06-18**|**SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence**|Yao Zhang et.al.|[2506.15672v1](http://arxiv.org/abs/2506.15672v1)|[2506.15672v1](http://arxiv.org/pdf/2506.15672v1)|null|
+|**2025-06-18**|**AutoRule: Reasoning Chain-of-thought Extracted Rule-based Rewards Improve Preference Learning**|Tevin Wang et.al.|[2506.15651v1](http://arxiv.org/abs/2506.15651v1)|[2506.15651v1](http://arxiv.org/pdf/2506.15651v1)|null|
+|**2025-06-18**|**Oldies but Goldies: The Potential of Character N-grams for Romanian Texts**|Dana Lupsa et.al.|[2506.15650v1](http://arxiv.org/abs/2506.15650v1)|[2506.15650v1](http://arxiv.org/pdf/2506.15650v1)|null|
+|**2025-06-18**|**Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement**|Weixiang Zhao et.al.|[2506.15647v1](http://arxiv.org/abs/2506.15647v1)|[2506.15647v1](http://arxiv.org/pdf/2506.15647v1)|null|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645v1](http://arxiv.org/abs/2506.15645v1)|[2506.15645v1](http://arxiv.org/pdf/2506.15645v1)|null|
+|**2025-06-18**|**The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy**|James Weichert et.al.|[2506.15639v1](http://arxiv.org/abs/2506.15639v1)|[2506.15639v1](http://arxiv.org/pdf/2506.15639v1)|null|
 |**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|[2506.14767v1](http://arxiv.org/pdf/2506.14767v1)|**[link](https://github.com/b04901014/vae-gslm)**|
 |**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761v1](http://arxiv.org/abs/2506.14761v1)|[2506.14761v1](http://arxiv.org/pdf/2506.14761v1)|null|
 |**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755v1](http://arxiv.org/abs/2506.14755v1)|[2506.14755v1](http://arxiv.org/pdf/2506.14755v1)|null|
