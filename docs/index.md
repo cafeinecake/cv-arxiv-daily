@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-20**|**Impact of the large-scale cosmic web on the X-ray emitting circumgalactic medium**|Soumya Shreeram et.al.|[2506.17222v1](http://arxiv.org/abs/2506.17222v1)|[2506.17222v1](http://arxiv.org/pdf/2506.17222v1)|null|
+|**2025-06-20**|**Bias hardened estimators of patchy screening profiles**|Noah Sailer et.al.|[2506.17217v1](http://arxiv.org/abs/2506.17217v1)|[2506.17217v1](http://arxiv.org/pdf/2506.17217v1)|null|
+|**2025-06-20**|**The Average Soft X-ray Spectra of eROSITA Active Galactic Nuclei**|Shi-Jiang Chen et.al.|[2506.17150v1](http://arxiv.org/abs/2506.17150v1)|[2506.17150v1](http://arxiv.org/pdf/2506.17150v1)|null|
+|**2025-06-20**|**SRG/eROSITA No. 5: Discovery of quasi-periodic eruptions every ~3.7 days from a galaxy at z>0.1**|R. Arcodia et.al.|[2506.17138v1](http://arxiv.org/abs/2506.17138v1)|[2506.17138v1](http://arxiv.org/pdf/2506.17138v1)|null|
+|**2025-06-20**|**Real-time Broadband RFI Excision for the Upgraded GMRT**|Ruta Kale et.al.|[2506.17131v1](http://arxiv.org/abs/2506.17131v1)|[2506.17131v1](http://arxiv.org/pdf/2506.17131v1)|null|
+|**2025-06-20**|**Frequently Used References For Atomic Data In X-ray Spectroscopy**|N. Hell et.al.|[2506.17106v1](http://arxiv.org/abs/2506.17106v1)|[2506.17106v1](http://arxiv.org/pdf/2506.17106v1)|null|
+|**2025-06-20**|**GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications**|Isobel Romero-Shaw et.al.|[2506.17105v1](http://arxiv.org/abs/2506.17105v1)|[2506.17105v1](http://arxiv.org/pdf/2506.17105v1)|null|
+|**2025-06-20**|**Super-Earth formation in systems with cold giants**|Claudia Danti et.al.|[2506.17091v1](http://arxiv.org/abs/2506.17091v1)|[2506.17091v1](http://arxiv.org/pdf/2506.17091v1)|null|
+|**2025-06-20**|**Exploring MAXI J1744-294: IXPE insights into a Newly Discovered X-ray Transient**|Lorenzo Marra et.al.|[2506.17050v1](http://arxiv.org/abs/2506.17050v1)|[2506.17050v1](http://arxiv.org/pdf/2506.17050v1)|null|
+|**2025-06-20**|**Magnetic braking and dynamo evolution of $β$ Hydri**|A. R. G. Santos et.al.|[2506.17049v1](http://arxiv.org/abs/2506.17049v1)|[2506.17049v1](http://arxiv.org/pdf/2506.17049v1)|null|
 |**2025-06-18**|**Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster**|Sam A. Usman et.al.|[2506.15664v1](http://arxiv.org/abs/2506.15664v1)|[2506.15664v1](http://arxiv.org/pdf/2506.15664v1)|null|
 |**2025-06-18**|**Candidate Dark Galaxy-2: Validation and Analysis of an Almost Dark Galaxy in the Perseus Cluster**|Dayi Li et.al.|[2506.15644v1](http://arxiv.org/abs/2506.15644v1)|[2506.15644v1](http://arxiv.org/pdf/2506.15644v1)|null|
 |**2025-06-18**|**Further Evidence for a Direct-Collapse Origin of the Supermassive Black Hole at the Center of the Infinity Galaxy**|Pieter van Dokkum et.al.|[2506.15619v1](http://arxiv.org/abs/2506.15619v1)|[2506.15619v1](http://arxiv.org/pdf/2506.15619v1)|null|
@@ -7387,6 +7397,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219v1](http://arxiv.org/abs/2506.17219v1)|[2506.17219v1](http://arxiv.org/pdf/2506.17219v1)|null|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218v1](http://arxiv.org/abs/2506.17218v1)|[2506.17218v1](http://arxiv.org/pdf/2506.17218v1)|null|
+|**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213v1](http://arxiv.org/abs/2506.17213v1)|[2506.17213v1](http://arxiv.org/pdf/2506.17213v1)|null|
+|**2025-06-20**|**Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212v1](http://arxiv.org/abs/2506.17212v1)|[2506.17212v1](http://arxiv.org/pdf/2506.17212v1)|null|
+|**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208v1](http://arxiv.org/abs/2506.17208v1)|[2506.17208v1](http://arxiv.org/pdf/2506.17208v1)|null|
+|**2025-06-20**|**Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning**|Guozheng Ma et.al.|[2506.17204v1](http://arxiv.org/abs/2506.17204v1)|[2506.17204v1](http://arxiv.org/pdf/2506.17204v1)|null|
+|**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202v1](http://arxiv.org/abs/2506.17202v1)|[2506.17202v1](http://arxiv.org/pdf/2506.17202v1)|null|
+|**2025-06-20**|**Facial Landmark Visualization and Emotion Recognition Through Neural Networks**|Israel Juárez-Jiménez et.al.|[2506.17191v1](http://arxiv.org/abs/2506.17191v1)|[2506.17191v1](http://arxiv.org/pdf/2506.17191v1)|null|
+|**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188v1](http://arxiv.org/abs/2506.17188v1)|[2506.17188v1](http://arxiv.org/pdf/2506.17188v1)|null|
+|**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|[2506.17169v1](http://arxiv.org/pdf/2506.17169v1)|null|
 |**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679v1](http://arxiv.org/abs/2506.15679v1)|[2506.15679v1](http://arxiv.org/pdf/2506.15679v1)|null|
 |**2025-06-20**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v2](http://arxiv.org/abs/2506.15677v2)|[2506.15677v2](http://arxiv.org/pdf/2506.15677v2)|null|
 |**2025-06-20**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675v2](http://arxiv.org/abs/2506.15675v2)|[2506.15675v2](http://arxiv.org/pdf/2506.15675v2)|null|
