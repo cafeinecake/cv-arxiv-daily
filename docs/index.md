@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-23**|**$g$-mode oscillations of dark matter admixed neutron stars**|Swarnim Shirke et.al.|[2506.18892v1](http://arxiv.org/abs/2506.18892v1)|[2506.18892v1](http://arxiv.org/pdf/2506.18892v1)|null|
+|**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876v1](http://arxiv.org/abs/2506.18876v1)|[2506.18876v1](http://arxiv.org/pdf/2506.18876v1)|null|
+|**2025-06-23**|**Analytical transit light curves for power-law limb darkening: a comprehensive framework via fractional calculus and differential equations**|Farrukh A. Chishtie et.al.|[2506.18860v1](http://arxiv.org/abs/2506.18860v1)|[2506.18860v1](http://arxiv.org/pdf/2506.18860v1)|null|
+|**2025-06-23**|**Testing the Lense-Thirring Precession Origin of the QPO in Swift J1727.8$-$1613**|Ruican Ma et.al.|[2506.18857v1](http://arxiv.org/abs/2506.18857v1)|[2506.18857v1](http://arxiv.org/pdf/2506.18857v1)|null|
+|**2025-06-23**|**Comparative analysis of machine learning techniques for feature selection and classification of Fast Radio Bursts**|Ailton J. B. Júnior et.al.|[2506.18854v1](http://arxiv.org/abs/2506.18854v1)|[2506.18854v1](http://arxiv.org/pdf/2506.18854v1)|null|
+|**2025-06-23**|**An Ejection Event Captured by VLBI During the Outburst of Swift J1727.8$-$1613**|Hongmin Cao et.al.|[2506.18817v1](http://arxiv.org/abs/2506.18817v1)|[2506.18817v1](http://arxiv.org/pdf/2506.18817v1)|null|
+|**2025-06-23**|**The gravitational wave echoes from the black hole with three-form fields**|Natthason Autthisin et.al.|[2506.18815v1](http://arxiv.org/abs/2506.18815v1)|[2506.18815v1](http://arxiv.org/pdf/2506.18815v1)|null|
+|**2025-06-23**|**A complete census of planet-hosting binaries**|Philippe Thebault et.al.|[2506.18759v1](http://arxiv.org/abs/2506.18759v1)|[2506.18759v1](http://arxiv.org/pdf/2506.18759v1)|null|
+|**2025-06-23**|**Validate the bright Gaia celestial reference frame with new VLBI astrometry of radio stars**|Jingdong Zhang et.al.|[2506.18758v1](http://arxiv.org/abs/2506.18758v1)|[2506.18758v1](http://arxiv.org/pdf/2506.18758v1)|null|
+|**2025-06-23**|**A 3D model simulation of hydrogen chloride photochemistry on Mars: Comparison with satellite data**|Benjamin Benne et.al.|[2506.18757v1](http://arxiv.org/abs/2506.18757v1)|[2506.18757v1](http://arxiv.org/pdf/2506.18757v1)|null|
 |**2025-06-20**|**Impact of the large-scale cosmic web on the X-ray emitting circumgalactic medium**|Soumya Shreeram et.al.|[2506.17222v1](http://arxiv.org/abs/2506.17222v1)|[2506.17222v1](http://arxiv.org/pdf/2506.17222v1)|null|
 |**2025-06-20**|**Bias hardened estimators of patchy screening profiles**|Noah Sailer et.al.|[2506.17217v1](http://arxiv.org/abs/2506.17217v1)|[2506.17217v1](http://arxiv.org/pdf/2506.17217v1)|null|
 |**2025-06-20**|**The Average Soft X-ray Spectra of eROSITA Active Galactic Nuclei**|Shi-Jiang Chen et.al.|[2506.17150v1](http://arxiv.org/abs/2506.17150v1)|[2506.17150v1](http://arxiv.org/pdf/2506.17150v1)|null|
@@ -7397,6 +7407,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v1](http://arxiv.org/abs/2506.18902v1)|[2506.18902v1](http://arxiv.org/pdf/2506.18902v1)|null|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898v1](http://arxiv.org/abs/2506.18898v1)|[2506.18898v1](http://arxiv.org/pdf/2506.18898v1)|null|
+|**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897v1](http://arxiv.org/abs/2506.18897v1)|[2506.18897v1](http://arxiv.org/pdf/2506.18897v1)|null|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887v1](http://arxiv.org/abs/2506.18887v1)|[2506.18887v1](http://arxiv.org/pdf/2506.18887v1)|null|
+|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880v1](http://arxiv.org/abs/2506.18880v1)|[2506.18880v1](http://arxiv.org/pdf/2506.18880v1)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879v1](http://arxiv.org/abs/2506.18879v1)|[2506.18879v1](http://arxiv.org/pdf/2506.18879v1)|null|
+|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871v1](http://arxiv.org/abs/2506.18871v1)|[2506.18871v1](http://arxiv.org/pdf/2506.18871v1)|null|
+|**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866v1](http://arxiv.org/abs/2506.18866v1)|[2506.18866v1](http://arxiv.org/pdf/2506.18866v1)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862v1](http://arxiv.org/abs/2506.18862v1)|[2506.18862v1](http://arxiv.org/pdf/2506.18862v1)|null|
+|**2025-06-23**|**Mechanistic Interpretability Needs Philosophy**|Iwan Williams et.al.|[2506.18852v1](http://arxiv.org/abs/2506.18852v1)|[2506.18852v1](http://arxiv.org/pdf/2506.18852v1)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219v1](http://arxiv.org/abs/2506.17219v1)|[2506.17219v1](http://arxiv.org/pdf/2506.17219v1)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218v1](http://arxiv.org/abs/2506.17218v1)|[2506.17218v1](http://arxiv.org/pdf/2506.17218v1)|null|
 |**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213v1](http://arxiv.org/abs/2506.17213v1)|[2506.17213v1](http://arxiv.org/pdf/2506.17213v1)|null|
