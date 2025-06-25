@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-24**|**Marginally stable Schwarzschild-black-hole-non-minimally-coupled-Proca-field bound-state configurations**|Shahar Hod et.al.|[2506.19849v1](http://arxiv.org/abs/2506.19849v1)|[2506.19849v1](http://arxiv.org/pdf/2506.19849v1)|null|
+|**2025-06-24**|**Evolution of Cluster Alignments as Evidence of Large-scale Structure Formation in the Universe**|Michael J. West et.al.|[2506.19826v1](http://arxiv.org/abs/2506.19826v1)|[2506.19826v1](http://arxiv.org/pdf/2506.19826v1)|null|
+|**2025-06-24**|**Non-Gaussian statistics in galaxy weak lensing: compressed three-point correlations and cosmological forecasts**|Sofia Samario-Nava et.al.|[2506.19811v1](http://arxiv.org/abs/2506.19811v1)|[2506.19811v1](http://arxiv.org/pdf/2506.19811v1)|null|
+|**2025-06-24**|**Line ratio identification of external photoevaporation**|Tyger Peake et.al.|[2506.19788v1](http://arxiv.org/abs/2506.19788v1)|[2506.19788v1](http://arxiv.org/pdf/2506.19788v1)|null|
+|**2025-06-24**|**Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**|Nicolas Besse et.al.|[2506.19784v1](http://arxiv.org/abs/2506.19784v1)|[2506.19784v1](http://arxiv.org/pdf/2506.19784v1)|null|
+|**2025-06-24**|**Role of non-thermal processes in the quiescent and active millimeter spectrum of a young M-dwarf**|Atul Mohan et.al.|[2506.19779v1](http://arxiv.org/abs/2506.19779v1)|[2506.19779v1](http://arxiv.org/pdf/2506.19779v1)|null|
+|**2025-06-24**|**Multiband analysis of the O'Connell effect in 14 eclipsing binaries**|D. Flores Cabrera et.al.|[2506.19754v1](http://arxiv.org/abs/2506.19754v1)|[2506.19754v1](http://arxiv.org/pdf/2506.19754v1)|null|
+|**2025-06-24**|**Loose threads: parsec-scale filamentation in the high Galactic latitude molecular clouds MBM 3 and MBM 16**|Marco Monaci et.al.|[2506.19728v1](http://arxiv.org/abs/2506.19728v1)|[2506.19728v1](http://arxiv.org/pdf/2506.19728v1)|null|
+|**2025-06-24**|**MUSE-DARK-I: Dark matter halo properties of intermediate-z star-forming galaxies**|B. I. Ciocan et.al.|[2506.19721v1](http://arxiv.org/abs/2506.19721v1)|[2506.19721v1](http://arxiv.org/pdf/2506.19721v1)|null|
+|**2025-06-24**|**XMM-Newton follow-up of a sample of apparent low surface brightness galaxy groups detected in the ROSAT All-Sky Survey**|Claudia Spinelli et.al.|[2506.19718v1](http://arxiv.org/abs/2506.19718v1)|[2506.19718v1](http://arxiv.org/pdf/2506.19718v1)|null|
 |**2025-06-23**|**$g$-mode oscillations of dark matter admixed neutron stars**|Swarnim Shirke et.al.|[2506.18892v1](http://arxiv.org/abs/2506.18892v1)|[2506.18892v1](http://arxiv.org/pdf/2506.18892v1)|null|
 |**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876v1](http://arxiv.org/abs/2506.18876v1)|[2506.18876v1](http://arxiv.org/pdf/2506.18876v1)|null|
 |**2025-06-23**|**Analytical transit light curves for power-law limb darkening: a comprehensive framework via fractional calculus and differential equations**|Farrukh A. Chishtie et.al.|[2506.18860v1](http://arxiv.org/abs/2506.18860v1)|[2506.18860v1](http://arxiv.org/pdf/2506.18860v1)|null|
@@ -7407,6 +7417,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852v1](http://arxiv.org/abs/2506.19852v1)|[2506.19852v1](http://arxiv.org/pdf/2506.19852v1)|null|
+|**2025-06-24**|**Orthogonal Finetuning Made Scalable**|Zeju Qiu et.al.|[2506.19847v1](http://arxiv.org/abs/2506.19847v1)|[2506.19847v1](http://arxiv.org/pdf/2506.19847v1)|null|
+|**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846v1](http://arxiv.org/abs/2506.19846v1)|[2506.19846v1](http://arxiv.org/pdf/2506.19846v1)|null|
+|**2025-06-24**|**Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse Reinforcement Learning**|Guo Li et.al.|[2506.19843v1](http://arxiv.org/abs/2506.19843v1)|[2506.19843v1](http://arxiv.org/pdf/2506.19843v1)|null|
+|**2025-06-24**|**Improving Progressive Generation with Decomposable Flow Matching**|Moayed Haji-Ali et.al.|[2506.19839v1](http://arxiv.org/abs/2506.19839v1)|[2506.19839v1](http://arxiv.org/pdf/2506.19839v1)|null|
+|**2025-06-24**|**A standard transformer and attention with linear biases for molecular conformer generation**|Viatcheslav Gurev et.al.|[2506.19834v1](http://arxiv.org/abs/2506.19834v1)|[2506.19834v1](http://arxiv.org/pdf/2506.19834v1)|null|
+|**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Johannes Rückert et.al.|[2506.19825v1](http://arxiv.org/abs/2506.19825v1)|[2506.19825v1](http://arxiv.org/pdf/2506.19825v1)|null|
+|**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823v1](http://arxiv.org/abs/2506.19823v1)|[2506.19823v1](http://arxiv.org/pdf/2506.19823v1)|null|
+|**2025-06-24**|**Curating art exhibitions using machine learning**|Eurico Covas et.al.|[2506.19813v1](http://arxiv.org/abs/2506.19813v1)|[2506.19813v1](http://arxiv.org/pdf/2506.19813v1)|null|
+|**2025-06-24**|**KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**|Baochang Ren et.al.|[2506.19807v1](http://arxiv.org/abs/2506.19807v1)|[2506.19807v1](http://arxiv.org/pdf/2506.19807v1)|null|
 |**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|[2506.18902v2](http://arxiv.org/pdf/2506.18902v2)|null|
 |**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898v1](http://arxiv.org/abs/2506.18898v1)|[2506.18898v1](http://arxiv.org/pdf/2506.18898v1)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897v1](http://arxiv.org/abs/2506.18897v1)|[2506.18897v1](http://arxiv.org/pdf/2506.18897v1)|null|
