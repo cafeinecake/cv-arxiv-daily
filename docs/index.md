@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 
 ## Astrophysics
 
@@ -7407,7 +7407,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v1](http://arxiv.org/abs/2506.18902v1)|[2506.18902v1](http://arxiv.org/pdf/2506.18902v1)|null|
+|**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|[2506.18902v2](http://arxiv.org/pdf/2506.18902v2)|null|
 |**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898v1](http://arxiv.org/abs/2506.18898v1)|[2506.18898v1](http://arxiv.org/pdf/2506.18898v1)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897v1](http://arxiv.org/abs/2506.18897v1)|[2506.18897v1](http://arxiv.org/pdf/2506.18897v1)|null|
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887v1](http://arxiv.org/abs/2506.18887v1)|[2506.18887v1](http://arxiv.org/pdf/2506.18887v1)|null|
