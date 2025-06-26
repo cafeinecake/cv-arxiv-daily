@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-25**|**An iterative CMB lensing estimator minimizing instrumental noise bias**|Louis Legrand et.al.|[2506.20667v1](http://arxiv.org/abs/2506.20667v1)|[2506.20667v1](http://arxiv.org/pdf/2506.20667v1)|null|
+|**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657v1](http://arxiv.org/abs/2506.20657v1)|[2506.20657v1](http://arxiv.org/pdf/2506.20657v1)|null|
+|**2025-06-25**|**Comparing the Architectures of Multiplanet Systems from Kepler, K2, and TESS Data**|Robert Royer III et.al.|[2506.20654v1](http://arxiv.org/abs/2506.20654v1)|[2506.20654v1](http://arxiv.org/pdf/2506.20654v1)|null|
+|**2025-06-25**|**Consequences of Non-Gaussian Instrumental Noise in Perturbed Nulling Interferometers**|Felix A. Dannert et.al.|[2506.20653v1](http://arxiv.org/abs/2506.20653v1)|[2506.20653v1](http://arxiv.org/pdf/2506.20653v1)|null|
+|**2025-06-25**|**Cosmological bounds on dark matter annihilation using dark ages 21-cm signal**|Vivekanand Mohapatra et.al.|[2506.20648v1](http://arxiv.org/abs/2506.20648v1)|[2506.20648v1](http://arxiv.org/pdf/2506.20648v1)|null|
+|**2025-06-25**|**Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays**|Alessandro Cermenati et.al.|[2506.20646v1](http://arxiv.org/abs/2506.20646v1)|[2506.20646v1](http://arxiv.org/pdf/2506.20646v1)|null|
+|**2025-06-25**|**The VLA Frontier Fields Survey: A 6GHz High-resolution Radio Survey of Abell 2744**|Esteban A. Orozco et.al.|[2506.20634v1](http://arxiv.org/abs/2506.20634v1)|[2506.20634v1](http://arxiv.org/pdf/2506.20634v1)|null|
+|**2025-06-25**|**Properties of the cores and filaments in the Ophiuchus molecular cloud and its L1688 hub-filament system**|Bo-Sheng Jia et.al.|[2506.20619v1](http://arxiv.org/abs/2506.20619v1)|[2506.20619v1](http://arxiv.org/pdf/2506.20619v1)|null|
+|**2025-06-25**|**Anomalous Energy Injection in Turbulent Neutron Star Cores**|Anirudh Sivakumar et.al.|[2506.20577v1](http://arxiv.org/abs/2506.20577v1)|[2506.20577v1](http://arxiv.org/pdf/2506.20577v1)|null|
+|**2025-06-25**|**The mass of the exo-Venus Gliese 12 b, as revealed by HARPS-N, ESPRESSO, and CARMENES**|Daisy A. Turner et.al.|[2506.20564v1](http://arxiv.org/abs/2506.20564v1)|[2506.20564v1](http://arxiv.org/pdf/2506.20564v1)|null|
 |**2025-06-24**|**Marginally stable Schwarzschild-black-hole-non-minimally-coupled-Proca-field bound-state configurations**|Shahar Hod et.al.|[2506.19849v1](http://arxiv.org/abs/2506.19849v1)|[2506.19849v1](http://arxiv.org/pdf/2506.19849v1)|null|
 |**2025-06-24**|**Evolution of Cluster Alignments as Evidence of Large-scale Structure Formation in the Universe**|Michael J. West et.al.|[2506.19826v1](http://arxiv.org/abs/2506.19826v1)|[2506.19826v1](http://arxiv.org/pdf/2506.19826v1)|null|
 |**2025-06-24**|**Non-Gaussian statistics in galaxy weak lensing: compressed three-point correlations and cosmological forecasts**|Sofia Samario-Nava et.al.|[2506.19811v1](http://arxiv.org/abs/2506.19811v1)|[2506.19811v1](http://arxiv.org/pdf/2506.19811v1)|null|
@@ -7413,6 +7423,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-25**|**Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs**|Sonia K. Murthy et.al.|[2506.20666v1](http://arxiv.org/abs/2506.20666v1)|[2506.20666v1](http://arxiv.org/pdf/2506.20666v1)|null|
+|**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664v1](http://arxiv.org/abs/2506.20664v1)|[2506.20664v1](http://arxiv.org/pdf/2506.20664v1)|null|
+|**2025-06-25**|**Artificial Symmetry Breaking by Self-Interaction Error**|Lin Hou et.al.|[2506.20662v1](http://arxiv.org/abs/2506.20662v1)|[2506.20662v1](http://arxiv.org/pdf/2506.20662v1)|null|
+|**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649v1](http://arxiv.org/abs/2506.20649v1)|[2506.20649v1](http://arxiv.org/pdf/2506.20649v1)|null|
+|**2025-06-25**|**Towards Community-Driven Agents for Machine Learning Engineering**|Sijie Li et.al.|[2506.20640v1](http://arxiv.org/abs/2506.20640v1)|[2506.20640v1](http://arxiv.org/pdf/2506.20640v1)|null|
+|**2025-06-25**|**Lost in Retraining: Roaming the Parameter Space of Exponential Families Under Closed-Loop Learning**|Fariba Jangjoo et.al.|[2506.20623v1](http://arxiv.org/abs/2506.20623v1)|[2506.20623v1](http://arxiv.org/pdf/2506.20623v1)|null|
+|**2025-06-25**|**Define-ML: An Approach to Ideate Machine Learning-Enabled Systems**|Silvio Alonso et.al.|[2506.20621v1](http://arxiv.org/abs/2506.20621v1)|[2506.20621v1](http://arxiv.org/pdf/2506.20621v1)|null|
+|**2025-06-25**|**Weighted Mean Frequencies: a handcraft Fourier feature for 4D Flow MRI segmentation**|Simon Perrin et.al.|[2506.20614v1](http://arxiv.org/abs/2506.20614v1)|[2506.20614v1](http://arxiv.org/pdf/2506.20614v1)|null|
+|**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609v1](http://arxiv.org/abs/2506.20609v1)|[2506.20609v1](http://arxiv.org/pdf/2506.20609v1)|null|
+|**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608v1](http://arxiv.org/abs/2506.20608v1)|[2506.20608v1](http://arxiv.org/pdf/2506.20608v1)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852v1](http://arxiv.org/abs/2506.19852v1)|[2506.19852v1](http://arxiv.org/pdf/2506.19852v1)|null|
 |**2025-06-24**|**Orthogonal Finetuning Made Scalable**|Zeju Qiu et.al.|[2506.19847v1](http://arxiv.org/abs/2506.19847v1)|[2506.19847v1](http://arxiv.org/pdf/2506.19847v1)|null|
 |**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846v1](http://arxiv.org/abs/2506.19846v1)|[2506.19846v1](http://arxiv.org/pdf/2506.19846v1)|null|
