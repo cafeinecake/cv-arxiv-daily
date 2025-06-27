@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-26**|**Natal kick by early-asymmetrical pairs of jets to the neutron star of supernova remnant S147**|Dmitry Shishkin et.al.|[2506.21548v1](http://arxiv.org/abs/2506.21548v1)|[2506.21548v1](http://arxiv.org/pdf/2506.21548v1)|null|
+|**2025-06-26**|**Quintessence and phantoms in light of DESI 2025**|Ioannis D. Gialamas et.al.|[2506.21542v1](http://arxiv.org/abs/2506.21542v1)|[2506.21542v1](http://arxiv.org/pdf/2506.21542v1)|null|
+|**2025-06-26**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531v1](http://arxiv.org/abs/2506.21531v1)|[2506.21531v1](http://arxiv.org/pdf/2506.21531v1)|null|
+|**2025-06-26**|**Detectability and Parameter Estimation for Einstein Telescope Configurations with GWJulia**|Andrea Begnoni et.al.|[2506.21530v1](http://arxiv.org/abs/2506.21530v1)|[2506.21530v1](http://arxiv.org/pdf/2506.21530v1)|null|
+|**2025-06-26**|**Hunting for UVdim stars in Galactic Open clusters. Clues from ultraviolet photometry**|G. Cordoni et.al.|[2506.21519v1](http://arxiv.org/abs/2506.21519v1)|[2506.21519v1](http://arxiv.org/pdf/2506.21519v1)|null|
+|**2025-06-26**|**The Relation between Solar Spicules and Magnetohydrodynamic Shocks**|Sankalp Srivastava et.al.|[2506.21517v1](http://arxiv.org/abs/2506.21517v1)|[2506.21517v1](http://arxiv.org/pdf/2506.21517v1)|null|
+|**2025-06-26**|**Quasar cosmology II: joint analyses with Cosmic Microwave Background**|M. Benetti et.al.|[2506.21477v1](http://arxiv.org/abs/2506.21477v1)|[2506.21477v1](http://arxiv.org/pdf/2506.21477v1)|null|
+|**2025-06-26**|**The ESPRESSO transmission spectrum of HD$\,$189733$\,$b : Extracting the planetary sodium and lithium signatures amid stellar contamination**|D. Mounzer et.al.|[2506.21459v1](http://arxiv.org/abs/2506.21459v1)|[2506.21459v1](http://arxiv.org/pdf/2506.21459v1)|null|
+|**2025-06-26**|**Low-metallicity massive single stars with rotation. III. Source of ionization and C-IV emission in I Zw 18**|Dorottya Szécsi et.al.|[2506.21442v1](http://arxiv.org/abs/2506.21442v1)|[2506.21442v1](http://arxiv.org/pdf/2506.21442v1)|null|
+|**2025-06-26**|**Towards Stochastic Inflation in Higher-Curvature Gravity**|Yermek Aldabergenov et.al.|[2506.21423v1](http://arxiv.org/abs/2506.21423v1)|[2506.21423v1](http://arxiv.org/pdf/2506.21423v1)|null|
 |**2025-06-25**|**An iterative CMB lensing estimator minimizing instrumental noise bias**|Louis Legrand et.al.|[2506.20667v1](http://arxiv.org/abs/2506.20667v1)|[2506.20667v1](http://arxiv.org/pdf/2506.20667v1)|null|
 |**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657v1](http://arxiv.org/abs/2506.20657v1)|[2506.20657v1](http://arxiv.org/pdf/2506.20657v1)|null|
 |**2025-06-25**|**Comparing the Architectures of Multiplanet Systems from Kepler, K2, and TESS Data**|Robert Royer III et.al.|[2506.20654v1](http://arxiv.org/abs/2506.20654v1)|[2506.20654v1](http://arxiv.org/pdf/2506.20654v1)|null|
@@ -7423,6 +7433,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552v1](http://arxiv.org/abs/2506.21552v1)|[2506.21552v1](http://arxiv.org/pdf/2506.21552v1)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550v1](http://arxiv.org/abs/2506.21550v1)|[2506.21550v1](http://arxiv.org/pdf/2506.21550v1)|null|
+|**2025-06-26**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546v1](http://arxiv.org/abs/2506.21546v1)|[2506.21546v1](http://arxiv.org/pdf/2506.21546v1)|null|
+|**2025-06-26**|**WorldVLA: Towards Autoregressive Action World Model**|Jun Cen et.al.|[2506.21539v1](http://arxiv.org/abs/2506.21539v1)|[2506.21539v1](http://arxiv.org/pdf/2506.21539v1)|null|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536v1](http://arxiv.org/abs/2506.21536v1)|[2506.21536v1](http://arxiv.org/pdf/2506.21536v1)|null|
+|**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma et.al.|[2506.21534v1](http://arxiv.org/abs/2506.21534v1)|[2506.21534v1](http://arxiv.org/pdf/2506.21534v1)|null|
+|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532v1](http://arxiv.org/abs/2506.21532v1)|[2506.21532v1](http://arxiv.org/pdf/2506.21532v1)|null|
+|**2025-06-26**|**Potemkin Understanding in Large Language Models**|Marina Mancoridis et.al.|[2506.21521v1](http://arxiv.org/abs/2506.21521v1)|[2506.21521v1](http://arxiv.org/pdf/2506.21521v1)|null|
+|**2025-06-26**|**skLEP: A Slovak General Language Understanding Benchmark**|Marek Šuppa et.al.|[2506.21508v1](http://arxiv.org/abs/2506.21508v1)|[2506.21508v1](http://arxiv.org/pdf/2506.21508v1)|null|
+|**2025-06-26**|**Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**|Boyu Gou et.al.|[2506.21506v1](http://arxiv.org/abs/2506.21506v1)|[2506.21506v1](http://arxiv.org/pdf/2506.21506v1)|null|
 |**2025-06-25**|**Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs**|Sonia K. Murthy et.al.|[2506.20666v1](http://arxiv.org/abs/2506.20666v1)|[2506.20666v1](http://arxiv.org/pdf/2506.20666v1)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664v1](http://arxiv.org/abs/2506.20664v1)|[2506.20664v1](http://arxiv.org/pdf/2506.20664v1)|null|
 |**2025-06-25**|**Artificial Symmetry Breaking by Self-Interaction Error**|Lin Hou et.al.|[2506.20662v1](http://arxiv.org/abs/2506.20662v1)|[2506.20662v1](http://arxiv.org/pdf/2506.20662v1)|null|
