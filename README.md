@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431v1](http://arxiv.org/abs/2506.22431v1)|[2506.22431v1](http://arxiv.org/pdf/2506.22431v1)|null|
+|**2025-06-27**|**Cosmology from Planck CMB Lensing and DESI DR1 Quasar Tomography**|R. de Belsunce et.al.|[2506.22416v1](http://arxiv.org/abs/2506.22416v1)|[2506.22416v1](http://arxiv.org/pdf/2506.22416v1)|null|
+|**2025-06-27**|**NuSTAR and XMM-Newton Observations of PSR J1930+1852 and Its Pulsar Wind Nebula**|J. A. J. Alford et.al.|[2506.22409v1](http://arxiv.org/abs/2506.22409v1)|[2506.22409v1](http://arxiv.org/pdf/2506.22409v1)|null|
+|**2025-06-27**|**A high stellar multiplicity rate amongst TESS planet candidates in the Neptunian desert using Gaia DR3 astrometry**|Fintan Eeles-Nolle et.al.|[2506.22399v1](http://arxiv.org/abs/2506.22399v1)|[2506.22399v1](http://arxiv.org/pdf/2506.22399v1)|null|
+|**2025-06-27**|**Cost Effective Designs For Next-Generation Radio Telescopes**|G B Raghavkrishna et.al.|[2506.22398v1](http://arxiv.org/abs/2506.22398v1)|[2506.22398v1](http://arxiv.org/pdf/2506.22398v1)|null|
+|**2025-06-27**|**A Common Origin of Asymmetric Self-interacting Dark Matter and Dirac Leptogenesis**|Manoranjan Dutta et.al.|[2506.22388v1](http://arxiv.org/abs/2506.22388v1)|[2506.22388v1](http://arxiv.org/pdf/2506.22388v1)|null|
+|**2025-06-27**|**Forecasting constraints on quintessential inflation from future generation of galaxy and CMB surveys**|G. Rodrigues et.al.|[2506.22384v1](http://arxiv.org/abs/2506.22384v1)|[2506.22384v1](http://arxiv.org/pdf/2506.22384v1)|null|
+|**2025-06-27**|**MeerKAT radio continuum imaging of nearby star-forming spirals in the NGC 6221, NGC 3256/3263, and NGC 2434 galaxy groups**|J. Saponara et.al.|[2506.22382v1](http://arxiv.org/abs/2506.22382v1)|[2506.22382v1](http://arxiv.org/pdf/2506.22382v1)|null|
+|**2025-06-27**|**Modeling the Mass Distribution and Gravitational Potential of Nearby Disk Galaxies: Implications for the ISM Dynamical Equilibrium**|Vivek Vijayakumar et.al.|[2506.22381v1](http://arxiv.org/abs/2506.22381v1)|[2506.22381v1](http://arxiv.org/pdf/2506.22381v1)|null|
+|**2025-06-27**|**Cosmography with DESI DR2 and SN data**|Gabriel Rodrigues et.al.|[2506.22373v1](http://arxiv.org/abs/2506.22373v1)|[2506.22373v1](http://arxiv.org/pdf/2506.22373v1)|null|
 |**2025-06-26**|**Natal kick by early-asymmetrical pairs of jets to the neutron star of supernova remnant S147**|Dmitry Shishkin et.al.|[2506.21548v1](http://arxiv.org/abs/2506.21548v1)|[2506.21548v1](http://arxiv.org/pdf/2506.21548v1)|null|
 |**2025-06-26**|**Quintessence and phantoms in light of DESI 2025**|Ioannis D. Gialamas et.al.|[2506.21542v1](http://arxiv.org/abs/2506.21542v1)|[2506.21542v1](http://arxiv.org/pdf/2506.21542v1)|null|
 |**2025-06-27**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531v2](http://arxiv.org/abs/2506.21531v2)|[2506.21531v2](http://arxiv.org/pdf/2506.21531v2)|null|
@@ -7433,6 +7443,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|[2506.22427v1](http://arxiv.org/pdf/2506.22427v1)|null|
+|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|[2506.22419v1](http://arxiv.org/pdf/2506.22419v1)|null|
+|**2025-06-27**|**Sequential Diagnosis with Language Models**|Harsha Nori et.al.|[2506.22405v1](http://arxiv.org/abs/2506.22405v1)|[2506.22405v1](http://arxiv.org/pdf/2506.22405v1)|null|
+|**2025-06-27**|**HyperCLOVA X THINK Technical Report**|NAVER Cloud HyperCLOVA X Team et.al.|[2506.22403v1](http://arxiv.org/abs/2506.22403v1)|[2506.22403v1](http://arxiv.org/pdf/2506.22403v1)|null|
+|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402v1](http://arxiv.org/abs/2506.22402v1)|[2506.22402v1](http://arxiv.org/pdf/2506.22402v1)|null|
+|**2025-06-27**|**Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL**|Tong Yang et.al.|[2506.22401v1](http://arxiv.org/abs/2506.22401v1)|[2506.22401v1](http://arxiv.org/pdf/2506.22401v1)|null|
+|**2025-06-27**|**Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**|Anirban Ray et.al.|[2506.22397v1](http://arxiv.org/abs/2506.22397v1)|[2506.22397v1](http://arxiv.org/pdf/2506.22397v1)|null|
+|**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396v1](http://arxiv.org/abs/2506.22396v1)|[2506.22396v1](http://arxiv.org/pdf/2506.22396v1)|null|
+|**2025-06-27**|**Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**|YongKyung Oh et.al.|[2506.22393v1](http://arxiv.org/abs/2506.22393v1)|[2506.22393v1](http://arxiv.org/pdf/2506.22393v1)|null|
+|**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389v1](http://arxiv.org/abs/2506.22389v1)|[2506.22389v1](http://arxiv.org/pdf/2506.22389v1)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552v1](http://arxiv.org/abs/2506.21552v1)|[2506.21552v1](http://arxiv.org/pdf/2506.21552v1)|null|
 |**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550v1](http://arxiv.org/abs/2506.21550v1)|[2506.21550v1](http://arxiv.org/pdf/2506.21550v1)|null|
 |**2025-06-26**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546v1](http://arxiv.org/abs/2506.21546v1)|[2506.21546v1](http://arxiv.org/pdf/2506.21546v1)|null|
