@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-06-26**|**Natal kick by early-asymmetrical pairs of jets to the neutron star of supernova remnant S147**|Dmitry Shishkin et.al.|[2506.21548v1](http://arxiv.org/abs/2506.21548v1)|[2506.21548v1](http://arxiv.org/pdf/2506.21548v1)|null|
 |**2025-06-26**|**Quintessence and phantoms in light of DESI 2025**|Ioannis D. Gialamas et.al.|[2506.21542v1](http://arxiv.org/abs/2506.21542v1)|[2506.21542v1](http://arxiv.org/pdf/2506.21542v1)|null|
-|**2025-06-26**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531v1](http://arxiv.org/abs/2506.21531v1)|[2506.21531v1](http://arxiv.org/pdf/2506.21531v1)|null|
+|**2025-06-27**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531v2](http://arxiv.org/abs/2506.21531v2)|[2506.21531v2](http://arxiv.org/pdf/2506.21531v2)|null|
 |**2025-06-26**|**Detectability and Parameter Estimation for Einstein Telescope Configurations with GWJulia**|Andrea Begnoni et.al.|[2506.21530v1](http://arxiv.org/abs/2506.21530v1)|[2506.21530v1](http://arxiv.org/pdf/2506.21530v1)|null|
 |**2025-06-26**|**Hunting for UVdim stars in Galactic Open clusters. Clues from ultraviolet photometry**|G. Cordoni et.al.|[2506.21519v1](http://arxiv.org/abs/2506.21519v1)|[2506.21519v1](http://arxiv.org/pdf/2506.21519v1)|null|
 |**2025-06-26**|**The Relation between Solar Spicules and Magnetohydrodynamic Shocks**|Sankalp Srivastava et.al.|[2506.21517v1](http://arxiv.org/abs/2506.21517v1)|[2506.21517v1](http://arxiv.org/pdf/2506.21517v1)|null|
