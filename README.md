@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-30**|**Studying Protoplanets and Protoplanetary Disks with the Habitable Worlds Observatory**|Bin B. Ren et.al.|[2506.24129v1](http://arxiv.org/abs/2506.24129v1)|[2506.24129v1](http://arxiv.org/pdf/2506.24129v1)|null|
+|**2025-06-30**|**Beneath the Surface: >85% of z>5.9 QSOs in Massive Host Galaxies are UV-Faint**|R. J. Bouwens et.al.|[2506.24128v1](http://arxiv.org/abs/2506.24128v1)|[2506.24128v1](http://arxiv.org/pdf/2506.24128v1)|null|
+|**2025-06-30**|**Constraining self-interacting ultrahigh-energy neutrinos by cosmic microwave background spectral distortion**|Pravin Kumar Natwariya et.al.|[2506.24110v1](http://arxiv.org/abs/2506.24110v1)|[2506.24110v1](http://arxiv.org/pdf/2506.24110v1)|null|
+|**2025-06-30**|**Tidal Inflation is Stronger for Misaligned Neptune-Sized Planets Than Aligned Ones**|Ritika Sethi et.al.|[2506.24100v1](http://arxiv.org/abs/2506.24100v1)|[2506.24100v1](http://arxiv.org/pdf/2506.24100v1)|null|
+|**2025-06-30**|**The distribution of metals in simulated Milky Way-mass galaxies**|Federico G. Iza et.al.|[2506.24077v1](http://arxiv.org/abs/2506.24077v1)|[2506.24077v1](http://arxiv.org/pdf/2506.24077v1)|null|
+|**2025-06-30**|**Recurring region for neutron-star observables**|Alexander Clevinger et.al.|[2506.24069v1](http://arxiv.org/abs/2506.24069v1)|[2506.24069v1](http://arxiv.org/pdf/2506.24069v1)|null|
+|**2025-06-30**|**EMPRESS. XV. A New Determination of the Primordial Helium Abundance Suggesting a Moderately Low $Y_\mathrm{P}$ Value**|Hiroto Yanagisawa et.al.|[2506.24050v1](http://arxiv.org/abs/2506.24050v1)|[2506.24050v1](http://arxiv.org/pdf/2506.24050v1)|null|
+|**2025-06-30**|**Listening Across the Cosmic Time: Standard Sirens from Ground- and Space-Based Missions in the Next Decade**|Alberto Salvarese et.al.|[2506.24030v1](http://arxiv.org/abs/2506.24030v1)|[2506.24030v1](http://arxiv.org/pdf/2506.24030v1)|null|
+|**2025-06-30**|**Cosmic Axions Revealed via Amplified Modulation of Ellipticity of Laser (CARAMEL)**|Hooman Davoudiasl et.al.|[2506.24022v1](http://arxiv.org/abs/2506.24022v1)|[2506.24022v1](http://arxiv.org/pdf/2506.24022v1)|null|
+|**2025-06-30**|**The Lifespan of our Universe**|Hoang Nhan Luu et.al.|[2506.24011v1](http://arxiv.org/abs/2506.24011v1)|[2506.24011v1](http://arxiv.org/pdf/2506.24011v1)|null|
 |**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431v1](http://arxiv.org/abs/2506.22431v1)|[2506.22431v1](http://arxiv.org/pdf/2506.22431v1)|null|
 |**2025-06-27**|**Cosmology from Planck CMB Lensing and DESI DR1 Quasar Tomography**|R. de Belsunce et.al.|[2506.22416v1](http://arxiv.org/abs/2506.22416v1)|[2506.22416v1](http://arxiv.org/pdf/2506.22416v1)|null|
 |**2025-06-27**|**NuSTAR and XMM-Newton Observations of PSR J1930+1852 and Its Pulsar Wind Nebula**|J. A. J. Alford et.al.|[2506.22409v1](http://arxiv.org/abs/2506.22409v1)|[2506.22409v1](http://arxiv.org/pdf/2506.22409v1)|null|
@@ -7443,6 +7453,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125v1](http://arxiv.org/abs/2506.24125v1)|[2506.24125v1](http://arxiv.org/pdf/2506.24125v1)|null|
+|**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120v1](http://arxiv.org/abs/2506.24120v1)|[2506.24120v1](http://arxiv.org/pdf/2506.24120v1)|null|
+|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119v1](http://arxiv.org/abs/2506.24119v1)|[2506.24119v1](http://arxiv.org/pdf/2506.24119v1)|null|
+|**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108v1](http://arxiv.org/abs/2506.24108v1)|[2506.24108v1](http://arxiv.org/pdf/2506.24108v1)|null|
+|**2025-06-30**|**On the Predictive Power of Representation Dispersion in Language Models**|Yanhong Li et.al.|[2506.24106v1](http://arxiv.org/abs/2506.24106v1)|[2506.24106v1](http://arxiv.org/pdf/2506.24106v1)|null|
+|**2025-06-30**|**Development of Hybrid Artificial Intelligence Training on Real and Synthetic Data: Benchmark on Two Mixed Training Strategies**|Paul Wachter et.al.|[2506.24093v1](http://arxiv.org/abs/2506.24093v1)|[2506.24093v1](http://arxiv.org/pdf/2506.24093v1)|null|
+|**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085v1](http://arxiv.org/abs/2506.24085v1)|[2506.24085v1](http://arxiv.org/pdf/2506.24085v1)|null|
+|**2025-06-30**|**SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks**|Rahul Kumar et.al.|[2506.24081v1](http://arxiv.org/abs/2506.24081v1)|[2506.24081v1](http://arxiv.org/pdf/2506.24081v1)|null|
+|**2025-06-30**|**Dissipation Pathways in a Photosynthetic Complex**|Ignacio Gustin et.al.|[2506.24075v1](http://arxiv.org/abs/2506.24075v1)|[2506.24075v1](http://arxiv.org/pdf/2506.24075v1)|null|
+|**2025-06-30**|**STACK: Adversarial Attacks on LLM Safeguard Pipelines**|Ian R. McKenzie et.al.|[2506.24068v1](http://arxiv.org/abs/2506.24068v1)|[2506.24068v1](http://arxiv.org/pdf/2506.24068v1)|null|
 |**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|[2506.22427v1](http://arxiv.org/pdf/2506.22427v1)|null|
 |**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|[2506.22419v1](http://arxiv.org/pdf/2506.22419v1)|null|
 |**2025-06-27**|**Sequential Diagnosis with Language Models**|Harsha Nori et.al.|[2506.22405v1](http://arxiv.org/abs/2506.22405v1)|[2506.22405v1](http://arxiv.org/pdf/2506.22405v1)|null|
