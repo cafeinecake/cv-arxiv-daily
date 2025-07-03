@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|[2507.01962v1](http://arxiv.org/pdf/2507.01962v1)|null|
+|**2025-07-02**|**Resolving Individual Stars in Nearby Large Galaxies with the Habitable Worlds Observatory**|Adam Smercina et.al.|[2507.01960v1](http://arxiv.org/abs/2507.01960v1)|[2507.01960v1](http://arxiv.org/pdf/2507.01960v1)|null|
+|**2025-07-02**|**Universal lower bound on the axion decay constant from free streaming effects**|Keisuke Harigaya et.al.|[2507.01956v1](http://arxiv.org/abs/2507.01956v1)|[2507.01956v1](http://arxiv.org/pdf/2507.01956v1)|null|
+|**2025-07-02**|**Dirty Black Holes, Clean Signals: Near-Horizon vs. Environmental Effects on Grey-Body Factors and Hawking Radiation**|Roman A. Konoplya et.al.|[2507.01954v1](http://arxiv.org/abs/2507.01954v1)|[2507.01954v1](http://arxiv.org/pdf/2507.01954v1)|null|
+|**2025-07-02**|**The Lockman-SpReSO project. Spectroscopic analysis of Type 1 AGN**|Castalia Alenka Negrete et.al.|[2507.01952v1](http://arxiv.org/abs/2507.01952v1)|[2507.01952v1](http://arxiv.org/pdf/2507.01952v1)|null|
+|**2025-07-02**|**ML-Driven Strong Lens Discoveries: Down to $θ_E \sim 0.03''$ and $M_\mathrm{halo}< 10^{11} M_\odot$**|Ethan Silver et.al.|[2507.01943v1](http://arxiv.org/abs/2507.01943v1)|[2507.01943v1](http://arxiv.org/pdf/2507.01943v1)|null|
+|**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942v1](http://arxiv.org/abs/2507.01942v1)|[2507.01942v1](http://arxiv.org/pdf/2507.01942v1)|null|
+|**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939v1](http://arxiv.org/abs/2507.01939v1)|[2507.01939v1](http://arxiv.org/pdf/2507.01939v1)|null|
+|**2025-07-02**|**Cosmological Frequency Combs**|Oem Trivedi et.al.|[2507.01929v1](http://arxiv.org/abs/2507.01929v1)|[2507.01929v1](http://arxiv.org/pdf/2507.01929v1)|null|
+|**2025-07-02**|**Nonlinearities in Kerr Black Hole Ringdown from the Penrose Limit**|D. Perrone et.al.|[2507.01919v1](http://arxiv.org/abs/2507.01919v1)|[2507.01919v1](http://arxiv.org/pdf/2507.01919v1)|null|
 |**2025-06-30**|**Studying Protoplanets and Protoplanetary Disks with the Habitable Worlds Observatory**|Bin B. Ren et.al.|[2506.24129v1](http://arxiv.org/abs/2506.24129v1)|[2506.24129v1](http://arxiv.org/pdf/2506.24129v1)|null|
 |**2025-06-30**|**Beneath the Surface: >85% of z>5.9 QSOs in Massive Host Galaxies are UV-Faint**|R. J. Bouwens et.al.|[2506.24128v1](http://arxiv.org/abs/2506.24128v1)|[2506.24128v1](http://arxiv.org/pdf/2506.24128v1)|null|
 |**2025-06-30**|**Constraining self-interacting ultrahigh-energy neutrinos by cosmic microwave background spectral distortion**|Pravin Kumar Natwariya et.al.|[2506.24110v1](http://arxiv.org/abs/2506.24110v1)|[2506.24110v1](http://arxiv.org/pdf/2506.24110v1)|null|
@@ -7457,6 +7467,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|[2507.01961v1](http://arxiv.org/pdf/2507.01961v1)|null|
+|**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957v1](http://arxiv.org/abs/2507.01957v1)|[2507.01957v1](http://arxiv.org/pdf/2507.01957v1)|null|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955v1](http://arxiv.org/abs/2507.01955v1)|[2507.01955v1](http://arxiv.org/pdf/2507.01955v1)|null|
+|**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939v1](http://arxiv.org/abs/2507.01939v1)|[2507.01939v1](http://arxiv.org/pdf/2507.01939v1)|null|
+|**2025-07-02**|**Adaptability of ASR Models on Low-Resource Language: A Comparative Study of Whisper and Wav2Vec-BERT on Bangla**|Md Sazzadul Islam Ridoy et.al.|[2507.01931v1](http://arxiv.org/abs/2507.01931v1)|[2507.01931v1](http://arxiv.org/pdf/2507.01931v1)|null|
+|**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924v1](http://arxiv.org/abs/2507.01924v1)|[2507.01924v1](http://arxiv.org/pdf/2507.01924v1)|null|
+|**2025-07-02**|**End-to-End Large Portfolio Optimization for Variance Minimization with Neural Networks through Covariance Cleaning**|Christian Bongiorno et.al.|[2507.01918v1](http://arxiv.org/abs/2507.01918v1)|[2507.01918v1](http://arxiv.org/pdf/2507.01918v1)|null|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915v1](http://arxiv.org/abs/2507.01915v1)|[2507.01915v1](http://arxiv.org/pdf/2507.01915v1)|null|
+|**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903v1](http://arxiv.org/abs/2507.01903v1)|[2507.01903v1](http://arxiv.org/pdf/2507.01903v1)|null|
+|**2025-07-02**|**Evolving HPC services to enable ML workloads on HPE Cray EX**|Stefano Schuppli et.al.|[2507.01880v1](http://arxiv.org/abs/2507.01880v1)|[2507.01880v1](http://arxiv.org/pdf/2507.01880v1)|null|
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125v1](http://arxiv.org/abs/2506.24125v1)|[2506.24125v1](http://arxiv.org/pdf/2506.24125v1)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120v1](http://arxiv.org/abs/2506.24120v1)|[2506.24120v1](http://arxiv.org/pdf/2506.24120v1)|null|
 |**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119v2](http://arxiv.org/abs/2506.24119v2)|[2506.24119v2](http://arxiv.org/pdf/2506.24119v2)|null|
