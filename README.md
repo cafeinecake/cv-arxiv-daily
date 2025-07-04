@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835v1](http://arxiv.org/abs/2507.02835v1)|[2507.02835v1](http://arxiv.org/pdf/2507.02835v1)|null|
+|**2025-07-03**|**Relativistic accretion and burdened primordial black holes**|Suvashis Maity et.al.|[2507.02821v1](http://arxiv.org/abs/2507.02821v1)|[2507.02821v1](http://arxiv.org/pdf/2507.02821v1)|null|
+|**2025-07-03**|**Fluid dynamics of a liquid mirror space telescope**|Israel Gabay et.al.|[2507.02812v1](http://arxiv.org/abs/2507.02812v1)|[2507.02812v1](http://arxiv.org/pdf/2507.02812v1)|null|
+|**2025-07-03**|**GRB 240825A: Early Reverse Shock and Its Physical Implications**|Chao Wu et.al.|[2507.02806v1](http://arxiv.org/abs/2507.02806v1)|[2507.02806v1](http://arxiv.org/pdf/2507.02806v1)|null|
+|**2025-07-03**|**A Highly Carbon-Rich Dayside and Disequilibrium Chemistry in the Ultra-Hot Jupiter WASP-19b**|Suman Saha et.al.|[2507.02797v1](http://arxiv.org/abs/2507.02797v1)|[2507.02797v1](http://arxiv.org/pdf/2507.02797v1)|null|
+|**2025-07-03**|**Massive Interacting Binaries Enhance Feedback in Star-Forming Regions**|Claude Cournoyer-Cloutier et.al.|[2507.02780v1](http://arxiv.org/abs/2507.02780v1)|[2507.02780v1](http://arxiv.org/pdf/2507.02780v1)|null|
+|**2025-07-03**|**Advanced techniques of searching for flares of ultra-high-energy photons from point sources**|Jaroslaw Stasielak et.al.|[2507.02777v1](http://arxiv.org/abs/2507.02777v1)|[2507.02777v1](http://arxiv.org/pdf/2507.02777v1)|null|
+|**2025-07-03**|**A Leptonic Interpretation of the UHE Gamma-ray Emission from V4641 Sgr**|Su-Yu Wan et.al.|[2507.02763v1](http://arxiv.org/abs/2507.02763v1)|[2507.02763v1](http://arxiv.org/pdf/2507.02763v1)|null|
+|**2025-07-03**|**Discovery and Preliminary Characterization of a Third Interstellar Object: 3I/ATLAS**|Darryl Z. Seligman et.al.|[2507.02757v1](http://arxiv.org/abs/2507.02757v1)|[2507.02757v1](http://arxiv.org/pdf/2507.02757v1)|null|
+|**2025-07-03**|**On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**|Alena Khokhriakova et.al.|[2507.02750v1](http://arxiv.org/abs/2507.02750v1)|[2507.02750v1](http://arxiv.org/pdf/2507.02750v1)|null|
 |**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|[2507.01962v1](http://arxiv.org/pdf/2507.01962v1)|null|
 |**2025-07-02**|**Resolving Individual Stars in Nearby Large Galaxies with the Habitable Worlds Observatory**|Adam Smercina et.al.|[2507.01960v1](http://arxiv.org/abs/2507.01960v1)|[2507.01960v1](http://arxiv.org/pdf/2507.01960v1)|null|
 |**2025-07-02**|**Universal lower bound on the axion decay constant from free streaming effects**|Keisuke Harigaya et.al.|[2507.01956v1](http://arxiv.org/abs/2507.01956v1)|[2507.01956v1](http://arxiv.org/pdf/2507.01956v1)|null|
@@ -7463,6 +7473,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863v1](http://arxiv.org/abs/2507.02863v1)|[2507.02863v1](http://arxiv.org/pdf/2507.02863v1)|null|
+|**2025-07-03**|**LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**|Zhening Huang et.al.|[2507.02861v1](http://arxiv.org/abs/2507.02861v1)|[2507.02861v1](http://arxiv.org/pdf/2507.02861v1)|null|
+|**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856v1](http://arxiv.org/abs/2507.02856v1)|[2507.02856v1](http://arxiv.org/pdf/2507.02856v1)|null|
+|**2025-07-03**|**Subtyping in DHOL -- Extended preprint**|Colin Rothgang et.al.|[2507.02855v1](http://arxiv.org/abs/2507.02855v1)|[2507.02855v1](http://arxiv.org/pdf/2507.02855v1)|null|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851v1](http://arxiv.org/abs/2507.02851v1)|[2507.02851v1](http://arxiv.org/pdf/2507.02851v1)|null|
+|**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841v1](http://arxiv.org/abs/2507.02841v1)|[2507.02841v1](http://arxiv.org/pdf/2507.02841v1)|null|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827v1](http://arxiv.org/abs/2507.02827v1)|[2507.02827v1](http://arxiv.org/pdf/2507.02827v1)|null|
+|**2025-07-03**|**Establishing Best Practices for Building Rigorous Agentic Benchmarks**|Yuxuan Zhu et.al.|[2507.02825v1](http://arxiv.org/abs/2507.02825v1)|[2507.02825v1](http://arxiv.org/pdf/2507.02825v1)|null|
+|**2025-07-03**|**DNN-Based Precoding in RIS-Aided mmWave MIMO Systems With Practical Phase Shift**|Po-Heng Chou et.al.|[2507.02824v1](http://arxiv.org/abs/2507.02824v1)|[2507.02824v1](http://arxiv.org/pdf/2507.02824v1)|null|
+|**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822v1](http://arxiv.org/abs/2507.02822v1)|[2507.02822v1](http://arxiv.org/pdf/2507.02822v1)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|[2507.01961v2](http://arxiv.org/pdf/2507.01961v2)|null|
 |**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957v1](http://arxiv.org/abs/2507.01957v1)|[2507.01957v1](http://arxiv.org/pdf/2507.01957v1)|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955v1](http://arxiv.org/abs/2507.01955v1)|[2507.01955v1](http://arxiv.org/pdf/2507.01955v1)|null|
