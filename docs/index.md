@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 
 ## Astrophysics
 
@@ -7467,7 +7467,7 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|[2507.01961v1](http://arxiv.org/pdf/2507.01961v1)|null|
+|**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|[2507.01961v2](http://arxiv.org/pdf/2507.01961v2)|null|
 |**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957v1](http://arxiv.org/abs/2507.01957v1)|[2507.01957v1](http://arxiv.org/pdf/2507.01957v1)|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955v1](http://arxiv.org/abs/2507.01955v1)|[2507.01955v1](http://arxiv.org/pdf/2507.01955v1)|null|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939v1](http://arxiv.org/abs/2507.01939v1)|[2507.01939v1](http://arxiv.org/pdf/2507.01939v1)|null|
