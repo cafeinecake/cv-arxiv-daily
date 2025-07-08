@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 
 ## Astrophysics
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835v1](http://arxiv.org/abs/2507.02835v1)|[2507.02835v1](http://arxiv.org/pdf/2507.02835v1)|null|
 |**2025-07-03**|**Relativistic accretion and burdened primordial black holes**|Suvashis Maity et.al.|[2507.02821v1](http://arxiv.org/abs/2507.02821v1)|[2507.02821v1](http://arxiv.org/pdf/2507.02821v1)|null|
-|**2025-07-03**|**Fluid dynamics of a liquid mirror space telescope**|Israel Gabay et.al.|[2507.02812v1](http://arxiv.org/abs/2507.02812v1)|[2507.02812v1](http://arxiv.org/pdf/2507.02812v1)|null|
+|**2025-07-06**|**Fluid dynamics of a liquid mirror space telescope**|Israel Gabay et.al.|[2507.02812v2](http://arxiv.org/abs/2507.02812v2)|[2507.02812v2](http://arxiv.org/pdf/2507.02812v2)|null|
 |**2025-07-03**|**GRB 240825A: Early Reverse Shock and Its Physical Implications**|Chao Wu et.al.|[2507.02806v1](http://arxiv.org/abs/2507.02806v1)|[2507.02806v1](http://arxiv.org/pdf/2507.02806v1)|null|
 |**2025-07-03**|**A Highly Carbon-Rich Dayside and Disequilibrium Chemistry in the Ultra-Hot Jupiter WASP-19b**|Suman Saha et.al.|[2507.02797v1](http://arxiv.org/abs/2507.02797v1)|[2507.02797v1](http://arxiv.org/pdf/2507.02797v1)|null|
 |**2025-07-03**|**Massive Interacting Binaries Enhance Feedback in Star-Forming Regions**|Claude Cournoyer-Cloutier et.al.|[2507.02780v1](http://arxiv.org/abs/2507.02780v1)|[2507.02780v1](http://arxiv.org/pdf/2507.02780v1)|null|
@@ -7481,7 +7481,7 @@
 |**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841v1](http://arxiv.org/abs/2507.02841v1)|[2507.02841v1](http://arxiv.org/pdf/2507.02841v1)|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827v1](http://arxiv.org/abs/2507.02827v1)|[2507.02827v1](http://arxiv.org/pdf/2507.02827v1)|null|
 |**2025-07-03**|**Establishing Best Practices for Building Rigorous Agentic Benchmarks**|Yuxuan Zhu et.al.|[2507.02825v1](http://arxiv.org/abs/2507.02825v1)|[2507.02825v1](http://arxiv.org/pdf/2507.02825v1)|null|
-|**2025-07-03**|**DNN-Based Precoding in RIS-Aided mmWave MIMO Systems With Practical Phase Shift**|Po-Heng Chou et.al.|[2507.02824v1](http://arxiv.org/abs/2507.02824v1)|[2507.02824v1](http://arxiv.org/pdf/2507.02824v1)|null|
+|**2025-07-04**|**DNN-Based Precoding in RIS-Aided mmWave MIMO Systems With Practical Phase Shift**|Po-Heng Chou et.al.|[2507.02824v2](http://arxiv.org/abs/2507.02824v2)|[2507.02824v2](http://arxiv.org/pdf/2507.02824v2)|null|
 |**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822v1](http://arxiv.org/abs/2507.02822v1)|[2507.02822v1](http://arxiv.org/pdf/2507.02822v1)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|[2507.01961v2](http://arxiv.org/pdf/2507.01961v2)|null|
 |**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957v1](http://arxiv.org/abs/2507.01957v1)|[2507.01957v1](http://arxiv.org/pdf/2507.01957v1)|null|
