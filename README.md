@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-07**|**Interstellar comet 3I/ATLAS: discovery and physical description**|Bryce T. Bolin et.al.|[2507.05252v1](http://arxiv.org/abs/2507.05252v1)|[2507.05252v1](http://arxiv.org/pdf/2507.05252v1)|null|
+|**2025-07-07**|**A High Resolution Search for Dual AGNs in Mergers: Pushing the Frontier with Keck AO**|Camilo Vazquez et.al.|[2507.05250v1](http://arxiv.org/abs/2507.05250v1)|[2507.05250v1](http://arxiv.org/pdf/2507.05250v1)|null|
+|**2025-07-07**|**Constraining the Milky Way Halo Accretion History With Simulated Stellar Halos: Designing the HALO7D-X Survey**|Miranda Apfel et.al.|[2507.05239v1](http://arxiv.org/abs/2507.05239v1)|[2507.05239v1](http://arxiv.org/pdf/2507.05239v1)|null|
+|**2025-07-07**|**Initial VLT/MUSE spectroscopy of the interstellar object 3I/ATLAS**|Cyrielle Opitom et.al.|[2507.05226v1](http://arxiv.org/abs/2507.05226v1)|[2507.05226v1](http://arxiv.org/pdf/2507.05226v1)|null|
+|**2025-07-07**|**Quantitative Morphology of Galactic Cirrus in Deep Optical Imaging**|Qing Liu et.al.|[2507.05217v1](http://arxiv.org/abs/2507.05217v1)|[2507.05217v1](http://arxiv.org/pdf/2507.05217v1)|null|
+|**2025-07-07**|**Testing the ubiquitous presence of very high energy emission in gamma-ray bursts with the MAGIC telescopes**|S. Abe et.al.|[2507.05215v1](http://arxiv.org/abs/2507.05215v1)|[2507.05215v1](http://arxiv.org/pdf/2507.05215v1)|null|
+|**2025-07-07**|**Hierarchical Subtraction with Neural Density Estimators as a General Solution to Overlapping Gravitational Wave Signals**|Qian Hu et.al.|[2507.05209v1](http://arxiv.org/abs/2507.05209v1)|[2507.05209v1](http://arxiv.org/pdf/2507.05209v1)|null|
+|**2025-07-07**|**Tiānguān ($ζ$ Tau) as a binary system consisting of a Be-star and an accreting White Dwarf: opening a gate to understanding enigmatic $γ$ Cas analogues**|Jesús A. Toalá et.al.|[2507.05203v1](http://arxiv.org/abs/2507.05203v1)|[2507.05203v1](http://arxiv.org/pdf/2507.05203v1)|null|
+|**2025-07-07**|**Rossby number regime, convection suppression, and dynamo-generated magnetism in inflated hot Jupiters**|Albert Elias-López et.al.|[2507.05202v1](http://arxiv.org/abs/2507.05202v1)|[2507.05202v1](http://arxiv.org/pdf/2507.05202v1)|null|
+|**2025-07-07**|**Kerr black hole in a uniform magnetic field: An exact solution**|Jiri Podolsky et.al.|[2507.05199v1](http://arxiv.org/abs/2507.05199v1)|[2507.05199v1](http://arxiv.org/pdf/2507.05199v1)|null|
 |**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835v1](http://arxiv.org/abs/2507.02835v1)|[2507.02835v1](http://arxiv.org/pdf/2507.02835v1)|null|
 |**2025-07-03**|**Relativistic accretion and burdened primordial black holes**|Suvashis Maity et.al.|[2507.02821v1](http://arxiv.org/abs/2507.02821v1)|[2507.02821v1](http://arxiv.org/pdf/2507.02821v1)|null|
 |**2025-07-06**|**Fluid dynamics of a liquid mirror space telescope**|Israel Gabay et.al.|[2507.02812v2](http://arxiv.org/abs/2507.02812v2)|[2507.02812v2](http://arxiv.org/pdf/2507.02812v2)|null|
@@ -7473,6 +7483,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257v1](http://arxiv.org/abs/2507.05257v1)|[2507.05257v1](http://arxiv.org/pdf/2507.05257v1)|null|
+|**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254v1](http://arxiv.org/abs/2507.05254v1)|[2507.05254v1](http://arxiv.org/pdf/2507.05254v1)|null|
+|**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251v1](http://arxiv.org/abs/2507.05251v1)|[2507.05251v1](http://arxiv.org/pdf/2507.05251v1)|null|
+|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246v1](http://arxiv.org/abs/2507.05246v1)|[2507.05246v1](http://arxiv.org/pdf/2507.05246v1)|null|
+|**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244v1](http://arxiv.org/abs/2507.05244v1)|[2507.05244v1](http://arxiv.org/pdf/2507.05244v1)|null|
+|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v1](http://arxiv.org/abs/2507.05241v1)|[2507.05241v1](http://arxiv.org/pdf/2507.05241v1)|null|
+|**2025-07-07**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221v1](http://arxiv.org/abs/2507.05221v1)|[2507.05221v1](http://arxiv.org/pdf/2507.05221v1)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211v1](http://arxiv.org/abs/2507.05211v1)|[2507.05211v1](http://arxiv.org/pdf/2507.05211v1)|null|
+|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201v1](http://arxiv.org/abs/2507.05201v1)|[2507.05201v1](http://arxiv.org/pdf/2507.05201v1)|null|
+|**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198v1](http://arxiv.org/abs/2507.05198v1)|[2507.05198v1](http://arxiv.org/pdf/2507.05198v1)|null|
 |**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863v1](http://arxiv.org/abs/2507.02863v1)|[2507.02863v1](http://arxiv.org/pdf/2507.02863v1)|null|
 |**2025-07-03**|**LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**|Zhening Huang et.al.|[2507.02861v1](http://arxiv.org/abs/2507.02861v1)|[2507.02861v1](http://arxiv.org/pdf/2507.02861v1)|null|
 |**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856v1](http://arxiv.org/abs/2507.02856v1)|[2507.02856v1](http://arxiv.org/pdf/2507.02856v1)|null|
