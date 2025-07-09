@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-08**|**What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23**|Maria V. Pruzhinskaya et.al.|[2507.06217v1](http://arxiv.org/abs/2507.06217v1)|[2507.06217v1](http://arxiv.org/pdf/2507.06217v1)|null|
+|**2025-07-08**|**Direct imaging discovery of a young giant planet orbiting on Solar System scales**|T. Stolker et.al.|[2507.06206v1](http://arxiv.org/abs/2507.06206v1)|[2507.06206v1](http://arxiv.org/pdf/2507.06206v1)|null|
+|**2025-07-08**|**Investigating the imprint of quintessence in cosmic magnification**|Didam Duniya et.al.|[2507.06200v1](http://arxiv.org/abs/2507.06200v1)|[2507.06200v1](http://arxiv.org/pdf/2507.06200v1)|null|
+|**2025-07-08**|**A Statistical Method for Constraining the Capability of the Habitable Worlds Observatory to Understand Ozone Onset Time in Earth Analogs**|Sarah Blunt et.al.|[2507.06188v1](http://arxiv.org/abs/2507.06188v1)|[2507.06188v1](http://arxiv.org/pdf/2507.06188v1)|null|
+|**2025-07-08**|**Can Orbital Decay of Accreting Binary Pulsars Probe Dark Matter?**|Arvind Kumar Mishra et.al.|[2507.06178v1](http://arxiv.org/abs/2507.06178v1)|[2507.06178v1](http://arxiv.org/pdf/2507.06178v1)|null|
+|**2025-07-08**|**IceCat-2: Updated IceCube Event Catalog of Alert Tracks**|Angela Zegarelli et.al.|[2507.06176v1](http://arxiv.org/abs/2507.06176v1)|[2507.06176v1](http://arxiv.org/pdf/2507.06176v1)|null|
+|**2025-07-08**|**Reconstructing PTA measurements via early seeding of supermassive black holes**|Sohan Ghodla et.al.|[2507.06163v1](http://arxiv.org/abs/2507.06163v1)|[2507.06163v1](http://arxiv.org/pdf/2507.06163v1)|null|
+|**2025-07-08**|**12-Years Observation of Seasonal Variation of Atmospheric Neutrino Flux with IceCube**|Shuyang Deng et.al.|[2507.06155v1](http://arxiv.org/abs/2507.06155v1)|[2507.06155v1](http://arxiv.org/pdf/2507.06155v1)|null|
+|**2025-07-08**|**Observation of Broadband In-ice Radiation from Impacting High-Energy Cosmic Rays**|Philipp Windischhofer et.al.|[2507.06151v1](http://arxiv.org/abs/2507.06151v1)|[2507.06151v1](http://arxiv.org/pdf/2507.06151v1)|null|
+|**2025-07-08**|**Non-linear stability analysis of $\ell$-Proca stars**|Claudio Lazarte et.al.|[2507.06145v1](http://arxiv.org/abs/2507.06145v1)|[2507.06145v1](http://arxiv.org/pdf/2507.06145v1)|null|
 |**2025-07-07**|**Interstellar comet 3I/ATLAS: discovery and physical description**|Bryce T. Bolin et.al.|[2507.05252v1](http://arxiv.org/abs/2507.05252v1)|[2507.05252v1](http://arxiv.org/pdf/2507.05252v1)|null|
 |**2025-07-07**|**A High Resolution Search for Dual AGNs in Mergers: Pushing the Frontier with Keck AO**|Camilo Vazquez et.al.|[2507.05250v1](http://arxiv.org/abs/2507.05250v1)|[2507.05250v1](http://arxiv.org/pdf/2507.05250v1)|null|
 |**2025-07-07**|**Constraining the Milky Way Halo Accretion History With Simulated Stellar Halos: Designing the HALO7D-X Survey**|Miranda Apfel et.al.|[2507.05239v1](http://arxiv.org/abs/2507.05239v1)|[2507.05239v1](http://arxiv.org/pdf/2507.05239v1)|null|
@@ -7483,6 +7493,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229v1](http://arxiv.org/abs/2507.06229v1)|[2507.06229v1](http://arxiv.org/pdf/2507.06229v1)|null|
+|**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224v1](http://arxiv.org/abs/2507.06224v1)|[2507.06224v1](http://arxiv.org/pdf/2507.06224v1)|null|
+|**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223v1](http://arxiv.org/abs/2507.06223v1)|[2507.06223v1](http://arxiv.org/pdf/2507.06223v1)|null|
+|**2025-07-08**|**Aligned Textual Scoring Rules**|Yuxuan Lu et.al.|[2507.06221v1](http://arxiv.org/abs/2507.06221v1)|[2507.06221v1](http://arxiv.org/pdf/2507.06221v1)|null|
+|**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219v1](http://arxiv.org/abs/2507.06219v1)|[2507.06219v1](http://arxiv.org/pdf/2507.06219v1)|null|
+|**2025-07-08**|**Identifiability in Causal Abstractions: A Hierarchy of Criteria**|Clément Yvernes et.al.|[2507.06213v1](http://arxiv.org/abs/2507.06213v1)|[2507.06213v1](http://arxiv.org/pdf/2507.06213v1)|null|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204v1](http://arxiv.org/abs/2507.06204v1)|[2507.06204v1](http://arxiv.org/pdf/2507.06204v1)|null|
+|**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196v1](http://arxiv.org/abs/2507.06196v1)|[2507.06196v1](http://arxiv.org/pdf/2507.06196v1)|null|
+|**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192v1](http://arxiv.org/abs/2507.06192v1)|[2507.06192v1](http://arxiv.org/pdf/2507.06192v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189v1](http://arxiv.org/abs/2507.06189v1)|[2507.06189v1](http://arxiv.org/pdf/2507.06189v1)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257v1](http://arxiv.org/abs/2507.05257v1)|[2507.05257v1](http://arxiv.org/pdf/2507.05257v1)|null|
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254v1](http://arxiv.org/abs/2507.05254v1)|[2507.05254v1](http://arxiv.org/pdf/2507.05254v1)|null|
 |**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251v1](http://arxiv.org/abs/2507.05251v1)|[2507.05251v1](http://arxiv.org/pdf/2507.05251v1)|null|
