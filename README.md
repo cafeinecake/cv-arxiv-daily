@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-09**|**IceCube population constraints on neutrino emission by Fermi-LAT detected active galactic nuclei**|Sam Hori et.al.|[2507.07098v1](http://arxiv.org/abs/2507.07098v1)|[2507.07098v1](http://arxiv.org/pdf/2507.07098v1)|null|
+|**2025-07-09**|**Results from IceCube Follow-up of Nearby Supernova SN2023ixf**|Alicia Mand et.al.|[2507.07097v1](http://arxiv.org/abs/2507.07097v1)|[2507.07097v1](http://arxiv.org/pdf/2507.07097v1)|null|
+|**2025-07-09**|**Search for GeV-PeV neutrinos from nova T Coronae Borealis with IceCube**|Jessie Thwaites et.al.|[2507.07096v1](http://arxiv.org/abs/2507.07096v1)|[2507.07096v1](http://arxiv.org/pdf/2507.07096v1)|null|
+|**2025-07-09**|**The Nineteenth Data Release of the Sloan Digital Sky Survey**|SDSS Collaboration et.al.|[2507.07093v1](http://arxiv.org/abs/2507.07093v1)|[2507.07093v1](http://arxiv.org/pdf/2507.07093v1)|null|
+|**2025-07-09**|**Ray-tracing Fast Radio Bursts Through IllustrisTNG: Cosmological Dispersion Measures from Redshift 0 to 5.5**|Ralf M. Konietzka et.al.|[2507.07090v1](http://arxiv.org/abs/2507.07090v1)|[2507.07090v1](http://arxiv.org/pdf/2507.07090v1)|null|
+|**2025-07-09**|**Investigating the CREDIT history of supernova remnants as cosmic-ray sources**|Anton Stall et.al.|[2507.07088v1](http://arxiv.org/abs/2507.07088v1)|[2507.07088v1](http://arxiv.org/pdf/2507.07088v1)|null|
+|**2025-07-09**|**The cosmic-ray sea explains the Galactic $γ$-ray and $ν$ diffuse emissions from GeV to PeV**|Pedro De La Torre Luque et.al.|[2507.07083v1](http://arxiv.org/abs/2507.07083v1)|[2507.07083v1](http://arxiv.org/pdf/2507.07083v1)|null|
+|**2025-07-09**|**Resolving the QCD Axion Domain Wall Problem with a Light Axion**|Junseok Lee et.al.|[2507.07075v1](http://arxiv.org/abs/2507.07075v1)|[2507.07075v1](http://arxiv.org/pdf/2507.07075v1)|null|
+|**2025-07-09**|**All-Sky Cosmic-Ray Anisotropy Update at Multiple Energies**|Juan Carlos Díaz-Vélez et.al.|[2507.07070v1](http://arxiv.org/abs/2507.07070v1)|[2507.07070v1](http://arxiv.org/pdf/2507.07070v1)|null|
+|**2025-07-09**|**Impact of Hole-ice Calibration on High Energy Event Reconstruction with the IceCube Upgrade**|Kaustav Dutta et.al.|[2507.07062v1](http://arxiv.org/abs/2507.07062v1)|[2507.07062v1](http://arxiv.org/pdf/2507.07062v1)|null|
 |**2025-07-08**|**What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23**|Maria V. Pruzhinskaya et.al.|[2507.06217v1](http://arxiv.org/abs/2507.06217v1)|[2507.06217v1](http://arxiv.org/pdf/2507.06217v1)|null|
 |**2025-07-08**|**Direct imaging discovery of a young giant planet orbiting on Solar System scales**|T. Stolker et.al.|[2507.06206v1](http://arxiv.org/abs/2507.06206v1)|[2507.06206v1](http://arxiv.org/pdf/2507.06206v1)|null|
 |**2025-07-08**|**Investigating the imprint of quintessence in cosmic magnification**|Didam Duniya et.al.|[2507.06200v1](http://arxiv.org/abs/2507.06200v1)|[2507.06200v1](http://arxiv.org/pdf/2507.06200v1)|null|
@@ -7493,6 +7503,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|[2507.07073v1](http://arxiv.org/pdf/2507.07073v1)|null|
+|**2025-07-09**|**How to Bridge the Sim-to-Real Gap in Digital Twin-Aided Telecommunication Networks**|Clement Ruah et.al.|[2507.07067v1](http://arxiv.org/abs/2507.07067v1)|[2507.07067v1](http://arxiv.org/pdf/2507.07067v1)|null|
+|**2025-07-09**|**Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**|Yuan Li et.al.|[2507.07047v1](http://arxiv.org/abs/2507.07047v1)|[2507.07047v1](http://arxiv.org/pdf/2507.07047v1)|null|
+|**2025-07-09**|**A Novel Hybrid Deep Learning Technique for Speech Emotion Detection using Feature Engineering**|Shahana Yasmin Chowdhury et.al.|[2507.07046v1](http://arxiv.org/abs/2507.07046v1)|[2507.07046v1](http://arxiv.org/pdf/2507.07046v1)|null|
+|**2025-07-09**|**Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control**|Mikael Vaillant et.al.|[2507.07034v1](http://arxiv.org/abs/2507.07034v1)|[2507.07034v1](http://arxiv.org/pdf/2507.07034v1)|null|
+|**2025-07-09**|**Design and Implementation of an OCR-Powered Pipeline for Table Extraction from Invoices**|Parshva Dhilankumar Patel et.al.|[2507.07029v1](http://arxiv.org/abs/2507.07029v1)|[2507.07029v1](http://arxiv.org/pdf/2507.07029v1)|null|
+|**2025-07-09**|**FlexOlmo: Open Language Models for Flexible Data Use**|Weijia Shi et.al.|[2507.07024v1](http://arxiv.org/abs/2507.07024v1)|[2507.07024v1](http://arxiv.org/pdf/2507.07024v1)|null|
+|**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019v1](http://arxiv.org/abs/2507.07019v1)|[2507.07019v1](http://arxiv.org/pdf/2507.07019v1)|null|
+|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017v1](http://arxiv.org/abs/2507.07017v1)|[2507.07017v1](http://arxiv.org/pdf/2507.07017v1)|null|
+|**2025-07-09**|**Generating Multi-Table Time Series EHR from Latent Space with Minimal Preprocessing**|Eunbyeol Cho et.al.|[2507.06996v1](http://arxiv.org/abs/2507.06996v1)|[2507.06996v1](http://arxiv.org/pdf/2507.06996v1)|null|
 |**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229v1](http://arxiv.org/abs/2507.06229v1)|[2507.06229v1](http://arxiv.org/pdf/2507.06229v1)|null|
 |**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224v1](http://arxiv.org/abs/2507.06224v1)|[2507.06224v1](http://arxiv.org/pdf/2507.06224v1)|null|
 |**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223v1](http://arxiv.org/abs/2507.06223v1)|[2507.06223v1](http://arxiv.org/pdf/2507.06223v1)|null|
