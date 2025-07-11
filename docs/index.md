@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991v1](http://arxiv.org/abs/2507.07991v1)|[2507.07991v1](http://arxiv.org/pdf/2507.07991v1)|null|
+|**2025-07-10**|**Constraints from CMB lensing tomography with projected bispectra**|Lea Harscouet et.al.|[2507.07968v1](http://arxiv.org/abs/2507.07968v1)|[2507.07968v1](http://arxiv.org/pdf/2507.07968v1)|null|
+|**2025-07-10**|**Synthesizing Sun-as-a-star flare spectra from high-resolution solar observations**|M. De Wilde et.al.|[2507.07967v1](http://arxiv.org/abs/2507.07967v1)|[2507.07967v1](http://arxiv.org/pdf/2507.07967v1)|null|
+|**2025-07-10**|**Gravitational lensing rarely produces high-mass outliers to the compact binary population**|Amanda Farah et.al.|[2507.07964v1](http://arxiv.org/abs/2507.07964v1)|[2507.07964v1](http://arxiv.org/pdf/2507.07964v1)|null|
+|**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963v1](http://arxiv.org/abs/2507.07963v1)|[2507.07963v1](http://arxiv.org/pdf/2507.07963v1)|null|
+|**2025-07-10**|**CO desorption from interstellar icy grains induced by IR excitation of superhydrogenated PAHs**|L. Slumstrup et.al.|[2507.07896v1](http://arxiv.org/abs/2507.07896v1)|[2507.07896v1](http://arxiv.org/pdf/2507.07896v1)|null|
+|**2025-07-10**|**A case study of GW190425 for classifying binary neutron star versus binary black hole mergers and constraining asymmetric dark matter with gravitational wave detectors**|Sanika Khadkikar et.al.|[2507.07895v1](http://arxiv.org/abs/2507.07895v1)|[2507.07895v1](http://arxiv.org/pdf/2507.07895v1)|null|
+|**2025-07-10**|**Baryonification: An alternative to hydrodynamical simulations for cosmological studies**|Aurel Schneider et.al.|[2507.07892v1](http://arxiv.org/abs/2507.07892v1)|[2507.07892v1](http://arxiv.org/pdf/2507.07892v1)|null|
+|**2025-07-10**|**Why Jet Power and Star Formation Are Uncorrelated in Active Galaxies**|David Garofalo et.al.|[2507.07865v1](http://arxiv.org/abs/2507.07865v1)|[2507.07865v1](http://arxiv.org/pdf/2507.07865v1)|null|
+|**2025-07-10**|**A Bayesian Framework for UHECR Source Association and Parameter Inference**|Keito Watanabe et.al.|[2507.07856v1](http://arxiv.org/abs/2507.07856v1)|[2507.07856v1](http://arxiv.org/pdf/2507.07856v1)|null|
 |**2025-07-09**|**IceCube population constraints on neutrino emission by Fermi-LAT detected active galactic nuclei**|Sam Hori et.al.|[2507.07098v1](http://arxiv.org/abs/2507.07098v1)|[2507.07098v1](http://arxiv.org/pdf/2507.07098v1)|null|
 |**2025-07-09**|**Results from IceCube Follow-up of Nearby Supernova SN2023ixf**|Alicia Mand et.al.|[2507.07097v1](http://arxiv.org/abs/2507.07097v1)|[2507.07097v1](http://arxiv.org/pdf/2507.07097v1)|null|
 |**2025-07-09**|**Search for GeV-PeV neutrinos from nova T Coronae Borealis with IceCube**|Jessie Thwaites et.al.|[2507.07096v1](http://arxiv.org/abs/2507.07096v1)|[2507.07096v1](http://arxiv.org/pdf/2507.07096v1)|null|
@@ -7507,6 +7517,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999v1](http://arxiv.org/abs/2507.07999v1)|[2507.07999v1](http://arxiv.org/pdf/2507.07999v1)|null|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998v1](http://arxiv.org/abs/2507.07998v1)|[2507.07998v1](http://arxiv.org/pdf/2507.07998v1)|null|
+|**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995v1](http://arxiv.org/abs/2507.07995v1)|[2507.07995v1](http://arxiv.org/pdf/2507.07995v1)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993v1](http://arxiv.org/abs/2507.07993v1)|[2507.07993v1](http://arxiv.org/pdf/2507.07993v1)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990v1](http://arxiv.org/abs/2507.07990v1)|[2507.07990v1](http://arxiv.org/pdf/2507.07990v1)|null|
+|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986v1](http://arxiv.org/abs/2507.07986v1)|[2507.07986v1](http://arxiv.org/pdf/2507.07986v1)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983v1](http://arxiv.org/abs/2507.07983v1)|[2507.07983v1](http://arxiv.org/pdf/2507.07983v1)|null|
+|**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982v1](http://arxiv.org/abs/2507.07982v1)|[2507.07982v1](http://arxiv.org/pdf/2507.07982v1)|null|
+|**2025-07-10**|**Why is Your Language Model a Poor Implicit Reward Model?**|Noam Razin et.al.|[2507.07981v1](http://arxiv.org/abs/2507.07981v1)|[2507.07981v1](http://arxiv.org/pdf/2507.07981v1)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969v1](http://arxiv.org/abs/2507.07969v1)|[2507.07969v1](http://arxiv.org/pdf/2507.07969v1)|null|
 |**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|[2507.07073v1](http://arxiv.org/pdf/2507.07073v1)|null|
 |**2025-07-09**|**How to Bridge the Sim-to-Real Gap in Digital Twin-Aided Telecommunication Networks**|Clement Ruah et.al.|[2507.07067v1](http://arxiv.org/abs/2507.07067v1)|[2507.07067v1](http://arxiv.org/pdf/2507.07067v1)|null|
 |**2025-07-09**|**Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**|Yuan Li et.al.|[2507.07047v1](http://arxiv.org/abs/2507.07047v1)|[2507.07047v1](http://arxiv.org/pdf/2507.07047v1)|null|
