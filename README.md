@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-11**|**The Atacama Cosmology Telescope: High-redshift measurement of structure growth from the cross-correlation of Quaia quasars and CMB lensing from ACT DR6 and $\textit{Planck}$ PR4**|Carmen Embil Villagra et.al.|[2507.08798v1](http://arxiv.org/abs/2507.08798v1)|[2507.08798v1](http://arxiv.org/pdf/2507.08798v1)|null|
+|**2025-07-11**|**Multi-frequency analysis of the ALMA and VLA high resolution continuum observations of the substructured disc around CI Tau. Preference for sub-mm-sized low-porosity amorphous carbonaceous grains**|Francesco Zagaria et.al.|[2507.08797v1](http://arxiv.org/abs/2507.08797v1)|[2507.08797v1](http://arxiv.org/pdf/2507.08797v1)|null|
+|**2025-07-11**|**The Effective Field Theory of Large Scale Structure for Mixed Dark Matter Scenarios**|Francesco Verdiani et.al.|[2507.08792v1](http://arxiv.org/abs/2507.08792v1)|[2507.08792v1](http://arxiv.org/pdf/2507.08792v1)|null|
+|**2025-07-11**|**Triggering and quenching in the shadow of AGN: How does AGN proximity affect star formation in the EAGLE simulation?**|Apashanka Das et.al.|[2507.08790v1](http://arxiv.org/abs/2507.08790v1)|[2507.08790v1](http://arxiv.org/pdf/2507.08790v1)|null|
+|**2025-07-11**|**Potential science with GW250114 -- the loudest binary black hole merger detected to date**|Aleyna Akyüz et.al.|[2507.08789v1](http://arxiv.org/abs/2507.08789v1)|[2507.08789v1](http://arxiv.org/pdf/2507.08789v1)|null|
+|**2025-07-11**|**The THESAN-ZOOM project: Mystery N/O more -- uncovering the origin of peculiar chemical abundances and a not-so-fundamental metallicity relation at $3<z<12$**|William McClymont et.al.|[2507.08787v1](http://arxiv.org/abs/2507.08787v1)|[2507.08787v1](http://arxiv.org/pdf/2507.08787v1)|null|
+|**2025-07-11**|**Non-relativistic effective theories for fields with general potentials and their implications for cosmology**|H. S. Modirzadeh et.al.|[2507.08786v1](http://arxiv.org/abs/2507.08786v1)|[2507.08786v1](http://arxiv.org/pdf/2507.08786v1)|null|
+|**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779v1](http://arxiv.org/abs/2507.08779v1)|[2507.08779v1](http://arxiv.org/pdf/2507.08779v1)|null|
+|**2025-07-11**|**Mining the Alerts: A Preliminary Catalog of Compact Binaries from the Fourth Observing Run**|Aleyna Akyüz et.al.|[2507.08778v1](http://arxiv.org/abs/2507.08778v1)|[2507.08778v1](http://arxiv.org/pdf/2507.08778v1)|null|
+|**2025-07-11**|**All-flavor Time-dependent Search for Transient Neutrino Sources**|Jose Carpio et.al.|[2507.08775v1](http://arxiv.org/abs/2507.08775v1)|[2507.08775v1](http://arxiv.org/pdf/2507.08775v1)|null|
 |**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991v1](http://arxiv.org/abs/2507.07991v1)|[2507.07991v1](http://arxiv.org/pdf/2507.07991v1)|null|
 |**2025-07-10**|**Constraints from CMB lensing tomography with projected bispectra**|Lea Harscouet et.al.|[2507.07968v1](http://arxiv.org/abs/2507.07968v1)|[2507.07968v1](http://arxiv.org/pdf/2507.07968v1)|null|
 |**2025-07-10**|**Synthesizing Sun-as-a-star flare spectra from high-resolution solar observations**|M. De Wilde et.al.|[2507.07967v1](http://arxiv.org/abs/2507.07967v1)|[2507.07967v1](http://arxiv.org/pdf/2507.07967v1)|null|
@@ -7513,6 +7523,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801v1](http://arxiv.org/abs/2507.08801v1)|[2507.08801v1](http://arxiv.org/pdf/2507.08801v1)|null|
+|**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800v1](http://arxiv.org/abs/2507.08800v1)|[2507.08800v1](http://arxiv.org/pdf/2507.08800v1)|null|
+|**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799v1](http://arxiv.org/abs/2507.08799v1)|[2507.08799v1](http://arxiv.org/pdf/2507.08799v1)|null|
+|**2025-07-11**|**Optimistic Exploration for Risk-Averse Constrained Reinforcement Learning**|James McCarthy et.al.|[2507.08793v1](http://arxiv.org/abs/2507.08793v1)|[2507.08793v1](http://arxiv.org/pdf/2507.08793v1)|null|
+|**2025-07-11**|**On Barriers to Archival Audio Processing**|Peter Sullivan et.al.|[2507.08768v1](http://arxiv.org/abs/2507.08768v1)|[2507.08768v1](http://arxiv.org/pdf/2507.08768v1)|null|
+|**2025-07-11**|**A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification**|Ahmed Farooq et.al.|[2507.08766v1](http://arxiv.org/abs/2507.08766v1)|[2507.08766v1](http://arxiv.org/pdf/2507.08766v1)|null|
+|**2025-07-11**|**Compress Any Segment Anything Model (SAM)**|Juntong Fan et.al.|[2507.08765v1](http://arxiv.org/abs/2507.08765v1)|[2507.08765v1](http://arxiv.org/pdf/2507.08765v1)|null|
+|**2025-07-11**|**Penalizing Infeasible Actions and Reward Scaling in Reinforcement Learning with Offline Data**|Jeonghye Kim et.al.|[2507.08761v1](http://arxiv.org/abs/2507.08761v1)|[2507.08761v1](http://arxiv.org/pdf/2507.08761v1)|null|
+|**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743v1](http://arxiv.org/abs/2507.08743v1)|[2507.08743v1](http://arxiv.org/pdf/2507.08743v1)|null|
+|**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738v1](http://arxiv.org/abs/2507.08738v1)|[2507.08738v1](http://arxiv.org/pdf/2507.08738v1)|null|
 |**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999v1](http://arxiv.org/abs/2507.07999v1)|[2507.07999v1](http://arxiv.org/pdf/2507.07999v1)|null|
 |**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998v1](http://arxiv.org/abs/2507.07998v1)|[2507.07998v1](http://arxiv.org/pdf/2507.07998v1)|null|
 |**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995v1](http://arxiv.org/abs/2507.07995v1)|[2507.07995v1](http://arxiv.org/pdf/2507.07995v1)|null|
