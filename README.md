@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-15**|**Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements**|J. Siegel et.al.|[2507.11530v1](http://arxiv.org/abs/2507.11530v1)|[2507.11530v1](http://arxiv.org/pdf/2507.11530v1)|null|
+|**2025-07-15**|**Quantum modified inertia: an application to galaxy rotation curves**|Jonathan Gillot et.al.|[2507.11524v1](http://arxiv.org/abs/2507.11524v1)|[2507.11524v1](http://arxiv.org/pdf/2507.11524v1)|null|
+|**2025-07-15**|**Revisiting Cosmic Distance Duality with Megamasers and DESI DR2: Model Independent Constraints on Early-Late Calibration**|Brijesh Kanodia et.al.|[2507.11518v1](http://arxiv.org/abs/2507.11518v1)|[2507.11518v1](http://arxiv.org/pdf/2507.11518v1)|null|
+|**2025-07-15**|**A Transiting Giant on a 7.7-Year Orbit Revealed by TTVs in the TOI-201 System**|Gracjan Maciejewski et.al.|[2507.11504v1](http://arxiv.org/abs/2507.11504v1)|[2507.11504v1](http://arxiv.org/pdf/2507.11504v1)|null|
+|**2025-07-15**|**Low-redshift analogues of cosmic noon galaxies as laboratories for clumpy star formation**|Jorge M. Santos-Junior et.al.|[2507.11492v1](http://arxiv.org/abs/2507.11492v1)|[2507.11492v1](http://arxiv.org/pdf/2507.11492v1)|null|
+|**2025-07-15**|**CRPropa 3.3: Toward a Unified Multi-Messenger Framework from GeV to ZeV Energies**|Sophie Aerdker et.al.|[2507.11475v1](http://arxiv.org/abs/2507.11475v1)|[2507.11475v1](http://arxiv.org/pdf/2507.11475v1)|null|
+|**2025-07-15**|**From Redshift to Real Space: Combining Linear Theory With Neural Networks**|Edoardo Maragliano et.al.|[2507.11462v1](http://arxiv.org/abs/2507.11462v1)|[2507.11462v1](http://arxiv.org/pdf/2507.11462v1)|null|
+|**2025-07-15**|**Identifying galactic binary systems of neutron stars and black holes with LISA**|Hannah Middleton et.al.|[2507.11442v1](http://arxiv.org/abs/2507.11442v1)|[2507.11442v1](http://arxiv.org/pdf/2507.11442v1)|null|
+|**2025-07-15**|**The production of orbitally modulated UHE photons in LS 5039**|V. Bosch-Ramon et.al.|[2507.11438v1](http://arxiv.org/abs/2507.11438v1)|[2507.11438v1](http://arxiv.org/pdf/2507.11438v1)|null|
+|**2025-07-15**|**The Shape of Dark Energy: Constraining Its Evolution with a General Parametrization**|Dong Ha Lee et.al.|[2507.11432v1](http://arxiv.org/abs/2507.11432v1)|[2507.11432v1](http://arxiv.org/pdf/2507.11432v1)|null|
 |**2025-07-14**|**Angular-momentum pairs in spherical systems: applications to the Galactic centre**|Taras Panamarev et.al.|[2507.10551v1](http://arxiv.org/abs/2507.10551v1)|[2507.10551v1](http://arxiv.org/pdf/2507.10551v1)|null|
 |**2025-07-14**|**Investigating Galactic Fountains in M101: Insights from Ionized, UV emissions and Neutral Gas**|Aashiya Anitha Shaji et.al.|[2507.10549v1](http://arxiv.org/abs/2507.10549v1)|[2507.10549v1](http://arxiv.org/pdf/2507.10549v1)|null|
 |**2025-07-14**|**Observational biases on rotation curves from IFU data at cosmic noon**|Amanda E. de Araujo-Carvalho et.al.|[2507.10544v1](http://arxiv.org/abs/2507.10544v1)|[2507.10544v1](http://arxiv.org/pdf/2507.10544v1)|null|
@@ -7533,6 +7543,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539v1](http://arxiv.org/abs/2507.11539v1)|[2507.11539v1](http://arxiv.org/pdf/2507.11539v1)|null|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538v1](http://arxiv.org/abs/2507.11538v1)|[2507.11538v1](http://arxiv.org/pdf/2507.11538v1)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527v1](http://arxiv.org/abs/2507.11527v1)|[2507.11527v1](http://arxiv.org/pdf/2507.11527v1)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515v1](http://arxiv.org/abs/2507.11515v1)|[2507.11515v1](http://arxiv.org/pdf/2507.11515v1)|null|
+|**2025-07-15**|**Recursive Bound-Constrained AdaGrad with Applications to Multilevel and Domain Decomposition Minimization**|Serge Gratton et.al.|[2507.11513v1](http://arxiv.org/abs/2507.11513v1)|[2507.11513v1](http://arxiv.org/pdf/2507.11513v1)|null|
+|**2025-07-15**|**Scaling the memory wall using mixed-precision -- HPG-MxP on an exascale machine**|Aditya Kashi et.al.|[2507.11512v1](http://arxiv.org/abs/2507.11512v1)|[2507.11512v1](http://arxiv.org/pdf/2507.11512v1)|null|
+|**2025-07-15**|**Low-redshift analogues of cosmic noon galaxies as laboratories for clumpy star formation**|Jorge M. Santos-Junior et.al.|[2507.11492v1](http://arxiv.org/abs/2507.11492v1)|[2507.11492v1](http://arxiv.org/pdf/2507.11492v1)|null|
+|**2025-07-15**|**COLIBRI Fuzzy Model: Color Linguistic-Based Representation and Interpretation**|Pakizar Shamoi et.al.|[2507.11488v1](http://arxiv.org/abs/2507.11488v1)|[2507.11488v1](http://arxiv.org/pdf/2507.11488v1)|null|
+|**2025-07-15**|**Illuminating the Three Dogmas of Reinforcement Learning under Evolutionary Light**|Mani Hamidi et.al.|[2507.11482v1](http://arxiv.org/abs/2507.11482v1)|[2507.11482v1](http://arxiv.org/pdf/2507.11482v1)|null|
+|**2025-07-15**|**Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety**|Tomek Korbak et.al.|[2507.11473v1](http://arxiv.org/abs/2507.11473v1)|[2507.11473v1](http://arxiv.org/pdf/2507.11473v1)|null|
 |**2025-07-14**|**Self-supervised Learning on Camera Trap Footage Yields a Strong Universal Face Embedder**|Vladimir Iashin et.al.|[2507.10552v1](http://arxiv.org/abs/2507.10552v1)|[2507.10552v1](http://arxiv.org/pdf/2507.10552v1)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548v1](http://arxiv.org/abs/2507.10548v1)|[2507.10548v1](http://arxiv.org/pdf/2507.10548v1)|null|
 |**2025-07-14**|**Disentangling Neural Disjunctive Normal Form Models**|Kexin Gu Baugh et.al.|[2507.10546v1](http://arxiv.org/abs/2507.10546v1)|[2507.10546v1](http://arxiv.org/pdf/2507.10546v1)|null|
