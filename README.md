@@ -1,10 +1,10 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 
 ## Astrophysics
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
-|**2025-07-15**|**Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements**|J. Siegel et.al.|[2507.11530v1](http://arxiv.org/abs/2507.11530v1)|[2507.11530v1](http://arxiv.org/pdf/2507.11530v1)|null|
+|**2025-07-16**|**Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements**|J. Siegel et.al.|[2507.11530v2](http://arxiv.org/abs/2507.11530v2)|[2507.11530v2](http://arxiv.org/pdf/2507.11530v2)|null|
 |**2025-07-15**|**Quantum modified inertia: an application to galaxy rotation curves**|Jonathan Gillot et.al.|[2507.11524v1](http://arxiv.org/abs/2507.11524v1)|[2507.11524v1](http://arxiv.org/pdf/2507.11524v1)|null|
 |**2025-07-15**|**Revisiting Cosmic Distance Duality with Megamasers and DESI DR2: Model Independent Constraints on Early-Late Calibration**|Brijesh Kanodia et.al.|[2507.11518v1](http://arxiv.org/abs/2507.11518v1)|[2507.11518v1](http://arxiv.org/pdf/2507.11518v1)|null|
 |**2025-07-15**|**A Transiting Giant on a 7.7-Year Orbit Revealed by TTVs in the TOI-201 System**|Gracjan Maciejewski et.al.|[2507.11504v1](http://arxiv.org/abs/2507.11504v1)|[2507.11504v1](http://arxiv.org/pdf/2507.11504v1)|null|
