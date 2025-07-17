@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-16**|**The BAO-CMB Tension and Implications for Inflation**|Elisa G. M. Ferreira et.al.|[2507.12459v1](http://arxiv.org/abs/2507.12459v1)|[2507.12459v1](http://arxiv.org/pdf/2507.12459v1)|null|
+|**2025-07-16**|**On the Fast-radio-burst-associated X-ray Bursts: Inverse Compton Scattering of Radio Photons by an Extreme Pair Flow During Magnetosphere Activities**|Yue Wu et.al.|[2507.12405v1](http://arxiv.org/abs/2507.12405v1)|[2507.12405v1](http://arxiv.org/pdf/2507.12405v1)|null|
+|**2025-07-16**|**Cosmological neutrino mass: a frequentist overview in light of DESI**|D. Chebat et.al.|[2507.12401v1](http://arxiv.org/abs/2507.12401v1)|[2507.12401v1](http://arxiv.org/pdf/2507.12401v1)|null|
+|**2025-07-16**|**Do Cosmic String Segments Emit Gravitational Waves?**|Akifumi Chitose et.al.|[2507.12386v1](http://arxiv.org/abs/2507.12386v1)|[2507.12386v1](http://arxiv.org/pdf/2507.12386v1)|null|
+|**2025-07-16**|**All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run**|LIGO Scientific Collaboration et.al.|[2507.12374v1](http://arxiv.org/abs/2507.12374v1)|[2507.12374v1](http://arxiv.org/pdf/2507.12374v1)|null|
+|**2025-07-16**|**Using deep learning to characterize single-exposure double-line spectroscopic binaries**|Avraham Binnenfeld et.al.|[2507.12363v1](http://arxiv.org/abs/2507.12363v1)|[2507.12363v1](http://arxiv.org/pdf/2507.12363v1)|null|
+|**2025-07-16**|**The impact of the transport of chemicals and electronic screening on helioseismic and neutrino observations in solar models**|Morgan Deal et.al.|[2507.12335v1](http://arxiv.org/abs/2507.12335v1)|[2507.12335v1](http://arxiv.org/pdf/2507.12335v1)|null|
+|**2025-07-16**|**Search for Quantum Decoherence with 10.7 years of atmospheric $ν_μ$ events in IceCube**|Tanvi Krishnan et.al.|[2507.12316v1](http://arxiv.org/abs/2507.12316v1)|[2507.12316v1](http://arxiv.org/pdf/2507.12316v1)|null|
+|**2025-07-16**|**First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**|Jessica A. Cowell et.al.|[2507.12315v1](http://arxiv.org/abs/2507.12315v1)|[2507.12315v1](http://arxiv.org/pdf/2507.12315v1)|null|
+|**2025-07-16**|**All-sky search for long-duration gravitational-wave transients in the first part of the fourth LIGO-Virgo-KAGRA Observing run**|The LIGO Scientific Collaboration et.al.|[2507.12282v1](http://arxiv.org/abs/2507.12282v1)|[2507.12282v1](http://arxiv.org/pdf/2507.12282v1)|null|
 |**2025-07-16**|**Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements**|J. Siegel et.al.|[2507.11530v2](http://arxiv.org/abs/2507.11530v2)|[2507.11530v2](http://arxiv.org/pdf/2507.11530v2)|null|
 |**2025-07-15**|**Quantum modified inertia: an application to galaxy rotation curves**|Jonathan Gillot et.al.|[2507.11524v1](http://arxiv.org/abs/2507.11524v1)|[2507.11524v1](http://arxiv.org/pdf/2507.11524v1)|null|
 |**2025-07-15**|**Revisiting Cosmic Distance Duality with Megamasers and DESI DR2: Model Independent Constraints on Early-Late Calibration**|Brijesh Kanodia et.al.|[2507.11518v1](http://arxiv.org/abs/2507.11518v1)|[2507.11518v1](http://arxiv.org/pdf/2507.11518v1)|null|
@@ -7543,6 +7553,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461v1](http://arxiv.org/abs/2507.12461v1)|[2507.12461v1](http://arxiv.org/pdf/2507.12461v1)|null|
+|**2025-07-16**|**S2WTM: Spherical Sliced-Wasserstein Autoencoder for Topic Modeling**|Suman Adhya et.al.|[2507.12451v1](http://arxiv.org/abs/2507.12451v1)|[2507.12451v1](http://arxiv.org/pdf/2507.12451v1)|null|
+|**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443v1](http://arxiv.org/abs/2507.12443v1)|[2507.12443v1](http://arxiv.org/pdf/2507.12443v1)|null|
+|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442v1](http://arxiv.org/abs/2507.12442v1)|[2507.12442v1](http://arxiv.org/pdf/2507.12442v1)|null|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v1](http://arxiv.org/abs/2507.12440v1)|[2507.12440v1](http://arxiv.org/pdf/2507.12440v1)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428v1](http://arxiv.org/abs/2507.12428v1)|[2507.12428v1](http://arxiv.org/pdf/2507.12428v1)|null|
+|**2025-07-16**|**Unit-Based Histopathology Tissue Segmentation via Multi-Level Feature Representation**|Ashkan Shakarami et.al.|[2507.12427v1](http://arxiv.org/abs/2507.12427v1)|[2507.12427v1](http://arxiv.org/pdf/2507.12427v1)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425v1](http://arxiv.org/abs/2507.12425v1)|[2507.12425v1](http://arxiv.org/pdf/2507.12425v1)|null|
+|**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419v1](http://arxiv.org/abs/2507.12419v1)|[2507.12419v1](http://arxiv.org/pdf/2507.12419v1)|null|
+|**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416v1](http://arxiv.org/abs/2507.12416v1)|[2507.12416v1](http://arxiv.org/pdf/2507.12416v1)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539v1](http://arxiv.org/abs/2507.11539v1)|[2507.11539v1](http://arxiv.org/pdf/2507.11539v1)|null|
 |**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538v1](http://arxiv.org/abs/2507.11538v1)|[2507.11538v1](http://arxiv.org/pdf/2507.11538v1)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527v1](http://arxiv.org/abs/2507.11527v1)|[2507.11527v1](http://arxiv.org/pdf/2507.11527v1)|null|
