@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-17**|**The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**|Adam Smercina et.al.|[2507.13349v1](http://arxiv.org/abs/2507.13349v1)|[2507.13349v1](http://arxiv.org/pdf/2507.13349v1)|null|
+|**2025-07-17**|**$\texttt{raccoon}$: A Python package for removing wiggle artifacts in the JWST NIRSpec integral field spectroscopy**|Anowar J. Shajib et.al.|[2507.13341v1](http://arxiv.org/abs/2507.13341v1)|[2507.13341v1](http://arxiv.org/pdf/2507.13341v1)|null|
+|**2025-07-17**|**Where is the Supervirial Gas? III. Insights from X-ray Shadow Observations and a revised Model for the Soft Diffuse X-ray Background**|Anjali Gupta et.al.|[2507.13331v1](http://arxiv.org/abs/2507.13331v1)|[2507.13331v1](http://arxiv.org/pdf/2507.13331v1)|null|
+|**2025-07-17**|**Testing halo models for constraining astrophysical feedback with multi-probe modeling: I. 3D Power spectra and mass fractions**|Pranjal R. S. et.al.|[2507.13317v1](http://arxiv.org/abs/2507.13317v1)|[2507.13317v1](http://arxiv.org/pdf/2507.13317v1)|null|
+|**2025-07-17**|**The pulsar wind nebula around B1853+01 in X-rays**|Xiying Zhang et.al.|[2507.13278v1](http://arxiv.org/abs/2507.13278v1)|[2507.13278v1](http://arxiv.org/pdf/2507.13278v1)|null|
+|**2025-07-17**|**Decay and lifetime of oscillons coupled to an external scalar field: Insights from instability band analysis**|Siyao Li et.al.|[2507.13276v1](http://arxiv.org/abs/2507.13276v1)|[2507.13276v1](http://arxiv.org/pdf/2507.13276v1)|null|
+|**2025-07-17**|**A Torus Remnant Revealed by the Infrared Echo of TDE AT2019qiz: Implications for the Missing Energy and QPE Formation**|Mingxin Wu et.al.|[2507.13251v1](http://arxiv.org/abs/2507.13251v1)|[2507.13251v1](http://arxiv.org/pdf/2507.13251v1)|null|
+|**2025-07-17**|**Comparing astrophysical models to gravitational-wave data in the observable space**|Alexandre Toubiana et.al.|[2507.13249v1](http://arxiv.org/abs/2507.13249v1)|[2507.13249v1](http://arxiv.org/pdf/2507.13249v1)|null|
+|**2025-07-17**|**Detection of low-luminosity X-ray pulsations from the accreting millisecond pulsar IGR J17511-3057: an ever-thinning thread between bright accretion and sub-luminous states**|Giulia Illiano et.al.|[2507.13248v1](http://arxiv.org/abs/2507.13248v1)|[2507.13248v1](http://arxiv.org/pdf/2507.13248v1)|null|
+|**2025-07-17**|**Unraveling the Feedback-Regulated Star Formation Activities around the Expanding Galactic MIR Bubble [HKS2019] E71**|Aayushi Verma et.al.|[2507.13232v1](http://arxiv.org/abs/2507.13232v1)|[2507.13232v1](http://arxiv.org/pdf/2507.13232v1)|null|
 |**2025-07-16**|**The BAO-CMB Tension and Implications for Inflation**|Elisa G. M. Ferreira et.al.|[2507.12459v1](http://arxiv.org/abs/2507.12459v1)|[2507.12459v1](http://arxiv.org/pdf/2507.12459v1)|null|
 |**2025-07-16**|**On the Fast-radio-burst-associated X-ray Bursts: Inverse Compton Scattering of Radio Photons by an Extreme Pair Flow During Magnetosphere Activities**|Yue Wu et.al.|[2507.12405v1](http://arxiv.org/abs/2507.12405v1)|[2507.12405v1](http://arxiv.org/pdf/2507.12405v1)|null|
 |**2025-07-16**|**Cosmological neutrino mass: a frequentist overview in light of DESI**|D. Chebat et.al.|[2507.12401v1](http://arxiv.org/abs/2507.12401v1)|[2507.12401v1](http://arxiv.org/pdf/2507.12401v1)|null|
@@ -7557,6 +7567,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353v1](http://arxiv.org/abs/2507.13353v1)|[2507.13353v1](http://arxiv.org/pdf/2507.13353v1)|null|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348v1](http://arxiv.org/abs/2507.13348v1)|[2507.13348v1](http://arxiv.org/pdf/2507.13348v1)|null|
+|**2025-07-17**|**Imbalance in Balance: Online Concept Balancing in Generation Models**|Yukai Shi et.al.|[2507.13345v1](http://arxiv.org/abs/2507.13345v1)|[2507.13345v1](http://arxiv.org/pdf/2507.13345v1)|null|
+|**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Yiqi Wang et.al.|[2507.13340v1](http://arxiv.org/abs/2507.13340v1)|[2507.13340v1](http://arxiv.org/pdf/2507.13340v1)|null|
+|**2025-07-17**|**FormulaOne: Measuring the Depth of Algorithmic Reasoning Beyond Competitive Programming**|Gal Beniamini et.al.|[2507.13337v1](http://arxiv.org/abs/2507.13337v1)|[2507.13337v1](http://arxiv.org/pdf/2507.13337v1)|null|
+|**2025-07-17**|**Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It**|Yulu Qin et.al.|[2507.13328v1](http://arxiv.org/abs/2507.13328v1)|[2507.13328v1](http://arxiv.org/pdf/2507.13328v1)|null|
+|**2025-07-17**|**Artificial Intelligence for Quantum Matter: Finding a Needle in a Haystack**|Khachatur Nazaryan et.al.|[2507.13322v1](http://arxiv.org/abs/2507.13322v1)|[2507.13322v1](http://arxiv.org/pdf/2507.13322v1)|null|
+|**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314v1](http://arxiv.org/abs/2507.13314v1)|[2507.13314v1](http://arxiv.org/pdf/2507.13314v1)|null|
+|**2025-07-17**|**Boosting Team Modeling through Tempo-Relational Representation Learning**|Vincenzo Marco De Luca et.al.|[2507.13305v1](http://arxiv.org/abs/2507.13305v1)|[2507.13305v1](http://arxiv.org/pdf/2507.13305v1)|null|
+|**2025-07-17**|**The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations**|Carlos Arriaga et.al.|[2507.13302v1](http://arxiv.org/abs/2507.13302v1)|[2507.13302v1](http://arxiv.org/pdf/2507.13302v1)|null|
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461v1](http://arxiv.org/abs/2507.12461v1)|[2507.12461v1](http://arxiv.org/pdf/2507.12461v1)|null|
 |**2025-07-16**|**S2WTM: Spherical Sliced-Wasserstein Autoencoder for Topic Modeling**|Suman Adhya et.al.|[2507.12451v1](http://arxiv.org/abs/2507.12451v1)|[2507.12451v1](http://arxiv.org/pdf/2507.12451v1)|null|
 |**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443v1](http://arxiv.org/abs/2507.12443v1)|[2507.12443v1](http://arxiv.org/pdf/2507.12443v1)|null|
