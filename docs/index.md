@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-18**|**Missing baryons recovered: a measurement of the gas fraction in galaxies and groups with the kinematic Sunyaev-Zel'dovich effect and CMB lensing**|Boryana Hadzhiyska et.al.|[2507.14136v1](http://arxiv.org/abs/2507.14136v1)|[2507.14136v1](http://arxiv.org/pdf/2507.14136v1)|null|
+|**2025-07-18**|**The Extended Atlas of Low-resolution Spectra from the Infrared Astronomical Satellite**|G. C. Sloan et.al.|[2507.14134v1](http://arxiv.org/abs/2507.14134v1)|[2507.14134v1](http://arxiv.org/pdf/2507.14134v1)|null|
+|**2025-07-18**|**NGC 663 as a laboratory for massive star evolution**|Amparo Marco et.al.|[2507.14125v1](http://arxiv.org/abs/2507.14125v1)|[2507.14125v1](http://arxiv.org/pdf/2507.14125v1)|null|
+|**2025-07-18**|**The DBL Survey II: towards a mass-period distribution of double white dwarf binaries**|James Munday et.al.|[2507.14123v1](http://arxiv.org/abs/2507.14123v1)|[2507.14123v1](http://arxiv.org/pdf/2507.14123v1)|null|
+|**2025-07-18**|**A spherical hydrodynamical model of cosmic voids in ΛCDM and beyond**|Tommaso Moretti et.al.|[2507.14120v1](http://arxiv.org/abs/2507.14120v1)|[2507.14120v1](http://arxiv.org/pdf/2507.14120v1)|null|
+|**2025-07-18**|**ChemZz I: Comparing Oxygen and Iron Abundance Patterns in the Milky Way, the Local Group and Cosmic Noon**|Stephanie Monty et.al.|[2507.14094v1](http://arxiv.org/abs/2507.14094v1)|[2507.14094v1](http://arxiv.org/pdf/2507.14094v1)|null|
+|**2025-07-18**|**Semi-supervised classification of Stars, Galaxies and Quasars using K-means and Random Forest**|Vahid Asadi et.al.|[2507.14072v1](http://arxiv.org/abs/2507.14072v1)|[2507.14072v1](http://arxiv.org/pdf/2507.14072v1)|null|
+|**2025-07-18**|**Direct Measurement of the Accretion Disk Formed in Prompt Collapse Mergers with Future Gravitational-Wave Observatories**|Arnab Dhani et.al.|[2507.14071v1](http://arxiv.org/abs/2507.14071v1)|[2507.14071v1](http://arxiv.org/pdf/2507.14071v1)|null|
+|**2025-07-18**|**Two dynamical scenarios for the binned Master sample interpretation**|Giovanni Montani et.al.|[2507.14048v1](http://arxiv.org/abs/2507.14048v1)|[2507.14048v1](http://arxiv.org/pdf/2507.14048v1)|null|
+|**2025-07-18**|**Extreme value distribution for GRB prompt data -- How unexpected was the BOAT event?**|Stefano Covino et.al.|[2507.14041v1](http://arxiv.org/abs/2507.14041v1)|[2507.14041v1](http://arxiv.org/pdf/2507.14041v1)|null|
 |**2025-07-17**|**The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**|Adam Smercina et.al.|[2507.13349v1](http://arxiv.org/abs/2507.13349v1)|[2507.13349v1](http://arxiv.org/pdf/2507.13349v1)|null|
 |**2025-07-17**|**$\texttt{raccoon}$: A Python package for removing wiggle artifacts in the JWST NIRSpec integral field spectroscopy**|Anowar J. Shajib et.al.|[2507.13341v1](http://arxiv.org/abs/2507.13341v1)|[2507.13341v1](http://arxiv.org/pdf/2507.13341v1)|null|
 |**2025-07-17**|**Where is the Supervirial Gas? III. Insights from X-ray Shadow Observations and a revised Model for the Soft Diffuse X-ray Background**|Anjali Gupta et.al.|[2507.13331v1](http://arxiv.org/abs/2507.13331v1)|[2507.13331v1](http://arxiv.org/pdf/2507.13331v1)|null|
@@ -7567,6 +7577,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126v1](http://arxiv.org/abs/2507.14126v1)|[2507.14126v1](http://arxiv.org/pdf/2507.14126v1)|null|
+|**2025-07-18**|**Kolmogorov Arnold Networks (KANs) for Imbalanced Data -- An Empirical Perspective**|Pankaj Yadav et.al.|[2507.14121v1](http://arxiv.org/abs/2507.14121v1)|[2507.14121v1](http://arxiv.org/pdf/2507.14121v1)|null|
+|**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119v1](http://arxiv.org/abs/2507.14119v1)|[2507.14119v1](http://arxiv.org/pdf/2507.14119v1)|null|
+|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111v1](http://arxiv.org/abs/2507.14111v1)|[2507.14111v1](http://arxiv.org/pdf/2507.14111v1)|null|
+|**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107v1](http://arxiv.org/abs/2507.14107v1)|[2507.14107v1](http://arxiv.org/pdf/2507.14107v1)|null|
+|**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097v1](http://arxiv.org/abs/2507.14097v1)|[2507.14097v1](http://arxiv.org/pdf/2507.14097v1)|null|
+|**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096v1](http://arxiv.org/abs/2507.14096v1)|[2507.14096v1](http://arxiv.org/pdf/2507.14096v1)|null|
+|**2025-07-18**|**Multi-Centre Validation of a Deep Learning Model for Scoliosis Assessment**|Šimon Kubov et.al.|[2507.14093v1](http://arxiv.org/abs/2507.14093v1)|[2507.14093v1](http://arxiv.org/pdf/2507.14093v1)|null|
+|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088v1](http://arxiv.org/abs/2507.14088v1)|[2507.14088v1](http://arxiv.org/pdf/2507.14088v1)|null|
+|**2025-07-18**|**The Emotion-Memory Link: Do Memorability Annotations Matter for Intelligent Systems?**|Maria Tsfasman et.al.|[2507.14084v1](http://arxiv.org/abs/2507.14084v1)|[2507.14084v1](http://arxiv.org/pdf/2507.14084v1)|null|
 |**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353v1](http://arxiv.org/abs/2507.13353v1)|[2507.13353v1](http://arxiv.org/pdf/2507.13353v1)|null|
 |**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348v1](http://arxiv.org/abs/2507.13348v1)|[2507.13348v1](http://arxiv.org/pdf/2507.13348v1)|null|
 |**2025-07-17**|**Imbalance in Balance: Online Concept Balancing in Generation Models**|Yukai Shi et.al.|[2507.13345v1](http://arxiv.org/abs/2507.13345v1)|[2507.13345v1](http://arxiv.org/pdf/2507.13345v1)|null|
