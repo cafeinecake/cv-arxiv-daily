@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 
 ## Astrophysics
 
@@ -10,7 +10,7 @@
 |**2025-07-17**|**Testing halo models for constraining astrophysical feedback with multi-probe modeling: I. 3D Power spectra and mass fractions**|Pranjal R. S. et.al.|[2507.13317v1](http://arxiv.org/abs/2507.13317v1)|[2507.13317v1](http://arxiv.org/pdf/2507.13317v1)|null|
 |**2025-07-17**|**The pulsar wind nebula around B1853+01 in X-rays**|Xiying Zhang et.al.|[2507.13278v1](http://arxiv.org/abs/2507.13278v1)|[2507.13278v1](http://arxiv.org/pdf/2507.13278v1)|null|
 |**2025-07-17**|**Decay and lifetime of oscillons coupled to an external scalar field: Insights from instability band analysis**|Siyao Li et.al.|[2507.13276v1](http://arxiv.org/abs/2507.13276v1)|[2507.13276v1](http://arxiv.org/pdf/2507.13276v1)|null|
-|**2025-07-17**|**A Torus Remnant Revealed by the Infrared Echo of TDE AT2019qiz: Implications for the Missing Energy and QPE Formation**|Mingxin Wu et.al.|[2507.13251v1](http://arxiv.org/abs/2507.13251v1)|[2507.13251v1](http://arxiv.org/pdf/2507.13251v1)|null|
+|**2025-07-18**|**A Torus Remnant Revealed by the Infrared Echo of TDE AT2019qiz: Implications for the Missing Energy and QPE Formation**|Mingxin Wu et.al.|[2507.13251v2](http://arxiv.org/abs/2507.13251v2)|[2507.13251v2](http://arxiv.org/pdf/2507.13251v2)|null|
 |**2025-07-17**|**Comparing astrophysical models to gravitational-wave data in the observable space**|Alexandre Toubiana et.al.|[2507.13249v1](http://arxiv.org/abs/2507.13249v1)|[2507.13249v1](http://arxiv.org/pdf/2507.13249v1)|null|
 |**2025-07-17**|**Detection of low-luminosity X-ray pulsations from the accreting millisecond pulsar IGR J17511-3057: an ever-thinning thread between bright accretion and sub-luminous states**|Giulia Illiano et.al.|[2507.13248v1](http://arxiv.org/abs/2507.13248v1)|[2507.13248v1](http://arxiv.org/pdf/2507.13248v1)|null|
 |**2025-07-17**|**Unraveling the Feedback-Regulated Star Formation Activities around the Expanding Galactic MIR Bubble [HKS2019] E71**|Aayushi Verma et.al.|[2507.13232v1](http://arxiv.org/abs/2507.13232v1)|[2507.13232v1](http://arxiv.org/pdf/2507.13232v1)|null|
