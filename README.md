@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-21**|**Simulating the LOcal Web (SLOW) V. Thermodynamic Properties and Evolution of Local Galaxy Clusters**|Elena Hernández-Martínez et.al.|[2507.15858v1](http://arxiv.org/abs/2507.15858v1)|[2507.15858v1](http://arxiv.org/pdf/2507.15858v1)|null|
+|**2025-07-21**|**Overcast mornings and clear evenings in hot Jupiter exoplanet atmospheres**|Guangwei Fu et.al.|[2507.15854v1](http://arxiv.org/abs/2507.15854v1)|[2507.15854v1](http://arxiv.org/pdf/2507.15854v1)|null|
+|**2025-07-21**|**TASI/CERN/KITP Lecture Notes on "Toward Quantum Computing Gauge Theories of Nature"**|Zohreh Davoudi et.al.|[2507.15840v1](http://arxiv.org/abs/2507.15840v1)|[2507.15840v1](http://arxiv.org/pdf/2507.15840v1)|null|
+|**2025-07-21**|**SDSO1 is a Ghost Planetary Nebula Bow Shock in Front of M31**|Patrick Ogle et.al.|[2507.15834v1](http://arxiv.org/abs/2507.15834v1)|[2507.15834v1](http://arxiv.org/pdf/2507.15834v1)|null|
+|**2025-07-21**|**AutoWISP: Automated Processing of Wide-Field Color Images**|Angel E. Romero et.al.|[2507.15830v1](http://arxiv.org/abs/2507.15830v1)|[2507.15830v1](http://arxiv.org/pdf/2507.15830v1)|null|
+|**2025-07-21**|**Astrotourism for Development: An Overview of Resources from the IAU Office of Astronomy for Development**|Joyful E. Mdhluli et.al.|[2507.15827v1](http://arxiv.org/abs/2507.15827v1)|[2507.15827v1](http://arxiv.org/pdf/2507.15827v1)|null|
+|**2025-07-21**|**Euclid preparation: Expected constraints on initial conditions**|Euclid Collaboration et.al.|[2507.15819v1](http://arxiv.org/abs/2507.15819v1)|[2507.15819v1](http://arxiv.org/pdf/2507.15819v1)|null|
+|**2025-07-21**|**1D Vlasov Simulations of QED Cascades Over Pulsar Polar Caps**|Dingyi Ye et.al.|[2507.15804v1](http://arxiv.org/abs/2507.15804v1)|[2507.15804v1](http://arxiv.org/pdf/2507.15804v1)|null|
+|**2025-07-21**|**Chasing the formation history of the Galactic metal-poor disc**|Xiaokun Hou et.al.|[2507.15794v1](http://arxiv.org/abs/2507.15794v1)|[2507.15794v1](http://arxiv.org/pdf/2507.15794v1)|null|
+|**2025-07-21**|**\texttt{GWBird}: a toolkit for the characterization of the Stochastic Gravitational Wave Background for Ground, Space, and Pulsar Timing Array detectors**|Ilaria Caporali et.al.|[2507.15791v1](http://arxiv.org/abs/2507.15791v1)|[2507.15791v1](http://arxiv.org/pdf/2507.15791v1)|null|
 |**2025-07-18**|**Missing baryons recovered: a measurement of the gas fraction in galaxies and groups with the kinematic Sunyaev-Zel'dovich effect and CMB lensing**|Boryana Hadzhiyska et.al.|[2507.14136v1](http://arxiv.org/abs/2507.14136v1)|[2507.14136v1](http://arxiv.org/pdf/2507.14136v1)|null|
 |**2025-07-18**|**The Extended Atlas of Low-resolution Spectra from the Infrared Astronomical Satellite**|G. C. Sloan et.al.|[2507.14134v1](http://arxiv.org/abs/2507.14134v1)|[2507.14134v1](http://arxiv.org/pdf/2507.14134v1)|null|
 |**2025-07-18**|**NGC 663 as a laboratory for massive star evolution**|Amparo Marco et.al.|[2507.14125v1](http://arxiv.org/abs/2507.14125v1)|[2507.14125v1](http://arxiv.org/pdf/2507.14125v1)|null|
@@ -7573,6 +7583,16 @@
 
 |Publish Date|Title|Authors|Abstract|PDF|Code|
 |---|---|---|---|---|---|
+|**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857v1](http://arxiv.org/abs/2507.15857v1)|[2507.15857v1](http://arxiv.org/pdf/2507.15857v1)|null|
+|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855v1](http://arxiv.org/abs/2507.15855v1)|[2507.15855v1](http://arxiv.org/pdf/2507.15855v1)|null|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852v1](http://arxiv.org/abs/2507.15852v1)|[2507.15852v1](http://arxiv.org/pdf/2507.15852v1)|null|
+|**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851v1](http://arxiv.org/abs/2507.15851v1)|[2507.15851v1](http://arxiv.org/pdf/2507.15851v1)|null|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849v1](http://arxiv.org/abs/2507.15849v1)|[2507.15849v1](http://arxiv.org/pdf/2507.15849v1)|null|
+|**2025-07-21**|**GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846v1](http://arxiv.org/abs/2507.15846v1)|[2507.15846v1](http://arxiv.org/pdf/2507.15846v1)|null|
+|**2025-07-21**|**Hierarchical Budget Policy Optimization for Adaptive Reasoning**|Shangke Lyu et.al.|[2507.15844v1](http://arxiv.org/abs/2507.15844v1)|[2507.15844v1](http://arxiv.org/pdf/2507.15844v1)|null|
+|**2025-07-21**|**Identifying Conditional Causal Effects in MPDAGs**|Sara LaPlante et.al.|[2507.15842v1](http://arxiv.org/abs/2507.15842v1)|[2507.15842v1](http://arxiv.org/pdf/2507.15842v1)|null|
+|**2025-07-21**|**FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs**|Anh Nguyen et.al.|[2507.15839v1](http://arxiv.org/abs/2507.15839v1)|[2507.15839v1](http://arxiv.org/pdf/2507.15839v1)|null|
+|**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Ian Chuang et.al.|[2507.15833v1](http://arxiv.org/abs/2507.15833v1)|[2507.15833v1](http://arxiv.org/pdf/2507.15833v1)|null|
 |**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126v1](http://arxiv.org/abs/2507.14126v1)|[2507.14126v1](http://arxiv.org/pdf/2507.14126v1)|null|
 |**2025-07-18**|**Kolmogorov Arnold Networks (KANs) for Imbalanced Data -- An Empirical Perspective**|Pankaj Yadav et.al.|[2507.14121v1](http://arxiv.org/abs/2507.14121v1)|[2507.14121v1](http://arxiv.org/pdf/2507.14121v1)|null|
 |**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119v1](http://arxiv.org/abs/2507.14119v1)|[2507.14119v1](http://arxiv.org/pdf/2507.14119v1)|null|
