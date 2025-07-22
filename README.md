@@ -1,4 +1,4 @@
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 
 ## Astrophysics
 
@@ -7576,7 +7576,7 @@
 |**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126v1](http://arxiv.org/abs/2507.14126v1)|[2507.14126v1](http://arxiv.org/pdf/2507.14126v1)|null|
 |**2025-07-18**|**Kolmogorov Arnold Networks (KANs) for Imbalanced Data -- An Empirical Perspective**|Pankaj Yadav et.al.|[2507.14121v1](http://arxiv.org/abs/2507.14121v1)|[2507.14121v1](http://arxiv.org/pdf/2507.14121v1)|null|
 |**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119v1](http://arxiv.org/abs/2507.14119v1)|[2507.14119v1](http://arxiv.org/pdf/2507.14119v1)|null|
-|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111v1](http://arxiv.org/abs/2507.14111v1)|[2507.14111v1](http://arxiv.org/pdf/2507.14111v1)|null|
+|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111v2](http://arxiv.org/abs/2507.14111v2)|[2507.14111v2](http://arxiv.org/pdf/2507.14111v2)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107v1](http://arxiv.org/abs/2507.14107v1)|[2507.14107v1](http://arxiv.org/pdf/2507.14107v1)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097v1](http://arxiv.org/abs/2507.14097v1)|[2507.14097v1](http://arxiv.org/pdf/2507.14097v1)|null|
 |**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096v1](http://arxiv.org/abs/2507.14096v1)|[2507.14096v1](http://arxiv.org/pdf/2507.14096v1)|null|
