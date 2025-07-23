@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817v1](http://arxiv.org/abs/2507.16817v1)|[2507.16817v1](http://arxiv.org/pdf/2507.16817v1)|null|
+|**2025-07-22**|**Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**|Calvin Leung et.al.|[2507.16816v1](http://arxiv.org/abs/2507.16816v1)|[2507.16816v1](http://arxiv.org/pdf/2507.16816v1)|null|
+|**2025-07-22**|**Primordial black holes with anisotropic hair**|Chong-Bin Chen et.al.|[2507.16807v1](http://arxiv.org/abs/2507.16807v1)|[2507.16807v1](http://arxiv.org/pdf/2507.16807v1)|null|
+|**2025-07-22**|**Silicate mineralogy and bulk composition of exoplanetary material in polluted white dwarfs**|Laura K. Rogers et.al.|[2507.16777v1](http://arxiv.org/abs/2507.16777v1)|[2507.16777v1](http://arxiv.org/pdf/2507.16777v1)|null|
+|**2025-07-22**|**The SOFIA Massive (SOMA) Radio Survey. II. Radio Emission from High-Luminosity Protostars**|Francisco Sequeira-Murillo et.al.|[2507.16775v1](http://arxiv.org/abs/2507.16775v1)|[2507.16775v1](http://arxiv.org/pdf/2507.16775v1)|null|
+|**2025-07-22**|**Discovery of SiC and Iron Dust Around AGB Stars in the very Metal-Poor Sextans A Dwarf Galaxy with JWST: Implications for Dust Production at High Redshift**|M. L. Boyer et.al.|[2507.16766v1](http://arxiv.org/abs/2507.16766v1)|[2507.16766v1](http://arxiv.org/pdf/2507.16766v1)|null|
+|**2025-07-22**|**A double-degenerate scenario with a merger to explosion delay time to explain type Ia supernova SN 2020aeuh**|Noam Soker et.al.|[2507.16757v1](http://arxiv.org/abs/2507.16757v1)|[2507.16757v1](http://arxiv.org/pdf/2507.16757v1)|null|
+|**2025-07-22**|**Artifacts in Halo Shapes: Imprints of the Initial Condition**|Yu Yu et.al.|[2507.16745v1](http://arxiv.org/abs/2507.16745v1)|[2507.16745v1](http://arxiv.org/pdf/2507.16745v1)|null|
+|**2025-07-22**|**Considering contact forces during the formation of planetesimals by gravitational collapse: mutual orbits, spin states, and shapes**|Jackson T. Barnes et.al.|[2507.16739v1](http://arxiv.org/abs/2507.16739v1)|[2507.16739v1](http://arxiv.org/pdf/2507.16739v1)|null|
+|**2025-07-22**|**Weinberg's theorem, phantom crossing and screening**|Philippe Brax et.al.|[2507.16723v1](http://arxiv.org/abs/2507.16723v1)|[2507.16723v1](http://arxiv.org/pdf/2507.16723v1)|null|
 |**2025-07-21**|**Simulating the LOcal Web (SLOW) V. Thermodynamic Properties and Evolution of Local Galaxy Clusters**|Elena Hernández-Martínez et.al.|[2507.15858v1](http://arxiv.org/abs/2507.15858v1)|[2507.15858v1](http://arxiv.org/pdf/2507.15858v1)|null|
 |**2025-07-21**|**Overcast mornings and clear evenings in hot Jupiter exoplanet atmospheres**|Guangwei Fu et.al.|[2507.15854v1](http://arxiv.org/abs/2507.15854v1)|[2507.15854v1](http://arxiv.org/pdf/2507.15854v1)|null|
 |**2025-07-21**|**TASI/CERN/KITP Lecture Notes on "Toward Quantum Computing Gauge Theories of Nature"**|Zohreh Davoudi et.al.|[2507.15840v1](http://arxiv.org/abs/2507.15840v1)|[2507.15840v1](http://arxiv.org/pdf/2507.15840v1)|null|
@@ -7587,6 +7597,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815v1](http://arxiv.org/abs/2507.16815v1)|[2507.16815v1](http://arxiv.org/pdf/2507.16815v1)|null|
+|**2025-07-22**|**MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning**|Run-Ze Fan et.al.|[2507.16812v1](http://arxiv.org/abs/2507.16812v1)|[2507.16812v1](http://arxiv.org/pdf/2507.16812v1)|null|
+|**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808v1](http://arxiv.org/abs/2507.16808v1)|[2507.16808v1](http://arxiv.org/pdf/2507.16808v1)|null|
+|**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806v1](http://arxiv.org/abs/2507.16806v1)|[2507.16806v1](http://arxiv.org/pdf/2507.16806v1)|null|
+|**2025-07-22**|**Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models**|Yuxi Lin et.al.|[2507.16801v1](http://arxiv.org/abs/2507.16801v1)|[2507.16801v1](http://arxiv.org/pdf/2507.16801v1)|null|
+|**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796v1](http://arxiv.org/abs/2507.16796v1)|[2507.16796v1](http://arxiv.org/pdf/2507.16796v1)|null|
+|**2025-07-22**|**Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning**|Helena Casademunt et.al.|[2507.16795v1](http://arxiv.org/abs/2507.16795v1)|[2507.16795v1](http://arxiv.org/pdf/2507.16795v1)|null|
+|**2025-07-22**|**ChatChecker: A Framework for Dialogue System Testing and Evaluation Through Non-cooperative User Simulation**|Roman Mayr et.al.|[2507.16792v1](http://arxiv.org/abs/2507.16792v1)|[2507.16792v1](http://arxiv.org/pdf/2507.16792v1)|null|
+|**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Imran Latif et.al.|[2507.16781v1](http://arxiv.org/abs/2507.16781v1)|[2507.16781v1](http://arxiv.org/pdf/2507.16781v1)|null|
+|**2025-07-22**|**WGRAMMAR: Leverage Prior Knowledge to Accelerate Structured Decoding**|Ran Wang et.al.|[2507.16768v1](http://arxiv.org/abs/2507.16768v1)|[2507.16768v1](http://arxiv.org/pdf/2507.16768v1)|null|
 |**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857v1](http://arxiv.org/abs/2507.15857v1)|[2507.15857v1](http://arxiv.org/pdf/2507.15857v1)|null|
 |**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855v2](http://arxiv.org/abs/2507.15855v2)|[2507.15855v2](http://arxiv.org/pdf/2507.15855v2)|null|
 |**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852v2](http://arxiv.org/abs/2507.15852v2)|[2507.15852v2](http://arxiv.org/pdf/2507.15852v2)|null|
