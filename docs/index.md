@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-23**|**Direct correlation of line intensity mapping and CMB lensing from lightcone evolution**|Delon Shen et.al.|[2507.17752v1](http://arxiv.org/abs/2507.17752v1)|[2507.17752v1](http://arxiv.org/pdf/2507.17752v1)|null|
+|**2025-07-23**|**A first measurement of baryonic feedback with Fast Radio Bursts**|Robert Reischke et.al.|[2507.17742v1](http://arxiv.org/abs/2507.17742v1)|[2507.17742v1](http://arxiv.org/pdf/2507.17742v1)|null|
+|**2025-07-23**|**Beyond the Dot: an LRD-like nucleus at the Heart of an IR-Bright Galaxy and its implications for high-redshift LRDs**|Pierluigi Rinaldi et.al.|[2507.17738v1](http://arxiv.org/abs/2507.17738v1)|[2507.17738v1](http://arxiv.org/pdf/2507.17738v1)|null|
+|**2025-07-23**|**Inflation from a generalized exponential plateau: towards extra suppressed tensor-to-scalar ratios**|Gerasimos Kouniatalis et.al.|[2507.17721v1](http://arxiv.org/abs/2507.17721v1)|[2507.17721v1](http://arxiv.org/pdf/2507.17721v1)|null|
+|**2025-07-23**|**Prediction of Apophis's deformation-driven rotational evolution during its closest encounter to the Earth in 2029**|Masatoshi Hirabayashi et.al.|[2507.17710v1](http://arxiv.org/abs/2507.17710v1)|[2507.17710v1](http://arxiv.org/pdf/2507.17710v1)|null|
+|**2025-07-23**|**Do Multi-Structural One-Off FRBs Trace Similar Cosmology History with Repeaters?**|Yu-Hao Zhu et.al.|[2507.17708v1](http://arxiv.org/abs/2507.17708v1)|[2507.17708v1](http://arxiv.org/pdf/2507.17708v1)|null|
+|**2025-07-23**|**The Small Separation A-Star Companion Population: Tentative Signatures of Enhanced Multiplicity with Primary Mass**|Matthew De Furio et.al.|[2507.17705v1](http://arxiv.org/abs/2507.17705v1)|[2507.17705v1](http://arxiv.org/pdf/2507.17705v1)|null|
+|**2025-07-23**|**A narrowband burst from FRB 20190520B simultaneously observed by FAST and Parkes**|Yuhao Zhu et.al.|[2507.17696v1](http://arxiv.org/abs/2507.17696v1)|[2507.17696v1](http://arxiv.org/pdf/2507.17696v1)|null|
+|**2025-07-23**|**Estimating the baryon fraction in the IGM from well-localized FRBs and DESI data**|Thais Lemos et.al.|[2507.17693v1](http://arxiv.org/abs/2507.17693v1)|[2507.17693v1](http://arxiv.org/pdf/2507.17693v1)|null|
+|**2025-07-23**|**Mapping ground-based coronagraphic images to Helioprojective-Cartesian coordinate system by image registration**|Feiyang Sha et.al.|[2507.17670v1](http://arxiv.org/abs/2507.17670v1)|[2507.17670v1](http://arxiv.org/pdf/2507.17670v1)|null|
 |**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817v1](http://arxiv.org/abs/2507.16817v1)|[2507.16817v1](http://arxiv.org/pdf/2507.16817v1)|null|
 |**2025-07-22**|**Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**|Calvin Leung et.al.|[2507.16816v1](http://arxiv.org/abs/2507.16816v1)|[2507.16816v1](http://arxiv.org/pdf/2507.16816v1)|null|
 |**2025-07-22**|**Primordial black holes with anisotropic hair**|Chong-Bin Chen et.al.|[2507.16807v1](http://arxiv.org/abs/2507.16807v1)|[2507.16807v1](http://arxiv.org/pdf/2507.16807v1)|null|
@@ -7597,6 +7607,16 @@ layout: default
 
 | Publish Date | Title | Authors | Abstract | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-23**|**Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility**|Melih Barsbey et.al.|[2507.17748v1](http://arxiv.org/abs/2507.17748v1)|[2507.17748v1](http://arxiv.org/pdf/2507.17748v1)|null|
+|**2025-07-23**|**Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks**|Linbo Cao et.al.|[2507.17747v1](http://arxiv.org/abs/2507.17747v1)|[2507.17747v1](http://arxiv.org/pdf/2507.17747v1)|null|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746v1](http://arxiv.org/abs/2507.17746v1)|[2507.17746v1](http://arxiv.org/pdf/2507.17746v1)|null|
+|**2025-07-23**|**Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention**|Yiwen Chen et.al.|[2507.17745v1](http://arxiv.org/abs/2507.17745v1)|[2507.17745v1](http://arxiv.org/pdf/2507.17745v1)|null|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744v1](http://arxiv.org/abs/2507.17744v1)|[2507.17744v1](http://arxiv.org/pdf/2507.17744v1)|null|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731v1](http://arxiv.org/abs/2507.17731v1)|[2507.17731v1](http://arxiv.org/pdf/2507.17731v1)|null|
+|**2025-07-23**|**Online Submission and Evaluation System Design for Competition Operations**|Zhe Chen et.al.|[2507.17730v1](http://arxiv.org/abs/2507.17730v1)|[2507.17730v1](http://arxiv.org/pdf/2507.17730v1)|null|
+|**2025-07-23**|**Deep Generative Learning of Magnetic Frustration in Artificial Spin Ice from Magnetic Force Microscopy Images**|Arnab Neogi et.al.|[2507.17726v1](http://arxiv.org/abs/2507.17726v1)|[2507.17726v1](http://arxiv.org/pdf/2507.17726v1)|null|
+|**2025-07-23**|**On the Interaction of Compressibility and Adversarial Robustness**|Melih Barsbey et.al.|[2507.17725v1](http://arxiv.org/abs/2507.17725v1)|[2507.17725v1](http://arxiv.org/pdf/2507.17725v1)|null|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718v1](http://arxiv.org/abs/2507.17718v1)|[2507.17718v1](http://arxiv.org/pdf/2507.17718v1)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815v1](http://arxiv.org/abs/2507.16815v1)|[2507.16815v1](http://arxiv.org/pdf/2507.16815v1)|null|
 |**2025-07-22**|**MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning**|Run-Ze Fan et.al.|[2507.16812v1](http://arxiv.org/abs/2507.16812v1)|[2507.16812v1](http://arxiv.org/pdf/2507.16812v1)|null|
 |**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808v1](http://arxiv.org/abs/2507.16808v1)|[2507.16808v1](http://arxiv.org/pdf/2507.16808v1)|null|
